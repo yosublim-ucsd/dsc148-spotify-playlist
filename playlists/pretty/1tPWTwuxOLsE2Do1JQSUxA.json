@@ -1,12 +1,12 @@
 {
   "description": "Get nostalgic with all the summer hits and bangers you'll need. From Beyonc\u00e9, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....",
-  "num_followers": 463317,
+  "num_followers": 463290,
   "original_name": "2010s Summer Pop Throwbacks \u2600\ufe0f\ud83e\udda9\ud83c\udf34",
   "owner": {
     "name": "Filtr UK",
     "url": "https://open.spotify.com/user/sonymusicuk"
   },
-  "snapshot_id": "AAAMnSSFDtx/MvhDW6C+T4m/OIusTcUw",
+  "snapshot_id": "AAAMnqljYTUFwCymgJ/kEXm2JE1sx1D0",
   "tracks": [
     {
       "added_at": "2024-08-22 14:45:17",
@@ -4551,6 +4551,26 @@
       "duration_ms": 145588,
       "name": "SKELETONS",
       "url": "https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl"
+    },
+    {
+      "added_at": "2024-08-23 13:06:54",
+      "album": {
+        "name": "That Girl (Sped Up)",
+        "url": "https://open.spotify.com/album/3lUD3Fp7dIo0x4KRQbJtjt"
+      },
+      "artists": [
+        {
+          "name": "Olly Murs",
+          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        }
+      ],
+      "duration_ms": 135933,
+      "name": "That Girl (Sped Up)",
+      "url": "https://open.spotify.com/track/7JdvmDLR3EKyXU7Yl9huZA"
     }
   ],
   "unique_name": "2010s Summer Pop Throwbacks \u2600\ufe0f\ud83e\udda9\ud83c\udf34",

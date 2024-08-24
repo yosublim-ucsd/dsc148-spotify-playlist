@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-296 songs - 16 hr 26 min
+299 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Call My Name](https://open.spotify.com/track/3RUi4rBDYospTGr92P7Xin) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Call My Name](https://open.spotify.com/album/0DtFQfEdnLy29pxYoizSgn) | 3:21 | 2021-12-06 | 2023-08-16 |
 | [Can I](https://open.spotify.com/track/1H1ODNzLPam5SjmSOOChyU) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Catching Rabbits](https://open.spotify.com/album/2OZngTNbmegPhnUPITvkTy) | 3:00 | 2023-08-28 | 2024-07-27 |
 | [Care For You](https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Care For You](https://open.spotify.com/album/4ENFZsf6OIKxck9I6gUwrk) | 2:36 | 2021-12-06 | 2023-08-16 |
+| [care to care \(feat\. Plumm\)](https://open.spotify.com/track/6Y5J8CemxHISRLDJltDGcH) | [Marysia Osu](https://open.spotify.com/artist/0drclFaX2CCeuqnT5cfCY1), [Plumm](https://open.spotify.com/artist/17goxueRDomjijRHKaaQpT) | [care to care \(feat\. Plumm\)](https://open.spotify.com/album/19mftJ6Xm0m4plxo3backy) | 3:03 | 2024-08-23 |  |
 | [Chamomile](https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Chamomile](https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P) | 3:07 | 2024-03-08 |  |
 | [Chlorine \- Alternative Mix](https://open.spotify.com/track/3ZQgFtjJtmvUZZ8K5OBqIN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Chlorine \(Alternative Mix\)](https://open.spotify.com/album/5gPTivcCK6JfPNZqoAzP2O) | 3:11 | 2021-12-09 | 2023-08-16 |
 | [Climb On Your Tears \(feat\. Aoife O'Donovan\)](https://open.spotify.com/track/0AQK1WPoRCTtgW5dHpKKdn) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Climb On Your Tears \(feat\. Aoife O'Donovan\)](https://open.spotify.com/album/6hFKaZKTX3xGT62fnj3Ikn) | 6:04 | 2021-12-06 | 2023-08-16 |
@@ -66,6 +67,7 @@
 | [Dive](https://open.spotify.com/track/7te6nkHtZX3Bucz0NY3Doq) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 3:59 | 2024-04-26 |  |
 | [Do You](https://open.spotify.com/track/2tO1RrlOXyZAMqB0wDybXf) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [I Get Into Trouble](https://open.spotify.com/album/3O5mTnbeK3XcovZV49vOAd) | 4:08 | 2023-10-14 |  |
 | [Don't Let Me Down](https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Don't Let Me Down](https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU) | 3:55 | 2023-08-15 | 2023-08-29 |
+| [Don’t Smile](https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:26 | 2024-08-23 |  |
 | [Down Bad](https://open.spotify.com/track/1kbEbBdEgQdQeLXCJh28pJ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:21 | 2024-06-07 |  |
 | [Dreamer](https://open.spotify.com/track/22arMgKuiDLRBo3uso19S6) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Dreamer](https://open.spotify.com/album/3lxmDYMwjQUw1ilmhuUmED) | 3:42 | 2024-07-26 |  |
 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-26 |  |
@@ -85,6 +87,7 @@
 | [Fall into You](https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dancing In The Dark](https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF) | 2:38 | 2023-08-15 | 2023-08-29 |
 | [False Perspectives](https://open.spotify.com/track/1cJonqwsfQM4ciVtNFyrAd) | [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [False Perspectives](https://open.spotify.com/album/52wbuXA4ebA6qfbzagkPly) | 2:32 | 2023-10-06 | 2024-06-15 |
 | [Fantasy](https://open.spotify.com/track/4rAYSa93NeffeWcCgKMhGJ) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Fantasy](https://open.spotify.com/album/5jIrySgqcujIymK4NxYoWU) | 4:58 | 2023-08-28 | 2024-06-15 |
+| [Feel Better](https://open.spotify.com/track/1AvD21gCNCSxF0Qxzj2Su6) | [Lulu Simon](https://open.spotify.com/artist/3Z5BbiIldlrLYBVVHKdhYa) | [Feel Better](https://open.spotify.com/album/0tUFOGJeITsBtvbIJZHhDn) | 3:49 | 2024-08-23 |  |
 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 | 2023-08-15 | 2023-08-29 |
 | [Field Guide for the Night Sky](https://open.spotify.com/track/4pEJJLiImZ3FVS7kn6uUHO) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Field Guide for the Night Sky](https://open.spotify.com/album/23HLEZx1iwZEr7StbTAbsZ) | 2:34 | 2021-12-06 | 2023-08-16 |
 | [First Love Song](https://open.spotify.com/track/3vCVIcXgMwj5PdpSFgoVxa) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [First Love Song](https://open.spotify.com/album/2ygtFwFxHv24w6GWITZkkX) | 2:44 | 2023-08-28 | 2024-01-20 |

@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "Bahia Com H",
+        "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264729,
+      "name": "Bahia Com H",
+      "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
+    },
+    {
+      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
       },
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 199866,
       "name": "O Morro Nao Tem Vez",
       "url": "https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB"
@@ -2372,7 +2390,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 187905,
       "name": "Seres Incriveis",
       "url": "https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW"
@@ -2402,6 +2420,24 @@
       "duration_ms": 291729,
       "name": "Sorte!",
       "url": "https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA"
+    },
+    {
+      "album": {
+        "name": "Fim,",
+        "url": "https://open.spotify.com/album/13FYpAYfMYHbOtIl4D3Nah"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "Sos",
+      "url": "https://open.spotify.com/track/0EwkDFJhV8AyA8GxZQlSaE"
     },
     {
       "album": {

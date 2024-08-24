@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The most flammable playlist ever. Megan Thee Stallion spitting fire \ud83d\udd25",
+  "description": "The most flammable playlist ever. Travis Scott spitting fire \ud83d\udd25",
   "name": "DOPE.",
   "tracks": [
     {
@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 199741,
       "name": "Accent (feat. GloRilla)",
       "url": "https://open.spotify.com/track/0i1LliXxuipWRboFGpS2gG"
@@ -228,7 +228,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 196394,
       "name": "ALL TEN (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/5jol33TYJ3H5v5zRD9fOtv"
@@ -3817,6 +3817,32 @@
     },
     {
       "album": {
+        "name": "Murderman (feat. LAZER DIM 700 & VonOff1700)",
+        "url": "https://open.spotify.com/album/4B1LLdiQmOjJl1EjnjTZke"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166274,
+      "name": "Murderman (feat. LAZER DIM 700 & VonOff1700)",
+      "url": "https://open.spotify.com/track/6xUjsKn8CsjmEKR6iwv4Mt"
+    },
+    {
+      "album": {
         "name": "My All",
         "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
       },
@@ -4963,6 +4989,28 @@
     },
     {
       "album": {
+        "name": "Run It Up (feat. BossMan Dlow)",
+        "url": "https://open.spotify.com/album/0c7tO5okH4eQPaxD6TM7V2"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191925,
+      "name": "Run It Up (feat. BossMan Dlow)",
+      "url": "https://open.spotify.com/track/1bpHOhTahBPeL08SVrxvjc"
+    },
+    {
+      "album": {
         "name": "Sad & Alone",
         "url": "https://open.spotify.com/album/4N4Y9kPh3kC3Ijb4Aa591Q"
       },
@@ -5072,6 +5120,28 @@
       "duration_ms": 157125,
       "name": "SkeeYee",
       "url": "https://open.spotify.com/track/7icwQvajsokotDfM3tefW6"
+    },
+    {
+      "album": {
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314423,
+      "name": "Skyfall (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT"
     },
     {
       "album": {

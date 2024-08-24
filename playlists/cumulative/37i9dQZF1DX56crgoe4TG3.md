@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Rhonda Vincent
 
-285 songs - 18 hr 29 min
+286 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Low](https://open.spotify.com/track/777LkVsyeIirHbJUjm2JHf) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev) | 4:14 | 2021-08-20 | 2022-07-29 |
 | [Lucy in the Sky With Diamonds](https://open.spotify.com/track/4LOf8epMgZYgYJrt1CesTp) | [Bill Evans](https://open.spotify.com/artist/0kM18IEgG0cwxgfJRj7xFF) | [In Good Company](https://open.spotify.com/album/19tknRni9ciIV9pVGdZbTr) | 1:18 | 2021-08-20 | 2023-08-12 |
 | [Luxury Liner](https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Five For Silver](https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr) | 3:18 | 2024-08-16 |  |
+| [Mad World](https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Mad World](https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH) | 5:02 | 2024-08-23 |  |
 | [Maple Leaf Rag](https://open.spotify.com/track/4djgZz36Jx4Oz3hv8LXEA8) | [Waterhouse](https://open.spotify.com/artist/25PniBi23b8oE5BXVRBp4S) | [Maple Leaf Rag](https://open.spotify.com/album/3KkTtsG3XwyprW9uH6xkhU) | 3:43 | 2022-10-07 | 2023-05-14 |
 | [Me & Bobby McGee](https://open.spotify.com/track/4h6O4vjM9uxRi7otTQbFOk) | [Mac Wiseman](https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly) | [Legends of Bluegrass \( 1971\)](https://open.spotify.com/album/1hTzont8ul4NJtSqup8m2w) | 3:18 | 2022-04-29 | 2022-08-10 |
 | [Me and Bobby McGee \(2024 Mix\)](https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh) | [Tompall & The Glaser Brothers](https://open.spotify.com/artist/5bv06lZROKdyVlOlCnr2py) | [Me and Bobby McGee \(2024 Mix\)](https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV) | 6:36 | 2024-05-10 |  |

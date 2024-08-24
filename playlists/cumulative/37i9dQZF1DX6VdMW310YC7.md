@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,662 songs - 4 day 18 hr 2 min
+1,663 songs - 4 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Double Reflections](https://open.spotify.com/track/0EgZtK84Zp5R5vdFvxiVUn) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Double Reflections](https://open.spotify.com/album/4a4ko7jDduX8nERKBP9o28) | 4:16 | 2024-07-12 |  |
 | [Down](https://open.spotify.com/track/3o3OvVUrJeRefep6zMDpH7) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn), [MidnightSun](https://open.spotify.com/artist/7LvDaiMjUn5YgZPX3MEwf1) | [Down](https://open.spotify.com/album/5W23C2gErmU9mf8BHEPdhr) | 3:14 | 2024-03-01 |  |
 | [Dreamer's Wake](https://open.spotify.com/track/320ePMZ8X0ugeffZk0wNzY) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/1BI2mpiBt99NlNvLka4QhG) | 5:04 | 2020-02-29\* | 2020-03-16 |
-| [Dreamers](https://open.spotify.com/track/0IFjoiGX4xtKNaUdz53rII) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Dreamers](https://open.spotify.com/album/1jfKcpOdA9589c3GMqRu3G) | 4:22 | 2024-06-21 |  |
+| [Dreamers](https://open.spotify.com/track/0IFjoiGX4xtKNaUdz53rII) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Dreamers](https://open.spotify.com/album/1jfKcpOdA9589c3GMqRu3G) | 4:22 | 2024-06-21 | 2024-08-24 |
 | [Dreaming](https://open.spotify.com/track/6CwaYw74Ba0TbvsUyrBIGL) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Tailor](https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH) | [Dreaming](https://open.spotify.com/album/6oL3A2JHKBTyHl49aFOei2) | 4:45 | 2022-05-06 | 2022-12-29 |
 | [Dreamy](https://open.spotify.com/track/1urgY6TIWJurv3vtUHaiBM) | [Lövestad](https://open.spotify.com/artist/14ObPnLzYAKSBPZzQ9Va3e) | [You Don't Have to Run](https://open.spotify.com/album/1qf2ggCVXFlIIBozEb9hPp) | 4:01 | 2020-11-07 | 2020-11-20 |
 | [Dreamy](https://open.spotify.com/track/42AEBg2mJ3xV0oJvQXlMgQ) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Light of My Life](https://open.spotify.com/album/6sGB0qJBmsILPKj7w6dmKE) | 5:43 | 2020-03-20 | 2021-01-23 |
@@ -450,6 +450,7 @@
 | [Falling](https://open.spotify.com/track/6JmRVEBNPIxEtAXWKPSsi5) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Carly Paige](https://open.spotify.com/artist/047WXnK2tIG3FGth7FyXaK) | [Falling](https://open.spotify.com/album/5hXasfS8x3j028u1O3B9yj) | 3:25 | 2020-03-17 | 2022-01-13 |
 | [Falling](https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Falling](https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz) | 3:44 | 2024-03-22 |  |
 | [Falling \- Duke Dumont Remix](https://open.spotify.com/track/2gDn5QtHuUrN4qykGcyEXk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Falling](https://open.spotify.com/album/78fdgPy1jMWv2qxs53lXVI) | 5:34 | 2020-05-22 | 2020-07-03 |
+| [Falling Apart](https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr) | [ERIICE](https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC), [Adlin](https://open.spotify.com/artist/2CajdJ3ifpA7VEWcfNuUwT) | [Falling Apart](https://open.spotify.com/album/5D2GjMDraXQrdHtSflss9h) | 2:52 | 2024-08-23 |  |
 | [Falling Back](https://open.spotify.com/track/1IQIzH150iF2R5NaBRyGAG) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Falling Back](https://open.spotify.com/album/5YtbuCRyDgcFhczoXr7KQR) | 4:21 | 2022-10-28 | 2023-04-09 |
 | [Falling Fire](https://open.spotify.com/track/4oHR6G7xfAqn0fL63QREbF) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Falling Fire](https://open.spotify.com/album/4AKB3lrLFQFpw8h2tM6wRm) | 3:28 | 2020-11-13 | 2022-10-01 |
 | [Falling In Love \- Klahr Retouch](https://open.spotify.com/track/2OBnKKfUuxQcQ5qbrIojem) | [Klahr](https://open.spotify.com/artist/3OITAuZNhf2Z9DySHJsCKD) | [Falling In Love](https://open.spotify.com/album/2t5BCAT5CuJquy6RZ2vEsW) | 3:38 | 2020-03-18 | 2020-07-18 |

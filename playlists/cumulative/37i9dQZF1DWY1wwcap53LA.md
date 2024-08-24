@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: Michael Warren
 
-209 songs - 10 hr 47 min
+210 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Come On With It](https://open.spotify.com/track/670avKEDoIrvyoLOgNJF7m) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [Come On With It](https://open.spotify.com/album/5xPnmT5CGuQp1E0vxPXveO) | 2:37 | 2022-06-17 | 2024-04-23 |
 | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/track/6SyYYyVnwYD7ovF5CdMOJp) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Cool Again \(feat\. Nelly\)](https://open.spotify.com/album/0D4IyhPBtTywxvZxbspqwW) | 2:55 | 2021-12-03 | 2022-01-15 |
 | [Cottonmouth](https://open.spotify.com/track/5xDEoJdz8iW75JKYeFX9uH) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Cottonmouth](https://open.spotify.com/album/4vXr75Mz2JyIdwwh0gKz0F) | 2:34 | 2022-09-23 | 2024-04-23 |
+| [Couldn't Be Me](https://open.spotify.com/track/56wsU1rsd1bpIlzbe036yA) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Couldn't Be Me](https://open.spotify.com/album/0ELsFkeYClGBR66JRdonU7) | 2:48 | 2024-08-23 |  |
 | [Country Club](https://open.spotify.com/track/7AEw4J42zlyufYBfi64YgP) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Country Club](https://open.spotify.com/album/1SPUlFiGVdkObmhRJ8sjkS) | 2:20 | 2023-06-23 |  |
 | [Country Girl Commandments](https://open.spotify.com/track/0wqjEtWb4TBwsJQnnUu7GM) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Country Girl Commandments](https://open.spotify.com/album/3CcY5dnfmGY8m1g8SIIR4G) | 2:59 | 2021-12-03 | 2024-04-23 |
 | [Country Music Kinda Night](https://open.spotify.com/track/4Wf8kPwQBV8cHnsqL5pv6S) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Country Music Kinda Night](https://open.spotify.com/album/2pe1UpOt2v11m1ZhsDH47S) | 2:51 | 2023-02-17 | 2024-04-23 |
@@ -82,7 +83,7 @@
 | [Hold My Horses](https://open.spotify.com/track/5pwDpOxc2zs0XbgZJ0CyRn) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Madeline Edwards](https://open.spotify.com/album/7Fx0BQdGfBZUHWyquaMJkD) | 3:00 | 2022-07-22 | 2022-10-09 |
 | [Hold My Horses](https://open.spotify.com/track/6JNxXz032aM8zcSHQAWiVv) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Hold My Horses](https://open.spotify.com/album/47OPSr5UHAyc2XG4M9utmq) | 3:00 | 2022-10-07 | 2022-11-07 |
 | [Home To Me](https://open.spotify.com/track/6F1AuPmYBgnw4PTmkYcAH6) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Home To Me](https://open.spotify.com/album/7v2tm5nZRqoMtAnEy6o7Ao) | 3:39 | 2023-02-17 | 2024-04-19 |
-| [Home To Me](https://open.spotify.com/track/7y32pxojOyp2FEFEOCKbtF) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Home To Me](https://open.spotify.com/album/4QY2mg5YCs0t1RzhXNLcLj) | 3:39 | 2021-12-03 |  |
+| [Home To Me](https://open.spotify.com/track/7y32pxojOyp2FEFEOCKbtF) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Home To Me](https://open.spotify.com/album/4QY2mg5YCs0t1RzhXNLcLj) | 3:39 | 2021-12-03 | 2024-08-24 |
 | [Hotel Room](https://open.spotify.com/track/1FjckLnuFco5WJfDJxcwCp) | [Tony Evans Jr.](https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE) | [Hotel Room](https://open.spotify.com/album/03UE0Y5Ue0RZISeXN8cqPq) | 2:31 | 2023-12-08 | 2024-04-19 |
 | [Hotel Room](https://open.spotify.com/track/1owUVU4Hg4Qqb6sn6wnVid) | [Tony Evans Jr.](https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE) | [Hotel Room](https://open.spotify.com/album/2SoyvUgq6doxWrBW45q1E8) | 2:31 | 2022-05-20 |  |
 | [How You Love Someone](https://open.spotify.com/track/56XDLBRNjRSnQnwlWTuwKh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [How You Love Someone](https://open.spotify.com/album/5E3d726Sw4jFs5PPiDe5Du) | 4:25 | 2022-10-07 | 2024-04-23 |

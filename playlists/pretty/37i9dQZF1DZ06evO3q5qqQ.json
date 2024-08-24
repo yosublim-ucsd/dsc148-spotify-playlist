@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 109478,
+  "num_followers": 109498,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAAhqJqSWEd2/bVsaw0cvX+Q",
+  "snapshot_id": "ZsZ/gAAAAACx2Sj8QLXSYuvQVC6tvFwr",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189504,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya No Puedo Con Esto",
         "url": "https://open.spotify.com/album/1gQGMkX2XzsUL0NUUNExEX"
       },
@@ -303,6 +319,22 @@
       "duration_ms": 149951,
       "name": "Ya No Puedo Con Esto",
       "url": "https://open.spotify.com/track/6YiEFOjKbysQ3TzGelUikS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "El Yuko (En vivo)",
+      "url": "https://open.spotify.com/track/2lc60LnmhcgHEPkEabgmMs"
     },
     {
       "added_at": null,
@@ -327,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puras De Servando ZL, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "El Yuko (En vivo)",
-      "url": "https://open.spotify.com/track/2lc60LnmhcgHEPkEabgmMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta La Caja Cuesta",
         "url": "https://open.spotify.com/album/4u0jPQcfzJhe0a9kwSspky"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 173760,
       "name": "Hasta La Caja Cuesta",
       "url": "https://open.spotify.com/track/6Wh9RDEd5wjWETZNWkwt1F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 189504,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. The Warning en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Peces Raros en Portada.
 
-490 songs - 1 day 5 hr 7 min
+492 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Baby Don't You Love Me \- Bonus Track](https://open.spotify.com/track/59Tnq0bVlPkMtHt3m35XgL) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj), [Kate Clover](https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5) | [Ghost In The Machine](https://open.spotify.com/album/5DB06kLqIbFneddTadfbGH) | 3:06 | 2022-09-02 | 2022-10-02 |
 | [Bandeja De Entrada](https://open.spotify.com/track/5Et71CttzokckI55hp8Mkv) | [MEELT](https://open.spotify.com/artist/2zLI8fALCE5nBtKcvzqXY3) | [+52 55 6461 7366](https://open.spotify.com/album/6aGlwLCVlWRtWJ9T1E7TtI) | 4:18 | 2022-04-12 | 2022-06-21 |
 | [Billie Max](https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:54 | 2023-03-24 | 2023-07-08 |
+| [Bomba Casera](https://open.spotify.com/track/5OzCaZtDyuYfHvEqybo9fL) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Bomba Casera](https://open.spotify.com/album/7EmUyHOzD1wAvPkn6wDQ21) | 2:50 | 2024-08-23 |  |
 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 | 2022-02-21 | 2024-05-04 |
 | [Brújula](https://open.spotify.com/track/1VhoDw3C8fgncrOliUMmqo) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Brújula](https://open.spotify.com/album/4SFSnrvdW1hIqUPR3qLobz) | 4:12 | 2021-12-17 |  |
 | [Buena Cara](https://open.spotify.com/track/5Xp3EUWiKRdjfhXuiV7uU4) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Buena Cara](https://open.spotify.com/album/5deaapMZqDEB7DJjENNOJx) | 3:55 | 2024-01-26 | 2024-05-11 |
@@ -236,7 +237,7 @@
 | [La Última Vez](https://open.spotify.com/track/521P7D3Rg0qIddJYHEtYrm) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [La Última Vez](https://open.spotify.com/album/0ChN0eEv5QQ312SZdNwLIz) | 3:37 | 2022-02-25 | 2022-08-19 |
 | [Laberinto](https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Luis Humberto Navejas](https://open.spotify.com/artist/7KSYCds3IeHtit1aYZZR4A) | [Laberinto](https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo) | 4:31 | 2024-07-05 |  |
 | [Laberintos \- Soundtrack: Un Tributo a División Minúscula](https://open.spotify.com/track/1KAzKQ1pw02pgvgEyy7pld) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Laberintos \(Soundtrack: Un Tributo a División Minúscula\)](https://open.spotify.com/album/32IfqJrUNlSUhRvIb9CiHl) | 3:01 | 2024-07-12 |  |
-| [Lagrimas de Sal](https://open.spotify.com/track/3Iau7Oh49UqO5AE041BuME) | [Joven Tom](https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP) | [Lagrimas de Sal](https://open.spotify.com/album/3nPRQOSD4ix6l3zMSExdEr) | 3:17 | 2024-07-19 |  |
+| [Lagrimas de Sal](https://open.spotify.com/track/3Iau7Oh49UqO5AE041BuME) | [Joven Tom](https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP) | [Lagrimas de Sal](https://open.spotify.com/album/3nPRQOSD4ix6l3zMSExdEr) | 3:17 | 2024-07-19 | 2024-08-24 |
 | [Lastímame](https://open.spotify.com/track/6bFrs6WlBhAXEk5vt9Me7f) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [Lastímame](https://open.spotify.com/album/1vQ73pnVX7bZqlsOstIr1h) | 3:34 | 2022-09-30 | 2024-02-10 |
 | [Lattice](https://open.spotify.com/track/4MNPF36soeinIWw2D5QbmM) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Lattice](https://open.spotify.com/album/47Z38eMy7Ggl15Xmlhz6QM) | 4:24 | 2023-03-10 | 2023-06-17 |
 | [Lejos](https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [El Eco Eterno](https://open.spotify.com/album/5dIDiTOK58RdCmNc5DwlO5) | 3:07 | 2023-09-22 | 2023-10-28 |
@@ -277,6 +278,7 @@
 | [Me Cansé](https://open.spotify.com/track/6fbEx1uVW5uLzeUdfcgZ2Z) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Me Cansé](https://open.spotify.com/album/5E5NaXKPK3LZTLkOtL5USb) | 3:19 | 2024-01-12 | 2024-06-22 |
 | [Me Gustan Tus Pies](https://open.spotify.com/track/5fcMptVw16W2ITNZG8203u) | [Joven Tom](https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP) | [Putas Canciones](https://open.spotify.com/album/6HGjfn7XpPRmRVAzlktFmF) | 2:34 | 2024-08-09 |  |
 | [Me Haces Sonreír](https://open.spotify.com/track/5WC0OIk0R1cJIxEHeElAaJ) | [Niña ](https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc) | [Me Haces Sonreír](https://open.spotify.com/album/1V6m77XJ6uBSDCqQ9dbhTB) | 3:19 | 2023-03-17 | 2023-10-21 |
+| [Me has invitado a bailar](https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Me has invitado a bailar](https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp) | 3:12 | 2024-08-23 |  |
 | [Me la Pelas](https://open.spotify.com/track/3lSqRMbUmnQqxbLbxj0t5x) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [Me la Pelas](https://open.spotify.com/album/6pB4owcjhJldY4FzYcsm7O) | 2:36 | 2023-02-10 | 2023-02-22 |
 | [Me Sobra la Plata](https://open.spotify.com/track/3igxC0qw663Ip91fIwrU8q) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Me Sobra la Plata](https://open.spotify.com/album/3QeJmMXRGITqC7dARLP7Xy) | 3:44 | 2021-12-17 | 2022-04-30 |
 | [Medalla de Oro](https://open.spotify.com/track/2wEQksM7haYpwSXPuHR6Lb) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Medalla de Oro](https://open.spotify.com/album/138ThWg8gQiGFqprVhXy3e) | 5:40 | 2023-03-03 | 2023-03-10 |
@@ -473,7 +475,7 @@
 | [Veneno](https://open.spotify.com/track/24L7z0NN7h2Na2Dn5ckdIV) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Veneno](https://open.spotify.com/album/43aKWfRS65Whr7j0tXhUkc) | 2:27 | 2023-05-26 | 2023-06-24 |
 | [Veneno](https://open.spotify.com/track/10c6GaQyw1CoKvF2QGRqaO) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Veneno](https://open.spotify.com/album/6bBafJZObivPsQ2ocLS7oT) | 3:19 | 2021-12-17 | 2022-07-02 |
 | [Venus](https://open.spotify.com/track/1h8YWUXSUn9PMbARBOeJXe) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Venus](https://open.spotify.com/album/6gzn0iqicLtUSVKWW0rfqH) | 3:40 | 2022-07-15 | 2022-07-30 |
-| [Verano Todo el Año](https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Verano Todo El Año](https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l) | 2:44 | 2024-08-09 |  |
+| [Verano Todo el Año](https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Verano Todo El Año](https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l) | 2:44 | 2024-08-09 | 2024-08-24 |
 | [Vespa](https://open.spotify.com/track/7INcpSg0DEDdtm5DWmmYX9) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Vespa](https://open.spotify.com/album/2map2oGnNT48ExwHCy5juA) | 3:29 | 2022-07-29 | 2022-08-10 |
 | [Vida En El Espejo](https://open.spotify.com/track/2yThUakfNYwaToGaKJxKEK) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Imperfecto Extraño](https://open.spotify.com/album/1xWHQFcS9qDf0cXX6NXcPK) | 4:25 | 2024-02-09 |  |
 | [Viento A Favor](https://open.spotify.com/track/6ZY0NXWum4aktAB9WHiWVW) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viento A Favor](https://open.spotify.com/album/63ucox09YcIhZ88girC44I) | 4:12 | 2024-06-21 |  |

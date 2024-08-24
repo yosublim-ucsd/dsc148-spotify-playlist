@@ -4,7 +4,7 @@
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-116 songs - 6 hr 53 min
+117 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Losken Roland](https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Losken Roland](https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6) | 2:20 | 2024-04-19 |  |
 | [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/48qllQaUjZZOijgvJrHtag) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 | 2024-06-06 |  |
 | [Ma Vie](https://open.spotify.com/track/5DMWjLDck4h90C61FPwKWt) | [Valerianä](https://open.spotify.com/artist/31eD4Jy2jTXFosFfrnaVgs) | [Ma Vie](https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8) | 2:32 | 2023-08-10 |  |
+| [Malavida](https://open.spotify.com/track/0nT0edIVdtias9fqmnfMam) | [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi) | [No me hagas seguir](https://open.spotify.com/album/5JEMIvsiLPtlfH4utviZOM) | 2:41 | 2024-08-23 |  |
 | [Mar](https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Mar](https://open.spotify.com/album/0TIM64cPYNqIedeY5rNaG2) | 3:58 | 2023-04-28 | 2024-06-29 |
 | [María](https://open.spotify.com/track/570cF2dEppbenkihxtlisz) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [María](https://open.spotify.com/album/7vDmxXUdI5DH2tKSaDrJ0m) | 2:50 | 2023-08-10 | 2024-04-19 |
 | [Mi Testamento](https://open.spotify.com/track/5H1YlKQ0an6BAH8BOVUqKe) | [The Negro Tapes](https://open.spotify.com/artist/40xzVnQCJdpsXjcNZRoAi4), [Danna Oh](https://open.spotify.com/artist/1lYaT2lLXf7J2zSOz3tmm2) | [Mi Testamento](https://open.spotify.com/album/6tWfukNvIHq6dPW6M8ymQO) | 3:25 | 2024-06-28 |  |

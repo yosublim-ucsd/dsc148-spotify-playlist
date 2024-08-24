@@ -4,7 +4,7 @@
 
 > where folk flowers bloom 🍃 cover: Shawn Mendes
 
-312 songs - 18 hr 17 min
+314 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,10 +46,11 @@
 | [Cigarette](https://open.spotify.com/track/2ddFi6kHdtkFtO5Z8gNILu) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Eulogize](https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE) | 3:38 | 2024-01-26 | 2024-04-13 |
 | [Cleopatra](https://open.spotify.com/track/2AXY5WABx7NjWw1zb4qCdc) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/26HAAGfOhnc0CqqcHoaQGD) | 3:21 | 2024-08-20 |  |
 | [Co\-Pathetic](https://open.spotify.com/track/6eI1uc8HMy4SYp133fF94C) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Collapse List](https://open.spotify.com/album/1hh3GhyscEuCplQQL31RtB) | 3:55 | 2024-04-05 | 2024-05-02 |
+| [Coincidence](https://open.spotify.com/track/0x2c3kWgC2mSS4wItmPmx7) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:44 | 2024-08-23 |  |
 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 | 2023-10-06 | 2024-05-25 |
 | [Cottontail](https://open.spotify.com/track/0OoubLzXym5JYNHL7PSAHu) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Cottontail](https://open.spotify.com/album/7cYzXEm2pyJDdxGFhnJJDU) | 2:41 | 2024-02-16 | 2024-04-03 |
 | [Cottontail](https://open.spotify.com/track/0d3BExBN8rYm0jyyBfsJst) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 2:41 | 2024-02-16 | 2024-04-06 |
-| [Cowboy](https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Cowboy](https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W) | 3:17 | 2024-05-10 |  |
+| [Cowboy](https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Cowboy](https://open.spotify.com/album/3QmI9nASm8e4IdQzGoaB5W) | 3:17 | 2024-05-10 | 2024-08-24 |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-28 | 2024-07-27 |
 | [Coyote, My Little Brother \- Spotify Singles](https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 3:02 | 2024-03-15 | 2024-04-13 |
 | [Crop Circles](https://open.spotify.com/track/2VOrYcyK0rqa9gZ0gUL0fI) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [Crop Circles](https://open.spotify.com/album/6o8QongKZ7ZPCgy6EYghhC) | 3:46 | 2023-10-06 | 2024-04-06 |
@@ -113,6 +114,7 @@
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-17 |  |
 | [Haunt Me](https://open.spotify.com/track/6CaXh3j2dY8c1fMgxPcTkF) | [Ezra Glatt](https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek) | [Haunt Me](https://open.spotify.com/album/2o5SW9AVHK02aGpjrpJSec) | 1:37 | 2024-08-16 |  |
 | [Have I Ever Been](https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 2:53 | 2023-11-27 | 2024-03-09 |
+| [Heartbreak Rodeo](https://open.spotify.com/track/3pPcEKe8l6kylaLchvQCXU) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Heartbreak Rodeo](https://open.spotify.com/album/0zy1HOwPKMbbHGhYoecsFe) | 3:07 | 2024-08-23 |  |
 | [Heavy Handed](https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Heavy Handed](https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK) | 3:21 | 2023-10-06 | 2024-04-06 |
 | [Hells On The Loose](https://open.spotify.com/track/77PIWpIfC7ZKD0Kz3aJSMZ) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Hells On The Loose](https://open.spotify.com/album/6VVe6qPxOEoHmYdJjNdIfJ) | 4:29 | 2024-05-10 |  |
 | [Highway Queen](https://open.spotify.com/track/3E7z1rLE9rR2rhTW3TeXGo) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Highway Queen](https://open.spotify.com/album/5IDhjEAh7I0P8IXf5YIiiv) | 3:32 | 2024-03-08 |  |

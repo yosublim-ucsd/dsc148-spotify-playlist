@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: <b>Jack White</b>",
+  "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Stand Atlantic",
   "name": "VOLUME",
   "tracks": [
     {
@@ -4314,7 +4314,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 227258,
       "name": "CRIMINAL",
       "url": "https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X"
@@ -7774,7 +7774,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 190264,
       "name": "FRENEMIES",
       "url": "https://open.spotify.com/track/6I7W8UTxONZaAYfeUb0AzE"
@@ -11587,6 +11587,24 @@
     },
     {
       "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/4eMG0IE1T1tko7r7YEa5xE"
+      },
+      "artists": [
+        {
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193969,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/2cbyRKhKPAqCEhBl8OXdAY"
+    },
+    {
+      "album": {
         "name": "Lets Go",
         "url": "https://open.spotify.com/album/7f8VPd0sSK9RaDywtguiqE"
       },
@@ -13953,6 +13971,24 @@
     },
     {
       "album": {
+        "name": "NO HOSTAGES",
+        "url": "https://open.spotify.com/album/4EHZn3KXmNfXDQqE8BU4AO"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "NO HOSTAGES",
+      "url": "https://open.spotify.com/track/1JKl8OJifNb8TKABeeDi7F"
+    },
+    {
+      "album": {
         "name": "No Longer Broken",
         "url": "https://open.spotify.com/album/5YE55mEf1XJJ9RUk0N4w8x"
       },
@@ -14094,6 +14130,28 @@
       "duration_ms": 166854,
       "name": "NOCTURNAL",
       "url": "https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ"
+    },
+    {
+      "album": {
+        "name": "WAS HERE",
+        "url": "https://open.spotify.com/album/57NMtVBwhchO8RyFm0LAfG"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195161,
+      "name": "NOSE BLEED",
+      "url": "https://open.spotify.com/track/5G46r5BatD8I1MRqeSPD8W"
     },
     {
       "album": {
@@ -15998,7 +16056,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 195760,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6buQeGlk47QiPVoPObaZ7x"
@@ -17131,6 +17189,24 @@
     },
     {
       "album": {
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162013,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
+    },
+    {
+      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/3Wh43fDW2Yssfm8dTKmOmr"
       },
@@ -17196,7 +17272,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 330453,
       "name": "Screaming Suicide",
       "url": "https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg"
@@ -21470,6 +21546,24 @@
       "duration_ms": 219400,
       "name": "Under You",
       "url": "https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3"
+    },
+    {
+      "album": {
+        "name": "Underneath",
+        "url": "https://open.spotify.com/album/51FUuHgb1pxNkHymxWHWEI"
+      },
+      "artists": [
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195866,
+      "name": "Underneath",
+      "url": "https://open.spotify.com/track/5oXRvwmwuEuFtnfBtBRwiT"
     },
     {
       "album": {

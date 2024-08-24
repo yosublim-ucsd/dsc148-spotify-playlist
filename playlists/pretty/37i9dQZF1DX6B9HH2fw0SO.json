@@ -1,6 +1,6 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 68458,
+  "num_followers": 68479,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 239508,
+      "name": "Death with Dignity",
+      "url": "https://open.spotify.com/track/4fpEuKIzTLmMJnYwFU0oqr"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
         "name": "Hold My Home",
         "url": "https://open.spotify.com/album/3HkVMTl5OJ9lTN3bDSqeI1"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Carrie & Lowell",
-        "url": "https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 239508,
-      "name": "Death with Dignity",
-      "url": "https://open.spotify.com/track/4fpEuKIzTLmMJnYwFU0oqr"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Multi-Love",
         "url": "https://open.spotify.com/album/587Clxxo1i5flgjvS52bEC"
       },
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1"
+        "name": "Carrie & Lowell",
+        "url": "https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE"
       },
       "artists": [
         {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 264523,
-      "name": "Flesh without Blood",
-      "url": "https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R"
+      "duration_ms": 307697,
+      "name": "Should Have Known Better",
+      "url": "https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs"
     }
   ],
   "unique_name": "Best of Indie 2015",

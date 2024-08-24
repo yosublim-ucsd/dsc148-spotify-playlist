@@ -559,6 +559,24 @@
     },
     {
       "album": {
+        "name": "Better Be Lonely (Alternate Version)",
+        "url": "https://open.spotify.com/album/6HWrCFwkAGNLKp64ZYiHwV"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221956,
+      "name": "Better Be Lonely - Alternate Version",
+      "url": "https://open.spotify.com/track/188FMuwd89UBGCg3itrIXu"
+    },
+    {
+      "album": {
         "name": "Better The Devil You Know",
         "url": "https://open.spotify.com/album/4EcrRDG5UDFHicNrke1DJ8"
       },
@@ -1164,6 +1182,50 @@
       "duration_ms": 229696,
       "name": "Coal Black Mattie",
       "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
+    },
+    {
+      "album": {
+        "name": "Come and Go With Me",
+        "url": "https://open.spotify.com/album/0h0fID6hVtk2OQExdAf5XZ"
+      },
+      "artists": [
+        {
+          "name": "J.D. Simo",
+          "url": "https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg"
+        },
+        {
+          "name": "Luther Dickinson",
+          "url": "https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294840,
+      "name": "Come and Go With Me",
+      "url": "https://open.spotify.com/track/41KfFfGs6eaJv7OxZkKHy0"
+    },
+    {
+      "album": {
+        "name": "Chasing The Sun",
+        "url": "https://open.spotify.com/album/3DYC4feYRD2asF8Hndk5E2"
+      },
+      "artists": [
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303053,
+      "name": "Come To Find Out",
+      "url": "https://open.spotify.com/track/6JAUOcdIdwLQvlw60QKRuW"
     },
     {
       "album": {
@@ -3054,7 +3116,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 199493,
       "name": "I Like It When It's Stormy",
       "url": "https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l"
@@ -4312,7 +4374,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 424626,
       "name": "Mortgage on My Soul",
       "url": "https://open.spotify.com/track/1S7jAIIOqHj4qozrWitFgd"
@@ -4992,7 +5054,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 293293,
       "name": "Protection",
       "url": "https://open.spotify.com/track/5CwHmLRRlwPvhQstLIr0yY"
@@ -5216,6 +5278,24 @@
       "duration_ms": 258293,
       "name": "River Picker",
       "url": "https://open.spotify.com/track/2ig7mP35oEcsraWEz5Mx9S"
+    },
+    {
+      "album": {
+        "name": "Roll On Buddy",
+        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203106,
+      "name": "Roll On Buddy",
+      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
     },
     {
       "album": {
@@ -6240,7 +6320,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 316586,
       "name": "The Ballad of John Howard Griffin",
       "url": "https://open.spotify.com/track/5dR8qA9ivTvVb5ud0OMKDI"

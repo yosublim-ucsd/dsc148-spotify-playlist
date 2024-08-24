@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. The Warning en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Peces Raros en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -830,6 +830,24 @@
       "duration_ms": 174303,
       "name": "Billie Max",
       "url": "https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17"
+    },
+    {
+      "album": {
+        "name": "Bomba Casera",
+        "url": "https://open.spotify.com/album/7EmUyHOzD1wAvPkn6wDQ21"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170999,
+      "name": "Bomba Casera",
+      "url": "https://open.spotify.com/track/5OzCaZtDyuYfHvEqybo9fL"
     },
     {
       "album": {
@@ -4300,7 +4318,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 197685,
       "name": "Lagrimas de Sal",
       "url": "https://open.spotify.com/track/3Iau7Oh49UqO5AE041BuME"
@@ -5048,6 +5066,24 @@
       "duration_ms": 199950,
       "name": "Me Haces Sonre\u00edr",
       "url": "https://open.spotify.com/track/5WC0OIk0R1cJIxEHeElAaJ"
+    },
+    {
+      "album": {
+        "name": "Me has invitado a bailar",
+        "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
+      },
+      "artists": [
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192906,
+      "name": "Me has invitado a bailar",
+      "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
     },
     {
       "album": {
@@ -8810,7 +8846,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 164845,
       "name": "Verano Todo el A\u00f1o",
       "url": "https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7"

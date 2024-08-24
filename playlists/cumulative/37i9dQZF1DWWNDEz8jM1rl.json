@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "\u00a1Vamos a bailar con Dios!",
+  "description": "\u00a1Vamos a bailar con Dios!   Nuestro invitado especial, <a href=\"spotify:artist:6slyJwua5e5GuhuP82sTHR\">Alex Campos</a> nos da su seleccion musical!",
   "name": "Fiesta Cristiana",
   "tracks": [
     {
@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Hollyn",
+          "url": "https://open.spotify.com/artist/2E6Nnh7AAOVajEHHRDALav"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209390,
+      "name": "All About You (feat. Hollyn)",
+      "url": "https://open.spotify.com/track/7dT5PnZbUQcwvdrSpS4FZV"
+    },
+    {
+      "album": {
         "name": "Ante Tus Pies",
         "url": "https://open.spotify.com/album/6gkpLRy39wZf5xX8jGrZY3"
       },
@@ -148,6 +170,24 @@
       "duration_ms": 212968,
       "name": "Ante Tus Pies",
       "url": "https://open.spotify.com/track/2SVIzC2JLC8QZ2wt4Pyis2"
+    },
+    {
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254135,
+      "name": "Antes Que Salga El Sol",
+      "url": "https://open.spotify.com/track/37iDXgCdVy0ut6jfDeHWnp"
     },
     {
       "album": {
@@ -424,6 +464,28 @@
       "duration_ms": 209316,
       "name": "Del Agua Al Cielo",
       "url": "https://open.spotify.com/track/1eDMdg30D6ylaY3cFhKeva"
+    },
+    {
+      "album": {
+        "name": "Del Salmo 23",
+        "url": "https://open.spotify.com/album/5hK6POzhrSwOjmL45i0iVk"
+      },
+      "artists": [
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        },
+        {
+          "name": "Distrito Royal",
+          "url": "https://open.spotify.com/artist/4oMlE314cSHFQYWjIstdK5"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228320,
+      "name": "Del Salmo 23",
+      "url": "https://open.spotify.com/track/0pu2dU13lq6MVr5MYECGRV"
     },
     {
       "album": {
@@ -713,6 +775,24 @@
     },
     {
       "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325651,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/2FMEnOciWcyEmRDTOR5jac"
+    },
+    {
+      "album": {
         "name": "No Hay Nada Imposible",
         "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
       },
@@ -883,6 +963,28 @@
     },
     {
       "album": {
+        "name": "Cuando Todo Se Detiene",
+        "url": "https://open.spotify.com/album/2a15XHOtyoDeGkjtvnyohq"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183645,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/5cbf3IJBVg92YU85Asl6p2"
+    },
+    {
+      "album": {
         "name": "20/20",
         "url": "https://open.spotify.com/album/0LJ2GhneIQZdDuXZtVLAjN"
       },
@@ -916,6 +1018,28 @@
       "duration_ms": 201600,
       "name": "Haremos",
       "url": "https://open.spotify.com/track/3lNGZ37M86ikm5kkEtVlID"
+    },
+    {
+      "album": {
+        "name": "Hermoso Momento",
+        "url": "https://open.spotify.com/album/7kCxwSMiGTbezVMbkBfiHG"
+      },
+      "artists": [
+        {
+          "name": "Kairo Worship",
+          "url": "https://open.spotify.com/artist/0Hsw98UmbwZVh0mFWg0unI"
+        },
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 718153,
+      "name": "Hermoso Momento",
+      "url": "https://open.spotify.com/track/6MbMLtk1m1lAz3nIfuy8WX"
     },
     {
       "album": {
@@ -996,6 +1120,28 @@
       "duration_ms": 217253,
       "name": "Invencible",
       "url": "https://open.spotify.com/track/6bRVHuWfivG1EkMaUdPvZ7"
+    },
+    {
+      "album": {
+        "name": "Somos Iglesia",
+        "url": "https://open.spotify.com/album/4PLfF0JPfYpAXK2vzjHK4F"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288800,
+      "name": "Jesucristo Basta",
+      "url": "https://open.spotify.com/track/6XgnLNskskRPjdfa3CyKGA"
     },
     {
       "album": {
@@ -1155,6 +1301,28 @@
     },
     {
       "album": {
+        "name": "Generacion Radical",
+        "url": "https://open.spotify.com/album/37hs4ExtExEwQeuVsfdxfT"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295998,
+      "name": "Libre Soy (feat. Alex Campos)",
+      "url": "https://open.spotify.com/track/78jFL7f7KpUdOc14RQ3mtt"
+    },
+    {
+      "album": {
         "name": "Lo M\u00edo Es Tuyo",
         "url": "https://open.spotify.com/album/4m8562lRDuyOM3SdOr3pr0"
       },
@@ -1170,6 +1338,24 @@
       "duration_ms": 185210,
       "name": "Lo M\u00edo Es Tuyo",
       "url": "https://open.spotify.com/track/2tPIEUQ8AxHdukWLUug8Ih"
+    },
+    {
+      "album": {
+        "name": "Proezas",
+        "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269746,
+      "name": "Los Muros Caer\u00e1n",
+      "url": "https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW"
     },
     {
       "album": {
@@ -1399,6 +1585,28 @@
     },
     {
       "album": {
+        "name": "M\u00e1s De Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189075,
+      "name": "M\u00e1s De Ti - En Vivo",
+      "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
+    },
+    {
+      "album": {
         "name": "NADA QUE TEMER",
         "url": "https://open.spotify.com/album/1QhzHrtufsIm7Wrkx7lzC1"
       },
@@ -1460,6 +1668,24 @@
       "duration_ms": 380571,
       "name": "No Fallar\u00e1 (Remix)",
       "url": "https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15"
+    },
+    {
+      "album": {
+        "name": "Buenas Noticias",
+        "url": "https://open.spotify.com/album/3nldjJssBc5auj4DDZZC6F"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176334,
+      "name": "Olas Del Mar",
+      "url": "https://open.spotify.com/track/4WlQn8EhFqpI8l8cddSQMZ"
     },
     {
       "album": {
@@ -1556,6 +1782,24 @@
       "duration_ms": 225653,
       "name": "Paz En La Tormenta",
       "url": "https://open.spotify.com/track/0vEQ3fQREP0tIObiMfuScP"
+    },
+    {
+      "album": {
+        "name": "DTOX",
+        "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197121,
+      "name": "Pentagrama",
+      "url": "https://open.spotify.com/track/1DofNh9ulHsQkybB81XMPj"
     },
     {
       "album": {
@@ -1679,6 +1923,32 @@
     },
     {
       "album": {
+        "name": "Mi Religi\u00f3n",
+        "url": "https://open.spotify.com/album/3B51aJVMc4N4wUoYzC1JRb"
+      },
+      "artists": [
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215393,
+      "name": "Reforma",
+      "url": "https://open.spotify.com/track/0ZynKUJXgOfv5Fbg2TJLQA"
+    },
+    {
+      "album": {
         "name": "De Todo Un Poco",
         "url": "https://open.spotify.com/album/1gbwzfVXVS8IokMzKOHtcn"
       },
@@ -1712,6 +1982,24 @@
       "duration_ms": 210053,
       "name": "Rumbarengue",
       "url": "https://open.spotify.com/track/4h689d9SNdQ5WbrYcsGtG4"
+    },
+    {
+      "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171703,
+      "name": "Rumbo Pa La Iglesia",
+      "url": "https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz"
     },
     {
       "album": {
@@ -1820,6 +2108,28 @@
       "duration_ms": 263506,
       "name": "Soy Bendecido",
       "url": "https://open.spotify.com/track/3AEQ1HVSghl5odDMaxysNv"
+    },
+    {
+      "album": {
+        "name": "Soldados",
+        "url": "https://open.spotify.com/album/408HP6kZX2afGve443MAyu"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196843,
+      "name": "Soy Soldado",
+      "url": "https://open.spotify.com/track/43NlLkmUO6uW0034qTLvWl"
     },
     {
       "album": {
@@ -1993,6 +2303,24 @@
     },
     {
       "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291112,
+      "name": "Veo Tu Gloria",
+      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
+    },
+    {
+      "album": {
         "name": "Contigo Todo Es Posible",
         "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
       },
@@ -2040,7 +2368,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 224817,
       "name": "Yo Tierra, T\u00fa Semilla",
       "url": "https://open.spotify.com/track/5nMGlYgxdOYT4fPPfwEmYm"

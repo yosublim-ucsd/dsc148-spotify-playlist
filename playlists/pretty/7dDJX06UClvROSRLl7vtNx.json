@@ -1,12 +1,12 @@
 {
   "description": "Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party. For submissions: j-dosch@freenet.de",
-  "num_followers": 72208,
+  "num_followers": 72288,
   "original_name": "Beach Lounge 2024 \ud83c\udf34 IBIZA Summer Chillout",
   "owner": {
     "name": "j-dosch",
     "url": "https://open.spotify.com/user/j-dosch"
   },
-  "snapshot_id": "AABEDRfOJ3osQOjZDurjU40zWJNg2Aj2",
+  "snapshot_id": "AABEFB5FiXkxY0vjXe4fEFli2ygi4jbu",
   "tracks": [
     {
       "added_at": "2023-09-22 10:40:16",
@@ -237,6 +237,26 @@
       "url": "https://open.spotify.com/track/6BZwKBfBHQ5kmsyobhJh8l"
     },
     {
+      "added_at": "2024-08-23 07:26:56",
+      "album": {
+        "name": "Chemicals",
+        "url": "https://open.spotify.com/album/5GV6Kt8uRRdL6ZhLSb0fEL"
+      },
+      "artists": [
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        },
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        }
+      ],
+      "duration_ms": 186589,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/6uflD5CJQvJ5agADZxw50K"
+    },
+    {
       "added_at": "2024-07-08 08:21:09",
       "album": {
         "name": "I Found You",
@@ -275,34 +295,6 @@
       "duration_ms": 136410,
       "name": "Beautiful Day (Take Me Back)",
       "url": "https://open.spotify.com/track/68SdV5sBG4xsj2psJoxaHy"
-    },
-    {
-      "added_at": "2024-05-28 18:30:00",
-      "album": {
-        "name": "For Life (feat. Zak Abel & Nile Rodgers) [Vandelux Remix]",
-        "url": "https://open.spotify.com/album/3fDanWobscPAjBZhL5hjRk"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 174555,
-      "name": "For Life (feat. Zak Abel & Nile Rodgers) - Vandelux Remix",
-      "url": "https://open.spotify.com/track/5qTKHndp6DbjeMGaxbhrCY"
     },
     {
       "added_at": "2024-04-15 21:34:41",
@@ -471,6 +463,26 @@
       "duration_ms": 157627,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/4yCtCRXqETtZeSEgPBwpil"
+    },
+    {
+      "added_at": "2024-08-23 08:47:36",
+      "album": {
+        "name": "Someone You Loved",
+        "url": "https://open.spotify.com/album/4iXPKxAtZNglN506UjPO4l"
+      },
+      "artists": [
+        {
+          "name": "SAKKO",
+          "url": "https://open.spotify.com/artist/6wgRPcEgacrIVqbDsg5t3o"
+        },
+        {
+          "name": "toqsary",
+          "url": "https://open.spotify.com/artist/3Rfb3dvY8LFp0MTNplSlHv"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/0Drhwzv9nC4HSxceTpGMxZ"
     },
     {
       "added_at": "2024-07-19 08:26:30",
@@ -2257,6 +2269,34 @@
       "url": "https://open.spotify.com/track/0E7U13bmvEccq4CtC3q0Pw"
     },
     {
+      "added_at": "2024-05-28 18:30:00",
+      "album": {
+        "name": "For Life (feat. Zak Abel & Nile Rodgers) [Vandelux Remix]",
+        "url": "https://open.spotify.com/album/3fDanWobscPAjBZhL5hjRk"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 174555,
+      "name": "For Life (feat. Zak Abel & Nile Rodgers) - Vandelux Remix",
+      "url": "https://open.spotify.com/track/5qTKHndp6DbjeMGaxbhrCY"
+    },
+    {
       "added_at": "2024-08-02 08:07:07",
       "album": {
         "name": "Don't Think Too Hard",
@@ -2847,6 +2887,30 @@
       "duration_ms": 191625,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5yAcox3tS3c78EMvZ8Gi1u"
+    },
+    {
+      "added_at": "2024-08-23 07:14:31",
+      "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV"
+      },
+      "artists": [
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        },
+        {
+          "name": "AURIq",
+          "url": "https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh"
     },
     {
       "added_at": "2024-07-30 21:16:59",

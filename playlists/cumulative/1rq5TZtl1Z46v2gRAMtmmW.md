@@ -4,7 +4,7 @@
 
 > 
 
-318 songs - 21 hr 25 min
+319 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Bad Dad](https://open.spotify.com/track/12tzUisHWGTVrz5g2Hudz9) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Bad Dad](https://open.spotify.com/album/5NzdoZVEY284kNxlR2HblZ) | 3:40 | 2022-08-17 | 2023-02-24 |
 | [Basketball Shoes \- Live from the Queen Elizabeth Hall](https://open.spotify.com/track/0pemQSbjPQbJllCNTlsmBu) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There \(Deluxe\)](https://open.spotify.com/album/4ZGAjDHKwwcMZSkDALzlSO) | 13:24 | 2022-06-13 | 2023-03-23 |
 | [Behind The Sun](https://open.spotify.com/track/7tRXTDi87CiAqU5sIBQfIC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Behind The Sun](https://open.spotify.com/album/7KcUnyTc5PxSkO2O1p8uob) | 4:10 | 2022-04-26 | 2022-09-21 |
-| [Behind the Sun \(Live\)](https://open.spotify.com/track/4gKFQ6sGKfZr44NXw6wjym) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye Tour Live](https://open.spotify.com/album/1Sr34Sc0yqB4SlxanOrit0) | 3:09 | 2024-05-31 |  |
+| [Behind the Sun \(Live\)](https://open.spotify.com/track/4gKFQ6sGKfZr44NXw6wjym) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [The Last Goodbye Tour Live](https://open.spotify.com/album/1Sr34Sc0yqB4SlxanOrit0) | 3:09 | 2024-05-31 | 2024-08-24 |
 | [Bended Light](https://open.spotify.com/track/4Rv8cCe4oO9tRR2vkoXSHp) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Bended Light](https://open.spotify.com/album/5MA3BeStjVJwUIHRSX7QgR) | 2:23 | 2023-04-20 | 2023-05-04 |
 | [Best Life](https://open.spotify.com/track/4Xk4VDisq3n0ZAh3ncwjfC) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Best Life](https://open.spotify.com/album/7irCCikH7rhTAXqJwoXDAn) | 3:59 | 2024-06-05 |  |
 | [Better Now \(feat\. MARO\)](https://open.spotify.com/track/1iSuktdIdWrdfq0slQ4auO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Better Now \(feat\. MARO\)](https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo) | 3:14 | 2022-03-02 | 2022-07-14 |
@@ -151,6 +151,7 @@
 | [I Just Want To Love You \- Club Version](https://open.spotify.com/track/4e3Qn7ZlJsaRKUOJwzGVzk) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [I Just Want To Love You \(Club Version\)](https://open.spotify.com/album/3S948ScIz3AJ0QvPcXF9C6) | 5:04 | 2022-12-08 | 2023-03-30 |
 | [I Know](https://open.spotify.com/track/4cESBgPWqUgTCkQdLBMEsz) | [Genevieve Artadi](https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI) | [I Know](https://open.spotify.com/album/2nDhPyfL3FgzXv1gL67kPO) | 3:43 | 2023-02-10 | 2023-03-03 |
 | [I Love The Drive](https://open.spotify.com/track/1LpkTDHQkQ02lL3RnZYYCy) | [Kiss Nuka](https://open.spotify.com/artist/3VXmLRdy5ho8J1Btv7zffg) | [I Love The Drive](https://open.spotify.com/album/0XzTYBWfL8T431l7kb3ObF) | 5:28 | 2022-09-29 | 2022-11-18 |
+| [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 | 2024-08-23 |  |
 | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [I Raise You \(The Price of Your Head\)](https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt) | 3:51 | 2022-02-10 | 2022-07-15 |
 | [I Saw](https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [I Saw](https://open.spotify.com/album/5dYFkoGHXg0xjjtXEqZkwV) | 3:27 | 2022-10-20 | 2023-05-04 |
 | [I Smile for E](https://open.spotify.com/track/2Wcv0p4gniHJ1rJvUae3B9) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [I Smile for E](https://open.spotify.com/album/5LhyZEaz7iQYniUzgkMSsk) | 3:08 | 2023-02-23 | 2023-07-07 |

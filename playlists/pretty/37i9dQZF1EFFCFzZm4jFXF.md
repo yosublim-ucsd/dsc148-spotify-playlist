@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 38 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 81 | [Play My Game](https://open.spotify.com/track/4rsVBR4WADCMrNRKk6pGwb) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:01 |
 | 82 | [Circles](https://open.spotify.com/track/0pDMFi2TdQZaUUtsukywLs) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:20 |
 | 83 | [Spacebike](https://open.spotify.com/track/5ga7wZc4B0JuOnUGUiOrOk) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3) | [Spacebike](https://open.spotify.com/album/0sF3gZIDKvrGdutAfNuj8v) | 2:23 |
-| 84 | [Why Did We Say Forever](https://open.spotify.com/track/4Sr5GeXwEI5KmJn6FUteWY) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/5tpyqyX2NAwpuELhtkRN07) | 3:10 |
-| 85 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 |
+| 84 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 |
+| 85 | [Why Did We Say Forever](https://open.spotify.com/track/4Sr5GeXwEI5KmJn6FUteWY) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/5tpyqyX2NAwpuELhtkRN07) | 3:10 |
 | 86 | [The Wild](https://open.spotify.com/track/4408yboq8EzHz7IiAlEBzv) | [Kerri Watt](https://open.spotify.com/artist/6bPvOLNccTtmf23w6bngcS) | [The Wild](https://open.spotify.com/album/3w8ggvtpBeBFVzNeMPo2Xy) | 3:32 |
 | 87 | [Off This Train](https://open.spotify.com/track/1imrBvb6Ac6P6b76dBhjNv) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 1:59 |
 | 88 | [Only You](https://open.spotify.com/track/3YecLfVpyotU0ve4Ln9Uds) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Only You](https://open.spotify.com/album/5Uq7opunP83SDVxYMm5ivO) | 3:33 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 100 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 101 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AbaIdwAAAAB6tIVyYaroTrDiNlEjEOY1`
+Snapshot ID: `AbaOFwAAAAAZG2gga5eCfD0k8iPQ/piB`

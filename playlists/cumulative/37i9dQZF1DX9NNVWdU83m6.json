@@ -2473,6 +2473,24 @@
     },
     {
       "album": {
+        "name": "Square Grouper",
+        "url": "https://open.spotify.com/album/1BNAdPjRA2p67zJ1OWgPh8"
+      },
+      "artists": [
+        {
+          "name": "Electric Kif",
+          "url": "https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303809,
+      "name": "Square Grouper",
+      "url": "https://open.spotify.com/track/4twKScGj0Dc0KG4GVLl9Us"
+    },
+    {
+      "album": {
         "name": "Casting for Gravity (feat. Jason Lindner, Tim Lefebvre & Mark Guiliana)",
         "url": "https://open.spotify.com/album/34D47CVvLiw6yctVw1kzER"
       },

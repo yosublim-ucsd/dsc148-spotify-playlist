@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Matisse
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,290 likes - 65 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,281 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 44 | [Let It Snow](https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Feliz Christmas \(Vol.1\)](https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW) | 3:11 |
 | 45 | [Dime Navidad](https://open.spotify.com/track/3pvbBrh49UPDa4UENRVT9f) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Dime Navidad](https://open.spotify.com/album/3c11HITsZe2IyDyb4tUg8K) | 2:39 |
 | 46 | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/3FXsT2EtwJnWifXRDLbMEd) | [JACE Carrillo](https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx) | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/album/4wzE6Qzq86autFUu0wZ9QF) | 2:34 |
-| 47 | [Una Navidad Sin Nieve](https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Una Navidad Sin Nieve](https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G) | 2:42 |
-| 48 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 |
+| 47 | [Holiday](https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Holiday](https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G) | 2:51 |
+| 48 | [Una Navidad Sin Nieve](https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Una Navidad Sin Nieve](https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G) | 2:42 |
 | 49 | [Last Christmas \(Spanish Version\)](https://open.spotify.com/track/6OAjGVPVbt07wPzyG8NzOI) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [st\. Pedro's Christmas Special](https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O) | 3:15 |
 | 50 | [El Año Que Vendrá Querido Amigo](https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Emmanuel Jingle Bell Rocks](https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55) | 5:25 |
 | 51 | [Santa Baby](https://open.spotify.com/track/3ahTtn2xIy34RYlwTOxqW1) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Santa Baby](https://open.spotify.com/album/1mPFY6AcWGENIc1mxPn3Lq) | 2:55 |

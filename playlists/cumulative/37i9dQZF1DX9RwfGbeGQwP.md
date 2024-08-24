@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,431 songs - 2 day 5 hr 54 min
+1,432 songs - 2 day 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,7 +315,7 @@
 | [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 | 2023-02-13 | 2023-10-13 |
 | [Don't Go](https://open.spotify.com/track/6gZdnEbTKUy3VAi0hembPL) | [Okinawa\-ARN](https://open.spotify.com/artist/5nrNy29dvYPOfRSE8m07cp) | [Don't Go](https://open.spotify.com/album/4jQRoP0tEDHtDCfxzEUEso) | 2:16 | 2023-01-13 | 2024-05-25 |
 | [Don't regret anything](https://open.spotify.com/track/6j2K1xEGP4BwA2vZSnV95o) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Don't regret anything](https://open.spotify.com/album/2sYmhP2eYMsXHayapKk5kv) | 1:57 | 2022-09-02 | 2023-09-16 |
-| [Done](https://open.spotify.com/track/3JCn3l4GLF6rVXK0Hl04rQ) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Done](https://open.spotify.com/album/69etfOnsygw7kzCoRY0E8l) | 2:02 | 2024-06-05 |  |
+| [Done](https://open.spotify.com/track/3JCn3l4GLF6rVXK0Hl04rQ) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Done](https://open.spotify.com/album/69etfOnsygw7kzCoRY0E8l) | 2:02 | 2024-06-05 | 2024-08-24 |
 | [donut worry](https://open.spotify.com/track/0RcJ25jRLBauXlXYNuHULr) | [Cherrygroove](https://open.spotify.com/artist/4pJaZjlxYyUVQLeVg0aP40) | [donut worry](https://open.spotify.com/album/0Pq7a4TvqbY3EaeqdLT3OR) | 2:49 | 2022-06-24 |  |
 | [Dorothea](https://open.spotify.com/track/10F3fy1XYH98yQEUfVFNfs) | [Plectric](https://open.spotify.com/artist/4cCJWoH6K4jsI81MvizSxl) | [Dorothea](https://open.spotify.com/album/2Gt1Ja7A1I1bh5mnl22Z7i) | 1:58 | 2022-01-27 | 2022-09-09 |
 | [Dot](https://open.spotify.com/track/6PAYfELVPtKLgBCRtiyEDe) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [Dot](https://open.spotify.com/album/4VPJdglfetgKYKFQhcOCDS) | 2:23 | 2022-01-27 | 2022-09-17 |
@@ -579,7 +579,7 @@
 | [Iced Pandan Latte](https://open.spotify.com/track/6mSfWNWb8c5kIkahN4Glix) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY) | [Iced Pandan Latte](https://open.spotify.com/album/0iJ5jwKjklnvYcAxLjaOO9) | 2:27 | 2022-07-15 | 2022-12-10 |
 | [Iced Skinny Latte](https://open.spotify.com/track/4hukQ9nia9ZgGrSsZ4hN8t) | [Mister Decaf](https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY), [Disruptive LoFi](https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI) | [Iced Skinny Latte](https://open.spotify.com/album/5QSFp8O3JuVkB4YrVlqbPH) | 2:05 | 2022-10-15 | 2023-09-22 |
 | [Iced Tea](https://open.spotify.com/track/0Oi6aHYgfr4COgmxDGwo8n) | [ben the bird](https://open.spotify.com/artist/1i5mrAjdJZ6NHsruDGXVN1) | [Iced Tea](https://open.spotify.com/album/4C5mkfc3AZwaY8bFRV2vm0) | 2:23 | 2022-09-16 | 2023-09-05 |
-| [If It Rains](https://open.spotify.com/track/5fpRmkeWY2XHqVJDZgGP9J) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [If It Rains](https://open.spotify.com/album/1DumN0sb25DgpQYzUjxQ6k) | 1:54 | 2023-03-08 |  |
+| [If It Rains](https://open.spotify.com/track/5fpRmkeWY2XHqVJDZgGP9J) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [If It Rains](https://open.spotify.com/album/1DumN0sb25DgpQYzUjxQ6k) | 1:54 | 2023-03-08 | 2024-08-24 |
 | [Ilene](https://open.spotify.com/track/0Y5hAGvfwXoQnjWEd90ju2) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [Sharingan](https://open.spotify.com/album/5ISSZnA4V8C7eCia0WIhsY) | 2:09 | 2022-01-27 | 2023-06-06 |
 | [Illuminated](https://open.spotify.com/track/7JGzBYYOPMpR4J0bttU32b) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Illuminated](https://open.spotify.com/album/0FmNls6a4NskzGGH4JiFtd) | 1:49 | 2023-03-08 |  |
 | [immanent](https://open.spotify.com/track/1N1TBYrQ2VGKzQ1JyTMXSq) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [immanent](https://open.spotify.com/album/60Rh4kHbkGV8YojGWysb5v) | 2:22 | 2024-01-19 | 2024-03-14 |
@@ -1053,6 +1053,7 @@
 | [saffron echoes](https://open.spotify.com/track/2TixM05WePykQVfmxs1ojS) | [gnerf](https://open.spotify.com/artist/74bY9Mn9CdYFwFSkoDDxmP) | [saffron echoes](https://open.spotify.com/album/2ND2PhkXYVVBk8QQpm95kO) | 2:24 | 2023-09-22 |  |
 | [sahara](https://open.spotify.com/track/3dnJ9V91tzRy6QjwyagZtu) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [sahara](https://open.spotify.com/album/4Kh5T5zUaRj3UfLuS5bhHU) | 1:50 | 2023-05-19 | 2023-09-29 |
 | [Sailing](https://open.spotify.com/track/6TwQwNXuUqMoGma4iyDkNW) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Sailing](https://open.spotify.com/album/4txjb7Ss3tZeBZF9Hd763R) | 2:28 | 2023-11-17 | 2024-05-14 |
+| [Sake Dab](https://open.spotify.com/track/3WSalxGbHnV3wIW5qP0OFi) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [Sake Dab](https://open.spotify.com/album/53SUXmywMUEMqbu16rbNYq) | 2:12 | 2024-08-23 |  |
 | [Sakura Times](https://open.spotify.com/track/3Mllg4YSoLMDo6tTUk574p) | [Ai Tanaka](https://open.spotify.com/artist/5Z9iSyZ7QTof3b1aDQhU3c) | [Sakura Times](https://open.spotify.com/album/6yrknkl1qhtHRxxxux7OVQ) | 1:49 | 2024-05-13 | 2024-07-27 |
 | [Salmon Benedict](https://open.spotify.com/track/3I6fpot5ZS5H5T5YDB67rQ) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Weekend in São Paulo](https://open.spotify.com/album/4gDMta5XF2SLoqBj2FjrQ9) | 1:57 | 2022-08-19 |  |
 | [Same Cycle Different Day](https://open.spotify.com/track/76vtRLq3IV9aA1UyYXMvbv) | [xJ\-Will](https://open.spotify.com/artist/14QbOxlbZBCybkcI60L96Z) | [Same Cycle Different Day](https://open.spotify.com/album/0g3qUzGW7J7VioeqxPbYek) | 2:14 | 2022-01-27 | 2022-05-20 |
@@ -1183,7 +1184,7 @@
 | [Stuff & Things](https://open.spotify.com/track/42rqLOwurypDgWLrEd5EZS) | [Thursdayevening](https://open.spotify.com/artist/2W1v4GawU3sb1lCYOhCeWO), [Casual Chill](https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq) | [Stuff & Things](https://open.spotify.com/album/6TtXTseVtXPOaNxAoOMAvE) | 1:54 | 2022-09-02 | 2023-01-20 |
 | [Stumbles](https://open.spotify.com/track/6SYNj1IwlExnuGnpbCfOUZ) | [Son Of Arn](https://open.spotify.com/artist/725aXOndVSiKmldfKJ6Rnr) | [Stumbles](https://open.spotify.com/album/2u98fLwBQfGhOysO60dls5) | 1:44 | 2022-01-27 | 2022-04-08 |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2022-01-27 | 2022-09-03 |
-| [Suburbia](https://open.spotify.com/track/76cm105XdEKT4aVfLRmpiu) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Suburbia](https://open.spotify.com/album/1ewTq3HHspQtOgnzc6G8RK) | 2:13 | 2022-09-09 | 2024-06-20 |
+| [Suburbia](https://open.spotify.com/track/76cm105XdEKT4aVfLRmpiu) | [Idris Kelly](https://open.spotify.com/artist/2V8HJffWKh4zmPWFqvwImv) | [Suburbia](https://open.spotify.com/album/1ewTq3HHspQtOgnzc6G8RK) | 2:13 | 2022-09-09 |  |
 | [Sugah](https://open.spotify.com/track/6s43acxBgDAjMOXsFy31BY) | [Protier](https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp) | [Sugah](https://open.spotify.com/album/486zaGmIow1agmTcbShXVO) | 2:00 | 2024-06-21 |  |
 | [sugar n' spice](https://open.spotify.com/track/1OMlffcymhMMXX2jYft3Ox) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [grind house](https://open.spotify.com/album/2P5wpnFllJIwWKfdA2Aywa) | 3:00 | 2022-09-02 | 2023-03-09 |
 | [Summer Breeze](https://open.spotify.com/track/2YIt7QWPerGBqIG3O6QXfG) | [T V S N](https://open.spotify.com/artist/0Va8X86UoRn9V7bbtVKV30) | [Summer Breeze](https://open.spotify.com/album/3PIcKJZ4XPqfN9CyfTzUST) | 2:50 | 2022-10-08 | 2023-09-22 |

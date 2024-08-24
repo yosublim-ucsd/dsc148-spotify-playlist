@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 194945,
       "name": "Access Denied",
       "url": "https://open.spotify.com/track/6loZlhKSbCJLZL6ruqzKMx"
@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "ARGO / DIRTYWATER",
+        "url": "https://open.spotify.com/album/59mnqSEj89Gopa9Zq7lTSK"
+      },
+      "artists": [
+        {
+          "name": "Acyan",
+          "url": "https://open.spotify.com/artist/0o70ZPcBroPuIcUOOLWDI4"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "ARGO",
+      "url": "https://open.spotify.com/track/4BLlezhbGazfpE0OXUUKuj"
+    },
+    {
+      "album": {
         "name": "Asura",
         "url": "https://open.spotify.com/album/1Q6WH0SaTmORCqMNWnM0hO"
       },
@@ -474,6 +492,28 @@
       "duration_ms": 184000,
       "name": "BABABASS",
       "url": "https://open.spotify.com/track/2TBVfT3IWdjRSeRFtwv6Jq"
+    },
+    {
+      "album": {
+        "name": "Back In It",
+        "url": "https://open.spotify.com/album/0WVjb48hdM7HPKdBQLt0WR"
+      },
+      "artists": [
+        {
+          "name": "Lumasi",
+          "url": "https://open.spotify.com/artist/0y5sfSvE19x3r3nVUKYbIN"
+        },
+        {
+          "name": "Ghost Lotus",
+          "url": "https://open.spotify.com/artist/4ROnOSgEJHJ5YLiABKzGAl"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199135,
+      "name": "Back In It",
+      "url": "https://open.spotify.com/track/7mjhGCato4Owj8w657eFPJ"
     },
     {
       "album": {
@@ -768,7 +808,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 254117,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/1ZIglHDIFjtMiFV2VItzPg"
@@ -1084,6 +1124,24 @@
       "duration_ms": 180000,
       "name": "Bloodhound",
       "url": "https://open.spotify.com/track/3w6XYpRbMJZ5Lcu65ujgoa"
+    },
+    {
+      "album": {
+        "name": "BODIES",
+        "url": "https://open.spotify.com/album/60wKp6mKfrdUEYGppNPVN9"
+      },
+      "artists": [
+        {
+          "name": "Drinkurwater",
+          "url": "https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251250,
+      "name": "BODIES",
+      "url": "https://open.spotify.com/track/5UszdwERmPCDaHd0zpIeVD"
     },
     {
       "album": {
@@ -2380,7 +2438,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 165339,
       "name": "Dead Meat",
       "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
@@ -3913,6 +3971,24 @@
     },
     {
       "album": {
+        "name": "Get Splashed",
+        "url": "https://open.spotify.com/album/5Wgj0axhe1E594o6yQ88uc"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Get Splashed",
+      "url": "https://open.spotify.com/track/4QYG1jhCleikOw6NbBrr9t"
+    },
+    {
+      "album": {
         "name": "not playin' EP",
         "url": "https://open.spotify.com/album/3tbdNXEVNYwx4fnWHeSNPA"
       },
@@ -4555,6 +4631,24 @@
     },
     {
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/6Zk1V7559eJbW2GfJE2Y8p"
+      },
+      "artists": [
+        {
+          "name": "Alexis B",
+          "url": "https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/6BGZU873n3qSXXTKXBtlNR"
+    },
+    {
+      "album": {
         "name": "Hollow EP",
         "url": "https://open.spotify.com/album/4K8fXp2F4qdkgtL215uAoF"
       },
@@ -4708,6 +4802,24 @@
       "duration_ms": 141353,
       "name": "HUSH",
       "url": "https://open.spotify.com/track/25leIaVDdC2lgJC1RAkNaS"
+    },
+    {
+      "album": {
+        "name": "HYPE",
+        "url": "https://open.spotify.com/album/4CFsbMb5kk72ViQ6XR9j3P"
+      },
+      "artists": [
+        {
+          "name": "BLVZE",
+          "url": "https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "HYPE",
+      "url": "https://open.spotify.com/track/4FbGnd9gdcAATKYXiGL18P"
     },
     {
       "album": {
@@ -5486,7 +5598,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 210685,
       "name": "Kik Bak",
       "url": "https://open.spotify.com/track/7wal8mxwO4hBrqYXEbx5w4"
@@ -5974,7 +6086,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 192732,
       "name": "Like That",
       "url": "https://open.spotify.com/track/3FDyCoOHVoiSRmNeAlZnM0"
@@ -7792,7 +7904,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 291428,
       "name": "Pon na' Dub",
       "url": "https://open.spotify.com/track/4Ae1SrLqXkPLfKyz0RTjLN"
@@ -8272,7 +8384,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 155200,
       "name": "Quickness",
       "url": "https://open.spotify.com/track/3sSD12MZkrsQItdYAfWt9c"
@@ -9222,7 +9334,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 246857,
       "name": "Secret Society",
       "url": "https://open.spotify.com/track/2YcHCSassnhNCWu6KCQMCN"
@@ -9846,6 +9958,24 @@
       "duration_ms": 335359,
       "name": "Snakeweight",
       "url": "https://open.spotify.com/track/1NefeUfjR030YYGmkc0dV2"
+    },
+    {
+      "album": {
+        "name": "Snapback",
+        "url": "https://open.spotify.com/album/4yvZlTxcPCPx0UQdeOGtwj"
+      },
+      "artists": [
+        {
+          "name": "smalltalk",
+          "url": "https://open.spotify.com/artist/5rOQ32usScD6eqmdixFz92"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141517,
+      "name": "Snapback",
+      "url": "https://open.spotify.com/track/1qrcKLcYFIQSVCcjMf8ZSC"
     },
     {
       "album": {
@@ -11349,6 +11479,28 @@
     },
     {
       "album": {
+        "name": "Tomb Of The Scorpion",
+        "url": "https://open.spotify.com/album/0wsigP8YYNdHUtFRZ3Yi3w"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Tomb Of The Scorpion",
+      "url": "https://open.spotify.com/track/661OQwbwYMIy8WBqBqC9XG"
+    },
+    {
+      "album": {
         "name": "Tomorrow - EP",
         "url": "https://open.spotify.com/album/7IrrWUxNknlPtmVE1jPRVE"
       },
@@ -12200,7 +12352,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 348072,
       "name": "Wisdom",
       "url": "https://open.spotify.com/track/3F9yTY87haeNOoPZzNRHN9"
@@ -12400,6 +12552,28 @@
       "duration_ms": 266281,
       "name": "Yellow & Grey - VIP",
       "url": "https://open.spotify.com/track/6220rBuMBMeJExA503QKaP"
+    },
+    {
+      "album": {
+        "name": "You Better Take This!",
+        "url": "https://open.spotify.com/album/7x4XwuR6ETZPlRZkzO9Abn"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        },
+        {
+          "name": "Seth David",
+          "url": "https://open.spotify.com/artist/1wfOprPxy1C22S9zV8tK3b"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126428,
+      "name": "You Better Take This!",
+      "url": "https://open.spotify.com/track/6iNOSoA4WmdySikbP2tC2i"
     },
     {
       "album": {

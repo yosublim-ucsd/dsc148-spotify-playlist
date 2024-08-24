@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e 🌎 / Foto: Lady Gaga, Bruno Mars
+> Grandes hits do BR e 🌎 / Foto: Liniker
 
 314 songs - 15 hr 19 min
 

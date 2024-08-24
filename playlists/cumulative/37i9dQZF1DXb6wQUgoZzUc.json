@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 144000,
       "name": "A POKA LUZ",
       "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 351910,
       "name": "BAD BOY (feat. Juhn, Jairo Vera, Sayian Jimmy, Nysix Music, CamiMusic & Montana the Producer) - Remix",
       "url": "https://open.spotify.com/track/1aJT5lePkBJ0bAmhptUys7"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 179392,
       "name": "Bellac@ (with Ryan Castro)",
       "url": "https://open.spotify.com/track/1wgTrb2jsGerbdAB4uQIym"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 205333,
       "name": "Cuando Ella Me Vio",
       "url": "https://open.spotify.com/track/1KRkJH7aHACngrupLMkP7F"
@@ -2062,7 +2062,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 195333,
       "name": "Cuerpecito",
       "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 212114,
       "name": "Ella Quiere Hmm... Haa... Hmm... - Yayo Remix",
       "url": "https://open.spotify.com/track/0yOExrHtTnmYpMzJKbR8vH"
@@ -3084,7 +3084,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 195066,
       "name": "Expl\u00edcito",
       "url": "https://open.spotify.com/track/6qraVL4IJaIj0IuEexYJNa"
@@ -3161,24 +3161,24 @@
     },
     {
       "album": {
-        "name": "Boy Wonder Presents Chosen Few Grandes Exitos",
+        "name": "Chosen Few: Grandes Exitos",
         "url": "https://open.spotify.com/album/5CckZmLqh8aJ74pGLZPmaN"
       },
       "artists": [
         {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
           "name": "Plan B",
           "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
         }
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 185640,
-      "name": "Freakytona (feat. Plan B)",
+      "name": "Freakytona",
       "url": "https://open.spotify.com/track/5Ps2ZqATo5drFSEHtpp8lt"
     },
     {
@@ -3220,6 +3220,24 @@
       "duration_ms": 183182,
       "name": "Frikitona",
       "url": "https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3"
+    },
+    {
+      "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160373,
+      "name": "FR\u00cdO",
+      "url": "https://open.spotify.com/track/47IVaRZDAKsUC3x5Zhn2Gr"
     },
     {
       "album": {
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 162400,
       "name": "Guatauba",
       "url": "https://open.spotify.com/track/0xJFWROBNTBL4sKEuA5pm6"
@@ -3664,7 +3682,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 193613,
       "name": "Guaya Guaya",
       "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
@@ -4264,7 +4282,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 181928,
       "name": "L-Gante: RKT SESSIONS #1",
       "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
@@ -5130,7 +5148,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
@@ -5336,7 +5354,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 220600,
       "name": "Mami Chula",
       "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
@@ -6314,7 +6332,7 @@
       },
       "artists": [
         {
-          "name": "Jhayco",
+          "name": "JHAYCO",
           "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
@@ -6328,7 +6346,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 309120,
       "name": "No Me Conoce - Remix",
       "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
@@ -6586,7 +6604,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 203877,
       "name": "OJITOS ROJOS - REMIX",
       "url": "https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J"
@@ -7942,7 +7960,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 163708,
       "name": "Quien TV Remix",
       "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
@@ -7978,7 +7996,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 186506,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/5JLV62rg4jtnoElc4P9F6K"
@@ -8226,7 +8244,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 200785,
       "name": "Ram Pam Pam",
       "url": "https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO"
@@ -9030,7 +9048,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 178407,
       "name": "Singapur",
       "url": "https://open.spotify.com/track/5q7icrT1Wn8PHaePIjYYyg"
@@ -9100,7 +9118,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 137264,
       "name": "Suano",
       "url": "https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd"
@@ -9542,7 +9560,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
       "url": "https://open.spotify.com/track/6VAS7m73rDopQe7BdrFMpD"
@@ -9684,7 +9702,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 203529,
       "name": "Todav\u00eda",
       "url": "https://open.spotify.com/track/3G0KI415vuf6TJ2YWA73S3"
@@ -9938,7 +9956,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
@@ -10000,7 +10018,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 147013,
       "name": "Tu Sicaria",
       "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"
@@ -10976,6 +10994,28 @@
       "duration_ms": 186450,
       "name": "\u00d1ero Session 11",
       "url": "https://open.spotify.com/track/44DM5mBfePD0JqTltQCOOp"
+    },
+    {
+      "album": {
+        "name": "\u00d1ero Session 13",
+        "url": "https://open.spotify.com/album/6XlYXCYcKST0zvDeaxjMeM"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169056,
+      "name": "\u00d1ero Session 13",
+      "url": "https://open.spotify.com/track/71fQ9SYkunt7NbfMEL2AcR"
     },
     {
       "album": {

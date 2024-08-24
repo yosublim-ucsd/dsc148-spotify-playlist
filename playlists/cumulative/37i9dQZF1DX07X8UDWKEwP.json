@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Mike Bah\u00eda",
+  "description": "Lo nuevo del mundo tropical. Cover: Carlos Vives, Chimbala & Carin Leon.",
   "name": "el nuevo tropical",
   "tracks": [
+    {
+      "album": {
+        "name": "#TBT",
+        "url": "https://open.spotify.com/album/5UThDrcCqUfJWUd2FgU8B7"
+      },
+      "artists": [
+        {
+          "name": "J-King y Maximan",
+          "url": "https://open.spotify.com/artist/6UBb8ZUUyarsyod6snflAR"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "#TBT",
+      "url": "https://open.spotify.com/track/7d72inBeBu7N0CNDleJNTn"
+    },
     {
       "album": {
         "name": "The Los Angeles League Of Musicians",
@@ -506,7 +528,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 231500,
       "name": "Amor Toxico",
       "url": "https://open.spotify.com/track/5SkGY1hLdP9dJDlralBzXK"
@@ -1154,6 +1176,24 @@
       "duration_ms": 147375,
       "name": "Besos con Fernet",
       "url": "https://open.spotify.com/track/1gAPIjqunPXRA4y1kYZi0q"
+    },
+    {
+      "album": {
+        "name": "Besos Escondidos",
+        "url": "https://open.spotify.com/album/3wy1xrYn2j94Ub6T6dbGZI"
+      },
+      "artists": [
+        {
+          "name": "Pen\u00e9lope Santacruz",
+          "url": "https://open.spotify.com/artist/1QlqS12K73y5zruVIzo37D"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182820,
+      "name": "Besos Escondidos",
+      "url": "https://open.spotify.com/track/1kL3WJQTOiiOtIyBoi8h4g"
     },
     {
       "album": {
@@ -2056,7 +2096,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 177147,
       "name": "CUBANA",
       "url": "https://open.spotify.com/track/7BODzwLaTLXEhB4HsMq5Ci"
@@ -2256,7 +2296,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 177571,
       "name": "DEMENOR",
       "url": "https://open.spotify.com/track/7iGHHCBcjjrnvNj3RpQ6gD"
@@ -4129,6 +4169,32 @@
     },
     {
       "album": {
+        "name": "La Chancleta",
+        "url": "https://open.spotify.com/album/4F17JOxOh0m4lMrwgJS6iy"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181360,
+      "name": "La Chancleta",
+      "url": "https://open.spotify.com/track/5XZvJ6snWZ66bKyoPZm7wz"
+    },
+    {
+      "album": {
         "name": "La Culpa",
         "url": "https://open.spotify.com/album/4p7YEux8DrGBztLRbfWHoR"
       },
@@ -4796,10 +4862,28 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 168203,
       "name": "Llorar Por Ella",
       "url": "https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC"
+    },
+    {
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/2YazqVhfW9taE3pwm9vghy"
+      },
+      "artists": [
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182096,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/6tuGG2IUfktJkalHTT1Cxd"
     },
     {
       "album": {
@@ -5943,6 +6027,28 @@
     },
     {
       "album": {
+        "name": "Ni Con \u00c9l, Ni Conmigo",
+        "url": "https://open.spotify.com/album/5wj31qM3yS7ykkbvzvBcpV"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227134,
+      "name": "Ni Con \u00c9l, Ni Conmigo",
+      "url": "https://open.spotify.com/track/19NuFFsZaydL7IOAQWp7lK"
+    },
+    {
+      "album": {
         "name": "No Aguanto M\u00e1s",
         "url": "https://open.spotify.com/album/5irv7LbzmhJjrfzvcAPksB"
       },
@@ -6412,7 +6518,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 215300,
       "name": "Origami",
       "url": "https://open.spotify.com/track/6K1tnrsiLeVwLL60BlZq1o"
@@ -8200,7 +8306,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 234242,
       "name": "Sin Pagar Renta",
       "url": "https://open.spotify.com/track/5p8IwX3rDdCK9iDKKlo5IV"
@@ -8828,6 +8934,28 @@
       "duration_ms": 210965,
       "name": "Tu Nombre",
       "url": "https://open.spotify.com/track/6CfgJrpZrx2PfiS8NoFxgG"
+    },
+    {
+      "album": {
+        "name": "Tu Versi\u00f3n De La Historia",
+        "url": "https://open.spotify.com/album/7vBIHRSMzLhJhya7Mx9fIg"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180781,
+      "name": "Tu Versi\u00f3n De La Historia",
+      "url": "https://open.spotify.com/track/5XBhEFome7Mfb1ovOJu8ez"
     },
     {
       "album": {

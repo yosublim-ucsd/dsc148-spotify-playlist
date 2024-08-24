@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Ruthie Foster",
   "name": "Blues Roots",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 236933,
       "name": "2 FOR THA SHOW",
       "url": "https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6"
@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
+      },
+      "artists": [
+        {
+          "name": "Oh He Dead",
+          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335658,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
+    },
+    {
+      "album": {
         "name": "CRY",
         "url": "https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8"
       },
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 289068,
       "name": "Heartshine",
       "url": "https://open.spotify.com/track/53bgRTz4YRHfTkVAwfYWDc"
@@ -3993,6 +4011,24 @@
     },
     {
       "album": {
+        "name": "Mileage",
+        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250765,
+      "name": "Mileage",
+      "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
+    },
+    {
+      "album": {
         "name": "Side Pony",
         "url": "https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX"
       },
@@ -5177,6 +5213,28 @@
     },
     {
       "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/4IqsiNwUfcrA7RrUHwAo6k"
+      },
+      "artists": [
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        },
+        {
+          "name": "Jonah Smith",
+          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191454,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/3RWOkWVdve8HZG4vIg6bkF"
+    },
+    {
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -5402,7 +5460,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 190176,
       "name": "So Much Fun",
       "url": "https://open.spotify.com/track/1slkixWBOISrD6xD7LH4U3"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring Manuel Turizo.",
+  "description": "Pop on the rise you should know, featuring Joaquina \ud83d\udda4",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -4078,7 +4078,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 201836,
       "name": "Faltas T\u00fa",
       "url": "https://open.spotify.com/track/4mIc3AQWkqLb2LVjkVKv4K"
@@ -5572,7 +5572,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 189838,
       "name": "Ley universal",
       "url": "https://open.spotify.com/track/3LajiduYalkeMeYbYJQP0s"
@@ -6210,6 +6210,28 @@
       "duration_ms": 216809,
       "name": "Manos Fr\u00edas (con Reik, Be\u00e9le)",
       "url": "https://open.spotify.com/track/14SFx9btIIv81LSbaajTv1"
+    },
+    {
+      "album": {
+        "name": "Bella Nostalgia",
+        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210181,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
     },
     {
       "album": {
@@ -7116,6 +7138,24 @@
       "duration_ms": 157000,
       "name": "NO HAY LEY",
       "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
+    },
+    {
+      "album": {
+        "name": "no llames lo m\u00edo nuestro",
+        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "no llames lo m\u00edo nuestro",
+      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
     },
     {
       "album": {

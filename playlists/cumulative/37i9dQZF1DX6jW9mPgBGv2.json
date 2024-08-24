@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Panda Black y Cris MJ plantando cara.",
+  "description": "El rango m\u00e1s alto. Ellos lo tienen y lo saben. Panda Myke Towers plantando cara.",
   "name": "FRONTEO",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 192720,
       "name": "Adentro de la Disco (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 224194,
       "name": "Bandidos",
       "url": "https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly"
@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190826,
+      "name": "COMPETENCIA",
+      "url": "https://open.spotify.com/track/1hrRcfsancQb92OcifmMV1"
+    },
+    {
+      "album": {
         "name": "Customers",
         "url": "https://open.spotify.com/album/0CFpsWfZAX9D57lv16DJp8"
       },
@@ -828,6 +846,24 @@
       "duration_ms": 187829,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/5gLB5PhxXi6CH8ELgeS7E1"
+    },
+    {
+      "album": {
+        "name": "DON'T TOUCH ME FREESTYLE",
+        "url": "https://open.spotify.com/album/7o8S0Bungi2do2Si7AJCNq"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147908,
+      "name": "DON'T TOUCH ME FREESTYLE",
+      "url": "https://open.spotify.com/track/5pWc7UhGz12aA3gBpnrvVh"
     },
     {
       "album": {
@@ -2372,7 +2408,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 217954,
       "name": "Peso a Peso",
       "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
@@ -2908,6 +2944,28 @@
       "duration_ms": 512636,
       "name": "Soldado Y Profeta (feat. Ozuna, Almighty, Kendo & \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8"
+    },
+    {
+      "album": {
+        "name": "Sport+ RMX",
+        "url": "https://open.spotify.com/album/1BtoYJ33HGhv3x5Sn8hg3L"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Sport+ RMX",
+      "url": "https://open.spotify.com/track/52IODvPwFf6LEzNOGKMSrZ"
     },
     {
       "album": {

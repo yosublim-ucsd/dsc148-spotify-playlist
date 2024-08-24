@@ -1907,6 +1907,32 @@
     },
     {
       "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/193S06WeTyKua4KUhXu7Rs"
+      },
+      "artists": [
+        {
+          "name": "doc flawless",
+          "url": "https://open.spotify.com/artist/7kQqFUxkHeDyqYlDDUtLvR"
+        },
+        {
+          "name": "Jeff Loik",
+          "url": "https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd"
+        },
+        {
+          "name": "BES",
+          "url": "https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177680,
+      "name": "Champion Sound",
+      "url": "https://open.spotify.com/track/0dlUi4CQU8Xb7SzKvWRhiG"
+    },
+    {
+      "album": {
         "name": "Champions",
         "url": "https://open.spotify.com/album/2AlTOHvsl8jYqVxGgsvXqe"
       },
@@ -6904,7 +6930,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 178500,
       "name": "MY NICHI",
       "url": "https://open.spotify.com/track/3WiZzfTsRBJnc6J0hFeYXg"

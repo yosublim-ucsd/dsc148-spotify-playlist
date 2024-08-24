@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,845 likes - 80 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,104 likes - 80 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 52 | [Shout \- U.S\. Remix](https://open.spotify.com/track/6F1UlQcpFzL3RLuRSQwK2n) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Steve Thompson](https://open.spotify.com/artist/072BKskZiAjsLMHqZkX9bo), [Michael Barbiero](https://open.spotify.com/artist/2BGMjDCR7kV5NXNIwQNPv1) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 8:00 |
 | 53 | [Gold \- 12" Mix](https://open.spotify.com/track/1U5VuBNupSdGTDBUWLt01N) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [80s 12'' Summer](https://open.spotify.com/album/5KZGyYiNOGZKqjaByt6Emn) | 7:15 |
 | 54 | [Never Ending Story \- 12'' Dance Mix](https://open.spotify.com/track/0MnpVLnTeduZTulhqaU3kU) | [Limahl](https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D) | [Never Ending Story](https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD) | 6:08 |
-| 55 | [She Drives Me Crazy \- David Z 12" Remix](https://open.spotify.com/track/3iZ0JKN1BE0byU8yb9KBwx) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp), [David Z.](https://open.spotify.com/artist/4UNxTJpJK5uiMsIO5stknj) | [The Raw & The Cooked \(Remastered & Expanded\)](https://open.spotify.com/album/5OwTprgzRXQyIQHFkyhbNT) | 7:06 |
-| 56 | [The Promise You Made \- Extended Version](https://open.spotify.com/track/0AOdzRbFxbSjVKFC3flCvA) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Cock Robin \(Expanded Edition\)](https://open.spotify.com/album/3rGS1WQSfZA9ES458g9gP4) | 6:38 |
+| 55 | [The Promise You Made \- Extended Version](https://open.spotify.com/track/0AOdzRbFxbSjVKFC3flCvA) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Cock Robin \(Expanded Edition\)](https://open.spotify.com/album/3rGS1WQSfZA9ES458g9gP4) | 6:38 |
+| 56 | [She Drives Me Crazy \- David Z 12" Remix](https://open.spotify.com/track/3iZ0JKN1BE0byU8yb9KBwx) | [Fine Young Cannibals](https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp), [David Z.](https://open.spotify.com/artist/4UNxTJpJK5uiMsIO5stknj) | [The Raw & The Cooked \(Remastered & Expanded\)](https://open.spotify.com/album/5OwTprgzRXQyIQHFkyhbNT) | 7:06 |
 | 57 | [Sweet Dreams \(Are Made of This\) \- Hot Remix / Remastered Version](https://open.spotify.com/track/1AgCHF8ZUnAFgyCbK82AwI) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Boxed](https://open.spotify.com/album/0H0gECNGQQ9RE3HZL2Z9AH) | 5:19 |
 | 58 | [Take Me Home \- Extended Remix](https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [12"ers](https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5) | 8:06 |
 | 59 | [C'est la ouate \- Extended Version](https://open.spotify.com/track/1NzowVFBeKuGBEO3tGY6Jj) | [Caroline Loeb](https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm) | [C'est la ouate](https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb) | 6:03 |

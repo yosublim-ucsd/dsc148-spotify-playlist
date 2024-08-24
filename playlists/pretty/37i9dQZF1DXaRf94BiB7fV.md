@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Heeya Tikku, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,017 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,041 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 45 | [Dil Mein Thoda Sa](https://open.spotify.com/track/2eBWFPefQnjrEMZDECXg5U) | [Gaurav Agrawal](https://open.spotify.com/artist/4HhD2GH1866v1KvZfYCF0V) | [Dil Mein Thoda Sa](https://open.spotify.com/album/0ppxaU8C9xdliTrUCxM7NT) | 3:42 |
 | 46 | [Main Chala](https://open.spotify.com/track/0sJHnnOsgorIrl4lnIPa8q) | [Sukoon](https://open.spotify.com/artist/3QVoEXiOz0eiDLoyb8SgYX) | [Main Chala](https://open.spotify.com/album/2H77bD12gqC6BY5HXvuBoD) | 2:48 |
 | 47 | [Vanam](https://open.spotify.com/track/4vOxxDnPAlgj56tUl3u5GD) | [Pakshee](https://open.spotify.com/artist/6UP5gZf6GHQRegEkCDQMvh) | [Vanam](https://open.spotify.com/album/70YnuLhJSBWIYkAKtzyuOX) | 3:40 |
-| 48 | [Na Hosh Mein](https://open.spotify.com/track/4nlhgAnwRy9jUADpyGW2Tn) | [Harshit Pokhriyal](https://open.spotify.com/artist/0vXGNXD0IkfMyZVfGyJcfR) | [Na Hosh Mein](https://open.spotify.com/album/3TQLdl04Vv7lVCcQwhVm9o) | 2:52 |
+| 48 | [Na Hosh Mein](https://open.spotify.com/track/4nlhgAnwRy9jUADpyGW2Tn) | [Harshit Pokhriyal](https://open.spotify.com/artist/0vXGNXD0IkfMyZVfGyJcfR), [Ark](https://open.spotify.com/artist/61Xz1h72npaHdxjLSrZpuM) | [Na Hosh Mein](https://open.spotify.com/album/3TQLdl04Vv7lVCcQwhVm9o) | 2:52 |
 | 49 | [Subah Subah](https://open.spotify.com/track/2IzkJw27LtR8489aMzdVVC) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9) | [Subah Subah](https://open.spotify.com/album/0zMhkwVuNQ18vUDxnQeS9K) | 2:40 |
 | 50 | [Khali Khali](https://open.spotify.com/track/3QlxGzvkF9i963G3m8n7Z6) | [Shubhangi Dave](https://open.spotify.com/artist/4SHODWsXbqsZWWevkP8LIW) | [Khali Khali](https://open.spotify.com/album/6nzjLty8yrwWBTMq5UdXqC) | 3:32 |
 | 51 | [Beparwah Ishq](https://open.spotify.com/track/1c4yC1AqfnGKmswWKXWL0d) | [Nikhil Pawar Music](https://open.spotify.com/artist/1wZDI0EEb9RnZBkn8s1fck), [Ishaan Nigam](https://open.spotify.com/artist/7t0r7FfBdamMr706MF59G2) | [Beparwah Ishq](https://open.spotify.com/album/4rxXqAqWa2x6l0VDR0jzPf) | 2:58 |
 | 52 | [Azaad Sapne](https://open.spotify.com/track/1vjwHzPomh2Wl7fW47pG3S) | [Samahita Narang](https://open.spotify.com/artist/4EBQpbs8lhMmXp1ZLNAQl4) | [Azaad Sapne](https://open.spotify.com/album/7GZyQnP6UQUMV9l0XbvfLQ) | 3:32 |
 | 53 | [Tera Junoon](https://open.spotify.com/track/0dwrjtyiGDQe10u9VZkkUn) | [Madhav Mahajan](https://open.spotify.com/artist/2o3BjrezOtEh2AfODNjLXX) | [Tera Junoon](https://open.spotify.com/album/5foF2jYpEh28PxsAgdFP7G) | 4:55 |
 | 54 | [Kabhi Sunlo](https://open.spotify.com/track/6MlQwp9nBZPcnQ7nkznQs3) | [Nishi Chauhan](https://open.spotify.com/artist/48N1w5HaFEbJTs07fvA1e3) | [Kabhi Sunlo](https://open.spotify.com/album/08FD0lOzps0Vpb8as7zsBA) | 4:17 |
-| 55 | [Flow](https://open.spotify.com/track/5V2pcYUJTC7wL6RjV4eKl4) | [Zaee](https://open.spotify.com/artist/2ZX97Jn37J8G1o3CTynG7q) | [Flow](https://open.spotify.com/album/6q492OlZkYWUHGDXvvR9z0) | 5:15 |
+| 55 | [Flow](https://open.spotify.com/track/5V2pcYUJTC7wL6RjV4eKl4) | [ZAEE](https://open.spotify.com/artist/2ZX97Jn37J8G1o3CTynG7q) | [Flow](https://open.spotify.com/album/6q492OlZkYWUHGDXvvR9z0) | 5:15 |
 | 56 | [Mum's Lullaby](https://open.spotify.com/track/1EimNjpNyIwqyCUQDMjp98) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [In My Asymmetry](https://open.spotify.com/album/4NLb0h3nkBu5NyKzJouygK) | 3:07 |
 | 57 | [Addiction](https://open.spotify.com/track/7bMsJ2tmj5vvHit40O43MG) | [Prince Sharma](https://open.spotify.com/artist/2FMda77WYJdpehvWbSmMyP) | [Addiction](https://open.spotify.com/album/53KIKIIuX87USzhUPpGUXM) | 3:15 |
 | 58 | [Saawan](https://open.spotify.com/track/7ypLdzlFPCPkNSQw1E7RK2) | [Akbar Wasif](https://open.spotify.com/artist/07G9Nz6p26J0cI3VhLzMrT) | [Saawan](https://open.spotify.com/album/0b9GYu9ZIbLFjjxxUWllBf) | 2:43 |

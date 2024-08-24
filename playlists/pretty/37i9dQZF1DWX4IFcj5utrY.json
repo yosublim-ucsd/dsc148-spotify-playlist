@@ -1,13 +1,33 @@
 {
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx?si=aTboVi-iSCCQb-Sq1fLRRA\">Jayda G</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=YK0nFpmcT7GzizH1e7bNwQ\">Sio</a> & <a href=\"https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=u34RXozVQma2PT7UApMHqA\">Kid Fonque</a>",
   "num_followers": 74116,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr6IcAAAAABDnZhqjvf2khzEs+9dxziU",
+  "snapshot_id": "ZsgkQQAAAAAC2i/5YE1fJh15bUxrzYM0",
   "tracks": [
+    {
+      "added_at": "2024-08-23 05:53:14",
+      "album": {
+        "name": "Rekindled",
+        "url": "https://open.spotify.com/album/5TImCleOgK4gc9QcogM8Zo"
+      },
+      "artists": [
+        {
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "duration_ms": 245970,
+      "name": "Rekindled",
+      "url": "https://open.spotify.com/track/7al4dZR5uPs09wrYmMHdtC"
+    },
     {
       "added_at": "2024-08-15 23:00:00",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan hits in one playlist\. Cover: Lamu
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,990 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,002 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 59 | [Twalina Nsii](https://open.spotify.com/track/4jys5pR0M6Fo1QoVJg9Pyo) | [TAM BOY](https://open.spotify.com/artist/6vOqCFxk4d0jIH9TonhiCb) | [Twalina Nsii](https://open.spotify.com/album/4ImDWDYQrvcqTnUEMVVCLp) | 2:10 |
 | 60 | [Filipa](https://open.spotify.com/track/2rjdyaSYYfMAGrQCRB9WqV) | [Airak](https://open.spotify.com/artist/25o0mksRbxTxyfzh2nmD4n) | [Filipa](https://open.spotify.com/album/7m0P0wpQMNZKFtziYkeO6E) | 2:04 |
 
-Snapshot ID: `ZsfQxAAAAAAUUwLWdSMuaVtkXuhnOSZY`
+Snapshot ID: `Zsg3CAAAAAAC4x9DhfPpwoI8625Q0Nc9`

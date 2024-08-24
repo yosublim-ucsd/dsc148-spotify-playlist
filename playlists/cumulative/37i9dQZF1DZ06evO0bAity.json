@@ -897,6 +897,28 @@
     },
     {
       "album": {
+        "name": "Modest Salary",
+        "url": "https://open.spotify.com/album/6eV9XYlKojqzT2axDWeA8x"
+      },
+      "artists": [
+        {
+          "name": "Trim Reaper",
+          "url": "https://open.spotify.com/artist/3uoZqnx4ljAAylcIFRCcGv"
+        },
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212311,
+      "name": "Modest Salary",
+      "url": "https://open.spotify.com/track/2WEpdc89yJXRNHooNcYrUD"
+    },
+    {
+      "album": {
         "name": "MURDER ME (DZ Deathrays Remix)",
         "url": "https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl"
       },

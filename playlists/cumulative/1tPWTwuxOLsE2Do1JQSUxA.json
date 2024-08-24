@@ -5931,6 +5931,28 @@
     },
     {
       "album": {
+        "name": "That Girl (Sped Up)",
+        "url": "https://open.spotify.com/album/3lUD3Fp7dIo0x4KRQbJtjt"
+      },
+      "artists": [
+        {
+          "name": "Olly Murs",
+          "url": "https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW"
+        },
+        {
+          "name": "sped up + slowed",
+          "url": "https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135933,
+      "name": "That Girl (Sped Up)",
+      "url": "https://open.spotify.com/track/7JdvmDLR3EKyXU7Yl9huZA"
+    },
+    {
+      "album": {
         "name": "7/27 (Deluxe)",
         "url": "https://open.spotify.com/album/24L75CzM3lqg3yAm4oTIVR"
       },

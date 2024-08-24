@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 159031,
       "name": "Algo Mejor",
       "url": "https://open.spotify.com/track/1Kdh7ieq52jm0aa7A3izgV"
@@ -2798,6 +2798,28 @@
       "duration_ms": 264266,
       "name": "Necio (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
+    },
+    {
+      "album": {
+        "name": "Ni Con \u00c9l, Ni Conmigo",
+        "url": "https://open.spotify.com/album/5wj31qM3yS7ykkbvzvBcpV"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227134,
+      "name": "Ni Con \u00c9l, Ni Conmigo",
+      "url": "https://open.spotify.com/track/19NuFFsZaydL7IOAQWp7lK"
     },
     {
       "album": {

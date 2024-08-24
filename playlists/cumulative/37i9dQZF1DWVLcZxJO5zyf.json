@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 152888,
       "name": "JOIA RARA",
       "url": "https://open.spotify.com/track/6L8aBaqfwMuwhpI9uhbyjp"
@@ -3044,6 +3044,32 @@
       "duration_ms": 158740,
       "name": "LOKKO",
       "url": "https://open.spotify.com/track/2xRyucSeonJTOAK8EBKFuC"
+    },
+    {
+      "album": {
+        "name": "EPIFANIA",
+        "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213125,
+      "name": "LOVE COMMUNITY",
+      "url": "https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU"
     },
     {
       "album": {
@@ -3664,7 +3690,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 127992,
       "name": "Monstr\u00e3o",
       "url": "https://open.spotify.com/track/2LZjtOXWZMSpRbQyd89HyQ"
@@ -4560,7 +4586,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 139300,
       "name": "PLAYGROUND",
       "url": "https://open.spotify.com/track/5gitknsNQkrsCwfIbWK8Kd"
@@ -5775,6 +5801,28 @@
     },
     {
       "album": {
+        "name": "solto (hist\u00f3rias de amor)",
+        "url": "https://open.spotify.com/album/1W8WFozGDueySUZcTJ5eKp"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190834,
+      "name": "solto (hist\u00f3rias de amor)",
+      "url": "https://open.spotify.com/track/56RKGwqSeMhb8qSBJLOMSx"
+    },
+    {
+      "album": {
         "name": "Sonhei",
         "url": "https://open.spotify.com/album/0z1noCAhaDkupYaBiTJ38o"
       },
@@ -5868,6 +5916,24 @@
       "duration_ms": 210461,
       "name": "Sou M\u00e1",
       "url": "https://open.spotify.com/track/34H4IXC9nFhmxYQlFm5PzJ"
+    },
+    {
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0OlaUpNPhRm8mnEcOwEcfK"
+      },
+      "artists": [
+        {
+          "name": "Any Gabrielly",
+          "url": "https://open.spotify.com/artist/7Exa8X6gyaqkug3tLGVKje"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162838,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/3Zps8PNjvaapLmUM63mQ3Q"
     },
     {
       "album": {

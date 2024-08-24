@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada. Elevate your aura with Avenoir from Edmonton.",
+  "description": "This is R&B in Canada: elevate your aura with Chxrry22, from Scarborough, ON.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -2972,6 +2972,24 @@
       "duration_ms": 216760,
       "name": "careless (feat. daniel caesar)",
       "url": "https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi"
+    },
+    {
+      "album": {
+        "name": "Catch & Release",
+        "url": "https://open.spotify.com/album/1XOuyWT4IruX0uh1XpyJrm"
+      },
+      "artists": [
+        {
+          "name": "Tia Wood",
+          "url": "https://open.spotify.com/artist/0NPcTqtChsRP52BHjPGJLC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145212,
+      "name": "Catch & Release",
+      "url": "https://open.spotify.com/track/6XKh5DQ1V5ZFvbG64SFIBY"
     },
     {
       "album": {
@@ -6024,7 +6042,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 183346,
       "name": "Favorite Girl (feat. Offset)",
       "url": "https://open.spotify.com/track/1FLoO1AlfxAqJ84FIeJrKZ"
@@ -7259,6 +7277,28 @@
     },
     {
       "album": {
+        "name": "Groove",
+        "url": "https://open.spotify.com/album/6plRhpIeWMZF9lnFLXddeN"
+      },
+      "artists": [
+        {
+          "name": "Shann Aberdeen",
+          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
+        },
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198247,
+      "name": "Groove",
+      "url": "https://open.spotify.com/track/0BgCVdM786Ng9PZ9P1zsD8"
+    },
+    {
+      "album": {
         "name": "Close to the Sun",
         "url": "https://open.spotify.com/album/2wDvlPsHlBWITcHubQ0NZk"
       },
@@ -7682,7 +7722,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 139477,
       "name": "Hesitate (feat. Sarz)",
       "url": "https://open.spotify.com/track/7yt0Ztij2cYSDilBj9R9qb"
@@ -8136,7 +8176,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 162578,
       "name": "Hot",
       "url": "https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF"
@@ -10830,7 +10870,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 161221,
       "name": "Losing Game",
       "url": "https://open.spotify.com/track/5PPyoB4Jn3S1p8MkThOWSx"
@@ -14703,6 +14743,24 @@
     },
     {
       "album": {
+        "name": "Poppin Out (Mistakes)",
+        "url": "https://open.spotify.com/album/13A8l83ce8GMpqzjsbrgmd"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154212,
+      "name": "Poppin Out (Mistakes)",
+      "url": "https://open.spotify.com/track/5LWazXYOx5t8R5EPFuROfL"
+    },
+    {
+      "album": {
         "name": "The Highlights (Deluxe)",
         "url": "https://open.spotify.com/album/18sR8zHx4zsVJUI4bHWuPC"
       },
@@ -18334,7 +18392,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 161176,
       "name": "Take Off",
       "url": "https://open.spotify.com/track/2QFiTd78rjiCIKBQYESI9m"
@@ -18494,7 +18552,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 231691,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/0ZcA1W51b0NeKhoQzHdA7Q"
@@ -19840,6 +19898,24 @@
       "duration_ms": 172928,
       "name": "Tu T'en Souviens - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc"
+    },
+    {
+      "album": {
+        "name": "Twilight One",
+        "url": "https://open.spotify.com/album/7dnFnR9U4k8CvyQyQypzfI"
+      },
+      "artists": [
+        {
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197116,
+      "name": "Twilight One",
+      "url": "https://open.spotify.com/track/2wtcuo2Y0bSIFXsb49ZHG6"
     },
     {
       "album": {

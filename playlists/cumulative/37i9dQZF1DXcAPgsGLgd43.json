@@ -23,6 +23,36 @@
     },
     {
       "album": {
+        "name": "ABCD",
+        "url": "https://open.spotify.com/album/0yw8VFXJja3gI8H5tA2Sf6"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "El Chuape",
+          "url": "https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9"
+        },
+        {
+          "name": "Bomber",
+          "url": "https://open.spotify.com/artist/3PbIzHuNB1r5G01ZRPvfVa"
+        },
+        {
+          "name": "Ale Zuber",
+          "url": "https://open.spotify.com/artist/7FEaPc2JZbJLMu1aDItr8S"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133125,
+      "name": "ABCD",
+      "url": "https://open.spotify.com/track/6anCwyjY5vijE3AVBPiC3h"
+    },
+    {
+      "album": {
         "name": "Adios",
         "url": "https://open.spotify.com/album/2Y5HkAKcA98j4dugmg2yms"
       },
@@ -2479,6 +2509,24 @@
     },
     {
       "album": {
+        "name": "Fan\u00e1tico",
+        "url": "https://open.spotify.com/album/2U0pg0YZpN2CbCLFnhm9jV"
+      },
+      "artists": [
+        {
+          "name": "Paskman",
+          "url": "https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Fan\u00e1tico",
+      "url": "https://open.spotify.com/track/0zjlFMd5NRR1XrOwP2ZTtQ"
+    },
+    {
+      "album": {
         "name": "Felicidad (Colombian Mix)",
         "url": "https://open.spotify.com/album/6IYzRZ6FfbYaueT0vivHSF"
       },
@@ -4128,7 +4176,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 330000,
       "name": "Movimiento",
       "url": "https://open.spotify.com/track/7fdSynQodvEutcIRLTJh7e"
@@ -4380,7 +4428,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 200952,
       "name": "PACHAMAMA",
       "url": "https://open.spotify.com/track/3p576qISnAn3OnqfS9AsrI"
@@ -5404,7 +5452,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 151384,
       "name": "TABLA",
       "url": "https://open.spotify.com/track/0jpqvB6Up1DTAD3XSfaBUu"
@@ -6448,6 +6496,32 @@
       "duration_ms": 176640,
       "name": "Yabisa - Radio Mix",
       "url": "https://open.spotify.com/track/7w8gLFcrHRBB6xkkrLcvd6"
+    },
+    {
+      "album": {
+        "name": "Yo Contigo",
+        "url": "https://open.spotify.com/album/0nSlUHddS5dfclkjaUF3z8"
+      },
+      "artists": [
+        {
+          "name": "ATALE",
+          "url": "https://open.spotify.com/artist/4dcX4RK3q1qFZaOqyANmut"
+        },
+        {
+          "name": "Lion",
+          "url": "https://open.spotify.com/artist/6D1hKCdOPTrPRBowFYJbhk"
+        },
+        {
+          "name": "donatello.",
+          "url": "https://open.spotify.com/artist/1o0PcS7q3tbBgI1MFc2RQ7"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Yo Contigo",
+      "url": "https://open.spotify.com/track/4hxjSgsOe5hCNwFv4L2IbI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ">Run Into Waves</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,732 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,745 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 35 | [Better Days](https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Better Days](https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt) | 3:28 |
 | 36 | [Like You Madly](https://open.spotify.com/track/2gmnVYIuxe7mbgxjACZIp9) | [Just Jinger](https://open.spotify.com/artist/0xj7PKQWdYs0GRijWUtYTo) | [All Comes Round 20th Anniversary Edition](https://open.spotify.com/album/1R71jHIqikADJY5tAtNl4X) | 3:36 |
 | 37 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
-| 38 | [VRY WIL ONS WEES](https://open.spotify.com/track/1QQVztQfIgz8Yfp8sttEtY) | [Jonah](https://open.spotify.com/artist/1cyng9F206AdhCPdiBueLk) | [VRY WIL ONS WEES](https://open.spotify.com/album/5g2Hb6znFRVOa8XUhVx4Uo) | 2:59 |
-| 39 | [Altyd Daar](https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Altyd Daar](https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab) | 4:15 |
+| 38 | [Altyd Daar](https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Altyd Daar](https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab) | 4:15 |
+| 39 | [VRY WIL ONS WEES](https://open.spotify.com/track/1QQVztQfIgz8Yfp8sttEtY) | [Jonah](https://open.spotify.com/artist/1cyng9F206AdhCPdiBueLk) | [VRY WIL ONS WEES](https://open.spotify.com/album/5g2Hb6znFRVOa8XUhVx4Uo) | 2:59 |
 | 40 | [Burn Out](https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY) | [Pony Jones](https://open.spotify.com/artist/7AzbYu4z6CpgR2OSrb4DM2) | [One](https://open.spotify.com/album/1eufrzhisuPjdBsiToqi1e) | 2:41 |
 | 41 | [Twisted](https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd) | [CrashCarBurn](https://open.spotify.com/artist/184sdcjHnD6iVWbPEhxJoC) | [Long Live Tonight](https://open.spotify.com/album/1SrN5UhQ6uqqkFhMlsQwNo) | 4:04 |
 | 42 | [Solo](https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7) | [Sonofold](https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD) | [Solo](https://open.spotify.com/album/5toycwLOrTEoVW78Z8foya) | 3:49 |
-| 43 | [I'm On My Way](https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [I'm On My Way](https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A) | 3:08 |
-| 44 | [Katedraal](https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Heelal](https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw) | 4:07 |
+| 43 | [Katedraal](https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Heelal](https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw) | 4:07 |
+| 44 | [I'm On My Way](https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [I'm On My Way](https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A) | 3:08 |
 | 45 | [Geen Vrede](https://open.spotify.com/track/4Nrz4346TrtEM1o2RAnELo) | [Elsje du Toit](https://open.spotify.com/artist/6miepPtiQawx256JNyCecF) | [Geen Vrede](https://open.spotify.com/album/0M9N3Imf9ClenPXudEey8h) | 3:47 |
 | 46 | [My Ek\(skuus\)](https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D) | [Dans Dans Lisa](https://open.spotify.com/artist/6Kasz09T76a1IAveNC2xZH) | [Die gids vir grootword](https://open.spotify.com/album/1NmIZyDHE2FJmqH5EZPejU) | 3:37 |
 | 47 | [Joune](https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [Joune](https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db) | 2:54 |
-| 48 | [Voel Jy Dit?](https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Voel Jy Dit?](https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7) | 2:51 |
-| 49 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
+| 48 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
+| 49 | [Voel Jy Dit?](https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Voel Jy Dit?](https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7) | 2:51 |
 | 50 | [Neon Bloodstains](https://open.spotify.com/track/3wUM1lQBu9bNj8kbHEKx3I) | [Crash And The Void](https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo), [Johni Holiday](https://open.spotify.com/artist/5olOTP2GaaiZP7ETJdvXH2) | [Neon Bloodstains](https://open.spotify.com/album/6AtsLU6ZKNfER256miHZ0l) | 4:51 |
 
 Snapshot ID: `Zr56YAAAAAB33B6BErVShnMMVH2CoEbg`

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO4d4SIi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4d4SIi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4d4SIi)
 
-### [This is Jordan Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4d4SIi)
+### [This Is Jordan Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4d4SIi)
 
-> This is Jordan Davis\. De essentiële nummers, allemaal in één playlist.
+> This is Jordan Davis\. The essential tracks, all in one playlist.
 
 54 songs - 2 hr 50 min
 

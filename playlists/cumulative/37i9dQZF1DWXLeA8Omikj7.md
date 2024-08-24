@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-973 songs - 2 day 21 hr 44 min
+974 songs - 2 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,7 @@
 | [Keep Shimmering](https://open.spotify.com/track/7d5W34LzqiRbH8LCOZw7zz) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [Please Keep Shimmering](https://open.spotify.com/album/0Jb1QT42kUlDfl7gQzzGxM) | 4:23 | 2023-08-22 | 2023-09-16 |
 | [keepsakeFM](https://open.spotify.com/track/66ic3WTFVUyXNGItFa7o6E) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [keepsakeFM](https://open.spotify.com/album/360zxWjheLBzqwv5hVm7QD) | 3:19 | 2024-08-05 |  |
 | [Kelmpt Lon](https://open.spotify.com/track/6ZJn9cMCAlFan6vy0tfUrS) | [Prospect Lux](https://open.spotify.com/artist/4LARm1gooSxp8vDN3u7RoT) | [Gray Instrument, Vol\. 2](https://open.spotify.com/album/3UQxLmOATVuciip9vTl4rJ) | 4:34 | 2020-05-20 | 2020-10-22 |
-| [Kindness](https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Kindness](https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t) | 4:35 | 2021-08-13 |  |
+| [Kindness](https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Kindness](https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t) | 4:35 | 2021-08-13 | 2024-08-24 |
 | [Knows No End](https://open.spotify.com/track/3I0YRqrBMoA4DAlK3MKj34) | [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [After All This Time](https://open.spotify.com/album/5fQZ7mthdgHZVxmLjuk1Bp) | 5:36 | 2024-01-26 | 2024-02-13 |
 | [Knows No End](https://open.spotify.com/track/3bRHsTDn4w7u2zllW5oiei) | [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [Knows No End](https://open.spotify.com/album/6iyHGaoFv7ABdWev0JDjy1) | 5:36 | 2021-09-10 | 2022-07-29 |
 | [Kora](https://open.spotify.com/track/6keksRelqpwkzSEjscx8lH) | [Ineffekt](https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg) | [Kora](https://open.spotify.com/album/4EBhh3bqst5cQVnFkkjWQV) | 4:13 | 2021-07-30 | 2022-07-28 |
@@ -590,6 +590,7 @@
 | [Nyquist](https://open.spotify.com/track/2vPlEZrLXYhZkMzEFyfroi) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [mau5ville: Level 1](https://open.spotify.com/album/1DH1jrRHjCyAEDwTmHmMZe) | 3:18 | 2019-06-19\* | 2020-10-21 |
 | [Observatory](https://open.spotify.com/track/03cokFHBxSgFZxfVJ0N8U6) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [Observatory](https://open.spotify.com/album/4LJiWGLyWHTGouMFDRVoom) | 2:14 | 2019-06-19\* | 2020-10-21 |
 | [Observer](https://open.spotify.com/track/5WFbxlg2dUDhSMGkP6VTZe) | [DigiDogz](https://open.spotify.com/artist/1dcQEHWXq8rz6vcSxHiaCY) | [Observer](https://open.spotify.com/album/72P46Z6pwyFLaZChEfqHKG) | 3:42 | 2019-06-19\* | 2022-04-21 |
+| [Ocotillo](https://open.spotify.com/track/0VmJyEuoZ3nIzpHgahM05I) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Ocotillo](https://open.spotify.com/album/6nhojCNg9ggxmaEXrVxLCH) | 8:43 | 2024-08-23 |  |
 | [October](https://open.spotify.com/track/20yRqzq5FEzgirJAUT4TIr) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [October](https://open.spotify.com/album/0ALujZZFOWQaHKKTN5s6m0) | 5:35 | 2021-08-20 | 2022-07-14 |
 | [Odyssée](https://open.spotify.com/track/3J9N8f8pBJxAoFwACKJPHN) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Ceremony](https://open.spotify.com/album/6TL4avCkN5YCaTwsosOP2v) | 4:40 | 2019-06-20 | 2020-10-19 |
 | [Olo](https://open.spotify.com/track/2P8CicrYJacONOh0F9awzs) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Olo](https://open.spotify.com/album/27sPbhj334yQduAIlmLwy7) | 4:37 | 2024-08-02 |  |

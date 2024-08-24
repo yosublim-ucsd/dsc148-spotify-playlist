@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Remy Bond <3",
+  "description": "ft Luna Li \u2728",
   "name": "Lorem",
   "tracks": [
     {
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 177254,
       "name": "Alone At Last",
       "url": "https://open.spotify.com/track/3WcoEtoORwkNP1h6V1CGCE"
@@ -4852,7 +4852,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 224429,
       "name": "Believe",
       "url": "https://open.spotify.com/track/11kpeMIYPxxa7KwPtXqqpB"
@@ -5690,7 +5690,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 233095,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
@@ -12227,6 +12227,24 @@
     },
     {
       "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/7IxsGUvcgSIyxvwvoyr162"
       },
@@ -13229,6 +13247,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206295,
+      "name": "Don\u2019t Smile",
+      "url": "https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR"
+    },
+    {
+      "album": {
         "name": "Doodoodoo",
         "url": "https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW"
       },
@@ -13972,6 +14008,24 @@
       "duration_ms": 134769,
       "name": "Duke and the Cash",
       "url": "https://open.spotify.com/track/6OhrBMenfA6uNcpuXBmTiD"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133478,
+      "name": "Dumb & Poetic",
+      "url": "https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR"
     },
     {
       "album": {
@@ -17825,7 +17879,7 @@
     },
     {
       "album": {
-        "name": "Get down / Loving you",
+        "name": "Get down / Lovin you",
         "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
       },
       "artists": [
@@ -19676,7 +19730,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -22813,6 +22867,28 @@
     },
     {
       "album": {
+        "name": "I Found You Out",
+        "url": "https://open.spotify.com/album/6eQPsCQX1gt6YJYHw88unZ"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Alias Error",
+          "url": "https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "I Found You Out",
+      "url": "https://open.spotify.com/track/6gFIyVCQiY5ZUFWiVCNH8M"
+    },
+    {
+      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/0vfrwv3RvGaby6W4gMfh2E"
       },
@@ -24410,7 +24486,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 212866,
       "name": "Image",
       "url": "https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp"
@@ -25032,6 +25108,28 @@
       "duration_ms": 203628,
       "name": "It Gets Dark",
       "url": "https://open.spotify.com/track/5DxVRNrKQJkjibB6jmUhej"
+    },
+    {
+      "album": {
+        "name": "It Gets Easier",
+        "url": "https://open.spotify.com/album/0rDIjpyV5oYjnZdRZUtwT3"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        },
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155773,
+      "name": "It Gets Easier",
+      "url": "https://open.spotify.com/track/62ZTzwoCs7AmirXl7BSpni"
     },
     {
       "album": {
@@ -26310,6 +26408,24 @@
       "duration_ms": 226355,
       "name": "Killing Me Softly With His Song - Spotify Singles",
       "url": "https://open.spotify.com/track/3bhNKifdyaf0TUr7bBxQGU"
+    },
+    {
+      "album": {
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233546,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/7fvld2LGlUhz15CjeaLewh"
     },
     {
       "album": {
@@ -43013,6 +43129,24 @@
     },
     {
       "album": {
+        "name": "Someone Asked Me How I've Been",
+        "url": "https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Someone Asked Me How I've Been",
+      "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
+    },
+    {
+      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
       },
@@ -47437,6 +47571,24 @@
     },
     {
       "album": {
+        "name": "When a Thought Grows Wings",
+        "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223929,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke"
+    },
+    {
+      "album": {
         "name": "That's Life",
         "url": "https://open.spotify.com/album/5lCRiEhGqKcWZbqMdzrZ9j"
       },
@@ -47560,6 +47712,24 @@
       "duration_ms": 165773,
       "name": "The aisle",
       "url": "https://open.spotify.com/track/6SjxVgMjH3b3AI4wVviZfi"
+    },
+    {
+      "album": {
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "The Ballad of Matt & Mica",
+      "url": "https://open.spotify.com/track/4j9WdbfKvyx7fBQb4qygYr"
     },
     {
       "album": {
@@ -47708,7 +47878,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 391093,
       "name": "The Downtown Lights",
       "url": "https://open.spotify.com/track/38TMvbDxQCQJm9nzHqmpiK"
@@ -50029,6 +50199,24 @@
     },
     {
       "album": {
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305520,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/3LlQyxWlsx8y4rZtkETUjl"
+    },
+    {
+      "album": {
         "name": "I'm Green",
         "url": "https://open.spotify.com/album/1upKvbsQau0k852Ol079dD"
       },
@@ -50902,7 +51090,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 163720,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB"

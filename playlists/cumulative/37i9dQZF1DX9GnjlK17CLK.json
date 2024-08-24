@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 162626,
       "name": "$ 10,000 Lincoln Continental",
       "url": "https://open.spotify.com/track/1z686zatCt0J4bWwdRRQpN"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 360067,
       "name": "I Was Coming Home",
       "url": "https://open.spotify.com/track/5FQAySazGzq0jIsPG0XJ7H"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 188840,
       "name": "Ice Pick",
       "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
@@ -1328,6 +1328,24 @@
       "duration_ms": 221360,
       "name": "Things I Used to Do",
       "url": "https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P"
+    },
+    {
+      "album": {
+        "name": "Aynsley Dunbar Retaliation",
+        "url": "https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB"
+      },
+      "artists": [
+        {
+          "name": "Aynsley Dunbar Retaliation",
+          "url": "https://open.spotify.com/artist/5PwOYsK8fRoIJcMxXBwdhX"
+        }
+      ],
+      "date_added": "2024-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "Trouble No More",
+      "url": "https://open.spotify.com/track/5womcB5G4gMK8bO0WF2gCA"
     },
     {
       "album": {

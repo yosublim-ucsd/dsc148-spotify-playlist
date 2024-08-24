@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,366 likes - 99 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,435 likes - 99 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Uno Dos Tres](https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [VÅGA](https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ) | 2:33 |
-| 2 | [Lover](https://open.spotify.com/track/28tmgW1cStfjnvE3zQARhd) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wanderland](https://open.spotify.com/album/46aeuItpjIlt7UFkiJx0JH) | 2:07 |
-| 3 | [SAHBI](https://open.spotify.com/track/7daGugofgBVQN2TGIrlFjO) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [SAHBI](https://open.spotify.com/album/4rJgeIJrPR81atptFEp9fD) | 2:34 |
-| 4 | [Acceptera](https://open.spotify.com/track/0OqlEhg5I1l1vzS9kLxLfa) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Projekt 43](https://open.spotify.com/album/59ioptJOj6d3TcroQypYg1) | 1:50 |
-| 5 | [Habibi You](https://open.spotify.com/track/4IyVIKG3ecTEMzc9iY1BYb) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Habibi You](https://open.spotify.com/album/1oZxYI2x03nykDvfkInDAf) | 1:54 |
+| 2 | [Habibi You](https://open.spotify.com/track/4IyVIKG3ecTEMzc9iY1BYb) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8) | [Habibi You](https://open.spotify.com/album/1oZxYI2x03nykDvfkInDAf) | 1:54 |
+| 3 | [Lover](https://open.spotify.com/track/28tmgW1cStfjnvE3zQARhd) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wanderland](https://open.spotify.com/album/46aeuItpjIlt7UFkiJx0JH) | 2:07 |
+| 4 | [SAHBI](https://open.spotify.com/track/7daGugofgBVQN2TGIrlFjO) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR) | [SAHBI](https://open.spotify.com/album/4rJgeIJrPR81atptFEp9fD) | 2:34 |
+| 5 | [Acceptera](https://open.spotify.com/track/0OqlEhg5I1l1vzS9kLxLfa) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Projekt 43](https://open.spotify.com/album/59ioptJOj6d3TcroQypYg1) | 1:50 |
 | 6 | [RÄTT & FEL](https://open.spotify.com/track/179XVuqKFmRH2uYHe1JAcI) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [RÄTT & FEL](https://open.spotify.com/album/3JwpRGw1884mK1G1Cw4lYE) | 2:19 |
 | 7 | [MED MIG](https://open.spotify.com/track/4SKpweHR5pHDRnwmnehA70) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [ANTISOCIAL](https://open.spotify.com/album/5ij45jgLJaREQE57Edkwqn) | 2:09 |
 | 8 | [Fin & Bad](https://open.spotify.com/track/7nwxrW8dM7LJWQ5ne64Adj) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Fin & Bad](https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d) | 2:01 |
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 12 | [Du & Jag](https://open.spotify.com/track/3ECiakfWYQGpy4fK9A4qF6) | [Robbz x Brookz](https://open.spotify.com/artist/28Yka7aPiP0TcDk7TYH14h) | [Du & Jag](https://open.spotify.com/album/6A3hju6JdmO8rzuW15ZCGs) | 3:03 |
 | 13 | [PUERTO BANUS](https://open.spotify.com/track/5suSm6IuqrTNv6FpQH91sw) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [PUERTO BANUS](https://open.spotify.com/album/64zWt948Xq4UOVDJAHWt4p) | 2:47 |
 | 14 | [Smattring Season](https://open.spotify.com/track/64TcBb90O8G0WqI8QUl15U) | [La Rosy](https://open.spotify.com/artist/1pBol2ATUI6hXWOzZQnrcP), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN) | [Smattring Season](https://open.spotify.com/album/0f1SCArv9TFVW8RqBLeNGr) | 2:40 |
-| 15 | [Sista Gång](https://open.spotify.com/track/2i659C6ywROaFG0kj5eOoA) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Sista Gång](https://open.spotify.com/album/4sXaL6DwBY0XD5GhIBdcD6) | 2:37 |
-| 16 | [LÄKA](https://open.spotify.com/track/021i1jMG2nPs2bZtT5qVzl) | [W8](https://open.spotify.com/artist/6YKQSxe0IqPWWEVEqvxlVF) | [LÄKA](https://open.spotify.com/album/59c4IXcV2jThXojl3nuhzN) | 2:49 |
-| 17 | [STOD I REGNET](https://open.spotify.com/track/5DkPZyFVVPMMPE1jqIoo3k) | [Revilo](https://open.spotify.com/artist/5dbZrhH9p0IwNpJjSsv7Ms), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [STOD I REGNET](https://open.spotify.com/album/3OF2LztRyQoabkkuUVi8ot) | 2:12 |
-| 18 | [12 TILL 12](https://open.spotify.com/track/0NXCz1UPj02vrEBG4PwFZW) | [P.J](https://open.spotify.com/artist/26SfC2rUkcGiSpZfLtla29), [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [12 TILL 12](https://open.spotify.com/album/1rUkH0fzp1I2Ddizfi5GaX) | 2:04 |
-| 19 | [Civila](https://open.spotify.com/track/0RvOZQqJDnaFt02wY49m1b) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Civila](https://open.spotify.com/album/3dlxEwoVm75t4Aq9nLLheg) | 2:25 |
-| 20 | [Du \(Krossa alla fönster\)](https://open.spotify.com/track/3JxPZv8cFAqksKfIbaw38S) | [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Du \(Krossa alla fönster\)](https://open.spotify.com/album/5v8dKEBAojeoDHid9247g8) | 2:16 |
-| 21 | [CALMA](https://open.spotify.com/track/0ZW2C4Yd8HvGXM6jrLmChx) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [CALMA](https://open.spotify.com/album/0DNUkgfYrdwXS0HuUm2hGk) | 2:00 |
+| 15 | [CALMA](https://open.spotify.com/track/0ZW2C4Yd8HvGXM6jrLmChx) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [CALMA](https://open.spotify.com/album/0DNUkgfYrdwXS0HuUm2hGk) | 2:00 |
+| 16 | [Sista Gång](https://open.spotify.com/track/2i659C6ywROaFG0kj5eOoA) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Sista Gång](https://open.spotify.com/album/4sXaL6DwBY0XD5GhIBdcD6) | 2:37 |
+| 17 | [LÄKA](https://open.spotify.com/track/021i1jMG2nPs2bZtT5qVzl) | [W8](https://open.spotify.com/artist/6YKQSxe0IqPWWEVEqvxlVF) | [LÄKA](https://open.spotify.com/album/59c4IXcV2jThXojl3nuhzN) | 2:49 |
+| 18 | [STOD I REGNET](https://open.spotify.com/track/5DkPZyFVVPMMPE1jqIoo3k) | [Revilo](https://open.spotify.com/artist/5dbZrhH9p0IwNpJjSsv7Ms), [Adel](https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [STOD I REGNET](https://open.spotify.com/album/3OF2LztRyQoabkkuUVi8ot) | 2:12 |
+| 19 | [12 TILL 12](https://open.spotify.com/track/0NXCz1UPj02vrEBG4PwFZW) | [P.J](https://open.spotify.com/artist/26SfC2rUkcGiSpZfLtla29), [SH1](https://open.spotify.com/artist/6Vvqvx0OeiN43dllxyk4fB) | [12 TILL 12](https://open.spotify.com/album/1rUkH0fzp1I2Ddizfi5GaX) | 2:04 |
+| 20 | [Civila](https://open.spotify.com/track/0RvOZQqJDnaFt02wY49m1b) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Civila](https://open.spotify.com/album/3dlxEwoVm75t4Aq9nLLheg) | 2:25 |
+| 21 | [Du \(Krossa alla fönster\)](https://open.spotify.com/track/3JxPZv8cFAqksKfIbaw38S) | [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Du \(Krossa alla fönster\)](https://open.spotify.com/album/5v8dKEBAojeoDHid9247g8) | 2:16 |
 | 22 | [BARCELONA](https://open.spotify.com/track/0TrDjsenmLHhggbbTYjzW6) | [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [BARCELONA](https://open.spotify.com/album/3fOpUhtudpdN9JIQSIgZHJ) | 2:12 |
 | 23 | [MABROUK](https://open.spotify.com/track/096qS8ho2bEVbHjwMzsrA6) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0) | [MABROUK](https://open.spotify.com/album/2ohKoAcbAkhvLDEMGrEPAL) | 2:22 |
 | 24 | [95](https://open.spotify.com/track/3n3hEYCg8grGCoRZA4yjWE) | [Marti](https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm) | [95](https://open.spotify.com/album/2HwbbWJj2m6fsr3vjwyzCm) | 2:37 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 98 | [Toppisar i näven](https://open.spotify.com/track/5pfdTD19cacU3LuE3tYUWq) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [Toppisar i näven](https://open.spotify.com/album/7bKNMQqjtigotHwyVvX9xk) | 3:19 |
 | 99 | [Karma](https://open.spotify.com/track/4msrlt42vvHWVmfign6LuZ) | [Saliboy](https://open.spotify.com/artist/5im4dgusFQfg3u2UGPYvEF) | [Karma](https://open.spotify.com/album/7b8040WBgIR4nktSUJSYeY) | 2:42 |
 
-Snapshot ID: `Zse04AAAAABnhq64DnWSvMhpxeKY2bay`
+Snapshot ID: `ZsgYJAAAAABPo/cL8zQ2W9vPA4qNNRQl`

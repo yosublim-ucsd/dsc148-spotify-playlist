@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "New releases for the kids. Cover: John Legend",
+  "description": "New releases for the kids. Cover: Ronnie Boy Kids",
   "name": "New Kids Music",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 192600,
       "name": "...Baby One More Time (from Kung Fu Panda 4)",
       "url": "https://open.spotify.com/track/5wViaajeHHPZlEjBY9nhU3"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 166915,
       "name": "10 In The Bed (Roll Over)",
       "url": "https://open.spotify.com/track/0JMGdZigXqHJ1kiHtWKGFk"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 193158,
       "name": "A Broken Crayon",
       "url": "https://open.spotify.com/track/65uXTS3fIKBhjACUa8okBt"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 116141,
       "name": "A Touch of Magic",
       "url": "https://open.spotify.com/track/5GCnPH7lJgry1K21ddHX7z"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 191284,
       "name": "ABC Hop",
       "url": "https://open.spotify.com/track/0SweSPRBxWZGqnTbgTqPPG"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 165531,
       "name": "Air Guitar",
       "url": "https://open.spotify.com/track/0VxLC51fSALOrfaAoxVjHy"
@@ -220,6 +220,24 @@
       "duration_ms": 120272,
       "name": "All Bodies Are Good Bodies",
       "url": "https://open.spotify.com/track/4ZTMfcW0Hw9OkHghCwUifX"
+    },
+    {
+      "album": {
+        "name": "Alphabet Rhyme",
+        "url": "https://open.spotify.com/album/0UYsaQb7WRd0C0ua1biEJC"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172336,
+      "name": "Alphabet Rhyme",
+      "url": "https://open.spotify.com/track/4dLleJwbmymrg5uM0O7esV"
     },
     {
       "album": {
@@ -274,7 +292,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 81735,
       "name": "Asian Elephant",
       "url": "https://open.spotify.com/track/5nF2GOCZ73TWio4Jk5SyJL"
@@ -422,7 +440,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 141339,
       "name": "Baby Bot's ABC",
       "url": "https://open.spotify.com/track/0YnmWV2VolT9FbH7xIpEjR"
@@ -440,7 +458,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 88000,
       "name": "Baby Shark (Animals)",
       "url": "https://open.spotify.com/track/0CC3N7mdE7gfk8wPyfwSPj"
@@ -458,7 +476,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 132754,
       "name": "Babyccino",
       "url": "https://open.spotify.com/track/3awWk5jsMhGmft6kqI3D4M"
@@ -476,7 +494,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 126125,
       "name": "Bark to the Beat",
       "url": "https://open.spotify.com/track/5ihCjTGi93TjUl5KFgYs7E"
@@ -516,7 +534,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 259506,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/713NxSCpXnw0TbzXChrCEO"
@@ -672,7 +690,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 153310,
       "name": "Best Thing Ever - Dance Remix",
       "url": "https://open.spotify.com/track/07Z7wck6ixwgA8WWQw9qAN"
@@ -730,7 +748,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 174748,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/5aLhN97nbax9GJ4Z3WzIO0"
@@ -766,7 +784,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 126258,
       "name": "Bird Song",
       "url": "https://open.spotify.com/track/4p2jnkPVrdwGYMiH9fwUMs"
@@ -905,6 +923,28 @@
     },
     {
       "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/32vvZKKbnIbdMtoQrOOAcZ"
+      },
+      "artists": [
+        {
+          "name": "The Mik Maks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        },
+        {
+          "name": "Ava McInnes",
+          "url": "https://open.spotify.com/artist/6NWrE3Wz8ITXVkVg425nBo"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187605,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/1lN4ZcGZ7bkk5KeGs0IBVx"
+    },
+    {
+      "album": {
         "name": "Break the Pinata! (Songs For Kids)",
         "url": "https://open.spotify.com/album/4fii0c956boEU0T3cUClmo"
       },
@@ -1028,7 +1068,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 124190,
       "name": "Brunch Munch",
       "url": "https://open.spotify.com/track/5nYJUHUJNSwVMfU5wyTq7M"
@@ -1086,7 +1126,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 145733,
       "name": "Bug Bugs",
       "url": "https://open.spotify.com/track/27hfQMdyMYwbcnet3CdRXR"
@@ -1104,7 +1144,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 102973,
       "name": "Building Better for Everyone",
       "url": "https://open.spotify.com/track/5cr8Uc3H8MCl8lfgsPv6Eg"
@@ -1176,7 +1216,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 94500,
       "name": "Butterfly Song",
       "url": "https://open.spotify.com/track/2GcDWYVS7mlIe5BkJn5lnY"
@@ -1256,7 +1296,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 149443,
       "name": "Can't Stop Us",
       "url": "https://open.spotify.com/track/4hrZbNx0WysTDzupI1LJx6"
@@ -1310,7 +1350,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 197139,
       "name": "Chocolate Choco Choco",
       "url": "https://open.spotify.com/track/6trwHOXNMKvLfFPexwzFUY"
@@ -1328,7 +1368,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 177738,
       "name": "Chugga Chugga Choo Choo",
       "url": "https://open.spotify.com/track/4Y727qcaRxUxCneiQb0UA9"
@@ -1412,6 +1452,24 @@
       "duration_ms": 132000,
       "name": "Clipperty Clop",
       "url": "https://open.spotify.com/track/7fzvLNXrhWiV5ZG7JwVfsA"
+    },
+    {
+      "album": {
+        "name": "Just the Way You Are",
+        "url": "https://open.spotify.com/album/0RXlviCffVBHnzBbSeklSi"
+      },
+      "artists": [
+        {
+          "name": "Miss Katie Sings",
+          "url": "https://open.spotify.com/artist/0eaRnbfMCxjbORTx34afUP"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163075,
+      "name": "Come Out Feelings",
+      "url": "https://open.spotify.com/track/74aZbvaPLZhlHJhnFaFqnR"
     },
     {
       "album": {
@@ -1524,7 +1582,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 105075,
       "name": "Counting Fire Trucks",
       "url": "https://open.spotify.com/track/2TRQB9SRzixkgYpseXmEkv"
@@ -1578,7 +1636,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 210153,
       "name": "Cucumber Rumba",
       "url": "https://open.spotify.com/track/4pc6bmA3txy9k0hgBX7OK8"
@@ -1596,7 +1654,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 186579,
       "name": "D Is For Dancing",
       "url": "https://open.spotify.com/track/7rttMaviADSTAAlVrNB0UV"
@@ -1744,7 +1802,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 80071,
       "name": "Days of the Week (Songs for Teachers)",
       "url": "https://open.spotify.com/track/1t0vq7Oml9seMmiTmauT9z"
@@ -1784,7 +1842,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 145533,
       "name": "Dinosaur Roar",
       "url": "https://open.spotify.com/track/3rSSoXAQNB6ky9G8c5qhK4"
@@ -1828,7 +1886,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 111917,
       "name": "Do It Better",
       "url": "https://open.spotify.com/track/48qgCYVJ1WIV9zpBHZRvfk"
@@ -1846,7 +1904,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 125714,
       "name": "Do the Blippi Dance",
       "url": "https://open.spotify.com/track/3A5sevWvDQs617BpRGPBRh"
@@ -1864,7 +1922,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 138206,
       "name": "Do The Dip",
       "url": "https://open.spotify.com/track/3eLXG5CvITaLHia8aTajdR"
@@ -1940,7 +1998,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 237589,
       "name": "Don't Worry, Be Happy",
       "url": "https://open.spotify.com/track/2LH2rz8ZOCVpwKOCxqgYQC"
@@ -1962,7 +2020,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 31693,
       "name": "DORA - Official Theme Song",
       "url": "https://open.spotify.com/track/4JonSsKEXsSukG5wAOieEw"
@@ -2230,7 +2288,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 152440,
       "name": "Energy",
       "url": "https://open.spotify.com/track/1ONGzVWyVsahvw7uRUxFFC"
@@ -2256,7 +2314,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 134896,
       "name": "Equestria Girls (Cafeteria Song) - hyperpop remix [DJ Pon-3's Version]",
       "url": "https://open.spotify.com/track/45Sf1KIaTrumntl36nV8Qe"
@@ -2328,7 +2386,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 200856,
       "name": "Everybody Party",
       "url": "https://open.spotify.com/track/42WD6bDL7JlW2G8cWiXFY5"
@@ -2346,7 +2404,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 255665,
       "name": "Everybody Wants to Rule the World",
       "url": "https://open.spotify.com/track/7K7gmb6y6xdHR0ySXsss1L"
@@ -2364,7 +2422,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 170000,
       "name": "Excellence",
       "url": "https://open.spotify.com/track/1NLOTyWtMin38qtdwfpzIE"
@@ -2418,7 +2476,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 105410,
       "name": "Fairy Song",
       "url": "https://open.spotify.com/track/25xdfiK2QQy8v5I5a4PyGZ"
@@ -2443,6 +2501,28 @@
     },
     {
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/3BqReo7jRiKdG8GNOKB3oz"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Boy Kids",
+          "url": "https://open.spotify.com/artist/1K3KWU6neb0IFYos3nJe38"
+        },
+        {
+          "name": "Jeremy Passion",
+          "url": "https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195529,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/3Kun98bRs7DkRhIS5xyO1u"
+    },
+    {
+      "album": {
         "name": "Fart Song",
         "url": "https://open.spotify.com/album/4teeyA2k1hLK6tcnQMPuMl"
       },
@@ -2454,7 +2534,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 173418,
       "name": "Fart Song",
       "url": "https://open.spotify.com/track/5CTwsrsloYkhGjGrYRhKSt"
@@ -2664,10 +2744,28 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 117120,
       "name": "Fire Truck",
       "url": "https://open.spotify.com/track/3SoJzVHAWLr08rQerBHB9H"
+    },
+    {
+      "album": {
+        "name": "Fire Truck (Action Song)",
+        "url": "https://open.spotify.com/album/25JcqTn2g2lUN6vWKN7Z3J"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107827,
+      "name": "Fire Truck (Action Song)",
+      "url": "https://open.spotify.com/track/4wGDWCtQ8j5TzPbfuiP9of"
     },
     {
       "album": {
@@ -2722,7 +2820,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 198553,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5XVi2b9XfHjUeOSWdWp8e4"
@@ -2766,7 +2864,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 147540,
       "name": "Follow Your Passion",
       "url": "https://open.spotify.com/track/167R2ezxujzd4CA89RNZon"
@@ -3027,6 +3125,28 @@
     },
     {
       "album": {
+        "name": "Rockin\u2019 Ride-Along Songs Vol. 5",
+        "url": "https://open.spotify.com/album/6UCuL9pdhRVeJVLVZ7f33Z"
+      },
+      "artists": [
+        {
+          "name": "Nick Jr.",
+          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
+        },
+        {
+          "name": "Blaze and the Monster Machines",
+          "url": "https://open.spotify.com/artist/4WVT8k6aMXbGw9KgGqTk0l"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31166,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/2u72fa8ggNbLzMMuCUVkUF"
+    },
+    {
+      "album": {
         "name": "GOAT",
         "url": "https://open.spotify.com/album/1pB5U2qhiGwYHLOpncYJH7"
       },
@@ -3038,7 +3158,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 169525,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/5pdExwm51qWeFrP6WPmCyt"
@@ -3172,7 +3292,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 134855,
       "name": "Got the Magic Touch",
       "url": "https://open.spotify.com/track/4gAqR8ulhtLb3djEghY6us"
@@ -3208,7 +3328,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 129504,
       "name": "greedy",
       "url": "https://open.spotify.com/track/0iLxPWv05NhSpVJttYibEt"
@@ -3512,7 +3632,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 144000,
       "name": "Happy happy happy!",
       "url": "https://open.spotify.com/track/6zbNhypdaKL3kaTGpoYZFI"
@@ -3552,7 +3672,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 150333,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/7C4l2YAsRWb0pxUQWXAK7h"
@@ -3570,7 +3690,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 173267,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/2DdxnRvilAPgD0RGzd7FYs"
@@ -3588,7 +3708,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 100519,
       "name": "Happy Whale (Shake Your Tail)",
       "url": "https://open.spotify.com/track/4PdUr73v2I1rLJIV9qEURu"
@@ -3646,7 +3766,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 119978,
       "name": "Hello Everybody",
       "url": "https://open.spotify.com/track/4123v3VopASU20AYlIS2Eh"
@@ -3712,7 +3832,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 193692,
       "name": "Here Comes the Fire Truck (Caitie)",
       "url": "https://open.spotify.com/track/4P4oY8TvUfbHIsZC5SOGHx"
@@ -3730,7 +3850,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 152600,
       "name": "Here for You",
       "url": "https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae"
@@ -3748,7 +3868,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 122305,
       "name": "Hey Diddle Diddle",
       "url": "https://open.spotify.com/track/5CjQc6AFaaguvmLLwS2gdG"
@@ -3842,7 +3962,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 181186,
       "name": "Hippopotamus",
       "url": "https://open.spotify.com/track/4Ni9bzAJ3y4z6MKC7LRgwW"
@@ -3922,7 +4042,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 104000,
       "name": "Hot Wheels Let's Race Theme Song",
       "url": "https://open.spotify.com/track/5Jp4vRhQ4TLXrp9cnJfXu6"
@@ -3940,7 +4060,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 180709,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/2Nwn4dQ20bDNcxLXF59Kn9"
@@ -4020,7 +4140,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 47863,
       "name": "I Am Curious",
       "url": "https://open.spotify.com/track/16QAhMlpY6o4qoEQK6cucd"
@@ -4190,7 +4310,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 166491,
       "name": "I Love My Garbage Truck",
       "url": "https://open.spotify.com/track/3PpcKAAJE38yKAz3FE9sJ3"
@@ -4320,7 +4440,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 129882,
       "name": "I'm Happy",
       "url": "https://open.spotify.com/track/6r6o3KFnIjHq5oHh3KxEyo"
@@ -4360,7 +4480,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 103154,
       "name": "I've Got Confidence",
       "url": "https://open.spotify.com/track/1HjkX5t970MWFJzvsjjWR0"
@@ -4378,7 +4498,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 149425,
       "name": "I've Got Peace Like a River",
       "url": "https://open.spotify.com/track/510ei9SBlgA21Pd648Hyb2"
@@ -4414,7 +4534,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 125652,
       "name": "Ice Cream Sandwich",
       "url": "https://open.spotify.com/track/4MDIaRyVAmXCruZcoebrlC"
@@ -4432,7 +4552,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 99257,
       "name": "Icky Sticky Bubble Gum",
       "url": "https://open.spotify.com/track/6LXKQqTgF0L51EhtkrlCyJ"
@@ -4526,7 +4646,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 206873,
       "name": "Is It Over Now?",
       "url": "https://open.spotify.com/track/63DiqQdJ4NM12zT8d1Ov1q"
@@ -4544,7 +4664,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 130000,
       "name": "Is This A Dream?",
       "url": "https://open.spotify.com/track/6gBe3w57udxzCBv7RQnDub"
@@ -4588,7 +4708,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 212625,
       "name": "It Must Be Love",
       "url": "https://open.spotify.com/track/3FIEkSOrEHWeDwgUG9qgOV"
@@ -4668,7 +4788,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 139360,
       "name": "JIMBO",
       "url": "https://open.spotify.com/track/0ssG7DvqeIFzPDj4G6HZbl"
@@ -4690,6 +4810,24 @@
       "duration_ms": 163003,
       "name": "JJ Says",
       "url": "https://open.spotify.com/track/44pkcxAxTC6FQPjANGSdQ1"
+    },
+    {
+      "album": {
+        "name": "Jump in the Ball Pit!",
+        "url": "https://open.spotify.com/album/2cp12mlZpLeaLhaUwMTQQG"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Jump in the Ball Pit!",
+      "url": "https://open.spotify.com/track/3P5tUFnGfDMqKCJxTTUCjx"
     },
     {
       "album": {
@@ -4832,7 +4970,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 140176,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/0YKpv4IxAD40AkWAmBII1N"
@@ -4908,7 +5046,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 145655,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/3KMJq5A49Mpc7bp41KFsxy"
@@ -4926,7 +5064,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 136796,
       "name": "Let It Grow",
       "url": "https://open.spotify.com/track/3QFM5swbeGPgIzV3ucUlyQ"
@@ -4966,7 +5104,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 163640,
       "name": "Let It Roll - From \"The Garfield Movie\"",
       "url": "https://open.spotify.com/track/2sEY3b8G71YuHxlu5XWJMN"
@@ -5096,7 +5234,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 202734,
       "name": "Let's Move! Dance Party",
       "url": "https://open.spotify.com/track/1xpYDiirwCbQfqlpFloIFE"
@@ -5132,7 +5270,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 152601,
       "name": "Light It Up - From Monster High: Scaradise Island",
       "url": "https://open.spotify.com/track/5YFPCM5Mp1xzz0hqBddgW5"
@@ -5332,7 +5470,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 127701,
       "name": "Little Bee",
       "url": "https://open.spotify.com/track/19FeiLU74l2KTrSEkfQsJI"
@@ -5386,7 +5524,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 186666,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/5HJ3W41D8Hn27i5xh0smRF"
@@ -5506,7 +5644,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 190855,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/5QhVuThB74lRLXOYUfyPjS"
@@ -5532,7 +5670,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 220757,
       "name": "Lovable and Capable - All Star Remix",
       "url": "https://open.spotify.com/track/7qmhq9HB3avP0XWOMjhiXb"
@@ -5550,7 +5688,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 135724,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/5ttxYejlhiCwPTcTbNwqXu"
@@ -5608,7 +5746,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 131044,
       "name": "Magic Words Song",
       "url": "https://open.spotify.com/track/4lopHo0eInAeE6hvH4MMXh"
@@ -5644,7 +5782,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 141560,
       "name": "Make a Funny Face",
       "url": "https://open.spotify.com/track/63Q5CyN54WQ6ZSyCQTAoM1"
@@ -5804,10 +5942,28 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 178920,
       "name": "May I Please? Yes You May! (Noodle & Pals)",
       "url": "https://open.spotify.com/track/5qFiPmkh6jds6vZBXism8h"
+    },
+    {
+      "album": {
+        "name": "Me and Julio Down by the Schoolyard",
+        "url": "https://open.spotify.com/album/1wwygt8wXs4jrBQ0a93zdV"
+      },
+      "artists": [
+        {
+          "name": "The Rock & Roll Playhouse",
+          "url": "https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/4JTJlhiVJKs3rFi22v66yZ"
     },
     {
       "album": {
@@ -5844,6 +6000,24 @@
       "duration_ms": 179002,
       "name": "Mermaid",
       "url": "https://open.spotify.com/track/4r6yqniacnQJnKxOF25n2X"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/3fcpT9C5xaM6hBOuR13n2K"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155668,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7K9PMuKlniCS0uHRX0FWlU"
     },
     {
       "album": {
@@ -5952,7 +6126,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 123545,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1Exwbhd8aIXcL2UKIn0NxG"
@@ -5970,7 +6144,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 129000,
       "name": "Monster High: Scare-adise Island",
       "url": "https://open.spotify.com/track/7uAfuShD01CCJXMq4cB97g"
@@ -6013,6 +6187,24 @@
     },
     {
       "album": {
+        "name": "Peppa's Party! The Deluxe Album",
+        "url": "https://open.spotify.com/album/5E5mXcVjNZ3QmMlPFXPwXC"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166985,
+      "name": "Muddy Puddle Party",
+      "url": "https://open.spotify.com/track/4EiBbDwWGUFsBJnAo6RikV"
+    },
+    {
+      "album": {
         "name": "Sing, Dance, Party!, Vol. 3",
         "url": "https://open.spotify.com/album/2Gj36iVtMF0q9wiPHtfkcK"
       },
@@ -6024,7 +6216,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 146229,
       "name": "Muffin Man - Dance Party",
       "url": "https://open.spotify.com/track/38iH22CUVjeEv3PhacdKya"
@@ -6086,7 +6278,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 195633,
       "name": "My Glasses",
       "url": "https://open.spotify.com/track/2XeoRvyAtdzhrBsPE7erU2"
@@ -6104,7 +6296,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 145144,
       "name": "My Happy Song",
       "url": "https://open.spotify.com/track/30nDdPcP3FIIrEVjCiwDSE"
@@ -6314,7 +6506,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 48735,
       "name": "On the Move",
       "url": "https://open.spotify.com/track/6K5XchlE2N9Vg6mZhd9d0B"
@@ -6339,6 +6531,28 @@
     },
     {
       "album": {
+        "name": "On Top of Spaghetti",
+        "url": "https://open.spotify.com/album/7JOdBzuwWb25aEDz3HmGcm"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Romeo Eats",
+          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130341,
+      "name": "On Top of Spaghetti",
+      "url": "https://open.spotify.com/track/1DQuCk1DJjjxrSXc34Hmni"
+    },
+    {
+      "album": {
         "name": "Once I Caught A Fish Alive",
         "url": "https://open.spotify.com/album/45uPeLPoY0x1l8Kge7L1XN"
       },
@@ -6350,7 +6564,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 158571,
       "name": "Once I Caught A Fish Alive",
       "url": "https://open.spotify.com/track/7qmPqpOy2m1kmd0u9GNYar"
@@ -6368,7 +6582,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 159424,
       "name": "One Little Finger",
       "url": "https://open.spotify.com/track/3XH8hYYGsj0WJGhdoffsaT"
@@ -6408,7 +6622,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 110563,
       "name": "One, Two, Three, Four, Five",
       "url": "https://open.spotify.com/track/5BZD7BMR9zqVcTWCbtK4i8"
@@ -6426,7 +6640,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 117818,
       "name": "Onyx The Octopus",
       "url": "https://open.spotify.com/track/5Rju3uC6ltDkSWV08HJKwR"
@@ -6484,7 +6698,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 166666,
       "name": "Open Your Emotions",
       "url": "https://open.spotify.com/track/0C4tARGdysyWgiJrwDd0g7"
@@ -6596,7 +6810,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 159967,
       "name": "Pass the Bean Bag Freeze Game",
       "url": "https://open.spotify.com/track/0nqn11mFI9zLLp1FNQSzvj"
@@ -6672,7 +6886,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 163066,
       "name": "Penny Penguin",
       "url": "https://open.spotify.com/track/1xsphqCCfteAdePiGGyMD2"
@@ -6834,7 +7048,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 151926,
       "name": "Play Outside",
       "url": "https://open.spotify.com/track/3t4STKA849plfaghVfM57x"
@@ -6852,7 +7066,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 137227,
       "name": "Poof! I Am A Wizard And I Will Turn You Into An Inanimate Object Because An Old Man In The Woods Gave Me These Powers",
       "url": "https://open.spotify.com/track/3oLtkkqTaT9osPucTEnycZ"
@@ -7018,7 +7232,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 132155,
       "name": "Rainbow Song",
       "url": "https://open.spotify.com/track/5f2HdGMA0gsZ4T8VXSE9oO"
@@ -7036,7 +7250,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 92423,
       "name": "Raining Tacos",
       "url": "https://open.spotify.com/track/1Hu1d8wgDQbNOs1bNNkLID"
@@ -7054,7 +7268,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 146960,
       "name": "Recycling",
       "url": "https://open.spotify.com/track/0UjUZc2b0iwyZ5vDBcFrUa"
@@ -7120,7 +7334,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 218079,
       "name": "Roar",
       "url": "https://open.spotify.com/track/3uSkMumeDPJtIrXVIBJVqY"
@@ -7276,23 +7490,19 @@
       },
       "artists": [
         {
-          "name": "Nickelodeon",
-          "url": "https://open.spotify.com/artist/6EP1XFnygH4lAap7EsBs65"
+          "name": "Tami Neilson",
+          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
         },
         {
           "name": "Spongebob Squarepants",
           "url": "https://open.spotify.com/artist/3zCAmjKyHsG7kTGsls1cfj"
-        },
-        {
-          "name": "Tami Neilson",
-          "url": "https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3"
         }
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 100595,
-      "name": "Sandy Cheeks Theme (feat. Tami Neilson)",
+      "name": "Sandy Cheeks Theme",
       "url": "https://open.spotify.com/track/1rjPVQbvXGhZSyRRZIoDlz"
     },
     {
@@ -7308,7 +7518,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 77702,
       "name": "Say Hello with Baby Shark",
       "url": "https://open.spotify.com/track/2TvjnC7AynJ7jpuAl4hoqS"
@@ -7366,7 +7576,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 184114,
       "name": "Seven",
       "url": "https://open.spotify.com/track/5tfV7PqrtKIAfI6pqgZcoB"
@@ -7384,7 +7594,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 163916,
       "name": "Shapes Song",
       "url": "https://open.spotify.com/track/6Wngc5yIuzpZMMvYtICxNy"
@@ -7478,7 +7688,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 119974,
       "name": "Silly Bad Guys",
       "url": "https://open.spotify.com/track/7bVqndIGfEdtExbGT2sgR5"
@@ -7572,7 +7782,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 111327,
       "name": "Slime Song",
       "url": "https://open.spotify.com/track/3fp5qGSSnfUkiezSv6h2MG"
@@ -7590,7 +7800,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 160569,
       "name": "Sloth Song",
       "url": "https://open.spotify.com/track/4sub7oxrLD24rxycmqH3c6"
@@ -7674,7 +7884,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 103677,
       "name": "Soccer Rocker",
       "url": "https://open.spotify.com/track/4wHe3Rd59UDAmebosrnC5i"
@@ -7718,7 +7928,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 195483,
       "name": "Space Shuttle",
       "url": "https://open.spotify.com/track/7lMeJ4p2j2kGucx6Qzen0q"
@@ -7736,7 +7946,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 235224,
       "name": "Sparkle Shoelaces",
       "url": "https://open.spotify.com/track/6z0ILT30xQj7UYnW6IVxmS"
@@ -7790,7 +8000,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 126216,
       "name": "Spring",
       "url": "https://open.spotify.com/track/4ZOEcAn86j64Uf0V3vTLjZ"
@@ -7914,7 +8124,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 180630,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/3rnzQyGibuUqEJgVKL7lew"
@@ -7972,7 +8182,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 172239,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/2cdV8rABAvNCoXtyDIUhCI"
@@ -8012,7 +8222,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 129142,
       "name": "SUBS",
       "url": "https://open.spotify.com/track/6pwCquNMHo4z4gFJDSPgMd"
@@ -8030,7 +8240,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 172742,
       "name": "Summer",
       "url": "https://open.spotify.com/track/36JRsT1Je2TPxGrjMhUdXP"
@@ -8168,7 +8378,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 196543,
       "name": "Syzygy",
       "url": "https://open.spotify.com/track/1LBKOcvDxeoPzsP1hgQB5o"
@@ -8266,7 +8476,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 180066,
       "name": "Ten in a Bed",
       "url": "https://open.spotify.com/track/3KNAuymmvlnpImEZqDYlNx"
@@ -8372,7 +8582,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 95560,
       "name": "The Baby in the Bath (Finny the Shark)",
       "url": "https://open.spotify.com/track/7bZoJcaI4Y6mgiBj1B7nua"
@@ -8434,7 +8644,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 172973,
       "name": "The Birdies Sing",
       "url": "https://open.spotify.com/track/5Ea0sJ11pTMxnVEBWbyiYq"
@@ -8604,7 +8814,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 213938,
       "name": "The Glow-in-the-Dark Shapes Dance",
       "url": "https://open.spotify.com/track/6SMj8salgyrCk84RCkMQyl"
@@ -8622,7 +8832,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 218928,
       "name": "The Goldfish - We are\u2026 The Laurie Berkner Band Version",
       "url": "https://open.spotify.com/track/49j8462ef5quIyGWZXReZO"
@@ -8644,10 +8854,32 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 194711,
       "name": "The Greatest Ever Campfire Song",
       "url": "https://open.spotify.com/track/4yeiY7i4NiSv1G9V2W2igo"
+    },
+    {
+      "album": {
+        "name": "That\u2019s What It\u2019s All About",
+        "url": "https://open.spotify.com/album/39W3IfLx31FApjKBebnIV2"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        },
+        {
+          "name": "The Hollow Trees",
+          "url": "https://open.spotify.com/artist/13fosD1XnhjllI1wfooRlm"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161176,
+      "name": "The Hokey Pokey Dance",
+      "url": "https://open.spotify.com/track/54GLC8FN1JjOenKtvI9uwF"
     },
     {
       "album": {
@@ -8753,6 +8985,42 @@
     },
     {
       "album": {
+        "name": "CoComelon Lane: The Nursery Rhyme Musical",
+        "url": "https://open.spotify.com/album/0K0TteylGwmfDeflcTdmIx"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171989,
+      "name": "The Nursery Rhyme Rehearsal",
+      "url": "https://open.spotify.com/track/1F6WI8YKG1Ri11IzxdYDep"
+    },
+    {
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/5PiipjffGECiDVh1KxCfgY"
+      },
+      "artists": [
+        {
+          "name": "MusicClubKids!",
+          "url": "https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186904,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/0uHYIeqpt6VvjdG8oozms3"
+    },
+    {
+      "album": {
         "name": "The Road to Gettin' Better",
         "url": "https://open.spotify.com/album/0qlhy1LzuxFCPdOsXfKxgC"
       },
@@ -8782,7 +9050,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 177896,
       "name": "The Robot Song",
       "url": "https://open.spotify.com/track/36kx1FP8HjiGMVxGWqRgGK"
@@ -8800,7 +9068,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 117266,
       "name": "The Rock Goes On (Single From Fraggle Rock: Back To The Rock - Season 2)",
       "url": "https://open.spotify.com/track/5aQVL0bWhq8Mr9pMYaCONN"
@@ -9018,7 +9286,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 180413,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/0EGDSxAX1PpFnEMNO4lqPz"
@@ -9036,7 +9304,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 57411,
       "name": "Time to Build",
       "url": "https://open.spotify.com/track/7CIqaA1j7F6tOTG5wtUCiQ"
@@ -9097,6 +9365,24 @@
     },
     {
       "album": {
+        "name": "Tom Tom the Plumber\u2019s Son",
+        "url": "https://open.spotify.com/album/66UC2JVcervp4CelY5wBhm"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102459,
+      "name": "Tom Tom The Plumber's Son",
+      "url": "https://open.spotify.com/track/0N93qWW4ODc16gXdTGwc0p"
+    },
+    {
+      "album": {
         "name": "El Deafo (Apple TV+ Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/7yxh1BtNK7PeU9AboDogq7"
       },
@@ -9144,7 +9430,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 130848,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/5m9mT86dI2PKotZYjt9m98"
@@ -9288,7 +9574,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 181101,
       "name": "Unicorn Song",
       "url": "https://open.spotify.com/track/09MxtSLQheOkxH84Kg132N"
@@ -9306,7 +9592,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 165163,
       "name": "Until We Meet Again",
       "url": "https://open.spotify.com/track/33FDL5RB2mDnVnSCOAuUWG"
@@ -9324,7 +9610,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 176532,
       "name": "Used To Be Young",
       "url": "https://open.spotify.com/track/239Hmf9gqfdOjYBBaKcYGs"
@@ -9364,7 +9650,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 109742,
       "name": "Wake Up Body",
       "url": "https://open.spotify.com/track/1rwCDTzDZcRP6JK0A74DaA"
@@ -9492,7 +9778,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 194476,
       "name": "Watch Me Zoom",
       "url": "https://open.spotify.com/track/09f7Mzc5wcH14Arz9CvDJL"
@@ -9658,7 +9944,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 125450,
       "name": "We Totally Rock",
       "url": "https://open.spotify.com/track/35JHbcxI8riQGGBfrxJlrp"
@@ -9752,7 +10038,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 70767,
       "name": "We're Gonna Rock It",
       "url": "https://open.spotify.com/track/7EJFLJLlVOGXzf8nlsj1lc"
@@ -9792,10 +10078,36 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 126122,
       "name": "We're Walking Down the Street",
       "url": "https://open.spotify.com/track/1XyqGhtgZBGzZrRcIm9gaV"
+    },
+    {
+      "album": {
+        "name": "Welcome to the Farm",
+        "url": "https://open.spotify.com/album/26iJ7mMZmwUPLO6Q6afYOt"
+      },
+      "artists": [
+        {
+          "name": "Elmo",
+          "url": "https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R"
+        },
+        {
+          "name": "Rosita",
+          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65511,
+      "name": "Welcome to the Farm",
+      "url": "https://open.spotify.com/track/40DjYpEBsTxW4rFjBkQd56"
     },
     {
       "album": {
@@ -9810,7 +10122,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 144080,
       "name": "What Can I Make Out of Clay",
       "url": "https://open.spotify.com/track/4fyyYaiZNg7akL3u58lrK2"
@@ -9886,7 +10198,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 154746,
       "name": "Wheels on the Bus",
       "url": "https://open.spotify.com/track/0aGG3stDlYVyoQX2SD6mdT"
@@ -9904,7 +10216,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 105704,
       "name": "When We Work Together",
       "url": "https://open.spotify.com/track/274L3hEEvLZMhMEHUGlJ1P"
@@ -10002,7 +10314,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 113643,
       "name": "Worth Doing Right",
       "url": "https://open.spotify.com/track/00vQ7Gz2kNjXj7qxiDkCXE"
@@ -10038,7 +10350,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 194581,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/2ExRKRMFnX4rsGxZSeJ4sD"
@@ -10146,7 +10458,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 190698,
       "name": "You're My Best Friend",
       "url": "https://open.spotify.com/track/2OX1VPMZCZfP2jK5OP6c7c"

@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-577 songs - 1 day 20 hr 3 min
+578 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [End Music](https://open.spotify.com/track/2nsq309rIRIhozD60JxPB6) | [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Anders Christensen](https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM), [Mikkel Hess](https://open.spotify.com/artist/2dKB7nFUKZ2zs9kgyTA3Lq) | [At the Movies](https://open.spotify.com/album/32V6Uezb7Y7RAHtMfGPjLj) | 4:00 | 2023-11-10 |  |
 | [Endless](https://open.spotify.com/track/4JKlhfRIqQkvJsAhnLvThW) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Endless](https://open.spotify.com/album/0yKp48RlWbcV0h443MVXAJ) | 3:26 | 2024-03-22 |  |
 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-01 |  |
-| [Evening Song](https://open.spotify.com/track/6H1xcoIZKkWikg7sFlQfh9) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Evening Song](https://open.spotify.com/album/3tQYOY5uJmMYx0oUKvSAxW) | 2:47 | 2024-03-08 |  |
+| [Evening Song](https://open.spotify.com/track/6H1xcoIZKkWikg7sFlQfh9) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Evening Song](https://open.spotify.com/album/3tQYOY5uJmMYx0oUKvSAxW) | 2:47 | 2024-03-08 | 2024-08-24 |
 | [Evergreen](https://open.spotify.com/track/7Lz3Iy3sUv0fNq0crfhDGA) | [Justin Salisbury](https://open.spotify.com/artist/0wCRGycyYyEg4vWwoi11SS), [Max Ridley](https://open.spotify.com/artist/0d6y1Xs0QqCMG2hg2lYnkC), [Dan Nadeau](https://open.spotify.com/artist/4S9by6hwhiUvkmHNTG5FXY) | [Evergreen](https://open.spotify.com/album/74bdbf4mh1BjApMO0quFNT) | 6:53 | 2022-04-14 |  |
 | [Everybody's Got to Learn Sometime](https://open.spotify.com/track/5rdarWlLPfZvPafnUVj0AK) | [Moulin Roty Trio](https://open.spotify.com/artist/1I1PN78a9Sv7RiGsbLSnQl) | [Everybody's Got to Learn Sometime](https://open.spotify.com/album/15FCQHfWCgNgU6qXLvamP9) | 3:48 | 2023-03-23 |  |
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2022-11-12 |  |
@@ -329,6 +329,7 @@
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-11-12 |  |
 | [Morning Break](https://open.spotify.com/track/1IXLCaoZZxsjIC1ke4dm6E) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Morning Break](https://open.spotify.com/album/00e4qwtnnNFvjW6aNurKFa) | 3:23 | 2023-03-10 |  |
 | [Morning Thoughts](https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Soul Dancer](https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs) | 3:22 | 2023-03-16 |  |
+| [Ms\. G.R.](https://open.spotify.com/track/1dSYGZKWhEQZFP2wvjj4Db) | [Dominik Schürmann trio](https://open.spotify.com/artist/3HIiSgXxugDR6W7DiJ6zEK) | [Ms\. G.R.](https://open.spotify.com/album/4kLXLPlko2LXf8jbozIuRA) | 5:34 | 2024-08-20 |  |
 | [My Cherie Amour](https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR) | [Jon Davis](https://open.spotify.com/artist/50COs4RSxBcXjOyOg56BZc) | [Changes over Time](https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i) | 4:05 | 2022-02-10 |  |
 | [My Foolish Heart](https://open.spotify.com/track/6eB1aRfbz36gO0YCoKj2R4) | [Dado Moroni](https://open.spotify.com/artist/5ZWvQaDozNtEy2WY5ZhSzz), [Jesper Lundgaard](https://open.spotify.com/artist/162KggIDGRImG9BUPWKsxf), [Lee Pearson](https://open.spotify.com/artist/6zTSAPQ1M1W1pdZK9I4G1K) | [My Foolish Heart](https://open.spotify.com/album/3VqTU5Jo7zVDTv6yOBa9v4) | 8:51 | 2022-08-30 |  |
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-11-12 |  |

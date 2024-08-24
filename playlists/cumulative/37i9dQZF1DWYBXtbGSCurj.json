@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: MC Poze do Rodo, FIlipe Ret, MC Ryan SP",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: KayBlack",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -1553,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/60JfiI4rqmujf7EmoDrCTQ"
+      },
+      "artists": [
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161486,
+      "name": "Alvo",
+      "url": "https://open.spotify.com/track/4PUSJf1ZCuLiiE8xyEE7Qd"
+    },
+    {
+      "album": {
         "name": "Al\u00f4 Amor",
         "url": "https://open.spotify.com/album/7ci8vvRmsY3zeRaIkVMpFF"
       },
@@ -2304,7 +2326,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 210000,
       "name": "ATENTO",
       "url": "https://open.spotify.com/track/00I6PZYqzMjWcCqA6Hh3sh"
@@ -2422,6 +2444,28 @@
       "duration_ms": 213634,
       "name": "Aulas e Cursos",
       "url": "https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY"
+    },
+    {
+      "album": {
+        "name": "AUMENTA O SOM",
+        "url": "https://open.spotify.com/album/3J03W6k27KpecTEWqcSXd9"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "AUMENTA O SOM",
+      "url": "https://open.spotify.com/track/57pGakmWqT8JVjWt2AyjQr"
     },
     {
       "album": {
@@ -4984,7 +5028,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 170066,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/4QDvm5ELYUTPXEDQpMQkGS"
@@ -6987,6 +7031,36 @@
     },
     {
       "album": {
+        "name": "Cria da Favela",
+        "url": "https://open.spotify.com/album/7wW4f7mdCjWwwdOjCQC0mU"
+      },
+      "artists": [
+        {
+          "name": "Dj Alle da coro",
+          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Cria da Favela",
+      "url": "https://open.spotify.com/track/7GZXeUpvt5OW2F1i1nAm9V"
+    },
+    {
+      "album": {
         "name": "Vida Cara",
         "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
@@ -8886,6 +8960,24 @@
       "duration_ms": 203076,
       "name": "Distante",
       "url": "https://open.spotify.com/track/2fg1guOKTbWgXVYbKuNvHT"
+    },
+    {
+      "album": {
+        "name": "Diz Pra Mim",
+        "url": "https://open.spotify.com/album/1RR5CGVJ153BY5LFhtAc2Z"
+      },
+      "artists": [
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124071,
+      "name": "Diz Pra Mim",
+      "url": "https://open.spotify.com/track/1jdvXuP5NmnqPI157adBq5"
     },
     {
       "album": {
@@ -12283,6 +12375,32 @@
     },
     {
       "album": {
+        "name": "Nega Doce",
+        "url": "https://open.spotify.com/album/3s4rhVwqwqwMTaGdxsOYn8"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "JOTA",
+          "url": "https://open.spotify.com/artist/4uT4e6Xj84gS0G3PrBw9Fk"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Fitas",
+      "url": "https://open.spotify.com/track/3h5W0KgFwOCaejvoQzWCP2"
+    },
+    {
+      "album": {
         "name": "Fiz Em Dobro",
         "url": "https://open.spotify.com/album/0uh40xlMR5EHVOiI3HcYnR"
       },
@@ -13100,7 +13218,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 198099,
       "name": "F\u00e9",
       "url": "https://open.spotify.com/track/4k8Dodu22UBksAwQaeKmKt"
@@ -14576,7 +14694,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 148732,
       "name": "Inconvencional",
       "url": "https://open.spotify.com/track/3URgu7EkiNuswUVoXVE4BX"
@@ -16114,7 +16232,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 154581,
       "name": "Levemente",
       "url": "https://open.spotify.com/track/7xb4eyJbEHf40TpJOdnEMt"
@@ -23995,6 +24113,36 @@
     },
     {
       "album": {
+        "name": "Perfil #98 - Essa Eu Fiz Pra Mim",
+        "url": "https://open.spotify.com/album/0WM75RTuRBMIKTGTcakJ4b"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "Perfil #98 - Essa Eu Fiz Pra Mim",
+      "url": "https://open.spotify.com/track/7BMqk07d8RWDWW8m7wlD3q"
+    },
+    {
+      "album": {
         "name": "Perigo na Noite",
         "url": "https://open.spotify.com/album/0ddGL8FaECZqVEQVcQAk7P"
       },
@@ -24580,7 +24728,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 203674,
       "name": "PLAQUE",
       "url": "https://open.spotify.com/track/5XfxNjRbr9oPnpKkzTZ21L"
@@ -27133,6 +27281,24 @@
     },
     {
       "album": {
+        "name": "Replay - Spotify Singles",
+        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150093,
+      "name": "Replay - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
+    },
+    {
+      "album": {
         "name": "Resumo",
         "url": "https://open.spotify.com/album/2Ud3UwKdhXvKya1TUldADn"
       },
@@ -28641,6 +28807,36 @@
     },
     {
       "album": {
+        "name": "Sem Tempo (Papatracks#16) [feat. Raff\u00e9]",
+        "url": "https://open.spotify.com/album/1jDrEK6Nq2EYcYI1Af2FLw"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Sem Tempo (Papatracks#16) [feat. Raff\u00e9]",
+      "url": "https://open.spotify.com/track/5jXMGikEeqfYvfhxGVnd51"
+    },
+    {
+      "album": {
         "name": "Sempre Em Chamas",
         "url": "https://open.spotify.com/album/0kvoG1SQX11Xwj7bRwjPAT"
       },
@@ -29760,6 +29956,10 @@
         {
           "name": "Yung Nobre",
           "url": "https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB"
+        },
+        {
+          "name": "maiarealplug",
+          "url": "https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy"
         }
       ],
       "date_added": "2024-08-16",
@@ -30406,7 +30606,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 173334,
       "name": "S\u00c3O PAULO",
       "url": "https://open.spotify.com/track/37srJxBv0dfjmyvbX7xMAh"
@@ -31484,6 +31684,32 @@
       "duration_ms": 152380,
       "name": "Tiffany",
       "url": "https://open.spotify.com/track/0NvVVP3Q0oSbfBUZ48vCHs"
+    },
+    {
+      "album": {
+        "name": "Tipo Arsenal",
+        "url": "https://open.spotify.com/album/7I2Tsoctvx4KeEnBhVbhFT"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        },
+        {
+          "name": "GDM",
+          "url": "https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120550,
+      "name": "Tipo Arsenal",
+      "url": "https://open.spotify.com/track/6E4ojbIsLcMUeRZbLAb1qw"
     },
     {
       "album": {
@@ -32606,7 +32832,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 212307,
       "name": "Un\u00e2nime",
       "url": "https://open.spotify.com/track/3XG0Wh5tS1yXp3b0aZ98pd"
@@ -33940,7 +34166,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 183000,
       "name": "Voc\u00ea Parece Com Vergonha",
       "url": "https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ"
@@ -34786,7 +35012,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 166091,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/6OeFHH7a0WE6fdpfD1PVPD"

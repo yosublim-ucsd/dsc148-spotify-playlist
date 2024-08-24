@@ -648,7 +648,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 222312,
       "name": "Deep into the Forest",
       "url": "https://open.spotify.com/track/31sRH2Vd8KGFIDh9iGUDYu"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 241500,
       "name": "For The Summer, Or Forever",
       "url": "https://open.spotify.com/track/61NedbqrI3b0o8piJjQZu0"
@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Forest Trill",
+        "url": "https://open.spotify.com/album/1OvZXEAnjuZFQGgUBR5SDz"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3nsi",
+          "url": "https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193978,
+      "name": "Forest Trill",
+      "url": "https://open.spotify.com/track/2tCtg3M5C1DrtjDK6ohc9K"
+    },
+    {
+      "album": {
         "name": "Ambrosial Waves / Tidal Pools",
         "url": "https://open.spotify.com/album/2S9PrrpRshDRs9mcrdFTpb"
       },
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 712000,
       "name": "Fractural",
       "url": "https://open.spotify.com/track/0vIk5Z6dAqWeOQoE76NUTv"
@@ -1056,7 +1074,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 315857,
       "name": "Ganymede",
       "url": "https://open.spotify.com/track/2snq413hKWoZCGibTNYIEj"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 265714,
       "name": "Immerse",
       "url": "https://open.spotify.com/track/59pY24i8At7QE6hH75ag0i"
@@ -2072,7 +2090,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 172500,
       "name": "Normal",
       "url": "https://open.spotify.com/track/1MTjrxeDOoN5aGebwy32JP"
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 232031,
       "name": "Self Empathy 2",
       "url": "https://open.spotify.com/track/1HXPzjfK4hYiIPYJchH1k2"
@@ -2968,7 +2986,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 309800,
       "name": "Silent Lake",
       "url": "https://open.spotify.com/track/6pZ5qQo50eOzxikg1xSvzh"
@@ -4198,7 +4216,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 255531,
       "name": "Yushin Valley",
       "url": "https://open.spotify.com/track/4CuwYWU5xXMtrG4iIzbCzf"

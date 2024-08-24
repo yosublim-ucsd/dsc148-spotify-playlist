@@ -4,7 +4,7 @@
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-384 songs - 1 day 8 hr 0 min
+385 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [From Darkness to Light \(Ambient Cello Loops\), Pt\. 3](https://open.spotify.com/track/1rHQUBlbNIPvSZTX5VjGMJ) | [The Wong Janice](https://open.spotify.com/artist/1q1P9ifOMhgIYCsj9KXxdX) | [From Darkness to Light \(Ambient Cello Loops\)](https://open.spotify.com/album/1vPAKdej68HxCa4wizIjfi) | 5:23 | 2023-03-10 |  |
 | [Fsjbmmr](https://open.spotify.com/track/35emZczLftp0mZcTCYWKWw) | [Oh No Noh](https://open.spotify.com/artist/3lpaAfKISKw6QKpcRXMhOL), [Jenny Berger Myhre](https://open.spotify.com/artist/3BMzPhmI2cSwN4VzYbOJyw), [F.S.Blumm](https://open.spotify.com/artist/4cHtgM7lauSNaau5uAm5Cc) | [Interstitial](https://open.spotify.com/album/04L37SYhkClPOmKjQfsXBz) | 10:27 | 2023-11-17 |  |
 | [Fugative of a Narrative](https://open.spotify.com/track/321eSRbte3iwQNRQUzUTep) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Jonas Colstrup](https://open.spotify.com/artist/5ZRR9BnCZ89uKNgkvnwCJ2) | [The Shadow Play \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pq4x7PVkJSbfxnOiiawgD) | 1:35 | 2022-03-30 | 2022-06-20 |
+| [Golden Haze](https://open.spotify.com/track/5tPwCTeal5bTur9Cy8XHqk) | [X.Y.R.](https://open.spotify.com/artist/6toHLoCsmqKPjtprSVucxz) | [El Dorado](https://open.spotify.com/album/2C1txtCaW1KXZiyXQZPBeU) | 8:29 | 2024-05-28 |  |
 | [Golden Waxcap](https://open.spotify.com/track/0NP6SNyOxJnvjNIvMVNDPt) | [Preslav Literary School](https://open.spotify.com/artist/2i5ykOuXu6SytWoJw7MFJY) | [Mycelium](https://open.spotify.com/album/2YncKGBm21QkOrfWnterb9) | 1:14 | 2023-03-16 |  |
 | [Gradual of Image](https://open.spotify.com/track/23nCdon9t8jCCBFKqZDpXf) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/0Nha8uIw64SpmOukz4zLYh) | 3:08 | 2022-03-17 | 2023-01-07 |
 | [Grassland](https://open.spotify.com/track/5NInDapUdp3r3ajfMrKl7K) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5) | [Neospecies](https://open.spotify.com/album/4fPYfMsPOTS4eXPXXY69t8) | 3:25 | 2023-04-28 |  |
@@ -294,7 +295,7 @@
 | [Slipping the Mooring/Pond](https://open.spotify.com/track/62X9DAVP5ZH2A5Yzn5Rzdt) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 3:55 | 2022-03-17 | 2022-12-21 |
 | [Slow Flight](https://open.spotify.com/track/6EWVZFJmD1bFWn2enlrAKS) | [Clariloops](https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4), [Low Key Trampoline](https://open.spotify.com/artist/38nVQccgEq3mkggBLNgpZd) | [Slow Flight](https://open.spotify.com/album/2bxwWxbOE2nsyTstCq83s8) | 2:11 | 2022-11-11 |  |
 | [Smooth Sailing](https://open.spotify.com/track/3PgXYJK9SqK9vO0qSVNB9i) | [Suntapes](https://open.spotify.com/artist/2KyzezGvw1FSzXXjsWOji6), [Tomas Johan Kristian](https://open.spotify.com/artist/2Qo92IgDhEwpCnPL07d2TZ) | [Smooth Sailing](https://open.spotify.com/album/4aszooOL9d4NAqcuRgObVa) | 1:47 | 2022-05-06 | 2023-03-18 |
-| [Soft Air](https://open.spotify.com/track/6jXBzO6c78812s7xtV8SBv) | [Nueen](https://open.spotify.com/artist/1nYUDAZ2lx7tq2kkMLzomb) | [Circular Sequence](https://open.spotify.com/album/3QHq0fdsTeYfqNbpfpdpYE) | 4:14 | 2024-05-28 |  |
+| [Soft Air](https://open.spotify.com/track/6jXBzO6c78812s7xtV8SBv) | [Nueen](https://open.spotify.com/artist/1nYUDAZ2lx7tq2kkMLzomb) | [Circular Sequence](https://open.spotify.com/album/3QHq0fdsTeYfqNbpfpdpYE) | 4:14 | 2024-05-28 | 2024-08-24 |
 | [Solar](https://open.spotify.com/track/3GYZJXSAt8ojUjsNSXkrTW) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Orchestral Tape Studies](https://open.spotify.com/album/1YPb5GHEbDyd6unbqP9nAP) | 6:07 | 2022-08-19 |  |
 | [Soul Alphabet](https://open.spotify.com/track/1TkEWtBcGGo3iEryzHB7LG) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Captain Of None](https://open.spotify.com/album/2gnttPzhPGPnTxOtxhPITE) | 4:54 | 2023-06-30 | 2023-07-14 |
 | [Sound](https://open.spotify.com/track/6KmO0OKYRWtxyh9dxekdr7) | [Cedric IM Brooks & The Light of Saba](https://open.spotify.com/artist/697YONfQhe3i1GqsGVJIgn) | [The Magical Light of Saba](https://open.spotify.com/album/0kxlBCNxF5jEFOwUzR3vna) | 2:03 | 2023-09-22 | 2023-10-07 |

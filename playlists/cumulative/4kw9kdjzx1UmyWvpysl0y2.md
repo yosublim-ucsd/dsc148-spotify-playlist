@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-800 songs - 1 day 21 hr 50 min
+801 songs - 1 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Calling](https://open.spotify.com/track/2rqlbwqcQBzuaI3DTlRiEP) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Matt Sky](https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC) | [Calling](https://open.spotify.com/album/7eE9VGf46QBOuY4BkzTo3N) | 3:21 | 2023-07-31 | 2023-12-14 |
 | [Calling Us](https://open.spotify.com/track/7maTcRghSDNPyXuP9szRiW) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [David Feldman](https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Calling Us](https://open.spotify.com/album/6IDx39By9m2pJ62cAAj019) | 4:10 | 2023-01-25 | 2023-04-11 |
 | [Can We Be Free \- KDrew Remix](https://open.spotify.com/track/6z8jYJCzgBCNgbMTwvvnFy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [KDrew](https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ) | [Can We Be Free \(KDrew Remix\)](https://open.spotify.com/album/3po4Lcgb6oUUksB3d6xrt9) | 2:28 | 2022-12-03 | 2023-03-02 |
+| [Canal Street Crook](https://open.spotify.com/track/4uNO3gJ1u3PYuaZjYbqU7P) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5) | [Canal Street Crook](https://open.spotify.com/album/5I2bOAOVhJmJ5MR8fnLzMf) | 2:16 | 2024-08-23 |  |
 | [Carbonara](https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW) | [Pixel Terror](https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm), [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Carbonara](https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8) | 2:52 | 2021-11-19 | 2022-02-22 |
 | [Carousel](https://open.spotify.com/track/2vP8axvS6mqgnPwwxMARPs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [E.L.E \(Extinction Level Event\)](https://open.spotify.com/album/6dwrAsvDJ3qpogoK1jxzAE) | 2:46 | 2022-03-03 | 2022-05-14 |
 | [Carry Me Home](https://open.spotify.com/track/6XQdsLReArC59ZTSLa0Whw) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Eddie Thoneick](https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt) | [Carry Me Home](https://open.spotify.com/album/3UpvA7dYUfSmJ7JY6N6hAN) | 3:16 | 2023-01-27 | 2023-04-15 |
@@ -796,7 +797,7 @@
 | [Won't Make A Sound](https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Won't Make A Sound](https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg) | 4:36 | 2022-05-17 | 2022-07-28 |
 | [Won't Stop](https://open.spotify.com/track/6oS0xGbxzpkHh3f7ODXImB) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Won't Stop](https://open.spotify.com/album/3NXkqxY34ICPVZdMKl0CPO) | 4:38 | 2022-04-19 | 2022-06-30 |
 | [Words Left Unsaid](https://open.spotify.com/track/56cuxHVeq2EtTpaRBZgrnX) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Words Left Unsaid](https://open.spotify.com/album/7nxvvQ5nrkO4aa5rlgCzyG) | 4:08 | 2022-09-07 | 2022-11-08 |
-| [World Wide Web](https://open.spotify.com/track/65XS0xY3RjsXdn0Qzy3isF) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [World Wide Web](https://open.spotify.com/album/6gEqtjzCl19g1SjJu09MgT) | 2:38 | 2024-06-04 |  |
+| [World Wide Web](https://open.spotify.com/track/65XS0xY3RjsXdn0Qzy3isF) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [World Wide Web](https://open.spotify.com/album/6gEqtjzCl19g1SjJu09MgT) | 2:38 | 2024-06-04 | 2024-08-24 |
 | [Worst Night of My Life](https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Worst Night of My Life](https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY) | 2:55 | 2024-05-20 | 2024-08-14 |
 | [WYGD](https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [WYGD](https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs) | 2:28 | 2022-03-01 | 2022-05-13 |
 | [Yesterday](https://open.spotify.com/track/6Wz9kNEppcp9U6jHptH6sQ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Yesterday](https://open.spotify.com/album/0MU0ovgIP5zFj9CJLbkTaM) | 4:33 | 2022-09-02 | 2022-11-05 |

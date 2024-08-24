@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "pop punk, emo, post-hardcore, alt & more. Cover: Origami Angel",
+  "description": "pop punk, emo, post-hardcore, alt & more. Cover: State Champs",
   "name": "The Scene",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 174848,
       "name": "5150",
       "url": "https://open.spotify.com/track/14UzhtAQyCRGsuSjInmiJi"
@@ -936,6 +936,24 @@
       "duration_ms": 147445,
       "name": "ALL I EVER WANTED",
       "url": "https://open.spotify.com/track/6DEE4Ym6b3rfJjKdPjRz0D"
+    },
+    {
+      "album": {
+        "name": "ALL IN MY HEAD / NO FUN",
+        "url": "https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162805,
+      "name": "ALL IN MY HEAD",
+      "url": "https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV"
     },
     {
       "album": {
@@ -2686,7 +2704,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 148352,
       "name": "Blood Moon",
       "url": "https://open.spotify.com/track/5cfrLL1TcbJp3bbKemlL6F"
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 172500,
       "name": "BURNOUT",
       "url": "https://open.spotify.com/track/4zZJZjj4QwuwR7G6tZ0sxo"
@@ -6258,7 +6276,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 219067,
       "name": "Easily Undone",
       "url": "https://open.spotify.com/track/6AgYRZ8emI2qW25JAS3vPA"
@@ -8547,6 +8565,24 @@
     },
     {
       "album": {
+        "name": "Permanent Repeat",
+        "url": "https://open.spotify.com/album/3q7K3RDedlfLfHZAxGJCLK"
+      },
+      "artists": [
+        {
+          "name": "Macseal",
+          "url": "https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156973,
+      "name": "Golden Harbor",
+      "url": "https://open.spotify.com/track/61Syza9tkRLZKd8Ka7KtJP"
+    },
+    {
+      "album": {
         "name": "Pop Culture",
         "url": "https://open.spotify.com/album/03EcmdV2NlxgtVrAOqmTxx"
       },
@@ -9436,6 +9472,24 @@
       "duration_ms": 169325,
       "name": "HEAVYWEIGHT",
       "url": "https://open.spotify.com/track/6bAx3WfHbtY4LjuS7tdCPK"
+    },
+    {
+      "album": {
+        "name": "Hell 99",
+        "url": "https://open.spotify.com/album/1IO7HBfOhZJrQZQpEeWP8O"
+      },
+      "artists": [
+        {
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267760,
+      "name": "Hell 99",
+      "url": "https://open.spotify.com/track/1ohADSbCmwMEuA3xSHu3Eh"
     },
     {
       "album": {
@@ -10390,7 +10444,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 222617,
       "name": "I MISS 2003",
       "url": "https://open.spotify.com/track/0KvlvootDUnrXPdZLq57tn"
@@ -10884,7 +10938,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 218979,
       "name": "In Loving Memory",
       "url": "https://open.spotify.com/track/45jdfAmN8eVIvcGJJQTQql"
@@ -14485,6 +14539,28 @@
     },
     {
       "album": {
+        "name": "NOSE BLEED",
+        "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195161,
+      "name": "NOSE BLEED",
+      "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
+    },
+    {
+      "album": {
         "name": "nosebleeder",
         "url": "https://open.spotify.com/album/2YnFg6uw1ervQK6X188HtS"
       },
@@ -15490,7 +15566,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 238821,
       "name": "Passing Through The Hourglass",
       "url": "https://open.spotify.com/track/5ZU9XFpImuMvbwkTxnefFu"
@@ -16575,6 +16651,32 @@
     },
     {
       "album": {
+        "name": "The Forever Sessions - Vol. 1",
+        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        },
+        {
+          "name": "Lisa Gaskarth",
+          "url": "https://open.spotify.com/artist/6an4Dzd8fNVjQxu4uJ7DsN"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256730,
+      "name": "Remembering Sunday (feat. Lindsey Stirling & Lisa Gaskarth) - ATL's Version",
+      "url": "https://open.spotify.com/track/6N4QI1vJiQWVr3HVyKOGs2"
+    },
+    {
+      "album": {
         "name": "Renegades",
         "url": "https://open.spotify.com/album/6MGBUxrzvMzBm7fS7ytyPY"
       },
@@ -16684,7 +16786,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 179575,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/27C5LnNArKlYH0dF2CONst"
@@ -17772,7 +17874,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 138086,
       "name": "Shooting Star (feat. Sum 41)",
       "url": "https://open.spotify.com/track/65o2S5n0p31DTFtUzA1i1X"
@@ -18029,6 +18131,24 @@
     },
     {
       "album": {
+        "name": "Silver Cloud",
+        "url": "https://open.spotify.com/album/2RHGK1UjQVqM10Qn06Rnww"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188399,
+      "name": "Silver Cloud",
+      "url": "https://open.spotify.com/track/5AiTSPFGkyasoocwYhdBW2"
+    },
+    {
+      "album": {
         "name": "Silver Lines",
         "url": "https://open.spotify.com/album/3Cxpt8hZVcmxwID8zzpGmy"
       },
@@ -18152,6 +18272,24 @@
       "duration_ms": 203550,
       "name": "Skeleton",
       "url": "https://open.spotify.com/track/60MKJTYG5SuL63wB4ykxj3"
+    },
+    {
+      "album": {
+        "name": "Skin & Bones",
+        "url": "https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Skin & Bones",
+      "url": "https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT"
     },
     {
       "album": {
@@ -18310,7 +18448,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 212034,
       "name": "Slow Dance",
       "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
@@ -20577,6 +20715,24 @@
     },
     {
       "album": {
+        "name": "DEADBEAT! - Disc 1",
+        "url": "https://open.spotify.com/album/1hY6wDixeGad4Bxwe4tMsx"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191456,
+      "name": "The Rug",
+      "url": "https://open.spotify.com/track/2ig3FVvbLfrLPEgLJbz8OZ"
+    },
+    {
+      "album": {
         "name": "The Sinner",
         "url": "https://open.spotify.com/album/1kdfMgoNb4EVP3iA3NWtLt"
       },
@@ -20682,6 +20838,24 @@
       "duration_ms": 201706,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/6kPnfNvwdhdmMSeQn3JGim"
+    },
+    {
+      "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3"
     },
     {
       "album": {
@@ -21910,7 +22084,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 193986,
       "name": "Versions Of You",
       "url": "https://open.spotify.com/track/5552mB1SfLoZPP999vzyF4"
@@ -23339,6 +23513,24 @@
     },
     {
       "album": {
+        "name": "Wretched Trajectory",
+        "url": "https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166050,
+      "name": "Wretched Trajectory",
+      "url": "https://open.spotify.com/track/607oeYyNz1K55WF6foHzus"
+    },
+    {
+      "album": {
         "name": "Write It Off",
         "url": "https://open.spotify.com/album/3YSrIBQSbV88daqik3z6g9"
       },
@@ -23650,6 +23842,24 @@
       "duration_ms": 213394,
       "name": "You'll Be Fine",
       "url": "https://open.spotify.com/track/3ZCTAoFsYaWTWGX8IH07Cf"
+    },
+    {
+      "album": {
+        "name": "You'll Get Nothing and Like It",
+        "url": "https://open.spotify.com/album/1ByEzlphT62gPQ6fsO9Mf4"
+      },
+      "artists": [
+        {
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112833,
+      "name": "You'll Get Nothing and Like It",
+      "url": "https://open.spotify.com/track/5Fb1ZtrV0mTKzy2RhzPP7I"
     },
     {
       "album": {

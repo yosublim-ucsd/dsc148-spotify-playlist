@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Sabrina Carpenter
 
-11,987 songs - 27 day 8 hr 41 min
+11,990 songs - 27 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1256,6 +1256,7 @@
 | [Book of Memories](https://open.spotify.com/track/5DR6USTGyxwdUKAiULZGYs) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Catching Rabbits](https://open.spotify.com/album/2OZngTNbmegPhnUPITvkTy) | 2:58 | 2023-04-06 | 2023-04-14 |
 | [Bookmark](https://open.spotify.com/track/0HdzfdJgqIGYxS8yuIpgcq) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [Bookmark](https://open.spotify.com/album/7ipolXP9F4r8VWCsoEfZSq) | 4:37 | 2022-01-20 | 2022-01-28 |
 | [BOOM](https://open.spotify.com/track/3jATBjBJAWLVkAB2gCjrqE) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [BOOM](https://open.spotify.com/album/6s4NdCPDBhDHL7i0P2OjBC) | 3:21 | 2022-06-30 | 2022-07-08 |
+| [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 | 2024-08-22 |  |
 | [Boom Boom Bass](https://open.spotify.com/track/6Ixrp3yXfzv5brZXmZuXXN) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/52DnBWGBeFmhQP5fkpVPoO) | 2:32 | 2024-06-20 | 2024-06-28 |
 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 | 2024-03-14 | 2024-03-22 |
 | [Boomerang](https://open.spotify.com/track/6WAnCthQkSQG17scgIkEhs) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Boomerang](https://open.spotify.com/album/4ASpLHLdbuxlKM4gTaOwlK) | 2:47 | 2023-05-25 | 2023-06-02 |
@@ -7505,6 +7506,7 @@
 | [Party](https://open.spotify.com/track/5vM3lY16JDdkHtF3AYkZkM) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [Party](https://open.spotify.com/album/5SXPfqAVEriEVbm5XBNfk1) | 4:27 | 2023-02-09 | 2023-02-17 |
 | [party](https://open.spotify.com/track/0YBOVHdZinVrNORmAOpYfr) | [fex](https://open.spotify.com/artist/3aEpYaLrQQ2ztVpg658qpA), [michelle lawry](https://open.spotify.com/artist/24LXdeEckLgdufz8L07ud7) | [party](https://open.spotify.com/album/3e9d8HEaFr5Ma08KGGj1MW) | 3:38 | 2022-04-21 | 2022-04-29 |
 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 | 2023-05-11 | 2023-05-19 |
+| [Party In Bali \(PIB\)](https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Party In Bali \(PIB\)](https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk) | 2:52 | 2024-08-22 |  |
 | [party in my head \(ur not invited\)](https://open.spotify.com/track/0XlnHTE0Y3rsOLou6EGXEK) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [party in my head \(ur not invited\)](https://open.spotify.com/album/5mO7Nj7MaJ1CpynXu9xWgA) | 3:03 | 2022-09-08 | 2022-09-16 |
 | [Party O'Clock](https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [A Midsummer NMIXX’s Dream](https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke) | 3:03 | 2023-07-13 | 2023-07-21 |
 | [Party of a Lifetime](https://open.spotify.com/track/1qaqMOguyab5aYUPgW3Gfd) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Party of a Lifetime](https://open.spotify.com/album/7sNrzHDIKEoTEijjcfffMP) | 2:38 | 2022-08-04 | 2022-08-12 |
@@ -7955,6 +7957,7 @@
 | [Raindrops](https://open.spotify.com/track/4mjugTN25VhdFS5jWEENrz) | [mersie](https://open.spotify.com/artist/6NiLEHNy66fQkD5PNoQqoH) | [Raindrops](https://open.spotify.com/album/6jFftFtI8wUaCwgt62bRCF) | 5:42 | 2023-09-28 | 2023-10-06 |
 | [Raindrops in Jakarta](https://open.spotify.com/track/2544qpel5ouiBQD5Fqnhd2) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Raindrops in Jakarta](https://open.spotify.com/album/1zE1TXWe51HLuO3Mn2jvv4) | 3:07 | 2024-06-28 | 2024-07-05 |
 | [Raining Diamonds Gleaming](https://open.spotify.com/track/2Eo0f3nqpO5Hqnx9ICgAbQ) | [Andira](https://open.spotify.com/artist/2xAl2b4XBOzzkxsettvxAV) | [Raining Diamonds Gleaming](https://open.spotify.com/album/2e7AY7vlmcR4IMWfe9jnbC) | 4:13 | 2022-02-10 | 2022-02-18 |
+| [Rains in Heaven](https://open.spotify.com/track/17IcI8xMok8qFNhSPRufjo) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Rains in Heaven](https://open.spotify.com/album/2SUJuWIru2k3m8RkjwcSsW) | 3:57 | 2024-08-22 |  |
 | [Rainy \(with REI AMI\)](https://open.spotify.com/track/4feAKLuq3ShnAA84HcUFvf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 2:44 | 2023-11-30 | 2023-12-08 |
 | [Rainy Days \- A COLORS SHOW](https://open.spotify.com/track/7j1I6GGO98MJ3vzeb5pK6J) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV) | [Rainy Days \- A COLORS SHOW](https://open.spotify.com/album/6ydWeD7UCjtOF1hDPOj863) | 2:44 | 2023-04-06 | 2023-04-14 |
 | [Rainy Driver](https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [凡才](https://open.spotify.com/album/2wKpub8y8xRkPboyfBvsEM) | 2:48 | 2024-05-16 | 2024-05-24 |

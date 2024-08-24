@@ -4,7 +4,7 @@
 
 > Les meilleures nouveautés de la variété française\. Photo : Eko Eko
 
-69 songs - 3 hr 26 min
+70 songs - 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 | 2024-06-27 | 2024-07-27 |
 | [Fighter \- Eurovision Version](https://open.spotify.com/track/6syLoIbMRXvCEr94FMVBHh) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [Fighter \(Eurovision Version\)](https://open.spotify.com/album/759G3cPO8KnudNnVPW7MV9) | 2:59 | 2024-06-27 |  |
 | [Fille du Sud \(Lambada\)](https://open.spotify.com/track/78aegnVpvsl3RcGFQ7KaAc) | [MIMAA](https://open.spotify.com/artist/7CGhrDSdJxatpQf0qNRACS) | [Fille du Sud \(Lambada\)](https://open.spotify.com/album/1vJztGdHxVqQJ2oCQO7qNO) | 2:43 | 2024-06-27 |  |
+| [Fleurs Fanées](https://open.spotify.com/track/49T0ep6z8zQG1m4iJfQPx3) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR) | [Fleurs Fanées](https://open.spotify.com/album/0PUmXgFRh9hyIIG9cuBxPA) | 3:28 | 2024-08-22 |  |
 | [Gamins des sables](https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Gamins des sables](https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG) | 2:59 | 2024-07-25 |  |
 | [Histoire sans tête](https://open.spotify.com/track/2xpkMwNPBCANArBvZ26Otm) | [Lize](https://open.spotify.com/artist/6Uy3T1fnJbbckI46KebsFG) | [Histoire sans tête](https://open.spotify.com/album/1iCKXUWg3xEVqiHZKz0AqI) | 3:24 | 2024-08-01 | 2024-08-23 |
 | [HIT PARADE](https://open.spotify.com/track/1oJgld3iDUZ6pbP3q2cfix) | [Trois Vagues](https://open.spotify.com/artist/4Vp1zLQeZ42EzIrxfbYi2Z) | [HIT PARADE](https://open.spotify.com/album/0FzhFBFxmWr7vrmxMcZijS) | 2:48 | 2024-07-18 |  |

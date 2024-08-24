@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Left To Suffer on top of today's best Metal playlist.",
+  "description": "Halestorm on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1070,6 +1070,24 @@
       "duration_ms": 208366,
       "name": "Become One",
       "url": "https://open.spotify.com/track/24cthHMisFuAn0QKaAYbsf"
+    },
+    {
+      "album": {
+        "name": "BEG!",
+        "url": "https://open.spotify.com/album/2J0StL6VInyddAmQvM7bRC"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162531,
+      "name": "BEG!",
+      "url": "https://open.spotify.com/track/0g9GhfqFotNeAt2TuggiEh"
     },
     {
       "album": {
@@ -3304,7 +3322,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 219676,
       "name": "Divine",
       "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
@@ -5453,6 +5471,24 @@
     },
     {
       "album": {
+        "name": "Hole Hearted",
+        "url": "https://open.spotify.com/album/10kEMeY4T4I4gPn1gYLOgD"
+      },
+      "artists": [
+        {
+          "name": "Until I Wake",
+          "url": "https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193285,
+      "name": "Hole Hearted",
+      "url": "https://open.spotify.com/track/6WU2sHLqU13QUzwV9m6iGB"
+    },
+    {
+      "album": {
         "name": "Hostage",
         "url": "https://open.spotify.com/album/31ABP3oxNXYvlIGdnzxf36"
       },
@@ -5686,7 +5722,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 233035,
       "name": "I Am Dog Now",
       "url": "https://open.spotify.com/track/2V0hvlkjUrp9GxL6iHnOJD"
@@ -6494,7 +6530,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 237994,
       "name": "Kings of the Underworld",
       "url": "https://open.spotify.com/track/6ouLDMuQXNZY6WAhQZ9Z7c"
@@ -7433,6 +7469,24 @@
     },
     {
       "album": {
+        "name": "Necessary Evil",
+        "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "Necessary Evil",
+      "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
+    },
+    {
+      "album": {
         "name": "Neurotic (feat. Lukas Rossi)",
         "url": "https://open.spotify.com/album/7C0499YNyKXYczyKagdhip"
       },
@@ -7770,6 +7824,24 @@
       "duration_ms": 221433,
       "name": "No More Tears To Cry",
       "url": "https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ"
+    },
+    {
+      "album": {
+        "name": "No Tomorrow",
+        "url": "https://open.spotify.com/album/6nmJnknaiCSIRODXFa4htZ"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280251,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/25ZT2d4YmjQApcfWLXD1Eg"
     },
     {
       "album": {

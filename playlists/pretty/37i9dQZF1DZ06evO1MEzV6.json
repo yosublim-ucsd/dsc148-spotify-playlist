@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 88356,
+  "num_followers": 88426,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABPjlqn7y0R+Ms06U5Sg6D/",
+  "snapshot_id": "ZsZ/gAAAAAC1EzLuEntwKO3mX0j+7w91",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 136362,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/5xJOewC53fRL37VrHco2de"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 136362,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/7qGnlI5MrFAs3OHU1E7Wpa"
     },
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "You\u2019re here that\u2019s the thing",
+      "url": "https://open.spotify.com/track/68SSN8C0cJmUEXJkGyNYqe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Moon Song",
         "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 141040,
       "name": "The Moon Song",
       "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "You\u2019re here that\u2019s the thing",
-      "url": "https://open.spotify.com/track/68SSN8C0cJmUEXJkGyNYqe"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loveworm",
-        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 241944,
-      "name": "Soren",
-      "url": "https://open.spotify.com/track/6kp9czhrGZrP0hr9Y6opEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 241944,
+      "name": "Soren",
+      "url": "https://open.spotify.com/track/6kp9czhrGZrP0hr9Y6opEr"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Extended Play",
-        "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 165682,
-      "name": "He Gets Me So High",
-      "url": "https://open.spotify.com/track/6PvxbkegGnVGxd1NDYS6fZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 245426,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/2qkb3hhx8iCBvYzX9SvVxj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Our Extended Play",
+        "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 165682,
+      "name": "He Gets Me So High",
+      "url": "https://open.spotify.com/track/6PvxbkegGnVGxd1NDYS6fZ"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "She Plays Bass",
-        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 207106,
-      "name": "She Plays Bass",
-      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -519,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lice",
-        "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
+        "name": "She Plays Bass",
+        "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
       "artists": [
         {
@@ -528,9 +512,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 100560,
-      "name": "Spacing Out",
-      "url": "https://open.spotify.com/track/6Jmr2w49vC2cj4fPgmkjfH"
+      "duration_ms": 207106,
+      "name": "She Plays Bass",
+      "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
     },
     {
       "added_at": null,
@@ -547,6 +531,22 @@
       "duration_ms": 158195,
       "name": "Everest",
       "url": "https://open.spotify.com/track/13GNwY7azIE7J0VJUaz18S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lice",
+        "url": "https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 100560,
+      "name": "Spacing Out",
+      "url": "https://open.spotify.com/track/6Jmr2w49vC2cj4fPgmkjfH"
     },
     {
       "added_at": null,

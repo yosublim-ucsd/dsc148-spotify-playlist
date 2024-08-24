@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,830 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,826 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 42 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 |
 | 43 | [April In Paris](https://open.spotify.com/track/1WDlBvlNSMA5kmj3PTYh3C) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Easy Does It](https://open.spotify.com/album/1k39wDj3JzRzt80EIPUyUR) | 3:23 |
 | 44 | [Den milde dag er lys og lang](https://open.spotify.com/track/7ARDH8bHKbYEeoUxz6JtES) | [Alex Riel](https://open.spotify.com/artist/0kPEyoVCAET0GwNPmjmpyH), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg), [Carsten Dahl](https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda) | [Den milde dag er lys og lang](https://open.spotify.com/album/0Frkq00BPaD1CBG5FESjRC) | 2:26 |
-| 45 | [Gone With The Wind](https://open.spotify.com/track/5IBREbYRb8KyBIu1TyxDXq) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 6:21 |
-| 46 | [Chandra](https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [At The Deer Head Inn](https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx) | 9:21 |
+| 45 | [Chandra](https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y) | [At The Deer Head Inn](https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx) | 9:21 |
+| 46 | [Gone With The Wind](https://open.spotify.com/track/5IBREbYRb8KyBIu1TyxDXq) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 6:21 |
 | 47 | [Beatrice](https://open.spotify.com/track/3G5w8xxvPfQMpBbnM0ymhf) | [Reinhardt Winkler](https://open.spotify.com/artist/3qI7BI1j3lVPj7O93WYsyK) | [Let's Face the Music](https://open.spotify.com/album/68a61URtiemSLZn6UcHizY) | 4:17 |
 | 48 | [Cadência](https://open.spotify.com/track/7GJOLBA86KpT1BnCD1yXIs) | [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU), [Edu Neves](https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY), [Caio Marcio Santos](https://open.spotify.com/artist/0O5ydY5JgI10hLIOEz6184) | [Cadência Verde e Amarela](https://open.spotify.com/album/48RChE59aR0lOOOWlFc4Av) | 3:57 |
 | 49 | [I Believe In You](https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Come What May](https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ) | 2:58 |
-| 50 | [Up Jumped Spring](https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Backlash](https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj) | 6:41 |
-| 51 | [No Regrets](https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 3:28 |
+| 50 | [No Regrets](https://open.spotify.com/track/3hfn5Sf3AJAvurLAuObfRK) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [Confessions](https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG) | 3:28 |
+| 51 | [Up Jumped Spring](https://open.spotify.com/track/0Ym1XHuFUolBWg6pTZHarn) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Backlash](https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj) | 6:41 |
 | 52 | [Avril au Portugal](https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 2:54 |
 | 53 | [Take a Giant Step](https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:47 |
 | 54 | [They Say It's Spring](https://open.spotify.com/track/0iWrqHfZkUIayJzvx4fNZv) | [Clare Teal](https://open.spotify.com/artist/5SgJJjUoAEgjbjmE7ohuaK) | [They Say It's Swing](https://open.spotify.com/album/6zQQXBGKwW1XbU89W9EdcN) | 4:09 |

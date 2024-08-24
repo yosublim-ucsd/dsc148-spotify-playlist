@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Sai Abhyankkar
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,005 likes - 73 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,087 likes - 73 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 72 | [YOU](https://open.spotify.com/track/5SOKLE8PuKhC6zVURF8VZG) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [BEMATLAB](https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es) | 2:52 |
 | 73 | [Balo Batiyan \(feat\. Atta Ullah Khan Esakhelvi\)](https://open.spotify.com/track/5qxSNZz2m8wNH61JYo7bVL) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ), [Atta Ullah Khan Esakhelvi](https://open.spotify.com/artist/5goEfEtiQpnBEZBfGGeCrL) | [Balo Batiyan \(feat\. Atta Ullah Khan Esakhelvi\)](https://open.spotify.com/album/22RiQmJXIj68bbqOUNlVAm) | 3:22 |
 
-Snapshot ID: `Zr7s9QAAAADm4NZ3gMw4R/CtzL8rM63W`
+Snapshot ID: `Zsg5cwAAAAAVt2xAYZpc9v3H2Unjn1QE`

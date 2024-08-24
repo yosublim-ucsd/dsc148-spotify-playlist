@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-449 songs - 1 day 3 hr 39 min
+450 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Embraced by Night](https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Embraced by Night](https://open.spotify.com/album/0RZijEhRfQKs7m9YXafzzG) | 3:03 | 2024-03-08 |  |
 | [Enlightened](https://open.spotify.com/track/26EckqdKwbnLgXPoiUgaEo) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ) | 5:50 | 2022-04-22 | 2023-03-21 |
 | [Evergreen](https://open.spotify.com/track/6o6l8qajBu2ke8E7IcpRVu) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [Evergreen](https://open.spotify.com/album/2Zql1fESYIoPwFwy40zCSm) | 2:08 | 2023-03-24 | 2023-04-21 |
+| [Every Time \(You Say You Love Me\)](https://open.spotify.com/track/3hrcctCLZhOnSdIYZzbVUS) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [Every Time \(You Say You Love Me\)](https://open.spotify.com/album/7nl7l03LHtzreCrMl7NRFX) | 3:00 | 2024-08-20 |  |
 | [Everybody Loves the Sunshine](https://open.spotify.com/track/31kkgCImsQJjSGDVzxJN4R) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 5:22 | 2022-06-02 | 2022-09-22 |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Everytime We Say Goodbye](https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh) | 4:40 | 2023-03-20 | 2024-03-12 |
 | [EYES](https://open.spotify.com/track/7p0fqkMZzEnpzwaAF1BbDR) | [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [EYES](https://open.spotify.com/album/2heTYhmqhs6PTSdvyqXHp9) | 2:19 | 2022-09-14 | 2022-10-07 |
@@ -224,7 +225,7 @@
 | [Lovestrung](https://open.spotify.com/track/57tNKYlNeknPlPFvMXsMaK) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Lovestrung](https://open.spotify.com/album/7pGN97RlbphE3ap1UsWReS) | 3:19 | 2024-03-08 |  |
 | [Ludlow](https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Easy Dreamin'](https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2) | 3:03 | 2023-03-20 |  |
 | [Magnificent Moon](https://open.spotify.com/track/5WR54xSw59vPETCbTxp0td) | [Lucien Johnson](https://open.spotify.com/artist/3FRhEis2dHgap01tvdthBV) | [Wax /// Wane](https://open.spotify.com/album/3swLRGtEULofJUboHcsYyf) | 6:10 | 2022-04-22 | 2022-06-03 |
-| [Make good better](https://open.spotify.com/track/75tYxIVIyTRQmCJeg68z84) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Make good better](https://open.spotify.com/album/1fkpOxRymVjgS47si11Dup) | 3:24 | 2023-09-22 |  |
+| [Make good better](https://open.spotify.com/track/75tYxIVIyTRQmCJeg68z84) | [Ornette Haynes](https://open.spotify.com/artist/5Fb5lnOYweoOU7Xt5qQ1h6) | [Make good better](https://open.spotify.com/album/1fkpOxRymVjgS47si11Dup) | 3:24 | 2023-09-22 | 2024-08-24 |
 | [Mancuso's Joint](https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Mancuso's Joint](https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF) | 4:18 | 2023-03-20 |  |
 | [Mars Walk](https://open.spotify.com/track/0xAh6kOHUk9mWKNEH60aut) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Mars Walk](https://open.spotify.com/album/1mwBt9QErZLgnSVNfbfTdm) | 4:03 | 2022-02-17 | 2022-04-29 |
 | [May As Well Be](https://open.spotify.com/track/5slGHGzSDcppXpSQztSjcC) | [Vels Trio](https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l) | [May As Well Be](https://open.spotify.com/album/0Exes1EGyeTL8Sw5to9tVo) | 4:00 | 2022-02-17 | 2022-11-26 |

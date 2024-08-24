@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-376 songs - 21 hr 48 min
+377 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,12 +56,12 @@
 | [BIG BANG](https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [BIG BANG](https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS) | 3:03 | 2021-12-09 | 2024-07-10 |
 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 | 2021-12-09 |  |
 | [Bolerito Sad](https://open.spotify.com/track/5QmGrwScqr4hWk2U3SNUUm) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/1Tckecb6OWb7UaZRakuyel) | 3:01 | 2023-11-10 | 2024-04-19 |
-| [Bolerito Sad](https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM) | 3:01 | 2021-12-09 |  |
+| [Bolerito Sad](https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM) | 3:01 | 2021-12-09 | 2024-08-24 |
 | [Bonita](https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5) | [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [La Marisoul & The Love Notes Orchestra \(Vol\. 1\)](https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO) | 2:14 | 2021-12-09 |  |
 | [bossa nova](https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [bossa nova](https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN) | 3:08 | 2024-03-14 |  |
 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 | 2022-04-07 | 2022-09-22 |
 | [Buenos Días](https://open.spotify.com/track/2HRDwWeIJjiwDoNrVljHTA) | [Samanez](https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V) | [Buenos Días](https://open.spotify.com/album/7i8zauWILQTXiwfYUSkJXZ) | 3:43 | 2023-02-10 |  |
-| [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 | 2024-06-28 |  |
+| [Butterflies \(feat\. Tim Bernardes\)](https://open.spotify.com/track/1GRFLIs1vknjNHp3QeioP9) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4) | [Flower of the soul](https://open.spotify.com/album/2C0Ph5jfNoHIP6yyDsIF7U) | 5:22 | 2024-06-28 | 2024-08-24 |
 | [Bésame](https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [A Color](https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X) | 2:50 | 2023-02-10 | 2024-04-19 |
 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 | 2022-04-07 | 2022-10-28 |
 | [Bésame mucho](https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame mucho](https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW) | 4:04 | 2022-09-21 | 2024-04-19 |
@@ -129,7 +129,7 @@
 | [Déjame Vivir](https://open.spotify.com/track/644yCL4wlubltqF7hBPQtp) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja De Música \(Edición Especial\)](https://open.spotify.com/album/0c3JGBp60aExJSYIQ0Hbej) | 3:34 | 2021-12-09 | 2022-07-08 |
 | [El Solitario Amor](https://open.spotify.com/track/0V9V7YN8hgej8fvj9iaLoo) | [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag), [The French Kiss](https://open.spotify.com/artist/6qFbQxxc80ar3IYpWTXKzg) | [El Solitario Amor](https://open.spotify.com/album/2AieUifG2ARpFMgKgO9LUO) | 2:55 | 2021-12-09 |  |
 | [El Tiempo del Tiempo](https://open.spotify.com/track/1e7en8fZVNLTkOFDooYKVY) | [Daniel Drexler](https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk) | [El Tiempo del Tiempo](https://open.spotify.com/album/6j84DUWEjRRCjdqfKWRdpz) | 3:46 | 2024-03-14 |  |
-| [Ella](https://open.spotify.com/track/736rqYA7lM9lUzvimbUO13) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:50 | 2022-05-14 | 2024-08-19 |
+| [Ella](https://open.spotify.com/track/736rqYA7lM9lUzvimbUO13) | [Tiare](https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK) | [Dieciséis](https://open.spotify.com/album/1cIIcB5mtiVWrvoGDKHJtZ) | 3:50 | 2022-05-14 |  |
 | [Elo](https://open.spotify.com/track/5myvcDXAJk9igYbcVIYlFq) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [LADAMA](https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6) | 4:25 | 2022-04-07 | 2022-05-25 |
 | [Emotion](https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion](https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx) | 3:53 | 2022-09-21 | 2024-04-19 |
 | [Emotion \(Acoustic\)](https://open.spotify.com/track/5autpDsh1H9Ltf5bNztuA2) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Emotion \(Acoustic\)](https://open.spotify.com/album/6L1MryypRIVPUz3GFtXTRK) | 3:53 | 2021-12-09 | 2022-07-29 |
@@ -186,6 +186,7 @@
 | [Junto al Mar](https://open.spotify.com/track/0UeMXtEAaFZGFQT4DejyaJ) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Junto al Mar](https://open.spotify.com/album/1NcPDfd2KYkHCi1mANvhLF) | 4:38 | 2024-03-14 | 2024-04-19 |
 | [Junto al Mar](https://open.spotify.com/track/64ZOhhQARScqXYjdGsiBuV) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Junto al Mar](https://open.spotify.com/album/20Ar89pZc5ITtvq4WyIDJB) | 4:38 | 2021-12-09 |  |
 | [La Aventurera](https://open.spotify.com/track/2Gqu40SIdJcf1FfN5U8fVf) | [Mónica Giraldo](https://open.spotify.com/artist/1VQAstnifwchhAfmoecBkx) | [Bajo el Mismo Cielo](https://open.spotify.com/album/3q6NKY1RkOtCY184qlBmMK) | 3:18 | 2022-09-21 | 2024-04-19 |
+| [La bolsa](https://open.spotify.com/track/1zhGh7cSVNsCJmajLvSwFy) | [Gabriel Rios](https://open.spotify.com/artist/0pF1TxZmwCJ3gGpkBQwdtT) | [La bolsa](https://open.spotify.com/album/4dcWsQS5lzrfMd1WpTjgI2) | 3:34 | 2024-08-23 |  |
 | [La Cosecha](https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN) | 5:15 | 2022-08-05 | 2024-04-19 |
 | [La Costura De Dios](https://open.spotify.com/track/41Ez6Qx8cqV6eE1MFhYJeb) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [+ Bien](https://open.spotify.com/album/6Hfm9k5H74TN25V2cYLFiu) | 2:40 | 2022-04-07 | 2022-10-28 |
 | [La Creatividad](https://open.spotify.com/track/3oVO96C3ao4UwSK1hMNws8) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [La Creatividad](https://open.spotify.com/album/3Id0GaC7qtQlVsBcWoXdBN) | 2:04 | 2021-12-09 |  |

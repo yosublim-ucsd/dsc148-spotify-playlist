@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Cornelius \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,906 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,916 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 47 | [Sunny Days](https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Sunny Days](https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN) | 3:56 |
 | 48 | [Let It Rain](https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI), [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Let It Rain](https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC) | 3:30 |
 | 49 | [TOGETHER!](https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 3:06 |
-| 50 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 |
-| 51 | [WDYS](https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [WDYS](https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K) | 2:24 |
+| 50 | [WDYS](https://open.spotify.com/track/1a8gwdUECQHmUvLxqdirSm) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [WDYS](https://open.spotify.com/album/1j5WaQxYRD73CZcBRYGZ9K) | 2:24 |
+| 51 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 |
 | 52 | [威士忌](https://open.spotify.com/track/0FGkzJY7uDgzN26n6lWHx7) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [威士忌](https://open.spotify.com/album/1uJzvjFpaQWOZpe2H3lfIE) | 2:57 |
 | 53 | [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 |
 | 54 | [Mr\. Feelgood](https://open.spotify.com/track/7wYA8mWTOnHltpaxBU7rKH) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Mr\. Feelgood](https://open.spotify.com/album/0vqeG4DVJYoU0YcfcNnfQF) | 3:50 |
@@ -83,13 +83,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 73 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 |
 | 74 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 |
 | 75 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
-| 76 | [なんてね](https://open.spotify.com/track/71TekkQ6MUZf8wsUKhuxhx) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [なんてね](https://open.spotify.com/album/3sGUJFiOE1W7QFuPwI4sAu) | 2:32 |
-| 77 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
+| 76 | [你的樣子](https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 4:01 |
+| 77 | [なんてね](https://open.spotify.com/track/71TekkQ6MUZf8wsUKhuxhx) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [なんてね](https://open.spotify.com/album/3sGUJFiOE1W7QFuPwI4sAu) | 2:32 |
 | 78 | [SUPER CALIFORNIA GIRLS](https://open.spotify.com/track/4y2eEk8LdvN7neCh7SdNEK) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [SUPER CALIFORNIA GIRLS](https://open.spotify.com/album/5kkEJIHCnbVY6bhJhHI77z) | 2:56 |
 | 79 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
 | 80 | [做一半的夢](https://open.spotify.com/track/4DF0vn03c0k24e2dr6cGqA) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [做一半的夢](https://open.spotify.com/album/37I6oZZMqyleclQQp6mPAa) | 3:24 |
-| 81 | [favourite jeans](https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [favourite jeans](https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW) | 3:28 |
-| 82 | [Oh My God!](https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Love, Again](https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18) | 2:50 |
+| 81 | [Oh My God!](https://open.spotify.com/track/05Jx8FESfPgEabByGDbukL) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Love, Again](https://open.spotify.com/album/4h6KumY8NGiN5wVXexLl18) | 2:50 |
+| 82 | [favourite jeans](https://open.spotify.com/track/4HOUg5mmwuAfZBhRVW8YN3) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [favourite jeans](https://open.spotify.com/album/0RdKrNpj8mDhR6TM8B1EsW) | 3:28 |
 | 83 | [In the end we’re just](https://open.spotify.com/track/4jyc9WC0KiTjVY5bvomwk7) | [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [In the end we’re just](https://open.spotify.com/album/10IuJieY6wTU772PLGkoxl) | 2:58 |
 | 84 | [blame](https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [blame](https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa) | 2:54 |
 | 85 | [Sweet Hurting](https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI), [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Sweet Hurting](https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw) | 3:34 |

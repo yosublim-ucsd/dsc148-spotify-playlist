@@ -394,7 +394,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 133533,
       "name": "AL LIMITE",
       "url": "https://open.spotify.com/track/5jNJoyl5zRnPSnFhYELJwN"
@@ -3133,6 +3133,24 @@
     },
     {
       "album": {
+        "name": "dos temitas",
+        "url": "https://open.spotify.com/album/5uIDSXxlxn8h3Zl9xngn6y"
+      },
+      "artists": [
+        {
+          "name": "Muerejoven",
+          "url": "https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113548,
+      "name": "KFC",
+      "url": "https://open.spotify.com/track/1IoJ8K4cHdPj5J6WgBqz4t"
+    },
+    {
+      "album": {
         "name": "KHEA: Bzrp Music Sessions, Vol. 34",
         "url": "https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww"
       },
@@ -3296,7 +3314,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 192000,
       "name": "Libre",
       "url": "https://open.spotify.com/track/4hCHvrNozvAGPJGeadXJML"
@@ -4163,6 +4181,28 @@
     },
     {
       "album": {
+        "name": "No love",
+        "url": "https://open.spotify.com/album/0ZBhPqAqhdoAPFTbhjfNsk"
+      },
+      "artists": [
+        {
+          "name": "Big Deiv",
+          "url": "https://open.spotify.com/artist/5c1dsiPU62AjA50VwTPfoF"
+        },
+        {
+          "name": "808god",
+          "url": "https://open.spotify.com/artist/746Q2CaUN4Rfttp6D8rZc8"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "No love",
+      "url": "https://open.spotify.com/track/2fOEFoxesWhR60GrFsZGJE"
+    },
+    {
+      "album": {
         "name": "No Me Llores",
         "url": "https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52"
       },
@@ -4668,7 +4708,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 236143,
       "name": "Party en el Barrio (feat. Duki)",
       "url": "https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm"
@@ -5146,6 +5186,24 @@
       "duration_ms": 234816,
       "name": "Rock and Roll",
       "url": "https://open.spotify.com/track/6In9qEDFomThwWbbCGV6aP"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/6BQ3LKnkuxHgWLiDfnNCtU"
+      },
+      "artists": [
+        {
+          "name": "Frijo",
+          "url": "https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/1AUgsKnQoY9o7BZyECszCK"
     },
     {
       "album": {

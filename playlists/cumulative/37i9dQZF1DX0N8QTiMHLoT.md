@@ -4,7 +4,7 @@
 
 > Because bass\. Cover: Victor Wooten
 
-103 songs - 7 hr 29 min
+104 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bent](https://open.spotify.com/track/2wuL3O4CTUPjveRCEXnlfE) | [Gary Willis](https://open.spotify.com/artist/3w2fcE7mWqTmgRkNKn6gKJ) | [Bent](https://open.spotify.com/album/3sojlfyt5Ej9rI8Yi3QliK) | 6:02 | 2021-05-06 |  |
 | [Beyond The Rift](https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Fable](https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk) | 2:18 | 2021-05-06 | 2023-10-07 |
 | [Blues Mfr](https://open.spotify.com/track/5fJcaPOiPKBxpTKRaTPC5W) | [Doug Johns](https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk) | [Doug's Party Mix](https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3) | 3:48 | 2021-05-06 |  |
+| [Bringing It Down to the Bass](https://open.spotify.com/track/03wJyKd87QKIz3q2KnPIjm) | [Tony Levin](https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH), [Dominic Miller](https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL), [Manu Katché](https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy), [Alex Foster](https://open.spotify.com/artist/1FOmilcr94cgU8VTgZ02RV) | [Bringing It Down to the Bass](https://open.spotify.com/album/6C1mIWAOf4vlhWExDH6Zir) | 5:34 | 2024-08-23 |  |
 | [Cherokee](https://open.spotify.com/track/7tpRhxTJb9476O9qef8VPq) | [Pierluigi Balducci](https://open.spotify.com/artist/4kdAUsq2UpAqjbenZAeMo1) | [Electric Wood](https://open.spotify.com/album/6BPszTAxgfBXZZco1IOkdu) | 3:14 | 2021-05-06 |  |
 | [Chicken](https://open.spotify.com/track/4IDdUssauEYJ9kTit6tOU6) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX), [Peter Lübke](https://open.spotify.com/artist/0YktrlH17JaZBzywJCcNma), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Broadway Blues](https://open.spotify.com/album/7sZtHAjAPbZmch3HLiA3g7) | 5:51 | 2021-05-06 |  |
 | [Chump Suey](https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI) | [Doug Johns](https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk) | [Pocket Fulla Nasty](https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC) | 4:25 | 2021-05-06 |  |

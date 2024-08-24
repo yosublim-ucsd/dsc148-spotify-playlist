@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Tinashe.",
+  "description": "What's happening in r&b, right now \u2013 featuring Kali Uchis.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -658,6 +658,28 @@
       "duration_ms": 190498,
       "name": "All or Nothing (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/4SPazIWgMqArA81XKxgDZa"
+    },
+    {
+      "album": {
+        "name": "All Summer",
+        "url": "https://open.spotify.com/album/7G80KfPQE0hX2Ifcxay7J4"
+      },
+      "artists": [
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        },
+        {
+          "name": "Ant Clemons",
+          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109921,
+      "name": "All Summer",
+      "url": "https://open.spotify.com/track/1qZJ4afvHbsSg0d0ENqLHv"
     },
     {
       "album": {
@@ -2154,7 +2176,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 195750,
       "name": "Can't Save You (feat. Roy Woods)",
       "url": "https://open.spotify.com/track/0N3IlFOcL5vlwrV63wct3b"
@@ -4338,7 +4360,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 272836,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/0l0UDr9M10FQAMkq8jcIf8"
@@ -8417,6 +8439,24 @@
     },
     {
       "album": {
+        "name": "Light Work",
+        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217304,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+    },
+    {
+      "album": {
         "name": "Like Her Too",
         "url": "https://open.spotify.com/album/4oRAaZA9TrNiR3ARRkAvWl"
       },
@@ -8642,7 +8682,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 226574,
       "name": "Little Things (feat. Yaya Bey)",
       "url": "https://open.spotify.com/track/7eUxbqEPlbf9rccIDDOy5D"
@@ -14394,6 +14434,24 @@
       "duration_ms": 197958,
       "name": "Sweep It Up",
       "url": "https://open.spotify.com/track/2zrR38kgXUVkMDaaIYqZ3t"
+    },
+    {
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174266,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E"
     },
     {
       "album": {

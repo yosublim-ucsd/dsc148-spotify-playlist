@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,526 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,540 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 38 | [Cumbia de Marisol](https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma) | [Supergrupo Son Tepito](https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp) | [Cumbia de Marisol](https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE) | 4:13 |
 | 39 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 |
 | 40 | [Ámame](https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Clásicas De La Cumbia Andina](https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z) | 3:58 |
-| 41 | [Sabes A Chocolate](https://open.spotify.com/track/3avKbg8OWkwFhucGI7WE22) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [Los Remixes 2.0](https://open.spotify.com/album/1GeqhGpn2rbPNQP1SqRwpK) | 3:46 |
-| 42 | [Linda Mujer](https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc) | 2:49 |
+| 41 | [Linda Mujer](https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Linda Mujer](https://open.spotify.com/album/2r0krjD8TrFD7wtdoLzNbc) | 2:49 |
+| 42 | [Sabes A Chocolate](https://open.spotify.com/track/3avKbg8OWkwFhucGI7WE22) | [Kumbia Kings](https://open.spotify.com/artist/3jO5UGHrEzfd5YIamfs7Ir), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Pee Wee Gonzalez](https://open.spotify.com/artist/7mj8ZMCC4iGR0OQsUy6cvB) | [Los Remixes 2.0](https://open.spotify.com/album/1GeqhGpn2rbPNQP1SqRwpK) | 3:46 |
 | 43 | [Suave Y Tierno](https://open.spotify.com/track/1boomhGAEyfVaMiODGyate) | [Grupo Klaz Y Keroz](https://open.spotify.com/artist/2qGvIoLAh7vSsUWSNOi3pC) | [Formas De Amor](https://open.spotify.com/album/4iKuVimtqToaPTNFpPhvaH) | 4:07 |
 | 44 | [Asi Fue \(Todos los Cumbieros con las manos en el aire\)](https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Asi Fue \(Todos los Cumbieros con las manos en el aire\)](https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1) | 3:14 |
 | 45 | [Dile, Cuentale](https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Dile, Cuentale](https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu) | 4:10 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 61 | [Cha Cu Cha](https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr) | [Los Garcia Bros.](https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD) | [Abrazame](https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz) | 3:09 |
 | 62 | [COMO TE LLAMAS](https://open.spotify.com/track/1RMIuLirLVncPn4ljyOUv3) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [COMO TE LLAMAS](https://open.spotify.com/album/32eUPU9W0UD3ADcu28HwQW) | 2:38 |
 | 63 | [No Hay Vida Sin Ti](https://open.spotify.com/track/0CYzZfNba4URRVtqqVew0Z) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Hay Vida Sin Ti](https://open.spotify.com/album/5ZemNHNWfvjoE3sgZGnQVZ) | 4:07 |
-| 64 | [Tuyo Siempre](https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Tuyo Siempre](https://open.spotify.com/album/5iWCGpIviT851tliidHWm7) | 2:53 |
-| 65 | [Se Me Hizo Tarde](https://open.spotify.com/track/6rLeVBydUihQklKCUqSiou) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Se Me Hizo Tarde](https://open.spotify.com/album/60dJ1cBhvkW8BEoDcliPE8) | 2:47 |
+| 64 | [Se Me Hizo Tarde](https://open.spotify.com/track/6rLeVBydUihQklKCUqSiou) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Se Me Hizo Tarde](https://open.spotify.com/album/60dJ1cBhvkW8BEoDcliPE8) | 2:47 |
+| 65 | [Tuyo Siempre](https://open.spotify.com/track/1FQjnCLBH6QF0FBmLIlr8m) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Tuyo Siempre](https://open.spotify.com/album/5iWCGpIviT851tliidHWm7) | 2:53 |
 | 66 | [El Mariachi Lloró](https://open.spotify.com/track/5ertVAOnOCegOvxGm7NYkc) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Mariachi Lloró](https://open.spotify.com/album/26l59cDC5dNqIVxTgRDPuM) | 2:57 |
 | 67 | [La Negra](https://open.spotify.com/track/5CjsiSWhEvSK433qJAZ8EI) | [Estibaliz Badiola](https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [La Negra](https://open.spotify.com/album/1YaB98YlipNhjR5WYDOE7V) | 3:04 |
 | 68 | [Chimenea \- En Vivo](https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30) | [Milla 22](https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q) | [Chimenea \(En Vivo\)](https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1) | 3:00 |

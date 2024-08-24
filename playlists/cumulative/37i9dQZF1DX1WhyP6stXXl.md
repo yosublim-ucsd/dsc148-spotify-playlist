@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Myles Smith
 
-261 songs - 13 hr 7 min
+262 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Wake Up](https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [LOOM](https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y) | 2:46 | 2024-06-28 | 2024-07-27 |
 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 | 2024-07-18 | 2024-08-16 |
 | [Warm Body](https://open.spotify.com/track/7g7nmZQDejKZtFOfST9C7u) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Left on McKinney](https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9) | 3:09 | 2024-08-08 |  |
-| [what do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [what do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 | 2024-08-08 |  |
+| [WE PRAY](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 | 2024-08-23 |  |
+| [what do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [what do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 | 2024-08-08 | 2024-08-24 |
 | [Who Do I](https://open.spotify.com/track/1MVke3FI5YSoilyiprinEg) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Who Do I](https://open.spotify.com/album/0HyHWMkMHgbZTXRgvVh6ma) | 4:23 | 2024-07-25 | 2024-08-23 |
 | [who's in your head?](https://open.spotify.com/track/2vmYMEPz5OzNxMGlW4wMIC) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [who's in your head?](https://open.spotify.com/album/0r9h122T6mhHWPCaOQMYsn) | 2:05 | 2024-06-28 | 2024-07-19 |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-08 |  |

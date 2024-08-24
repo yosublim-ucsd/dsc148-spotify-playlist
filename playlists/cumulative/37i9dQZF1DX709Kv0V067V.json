@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 357818,
       "name": "Energy Flow",
       "url": "https://open.spotify.com/track/0nfziqgeSosB3YxNzUhTVd"
@@ -1850,10 +1850,28 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 187951,
       "name": "Keep Calm",
       "url": "https://open.spotify.com/track/01d67EQENQeg8pIji8bv42"
+    },
+    {
+      "album": {
+        "name": "Laying in a Calm Forest",
+        "url": "https://open.spotify.com/album/2S2o93IKMi3NV7IMnfaYsp"
+      },
+      "artists": [
+        {
+          "name": "Local Abroad",
+          "url": "https://open.spotify.com/artist/6fzGY6vXqUv1OJxFTVlMfu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Laying in a Calm Forest",
+      "url": "https://open.spotify.com/track/1ToZPAQFKcLTzNgI07SXn5"
     },
     {
       "album": {
@@ -2451,6 +2469,24 @@
     },
     {
       "album": {
+        "name": "Purify",
+        "url": "https://open.spotify.com/album/1n5rY4hAIL0pP6oG3rtV8f"
+      },
+      "artists": [
+        {
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163284,
+      "name": "Purify",
+      "url": "https://open.spotify.com/track/62MH24WHfJVjhlepvbm3W1"
+    },
+    {
+      "album": {
         "name": "Rain Theta 146-151hz",
         "url": "https://open.spotify.com/album/2P86wm0pzidW2gux1YgaaN"
       },
@@ -2502,6 +2538,24 @@
       "duration_ms": 184545,
       "name": "Remain In Light (432 Hz Sound Bath)",
       "url": "https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl"
+    },
+    {
+      "album": {
+        "name": "Restore Path",
+        "url": "https://open.spotify.com/album/7p6riO1HLSI718yHneJgIv"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Andersson",
+          "url": "https://open.spotify.com/artist/2DAZifHcKzL4h3nk6nuBKF"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Restore Path",
+      "url": "https://open.spotify.com/track/6UqmUhWq9E3lbtpJbKjitM"
     },
     {
       "album": {

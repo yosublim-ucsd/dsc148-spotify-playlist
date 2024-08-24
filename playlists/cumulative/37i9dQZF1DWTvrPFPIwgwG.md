@@ -2,9 +2,9 @@
 
 ### [Louvores Pentecostais](https://open.spotify.com/playlist/37i9dQZF1DWTvrPFPIwgwG)
 
-> Ouça as novidades e grandes louvores Pentecostais\. Foto: Kailane Frauches
+> Ouça as novidades e grandes louvores Pentecostais\. Foto: Fernanda Brum
 
-217 songs - 18 hr 37 min
+218 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Eu Vou na Frente](https://open.spotify.com/track/7IhoNVHiXR4PQcYkV0bEwp) | [Nithael Alves](https://open.spotify.com/artist/7bJNPAbxZjdvFLQqdG0mOd) | [Eu Vou na Frente](https://open.spotify.com/album/2CxfBwzBDXCpgpfYZEtG1Z) | 4:39 | 2023-10-20 | 2023-11-04 |
 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 | 2024-04-19 |  |
 | [Faraó ou Deus](https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Faraó ou Deus](https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ) | 5:57 | 2023-10-06 | 2024-07-13 |
+| [Faraó ou Deus?](https://open.spotify.com/track/1GSp1E5hAAexbPRN6joj1b) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/07X2Gi0OJ21k1zJ0GCreok) | 4:55 | 2024-08-23 |  |
 | [Fase do Deserto](https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Fase do Deserto](https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t) | 4:26 | 2022-09-09 |  |
 | [Foi a Mão de Deus](https://open.spotify.com/track/575A4uzmh4OIHn34wRD6Gy) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Foi a Mão de Deus](https://open.spotify.com/album/4NP7tJqXXSFWZDYdy9ZKUU) | 6:48 | 2022-09-09 | 2024-06-29 |
 | [Foi Livramento](https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Foi Livramento](https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq) | 3:39 | 2023-07-07 |  |
@@ -98,7 +99,7 @@
 | [Hoje é Vida](https://open.spotify.com/track/3lUX2uBmpCepp0QTdeFTAG) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Hoje é Vida](https://open.spotify.com/album/3j9FyWqK7nEfCv7AjPz40D) | 4:10 | 2023-02-25 | 2023-03-25 |
 | [Honra e Majestade](https://open.spotify.com/track/3c3WGvlLkuyiGasRYtpmcb) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Honra e Majestade](https://open.spotify.com/album/1w9UfJt9RVidusHkONwScP) | 4:24 | 2023-08-18 | 2023-09-09 |
 | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/track/2nHSRcZHW6L75pAWfPNOHn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/album/0RXhj4IrrkcMs9Puae55n8) | 3:55 | 2024-07-19 |  |
-| [Há um Tempo](https://open.spotify.com/track/4RRhPzBkN2rLr1jz3Da1NK) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Há um Tempo](https://open.spotify.com/album/4N0OsVr0l5lTjkxCeqGHbp) | 4:44 | 2022-09-09 |  |
+| [Há um Tempo](https://open.spotify.com/track/4RRhPzBkN2rLr1jz3Da1NK) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Há um Tempo](https://open.spotify.com/album/4N0OsVr0l5lTjkxCeqGHbp) | 4:44 | 2022-09-09 | 2024-08-24 |
 | [Há uma Saída: 45 Anos \- Ao Vivo](https://open.spotify.com/track/5lpWmEhS3Z7ZCEwyBUEafc) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Há uma Saída: 45 Anos \(Ao Vivo\)](https://open.spotify.com/album/0xIK85RxLHAbOyqeWpAdYv) | 6:17 | 2022-09-09 | 2023-10-07 |
 | [Imagine \(Ao Vivo\)](https://open.spotify.com/track/45cx88GPBhNOCBILzmaqlG) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo) | [Imagine \(Ao Vivo\)](https://open.spotify.com/album/2PNKFZgtc4rveEuXYYMIDj) | 4:56 | 2023-10-06 | 2023-11-04 |
 | [Infinitamente Mais \- Ao Vivo](https://open.spotify.com/track/1vEKFk0V7nMMHxTvO93rPS) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2) | [Infinitamente Mais \(Ao Vivo\)](https://open.spotify.com/album/0hLwPk4otJkzdwzRtOdWtv) | 6:15 | 2024-08-09 |  |

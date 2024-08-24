@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 
 ### [This Is Los Enanitos Verdes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ShMI0)
 
-> This is Los Enanitos Verdes\. The essential tracks, all in one playlist.
+> This Is Los Enanitos Verdes\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,293 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,310 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ShMI0.md) - [plain]
 | 49 | [Tibio Corazon](https://open.spotify.com/track/23FltX27Jle4ytbc5UPvAL) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Planetario](https://open.spotify.com/album/7dmyvQjdhoCpU5qT73k3Yc) | 4:01 |
 | 50 | [Tequila \- En Vivo](https://open.spotify.com/track/3HaKjSU18sOZn85mXiAP52) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:06 |
 
-Snapshot ID: `ZsUuAAAAAABo+ZHwOsnFYm4kPBPotLJu`
+Snapshot ID: `ZsZ/gAAAAACfrA2RfZiQudntggsJJn41`

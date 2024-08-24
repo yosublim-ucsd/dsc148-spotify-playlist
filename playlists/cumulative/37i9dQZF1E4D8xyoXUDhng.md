@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4D8xyoXUDhng.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4D8xyoXUDhng) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4D8xyoXUDhng)
 
-### [Callie Day Radyosu](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
+### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> Callie Day, Terrell Grice, Samoht ve daha fazlası ile
+> With Callie Day, Terrell Grice, Samoht and more
 
 1,545 songs - 4 day 19 hr 14 min
 

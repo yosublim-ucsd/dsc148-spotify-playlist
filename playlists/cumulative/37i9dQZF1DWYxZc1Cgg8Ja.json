@@ -750,7 +750,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 209655,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 191561,
       "name": "No Te Creas Tanto",
       "url": "https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV"
@@ -1847,6 +1847,28 @@
     },
     {
       "album": {
+        "name": "Passoa",
+        "url": "https://open.spotify.com/album/1QdorKXV1OSPA0oDaMdYQD"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309280,
+      "name": "Passoa",
+      "url": "https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0"
+    },
+    {
+      "album": {
         "name": "PPP",
         "url": "https://open.spotify.com/album/6jhJrmUkXvmvU14G0PyYTd"
       },
@@ -1938,7 +1960,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 184511,
       "name": "Que Se Parezca A Ti",
       "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
@@ -2179,6 +2201,32 @@
     },
     {
       "album": {
+        "name": "Soltera - W Sound 01",
+        "url": "https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142022,
+      "name": "Soltera - W Sound 01",
+      "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
+    },
+    {
+      "album": {
         "name": "SORRY 4 THAT MUCH",
         "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
       },
@@ -2252,7 +2300,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 141000,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg"
@@ -2443,6 +2491,24 @@
     },
     {
       "album": {
+        "name": "X1 BESITO",
+        "url": "https://open.spotify.com/album/0W46icC4MFMbpQnp42lHxD"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "X1 BESITO",
+      "url": "https://open.spotify.com/track/0gcdTUq3Al8gDBRkISUI9o"
+    },
+    {
+      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -2512,6 +2578,24 @@
       "duration_ms": 220853,
       "name": "Yo Te Lo Dije",
       "url": "https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa"
+    },
+    {
+      "album": {
+        "name": "\u00a1Ya no me pregunten por mi ex!",
+        "url": "https://open.spotify.com/album/5id7Y3fY4e2ZxP43yquSxK"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130838,
+      "name": "\u00a1Ya no me pregunten por mi ex!",
+      "url": "https://open.spotify.com/track/0gmZhxA8E5rDXUSwODW9X7"
     },
     {
       "album": {

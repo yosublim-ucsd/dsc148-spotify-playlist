@@ -1,6 +1,6 @@
 {
   "description": "Con esfuerzo y dedicaci\u00f3n, viene la celebraci\u00f3n.",
-  "num_followers": 47043,
+  "num_followers": 47066,
   "original_name": "Capricornio",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2019-12-27 01:15:45",
       "album": {
+        "name": "Pearl (Legacy Edition)",
+        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 107866,
+      "name": "Mercedes Benz",
+      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
+    },
+    {
+      "added_at": "2019-12-27 01:15:45",
+      "album": {
         "name": "Caer",
         "url": "https://open.spotify.com/album/5eIgu8uJ3H18h8vVqJYggZ"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 205442,
       "name": "Saturdays (feat. HAIM)",
       "url": "https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1"
-    },
-    {
-      "added_at": "2019-12-27 01:15:45",
-      "album": {
-        "name": "Pearl (Legacy Edition)",
-        "url": "https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 107866,
-      "name": "Mercedes Benz",
-      "url": "https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g"
     }
   ],
   "unique_name": "Capricornio",

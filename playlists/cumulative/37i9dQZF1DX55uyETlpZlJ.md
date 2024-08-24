@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-381 songs - 20 hr 39 min
+382 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [KALEDH HODHE](https://open.spotify.com/track/5IQ37HCYwY7lBryfgZKa6k) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [KALEDH HODHE](https://open.spotify.com/album/27fcdIaX5jfGiPm5lBmQgO) | 1:25 | 2024-03-17 | 2024-08-06 |
 | [Kalitha Hudugi 2.0](https://open.spotify.com/track/5W1wfINyvzgflRPjbqDpA2) | [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Kalitha Hudugi 2.0](https://open.spotify.com/album/1eusEx2WLiPspt0YwUs0vU) | 3:46 | 2022-10-20 | 2023-08-17 |
 | [Kalitha Hudugi 3.0](https://open.spotify.com/track/4Ck7u07WKdzIVq8DpOToQM) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Karthik N B](https://open.spotify.com/artist/3r82HAo6mMhQwgsa2Bj9RC) | [Kalitha Hudugi 3.0](https://open.spotify.com/album/2bTu7wXCFCy5DnCFBIIAkO) | 3:25 | 2024-02-23 | 2024-08-20 |
-| [Kanade Hodeya Edurige](https://open.spotify.com/track/2wkMJqdVmMSxoukyh6eXSn) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem) | [Kanade Hodeya Edurige](https://open.spotify.com/album/0kTpmGxOf63aV2DIFh2Vuz) | 3:42 | 2024-03-26 |  |
+| [Kanade Hodeya Edurige](https://open.spotify.com/track/2wkMJqdVmMSxoukyh6eXSn) | [Uttam Sarang](https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem) | [Kanade Hodeya Edurige](https://open.spotify.com/album/0kTpmGxOf63aV2DIFh2Vuz) | 3:42 | 2024-03-26 | 2024-08-24 |
 | [Kanasella](https://open.spotify.com/track/4GfvMLzjCSbgS7NSofhAW3) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kanasella](https://open.spotify.com/album/4VyGp00IzrXHFCp4FXWx0B) | 4:28 | 2023-05-25 | 2023-06-08 |
 | [Kanasella \- Female Version](https://open.spotify.com/track/7kbJqyrHwdUCmQ3H7Fkgl5) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Kanasella \- Female Version](https://open.spotify.com/album/1WNn6I7B7eFbqzZCYDGbRf) | 4:28 | 2023-07-05 | 2023-07-25 |
 | [Kanasina Doni](https://open.spotify.com/track/75Ra0OjXkUkfhA49fgJWhx) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kanasina Doni](https://open.spotify.com/album/20gGD5bzERTIck6K7wtj0k) | 4:02 | 2023-06-22 | 2023-07-11 |
@@ -227,6 +227,7 @@
 | [Move Shawty](https://open.spotify.com/track/4YPHF1rdgGnMSSL9tp5qxr) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy) | [Move Shawty](https://open.spotify.com/album/3OFC5ZwSnLdXPa1iOrgOsO) | 2:09 | 2023-04-28 | 2023-09-05 |
 | [Mugile](https://open.spotify.com/track/4pzOZiFpauKynFuOfjs94g) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [VJSH](https://open.spotify.com/artist/0mR1GgJfsTdVgclygjlXtT), [Carnival Crooks](https://open.spotify.com/artist/4wm3ZRKCCxFf9g4Vd5IN2q) | [Mugile](https://open.spotify.com/album/3A1Sa3slUaD2eP2CVmK1IY) | 2:41 | 2023-12-14 | 2024-04-13 |
 | [Munjaneya](https://open.spotify.com/track/44karZEYKnZwsLXtsB0T8n) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [GRV](https://open.spotify.com/artist/5WUTaLEqjuwEJvbDxfUrcU) | [Munjaneya](https://open.spotify.com/album/1IzIrAqGBd58GjkaL6l4e9) | 3:09 | 2023-06-22 | 2023-07-09 |
+| [Na Driver Ni Nanna Lover](https://open.spotify.com/track/339rqV63PbBNxynrAzKQGc) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx), [Malappa Halabar](https://open.spotify.com/artist/7rnqc49Vemgd04MOvFt2bu) | [Na Driver Ni Nanna Lover](https://open.spotify.com/album/1EzCYR82ygQft5ixRTBtk5) | 9:39 | 2024-08-23 |  |
 | [Na Kandante](https://open.spotify.com/track/06VvdhOAfxUz4QUjODLFRW) | [Harshith Shetty](https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN) | [Na Kandante](https://open.spotify.com/album/31BGDEPy5ls39aG7dXuwif) | 1:13 | 2024-08-22 |  |
 | [Na Ninne Preetisuve](https://open.spotify.com/track/2jZEAPVKRtj6w2dVFOktNL) | [Anita Iyer](https://open.spotify.com/artist/5PeZkX7HUpSAYNso5kCoZM) | [Na Ninne Preetisuve](https://open.spotify.com/album/552c1JPywGTBqa2l2xTysZ) | 3:40 | 2023-10-26 | 2024-02-17 |
 | [Na Ninne Preetisuve](https://open.spotify.com/track/3QneWObcFZcEvpMNhAxxJZ) | [Anita Iyer](https://open.spotify.com/artist/5PeZkX7HUpSAYNso5kCoZM) | [Na Ninne Preetisuve](https://open.spotify.com/album/6lV86HmyPdaunD5CCpEuB8) | 3:40 | 2023-10-26 | 2024-01-07 |

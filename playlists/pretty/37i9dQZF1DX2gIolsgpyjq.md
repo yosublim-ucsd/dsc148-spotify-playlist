@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: NOEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,245 likes - 99 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,251 likes - 99 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 |
 | 2 | [Close to Dying](https://open.spotify.com/track/4IpTVJKJU7Em4INGFY07EG) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Close to Dying](https://open.spotify.com/album/5YVuajI1Qk3oSfE3hfFTRM) | 3:00 |
-| 3 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Loving you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 |
+| 3 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Lovin you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 |
 | 4 | [Cookie](https://open.spotify.com/track/4gstZtZtXLXv0Uo8FzFpGV) | [Kenton Slash Demon](https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU) | [Cookie / Janni](https://open.spotify.com/album/0bx32q9kylq1PiLkCHbsQq) | 3:26 |
 | 5 | [Digital girl \- funk remix](https://open.spotify.com/track/2mBNIt6P5TPuly5JdKUPzH) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Digital girl](https://open.spotify.com/album/1WaLWK5ZcxZVSPYy7GAdtY) | 2:54 |
 | 6 | [phonetic](https://open.spotify.com/track/58xtrlvib5PVvshQ4u3oPC) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [phonetic](https://open.spotify.com/album/3TSmKJKQneZCgLhLOJ3iTf) | 1:46 |

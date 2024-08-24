@@ -4,23 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,810 likes - 14 songs - 42 min 39 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,810 likes - 12 songs - 34 min 1 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wake Up, Pass Out](https://open.spotify.com/track/0ISluANGR8RAokUJCzRygg) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Wake Up, Pass Out](https://open.spotify.com/album/0jTdu9HM5JSNEvpp5GfwTz) | 2:58 |
-| 2 | [Beat Fantasy](https://open.spotify.com/track/3RWYv4VkjSBI1AMXc2YOpa) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Beat Fantasy](https://open.spotify.com/album/5I8Ms0FKL9CkKVTM5fjBDy) | 3:07 |
-| 3 | [Angel Of My Dreams \- S.A.D\. Version \- Slow\. Angelic\. Dramatic.](https://open.spotify.com/track/6NayZTCSB2d4New8oIgBx0) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams \(S.A.D\. Version \- Slow\. Angelic\. Dramatic.\)](https://open.spotify.com/album/6qsraqaELWLaPZkNDZkzYB) | 3:45 |
-| 4 | [I Lied, I'm Sorry](https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [I Lied, I'm Sorry](https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9) | 2:42 |
-| 5 | [Love Song](https://open.spotify.com/track/78MskDsJaWh5K2O1D9Cn23) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Love Song](https://open.spotify.com/album/60dJqbocDa4ipVOmP2drQl) | 3:38 |
-| 6 | [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 |
-| 7 | [limousine](https://open.spotify.com/track/2sIPLzQMJYBjQRcd8QRLKH) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [honestly, does this smell off to you?](https://open.spotify.com/album/0eKqePmS9dzF7zjgJmbZDI) | 3:21 |
-| 8 | [Gone](https://open.spotify.com/track/3uTMmWHtyzks33cVtGv8ys) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Sunday Sadness](https://open.spotify.com/album/3jXEFj8GkFU09uIf3Ejmlc) | 2:17 |
-| 9 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 |
-| 10 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
-| 11 | [Shy Shy](https://open.spotify.com/track/1vIEbdHDDDueYcg7vTimTO) | [System Olympia](https://open.spotify.com/artist/2qtARFvBzCjOuGbXFAF0iX), [P Nut](https://open.spotify.com/artist/306FO9CXfM99jPu9tpNQXd) | [Shy Shy](https://open.spotify.com/album/2Zn3Zb7Vfum7WOg14dtW2J) | 3:21 |
-| 12 | [You're Invited](https://open.spotify.com/track/4NdSTk5hv7J3KGHIXzNv3o) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [You're Invited](https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs) | 2:32 |
-| 13 | [Fakest Bitch](https://open.spotify.com/track/3H1EFwCIRO1NSPur549STB) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [Fakest Bitch](https://open.spotify.com/album/1eT1mmPEaaB7llhGwITJti) | 4:19 |
-| 14 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 |
+| 1 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
+| 2 | [DENY](https://open.spotify.com/track/1Czzn6hCraLAIkxOqvGlXI) | [emily jeffri](https://open.spotify.com/artist/7j7NWasrRsalHoY7DgMLhK) | [DENY](https://open.spotify.com/album/1pmPlTMB65p2Tmgs69Vx5b) | 4:12 |
+| 3 | [Straight To Heart](https://open.spotify.com/track/7GdF52qhqJGoNNmPl8Lx2A) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Straight To Heart](https://open.spotify.com/album/5IJXDexBNnOWpwOczOKYQe) | 2:54 |
+| 4 | [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 |
+| 5 | [Woof \(feat\. Kah\-Lo\)](https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:12 |
+| 6 | [Trouble](https://open.spotify.com/track/0CjaxtWJXDPxuIc2vF28jd) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Trouble](https://open.spotify.com/album/78d7vHOKAddR9gJf9sAMkI) | 3:01 |
+| 7 | [Close to Dying](https://open.spotify.com/track/4IpTVJKJU7Em4INGFY07EG) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Close to Dying](https://open.spotify.com/album/5YVuajI1Qk3oSfE3hfFTRM) | 3:00 |
+| 8 | [Back On My Love](https://open.spotify.com/track/4XXntvDIUeeOIpbsw9b601) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [Back On My Love](https://open.spotify.com/album/78D8SFKK4qDNTwsn4mDBuv) | 2:53 |
+| 9 | [Calling It Love](https://open.spotify.com/track/5lrmXkrhfMqXD35J2Lct43) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Calling It Love](https://open.spotify.com/album/5VtIyYGGey0z5VyrbJ7Hxk) | 2:09 |
+| 10 | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/track/6LpiHJjO3jkaPyj9eBoqG8) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/album/2Ysar7fUod2JY3fZ6oN7GO) | 2:00 |
+| 11 | [Meant To Be](https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Zorb](https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz) | 2:28 |
+| 12 | [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 |
 
-Snapshot ID: `AAAK32YY4JTtC4NzbrcHxhCAZzsKcLwW`
+Snapshot ID: `AAAK4VOQ6qrlcYe6F65T+1rk50QGDLfR`

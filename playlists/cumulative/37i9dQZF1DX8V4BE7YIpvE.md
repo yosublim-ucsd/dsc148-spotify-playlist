@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-89 songs - 4 hr 37 min
+90 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,8 +94,9 @@
 | [The Unknown](https://open.spotify.com/track/5BilQDvjG6wn2emz32svm5) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [The Unknown](https://open.spotify.com/album/69I7fYgok4SWKr0d55Sy7b) | 3:02 | 2024-06-06 |  |
 | [UNIX 82](https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Space Waves](https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD) | 2:48 | 2024-06-06 |  |
 | [Video Knights](https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Video Knights](https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb) | 4:12 | 2024-06-06 |  |
+| [Virtual Realm](https://open.spotify.com/track/02g6jSLXQTRxzObVfJCD5R) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Virtual Realm](https://open.spotify.com/album/7iD7qgWarP2cE6milUdLxk) | 3:39 | 2024-08-23 |  |
 | [Vision](https://open.spotify.com/track/6KNaqKR7BcwXCluU3RXfZr) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Foudroie](https://open.spotify.com/artist/1P689RfBCQpBQoZhCCgFma) | [Vision](https://open.spotify.com/album/68V0lav8D7wxmj0dSermlU) | 3:21 | 2024-06-06 | 2024-08-11 |
 | [We Began as Wanderers](https://open.spotify.com/track/2rL1cFztdWVUja88kIpumO) | [Cherry the Penguin](https://open.spotify.com/artist/4I4VMwtLmRMlS6qoQuX6dR) | [We Began as Wanderers](https://open.spotify.com/album/0K1zzGjDbsZbiirUV4sQCx) | 3:33 | 2024-06-06 |  |
-| [Wired](https://open.spotify.com/track/1usiyjleODBeDKa53mgF8F) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Wired / Akira](https://open.spotify.com/album/1uNQ6Ow4CFIIfkTPN9Y9CZ) | 3:55 | 2024-06-06 |  |
+| [Wired](https://open.spotify.com/track/1usiyjleODBeDKa53mgF8F) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Wired / Akira](https://open.spotify.com/album/1uNQ6Ow4CFIIfkTPN9Y9CZ) | 3:55 | 2024-06-06 | 2024-08-24 |
 
 \*This playlist was first scraped on 2024-06-12. Prior content cannot be recovered.

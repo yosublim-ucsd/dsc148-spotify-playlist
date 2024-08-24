@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "devut",
+        "url": "https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156852,
+      "name": "devut",
+      "url": "https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB"
+    },
+    {
+      "album": {
         "name": "Fijaci\u00f3n Oral, Vol. 1",
         "url": "https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae"
       },
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 122405,
       "name": "IMAN (Two Of Us)",
       "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
@@ -2199,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "no llames lo m\u00edo nuestro",
+        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "no llames lo m\u00edo nuestro",
+      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
+    },
+    {
+      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -2366,7 +2402,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 210640,
       "name": "Odio Amarte",
       "url": "https://open.spotify.com/track/0x6kwMLhwr0w4xjdv6tVqG"

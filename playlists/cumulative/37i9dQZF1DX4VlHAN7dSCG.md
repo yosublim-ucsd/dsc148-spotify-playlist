@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: Boom！怪物星人
 
-134 songs - 8 hr 50 min
+135 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Youaretheappleofmyeye](https://open.spotify.com/track/5xhxBQJeLNfIu95HpyF0pZ) | [晨昏星 Morning Dusk Stars](https://open.spotify.com/artist/0L7Hbd9lDbbsJZ69DDf4Ma) | [Youaretheappleofmyeye](https://open.spotify.com/album/6psOUW1fVPHRdcpJdVtyBd) | 3:06 | 2024-08-15 |  |
 | [Young Man](https://open.spotify.com/track/02cOOZKta4qE4Qv9BusfOQ) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Young Man](https://open.spotify.com/album/5nc0Puti8JCg2jkbFRYQ0x) | 4:17 | 2024-07-04 | 2024-07-12 |
 | [Yummy Yummy Yummy \(好吃好吃\)](https://open.spotify.com/track/17BdZsvwtFxLjOlhbMdBnh) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [Yummy Yummy Yummy \(好吃好吃\)](https://open.spotify.com/album/1Yh0k1ZMFmg795IaBKK2uo) | 2:30 | 2024-07-25 | 2024-08-16 |
+| [一整天](https://open.spotify.com/track/2Bf38yCUENYoZX2N6iXLVy) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [一整天](https://open.spotify.com/album/3d9CbNWURQQ7N6uHA7lha8) | 3:08 | 2024-08-22 |  |
 | [一顆星的寂寞](https://open.spotify.com/track/5cXzcmgK4lODSlU2gOnibA) | [紅綠燈](https://open.spotify.com/artist/4grZM5OufYXJ8gdtd5qPKV) | [一顆星的寂寞](https://open.spotify.com/album/3gARKYrgSYebjKHG79zwFI) | 4:04 | 2024-07-11 |  |
 | [上帝](https://open.spotify.com/track/4rfKRkZnAc8jSIUZxu4VM9) | [野東西](https://open.spotify.com/artist/4rPhceoKF0tyntcBKJ8NX5) | [上帝](https://open.spotify.com/album/3jvkIJNrZPl6ay04rJOhvj) | 5:43 | 2024-06-28 |  |
 | [不喜欢就请直说](https://open.spotify.com/track/3943CDU79LzTLoWj81Rjwe) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [NO TIME FOR SILENCE](https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe) | [不喜欢就请直说](https://open.spotify.com/album/0BazLddjUePVnQqhKULEVN) | 3:17 | 2024-08-22 |  |

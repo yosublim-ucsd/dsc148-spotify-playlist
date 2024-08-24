@@ -4,7 +4,7 @@
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-167 songs - 9 hr 17 min
+168 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,8 +87,8 @@
 | [Es Demasiado Tarde](https://open.spotify.com/track/1Nl9TaswZRISPw5YQIKHDM) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Es Demasiado Tarde](https://open.spotify.com/album/1EYswPzL2vFLD4a19b6mNr) | 2:45 | 2023-10-12 |  |
 | [Esta Llorando Mi Corazon \- En Vivo En Cd\. Altamirano México / 2006](https://open.spotify.com/track/0iNDW91QOyq2n2WHNuufEo) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [100% Tierra Caliente](https://open.spotify.com/album/69glkS6UJhCt2mNGlzqnL0) | 2:54 | 2023-10-12 |  |
 | [Estaré Bien](https://open.spotify.com/track/4lqJTJl6I8FK6nTnnWSKVM) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [Estaré Bien](https://open.spotify.com/album/4DCQ9zEzZfjTLnKwAPvID3) | 3:09 | 2024-02-23 |  |
-| [Flor Hermosa](https://open.spotify.com/track/557jO0VSx5Y0VgeA4BOwdO) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Adicto a Ti](https://open.spotify.com/album/7cJOsVE6qWAviyw5jl350L) | 2:28 | 2023-10-12 | 2024-02-24 |
-| [Frente A Frente](https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [La Última Vuelta](https://open.spotify.com/album/0uKK9zywGx5BTFBFkKQmfj) | 2:55 | 2023-10-12 |  |
+| [Flor Hermosa](https://open.spotify.com/track/557jO0VSx5Y0VgeA4BOwdO) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Adicto a Ti](https://open.spotify.com/album/7cJOsVE6qWAviyw5jl350L) | 2:28 | 2023-10-12 |  |
+| [Frente A Frente](https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [La Última Vuelta](https://open.spotify.com/album/0uKK9zywGx5BTFBFkKQmfj) | 2:55 | 2023-10-12 | 2024-08-24 |
 | [Guachita Hermosa](https://open.spotify.com/track/5I7VMy1ueLlh8HBDN1DM4h) | [tierra caliente music](https://open.spotify.com/artist/5jcQ9RE1WsH5D2j2Nb1Xp0) | [Eres Mi Sexto Sentido](https://open.spotify.com/album/4ixLghGMb69nGfkirXyGe6) | 3:04 | 2023-10-12 |  |
 | [Guachita Hermosa \- En Vivo](https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k), [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Guachita Hermosa \(En Vivo\)](https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8) | 3:29 | 2023-10-12 |  |
 | [Hermosa Tierra Caliente](https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:27 | 2023-10-12 |  |
@@ -119,6 +119,7 @@
 | [Mi Ranchito](https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 2:38 | 2023-10-12 |  |
 | [Mi Última Caravana](https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Amistad y Pesos](https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1) | 5:38 | 2023-10-12 |  |
 | [Mis Errores Pagando](https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Guerra De Corridos](https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG) | 2:32 | 2023-10-12 |  |
+| [Mix Romántico \(En Vivo\)](https://open.spotify.com/track/0BXbG3KZCoGb04giUU3Ijg) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Mix Romántico \(En Vivo\)](https://open.spotify.com/album/3ARnKyRkEEbHZ5nldlf6Te) | 7:53 | 2024-08-23 |  |
 | [Morenita Labios Rojos](https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Morenita Labios Rojos](https://open.spotify.com/album/0wCFa5JUVU3Bh9kKgawvjR) | 2:08 | 2023-10-12 |  |
 | [Mujer, Mujer](https://open.spotify.com/track/6iA2NhjrCdEjj55qOh15cU) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:21 | 2023-10-12 |  |
 | [Muñequita Consentida](https://open.spotify.com/track/5iMgOdul9oZBYiVQGbs6mw) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [La Última Vuelta](https://open.spotify.com/album/0uKK9zywGx5BTFBFkKQmfj) | 2:50 | 2023-10-12 | 2024-02-24 |
@@ -132,7 +133,7 @@
 | [No Se Vivir](https://open.spotify.com/track/2juNjmS81xsJUOFJFop3QX) | [Los Canarios De Michoacan](https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp) | [Aceptalo Ya !](https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf) | 3:01 | 2023-10-12 |  |
 | [No Te Olvidare](https://open.spotify.com/track/0g8IOSkOPv8JUxbTojv6vI) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Guiados por el Cielo](https://open.spotify.com/album/5se7VnLff9owqtOW1usbhN) | 4:01 | 2023-10-12 |  |
 | [No Traigo 45](https://open.spotify.com/track/49s3cWrgxpuH3gLPi8Pnrl) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [No Traigo 45](https://open.spotify.com/album/2mk0NunPByPvLKOppGX6Ut) | 3:01 | 2023-10-12 |  |
-| [Ojitos Negros](https://open.spotify.com/track/5pcL0RKxKYjfk6aCUT6QnL) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Ojitos Negros](https://open.spotify.com/album/2kQa0zqGpte9V3BepV3ChO) | 2:31 | 2024-06-07 |  |
+| [Ojitos Negros](https://open.spotify.com/track/5pcL0RKxKYjfk6aCUT6QnL) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Ojitos Negros](https://open.spotify.com/album/2kQa0zqGpte9V3BepV3ChO) | 2:31 | 2024-06-07 | 2024-08-24 |
 | [Ojos Negros Nunca Engañan](https://open.spotify.com/track/3z28OInYw3qTEIcglH7OOX) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Ojos Negros Nunca Enganan](https://open.spotify.com/album/2IwUQdK1tFGSpYvol4FxgJ) | 3:12 | 2023-10-12 |  |
 | [Ojos Negros Nunca Engañan](https://open.spotify.com/track/76SbTjQL9nn1fGSR8yXq6F) | [Banda Rebeldia](https://open.spotify.com/artist/1AmLthmrODgkBtmbzRMncH) | [Ojos Negros Nunca Engañan \- Single](https://open.spotify.com/album/2L9oyZLSMBgtEGqehCewiM) | 3:12 | 2023-10-12 | 2024-04-19 |
 | [Palomita De Alas Blancas](https://open.spotify.com/track/0Vx8j4stjp6Mycjqyc7eRO) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Mi Despedida](https://open.spotify.com/album/14iB8WCfhOBf2QrHaxN5jt) | 2:49 | 2023-10-12 |  |

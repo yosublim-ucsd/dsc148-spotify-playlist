@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Ana Castela e mais mulheres no volume máximo! Co\-curadoria com Ana Castela
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,277 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,328 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 20 | [Bonde das Boiadeiras](https://open.spotify.com/track/7N3DcSaN0mhijYshvIworK) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Boiadeira Internacional Vol\. 4](https://open.spotify.com/album/0sx1g26Xw6WPHtCgloXBak) | 2:31 |
 | 21 | [Esqueça\-Me Se For Capaz](https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 2:49 |
 | 22 | [Hey, Pai \- Ao Vivo](https://open.spotify.com/track/2teN6PUfXmdwrZxHokeAHM) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB), [Marcela Tais](https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt) | [Pra Te Contar Os Meus Segredos \(Ao Vivo\)](https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5) | 3:44 |
-| 23 | [Macetando](https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52) | 2:47 |
-| 24 | [Palavras de Perdão \- Ao Vivo](https://open.spotify.com/track/3mBsIJP7qmGeJMfKllBMeZ) | [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Maturidade \(Deluxe\)](https://open.spotify.com/album/0ejAiP3MX6qORbvfIt62ps) | 3:06 |
+| 23 | [Palavras de Perdão \- Ao Vivo](https://open.spotify.com/track/3mBsIJP7qmGeJMfKllBMeZ) | [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Maturidade \(Deluxe\)](https://open.spotify.com/album/0ejAiP3MX6qORbvfIt62ps) | 3:06 |
+| 24 | [Macetando](https://open.spotify.com/track/6eJUG282cUKuIoa72sEsqO) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Macetando](https://open.spotify.com/album/6FEJSBFIqZe9GYN2xaAP52) | 2:47 |
 | 25 | [Morreu de Ana Castela \- Ao Vivo](https://open.spotify.com/track/3NpcJ7hnKb4glVpAcgHOWM) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Boiadeira Internacional: Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/5hLKGp4sfW7wmW9cjXphLb) | 2:53 |
 | 26 | [Dois Fugitivos \- Ao Vivo](https://open.spotify.com/track/6MCaEL0pQo1Jg1vlKpMWop) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 2:53 |
 | 27 | [Cobaia](https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Lauana Prado](https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU) | 3:39 |
 | 28 | [Besteira Feita \- Ao Vivo](https://open.spotify.com/track/3Av0UfVtu9eT3GVyfVyphA) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Besteira Feita: Buteco das Igual \- Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5iLJSooiKsA9hAu2IAa91I) | 2:40 |
-| 29 | [Narcisista \- Ao Vivo](https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Narcisista \(Ao Vivo\)](https://open.spotify.com/album/1EXTduPcx49gIFbLeZOwcC) | 3:31 |
-| 30 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
+| 29 | [BRABA](https://open.spotify.com/track/2WlZuBDgLfT7Kc0admhFdg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [BRABA](https://open.spotify.com/album/3FVlwNpia9WZoRlsRKS4Z4) | 2:09 |
+| 30 | [Narcisista \- Ao Vivo](https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Narcisista \(Ao Vivo\)](https://open.spotify.com/album/1EXTduPcx49gIFbLeZOwcC) | 3:31 |
 | 31 | [De Quem É a Culpa? \- Ao Vivo](https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \- Ao Vivo Em Manaus](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 3:22 |
 | 32 | [Má Influência](https://open.spotify.com/track/4AGWB66yOY9CcSsPA8BSyq) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Intensa Até Demais](https://open.spotify.com/album/0XFDiEDWOB9wGxGRQ9xitH) | 2:26 |
 | 33 | [Palhaça \- Ao Vivo](https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Palhaça \(Ao Vivo\)](https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf) | 2:50 |

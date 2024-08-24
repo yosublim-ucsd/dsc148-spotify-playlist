@@ -16584,7 +16584,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 426356,
       "name": "Escape",
       "url": "https://open.spotify.com/track/1fWa6ZQQAxt9maPGnN2WE4"
@@ -17616,7 +17616,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 168019,
       "name": "Eu Queria Mudar",
       "url": "https://open.spotify.com/track/4lUZVC3KhiLlIHR5wcxfoo"
@@ -19620,7 +19620,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 177333,
       "name": "Ficar Rico Esse Ano",
       "url": "https://open.spotify.com/track/44JWBoBnEGNMC8w95HQ1AR"
@@ -36764,7 +36764,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 168000,
       "name": "Oh M\u00e3e",
       "url": "https://open.spotify.com/track/1wJ1pRqkbtwdFKjH87t6FD"
@@ -39218,7 +39218,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 168371,
       "name": "Perigos Noturnos",
       "url": "https://open.spotify.com/track/4BTcluGDG6Mi2CDmVUbESA"
@@ -55890,6 +55890,32 @@
       "duration_ms": 178760,
       "name": "Xuxuzinho",
       "url": "https://open.spotify.com/track/3HQN3KYTWX5KqM7mFyYg3l"
+    },
+    {
+      "album": {
+        "name": "XXT na XXT",
+        "url": "https://open.spotify.com/album/3K0fTcARp66k8WDgX0tvRW"
+      },
+      "artists": [
+        {
+          "name": "Valesca Popozuda",
+          "url": "https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu"
+        },
+        {
+          "name": "Ya Malb",
+          "url": "https://open.spotify.com/artist/4TQQfni0Ql808AhLVD7Tdo"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "XXT na XXT",
+      "url": "https://open.spotify.com/track/1f5rKttCfIGgkXuUWSIiud"
     },
     {
       "album": {

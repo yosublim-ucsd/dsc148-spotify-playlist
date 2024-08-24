@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from K.O & Nasty C, A$AP Rocky, Kendrick Lamar, and more...
+> Only the hottest Hip Hop from Travis Scott, A$AP Rocky, Kendrick Lamar, and more...
 
-308 songs - 16 hr 42 min
+309 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Shmunk \(feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/2fpTRcMLt4aKlqULOwuXUP) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:49 | 2023-02-23 | 2023-03-07 |
 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-15 | 2022-10-14 |
 | [SILVER TOOTH\. \(with A$AP Ferg\)](https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [SILVER TOOTH.](https://open.spotify.com/album/41eT1d6A24YhZ3zAwnYXUY) | 2:22 | 2023-05-05 | 2023-09-23 |
+| [Skyfall \(feat\. Young Thug\)](https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 5:14 | 2024-08-23 |  |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-22 | 2024-07-19 |
 | [sneaky](https://open.spotify.com/track/1KDGViRidQJ0UWV6J7n7Qs) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [sneaky](https://open.spotify.com/album/5zxTW3yMb6a3DXwtc0oK3B) | 3:34 | 2022-07-21 | 2022-11-05 |
 | [Sober \(feat\. Roddy Ricch & Post Malone\)](https://open.spotify.com/track/0AzqJBVMdHP9ijAadQ0T18) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I GOT ISSUES](https://open.spotify.com/album/4fu0jN1IzoaXgzCfqdjOjJ) | 4:13 | 2022-09-29 | 2022-11-11 |

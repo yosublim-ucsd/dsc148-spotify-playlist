@@ -1,6 +1,6 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Alison Hinds",
-  "num_followers": 112893,
+  "num_followers": 113015,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
@@ -500,13 +500,13 @@
       },
       "artists": [
         {
-          "name": "Arrow!!!",
-          "url": "https://open.spotify.com/artist/4eKyrb1vSumgjMmpndPEsa"
+          "name": "Red Plastic Bag",
+          "url": "https://open.spotify.com/artist/4NkT7aguznCxEThCoGDX1L"
         }
       ],
-      "duration_ms": 410573,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC"
+      "duration_ms": 336720,
+      "name": "Ragga, Ragga",
+      "url": "https://open.spotify.com/track/2eXmkQJ6N9DUkMbMMFTDf8"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -516,13 +516,13 @@
       },
       "artists": [
         {
-          "name": "Red Plastic Bag",
-          "url": "https://open.spotify.com/artist/4NkT7aguznCxEThCoGDX1L"
+          "name": "Arrow!!!",
+          "url": "https://open.spotify.com/artist/4eKyrb1vSumgjMmpndPEsa"
         }
       ],
-      "duration_ms": 336720,
-      "name": "Ragga, Ragga",
-      "url": "https://open.spotify.com/track/2eXmkQJ6N9DUkMbMMFTDf8"
+      "duration_ms": 410573,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/0jXbojsGFpX0mjfdVuIzOC"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -539,6 +539,22 @@
       "duration_ms": 308546,
       "name": "I Come Out To Play",
       "url": "https://open.spotify.com/track/5KE4hUCBgrfkGc8aKnG7aM"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Pure Soca",
+        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
+      },
+      "artists": [
+        {
+          "name": "Anslem Douglas",
+          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
+        }
+      ],
+      "duration_ms": 292826,
+      "name": "Ragga Poom Poom",
+      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -571,22 +587,6 @@
       "duration_ms": 352173,
       "name": "Sing In The Party",
       "url": "https://open.spotify.com/track/02KBvh3N2OobcJebwyHGJJ"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Pure Soca",
-        "url": "https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L"
-      },
-      "artists": [
-        {
-          "name": "Anslem Douglas",
-          "url": "https://open.spotify.com/artist/1FDLnsSaUrYlsQwGsxEpzm"
-        }
-      ],
-      "duration_ms": 292826,
-      "name": "Ragga Poom Poom",
-      "url": "https://open.spotify.com/track/03fCrPfkxrzpG88F1eI770"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Soca Anthems Collection",
-        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
-      },
-      "artists": [
-        {
-          "name": "Zulu Lightening",
-          "url": "https://open.spotify.com/artist/1V5FoECHc43ZNqVryryd9F"
-        }
-      ],
-      "duration_ms": 259560,
-      "name": "Hold Ya Foot Up & Jump",
-      "url": "https://open.spotify.com/track/4WDWYD604qHwJl1lVIZuTc"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Man Ah Bad Man",
         "url": "https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3"
       },
@@ -735,22 +719,6 @@
       "duration_ms": 300506,
       "name": "If Ah Rude Ah Rude",
       "url": "https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "Soca Gold 2",
-        "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
-      },
-      "artists": [
-        {
-          "name": "Colin Lucas",
-          "url": "https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig"
-        }
-      ],
-      "duration_ms": 438600,
-      "name": "Doh Wine",
-      "url": "https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -776,6 +744,38 @@
       },
       "artists": [
         {
+          "name": "Zulu Lightening",
+          "url": "https://open.spotify.com/artist/1V5FoECHc43ZNqVryryd9F"
+        }
+      ],
+      "duration_ms": 259560,
+      "name": "Hold Ya Foot Up & Jump",
+      "url": "https://open.spotify.com/track/4WDWYD604qHwJl1lVIZuTc"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Gold 2",
+        "url": "https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y"
+      },
+      "artists": [
+        {
+          "name": "Colin Lucas",
+          "url": "https://open.spotify.com/artist/30e4w7lTeWNqIvmAOxAhig"
+        }
+      ],
+      "duration_ms": 438600,
+      "name": "Doh Wine",
+      "url": "https://open.spotify.com/track/4lYJVJLdK1ax0gncPz8dNW"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Soca Anthems Collection",
+        "url": "https://open.spotify.com/album/2KDXP3Iw7QWcSbH4KHVjAC"
+      },
+      "artists": [
+        {
           "name": "Nigell & Marvinn",
           "url": "https://open.spotify.com/artist/7IZ8LfX3oesvfUQxMpGtKa"
         }
@@ -783,22 +783,6 @@
       "duration_ms": 319533,
       "name": "Movin'",
       "url": "https://open.spotify.com/track/6c5fzIabjARvfleaqkz8Bb"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
-        "name": "The Mighty Duke Classic Collection 1986-1990",
-        "url": "https://open.spotify.com/album/5Xeh8aExQtQo9KCaTIa0Z1"
-      },
-      "artists": [
-        {
-          "name": "Mighty Duke",
-          "url": "https://open.spotify.com/artist/75ZMUQrdutA8Dn2vzO2mCx"
-        }
-      ],
-      "duration_ms": 410644,
-      "name": "Total Dis Order",
-      "url": "https://open.spotify.com/track/5lGu6LnHAbZJyVyVk9cD8U"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -819,6 +803,22 @@
       "duration_ms": 191440,
       "name": "Party Start",
       "url": "https://open.spotify.com/track/0aL5KresMZGVevr5xnPqoZ"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "The Mighty Duke Classic Collection 1986-1990",
+        "url": "https://open.spotify.com/album/5Xeh8aExQtQo9KCaTIa0Z1"
+      },
+      "artists": [
+        {
+          "name": "Mighty Duke",
+          "url": "https://open.spotify.com/artist/75ZMUQrdutA8Dn2vzO2mCx"
+        }
+      ],
+      "duration_ms": 410644,
+      "name": "Total Dis Order",
+      "url": "https://open.spotify.com/track/5lGu6LnHAbZJyVyVk9cD8U"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Trini Gold",
-        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
-      },
-      "artists": [
-        {
-          "name": "Superblue",
-          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Tribute to Sundar",
-      "url": "https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3"
-    },
-    {
-      "added_at": "2024-08-06 01:00:53",
-      "album": {
         "name": "Greatest Hitz",
         "url": "https://open.spotify.com/album/4J2FzGCWuQa4Ug1XI5INGS"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 222733,
       "name": "Palms On De Ground",
       "url": "https://open.spotify.com/track/7gpveUm4dUjKEbh46W5KRL"
+    },
+    {
+      "added_at": "2024-08-06 01:00:53",
+      "album": {
+        "name": "Trini Gold",
+        "url": "https://open.spotify.com/album/1KtKr3L5IYMuF7ia8PFCji"
+      },
+      "artists": [
+        {
+          "name": "Superblue",
+          "url": "https://open.spotify.com/artist/5D6aDi6RQZm5nGCgM2jy8M"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Tribute to Sundar",
+      "url": "https://open.spotify.com/track/59Orcez9hIBe3KZ561J5f3"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "Happiest Man Alive",
-        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
+        "name": "The Xtatik Circus",
+        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
       },
       "artists": [
         {
           "name": "Machel Montano",
           "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 218549,
-      "name": "Happiest Man Alive",
-      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
+      "duration_ms": 227213,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
     },
     {
       "added_at": "2024-08-06 01:00:53",
@@ -1135,22 +1139,18 @@
     {
       "added_at": "2024-08-06 01:00:53",
       "album": {
-        "name": "The Xtatik Circus",
-        "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
+        "name": "Happiest Man Alive",
+        "url": "https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf"
       },
       "artists": [
         {
           "name": "Machel Montano",
           "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Destra",
-          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
         }
       ],
-      "duration_ms": 227213,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
+      "duration_ms": 218549,
+      "name": "Happiest Man Alive",
+      "url": "https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH"
     },
     {
       "added_at": "2024-08-06 01:00:53",

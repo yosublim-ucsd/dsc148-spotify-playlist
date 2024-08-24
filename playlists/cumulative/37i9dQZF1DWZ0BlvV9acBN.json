@@ -1723,6 +1723,28 @@
     },
     {
       "album": {
+        "name": "Medley Corinhos de Fogo - Ao Vivo",
+        "url": "https://open.spotify.com/album/3E46QWTq6mddhz4o67GAjH"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        },
+        {
+          "name": "Jedson Aguiar",
+          "url": "https://open.spotify.com/artist/0CPfWYNtRHXEU2SnIZKNDg"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164247,
+      "name": "Medley Corinhos de Fogo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6f4FTnfOe8EJjbskXRnBHj"
+    },
+    {
+      "album": {
         "name": "Lembre-se 80's",
         "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
       },
@@ -2630,7 +2652,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 301181,
       "name": "Salmo 13",
       "url": "https://open.spotify.com/track/1KGq39KlJKihbiRxcMebeT"

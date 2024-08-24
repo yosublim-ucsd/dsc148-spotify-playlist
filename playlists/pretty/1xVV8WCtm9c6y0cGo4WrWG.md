@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > New music from your favourite hip\-hop artists, updated weekly! Featuring Drake, Ice Spice, Eminem,  GloRilla and more! Sign up <a href="https://forms.umusic\-online.com/forms/\-MymKGNlc3qqAKkFa\_Hi">here</a> for exclusives, merch &amp; more!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 23,431 likes - 89 songs - 4 hr 39 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 23,430 likes - 92 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,5 +97,8 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 87 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |
 | 88 | [Presha](https://open.spotify.com/track/2tvYu1CPNCTmViowWzGw86) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:05 |
 | 89 | [GET OFF ME \(with Travis Scott\)](https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:35 |
+| 90 | [What You Need \(with Skilla Baby\)](https://open.spotify.com/track/4ESpN7uNGuhw3Mpu7KwBsa) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [What You Need \(with Skilla Baby\)](https://open.spotify.com/album/7dZogAybcQ8eBs5uVeO0PR) | 2:54 |
+| 91 | [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 |
+| 92 | [Buffalo Freestyle \(feat\. Drake\)](https://open.spotify.com/track/6sd45lml04PdPBeXbduJzn) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Buffalo Butch, Vol\. 1](https://open.spotify.com/album/6MM5ngsgBgSK4oKU5cNTY4) | 3:10 |
 
-Snapshot ID: `AAAhFXPeJbQnjVd/etyt1PFCgeZ/RK1o`
+Snapshot ID: `AAAhGAa2FChLISug62HH6kOCZWAIhHjl`

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "02100",
+        "url": "https://open.spotify.com/album/12oOyuofnmOMAOQxV1cyhB"
+      },
+      "artists": [
+        {
+          "name": "T!NE",
+          "url": "https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280825,
+      "name": "02100",
+      "url": "https://open.spotify.com/track/1EXw7rqJcFIvMtj4Q8fhKw"
+    },
+    {
+      "album": {
         "name": "24SUMMERS",
         "url": "https://open.spotify.com/album/4orPGNprnfbOPi1QP3PsV3"
       },
@@ -832,6 +850,36 @@
       "duration_ms": 186211,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/5QDLCmTGgAfNPkTuqmebSo"
+    },
+    {
+      "album": {
+        "name": "Deserve It",
+        "url": "https://open.spotify.com/album/5LA8lLQzNYfbGrHFtdHkEs"
+      },
+      "artists": [
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "Sexski",
+          "url": "https://open.spotify.com/artist/6QeYcD1n2YcWygCScfLhRE"
+        },
+        {
+          "name": "The BESTS",
+          "url": "https://open.spotify.com/artist/6e8TDjcAEEGD0yhbhKocWE"
+        },
+        {
+          "name": "1st",
+          "url": "https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254358,
+      "name": "Deserve It",
+      "url": "https://open.spotify.com/track/2ptCWQYyLpb6bbnllPG880"
     },
     {
       "album": {
@@ -1794,7 +1842,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 222248,
       "name": "KIMINOTO",
       "url": "https://open.spotify.com/track/5pbD2zRUQmzhzqHTp97K19"
@@ -2551,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "NEED 2 TALK",
+        "url": "https://open.spotify.com/album/4rGHnvc55rix5gZtc4Eo6X"
+      },
+      "artists": [
+        {
+          "name": "TARA",
+          "url": "https://open.spotify.com/artist/6E2EqXLs0SXLECSPCgzid0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147040,
+      "name": "NEED 2 TALK",
+      "url": "https://open.spotify.com/track/5bl5LQuMjxbgtyysB5kV4j"
+    },
+    {
+      "album": {
         "name": "NERD",
         "url": "https://open.spotify.com/album/05uOoW6bQzuNVvEA2TpaI8"
       },
@@ -2858,6 +2924,24 @@
       "duration_ms": 248000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/2c9RqPjO25loSYoDBGsTfz"
+    },
+    {
+      "album": {
+        "name": "PERKO",
+        "url": "https://open.spotify.com/album/55pbpNIX1yowv3FttWWXwd"
+      },
+      "artists": [
+        {
+          "name": "Mega Perk",
+          "url": "https://open.spotify.com/artist/3CceQVvpPpeUJ0qQlHGHRY"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173847,
+      "name": "PERKO",
+      "url": "https://open.spotify.com/track/4chHoBcfxEg8rAqiHDH6J7"
     },
     {
       "album": {
@@ -3650,7 +3734,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 169565,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/5t76ZbsYMOgCTX4iTSPHSq"
@@ -4526,6 +4610,24 @@
       "duration_ms": 192263,
       "name": "\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e47\u0e1e\u0e2d",
       "url": "https://open.spotify.com/track/5mXNlKl0ldw86ZJxawrYWP"
+    },
+    {
+      "album": {
+        "name": "\u0e04\u0e19\u0e40\u0e2e\u0e07\u0e0b\u0e27\u0e22",
+        "url": "https://open.spotify.com/album/1FlrC0edsnLYWk9n9JVUyd"
+      },
+      "artists": [
+        {
+          "name": "DIAMOND MQT",
+          "url": "https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143300,
+      "name": "\u0e04\u0e19\u0e40\u0e2e\u0e07\u0e0b\u0e27\u0e22",
+      "url": "https://open.spotify.com/track/5ZhjKE6NddnFN1bQsLItwb"
     },
     {
       "album": {
@@ -6435,6 +6537,28 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e1e\u0e1a",
+        "url": "https://open.spotify.com/album/07MxXCWHOYymKgc3mU55mw"
+      },
+      "artists": [
+        {
+          "name": "Rifle",
+          "url": "https://open.spotify.com/artist/3Kyev97NB5IuMYwMP1Ea2D"
+        },
+        {
+          "name": "BlackHeart",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e1e\u0e1a",
+      "url": "https://open.spotify.com/track/0Fwjy0mqWILxbqIydFuG6u"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e34\u0e48\u0e07\u0e2a\u0e39\u0e07\u0e22\u0e34\u0e48\u0e07\u0e2b\u0e19\u0e32\u0e27",
         "url": "https://open.spotify.com/album/3HTv5CVoYOy3JRiL6649ye"
       },
@@ -7172,7 +7296,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 209254,
       "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19",
       "url": "https://open.spotify.com/track/1EFSXXGOppO1wsMvmpviSo"
@@ -7866,7 +7990,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 254117,
       "name": "\u0e40\u0e15\u0e34\u0e1a\u0e42\u0e15 (\u0e42\u0e14\u0e22\u0e44\u0e21\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d)",
       "url": "https://open.spotify.com/track/45FSW9JohxF1SMTGWLw8Ue"
@@ -7958,6 +8082,36 @@
       "duration_ms": 159875,
       "name": "\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e39\u0e49\u0e1a\u0e49\u0e32\u0e07\u0e44\u0e2b\u0e21",
       "url": "https://open.spotify.com/track/6ib6722YvimA8qBOYckmgu"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e39\u0e49\u0e21\u0e31\u0e49\u0e22",
+        "url": "https://open.spotify.com/album/5jwf11XtTsNapdld6e9Ng9"
+      },
+      "artists": [
+        {
+          "name": "Soloist",
+          "url": "https://open.spotify.com/artist/69QjaBrg8ihcyQ1fULynQz"
+        },
+        {
+          "name": "\u0e21\u0e19\u0e15\u0e23\u0e35",
+          "url": "https://open.spotify.com/artist/49SPc4p7249RtxyvoRxCvg"
+        },
+        {
+          "name": "\u0e1e\u0e23\u0e23\u0e13\u0e01\u0e23",
+          "url": "https://open.spotify.com/artist/0BIFv7rWg3bHn2ZOGhHxFu"
+        },
+        {
+          "name": "TWIN-T",
+          "url": "https://open.spotify.com/artist/1zdbT1U8WxTxtUyPhdU26Q"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266078,
+      "name": "\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e23\u0e39\u0e49\u0e21\u0e31\u0e49\u0e22",
+      "url": "https://open.spotify.com/track/1phTgnqqJYGIZL64pYUP0I"
     },
     {
       "album": {
@@ -8790,7 +8944,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 334841,
       "name": "\u0e42\u0e25\u0e21\u0e35\u0e42\u0e2d",
       "url": "https://open.spotify.com/track/0OetREEJlnIhjeDO8jRQao"
@@ -8940,7 +9094,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 267428,
       "name": "\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e42\u0e25\u0e01\u0e01\u0e33\u0e25\u0e31\u0e07\u0e2a\u0e39\u0e0d\u0e2a\u0e25\u0e32\u0e22",
       "url": "https://open.spotify.com/track/7mXObN7E9qtaj89x1L6LG3"
@@ -9196,7 +9350,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 218250,
       "name": "\u0e44\u0e21\u0e48\u0e1e\u0e39\u0e14",
       "url": "https://open.spotify.com/track/66ENlv9lPeIrmCYJVrl3WZ"

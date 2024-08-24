@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 123784,
       "name": "A Faca e o Beijo",
       "url": "https://open.spotify.com/track/2B6uSfSsBqdCOo1Xc1WqGY"
@@ -2756,6 +2756,24 @@
       "duration_ms": 177531,
       "name": "Nada Mais",
       "url": "https://open.spotify.com/track/5FU7Bcnvd27SxFstEF8Cp0"
+    },
+    {
+      "album": {
+        "name": "VIVER \u00c9 SENTIR",
+        "url": "https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RTICE",
+          "url": "https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201626,
+      "name": "NEGRA COR",
+      "url": "https://open.spotify.com/track/342rayf5kBDPfjdGu7Ke0S"
     },
     {
       "album": {

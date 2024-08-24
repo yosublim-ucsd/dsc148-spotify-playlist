@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "BAGS",
+        "url": "https://open.spotify.com/album/5pNgnmuTEMOE8aRthOdW52"
+      },
+      "artists": [
+        {
+          "name": "Seame",
+          "url": "https://open.spotify.com/artist/3364KeB9T8SEaOA7PKSVlU"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "BAGS",
+      "url": "https://open.spotify.com/track/41xZsXzZ4koVBLi5OQfAQZ"
+    },
+    {
+      "album": {
         "name": "Balcony",
         "url": "https://open.spotify.com/album/575DC3KxiwQoUHvEJbSohy"
       },
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 106727,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/5m0yoVmVM1RbqhDHOmtYFc"
@@ -3281,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "NapBeats",
+        "url": "https://open.spotify.com/album/6737tjypnmZPh9eIRb4gIQ"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "NapBeats",
+      "url": "https://open.spotify.com/track/4zS59362dyP7KThMCGiUEt"
+    },
+    {
+      "album": {
         "name": "Napsters",
         "url": "https://open.spotify.com/album/73fWpfCxrH7NcDDZEFKKqG"
       },
@@ -3502,6 +3538,24 @@
       "duration_ms": 130169,
       "name": "no reply",
       "url": "https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB"
+    },
+    {
+      "album": {
+        "name": "not noise",
+        "url": "https://open.spotify.com/album/0YKQ9sSjkyHFGgr8Pp1SDt"
+      },
+      "artists": [
+        {
+          "name": "London Lighthouse",
+          "url": "https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148482,
+      "name": "not noise",
+      "url": "https://open.spotify.com/track/1gT5Xf60TPfCwxMhTdqrfe"
     },
     {
       "album": {
@@ -3736,7 +3790,7 @@
       ],
       "date_added": "2020-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 153333,
       "name": "Pixels",
       "url": "https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W"
@@ -4598,7 +4652,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 153549,
       "name": "Somewhere Else",
       "url": "https://open.spotify.com/track/5djyaDp1Antker31qnLCiv"
@@ -5222,7 +5276,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 128046,
       "name": "Tension In The Stars",
       "url": "https://open.spotify.com/track/02v6hr1iytOcwlE4QiT0oN"
@@ -5298,7 +5352,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 144000,
       "name": "The Silent Sea",
       "url": "https://open.spotify.com/track/5rdtRmS8lRbnYMqZiNo1Gc"
@@ -5837,6 +5891,24 @@
     },
     {
       "album": {
+        "name": "Close To Home",
+        "url": "https://open.spotify.com/album/4gWonxCCuVvGg3hcnF2Gzk"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144615,
+      "name": "Wishful",
+      "url": "https://open.spotify.com/track/7LQLDASdfCRXYNCw6pUukK"
+    },
+    {
+      "album": {
         "name": "Woollen Potato",
         "url": "https://open.spotify.com/album/0Hp5rOXs5sNNdgYmUVdsu2"
       },
@@ -5852,6 +5924,24 @@
       "duration_ms": 150447,
       "name": "Woollen Potato",
       "url": "https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK"
+    },
+    {
+      "album": {
+        "name": "Worcestershire dreaming",
+        "url": "https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj"
+      },
+      "artists": [
+        {
+          "name": "Low Couture",
+          "url": "https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Worcestershire dreaming",
+      "url": "https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7vu1ck1olx9"

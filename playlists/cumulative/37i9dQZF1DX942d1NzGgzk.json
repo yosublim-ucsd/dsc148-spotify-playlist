@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "100% British - 100% R&B. Cover: Nippa & Odeal",
+  "description": "100% British - 100% R&B. Cover: Elmiene",
   "name": "R&B UK",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "album": {
+        "name": "25!",
+        "url": "https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A"
+      },
+      "artists": [
+        {
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129623,
+      "name": "25!",
+      "url": "https://open.spotify.com/track/0bxpbu9nyLiWVEoAB40hlz"
     },
     {
       "album": {
@@ -785,6 +803,28 @@
     },
     {
       "album": {
+        "name": "CHILL ON ME",
+        "url": "https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215544,
+      "name": "CHILL ON ME",
+      "url": "https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq"
+    },
+    {
+      "album": {
         "name": "EL-MEAN",
         "url": "https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J"
       },
@@ -866,7 +906,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 188863,
       "name": "Courage",
       "url": "https://open.spotify.com/track/54L2tYMhXUFYzeOHbBPorc"
@@ -1800,7 +1840,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 129317,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/6Uq3K7OEbCs9t7H1beQEnt"
@@ -2148,7 +2188,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 142651,
       "name": "i know",
       "url": "https://open.spotify.com/track/6HWsd6fqeamiFulSQhxKsD"
@@ -2202,7 +2242,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 130841,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/7vMDtQo3RbOx3rAONunUZS"
@@ -2857,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "Light Work",
+        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217304,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+    },
+    {
+      "album": {
         "name": "Little Blue Moon",
         "url": "https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp"
       },
@@ -2944,7 +3002,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 185800,
       "name": "Lose Myself",
       "url": "https://open.spotify.com/track/1uqgUlVmfomaH1IEeDOC5y"
@@ -3278,7 +3336,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "NICE GIRLS",
       "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
@@ -3426,7 +3484,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 225760,
       "name": "Nothing On You",
       "url": "https://open.spotify.com/track/7u8fLctZzIhiiavPuXXwF7"
@@ -3610,7 +3668,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 139458,
       "name": "OOTW",
       "url": "https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4"
@@ -4022,7 +4080,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 174000,
       "name": "Roses",
       "url": "https://open.spotify.com/track/48WrzCOskXcN8QLUZo9Phd"
@@ -4654,7 +4712,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 251894,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/06XbwFE5HC7qJaF7ihvZDy"
@@ -5016,7 +5074,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 200000,
       "name": "under the rug",
       "url": "https://open.spotify.com/track/7cF9LyIGKAJOj8w4ndFCtC"
@@ -5352,7 +5410,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 169021,
       "name": "Wishin",
       "url": "https://open.spotify.com/track/3Wr0ZFXDzV6JDkbCf5XJck"
@@ -5422,7 +5480,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 212198,
       "name": "Won't Change Me",
       "url": "https://open.spotify.com/track/5u7NLofbw8MQc3lpM0tRyu"

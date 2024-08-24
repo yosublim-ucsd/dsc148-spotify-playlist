@@ -5434,7 +5434,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 174000,
       "name": "Inseguro",
       "url": "https://open.spotify.com/track/6U1k3LaydtAXwNp7YbSp5r"
@@ -6060,7 +6060,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 215076,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/1XaaiqwVQ8qaBrXNmxQ18U"
@@ -6350,7 +6350,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 182765,
       "name": "Me Beija Na Rua",
       "url": "https://open.spotify.com/track/3cvB4ZKg8uHaRrgFGt3zCr"
@@ -6749,6 +6749,24 @@
     },
     {
       "album": {
+        "name": "Miguel em Tempos de Viol\u00eancia",
+        "url": "https://open.spotify.com/album/3KFOImCdKcj6NcZjQC3Wbk"
+      },
+      "artists": [
+        {
+          "name": "kamaitachi",
+          "url": "https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Miguel em Tempos de Viol\u00eancia",
+      "url": "https://open.spotify.com/track/7DkxdsFpPDyWKB5PEzSyB2"
+    },
+    {
+      "album": {
         "name": "Epopeia",
         "url": "https://open.spotify.com/album/7uH5ApFrIm9IqKm6fjXzfW"
       },
@@ -6920,7 +6938,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 163648,
       "name": "Motivo",
       "url": "https://open.spotify.com/track/1RvWhWKwb34uj5gxw3ObpL"
@@ -7098,7 +7116,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 262885,
       "name": "M\u00fasica, um Beijo",
       "url": "https://open.spotify.com/track/02BNN3rXPF7hBecSzSg2u3"
@@ -7788,7 +7806,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 294529,
       "name": "N\u00e9voas",
       "url": "https://open.spotify.com/track/3UkGVb1conf74SG0dXXwVz"
@@ -9489,6 +9507,24 @@
     },
     {
       "album": {
+        "name": "Quero Estar",
+        "url": "https://open.spotify.com/album/69Be1YHoTzv4fECBpOq5qk"
+      },
+      "artists": [
+        {
+          "name": "Ale Sater",
+          "url": "https://open.spotify.com/artist/0zeEmlxF30MGOT16dM5vqx"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171265,
+      "name": "Quero Estar",
+      "url": "https://open.spotify.com/track/5wsyTSRVf6ob8DkCGa5pqH"
+    },
+    {
+      "album": {
         "name": "Quero te ver gozar",
         "url": "https://open.spotify.com/album/58y3yjaCfF8Z3lCoAxqcog"
       },
@@ -10824,7 +10860,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 127605,
       "name": "S\u00f3 Palavras",
       "url": "https://open.spotify.com/track/10tVzcG3rpJG3OlLYWISlF"
@@ -10958,6 +10994,24 @@
       "duration_ms": 224360,
       "name": "Tempo Presente",
       "url": "https://open.spotify.com/track/6EcOfscBzI1HIEHTp25ysT"
+    },
+    {
+      "album": {
+        "name": "temporal",
+        "url": "https://open.spotify.com/album/2wMqM1vI4ScRjs60n9Z7Kw"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216299,
+      "name": "temporal",
+      "url": "https://open.spotify.com/track/70ZUKqDSk9tD2VqMbz0bhO"
     },
     {
       "album": {
@@ -11258,7 +11312,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 171951,
       "name": "Toada",
       "url": "https://open.spotify.com/track/0GxfG9JaeNHQxG227cGZxx"
@@ -11980,7 +12034,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 199802,
       "name": "Uma Beleza De Barriga",
       "url": "https://open.spotify.com/track/5DGVr28QOzIrioAablvVZW"

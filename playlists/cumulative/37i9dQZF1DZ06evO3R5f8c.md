@@ -2,9 +2,9 @@
 
 ### [This Is Black Coffee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3R5f8c)
 
-> This is Black Coffee\. The essential tracks, all in one playlist.
+> This is Black Coffee。アーティストの代表曲をひとつのプレイリストに。
 
-98 songs - 12 hr 8 min
+99 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [DJ Mix](https://open.spotify.com/track/0HPsuZ8rZbBf71J34uhYKA) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 55:02 | 2022-01-07 | 2022-10-13 |
 | [DJ Mix 3](https://open.spotify.com/track/7xZdRkC3g57gOtdFlum2eS) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 1:10:18 | 2021-12-28 | 2021-12-30 |
 | [DO 4 LOVE \- Black Coffee Remix](https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [DO 4 LOVE \(Black Coffee Remix\)](https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2) | 3:44 | 2023-04-20 |  |
-| [Don't You \(Give Up\) \- Live](https://open.spotify.com/track/6O4CHPJQdyTfPv1AZC667n) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:44 | 2021-12-28 |  |
+| [Don't You \(Give Up\) \- Live](https://open.spotify.com/track/6O4CHPJQdyTfPv1AZC667n) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:44 | 2021-12-28 | 2024-08-24 |
 | [Drive \(feat\. Delilah Montagu\) \- Edit](https://open.spotify.com/track/5cOJ2APoxJfaGjEC7CYc0K) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 3:11 | 2023-12-13 |  |
 | [Drive \- Edit](https://open.spotify.com/track/3XsNRi2cypsksscysYbyaF) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 3:11 | 2021-12-28 | 2023-12-14 |
 | [Even Though](https://open.spotify.com/track/26qQM5sqNWTedLxlWwMqXL) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 | 2022-04-10 |  |
@@ -90,6 +90,7 @@
 | [Take It All Off](https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:37 | 2021-12-31 |  |
 | [The Chameleon](https://open.spotify.com/track/3XmdU29brLZmGYT8ZFTZQX) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Black Moses](https://open.spotify.com/artist/2GajwtMQTCxHl4mTOZ3RnE) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 | 2021-12-29 |  |
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-06-10 |  |
+| [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 | 2024-08-24 |  |
 | [Time \(feat\. Cassie\)](https://open.spotify.com/track/5WHoJSG9bkSJfVlyf3PrqO) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 4:52 | 2022-02-21 | 2022-04-02 |
 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 | 2021-12-28 |  |
 | [Turn Me On](https://open.spotify.com/track/1Rat7GGiIeGUvGJSu9Seca) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [XMAS Lounge Tunes \(Special Selected Lounge Tracks for Chilling Under the Christmas Tree\)](https://open.spotify.com/album/2I0vZwlfzDdNu3Feqn45rh) | 7:25 | 2023-05-13 | 2023-10-11 |

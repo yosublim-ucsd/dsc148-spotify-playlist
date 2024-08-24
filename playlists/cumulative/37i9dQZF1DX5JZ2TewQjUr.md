@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Arches
 
-1,135 songs - 2 day 16 hr 18 min
+1,137 songs - 2 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [alright](https://open.spotify.com/track/6s2TBrbs9bTC1faiyww2AN) | [raph](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND) | [alright](https://open.spotify.com/album/7evoZt4Hmido1pg2lCAVt4) | 2:12 | 2023-11-23 | 2024-02-02 |
 | [Amidst the concrete](https://open.spotify.com/track/1kKO5dyVwCrvHUkrgTr8HG) | [Kiden](https://open.spotify.com/artist/3K6RzPx0eI1QD11un1Cm3U), [Loisey](https://open.spotify.com/artist/4mkRfl4lbz4A0O9jNlPnqN) | [Amidst the concrete](https://open.spotify.com/album/7sdeTiNHw3Zx3CeRF18fM9) | 2:57 | 2022-07-28 | 2022-09-09 |
 | [Among Us](https://open.spotify.com/track/3ocUbbOV84SoQ3SspSLvXn) | [Uchu Yurei](https://open.spotify.com/artist/12qOUG1SCqsMtXNPbng8rl) | [Among Us](https://open.spotify.com/album/5jO1w6shmYBeaTLOmPZ39J) | 4:55 | 2024-06-20 |  |
+| [And The Darkness](https://open.spotify.com/track/1a4cJ6ElAAsZXc1UUsxsxv) | [Glen Alfred](https://open.spotify.com/artist/2zzLSCN9YTxzrMpmT28Lhx) | [And The Darkness](https://open.spotify.com/album/5DhVNlkZdtqugiJKArk3Qi) | 4:02 | 2024-08-22 |  |
 | [ANIMAL](https://open.spotify.com/track/622KzomkoRZAhj6aJ422y3) | [Rae Law](https://open.spotify.com/artist/3R82T1kwSMzxEH1UbkRqLV) | [ANIMAL](https://open.spotify.com/album/3NWp4o5sMQgelznuJkpvOF) | 2:13 | 2024-02-01 | 2024-05-10 |
 | [Another Life](https://open.spotify.com/track/6AaJtwlagk4mY5PQZMyiHt) | [SpotlessMind](https://open.spotify.com/artist/0VMR8op8diaqyoJjc7hBgf) | [Another Life](https://open.spotify.com/album/2XKZZcZQTfpKQf1g4KuSSn) | 2:22 | 2024-07-04 |  |
 | [Any any way](https://open.spotify.com/track/6ti4TzNsirstOt93DGpQj7) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Any any way](https://open.spotify.com/album/6bxgVxFRZbv16LYikFLB7L) | 2:53 | 2024-02-15 | 2024-05-10 |
@@ -604,6 +605,7 @@
 | [Spaceship](https://open.spotify.com/track/3w6VSyZ1isHJ53YHDdT2CE) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/7qXjSLSvngusEgkvX7m5uU) | 3:23 | 2022-10-13 | 2022-11-04 |
 | [Spaceship](https://open.spotify.com/track/7Kz8jS0iJ07JjWkN6gY0S6) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Spaceship](https://open.spotify.com/album/4wc8biQw9TsUg8DdH6IU4s) | 3:23 | 2022-07-07 | 2022-10-19 |
 | [Spaceship \- SZEMEI1994 Remix](https://open.spotify.com/track/5b6Bz3LfzrNymVDF5ecQYB) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9), [SZEMEI1994](https://open.spotify.com/artist/0LrMg79iUC04QawdFKLjRu) | [Spaceship \(SZEMEI1994 Remix\)](https://open.spotify.com/album/7qeSBmka6Sl5vRAOV01HpI) | 4:36 | 2023-07-06 | 2023-09-15 |
+| [sparks \- live at home](https://open.spotify.com/track/3w5SPHFYd6boRmRgjIsm6L) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [sparks \- live at home](https://open.spotify.com/album/2ITNohgJWUaQ4JJXIRS913) | 4:18 | 2024-08-23 |  |
 | [spiltcans?](https://open.spotify.com/track/1gG9Tj3MQsbcBIfXh0u10u) | [The Wavelength](https://open.spotify.com/artist/3yvaG8Q6oLAp95rMecgACr) | [spiltcans?](https://open.spotify.com/album/5lAaJpNbBAOqx1XFkXHiEe) | 4:17 | 2024-03-21 |  |
 | [Sponsor Me](https://open.spotify.com/track/4QXSWFFlH52EIpRhpiVqg7) | [hisbbuR](https://open.spotify.com/artist/6Bdob4UTEhELiXLw4tyGMa) | [Sponsor Me](https://open.spotify.com/album/6D3F6O4RM836vWlgl81zlb) | 3:40 | 2023-03-02 | 2023-07-14 |
 | [Starfish](https://open.spotify.com/track/4NAb5jpxad0T7U96pGYfR1) | [Angela Wai Nok Hui](https://open.spotify.com/artist/1xgg2MVNK3F8vhuwVb1l0a), [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [Starfish](https://open.spotify.com/album/6g638FymqCgZcrCHlMq9xM) | 3:58 | 2024-05-02 |  |

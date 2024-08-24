@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "This is Lourena. Track-track unggulan, semuanya dalam satu playlist.",
+  "description": "This is Lourena. The essential tracks, all in one playlist.",
   "name": "This Is Lourena",
   "tracks": [
     {
@@ -1460,6 +1460,36 @@
     {
       "album": {
         "name": "Quando Voc\u00ea Voltar",
+        "url": "https://open.spotify.com/album/6qQeBVXwmoX8ngGvxT2v3K"
+      },
+      "artists": [
+        {
+          "name": "Grito Filmes",
+          "url": "https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "WJ",
+          "url": "https://open.spotify.com/artist/3ay6p0y6ajeg3HgENy1V9p"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270181,
+      "name": "Quando Voc\u00ea Voltar",
+      "url": "https://open.spotify.com/track/3koekiyh2nzzzbRm7s4uUo"
+    },
+    {
+      "album": {
+        "name": "Quando Voc\u00ea Voltar",
         "url": "https://open.spotify.com/album/233tYCNMcUV3M49Uk3TqX2"
       },
       "artists": [
@@ -1482,7 +1512,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 270181,
       "name": "Quando Voc\u00ea Voltar",
       "url": "https://open.spotify.com/track/3yFW4IN8OkspoFGL0jt2Cg"

@@ -4,7 +4,7 @@
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Sabrina Carpenter
 
-1,583 songs - 3 day 5 hr 40 min
+1,584 songs - 3 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Body](https://open.spotify.com/track/0QNzoNLS7s579XX3foNwKi) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Tai Woffinden](https://open.spotify.com/artist/7hHvec5hQk2LtFSe1pIDU3), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Body](https://open.spotify.com/album/69b1aa87cmfovEf5iSspgc) | 2:05 | 2024-08-15 | 2024-08-23 |
 | [Body](https://open.spotify.com/track/1ucysYifutlHvdhT3wPH09) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Body](https://open.spotify.com/album/2XFkhBjRO8elEtoZovNbjg) | 2:19 | 2024-06-20 | 2024-06-28 |
 | [Body \(feat\. Cash Cobain\)](https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:12 | 2024-05-16 | 2024-05-24 |
+| [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 | 2024-08-22 |  |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 | 2024-05-03 |
 | [Both Ways](https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Both Ways](https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I) | 3:06 | 2024-05-16 | 2024-05-24 |
 | [Bounce Pan It](https://open.spotify.com/track/2etHJto3sJ0OQbK6al2NLT) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Lanae](https://open.spotify.com/artist/2G87fDiyNnJmCQStwG0oam) | [Bounce Pan It](https://open.spotify.com/album/4uPoA1jDegDNWH5a14Vtct) | 2:06 | 2024-06-27 | 2024-07-05 |

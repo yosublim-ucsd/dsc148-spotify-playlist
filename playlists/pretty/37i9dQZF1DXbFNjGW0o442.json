@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Z\u00f6elle",
-  "num_followers": 39514,
+  "num_followers": 39527,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Arde",
-        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
-      },
-      "artists": [
-        {
-          "name": "Escorpia",
-          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
-        }
-      ],
-      "duration_ms": 186837,
-      "name": "Arde",
-      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "Viuda e Hijas de Roque Enroll",
         "url": "https://open.spotify.com/album/2zskKFjyqd5SDnoUJ2Gvw9"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/6g9EGDsax2ZfUDOwpuaYy7"
+      },
+      "artists": [
+        {
+          "name": "Escorpia",
+          "url": "https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv"
+        }
+      ],
+      "duration_ms": 186837,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/277Ochy22GtV7PPtYAHiWy"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "Raices de Pasi\u00f3n",
         "url": "https://open.spotify.com/album/35FaKPTKnwtwZ2JJbIiTG5"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Dimensi\u00f3n 3000",
-        "url": "https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 202061,
-      "name": "Dimensi\u00f3n 3000",
-      "url": "https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "Chica Violeta",
         "url": "https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 386900,
       "name": "Chica Violeta",
       "url": "https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
+        "name": "Dimensi\u00f3n 3000",
+        "url": "https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 202061,
+      "name": "Dimensi\u00f3n 3000",
+      "url": "https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "De Facto",
+        "url": "https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "L\u00edneas En Hojas",
+      "url": "https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "LOS VIEJOS CON GUITA",
         "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 250770,
       "name": "Igual",
       "url": "https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
-        "name": "De Facto",
-        "url": "https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "L\u00edneas En Hojas",
-      "url": "https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Promesa",
-        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
-      },
-      "artists": [
-        {
-          "name": "Maria Durante",
-          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
-        }
-      ],
-      "duration_ms": 208689,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "Hora de No Ver",
         "url": "https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR"
       },
@@ -1219,22 +1203,6 @@
       "duration_ms": 191559,
       "name": "Morir\u00edan",
       "url": "https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
-        "name": "Ego",
-        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
-      },
-      "artists": [
-        {
-          "name": "Daniela Milagros",
-          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
-        }
-      ],
-      "duration_ms": 190165,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1255,6 +1223,22 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "Promesa",
+        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
+      },
+      "artists": [
+        {
+          "name": "Maria Durante",
+          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
+        }
+      ],
+      "duration_ms": 208689,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "El Ataque de Zorrita",
         "url": "https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Atasco",
-        "url": "https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr"
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1"
       },
       "artists": [
         {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+          "name": "Daniela Milagros",
+          "url": "https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj"
         }
       ],
-      "duration_ms": 226195,
-      "name": "Atasco",
-      "url": "https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86"
+      "duration_ms": 190165,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1299,6 +1283,22 @@
       "duration_ms": 331676,
       "name": "Confusion",
       "url": "https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
+        "name": "Atasco",
+        "url": "https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "duration_ms": 226195,
+      "name": "Atasco",
+      "url": "https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "\u00c9xito",
-        "url": "https://open.spotify.com/album/5nkt0p0MCd9WqFjk2zcw9b"
-      },
-      "artists": [
-        {
-          "name": "Samantha Navarro",
-          "url": "https://open.spotify.com/artist/42bSW87StWghA8hysIh96X"
-        },
-        {
-          "name": "Diego Matturro",
-          "url": "https://open.spotify.com/artist/4b0yopCKitZnedZydA8Aca"
-        }
-      ],
-      "duration_ms": 189098,
-      "name": "Todo Parece",
-      "url": "https://open.spotify.com/track/7wrUGAtnEhdTEaIPg6PpGM"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "Flores Sobre las Piedras",
         "url": "https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n"
       },
@@ -1415,22 +1395,6 @@
       "duration_ms": 302000,
       "name": "Flores Sobre las Piedras",
       "url": "https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
-        "name": "Para Olvidarte",
-        "url": "https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS"
-      },
-      "artists": [
-        {
-          "name": "Wayra Iglesias",
-          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Para Olvidarte",
-      "url": "https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1451,6 +1415,42 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "Para Olvidarte",
+        "url": "https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS"
+      },
+      "artists": [
+        {
+          "name": "Wayra Iglesias",
+          "url": "https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Para Olvidarte",
+      "url": "https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
+        "name": "\u00c9xito",
+        "url": "https://open.spotify.com/album/5nkt0p0MCd9WqFjk2zcw9b"
+      },
+      "artists": [
+        {
+          "name": "Samantha Navarro",
+          "url": "https://open.spotify.com/artist/42bSW87StWghA8hysIh96X"
+        },
+        {
+          "name": "Diego Matturro",
+          "url": "https://open.spotify.com/artist/4b0yopCKitZnedZydA8Aca"
+        }
+      ],
+      "duration_ms": 189098,
+      "name": "Todo Parece",
+      "url": "https://open.spotify.com/track/7wrUGAtnEhdTEaIPg6PpGM"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "BANCATE ESE DEFECTO (Radio Edit)",
         "url": "https://open.spotify.com/album/3S1bG3zai1ZaU7ZaiZ225e"
       },
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Arder",
-        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
+        "name": "Desvelo",
+        "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
       },
       "artists": [
         {
-          "name": "M\u00e1s Que Uno",
-          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
         }
       ],
-      "duration_ms": 220249,
-      "name": "Tu Caminar",
-      "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
+      "duration_ms": 274414,
+      "name": "Desvelo",
+      "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Desvelo",
-        "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
+        "name": "Arder",
+        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
       },
       "artists": [
         {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+          "name": "M\u00e1s Que Uno",
+          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
         }
       ],
-      "duration_ms": 274414,
-      "name": "Desvelo",
-      "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
+      "duration_ms": 220249,
+      "name": "Tu Caminar",
+      "url": "https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Arder",
-        "url": "https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1s Que Uno",
-          "url": "https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er"
-        }
-      ],
-      "duration_ms": 218431,
-      "name": "Si Me Canso de Callar",
-      "url": "https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 204878,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
+        "name": "La Piel Dura",
+        "url": "https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG"
+      },
+      "artists": [
+        {
+          "name": "She Devils",
+          "url": "https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7"
+        }
+      ],
+      "duration_ms": 123320,
+      "name": "No Importa",
+      "url": "https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s"
     }
   ],
   "unique_name": "Rockeras",

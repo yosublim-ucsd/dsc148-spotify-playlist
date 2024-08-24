@@ -846,10 +846,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 197553,
       "name": "Sal\u00f3n",
       "url": "https://open.spotify.com/track/792lAOhCxwFi8AdaWRkgW6"
+    },
+    {
+      "album": {
+        "name": "Un Toque Magico",
+        "url": "https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106344,
+      "name": "San Francisco",
+      "url": "https://open.spotify.com/track/5W485vHAISIu1378PMn3pv"
     },
     {
       "album": {

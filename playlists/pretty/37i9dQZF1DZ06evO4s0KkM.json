@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 117396,
+  "num_followers": 117424,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAD2tqTkmxp4CAzB+H/TC2aQ",
+  "snapshot_id": "ZsZ/gAAAAADmX9tGmhT2ftFzAXmWMTv3",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 155642,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Warrior's Code",
         "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 168840,
       "name": "Captain Kelly's Kitchen",
       "url": "https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 155642,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 334226,
-      "name": "Kiss Me I'm #!@'faced",
-      "url": "https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gang's All Here",
         "url": "https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 158600,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 334226,
+      "name": "Kiss Me I'm #!@'faced",
+      "url": "https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Machine Still Kills Fascists (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Ten Times More",
-      "url": "https://open.spotify.com/track/0t7KczDGPmOyW71qw9xMnh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sing Loud, Sing Proud",
         "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 205613,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 131315,
+      "name": "Ten Times More",
+      "url": "https://open.spotify.com/track/0t7KczDGPmOyW71qw9xMnh"
     },
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Okemah Rising",
+        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 202739,
+      "name": "Bring It Home (feat. Jaime Wyatt)",
+      "url": "https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Machine Still Kills Fascists (Expanded Edition)",
         "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
       },
@@ -775,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okemah Rising",
-        "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        },
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 202739,
-      "name": "Bring It Home (feat. Jaime Wyatt)",
-      "url": "https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Meanest Of Times",
         "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
       },
@@ -811,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Machine Still Kills Fascists (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
       },
       "artists": [
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        },
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 205937,
-      "name": "Never Git Drunk No More (feat. Nikki Lane)",
-      "url": "https://open.spotify.com/track/7IbJEpBPdVuec0WhORFwHJ"
+      "duration_ms": 140693,
+      "name": "Peg O' My Heart",
+      "url": "https://open.spotify.com/track/435VOrlsquEIBjvVCV4z77"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

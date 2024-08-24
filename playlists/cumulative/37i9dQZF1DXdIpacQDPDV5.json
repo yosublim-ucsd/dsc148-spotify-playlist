@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best of today's dance hits. Cover: Peggy Gou",
+  "description": "The best of today's dance hits. Cover: Diplo, Mau P, and Gunna",
   "name": "mint Canada",
   "tracks": [
     {
@@ -494,7 +494,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
@@ -3179,6 +3179,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/22fyp50Def5H4wPjcYVGkY"
+      },
+      "artists": [
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206273,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5hs3AhpYTiN43bzF8uFn2N"
+    },
+    {
+      "album": {
         "name": "Breathe (feat. Jesse Jo Stark)",
         "url": "https://open.spotify.com/album/0YxZ0dRodOKFH1DZ1NWJXP"
       },
@@ -5016,7 +5034,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 203225,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/6EFwCTxuOWiJllWJSZtsBe"
@@ -6036,7 +6054,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 158409,
       "name": "Don\u2019t Keep Me Waiting (feat. Mila Falls)",
       "url": "https://open.spotify.com/track/0iRxPHydedV81XOsc3JWu7"
@@ -8072,7 +8090,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 212538,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE"
@@ -8668,7 +8686,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 216979,
       "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
@@ -10512,7 +10530,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 189874,
       "name": "Hey Homie",
       "url": "https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa"
@@ -11479,6 +11497,28 @@
     },
     {
       "album": {
+        "name": "I AM A GOD",
+        "url": "https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128437,
+      "name": "I AM A GOD",
+      "url": "https://open.spotify.com/track/25v3NCfgs0QGwcZ4cekGhg"
+    },
+    {
+      "album": {
         "name": "I Believe In Love Again",
         "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
       },
@@ -11845,6 +11885,24 @@
     },
     {
       "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "album": {
         "name": "I Remember (John Summit Remix)",
         "url": "https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a"
       },
@@ -12100,6 +12158,28 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+    },
+    {
+      "album": {
+        "name": "I've Arrived (with Tomike)",
+        "url": "https://open.spotify.com/album/2W1UzcHNaKiSHpbAgMnWZM"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        },
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150923,
+      "name": "I've Arrived (with Tomike)",
+      "url": "https://open.spotify.com/track/2EPbupudXMt2oYC3iyl31o"
     },
     {
       "album": {
@@ -15348,7 +15428,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 167559,
       "name": "Love Bites (Feat. Tove Lo & SG Lewis)",
       "url": "https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv"
@@ -20899,6 +20979,32 @@
     },
     {
       "album": {
+        "name": "Receipts (feat. Gunna)",
+        "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234461,
+      "name": "Receipts (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
+    },
+    {
+      "album": {
         "name": "Reckless (Frank Walker Remix)",
         "url": "https://open.spotify.com/album/0PSQG3avI9b8cFzyNvD4dj"
       },
@@ -20958,7 +21064,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 123899,
       "name": "Red Rover",
       "url": "https://open.spotify.com/track/1KFXlQN499sIYKxjr6vP8C"
@@ -23518,6 +23624,32 @@
       "duration_ms": 245669,
       "name": "Smack Yo'",
       "url": "https://open.spotify.com/track/2UdCQIDwFvGhslUYZH5tRR"
+    },
+    {
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/2JuSoLnQXNXbVdOODSZQ88"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147124,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2212Svokvme9GTbKsSeyw6"
     },
     {
       "album": {
@@ -26723,6 +26855,28 @@
     },
     {
       "album": {
+        "name": "Tomb Of The Scorpion",
+        "url": "https://open.spotify.com/album/0wsigP8YYNdHUtFRZ3Yi3w"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Tomb Of The Scorpion",
+      "url": "https://open.spotify.com/track/661OQwbwYMIy8WBqBqC9XG"
+    },
+    {
+      "album": {
         "name": "Tongue",
         "url": "https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN"
       },
@@ -29292,6 +29446,28 @@
       "duration_ms": 217261,
       "name": "Won\u2019t Let You Go",
       "url": "https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"
+    },
+    {
+      "album": {
+        "name": "BREAD",
+        "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192856,
+      "name": "Woof (feat. Kah-Lo)",
+      "url": "https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ"
     },
     {
       "album": {

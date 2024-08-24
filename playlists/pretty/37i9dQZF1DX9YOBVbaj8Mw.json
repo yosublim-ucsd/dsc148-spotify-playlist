@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14410,
+  "num_followers": 14407,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Chory na Polsk\u0119",
-        "url": "https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw"
-      },
-      "artists": [
-        {
-          "name": "Dr Misio",
-          "url": "https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Chory na Polsk\u0119",
-      "url": "https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "BRESLAU HARDCORE",
         "url": "https://open.spotify.com/album/7d3sWhON26NwIUIuoVELTm"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 196138,
       "name": "SUMMER SONG",
       "url": "https://open.spotify.com/track/30snd5cTiUVngr70zOe8RQ"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Chory na Polsk\u0119",
+        "url": "https://open.spotify.com/album/0SGXYkMO9FNhn7wznAaFiw"
+      },
+      "artists": [
+        {
+          "name": "Dr Misio",
+          "url": "https://open.spotify.com/artist/0ov3NwkivwP03icKu8jQBy"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Chory na Polsk\u0119",
+      "url": "https://open.spotify.com/track/3ZLGYIVXOjINT2ZLakODhF"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Pocz\u0105tek",
-        "url": "https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY"
-      },
-      "artists": [
-        {
-          "name": "Miuosh",
-          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
-        }
-      ],
-      "duration_ms": 271461,
-      "name": "Pocz\u0105tek",
-      "url": "https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "W Ogniu \u015awiat",
         "url": "https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 471480,
       "name": "W Ogniu \u015awiat",
       "url": "https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Pocz\u0105tek",
+        "url": "https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY"
+      },
+      "artists": [
+        {
+          "name": "Miuosh",
+          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
+        }
+      ],
+      "duration_ms": 271461,
+      "name": "Pocz\u0105tek",
+      "url": "https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Dekonstrukcja historyczna I",
-        "url": "https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW"
-      },
-      "artists": [
-        {
-          "name": "\u017bywio\u0142ak",
-          "url": "https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH"
-        }
-      ],
-      "duration_ms": 364733,
-      "name": "Do licha",
-      "url": "https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Some Old Songs",
         "url": "https://open.spotify.com/album/4pi2SfwEVD3fDgBcCcKMee"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 206415,
       "name": "Your Kiss",
       "url": "https://open.spotify.com/track/1iOB2whhdE8L8tspsrOQcL"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Dekonstrukcja historyczna I",
+        "url": "https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW"
+      },
+      "artists": [
+        {
+          "name": "\u017bywio\u0142ak",
+          "url": "https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH"
+        }
+      ],
+      "duration_ms": 364733,
+      "name": "Do licha",
+      "url": "https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Matecki",
+        "url": "https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe"
+      },
+      "artists": [
+        {
+          "name": "Matecki",
+          "url": "https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w"
+        }
+      ],
+      "duration_ms": 181548,
+      "name": "Summerland",
+      "url": "https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "p@Ran0j3",
         "url": "https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 210854,
       "name": "Kruszysz (Szatt Remix)",
       "url": "https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Matecki",
-        "url": "https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe"
-      },
-      "artists": [
-        {
-          "name": "Matecki",
-          "url": "https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w"
-        }
-      ],
-      "duration_ms": 181548,
-      "name": "Summerland",
-      "url": "https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Wicher",
-        "url": "https://open.spotify.com/album/064J59XhoaytObENeSH9fJ"
-      },
-      "artists": [
-        {
-          "name": "Ugory",
-          "url": "https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "Wicher",
-      "url": "https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Unde Malum",
         "url": "https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 270333,
       "name": "Nie Zabijaj Ze Strachu",
       "url": "https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Wicher",
+        "url": "https://open.spotify.com/album/064J59XhoaytObENeSH9fJ"
+      },
+      "artists": [
+        {
+          "name": "Ugory",
+          "url": "https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "Wicher",
+      "url": "https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "TiriTaka (Polish Jazz, Vol. 62)",
-        "url": "https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf"
-      },
-      "artists": [
-        {
-          "name": "Kazimierz Jonkisz Quintet",
-          "url": "https://open.spotify.com/artist/3QxJW501Ah3SdMt3w3aO22"
-        }
-      ],
-      "duration_ms": 369013,
-      "name": "Tiritaka",
-      "url": "https://open.spotify.com/track/55krx4SNu1AJ6vwrqxdpsq"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Flying Lion",
         "url": "https://open.spotify.com/album/0M7FwXBXw3WRrlwlzPTKLR"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 364149,
       "name": "Hi 5",
       "url": "https://open.spotify.com/track/7LSQ3LsrI4dQyHzRD38IDa"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "TiriTaka (Polish Jazz, Vol. 62)",
+        "url": "https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf"
+      },
+      "artists": [
+        {
+          "name": "Kazimierz Jonkisz Quintet",
+          "url": "https://open.spotify.com/artist/3QxJW501Ah3SdMt3w3aO22"
+        }
+      ],
+      "duration_ms": 369013,
+      "name": "Tiritaka",
+      "url": "https://open.spotify.com/track/55krx4SNu1AJ6vwrqxdpsq"
     },
     {
       "added_at": "2024-03-25 08:52:09",

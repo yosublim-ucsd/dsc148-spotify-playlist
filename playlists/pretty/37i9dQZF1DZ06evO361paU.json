@@ -1,12 +1,12 @@
 {
   "description": "This Is Lenny Kravitz. Los temas esenciales, todos en una lista.",
-  "num_followers": 266517,
+  "num_followers": 266586,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAADS0ARfwOcF6K3V8oQLxy9M",
+  "snapshot_id": "ZsZ/gAAAAACoNvQtO3rSgVrDnIijXEvb",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "Always On The Run",
+      "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Hear You",
         "url": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/1xYsgHPHiR3IIdpRzkfKcE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "Always On The Run",
-      "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
     },
     {
       "added_at": null,

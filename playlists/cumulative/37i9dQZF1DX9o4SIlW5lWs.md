@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: La Kuppe & Amar Azul.
 
-453 songs - 1 day 1 hr 57 min
+454 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Ay Amor](https://open.spotify.com/track/29czCirGYs1NGXct1ouYLP) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Ay Amor](https://open.spotify.com/album/2aGDw9k4Ma4aeqNqV746rE) | 2:43 | 2024-07-12 |  |
 | [Boleto al Amor](https://open.spotify.com/track/7zFVBVoPnx5Lq58Vw1aQfK) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Boleto al Amor](https://open.spotify.com/album/6s8ea6DTJ4EvzvNgRJWGUX) | 3:25 | 2022-03-08 | 2023-06-10 |
 | [Bonita y Mentirosa](https://open.spotify.com/track/5nek9u170O2y9lGK9a7uRJ) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Bonita y Mentirosa](https://open.spotify.com/album/0xdNqIKfuVie2xOX827Tmn) | 1:17 | 2022-01-21 | 2022-07-13 |
-| [Boquita de Caramelo](https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 3:26 | 2022-01-21 |  |
+| [Boquita de Caramelo](https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 3:26 | 2022-01-21 | 2024-08-24 |
 | [Buscando Otro Amor](https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Buscando Otro Amor](https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK) | 2:27 | 2024-05-17 |  |
 | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Búscate Un Hombre Que Te Quiera](https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO) | 3:01 | 2022-01-21 | 2023-01-15 |
 | [Caballitos de Mar](https://open.spotify.com/track/0aaDDIeUNnSH7hRDa4tOd8) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi), [Mika](https://open.spotify.com/artist/5JWQJWjXkGBCVNpomR4HSx) | [Caballitos de Mar](https://open.spotify.com/album/6h5O4VNQjWP1MyPlj57Bug) | 3:19 | 2022-04-29 | 2022-05-25 |
@@ -382,6 +382,7 @@
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Te Hubieras Ido Antes](https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq) | 5:23 | 2022-01-14 |  |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/7x0Y9NVem9mV0Ly4DDf5G2) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [Te Juro Que Te Amo](https://open.spotify.com/album/2HfZ9Nip6khFvSEeodwOtf) | 3:45 | 2022-07-22 | 2022-08-13 |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/5Y3n9BcwwtJPPilw4GMaII) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Te Juro Que Te Amo](https://open.spotify.com/album/57uOjRBETAv53834da99GP) | 4:03 | 2023-09-01 | 2023-09-12 |
+| [Te Lo Agradezco](https://open.spotify.com/track/5AAAr9ckR54bP5BfvXqILr) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Aneley](https://open.spotify.com/artist/0fwYg36a0rtDscNA60ULVQ) | [Te Lo Agradezco](https://open.spotify.com/album/5BX90KAtpnJg6R2rW9p3jo) | 3:39 | 2024-08-23 |  |
 | [Te Quiero Contar](https://open.spotify.com/track/3oKWAjE5Tg7Ljt0XeFEWdc) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Te Quiero Contar](https://open.spotify.com/album/6XKavgiL9yEPwMijayCE2s) | 3:55 | 2024-08-09 | 2024-08-17 |
 | [Te sorprenderás / Hasta el sol de hoy \- Live Session](https://open.spotify.com/track/4FpsFwMMjiHgyx8xjpgzN7) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Te sorprenderas / Hasta el sol de hoy \(Live Session\)](https://open.spotify.com/album/0DkqXH8VLBX0HaonaiXCCt) | 2:51 | 2023-03-27 | 2023-04-11 |
 | [Te Vas](https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH) | 3:49 | 2022-01-14 | 2022-07-29 |

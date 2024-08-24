@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75\_EbuOhDg"> Zach Bryan</a>, Bailey Zimmerman, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,948 likes - 92 songs - 5 hr 1 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 34,952 likes - 97 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,10 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 90 | [Actin’ Up Again](https://open.spotify.com/track/0yLEozWmzp5mGdIPBD4wmP) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/1xAohdDpm2fWc6wVQme0Wm) | 3:13 |
 | 91 | [lose you again \(feat\. parmalee\)](https://open.spotify.com/track/7ASsus03w3IMiFqldg9pAG) | [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D), [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Breakup Over Breakfast](https://open.spotify.com/album/5lm3yZ7Ex7VES1rrAFjR5S) | 2:43 |
 | 92 | [Run Your Mouth](https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 2:40 |
+| 93 | [Better Year](https://open.spotify.com/track/16Dak03vkp5lEuwIFFpeOm) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Better Year / Jersey Giant](https://open.spotify.com/album/5y0pO2GUp0WxLpA2mlr199) | 3:20 |
+| 94 | [Love on the Line](https://open.spotify.com/track/1M95X9GeTRLXczFunvGCn7) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/6qjHXAoCQWAwOwOCjdSvEN) | 3:24 |
+| 95 | [He's The One](https://open.spotify.com/track/2UpfodsBum0ZsQEo10FWXb) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [He's The One](https://open.spotify.com/album/5oaGk1fr7NQxfHEMccMFFT) | 3:13 |
+| 96 | [Two Blue Chairs & You](https://open.spotify.com/track/2RfkKGdFYORwUy7gOFUSRI) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Two Blue Chairs & You](https://open.spotify.com/album/5TWk0jAcmvB9vsZPYUbJ7j) | 2:48 |
+| 97 | [Some Things Just Stick](https://open.spotify.com/track/0u2dsFLhpu0KpCJnA9cxT1) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Still Bleeding](https://open.spotify.com/album/3XguviXP2FCg5aMSEcuZbG) | 3:06 |
 
-Snapshot ID: `AAAaOmAQx8sL2Y1w0pZr7DBNBa430rNY`
+Snapshot ID: `AAAaQTGVsWabUVmHpMj3eZ8AHqzKuacb`

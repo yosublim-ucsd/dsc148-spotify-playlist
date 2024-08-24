@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Kapo
 
-815 songs - 1 day 19 hr 33 min
+817 songs - 1 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Hot Sauce \(feat\. Ovi\)](https://open.spotify.com/track/53AR3UfALKm0L8FRsz2FCf) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Hot Sauce \(feat\. Ovi\)](https://open.spotify.com/album/5pNdT65jzSdRC9OBVNyCbC) | 4:37 | 2022-12-09 | 2023-06-01 |
 | [Hoy Me Emborracho](https://open.spotify.com/track/6d8eIIRwnEarPsYEXHJ7a7) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [INTRUSO](https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw) | 3:02 | 2022-10-26 | 2023-06-01 |
 | [Hoy Me Siento Cabrón](https://open.spotify.com/track/60BSZTGxRpmeeoIExE8PTu) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 2:40 | 2022-12-02 | 2023-06-02 |
+| [HOY TENGO GANAS DE TI](https://open.spotify.com/track/27AycGPhBPGCc6YnTZTaSh) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [HOY TENGO GANAS DE TI](https://open.spotify.com/album/4y5leWM7OukafuPcBHrvtx) | 2:50 | 2024-08-23 |  |
 | [HP](https://open.spotify.com/track/1LIqNVhaIgxXUt2eVoIQJ3) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:04 | 2023-06-02 | 2023-06-08 |
 | [Háblame de Ti](https://open.spotify.com/track/07VwNVmu5zgQT7V4ueEME2) | [Rosana](https://open.spotify.com/artist/4T32fwjlx2Un7SjWJoSyNb) | [Háblame de Ti](https://open.spotify.com/album/6CA2JOR4rsOJuuMjRsauIY) | 2:32 | 2023-05-05 | 2023-06-02 |
 | [IConic.mp3](https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 3:01 | 2023-11-06 | 2024-07-03 |
@@ -440,6 +441,7 @@
 | [Malo Pa Fingir](https://open.spotify.com/track/2ceXJCm7qcdEqeBfFOtG7P) | [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Malo Pa Fingir](https://open.spotify.com/album/2agssgnmrb0TSjB4nPhtSX) | 2:22 | 2022-11-25 | 2023-06-01 |
 | [MAMIII](https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII](https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R) | 3:46 | 2022-02-10 |  |
 | [Manos de Tijera](https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 4:27 | 2023-06-02 | 2023-06-08 |
+| [Mantra](https://open.spotify.com/track/6tuUffUKTvUTP173f0bt9Q) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Mantra](https://open.spotify.com/album/1P9CO4GRy3hkcDHARgaChU) | 3:30 | 2024-08-23 |  |
 | [Maníaca](https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Maníaca](https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye) | 2:55 | 2023-06-16 | 2023-07-29 |
 | [Mar Chiquita](https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:24 | 2022-11-15 | 2023-05-26 |
 | [Marbella](https://open.spotify.com/track/5mPuQwzVR3E7N43FxBBljc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 3:02 | 2022-12-02 | 2023-06-01 |

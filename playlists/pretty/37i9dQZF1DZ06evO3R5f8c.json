@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 144646,
+  "description": "This is Black Coffee\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 144833,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAC+ZwkulOgg1pYrnKdZjWAd",
+  "snapshot_id": "ZsZ/gAAAAABVkEY+aeaxDlf3+DhyL+T9",
   "tracks": [
     {
       "added_at": null,
@@ -1015,22 +1015,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africa Rising",
-        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+        "name": "There's Music in the Air",
+        "url": "https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS"
       },
       "artists": [
         {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
         },
         {
-          "name": "Vuyo",
-          "url": "https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi"
+          "name": "Gallo Remixed",
+          "url": "https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         }
       ],
-      "duration_ms": 464453,
-      "name": "Don't You (Give Up) - Live",
-      "url": "https://open.spotify.com/track/6O4CHPJQdyTfPv1AZC667n"
+      "duration_ms": 234673,
+      "name": "There's Music in the Air",
+      "url": "https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK"
     }
   ],
   "unique_name": "This Is Black Coffee",

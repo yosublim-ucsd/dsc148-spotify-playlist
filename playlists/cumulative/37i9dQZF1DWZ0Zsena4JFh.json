@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Beabadoobee en portada.",
+  "description": "Un parque de diversiones para gustos inconformes y sofisticados. Fontaines D.C. en portada.",
   "name": "Indielandia",
   "tracks": [
     {
@@ -984,7 +984,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 207587,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
@@ -1132,6 +1132,24 @@
       "duration_ms": 256579,
       "name": "COMBAT",
       "url": "https://open.spotify.com/track/0kE1xahTX5tGkOeSWqpQWi"
+    },
+    {
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253698,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd"
     },
     {
       "album": {
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 188863,
       "name": "Empire Service",
       "url": "https://open.spotify.com/track/1ZjwDwoRZC53PPF8W7W5q9"
@@ -2260,7 +2278,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 242730,
       "name": "Happy Again",
       "url": "https://open.spotify.com/track/2WugJjgShjchyHCEXTVhN4"
@@ -2590,6 +2608,42 @@
       "duration_ms": 169472,
       "name": "I've Been In Love",
       "url": "https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo"
+    },
+    {
+      "album": {
+        "name": "Image",
+        "url": "https://open.spotify.com/album/7JnlRfxpLRDdeYOPuNcklD"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212866,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp"
+    },
+    {
+      "album": {
+        "name": "In The Modern World",
+        "url": "https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266884,
+      "name": "In The Modern World",
+      "url": "https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h"
     },
     {
       "album": {
@@ -3594,7 +3648,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 209291,
       "name": "Only You",
       "url": "https://open.spotify.com/track/5147NKHUT2KvPhmQBp4PHp"
@@ -3642,6 +3696,28 @@
       "duration_ms": 222737,
       "name": "Oral",
       "url": "https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr"
+    },
+    {
+      "album": {
+        "name": "Organs",
+        "url": "https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc"
+      },
+      "artists": [
+        {
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
+        },
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287403,
+      "name": "Organs",
+      "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
     },
     {
       "album": {
@@ -4186,7 +4262,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik"
@@ -4280,6 +4356,24 @@
       "duration_ms": 255636,
       "name": "Show Pony",
       "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
+    },
+    {
+      "album": {
+        "name": "Curve 1",
+        "url": "https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226135,
+      "name": "Shuf (Adore U)",
+      "url": "https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka"
     },
     {
       "album": {
@@ -4598,7 +4692,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 217871,
       "name": "still around",
       "url": "https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK"
@@ -5262,7 +5356,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 214133,
       "name": "Una Playa En Nayarit",
       "url": "https://open.spotify.com/track/3OFqCKshLpPOH7198L3YyP"

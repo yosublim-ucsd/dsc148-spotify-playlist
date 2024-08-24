@@ -2,9 +2,9 @@
 
 ### [ТОП ПОП 2024](https://open.spotify.com/playlist/37i9dQZF1DX5Wynp5mlXCZ)
 
-> Топові новинки української та світової поп\-музики\. Обкладинка: Lady Gaga, Bruno Mars
+> Топові новинки української та світової поп\-музики\. Обкладинка: Sabrina Carpenter
 
-108 songs - 5 hr 32 min
+111 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Better Days](https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Better Days](https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT) | 3:38 | 2024-06-27 | 2024-08-02 |
 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-26 |  |
 | [Chasing Low Vibrations](https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Chasing Low Vibrations](https://open.spotify.com/album/1rzbg3MTkaMZgXkAYQ8Vkt) | 3:24 | 2024-07-26 | 2024-08-20 |
+| [Chasing My Happiness](https://open.spotify.com/track/29jEfDkP0Vg2pQVaOX4EL4) | [DEMCHUK](https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO) | [Chasing My Happiness](https://open.spotify.com/album/3BrE2WivfUgrylO1SORHwX) | 2:06 | 2024-08-23 |  |
 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 | 2024-06-27 |  |
 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 | 2024-06-27 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-16 |  |
@@ -56,7 +57,7 @@
 | [Nobody \- from Kaiju No\. 8](https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Nobody \(from Kaiju No\. 8\)](https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf) | 2:33 | 2024-06-27 |  |
 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 | 2024-08-16 |  |
 | [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-06-27 |  |
-| [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 | 2024-06-27 |  |
+| [One Night/All Night](https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [One Night/All Night](https://open.spotify.com/album/3ISYaclw23kCz3IZtn7koK) | 4:36 | 2024-06-27 | 2024-08-24 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2024-06-27 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-27 |  |
 | [Pretty Slowly](https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Pretty Slowly](https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX) | 4:21 | 2024-08-16 |  |
@@ -68,6 +69,7 @@
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2024-06-27 |  |
 | [Supernatural](https://open.spotify.com/track/5YRjIKZ2YihShXxhAWyDg0) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5) | [Supernatural](https://open.spotify.com/album/4hsegI90J7uMNQswyWD59Q) | 2:35 | 2024-07-04 | 2024-07-13 |
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2024-06-27 |  |
+| [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-23 |  |
 | [Teresa & Maria](https://open.spotify.com/track/7n3Czk07KugPQOWuqCHDmF) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Teresa & Maria](https://open.spotify.com/album/0Q3a4oVaiaVAQeq9WPz5aB) | 2:59 | 2024-06-27 |  |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-06-27 |  |
 | [The Craving \- single version](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 | 2024-06-27 |  |
@@ -98,11 +100,12 @@
 | [Кружить \- Repaired](https://open.spotify.com/track/3q2OthmSLD8RKiEny60H1d) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [Repaired](https://open.spotify.com/album/5eIql5MFNYOXEc0ALHp8aM) | 3:18 | 2024-06-27 | 2024-07-13 |
 | [ЛИПЕНЬ](https://open.spotify.com/track/7KdEKTL1KxWpQ28NK3xLTp) | [TUMAZAR](https://open.spotify.com/artist/0sxk44sG1eS4XAnbGd3fjK) | [ЛИПЕНЬ](https://open.spotify.com/album/1Yzj5Ne7KizKH3q3KYzSWH) | 3:38 | 2024-07-12 | 2024-07-20 |
 | [Лілії](https://open.spotify.com/track/7u7rNKlamHbQtheoIWHaHx) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Лілії](https://open.spotify.com/album/7iPyDgnEhfCliTHyIsaOwW) | 2:39 | 2024-07-04 | 2024-07-13 |
-| [Літо](https://open.spotify.com/track/6rEc1q1piCjkv5nQoUkPHJ) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Літо](https://open.spotify.com/album/019UYD8c4sKIZD35H36nlc) | 3:05 | 2024-07-26 |  |
+| [Літо](https://open.spotify.com/track/6rEc1q1piCjkv5nQoUkPHJ) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Літо](https://open.spotify.com/album/019UYD8c4sKIZD35H36nlc) | 3:05 | 2024-07-26 | 2024-08-24 |
 | [Мені тебе бракує](https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:38 | 2024-06-27 | 2024-07-13 |
 | [не мине](https://open.spotify.com/track/5VQ740HkqqGXfTgxcJlTkF) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [не мине](https://open.spotify.com/album/17kGcxK5jD20PufCq7Toan) | 3:35 | 2024-07-26 | 2024-08-17 |
 | [не та Любов](https://open.spotify.com/track/3L7V3plVALWOfp4eHzUo2V) | [Tricky Nicki](https://open.spotify.com/artist/7pBsLYrKwaLsDIezadNyQ3), [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [не та Любов](https://open.spotify.com/album/40yfNbvl5yqQUDHLZjAPl4) | 2:40 | 2024-06-27 | 2024-07-05 |
-| [Пам’ятай \- Техно](https://open.spotify.com/track/6Lx6kyYG2lBkSJ5PgX5bgQ) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Їде дах](https://open.spotify.com/album/0TEDqckCsqdG080yh5IiVP) | 2:39 | 2024-08-16 |  |
+| [Орбіти](https://open.spotify.com/track/2EUtede0ZdQHWZxmD0jajP) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Орбіти](https://open.spotify.com/album/2KqiogCnQ852Z3Ib3oLW0L) | 2:48 | 2024-08-23 |  |
+| [Пам’ятай \- Техно](https://open.spotify.com/track/6Lx6kyYG2lBkSJ5PgX5bgQ) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Їде дах](https://open.spotify.com/album/0TEDqckCsqdG080yh5IiVP) | 2:39 | 2024-08-16 | 2024-08-24 |
 | [Порцелянові очі](https://open.spotify.com/track/2om62MQdBvGvrqjpCmVNcN) | [Schmalgauzen](https://open.spotify.com/artist/1qqW4QBTgFMH2Vpzwboo8z) | [Порцелянові очі](https://open.spotify.com/album/5BZSzynV6Y6rKkGiWL9c1E) | 3:23 | 2024-06-27 | 2024-07-13 |
 | [психічне порушення](https://open.spotify.com/track/5bx2mZ2wNh8KDHeFXbWxk8) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [психічне порушення](https://open.spotify.com/album/3o11Lbt08TOqcHemdDz5ZP) | 2:45 | 2024-07-12 | 2024-08-17 |
 | [серенади](https://open.spotify.com/track/5MjTUX9i3mDWv22Ns2Ekj2) | [MOLODI](https://open.spotify.com/artist/0WBxktj7eb89sByiSeFelF) | [серенади](https://open.spotify.com/album/14B1PeFpAqmHhH5RnoeCOY) | 2:25 | 2024-07-19 | 2024-07-27 |

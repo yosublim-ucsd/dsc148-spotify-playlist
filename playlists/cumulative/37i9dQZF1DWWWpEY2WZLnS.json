@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 226490,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
@@ -7854,6 +7854,48 @@
       "duration_ms": 228461,
       "name": "Trap Pea",
       "url": "https://open.spotify.com/track/7d9ybTfliQ5iOJB0i364OS"
+    },
+    {
+      "album": {
+        "name": "Travesura (feat. Lenny Santos, Chelsy, Three Seven Music & The Chosen Few)",
+        "url": "https://open.spotify.com/album/5Z6tPU1jLZefXRvDX0T0I8"
+      },
+      "artists": [
+        {
+          "name": "Divino",
+          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Lenny Santos",
+          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+        },
+        {
+          "name": "Chelsy",
+          "url": "https://open.spotify.com/artist/2DR4ukJfl3MNXYWPTFMe7D"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        },
+        {
+          "name": "The Chosen Few",
+          "url": "https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171880,
+      "name": "Travesura (feat. Lenny Santos, Chelsy, Three Seven Music & The Chosen Few)",
+      "url": "https://open.spotify.com/track/1HNPpduwc2H95IC1eMJuXB"
     },
     {
       "album": {

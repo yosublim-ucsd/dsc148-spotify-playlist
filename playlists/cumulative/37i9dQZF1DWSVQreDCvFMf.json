@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 275999,
       "name": "'Di Na Posible",
       "url": "https://open.spotify.com/track/5dVLtXuGXzaFBoAiwE6YZU"
@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "All These and More",
+        "url": "https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x"
+      },
+      "artists": [
+        {
+          "name": "The Ridleys",
+          "url": "https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209166,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g"
+    },
+    {
+      "album": {
         "name": "Feel This Way",
         "url": "https://open.spotify.com/album/0v5fmGTPGUHJR1tq8x0r3W"
       },
@@ -612,7 +630,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 199756,
       "name": "Gupit (with Alamat)",
       "url": "https://open.spotify.com/track/2DK8sb1DDQ3r9gJ602NP5W"
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 188664,
       "name": "Liham Sa Ulap",
       "url": "https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD"
@@ -1310,6 +1328,24 @@
       "duration_ms": 253521,
       "name": "Medyo Ako (feat. Moira Dela Torre)",
       "url": "https://open.spotify.com/track/2iVloJhXpLh5eMat9VDMLG"
+    },
+    {
+      "album": {
+        "name": "minsan",
+        "url": "https://open.spotify.com/album/0UEnA632PuAMWkvPkwYqrP"
+      },
+      "artists": [
+        {
+          "name": "Ace Banzuelo",
+          "url": "https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201381,
+      "name": "minsan",
+      "url": "https://open.spotify.com/track/7sdJVKQdidTOIXHxjY9KqK"
     },
     {
       "album": {
@@ -2070,6 +2106,24 @@
       "duration_ms": 200675,
       "name": "sirens",
       "url": "https://open.spotify.com/track/1oo1PbwqaA5c59xnCBreus"
+    },
+    {
+      "album": {
+        "name": "Sisig",
+        "url": "https://open.spotify.com/album/7IIl5vFvQSUsMmoZcvo8WB"
+      },
+      "artists": [
+        {
+          "name": "Eliza Maturan",
+          "url": "https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238098,
+      "name": "Sisig",
+      "url": "https://open.spotify.com/track/27yg8NUSbUr0KBMB9JyNOV"
     },
     {
       "album": {

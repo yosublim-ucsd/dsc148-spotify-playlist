@@ -1,12 +1,12 @@
 {
   "description": "This Is MYA. Los temas esenciales, todos en una lista.",
-  "num_followers": 40625,
+  "num_followers": 40646,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAACIUdc2mVYXqkJj8uFBHZdh",
+  "snapshot_id": "ZsZ/gAAAAAC+sjs4HOgoEpuBTOELE8Pg",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL PROCESO",
+        "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "duration_ms": 156812,
+      "name": "EL PROCESO",
+      "url": "https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lado Triste (Remix)",
         "url": "https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 167038,
       "name": "Lado Triste - Remix",
       "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL PROCESO",
-        "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
-      },
-      "artists": [
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        }
-      ],
-      "duration_ms": 156812,
-      "name": "EL PROCESO",
-      "url": "https://open.spotify.com/track/7jRTjCPPxpUBSdx5jh05az"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Kapo",
-  "num_followers": 53676,
+  "num_followers": 53677,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAASmOk0apeos9BzPCgM5RxQKSmNYDQu",
+  "snapshot_id": "AAASmpCO3ina9uoeQcHVAq2eb/YCHBtc",
   "tracks": [
     {
       "added_at": "2024-08-19 13:36:47",
@@ -75,6 +75,42 @@
       "duration_ms": 254705,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+    },
+    {
+      "added_at": "2024-08-23 15:31:59",
+      "album": {
+        "name": "HOY TENGO GANAS DE TI",
+        "url": "https://open.spotify.com/album/4y5leWM7OukafuPcBHrvtx"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 170672,
+      "name": "HOY TENGO GANAS DE TI",
+      "url": "https://open.spotify.com/track/27AycGPhBPGCc6YnTZTaSh"
+    },
+    {
+      "added_at": "2024-08-23 15:33:04",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/1P9CO4GRy3hkcDHARgaChU"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 210181,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6tuUffUKTvUTP173f0bt9Q"
     },
     {
       "added_at": "2024-08-19 13:36:47",

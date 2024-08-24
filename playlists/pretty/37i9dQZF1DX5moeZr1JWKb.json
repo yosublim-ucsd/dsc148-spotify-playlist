@@ -1,13 +1,29 @@
 {
-  "description": "Estas son las grandes voces del Hip Hop. Foto: Akapellah",
-  "num_followers": 21083,
+  "description": "Estas son las grandes voces del Hip Hop. Foto: Tres Coronas",
+  "num_followers": 21084,
   "original_name": "Los Gallos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqpvtgAAAADBzyfKdOElQPGfz9LfHjP4",
+  "snapshot_id": "Zsf66AAAAABO6JDpvCcuQTHV4iz2Tcds",
   "tracks": [
+    {
+      "added_at": "2024-08-23 02:58:48",
+      "album": {
+        "name": "Mixtape Remix",
+        "url": "https://open.spotify.com/album/4XiFkOXtaJpruodj7vV6sW"
+      },
+      "artists": [
+        {
+          "name": "Tres Coronas",
+          "url": "https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe"
+        }
+      ],
+      "duration_ms": 280673,
+      "name": "Falsedades",
+      "url": "https://open.spotify.com/track/0iIjgyZqFQdBeQUe8FRGDo"
+    },
     {
       "added_at": "2024-07-31 17:09:10",
       "album": {
@@ -819,22 +835,6 @@
       "duration_ms": 182000,
       "name": "Llegan Se Van",
       "url": "https://open.spotify.com/track/6NgC4j881mb0KAZUVdOxEE"
-    },
-    {
-      "added_at": "2024-07-31 17:09:10",
-      "album": {
-        "name": "La Junta",
-        "url": "https://open.spotify.com/album/4tmlpeh4UeaZPxyEblnAzV"
-      },
-      "artists": [
-        {
-          "name": "Tres Coronas",
-          "url": "https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe"
-        }
-      ],
-      "duration_ms": 234027,
-      "name": "La Junta",
-      "url": "https://open.spotify.com/track/33XO9zynI5v4lS2bxYbpc7"
     },
     {
       "added_at": "2024-07-31 17:09:10",

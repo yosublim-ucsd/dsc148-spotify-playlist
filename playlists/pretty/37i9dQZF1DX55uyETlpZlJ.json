@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Vasu Dixit, Manuality, Joel Sakkari",
-  "num_followers": 23446,
+  "num_followers": 23445,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zscj3gAAAACtGiIWBMSMCZKjogmxBISj",
+  "snapshot_id": "ZsgcAQAAAABZkuSAznqlg1uOn/K9tW9v",
   "tracks": [
     {
       "added_at": "2024-07-29 07:04:31",
@@ -71,6 +71,26 @@
       "duration_ms": 216428,
       "name": "Saniha",
       "url": "https://open.spotify.com/track/4wNFpCaaNnjZulNoOzi6Pn"
+    },
+    {
+      "added_at": "2024-08-23 05:18:52",
+      "album": {
+        "name": "Na Driver Ni Nanna Lover",
+        "url": "https://open.spotify.com/album/1EzCYR82ygQft5ixRTBtk5"
+      },
+      "artists": [
+        {
+          "name": "Malu Nipanal Singer",
+          "url": "https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx"
+        },
+        {
+          "name": "Malappa Halabar",
+          "url": "https://open.spotify.com/artist/7rnqc49Vemgd04MOvFt2bu"
+        }
+      ],
+      "duration_ms": 579709,
+      "name": "Na Driver Ni Nanna Lover",
+      "url": "https://open.spotify.com/track/339rqV63PbBNxynrAzKQGc"
     },
     {
       "added_at": "2024-06-25 12:06:05",
@@ -1359,22 +1379,6 @@
       "duration_ms": 242754,
       "name": "Iralu nee jothege",
       "url": "https://open.spotify.com/track/47Wb3Xc7BSE7oGVYFLyaku"
-    },
-    {
-      "added_at": "2024-03-26 07:03:27",
-      "album": {
-        "name": "Kanade Hodeya Edurige",
-        "url": "https://open.spotify.com/album/0kTpmGxOf63aV2DIFh2Vuz"
-      },
-      "artists": [
-        {
-          "name": "Uttam Sarang",
-          "url": "https://open.spotify.com/artist/2hxuZDpTxvhUKzqMI0smem"
-        }
-      ],
-      "duration_ms": 222749,
-      "name": "Kanade Hodeya Edurige",
-      "url": "https://open.spotify.com/track/2wkMJqdVmMSxoukyh6eXSn"
     },
     {
       "added_at": "2024-04-03 12:10:33",

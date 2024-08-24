@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d0\u05dc\u05d5\u05df \u05e2\u05d3\u05e8",
-  "num_followers": 30077,
+  "num_followers": 30086,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
+        "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d0'",
+        "url": "https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC"
+      },
+      "artists": [
+        {
+          "name": "Shlomi Shaban",
+          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
+        }
+      ],
+      "duration_ms": 222811,
+      "name": "\u05e0\u05d5\u05e8\u05d9",
+      "url": "https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
         "name": "\u05e0\u05d4\u05e8\u05d5\u05ea \u05d5\u05de\u05e4\u05dc\u05d9\u05dd",
         "url": "https://open.spotify.com/album/4TKOCUq3Ya9j4mI2eQe0NG"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "\u05d1\u05d9\u05ea \u05e4\u05ea\u05d5\u05d7 \u05d7\u05dc\u05e7 \u05d0'",
-        "url": "https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC"
-      },
-      "artists": [
-        {
-          "name": "Shlomi Shaban",
-          "url": "https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX"
-        }
-      ],
-      "duration_ms": 222811,
-      "name": "\u05e0\u05d5\u05e8\u05d9",
-      "url": "https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "\u05dc\u05d9\u05df",
         "url": "https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "You Are What You Do",
-        "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
-      },
-      "artists": [
-        {
-          "name": "Aviram",
-          "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Smile Again",
-      "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
         "url": "https://open.spotify.com/album/27TpWs5Id4y8Rg4ElHes1y"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 220000,
       "name": "\u05ea\u05d5\u05dc\u05d4 \u05d0\u05ea \u05d4\u05e0\u05e2\u05dc\u05d9\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3aQpw97YFj1zgEx3cXenED"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "You Are What You Do",
+        "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
+      },
+      "artists": [
+        {
+          "name": "Aviram",
+          "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Smile Again",
+      "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Petrified",
-        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
-      },
-      "artists": [
-        {
-          "name": "David Lerner",
-          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
-        }
-      ],
-      "duration_ms": 252456,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
         "url": "https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL"
       },
@@ -887,6 +871,38 @@
       "duration_ms": 226000,
       "name": "\u05d4\u05d0\u05dd \u05e0\u05d3\u05e2 \u05dc\u05d4\u05d9\u05d5\u05d5\u05dc\u05d3 \u05e9\u05d5\u05d1 \u05de\u05d7\u05d3\u05e9",
       "url": "https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Write About You",
+        "url": "https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM"
+      },
+      "artists": [
+        {
+          "name": "RGB",
+          "url": "https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0"
+        }
+      ],
+      "duration_ms": 174208,
+      "name": "Write About You",
+      "url": "https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Petrified",
+        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
+      },
+      "artists": [
+        {
+          "name": "David Lerner",
+          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
+        }
+      ],
+      "duration_ms": 252456,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -907,22 +923,6 @@
       "duration_ms": 343074,
       "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd - Live",
       "url": "https://open.spotify.com/track/3gv5bZNWHybHWDJjG5NgGa"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Write About You",
-        "url": "https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM"
-      },
-      "artists": [
-        {
-          "name": "RGB",
-          "url": "https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0"
-        }
-      ],
-      "duration_ms": 174208,
-      "name": "Write About You",
-      "url": "https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Wild Wonder",
-        "url": "https://open.spotify.com/album/5ye1IukbFGXuGABrWuTMoB"
-      },
-      "artists": [
-        {
-          "name": "Balkan Beat Box",
-          "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
-        }
-      ],
-      "duration_ms": 248158,
-      "name": "Wild Wonder",
-      "url": "https://open.spotify.com/track/6jLzdA8hcaEBYVjtGYfP09"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
         "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 229000,
       "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
       "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Wild Wonder",
+        "url": "https://open.spotify.com/album/5ye1IukbFGXuGABrWuTMoB"
+      },
+      "artists": [
+        {
+          "name": "Balkan Beat Box",
+          "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
+        }
+      ],
+      "duration_ms": 248158,
+      "name": "Wild Wonder",
+      "url": "https://open.spotify.com/track/6jLzdA8hcaEBYVjtGYfP09"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

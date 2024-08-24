@@ -1735,6 +1735,28 @@
     },
     {
       "album": {
+        "name": "Dreamscape Jams",
+        "url": "https://open.spotify.com/album/4pHBPlUYS6mg28OpyK7viH"
+      },
+      "artists": [
+        {
+          "name": "Bogomolove",
+          "url": "https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM"
+        },
+        {
+          "name": "Senn",
+          "url": "https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119166,
+      "name": "Arboreous",
+      "url": "https://open.spotify.com/track/4yu1zpAy9PDX2p8NVdtXm1"
+    },
+    {
+      "album": {
         "name": "Are We There Yet",
         "url": "https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ"
       },
@@ -4414,7 +4436,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 189824,
       "name": "can you call me back",
       "url": "https://open.spotify.com/track/5MspgG8KBCGjZEri91ZR1t"
@@ -4908,6 +4930,28 @@
       "duration_ms": 133500,
       "name": "Cerebrum",
       "url": "https://open.spotify.com/track/1JGKFXOPgY1fiMU1OcZsUS"
+    },
+    {
+      "album": {
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/7vRfGQokmeheUuPluiRmuE"
+      },
+      "artists": [
+        {
+          "name": "halberd",
+          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
+        },
+        {
+          "name": "botaniist",
+          "url": "https://open.spotify.com/artist/3Xa1468e8rkfjUmbUtdg3B"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145394,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/4n8PIPGIm5s0E9J4adZLiA"
     },
     {
       "album": {
@@ -7916,7 +7960,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 117500,
       "name": "Dokusho",
       "url": "https://open.spotify.com/track/4Yucw7r7tqZnNFCA7OuQMU"
@@ -9630,7 +9674,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 104800,
       "name": "Esther",
       "url": "https://open.spotify.com/track/05TgG5O8CRsokhihROyskF"
@@ -11180,7 +11224,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 148548,
       "name": "Floating In The Night",
       "url": "https://open.spotify.com/track/33nniRxELxuacmhbQEBPmr"
@@ -15572,7 +15616,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 158131,
       "name": "Jamata",
       "url": "https://open.spotify.com/track/2sPTcWLODMgtFp2faVM5Fg"
@@ -16526,6 +16570,28 @@
       "duration_ms": 119916,
       "name": "late night walking",
       "url": "https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a"
+    },
+    {
+      "album": {
+        "name": "late nights",
+        "url": "https://open.spotify.com/album/6P2n48m1s7DsjEPESdTSdG"
+      },
+      "artists": [
+        {
+          "name": "someday",
+          "url": "https://open.spotify.com/artist/5qXb2k1THc04mE2x1QGxlv"
+        },
+        {
+          "name": "tezpu",
+          "url": "https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147237,
+      "name": "late nights",
+      "url": "https://open.spotify.com/track/721Bki4eKI2WxkwrPPHW3c"
     },
     {
       "album": {
@@ -19552,6 +19618,28 @@
       "duration_ms": 154981,
       "name": "Maybe Tomorrow",
       "url": "https://open.spotify.com/track/0m5yHDR4kne7o4ncHfaqKi"
+    },
+    {
+      "album": {
+        "name": "Me & My Dreams",
+        "url": "https://open.spotify.com/album/5fEPYoheooSb8JvGu9X8Li"
+      },
+      "artists": [
+        {
+          "name": "Antonius B",
+          "url": "https://open.spotify.com/artist/6eZyHHxTWb2rHy2kRPtj0s"
+        },
+        {
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "Me & My Dreams",
+      "url": "https://open.spotify.com/track/4WbTS3tKGfxNxNAU6rjq8a"
     },
     {
       "album": {
@@ -22864,7 +22952,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 143947,
       "name": "Only For Looks",
       "url": "https://open.spotify.com/track/6TFdrqLpy6B8deFs4W7i7O"
@@ -23840,6 +23928,28 @@
       "duration_ms": 95008,
       "name": "Pocky",
       "url": "https://open.spotify.com/track/4WxxKESg7ymI3dqFID9zw7"
+    },
+    {
+      "album": {
+        "name": "polaris",
+        "url": "https://open.spotify.com/album/1RJr6fObv2OYMNY8wzvxlm"
+      },
+      "artists": [
+        {
+          "name": "little blue",
+          "url": "https://open.spotify.com/artist/5WFsnwKBPWK0uFitm41Dv1"
+        },
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120374,
+      "name": "polaris",
+      "url": "https://open.spotify.com/track/1Z1EPGghmQHnXY7kHpjidh"
     },
     {
       "album": {
@@ -26572,7 +26682,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 208255,
       "name": "Shifting Edges",
       "url": "https://open.spotify.com/track/3LdcCUiZjLpfMaZK6KCmuz"
@@ -31668,7 +31778,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 165333,
       "name": "Tight Grip",
       "url": "https://open.spotify.com/track/3T4VCsyciU8apbawr9cD72"
@@ -33460,7 +33570,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 151216,
       "name": "Waffle Date",
       "url": "https://open.spotify.com/track/2iM6bo1Mb6rdw7N3FNMcWE"
@@ -35250,7 +35360,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 133333,
       "name": "zuriel",
       "url": "https://open.spotify.com/track/3V2OHUAvBcaXyF2D7GCERq"

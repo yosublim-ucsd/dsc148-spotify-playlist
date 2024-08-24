@@ -1770,10 +1770,28 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 204146,
       "name": "Nothing But Love",
       "url": "https://open.spotify.com/track/1rss0GffDwykCmieNzGQYM"
+    },
+    {
+      "album": {
+        "name": "Brian Wilson Reimagines Gershwin",
+        "url": "https://open.spotify.com/album/5V2xLFiybTKxScEAFEqPTW"
+      },
+      "artists": [
+        {
+          "name": "Brian Wilson",
+          "url": "https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204146,
+      "name": "Nothing But Love",
+      "url": "https://open.spotify.com/track/5h4VW490aww3I7ikwmNipF"
     },
     {
       "album": {

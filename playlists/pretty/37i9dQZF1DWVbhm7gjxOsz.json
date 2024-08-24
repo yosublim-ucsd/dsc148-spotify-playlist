@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 85545,
+  "num_followers": 85651,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "Hello Stranger",
-        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
-      },
-      "artists": [
-        {
-          "name": "Barbara Lewis",
-          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
-        }
-      ],
-      "duration_ms": 166960,
-      "name": "Hello Stranger",
-      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "The Skyliners",
         "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 158840,
       "name": "Since I Don't Have You (Alternative Take)",
       "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "Hello Stranger",
+        "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
+      },
+      "artists": [
+        {
+          "name": "Barbara Lewis",
+          "url": "https://open.spotify.com/artist/2UocIcNiHj5n4tj1CnBzRq"
+        }
+      ],
+      "duration_ms": 166960,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
-        "name": "The Never Ending Impressions",
-        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
-      },
-      "artists": [
-        {
-          "name": "The Impressions",
-          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
-        }
-      ],
-      "duration_ms": 171506,
-      "name": "I'm So Proud",
-      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
         "name": "A Quiet Storm",
         "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 289240,
       "name": "The Agony And The Ecstasy",
       "url": "https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
+        "name": "The Never Ending Impressions",
+        "url": "https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF"
+      },
+      "artists": [
+        {
+          "name": "The Impressions",
+          "url": "https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "I'm So Proud",
+      "url": "https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Meet The Temptations",
+        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 152933,
+      "name": "I Want A Love I Can See",
+      "url": "https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "The Ultimate Chi-Lites",
         "url": "https://open.spotify.com/album/3sTSxqixe7nXq5STqXOGD3"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 161000,
       "name": "Baby It's You",
       "url": "https://open.spotify.com/track/2mRg1R9LKzZJWRAtKVollf"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Meet The Temptations",
-        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 152933,
-      "name": "I Want A Love I Can See",
-      "url": "https://open.spotify.com/track/5XOGZdDM17WzrXRQz96Fu1"
     },
     {
       "added_at": "2024-08-14 08:31:40",
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2024-08-14 08:31:40",
       "album": {
+        "name": "Tangled Up in You",
+        "url": "https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ"
+      },
+      "artists": [
+        {
+          "name": "The Altons",
+          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
+        }
+      ],
+      "duration_ms": 240842,
+      "name": "Soon Enough",
+      "url": "https://open.spotify.com/track/4yNJHDjA1IJRB2Pb6VrFD3"
+    },
+    {
+      "added_at": "2024-08-14 08:31:40",
+      "album": {
         "name": "Float On",
         "url": "https://open.spotify.com/album/3myYvqFdL0jHBzO97TFJuH"
       },
@@ -2311,22 +2327,6 @@
       "duration_ms": 175240,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1yeLuQ4Jn6WV4UagSxJCPA"
-    },
-    {
-      "added_at": "2024-08-14 08:31:40",
-      "album": {
-        "name": "Tangled Up in You",
-        "url": "https://open.spotify.com/album/4LiUbhhWWkFflkUXOUzUkQ"
-      },
-      "artists": [
-        {
-          "name": "The Altons",
-          "url": "https://open.spotify.com/artist/5AgZ9r9ZdWm7mD9t03KZZu"
-        }
-      ],
-      "duration_ms": 240842,
-      "name": "Soon Enough",
-      "url": "https://open.spotify.com/track/4yNJHDjA1IJRB2Pb6VrFD3"
     },
     {
       "added_at": "2024-08-14 08:31:40",

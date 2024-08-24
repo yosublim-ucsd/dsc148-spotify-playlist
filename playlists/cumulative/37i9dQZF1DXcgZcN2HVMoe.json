@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 257044,
       "name": "Chasing Dreams",
       "url": "https://open.spotify.com/track/3cTsh9sZdHHV6Syjcwg8VW"
@@ -11584,6 +11584,24 @@
       "duration_ms": 221423,
       "name": "The City",
       "url": "https://open.spotify.com/track/58gvTZSWei1plTDPQIqXfD"
+    },
+    {
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1"
     },
     {
       "album": {

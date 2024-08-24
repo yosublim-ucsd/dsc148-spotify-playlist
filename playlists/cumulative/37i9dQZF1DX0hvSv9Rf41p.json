@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with ISOKNOCK",
+  "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Seven Lions, Subtronics, and Skylar Grey",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -228,6 +228,24 @@
       "duration_ms": 178519,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq"
+    },
+    {
+      "album": {
+        "name": "AIN'T MISS A CALL",
+        "url": "https://open.spotify.com/album/16KaW5D0MBBI6GJpTVaiGU"
+      },
+      "artists": [
+        {
+          "name": "Guy Arthur",
+          "url": "https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154100,
+      "name": "AIN'T MISS A CALL",
+      "url": "https://open.spotify.com/track/0r3WvXuModSLGH7f1Mq7WQ"
     },
     {
       "album": {
@@ -1450,7 +1468,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 241655,
       "name": "Badman Season",
       "url": "https://open.spotify.com/track/2sOBIuHSmGcdCnfzJJhfvK"
@@ -3874,7 +3892,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 135642,
       "name": "Crybaby",
       "url": "https://open.spotify.com/track/0gxFH859NhbHOI4XnZjcrX"
@@ -6874,7 +6892,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 210937,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
@@ -8532,7 +8550,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 252800,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV"
@@ -8674,6 +8692,24 @@
       "duration_ms": 168717,
       "name": "HI-TECH",
       "url": "https://open.spotify.com/track/1HCR9P0ZqA91ylnfJiT4c2"
+    },
+    {
+      "album": {
+        "name": "Midnight Forever",
+        "url": "https://open.spotify.com/album/4DldFa5iY1LlYJqS0fjYAO"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220689,
+      "name": "High On You",
+      "url": "https://open.spotify.com/track/68NT9wtJGZuAWcoINJNpz4"
     },
     {
       "album": {
@@ -9313,6 +9349,32 @@
     },
     {
       "album": {
+        "name": "I'll Wait For You",
+        "url": "https://open.spotify.com/album/7KoKBGgqZFDmZ4LQdef74V"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "I'll Wait For You",
+      "url": "https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI"
+    },
+    {
+      "album": {
         "name": "I'm Delighted",
         "url": "https://open.spotify.com/album/7DvM5EovlXacl7ngrQcI1h"
       },
@@ -9416,7 +9478,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 173793,
       "name": "Ignite",
       "url": "https://open.spotify.com/track/4rV0XtqahATaPf29s1rpAd"
@@ -9879,6 +9941,28 @@
     },
     {
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/4eZtcLOUFdM3ScPCGERBvx"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211120,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0yVNtNWZshsOXu0GLWp07P"
+    },
+    {
+      "album": {
         "name": "Just A Dream",
         "url": "https://open.spotify.com/album/3HGlp8bSoomAkZKQl67fqx"
       },
@@ -10044,6 +10128,28 @@
       "duration_ms": 174736,
       "name": "Kill Me With Your Love",
       "url": "https://open.spotify.com/track/0wEhUkwFAAahFN2OITEy4q"
+    },
+    {
+      "album": {
+        "name": "KILLA",
+        "url": "https://open.spotify.com/album/4nu7wpa375CHZVOAp1zdLt"
+      },
+      "artists": [
+        {
+          "name": "Benda",
+          "url": "https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M"
+        },
+        {
+          "name": "RZRKT",
+          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "KILLA",
+      "url": "https://open.spotify.com/track/0tkweWSDmerhKMIaM2midQ"
     },
     {
       "album": {
@@ -13254,7 +13360,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 190965,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/7f9Dlz5PhMB9sIIAJNnHJH"
@@ -17205,6 +17311,28 @@
     },
     {
       "album": {
+        "name": "Steamroller",
+        "url": "https://open.spotify.com/album/2CcC9vuinUNRbWTQp0pS0y"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        },
+        {
+          "name": "Inja",
+          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249500,
+      "name": "Steamroller",
+      "url": "https://open.spotify.com/track/6nJydgohLfCuoPr9BbrUMy"
+    },
+    {
+      "album": {
         "name": "STFU",
         "url": "https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB"
       },
@@ -18669,6 +18797,28 @@
     },
     {
       "album": {
+        "name": "Tomb Of The Scorpion",
+        "url": "https://open.spotify.com/album/0wsigP8YYNdHUtFRZ3Yi3w"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Tomb Of The Scorpion",
+      "url": "https://open.spotify.com/track/661OQwbwYMIy8WBqBqC9XG"
+    },
+    {
+      "album": {
         "name": "Tomorrow (Night & Day)",
         "url": "https://open.spotify.com/album/6sYeMsLjnzJ8H9UCso7BPC"
       },
@@ -19002,7 +19152,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 185142,
       "name": "Trip Sitter",
       "url": "https://open.spotify.com/track/2kRU9Bg9OnV0xZXSHWi2h1"
@@ -19376,6 +19526,28 @@
       "duration_ms": 271981,
       "name": "UOH",
       "url": "https://open.spotify.com/track/3PwQn4PixhUv9ydjuuXmng"
+    },
+    {
+      "album": {
+        "name": "UPSIDE DOWN / TOMB",
+        "url": "https://open.spotify.com/album/03qqwnQQOTs0B4US7iMGkm"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144615,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/1linJZ2rIUG7ElGR22uDat"
     },
     {
       "album": {
@@ -20412,7 +20584,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 183448,
       "name": "WITHOUT YOU",
       "url": "https://open.spotify.com/track/38MesQgjREJnWvoRDOXZTV"

@@ -1,6 +1,6 @@
 {
   "description": "The best newly released songs of the week. Cover: Sabrina Carpenter",
-  "num_followers": 61500,
+  "num_followers": 61523,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
@@ -52,7 +52,7 @@
           "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 233471,
+      "duration_ms": 233406,
       "name": "WE PRAY",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
     },
@@ -123,6 +123,22 @@
       "duration_ms": 182795,
       "name": "See that?",
       "url": "https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc"
+    },
+    {
+      "added_at": "2024-08-22 16:02:11",
+      "album": {
+        "name": "Rains in Heaven",
+        "url": "https://open.spotify.com/album/2SUJuWIru2k3m8RkjwcSsW"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 237499,
+      "name": "Rains in Heaven",
+      "url": "https://open.spotify.com/track/17IcI8xMok8qFNhSPRufjo"
     },
     {
       "added_at": "2024-08-22 16:02:11",
@@ -791,6 +807,22 @@
     {
       "added_at": "2024-08-22 16:02:11",
       "album": {
+        "name": "BOOM BAP",
+        "url": "https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134522,
+      "name": "BOOM BAP",
+      "url": "https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D"
+    },
+    {
+      "added_at": "2024-08-22 16:02:11",
+      "album": {
         "name": "RIDIN",
         "url": "https://open.spotify.com/album/4CeFaAlqyHxaG9i1ZZ0mA5"
       },
@@ -843,6 +875,22 @@
       "duration_ms": 195005,
       "name": "Spiderman In Space",
       "url": "https://open.spotify.com/track/4Pm2UKub2r2zpq3JoBYENy"
+    },
+    {
+      "added_at": "2024-08-22 16:02:11",
+      "album": {
+        "name": "Party In Bali (PIB)",
+        "url": "https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk"
+      },
+      "artists": [
+        {
+          "name": "AGNEZ MO",
+          "url": "https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z"
+        }
+      ],
+      "duration_ms": 172501,
+      "name": "Party In Bali (PIB)",
+      "url": "https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O"
     },
     {
       "added_at": "2024-08-22 16:02:11",

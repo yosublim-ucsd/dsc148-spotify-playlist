@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/75B1OHZUSdDigJkDIzmQG4"
+      },
+      "artists": [
+        {
+          "name": "Soul Dojo",
+          "url": "https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/3oJUYbtJ4CVUpEs9vlfKwV"
+    },
+    {
+      "album": {
         "name": "Bongo",
         "url": "https://open.spotify.com/album/6LXfeDzhuHOlZi4yKZxCPy"
       },
@@ -2519,6 +2537,28 @@
     },
     {
       "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/0l6ED8vAJ1Zs1pcJLl1zwg"
+      },
+      "artists": [
+        {
+          "name": "Cloudsurfin'",
+          "url": "https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif"
+        },
+        {
+          "name": "Lightflower",
+          "url": "https://open.spotify.com/artist/7LRPMbVSu0U3Dakca6s0t0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/3kgAwm0CzWaWybIB4LEo4W"
+    },
+    {
+      "album": {
         "name": "Currents",
         "url": "https://open.spotify.com/album/5VlRaGpdL2hRWCsWQWIHlk"
       },
@@ -3146,7 +3186,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 124800,
       "name": "Happy Thoughts",
       "url": "https://open.spotify.com/track/7lVQF7EPlV3AK3AFqCklp6"
@@ -3554,6 +3594,24 @@
       "duration_ms": 121562,
       "name": "Hot Hot Stuff",
       "url": "https://open.spotify.com/track/6S8JC8wqZjBSwKpMa16bZV"
+    },
+    {
+      "album": {
+        "name": "Reignforest",
+        "url": "https://open.spotify.com/album/6OaMbujRy6O3C1jtIo0I3T"
+      },
+      "artists": [
+        {
+          "name": "Timothy Infinite",
+          "url": "https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151970,
+      "name": "Humid",
+      "url": "https://open.spotify.com/track/1LBZnbikoIOEzwcGMYrJMy"
     },
     {
       "album": {
@@ -5642,7 +5700,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 100645,
       "name": "My Cat",
       "url": "https://open.spotify.com/track/2bUGdtSMPBCMN7UMaBZ6u2"
@@ -6253,6 +6311,32 @@
     },
     {
       "album": {
+        "name": "Paradise Villa",
+        "url": "https://open.spotify.com/album/3OnLf8HHO1RbtwpYsw09jJ"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "DEOVI",
+          "url": "https://open.spotify.com/artist/1lzJWPoLRR3k9dUX2dWuTM"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127173,
+      "name": "Paradise Villa",
+      "url": "https://open.spotify.com/track/0XvjpUfmsRyOhXzAFgSGnk"
+    },
+    {
+      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41"
       },
@@ -6282,7 +6366,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 132413,
       "name": "Pastel",
       "url": "https://open.spotify.com/track/6zAnUb1kRf2IyHMC0uIH6i"
@@ -7204,7 +7288,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 111529,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/2tZLbIeexd0Wpoa4f9YVEi"
@@ -7226,6 +7310,28 @@
       "duration_ms": 194861,
       "name": "Sault",
       "url": "https://open.spotify.com/track/65q3kfyuiECf7SyL4lL0oO"
+    },
+    {
+      "album": {
+        "name": "Seahorsing",
+        "url": "https://open.spotify.com/album/6LUi5ugw9eUMFZFSNKWLSc"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Mardal",
+          "url": "https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V"
+        },
+        {
+          "name": "Guustavv",
+          "url": "https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181583,
+      "name": "Seahorsing",
+      "url": "https://open.spotify.com/track/0zRj6BEY4CWFFFqxhq76lS"
     },
     {
       "album": {
@@ -7500,7 +7606,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 174132,
       "name": "Solution",
       "url": "https://open.spotify.com/track/59KFxZW9JsG5ZCImfl037l"

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover:Central Cee, JRK19\)
 
-2,242 songs - 4 day 17 hr 53 min
+2,244 songs - 4 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [BOMBAE](https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BOMBAE](https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282) | 2:26 | 2024-08-08 |  |
 | [BONG](https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [BONG](https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7) | 4:01 | 2023-03-09 | 2023-04-28 |
 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 | 2023-09-08 | 2024-01-05 |
+| [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 | 2024-08-23 |  |
 | [Boom Boom \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0ccUI8Zs25jqWr6vhRGfeQ) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Boom Boom \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2mb4aeOU7TvbjgY86EEBqa) | 1:58 | 2022-03-10 | 2022-04-01 |
 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 | 2023-08-17 | 2023-09-22 |
 | [Bops](https://open.spotify.com/track/1SVze8cjUtaq7pI8n6SMAt) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:08 | 2023-11-29 | 2024-01-05 |
@@ -1242,6 +1243,7 @@
 | [MSG \(Feat\. PENOMECO\)](https://open.spotify.com/track/6UgKRF9v8QTi7W6COkRU0v) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 3:37 | 2024-03-28 | 2024-04-05 |
 | [mudboy](https://open.spotify.com/track/0DLMRXisEWpqGauuDdOwx5) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [mudboy](https://open.spotify.com/album/0YLwlxIkAliUiTlfdpb5a2) | 1:53 | 2023-07-20 | 2023-09-08 |
 | [MURDAMAN! \(feat\. Chief Keef\)](https://open.spotify.com/track/32DFtWSM5SpEAHcyzW3m0A) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [MURDAMAN! \(feat\. Chief Keef\)](https://open.spotify.com/album/4MAiy2yUEGl1Pkx5arNtxO) | 3:42 | 2022-08-11 | 2022-09-02 |
+| [Murderman \(feat\. LAZER DIM 700 & VonOff1700\)](https://open.spotify.com/track/6xUjsKn8CsjmEKR6iwv4Mt) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [VonOff1700](https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ) | [Murderman \(feat\. LAZER DIM 700 & VonOff1700\)](https://open.spotify.com/album/4B1LLdiQmOjJl1EjnjTZke) | 2:46 | 2024-08-23 |  |
 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 | 2023-05-11 | 2023-06-23 |
 | [My All](https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [My All](https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg) | 3:17 | 2022-12-08 | 2023-01-28 |
 | [My Best](https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [My Best](https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK) | 2:01 | 2024-08-01 |  |

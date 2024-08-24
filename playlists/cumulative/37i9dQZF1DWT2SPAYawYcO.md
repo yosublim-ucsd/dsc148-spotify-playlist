@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Sabrina Carpenter
 
-5,355 songs - 12 day 1 hr 53 min
+5,356 songs - 12 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -634,6 +634,7 @@
 | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Bongos \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ) | 2:55 | 2023-09-07 | 2023-09-15 |
 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 | 2024-08-23 |  |
 | [Boom \(feat\. Tokischa\)](https://open.spotify.com/track/0OCdChh8IoBCIm3kVGY3GN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Boom \(feat\. Tokischa\)](https://open.spotify.com/album/4Liw2H1qC6Nq3ojx8wQBOB) | 2:12 | 2024-08-01 | 2024-08-09 |
+| [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 | 2024-08-23 |  |
 | [Boom Boom](https://open.spotify.com/track/1fvs69wygKjj56sDhYLSdd) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Where The Angels Fall](https://open.spotify.com/album/0XkC0lRgKhIzYR390LmNPI) | 3:05 | 2023-08-24 | 2023-09-01 |
 | [Boom Buggy](https://open.spotify.com/track/3eP4GOxwhoGSDB2EhjTApF) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [Boom Buggy](https://open.spotify.com/album/6N1Q2OmpAN5PMoiv6p7n8C) | 2:59 | 2024-02-01 | 2024-02-09 |
 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 | 2024-03-14 | 2024-03-22 |

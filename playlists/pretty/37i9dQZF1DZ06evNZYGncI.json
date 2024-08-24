@@ -1,12 +1,12 @@
 {
   "description": "This is Slipknot. The essential tracks, all in one playlist.",
-  "num_followers": 980304,
+  "num_followers": 980603,
   "original_name": "This Is Slipknot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAAtXx8qVoHPb6OtwXl0OQMt",
+  "snapshot_id": "ZsZ/gAAAAAAUdbtxS9a576tu611Fxl2x",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": ".5: The Gray Chapter (Special Edition)",
-        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 225066,
-      "name": "Killpop",
-      "url": "https://open.spotify.com/track/6AAZigYqOch79lKcrSBOv0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Iowa",
         "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 241466,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": ".5: The Gray Chapter (Special Edition)",
+        "url": "https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 225066,
+      "name": "Killpop",
+      "url": "https://open.spotify.com/track/6AAZigYqOch79lKcrSBOv0"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipknot (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
+        "name": "The End, So Far",
+        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 265453,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio"
+      "duration_ms": 283786,
+      "name": "Yen",
+      "url": "https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End, So Far",
-        "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
+        "name": "Slipknot (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
         }
       ],
-      "duration_ms": 283786,
-      "name": "Yen",
-      "url": "https://open.spotify.com/track/5ih5d9WJSI7Hxz0KIPJPY2"
+      "duration_ms": 265453,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/3Lkm8fyUksuC8hr9I35nio"
     },
     {
       "added_at": null,

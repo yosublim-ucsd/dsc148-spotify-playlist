@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-794 songs - 1 day 18 hr 38 min
+797 songs - 1 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [BRB \(feat\. Pink Sweat$\)](https://open.spotify.com/track/3cIYfp1jvO622pUW5zaeEF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [BRB \(feat\. Pink Sweat$\)](https://open.spotify.com/album/6MDVwRIC8PaZFkggzSFBso) | 3:38 | 2020-07-24 | 2021-05-12 |
 | [Break](https://open.spotify.com/track/36kIYxNoFwQn8hurOf62mK) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Break](https://open.spotify.com/album/7eOnQ0iEjNVGE5VmWEe8FQ) | 3:23 | 2020-07-18 | 2021-05-12 |
 | [Break My Heart](https://open.spotify.com/track/6KMkEX692kOyqJ7WuPhRab) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart](https://open.spotify.com/album/0kNjRXrrBrXGUFkGhf2HVI) | 2:59 | 2021-01-08 |  |
+| [break up with me](https://open.spotify.com/track/0b23sw8Yo8I44tmsh8B19K) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [break up with me](https://open.spotify.com/album/27iWoB3vd2JNFmgbtttwKE) | 2:32 | 2024-08-23 |  |
 | [Breakfast in Bed](https://open.spotify.com/track/3c5sWNPKG69X0JcGUgbBOj) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Breakfast in Bed](https://open.spotify.com/album/24aSDb1blluKkN02Wy4Tl4) | 2:43 | 2022-10-28 |  |
 | [breath away](https://open.spotify.com/track/1oic0Wedm3XeHxwaxmwO91) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [pretty](https://open.spotify.com/album/2xpgb8R0BXVS2e1XnXI9xZ) | 2:46 | 2024-02-09 |  |
 | [Breathe](https://open.spotify.com/track/6rRCyEuP7uDdX7ste026ky) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:06 | 2022-05-06 |  |
@@ -235,6 +236,7 @@
 | [Found You First](https://open.spotify.com/track/4JNwx0jxdd9AzfBX3FSoWg) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Found You First](https://open.spotify.com/album/5RSzGDEaajxu1IhT0HuzQk) | 2:43 | 2024-06-21 |  |
 | [Four Walls](https://open.spotify.com/track/1wX3WY9nQ3D4vRUR9Vmfl6) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Four Walls](https://open.spotify.com/album/5ntMnnFCM2LtENrZOoeQxp) | 3:33 | 2019-11-05 | 2020-02-12 |
 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 | 2020-03-13 | 2021-05-12 |
+| [Freckles](https://open.spotify.com/track/4xL8sLKGblXvvIUJb4kEQV) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Freckles](https://open.spotify.com/album/3qBdcWx8e9slG982z16f47) | 2:59 | 2024-08-23 |  |
 | [FRESH OUT OF LOVE](https://open.spotify.com/track/5CKtwvWxx2CZzPmDAhF4gL) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [FRESH OUT OF LOVE](https://open.spotify.com/album/3plC8Tnhm7VA6mPq4fVjdd) | 2:48 | 2020-02-14 | 2021-05-12 |
 | [Friends](https://open.spotify.com/track/2JMFhHqiGQGyHqlfrpLJSO) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [Life Ain't Always Roses](https://open.spotify.com/album/1AkOelCdJJKFvWKsaOz3Ct) | 3:15 | 2019-08-27\* | 2019-11-11 |
 | [frog](https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [frog](https://open.spotify.com/album/4kejzAQudxr4R5CNfvbwmz) | 3:26 | 2022-10-21 |  |
@@ -495,6 +497,7 @@
 | [NO BAD DAYS \(feat\. Collett\)](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Collett](https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 2:53 | 2023-03-06 |  |
 | [No Cryin \(feat\. Future\)](https://open.spotify.com/track/6P0Ki6KDNiCo03buu3fYGt) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Cryin \(feat\. Future\)](https://open.spotify.com/album/2Dav5M9HCbEhCWp6Rn4BKz) | 3:24 | 2019-11-01 | 2021-05-12 |
 | [No Fears \(feat\. Wretch 32\)](https://open.spotify.com/track/4GxAN3yX09xAulYecL53us) | [169](https://open.spotify.com/artist/39YXk0KLGQwWNHIAkrQngR), [Wretch 32](https://open.spotify.com/artist/0T2sGLJKge2eaFmZJxX7sq) | [No Fears \(feat\. Wretch 32\)](https://open.spotify.com/album/0cZIOQKwbIoxFlRdzaEVdT) | 3:07 | 2019-11-18 | 2020-02-12 |
+| [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-08-23 |  |
 | [no song without you](https://open.spotify.com/track/3KKUf8F2hktFscLgbH4YwR) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/4Mxwp3dJCIEJOqQ4O03BMa) | 2:41 | 2020-06-12 | 2021-05-12 |
 | [Nobody's Baby](https://open.spotify.com/track/1Hb6xEZ9eEmalnpNoPTwcc) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Nobody's Baby](https://open.spotify.com/album/6AyXzG3yU8Xm9IFYS15Fdu) | 2:35 | 2024-07-25 |  |
 | [Normal to Feel](https://open.spotify.com/track/2WdmFuT1675qqu7o4tbn1d) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Normal to Feel](https://open.spotify.com/album/3nW4GaITknS7y4RZBxB0SH) | 3:20 | 2022-08-12 |  |

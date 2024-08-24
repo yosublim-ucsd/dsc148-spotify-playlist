@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: KAROL G
 
-349 songs - 18 hr 20 min
+350 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-08-11 | 2023-10-01 |
 | [Me Voy Contigo](https://open.spotify.com/track/4h5vzpVOjyE6iDL87aQe4b) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Me Voy Contigo](https://open.spotify.com/album/3s1n86YHWRonvhfxLQrNln) | 3:28 | 2023-08-18 | 2023-09-16 |
 | [Mentiiira](https://open.spotify.com/track/2zppHPDwkbCtBaAjSocBOV) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Mentiiira](https://open.spotify.com/album/0H7P5EiyRcRalskbMv1Vw1) | 3:00 | 2023-09-01 | 2023-10-01 |
-| [Mercurio \(Carta No\. 9\)](https://open.spotify.com/track/5FaqhKXmYd7ghszotxHSz2) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Cartas](https://open.spotify.com/album/4EuhOKXm0yL1Zkd6wVbm8r) | 3:08 | 2024-05-03 |  |
+| [Mercurio \(Carta No\. 9\)](https://open.spotify.com/track/5FaqhKXmYd7ghszotxHSz2) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [Cartas](https://open.spotify.com/album/4EuhOKXm0yL1Zkd6wVbm8r) | 3:08 | 2024-05-03 | 2024-08-24 |
 | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/track/421IxIwggbLYx9XUSUJpZN) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mi Corazón \(feat\. Camilo\)](https://open.spotify.com/album/6Lmp3WKfNvIKLJuyED6gqJ) | 3:05 | 2024-01-19 | 2024-02-24 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:34 | 2023-08-11 |  |
 | [Mi Pecadito](https://open.spotify.com/track/5yrbKnKL9mKC61StX948w1) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Mi Pecadito](https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD) | 3:17 | 2023-03-17 | 2024-07-27 |
@@ -226,6 +226,7 @@
 | [No Escuches Esta Canción](https://open.spotify.com/track/6KAuZJVlWj9yOcw0CJTNKR) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [No Escuches Esta Canción](https://open.spotify.com/album/5X3VP73kaBFCmaVxEzxcCI) | 3:11 | 2024-06-14 | 2024-07-19 |
 | [No Fue Para Tanto](https://open.spotify.com/track/3KkT1C9O2umVjUdq3O5Mbd) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [No Fue Para Tanto](https://open.spotify.com/album/3JKkmAn5BvEfd0OyCfDn4a) | 3:33 | 2024-04-26 | 2024-06-15 |
 | [No Fue Un Tiro De Suerte](https://open.spotify.com/track/3CXs1ePFimpOdhvU7je7i5) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [VIDA](https://open.spotify.com/album/3ocvapzDsPJrziwnlD7I82) | 4:21 | 2023-05-19 | 2023-07-08 |
+| [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 | 2024-08-23 |  |
 | [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 | 2023-03-17 | 2023-10-30 |
 | [No Me Hagas Seguir](https://open.spotify.com/track/6Ylv3sfQITiT3szgTKAXE6) | [More](https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi) | [No Me Hagas Seguir](https://open.spotify.com/album/2uFQET4CktuiLQjLKDFXQk) | 2:51 | 2024-07-19 |  |
 | [No Molestar](https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:37 | 2024-05-10 | 2024-07-19 |

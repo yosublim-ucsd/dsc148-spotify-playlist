@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 746534,
+  "num_followers": 746921,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
+    },
+    {
+      "added_at": "2024-08-19 08:51:16",
+      "album": {
         "name": "Cuando Te Vi | CROSSOVER #5",
         "url": "https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI"
       },
@@ -499,18 +515,18 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 209493,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
       "added_at": "2024-08-19 08:51:16",
@@ -599,18 +615,18 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
-        "name": "UWAIE",
-        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 172427,
-      "name": "UWAIE",
-      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+      "duration_ms": 224693,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
     },
     {
       "added_at": "2024-08-19 08:51:16",
@@ -631,26 +647,6 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
-        "name": "El Conjuntito",
-        "url": "https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ"
-      },
-      "artists": [
-        {
-          "name": "El Bobe",
-          "url": "https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 158711,
-      "name": "El Conjuntito",
-      "url": "https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf"
-    },
-    {
-      "added_at": "2024-08-19 08:51:16",
-      "album": {
         "name": "FRIKI",
         "url": "https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL"
       },
@@ -667,18 +663,22 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+        "name": "El Conjuntito",
+        "url": "https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "El Bobe",
+          "url": "https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
         }
       ],
-      "duration_ms": 224693,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
+      "duration_ms": 158711,
+      "name": "El Conjuntito",
+      "url": "https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf"
     },
     {
       "added_at": "2024-08-19 08:51:16",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
+        "name": "Tengo Un Plan",
+        "url": "https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6"
+      },
+      "artists": [
+        {
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+        }
+      ],
+      "duration_ms": 189282,
+      "name": "Tengo Un Plan",
+      "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
+    },
+    {
+      "added_at": "2024-08-19 08:51:16",
+      "album": {
         "name": "Guay",
         "url": "https://open.spotify.com/album/7DZzZGds5TtGakkQlGbfSl"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 210788,
       "name": "Guay",
       "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
-    },
-    {
-      "added_at": "2024-08-19 08:51:16",
-      "album": {
-        "name": "Tengo Un Plan",
-        "url": "https://open.spotify.com/album/3Y4j8ji75Vbudf59grMDr6"
-      },
-      "artists": [
-        {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
-        }
-      ],
-      "duration_ms": 189282,
-      "name": "Tengo Un Plan",
-      "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
     },
     {
       "added_at": "2024-08-19 08:51:16",
@@ -951,6 +951,26 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
+        "name": "OTRA NOCHE",
+        "url": "https://open.spotify.com/album/5uDy85JsRMpZmcc8RhsZmT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "OTRA NOCHE",
+      "url": "https://open.spotify.com/track/0zpIdU4Q65JlzyueQQnx7Q"
+    },
+    {
+      "added_at": "2024-08-19 08:51:16",
+      "album": {
         "name": "EL PANTALON (RUMBAS)",
         "url": "https://open.spotify.com/album/0TtfzOFvZu1xudp1Of4uRa"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 208386,
       "name": "No Digas Na",
       "url": "https://open.spotify.com/track/2iPoYcC5x7gylwRyCwzFxI"
-    },
-    {
-      "added_at": "2024-08-19 08:51:16",
-      "album": {
-        "name": "OTRA NOCHE",
-        "url": "https://open.spotify.com/album/5uDy85JsRMpZmcc8RhsZmT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "OTRA NOCHE",
-      "url": "https://open.spotify.com/track/0zpIdU4Q65JlzyueQQnx7Q"
     },
     {
       "added_at": "2024-08-19 08:51:16",

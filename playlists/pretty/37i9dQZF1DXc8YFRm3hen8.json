@@ -1,6 +1,6 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 175187,
+  "num_followers": 175197,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 233839,
+      "name": "Pensamientos",
+      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
         "name": "Otras Canciones",
         "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 237873,
       "name": "De Nada Sirve",
       "url": "https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 233839,
-      "name": "Pensamientos",
-      "url": "https://open.spotify.com/track/1H7ktqkQx1PIuPfNtqvaBs"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "Libertad",
-        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 283884,
-      "name": "Por Mil Noches",
-      "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
         "name": "Tango 4",
         "url": "https://open.spotify.com/album/0JTWqpFlJobaZW5V0Y0R5T"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 283884,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
         "name": "Esp\u00edritu",
         "url": "https://open.spotify.com/album/2ZG0Q9JOUIcQGyDOFTAKYm"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 238506,
       "name": "Sigue Girando",
       "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
-        "name": "Al Parecer Todo Ha Sido una Trampa",
-        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        },
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 183882,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -919,6 +899,26 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
+        "name": "Al Parecer Todo Ha Sido una Trampa",
+        "url": "https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        },
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 183882,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/7jFRaaxunWW0nFabUC5Omt"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
         "name": "Locales Calientes",
         "url": "https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC"
       },
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "Voragine",
-        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
+        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Cae el Sol",
-      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
+      "duration_ms": 321640,
+      "name": "El Tiempo No Para - Live In Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -1023,18 +1023,34 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
-        "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
+        "name": "Voragine",
+        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 321640,
-      "name": "El Tiempo No Para - Live In Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/1PBFuWxDnAj0iRkPaePboA"
+      "duration_ms": 281386,
+      "name": "Cae el Sol",
+      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 181782,
+      "name": "DESCARTABLE",
+      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -1055,22 +1071,6 @@
       "duration_ms": 189551,
       "name": "Hablar de Flores",
       "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
-        "name": "DESCARTABLE",
-        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 181782,
-      "name": "DESCARTABLE",
-      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
     },
     {
       "added_at": "2024-07-25 18:13:41",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-07-25 18:13:41",
       "album": {
+        "name": "La lengua popular",
+        "url": "https://open.spotify.com/album/5MQ7xWpg5tP0uebwdcdyYk"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "Los chicos",
+      "url": "https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi"
+    },
+    {
+      "added_at": "2024-07-25 18:13:41",
+      "album": {
         "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
         "url": "https://open.spotify.com/album/01hyoIUPxigjnhfreQOecH"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 283466,
       "name": "Tr\u00e1eme la Noche (Bring on the Night) (with Andy Summers)",
       "url": "https://open.spotify.com/track/0wMditvMpFP9aYzW3kDWnw"
-    },
-    {
-      "added_at": "2024-07-25 18:13:41",
-      "album": {
-        "name": "La lengua popular",
-        "url": "https://open.spotify.com/album/5MQ7xWpg5tP0uebwdcdyYk"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Los chicos",
-      "url": "https://open.spotify.com/track/6UdCeS92BsXBNoITIxVqdi"
     },
     {
       "added_at": "2024-07-25 18:13:41",

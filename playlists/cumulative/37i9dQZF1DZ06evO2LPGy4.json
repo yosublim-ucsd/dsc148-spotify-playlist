@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "This Is Gerardo Ortiz. Los temas esenciales, todos en una lista.",
+  "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
   "name": "This Is Gerardo Ortiz",
   "tracks": [
     {
@@ -572,10 +572,32 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 209026,
       "name": "El Jefe F",
       "url": "https://open.spotify.com/track/705IMuLUe70oHrelLFhmmC"
+    },
+    {
+      "album": {
+        "name": "Y Lo Que Falta",
+        "url": "https://open.spotify.com/album/7EQkzeNShMds3OuAn8VKRE"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209426,
+      "name": "El Jefe F",
+      "url": "https://open.spotify.com/track/4eGikg72FZdoSXj9k0Zd64"
     },
     {
       "album": {
@@ -746,7 +768,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 180137,
       "name": "En el Pedir Est\u00e1 el Dar",
       "url": "https://open.spotify.com/track/6TwhEVtDU2LZFnkwEPrqed"

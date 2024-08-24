@@ -1,12 +1,12 @@
 {
-  "description": "This is Ludmila Ferber. The essential tracks, all in one playlist.",
-  "num_followers": 22795,
+  "description": "This is Ludmila Ferber. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 22801,
   "original_name": "This Is Ludmila Ferber",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABJmS8PxN77iKTyfUUXfgx6",
+  "snapshot_id": "ZsZ/gAAAAADiEh+k0Go8fBOF45O7kp3+",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cantarei para Sempre",
-        "url": "https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 339125,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/735gPtlF2NEUlufXHAy2aD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Novo Come\u00e7o",
         "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 385307,
       "name": "Calma",
       "url": "https://open.spotify.com/track/6RzDXduerzvImdPfuJz0fr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cantarei para Sempre",
+        "url": "https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 339125,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/735gPtlF2NEUlufXHAy2aD"
     },
     {
       "added_at": null,
@@ -723,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 2: Un\u00e7\u00e3o Sem Limites",
+        "url": "https://open.spotify.com/album/3cawXkVKiZyWjY9HSVfN7Z"
       },
       "artists": [
-        {
-          "name": "Minist\u00e9rio Koinonya de Louvor",
-          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
-        },
         {
           "name": "Ludmila Ferber",
           "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 200176,
-      "name": "Maior Amor",
-      "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
+      "duration_ms": 236893,
+      "name": "Nos Altos Montes",
+      "url": "https://open.spotify.com/track/5ejbWtm9kKAhKm74mfSRhO"
     },
     {
       "added_at": null,
@@ -755,6 +751,26 @@
       "duration_ms": 163893,
       "name": "O Perd\u00e3o",
       "url": "https://open.spotify.com/track/0pd77nLXCJsbyH2pLtDjmH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o 5 - Quebrando as Maldi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/2GNk5f7VzqFBea2pmEnOaR"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Koinonya de Louvor",
+          "url": "https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 200176,
+      "name": "Maior Amor",
+      "url": "https://open.spotify.com/track/3lfNmjigw0revdL0xkZlxu"
     },
     {
       "added_at": null,
@@ -807,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 2: Un\u00e7\u00e3o Sem Limites",
-        "url": "https://open.spotify.com/album/3cawXkVKiZyWjY9HSVfN7Z"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Nos Altos Montes",
-      "url": "https://open.spotify.com/track/5ejbWtm9kKAhKm74mfSRhO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rastros de Amor (ao Vivo)",
         "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 369853,
-      "name": "Hoje Eu S\u00f3 Quero Te Adorar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Q8voR558znVrDCaeCadPs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adora\u00e7\u00e3o 7 - Filho do Homem",
         "url": "https://open.spotify.com/album/6PHskQPBNPz0blL2d5MCit"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 201430,
       "name": "Totalmente aos Teus P\u00e9s",
       "url": "https://open.spotify.com/track/3CP0zNIBK6h9vXYBe4m7ob"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 369853,
+      "name": "Hoje Eu S\u00f3 Quero Te Adorar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Q8voR558znVrDCaeCadPs"
     },
     {
       "added_at": null,

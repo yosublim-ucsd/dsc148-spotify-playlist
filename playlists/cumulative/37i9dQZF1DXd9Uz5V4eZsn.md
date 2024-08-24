@@ -4,15 +4,17 @@
 
 > Ambient Indian sounds for your daily Yoga practise.
 
-75 songs - 7 hr 56 min
+77 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All Is Well](https://open.spotify.com/track/7D8qkK690DvHGcLnBZNsdw) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Archit & Smit](https://open.spotify.com/artist/7rUtLZngbHLLqBfA0QFRPc) | [Songs Of The River \- Ganga \(Soundtrack\)](https://open.spotify.com/album/4lDuBGAfZ2ZuG180wwvezn) | 3:04 | 2023-06-30 |  |
 | [Ashirwad Ki Sarhad](https://open.spotify.com/track/3g6ya03vVNzwHD3YHeJJrU) | [Kshitij Lata](https://open.spotify.com/artist/0MZblRhmt61Jd2QRnuLhG0) | [Ashirwad Ki Sarhad](https://open.spotify.com/album/3toBKWAaiGbayskG5vf6uF) | 5:33 | 2024-02-19 |  |
+| [Awakened Hope](https://open.spotify.com/track/5Ro7n4nekpKf0FyVD7ulnv) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Break of Dawn](https://open.spotify.com/album/6crfzN6rxNXy9MCLs0Ma26) | 6:12 | 2024-08-23 |  |
 | [Banaras Flute Meditation](https://open.spotify.com/track/1rxJhcFfnK2bHkLHZTIXJQ) | [Vic Vision](https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0), [Vedic Moon](https://open.spotify.com/artist/5sDjAQydhCH4cMMsWRJBI7) | [Banaras Flute Meditation](https://open.spotify.com/album/6oELvDJjCasbu0xCN5eu6g) | 3:14 | 2023-06-30 |  |
 | [Bay of Bengal](https://open.spotify.com/track/1SRz2uFfZpvJXfOHPED9iT) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Yoga \- 7 Chakra "Muladhara"](https://open.spotify.com/album/1RcXyvXp6I7tWoRw6UwixR) | 4:02 | 2023-06-30 |  |
 | [Bhupali](https://open.spotify.com/track/3hfh3VfPtFVtB9KnuNtJXo) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 3:34 | 2023-06-30 |  |
+| [Break of Dawn](https://open.spotify.com/track/4A4jaqRBzOppLqNF1VYU3y) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Ravichandra Kulur](https://open.spotify.com/artist/0omRr17N8KjinEiNh5hRTF), [Nishant Shekar](https://open.spotify.com/artist/2i89PLXxOww7jBL2Z4IQWp) | [Break of Dawn](https://open.spotify.com/album/6crfzN6rxNXy9MCLs0Ma26) | 4:51 | 2024-08-23 |  |
 | [Calm](https://open.spotify.com/track/3uHdKaAsG53vKxp5hKYxYU) | [Govinda](https://open.spotify.com/artist/0il1nryhnpaNrP63qYWWCC) | [Worlds Within](https://open.spotify.com/album/6ckfZUWTBzZGKzEzNLToET) | 5:12 | 2023-06-30 |  |
 | [Compassion](https://open.spotify.com/track/4DVaz0kvAfkldtsqsA83Kw) | [Dalai Lama](https://open.spotify.com/artist/6RXfTUnrji43vpU1AdK4up) | [Inner World](https://open.spotify.com/album/0iky000jFMyU48s9KMNc2t) | 3:55 | 2023-06-30 | 2024-04-19 |
 | [Compassion](https://open.spotify.com/track/7hJaVrUlGrWTEPhEyBuiSF) | [Dalai Lama](https://open.spotify.com/artist/6RXfTUnrji43vpU1AdK4up) | [Inner World](https://open.spotify.com/album/6GRk7FY5pMbxUy7bOthNMW) | 3:55 | 2024-03-12 |  |

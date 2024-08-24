@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Devara",
-  "num_followers": 130644,
+  "num_followers": 132147,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsLWRQAAAAASwurwBPIIczPChDSEeZCd",
+  "snapshot_id": "ZshKfQAAAABmz6C3J4WwpgimvuSRiORf",
   "tracks": [
     {
       "added_at": "2024-08-05 12:07:26",
@@ -31,6 +31,26 @@
       "duration_ms": 222063,
       "name": "Chuttamalle (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
+    },
+    {
+      "added_at": "2024-08-23 08:38:21",
+      "album": {
+        "name": "Indra",
+        "url": "https://open.spotify.com/album/6DCevkH61bKK4qIxQV50eB"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Mallikarjun",
+          "url": "https://open.spotify.com/artist/40Ce6P4AGMq3NXCDXVSZaa"
+        }
+      ],
+      "duration_ms": 351557,
+      "name": "Ghallu Ghallu",
+      "url": "https://open.spotify.com/track/4Bb4Vgzp1kAebqI7KnDFPn"
     },
     {
       "added_at": "2024-06-16 12:40:05",
@@ -75,30 +95,6 @@
       "duration_ms": 250761,
       "name": "Garam Garam (From \"Saripodhaa Sanivaaram\")",
       "url": "https://open.spotify.com/track/0qdiNx11tQtjFCqbko9i2k"
-    },
-    {
-      "added_at": "2024-08-09 13:09:28",
-      "album": {
-        "name": "Murari",
-        "url": "https://open.spotify.com/album/6kl5gAF0jqGb9iKdLVGBHr"
-      },
-      "artists": [
-        {
-          "name": "Jikki",
-          "url": "https://open.spotify.com/artist/1cXMzsmYVsprIfgnqOmgRg"
-        },
-        {
-          "name": "Sunitha",
-          "url": "https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80"
-        },
-        {
-          "name": "Sandhya",
-          "url": "https://open.spotify.com/artist/5pBJLl0z3HoPLzPI95P6PN"
-        }
-      ],
-      "duration_ms": 321619,
-      "name": "Alanati Ramachandrudu",
-      "url": "https://open.spotify.com/track/2SyVdOenmbDSjUGoFprS2x"
     },
     {
       "added_at": "2024-08-09 13:11:08",
@@ -175,6 +171,26 @@
       "duration_ms": 232602,
       "name": "SteppaMaar (From \"Double ISMART\")(Telugu)",
       "url": "https://open.spotify.com/track/7vLR2TSzHEVUNlKm5dcYpo"
+    },
+    {
+      "added_at": "2024-08-23 08:38:21",
+      "album": {
+        "name": "Indra",
+        "url": "https://open.spotify.com/album/6DCevkH61bKK4qIxQV50eB"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        }
+      ],
+      "duration_ms": 320282,
+      "name": "Dai Dai Dhamma",
+      "url": "https://open.spotify.com/track/02VVOQId2O83I5hLJ1GFmH"
     },
     {
       "added_at": "2024-07-30 09:22:06",
@@ -587,30 +603,6 @@
       "duration_ms": 204181,
       "name": "Samayama (From \"Hi Nanna\")",
       "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Hukum (From \"Jailer\")",
-        "url": "https://open.spotify.com/album/72CICJmh1qsqSPbU4xA7Le"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Dinker kalvala",
-          "url": "https://open.spotify.com/artist/7HwltF8ExwWx43i230aJXM"
-        },
-        {
-          "name": "Bhaskarabhatla",
-          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
-        }
-      ],
-      "duration_ms": 207647,
-      "name": "Hukum (From \"Jailer\")",
-      "url": "https://open.spotify.com/track/1VhFZ2cCflcwp74w5Vzv7y"
     },
     {
       "added_at": "2023-08-30 10:44:11",

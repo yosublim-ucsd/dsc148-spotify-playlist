@@ -4,7 +4,7 @@
 
 > Grab your coffee and ease into the day with this light blend.
 
-742 songs - 1 day 20 hr 27 min
+743 songs - 1 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Champagne Supernova \(OurVinyl Sessions\)](https://open.spotify.com/track/158cW9xy5JPL1l9mfdTuSI) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Champagne Supernova \(OurVinyl Sessions\)](https://open.spotify.com/album/7vntpiKkI45NgUgjdAxeAY) | 4:14 | 2021-12-17 | 2022-07-03 |
 | [Change It All](https://open.spotify.com/track/58h15p2z6LMURhFn3G18a4) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Change It All](https://open.spotify.com/album/1dEqHzlsanDYiakbPgnl7s) | 4:07 | 2022-01-24 | 2022-04-19 |
 | [Change It All](https://open.spotify.com/track/7lWKpA4JZrGVqYURuz7cnu) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Change It All](https://open.spotify.com/album/0dkUKtlAdUxzlhmvS4BVmU) | 4:07 | 2022-07-22 | 2023-03-29 |
-| [Chasing Dreams](https://open.spotify.com/track/3cTsh9sZdHHV6Syjcwg8VW) | [Dekleyn](https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI) | [Chasing Dreams](https://open.spotify.com/album/1z1vP6EpqNYSaDWHBQfiLN) | 4:17 | 2022-01-24 |  |
+| [Chasing Dreams](https://open.spotify.com/track/3cTsh9sZdHHV6Syjcwg8VW) | [Dekleyn](https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI) | [Chasing Dreams](https://open.spotify.com/album/1z1vP6EpqNYSaDWHBQfiLN) | 4:17 | 2022-01-24 | 2024-08-24 |
 | [Cheap Date](https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Starfire](https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB) | 3:10 | 2021-12-17 |  |
 | [Chew On My Heart \- Piano & Voice](https://open.spotify.com/track/4VyOYqqy4sXCKsdx1mBDBc) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chew On My Heart \(Piano & Voice\)](https://open.spotify.com/album/3rZWc6tU0jEtwtrT3o2NvQ) | 3:41 | 2021-12-17 | 2022-06-15 |
 | [Cigarette \- Acoustic](https://open.spotify.com/track/45nYpQ2IXQQEVP5npi01wO) | [Julian Lamadrid](https://open.spotify.com/artist/60rE8L4eGCSSaJCS1kqNKy) | [Cigarette \(Acoustic\)](https://open.spotify.com/album/6B0nmuREkryDtcDS0jFdPx) | 3:22 | 2022-01-24 | 2022-04-02 |
@@ -637,6 +637,7 @@
 | [The Boy Who Cried Wolf](https://open.spotify.com/track/02KgB1Qyk4PrFweUMGl9NO) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:16 | 2022-01-24 | 2022-04-20 |
 | [The Chocolate Cake Song](https://open.spotify.com/track/6HixN5KQdFqqPwbIgT9yXh) | [Wes Fowler](https://open.spotify.com/artist/5ybg4SrLDI6OjxoQztI7aS) | [The Chocolate Cake Song](https://open.spotify.com/album/4sShHWJ8Z7hMAtoBKJIWs8) | 2:38 | 2021-12-17 | 2022-04-21 |
 | [The City](https://open.spotify.com/track/58gvTZSWei1plTDPQIqXfD) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [The City](https://open.spotify.com/album/1XbD968N9Kh3NsAG5sDYMS) | 3:41 | 2021-12-17 | 2023-04-04 |
+| [The Hard Way](https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [The Hard Way](https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N) | 3:56 | 2024-08-23 |  |
 | [The Hardest Part](https://open.spotify.com/track/4Gcikn8y1cLRXki0xguC5G) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj), [Hadley Kennary](https://open.spotify.com/artist/2Iskp0KzBnBOBDKrQbHo6f) | [The Hardest Part](https://open.spotify.com/album/3lLhc2xpQ3LsBMYVozns7L) | 4:20 | 2021-12-17 | 2022-04-21 |
 | [The Heart of Life](https://open.spotify.com/track/78DwRIo6Vj6wqteyerGetr) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:18 | 2021-12-17 |  |
 | [The Last Song On Earth](https://open.spotify.com/track/6n8QYU46m0dO6HIKG0GN8S) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Two Songs For Now](https://open.spotify.com/album/6iU4TOsjA7CmhOb7XgXp40) | 3:53 | 2021-12-17 | 2022-07-29 |

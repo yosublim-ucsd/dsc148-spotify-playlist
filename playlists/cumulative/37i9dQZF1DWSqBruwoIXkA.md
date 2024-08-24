@@ -2,9 +2,9 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> heartbreak feels good in a place like this\. Cover: Gracie Abrams
+> heartbreak feels good in a place like this\. Cover: Thomas Day
 
-780 songs - 1 day 19 hr 2 min
+782 songs - 1 day 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 | 2023-04-07 | 2023-08-05 |
 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 | 2021-12-17 |  |
 | [a little hope never hurt](https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7) | 2:30 | 2022-07-01 | 2022-08-24 |
-| [A Tree Falls](https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [A Tree Falls](https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn) | 3:13 | 2024-08-02 |  |
+| [A Tree Falls](https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [A Tree Falls](https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn) | 3:13 | 2024-08-02 | 2024-08-24 |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-10-26 |  |
 | [afraid of heights](https://open.spotify.com/track/1NBH8vdNQ2qG7U8VMntBLg) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [afraid of heights](https://open.spotify.com/album/5x6BZ6XJ2YVcwE6l26yy6p) | 2:34 | 2023-09-08 | 2023-09-16 |
 | [After Dark](https://open.spotify.com/track/26b2184K8AbuALqmkfznSl) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6JyxbY1JEmqBkLdxr1UdxY) | 3:28 | 2024-06-08 | 2024-06-29 |
@@ -182,6 +182,7 @@
 | [drunk text me](https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [drunk text me](https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU) | 3:33 | 2022-01-07 | 2022-07-29 |
 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 | 2022-07-22 | 2024-04-19 |
 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 | 2024-04-05 | 2024-04-27 |
+| [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 | 2024-08-23 |  |
 | [Dumb Love](https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Dumb Love](https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8) | 3:27 | 2021-12-17 | 2023-04-01 |
 | [Easily](https://open.spotify.com/track/2k9N4caeCIJLOWwWwssrEM) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [A Song For Every Moon](https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx) | 3:30 | 2022-01-07 | 2022-03-17 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-12-17 |  |
@@ -553,6 +554,7 @@
 | [Panic Attacks in Paradise](https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Panic Attacks in Paradise / Maggots](https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH) | 3:04 | 2021-12-17 | 2022-05-20 |
 | [paper](https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper](https://open.spotify.com/album/7u8gI4yhs4gXvSjTdwOgaw) | 2:47 | 2023-01-13 | 2023-04-01 |
 | [paper \- stripped](https://open.spotify.com/track/7MIrToiNa8NeVcvK6TM43q) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [paper \(stripped\)](https://open.spotify.com/album/0OpbH0tRsFZP7hOow1kbAU) | 2:40 | 2023-03-17 | 2023-03-25 |
+| [Paper Cup](https://open.spotify.com/track/6qYIxqCTc7JSpLrJEOMyML) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Paper Cup](https://open.spotify.com/album/0NQmRiFIkoGduRJ8Prnggn) | 3:16 | 2024-08-23 |  |
 | [PARACHUTES](https://open.spotify.com/track/0yOZMyoTHgQhzYKJDVPWbA) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [PARACHUTES](https://open.spotify.com/album/5tPWEKJCUzH2sDV52i3Qcc) | 2:44 | 2023-01-13 | 2023-01-21 |
 | [Paris with Somebody Else](https://open.spotify.com/track/7youPYC7DjNzMeYHncoOeY) | [Deza](https://open.spotify.com/artist/2HoaVzOMwwXNauX5cjdXwg) | [Paris with Somebody Else](https://open.spotify.com/album/6Xw5EhAVfEovS2HoWa95Lh) | 2:30 | 2022-05-27 | 2022-05-29 |
 | [Part Of Me](https://open.spotify.com/track/22UYp7aAy1XmIYZ1GsnJuB) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Part Of Me](https://open.spotify.com/album/5ELHOuo4BjMkzirsbyQnsv) | 3:22 | 2023-03-31 |  |
@@ -758,7 +760,7 @@
 | [white lies](https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [songs written for piano](https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O) | 2:27 | 2022-12-06 | 2023-02-18 |
 | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/track/26uXIvU5DdJLPUIj8pK9w7) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Who Do I Call Now? \(Hellbent\)](https://open.spotify.com/album/1Wg1RWT3tsei388hlJUUEG) | 3:10 | 2024-03-08 |  |
 | [Who I Am Without You](https://open.spotify.com/track/42NmFnYg5iTlRxgfa54Q7K) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [Who I Am Without You](https://open.spotify.com/album/5jFzlHcWzlQR0Q3kHvO1ax) | 2:32 | 2023-03-17 | 2023-04-16 |
-| [Why](https://open.spotify.com/track/6xy9PGUqhdoTrPTdZodMfs) | [Adrey](https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX) | [Why](https://open.spotify.com/album/05OKofNBUYy21sZlJsej2C) | 3:26 | 2024-08-16 |  |
+| [Why](https://open.spotify.com/track/6xy9PGUqhdoTrPTdZodMfs) | [Adrey](https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX) | [Why](https://open.spotify.com/album/05OKofNBUYy21sZlJsej2C) | 3:26 | 2024-08-16 | 2024-08-24 |
 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 | 2022-05-04 | 2023-02-18 |
 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-11-18 | 2023-03-04 |
 | [Why I Broke Up With You](https://open.spotify.com/track/21RiG0Y6cm7M7qN4r4BgGW) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Why I Broke Up With You](https://open.spotify.com/album/2BhCsXcXD3FBgC38hej4p5) | 2:43 | 2022-07-15 | 2022-08-13 |

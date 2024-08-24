@@ -1397,6 +1397,24 @@
     },
     {
       "album": {
+        "name": "Seguimos Dejando Huella",
+        "url": "https://open.spotify.com/album/3ucXDQJpXwVH0rm5Ra0Wxw"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210777,
+      "name": "El Chapul\u00edn",
+      "url": "https://open.spotify.com/track/0CPzztZQhgwvLy1X5acoG6"
+    },
+    {
+      "album": {
         "name": "El Cincuent\u00f3n",
         "url": "https://open.spotify.com/album/25ZUOfikyBpQg7SfnfrCjG"
       },
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 152646,
       "name": "L\u00e1grimas De Amor",
       "url": "https://open.spotify.com/track/4qs5X0Iujdxb83U6KUdG3o"

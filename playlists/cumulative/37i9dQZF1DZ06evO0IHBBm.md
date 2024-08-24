@@ -2,9 +2,9 @@
 
 ### [This Is Damares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0IHBBm)
 
-> This is Damares\. The essential tracks, all in one playlist.
+> This is Damares\. Todos os maiores hits em uma só playlist.
 
-58 songs - 5 hr 19 min
+59 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Sou Teu Deus](https://open.spotify.com/track/2Uhx9tWSDxNxi5SXTRnSD2) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 4:20 | 2023-07-09 |  |
 | [Superação](https://open.spotify.com/track/2SWRyMIpGHBzU6Vo24AE4J) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 5:57 | 2023-07-09 | 2023-09-01 |
 | [Terceiro Céu](https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 6:28 | 2023-07-09 |  |
+| [Tudo Isso Vai Passar \- Ao Vivo](https://open.spotify.com/track/5EJIAQL7BEMaznS7xlCEyH) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Tudo Isso Vai Passar \(Ao Vivo\)](https://open.spotify.com/album/45U92rIVHr0cmdz8G422VS) | 4:38 | 2024-08-24 |  |
 | [Tô na Estrada](https://open.spotify.com/track/6GUBGxoOA48cTTeOplSlBa) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 3:41 | 2023-07-09 |  |
 | [Um novo Vencedor](https://open.spotify.com/track/5HKjGzpALqUicGjD0vzS1G) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 6:10 | 2023-07-09 |  |
 | [Vai Ficar Bem](https://open.spotify.com/track/1UOs25N5hEnp4Ic6NeJAva) | [Marias](https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM), [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Vai Ficar Bem](https://open.spotify.com/album/4eyi0ltwprtwvtFB88Q8Fg) | 1:56 | 2024-04-13 |  |

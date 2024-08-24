@@ -1,13 +1,29 @@
 {
   "description": "The jam scene is alive and well. Cover: Kendall Street Company",
-  "num_followers": 33365,
+  "num_followers": 33396,
   "original_name": "Modern Jam Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAADTO6QShWDYYHyTmsipe1+H",
+  "snapshot_id": "ZsgJQAAAAADdYWpgRaeqy8MutnytZZnf",
   "tracks": [
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Dangermuffin",
+        "url": "https://open.spotify.com/album/2y4DRNJCI177adj2JME16M"
+      },
+      "artists": [
+        {
+          "name": "Dangermuffin",
+          "url": "https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR"
+        }
+      ],
+      "duration_ms": 265490,
+      "name": "We Push Mountains",
+      "url": "https://open.spotify.com/track/3giJAslwDu6NiMDb45hJgs"
+    },
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/6UpsSL0inheFm3dLdR6KNw"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Dangermuffin",
-        "url": "https://open.spotify.com/album/2y4DRNJCI177adj2JME16M"
+        "name": "Bus Stop",
+        "url": "https://open.spotify.com/album/6JYVASVfp7oGbf8sTx9bb8"
       },
       "artists": [
         {
-          "name": "Dangermuffin",
-          "url": "https://open.spotify.com/artist/0gqa0RV1HWxAXldA7a7TtR"
+          "name": "King Llama",
+          "url": "https://open.spotify.com/artist/4QXPM31l5VL7RjlSqsVuoc"
         }
       ],
-      "duration_ms": 265490,
-      "name": "We Push Mountains",
-      "url": "https://open.spotify.com/track/3giJAslwDu6NiMDb45hJgs"
+      "duration_ms": 366812,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/7FPiMhp5LKyxY1KDGdsksV"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1047,22 +1063,6 @@
       "duration_ms": 270562,
       "name": "Staircase",
       "url": "https://open.spotify.com/track/4L5BJVlGVFCnd79kRxo2lH"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Frequilibrium",
-        "url": "https://open.spotify.com/album/1iyratUHXjtigpYB9CWRI0"
-      },
-      "artists": [
-        {
-          "name": "Frequilibrium",
-          "url": "https://open.spotify.com/artist/0JNcTTdEYtUhOfoWdhRbXM"
-        }
-      ],
-      "duration_ms": 278419,
-      "name": "Lemon Haze",
-      "url": "https://open.spotify.com/track/5xxDOqegRiTJ5n1LwePJx0"
     },
     {
       "added_at": "2023-04-21 04:01:00",

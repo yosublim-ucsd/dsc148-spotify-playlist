@@ -4,7 +4,7 @@
 
 > Sabrina Carpenter au top des nouveautés de la semaine !
 
-1,405 songs - 3 day 1 hr 41 min
+1,408 songs - 3 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Body \(feat\. Cash Cobain\)](https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Better Off Alone](https://open.spotify.com/album/0tvOiqQkHp6bqYzzPfPc4B) | 3:12 | 2024-05-16 | 2024-05-24 |
 | [Bodyguard](https://open.spotify.com/track/0WZIEenmTdjetpUh7iWWN1) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [GINGER BOY](https://open.spotify.com/album/1FT8GPtOWpPQzh7SyizD9i) | 2:31 | 2024-05-09 | 2024-05-17 |
 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 | 2024-08-22 |  |
+| [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 | 2024-08-22 |  |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-09 | 2024-05-17 |
 | [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 | 2024-08-08 | 2024-08-16 |
 | [Boots](https://open.spotify.com/track/7esGow9Wr88olbMx9gBwvh) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ) | 2:38 | 2024-06-06 | 2024-06-14 |
@@ -359,6 +360,7 @@
 | [Dream Girl](https://open.spotify.com/track/6sefxeZxiA07DbMSQB498S) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Dream Girl](https://open.spotify.com/album/0Alr1YFzlqXuaCswGzgFsj) | 3:39 | 2024-06-27 | 2024-07-05 |
 | [Drivin'](https://open.spotify.com/track/2xLCfxnW0HxrNpkFNtin7d) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Drivin'](https://open.spotify.com/album/67ZGAMyret2ZCdHzq0axeX) | 3:17 | 2024-07-18 | 2024-07-27 |
 | [Drogba](https://open.spotify.com/track/1eBBDrTE4NA35gOo8J2aRA) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Drogba](https://open.spotify.com/album/1P5bBLmv2a3ngGGs21EoeT) | 2:34 | 2024-05-16 | 2024-05-24 |
+| [Drugs You Should Try It](https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 3:28 | 2024-08-22 |  |
 | [Du feu](https://open.spotify.com/track/5xJDXbJCQO4WRbmfBJ0V2B) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 3:44 | 2024-05-02 | 2024-05-10 |
 | [Dull \(feat\. Softcult\)](https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dull \(feat\. Softcult\)](https://open.spotify.com/album/3gmtr45Lzb7GjzQFXe49C8) | 3:15 | 2024-08-08 | 2024-08-16 |
 | [Dès l'matin](https://open.spotify.com/track/0lzx4GqUQwmZrV6LuQX62h) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [Dès l'matin](https://open.spotify.com/album/6YLuPziACioeJsxR9VC1Fw) | 2:31 | 2024-06-13 | 2024-06-21 |
@@ -436,6 +438,7 @@
 | [Flava \(feat\. Coi Leray\)](https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:44 | 2024-05-23 | 2024-06-01 |
 | [Fleur de peau](https://open.spotify.com/track/613IWnVUD7F3AkcDwhgmVg) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E) | [Fleur de peau](https://open.spotify.com/album/2d7yq2lbMNVr1bftb0DvNk) | 3:33 | 2024-06-27 | 2024-07-05 |
 | [Fleur de peau](https://open.spotify.com/track/2g7GMJnh6t2bvAYknTPuBd) | [Kimberose](https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL) | [Fleur de peau](https://open.spotify.com/album/3cBkHaqUvtOA7ZAJmWGSY2) | 3:46 | 2024-07-18 | 2024-07-27 |
+| [Fleurs Fanées](https://open.spotify.com/track/49T0ep6z8zQG1m4iJfQPx3) | [Candice](https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR) | [Fleurs Fanées](https://open.spotify.com/album/0PUmXgFRh9hyIIG9cuBxPA) | 3:28 | 2024-08-22 |  |
 | [Flicker of Light](https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Flicker of Light](https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg) | 3:19 | 2024-08-15 | 2024-08-23 |
 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 | 2024-07-11 | 2024-07-19 |
 | [fly](https://open.spotify.com/track/2ylwgKfxMsZRdjmOqPvzNH) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [journée à paris](https://open.spotify.com/album/05ed2hnhQTx5YqZRCNqbJs) | 2:23 | 2024-05-30 | 2024-06-07 |

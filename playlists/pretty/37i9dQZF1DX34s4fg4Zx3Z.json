@@ -1,6 +1,6 @@
 {
   "description": "Nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Chi X\u00ea",
-  "num_followers": 23324,
+  "num_followers": 23363,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-08-22 17:00:00",
       "album": {
+        "name": "T\u00ecnh Y\u00eau M\u00f9a H\u1ea1",
+        "url": "https://open.spotify.com/album/1YB5YNsCsJjEpj6dOX8GoO"
+      },
+      "artists": [
+        {
+          "name": "Jang Mi",
+          "url": "https://open.spotify.com/artist/0gNlSfGp7s6Wg0H2cJIzno"
+        }
+      ],
+      "duration_ms": 204713,
+      "name": "T\u00ecnh Y\u00eau M\u00f9a H\u1ea1",
+      "url": "https://open.spotify.com/track/3C1zqredNJEhL9rK9Sau5C"
+    },
+    {
+      "added_at": "2024-08-22 17:00:00",
+      "album": {
         "name": "T\u00ecnh Y\u00eau T\u00ecm Th\u1ea5y",
         "url": "https://open.spotify.com/album/4i5x8GRgJBWXTYJJj9eqyE"
       },
@@ -1121,7 +1137,7 @@
         },
         {
           "name": "Waterloo",
-          "url": "https://open.spotify.com/artist/6DocKPXemJP1PkJpF45vpt"
+          "url": "https://open.spotify.com/artist/4y8JpZV1Yw8rkSTOhVzPkW"
         }
       ],
       "duration_ms": 227213,

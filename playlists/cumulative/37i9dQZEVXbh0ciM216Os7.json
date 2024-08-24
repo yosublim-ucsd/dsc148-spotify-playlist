@@ -1357,6 +1357,28 @@
     },
     {
       "album": {
+        "name": "Always There / Wir Sind Zur\u00fcck",
+        "url": "https://open.spotify.com/album/7r6K1N9Fnnl1NdObachhs7"
+      },
+      "artists": [
+        {
+          "name": "Flex Barker",
+          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221936,
+      "name": "Always There / Wir Sind Zur\u00fcck",
+      "url": "https://open.spotify.com/track/7Gj9UlYtmoMgEdupPLRev4"
+    },
+    {
+      "album": {
         "name": "Am Falkenstein",
         "url": "https://open.spotify.com/album/6hAKjATeeoNdkm5Q2WwR1z"
       },
@@ -2020,7 +2042,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 170370,
       "name": "Avon Barksdale",
       "url": "https://open.spotify.com/track/0yKHprnaS33HwVbqtypi9u"
@@ -2562,6 +2584,28 @@
       "duration_ms": 450240,
       "name": "BC",
       "url": "https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG"
+    },
+    {
+      "album": {
+        "name": "Be Or Busy (Mukthi)",
+        "url": "https://open.spotify.com/album/5TX0Es6rmWnhfGb5p0ayUT"
+      },
+      "artists": [
+        {
+          "name": "Sadhguru",
+          "url": "https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173559,
+      "name": "Be Or Busy (Mukthi)",
+      "url": "https://open.spotify.com/track/0CtW4SUSn8IGZMuP7TMFUy"
     },
     {
       "album": {
@@ -6110,13 +6154,17 @@
         {
           "name": "Raekwon",
           "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/7LTjOoXc3sVL89IXlfXo7U"
         }
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198023,
-      "name": "Curious - The Neptunes Remix [Dirty Version",
+      "name": "Curious - The Neptunes Remix Dirty Version",
       "url": "https://open.spotify.com/track/31fSsPG3xJmWhpBeRKzUFk"
     },
     {
@@ -9555,6 +9603,28 @@
     },
     {
       "album": {
+        "name": "Fantastic Grace",
+        "url": "https://open.spotify.com/album/0Hk7rWTjfLmWDusivXLhH3"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Fantastic Grace",
+      "url": "https://open.spotify.com/track/0oubtsxktQOuFaFANAM1nn"
+    },
+    {
+      "album": {
         "name": "Farewell For Now",
         "url": "https://open.spotify.com/album/4SU4ZVuuQzHhf55mE7QRWP"
       },
@@ -10060,10 +10130,32 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 185533,
       "name": "Finer Things (Feat. Hank Williams Jr.)",
       "url": "https://open.spotify.com/track/26IcURoSOBlQQVHBHZyWjI"
+    },
+    {
+      "album": {
+        "name": "F-1 Trillion: Long Bed",
+        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "Finer Things (Feat. Hank Williams Jr.)",
+      "url": "https://open.spotify.com/track/5QCOS7bwiz2i3jQqB8KZGS"
     },
     {
       "album": {
@@ -11788,7 +11880,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 158563,
       "name": "Ghetto Smosh",
       "url": "https://open.spotify.com/track/0oc7bMNQQrGBNfdpRELlBb"
@@ -12384,6 +12476,32 @@
       "duration_ms": 190348,
       "name": "Good News",
       "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
+    },
+    {
+      "album": {
+        "name": "Luvology",
+        "url": "https://open.spotify.com/album/0KUhHH6aZ8f8CKusg8U1HG"
+      },
+      "artists": [
+        {
+          "name": "LARA'",
+          "url": "https://open.spotify.com/artist/0WNTADu0FukWXgtEF8V7yu"
+        },
+        {
+          "name": "Harry Edohoukwa",
+          "url": "https://open.spotify.com/artist/2ugmrMhuc5JJjQFFwACJYa"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202202,
+      "name": "Good Wine (feat. Rapsody)",
+      "url": "https://open.spotify.com/track/0vcHHEcBk4EsvWPZXBsYYW"
     },
     {
       "album": {
@@ -21725,6 +21843,24 @@
     },
     {
       "album": {
+        "name": "Ocotillo",
+        "url": "https://open.spotify.com/album/6nhojCNg9ggxmaEXrVxLCH"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 523556,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/0VmJyEuoZ3nIzpHgahM05I"
+    },
+    {
+      "album": {
         "name": "Late Night Thelonious Monk",
         "url": "https://open.spotify.com/album/2SUQ2KduYVwgJstPq2nz8s"
       },
@@ -25599,6 +25735,32 @@
     },
     {
       "album": {
+        "name": "Rockstar G's",
+        "url": "https://open.spotify.com/album/1aO8VGcpI2DImeKXxD6OEX"
+      },
+      "artists": [
+        {
+          "name": "Djaytiger",
+          "url": "https://open.spotify.com/artist/5Ej7uT61Tv9JgzPdS1FGKO"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Kool G Rap",
+          "url": "https://open.spotify.com/artist/099tLNCZZvtjC7myKD0mFp"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Rockstar G's",
+      "url": "https://open.spotify.com/track/2NCfQufJrCDiYgKPxb1Ymd"
+    },
+    {
+      "album": {
         "name": "RockStarLife(R.S.L)",
         "url": "https://open.spotify.com/album/4TDnVpFoBZlyenm5l7AXsq"
       },
@@ -25618,6 +25780,24 @@
       "duration_ms": 231530,
       "name": "RockStarLife(R.S.L)",
       "url": "https://open.spotify.com/track/6dTLJBx8gNU2Xr5kJJ5OrW"
+    },
+    {
+      "album": {
+        "name": "Rogue",
+        "url": "https://open.spotify.com/album/5Dbrr4nyx1xAamAHvUJBed"
+      },
+      "artists": [
+        {
+          "name": "The Cost",
+          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229777,
+      "name": "Rogue",
+      "url": "https://open.spotify.com/track/416sAu56Q47IIqK0i8b6ss"
     },
     {
       "album": {
@@ -26496,7 +26676,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 213933,
       "name": "See What I See",
       "url": "https://open.spotify.com/track/4rHHlFa6WXLZo2XEDQbeZW"
@@ -26862,6 +27042,36 @@
       "duration_ms": 375853,
       "name": "Ship of Fools - Live at University of Nevada, Reno, NV, 5/12/74",
       "url": "https://open.spotify.com/track/64BahXhOSEBLlwQymfa4S9"
+    },
+    {
+      "album": {
+        "name": "Anna Clyne: SHORTHAND",
+        "url": "https://open.spotify.com/album/0GK0lno6PYVdaUKsHyQxQz"
+      },
+      "artists": [
+        {
+          "name": "Anna Clyne",
+          "url": "https://open.spotify.com/artist/4d2fe6u4HBGX4ZbBbEmM3j"
+        },
+        {
+          "name": "The Knights",
+          "url": "https://open.spotify.com/artist/3pZzcGCvhNTv3yoWmrXGNm"
+        },
+        {
+          "name": "Eric Jacobsen",
+          "url": "https://open.spotify.com/artist/7va3hWIVG2F3yM5tSAJead"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379490,
+      "name": "Shorthand REDUX",
+      "url": "https://open.spotify.com/track/3Ow6Wyc2BRDuYB4OP2uiYH"
     },
     {
       "album": {
@@ -31688,6 +31898,28 @@
       "duration_ms": 190443,
       "name": "Thousand Lifetimes (feat. Corey Glover of Living Colour)",
       "url": "https://open.spotify.com/track/0sRAH3UW1W7jUo3CZq0OAH"
+    },
+    {
+      "album": {
+        "name": "Apologies Are For The Weak (Re-Recorded 15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/756GIIQ9t5QazrrJoXdmAb"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        },
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "Tides (feat. August Burns Red) - Re-Recorded",
+      "url": "https://open.spotify.com/track/3jiOTr9nKyPdcG95QMvqRX"
     },
     {
       "album": {

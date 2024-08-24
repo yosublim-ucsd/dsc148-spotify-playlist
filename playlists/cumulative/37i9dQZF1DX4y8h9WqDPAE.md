@@ -2,9 +2,9 @@
 
 ### [Channel\-X](https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE)
 
-> Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: thisizlondon
+> Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Laila!
 
-823 songs - 1 day 19 hr 4 min
+826 songs - 1 day 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Champagne Shit \(feat\. Latto & Quavo\) \- Remix](https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Champagne Shit \(feat\. Latto & Quavo\) \[Remix\]](https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM) | 2:57 | 2023-10-06 | 2023-10-21 |
 | [Charge It \(with Masego, Jozzy & Bayka\)](https://open.spotify.com/track/2yg0AEBcHGfMIPVaA5W7o8) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Charge It \(with Masego, Jozzy & Bayka\)](https://open.spotify.com/album/2UsEip5hKV0iVICEfTXPVB) | 2:47 | 2023-04-14 | 2023-09-30 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-28 | 2023-10-21 |
+| [Chase](https://open.spotify.com/track/0mtXvs8NcZnGVpkwcurRLY) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Chase](https://open.spotify.com/album/0L8QrTXtyGlrGYDsW2Vzpy) | 2:26 | 2024-08-23 |  |
 | [Cheat \(feat\. JoJo\)](https://open.spotify.com/track/1mXJlLzoEk3STrioO2ehRE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Cheat \(feat\. JoJo\)](https://open.spotify.com/album/249LVBE0PeIQJfuUXepYfw) | 3:22 | 2023-06-09 | 2023-10-21 |
 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 | 2023-03-31 | 2023-04-29 |
 | [Check](https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check](https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW) | 2:45 | 2024-08-02 |  |
@@ -408,6 +409,7 @@
 | [Lie To Me](https://open.spotify.com/track/2jnKTP2gpVFTSBEmJ9aCrj) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Lie To Me](https://open.spotify.com/album/09D2NiluDpc2HOWgppKiNV) | 2:48 | 2023-03-17 | 2023-12-02 |
 | [Life Size](https://open.spotify.com/track/2MktD7t0SE7FOeVWSdoEGX) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Life Size](https://open.spotify.com/album/46OasNzqh720kxVoXB7YMC) | 2:31 | 2024-07-26 | 2024-08-17 |
 | [Like That!](https://open.spotify.com/track/4uEqDPi2ZC7S4RabDJ2lnr) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Like That!](https://open.spotify.com/album/1F3gM9DwTTdX2Mzf8v571g) | 2:49 | 2024-04-19 |  |
+| [Like That!](https://open.spotify.com/track/6xs1Km7sZrtFiusDMYv7MW) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Like That!](https://open.spotify.com/album/0GRlzPwxoqSnBtgk7I4Auy) | 2:49 | 2024-08-23 |  |
 | [Likkle Darling](https://open.spotify.com/track/4xf7vkvAhEmKXheEhLcVAp) | [Lady Leshurr](https://open.spotify.com/artist/1Bk2KyFVMN5PeyVyDIiLqF) | [Likkle Darling](https://open.spotify.com/album/5aUIjtLeBvjJkaGt86K0C9) | 1:54 | 2022-04-15 | 2022-05-14 |
 | [Line Of Fire](https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Line Of Fire](https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I) | 4:15 | 2023-04-28 | 2023-08-12 |
 | [Link Up](https://open.spotify.com/track/5vsCD4vU93v7Y3HDVdGl4b) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Link Up](https://open.spotify.com/album/2vlW2rFQ0V9EnzzYXuhPvg) | 2:33 | 2023-10-03 | 2024-06-08 |
@@ -500,6 +502,7 @@
 | [Not Jus Anybody \(feat\. Future\)](https://open.spotify.com/track/4tBNl51vv4ekUT1APoSWij) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Not Jus Anybody](https://open.spotify.com/album/3m7a88CWspkKJkZ4ePPyUU) | 2:42 | 2021-12-17 | 2022-04-23 |
 | [Not My Job](https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:54 | 2022-09-23 | 2023-03-04 |
 | [Not My Problem](https://open.spotify.com/track/3fpISrtcsVBNJZ3K0JhRwG) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:51 | 2023-07-28 | 2024-03-16 |
+| [Not My Problem](https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Not My Problem \(Flyer Than U\)](https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR) | 2:39 | 2024-08-23 |  |
 | [Not Worthy](https://open.spotify.com/track/7EpHcQ8M4zvcs7pERkduuS) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Not Worthy](https://open.spotify.com/album/245Tjxy00ipfRrrAFXvQ8g) | 3:12 | 2023-05-12 | 2023-07-15 |
 | [Nothing More To Say \(with 6LACK & Donae’o\)](https://open.spotify.com/track/4hvWEdTLJxrZsDDjUEcHvy) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:53 | 2022-08-05 | 2023-07-15 |
 | [Nowhere](https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Nowhere](https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu) | 2:57 | 2023-11-17 | 2024-03-16 |

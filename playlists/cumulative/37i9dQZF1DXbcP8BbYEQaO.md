@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-680 songs - 1 day 14 hr 13 min
+686 songs - 1 day 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Dead End](https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Dead End](https://open.spotify.com/album/5KdJI0MvN0AtXb5oxXHXS9) | 2:58 | 2023-02-24 | 2023-04-01 |
 | [deep in the woods](https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:09 | 2023-01-20 | 2023-01-26 |
 | [deep in the woods](https://open.spotify.com/track/7ayHmrEXPuiglJ1pYlko8h) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [deep in the woods](https://open.spotify.com/album/6p1H52i4HyDOrdrBUF0uI4) | 3:09 | 2022-06-24 | 2022-10-01 |
+| [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 | 2024-08-23 |  |
 | [Deserve Each Other](https://open.spotify.com/track/3qK48XK8WSH562jvp4vabM) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Deserve Each Other](https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd) | 2:47 | 2024-03-08 |  |
 | [Desire](https://open.spotify.com/track/6mH8uF35AIWGlmcQZMAQ9v) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn) | 3:26 | 2021-06-19 | 2021-07-04 |
 | [DFHMPU](https://open.spotify.com/track/6aZzBu7NiOSo1htN2Q7WLq) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [DFHMPU](https://open.spotify.com/album/5jZrHVZZgdaLsdgxQLvtAl) | 2:27 | 2024-02-23 | 2024-05-25 |
@@ -152,7 +153,9 @@
 | [Die 4 Ur Love](https://open.spotify.com/track/0lpTna9kRkFgbq9htSBmOK) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Die 4 Ur Love \(Deluxe\)](https://open.spotify.com/album/5OgIupqmSD356odTnwvkBj) | 3:19 | 2022-04-16 | 2024-08-07 |
 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 | 2022-07-05 | 2023-09-25 |
 | [Die Trying](https://open.spotify.com/track/5JTAGruCIDyRLhKLwFkTnS) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Die Trying](https://open.spotify.com/album/3GtcNdfScg8xtLLbJNJbfm) | 3:29 | 2020-10-13\* | 2021-07-17 |
+| [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-23 |  |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-12 |  |
+| [Dizzy](https://open.spotify.com/track/7Lfs6kd0Jbefn9FWHYNd5m) | [Renon](https://open.spotify.com/artist/66puVL22TUX3DM6r0uZyyY) | [Dizzy](https://open.spotify.com/album/4LabtYkpsQ8rxBUBn3Wyeu) | 4:18 | 2024-08-23 |  |
 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 | 2022-10-28 | 2022-11-13 |
 | [Doing To Me](https://open.spotify.com/track/1ioqD1XvFGDomjXkKNCBQB) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Trust Issues](https://open.spotify.com/album/0p9VYdjKX7XgC7M3wm5R3E) | 3:10 | 2020-10-13\* | 2021-12-04 |
 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 | 2024-04-05 | 2024-07-19 |
@@ -279,6 +282,7 @@
 | [Hold On To Now](https://open.spotify.com/track/4sB1OmmCi2Iwe9MaVlUubR) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 3:57 | 2023-09-22 | 2023-11-18 |
 | [hold the applause](https://open.spotify.com/track/7mlFKsO1PVfH0nz1dH7RhZ) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [hold the applause](https://open.spotify.com/album/51s5xPogZxdN5Eqs3mJLE1) | 2:29 | 2022-06-10 | 2022-06-27 |
 | [Holding Back](https://open.spotify.com/track/7GpYaKxoIl1XzCjF9aGck2) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Holding Back](https://open.spotify.com/album/2BknuzgtjnuSDuPF2bjWPJ) | 3:52 | 2022-02-25 | 2022-04-17 |
+| [Holding On](https://open.spotify.com/track/1QheBawboy68qlo1A0wcct) | [Leona Naess](https://open.spotify.com/artist/060CzFv7eCEPramQlIJYNY) | [Holding On](https://open.spotify.com/album/5sAJM4NjF2nwwTtirLjLr9) | 3:02 | 2024-08-23 |  |
 | [Home To Another One](https://open.spotify.com/track/7culXP38P58h83PXwLQqyg) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Home To Another One](https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt) | 2:29 | 2023-06-02 | 2024-05-25 |
 | [Honest](https://open.spotify.com/track/11Tfh16o0SW8KdiQdeESEX) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [COSMIC](https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M) | 2:55 | 2020-10-13\* | 2021-06-19 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2023-11-10 | 2024-01-13 |
@@ -399,6 +403,7 @@
 | [Married to Your Melody](https://open.spotify.com/track/5G0gqPXbupyLOqUrWksyEY) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/0wjWPQyNGZ92HWz5sdCyxt) | 2:58 | 2022-07-21 | 2022-10-22 |
 | [Married to Your Melody](https://open.spotify.com/track/7kl1oW2J2F9CcSvuej1V9h) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/4sfQiCd0Wcm0vRPmgTH7Su) | 2:58 | 2022-04-22 | 2022-07-28 |
 | [Mathematics](https://open.spotify.com/track/0LGyz7yfuD5ttvy7kOcEKp) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(US\)](https://open.spotify.com/album/6hfQ4H9mS2s9h1UGtvDu5p) | 3:26 | 2022-04-16 |  |
+| [Meant To Be](https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Zorb](https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz) | 2:28 | 2024-08-23 |  |
 | [MEZCAL MINT GUM N COCAINE](https://open.spotify.com/track/5174aBUvlBHClVp9cr7JoG) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [MEZCAL MINT GUM N COCAINE](https://open.spotify.com/album/5NrSC4lV0XHAa8cEkIxy3n) | 3:38 | 2023-02-17 | 2023-02-25 |
 | [Microdose](https://open.spotify.com/track/6iNRJ4TuoDqkI0o6wFRR2w) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [Microdose](https://open.spotify.com/album/3OAoVhJtoIZRdVXIh7R3zS) | 2:46 | 2022-04-16 | 2022-07-09 |
 | [Midas Touch](https://open.spotify.com/track/2H5uvk1o7ZpEHtclzN91Fh) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Midas Touch](https://open.spotify.com/album/4sOFqXBv8PvKDxFszHomGu) | 2:41 | 2021-11-27 | 2022-01-29 |
@@ -452,6 +457,7 @@
 | [Ocean of Tears](https://open.spotify.com/track/4yqUwc3anK2zx40o5hMAJy) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Ocean of Tears](https://open.spotify.com/album/6Sa2vontcwVJvoxVx6EQn0) | 3:24 | 2020-10-13\* | 2021-02-19 |
 | [Oceans Away](https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:14 | 2020-10-13\* | 2021-10-12 |
 | [Oceansize](https://open.spotify.com/track/37oz0tZXDhBDOzPSAvxX9W) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:43 | 2021-02-19 | 2022-01-15 |
+| [ODDS](https://open.spotify.com/track/7cpTlJpt1WCe8Gj8wjFSoW) | [Dava](https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu) | [ODDS](https://open.spotify.com/album/3tBmhNuRM1zTZqlFqhcZcf) | 2:48 | 2024-08-23 |  |
 | [Off](https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Off](https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8) | 2:45 | 2021-06-26 | 2021-12-04 |
 | [Off With Her Tits](https://open.spotify.com/track/0PZUINY8mTRYx7rM5hDRmV) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Off With Her Tits](https://open.spotify.com/album/7kOZaeeScV8NhGDlq06Qqr) | 3:16 | 2024-01-19 | 2024-02-24 |
 | [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 | 2023-01-27 | 2023-06-02 |
@@ -483,7 +489,7 @@
 | [plans](https://open.spotify.com/track/0Je4hbQlNwdelh5ZcCLZGK) | [LVRBOY](https://open.spotify.com/artist/0jlINfbPEBh6l0DyV3UlLn) | [plans](https://open.spotify.com/album/2ruGW2pGs6dKRySyVSC5Rs) | 3:00 | 2021-02-19 | 2021-07-10 |
 | [Please Don't Suck](https://open.spotify.com/track/2Sx4OLfgMfRgYDvGHBJvck) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Please Don't Suck](https://open.spotify.com/album/7he1ByOAq0rTVmSoW5ny1E) | 2:55 | 2021-07-19 | 2022-01-01 |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2021-12-17 | 2022-04-17 |
-| [Ponytail](https://open.spotify.com/track/4y2KeXbvKEjalxsElqq9Ze) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Ponytail](https://open.spotify.com/album/3og4eBQKRVoMIPJAArPD4X) | 3:39 | 2024-07-19 |  |
+| [Ponytail](https://open.spotify.com/track/4y2KeXbvKEjalxsElqq9Ze) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Ponytail](https://open.spotify.com/album/3og4eBQKRVoMIPJAArPD4X) | 3:39 | 2024-07-19 | 2024-08-24 |
 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-09 | 2022-10-29 |
 | [Powerline](https://open.spotify.com/track/4DIXN5pGfWjYbIXXYA6pq7) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [\_A BREAK](https://open.spotify.com/album/5goyJEMY4dnRhO9vrxI4wX) | 3:27 | 2020-10-13\* | 2021-02-19 |
 | [pretend \(2003\) \(with Tennyson\)](https://open.spotify.com/track/0wjQx6amJQ61K8tFQaDkgw) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [why can't we just pretend?](https://open.spotify.com/album/3yzDE04dMgYvyZHzJm1p2b) | 2:56 | 2022-04-15 | 2022-05-20 |

@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 86734,
+  "num_followers": 86741,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -1467,18 +1467,22 @@
     {
       "added_at": "2024-08-15 15:11:23",
       "album": {
-        "name": "The Lost Petals",
-        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
+        "name": "Music And Lyrics - Music From and Inspired By The Motion Picture (International Release)",
+        "url": "https://open.spotify.com/album/67icItKFH7ZFd5FdAZdlhI"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Hugh Grant",
+          "url": "https://open.spotify.com/artist/0dtmYDbYpwcdHPBI1OJatT"
+        },
+        {
+          "name": "Haley Bennett",
+          "url": "https://open.spotify.com/artist/74tNiaBNZ0L0B4bu0lF6r1"
         }
       ],
-      "duration_ms": 121695,
-      "name": "Once More",
-      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
+      "duration_ms": 277853,
+      "name": "Way Back Into Love",
+      "url": "https://open.spotify.com/track/0zYP35FfMItfaP6c9gcQZB"
     },
     {
       "added_at": "2024-08-15 15:11:23",
@@ -1499,22 +1503,18 @@
     {
       "added_at": "2024-08-15 15:11:23",
       "album": {
-        "name": "Music And Lyrics - Music From and Inspired By The Motion Picture (International Release)",
-        "url": "https://open.spotify.com/album/67icItKFH7ZFd5FdAZdlhI"
+        "name": "The Lost Petals",
+        "url": "https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC"
       },
       "artists": [
         {
-          "name": "Hugh Grant",
-          "url": "https://open.spotify.com/artist/0dtmYDbYpwcdHPBI1OJatT"
-        },
-        {
-          "name": "Haley Bennett",
-          "url": "https://open.spotify.com/artist/74tNiaBNZ0L0B4bu0lF6r1"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 277853,
-      "name": "Way Back Into Love",
-      "url": "https://open.spotify.com/track/0zYP35FfMItfaP6c9gcQZB"
+      "duration_ms": 121695,
+      "name": "Once More",
+      "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
     },
     {
       "added_at": "2024-08-15 15:11:23",

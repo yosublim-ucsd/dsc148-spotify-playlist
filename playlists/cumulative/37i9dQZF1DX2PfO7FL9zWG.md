@@ -2,9 +2,9 @@
 
 ### [Folk Favourites](https://open.spotify.com/playlist/37i9dQZF1DX2PfO7FL9zWG)
 
-> Revisit stand out songs from these singer/songwriters\. Cover: Mark Ambor
+> Revisit stand out songs from these singer/songwriters\. Cover: Jessica Pratt
 
-356 songs - 22 hr 20 min
+357 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 | 2023-03-31 |  |
 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 | 2024-04-12 |  |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2022-04-15 |  |
-| [Aujourd'hui ma vie c'est d'la marde](https://open.spotify.com/track/0uuFgysRgYtTEaNEbB06pk) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Lisa LeBlanc](https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V) | 3:37 | 2024-06-14 |  |
+| [Aujourd'hui ma vie c'est d'la marde](https://open.spotify.com/track/0uuFgysRgYtTEaNEbB06pk) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Lisa LeBlanc](https://open.spotify.com/album/6qkkBPeN0eLTk9oDvvew2V) | 3:37 | 2024-06-14 | 2024-08-24 |
 | [Aurora](https://open.spotify.com/track/453jiWc3IvEjdxFRT66MTA) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Run to Waters](https://open.spotify.com/album/1v7MBpK6kqQKiZTZ3vpIjZ) | 6:09 | 2022-04-15 | 2022-07-05 |
 | [B61](https://open.spotify.com/track/24jpjPR3hZ1VAQOWr9sd0t) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [B61](https://open.spotify.com/album/5zJLOsXPJ8d8y9pgsNXEt1) | 3:41 | 2022-04-15 | 2023-04-01 |
 | [Back to Love](https://open.spotify.com/track/1CsGyKtUsk0uEKIoaHIEuR) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Back to Love](https://open.spotify.com/album/64Ll0RVJLquQzXJCFTuDNx) | 3:51 | 2022-04-15 | 2022-07-29 |
@@ -191,6 +191,7 @@
 | [Leave A Light](https://open.spotify.com/track/5P0i0asekeb0hCEPCi2R5n) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [This Wild Willing](https://open.spotify.com/album/25b6LhJVwyvEEPLtyuCvJy) | 4:25 | 2022-04-15 | 2022-07-19 |
 | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4) | 3:17 | 2022-04-15 | 2022-12-30 |
 | [Let It Be](https://open.spotify.com/track/1xflb6sCgJjMqbdtakgONq) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Let It Be](https://open.spotify.com/album/1dReIAToRq9PGXlsDWzRE9) | 3:42 | 2022-04-15 | 2022-07-29 |
+| [Life Is](https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Here in the Pitch](https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0) | 3:08 | 2024-08-23 |  |
 | [Light](https://open.spotify.com/track/0imuQm7CnK74UdorFpC2Eg) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Twenty Something](https://open.spotify.com/album/04fOj55fAN5mWhs7DMvNiH) | 4:27 | 2022-07-27 | 2023-04-01 |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2022-05-12 |  |
 | [Like a River](https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Like a River](https://open.spotify.com/album/3o8nivVQguilisc4zKinYI) | 3:35 | 2022-07-27 | 2024-04-19 |

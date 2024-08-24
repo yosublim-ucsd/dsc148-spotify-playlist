@@ -1,12 +1,12 @@
 {
   "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
-  "num_followers": 11488,
+  "num_followers": 11491,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAAdyI8IUo5b6WxootvSE4V+",
+  "snapshot_id": "ZsZ/gAAAAAAhs4/JA0kdCg1UfhnnrFeF",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Relampagos Del Norte En Vivo (Live)",
-        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Alma Rendida",
-      "url": "https://open.spotify.com/track/6OjIo12chRbuy3VM5LMnZ7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puras De Pegue",
         "url": "https://open.spotify.com/album/5f2FwofNEjUSa8RlqSyMSc"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 183797,
       "name": "El Troquero",
       "url": "https://open.spotify.com/track/3gfJot7ZNa92ojtuJzw2Q3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Alma Rendida",
+      "url": "https://open.spotify.com/track/6OjIo12chRbuy3VM5LMnZ7"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Recuerdo",
-        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 144173,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/0D2UGMhfFJMXoJagYaiyGl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siguen En La Honda Nortena",
         "url": "https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 139755,
       "name": "Quiero Que Sepas",
       "url": "https://open.spotify.com/track/642HoTm4RHCmqhvsTAF1HD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 144173,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/0D2UGMhfFJMXoJagYaiyGl"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn"
         }
       ],
-      "duration_ms": 167800,
-      "name": "La Mosca",
-      "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
+      "duration_ms": 170266,
+      "name": "La Martina",
+      "url": "https://open.spotify.com/track/2h7YyAPzP2MGveT4XxbO9w"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/76Wi64t9RIQEkhnCUSD1tn"
         }
       ],
-      "duration_ms": 170266,
-      "name": "La Martina",
-      "url": "https://open.spotify.com/track/2h7YyAPzP2MGveT4XxbO9w"
+      "duration_ms": 167800,
+      "name": "La Mosca",
+      "url": "https://open.spotify.com/track/6kVnZD4Fw0GF1Uh31a09Qa"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Super \u00c9xitos",
-        "url": "https://open.spotify.com/album/2DjhUqMnW46gQlBSMlc4IZ"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "Tres Viudas Solas",
-      "url": "https://open.spotify.com/track/4kouZcOHRtmm4Kdicirz7O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Recuerdo",
         "url": "https://open.spotify.com/album/0ElJxS0euvpw3AQfgVGPKj"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 197453,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/6dAiVXqPyOp64bo42LfQDp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Super \u00c9xitos",
+        "url": "https://open.spotify.com/album/2DjhUqMnW46gQlBSMlc4IZ"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "Tres Viudas Solas",
+      "url": "https://open.spotify.com/track/4kouZcOHRtmm4Kdicirz7O"
     },
     {
       "added_at": null,

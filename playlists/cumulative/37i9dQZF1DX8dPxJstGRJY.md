@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-74 songs - 4 hr 53 min
+75 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Caruso](https://open.spotify.com/track/5hV0uMeGIUtKASyf25htAo) | [Lucio Dalla](https://open.spotify.com/artist/25MkkfEousyfp2eyh38FUl), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Unknown Artist](https://open.spotify.com/artist/3POLGp1PDjloqIXcgfJZZl), [Orchestra del Teatro Comunale di Bologna](https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg) | [Tutto Pavarotti](https://open.spotify.com/album/01gyhMRB3RBxhgkfqbBNVi) | 5:19 | 2023-06-30 | 2024-04-19 |
 | [Da Stanotte in Poi \(From This Moment On\)](https://open.spotify.com/track/0Vx5TgS1ezxuCOI968BtdD) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Da Stanotte in Poi \(From This Moment On\)](https://open.spotify.com/album/4gQwBDAQJ1xY3CDhdQuND4) | 3:57 | 2024-08-22 |  |
 | [En Aranjuez Con Tu Amor](https://open.spotify.com/track/1YO3Bwr2S9kTfdkCu56qUx) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Ancora](https://open.spotify.com/album/79iT83MLmTgVXfW5ZqJZNI) | 3:50 | 2021-09-24 |  |
+| [Fionnuala's Violin](https://open.spotify.com/track/2Wa1sa1bTOPa6oClKtR133) | [Secret Garden](https://open.spotify.com/artist/6GUg2fRLklsnSJsG3PrTt0) | [Fionnuala's Violin](https://open.spotify.com/album/2bh3PcnwOmQtCsNCF5ffNo) | 3:57 | 2024-08-23 |  |
 | [Forever You and Me](https://open.spotify.com/track/6PilVqdlecQR7zXEA6YWpb) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [雷佳](https://open.spotify.com/artist/4DnnLhz0Zq7YqNa8jU71wo), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Forever You and Me](https://open.spotify.com/album/2si30di9Qn7r1KuNhZ6jXj) | 3:59 | 2022-02-11 | 2022-02-22 |
 | [Grande amore](https://open.spotify.com/track/2I9KO0T9SUEkpi2OlZkQJo) | [Ciro Esposito](https://open.spotify.com/artist/6OoJQ2zWG8U5qBZ53Jt8Bs), [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [10 Years \- The Best Of](https://open.spotify.com/album/2Mqky90OTsnQaKXNwxvbA2) | 3:44 | 2021-09-24 |  |
 | [Grande amore](https://open.spotify.com/track/4IzDqftkFXUR8G2vaTd3Rb) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Grande amore \(International Version\)](https://open.spotify.com/album/0Jy2GfTkOoIubV6oilvi2s) | 3:44 | 2022-06-17 | 2024-04-19 |

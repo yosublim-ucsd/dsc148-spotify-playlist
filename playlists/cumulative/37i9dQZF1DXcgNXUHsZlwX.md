@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-468 songs - 1 day 3 hr 59 min
+470 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Changer le cours \(Radio Edit\)](https://open.spotify.com/track/01IFtv24MpJjlPjgLe3bjn) | [Sophie Pelletier](https://open.spotify.com/artist/5uXoTuYyWyAPGj93tZzZH8) | [Changer le cours \(Radio Edit\) \- Single](https://open.spotify.com/album/7M4wgxxGmAIngUxNLN6O0Q) | 2:52 | 2021-01-16 | 2021-10-16 |
 | [Chanson d'automne](https://open.spotify.com/track/6TnV9y0Rt6f0U4nGqDwhC4) | [Mauvais Amis](https://open.spotify.com/artist/0fQ1GquXLsW7jOodJZHwn3) | [Chanson d'automne](https://open.spotify.com/album/3U9WFrewtJlnallEoNuAq9) | 1:42 | 2021-01-03\* | 2022-07-26 |
 | [chanson for my depressed love](https://open.spotify.com/track/3aAWTPlsmWS8ICCiy0poc2) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles cachées \(halloween version\)](https://open.spotify.com/album/2sCZfWDfMNrIfaew3V3u9a) | 3:09 | 2021-10-09 | 2021-10-16 |
+| [Chaque nuit la mort](https://open.spotify.com/track/2WLiGXeSEwXC0PtykisCnD) | [Nicolet](https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR) | [Chaque nuit la mort](https://open.spotify.com/album/3eiHeMkAh3caWE2yFJUm7n) | 5:29 | 2024-08-23 |  |
 | [Chez Gaspard](https://open.spotify.com/track/2DvhLacTDjcbirksh1HTQO) | [Lavabo](https://open.spotify.com/artist/5jS36OZcTV9UlVD8giFwtU) | [Chez Gaspard](https://open.spotify.com/album/6lr4Nc9QC3vsjEl3vo9efY) | 1:12 | 2021-01-03\* | 2021-05-08 |
 | [Chez Té Mille](https://open.spotify.com/track/07FsSUab3PIzOriknAqQli) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Chez Té Mille \- Single](https://open.spotify.com/album/29TG7fMZ54YZVG7JRmOLwS) | 3:14 | 2021-02-07 | 2021-09-26 |
 | [Chipotle](https://open.spotify.com/track/2LO4omVCJucj5WxgacqYPE) | [Bernard Adamus](https://open.spotify.com/artist/2ndxSSEDxr0s9csEgGYMrE) | [Chipotle / Hidalgo](https://open.spotify.com/album/6uFyCe4H7Fir49c6422JbH) | 3:56 | 2021-01-15 | 2021-10-02 |
@@ -93,6 +94,7 @@
 | [Diapason](https://open.spotify.com/track/4J9BGcZInwo34jQz7OoZ6R) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Diapason](https://open.spotify.com/album/6rl0ZMWPSni69nx5kheicc) | 2:26 | 2021-01-30 | 2022-07-27 |
 | [Did Life Work Out for You?](https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 3:19 | 2024-05-17 |  |
 | [Dis\-moi où tu m'emmènes](https://open.spotify.com/track/7yL5X05lVrh1oybCGCzwHg) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [Dis\-moi où tu m'emmènes](https://open.spotify.com/album/1g74s7wR4aXTqv9XzIAHtE) | 3:37 | 2021-09-19 | 2021-11-13 |
+| [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:12 | 2024-08-23 |  |
 | [Dormance](https://open.spotify.com/track/0ah1tf7hgCCPoj78OSZB9E) | [Gabriel Noël](https://open.spotify.com/artist/6p5qua20Z6aIoP9yXwOHPL) | [Essai de danse sans gravité](https://open.spotify.com/album/0ARc8KE40XTNMXG7Qkdsta) | 2:33 | 2021-01-03\* | 2022-06-18 |
 | [Dormir dans l'auto](https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Dormir dans l'auto](https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl) | 3:28 | 2022-09-23 | 2024-05-04 |
 | [Douceur du mois d'aout](https://open.spotify.com/track/1MvELfNVnESM9z5JONi9qI) | [Jeando](https://open.spotify.com/artist/0R5yr84EzZRFxrF4GFloAO) | [Toutes les étoiles me l'ont dit](https://open.spotify.com/album/4m6vgWkQ14w9EeYM2UXzXi) | 3:06 | 2021-01-03\* | 2021-01-25 |
@@ -104,7 +106,7 @@
 | [Elie](https://open.spotify.com/track/3UDwredvomtpZsvMO2WTJl) | [vice E roi](https://open.spotify.com/artist/6SmN2oQRKkyUlhqg3bOUcz) | [Elie](https://open.spotify.com/album/2SMbJm3dfMEDotP3TC6uyE) | 3:06 | 2021-01-03\* | 2021-10-07 |
 | [Elle](https://open.spotify.com/track/74tfYbU9V6E73Kzf8KoxgE) | [Barrdo](https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf), [David Bujold](https://open.spotify.com/artist/3erXqFbSNsihvzkRJSHZV7) | [L'éternel retour](https://open.spotify.com/album/0QdAA0cQPcVj2bM4kr7uNn) | 7:29 | 2021-01-16 | 2021-10-08 |
 | [Elle danse](https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN) | [Mimi O'Bonsawin](https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt) | [Elle danse](https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy) | 2:29 | 2021-01-03\* |  |
-| [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 | 2023-04-28 |  |
+| [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 | 2023-04-28 | 2024-08-24 |
 | [En attendant l'aube](https://open.spotify.com/track/2j46EsGcn2W7AJrqKTJ9yF) | [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [En attendant l'aube](https://open.spotify.com/album/3lGpnDRketjClNuE2F0Wyd) | 3:42 | 2021-01-03\* |  |
 | [Encore et encore](https://open.spotify.com/track/4kQtxAuiMW992AmzaEparm) | [Suzie Villeneuve](https://open.spotify.com/artist/1LwihJaOQLGpPb9ue7euvj) | [Encore et encore](https://open.spotify.com/album/5hu4NysMSIE8CykyRcYEYs) | 4:20 | 2021-01-03\* | 2021-09-30 |
 | [Endorphine](https://open.spotify.com/track/7FrdYdwPYseFuWGmJGjkb3) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [Endorphine](https://open.spotify.com/album/0KBYgJIJdIoK6CdtepIwZO) | 3:58 | 2021-01-03\* | 2021-01-15 |
@@ -169,7 +171,7 @@
 | [J'ai tout oublié](https://open.spotify.com/track/1k1WXy8A5NjSMaTB5ibcO3) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [J'ai tout oublié \- Single](https://open.spotify.com/album/2JqB5rOeHapD0TdnReqeTo) | 3:55 | 2021-01-15 | 2022-07-28 |
 | [J'aime trop la vie](https://open.spotify.com/track/5mGDcrzJlFgPdhKmSBQpki) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [L'amour](https://open.spotify.com/album/1hRUtnckwxQzqdwcmA9tKy) | 5:33 | 2021-08-21 | 2021-10-09 |
 | [J'aurai les cheveux longs](https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 3:55 | 2021-07-24 | 2024-05-12 |
-| [J'espère](https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [J'espère](https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK) | 2:30 | 2021-01-03\* |  |
+| [J'espère](https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [J'espère](https://open.spotify.com/album/2RE0A4DfaHmIVVEy7OVjKK) | 2:30 | 2021-01-03\* | 2024-08-24 |
 | [J'm'en sors pas](https://open.spotify.com/track/5qNV1GAcGCPfUJfDkUNF5E) | [Marcus Wilcour](https://open.spotify.com/artist/6fB9PFcHK9nL7j5SnQUWOt) | [L'état des lieux](https://open.spotify.com/album/6lK36pAAMCisISuoZHxNI6) | 2:20 | 2021-01-03\* | 2022-07-27 |
 | [J'trouve ça beau](https://open.spotify.com/track/33gIRI0EOFISryPJtSVCqJ) | [Alicia Deschênes](https://open.spotify.com/artist/6cIkGaF2x3ZAZIlxElMvFu) | [Comme June aime Johnny](https://open.spotify.com/album/1j5nc7LO1tQnImfo45Cekn) | 3:26 | 2021-01-15 | 2022-07-27 |
 | [Jamais 2 sans toi](https://open.spotify.com/track/024CnsOMQ92GJoCcMKiwgy) | [David Fleury](https://open.spotify.com/artist/58Hv0n1q9rM1PuvsqXnrAy), [Héra Ménard](https://open.spotify.com/artist/5H5gfDCrcb5XzSrhQhzTiO) | [27x le tour](https://open.spotify.com/album/3gCaNFmUWUvbOptuJ5tc0t) | 3:20 | 2021-01-03\* | 2021-05-06 |

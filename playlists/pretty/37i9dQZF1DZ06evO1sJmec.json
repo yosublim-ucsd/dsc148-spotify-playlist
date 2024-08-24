@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 1964645,
+  "num_followers": 1965093,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAA5i7KSl6LkKUNetQF18P6e",
+  "snapshot_id": "ZsZ/gAAAAABeG8jrBnVrBsraO3STmE6l",
   "tracks": [
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 371880,
-      "name": "Shadows Follow",
-      "url": "https://open.spotify.com/track/5iG1GycXpheJ5xMW0gNvKv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 371880,
+      "name": "Shadows Follow",
+      "url": "https://open.spotify.com/track/5iG1GycXpheJ5xMW0gNvKv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S&M",
         "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 343200,
       "name": "No Leaf Clover - Live",
       "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...And Justice For All",
+        "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 586506,
+      "name": "...And Justice For All",
+      "url": "https://open.spotify.com/track/0eXz8pS25MoeUguNPR9VvD"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "...And Justice For All",
-        "url": "https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 586506,
-      "name": "...And Justice For All",
-      "url": "https://open.spotify.com/track/0eXz8pS25MoeUguNPR9VvD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ride The Lightning (Remastered)",
         "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/16RFzt9hlQ3OCPQf5AmhpU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Master Of Puppets (Remastered)",
         "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 496626,
       "name": "Disposable Heroes",
       "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396293,
-      "name": "If Darkness Had a Son",
-      "url": "https://open.spotify.com/track/1oCQLSGSiHozdyx7lOqkIt"
     }
   ],
   "unique_name": "This Is Metallica",

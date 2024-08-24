@@ -1,13 +1,65 @@
 {
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 448032,
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Ruthie Foster",
+  "num_followers": 448073,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAABtm5wmRvI8qGvI9R9sa4Gh",
+  "snapshot_id": "ZsgJQAAAAADYgjHNfy7/qfd75ALnRl+p",
   "tracks": [
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Mileage",
+        "url": "https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "duration_ms": 250765,
+      "name": "Mileage",
+      "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3"
+      },
+      "artists": [
+        {
+          "name": "Oh He Dead",
+          "url": "https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6"
+        }
+      ],
+      "duration_ms": 335658,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/4IqsiNwUfcrA7RrUHwAo6k"
+      },
+      "artists": [
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        },
+        {
+          "name": "Jonah Smith",
+          "url": "https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC"
+        }
+      ],
+      "duration_ms": 191454,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/3RWOkWVdve8HZG4vIg6bkF"
+    },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
@@ -55,22 +107,6 @@
       "duration_ms": 154980,
       "name": "Days of Mellow",
       "url": "https://open.spotify.com/track/2gex4j0b22MmEXGqWmt5wx"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Heartshine",
-        "url": "https://open.spotify.com/album/6l3sHGhVV31YItfJP6lHTq"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        }
-      ],
-      "duration_ms": 289068,
-      "name": "Heartshine",
-      "url": "https://open.spotify.com/track/53bgRTz4YRHfTkVAwfYWDc"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -731,22 +767,6 @@
       "duration_ms": 251946,
       "name": "You Can't Love Me",
       "url": "https://open.spotify.com/track/4dHYQ1XOK8iTCRlTh9TDNE"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Traffic Fiction",
-        "url": "https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "2 FOR THA SHOW",
-      "url": "https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1535,22 +1555,6 @@
       "duration_ms": 229625,
       "name": "Back Seat",
       "url": "https://open.spotify.com/track/5cORKRcTX6dstvvBVSQan5"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/6lP1LTZ6X6bzRigf2HwLFu"
-      },
-      "artists": [
-        {
-          "name": "A.J. Croce",
-          "url": "https://open.spotify.com/artist/5GddXlP15Ktw1aHZEcKGZe"
-        }
-      ],
-      "duration_ms": 190176,
-      "name": "So Much Fun",
-      "url": "https://open.spotify.com/track/1slkixWBOISrD6xD7LH4U3"
     },
     {
       "added_at": "2023-10-06 04:00:00",

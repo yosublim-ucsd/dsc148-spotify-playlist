@@ -5469,6 +5469,24 @@
     },
     {
       "album": {
+        "name": "Hold Their Drink",
+        "url": "https://open.spotify.com/album/1L8KvQgnSPazBaimskycqG"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216111,
+      "name": "Hold Their Drink",
+      "url": "https://open.spotify.com/track/3nuEBJq9uLdNg9vXUtJued"
+    },
+    {
+      "album": {
         "name": "Holy Smokes",
         "url": "https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP"
       },

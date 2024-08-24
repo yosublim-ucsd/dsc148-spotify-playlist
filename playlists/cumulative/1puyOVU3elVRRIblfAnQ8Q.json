@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 253255,
       "name": "4X4 (IT'S U)",
       "url": "https://open.spotify.com/track/0H12TVZIucruvvGSPjvvj0"
@@ -144,10 +144,28 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 89600,
       "name": "ALPHA",
       "url": "https://open.spotify.com/track/4S57GL3eSOOZARzhHuttGa"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Don Jamal",
+          "url": "https://open.spotify.com/artist/3b1DIrWDwR8A5gxBgWt0DV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193103,
+      "name": "Alright Thanks",
+      "url": "https://open.spotify.com/track/5H1wVE3zCVFCKU9pR3964c"
     },
     {
       "album": {
@@ -166,7 +184,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 171058,
       "name": "Always Wanna Talk",
       "url": "https://open.spotify.com/track/37WgviAL9YLn5HHCCFZLmd"
@@ -242,10 +260,32 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 177000,
       "name": "Back Bus",
       "url": "https://open.spotify.com/track/21ceB6sHPjBtj8SCU9C1zi"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Lumasi",
+          "url": "https://open.spotify.com/artist/0y5sfSvE19x3r3nVUKYbIN"
+        },
+        {
+          "name": "Ghost Lotus",
+          "url": "https://open.spotify.com/artist/4ROnOSgEJHJ5YLiABKzGAl"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199135,
+      "name": "Back In It",
+      "url": "https://open.spotify.com/track/1ey7O6qzQEGpLnD0BFCneD"
     },
     {
       "album": {
@@ -268,6 +308,24 @@
       "duration_ms": 186206,
       "name": "Bassface",
       "url": "https://open.spotify.com/track/6JMlB2FSy3OxFo40Fx5tjf"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Digital Ethos",
+          "url": "https://open.spotify.com/artist/1uzNrmjOsClb1k7DYwUlIX"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Berserk",
+      "url": "https://open.spotify.com/track/05Rr6bZbvgqLk1VWuQdrCv"
     },
     {
       "album": {
@@ -352,7 +410,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 140571,
       "name": "Bird Feeder",
       "url": "https://open.spotify.com/track/6aRKwQBMl8G2XaGfy7eDrx"
@@ -486,10 +544,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 219937,
       "name": "Claw",
       "url": "https://open.spotify.com/track/6JLTatKOVYScUNqqK2iERr"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Evalution",
+          "url": "https://open.spotify.com/artist/1m3BeGVpc21uM3wC4MSDfq"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138813,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/1BswTUn90cgvpRN30JNJFM"
     },
     {
       "album": {
@@ -526,7 +602,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 195348,
       "name": "Coldburst",
       "url": "https://open.spotify.com/track/6nkMdVcY08yNjPhgCXWGJz"
@@ -570,7 +646,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4U8yrkTPcJLOfK142vcYCv"
@@ -592,7 +668,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 131657,
       "name": "Counting - Simula Remix",
       "url": "https://open.spotify.com/track/0nzDaPjb2Nm09dTqIn4uOJ"
@@ -614,7 +690,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 186338,
       "name": "Counting - Taiki Nulight Remix",
       "url": "https://open.spotify.com/track/1NSWEN2D4tSseirwne0bhD"
@@ -632,7 +708,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 222906,
       "name": "CRAY",
       "url": "https://open.spotify.com/track/33D0bfQFqkc6k9vW9OcH0B"
@@ -676,10 +752,32 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 188197,
       "name": "CRUISIN",
       "url": "https://open.spotify.com/track/2GQI4Xj5hjT2wCp95W2U6R"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Sagaman",
+          "url": "https://open.spotify.com/artist/2U7zxnBc9X7hVKBiVfSM29"
+        },
+        {
+          "name": "XL",
+          "url": "https://open.spotify.com/artist/5eWRNK24B0BOh4wiCge5IH"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171725,
+      "name": "Cumuto",
+      "url": "https://open.spotify.com/track/49fAxCphCd8DOzXDHX4zzU"
     },
     {
       "album": {
@@ -694,10 +792,32 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 193767,
       "name": "Damage",
       "url": "https://open.spotify.com/track/0llgSrqseKarsyuL2DxOEc"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "MontyCler",
+          "url": "https://open.spotify.com/artist/58pVdkxx4UZqPrNAWDdOEw"
+        },
+        {
+          "name": "STVSH",
+          "url": "https://open.spotify.com/artist/5nEtdd8cmhvf1zgNMFoQcI"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/3SoamIpcuox8LEzgOOB5EH"
     },
     {
       "album": {
@@ -730,10 +850,28 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 245678,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/080ykYdAZJaUaEeu1hnVtF"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Skellytn",
+          "url": "https://open.spotify.com/artist/2UFoFFh9ayxK6EvW4tZcH3"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209777,
+      "name": "Digital Realm",
+      "url": "https://open.spotify.com/track/2NxqIXMSwvAPEaZOY3OyRX"
     },
     {
       "album": {
@@ -748,7 +886,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 155200,
       "name": "DIMENSIONS",
       "url": "https://open.spotify.com/track/4msDV8woKgp0ZeF16NcEdU"
@@ -916,7 +1054,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 273006,
       "name": "EIN SCH\u00d6NER PLATZ",
       "url": "https://open.spotify.com/track/153FJ3SVsJBZfaX3LORoNk"
@@ -956,7 +1094,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 256285,
       "name": "Endeavors",
       "url": "https://open.spotify.com/track/4csuDCOgWqTL7YznSqKEsK"
@@ -974,7 +1112,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 175999,
       "name": "Erotica",
       "url": "https://open.spotify.com/track/7tVRemm7dzzf2m1AfWqiKZ"
@@ -992,7 +1130,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 122222,
       "name": "eventHORIZON",
       "url": "https://open.spotify.com/track/6APfyRHtvoWy268M5HBLrI"
@@ -1072,7 +1210,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 201379,
       "name": "Feel Ur Touch",
       "url": "https://open.spotify.com/track/2AyS9W5k9vsU6FHHNACWd8"
@@ -1094,7 +1232,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 197154,
       "name": "Fingertips",
       "url": "https://open.spotify.com/track/6dEGKWFnL2qGzdmS17jSUF"
@@ -1116,7 +1254,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 210937,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
@@ -1138,7 +1276,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 135000,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/4NDhaxAmbKXM8LKrOPNxsy"
@@ -1164,7 +1302,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 187916,
       "name": "Flip It - Tape B Remix",
       "url": "https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT"
@@ -1194,7 +1332,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 152068,
       "name": "Flip It - \u00c6ON:MODE Remix",
       "url": "https://open.spotify.com/track/6zw7s3znqtUvU90Q5blgEj"
@@ -1255,6 +1393,28 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "1TK",
+          "url": "https://open.spotify.com/artist/1uPUBF4yzXf4fInnNaQndW"
+        },
+        {
+          "name": "Operator P",
+          "url": "https://open.spotify.com/artist/38B1z50DBn1H63AanSlC5d"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297932,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/4gdtVmSW7mRlERgZ0YgmiQ"
+    },
+    {
+      "album": {
         "name": "Function",
         "url": "https://open.spotify.com/album/3Je3eKWetXLlHlL2sna87F"
       },
@@ -1270,7 +1430,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 184615,
       "name": "Function",
       "url": "https://open.spotify.com/track/48KGR8WF4VcJAPg2w38B8T"
@@ -1306,7 +1466,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 236800,
       "name": "GLITCH",
       "url": "https://open.spotify.com/track/3C3ZOzxGQtu4V1uxCmI799"
@@ -1328,7 +1488,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 142008,
       "name": "Gotowork",
       "url": "https://open.spotify.com/track/7fvraVExzK5M0Oh93X84Ir"
@@ -1376,6 +1536,24 @@
       "duration_ms": 205140,
       "name": "Haunt My Mind - Machinedrum Remix",
       "url": "https://open.spotify.com/track/3TXrfDuEZxTaXLG8236DyQ"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "VEIL",
+          "url": "https://open.spotify.com/artist/0ybSaiyrqXo6YU3vhexVt6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Hellpod",
+      "url": "https://open.spotify.com/track/0Lkajj4YLJAbilxzK6l5d8"
     },
     {
       "album": {
@@ -1463,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Hydraulix",
+          "url": "https://open.spotify.com/artist/0v6pkn5nWfqK3vgeg0gl0W"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "I Spit Da Fire",
+      "url": "https://open.spotify.com/track/1SxfJn8iaotM1t6Dhx6XTY"
+    },
+    {
+      "album": {
         "name": "Into The HEYZ, Part I",
         "url": "https://open.spotify.com/album/4Pmq8bZNhxmBYBdGzMhjg4"
       },
@@ -1532,7 +1728,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 188752,
       "name": "ineedu",
       "url": "https://open.spotify.com/track/2TGlJkvzUmyoJVKQxhxhsC"
@@ -1616,7 +1812,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 228965,
       "name": "Interference",
       "url": "https://open.spotify.com/track/0pIpEN61pTQZN8nBUzgpDq"
@@ -1699,6 +1895,28 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Wraz.",
+          "url": "https://open.spotify.com/artist/67b5TsLqAzMdmtWZCy2k7D"
+        },
+        {
+          "name": "PAV4N",
+          "url": "https://open.spotify.com/artist/1csMDtU42ZYNaqadbA4TAK"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334271,
+      "name": "Invasion",
+      "url": "https://open.spotify.com/track/0hJF6mLipUhuYs4sOiPOZd"
+    },
+    {
+      "album": {
         "name": "Deadbeats & Brownies - Drum & Bass Compilation",
         "url": "https://open.spotify.com/album/2c8ZBXzPWrAFjDoocg5Ule"
       },
@@ -1710,7 +1928,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 217674,
       "name": "It's Our Destiny - IMANU Remix",
       "url": "https://open.spotify.com/track/1hpGoHU1fJDizORjFQIkJp"
@@ -1728,7 +1946,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 236417,
       "name": "Kat Tracker",
       "url": "https://open.spotify.com/track/09SowvtFvazAyUZCyKjnSI"
@@ -1782,10 +2000,32 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 275862,
       "name": "Know By Now",
       "url": "https://open.spotify.com/track/7wthIYYW5izwk0Dm5BoIar"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "LUMBERJVCK",
+          "url": "https://open.spotify.com/artist/4KGyomagqa7oWswreOlh3T"
+        },
+        {
+          "name": "HiddenLif",
+          "url": "https://open.spotify.com/artist/2lMW6aLF38tAoJAK21NiyX"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "Lambo",
+      "url": "https://open.spotify.com/track/4A7vEAKe2465yBuf98CxoZ"
     },
     {
       "album": {
@@ -1880,7 +2120,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 228200,
       "name": "Lily Of The Valley",
       "url": "https://open.spotify.com/track/0NudygRakr4IVXP4afCD3x"
@@ -1920,7 +2160,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 192209,
       "name": "LOST TOUCH",
       "url": "https://open.spotify.com/track/1py6ssItqqXYAKrYT1hzAS"
@@ -1938,7 +2178,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 243886,
       "name": "Lovin U",
       "url": "https://open.spotify.com/track/2N6uw9GNlh19AzqKo35R0q"
@@ -1974,7 +2214,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 188800,
       "name": "LYSS",
       "url": "https://open.spotify.com/track/5uYuLVSvHnvzd03RYm01PY"
@@ -2000,7 +2240,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 194685,
       "name": "Mad Ting",
       "url": "https://open.spotify.com/track/1y0kCZvdRxr22scqgH6ci9"
@@ -2018,7 +2258,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 219720,
       "name": "Mellow Man",
       "url": "https://open.spotify.com/track/2GYMEBJeoZxHqIXc6ymsg1"
@@ -2058,6 +2298,24 @@
       "duration_ms": 285123,
       "name": "N.V.T 01",
       "url": "https://open.spotify.com/track/3IZtGyzQF1YnG561LWLrDt"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Cimm",
+          "url": "https://open.spotify.com/artist/5X4hjk9hibUXzbSn3jq6ZK"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357382,
+      "name": "Neville Bartos",
+      "url": "https://open.spotify.com/track/2hTgABeudycK1FR2xtMa7l"
     },
     {
       "album": {
@@ -2108,7 +2366,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 161860,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/0jsel4Sd5rrRfDaPK0Djnl"
@@ -2148,7 +2406,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 237044,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/0aQZINxg2Guxiyxjy4pdtt"
@@ -2170,7 +2428,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 152516,
       "name": "ONE FOR YOU",
       "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
@@ -2239,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Chief Kaya",
+          "url": "https://open.spotify.com/artist/558zMGW1SDfXPdI862UQ2A"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283392,
+      "name": "Ouroboros",
+      "url": "https://open.spotify.com/track/6wuu6AqGXh7ik5nETwS0d9"
+    },
+    {
+      "album": {
         "name": "Out For Blood",
         "url": "https://open.spotify.com/album/4dYVktttrR5GVE6JEFA0Xp"
       },
@@ -2254,7 +2530,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 316734,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/0UNpHzs0Sm29tiIl6Wq6RN"
@@ -2312,7 +2588,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 220800,
       "name": "Parabellum",
       "url": "https://open.spotify.com/track/0Uy2wbMiudT1PmJCpyxo1x"
@@ -2396,7 +2672,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 166012,
       "name": "PREY",
       "url": "https://open.spotify.com/track/0Yk6JcL183ULQMmDQPc3f6"
@@ -2448,7 +2724,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 185244,
       "name": "Push",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
@@ -2488,7 +2764,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 182003,
       "name": "Reptile",
       "url": "https://open.spotify.com/track/01NzITypb9KJfNjnma5hcj"
@@ -2524,7 +2800,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 226285,
       "name": "Ring Master",
       "url": "https://open.spotify.com/track/0KOb8JQInFydOboaHSsJls"
@@ -2626,10 +2902,32 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 211714,
       "name": "Run It",
       "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Ace",
+          "url": "https://open.spotify.com/artist/4lLOAhxOMmmbrKoQnWRsAM"
+        },
+        {
+          "name": "Katrina Anastasia",
+          "url": "https://open.spotify.com/artist/6SCKIIvdm9MXWZXv5KJZs7"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239568,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/4wbmZZyzUlGD0joN0ySlAC"
     },
     {
       "album": {
@@ -2648,7 +2946,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 202394,
       "name": "Rush",
       "url": "https://open.spotify.com/track/0sWniVm3HUdyxClGcyJEUM"
@@ -2688,7 +2986,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 243238,
       "name": "Scared",
       "url": "https://open.spotify.com/track/7DgRZtTKvoa6PlbOUbsU5N"
@@ -2706,7 +3004,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 226928,
       "name": "Scarlets",
       "url": "https://open.spotify.com/track/6TmO7QenMDNG6jTTaXxEY0"
@@ -2768,7 +3066,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 253714,
       "name": "Seeu",
       "url": "https://open.spotify.com/track/5u5hHZkj4vRO3LolFcW26t"
@@ -2786,7 +3084,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 237209,
       "name": "SELF TALKING",
       "url": "https://open.spotify.com/track/3BvLYexVIFs3PFAAQhQXZl"
@@ -2808,6 +3106,24 @@
       "duration_ms": 190500,
       "name": "Ship Destroyer",
       "url": "https://open.spotify.com/track/6RM7SutzlkkUA5YF9dkQw7"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "OkayJake",
+          "url": "https://open.spotify.com/artist/1inEarlQOFZ2KWNnQDHqo3"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Shouldn't Have Called",
+      "url": "https://open.spotify.com/track/4bq8wTJGt8UuGbh7wpsr5d"
     },
     {
       "album": {
@@ -2848,7 +3164,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 222315,
       "name": "Smoak & Sip",
       "url": "https://open.spotify.com/track/48abYOiPEloRHZ4XsMmVDA"
@@ -2870,6 +3186,24 @@
       "duration_ms": 137106,
       "name": "Space Gear",
       "url": "https://open.spotify.com/track/0yyMs8sbdFeu3KjpUYnX0g"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Abstrakt Sonance",
+          "url": "https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Stank",
+      "url": "https://open.spotify.com/track/56asRt7RFwPcXJWdcXlR2Q"
     },
     {
       "album": {
@@ -2896,7 +3230,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 185448,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/3fziFvvQWBSEIp86qxaphU"
@@ -2914,7 +3248,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 176200,
       "name": "Steps On You (Peep My Style)",
       "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"
@@ -2972,7 +3306,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 93528,
       "name": "SUNSHiNE OF YOUR WUB",
       "url": "https://open.spotify.com/track/413ir53trC0Nfh4Mhdmgws"
@@ -3008,7 +3342,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 216000,
       "name": "The Blade",
       "url": "https://open.spotify.com/track/2ZeV6RMdHIdNIqermL9IcU"
@@ -3084,7 +3418,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 265454,
       "name": "The Streets",
       "url": "https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn"
@@ -3106,6 +3440,28 @@
       "duration_ms": 208000,
       "name": "THERMAL",
       "url": "https://open.spotify.com/track/00UfzIW2saDaMq9oJTxt4t"
+    },
+    {
+      "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Tomb Of The Scorpion",
+      "url": "https://open.spotify.com/track/0mHEnHpkpSPZJKsLSPrzKy"
     },
     {
       "album": {
@@ -3198,7 +3554,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 186461,
       "name": "Trippy Land",
       "url": "https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz"
@@ -3242,7 +3598,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 179555,
       "name": "ULTRA",
       "url": "https://open.spotify.com/track/3Ay8T9GWI4uKlR3fll8sem"
@@ -3267,6 +3623,24 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "Steller",
+          "url": "https://open.spotify.com/artist/7fNu9x4iV166BQmQQKOmXl"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Vibe One Time",
+      "url": "https://open.spotify.com/track/2148RHfNMrIyXTDIqWdDmy"
+    },
+    {
+      "album": {
         "name": "Wait For The Drop",
         "url": "https://open.spotify.com/album/1TLclb9gc0pMUgSjiCiuCc"
       },
@@ -3282,7 +3656,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 180018,
       "name": "Wait For The Drop - VIP Edit",
       "url": "https://open.spotify.com/track/5uvI0luawv5HFWSivNzsqM"
@@ -3308,7 +3682,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 175813,
       "name": "Warrior",
       "url": "https://open.spotify.com/track/0fUNGVCxm0SIFyA1AetBeD"
@@ -3334,7 +3708,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 294857,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
@@ -3352,7 +3726,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 182475,
       "name": "What I Need",
       "url": "https://open.spotify.com/track/7pRAUjVVOHT6vXMto3kxv5"
@@ -3395,6 +3769,28 @@
     },
     {
       "album": {
+        "name": "We Are Deadbeats Vol. 6",
+        "url": "https://open.spotify.com/album/0c6ajavVmRZO3ro3SyDTdh"
+      },
+      "artists": [
+        {
+          "name": "HerShe",
+          "url": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
+        },
+        {
+          "name": "Seth David",
+          "url": "https://open.spotify.com/artist/1wfOprPxy1C22S9zV8tK3b"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126428,
+      "name": "You Better Take This!",
+      "url": "https://open.spotify.com/track/66rXNTqO8QZ62MCxjerrt0"
+    },
+    {
+      "album": {
         "name": "You Know",
         "url": "https://open.spotify.com/album/6h3SJviSvcDqBoAPiI0Pdl"
       },
@@ -3406,7 +3802,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 140785,
       "name": "You Know",
       "url": "https://open.spotify.com/track/4U2QkQFO9uOJSjeD7vRBCS"

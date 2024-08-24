@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 205988,
       "name": "Everything (feat. ALLKNIGHT)",
       "url": "https://open.spotify.com/track/2N6ybgZJj33vh6Xx4dpLYj"
@@ -1812,6 +1812,32 @@
       "duration_ms": 157001,
       "name": "Hey DJ",
       "url": "https://open.spotify.com/track/2AthrfD1o1v3wIYIdJSJwi"
+    },
+    {
+      "album": {
+        "name": "HIGHER (feat. SACHA)",
+        "url": "https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "HIGHER (feat. SACHA)",
+      "url": "https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM"
     },
     {
       "album": {
@@ -2814,7 +2840,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 146221,
       "name": "Namerakana 2.0",
       "url": "https://open.spotify.com/track/4SclnywxVnNy94jNauNvPt"
@@ -2964,7 +2990,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 131433,
       "name": "Numb",
       "url": "https://open.spotify.com/track/7zjm4MakxzCAZa3wHXezO8"

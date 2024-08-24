@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 115241,
+  "num_followers": 115292,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -435,18 +435,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "I Got Rhythm",
-        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
       },
       "artists": [
         {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Jim Hall",
+          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
         }
       ],
-      "duration_ms": 187746,
-      "name": "As Times Goes By",
-      "url": "https://open.spotify.com/track/5w2q0VJw3QYjjDKnb4Mt8Z"
+      "duration_ms": 309666,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/1qTNMWo0Al8AfAX6aPGo6k"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -467,22 +471,18 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ"
+        "name": "I Got Rhythm",
+        "url": "https://open.spotify.com/album/06nblZEpSdnbBN6iLwl3W9"
       },
       "artists": [
         {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Jim Hall",
-          "url": "https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr"
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
         }
       ],
-      "duration_ms": 309666,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/1qTNMWo0Al8AfAX6aPGo6k"
+      "duration_ms": 187746,
+      "name": "As Times Goes By",
+      "url": "https://open.spotify.com/track/5w2q0VJw3QYjjDKnb4Mt8Z"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Soul Station",
-        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
-      },
-      "artists": [
-        {
-          "name": "Hank Mobley",
-          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "The Steamer (Expanded Edition)",
         "url": "https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 390666,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/6kabc7w6PokXfLdhQyqG58"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "If I Should Lose You - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Coltrane Jazz",
         "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 288986,
       "name": "My Shining Hour",
       "url": "https://open.spotify.com/track/38DgLl4Cm6tU7wKyB6ZykE"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
+        "name": "Soulville",
+        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
+      },
+      "artists": [
+        {
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
+        }
+      ],
+      "duration_ms": 508933,
+      "name": "Lover Come Back To Me",
+      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
         "name": "Konitz Meets Mulligan",
         "url": "https://open.spotify.com/album/7yXH6IIoz1egpOdG62fiMh"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 178640,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
-        "name": "Soulville",
-        "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 508933,
-      "name": "Lover Come Back To Me",
-      "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "The Legendary Prestige Quintet Sessions",
-        "url": "https://open.spotify.com/album/03XgJJkhiUfrhcYrL9mopm"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
-        }
-      ],
-      "duration_ms": 500480,
-      "name": "If I Were A Bell - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/2I1WZ8gHdusnDJKEm7qnNy"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 447760,
       "name": "You've Changed",
       "url": "https://open.spotify.com/track/1bzWQAERd8mtwpxH8R4vjB"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "The Legendary Prestige Quintet Sessions",
+        "url": "https://open.spotify.com/album/03XgJJkhiUfrhcYrL9mopm"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "duration_ms": 500480,
+      "name": "If I Were A Bell - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/2I1WZ8gHdusnDJKEm7qnNy"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
-      },
-      "artists": [
-        {
-          "name": "Lennie Tristano Sextet",
-          "url": "https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
         "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 237333,
       "name": "You Took Advantage Of Me",
       "url": "https://open.spotify.com/track/1QpoiqlsaMLOfxfcnjIpuy"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+      },
+      "artists": [
+        {
+          "name": "Lennie Tristano Sextet",
+          "url": "https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Boss Guitar [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/2bpF4FOmTyBanTjzPfwv6Y"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Dearly Beloved",
-      "url": "https://open.spotify.com/track/3ZBsbQOqGJWUpApbCXiQkU"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Another Workout",
         "url": "https://open.spotify.com/album/0asfmpz1bfQKt2Q0GDJAji"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 483946,
       "name": "Hello, Young Lovers - Remastered 2006",
       "url": "https://open.spotify.com/track/0FbiwclsX9EVAY711xZQ9g"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Boss Guitar [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/2bpF4FOmTyBanTjzPfwv6Y"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Dearly Beloved",
+      "url": "https://open.spotify.com/track/3ZBsbQOqGJWUpApbCXiQkU"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Verve Jazz Masters 50: Sonny Stitt",
-        "url": "https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA"
-      },
-      "artists": [
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
-        }
-      ],
-      "duration_ms": 189893,
-      "name": "I Got Rhythm",
-      "url": "https://open.spotify.com/track/29e5iLMydpu1LynhZrS1QI"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Take Five: Jazz Classics",
         "url": "https://open.spotify.com/album/09e1nOPpppExp0qwaiotQ3"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 185293,
       "name": "Someone to Watch Over Me",
       "url": "https://open.spotify.com/track/7m00AecmzNV4J4XPMFT7tw"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Verve Jazz Masters 50: Sonny Stitt",
+        "url": "https://open.spotify.com/album/4dpEvh4rulUsOVn6WMWItA"
+      },
+      "artists": [
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "duration_ms": 189893,
+      "name": "I Got Rhythm",
+      "url": "https://open.spotify.com/track/29e5iLMydpu1LynhZrS1QI"
     },
     {
       "added_at": "2024-07-08 06:51:47",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-07-08 06:51:47",
       "album": {
-        "name": "Very Cool + Tranquillity",
-        "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 369786,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/2mXOCV01q4axg8TpU2zA0j"
-    },
-    {
-      "added_at": "2024-07-08 06:51:47",
-      "album": {
         "name": "Play The Arrangements Of Jimmy Giuffre",
         "url": "https://open.spotify.com/album/0Rn37SXYjCna8E1PRUFCtD"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 252626,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/1hqE4EEytGPhHsNKDVngTZ"
+    },
+    {
+      "added_at": "2024-07-08 06:51:47",
+      "album": {
+        "name": "Very Cool + Tranquillity",
+        "url": "https://open.spotify.com/album/6Q9k7bnX9UhjY54le5AFtJ"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 369786,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/2mXOCV01q4axg8TpU2zA0j"
     },
     {
       "added_at": "2024-07-08 06:51:47",

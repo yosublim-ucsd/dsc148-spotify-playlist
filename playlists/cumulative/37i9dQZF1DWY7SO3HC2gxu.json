@@ -327,6 +327,32 @@
     },
     {
       "album": {
+        "name": "Dhurman",
+        "url": "https://open.spotify.com/album/0L8bjadIiBH6tkIXE7jXjr"
+      },
+      "artists": [
+        {
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Nyamal Nyang",
+          "url": "https://open.spotify.com/artist/2nUvkwwkStnsjzkFNt1Yi9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286126,
+      "name": "Dhurman",
+      "url": "https://open.spotify.com/track/5kdpjpVTsYAqJZr7hTfQR1"
+    },
+    {
+      "album": {
         "name": "Digane",
         "url": "https://open.spotify.com/album/01w2MOtpTJWuQafvkTqR6v"
       },
@@ -523,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Field Marshal",
+        "url": "https://open.spotify.com/album/6EE6g9l0mzMXubQJTmoGfg"
+      },
+      "artists": [
+        {
+          "name": "Jack Rooster",
+          "url": "https://open.spotify.com/artist/6eOFtqlRygKBcvT4VBKXHP"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323823,
+      "name": "Field Marshal",
+      "url": "https://open.spotify.com/track/0nJKcRz0vf0FuCJHtOk7JK"
+    },
+    {
+      "album": {
         "name": "Find Your Way",
         "url": "https://open.spotify.com/album/4Ip7RbsFLF6XKTaoHcb4PZ"
       },
@@ -648,6 +692,28 @@
       "duration_ms": 193466,
       "name": "Gongo",
       "url": "https://open.spotify.com/track/55UCq8K2C8Tf1zJ4CIhta0"
+    },
+    {
+      "album": {
+        "name": "Gorah",
+        "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Gorah",
+      "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
     },
     {
       "album": {
@@ -2127,6 +2193,28 @@
     },
     {
       "album": {
+        "name": "Pyramids",
+        "url": "https://open.spotify.com/album/4Imc9qg3fBn0KuusJYydSb"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566534,
+      "name": "Njoke Njuge",
+      "url": "https://open.spotify.com/track/2hnnON4yT1gk5vnbCON1Q7"
+    },
+    {
+      "album": {
         "name": "Nyoro",
         "url": "https://open.spotify.com/album/0Jn4m8XlZgSbuWYjlzc22S"
       },
@@ -3482,6 +3570,36 @@
       "duration_ms": 372625,
       "name": "We Belong - Breeze and The Sun & Neil Amarey Remix",
       "url": "https://open.spotify.com/track/1Wusyq8vwzJMaaKhN82c2z"
+    },
+    {
+      "album": {
+        "name": "Weche (Frigid Armadillo Remix)",
+        "url": "https://open.spotify.com/album/6kIAiqOVtJaHrpf77tmS9F"
+      },
+      "artists": [
+        {
+          "name": "Punk Mbedzi",
+          "url": "https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi"
+        },
+        {
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        },
+        {
+          "name": "Akoth Jumadi",
+          "url": "https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo"
+        },
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485120,
+      "name": "Weche - Frigid Armadillo Remix",
+      "url": "https://open.spotify.com/track/6mXDUMeyDiCOXfejzfgy26"
     },
     {
       "album": {

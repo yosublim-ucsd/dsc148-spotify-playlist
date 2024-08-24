@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Noeline Hofmann
+> The home of Canadian country music\. Cover: Madeline Merlo & Dustin Lynch
 
-107 songs - 5 hr 41 min
+110 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [As You Are](https://open.spotify.com/track/4DXs4CjeQ91Abx1xReQ3cC) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [As You Are](https://open.spotify.com/album/0LCxYgE6QltpzkxhVXOPez) | 4:06 | 2024-06-28 |  |
 | [Back At Your Door](https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:32 | 2024-08-02 |  |
 | [Band On Her T\-Shirt](https://open.spotify.com/track/3aQH4moGvuz3JTU4I2lsFW) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Band On Her T\-Shirt](https://open.spotify.com/album/2NvZ047DnmgdTVu8HgdonK) | 3:09 | 2024-06-28 | 2024-07-19 |
-| [Better Mistake](https://open.spotify.com/track/2knmYl21AiF8yljirioZGw) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [Better Mistake](https://open.spotify.com/album/0akU8Sc3cY9N8BV7lkkGkQ) | 2:38 | 2024-06-28 |  |
+| [Better Mistake](https://open.spotify.com/track/2knmYl21AiF8yljirioZGw) | [Teigen Gayse](https://open.spotify.com/artist/1k8sDryfnPptQu6zMlOrp4) | [Better Mistake](https://open.spotify.com/album/0akU8Sc3cY9N8BV7lkkGkQ) | 2:38 | 2024-06-28 | 2024-08-24 |
 | [Bigger Than This Town](https://open.spotify.com/track/4bH59P2RLgvOLXhrq6oXci) | [Steven Lee Olsen](https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO) | [Bigger Than This Town](https://open.spotify.com/album/4H2YuZzuZVD0gua6xinUPP) | 2:54 | 2024-06-28 |  |
 | [Blinding Lights \- Country Version](https://open.spotify.com/track/6cRJTmba0JHDquftAkxUgG) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Blinding Lights \(Country Version\)](https://open.spotify.com/album/2xdFoFzJDYziRnia2PBEgt) | 3:06 | 2024-06-28 |  |
 | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/track/0appuRNOXyt4hxUbXNhkyr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Boots Don't \(From Twisters: The Album\)](https://open.spotify.com/album/6U7V83LwS6cLtCtoxSDxQr) | 2:28 | 2024-07-19 |  |
@@ -39,11 +39,14 @@
 | [End Game](https://open.spotify.com/track/0Hn8PDXY6SAaikKJNjpD7z) | [Emma Kade](https://open.spotify.com/artist/1ZP71cqO4xor5i3gqhuRHx) | [End Game](https://open.spotify.com/album/5uQoGeooNx3xA57poJGnRA) | 3:16 | 2024-06-28 |  |
 | [Family First](https://open.spotify.com/track/6Wwr6c7cF6xPvqTbGGBk9I) | [Eric Ethridge](https://open.spotify.com/artist/6h3SuFXFhINbYsVyIgaKLS) | [Family First](https://open.spotify.com/album/3UpphRVmpfImtobnjhFn3p) | 4:00 | 2024-06-28 | 2024-07-06 |
 | [Finding Firsts](https://open.spotify.com/track/6fOSP6RwzVppsvQWTj8IVd) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [L Is For](https://open.spotify.com/album/623wRIGODh3IBqDv3rVKOk) | 3:29 | 2024-06-28 | 2024-07-13 |
+| [Five Beers From Now](https://open.spotify.com/track/6LGAKE2ueo1S3K74wST2zU) | [Riley Taylor](https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9) | [Five Beers From Now](https://open.spotify.com/album/5WrD6JrbGQNvoirJTTnuiP) | 3:03 | 2024-08-23 |  |
 | [Get Outta My Dreams, Get into My Truck](https://open.spotify.com/track/7qKUsQ6CsK5k70EAUIlOv4) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Get Outta My Dreams, Get into My Truck](https://open.spotify.com/album/4FgylBunFrYAdWkEAuQPXz) | 3:36 | 2024-06-28 |  |
 | [Go Deep \(Jays Edition\)](https://open.spotify.com/track/7fotqYdDq2BWtHYJV2oTdY) | [Jeremy Macklin](https://open.spotify.com/artist/6JQ5BCJ9lQNQodoGAt3QJ0) | [Go Deep \(Jays Edition\)](https://open.spotify.com/album/2i2YYCoA2SGp3VLUT0HBN0) | 2:56 | 2024-07-19 |  |
 | [Go Get Er](https://open.spotify.com/track/3InbmgnbaVKkrI3mBMrnBq) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/5XIsumyPFxk44Y4MXu5edY) | 3:03 | 2024-06-28 |  |
 | [Golden Rules](https://open.spotify.com/track/4cIpz9pVrZ0aaHWqAMMaW7) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Golden Rules](https://open.spotify.com/album/51KnCu9usIKL5K2RMDoAEY) | 3:01 | 2024-07-26 |  |
 | [Got It](https://open.spotify.com/track/1hJzdE1N69zSEmG5VIhEwy) | [Dustin Bird](https://open.spotify.com/artist/2SLrAqe5sHj0UuRYla8LOf) | [Got It](https://open.spotify.com/album/2mEdu1KXHXyY8KaKnTBf0F) | 2:47 | 2024-06-28 |  |
+| [Halfway](https://open.spotify.com/track/5GiOwpuHSFeh0snoOIGnaH) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Halfway](https://open.spotify.com/album/3y6XWLi6AnYqkdOhopkLe3) | 3:39 | 2024-08-23 |  |
+| [He's The One](https://open.spotify.com/track/2UpfodsBum0ZsQEo10FWXb) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [He's The One](https://open.spotify.com/album/5oaGk1fr7NQxfHEMccMFFT) | 3:13 | 2024-08-23 |  |
 | [Heartbreak Saloon](https://open.spotify.com/track/2b74hgJd9xnOW6AjSEisnO) | [Dallas Alexander](https://open.spotify.com/artist/5iXE5iocUV7kCWdl0b4iJv) | [Heartbreak Saloon](https://open.spotify.com/album/67fo7zpzdcwoYr7vfXHbhn) | 4:07 | 2024-08-16 |  |
 | [HELL YEAH](https://open.spotify.com/track/6ihqdWcWjIMoTtdPgevo2K) | [Andy Colonico](https://open.spotify.com/artist/3u3WCmcBDZw4Ow4sDft4kO) | [HELL YEAH](https://open.spotify.com/album/4hI2zD9yAGH86zksyQE1U6) | 3:20 | 2024-06-28 | 2024-07-19 |
 | [Here To Stay](https://open.spotify.com/track/6I9nTnwUOzb8hHukEoBkeH) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Here To Stay](https://open.spotify.com/album/5jm0SNnhwVAVpOp7AIvCWN) | 3:12 | 2024-06-28 | 2024-08-03 |
@@ -83,7 +86,7 @@
 | [Race To The Bottom](https://open.spotify.com/track/0H5DWpSg5JKBGCClsUpbeH) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Race To The Bottom](https://open.spotify.com/album/1Mkg0nlrfMXlApH5vlO7Up) | 2:30 | 2024-08-02 |  |
 | [Redneck Rehab](https://open.spotify.com/track/1ioW2pEBF2XlfF9GGLYJ4N) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Redneck Rehab](https://open.spotify.com/album/6uZt8YaxQqUOtHIVJjhU9D) | 3:09 | 2024-06-28 | 2024-08-03 |
 | [Right Around Sundown](https://open.spotify.com/track/4QZFOx7kXWnD8IClPfaEp6) | [Reed Salmon](https://open.spotify.com/artist/4opAiuSMSLK0b5bg6UGQFD) | [Right Around Sundown](https://open.spotify.com/album/1BpS3RM0BsRwlIcBsKbFiV) | 2:41 | 2024-06-28 |  |
-| [River Runnin' Wide](https://open.spotify.com/track/0SbrzOOLejgBYDqg9CFw6m) | [Brenton David](https://open.spotify.com/artist/4d3XPB2meP3mifOV6RuvrG) | [River Runnin' Wide](https://open.spotify.com/album/01lfgGvbQL3ZfT7CbaD3zs) | 3:48 | 2024-06-28 |  |
+| [River Runnin' Wide](https://open.spotify.com/track/0SbrzOOLejgBYDqg9CFw6m) | [Brenton David](https://open.spotify.com/artist/4d3XPB2meP3mifOV6RuvrG) | [River Runnin' Wide](https://open.spotify.com/album/01lfgGvbQL3ZfT7CbaD3zs) | 3:48 | 2024-06-28 | 2024-08-24 |
 | [Second Wind](https://open.spotify.com/track/71UKlf9OjnkhyPXUNyDeDk) | [Megan Dawson](https://open.spotify.com/artist/3FuZQgYK8xR8diGiLTcGp4), [Flaysher](https://open.spotify.com/artist/5k9kGNpX4gbXMBZmlwd1ST) | [Second Wind](https://open.spotify.com/album/7oln7g3J4F7wa7vsOjC56K) | 3:21 | 2024-08-09 |  |
 | [Sendin' Myself to Church](https://open.spotify.com/track/4YKzfCmtKEWUWB91OpjSe5) | [Taylor\-Rae](https://open.spotify.com/artist/0DlnbmX0kuF1v8xzxxtqN8) | [Sendin' Myself to Church](https://open.spotify.com/album/6Dgggkmp0F1a7PtBfJy9L5) | 3:01 | 2024-07-19 |  |
 | [Seventeen](https://open.spotify.com/track/1SHpHu0loVuIXvasFr5qsA) | [Madisyn Gifford](https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85) | [Seventeen](https://open.spotify.com/album/5avFJN7Foam2pPkN3H5NGD) | 3:26 | 2024-07-05 |  |

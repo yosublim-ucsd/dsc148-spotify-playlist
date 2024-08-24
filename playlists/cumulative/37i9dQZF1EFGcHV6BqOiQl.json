@@ -647,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Tete",
+        "url": "https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163665,
+      "name": "Tete",
+      "url": "https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB"
+    },
+    {
+      "album": {
         "name": "Who Is Your Guy? (Remix)",
         "url": "https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R"
       },

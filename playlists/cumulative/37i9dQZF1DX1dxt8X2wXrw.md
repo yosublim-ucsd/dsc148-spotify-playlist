@@ -4,7 +4,7 @@
 
 > catch a vibe 🌹
 
-85 songs - 4 hr 44 min
+86 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [KARMA](https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [KARMA](https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5) | 3:07 | 2024-03-28 | 2024-07-24 |
 | [L o s e M y M i n d](https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [L o s e M y M i n d](https://open.spotify.com/album/4EYRBdtOIR0fkTzVXN6bvI) | 3:03 | 2024-04-11 | 2024-07-21 |
 | [Learning](https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Learning](https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL) | 4:43 | 2024-03-28 |  |
-| [Leo](https://open.spotify.com/track/4VwPMpZ4svZluuiZj9vNSM) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [Leo](https://open.spotify.com/album/0gzJMcdE0Ghdvw4EMnaAfL) | 4:05 | 2024-04-18 |  |
+| [Leo](https://open.spotify.com/track/4VwPMpZ4svZluuiZj9vNSM) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b) | [Leo](https://open.spotify.com/album/0gzJMcdE0Ghdvw4EMnaAfL) | 4:05 | 2024-04-18 | 2024-08-24 |
 | [Lucid Dreams](https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN) | 3:02 | 2024-03-28 |  |
 | [Make Friends \- Pocket Size Radio Edit](https://open.spotify.com/track/2TO33go9HrlIUiduVua6Ic) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Make Friends](https://open.spotify.com/album/3o6yPI5w4ywLt8menXJ6Jm) | 4:08 | 2024-03-28 |  |
 | [Make sense](https://open.spotify.com/track/7DLF9Dz9rx3LEIqXIE5ebP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 2:21 | 2024-03-28 |  |
@@ -70,6 +70,7 @@
 | [Pretty Little Thing](https://open.spotify.com/track/5C9anXz5T3PY3A5YkH66cn) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:01 | 2024-03-28 |  |
 | [pretty photos](https://open.spotify.com/track/1PmXc402f75cyfgLlXWSEH) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [it was nice knowing u](https://open.spotify.com/album/2lTY9F1Grt1D0HPsaQrGGT) | 2:56 | 2024-03-28 |  |
 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-28 |  |
+| [Rockabye](https://open.spotify.com/track/1yMzSOuuTWGG4HEGNJYqWE) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [Rockabye](https://open.spotify.com/album/1KqHxx5Q7SHF9u7ws1up2v) | 2:30 | 2024-07-12 |  |
 | [Self](https://open.spotify.com/track/0J9uaeOd7GZi9MTybtqAD4) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:19 | 2024-03-28 |  |
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2024-03-28 |  |
 | [Spirit 2.0](https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Spirit 2.0](https://open.spotify.com/album/6idz4m2nMbiHsx3QjHhdcv) | 4:49 | 2024-03-28 |  |

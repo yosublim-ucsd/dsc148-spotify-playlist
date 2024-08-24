@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 328474,
+  "num_followers": 328549,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Saturn St.",
-        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
+        "name": "Glimmer / Change",
+        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
       },
       "artists": [
         {
-          "name": "Lando Burch",
-          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
+          "name": "AGST",
+          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
         }
       ],
-      "duration_ms": 157500,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
+      "duration_ms": 215125,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Glimmer / Change",
-        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
+        "name": "Saturn St.",
+        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
       },
       "artists": [
         {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
+          "name": "Lando Burch",
+          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
         }
       ],
-      "duration_ms": 215125,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
+      "duration_ms": 157500,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "The Sweetest Dream",
-        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
-      },
-      "artists": [
-        {
-          "name": "Desired",
-          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
-        }
-      ],
-      "duration_ms": 220055,
-      "name": "Eyes on Me",
-      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Sidechain My Heart",
         "url": "https://open.spotify.com/album/20fxOJQvxGrEr4esHXuSO7"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 185806,
       "name": "Love & Affection",
       "url": "https://open.spotify.com/track/0WepmUG3SZDpOJQdkwLJDd"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "The Sweetest Dream",
+        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
+      },
+      "artists": [
+        {
+          "name": "Desired",
+          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
+        }
+      ],
+      "duration_ms": 220055,
+      "name": "Eyes on Me",
+      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Before My Time",
+        "url": "https://open.spotify.com/album/0GMBFZ8LFLksl9uQyPyd6b"
+      },
+      "artists": [
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 181686,
+      "name": "Before My Time",
+      "url": "https://open.spotify.com/track/0mSKOjc2tvbAxw0agk2WrP"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "I Must Be Dreamin'",
         "url": "https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 223129,
       "name": "I Must Be Dreamin'",
       "url": "https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Before My Time",
-        "url": "https://open.spotify.com/album/0GMBFZ8LFLksl9uQyPyd6b"
-      },
-      "artists": [
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 181686,
-      "name": "Before My Time",
-      "url": "https://open.spotify.com/track/0mSKOjc2tvbAxw0agk2WrP"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "First Season",
-        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
-          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
-        }
-      ],
-      "duration_ms": 295894,
-      "name": "First Season",
-      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Delicate",
         "url": "https://open.spotify.com/album/1JFB5WfXGEAkxpQlzgVRZg"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 251151,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/4KoVr6cmHVKkecEudgzbLi"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "First Season",
+        "url": "https://open.spotify.com/album/0ec7ZmVLjS1z02Es0XVvmj"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30af\u30e9SAKURA-LEE",
+          "url": "https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB"
+        }
+      ],
+      "duration_ms": 295894,
+      "name": "First Season",
+      "url": "https://open.spotify.com/track/58qfLGa8XnEIDrMbww9AdI"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Wa Ha Ha (Iden Kai Remix)",
+        "url": "https://open.spotify.com/album/0Vk80kcQ2AfQJbeZsrfL38"
+      },
+      "artists": [
+        {
+          "name": "Cabro Artico",
+          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
+        },
+        {
+          "name": "Iden Kai",
+          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Wa Ha Ha (Iden Kai Remix)",
+      "url": "https://open.spotify.com/track/3zGaOHwNmCyyiwsLa95hDy"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "Disco Soul",
         "url": "https://open.spotify.com/album/52D8ESbEYlQw75nStkEone"
       },
@@ -1683,38 +1703,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/3n1RU3gBuRyocRPzjOG27C"
+        "name": "\u9055\u3046",
+        "url": "https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S"
       },
       "artists": [
         {
-          "name": "BAD4ALL",
-          "url": "https://open.spotify.com/artist/01VXtkjZQGs49YAKEJLgJp"
+          "name": "Flammy",
+          "url": "https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz"
         }
       ],
-      "duration_ms": 145920,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/2p2Ut9dTjzIzqaGDorW8T2"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Wa Ha Ha (Iden Kai Remix)",
-        "url": "https://open.spotify.com/album/0Vk80kcQ2AfQJbeZsrfL38"
-      },
-      "artists": [
-        {
-          "name": "Cabro Artico",
-          "url": "https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e"
-        },
-        {
-          "name": "Iden Kai",
-          "url": "https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Wa Ha Ha (Iden Kai Remix)",
-      "url": "https://open.spotify.com/track/3zGaOHwNmCyyiwsLa95hDy"
+      "duration_ms": 153449,
+      "name": "\u9055\u3046",
+      "url": "https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG"
     }
   ],
   "unique_name": "Future Funk",

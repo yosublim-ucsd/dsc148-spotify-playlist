@@ -1700,7 +1700,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 169846,
       "name": "November",
       "url": "https://open.spotify.com/track/4FSg7aHsASSaFgskTYPCor"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 62824,
       "name": "Slappy Tap",
       "url": "https://open.spotify.com/track/5q0lNR2QzHVatYdjXc9Ty9"
@@ -2114,6 +2114,24 @@
       "duration_ms": 122553,
       "name": "SOS",
       "url": "https://open.spotify.com/track/5te7CQBdUAT6fUUwAGLc86"
+    },
+    {
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206019,
+      "name": "Standing Next to You",
+      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
     },
     {
       "album": {
@@ -3718,6 +3736,24 @@
       "duration_ms": 205248,
       "name": "\u041c\u0418\u0420 \u0413\u041e\u0420\u0418\u0422",
       "url": "https://open.spotify.com/track/1L5KNP37brkkpexAqodMwZ"
+    },
+    {
+      "album": {
+        "name": "\u043c\u043e\u0436\u043d\u043e",
+        "url": "https://open.spotify.com/album/3Jb4g7CDEKcj9mC1ikGQbE"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u043e\u0441\u043f\u043e\u0436\u0430 \u042d\u0432\u0435\u043b\u0438\u043d",
+          "url": "https://open.spotify.com/artist/41LPLkAOe7BxiwPqa6S50q"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114346,
+      "name": "\u043c\u043e\u0436\u043d\u043e",
+      "url": "https://open.spotify.com/track/2zQYnQQDFuW5rCBaXlkodn"
     },
     {
       "album": {

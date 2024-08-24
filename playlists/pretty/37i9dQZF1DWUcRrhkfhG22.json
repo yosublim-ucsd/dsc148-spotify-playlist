@@ -1,12 +1,12 @@
 {
   "description": "Funky vocoders and talk boxes",
-  "num_followers": 52152,
+  "num_followers": 52173,
   "original_name": "Robo-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAADHAnpPuIZ1+YqIliXc+Yc8",
+  "snapshot_id": "ZsgJQAAAAACz7matReddj156xq/z0vt6",
   "tracks": [
     {
       "added_at": "2024-08-09 04:00:00",
@@ -39,6 +39,22 @@
       "duration_ms": 243745,
       "name": "Abdelhak",
       "url": "https://open.spotify.com/track/2auWvIfCr5N2FMp8M80hP5"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Waste Your Heart",
+        "url": "https://open.spotify.com/album/6pRKFEApm5Dvx1pfjqdhKo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Campbell",
+          "url": "https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC"
+        }
+      ],
+      "duration_ms": 326886,
+      "name": "Waste Your Heart",
+      "url": "https://open.spotify.com/track/0rhaAXJdGr3Xx5tXJXWbmY"
     },
     {
       "added_at": "2020-09-18 04:02:00",

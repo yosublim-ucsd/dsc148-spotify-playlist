@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-153 songs - 8 hr 55 min
+154 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Too Damn Young](https://open.spotify.com/track/53itpA7zb2lv7BFAawuFQt) | [Julie Roberts](https://open.spotify.com/artist/5sXhYkm9PpLn5R70U2T6Ba) | [Men & Mascara](https://open.spotify.com/album/5ftpItUvFmE5KnLSXtFzux) | 3:27 | 2020-09-08 | 2022-04-25 |
 | [Tropical Depression](https://open.spotify.com/track/119MCYCfTSVavgqpeg3ExO) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Greatest Hits Volume II](https://open.spotify.com/album/0tFm46KzjtCgyyfD8iCaiJ) | 2:57 | 2020-09-08 |  |
 | [Tucson Too Late](https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:52 | 2024-03-09 |  |
+| [Two Blue Chairs & You](https://open.spotify.com/track/2RfkKGdFYORwUy7gOFUSRI) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Two Blue Chairs & You](https://open.spotify.com/album/5TWk0jAcmvB9vsZPYUbJ7j) | 2:48 | 2024-08-23 |  |
 | [Two Pina Coladas](https://open.spotify.com/track/1l0d6figJdZJ2pJofLRMrF) | [Brooks Jefferson](https://open.spotify.com/artist/6RuIbUAQK9fmBq08AbY6XE) | [Strummin' On Garth](https://open.spotify.com/album/2d0u2yReCiVSyN3iCsogFM) | 3:35 | 2020-09-08 | 2022-04-25 |
 | [Wagon Wheel](https://open.spotify.com/track/2XgGdD5d2MW4RNx8KnIjVh) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/71oM4BPgOOgdwTYJeUPush) | 3:52 | 2022-04-24 |  |
 | [Waste of Lime](https://open.spotify.com/track/5KNQ5MHkfr1Nc9TW8ht9tO) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Waste of Lime](https://open.spotify.com/album/3gGqLSlnwFU6mBJ7WG4D3B) | 3:08 | 2021-11-19 | 2023-05-20 |

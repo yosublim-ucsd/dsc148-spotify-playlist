@@ -3764,7 +3764,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 184615,
       "name": "KETCHUP",
       "url": "https://open.spotify.com/track/6x1tSvkdnEQqLh1WsLHFkN"
@@ -7436,6 +7436,24 @@
       "duration_ms": 164576,
       "name": "Synchronize",
       "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    {
+      "album": {
+        "name": "S\u00e9rieux",
+        "url": "https://open.spotify.com/album/54Sei7mz33JumC682Ypuh3"
+      },
+      "artists": [
+        {
+          "name": "Naomi",
+          "url": "https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147175,
+      "name": "S\u00e9rieux",
+      "url": "https://open.spotify.com/track/5tU5GlKTWTMnuTgExeh3DP"
     },
     {
       "album": {

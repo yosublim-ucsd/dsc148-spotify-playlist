@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,032 likes - 76 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,035 likes - 76 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 4 | [Ookku \- From "Think Indie"](https://open.spotify.com/track/0yDl4lv4HdqyVwyf6gEDBf) | [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI) | [Ookku \- From "Think Indie"](https://open.spotify.com/album/7uQ5Jb3a7h0lQSXJDmngI8) | 3:03 |
 | 5 | [Nizhalaay](https://open.spotify.com/track/556HeEIoL40Dp6ciUcZ2Pf) | [Dins George](https://open.spotify.com/artist/6l460ivmL177cdAsVzQz1Q) | [Nizhalaay](https://open.spotify.com/album/5IopDVaCsbGr5PinWfdq9D) | 4:40 |
 | 6 | [Thanne](https://open.spotify.com/track/2OSvxPgxpojMhe6MjdrulH) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Thanne](https://open.spotify.com/album/1mzBxd4WxPHFXRlbsIBIZR) | 2:48 |
-| 7 | [Panimathi](https://open.spotify.com/track/5ZyK3ukvDuLooLNY0ZHd0k) | [Kavya Ajit Precious Peter](https://open.spotify.com/artist/48BaVAlscNKoQidZGJuspq) | [Panimathi](https://open.spotify.com/album/6W9y8ofX3WacudRQ1fkZyz) | 3:12 |
+| 7 | [Panimathi](https://open.spotify.com/track/5ZyK3ukvDuLooLNY0ZHd0k) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Precious Peter](https://open.spotify.com/artist/6qb784Bx7lh1vIfrR55r81) | [Panimathi](https://open.spotify.com/album/6W9y8ofX3WacudRQ1fkZyz) | 3:12 |
 | 8 | [Uyire](https://open.spotify.com/track/3ZyDq4gEu7MVDFyoEXwq9X) | [Zeusheelan](https://open.spotify.com/artist/1qfr8yoyXA3bnan7cexvSN), [Abhi Sulaimani](https://open.spotify.com/artist/6OCXNGT9pE7hOScBz8RSOp) | [Uyire](https://open.spotify.com/album/4Tg0keyVKad01TmwNVQSXH) | 3:17 |
 | 9 | [Aa Thazhvarathil](https://open.spotify.com/track/5lRxhdN93w5CfxQOS5tzNB) | [Ashwin Syam](https://open.spotify.com/artist/3GsJvJi4vFsIvMHkyfAgZx), [Vimal Roy](https://open.spotify.com/artist/2Ws5tRsVrkr9ti2yGT9wPC), [Nichole Ann Philip](https://open.spotify.com/artist/2uPsICfNitnCJW4ae3WoTl), [Rafeeq Ahammed](https://open.spotify.com/artist/6uKbk35bA6KTgIbKhPJImJ) | [Aa Thazhvarathil](https://open.spotify.com/album/0HRQFfNaW3LzHTUggFdPNx) | 3:14 |
 | 10 | [Nizhalattam](https://open.spotify.com/track/3pjXqo5XpSTAiiqFJ7pwP9) | [Madhuvanthi Narayan](https://open.spotify.com/artist/2uKITbMInpFKYeI9ll9fv8) | [Nizhalattam](https://open.spotify.com/album/2YGwnh3gkg79QjDWkxEcju) | 3:40 |

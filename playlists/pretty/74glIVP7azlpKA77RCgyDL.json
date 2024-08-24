@@ -1,13 +1,109 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Heriot",
-  "num_followers": 8676,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Gore.",
+  "num_followers": 8678,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAMigkuuJvI5SNDdyQkq1IUXySjXVOX",
+  "snapshot_id": "AAAMkhRGauRN0X2B5Z91ZWtv8gUaopkn",
   "tracks": [
+    {
+      "added_at": "2024-08-23 20:07:37",
+      "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "duration_ms": 213912,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9"
+    },
+    {
+      "added_at": "2024-08-23 20:07:51",
+      "album": {
+        "name": "Radiance",
+        "url": "https://open.spotify.com/album/7uEqTi7T7zyRxdhsLCoqp9"
+      },
+      "artists": [
+        {
+          "name": "Seven Hours After Violet",
+          "url": "https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "Radiance",
+      "url": "https://open.spotify.com/track/2FMNCmWngbfBYBoUSeeKM4"
+    },
+    {
+      "added_at": "2024-08-23 20:08:03",
+      "album": {
+        "name": "Under the Curse of the One God",
+        "url": "https://open.spotify.com/album/608ApQjbgAV0HFIIpO5bxA"
+      },
+      "artists": [
+        {
+          "name": "Nile",
+          "url": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE"
+        }
+      ],
+      "duration_ms": 285146,
+      "name": "Under the Curse of the One God",
+      "url": "https://open.spotify.com/track/1f7mdLZTP8taPKMZknvj3z"
+    },
+    {
+      "added_at": "2024-08-23 20:08:14",
+      "album": {
+        "name": "Masc",
+        "url": "https://open.spotify.com/album/3kiTF4RUr3WAoV4fZiHXSA"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        }
+      ],
+      "duration_ms": 249280,
+      "name": "Masc",
+      "url": "https://open.spotify.com/track/4VXRyp2UzYP7AEfPw9BMze"
+    },
+    {
+      "added_at": "2024-08-23 20:08:26",
+      "album": {
+        "name": "Phenomena II",
+        "url": "https://open.spotify.com/album/3f9kyaXtbKIFuSh85ZBHQo"
+      },
+      "artists": [
+        {
+          "name": "Within The Ruins",
+          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
+        }
+      ],
+      "duration_ms": 318000,
+      "name": "Demon Killer",
+      "url": "https://open.spotify.com/track/491Y81WE8NvyqRdHGMODPu"
+    },
+    {
+      "added_at": "2024-08-23 20:08:38",
+      "album": {
+        "name": "Righteous Man",
+        "url": "https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 228444,
+      "name": "Righteous Man",
+      "url": "https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV"
+    },
     {
       "added_at": "2024-08-16 19:29:45",
       "album": {

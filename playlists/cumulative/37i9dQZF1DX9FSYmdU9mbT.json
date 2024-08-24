@@ -1720,7 +1720,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 184784,
       "name": "Meu Guri",
       "url": "https://open.spotify.com/track/7v55rfDU0GdYkfcqGF77ks"
@@ -1880,6 +1880,24 @@
       "duration_ms": 176562,
       "name": "O Le\u00e3ozinho - Ao Vivo Em S\u00e3o Paulo / 2017",
       "url": "https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL"
+    },
+    {
+      "album": {
+        "name": "O Meu Guri (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228933,
+      "name": "O Meu Guri",
+      "url": "https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0"
     },
     {
       "album": {
@@ -2654,6 +2672,24 @@
       "duration_ms": 184569,
       "name": "Sorte",
       "url": "https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x"
+    },
+    {
+      "album": {
+        "name": "S\u00e1bado em Copacabana",
+        "url": "https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "S\u00e1bado em Copacabana",
+      "url": "https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI"
     },
     {
       "album": {

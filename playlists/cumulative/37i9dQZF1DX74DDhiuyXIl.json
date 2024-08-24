@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 202400,
       "name": "Never Gonna Stop",
       "url": "https://open.spotify.com/track/6EDNikfdT75GyAd5Dy2Om2"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 265367,
       "name": "\u4e0d\u5b58\u5728\u7684\u7231\u604b",
       "url": "https://open.spotify.com/track/1JyYOCGW4m24mygyg63B0a"
@@ -3227,6 +3227,24 @@
     },
     {
       "album": {
+        "name": "\u5760\u5728\u539f\u70b9\u7684\u6211",
+        "url": "https://open.spotify.com/album/2FKuMP8oMcAQV2fRvF6i8u"
+      },
+      "artists": [
+        {
+          "name": "Sherman Zhuo",
+          "url": "https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255238,
+      "name": "\u5760\u5728\u539f\u70b9\u7684\u6211",
+      "url": "https://open.spotify.com/track/6Q7IbvSRN9kYK1BCftVv3D"
+    },
+    {
+      "album": {
         "name": "\u58d3\u529b\u5c71\u5927",
         "url": "https://open.spotify.com/album/79WOZYCce3ciFiLTREYlSn"
       },
@@ -4602,7 +4620,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 236082,
       "name": "\u611b\u662f\u75db\u82e6\u7684\u7e3d\u548c (\u53f0\u5317\u5c0f\u5de8\u86cb\u300a\u6d3b\u8457\u300b\u6f14\u5531\u6703\u5ba3\u50b3\u66f2)",
       "url": "https://open.spotify.com/track/72IExSD9t7KpPXHv7gBHmR"
@@ -5390,7 +5408,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 262013,
       "name": "\u6211\u9084\u80fd\u600e\u9ebc\u4f34",
       "url": "https://open.spotify.com/track/5lhtEnWhmWfvECzPcC1qFd"
@@ -5488,6 +5506,24 @@
       "duration_ms": 255378,
       "name": "\u62ec\u53f7",
       "url": "https://open.spotify.com/track/3dujQRmSbUNOGsi1HBq1dr"
+    },
+    {
+      "album": {
+        "name": "\u6307\u5c16\u6ed1\u904e\u5c31\u80fd\u88ab\u5fd8\u8a18\u7684\u7f8e",
+        "url": "https://open.spotify.com/album/2AESsxBRZVUNH9Yba0y7Ie"
+      },
+      "artists": [
+        {
+          "name": "\u543e\u6a4b\u6709\u6c34 FloodingBridge",
+          "url": "https://open.spotify.com/artist/0mYdyPW4ExvkilLuv5KU0k"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253398,
+      "name": "\u6307\u5c16\u6ed1\u904e\u5c31\u80fd\u88ab\u5fd8\u8a18\u7684\u7f8e",
+      "url": "https://open.spotify.com/track/6YbvsRQiwNfmdIPos5IwNx"
     },
     {
       "album": {
@@ -6143,6 +6179,24 @@
     },
     {
       "album": {
+        "name": "\u8046\u807d\u02d9\u67d0\u67d0",
+        "url": "https://open.spotify.com/album/7HoXsKHZgb7JO11swrWXOz"
+      },
+      "artists": [
+        {
+          "name": "831",
+          "url": "https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234084,
+      "name": "\u67d0\u67d0",
+      "url": "https://open.spotify.com/track/33XIrUtplNa4YZCKJ7tq37"
+    },
+    {
+      "album": {
         "name": "\u67e5\u7121\u6b64\u5fc3 (\u300a\u67e5\u7121\u6b64\u5fc3\u300b\u96fb\u5f71\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/3humwzw4eBD7wuyX9qtLjl"
       },
@@ -6302,6 +6356,28 @@
       "duration_ms": 229000,
       "name": "\u6c92\u6709\u5fc5\u8981\u7684\u7e8c\u96c6",
       "url": "https://open.spotify.com/track/6kuQCa0qvG8BINevRljcVf"
+    },
+    {
+      "album": {
+        "name": "\u6ca1\u597d\u597d\u544a\u522b",
+        "url": "https://open.spotify.com/album/0CfKQ9tfe1ZoJ43iBGrehY"
+      },
+      "artists": [
+        {
+          "name": "\u6797\u51e1",
+          "url": "https://open.spotify.com/artist/1YmWActCNjKmuIz1TSgSRx"
+        },
+        {
+          "name": "MAD",
+          "url": "https://open.spotify.com/artist/2MNEus0bijyJ2YhShpBFu4"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188059,
+      "name": "\u6ca1\u597d\u597d\u544a\u522b",
+      "url": "https://open.spotify.com/track/4F9qdii4hadB3VfwsC2Mmx"
     },
     {
       "album": {
@@ -6893,6 +6969,28 @@
     },
     {
       "album": {
+        "name": "\u7d50\u4f34(\u8c6a\u83ef\u7248)",
+        "url": "https://open.spotify.com/album/11eHWo34XKwBnBCMMCKM0c"
+      },
+      "artists": [
+        {
+          "name": "Power Station",
+          "url": "https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy"
+        },
+        {
+          "name": "\u4e5d\u6fa4CP",
+          "url": "https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291455,
+      "name": "\u77e5\u5df1 feat. \u4e5d\u6fa4CP",
+      "url": "https://open.spotify.com/track/6kmvbtrjLRmeJeZBTcyNge"
+    },
+    {
+      "album": {
         "name": "\u77e5\u8db3",
         "url": "https://open.spotify.com/album/3kkCnnNH23dAmzEatPhaBz"
       },
@@ -6962,7 +7060,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 240000,
       "name": "\u7a7f\u8fc7\u9ed1\u591c\u7684\u5149",
       "url": "https://open.spotify.com/track/7jb9MUlcFwFwYLUJD1KAku"

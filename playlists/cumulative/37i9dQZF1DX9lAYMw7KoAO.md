@@ -2,9 +2,9 @@
 
 ### [African Gospel Hits](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
 
-> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=DlVGm6ZJTgmGTDn5Q9qKKQ">Sunmisola Agbebi</a>
+> The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT?si=AyaCtbFCTqCzORmLvIzb5Q">Limoblaze</a>
 
-427 songs - 1 day 13 hr 5 min
+428 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9) | 2:53 | 2023-11-10 | 2024-02-16 |
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-07-14 |  |
 | [Emmanuel](https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Emmanuel](https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK) | 9:12 | 2023-06-16 | 2023-06-23 |
-| [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 |  |
+| [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 | 2024-08-24 |
 | [Energy](https://open.spotify.com/track/42HLbsZJgnwRJtUpirt4nq) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Energy \(Afropop Gospel Vol 1\)](https://open.spotify.com/album/2FSJvM11UlOJePeYvXmKA2) | 2:33 | 2023-12-31 | 2024-01-04 |
 | [Enjoy \(Yo Blessings\)](https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Enjoy \(Yo Blessings\)](https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy) | 3:15 | 2023-03-31 | 2023-06-09 |
 | [Ese Oluwa / Papa](https://open.spotify.com/track/2Y8y0Za20GYoclNgWwzsPg) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 6:48 | 2018-10-01 | 2023-04-01 |
@@ -269,6 +269,7 @@
 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 | 2023-11-24 |  |
 | [Nkosi](https://open.spotify.com/track/6q7FFADahpKakWjXGVBxco) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:02 | 2023-12-31 | 2024-01-04 |
 | [Nkosi Ndithembe Wena](https://open.spotify.com/track/0EZNwUJat1DX09UdqoEm4S) | [Joey Mofoleng](https://open.spotify.com/artist/6zS58BpzrB57jlKWpQ7ZUW) | [After This](https://open.spotify.com/album/72vZlTX5LfYF5FT4DHIhGC) | 3:22 | 2020-10-09 | 2023-04-01 |
+| [No Greater Love](https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 3:40 | 2024-08-23 |  |
 | [NO PRESSURE](https://open.spotify.com/track/4qJlOy7AZzDG4hD8gGOLfV) | [Peddygree](https://open.spotify.com/artist/3vqsgMy4R82tEYVwUQN1Zg), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [NO PRESSURE](https://open.spotify.com/album/0UIOJRocvUZFxmJA7vbxR9) | 2:34 | 2023-06-23 | 2023-07-14 |
 | [No Void](https://open.spotify.com/track/5sqjOtOZB4MAvMO43ZeG1i) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Void](https://open.spotify.com/album/4r6aQghIBY7PwUViivOTQT) | 4:54 | 2020-10-29 | 2022-09-02 |
 | [NOMO \(Never On My Own\)](https://open.spotify.com/track/7GR1NYT1L1iZFIEpubuOxw) | [Winter Amadin](https://open.spotify.com/artist/0Lg4taC1hwg9FMfyPiwuBH), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [NOMO \(Never On My Own\)](https://open.spotify.com/album/6ce2fkYBmX7GizmHK007La) | 2:14 | 2023-03-31 | 2023-04-21 |

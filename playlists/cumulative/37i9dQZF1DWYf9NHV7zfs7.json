@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 RUGGERO",
+  "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Big One, Ciro y los Persas & Miranda!",
   "name": "Esto es Pop",
   "tracks": [
     {
@@ -82,6 +82,32 @@
       "duration_ms": 172458,
       "name": "4 Paredes",
       "url": "https://open.spotify.com/track/5NdS1ssGwkTP2lAkb79HT2"
+    },
+    {
+      "album": {
+        "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
+        "url": "https://open.spotify.com/album/5BtAmX3V5FPwiFYSlJYa8C"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184232,
+      "name": "A Donde Vas Si Te Vas | CROSSOVER #6",
+      "url": "https://open.spotify.com/track/35XYCdq5WIInKAk40fXlNS"
     },
     {
       "album": {
@@ -474,6 +500,28 @@
       "duration_ms": 189756,
       "name": "AWCH",
       "url": "https://open.spotify.com/track/7Hi0EUe8Nh6oRw3rKzmAOH"
+    },
+    {
+      "album": {
+        "name": "Ay!",
+        "url": "https://open.spotify.com/album/4g4VfRvjKDjOXyeTXHX1uO"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Baglietto",
+          "url": "https://open.spotify.com/artist/2jWobXd1SE2fhT0toIz8PR"
+        },
+        {
+          "name": "Camil\u00fa",
+          "url": "https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191526,
+      "name": "Ay!",
+      "url": "https://open.spotify.com/track/6QHXNpWsOKagtV3scwkaoQ"
     },
     {
       "album": {
@@ -956,7 +1004,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 167991,
       "name": "C\u00ednica",
       "url": "https://open.spotify.com/track/3IsNHWZ4dQbdVDDpFEUspW"
@@ -1832,7 +1880,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 144000,
       "name": "Hurac\u00e1n",
       "url": "https://open.spotify.com/track/4goMiemP1T7MguxhnRwj9z"
@@ -1876,7 +1924,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 260370,
       "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
       "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
@@ -2821,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98210,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
+    },
+    {
+      "album": {
         "name": "Me hablan de vos",
         "url": "https://open.spotify.com/album/2bOVjfVekDmy5LUsCZg14o"
       },
@@ -2984,7 +3050,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 180221,
       "name": "Mil kilos de cemento",
       "url": "https://open.spotify.com/track/4SP1I6C4cf2FoMP2yt5csV"
@@ -3068,7 +3134,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 181087,
       "name": "Monoambiente en Capital",
       "url": "https://open.spotify.com/track/1prdmkn7pO2S0FJChx0fN4"
@@ -4290,7 +4356,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "Soy d\u00e9bil Sr.",
       "url": "https://open.spotify.com/track/4zN8UMrNeEoJSggUC5EfBn"
@@ -4530,7 +4596,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 193043,
       "name": "Te Prestaria Mis Ojos",
       "url": "https://open.spotify.com/track/6k9ClcpERuAh9cKRdz0jsG"

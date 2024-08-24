@@ -1,15 +1,15 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 224676,
+  "num_followers": 224726,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr90BAAAAACJraPQYiSdOfQt/m6zOtyH",
+  "snapshot_id": "Zsj/LgAAAADp5qWz8NOk0qm8pL39DS5d",
   "tracks": [
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/0GKovrT0pFuXb4FhM1Wf3O"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Cruise",
         "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "In And Out Of Love",
         "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
@@ -65,75 +65,7 @@
       "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Leave Me Slowly",
-        "url": "https://open.spotify.com/album/3h3I8ytOR5DlNiC6jU4UPs"
-      },
-      "artists": [
-        {
-          "name": "Starsmith",
-          "url": "https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Leave Me Slowly",
-      "url": "https://open.spotify.com/track/0LIxpMlVjyioO0gfprZEWQ"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Vhs",
-        "url": "https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 269252,
-      "name": "Vhs",
-      "url": "https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Find A Way",
-        "url": "https://open.spotify.com/album/1trmWSMiO6NDBnnDDDhsy8"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 212538,
-      "name": "Find A Way",
-      "url": "https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "U REALLY HURT ME",
-        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
-      },
-      "artists": [
-        {
-          "name": "LUV HRTS",
-          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
-        },
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "U REALLY HURT ME",
-      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Ain\u2019t Giving Up",
         "url": "https://open.spotify.com/album/6DLqWNcNqD90oEgI7KWkaw"
@@ -153,7 +85,75 @@
       "url": "https://open.spotify.com/track/4w0p0jhWegRvJmHOPI3lN9"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Vhs",
+        "url": "https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 269252,
+      "name": "Vhs",
+      "url": "https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Find A Way",
+        "url": "https://open.spotify.com/album/1trmWSMiO6NDBnnDDDhsy8"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 212538,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/51ehuSdtKvrsBGNWLOfQWE"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "U REALLY HURT ME",
+        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
+      },
+      "artists": [
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        },
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "U REALLY HURT ME",
+      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Leave Me Slowly",
+        "url": "https://open.spotify.com/album/3h3I8ytOR5DlNiC6jU4UPs"
+      },
+      "artists": [
+        {
+          "name": "Starsmith",
+          "url": "https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Leave Me Slowly",
+      "url": "https://open.spotify.com/track/0LIxpMlVjyioO0gfprZEWQ"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "SAFE WITH ME (SECRETOS)",
         "url": "https://open.spotify.com/album/3W2fOiqWefDpA1huBvt3fe"
@@ -185,47 +185,43 @@
       "url": "https://open.spotify.com/track/0FCABIXhXHI4mi0qao8gTR"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+        "name": "The Forest",
+        "url": "https://open.spotify.com/album/4SB2U15zTzAzZ4oznEesWj"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         },
         {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+          "name": "Amixem",
+          "url": "https://open.spotify.com/artist/28FoMtJg9p3EOYc0NP2wh8"
         }
       ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
+      "duration_ms": 185909,
+      "name": "The Forest",
+      "url": "https://open.spotify.com/track/5qUCFZ89gAvJlIj6zB5HUc"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "better off",
-        "url": "https://open.spotify.com/album/5drwxFFxlPrea3j1ZQXxkl"
+        "name": "Hear Ur Heartbeat",
+        "url": "https://open.spotify.com/album/4ghuYYQWRf1e3RcQ7PBg1p"
       },
       "artists": [
         {
-          "name": "Syence",
-          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
-        },
-        {
-          "name": "Jake Neumar",
-          "url": "https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG"
+          "name": "Lawrence Hart",
+          "url": "https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa"
         }
       ],
-      "duration_ms": 290322,
-      "name": "better off",
-      "url": "https://open.spotify.com/track/6IfQgvL7w7Pc8oTG4rz0Q6"
+      "duration_ms": 202355,
+      "name": "Hear Ur Heartbeat",
+      "url": "https://open.spotify.com/track/7JJ2wXdOQgKdSXZBD56uut"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/5H9WQRjWS7VmKHQusS3jXW"
@@ -241,7 +237,7 @@
       "url": "https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "forgive u",
         "url": "https://open.spotify.com/album/2c5kGOhmdX3tjruhULza1r"
@@ -257,7 +253,7 @@
       "url": "https://open.spotify.com/track/0YpOYlsdk1ZWlFrcatiQBd"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "bring your love (to the light)",
         "url": "https://open.spotify.com/album/0AOqksZ3wCG2yrPec5tvq6"
@@ -273,7 +269,7 @@
       "url": "https://open.spotify.com/track/2JYuCiKDCsqfkkVNcghpvq"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
@@ -289,31 +285,23 @@
       "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "Lonely (AVAION Remix)",
-        "url": "https://open.spotify.com/album/3ac5ZGbY7LbUqc3SK9z308"
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/2JwrSr2KjW2qOYjyH7NHZD"
       },
       "artists": [
         {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Rae Morris",
-          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
-        },
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+          "name": "Nicky Elisabeth",
+          "url": "https://open.spotify.com/artist/7nt1M2NuH98Fr9c69lscEE"
         }
       ],
-      "duration_ms": 235577,
-      "name": "Lonely - AVAION Remix",
-      "url": "https://open.spotify.com/track/3QFYEwD1H68ii9jXSdWJbU"
+      "duration_ms": 217631,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/0qeX1yqGMmsqAYWNWhDPgY"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/1MRXF24aiT8BLW0hV7seBo"
@@ -329,7 +317,7 @@
       "url": "https://open.spotify.com/track/0oTNlCTyhIqa3my7tOPPeG"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "THINKIN' BOUT U",
         "url": "https://open.spotify.com/album/2nIoah8NyUvyIHl73UhXkD"
@@ -349,7 +337,7 @@
       "url": "https://open.spotify.com/track/6cwNyD7UDIGD2CSnpObpkl"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Yet",
         "url": "https://open.spotify.com/album/6aGHDGc3r4PTdLshNImYgy"
@@ -365,23 +353,27 @@
       "url": "https://open.spotify.com/track/4K2d0N0nL1HI4y2fz7qdIS"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "Kratos (A Little Closer)",
-        "url": "https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh"
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
       "artists": [
         {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Kratos (A Little Closer)",
-      "url": "https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm"
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Part of Me",
         "url": "https://open.spotify.com/album/053hffrVHJMAF68VRoQwXY"
@@ -397,7 +389,7 @@
       "url": "https://open.spotify.com/track/5NUVTH9lPD05WyuSGGm3cW"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "In Circles",
         "url": "https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr"
@@ -413,7 +405,7 @@
       "url": "https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/2VqGrJ97hkUtvJtX8Jg8xi"
@@ -437,7 +429,7 @@
       "url": "https://open.spotify.com/track/5LQezGj5lw0iivFOtVchxw"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Nothing Feels The Same",
         "url": "https://open.spotify.com/album/2PBO8ZKmkZ6PU6Jlhf6o8o"
@@ -453,143 +445,7 @@
       "url": "https://open.spotify.com/track/66P0qP5U9ymSHio61L0Buy"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 124615,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Electric High",
-        "url": "https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Electric High",
-      "url": "https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "is this real?",
-        "url": "https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
-        }
-      ],
-      "duration_ms": 145588,
-      "name": "real 4 me",
-      "url": "https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ"
-      },
-      "artists": [
-        {
-          "name": "Lyrah",
-          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Coming Back",
-      "url": "https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Don't You Cry",
-        "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        }
-      ],
-      "duration_ms": 246758,
-      "name": "Don't You Cry",
-      "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Pain Away",
-        "url": "https://open.spotify.com/album/1IKLpQ4FP0zn3Qo45tEioP"
-      },
-      "artists": [
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        }
-      ],
-      "duration_ms": 155387,
-      "name": "Pain Away",
-      "url": "https://open.spotify.com/track/0gLLQYl3itIpb6HiYP277M"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "I Wanna Go Back",
-        "url": "https://open.spotify.com/album/21jGIjmCzMAhdqg5maZ7Wj"
-      },
-      "artists": [
-        {
-          "name": "Attic Beats",
-          "url": "https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi"
-        }
-      ],
-      "duration_ms": 149774,
-      "name": "I Wanna Go Back",
-      "url": "https://open.spotify.com/track/3b144FFdaQj64gVfsqJskt"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "U&ME",
-        "url": "https://open.spotify.com/album/5qMQZdRVSr7MBBNSmZ3H1d"
-      },
-      "artists": [
-        {
-          "name": "Stresshead",
-          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "U&ME",
-      "url": "https://open.spotify.com/track/25ZR15mdsTb5fubAu1dbZc"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "You & Me (Rivo Remix)",
         "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
@@ -613,7 +469,127 @@
       "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Electric High",
+        "url": "https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Electric High",
+      "url": "https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "is this real?",
+        "url": "https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 145588,
+      "name": "real 4 me",
+      "url": "https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/1M6bafn6Qg6kVyhFNIHZjJ"
+      },
+      "artists": [
+        {
+          "name": "Lyrah",
+          "url": "https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Coming Back",
+      "url": "https://open.spotify.com/track/0sx0yFSdEWeSPl0iXmNHJ2"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/4I8VD4l96QtADrkwpuYgX0"
+      },
+      "artists": [
+        {
+          "name": "Lucky Yu",
+          "url": "https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL"
+        },
+        {
+          "name": "Lumi Jin",
+          "url": "https://open.spotify.com/artist/2YpzKwWnFbUAJJzBvuA0R7"
+        }
+      ],
+      "duration_ms": 176865,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/7kOqzZoJ20ssyvx8LlKMbO"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Pain Away",
+        "url": "https://open.spotify.com/album/1IKLpQ4FP0zn3Qo45tEioP"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        }
+      ],
+      "duration_ms": 155387,
+      "name": "Pain Away",
+      "url": "https://open.spotify.com/track/0gLLQYl3itIpb6HiYP277M"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "I Wanna Go Back",
+        "url": "https://open.spotify.com/album/21jGIjmCzMAhdqg5maZ7Wj"
+      },
+      "artists": [
+        {
+          "name": "Attic Beats",
+          "url": "https://open.spotify.com/artist/6oGLvkrXYxzfmCdG2Tuadi"
+        }
+      ],
+      "duration_ms": 149774,
+      "name": "I Wanna Go Back",
+      "url": "https://open.spotify.com/track/3b144FFdaQj64gVfsqJskt"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "U&ME",
+        "url": "https://open.spotify.com/album/5qMQZdRVSr7MBBNSmZ3H1d"
+      },
+      "artists": [
+        {
+          "name": "Stresshead",
+          "url": "https://open.spotify.com/artist/1ilfLz2z62VTtvKJmxYPzs"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/25ZR15mdsTb5fubAu1dbZc"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
@@ -629,7 +605,39 @@
       "url": "https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "AGAIN",
+        "url": "https://open.spotify.com/album/7wYQfQlJdFWKUtOboIbMU8"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        },
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        },
+        {
+          "name": "whiterosemoxie",
+          "url": "https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV"
+        },
+        {
+          "name": "Leap96",
+          "url": "https://open.spotify.com/artist/29Ym8UOoUTlN7vvt7JXX4e"
+        },
+        {
+          "name": "Yona",
+          "url": "https://open.spotify.com/artist/6ySw3ZAhiHirmHhaHV8TsJ"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "AGAIN",
+      "url": "https://open.spotify.com/track/7e6NccJoAWdOfVsg8uqfKO"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/6URXDFFdBVEQUA7eCLfHVo"
@@ -649,7 +657,7 @@
       "url": "https://open.spotify.com/track/6Hl0P7o00Hmqjdf1X0W9rw"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
@@ -665,7 +673,7 @@
       "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "idwtwya",
         "url": "https://open.spotify.com/album/6FDMavTlbAF69v2L8jEvbj"
@@ -681,7 +689,7 @@
       "url": "https://open.spotify.com/track/0xYF2Wq1PPIPG0hhNPOcef"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Innerbloom (Radio Edit)",
         "url": "https://open.spotify.com/album/3ZiNbboiLplvAjEwrRPLWj"
@@ -697,7 +705,7 @@
       "url": "https://open.spotify.com/track/233AL29SR6QWnD7hu7ylbf"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "butterflies (with ellie d.)",
         "url": "https://open.spotify.com/album/2X1X9CnCYTq07bnXXdg12E"
@@ -721,7 +729,7 @@
       "url": "https://open.spotify.com/track/5pvns5bolpTAa81tgq0BGA"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
@@ -741,7 +749,43 @@
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Don't You Cry",
+        "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "duration_ms": 246758,
+      "name": "Don't You Cry",
+      "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/6hbFLgtg6vbqO5aHMeRIZM"
+      },
+      "artists": [
+        {
+          "name": "Bad Friends",
+          "url": "https://open.spotify.com/artist/0zeexLEoXoUJpKmx0PXta8"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/3cwkKqFlevUfwMSwDhnyc4"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
@@ -761,43 +805,67 @@
       "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/6hbFLgtg6vbqO5aHMeRIZM"
+        "name": "Otherside",
+        "url": "https://open.spotify.com/album/5tbAQ3wQQDynD1lGivPoxf"
       },
       "artists": [
         {
-          "name": "Bad Friends",
-          "url": "https://open.spotify.com/artist/0zeexLEoXoUJpKmx0PXta8"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/3cwkKqFlevUfwMSwDhnyc4"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Settle - Deluxe Version",
-        "url": "https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
         },
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "Joe Farwick",
+          "url": "https://open.spotify.com/artist/7xQHg9QFtZpvcsFyLW9z0s"
         }
       ],
-      "duration_ms": 244174,
-      "name": "Help Me Lose My Mind",
-      "url": "https://open.spotify.com/track/3whmx5Ptrqzx2c101FJFi3"
+      "duration_ms": 177217,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/3HyURWisoeSVE0PZC1wm3u"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Head Up",
+        "url": "https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 189636,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42"
@@ -821,43 +889,7 @@
       "url": "https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Head Up",
-        "url": "https://open.spotify.com/album/26dgMMTWbItI0LfqWDzrZi"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 189636,
-      "name": "Head Up",
-      "url": "https://open.spotify.com/track/6OfjBG1UlQnHjTCzXm5OBn"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "The Last Goodbye",
         "url": "https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2"
@@ -877,7 +909,23 @@
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat"
+      },
+      "artists": [
+        {
+          "name": "19Clouds",
+          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
+        }
+      ],
+      "duration_ms": 167691,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh"
@@ -897,23 +945,7 @@
       "url": "https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2Te7Vf1TcGQBbSlh3BRWat"
-      },
-      "artists": [
-        {
-          "name": "19Clouds",
-          "url": "https://open.spotify.com/artist/0AWnGbHpn20wrP1nlFNSnF"
-        }
-      ],
-      "duration_ms": 167691,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/05VS9ifTEUpV6RiajKLxxW"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Not Giving You Up",
         "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
@@ -929,7 +961,7 @@
       "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Better (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
@@ -953,7 +985,7 @@
       "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Everywhere",
         "url": "https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq"
@@ -969,27 +1001,7 @@
       "url": "https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
-      },
-      "artists": [
-        {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Something To Hold On To (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/4GwlK3OyqMu3KZ2Yrj6sRI"
@@ -1013,7 +1025,27 @@
       "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "On My Knees",
         "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
@@ -1029,7 +1061,23 @@
       "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/26kfhv3S8MoeN7pzh2FSPE"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 124615,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1qhdqpo6lgejiIOoaACXNG"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Don't Say Goodbye",
         "url": "https://open.spotify.com/album/1Unb6I8rlEgLeWSHgftLRA"
@@ -1045,7 +1093,7 @@
       "url": "https://open.spotify.com/track/6thBFNZvOqCtN4fU2lDGPs"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "I Remember (John Summit Remix)",
         "url": "https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03"
@@ -1069,7 +1117,23 @@
       "url": "https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Kratos (A Little Closer)",
+        "url": "https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Kratos (A Little Closer)",
+      "url": "https://open.spotify.com/track/5xblvfji6HaQl7L4OwBMsm"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "BRONSON",
         "url": "https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg"
@@ -1097,23 +1161,7 @@
       "url": "https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Keep On Dancing",
-        "url": "https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 185520,
-      "name": "Keep On Dancing",
-      "url": "https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Actual Life (April 14 - December 17 2020)",
         "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
@@ -1133,7 +1181,39 @@
       "url": "https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Keep On Dancing",
+        "url": "https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 185520,
+      "name": "Keep On Dancing",
+      "url": "https://open.spotify.com/track/0f8PWE8E1UB3HqREAkqoa5"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Miss U",
+        "url": "https://open.spotify.com/album/76x0UQRKvoREBQDp8vmqre"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "duration_ms": 157681,
+      "name": "Miss U",
+      "url": "https://open.spotify.com/track/7zkIBL3GmwmggBLTnHwLa9"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "One Last Dance",
         "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
@@ -1153,23 +1233,7 @@
       "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Miss U",
-        "url": "https://open.spotify.com/album/76x0UQRKvoREBQDp8vmqre"
-      },
-      "artists": [
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        }
-      ],
-      "duration_ms": 157681,
-      "name": "Miss U",
-      "url": "https://open.spotify.com/track/7zkIBL3GmwmggBLTnHwLa9"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Fade Out (with MKLA)",
         "url": "https://open.spotify.com/album/5TEJE30uV9JsEqO5oJGRtE"
@@ -1189,7 +1253,7 @@
       "url": "https://open.spotify.com/track/6gs5VDiNpbBfXHsAj2c9SB"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
@@ -1209,7 +1273,7 @@
       "url": "https://open.spotify.com/track/6P10HAaNFfKsdWPJyKd6Di"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "SET ME FREE",
         "url": "https://open.spotify.com/album/1y5ZBGShGAM5JxDOE1LNrW"
@@ -1225,7 +1289,7 @@
       "url": "https://open.spotify.com/track/2M7S8QWAYNkYiA6lSl47YB"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "kidsgonemad!",
         "url": "https://open.spotify.com/album/2rMP8tQaoWn14zQM2zUOzG"
@@ -1241,7 +1305,7 @@
       "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO"
@@ -1257,7 +1321,7 @@
       "url": "https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/37B1K70ov6LUqjIvuWsonh"
@@ -1281,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0Gbpzzf8oLuFNSLYAvov3I"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Forever In My Mind",
         "url": "https://open.spotify.com/album/0C20miwgWYO2hHrw66OmYW"
@@ -1301,7 +1365,7 @@
       "url": "https://open.spotify.com/track/6R0nFHrfq2iCJ1yeWn5IGB"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "DESCEND",
         "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
@@ -1317,7 +1381,23 @@
       "url": "https://open.spotify.com/track/1w8a2t4KPUD9e5Pv5uFNRP"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Lone Raver",
+        "url": "https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 257299,
+      "name": "Lone Raver",
+      "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/6mglq83ABZ8iEldnQYskVg"
@@ -1341,39 +1421,7 @@
       "url": "https://open.spotify.com/track/4mzrTgfQZK1lSWEXW79MtR"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Selfreflection",
-        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Stop the time",
-      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Lone Raver",
-        "url": "https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 257299,
-      "name": "Lone Raver",
-      "url": "https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Ready (feat. Art School Girlfriend)",
         "url": "https://open.spotify.com/album/08YZCza6AHI7EThW8xyX8L"
@@ -1393,7 +1441,7 @@
       "url": "https://open.spotify.com/track/2V1lVlC950jaMioIm24jIj"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Little Planets - Remix",
         "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
@@ -1413,7 +1461,23 @@
       "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Selfreflection",
+        "url": "https://open.spotify.com/album/3Ab4BR06hO8qx1NCZ1seog"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Stop the time",
+      "url": "https://open.spotify.com/track/2uYYSVWxRZiN8W8K23J2ai"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Peace In Silence",
         "url": "https://open.spotify.com/album/2HWW3aVU03g1T6cuHqs3kx"
@@ -1433,7 +1497,7 @@
       "url": "https://open.spotify.com/track/1GsurkwM6YwfQ9rNr14Of8"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
@@ -1449,7 +1513,7 @@
       "url": "https://open.spotify.com/track/56jH9iqA8f2kwaoK8103hu"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Maze",
         "url": "https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj"
@@ -1469,7 +1533,7 @@
       "url": "https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "I Can Make It",
         "url": "https://open.spotify.com/album/3pbmaOn4zqdizRfvYKPoat"
@@ -1485,7 +1549,7 @@
       "url": "https://open.spotify.com/track/5ciL7TMQsSDLIkrGXuRYbY"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/1xZLqjELRfpo9cJsYFidtX"
@@ -1505,39 +1569,7 @@
       "url": "https://open.spotify.com/track/3UgUOY2mFLBueoiDuhC4m8"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "not sorry",
-        "url": "https://open.spotify.com/album/3L7BJtYn9iXPXqTpHLUYxn"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        }
-      ],
-      "duration_ms": 190113,
-      "name": "not sorry",
-      "url": "https://open.spotify.com/track/6yIBiB7kctd505SPcP2inR"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Next to Me",
-        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "back2u",
         "url": "https://open.spotify.com/album/6cUrisGrUcNCsju0VImSyG"
@@ -1557,7 +1589,39 @@
       "url": "https://open.spotify.com/track/3OL5rQRsVGNTUaaDDqrIiL"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "not sorry",
+        "url": "https://open.spotify.com/album/3L7BJtYn9iXPXqTpHLUYxn"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 190113,
+      "name": "not sorry",
+      "url": "https://open.spotify.com/track/6yIBiB7kctd505SPcP2inR"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Next to Me",
+        "url": "https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Freefall",
         "url": "https://open.spotify.com/album/0tcGYRO1ZwobReqGzMR883"
@@ -1573,7 +1637,7 @@
       "url": "https://open.spotify.com/track/3FGKOJEfF21ahU4qkmijku"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
@@ -1589,7 +1653,7 @@
       "url": "https://open.spotify.com/track/6ByN6v7D5YUogv622VMGrk"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "My Mistake",
         "url": "https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN"
@@ -1605,7 +1669,7 @@
       "url": "https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Ghost Of What Could Be",
         "url": "https://open.spotify.com/album/48X57POaib4oaROKyrYGvS"
@@ -1621,7 +1685,7 @@
       "url": "https://open.spotify.com/track/5fyrHkSghTUzUwg4tNjlHL"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Change This Pain For Ecstasy",
         "url": "https://open.spotify.com/album/08xHiG90YhACt4w637oTqn"
@@ -1637,7 +1701,7 @@
       "url": "https://open.spotify.com/track/2o9XDwndOF3b3uQqoI6N53"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Save Our Ship (SOS)",
         "url": "https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA"
@@ -1653,7 +1717,7 @@
       "url": "https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "SAVE ME",
         "url": "https://open.spotify.com/album/4IHs5K9AlUPG2jNNlNR84l"
@@ -1673,7 +1737,7 @@
       "url": "https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Want You",
         "url": "https://open.spotify.com/album/2kj2Acb0PsgCk15XroFslc"
@@ -1689,7 +1753,7 @@
       "url": "https://open.spotify.com/track/0RmSH4q2Sf3BJsijHanCgj"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Where did you go",
         "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
@@ -1709,7 +1773,7 @@
       "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "don't come back",
         "url": "https://open.spotify.com/album/11cbxbrYCNcdzRMAbbKZop"
@@ -1725,7 +1789,7 @@
       "url": "https://open.spotify.com/track/3tPrgyExznmJs4wA51yXlJ"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "STAMINA",
         "url": "https://open.spotify.com/album/6zMT3Yq5tATdh6qAPB7IuK"
@@ -1741,7 +1805,7 @@
       "url": "https://open.spotify.com/track/6dXe3JfA0UVh0PtS6PoB8k"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "All That I Lost",
         "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
@@ -1757,7 +1821,7 @@
       "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Surrender To The Feeling",
         "url": "https://open.spotify.com/album/7KhCchcBtE9dTmbwf52LUo"
@@ -1773,23 +1837,7 @@
       "url": "https://open.spotify.com/track/4k0N1HHajVqshJQGkS9YWk"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Too Many Questions",
-        "url": "https://open.spotify.com/album/5jsJKDav4rpuCCuB6xfn30"
-      },
-      "artists": [
-        {
-          "name": "NERO",
-          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Too Many Questions",
-      "url": "https://open.spotify.com/track/6wgL6APgOeanSa2rocFeZY"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Felt A Little Like",
         "url": "https://open.spotify.com/album/0KRqWwLm35hlggcVVUkpu1"
@@ -1813,7 +1861,23 @@
       "url": "https://open.spotify.com/track/59UH0rSIE50SCvvj2FNGKv"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Too Many Questions",
+        "url": "https://open.spotify.com/album/5jsJKDav4rpuCCuB6xfn30"
+      },
+      "artists": [
+        {
+          "name": "NERO",
+          "url": "https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Too Many Questions",
+      "url": "https://open.spotify.com/track/6wgL6APgOeanSa2rocFeZY"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "It Isn't Easy (feat. EKKSTACY)",
         "url": "https://open.spotify.com/album/6P0yh6kSLJx1S4i48gbyJ2"
@@ -1837,23 +1901,7 @@
       "url": "https://open.spotify.com/track/2QAg6Hu5MJAafBSbtdgwmo"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Discipline",
-        "url": "https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Cruel Heart",
-      "url": "https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Gonna Be Good",
         "url": "https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E"
@@ -1869,7 +1917,23 @@
       "url": "https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/4N0eQEqf5YaMlGQ3VyFRRq"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Cruel Heart",
+      "url": "https://open.spotify.com/track/1xpSTNyLKRqHKHvBVLXYma"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/5CFc8C22y0eOTiz1DbqTFJ"
@@ -1885,7 +1949,7 @@
       "url": "https://open.spotify.com/track/3uMVGeBBjjPavtpUPQOBt7"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2qzCGspVB8DdrxAmZVzTKO"
@@ -1901,7 +1965,7 @@
       "url": "https://open.spotify.com/track/0cFXO8OMdeLeShQoEp7pxi"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "THERE 4 U",
         "url": "https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf"
@@ -1917,7 +1981,7 @@
       "url": "https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "somewhere i never know",
         "url": "https://open.spotify.com/album/6wGCqXtQyHBZyNTE0bxLvi"
@@ -1937,23 +2001,7 @@
       "url": "https://open.spotify.com/track/3bXFlVhSzkolyOC0qZWHtX"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Good Faith",
-        "url": "https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        }
-      ],
-      "duration_ms": 241040,
-      "name": "Heavy With Hoping",
-      "url": "https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Heaven Takes You Home (Alternative Mix)",
         "url": "https://open.spotify.com/album/7c65OgN46PvxnhD5vrEjGJ"
@@ -1973,7 +2021,23 @@
       "url": "https://open.spotify.com/track/1I7OOfvmTiu1qfdEMZcFnM"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Good Faith",
+        "url": "https://open.spotify.com/album/6Lq1lrCfkpxKa4jCo5gKWr"
+      },
+      "artists": [
+        {
+          "name": "Madeon",
+          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+        }
+      ],
+      "duration_ms": 241040,
+      "name": "Heavy With Hoping",
+      "url": "https://open.spotify.com/track/2W2e6TBrwJt4ASh5jyYgvZ"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/2ho8S28yjGizJFyC6LP5Nw"
@@ -1993,7 +2057,7 @@
       "url": "https://open.spotify.com/track/7C7jWTX2gRjQMmhuTCrHrA"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Teardrops",
         "url": "https://open.spotify.com/album/48l2WUJtq6tAaaFHVwaLrp"
@@ -2009,7 +2073,31 @@
       "url": "https://open.spotify.com/track/5MgK46SeLyGkhtb81v38Ks"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Lonely (AVAION Remix)",
+        "url": "https://open.spotify.com/album/3ac5ZGbY7LbUqc3SK9z308"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Rae Morris",
+          "url": "https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst"
+        },
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        }
+      ],
+      "duration_ms": 235577,
+      "name": "Lonely - AVAION Remix",
+      "url": "https://open.spotify.com/track/3QFYEwD1H68ii9jXSdWJbU"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "life gets hard (Edit)",
         "url": "https://open.spotify.com/album/6PuhXI5QuoTTgQNP88XCcs"
@@ -2029,7 +2117,7 @@
       "url": "https://open.spotify.com/track/1vQTyLGbpA2zXejuDC9b9t"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Visage 6 (Never Loved)",
         "url": "https://open.spotify.com/album/577ICRjIydiQOkjRzKkGNX"
@@ -2045,7 +2133,7 @@
       "url": "https://open.spotify.com/track/0meP7qfCsxGij4zDvQPDxd"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "I DON'T WANT TO FALL IN LOVE",
         "url": "https://open.spotify.com/album/0sXjHFUi5WyYVSkjwvDb4V"
@@ -2061,7 +2149,7 @@
       "url": "https://open.spotify.com/track/2nfCQnzvjapzfLlv5Efdku"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "LOVE U BETTER",
         "url": "https://open.spotify.com/album/1uUrVX8qOLxOOKYtHkbw7b"
@@ -2077,7 +2165,7 @@
       "url": "https://open.spotify.com/track/6Khlv62nS1m80JXhpzm0Ez"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/3sP2QGyEsqcT5MjlrVR8Sq"
@@ -2093,23 +2181,7 @@
       "url": "https://open.spotify.com/track/3Wo2o3idbrK3asVdbHh5Nl"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Shiny New Thing",
-        "url": "https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT"
-      },
-      "artists": [
-        {
-          "name": "CXLOE",
-          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
-        }
-      ],
-      "duration_ms": 158170,
-      "name": "Shiny New Thing",
-      "url": "https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "These Things Will Come To Be",
         "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
@@ -2125,7 +2197,23 @@
       "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
+      "album": {
+        "name": "Shiny New Thing",
+        "url": "https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT"
+      },
+      "artists": [
+        {
+          "name": "CXLOE",
+          "url": "https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R"
+        }
+      ],
+      "duration_ms": 158170,
+      "name": "Shiny New Thing",
+      "url": "https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA"
+    },
+    {
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Spaceman (ft. RIZ LA VIE)",
         "url": "https://open.spotify.com/album/2WYjahILyeTDaKKkSUh7I8"
@@ -2149,7 +2237,7 @@
       "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Pattern",
         "url": "https://open.spotify.com/album/7FL4xjBXkmCJFDVDKP51dG"
@@ -2173,7 +2261,7 @@
       "url": "https://open.spotify.com/track/56pKxbJR1QFD8fmcqNI4R5"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Believe In Myself",
         "url": "https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV"
@@ -2189,7 +2277,7 @@
       "url": "https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy"
     },
     {
-      "added_at": "2024-08-16 15:45:08",
+      "added_at": "2024-08-23 21:29:18",
       "album": {
         "name": "Hide and Seek (Le Youth Remix)",
         "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
@@ -2207,78 +2295,6 @@
       "duration_ms": 231288,
       "name": "Hide and Seek - Le Youth Remix",
       "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Julia (deep diving)",
-        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Julia (deep diving)",
-      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "a little bitter",
-        "url": "https://open.spotify.com/album/0nlIB1Jw8qoWoN01EWDP5U"
-      },
-      "artists": [
-        {
-          "name": "puulse",
-          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
-        }
-      ],
-      "duration_ms": 127968,
-      "name": "a little bitter",
-      "url": "https://open.spotify.com/track/0CO4XiQn9hYzt1qmgRDm6P"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "There's No Tomorrow",
-        "url": "https://open.spotify.com/album/5INNKGgFD6LbVOwAOyctZ8"
-      },
-      "artists": [
-        {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Leave the Door Open",
-      "url": "https://open.spotify.com/track/1KYFWMnh5wVsiqncElR67h"
-    },
-    {
-      "added_at": "2024-08-16 15:45:08",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/35rXUvvvWDOEK28JXGE5ad"
-      },
-      "artists": [
-        {
-          "name": "Hektor Mass",
-          "url": "https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        },
-        {
-          "name": "ILVS",
-          "url": "https://open.spotify.com/artist/41jNNNvoBm9hPTVHpRRHvi"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/6xIjK78uVVlATFBj9Wn4RL"
     }
   ],
   "unique_name": "crying on the dance floor",

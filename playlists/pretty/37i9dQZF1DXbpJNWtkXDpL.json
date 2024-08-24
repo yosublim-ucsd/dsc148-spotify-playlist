@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 ac\u00e1. Conoce a la Generaci\u00f3n 2024 de RADAR M\u00e9xico. CHOCA en portada.",
-  "num_followers": 85059,
+  "num_followers": 85082,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "Don Ismael",
         "url": "https://open.spotify.com/album/1EhSwLRbSkj0YkBCgMoHFj"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 158938,
       "name": "Don Ismael",
       "url": "https://open.spotify.com/track/2UsQPVCNmSrbt9MY0vtTsb"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Seguimos Dejando Marca - En Vivo",
-        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 147781,
-      "name": "Gente Corriente - En Vivo",
-      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "KDR",
         "url": "https://open.spotify.com/album/6ATbvwDHxLn5dfzGpqfygm"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 201265,
       "name": "KDR",
       "url": "https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Seguimos Dejando Marca - En Vivo",
+        "url": "https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 147781,
+      "name": "Gente Corriente - En Vivo",
+      "url": "https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 194896,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/3ttIVj1N3d6hV8t0UL2Mjo"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "Anillos",
         "url": "https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 203861,
       "name": "Anillos",
       "url": "https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 194896,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/3ttIVj1N3d6hV8t0UL2Mjo"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 231854,
-      "name": "CHOKE",
-      "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "Entre La Maleza",
         "url": "https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 215956,
       "name": "Entre La Maleza",
       "url": "https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 231854,
+      "name": "CHOKE",
+      "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "El Brillo De Tus Ojitos",
+        "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
+      },
+      "artists": [
+        {
+          "name": "Dorian Guerra",
+          "url": "https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "El Brillo De Tus Ojitos",
+      "url": "https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "ANTRO FRESXN (REMIX)",
         "url": "https://open.spotify.com/album/2SJ9doitKEehFZsGialx8K"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 145281,
       "name": "ANTRO FRESXN (REMIX)",
       "url": "https://open.spotify.com/track/1OIki4kfFtruhem0MJpPJz"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "El Brillo De Tus Ojitos",
-        "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
-      },
-      "artists": [
-        {
-          "name": "Dorian Guerra",
-          "url": "https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "El Brillo De Tus Ojitos",
-      "url": "https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
-        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
       },
       "artists": [
         {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
         }
       ],
-      "duration_ms": 176066,
-      "name": "Hell You Call A Dream",
-      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
+      "duration_ms": 265561,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
+        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
+        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
       },
       "artists": [
         {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 265561,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
+      "duration_ms": 176066,
+      "name": "Hell You Call A Dream",
+      "url": "https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
-        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
       },
       "artists": [
         {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
         }
       ],
-      "duration_ms": 184771,
-      "name": "Qu\u00e9 M\u00e1s Quieres",
-      "url": "https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA"
+      "duration_ms": 200000,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
+        "name": "Hell You Call A Dream / Qu\u00e9 M\u00e1s Quieres",
+        "url": "https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir"
       },
       "artists": [
         {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
+      "duration_ms": 184771,
+      "name": "Qu\u00e9 M\u00e1s Quieres",
+      "url": "https://open.spotify.com/track/41hP8Zj09hdeQywGGIcXxA"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1171,22 +1171,6 @@
       "duration_ms": 194148,
       "name": "M\u00e1scara de Ni\u00f1a",
       "url": "https://open.spotify.com/track/4i2Gvi7vMbrr1IGvSfUSYd"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "El Traje Naranja",
-        "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "De Ladrillo a Ladrillo",
-      "url": "https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "El Traje Naranja",
+        "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "De Ladrillo a Ladrillo",
+      "url": "https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "Dime Ya",
         "url": "https://open.spotify.com/album/59bw7STmN2fRL5jqvdMNuX"
       },
@@ -1227,6 +1227,22 @@
       "duration_ms": 200650,
       "name": "Dime Ya",
       "url": "https://open.spotify.com/track/14jfifo7CTWMWiogwX5UK2"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Peda Con Cupido",
+        "url": "https://open.spotify.com/album/6OkJy8eT1jXkn5vAgdlOoc"
+      },
+      "artists": [
+        {
+          "name": "Alta Elegancia",
+          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
+        }
+      ],
+      "duration_ms": 150533,
+      "name": "Peda Con Cupido",
+      "url": "https://open.spotify.com/track/20IUekuGgFB9axiqb3k3Ss"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Peda Con Cupido",
-        "url": "https://open.spotify.com/album/6OkJy8eT1jXkn5vAgdlOoc"
+        "name": "Zapand\u00fa",
+        "url": "https://open.spotify.com/album/7peyVHwdincY9AkNJv0VY0"
       },
       "artists": [
         {
-          "name": "Alta Elegancia",
-          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
         }
       ],
-      "duration_ms": 150533,
-      "name": "Peda Con Cupido",
-      "url": "https://open.spotify.com/track/20IUekuGgFB9axiqb3k3Ss"
+      "duration_ms": 296965,
+      "name": "Vampiro",
+      "url": "https://open.spotify.com/track/11Jqdw6vMwgUZQF9w1wqzJ"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1279,22 +1295,6 @@
       "duration_ms": 204913,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/3m1XjVSdOzGGedI15JgsMa"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Zapand\u00fa",
-        "url": "https://open.spotify.com/album/7peyVHwdincY9AkNJv0VY0"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 296965,
-      "name": "Vampiro",
-      "url": "https://open.spotify.com/track/11Jqdw6vMwgUZQF9w1wqzJ"
     },
     {
       "added_at": "2024-07-26 14:56:01",

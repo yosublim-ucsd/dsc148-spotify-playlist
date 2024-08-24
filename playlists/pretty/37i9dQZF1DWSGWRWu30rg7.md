@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Sisca Saras
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,571 likes - 135 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,572 likes - 135 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 87 | [Love in Stereo](https://open.spotify.com/track/5ePhbCEsINvj1ZfX1CUnCX) | [Kenaga](https://open.spotify.com/artist/32X9bL2iCmwTbblt1NEKbR) | [Love in Stereo](https://open.spotify.com/album/0OHHtLLMll4D0G67U48vb8) | 3:03 |
 | 88 | [My Heaven](https://open.spotify.com/track/2ufbxjFk8tNQLYqslJCxsl) | [Ravi Andika](https://open.spotify.com/artist/2Nvkc0Qs0ErmxRzhL3bqNl) | [My Heaven](https://open.spotify.com/album/1lMeaxiRHXDAS0FN9lWcOB) | 3:42 |
 | 89 | [Stranger Things](https://open.spotify.com/track/3eZ54bY0UJA6d6qz7lOm9g) | [The Dusty Rusty](https://open.spotify.com/artist/2Hke4mLmu1lyfxEj2jbpRm) | [Stranger Things](https://open.spotify.com/album/0mJ1zFZ6dLNwJDp45zqEYg) | 3:05 |
-| 90 | [Fine For What](https://open.spotify.com/track/20Age3EGRWgxF711RFBQTv) | [DANGER D](https://open.spotify.com/artist/2Ujt8uoFc0sE4AmXd4dYwg), [matchapuff](https://open.spotify.com/artist/67AoIFOoPBTDCH69EGC8GH) | [Fine For What](https://open.spotify.com/album/3mXJPlSwUaDUAlkCYDa1DT) | 4:18 |
+| 90 | [Fine For What](https://open.spotify.com/track/20Age3EGRWgxF711RFBQTv) | [DANGER D](https://open.spotify.com/artist/2Ujt8uoFc0sE4AmXd4dYwg), [matchapuff](https://open.spotify.com/artist/67AoIFOoPBTDCH69EGC8GH) | [Fine For What](https://open.spotify.com/album/3mXJPlSwUaDUAlkCYDa1DT) | 3:48 |
 | 91 | [All I Got Love](https://open.spotify.com/track/2bdktqcwONGF32IIxbXzci) | [beenmind](https://open.spotify.com/artist/1XZvnhUO8BhpPo6P3q3zba) | [All I Got Love](https://open.spotify.com/album/3qYjgsuRxrARrB0jL4y74F) | 2:47 |
 | 92 | [Greedy](https://open.spotify.com/track/5FYnl9ZJkkB7SlQsfSWx3z) | [Briellebeth](https://open.spotify.com/artist/5HqBt0P2CVcVAsqJcQfBHu) | [Greedy](https://open.spotify.com/album/4gPCF2bVowiYubLshSzfHE) | 2:30 |
 | 93 | [Make Ur Move, Plz](https://open.spotify.com/track/2Emcg1SfTyZBRJ2cqPHZJQ) | [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [Lovecycle](https://open.spotify.com/album/5qxc6Ojbm8WfekBpBm70YD) | 3:08 |

@@ -2,9 +2,9 @@
 
 ### [IRIS](https://open.spotify.com/playlist/37i9dQZF1DX42OMh36xkYf)
 
-> Resonancias extraordinarias de luminiscencia inclasificable\. Con Jaze en portada.
+> Resonancias extraordinarias de luminiscencia inclasificable\. Con Greccia en portada.
 
-151 songs - 8 hr 25 min
+153 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Avisarás](https://open.spotify.com/track/2J6HbyxY6CENgWplG3LfrJ) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Avisarás](https://open.spotify.com/album/5cswaSE9pnLtoUbKJ4SXLj) | 4:17 | 2023-09-22 | 2023-11-11 |
 | [BACANA](https://open.spotify.com/track/4tmR87MHUV0746GNg7jGv3) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [BACANA](https://open.spotify.com/album/1OU7jqRIorGSu9U4uENrLd) | 3:05 | 2023-09-22 | 2024-04-06 |
 | [BAD INTENCIONES](https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [BAD INTENCIONES](https://open.spotify.com/album/1sSipuadK72m7WMdrfrieC) | 2:49 | 2024-02-09 |  |
-| [banco](https://open.spotify.com/track/2wCiFPVkLB8N6o6zLVXAdl) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [banco](https://open.spotify.com/album/4kRm15NYrGovoR5lWt9CqY) | 2:22 | 2024-05-03 |  |
+| [banco](https://open.spotify.com/track/2wCiFPVkLB8N6o6zLVXAdl) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [banco](https://open.spotify.com/album/4kRm15NYrGovoR5lWt9CqY) | 2:22 | 2024-05-03 | 2024-08-24 |
 | [Barlovento](https://open.spotify.com/track/18lElsu2Ou1mQp9lmnkcJU) | [Mito y Comadre](https://open.spotify.com/artist/4lVrLJoIiHaEL7E4Wrl04H) | [Guajirando](https://open.spotify.com/album/18wajZarjucF8FNEExQdGY) | 5:41 | 2023-11-24 | 2024-01-13 |
 | [BEiBi](https://open.spotify.com/track/53x7QqqdDnL50WZMtKixcu) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [BEiBi](https://open.spotify.com/album/56sYshMsnqKPpb3QIkth1v) | 4:00 | 2023-09-22 |  |
 | [BEiBi](https://open.spotify.com/track/7CjOFCRm35lPWK8XoKtO0o) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Mamá Flor](https://open.spotify.com/album/2Kh4wcnhEPSbbrExSSpOOz) | 4:00 | 2023-12-01 | 2024-04-19 |
@@ -45,6 +45,7 @@
 | [Dame Un Break](https://open.spotify.com/track/0GcoJFAS8gvhdMZ7OkSwYH) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Dame Un Break](https://open.spotify.com/album/1FOZrLg79d0DCro3tsnRJq) | 3:20 | 2023-09-22 | 2024-02-10 |
 | [De Cabeza](https://open.spotify.com/track/6g7J0GQZ0CEbJoLP6JDAug) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [De Cabeza](https://open.spotify.com/album/5sAfBwkvC5h66RxrWswRRY) | 2:54 | 2024-01-12 | 2024-01-27 |
 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2uEzrLeDsui4CXSdelYFBf) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:48 | 2023-09-22 |  |
+| [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 | 2024-08-23 |  |
 | [el Alquimista](https://open.spotify.com/track/0PZUscW1i1Ipz1guGIMuhJ) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [el Alquimista](https://open.spotify.com/album/6U9wTBtMy0D9CHPola2s5g) | 2:44 | 2024-08-16 |  |
 | [El Amor Es un Juego de Perdedores](https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [El Amor Es un Juego de Perdedores](https://open.spotify.com/album/1Xxs2T7CHUycFvPg7rj2La) | 3:28 | 2024-05-17 | 2024-07-19 |
 | [El Amor Se Fue de Repente](https://open.spotify.com/track/7Kt2X9nFAr7v6lHqclet9m) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [El Amor Se Fue de Repente](https://open.spotify.com/album/3BR6BEzOxK1ukJo8RkHSsL) | 3:46 | 2023-10-20 | 2024-03-02 |
@@ -59,11 +60,12 @@
 | [Estrella](https://open.spotify.com/track/6rEtb8R6eV1bSOJEx5Um9v) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Blanca](https://open.spotify.com/album/7duIH01tOo9sohniGvpX7y) | 3:18 | 2023-09-22 | 2023-11-11 |
 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 | 2023-10-27 | 2023-11-18 |
 | [Feriado](https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Feriado](https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet) | 2:46 | 2023-09-22 |  |
+| [Florecer Contigo](https://open.spotify.com/track/7BizyJuwuuRYp4hnExnO16) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Florecer Contigo](https://open.spotify.com/album/60u8fR1xRaw7SWKIn0J3XG) | 2:47 | 2024-08-23 |  |
 | [Fractal](https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Fractal](https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2) | 4:25 | 2023-09-22 | 2023-10-21 |
 | [Fue Por Ti](https://open.spotify.com/track/3Zf9tMuhSXNVvjtBjYzbEg) | [Matar Fuma](https://open.spotify.com/artist/5QtJsmPyO7fPTh5wZzebTZ), [Nicolle Jadad](https://open.spotify.com/artist/6WKvXvkXVojnonsPLmzSUP) | [Fue Por Ti](https://open.spotify.com/album/7MlRZt1qs5PYIFb3Nw6Om1) | 2:14 | 2023-09-22 | 2023-09-30 |
 | [Fútbol Rock](https://open.spotify.com/track/1et2VDNG2yWvhM5hYmbUQP) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Fútbol Rock](https://open.spotify.com/album/4RrNTXqxiZkwT1qAJVrdrR) | 4:13 | 2023-11-10 | 2024-02-10 |
 | [Game Over](https://open.spotify.com/track/554WpDQ7PihlizEmEV0bI0) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Game Over](https://open.spotify.com/album/74efdghdFtsNTvaN0b0QYr) | 4:19 | 2024-04-05 | 2024-05-18 |
-| [Get Down](https://open.spotify.com/track/3OrNw2UkMV8NI2hk5tDr5U) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Get Down](https://open.spotify.com/album/6rcOUZ2u6fVjuY6oxn8x2h) | 2:38 | 2024-01-26 |  |
+| [Get Down](https://open.spotify.com/track/3OrNw2UkMV8NI2hk5tDr5U) | [Barbara Doza](https://open.spotify.com/artist/45X2CvGmrySWoTggQKDBd0), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Get Down](https://open.spotify.com/album/6rcOUZ2u6fVjuY6oxn8x2h) | 2:38 | 2024-01-26 | 2024-08-24 |
 | [graciosa](https://open.spotify.com/track/2OTUGrELWU6rmgIn1fUi11) | [Santa Madero](https://open.spotify.com/artist/0CRFTlHrIHedPTQFqUYAXN) | [graciosa](https://open.spotify.com/album/48rNo2MHPCvOl0hq5DRg9g) | 2:15 | 2024-01-26 | 2024-02-24 |
 | [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 | 2023-10-20 | 2023-11-25 |
 | [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 | 2023-09-22 | 2023-10-27 |
@@ -109,7 +111,7 @@
 | [NO ME ESTÁS HACIENDO UN FAVOR](https://open.spotify.com/track/2WcPl9wtGox6EUla9BAW7W) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [2030](https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr) | 2:57 | 2023-09-22 |  |
 | [Nublado](https://open.spotify.com/track/41UbjFYSaghFjPo1tgywE6) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nublado](https://open.spotify.com/album/1yCJX4nC3qogzGEv6a90kw) | 3:07 | 2023-09-22 | 2023-10-28 |
 | [Nunca Quise Escribirte una Balada](https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Nunca Quise Escribirte una Balada](https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf) | 2:33 | 2023-10-27 | 2023-11-25 |
-| [Ojalá Te Vaya Mal](https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Ojalá Te Vaya Mal](https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98) | 3:00 | 2024-07-19 |  |
+| [Ojalá Te Vaya Mal](https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Ojalá Te Vaya Mal](https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98) | 3:00 | 2024-07-19 | 2024-08-24 |
 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 | 2023-11-24 | 2024-01-13 |
 | [Otros Ritmos](https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Otros Ritmos](https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc) | 3:42 | 2023-12-01 |  |
 | [Pa' Mí No Vales Nada](https://open.spotify.com/track/4Ixm2dFSYn8zELPXlUQAwU) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Pa' Mí No Vales Nada](https://open.spotify.com/album/070FonkMaXRQYRQIApAVZ4) | 3:00 | 2024-04-12 | 2024-05-18 |

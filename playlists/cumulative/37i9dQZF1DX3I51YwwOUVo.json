@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Get to know our 2024 Artists to Watch! Cover: Destroy Boys",
+  "description": "Get to know our 2024 Artists to Watch! Cover: Sam Barber",
   "name": "Artists To Watch 2024",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 142307,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
@@ -168,6 +168,24 @@
       "duration_ms": 98750,
       "name": "Better",
       "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
+    },
+    {
+      "album": {
+        "name": "Better Year / Jersey Giant",
+        "url": "https://open.spotify.com/album/5y0pO2GUp0WxLpA2mlr199"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200440,
+      "name": "Better Year",
+      "url": "https://open.spotify.com/track/16Dak03vkp5lEuwIFFpeOm"
     },
     {
       "album": {
@@ -302,7 +320,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 186306,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
@@ -338,7 +356,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 194240,
       "name": "catalogue",
       "url": "https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS"
@@ -771,6 +789,24 @@
     },
     {
       "album": {
+        "name": "Knocking At My Door",
+        "url": "https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190433,
+      "name": "Knocking At My Door",
+      "url": "https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE"
+    },
+    {
+      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
       },
@@ -1197,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "RABBITHOLE",
+        "url": "https://open.spotify.com/album/3zxAXVIsNoLPv727sWSqKg"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141443,
+      "name": "RABBITHOLE",
+      "url": "https://open.spotify.com/track/6l5sqTPOD2UdzEb2RlwtSI"
+    },
+    {
+      "album": {
         "name": "Fruit from the Trees",
         "url": "https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO"
       },
@@ -1346,7 +1400,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 183407,
       "name": "S.O.B.",
       "url": "https://open.spotify.com/track/3h65hnA2SkIeOK3aVyUIe7"
@@ -1516,7 +1570,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 138384,
       "name": "that b*tch don't even kno my name...",
       "url": "https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx"
@@ -1538,6 +1592,24 @@
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "album": {
+        "name": "DEADBEAT! - Disc 1",
+        "url": "https://open.spotify.com/album/1hY6wDixeGad4Bxwe4tMsx"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191456,
+      "name": "The Rug",
+      "url": "https://open.spotify.com/track/2ig3FVvbLfrLPEgLJbz8OZ"
     },
     {
       "album": {
@@ -1674,6 +1746,24 @@
       "duration_ms": 331540,
       "name": "UTHANDO",
       "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
+    },
+    {
+      "album": {
+        "name": "very little effort",
+        "url": "https://open.spotify.com/album/5gytBTbcIRuIZP7R5spxLn"
+      },
+      "artists": [
+        {
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256160,
+      "name": "very little effort",
+      "url": "https://open.spotify.com/track/50vCyMaif5TrJDp3cgSO7F"
     },
     {
       "album": {

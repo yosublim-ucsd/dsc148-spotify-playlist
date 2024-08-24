@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3zDRCqOhJXJfS2YWOEwGMC">Christopher</a>: It could have been us 🥲 kender følelsen ❤️‍🩹
 
-1,743 songs - 3 day 17 hr 7 min
+1,746 songs - 3 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Cold](https://open.spotify.com/track/3yTxDUuueSjhtsK1ea3Lbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cold](https://open.spotify.com/album/6dSayYt3E6jPTp66PcXsrI) | 2:50 | 2024-04-26 | 2024-05-03 |
 | [COLD](https://open.spotify.com/track/5dRHo9Mls6zRqiMAJFSCSY) | [SAUDA](https://open.spotify.com/artist/39dIL6jVJO0gdoAOQL0Tt1), [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md) | [COLD](https://open.spotify.com/album/5PdGURSh1jYKRGytW1ezN9) | 2:45 | 2024-05-30 | 2024-06-07 |
 | [Colorblind](https://open.spotify.com/track/0HGYvj58pqADIrt3vhG9fP) | [Luke Alvin](https://open.spotify.com/artist/484n5top8RJk6NL3mGasDc) | [Colorblind](https://open.spotify.com/album/2EeNM8LXIKxAVCL1Oiht5p) | 2:31 | 2024-08-22 |  |
+| [coloured concrete](https://open.spotify.com/track/0jV3B8KhjiUrC6jmaBlNnx) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [coloured concrete](https://open.spotify.com/album/2bhF8TcYORRGmbgJhbcpPT) | 3:10 | 2024-08-23 |  |
 | [Come Around](https://open.spotify.com/track/0AMb8oicfXbM0u2FVHYbFM) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Come Around](https://open.spotify.com/album/4ZDNJrvHXeLWqxrJmT1uFe) | 2:30 | 2024-06-27 | 2024-07-05 |
 | [Come As You](https://open.spotify.com/track/4llmA8QnpYEj3TXoVNRZfT) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Come As You](https://open.spotify.com/album/4eEVQPtN38OMzBFMVRhYKU) | 4:23 | 2024-07-04 | 2024-07-12 |
 | [Come Get Her](https://open.spotify.com/track/5YqdSkKIelP7dymy1jJ1kE) | [Vinny Vibe](https://open.spotify.com/artist/1Wk9TyI8QKcivUVkgcbjyo), [DEUX SAINTS](https://open.spotify.com/artist/44iewsGL35Do6lH81Isndl) | [Come Get Her](https://open.spotify.com/album/37cz7NYJI730qHM0tbBKqm) | 2:38 | 2024-07-11 | 2024-07-19 |
@@ -1343,7 +1344,7 @@
 | [Seasons](https://open.spotify.com/track/4FMWjjXiJttRPvnmflfani) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Seasons](https://open.spotify.com/album/7DrzMnIkJsr84RAQehsjfZ) | 2:48 | 2024-08-16 | 2024-08-23 |
 | [Seasons & Narcissus](https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part One](https://open.spotify.com/album/14gwVejGdggFC3UspqGWOC) | 3:29 | 2024-07-25 | 2024-08-02 |
 | [Secrets](https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Secrets](https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE) | 3:44 | 2024-08-22 |  |
-| [see you again](https://open.spotify.com/track/0mW95CFGEMqpJ5rOXSvYOg) | [fka jim](https://open.spotify.com/artist/6QPmxSImZWhMaUL0cECeEL) | [see you again](https://open.spotify.com/album/6l9jidV2wcnk9yioYXGnPS) | 2:00 | 2024-08-22 |  |
+| [see you again](https://open.spotify.com/track/0mW95CFGEMqpJ5rOXSvYOg) | [Jim Alxndr](https://open.spotify.com/artist/73oeeOCtBTa9kBMuVggdMI) | [see you again](https://open.spotify.com/album/6l9jidV2wcnk9yioYXGnPS) | 2:00 | 2024-08-22 |  |
 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 | 2024-08-16 | 2024-08-23 |
 | [Selfish \- Acoustic Cover](https://open.spotify.com/track/6W6hdh9IptrLNjUjUjHvD7) | [Olly Jacobs](https://open.spotify.com/artist/45IsQLi6A6cVq4R5ddX6OI) | [Selfish \(Acoustic Cover\)](https://open.spotify.com/album/1biSIzE28m11gR2m6hHmws) | 3:34 | 2024-08-02 | 2024-08-09 |
 | [September Something](https://open.spotify.com/track/1MBWwJGgfqRl9DQI1hSilH) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [September Something](https://open.spotify.com/album/5biuYKeKdN5ExEtwuOTHid) | 7:28 | 2024-08-22 |  |
@@ -1374,6 +1375,7 @@
 | [SKELETON](https://open.spotify.com/track/7Id3dL8SN0JIZ0kelI5JcA) | [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [SKELETON](https://open.spotify.com/album/6mkdOyHLglhEaj50QbGmRk) | 2:26 | 2024-05-16 | 2024-05-24 |
 | [Skrue Løs](https://open.spotify.com/track/7ARkCctaMpssbrBp8J4w8C) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Skrue Løs](https://open.spotify.com/album/6dPL421VFL9pfJOgk3BXjm) | 2:04 | 2024-05-02 | 2024-05-10 |
 | [Sky Forever](https://open.spotify.com/track/6IesgdexmRuDlNPIYiose6) | [The Entrepreneurs](https://open.spotify.com/artist/4S7dliS2X7ESmtenWiGlaq) | [Sky Forever](https://open.spotify.com/album/6AbkuRvO7CsIjbRX0QHElf) | 3:54 | 2024-04-26 | 2024-05-03 |
+| [Skyfall \(feat\. Young Thug\)](https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 5:14 | 2024-08-23 |  |
 | [Slack](https://open.spotify.com/track/2bcKBXhEvtpluFyU5bQNh7) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Slack](https://open.spotify.com/album/399DCOIpeXaQOvUOSRY8yS) | 2:49 | 2024-08-09 | 2024-08-16 |
 | [Sleepless Again](https://open.spotify.com/track/5BGXikrKAjoVzxcGvFSLQg) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA) | [Sleepless Again](https://open.spotify.com/album/6vzX86NIqmMZg7wMv13vZl) | 3:08 | 2024-06-27 | 2024-07-05 |
 | [Slem](https://open.spotify.com/track/7GXQNcXXlYvyMiDHZGNjCS) | [ARO](https://open.spotify.com/artist/23VrCAKZBhCMC1P3Q8p4xL) | [Slem](https://open.spotify.com/album/4SVtqXHtcZrZ8rKWujxHps) | 2:09 | 2024-05-23 | 2024-06-01 |
@@ -1606,6 +1608,7 @@
 | [UDØDELIG](https://open.spotify.com/track/0FyCLGRnLuYNSQvsMTaLNb) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [UDØDELIG](https://open.spotify.com/album/4XmsleiLDfq75f5Gmz3eWf) | 2:03 | 2024-06-27 | 2024-07-05 |
 | [UFO](https://open.spotify.com/track/24jYaPpyOxwXSpoHtZj7d1) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/49jIq6UixM2ez8lxnhfT17) | 3:00 | 2024-05-23 | 2024-06-01 |
 | [Ugly Cry](https://open.spotify.com/track/0laEAr4GUvINBLFQnguMmb) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [Ugly Cry](https://open.spotify.com/album/4oSR3YcFYVtp0wladUo93t) | 2:24 | 2024-08-22 |  |
+| [Uhh Yeah](https://open.spotify.com/track/2WG8EuarYi6f5V8XXTCX7K) | [FRAADS](https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH) | [Uhh Yeah](https://open.spotify.com/album/3rvRRmYzTULJ694xxugyI3) | 2:53 | 2024-08-23 |  |
 | [Ultimate Game](https://open.spotify.com/track/6adYa30lToAmiHVYKsagBE) | [Alvah](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y) | [Ultimate Game](https://open.spotify.com/album/1lgujVcR26CcA32ZWzq8Vc) | 2:57 | 2024-04-26 | 2024-05-03 |
 | [ULTRA LOVE \(Flute\)](https://open.spotify.com/track/4RUdmVfhaeyhwAexJvIZZr) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk) | [ULTRA LOVE \(Flute\)](https://open.spotify.com/album/3DTtRPikV8bnYwhBnVCdFd) | 2:32 | 2024-06-06 | 2024-06-14 |
 | [ULTRA LOVE \(Flute\)](https://open.spotify.com/track/7da26AHtBwV2xpCno4VdXE) | [Barcode Brothers](https://open.spotify.com/artist/11lfQgLbVZRnR7tbtAnzhk), [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg) | [ULTRA LOVE \(Flute\)](https://open.spotify.com/album/6nsYkEPNI9MGs4Xh56Aiwy) | 2:14 | 2024-08-01 | 2024-08-09 |

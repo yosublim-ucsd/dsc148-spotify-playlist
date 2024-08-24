@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-586 songs - 1 day 5 hr 47 min
+587 songs - 1 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-03-10 | 2023-04-28 |
 | [Without You](https://open.spotify.com/track/6jgW1FXQvfdGVcOKiL9T57) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Without You](https://open.spotify.com/album/1RuC8GhdatGI2Yfwk7gkm1) | 3:08 | 2024-07-05 |  |
 | [Wizkid](https://open.spotify.com/track/2rC9Mwkntrhv1RH4FzZ1MM) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [AVA NOVA](https://open.spotify.com/artist/3F7A0HJo5EKQKQ01Fv1TxW) | [Wizkid](https://open.spotify.com/album/0DfHdC5Ahks277KoV2ycp7) | 2:43 | 2022-11-10 | 2023-04-28 |
+| [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 | 2024-08-23 |  |
 | [World on Fire](https://open.spotify.com/track/0vyzWCQaPRwaJPbRv9SB1q) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 3:45 | 2023-06-21 | 2023-08-10 |
 | [World on Fire](https://open.spotify.com/track/6RUrwniB9s0Xm3iqXa5Jc2) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [World on Fire](https://open.spotify.com/album/6xYYOfJjOi1Xrs7M46NPoX) | 3:45 | 2023-03-22 | 2023-08-10 |
 | [Worship](https://open.spotify.com/track/3UL3mFsWBtRUZWRu0qAD46) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Worship](https://open.spotify.com/album/4uSfrfa4EdUa1PgwpaxZkx) | 4:05 | 2024-07-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > ist nur einmal im Jahr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,493 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,653 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 79 | [Anton aus Tirol](https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj) | [Anton](https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw), [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Das Album](https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1) | 3:49 |
 | 80 | [Klempner Klaus](https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY) | [GABBY](https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI), [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO) | [Klempner Klaus](https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL) | 2:35 |
 
-Snapshot ID: `Zr82iwAAAADxVV8NYs+p0sGX+cS+0q87`
+Snapshot ID: `Zsg/MQAAAADwjq7osGuzWpwG8OV/Y18B`

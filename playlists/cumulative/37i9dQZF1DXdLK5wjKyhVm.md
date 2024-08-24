@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-453 songs - 17 hr 23 min
+456 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,13 +19,14 @@
 | [Altitude](https://open.spotify.com/track/5yiI18IfeUy42vBMTft4ub) | [Tales of Urbania](https://open.spotify.com/artist/1G6JXwDlPBndTmT5DI2sHX) | [Altitude](https://open.spotify.com/album/6gmKFsmN2zrbUfluAczGuZ) | 2:11 | 2023-12-15 |  |
 | [always by your side](https://open.spotify.com/track/79q1pBgBHbtakGcIaoGLJs) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [always by your side](https://open.spotify.com/album/7zdxISh4gzSHasN6xBDyG2) | 1:48 | 2024-07-12 |  |
 | [An afternoon in Paris](https://open.spotify.com/track/12wVnuhk0HNmuoJ0XxUsZi) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [An afternoon in Paris](https://open.spotify.com/album/4vlbxUJW7e1L4teaGQjxLd) | 1:48 | 2022-11-18 | 2023-09-05 |
+| [Arboreous](https://open.spotify.com/track/4yu1zpAy9PDX2p8NVdtXm1) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM), [Senn](https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si) | [Dreamscape Jams](https://open.spotify.com/album/4pHBPlUYS6mg28OpyK7viH) | 1:59 | 2024-08-23 |  |
 | [aries](https://open.spotify.com/track/6zfVJYR4IdjZ5j4sc2jexH) | [$imba](https://open.spotify.com/artist/6ZPRXOOs0K9EipFamTz2YP) | [aries](https://open.spotify.com/album/0cbJnaBHP1XgOhM6M3zodW) | 2:05 | 2024-03-22 |  |
 | [Asteroid Belt](https://open.spotify.com/track/3KXeYDYMZO6rYIQEecFXcK) | [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi), [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [Uranus](https://open.spotify.com/album/05htkdTKd7Skemxf7T94Cf) | 2:17 | 2022-09-09 | 2022-10-29 |
 | [Atenas](https://open.spotify.com/track/4FkOI2R2sm3WDdPQgbx84z) | [Sintencion](https://open.spotify.com/artist/3rKdj5m4CAvH3kpD0b8SJl) | [Atenas](https://open.spotify.com/album/4y2q9NpFqqDZM9IJMLZ2Z4) | 4:49 | 2022-09-09 | 2023-09-05 |
 | [Atlantic Ocean](https://open.spotify.com/track/79ueipIReBsOjdT1nusFnC) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Atlantic Ocean](https://open.spotify.com/album/6JcBrBWZTSLr6xVb7Pb7Hw) | 2:00 | 2023-09-29 |  |
 | [Aurora](https://open.spotify.com/track/0bt1VX2YCR8Vgai2UsbB92) | [nica](https://open.spotify.com/artist/0u96XywACCRX1lmADjQdjF), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [melodica](https://open.spotify.com/album/2uEWbd83VeEw2PfK63q8Jr) | 3:34 | 2023-09-04 | 2023-09-09 |
 | [Autumn Day](https://open.spotify.com/track/7mngtl9Gec7UzuHqFiEOqN) | [9T7](https://open.spotify.com/artist/6FUrvlop2OuQ4v0NLgkaKD), [Smoodmood](https://open.spotify.com/artist/5gWiSoKQnuzN6SzukwZhei), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Autumn Day](https://open.spotify.com/album/7tuU3z8lll9ctl5BXUGMte) | 1:46 | 2022-10-28 |  |
-| [autumn nights](https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [autumn nights](https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao) | 1:35 | 2023-10-13 |  |
+| [autumn nights](https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot) | [Sto Nii](https://open.spotify.com/artist/2CgiClD4nYWMHiDmwpT8q8) | [autumn nights](https://open.spotify.com/album/5EcvO8QOBEhimWNWDq6rao) | 1:35 | 2023-10-13 | 2024-08-24 |
 | [autumn sleep](https://open.spotify.com/track/1W0TvHR5B9aUKFnRktSWpD) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [autumn sleep](https://open.spotify.com/album/6Q9vUv2cDQaMVywMR30lSg) | 2:40 | 2024-01-12 |  |
 | [Autumn Stroll](https://open.spotify.com/track/5EAColl6xt8Gnm8fNG05hO) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Autumn Stroll](https://open.spotify.com/album/4n6WWpN0P3MsBU4OTFXFIM) | 1:58 | 2023-10-13 |  |
 | [Avenues](https://open.spotify.com/track/0GEmUg3e8CGFtWjJU0cDux) | [Quinn Rain](https://open.spotify.com/artist/6aKecRYEOZ3xWSlzBMK9tc) | [Avenues](https://open.spotify.com/album/1BEIyMdOKIlmmXCyf9ORET) | 2:29 | 2024-06-21 |  |
@@ -372,10 +373,11 @@
 | [Slowmotion](https://open.spotify.com/track/62FD9nH97vjBJ7UJBlusRA) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Slowmotion](https://open.spotify.com/album/09cHYQH8RY5ywsDND2EMp1) | 2:28 | 2023-12-08 |  |
 | [Small Tree](https://open.spotify.com/track/5wY9QAud2eaaFYAbH4Wbpf) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Small Tree](https://open.spotify.com/album/3cCL0cd0s7JVQCr9TmSZW2) | 2:59 | 2024-02-23 |  |
 | [smileyface](https://open.spotify.com/track/6oGk8aYZv1s28KeBrFGQax) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [smileyface](https://open.spotify.com/album/78DU2xHbAo9sss8dmbstyI) | 2:54 | 2023-11-17 |  |
+| [Snooze Groove](https://open.spotify.com/track/0Pvu5OJLVcukLnrLFZ8YgH) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Snooze Groove](https://open.spotify.com/album/5CaL7WVwN9ZBYHbzcXLCL6) | 2:04 | 2024-08-23 |  |
 | [Soaring Skies](https://open.spotify.com/track/6BYqDQYn9ZkXsEior0XqzL) | [Dillon Kay](https://open.spotify.com/artist/3gEfOUa3nPTlBSjLRxtrmq) | [Soaring Skies & Chatty Mountains](https://open.spotify.com/album/0dqIbxk81W1siCTh1eBP8a) | 2:48 | 2022-11-11 |  |
 | [Softly Whispering](https://open.spotify.com/track/6CVpyt67DY1JwuR8prqPmP) | [Convivial](https://open.spotify.com/artist/59HctYEqVbvHq6aJ766KPH) | [Softly Whispering](https://open.spotify.com/album/100YLSEn3RzaqIyNKQzEk3) | 3:07 | 2023-10-20 |  |
 | [Something Different](https://open.spotify.com/track/1QxHlIxKVTiNX4Vj38ejLo) | [Kanbina Mind](https://open.spotify.com/artist/6sPgHyYKS3VMneq1yoflgm) | [Time To Chill](https://open.spotify.com/album/6hV5rCYyRKjarXhAr63JNV) | 1:58 | 2023-09-29 |  |
-| [Something Just Like This](https://open.spotify.com/track/7kUrFke3uXQj8aXrK31YMX) | [Vries](https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U) | [Something Just Like This](https://open.spotify.com/album/15UPDQW8lzzQCoA9lfK1wU) | 3:26 | 2024-01-12 |  |
+| [Something Just Like This](https://open.spotify.com/track/7kUrFke3uXQj8aXrK31YMX) | [Vries](https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U) | [Something Just Like This](https://open.spotify.com/album/15UPDQW8lzzQCoA9lfK1wU) | 3:26 | 2024-01-12 | 2024-08-24 |
 | [Soul of Serenity](https://open.spotify.com/track/4baez3KIhzdnOIhyS4TNeG) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Soul of Serenity](https://open.spotify.com/album/2RHRLJNULTY4nrxWdoleeT) | 2:12 | 2023-09-22 |  |
 | [Soul Reflection](https://open.spotify.com/track/3jBfyGT7o2LPDmSZucHcYr) | [Yoann Garel](https://open.spotify.com/artist/2RRf9tUE1EcvP4W4v9Hi4B), [Aphrow](https://open.spotify.com/artist/5r6e4n1Ux36kMlRJSqeMPr) | [Soul Reflection](https://open.spotify.com/album/1gIqp3fXhBxi4B9gpjQrwD) | 1:39 | 2022-12-02 |  |
 | [SoulShower](https://open.spotify.com/track/5aeQDI9LxC5Aiuc5Vqo65K) | [Bus Topp](https://open.spotify.com/artist/6iWgfTsyBsH03H2XDrveyR) | [SoulShower](https://open.spotify.com/album/6JrRnSqrgKmEAIgx6f0qWX) | 3:13 | 2023-12-08 |  |
@@ -444,6 +446,7 @@
 | [under water](https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [under water](https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi) | 2:06 | 2023-09-22 | 2023-09-29 |
 | [Up In The Clouds Again](https://open.spotify.com/track/5UkHAPnb2Vyx0DvOmnBklI) | [astra division](https://open.spotify.com/artist/0yMwXDtoiRbZm4yn1JesCK) | [Up In The Clouds Again](https://open.spotify.com/album/5LGOpvqw4CDDEHLGlZi5Po) | 2:07 | 2024-07-12 |  |
 | [voices](https://open.spotify.com/track/6vfoxpNa7KUzBZGFNfMXEX) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [voices](https://open.spotify.com/album/31iMcyBgD6rNpAYhTKIZNH) | 0:53 | 2023-09-04 | 2023-09-09 |
+| [Vortex](https://open.spotify.com/track/5gUG9ivCY3V5DRW8301SbS) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Vortex](https://open.spotify.com/album/5a9qEcg5nTzr7ZIPVO8FQk) | 2:04 | 2024-08-23 |  |
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2023-10-06 |  |
 | [Walls](https://open.spotify.com/track/6gYpEeyUuM16X8uQzmo9yU) | [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F), [elevenprs](https://open.spotify.com/artist/6prORS1Hu0wAPxJenRDJg6) | [Walls](https://open.spotify.com/album/0ey9PU3PUEGHwAvFiHWLDU) | 1:38 | 2023-09-04 |  |
 | [Want to](https://open.spotify.com/track/5FaoB6oxEKIYft91M2C6kJ) | [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Want to](https://open.spotify.com/album/7D3hF337LIxGKIPC0sbI03) | 2:56 | 2022-12-02 |  |

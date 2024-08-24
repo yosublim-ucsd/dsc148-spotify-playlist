@@ -4,7 +4,7 @@
 
 > Grüezi! This is 100% made in Switzerland.
 
-94 songs - 4 hr 38 min
+95 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,10 +23,10 @@
 | [Botanical Garden](https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Botanical Garden](https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc) | 3:08 | 2024-06-27 | 2024-08-21 |
 | [Boys Do Cry](https://open.spotify.com/track/5A3JxIX04W5Ttu6Rxy5tWW) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Boys Do Cry](https://open.spotify.com/album/1PA9VlnwgXGN0W7K5YnkoI) | 2:56 | 2024-06-27 |  |
 | [Call Me in L.A.](https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Stories of the XXI](https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG) | 2:55 | 2024-06-27 | 2024-07-05 |
-| [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 | 2024-06-27 | 2024-08-20 |
+| [Can't Be Loved](https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T) | [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [Can't Be Loved](https://open.spotify.com/album/5YmdC1mjV30uWAUfqT8uQo) | 2:51 | 2024-06-27 |  |
 | [Champions](https://open.spotify.com/track/1stHdQgmNNeuVMjKlpobVs) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [Champions](https://open.spotify.com/album/0ojmsZGPDsKXQRYtua7bhT) | 2:32 | 2024-06-27 |  |
 | [Colorblind](https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Colorblind](https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3) | 3:02 | 2024-06-27 |  |
-| [copypaste](https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [copypaste](https://open.spotify.com/album/5nv4OeXH8BGqmAYMnsqROB) | 3:20 | 2024-08-09 |  |
+| [copypaste](https://open.spotify.com/track/7m9WgSEUPIgSxT6f7wL3U0) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [copypaste](https://open.spotify.com/album/5nv4OeXH8BGqmAYMnsqROB) | 3:20 | 2024-08-09 | 2024-08-24 |
 | [Counting Days](https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0) | [Jared Lembo](https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g) | [Counting Days](https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2) | 2:44 | 2024-06-27 |  |
 | [Daredevil](https://open.spotify.com/track/1edoaqKUVDzWNs4flkvNPw) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Daredevil](https://open.spotify.com/album/1eLoAa0EpSIq1QhDUeEgaa) | 2:33 | 2024-06-27 | 2024-08-04 |
 | [Descontrol](https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ), [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Descontrol](https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r) | 2:38 | 2024-08-19 |  |
@@ -43,7 +43,7 @@
 | [Frostbites](https://open.spotify.com/track/3xCMJOdaGSB0WiAZ8gAW3d) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Frostbites](https://open.spotify.com/album/0dctcL4tY0cRluTW5lSrcT) | 2:59 | 2024-07-19 |  |
 | [Full 180](https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Full 180](https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER) | 3:36 | 2024-06-27 |  |
 | [Girlfriend](https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u) | [MAREA](https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y) | [Girlfriend](https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K) | 2:47 | 2024-08-05 |  |
-| [half alive](https://open.spotify.com/track/4D97vUbwdhzXDMQi5fu62d) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [bandaids](https://open.spotify.com/album/2rs0D9ZGI8H7Z3PqkqSjWU) | 2:09 | 2024-08-05 |  |
+| [half alive](https://open.spotify.com/track/4D97vUbwdhzXDMQi5fu62d) | [Julia Alexa](https://open.spotify.com/artist/0Tw99NzcM3Y2t7Q2q88Xss) | [bandaids](https://open.spotify.com/album/2rs0D9ZGI8H7Z3PqkqSjWU) | 2:09 | 2024-08-05 | 2024-08-24 |
 | [Heaven or Hell](https://open.spotify.com/track/7LsZXp9kvN4JagYUwGRGo8) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Heaven or Hell](https://open.spotify.com/album/1KD8pU9XCRSfQmbyafLGZ9) | 3:07 | 2024-06-27 |  |
 | [High Hopes](https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [High Hopes](https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe) | 3:12 | 2024-06-27 | 2024-08-20 |
 | [highway love estate](https://open.spotify.com/track/6yDXUscVGQ9w5P0qVP9Hnf) | [The Gardener & The Tree](https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN) | [highway love estate](https://open.spotify.com/album/2rpZAnxSvqRIlfofiAi7Pj) | 3:51 | 2024-06-27 | 2024-07-27 |
@@ -63,6 +63,7 @@
 | [Let You Down](https://open.spotify.com/track/7xK8eI5X33bF5RxkyJDMXg) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Let You Down](https://open.spotify.com/album/0s3lcAryjPZFfLNB6gqWTk) | 2:45 | 2024-06-27 |  |
 | [Life Of Lies](https://open.spotify.com/track/5wARQNVwaQW8ZeznRJu9UX) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [Life Of Lies](https://open.spotify.com/album/3XSZsNcGRgEyEhMaSqdSTM) | 3:20 | 2024-06-27 | 2024-07-04 |
 | [Los Dos](https://open.spotify.com/track/58189tJfGnaAZtNKFStQVp) | [Cachita](https://open.spotify.com/artist/6CzgU7GybLlPawV1SVBc1V) | [Los Dos](https://open.spotify.com/album/5w88ova33Eob6q7EbeBn0G) | 2:56 | 2024-07-04 | 2024-08-06 |
+| [Losing Grip](https://open.spotify.com/track/4Vmn4tPZSp6B82XH2KMsHZ) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Losing Grip](https://open.spotify.com/album/2gQ3GaQhjnXM8M6PlBYAkO) | 2:55 | 2024-08-23 |  |
 | [Love Me Better](https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Love Me Better](https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H) | 2:13 | 2024-08-19 |  |
 | [Maggie](https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [Maggie](https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp) | 2:59 | 2024-06-27 |  |
 | [Mi Mundo](https://open.spotify.com/track/7b52XqwbhEFvsMMqO7YWLT) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Mi Mundo](https://open.spotify.com/album/6g7qoedFwv2nEjuC05YDUq) | 2:56 | 2024-06-27 | 2024-07-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO?si=12zm\-trESrKIJq\-xZTwhwg"> Omah Lay</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,616,640 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,616,853 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

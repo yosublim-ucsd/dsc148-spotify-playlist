@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1zrpe1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1zrpe1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1zrpe1)
 
-### [Adriana Ríos This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1zrpe1)
+### [This Is Adriana Ríos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1zrpe1)
 
-> .Adriana Ríos This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
+> This is Adriana Ríos\. The essential tracks, all in one playlist.
 
 45 songs - 2 hr 24 min
 

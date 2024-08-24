@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso
 
-258 songs - 13 hr 18 min
+259 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Dulce Pecado](https://open.spotify.com/track/7al6OaakdGoXtEGRy05lgu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:55 | 2022-08-12 | 2023-02-25 |
 | [El atrevimiento](https://open.spotify.com/track/1OMjCkMpT8xdjIacSUq4lL) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [El atrevimiento](https://open.spotify.com/album/5fysK9TQ4HlLDJnIxNhYZI) | 3:33 | 2024-07-12 |  |
 | [El Buen Muchacho](https://open.spotify.com/track/22Ebj9oRLnHmbweoh5JlT8) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [El Buen Muchacho](https://open.spotify.com/album/5nH9AMjadh3KB9QLjuwYXD) | 3:24 | 2024-02-09 | 2024-04-27 |
+| [El Chapulín](https://open.spotify.com/track/0CPzztZQhgwvLy1X5acoG6) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv) | [Seguimos Dejando Huella](https://open.spotify.com/album/3ucXDQJpXwVH0rm5Ra0Wxw) | 3:30 | 2024-08-23 |  |
 | [El Cincuentón](https://open.spotify.com/track/5AWACaWINU1ZkEENNNEwTR) | [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [El Cincuentón](https://open.spotify.com/album/25ZUOfikyBpQg7SfnfrCjG) | 2:26 | 2024-07-05 | 2024-07-19 |
 | [El Desmadre](https://open.spotify.com/track/1UW2EbzKVV5Vubsmp5NA0j) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [El Desmadre](https://open.spotify.com/album/7EA4LPbqYNO4h7K0xhfA8c) | 2:51 | 2022-08-12 |  |
 | [El DM](https://open.spotify.com/track/4jVs3F4YeYMc4mi33rItRt) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [El DM](https://open.spotify.com/album/6tjkmYe7q6QVEPwLMWpuus) | 3:04 | 2023-02-13 | 2023-03-11 |
@@ -133,7 +134,7 @@
 | [LUNA](https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:43 | 2023-06-30 | 2023-07-28 |
 | [LUNA](https://open.spotify.com/track/4I1OcJiqk279qLaI2OAecB) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 2:43 | 2023-06-23 | 2023-07-02 |
 | [Luna \- Versión Popular](https://open.spotify.com/track/2ivTWczxJAyd0T68MHyhNX) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Luna \(Versión Popular\)](https://open.spotify.com/album/66OqpCT2mzWPpiCZSidnjP) | 3:08 | 2024-01-26 | 2024-01-30 |
-| [Lágrimas De Amor](https://open.spotify.com/track/4qs5X0Iujdxb83U6KUdG3o) | [Chakal Del Sur](https://open.spotify.com/artist/0KeCyvIzTo589Y5RUba49t) | [Lágrimas De Amor](https://open.spotify.com/album/5jKlZ1QzWRyaYcLVgkCIhR) | 2:32 | 2024-07-19 |  |
+| [Lágrimas De Amor](https://open.spotify.com/track/4qs5X0Iujdxb83U6KUdG3o) | [Chakal Del Sur](https://open.spotify.com/artist/0KeCyvIzTo589Y5RUba49t) | [Lágrimas De Amor](https://open.spotify.com/album/5jKlZ1QzWRyaYcLVgkCIhR) | 2:32 | 2024-07-19 | 2024-08-24 |
 | [Lástima de Tanto Amor](https://open.spotify.com/track/1fMnqEFVfx4uRGUxQTYur2) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Lástima de Tanto Amor](https://open.spotify.com/album/0QxELlbEJ8wASNRJekOJdy) | 3:27 | 2024-06-21 | 2024-07-19 |
 | [Mala Mujer](https://open.spotify.com/track/1w2ScF6hA0XRejw3QDHRhY) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:01 | 2022-08-12 | 2024-04-19 |
 | [Mala Mujer](https://open.spotify.com/track/2gQCX11hXv5UsjpU7BGLcl) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/6lV8I2O7lBGVZSO81vljO7) | 3:01 | 2024-04-05 |  |

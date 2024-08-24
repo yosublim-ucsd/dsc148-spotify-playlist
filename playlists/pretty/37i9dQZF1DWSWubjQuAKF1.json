@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Wiktor Walig\u00f3ra",
-  "num_followers": 20921,
+  "num_followers": 20922,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "chc\u0119 ci\u0119 wi\u0119cej",
+        "url": "https://open.spotify.com/album/5raJPtPXkkmxfna8ouSqpF"
+      },
+      "artists": [
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        }
+      ],
+      "duration_ms": 155330,
+      "name": "chc\u0119 ci\u0119 wi\u0119cej",
+      "url": "https://open.spotify.com/track/3gFH7qSBnk9iGnYfxE3hFb"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Upadki i wzloty",
         "url": "https://open.spotify.com/album/0H5oZPNKpOgMyPp0xKa04S"
       },
@@ -455,18 +471,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "chc\u0119 ci\u0119 wi\u0119cej",
-        "url": "https://open.spotify.com/album/5raJPtPXkkmxfna8ouSqpF"
+        "name": "ZESP\u00d3\u0141 ODSTAWIENNY",
+        "url": "https://open.spotify.com/album/4IwEr0wyufB7BrcKE1uNTM"
       },
       "artists": [
         {
-          "name": "Faustyna Maciejczuk",
-          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        },
+        {
+          "name": "Producent Adam",
+          "url": "https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd"
         }
       ],
-      "duration_ms": 155330,
-      "name": "chc\u0119 ci\u0119 wi\u0119cej",
-      "url": "https://open.spotify.com/track/3gFH7qSBnk9iGnYfxE3hFb"
+      "duration_ms": 235592,
+      "name": "ZESP\u00d3\u0141 ODSTAWIENNY",
+      "url": "https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -495,26 +515,6 @@
       "duration_ms": 177095,
       "name": "Nigdy wi\u0119cej nie ta\u0144cz ze mn\u0105",
       "url": "https://open.spotify.com/track/42MCChf8AwjmBFOzrwGK0l"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "ZESP\u00d3\u0141 ODSTAWIENNY",
-        "url": "https://open.spotify.com/album/4IwEr0wyufB7BrcKE1uNTM"
-      },
-      "artists": [
-        {
-          "name": "Marie",
-          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
-        },
-        {
-          "name": "Producent Adam",
-          "url": "https://open.spotify.com/artist/7EtPcu9pZNGR5kWW2oEQDd"
-        }
-      ],
-      "duration_ms": 235592,
-      "name": "ZESP\u00d3\u0141 ODSTAWIENNY",
-      "url": "https://open.spotify.com/track/7E9Rdl4ep6Vs9IFdVr54FL"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Szcz\u0119\u015bliwa Wina",
+        "url": "https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "Szcz\u0119\u015bliwa Wina",
+      "url": "https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Kto\u015b",
         "url": "https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 156500,
       "name": "Kto\u015b",
       "url": "https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Szcz\u0119\u015bliwa Wina",
-        "url": "https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV"
-      },
-      "artists": [
-        {
-          "name": "Zale\u015b",
-          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "Szcz\u0119\u015bliwa Wina",
-      "url": "https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "hyperstar",
+        "url": "https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "hyperstar",
+      "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Taki sam",
         "url": "https://open.spotify.com/album/4pmvIGVvSWytUyKU50mdJ8"
       },
@@ -999,6 +1015,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Sangria",
+        "url": "https://open.spotify.com/album/6Ad8k07iiHmD9wbuNfAM03"
+      },
+      "artists": [
+        {
+          "name": "MILI JACK",
+          "url": "https://open.spotify.com/artist/545f9s9IidY421Nw3QtyhO"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Sangria",
+      "url": "https://open.spotify.com/track/2eOZVNpzl3BxAlUduZfUPu"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "GOJO SATORU",
         "url": "https://open.spotify.com/album/5dfXXlA1vpRXhFasJmahp6"
       },
@@ -1019,34 +1051,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "hyperstar",
-        "url": "https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl"
+        "name": "Wsch\u00f3d",
+        "url": "https://open.spotify.com/album/0XYL9Ik9aLA9AUs2EPqR3G"
       },
       "artists": [
         {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        }
-      ],
-      "duration_ms": 153750,
-      "name": "hyperstar",
-      "url": "https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Sangria",
-        "url": "https://open.spotify.com/album/6Ad8k07iiHmD9wbuNfAM03"
-      },
-      "artists": [
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        },
         {
-          "name": "MILI JACK",
-          "url": "https://open.spotify.com/artist/545f9s9IidY421Nw3QtyhO"
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
         }
       ],
-      "duration_ms": 160714,
-      "name": "Sangria",
-      "url": "https://open.spotify.com/track/2eOZVNpzl3BxAlUduZfUPu"
+      "duration_ms": 166857,
+      "name": "Wsch\u00f3d",
+      "url": "https://open.spotify.com/track/09eOvJ9ZLfchwrgBRNSibh"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1099,26 +1119,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Wsch\u00f3d",
-        "url": "https://open.spotify.com/album/0XYL9Ik9aLA9AUs2EPqR3G"
-      },
-      "artists": [
-        {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
-        },
-        {
-          "name": "Moo Latte",
-          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "Wsch\u00f3d",
-      "url": "https://open.spotify.com/track/09eOvJ9ZLfchwrgBRNSibh"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Trudne Sprawy",
         "url": "https://open.spotify.com/album/4uRovYXvNxkOJ1PDp1c6ND"
       },
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Bal",
+        "url": "https://open.spotify.com/album/67gqmsz1PpCnvpJrP6g3Xz"
+      },
+      "artists": [
+        {
+          "name": "evelina ross",
+          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
+        }
+      ],
+      "duration_ms": 174985,
+      "name": "Bal",
+      "url": "https://open.spotify.com/track/72g2Nkb2hyWgcqSa3mt78H"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "lawenda",
         "url": "https://open.spotify.com/album/4SYewAkrqWANmfutFXeZc1"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 235401,
       "name": "lawenda",
       "url": "https://open.spotify.com/track/1MkUt0F83LEQUOkMylVLQR"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Bal",
-        "url": "https://open.spotify.com/album/67gqmsz1PpCnvpJrP6g3Xz"
-      },
-      "artists": [
-        {
-          "name": "evelina ross",
-          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
-        }
-      ],
-      "duration_ms": 174985,
-      "name": "Bal",
-      "url": "https://open.spotify.com/track/72g2Nkb2hyWgcqSa3mt78H"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Nie chc\u0119 by\u0107 jak Barbie",
-        "url": "https://open.spotify.com/album/0EeRLhRycspWqUmk271S8x"
-      },
-      "artists": [
-        {
-          "name": "Maja Krzy\u017cewska",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 138694,
-      "name": "Nie chc\u0119 by\u0107 jak Barbie",
-      "url": "https://open.spotify.com/track/0H1FFFuvz73x0tm35qpWNf"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Nagie Cia\u0142a",
         "url": "https://open.spotify.com/album/3AmfPnMvKlZ5zTu6C58TOR"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 190843,
       "name": "Nagie Cia\u0142a",
       "url": "https://open.spotify.com/track/2oSEUSC3loQDRYsyFJuxoE"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Nie chc\u0119 by\u0107 jak Barbie",
+        "url": "https://open.spotify.com/album/0EeRLhRycspWqUmk271S8x"
+      },
+      "artists": [
+        {
+          "name": "Maja Krzy\u017cewska",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "duration_ms": 138694,
+      "name": "Nie chc\u0119 by\u0107 jak Barbie",
+      "url": "https://open.spotify.com/track/0H1FFFuvz73x0tm35qpWNf"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "STOP!!",
-        "url": "https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP"
-      },
-      "artists": [
-        {
-          "name": "IGNACY",
-          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
-        }
-      ],
-      "duration_ms": 154554,
-      "name": "STOP!!",
-      "url": "https://open.spotify.com/track/4EdYQ5Sn0lBtvAylTtuOgg"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Kr\u00f3lowa i Kr\u00f3l",
         "url": "https://open.spotify.com/album/48gfoj9ZDGraMyTKJHLCzD"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 154405,
       "name": "Kr\u00f3lowa i Kr\u00f3l",
       "url": "https://open.spotify.com/track/3usL9dS4TrO251dfZ5y4vr"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "STOP!!",
+        "url": "https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP"
+      },
+      "artists": [
+        {
+          "name": "IGNACY",
+          "url": "https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub"
+        }
+      ],
+      "duration_ms": 154554,
+      "name": "STOP!!",
+      "url": "https://open.spotify.com/track/4EdYQ5Sn0lBtvAylTtuOgg"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "wrogowie",
+        "url": "https://open.spotify.com/album/1tZtVZ2zMmPxYr7YRzXFuH"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        },
+        {
+          "name": "Dawid P\u0142onka",
+          "url": "https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF"
+        }
+      ],
+      "duration_ms": 206303,
+      "name": "wrogowie",
+      "url": "https://open.spotify.com/track/5D6U01nI60WYFbLGFj1tld"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "to jara Ci\u0119 te\u017c!",
         "url": "https://open.spotify.com/album/1suvRDCiw7fUUUNie070BV"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 178961,
       "name": "Mama",
       "url": "https://open.spotify.com/track/48f5bIDTWkFITgsBthfgrc"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "wrogowie",
-        "url": "https://open.spotify.com/album/1tZtVZ2zMmPxYr7YRzXFuH"
-      },
-      "artists": [
-        {
-          "name": "nat cichocka",
-          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
-        },
-        {
-          "name": "Dawid P\u0142onka",
-          "url": "https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF"
-        }
-      ],
-      "duration_ms": 206303,
-      "name": "wrogowie",
-      "url": "https://open.spotify.com/track/5D6U01nI60WYFbLGFj1tld"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Na zdj\u0119ciach",
-        "url": "https://open.spotify.com/album/7yx9nm2P2DcUZhPOm9HkO3"
-      },
-      "artists": [
-        {
-          "name": "Ala Tracz",
-          "url": "https://open.spotify.com/artist/0Tb15PV8RtDedmtSDI4GQ7"
-        }
-      ],
-      "duration_ms": 139306,
-      "name": "Na zdj\u0119ciach",
-      "url": "https://open.spotify.com/track/0sUFW4xGgV33GDSIHAGAtk"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Lawenda",
         "url": "https://open.spotify.com/album/3WEJpUAEawGWhW9DseR7KV"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 162000,
       "name": "Nie m\u00f3w",
       "url": "https://open.spotify.com/track/3YrA6qcUeMp4g405dTPtLo"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Na zdj\u0119ciach",
+        "url": "https://open.spotify.com/album/7yx9nm2P2DcUZhPOm9HkO3"
+      },
+      "artists": [
+        {
+          "name": "Ala Tracz",
+          "url": "https://open.spotify.com/artist/0Tb15PV8RtDedmtSDI4GQ7"
+        }
+      ],
+      "duration_ms": 139306,
+      "name": "Na zdj\u0119ciach",
+      "url": "https://open.spotify.com/track/0sUFW4xGgV33GDSIHAGAtk"
     },
     {
       "added_at": "2024-08-22 22:00:00",

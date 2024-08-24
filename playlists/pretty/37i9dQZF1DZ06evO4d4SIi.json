@@ -1,12 +1,12 @@
 {
-  "description": "This is Jordan Davis. De essenti\u00eble nummers, allemaal in \u00e9\u00e9n playlist.",
-  "num_followers": 36189,
-  "original_name": "This is Jordan Davis",
+  "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
+  "num_followers": 36222,
+  "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAACbBsYWJ2Bmt/8rxmKRxxEU",
+  "snapshot_id": "ZsZ/gAAAAAAHhHnJK4OHAibnoQFvZhvr",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 186790,
       "name": "What My World Spins Around",
       "url": "https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Ain't Sayin'",
-        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 174060,
-      "name": "I Ain't Sayin'",
-      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
     },
     {
       "added_at": null,
@@ -79,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Ain't Sayin'",
+        "url": "https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 174060,
+      "name": "I Ain't Sayin'",
+      "url": "https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Home State",
         "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
@@ -91,22 +91,6 @@
       "duration_ms": 174254,
       "name": "Take It From Me",
       "url": "https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jordan Davis",
-        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 159997,
-      "name": "A Little Lime",
-      "url": "https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo"
     },
     {
       "added_at": null,
@@ -139,6 +123,22 @@
       "duration_ms": 172853,
       "name": "Tucson Too Late",
       "url": "https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jordan Davis",
+        "url": "https://open.spotify.com/album/0SwlWLg5DuW837b05V2s0c"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 159997,
+      "name": "A Little Lime",
+      "url": "https://open.spotify.com/track/3vfBA0Q342toaXalxwPvOo"
     },
     {
       "added_at": null,
@@ -629,6 +629,6 @@
       "url": "https://open.spotify.com/track/3cHY2wfceJZ3wcsOuvi1a9"
     }
   ],
-  "unique_name": "This is Jordan Davis",
+  "unique_name": "This Is Jordan Davis",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4d4SIi"
 }

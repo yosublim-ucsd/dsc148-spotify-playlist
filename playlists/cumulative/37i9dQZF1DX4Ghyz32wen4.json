@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/50XhJ1MbUXrB619f3w2rUT"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206363,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/6EIfIH8TlXna5eiTTfD7it"
+    },
+    {
+      "album": {
         "name": "ant\u00eddoto",
         "url": "https://open.spotify.com/album/7LTfZVq7KYAesuz68KxhNs"
       },
@@ -595,6 +617,28 @@
     },
     {
       "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/6UPdsEVKadhjafllM5p2rc"
+      },
+      "artists": [
+        {
+          "name": "Thega Diaz",
+          "url": "https://open.spotify.com/artist/5IikrGLvqxeVqr1Sco72eG"
+        },
+        {
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180451,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/6MAB4oCZtECXRj7vybPb40"
+    },
+    {
+      "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
       },
@@ -871,6 +915,24 @@
     },
     {
       "album": {
+        "name": "DM",
+        "url": "https://open.spotify.com/album/4GR94M7zemJWFWyxnzsJSy"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129893,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/7nmBL7pC8NfvEuPhO489NK"
+    },
+    {
+      "album": {
         "name": "Dormir Contigo",
         "url": "https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8"
       },
@@ -958,7 +1020,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 197180,
       "name": "El Ciclo",
       "url": "https://open.spotify.com/track/6t8m5o30RGfgtqLdvPgZRU"
@@ -2026,7 +2088,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 182493,
       "name": "No Eres T\u00fa",
       "url": "https://open.spotify.com/track/3vd1rLbxCxDTGbxazgW91I"
@@ -3284,7 +3346,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 180618,
       "name": "Todo Lo Que Es Bueno",
       "url": "https://open.spotify.com/track/127u69Ye76MtIbEMPhr1sh"

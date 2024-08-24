@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-613 songs - 1 day 8 hr 1 min
+614 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [Que Se Pegue](https://open.spotify.com/track/0VUbyFNvWYh4HC0wxeVAtE) | [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [Que Se Pegue](https://open.spotify.com/album/0hzUC0srK0ejnY6CFwkcOy) | 1:43 | 2024-05-20 | 2024-05-22 |
 | [QUE SED](https://open.spotify.com/track/4GLmfc26LRlW5otKs6TewR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [QUE SED](https://open.spotify.com/album/13Uyz9aJHEkfWPtt7b9lTG) | 2:11 | 2024-04-09 | 2024-04-17 |
 | [QUEMARÁS](https://open.spotify.com/track/37o3TuM0nRPMa9f9qpUKlo) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 4:23 | 2024-04-09 | 2024-05-01 |
-| [Querido Rey](https://open.spotify.com/track/0SU6AGO9uKLQwCOfFugx7s) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Querido Rey](https://open.spotify.com/album/6E8JFvTZk66aBah9RZkdDL) | 1:57 | 2024-08-11 |  |
+| [Querido Rey](https://open.spotify.com/track/0SU6AGO9uKLQwCOfFugx7s) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Querido Rey](https://open.spotify.com/album/6E8JFvTZk66aBah9RZkdDL) | 1:57 | 2024-08-11 | 2024-08-24 |
 | [Querido Rey](https://open.spotify.com/track/1xeVF7CVNZ3i4FwRaolkmp) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Gaucho](https://open.spotify.com/album/0GcL32YDn5yKK6Y4hMOhv2) | 1:57 | 2024-08-14 | 2024-08-18 |
 | [Qué Esperan???](https://open.spotify.com/track/0vRY0gNfGqR8fS5gXOAhEA) | [Matias Fisher](https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd), [Phontana](https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz), [Santiago Ibarra](https://open.spotify.com/artist/0GdhrNbXSn4TOvqinRC076) | [Qué Esperan???](https://open.spotify.com/album/5Syp9VrBZO5PsMnylWYct1) | 2:04 | 2024-08-12 |  |
 | [Quédate](https://open.spotify.com/track/4yGGutuWdeeUpcSEYQrazO) | [De Party](https://open.spotify.com/artist/75d1kLfUu4Te53l5CqvPdw), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Quédate](https://open.spotify.com/album/58BiBQV9k7zfUYtf0HsGC1) | 2:57 | 2024-06-12 | 2024-06-19 |
@@ -593,6 +593,7 @@
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-03-26 | 2024-04-17 |
 | [Weightless Part 1](https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 8:06 | 2024-08-04 | 2024-08-15 |
 | [What You Won't Do for Love](https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [What You Won't Do for Love](https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2) | 4:46 | 2024-03-06 | 2024-03-11 |
+| [WHINE IN BRAZIL FUNK](https://open.spotify.com/track/1Xvs6IKi0O1PWYzzIwxR2Q) | [Ichiss](https://open.spotify.com/artist/6wWEEpCzvBH6Z5EVZ86wJl) | [WHINE IN BRAZIL FUNK](https://open.spotify.com/album/6tuTOSJX2SjH8JBsh5uM30) | 1:47 | 2024-08-23 |  |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-08-06 |  |
 | [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 | 2024-05-07 | 2024-05-27 |
 | [Wife](https://open.spotify.com/track/1j8jqwFpFQ8YqsIJAiYFLZ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:01 | 2024-02-06 | 2024-02-10 |

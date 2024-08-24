@@ -4,7 +4,7 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Manuel Turizo
 
-209 songs - 12 hr 14 min
+210 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Addicted to You](https://open.spotify.com/track/4zy1s9GnxWsNzZp1688euA) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 2:27 | 2023-09-25 | 2023-11-04 |
 | [Akakaw](https://open.spotify.com/track/0tSy6coB9Bs7qAdkcCi2JE) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Akakaw](https://open.spotify.com/album/3lxQjWRZ7SKbwYg5C3BFox) | 3:12 | 2023-09-11 | 2024-01-27 |
 | [Ale Ale](https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Ale Ale](https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB) | 3:49 | 2024-04-26 |  |
-| [Algo Mejor](https://open.spotify.com/track/1Kdh7ieq52jm0aa7A3izgV) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Algo Mejor](https://open.spotify.com/album/72vF4DCs5ml4Azd7XBEGE0) | 2:39 | 2024-06-21 |  |
+| [Algo Mejor](https://open.spotify.com/track/1Kdh7ieq52jm0aa7A3izgV) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Algo Mejor](https://open.spotify.com/album/72vF4DCs5ml4Azd7XBEGE0) | 2:39 | 2024-06-21 | 2024-08-24 |
 | [Algo Que Se Quede](https://open.spotify.com/track/1JXcB149QtbcIpDUA6YZOB) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 3:40 | 2022-05-20 | 2024-06-22 |
 | [AMANTES](https://open.spotify.com/track/3Q7o2zzvXj7QiSCumjBpvu) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI) | [AMANTES](https://open.spotify.com/album/2yEEceuPovV5sAoey4GUJF) | 3:00 | 2022-10-07 | 2024-03-02 |
 | [Ambulancia](https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [De Adentro Pa Afuera](https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2) | 3:32 | 2022-09-06 |  |
@@ -146,6 +146,7 @@
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2022-10-20 | 2024-05-11 |
 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-05-20 |  |
 | [Necio \(feat\. Carlos Santana\)](https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:24 | 2022-05-20 |  |
+| [Ni Con Él, Ni Conmigo](https://open.spotify.com/track/19NuFFsZaydL7IOAQWp7lK) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Ni Con Él, Ni Conmigo](https://open.spotify.com/album/5wj31qM3yS7ykkbvzvBcpV) | 3:47 | 2024-08-23 |  |
 | [Ni Tú Ni Yo](https://open.spotify.com/track/1qK7lKpGFGzR00uxY6XRLq) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ni Tú Ni Yo](https://open.spotify.com/album/35f9vTMAvc2oVRgduRYL8D) | 3:44 | 2024-05-10 | 2024-06-22 |
 | [No Dudo](https://open.spotify.com/track/5GM9s07GhcM7f71kDnRc5l) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [No Dudo](https://open.spotify.com/album/6CUbJ80uoznmK83or6sAnA) | 3:20 | 2022-09-09 | 2022-12-03 |
 | [No Eres Varón](https://open.spotify.com/track/1UdyI75ZwfNC33IQlzX9vI) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [No Eres Varón](https://open.spotify.com/album/32oJHFtUHgTrtxQs1n23mb) | 3:59 | 2022-05-20 | 2022-07-29 |

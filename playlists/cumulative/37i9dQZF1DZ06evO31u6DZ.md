@@ -2,7 +2,7 @@
 
 ### [This Is Senses Fail](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31u6DZ)
 
-> This is Senses Fail\. The essential tracks, all in one playlist.
+> This is Senses Fail\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 103 songs - 5 hr 48 min
 

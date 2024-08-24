@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Djavan
 
-152 songs - 9 hr 44 min
+154 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Metamorfose ambulante](https://open.spotify.com/track/1BGrHLBKZCVGslxe0dSExv) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [City of God](https://open.spotify.com/album/6mRPjqrWgOMZ0sTiZEPZyU) | 3:47 | 2021-12-31 |  |
 | [Metamorfose Ambulante](https://open.spotify.com/track/2Yk0HvfTaijA47aM0Fj88u) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | ["Krig\-Ha, Bandolo"](https://open.spotify.com/album/2xRddGxRH0KdDWLNE5b0iu) | 3:51 | 2022-06-24 | 2024-04-19 |
 | [Meu Bem\-Querer \(Ao Vivo\)](https://open.spotify.com/track/5ogHB4oYt1C7kaWJYm5MDG) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:14 | 2024-01-29 |  |
-| [Meu Guri](https://open.spotify.com/track/7v55rfDU0GdYkfcqGF77ks) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Meu Guri](https://open.spotify.com/album/7DDRi1Dqg5EdB5pZgHc9zR) | 3:04 | 2022-04-22 |  |
+| [Meu Guri](https://open.spotify.com/track/7v55rfDU0GdYkfcqGF77ks) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Meu Guri](https://open.spotify.com/album/7DDRi1Dqg5EdB5pZgHc9zR) | 3:04 | 2022-04-22 | 2024-08-24 |
 | [Nem um Dia](https://open.spotify.com/track/3jFxkWQ1i4ephuKK56T9ta) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Malásia](https://open.spotify.com/album/53VgQJU6DoF3Y1mkmTONNa) | 5:46 | 2021-12-31 |  |
 | [Noturno \(Coração Alado\)](https://open.spotify.com/track/02vH3AGn0OBUNhXEi421hS) | [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [JB FM](https://open.spotify.com/artist/1xwN91NLLDytxVQkqclZRu) | [Couvert Artístico JB FM: Fagner](https://open.spotify.com/album/0bAb2GnNJrS8AQUOJJvpue) | 4:36 | 2022-08-26 |  |
 | [Nu Com a Minha Música](https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Nu Com a Minha Música \(EP\)](https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw) | 4:43 | 2021-12-31 |  |
@@ -105,6 +105,7 @@
 | [Não É um Bolero](https://open.spotify.com/track/0B5J5ftNUXMbcsjHz6hb71) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Não É um Bolero](https://open.spotify.com/album/7bTQyV5D8AuUgWaAV7kyDu) | 4:23 | 2022-11-09 | 2022-11-13 |
 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 | 2021-12-31 |  |
 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 | 2021-12-31 |  |
+| [O Meu Guri](https://open.spotify.com/track/5DhXCKF8ucbqj3mmx3p7i0) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [O Meu Guri \(Ao Vivo\)](https://open.spotify.com/album/0fa0zOVmsN69bNwSBcOxi1) | 3:48 | 2024-08-23 |  |
 | [O Mundo É Um Moinho](https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 3:55 | 2021-12-31 |  |
 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6) | 2:46 | 2022-06-24 | 2024-04-19 |
 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s) | 2:46 | 2021-12-31 |  |
@@ -146,6 +147,7 @@
 | [Se..\. \(Ao Vivo\)](https://open.spotify.com/track/5ZnmWmQB74hJ9geBL9bY3R) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Djavan "Ao Vivo"](https://open.spotify.com/album/2WWakvH7foDm8RjWFMDcL7) | 4:47 | 2024-01-29 |  |
 | [Sina](https://open.spotify.com/track/2kgT6sMwXd3mdeXhBbLMQe) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Luz](https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x) | 5:32 | 2021-12-31 |  |
 | [Sorte](https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Sorte](https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh) | 3:04 | 2021-12-31 |  |
+| [Sábado em Copacabana](https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Sábado em Copacabana](https://open.spotify.com/album/2ptJ4tkTfQxkFZ7nOStrkF) | 2:49 | 2024-08-23 |  |
 | [Toda Menina Baiana \- Ao Vivo](https://open.spotify.com/track/0drLWHcGw3j6xZKn7zGJ7X) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Especial Ivete, Gil E Caetano \(Ao Vivo No Projac, Rio De Janeiro / 2011\)](https://open.spotify.com/album/3hOAYii7ltL7zatrSVtBQc) | 3:22 | 2021-12-31 |  |
 | [Toda Menina Baiana \- Live](https://open.spotify.com/track/0oTinlPq1IRtjP6n7ZsXjy) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Inverno MPB](https://open.spotify.com/album/24xQXjLv8gfAe8ndJ1vyxb) | 3:22 | 2022-06-24 | 2023-08-11 |
 | [Tua Fera](https://open.spotify.com/track/6bOv2Ns9jgO9lXRM7QyJUd) | [Joanna](https://open.spotify.com/artist/3TbM7sfQ1oDiZVGScaKr02) | [Joanna '88](https://open.spotify.com/album/3Dyd7zVKxrtVYeSuSY5vnR) | 5:48 | 2023-10-20 | 2024-06-08 |

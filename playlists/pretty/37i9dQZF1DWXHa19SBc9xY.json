@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 97022,
+  "num_followers": 97078,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -251,26 +251,6 @@
     {
       "added_at": "2023-11-24 08:42:40",
       "album": {
-        "name": "Banho de Mar",
-        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "Re.Significa",
-          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
-        }
-      ],
-      "duration_ms": 169531,
-      "name": "Banho de Mar",
-      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
-    },
-    {
-      "added_at": "2023-11-24 08:42:40",
-      "album": {
         "name": "Meu Xod\u00f3",
         "url": "https://open.spotify.com/album/7wO4t4Dz8es23EGQ6CG3LS"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 197584,
       "name": "Meu Xodo\u0301",
       "url": "https://open.spotify.com/track/7lG3abZkIFufxhvZi1FUkb"
+    },
+    {
+      "added_at": "2023-11-24 08:42:40",
+      "album": {
+        "name": "Banho de Mar",
+        "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "Re.Significa",
+          "url": "https://open.spotify.com/artist/30c4Fu3qiLOLmMW2jjThZZ"
+        }
+      ],
+      "duration_ms": 169531,
+      "name": "Banho de Mar",
+      "url": "https://open.spotify.com/track/1XDBNAMiOr6VlzuSXjyCFd"
     },
     {
       "added_at": "2023-11-24 08:42:40",

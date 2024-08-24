@@ -4,7 +4,7 @@
 
 > Laid back cratedigger hip\-hop from around the world.
 
-398 songs - 22 hr 33 min
+399 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Blue Skies](https://open.spotify.com/track/30qvk9d9puwUPqklbQG3KT) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [The Rain](https://open.spotify.com/album/60DtiPQbSHleBcigjwztG9) | 2:37 | 2022-10-13 | 2024-04-19 |
 | [Blue Skies](https://open.spotify.com/track/4sw0pibcfTp63iRctT7Fnk) | [Summers Sons](https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z) | [The Rain](https://open.spotify.com/album/6BtyNPQCLIJAsKVw5mojjn) | 2:37 | 2022-07-28 | 2022-11-20 |
 | [Boiler Room \(feat\. Benny The Butcher\)](https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Peerless](https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T) | 2:41 | 2024-07-05 |  |
+| [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 | 2024-08-23 |  |
 | [Bowl of Ramen](https://open.spotify.com/track/7ihA0OZAAftQpOGTnFnN4s) | [J\-Tek](https://open.spotify.com/artist/1lSGNvxefF3baOOG9mQtUj), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Bowl of Ramen](https://open.spotify.com/album/6tQAWwBl1bZe9A4T0TmJv0) | 2:48 | 2021-12-16 | 2022-12-28 |
 | [Brain](https://open.spotify.com/track/4bbSk6i5hBlgcKB7bFZS20) | [REMI](https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U), [Lori](https://open.spotify.com/artist/6LdmIpHktzO8h5Z1nnfeIn) | [Fried](https://open.spotify.com/album/1K6Ea6TrQfBYpKNFRnpyHD) | 3:48 | 2023-04-27 | 2024-04-19 |
 | [Brain](https://open.spotify.com/track/3xD9KPvIfr5YxcJw5XaXvf) | [REMI](https://open.spotify.com/artist/5t69dnux4K2vcJO4VjS39q), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U), [Lori](https://open.spotify.com/artist/3NTT4t9lNkD2dphAGHMIqO) | [Brain](https://open.spotify.com/album/5y8tNprFrcaQftlvVWBrW5) | 3:50 | 2021-12-16 | 2022-07-29 |
@@ -180,7 +181,7 @@
 | [How It Go](https://open.spotify.com/track/1ZSuYbi13mmzRe2CxqfJyk) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Kenji](https://open.spotify.com/artist/0gTS8sJlDKbTy0QMrUGPa1), [Brie Marie](https://open.spotify.com/artist/1IMuszkNq22M8HbQjkI6Ow) | [How It Go](https://open.spotify.com/album/1z2lfM7X3EbIlvDEY4Uzpe) | 3:05 | 2021-12-16 | 2022-07-27 |
 | [Hunnid \(feat\. Joyce Wrice\)](https://open.spotify.com/track/5PrU2XqZW2br5FZYk60R4f) | [Asher Roth](https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Flowers On The Weekend](https://open.spotify.com/album/1o8meEDwi5nGluhnWfqs7K) | 3:14 | 2022-04-11 | 2022-04-21 |
 | [I Ain't Finished Yet](https://open.spotify.com/track/2VnRyG7aChzsHCGTZkKQvl) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH), [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [I Ain't Finished Yet](https://open.spotify.com/album/5qI4s1myzXxn6pvUowjhOl) | 2:38 | 2021-12-16 | 2022-07-29 |
-| [i don’t mind](https://open.spotify.com/track/57CL8B4evdteoj7aIkzEZc) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [Eric Godlow](https://open.spotify.com/artist/6lhr0nzsM2U8LzazhOvZAj), [Laeland](https://open.spotify.com/artist/1X6AU9VgQPke2P4ES0EhJ3) | [i don’t mind](https://open.spotify.com/album/5v552VdSpVJ6pxDF9sNlGP) | 3:08 | 2022-04-11 |  |
+| [i don’t mind](https://open.spotify.com/track/57CL8B4evdteoj7aIkzEZc) | [demxntia](https://open.spotify.com/artist/6trEYfLSuAd9CS8bCy4sOH), [Eric Godlow](https://open.spotify.com/artist/6lhr0nzsM2U8LzazhOvZAj), [Laeland](https://open.spotify.com/artist/1X6AU9VgQPke2P4ES0EhJ3) | [i don’t mind](https://open.spotify.com/album/5v552VdSpVJ6pxDF9sNlGP) | 3:08 | 2022-04-11 | 2024-08-24 |
 | [III Figura](https://open.spotify.com/track/7aukVJcUSYzvbpyP3LhZwN) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [III Figura](https://open.spotify.com/album/4zgFIrq7Nxsc5M3GDeax1d) | 3:32 | 2022-07-15 | 2022-07-19 |
 | [IMMORTAL](https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq) | [Ricki Monique](https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr), [yourbeautifulruin](https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag) | [IMMORTAL](https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI) | 3:05 | 2022-02-18 |  |
 | [In My Room](https://open.spotify.com/track/3RcVlasiiuUSF9cQWDtPAA) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [In My Room](https://open.spotify.com/album/6wHtvk49fos5YKb0Q9eEsV) | 3:31 | 2021-12-16 | 2022-12-09 |

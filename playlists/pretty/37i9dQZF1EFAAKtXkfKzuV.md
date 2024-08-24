@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190 likes - 64 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 64 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 26 | [Patience](https://open.spotify.com/track/6KOUe5ChPxS3CCXhwfdcAc) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ) | [Change](https://open.spotify.com/album/3eVo6FsmJqf8yooeCUiJFC) | 2:49 |
 | 27 | [Gewissenlos](https://open.spotify.com/track/5ggxyRAcTN1PFVNGgw4wmM) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Nur zu Besuch](https://open.spotify.com/album/38PyRSmGyULdi6JSIwfh8R) | 3:00 |
 | 28 | [Moonlight](https://open.spotify.com/track/5KrBTqQJlYtKyn3JU3MXOA) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Moonlight](https://open.spotify.com/album/44RntYU90KXg2eCH9zj9Lq) | 2:20 |
-| 29 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 |
+| 29 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \- More Love Edition](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 |
 | 30 | [Guilty](https://open.spotify.com/track/1acexIzypi1joCwS2hbkiY) | [Asher Angel](https://open.spotify.com/artist/48wfV4LAYtBe3r5SdjvjHX) | [Guilty](https://open.spotify.com/album/4a8rIXcOFlaNyvXKoO9GOQ) | 2:17 |
 | 31 | [Heart Never Broke](https://open.spotify.com/track/4LfuwwWPuYzZ2vxnHK2cog) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [BCS](https://open.spotify.com/artist/4tGQ53InAQSRcbpDrYZPtz) | [Heart Never Broke](https://open.spotify.com/album/5wpqFQLm7lBr8HNVWq7m6q) | 2:38 |
-| 32 | [note to myself](https://open.spotify.com/track/2FnWOTzG3SuGmAYIjMScWn) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:06 |
+| 32 | [note to myself](https://open.spotify.com/track/2FnWOTzG3SuGmAYIjMScWn) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \- More Love Edition](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:06 |
 | 33 | [Easy](https://open.spotify.com/track/7zIAOOs39Z7913Off5G7FD) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:08 |
 | 34 | [Vermisse gar nichts \- Akustik Version](https://open.spotify.com/track/0GNUZmcZjInPaJBufzfXYu) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ), [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Besser kann ich es nicht erklären \(Deluxe\)](https://open.spotify.com/album/5ZFDT3yYk1te0ROLbXjUld) | 3:15 |
 | 35 | [Normal Fühlen](https://open.spotify.com/track/6iCHAxZFmGJu2bsGVUFhh8) | [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Besser kann ich es nicht erklären](https://open.spotify.com/album/2x3GbNC5I3eFx4ZrFJjvsy) | 3:10 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 46 | [Met Yet](https://open.spotify.com/track/2zAfz15lpOwc1HQSKi6TJR) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [Met Yet](https://open.spotify.com/album/0em5q8EqeBo9ElKOAiUJTu) | 2:35 |
 | 47 | [Next to You](https://open.spotify.com/track/0JJTRwLHHtjMbR1cxjN61h) | [Myles Green](https://open.spotify.com/artist/056UtN0LwZFbayHkU45DEb) | [Next to You](https://open.spotify.com/album/7gdmXNNzOaA9GTT5Xb57lY) | 2:44 |
 | 48 | [Nicht mal meine Freunde](https://open.spotify.com/track/3tV3YF1gTHfrb85CtJmbpA) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Nicht mal meine Freunde](https://open.spotify.com/album/1SwXrU8y94KJAgF4YClMFj) | 2:17 |
-| 49 | [Nightfall](https://open.spotify.com/track/13lJ85FoC72fNT6uksMa8v) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Nightfall](https://open.spotify.com/album/2vndOzLX4qVe2GTu7JF7Sk) | 2:37 |
-| 50 | [Not There Yet](https://open.spotify.com/track/3UOQJuyqH7pyLSHmI45hOQ) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Not There Yet](https://open.spotify.com/album/6xBMreivdSXzUr2Mbotv7E) | 2:14 |
+| 49 | [Not There Yet](https://open.spotify.com/track/3UOQJuyqH7pyLSHmI45hOQ) | [nourii](https://open.spotify.com/artist/4SBySq17NJZBCcFvushMNf), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Not There Yet](https://open.spotify.com/album/6xBMreivdSXzUr2Mbotv7E) | 2:14 |
+| 50 | [Nightfall](https://open.spotify.com/track/13lJ85FoC72fNT6uksMa8v) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Nightfall](https://open.spotify.com/album/2vndOzLX4qVe2GTu7JF7Sk) | 2:37 |
 | 51 | [Love Me Fair](https://open.spotify.com/track/6whgc901oHG6KU7zgi7Wrl) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Tetric](https://open.spotify.com/artist/0juduZf6RkEeIkMSJMpDaS), [boy with a scar](https://open.spotify.com/artist/7kunuxTlJDipiIZpC1aZqZ) | [Love Me Fair](https://open.spotify.com/album/7lRR58WWGvhoNezEqRDclz) | 2:40 |
 | 52 | [love u a little more](https://open.spotify.com/track/6khrEq9cohMhzMJpr6ItZz) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [love u a little more](https://open.spotify.com/album/0xjvT3uX7cwX1pupWjPQPp) | 1:49 |
 | 53 | [Inbetween](https://open.spotify.com/track/3pkNourwOQlis9iWid3h5C) | [Iggy](https://open.spotify.com/artist/0MDfMKBf1cV65pnQ1ZRm9O) | [LNZHD](https://open.spotify.com/album/6R9ddkyO2cIN2TqZGBWcvg) | 3:16 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 63 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 64 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `AbaIfgAAAADC4fYWMn2irlwMNhZf8iw4`
+Snapshot ID: `AbaN7AAAAABhfhB92OFadRegL2sl5OkF`

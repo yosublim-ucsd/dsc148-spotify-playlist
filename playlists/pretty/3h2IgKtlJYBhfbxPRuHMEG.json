@@ -1,13 +1,33 @@
 {
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Stormzy, Chase &amp; Status",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: Zeds Dead",
   "num_followers": 497,
   "original_name": "Bass Drop",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAD76/uqpMbpyrUyIxSoJ+GPKsiS0nw",
+  "snapshot_id": "AAAD8/t9uWSfAbnEGvwy5rY2M0uhNY8L",
   "tracks": [
+    {
+      "added_at": "2024-08-23 11:55:02",
+      "album": {
+        "name": "Tomb Of The Scorpion",
+        "url": "https://open.spotify.com/album/0wsigP8YYNdHUtFRZ3Yi3w"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Chee",
+          "url": "https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Tomb Of The Scorpion",
+      "url": "https://open.spotify.com/track/661OQwbwYMIy8WBqBqC9XG"
+    },
     {
       "added_at": "2024-08-12 13:16:30",
       "album": {

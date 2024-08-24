@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-184 songs - 10 hr 33 min
+185 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,11 +151,12 @@
 | [Ring The Alarm](https://open.spotify.com/track/6EACtpp2xlqbs2rViFRXDO) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Ring The Alarm](https://open.spotify.com/album/7dLyeT8MWlaGoG0v1yxSLA) | 3:04 | 2023-09-22 | 2023-10-06 |
 | [Riverside MF](https://open.spotify.com/track/3ptLW4fzupzNrzbO7Hneam) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [PAJANE](https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q) | [Riverside MF](https://open.spotify.com/album/7AD6baGevfjYSyirJ1inGZ) | 2:35 | 2024-03-01 | 2024-05-17 |
 | [Role Model](https://open.spotify.com/track/5CSfhQ8ql3ofBE8PsQnQfR) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS), [Luca Guerrieri](https://open.spotify.com/artist/0kSI1cgEztfBxr2QUYlU7c) | [Role Model](https://open.spotify.com/album/3sxeCXtywWoYIcpGj5aGKm) | 3:26 | 2024-05-17 | 2024-08-05 |
-| [saving flowers](https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [saving flowers](https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd) | 3:30 | 2024-05-23 |  |
+| [saving flowers](https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [saving flowers](https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd) | 3:30 | 2024-05-23 | 2024-08-24 |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-06 | 2024-07-27 |
 | [Saving Up \- Odd Mob Remix](https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Saving Up \(Odd Mob Remix\)](https://open.spotify.com/album/2WfWidStgwclhlTuXxTqMz) | 3:13 | 2024-03-01 | 2024-06-15 |
 | [Shake My Booty](https://open.spotify.com/track/3IBB4CapSuRZRcG4Hw9rve) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Shake My Booty](https://open.spotify.com/album/1GZQmpFcCXz8rVVNmMQpSi) | 3:22 | 2022-07-18 | 2023-05-20 |
 | [She’s Gone, Dance On](https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [She’s Gone, Dance On](https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq) | 3:46 | 2024-07-05 |  |
+| [shine](https://open.spotify.com/track/002mQ6kXOWDP2i5IZcwDVc) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [wes mills](https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT) | [shine](https://open.spotify.com/album/1oblVh0UrovPi0BT5Mje3E) | 2:24 | 2024-08-09 |  |
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-19 | 2023-09-02 |
 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-05-24 |  |
 | [Skip](https://open.spotify.com/track/0OHyE7d3EfGT6jIDVRN4Qn) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Skip](https://open.spotify.com/album/6FGPOgL60G0VhYki83WFCE) | 2:31 | 2024-03-01 | 2024-07-18 |

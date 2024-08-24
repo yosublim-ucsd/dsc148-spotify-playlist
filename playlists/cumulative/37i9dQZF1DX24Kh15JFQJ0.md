@@ -4,7 +4,7 @@
 
 > The latest music from our Country Heroes\. Cover: Johnny Cash
 
-291 songs - 17 hr 3 min
+292 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Sitting Alone](https://open.spotify.com/track/2SFK85dn2BPKGOmcj4wKpO) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Sitting Alone](https://open.spotify.com/album/4pOcJnDKF4ZqwboJyJWZ1c) | 2:54 | 2023-03-24 |  |
 | [Slowing Down](https://open.spotify.com/track/380s4cpzc1XIUMwjRN8yNw) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Forever My Girl \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/1UCTuNC4E5Q7mFhIdNo71V) | 3:35 | 2021-10-15 |  |
 | [Smoke In A Bar](https://open.spotify.com/track/3LP1WoisvGEGM68Qp37q7h) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Smoke In A Bar](https://open.spotify.com/album/2QwX4bWQZQsjHm9cyksvS7) | 4:22 | 2021-10-15 |  |
+| [Smoky Mountain DNA](https://open.spotify.com/track/7bSeYYLEHb7zu2YQSRKqz5) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Dolly Parton & Family](https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR) | [Smoky Mountain DNA](https://open.spotify.com/album/2pYVKXNEnJBaBqZjfqFU6Z) | 1:59 | 2024-08-23 |  |
 | [Soft Lights and Hard Country Music](https://open.spotify.com/track/0LExOSWjzvIZ5tVJgemUJA) | [Moe Bandy](https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz) | [Soft Lights and Hard Country Music](https://open.spotify.com/album/72xd3lqNEvYcSUH37DSubJ) | 2:49 | 2021-11-05 |  |
 | [Someday It’ll All Make Sense](https://open.spotify.com/track/6mBhSOYQtr3fC5qjIceGD2) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [As Far As I Can See: The Best Of](https://open.spotify.com/album/0ROZM42Ts60ECkvAm10CyA) | 3:51 | 2022-06-10 |  |
 | [Something to Be Proud of \(20 Years of Hits Version\)](https://open.spotify.com/track/1ZcA5BpkTifRMYMdxK15IL) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a), [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Something to Be Proud of \(20 Years of Hits Version\)](https://open.spotify.com/album/2i9qff1wpgjvweWNTKunTG) | 4:12 | 2021-10-15 |  |

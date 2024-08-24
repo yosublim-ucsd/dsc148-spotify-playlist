@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164202,
+      "name": "Coincidence",
+      "url": "https://open.spotify.com/track/0x2c3kWgC2mSS4wItmPmx7"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -766,7 +784,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 197600,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/1woJfLf7DzurnsJBkGhJQD"
@@ -1936,6 +1954,24 @@
       "duration_ms": 173196,
       "name": "Have I Ever Been",
       "url": "https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Rodeo",
+        "url": "https://open.spotify.com/album/0zy1HOwPKMbbHGhYoecsFe"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187633,
+      "name": "Heartbreak Rodeo",
+      "url": "https://open.spotify.com/track/3pPcEKe8l6kylaLchvQCXU"
     },
     {
       "album": {

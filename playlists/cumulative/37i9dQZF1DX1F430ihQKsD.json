@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "Chaque nuit la mort",
+        "url": "https://open.spotify.com/album/3eiHeMkAh3caWE2yFJUm7n"
+      },
+      "artists": [
+        {
+          "name": "Nicolet",
+          "url": "https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329351,
+      "name": "Chaque nuit la mort",
+      "url": "https://open.spotify.com/track/2WLiGXeSEwXC0PtykisCnD"
+    },
+    {
+      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ"
       },
@@ -1937,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Cyclone",
+        "url": "https://open.spotify.com/album/5raddefOVNlawnMf7t3Pzk"
+      },
+      "artists": [
+        {
+          "name": "Lia Kuri",
+          "url": "https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169545,
+      "name": "Cyclone",
+      "url": "https://open.spotify.com/track/2fT4QsF8AWnQIsseRXkLMl"
+    },
+    {
+      "album": {
         "name": "C\u00f4te \u00e0 c\u00f4te",
         "url": "https://open.spotify.com/album/2FsHNptOTlP86hAIr4H28v"
       },
@@ -2321,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "DON'T WANNA HEAR THAT SONG ANYMORE",
+        "url": "https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "DON'T WANNA HEAR THAT SONG ANYMORE",
+      "url": "https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC"
+    },
+    {
+      "album": {
         "name": "Teinte",
         "url": "https://open.spotify.com/album/5OhCrmOqckXZRLicXsmMWS"
       },
@@ -2488,6 +2542,24 @@
       "duration_ms": 234102,
       "name": "East Angus 1998",
       "url": "https://open.spotify.com/track/7JJNsPiJyMNyRtZTx4qhMN"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3IvvISLRoncz9CQuUNS1oR"
+      },
+      "artists": [
+        {
+          "name": "Sara-Danielle",
+          "url": "https://open.spotify.com/artist/3asDPAs8xchUTMEEkpkkPO"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153330,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3THaspQuZBzDA6KroqZZC0"
     },
     {
       "album": {
@@ -2980,7 +3052,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 154984,
       "name": "Flying Away",
       "url": "https://open.spotify.com/track/3bszv09KHptpoVP6yDN2wv"
@@ -4672,7 +4744,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 220933,
       "name": "Les nouveaux infinis",
       "url": "https://open.spotify.com/track/6tq1i5M92NGSSQSgt7B088"
@@ -6792,7 +6864,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 166096,
       "name": "Poup\u00e9e russe",
       "url": "https://open.spotify.com/track/3h2CXZ3Ax0kLDbUZTv2mSa"
@@ -6940,6 +7012,24 @@
       "duration_ms": 211173,
       "name": "Prochain \u00e9pilogue",
       "url": "https://open.spotify.com/track/0uPA83Y6CifPnSZbCgXGsC"
+    },
+    {
+      "album": {
+        "name": "Ps and Qs",
+        "url": "https://open.spotify.com/album/6LeSdivNwiztFmvNTpQZGe"
+      },
+      "artists": [
+        {
+          "name": "Ev Bird",
+          "url": "https://open.spotify.com/artist/5ZLnYZBRZimCRU1vJzzGsI"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130856,
+      "name": "Ps and Qs",
+      "url": "https://open.spotify.com/track/49c3ghupXboG64IVbVuIp2"
     },
     {
       "album": {
@@ -7276,7 +7366,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 135343,
       "name": "Roadkill",
       "url": "https://open.spotify.com/track/409Wu3XqnCwqgXV3JM175Y"
@@ -7406,7 +7496,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 260454,
       "name": "S'a switch",
       "url": "https://open.spotify.com/track/3ZFdU8R1Mpt06aWwrol9Rz"

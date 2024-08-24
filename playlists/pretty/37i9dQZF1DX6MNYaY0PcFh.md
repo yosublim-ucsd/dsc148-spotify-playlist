@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,602 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,621 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 37 | [One Sixty](https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [One Sixty](https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG) | 3:49 |
 | 38 | [Shooting Star \- Badger Remix](https://open.spotify.com/track/2cIyhl2KwSGkAubFRY5ivt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Shooting Star \(Badger Remix\)](https://open.spotify.com/album/7IWgf3Um32uPhhCzb4TtOB) | 2:13 |
 | 39 | [Flavours](https://open.spotify.com/track/27MYwjVjpnxVxxXf1yCNSK) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Flavours](https://open.spotify.com/album/54p36vpGUNGGzrTW4ts3bg) | 3:36 |
-| 40 | [Bringing Me Joy](https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv), [prettyboyface](https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln) | [Bringing Me Joy](https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m) | 3:00 |
+| 40 | [Wouldn't Believe](https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Wouldn't Believe](https://open.spotify.com/album/0nF4WVXPunDRsNw9c1LTOd) | 3:18 |
 | 41 | [FRESH AND NEW](https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [FRESH AND NEW](https://open.spotify.com/album/6y5eGkaWm3HPeuMi8P7fiy) | 2:25 |
-| 42 | [Wouldn't Believe](https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Wouldn't Believe](https://open.spotify.com/album/0nF4WVXPunDRsNw9c1LTOd) | 3:18 |
+| 42 | [Bringing Me Joy](https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv), [prettyboyface](https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln) | [Bringing Me Joy](https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m) | 3:00 |
 | 43 | [Rita Ora](https://open.spotify.com/track/2bPbyTiplZXroFIvW8Fjo0) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Rita Ora](https://open.spotify.com/album/5q9LTtptGJ6gk8Kaf6bUmk) | 2:02 |
 | 44 | [Show Me](https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Show Me](https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M) | 3:28 |
 | 45 | [Think Twice](https://open.spotify.com/track/0DiovsXls6yfe3Jyc9EDH5) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [Think Twice](https://open.spotify.com/album/1j9JM0DbhwWEcB9ZrZuz4a) | 2:58 |

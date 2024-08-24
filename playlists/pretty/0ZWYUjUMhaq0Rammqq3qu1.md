@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Soundtrack your life with our ever evolving 'Moments' playlist that updates for all major holidays and events! Listen now to all your Halloween faves.
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 110,063 likes - 81 songs - 4 hr 14 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 110,061 likes - 81 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

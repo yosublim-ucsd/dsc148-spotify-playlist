@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: thisizlondon",
+  "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Laila!",
   "name": "Channel-X",
   "tracks": [
     {
@@ -2628,6 +2628,28 @@
       "duration_ms": 204750,
       "name": "Charm",
       "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+    },
+    {
+      "album": {
+        "name": "Chase",
+        "url": "https://open.spotify.com/album/0L8QrTXtyGlrGYDsW2Vzpy"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        },
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146681,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/0mtXvs8NcZnGVpkwcurRLY"
     },
     {
       "album": {
@@ -8305,6 +8327,24 @@
     },
     {
       "album": {
+        "name": "Like That!",
+        "url": "https://open.spotify.com/album/0GRlzPwxoqSnBtgk7I4Auy"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169403,
+      "name": "Like That!",
+      "url": "https://open.spotify.com/track/6xs1Km7sZrtFiusDMYv7MW"
+    },
+    {
+      "album": {
         "name": "Likkle Darling",
         "url": "https://open.spotify.com/album/5aUIjtLeBvjJkaGt86K0C9"
       },
@@ -10186,6 +10226,24 @@
       "duration_ms": 171431,
       "name": "Not My Problem",
       "url": "https://open.spotify.com/track/3fpISrtcsVBNJZ3K0JhRwG"
+    },
+    {
+      "album": {
+        "name": "Not My Problem (Flyer Than U)",
+        "url": "https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "Not My Problem",
+      "url": "https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ"
     },
     {
       "album": {

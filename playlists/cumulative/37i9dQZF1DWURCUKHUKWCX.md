@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-183 songs - 10 hr 7 min
+187 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Faint Qualm for the Future](https://open.spotify.com/track/3d17chntySsgXtt8Z3MYBF) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Faint Qualm for the Future](https://open.spotify.com/album/6eTvBtQolExQPxDkqKUtZv) | 2:41 | 2022-01-28 |  |
 | [a gift](https://open.spotify.com/track/1CmQKnFJKWTesGSSQ2noNL) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/4yhyBrxpfFUjazK1rVgzzO) | 2:59 | 2022-07-22 | 2024-04-19 |
 | [a gift](https://open.spotify.com/track/3t9TjrFxUNKOUDvItLsTEo) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [ask the river](https://open.spotify.com/album/5t97v94T6a45YYBBQ7I21a) | 2:59 | 2021-12-10 |  |
+| [A Good Person](https://open.spotify.com/track/3v2dFuLmI0YtB3s5eK9Z68) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL) | [Solos](https://open.spotify.com/album/2OZZ7yK2YNyeiRTEg97Tal) | 2:42 | 2024-08-23 |  |
 | [a new romance](https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance](https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1) | 3:10 | 2023-03-31 |  |
 | [A Shimmer](https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 6:36 | 2021-12-10 |  |
 | [About Coming and Leaving](https://open.spotify.com/track/6DQ0d8YVCs0wi1zHN0fedq) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [About Coming and Leaving](https://open.spotify.com/album/1jXegZ2mzIXJZHjlaD9NLf) | 2:07 | 2021-12-10 |  |
@@ -62,6 +63,7 @@
 | [Falling For](https://open.spotify.com/track/6sjn8knBvkR0eek1zEVkmn) | [Francesco Le Metre](https://open.spotify.com/artist/6LhB3BzQTnbX8DVi4GCmrs) | [Falling For](https://open.spotify.com/album/5U9PNefLruNvVFlwTq38pY) | 2:00 | 2022-01-21 |  |
 | [Feathered Friend](https://open.spotify.com/track/5Ac0ipN7YqSDXOi3aT37kO) | [Kappa Mountain](https://open.spotify.com/artist/3dExis8rqyN3OsHSKuHU53), [Audio Dope](https://open.spotify.com/artist/7vByi0TCh4wNTdqNK7dNqe), [Matthias Gusset](https://open.spotify.com/artist/28zL2v3cJ1dM0CW8XSF1dg) | [Echo Pool](https://open.spotify.com/album/0lZpC773e5FEXVyZ67bKzA) | 2:08 | 2021-12-10 |  |
 | [Fireflies](https://open.spotify.com/track/4cKE0iJC8ObjDB5i8F5nNN) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fireflies](https://open.spotify.com/album/69QjgE7z9DJy6xPmwi86Ig) | 3:35 | 2021-12-10 |  |
+| [Flight from the City](https://open.spotify.com/track/3Sy6wgTNEp6vSgLs4EyXAf) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Yuki Numata Resnick](https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs), [Tarn Travers](https://open.spotify.com/artist/78PSEAPRjcRID297AMMPJC), [Ben Russell](https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [Orphée](https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN) | 6:31 | 2024-08-23 |  |
 | [Fly](https://open.spotify.com/track/3yuCAw61jqfyv2KzMoVdXA) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Divenire \(Deluxe Edition\)](https://open.spotify.com/album/2EhFeiWsTdfqzdFskVUxBg) | 4:38 | 2021-12-10 | 2022-01-05 |
 | [For Stormboy](https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp) | [Rhiannon Bannenberg](https://open.spotify.com/artist/5gXJLUsp1nn6OPYnXczUHy) | [Ambrosia \(Official Soundtrack\)](https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU) | 1:36 | 2021-12-10 | 2023-01-04 |
 | [Fracture](https://open.spotify.com/track/2m2GJpBjQNNphaCgBeoj7R) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Fracture](https://open.spotify.com/album/2sqNdAgQJE4APDoJylIDHy) | 3:27 | 2021-12-10 |  |
@@ -83,6 +85,7 @@
 | [Last to Let Go \- Daigo Hanada Rework](https://open.spotify.com/track/3baIpuf7biyuTFM32j0Coe) | [Richard Luke](https://open.spotify.com/artist/6d6LoDu28FVz8DRGehoClE), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Last to Let Go \(Daigo Hanada Rework\)](https://open.spotify.com/album/7J6JgkOoCbtD0BVxHNvPJZ) | 3:38 | 2021-12-10 |  |
 | [Last to Let Go \- Daigo Hanada Rework](https://open.spotify.com/track/5GN6PZdeSyRREY9EbxlaHL) | [Richard Luke](https://open.spotify.com/artist/6d6LoDu28FVz8DRGehoClE), [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Last to Let Go \(Daigo Hanada Rework\)](https://open.spotify.com/album/6Klc4LbsQR8EOqxiSkglNK) | 3:38 | 2022-07-22 | 2024-04-19 |
 | [Laura \(Piano Vision\)](https://open.spotify.com/track/63ofp7btGGtGE4vRruo5vu) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Laura \(Piano Vision\)](https://open.spotify.com/album/2244WAWYH7iDNwRyR5oAYT) | 1:51 | 2022-07-08 | 2023-01-04 |
+| [LEO “The Fierce”](https://open.spotify.com/track/4aHYB3DwRl5ladGeGjoFJ9) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [180°](https://open.spotify.com/album/4hFVZKTMTQHEDrG1bzlEJs) | 4:38 | 2024-08-23 |  |
 | [Lilac](https://open.spotify.com/track/67U3BF1e1PTw6DF1LLRPcF) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8) | [Lilac](https://open.spotify.com/album/0yEDrVPu9cPGu23o1ulSbC) | 4:05 | 2021-12-10 |  |
 | [Lionheart](https://open.spotify.com/track/65a1ng2xAbaRbYWsq9H2MH) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 3:29 | 2021-12-10 |  |
 | [Little Forest](https://open.spotify.com/track/0ngRF3XtGxXhFWDxeOJqfb) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Little Forest](https://open.spotify.com/album/2OUVbMW3PXmpVBzrVKEDDd) | 2:08 | 2022-01-21 | 2023-03-15 |
@@ -121,6 +124,7 @@
 | [October](https://open.spotify.com/track/0qJkni7fSqPAim9WFO4qUh) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [October](https://open.spotify.com/album/4YhjuXwBlF265iUJkCr0Db) | 2:57 | 2021-12-10 | 2023-01-04 |
 | [Of Twilight Skies](https://open.spotify.com/track/5FgOdb5ilNpgXpPBYl23Ln) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [Of Twilight Skies](https://open.spotify.com/album/76YGw1azMme9elduNgSeld) | 3:18 | 2022-01-28 |  |
 | [oku](https://open.spotify.com/track/0dh69TWktsQtq1JWheVpHZ) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [april \- tree](https://open.spotify.com/album/6gdxaCujfNt2szV6FXV4ps) | 2:25 | 2021-12-10 |  |
+| [Once](https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Once](https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o) | 2:05 | 2024-08-23 |  |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/0K2gSCI8ehL7qkxzNmsqDZ) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Truth \- The Solo Piano Collection](https://open.spotify.com/album/5EMB8WAOcT4BqrRZFsW0aO) | 3:18 | 2022-10-07 | 2024-04-19 |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/2rOzjds76jtdjSwQbIfuc6) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Evermore \(Solo Piano Version\)](https://open.spotify.com/album/1h1ZsE5v8PlJhtbXODCYCS) | 3:18 | 2022-08-05 | 2022-10-01 |
 | [One Look \- Solo Piano Version](https://open.spotify.com/track/3u1G1hsbE4YoVlcBM7iztj) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Colours \(Solo Piano Version\)](https://open.spotify.com/album/7obnUblJ3L4u0Ch4kyjfCK) | 3:18 | 2022-08-05 | 2022-10-14 |

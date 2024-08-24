@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Emma Foley
+> Discover the next wave of talent writing their own songs\. Cover: Talia Rae
 
-721 songs - 1 day 14 hr 23 min
+723 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,7 @@
 | [Ordinary Love](https://open.spotify.com/track/4dmBhkfzO0LNyTpniMNEIX) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Ordinary Love](https://open.spotify.com/album/1M5loxljwC0wulbEqMODp4) | 3:15 | 2022-09-09 | 2022-12-24 |
 | [Out Of Excuses](https://open.spotify.com/track/64gsJzAYN3P7ROT7XlIHJj) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 3:17 | 2022-01-14 | 2022-03-18 |
 | [Over My Head](https://open.spotify.com/track/7u49mBpgPYp3xgo3S088qb) | [Eli Wilson](https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p) | [Over My Head](https://open.spotify.com/album/5hKZBHDXhDOLGriXJvXwMU) | 3:04 | 2024-01-26 | 2024-08-17 |
-| [Paper Rose](https://open.spotify.com/track/6pGh07Y3T2zQLAuFTvjAXm) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Spiderwebs](https://open.spotify.com/album/3TnME8m1KogRglQjiOz9Qo) | 4:21 | 2024-05-10 |  |
+| [Paper Rose](https://open.spotify.com/track/6pGh07Y3T2zQLAuFTvjAXm) | [Olivia Penalva](https://open.spotify.com/artist/6ytGxUYeXamODJwiXuZvjO) | [Spiderwebs](https://open.spotify.com/album/3TnME8m1KogRglQjiOz9Qo) | 4:21 | 2024-05-10 | 2024-08-24 |
 | [PARACHUTES](https://open.spotify.com/track/0yOZMyoTHgQhzYKJDVPWbA) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [PARACHUTES](https://open.spotify.com/album/5tPWEKJCUzH2sDV52i3Qcc) | 2:44 | 2023-01-13 | 2023-03-05 |
 | [parasite](https://open.spotify.com/track/5uryeSMcKUDIFVakxsjg6o) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [runaway](https://open.spotify.com/album/0BFInEkCDlkmq5R7pNaDLr) | 3:15 | 2023-02-24 | 2023-03-25 |
 | [paris](https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [paris](https://open.spotify.com/album/4ihpxWgHCfBc3hJ7nkX7ak) | 2:29 | 2024-07-01 |  |
@@ -530,7 +530,7 @@
 | [robot boy](https://open.spotify.com/track/0BQhoWkXkvx71p9w7EsF3c) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [realizations of a tightrope walker](https://open.spotify.com/album/2yZCCFDuxI01TFm5UEdpoW) | 2:32 | 2023-03-24 | 2023-08-12 |
 | [Rocket Science](https://open.spotify.com/track/6iTCiGPIy42IDvm0PWDWLA) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Rocket Science](https://open.spotify.com/album/7Cb2mXAxynvJSKO4w2DBHN) | 2:42 | 2022-08-12 | 2022-10-13 |
 | [Rocket Science](https://open.spotify.com/track/7El19GVmLKoGANrPxbWSa7) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Heartbreak Hall Of Fame](https://open.spotify.com/album/4SpxjTnfgxHAxHjLAClJsF) | 2:42 | 2022-09-09 | 2022-12-24 |
-| [Rocket Woman](https://open.spotify.com/track/2PtZMicbDMbAYWpBzR8g3I) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Rocket Woman](https://open.spotify.com/album/3QF644FWqbPiCeDZMNMFwM) | 3:37 | 2024-07-12 |  |
+| [Rocket Woman](https://open.spotify.com/track/2PtZMicbDMbAYWpBzR8g3I) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Rocket Woman](https://open.spotify.com/album/3QF644FWqbPiCeDZMNMFwM) | 3:37 | 2024-07-12 | 2024-08-24 |
 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-05 | 2023-10-01 |
 | [Roses](https://open.spotify.com/track/0k9KbFbpye6K8VPbA0HT7J) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Roses](https://open.spotify.com/album/1OdBCJQCZJFvYRvDz85STj) | 3:27 | 2023-11-10 | 2024-01-20 |
 | [running shoes](https://open.spotify.com/track/5V1v1CtvbiImJzuet2Un5I) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [so it goes...](https://open.spotify.com/album/4r9nkAAU6oKLRsGAltedIu) | 2:40 | 2023-03-24 | 2023-10-01 |
@@ -552,6 +552,7 @@
 | [self sabotage](https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [self sabotage](https://open.spotify.com/album/4xKRxemLXX5dxv5dRlZu85) | 3:40 | 2022-04-29 | 2022-05-28 |
 | [serious person](https://open.spotify.com/track/5zF5gDWWOyX7ka3IIrs7SX) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 1\)](https://open.spotify.com/album/6gg1EATMm8D7SM4YxPnXZ4) | 3:04 | 2023-06-02 | 2023-09-05 |
 | [Sex & TV](https://open.spotify.com/track/0EQcLq20sqq1hazLaImEkz) | [Hannah Hill](https://open.spotify.com/artist/2YXwzQWYyLiFYx6VA0e0WR) | [Sex & TV](https://open.spotify.com/album/4ewO5SDzXRf5goFeNNGPDd) | 2:26 | 2022-10-14 | 2022-12-24 |
+| [Shadows](https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Shadows](https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC) | 3:03 | 2024-08-23 |  |
 | [She's There](https://open.spotify.com/track/01yJB2dEUSEMcow0DX0RHA) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 1](https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG) | 3:50 | 2023-06-02 | 2023-11-11 |
 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 | 2024-05-17 |  |
 | [Silence](https://open.spotify.com/track/3wzrK49eHKXufPDkNzRAoH) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Pray For Me](https://open.spotify.com/album/79UgvdWK1Cz8SN5BdgKFL4) | 2:57 | 2023-07-07 | 2023-12-14 |
@@ -663,6 +664,7 @@
 | [u](https://open.spotify.com/track/7rdszPyYKNM1W5Y2CMRwJI) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [u](https://open.spotify.com/album/1A51GvRGFj70bKPZMF5KRN) | 2:56 | 2022-04-22 | 2022-09-24 |
 | [Uncomfortable](https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:54 | 2022-09-09 | 2022-12-24 |
 | [Understood](https://open.spotify.com/track/1U1oiy0gG7yqhzJ8duuzMd) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Understood](https://open.spotify.com/album/7f7tuG3YU6KszNajcLEmpy) | 2:11 | 2023-02-17 | 2023-04-09 |
+| [Unfinished Business](https://open.spotify.com/track/51Es7m0L8xBEthyJna04so) | [Liv Miraldi](https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY) | [Unfinished Business](https://open.spotify.com/album/4EgBAIKvsEgr9JZXd28G6K) | 3:56 | 2024-08-23 |  |
 | [Universe](https://open.spotify.com/track/6Cm5uLnM47WzZUZifIqMgM) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Universe](https://open.spotify.com/album/6UI2kIBhFmj2LRcfRzjnQl) | 3:55 | 2022-03-25 | 2022-09-28 |
 | [Unrecognizable](https://open.spotify.com/track/3GxQ8j3v80oVBVEozR5iKm) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 2: The Shedding](https://open.spotify.com/album/4ud34EAx7gghmzMVlgikuZ) | 3:36 | 2022-01-14 | 2022-03-05 |
 | [Unsweetened Lemonade](https://open.spotify.com/track/0hjTOj4u1cLwPov4fqevnw) | [Amélie Farren](https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG) | [Unsweetened Lemonade](https://open.spotify.com/album/1ybx1ljq27DWJqYxm1rn5R) | 2:24 | 2024-05-31 |  |

@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: Los Outsaiders
 
-305 songs - 16 hr 55 min
+307 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [El Podio del TC](https://open.spotify.com/track/5Xl50bMwdD7WY2veOxmAi7) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 3:02 | 2022-04-15 | 2022-12-10 |
 | [El Portal](https://open.spotify.com/track/3doBRDu4E0hSEXuIDa5Ov3) | [REX MARTE](https://open.spotify.com/artist/7HQ7g5kSVZvXHhfBQzd3pk) | [El Portal](https://open.spotify.com/album/2P2Z88TI9kCt622KYLd3iS) | 4:27 | 2022-04-15 | 2022-12-31 |
 | [EL PUENTE](https://open.spotify.com/track/4FlHFjk6TR4RQNnI1oYGvQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Transcender](https://open.spotify.com/album/1MWFI4H59Zw7cq1JvobjOk) | 3:48 | 2022-04-15 | 2023-10-26 |
-| [El Puesto Es Mío](https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [El Puesto Es Mío](https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz) | 2:58 | 2023-05-19 |  |
+| [El Puesto Es Mío](https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [El Puesto Es Mío](https://open.spotify.com/album/15aynKBdm3ace4eDb6Znpz) | 2:58 | 2023-05-19 | 2024-08-24 |
 | [El Punto](https://open.spotify.com/track/1jwJrt9jMQEjzdzqbuFxAh) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [El Punto](https://open.spotify.com/album/0zqO7xoKsIvpYqcaZDSRBZ) | 4:42 | 2022-04-15 | 2022-12-10 |
 | [El Rey](https://open.spotify.com/track/4JUcW4PdYqX3rqAPSSkbmA) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [El Rey](https://open.spotify.com/album/7FyY0zoQGvDmSlmwwICinQ) | 3:27 | 2022-04-15 | 2022-12-10 |
 | [El Tiempo Lo Devora Todo](https://open.spotify.com/track/7iBrgjspfHwJkVsU0XNX6R) | [Supersilverhaze](https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 3:54 | 2022-04-15 | 2022-12-10 |
@@ -140,6 +140,7 @@
 | [Leche de Tigre](https://open.spotify.com/track/0qyDHfOj0pU9ADNlfEdKv2) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv) | [Leche de Tigre](https://open.spotify.com/album/2jWdBKOz7I73GULBYQU0k8) | 3:25 | 2023-03-03 | 2023-04-27 |
 | [Lilith](https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Lilith](https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie) | 2:48 | 2022-04-15 | 2022-12-10 |
 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 | 2023-02-24 |  |
+| [Lloro](https://open.spotify.com/track/31QRagEpAiKv5L4t74pWgn) | [Abel](https://open.spotify.com/artist/4ZFj0agwCvU6RhjDVLSIEZ) | [Lloro](https://open.spotify.com/album/3yrXGZXlwvJcDEqqD3oxPC) | 3:12 | 2024-08-23 |  |
 | [Llueven los Vergazos](https://open.spotify.com/track/4YKONyBsz26LNqI6BcuLun) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Llueven los Vergazos](https://open.spotify.com/album/6I1KbSoXMhO1N1zkDdb6b2) | 2:30 | 2022-04-15 | 2022-12-24 |
 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 | 2024-02-09 |  |
 | [Lo Que Hay Dentro de Mí](https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Lo Que Hay Dentro de Mí](https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX) | 3:10 | 2023-06-30 |  |
@@ -260,7 +261,7 @@
 | [Soy Infinito](https://open.spotify.com/track/6rN01Nu3wQlHIz22rOOK17) | [Viniloversus](https://open.spotify.com/artist/2zwh4WnVBGZcfnllC7DUxt), [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Mi Mejor Enemigo](https://open.spotify.com/album/7yK9PIEDDWkixxMqEAyuO2) | 2:54 | 2024-05-10 | 2024-07-27 |
 | [Soy Un Guapo](https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Soy Un Guapo](https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu) | 3:02 | 2023-03-24 | 2023-05-23 |
 | [Su Lado De La Cama](https://open.spotify.com/track/5r53r4b1xm3sx9CwccXsCb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Su Lado De La Cama](https://open.spotify.com/album/4dX5k6uiEEQs3QozWytbpO) | 3:10 | 2024-03-15 | 2024-05-04 |
-| [Suéltate el pelo](https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Suéltate el pelo](https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz) | 2:51 | 2023-11-03 |  |
+| [Suéltate el pelo](https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Suéltate el pelo](https://open.spotify.com/album/3Qz4Fa379ez2RFvMp4sXWz) | 2:51 | 2023-11-03 | 2024-08-24 |
 | [Sálvame](https://open.spotify.com/track/5LtO9MeiYVVcaYkOlm4MbA) | [QBO](https://open.spotify.com/artist/7LPSpoCg3XmYjYtdZxFodd) | [Sálvame](https://open.spotify.com/album/6sNbXjhBsHufJvLcC9FP30) | 3:22 | 2022-04-15 | 2022-12-10 |
 | [Sólo Eres Tú](https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Sólo Eres Tú](https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg) | 3:53 | 2022-04-15 | 2024-02-24 |
 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 | 2023-12-01 |  |
@@ -298,6 +299,7 @@
 | [Venganza](https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:24 | 2022-04-15 | 2023-09-09 |
 | [Verano Todo el Año](https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Verano Todo El Año](https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l) | 2:44 | 2024-08-09 |  |
 | [Vigilantes del Espejo](https://open.spotify.com/track/6NGziF7yJMzHdf0RTkOkzK) | [Triángulo de Amor Bizarro](https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Detrás del Espejo: Variaciones y Ecos](https://open.spotify.com/album/3fnqOpqZRoC8rol5S1pgRh) | 3:23 | 2022-04-15 | 2022-12-13 |
+| [Volver a cero](https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs) | [Dante Ouviña](https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7) | [Volver a cero](https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA) | 3:06 | 2024-08-23 |  |
 | [Vuelta en U](https://open.spotify.com/track/2uSQpyjWJpSaoxjc27VAZ3) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [Vuelta en U](https://open.spotify.com/album/2XQUbze1bkSR86N8XbAOEy) | 3:02 | 2022-07-19 | 2024-04-13 |
 | [Walk On Everything](https://open.spotify.com/track/4eUxbmrkFkUBZBntLYIwHq) | [A.CHAL](https://open.spotify.com/artist/0pkwrPVI8UyXtPkavyJoZ4) | [Walk On Everything](https://open.spotify.com/album/0b7CilPsEiOZHiGwdyV3bK) | 2:57 | 2023-12-01 | 2023-12-04 |
 | [When I'm Down](https://open.spotify.com/track/2TCdV9BPqra1Xx8taVwyFC) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Martín Delgado presenta: La Otra Música x AireLibre​.​FM](https://open.spotify.com/album/02MKu06t0i6LMfeZl3EBKC) | 2:22 | 2022-04-15 | 2022-12-10 |

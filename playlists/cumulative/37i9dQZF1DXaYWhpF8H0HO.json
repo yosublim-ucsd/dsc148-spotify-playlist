@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Ramengvrl, Awich",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: AGNEZ MO",
   "name": "Ke Seberang",
   "tracks": [
     {
@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Feels Like We're Still a Lover",
+        "url": "https://open.spotify.com/album/0O3xNA5pIZZc8N6L1GF60G"
+      },
+      "artists": [
+        {
+          "name": "Aldi Haqq",
+          "url": "https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294500,
+      "name": "Feels Like We're Still a Lover",
+      "url": "https://open.spotify.com/track/62YskeUHdVoZiLge8ORBrt"
+    },
+    {
+      "album": {
         "name": "Feenin'",
         "url": "https://open.spotify.com/album/4cZ5TWhsqDaZrU9c9cxuoC"
       },
@@ -734,6 +752,24 @@
       "duration_ms": 292900,
       "name": "Feenin' - Andezzz Remix",
       "url": "https://open.spotify.com/track/19CfTZUocbSgUJrQGjgvPs"
+    },
+    {
+      "album": {
+        "name": "Hardcore Romance",
+        "url": "https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y"
+      },
+      "artists": [
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228708,
+      "name": "Fight Some More",
+      "url": "https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0"
     },
     {
       "album": {
@@ -1827,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Party In Bali (PIB)",
+        "url": "https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk"
+      },
+      "artists": [
+        {
+          "name": "AGNEZ MO",
+          "url": "https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172501,
+      "name": "Party In Bali (PIB)",
+      "url": "https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O"
+    },
+    {
+      "album": {
         "name": "pixie dust",
         "url": "https://open.spotify.com/album/6JGaw5JilOBgXRUxr6VVgm"
       },
@@ -1907,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Renaissance Man",
+        "url": "https://open.spotify.com/album/3fiZhTVA6QGTc7Xw0uSXom"
+      },
+      "artists": [
+        {
+          "name": "Jinan Laetitia",
+          "url": "https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142380,
+      "name": "Renaissance Man",
+      "url": "https://open.spotify.com/track/3kkrXydZaaor24348eYbIp"
+    },
+    {
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/5cMhH6CED8TexREEwEKHQi"
       },
@@ -1984,7 +2056,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 219283,
       "name": "Round & Round",
       "url": "https://open.spotify.com/track/1WcXm9lIEBwpzRhuidPijI"
@@ -2222,6 +2294,42 @@
       "duration_ms": 236524,
       "name": "Sunny Days",
       "url": "https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR"
+    },
+    {
+      "album": {
+        "name": "Sunset",
+        "url": "https://open.spotify.com/album/3mD4drDmgID4a37nidP0kF"
+      },
+      "artists": [
+        {
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226213,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/640IYssUkByrQsSWfs0r12"
+    },
+    {
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/3pcG25f5YmhBzQRCi7EuSS"
+      },
+      "artists": [
+        {
+          "name": "Abe Hoed",
+          "url": "https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189820,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/7qiPEIyiABDUK2WAez5GC4"
     },
     {
       "album": {

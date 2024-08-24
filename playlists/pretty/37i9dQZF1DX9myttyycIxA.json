@@ -1,13 +1,61 @@
 {
-  "description": "Underground indie rock gems. Cover: Horse Jumper of Love ",
-  "num_followers": 296721,
+  "description": "Underground indie rock gems. Cover: GIFT",
+  "num_followers": 296732,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsNfjAAAAACU1bofw19fLWK7KtT/LQCY",
+  "snapshot_id": "ZsgJQAAAAABGS1zMfasy4B1JxG8Rdjlk",
   "tracks": [
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Illuminator",
+        "url": "https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z"
+      },
+      "artists": [
+        {
+          "name": "GIFT",
+          "url": "https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op"
+        }
+      ],
+      "duration_ms": 268772,
+      "name": "Milestones",
+      "url": "https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Nightvision",
+        "url": "https://open.spotify.com/album/5s3gSxV9tBusv4Wjnaw9es"
+      },
+      "artists": [
+        {
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
+        }
+      ],
+      "duration_ms": 175029,
+      "name": "Nightvision",
+      "url": "https://open.spotify.com/track/5QwuhBa8X0K2ZszcYcnuMu"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "YOU\u2019LL HAVE TO LOSE SOMETHING",
+        "url": "https://open.spotify.com/album/0aZGq0nA2n4275MFylaTGM"
+      },
+      "artists": [
+        {
+          "name": "SPIRIT OF THE BEEHIVE",
+          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "1/500",
+      "url": "https://open.spotify.com/track/68fNzYr811YjCcj8DSRbwI"
+    },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
@@ -23,6 +71,38 @@
       "duration_ms": 203339,
       "name": "REAL",
       "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Taking One For The Team",
+        "url": "https://open.spotify.com/album/42vWjU6FshVM4NMZgYlOMg"
+      },
+      "artists": [
+        {
+          "name": "worlds greatest dad",
+          "url": "https://open.spotify.com/artist/4CJ5eNfmJHQ5spEAvaxj8F"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Taking One For The Team",
+      "url": "https://open.spotify.com/track/1nJjKIoDhEobvLXU3isiEQ"
+    },
+    {
+      "added_at": "2024-08-19 15:06:52",
+      "album": {
+        "name": "Watch Me Drive Them Dogs Wild",
+        "url": "https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "duration_ms": 290003,
+      "name": "Watch Me Drive Them Dogs Wild",
+      "url": "https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l"
     },
     {
       "added_at": "2024-08-19 15:06:52",
@@ -57,6 +137,38 @@
       "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
     },
     {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Beauty School",
+        "url": "https://open.spotify.com/album/5ECvC9nLKDcgFJZbgEuwbw"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "Beauty School",
+      "url": "https://open.spotify.com/track/2OBkztfXpBHAcanmlvj0JS"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "CARRY YOU",
+        "url": "https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k"
+      },
+      "artists": [
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 188763,
+      "name": "CARRY YOU",
+      "url": "https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Pretty Girls",
@@ -89,20 +201,52 @@
       "url": "https://open.spotify.com/track/7t0XbjgX6diwEjOHW2LxwC"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "CARRY YOU",
-        "url": "https://open.spotify.com/album/06nu3BwrAi9xuWMtQq1f0k"
+        "name": "drive",
+        "url": "https://open.spotify.com/album/1PxGLbkSOmgjs196w7AZl1"
       },
       "artists": [
         {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+          "name": "dog eyes",
+          "url": "https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc"
         }
       ],
-      "duration_ms": 188763,
-      "name": "CARRY YOU",
-      "url": "https://open.spotify.com/track/5rCgj5fATSArrdlnZSekLk"
+      "duration_ms": 133250,
+      "name": "drive",
+      "url": "https://open.spotify.com/track/34OA989SEHLVAPNNism1cC"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "AVANTI",
+        "url": "https://open.spotify.com/album/1VBOC4Tb54SACq6e93tf84"
+      },
+      "artists": [
+        {
+          "name": "Malice K",
+          "url": "https://open.spotify.com/artist/02teRYFHjIArrcuL5TkxmI"
+        }
+      ],
+      "duration_ms": 131082,
+      "name": "Raining",
+      "url": "https://open.spotify.com/track/6oywJrE3hcADAWLNL6egqp"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "swanlike (loosies 2020-2023)",
+        "url": "https://open.spotify.com/album/1uTLUieuvkY3bEPDpaKNJZ"
+      },
+      "artists": [
+        {
+          "name": "They Are Gutting a Body of Water",
+          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
+        }
+      ],
+      "duration_ms": 129473,
+      "name": "beautysleep",
+      "url": "https://open.spotify.com/track/5NTFOg05K8RCKMb8kxQonW"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -119,22 +263,6 @@
       "duration_ms": 262240,
       "name": "So Much More",
       "url": "https://open.spotify.com/track/3WRn9dlr1d2w9Wvsvkph3P"
-    },
-    {
-      "added_at": "2024-08-19 15:06:52",
-      "album": {
-        "name": "Watch Me Drive Them Dogs Wild",
-        "url": "https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs"
-      },
-      "artists": [
-        {
-          "name": "Merce Lemon",
-          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
-        }
-      ],
-      "duration_ms": 290003,
-      "name": "Watch Me Drive Them Dogs Wild",
-      "url": "https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -199,22 +327,6 @@
       "duration_ms": 258092,
       "name": "Shot",
       "url": "https://open.spotify.com/track/0UbmlnXRMJJiIv4ek1lvJT"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "moment",
-        "url": "https://open.spotify.com/album/2Pux0kRcApXtQ19UDVV1tv"
-      },
-      "artists": [
-        {
-          "name": "dog eyes",
-          "url": "https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "moment",
-      "url": "https://open.spotify.com/track/7vyuwxrFhhrQzvi7QGUkge"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -331,22 +443,6 @@
       "duration_ms": 157874,
       "name": "tell me feat. Kississippi",
       "url": "https://open.spotify.com/track/1jlrgAUhb2GTGSkqMmoKuJ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Light Runner",
-        "url": "https://open.spotify.com/album/5332cXGaZBLunKipWgcz1c"
-      },
-      "artists": [
-        {
-          "name": "GIFT",
-          "url": "https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op"
-        }
-      ],
-      "duration_ms": 215243,
-      "name": "Light Runner",
-      "url": "https://open.spotify.com/track/3AfwSzagDnKTUXc7lqVzdx"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -793,22 +889,6 @@
       "url": "https://open.spotify.com/track/59GCYWh0Y74XtvhtJNe7nW"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "swanlike (loosies 2020-2023)",
-        "url": "https://open.spotify.com/album/1uTLUieuvkY3bEPDpaKNJZ"
-      },
-      "artists": [
-        {
-          "name": "They Are Gutting a Body of Water",
-          "url": "https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj"
-        }
-      ],
-      "duration_ms": 129473,
-      "name": "beautysleep",
-      "url": "https://open.spotify.com/track/5NTFOg05K8RCKMb8kxQonW"
-    },
-    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "Pulling Quotes",
@@ -887,22 +967,6 @@
       "duration_ms": 212958,
       "name": "Change",
       "url": "https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Body Farm",
-        "url": "https://open.spotify.com/album/4OKeBiBOs0rPsWDZ0gFIfO"
-      },
-      "artists": [
-        {
-          "name": "Zoe Bayani",
-          "url": "https://open.spotify.com/artist/0qAiQ7a5epCnbBeqex8loG"
-        }
-      ],
-      "duration_ms": 220088,
-      "name": "Body Farm",
-      "url": "https://open.spotify.com/track/7zARpP2hSWoDAfqYFm85cp"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1015,22 +1079,6 @@
       "duration_ms": 168598,
       "name": "Sweet Lilac",
       "url": "https://open.spotify.com/track/4AvzyTw47aX8JW04H33O1i"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Lapse",
-        "url": "https://open.spotify.com/album/0yVXpZlLkbX7SimNNFF3v3"
-      },
-      "artists": [
-        {
-          "name": "Idaho",
-          "url": "https://open.spotify.com/artist/5lQ9ygSr6WMqXYsG00nNNY"
-        }
-      ],
-      "duration_ms": 212736,
-      "name": "Kamikaze",
-      "url": "https://open.spotify.com/track/2zjA1RGvkCcR1j1raXcQgW"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1273,22 +1321,6 @@
       "url": "https://open.spotify.com/track/5eSJivBPBv5cJDd8rC3TZS"
     },
     {
-      "added_at": "2024-04-26 04:37:06",
-      "album": {
-        "name": "fair",
-        "url": "https://open.spotify.com/album/6DiW98ZoKsnnx0IerRi2Q0"
-      },
-      "artists": [
-        {
-          "name": "dog eyes",
-          "url": "https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc"
-        }
-      ],
-      "duration_ms": 146352,
-      "name": "fair",
-      "url": "https://open.spotify.com/track/2pQoTEXycAOQEfZRei7fmC"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Live At Narcissus",
@@ -1319,22 +1351,6 @@
       "duration_ms": 169939,
       "name": "Conversation Starter",
       "url": "https://open.spotify.com/track/17KBwzyuzwyGbPath94zzX"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS"
-      },
-      "artists": [
-        {
-          "name": "Luby Sparks",
-          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
-        }
-      ],
-      "duration_ms": 276077,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1433,22 +1449,6 @@
       "url": "https://open.spotify.com/track/74o4kHeG83ZduHZ0jlrqT4"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "How does it end?",
-        "url": "https://open.spotify.com/album/4t2odh5PaH2MQQIUYIsN5I"
-      },
-      "artists": [
-        {
-          "name": "Kellan Christopher Cragg",
-          "url": "https://open.spotify.com/artist/31ukhOt5qC5evJZZgopJuq"
-        }
-      ],
-      "duration_ms": 233675,
-      "name": "How does it end?",
-      "url": "https://open.spotify.com/track/0WHP8Nz9CSqalerNkQ0dBL"
-    },
-    {
       "added_at": "2024-03-29 16:34:32",
       "album": {
         "name": "Mundane Pleasure",
@@ -1531,22 +1531,6 @@
       "duration_ms": 154520,
       "name": "sex symbol",
       "url": "https://open.spotify.com/track/76EwM6rI3b6DxcsE473IOA"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Your Mother's Name",
-        "url": "https://open.spotify.com/album/0oTmJI1vJfW5D7zH9fGByM"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 139086,
-      "name": "Die Your Daughter",
-      "url": "https://open.spotify.com/track/5Ey7icpjKCGpi5oJi7VLdu"
     },
     {
       "added_at": "2024-03-15 04:00:00",

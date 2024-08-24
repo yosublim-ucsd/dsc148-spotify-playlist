@@ -2,7 +2,7 @@
 
 ### [This Is Nicholas Craven](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Eo0KY)
 
-> This is Nicholas Craven\. The essential tracks, all in one playlist.
+> This is: Nicholas Craven\. Alle wichtigen Tracks in einer Playlist.
 
 72 songs - 3 hr 24 min
 
@@ -16,7 +16,7 @@
 | [American Made](https://open.spotify.com/track/0InAsDsfTZ12eovy8l1itp) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Deleted Scenes 2](https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ) | 2:23 | 2023-12-13 |  |
 | [Anchor](https://open.spotify.com/track/6Zxwx0alt2Afe2N2h67xMa) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:41 | 2023-12-13 |  |
 | [Arrival](https://open.spotify.com/track/1ufe5VjaPm5lQwrJY9rQMy) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Deleted Scenes 2](https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ) | 2:55 | 2023-12-13 |  |
-| [Bandit](https://open.spotify.com/track/2DGpmvXxBZ7VYo38WjGfea) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:48 | 2023-12-13 | 2024-05-28 |
+| [Bandit](https://open.spotify.com/track/2DGpmvXxBZ7VYo38WjGfea) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:48 | 2023-12-13 |  |
 | [Beg](https://open.spotify.com/track/20MqlBEQ7FhjqWb9xJWn5Y) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [ETO](https://open.spotify.com/artist/3EX6Tq7do8AKaFv39oRCfQ) | [Valenti & Rizzuto](https://open.spotify.com/album/31uGT3nPqfgTPffCdLluW6) | 2:44 | 2024-03-04 | 2024-03-07 |
 | [Big George Bombs](https://open.spotify.com/track/5Ts0RBQLHGiDhCDsSJNSm6) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:00 | 2023-12-13 |  |
 | [Body of Lies](https://open.spotify.com/track/4Dx8uqhDMnJfAqSBdLkvWR) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4) | [Body of Lies](https://open.spotify.com/album/2ANiHGSVp9G7Z9t2PBKdvp) | 2:59 | 2023-12-13 |  |
@@ -54,7 +54,7 @@
 | [No Pun Intended](https://open.spotify.com/track/260SAzinvufrYooPB7z5ZI) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Penalty of Leadership](https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL) | 3:14 | 2024-01-20 |  |
 | [Opulence](https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Stove God Cooks](https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 3:42 | 2023-12-13 |  |
 | [Paco Chaupard](https://open.spotify.com/track/6YkALlDSpjt4GhQGEGdbvi) | [Di\-Meh](https://open.spotify.com/artist/1QHLcqY9m9aoKWcjBiQV0y), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [OV3²](https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH) | 2:56 | 2024-07-03 |  |
-| [Play for Keeps](https://open.spotify.com/track/45XfVfiUaxHNjiu6Ukv0RD) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Shadow Moses](https://open.spotify.com/album/5MDyFjmTCZHXAqAmhSoXNK) | 2:04 | 2023-12-13 |  |
+| [Play for Keeps](https://open.spotify.com/track/45XfVfiUaxHNjiu6Ukv0RD) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Shadow Moses](https://open.spotify.com/album/5MDyFjmTCZHXAqAmhSoXNK) | 2:04 | 2023-12-13 | 2024-08-24 |
 | [Power Nap](https://open.spotify.com/track/7CMMfKzZ98rYOvQJpHeSv1) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Fair Exchange No Robbery](https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj) | 3:19 | 2023-12-13 |  |
 | [Razors](https://open.spotify.com/track/2p6pbRVWgZscjKcRcKnLg4) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:17 | 2023-12-13 |  |
 | [Red Tops](https://open.spotify.com/track/7qofyc9Kxoa6jXVYZFJOTf) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Conway Remixes 1 & 2](https://open.spotify.com/album/0IWFcaf3F7G14ect7Jle0l) | 2:18 | 2024-04-07 | 2024-04-12 |

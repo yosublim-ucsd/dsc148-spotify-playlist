@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-325 songs - 20 hr 34 min
+326 songs - 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Branque](https://open.spotify.com/track/4IFOzzLYdHxwfo3R8IrUhq) | [Bantam Lyons](https://open.spotify.com/artist/0PYUuiy5K17prjVHYVEhia) | [Branque](https://open.spotify.com/album/7zFdts2b5EzbzC104qgc7H) | 4:41 | 2021-12-15 | 2022-07-29 |
 | [Bride](https://open.spotify.com/track/4oFtvipwinqXjVrJpEuYCG) | [Send Me Love Letters](https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk) | [Bride](https://open.spotify.com/album/2vxiT1e0xm36rYyn3EwvVj) | 2:58 | 2022-02-24 |  |
 | [Brother](https://open.spotify.com/track/7AorDFAFIecmBhx6ujIhZX) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Factory](https://open.spotify.com/album/7wjxLYyRqGzKjjXiaTs9WH) | 3:18 | 2023-01-29 |  |
+| [Calendar](https://open.spotify.com/track/57pGtVBCp7ZJYav8EppSNH) | [Stereotypical Working Class](https://open.spotify.com/artist/02ZopYrPQwwalBKGALvGAX) | [Day After Day](https://open.spotify.com/album/5O3oHcfxZjMpXFD3lD67EJ) | 3:31 | 2024-07-15 |  |
 | [Can't Wait](https://open.spotify.com/track/1hhBAsb37DIoVQAgOgjVd1) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Can't Wait](https://open.spotify.com/album/6i5SB6LiZyHouxLdnqTJmT) | 3:34 | 2023-01-26 | 2023-04-03 |
 | [Can't Wait to Be Fine](https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Can't Wait to Be Fine](https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD) | 5:58 | 2021-12-15 |  |
 | [Chevalier Bulltoe](https://open.spotify.com/track/6SBxee2sZTBLCfNZYz0lww) | [Totorro](https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx) | [Home Alone](https://open.spotify.com/album/4InJztZgp2sTfqULyMZE1U) | 3:32 | 2021-12-31 |  |
@@ -239,7 +240,7 @@
 | [REQUIN MAKO](https://open.spotify.com/track/5DSNrLlcBs3QNvyEPTJrkG) | [Péniche](https://open.spotify.com/artist/5Sg5EoVjPH1WP8CgRKkiP0) | [DEUXIÈME ÉTOILE](https://open.spotify.com/album/249WNcUE4agsZX6OnzVNwl) | 2:44 | 2023-07-23 | 2024-04-19 |
 | [Ritalin](https://open.spotify.com/track/70A8T4BtU7PNmQMVOflMEb) | [Dirty Cloud](https://open.spotify.com/artist/33ss0pCcfJSAQi9EbWMnoV) | [Straight\-Jacket](https://open.spotify.com/album/1I8YjgUFSqw2N85hljqRMc) | 2:03 | 2024-05-29 |  |
 | [RUNNING IN CIRCLES](https://open.spotify.com/track/2lbrjYnCyMaN4lsSmFLu9F) | [lya!](https://open.spotify.com/artist/5DIzsQoiKqAEqckzSIOGDH) | [RUNNING IN CIRCLES](https://open.spotify.com/album/6mdvONDzaauSwdHTsD7XIE) | 2:53 | 2022-11-28 | 2023-03-22 |
-| [Rust](https://open.spotify.com/track/1ypSajFbc1MhW80bDpYgV9) | [Shoefiti](https://open.spotify.com/artist/1tOAn2TxpYxDMggpXTNoEB) | [CityT error](https://open.spotify.com/album/2XBkDqqkgPLkuXaZyYgzHj) | 3:42 | 2024-07-15 |  |
+| [Rust](https://open.spotify.com/track/1ypSajFbc1MhW80bDpYgV9) | [Shoefiti](https://open.spotify.com/artist/1tOAn2TxpYxDMggpXTNoEB) | [CityT error](https://open.spotify.com/album/2XBkDqqkgPLkuXaZyYgzHj) | 3:42 | 2024-07-15 | 2024-08-24 |
 | [Réveil heureux](https://open.spotify.com/track/185HvxnL9HUliNEb1Ohb48) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Réveil heureux](https://open.spotify.com/album/43qiPYd2IshCDP2HhgiYlu) | 5:08 | 2022-02-01 | 2022-03-25 |
 | [Réveil heureux](https://open.spotify.com/track/5jIOQUM9SWwLE2QmWFh30R) | [PARK](https://open.spotify.com/artist/5pMItVznpNhxltDYviTMsu), [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU), [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Park](https://open.spotify.com/album/5TlXmC4JTP9rrBvQV9O621) | 5:08 | 2023-06-29 | 2023-09-23 |
 | [Sabotage](https://open.spotify.com/track/13IFoiFdQ9ywSD8FSeqYhn) | [Stuffed Foxes](https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06) | [Sabotage](https://open.spotify.com/album/0gxLqxmKUjHF2B7ep1xBdQ) | 5:40 | 2021-12-15 | 2022-12-18 |

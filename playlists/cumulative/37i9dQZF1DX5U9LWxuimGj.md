@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Ela Taubert
 
-177 songs - 9 hr 45 min
+179 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 | 2021-12-10 | 2024-04-10 |
 | [Dame un Beso y Dime Adios \(En Vivo\)](https://open.spotify.com/track/1JV3RpUoEppOj6jEQgWOor) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2) | 3:59 | 2024-04-12 | 2024-04-19 |
 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 | 2023-01-27 |  |
+| [Darling](https://open.spotify.com/track/25eOhHLLr0tFImpmVx9WLQ) | [Elias Medina](https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ), [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Darling](https://open.spotify.com/album/7CGrftmTvcJQTYpUuVVQJy) | 3:13 | 2024-08-23 |  |
 | [Day Drinking \- Party Mix](https://open.spotify.com/track/4zVwASFqCT6XUmpBrnuIJK) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Day Drinking \(Party Mix\)](https://open.spotify.com/album/221DPZOZH1TDYisXjLeC81) | 3:35 | 2021-12-10 | 2024-04-10 |
 | [Desert Rain](https://open.spotify.com/track/54uGAxFnjUCk0ySobH4kPL) | [Valerie Ponzio](https://open.spotify.com/artist/6lyvojQxyHnM61PUWTUKQQ) | [Frontera](https://open.spotify.com/album/199sZ1Ykrzexpnrlxfx9tM) | 3:25 | 2023-04-21 | 2024-04-10 |
 | [Despídase bien](https://open.spotify.com/track/1llaUCfG1g5WzKt6JafYyk) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 3:51 | 2024-06-17 |  |
@@ -59,6 +60,7 @@
 | [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 | 2023-09-29 | 2024-04-10 |
 | [Girls Like Me](https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Girls Like Me](https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv) | 2:51 | 2022-06-10 | 2023-07-23 |
 | [Girls Like Me](https://open.spotify.com/track/5SD4XZ2UEuynMl0F0Nml1y) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 2:51 | 2023-07-14 | 2024-04-10 |
+| [Gosta de Caras Assim](https://open.spotify.com/track/1bK1a1ghaYc1IcSfEQPYRs) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Gosta de Caras Assim](https://open.spotify.com/album/6Z1HPVHsaU9qg4rBVoVykm) | 3:25 | 2024-08-23 |  |
 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 | 2023-05-05 |  |
 | [gracias a la vida](https://open.spotify.com/track/0ROvxmZFJNRm0PyYcFKHbm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 4:32 | 2021-12-10 | 2024-04-10 |
 | [Gracias A La Vida](https://open.spotify.com/track/5bHSXxczMdoPWVg3RemYHq) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Liberty: Piano Songbook](https://open.spotify.com/album/5osw6hJrMHsAFfKuJUlHMW) | 2:46 | 2021-12-10 | 2022-09-03 |

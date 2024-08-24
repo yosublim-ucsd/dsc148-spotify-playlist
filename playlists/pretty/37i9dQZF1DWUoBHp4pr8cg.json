@@ -1,13 +1,33 @@
 {
-  "description": "Only the hottest Hip Hop from K.O & Nasty C, A$AP Rocky, Kendrick Lamar, and more...",
-  "num_followers": 75931,
+  "description": "Only the hottest Hip Hop from Travis Scott, A$AP Rocky, Kendrick Lamar, and more...",
+  "num_followers": 75951,
   "original_name": "Hip Hop Circle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsfe1AAAAABtErfQhaipME3/IFlxazbY",
+  "snapshot_id": "Zsgq2QAAAABWbgelsIp6zZ/uypQ6HlqF",
   "tracks": [
+    {
+      "added_at": "2024-08-23 06:23:21",
+      "album": {
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 314423,
+      "name": "Skyfall (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT"
+    },
     {
       "added_at": "2024-08-23 00:59:00",
       "album": {

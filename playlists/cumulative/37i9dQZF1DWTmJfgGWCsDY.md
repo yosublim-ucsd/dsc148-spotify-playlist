@@ -4,7 +4,7 @@
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-107 songs - 7 hr 29 min
+109 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Nakuja \- Remix](https://open.spotify.com/track/6F6GGekktwwJbjDZwkncCX) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Nakuja \(Remix\)](https://open.spotify.com/album/1nmpGHgVggvQHiDt0Ub338) | 4:05 | 2022-08-05 |  |
 | [Nalimwaga](https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nalimwaga](https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97) | 3:44 | 2022-08-05 |  |
 | [Nampenda](https://open.spotify.com/track/2B3dIhmQQbnBtJol5uMjiY) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Nampenda](https://open.spotify.com/album/0RSCOc5P6Bpt4Pkdg8SoXz) | 5:02 | 2023-02-24 | 2023-03-18 |
+| [Nani](https://open.spotify.com/track/2OVnpe9zs6lWKymL3NhVZm) | [Wamoto](https://open.spotify.com/artist/49cEXrvOxwDlG7HebzedM1), [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm) | [Nani](https://open.spotify.com/album/5VKweEzcW4FEvpo7AmynUl) | 3:51 | 2024-08-23 |  |
 | [Natamani](https://open.spotify.com/track/5PY0K1JkB3IbgldFpHiWuM) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Chege](https://open.spotify.com/artist/09ePfLAl1VPyN0NGPiZdCB) | [Natamani](https://open.spotify.com/album/6A8pezWuBNYujOhZhffVmE) | 4:22 | 2022-08-05 |  |
 | [Naumia](https://open.spotify.com/track/28qsyjBi4t7aD1yGsE030F) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN) | [Naumia](https://open.spotify.com/album/70hchTWlKZnkowXc624R7v) | 3:44 | 2023-04-14 | 2024-07-25 |
 | [Niite Mbwa](https://open.spotify.com/track/4QQ4T0JTPZo9r3oLKH519H) | [Shilole](https://open.spotify.com/artist/5Kupo3eu25cR6dIkrmGof6), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Niite Mbwa](https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9) | 3:48 | 2022-08-05 |  |
@@ -93,7 +94,7 @@
 | [Sina Stress](https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Sina Stress](https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L) | 3:49 | 2023-08-24 |  |
 | [Singeli Jungles](https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy) | [MC Palakata](https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7), [Tom Blip](https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x) | [Singeli Jungles](https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n) | 4:40 | 2023-01-20 |  |
 | [Singeli Poli](https://open.spotify.com/track/22MhRI74ng3SmfaEFYT9fG) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN) | [Singeli Poli](https://open.spotify.com/album/2mjjwhLh4ttpZRz2yKntwW) | 1:58 | 2022-12-09 |  |
-| [Singeli Twista](https://open.spotify.com/track/1vnuVFj87g3klSEBWkciXV) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg) | [Singeli Twista](https://open.spotify.com/album/75V2a1qC8s55PEjXUp8XPb) | 3:24 | 2022-09-08 |  |
+| [Singeli Twista](https://open.spotify.com/track/1vnuVFj87g3klSEBWkciXV) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Ay Masta](https://open.spotify.com/artist/51x9Wi7MSS1v9u89sc63dg) | [Singeli Twista](https://open.spotify.com/album/75V2a1qC8s55PEjXUp8XPb) | 3:24 | 2022-09-08 | 2024-08-24 |
 | [Siyo Shida Zangu](https://open.spotify.com/track/2NBG2pKQynWx2IQ71rD2hz) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Siyo Shida Zangu](https://open.spotify.com/album/44EjEEaqOQ7rKvUhkBnBwI) | 3:59 | 2022-08-05 |  |
 | [Status](https://open.spotify.com/track/7qk0HfhXHEYQQzoZ6caYQM) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Status](https://open.spotify.com/album/1mt4GI9A1Msw42jevPqCqk) | 4:08 | 2022-08-05 |  |
 | [Stress](https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg) | [Balaa MC](https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL) | [Stress](https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD) | 4:12 | 2022-08-05 |  |
@@ -105,7 +106,7 @@
 | [Umekopwa](https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Umekopwa](https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X) | 4:43 | 2022-08-05 |  |
 | [Uongo](https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G) | [Man Fongo](https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4) | [Uongo](https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi) | 3:26 | 2023-04-14 |  |
 | [Upwii](https://open.spotify.com/track/5UI00Ic2qjPZLEdJEBLDKH) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Mkataba Mc](https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3) | [Upwii](https://open.spotify.com/album/7DBI9S96GzWRWBHCgh9LTJ) | 3:07 | 2024-01-26 |  |
-| [Uroda](https://open.spotify.com/track/1Lp86p4MRUMR0DmimDBr7w) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Sammy Donnar](https://open.spotify.com/artist/0kIZyUX6qkSPclKox24eMh) | [Uroda](https://open.spotify.com/album/6Li6670qH4HxtF9nzgIc3C) | 3:35 | 2023-06-01 |  |
+| [Uroda](https://open.spotify.com/track/1Lp86p4MRUMR0DmimDBr7w) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Sammy Donnar](https://open.spotify.com/artist/0kIZyUX6qkSPclKox24eMh) | [Uroda](https://open.spotify.com/album/6Li6670qH4HxtF9nzgIc3C) | 3:35 | 2023-06-01 | 2024-08-24 |
 | [Usinichiti](https://open.spotify.com/track/4jLz75KL9XYcrbAFcmAb4P) | [Mczo Morfan \(Big\)](https://open.spotify.com/artist/53pqgeMu3dAbraZsgnmdq2) | [Singeli Money](https://open.spotify.com/album/6IBQqUY6TGbmFDJIjSsfjR) | 4:13 | 2024-06-28 |  |
 | [UTAMUWA BAKHRESA](https://open.spotify.com/track/74HglmIg7y0TUS58psjEiV) | [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13) | [UTAMUWA BAKHRESA](https://open.spotify.com/album/3vyVWtIN7RBXVL7ajiDyHc) | 4:37 | 2023-06-30 |  |
 | [Viburi](https://open.spotify.com/track/6k8dSOc6SYlAfkEhdBzhe9) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T), [Chief Becka](https://open.spotify.com/artist/34OrNiTDCk4SHF4XUAdsv6) | [Viburi](https://open.spotify.com/album/6cCYWRF4Ye9Kva0iVcK3pk) | 3:21 | 2022-08-05 |  |
@@ -113,6 +114,7 @@
 | [Wanijue](https://open.spotify.com/track/0FWT88DvL90Ld82YF74iRO) | [Micky Singer](https://open.spotify.com/artist/4g0gCO59QKK7Sdt8M97eUG) | [Wanijue](https://open.spotify.com/album/7s4bUuBdyYqiYv2SWZR0MD) | 3:14 | 2022-08-05 |  |
 | [Wapambe](https://open.spotify.com/track/4YW7lRL207zKlGBPQak7pl) | [Elisha](https://open.spotify.com/artist/7beQHnSg083MMXTbHMN4yi), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Wapambe](https://open.spotify.com/album/22slAeb6NP4Eq9Q5c8eOie) | 4:00 | 2022-08-05 |  |
 | [Wapo](https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa) | [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Wapo](https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O) | 4:03 | 2023-12-08 |  |
+| [Wave It](https://open.spotify.com/track/2BRuJJKdlV3YBH6o5yPB8M) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW), [Rosa Pistola](https://open.spotify.com/artist/06fEHseCklFEuDgM5dccHX), [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Wave It](https://open.spotify.com/album/2SJIeajpOusEz5B2kM59pG) | 2:31 | 2024-08-23 |  |
 | [We Nani](https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [We Nani](https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0) | 4:14 | 2022-08-05 |  |
 | [Yanga](https://open.spotify.com/track/4knCIYx2MWALaqWUWiwhLJ) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Kapaso Bkp](https://open.spotify.com/artist/0GwOwyBkqqTX5qgcc8bB38) | [Yanga](https://open.spotify.com/album/3dwald9GuxM0AIssyw5vu9) | 3:14 | 2024-03-28 | 2024-05-17 |
 

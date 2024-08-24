@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 170602,
       "name": "After Dawn",
       "url": "https://open.spotify.com/track/73JQim3QLhAAtlx0FJTdBp"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 128000,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/3SM1yWxhta8tbuavzHGGmA"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 147000,
       "name": "Blanket Burrito",
       "url": "https://open.spotify.com/track/3k6OoaMArdBeCsHyMYx2NL"
@@ -2260,6 +2260,28 @@
       "duration_ms": 126730,
       "name": "Cloud9",
       "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
+    },
+    {
+      "album": {
+        "name": "Cloudsurf",
+        "url": "https://open.spotify.com/album/5Ud3hQ7v1kuOhH16jscwOX"
+      },
+      "artists": [
+        {
+          "name": "Homson",
+          "url": "https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2"
+        },
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "Cloudsurf",
+      "url": "https://open.spotify.com/track/3yCRMhSv2kkyiQrPgKaiJ7"
     },
     {
       "album": {
@@ -6911,6 +6933,24 @@
     },
     {
       "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/0f8hU4BFgSR8pxjF6TfCs2"
+      },
+      "artists": [
+        {
+          "name": "Gabiga",
+          "url": "https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/3ub8PrQqfYvPyLbzACDoGB"
+    },
+    {
+      "album": {
         "name": "Black Rose",
         "url": "https://open.spotify.com/album/56lnsrJ7Sjmoxg3UfEOGr5"
       },
@@ -9792,6 +9832,24 @@
       "duration_ms": 93432,
       "name": "Rice Balls for Dinner",
       "url": "https://open.spotify.com/track/7xfsqCYfZrpdylr6hbQVF2"
+    },
+    {
+      "album": {
+        "name": "Right The Wrongs",
+        "url": "https://open.spotify.com/album/6j8q1j8BQInOLD0pBO89nW"
+      },
+      "artists": [
+        {
+          "name": "L E F",
+          "url": "https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "Right The Wrongs",
+      "url": "https://open.spotify.com/track/6U3eutbPaGTh57clKGJJze"
     },
     {
       "album": {
@@ -12780,6 +12838,28 @@
       "duration_ms": 156585,
       "name": "Twisted",
       "url": "https://open.spotify.com/track/1vuLMF20jm8Y0bupcAf1FR"
+    },
+    {
+      "album": {
+        "name": "Ukiyo",
+        "url": "https://open.spotify.com/album/37Ygifb8OcmNVcmqlbtNQv"
+      },
+      "artists": [
+        {
+          "name": "Majid Unpeek",
+          "url": "https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152404,
+      "name": "Ukiyo",
+      "url": "https://open.spotify.com/track/6bgYsHwlOEKTjUjicBVyWH"
     },
     {
       "album": {

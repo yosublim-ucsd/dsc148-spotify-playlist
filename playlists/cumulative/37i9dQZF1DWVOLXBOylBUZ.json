@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Myke Towers y Darell.",
+  "description": "Latinoam\u00e9rica baila al ritmo de FMK.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -1575,6 +1575,32 @@
     },
     {
       "album": {
+        "name": "Aprovecha",
+        "url": "https://open.spotify.com/album/1uyAWCuvw7o9MwHjeRhPDR"
+      },
+      "artists": [
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "QueHicisteBella",
+          "url": "https://open.spotify.com/artist/7tZ9DkFKRbmnkqxjrUZRpv"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209091,
+      "name": "Aprovecha",
+      "url": "https://open.spotify.com/track/39z0AaTWNLI8H07G90ySqo"
+    },
+    {
+      "album": {
         "name": "Aprov\u00e9chame",
         "url": "https://open.spotify.com/album/4FZMuk4ryKHuvjz7vYtmWb"
       },
@@ -1590,7 +1616,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 134032,
       "name": "Aprov\u00e9chame",
       "url": "https://open.spotify.com/track/038QalIfAnbYDPqIdKCw7W"
@@ -1630,7 +1656,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 192000,
       "name": "ARCHIVO 5.wav",
       "url": "https://open.spotify.com/track/4f52iWVQBbNtM5nufsa2sJ"
@@ -1708,6 +1734,28 @@
       "duration_ms": 166977,
       "name": "ASESINA",
       "url": "https://open.spotify.com/track/5igyONqKPi22YmsVzGYie5"
+    },
+    {
+      "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197800,
+      "name": "AUNQUE LLEGUE OTRO (feat. Jay Wheeler)",
+      "url": "https://open.spotify.com/track/4KGfuJfd0pDwyJz2tOPkGg"
     },
     {
       "album": {
@@ -2694,7 +2742,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 160606,
       "name": "Borojo",
       "url": "https://open.spotify.com/track/2NoiG2hVkxifpZ4zvF3Fek"
@@ -3508,7 +3556,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 154764,
       "name": "CALOL",
       "url": "https://open.spotify.com/track/3SctB7hSMdGpjs6B6GACd1"
@@ -5039,6 +5087,32 @@
     },
     {
       "album": {
+        "name": "Cristalina",
+        "url": "https://open.spotify.com/album/6HASLmK5MjT2CWLHjERBK3"
+      },
+      "artists": [
+        {
+          "name": "Dostrescinco",
+          "url": "https://open.spotify.com/artist/5HgYp4LTsgdeeclzVlrtfO"
+        },
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "BALTA",
+          "url": "https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210785,
+      "name": "Cristalina",
+      "url": "https://open.spotify.com/track/2ZHNyCDwtKIotmE2mpN8nM"
+    },
+    {
+      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
       },
@@ -6255,6 +6329,28 @@
     },
     {
       "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215946,
+      "name": "DINERO y FAMA (feat. Omar Montes)",
+      "url": "https://open.spotify.com/track/3VPRxZK8k2Al2VwEVaDnYC"
+    },
+    {
+      "album": {
         "name": "El Sistema",
         "url": "https://open.spotify.com/album/0kDg1ceIubRuJHXyIRGrBM"
       },
@@ -6446,7 +6542,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 155744,
       "name": "Dos Pa Uno",
       "url": "https://open.spotify.com/track/79JeRe6GWIGwHquIuBIfDq"
@@ -6652,6 +6748,24 @@
       "duration_ms": 254705,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+    },
+    {
+      "album": {
+        "name": "D\u00edmelo Mike",
+        "url": "https://open.spotify.com/album/41WR10toKUqWeWMACVJXzK"
+      },
+      "artists": [
+        {
+          "name": "Jambene",
+          "url": "https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "D\u00edmelo Mike",
+      "url": "https://open.spotify.com/track/4d2x3rUeiEbizZOqJdICWs"
     },
     {
       "album": {
@@ -10679,6 +10793,32 @@
     },
     {
       "album": {
+        "name": "La Rizos [Dime Si Le Comento a la Pura]",
+        "url": "https://open.spotify.com/album/1Kz5RhfbaMniwhbfJAiXzl"
+      },
+      "artists": [
+        {
+          "name": "Las 2K",
+          "url": "https://open.spotify.com/artist/4BnXLYKwUhFGUmYE5mPNox"
+        },
+        {
+          "name": "Chardo Chardemio",
+          "url": "https://open.spotify.com/artist/6mQDo8xYI31LFjmhIsZEWg"
+        },
+        {
+          "name": "Melody Records International",
+          "url": "https://open.spotify.com/artist/3QqpGThGBmUjiYeF8biKlM"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218119,
+      "name": "La Rizos [Dime Si Le Comento a la Pura]",
+      "url": "https://open.spotify.com/track/7pvqkMcGzRTWU0YpZoJj6U"
+    },
+    {
+      "album": {
         "name": "365 d\u00edas de aguante",
         "url": "https://open.spotify.com/album/0XvHJU5yu7UYMq9zejttcC"
       },
@@ -10938,7 +11078,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 182533,
       "name": "LAS BABIES",
       "url": "https://open.spotify.com/track/1FLv1DI0dv8wqzSzEhg8e5"
@@ -11206,7 +11346,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 221739,
       "name": "LLUVIA DE MAYO",
       "url": "https://open.spotify.com/track/3lGmAio18bOaTWqp4LjX1f"
@@ -11678,7 +11818,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 205783,
       "name": "LUCES LED",
       "url": "https://open.spotify.com/track/4NLUPdPaw05ezEfnzB18tX"
@@ -11700,6 +11840,24 @@
       "duration_ms": 174600,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/6mFLA8Tq4MlnhyUGV7Tf4I"
+    },
+    {
+      "album": {
+        "name": "Anti Social Cool Kid",
+        "url": "https://open.spotify.com/album/6pisGd3CugRqlclq4yp308"
+      },
+      "artists": [
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Luna llena",
+      "url": "https://open.spotify.com/track/6mnfGyPzbzSe8olYGM44pU"
     },
     {
       "album": {
@@ -11915,6 +12073,28 @@
     },
     {
       "album": {
+        "name": "MALVIAJE - N.01",
+        "url": "https://open.spotify.com/album/6wuvEEjAYRkN76kjNdWEnF"
+      },
+      "artists": [
+        {
+          "name": "Rubbini",
+          "url": "https://open.spotify.com/artist/3U3NtpR8zm3TfAdFB8H16m"
+        },
+        {
+          "name": "K\u00e9nsel Tell Them",
+          "url": "https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115588,
+      "name": "MALVIAJE - N.01",
+      "url": "https://open.spotify.com/track/6aybaRqi6uyRdDCD05Wg47"
+    },
+    {
+      "album": {
         "name": "Mama Tetema (feat. Rayvanny)",
         "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
       },
@@ -11952,7 +12132,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 208732,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/1hZVLlcJK9FJ9FLIrUJsCY"
@@ -12146,6 +12326,24 @@
       "duration_ms": 185210,
       "name": "MARTINI",
       "url": "https://open.spotify.com/track/6gsAVrXRQvry6mzcobdULV"
+    },
+    {
+      "album": {
+        "name": "MASN\u00c1",
+        "url": "https://open.spotify.com/album/7gjHE5oA2K47EaBGJwFaCS"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128197,
+      "name": "MASN\u00c1",
+      "url": "https://open.spotify.com/track/6uP5IUPtvZOlNup9FbcjRw"
     },
     {
       "album": {
@@ -13062,7 +13260,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 186277,
       "name": "MIONCA",
       "url": "https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY"
@@ -15017,6 +15215,28 @@
     },
     {
       "album": {
+        "name": "Other Night",
+        "url": "https://open.spotify.com/album/6qXXiBqcMVmLWFSciN0NiK"
+      },
+      "artists": [
+        {
+          "name": "Pumba Dos Santos",
+          "url": "https://open.spotify.com/artist/0gdjAXFsHUD66t1fLVBw5h"
+        },
+        {
+          "name": "Jossman",
+          "url": "https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Other Night",
+      "url": "https://open.spotify.com/track/5wzw7GUSc9pcyJQhV3IGlL"
+    },
+    {
+      "album": {
         "name": "OTRA NOCHE",
         "url": "https://open.spotify.com/album/5uDy85JsRMpZmcc8RhsZmT"
       },
@@ -15592,6 +15812,32 @@
       "duration_ms": 105022,
       "name": "Parcerita",
       "url": "https://open.spotify.com/track/1QlJLYbbNlaJAWOzhKalSz"
+    },
+    {
+      "album": {
+        "name": "Parcerita (Remix)",
+        "url": "https://open.spotify.com/album/4485OAXEhUA6UcjjiSOlFT"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238805,
+      "name": "Parcerita - Remix",
+      "url": "https://open.spotify.com/track/4itmNzm3xL7tOAetohHNQC"
     },
     {
       "album": {
@@ -17774,7 +18020,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 151770,
       "name": "SATA",
       "url": "https://open.spotify.com/track/27fLzQp6M5PWXOAJsXjHoY"
@@ -18024,6 +18270,24 @@
       "duration_ms": 222911,
       "name": "Sex XXX (feat. Jey F)",
       "url": "https://open.spotify.com/track/2aXPqBrjQxb6jnptRkXhA3"
+    },
+    {
+      "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243360,
+      "name": "SEXO DESENFRENADO",
+      "url": "https://open.spotify.com/track/5rJ3GsCYBnIaFdsNKggTiG"
     },
     {
       "album": {
@@ -19902,7 +20166,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 197157,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/4EdHTVBsgld3GU8YdaUglf"
@@ -20337,6 +20601,32 @@
     },
     {
       "album": {
+        "name": "LA CLASSE",
+        "url": "https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT"
+      },
+      "artists": [
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "TRUFFY",
+          "url": "https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "TU FAN",
+      "url": "https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc"
+    },
+    {
+      "album": {
         "name": "Tu Foto",
         "url": "https://open.spotify.com/album/7zzGXen9FvVPBXEW0C34tx"
       },
@@ -20654,7 +20944,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 156734,
       "name": "Un Bezito",
       "url": "https://open.spotify.com/track/1SQfMaCmPULmazsql39NTb"
@@ -20943,6 +21233,24 @@
     },
     {
       "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172240,
+      "name": "VENENOSA",
+      "url": "https://open.spotify.com/track/2OB5m65koEqJlXAIUBh5qq"
+    },
+    {
+      "album": {
         "name": "Vengo De La Brea",
         "url": "https://open.spotify.com/album/4yjqw4nUPFJt0BGSfiyJvO"
       },
@@ -21002,7 +21310,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 87422,
       "name": "VERACRUZ (GPI)",
       "url": "https://open.spotify.com/track/0loHU9t2R14XqF3QIiZQMf"
@@ -21734,6 +22042,28 @@
       "duration_ms": 191250,
       "name": "WOW BB",
       "url": "https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU"
+    },
+    {
+      "album": {
+        "name": "epistolares",
+        "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "www.hotxulito.com",
+      "url": "https://open.spotify.com/track/3ubXujtdHQjKWm8JAAn9OP"
     },
     {
       "album": {

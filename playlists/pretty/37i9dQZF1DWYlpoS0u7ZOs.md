@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover:  ARXX
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,300 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,302 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 7 | [Mother of God](https://open.spotify.com/track/7BgujQxrgPgmEzkpPQI81l) | [Imogen and the Knife](https://open.spotify.com/artist/4nfBa9tw0IWAdtirqqmrbY) | [Mother of God](https://open.spotify.com/album/7hRVnMKaiBRMwWkmEjjqaL) | 3:15 |
 | 8 | [White Rabbit](https://open.spotify.com/track/6aFiKAoUBXHmzJrq0CJllK) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [White Rabbit](https://open.spotify.com/album/0SbeIjE8AtDndPYtsva24g) | 3:04 |
 | 9 | [21st Century Suffragette](https://open.spotify.com/track/1g2T1BUfAh6U7aOioCiRIX) | [GIRLBAND!](https://open.spotify.com/artist/3QSwq9CQMjqe01RtbKqz0F) | [21st Century Suffragette](https://open.spotify.com/album/2C2ISiaMskaxrMTnAQUd1z) | 2:26 |
-| 10 | [How To Walk](https://open.spotify.com/track/6uWU8pvBG7r5tEZDCl7u10) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [How to Walk](https://open.spotify.com/album/1KfhJhQin6N1OnfQMb7nYG) | 3:54 |
+| 10 | [How To Walk](https://open.spotify.com/track/6uWU8pvBG7r5tEZDCl7u10) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [How To Walk](https://open.spotify.com/album/1KfhJhQin6N1OnfQMb7nYG) | 3:54 |
 | 11 | [Stiff Upper Lip](https://open.spotify.com/track/4vOs2zpYvQIaLp1zfU5xJz) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [HAWD THAT](https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA) | 2:34 |
 | 12 | [Don't](https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK) | [Honeyglaze](https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM) | [Don't](https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND) | 2:45 |
 | 13 | [Jayne](https://open.spotify.com/track/5l8OTYkuZnPim46fTv1cwD) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Jayne](https://open.spotify.com/album/0vwds1IJmwx3iWRwlKqaMJ) | 2:27 |

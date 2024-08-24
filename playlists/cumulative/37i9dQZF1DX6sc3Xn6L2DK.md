@@ -4,7 +4,7 @@
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 
-175 songs - 11 hr 6 min
+176 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Rivers That You Cannot See](https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Roped In](https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I) | 3:55 | 2021-12-15 | 2024-04-19 |
 | [Rivers That You Cannot See](https://open.spotify.com/track/1vcUEZRzVuin9vrRimeJh5) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S), [Joel Ford](https://open.spotify.com/artist/5XiDsZ4MdTGfZvUEVBGfiA) | [Rivers That You Cannot See](https://open.spotify.com/album/214aKLtpQeQQ4XT13YYGjE) | 3:55 | 2021-12-15 | 2022-07-29 |
 | [Rodeo](https://open.spotify.com/track/6q6czsVwoeC3mm0oJUwsgd) | [Charlie Marie](https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj) | [Charlie Marie](https://open.spotify.com/album/1Z0wb6vPJo4TlSQs3YU9sp) | 3:41 | 2021-12-15 |  |
-| [Send The Sun](https://open.spotify.com/track/2IUwZ8LaYyx102qKk3KQdI) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 2:57 | 2021-12-15 |  |
+| [Send The Sun](https://open.spotify.com/track/2IUwZ8LaYyx102qKk3KQdI) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 2:57 | 2021-12-15 | 2024-08-24 |
 | [Send The Sun](https://open.spotify.com/track/3elR7QAPM98BgNv08Y4sUC) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/3OZVgu6jFzr2N045WTLWa3) | 2:57 | 2024-03-22 | 2024-04-19 |
 | [She \- 2002 Remaster](https://open.spotify.com/track/7DK9shWJm361lm1ks32axt) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [GP](https://open.spotify.com/album/1PtpuplCBaViRQsJFAdWRf) | 5:01 | 2021-12-15 |  |
 | [Sinner](https://open.spotify.com/track/78T4zsLpaocBw4d5BSkggL) | [Leslie Stevens](https://open.spotify.com/artist/2QFJpQcoOMr1A2m8socQKF) | [Sinner](https://open.spotify.com/album/5kMQ7VRHWqXmsFoGoVHKWl) | 4:22 | 2021-12-15 | 2022-07-28 |
@@ -136,6 +136,7 @@
 | [Stone Me](https://open.spotify.com/track/2mJ1FJkn0Bq23FCQppViGf) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Stone Me](https://open.spotify.com/album/35boLBRmfnqDMshKqpWEHo) | 3:09 | 2021-12-15 | 2022-07-29 |
 | [Strange Fascination](https://open.spotify.com/track/1RQcETFoOBuy8oPHXE8dq7) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/5PnMwyxLM380aAXjAWn5gQ) | 4:18 | 2021-12-15 | 2023-04-14 |
 | [Strange Fascination](https://open.spotify.com/track/2ygPlZkaKoHXKBZ1LXZkXO) | [Chatham County Line](https://open.spotify.com/artist/3M2LPcqyD4PxbOFvtF05R7), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strange Fascination](https://open.spotify.com/album/7kXILLnl4TJxQVfxb04wTs) | 4:18 | 2023-03-28 | 2024-04-19 |
+| [Stratosphere Blues / I Believe in You](https://open.spotify.com/track/4AncNup4cxUqJI2khU1Eq3) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Stratosphere Blues / I Believe In You](https://open.spotify.com/album/6Aebvjv6Si7T8atsk3mxA2) | 5:50 | 2024-08-23 |  |
 | [Sufferer \(Love My Conqueror\)](https://open.spotify.com/track/4OFD7AHoOsVzdJju9DoWQa) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Haw \(Remastered\)](https://open.spotify.com/album/3MW2UxwssKtnWrcEoS8UAl) | 4:49 | 2021-12-15 | 2022-07-29 |
 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 | 2021-12-15 |  |
 | [Sunset Canyon](https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr) | [Foxwarren](https://open.spotify.com/artist/2dPIBvg7mU59dCTGjhPylV), [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx), [Darryl Kissick](https://open.spotify.com/artist/1VbP2VbyU1Ht1wtIAMn4Gc) | [Foxwarren](https://open.spotify.com/album/27NP9XgsqFi9sfV9RZaqOa) | 4:20 | 2022-10-28 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 95025,
+  "num_followers": 95068,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "We'll Be Together Again",
-        "url": "https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL"
+        "name": "Homes",
+        "url": "https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr"
       },
       "artists": [
         {
-          "name": "Pat Martino",
-          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
+          "name": "Gilad Hekselman",
+          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
         }
       ],
-      "duration_ms": 286973,
-      "name": "You Don't Know What Love Is",
-      "url": "https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC"
+      "duration_ms": 431973,
+      "name": "Samba Em Prel\u00f9dio",
+      "url": "https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Homes",
-        "url": "https://open.spotify.com/album/4nL9nYWG8k53BwCMM8hCsr"
+        "name": "We'll Be Together Again",
+        "url": "https://open.spotify.com/album/0ucCtWHiorF9dyVIt9FxNL"
       },
       "artists": [
         {
-          "name": "Gilad Hekselman",
-          "url": "https://open.spotify.com/artist/5oNJNBpUU3zRyC8xHwCnQL"
+          "name": "Pat Martino",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
         }
       ],
-      "duration_ms": 431973,
-      "name": "Samba Em Prel\u00f9dio",
-      "url": "https://open.spotify.com/track/3eDTDeZHbCv9rWgT6HbysX"
+      "duration_ms": 286973,
+      "name": "You Don't Know What Love Is",
+      "url": "https://open.spotify.com/track/7Ca2gDDPC5qR2o2hv39muC"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman Sextet",
-          "url": "https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1"
-        },
-        {
-          "name": "Charlie Christian",
-          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
-        }
-      ],
-      "duration_ms": 182653,
-      "name": "Wholly Cats (feat. Charlie Christian)",
-      "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
       },
@@ -1171,18 +1151,22 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "The Shape Of Things To Come",
-        "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Benny Goodman Sextet",
+          "url": "https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1"
+        },
+        {
+          "name": "Charlie Christian",
+          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
         }
       ],
-      "duration_ms": 347413,
-      "name": "Shape Of Things That Are And Were",
-      "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
+      "duration_ms": 182653,
+      "name": "Wholly Cats (feat. Charlie Christian)",
+      "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1203,6 +1187,22 @@
       "duration_ms": 348066,
       "name": "Polka Dots and Moonbeams",
       "url": "https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "The Shape Of Things To Come",
+        "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 347413,
+      "name": "Shape Of Things That Are And Were",
+      "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "These Times",
-        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Deep Song",
         "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 502440,
       "name": "Brooklyn Sometimes",
       "url": "https://open.spotify.com/track/60AInuGWohJqz9VONqP8u2"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "These Times",
+        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 397106,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1383,42 +1383,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Free Flying",
-        "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
-      },
-      "artists": [
-        {
-          "name": "Fred Hersch",
-          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
-        },
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 384413,
-      "name": "Monk's Dream",
-      "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Bill Frisell, Ron Carter, Paul Motian",
-        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 356533,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Dialogues",
         "url": "https://open.spotify.com/album/7eUx5aXdd0dc8QLgYcEFCG"
       },
@@ -1439,18 +1403,38 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "Heartcore",
-        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
+        "name": "Bill Frisell, Ron Carter, Paul Motian",
+        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
       },
       "artists": [
         {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 371200,
-      "name": "Blue Line",
-      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
+      "duration_ms": 356533,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Free Flying",
+        "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
+      },
+      "artists": [
+        {
+          "name": "Fred Hersch",
+          "url": "https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 384413,
+      "name": "Monk's Dream",
+      "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1475,6 +1459,22 @@
       "duration_ms": 661106,
       "name": "May Dance",
       "url": "https://open.spotify.com/track/7JSzT2mjJgyslo0QyrndSb"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Heartcore",
+        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Blue Line",
+      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1627,6 +1627,30 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
+        "name": "Sight",
+        "url": "https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt"
+      },
+      "artists": [
+        {
+          "name": "Adam Rogers",
+          "url": "https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Clarence Penn",
+          "url": "https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh"
+        }
+      ],
+      "duration_ms": 388546,
+      "name": "Dexterity",
+      "url": "https://open.spotify.com/track/1XWNom3RjC845iyW9vx6X3"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
         "name": "Idlewild",
         "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
       },
@@ -1647,6 +1671,22 @@
       "duration_ms": 448413,
       "name": "Rumspringa",
       "url": "https://open.spotify.com/track/05bdN80ISiWSlVcqpn5BLN"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "Past Present",
+        "url": "https://open.spotify.com/album/5ob5jEthhcZI9lLlEH2Tit"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "duration_ms": 321866,
+      "name": "Enjoy The Future !",
+      "url": "https://open.spotify.com/track/1dWktJdLblH6Vt0SkX2ZoE"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1675,46 +1715,6 @@
       "duration_ms": 443720,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/1kirrr7NRQrqAa9sxdaXiQ"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Past Present",
-        "url": "https://open.spotify.com/album/5ob5jEthhcZI9lLlEH2Tit"
-      },
-      "artists": [
-        {
-          "name": "John Scofield",
-          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
-        }
-      ],
-      "duration_ms": 321866,
-      "name": "Enjoy The Future !",
-      "url": "https://open.spotify.com/track/1dWktJdLblH6Vt0SkX2ZoE"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Sight",
-        "url": "https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt"
-      },
-      "artists": [
-        {
-          "name": "Adam Rogers",
-          "url": "https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH"
-        },
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Clarence Penn",
-          "url": "https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh"
-        }
-      ],
-      "duration_ms": 388546,
-      "name": "Dexterity",
-      "url": "https://open.spotify.com/track/1XWNom3RjC845iyW9vx6X3"
     },
     {
       "added_at": "2024-07-17 12:19:46",
@@ -1779,6 +1779,30 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
+        "name": "Sight",
+        "url": "https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt"
+      },
+      "artists": [
+        {
+          "name": "Adam Rogers",
+          "url": "https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH"
+        },
+        {
+          "name": "John Patitucci",
+          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
+        },
+        {
+          "name": "Clarence Penn",
+          "url": "https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh"
+        }
+      ],
+      "duration_ms": 446493,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
         "name": "Lifestyle2 - Bar Jazz Vol 2 (International Version)",
         "url": "https://open.spotify.com/album/32JF2WnLL2FYQwxHVqGEKp"
       },
@@ -1811,30 +1835,6 @@
       "duration_ms": 324026,
       "name": "Straight No Chaser",
       "url": "https://open.spotify.com/track/0v9zEA8dCjkNja4l75w6NE"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
-        "name": "Sight",
-        "url": "https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt"
-      },
-      "artists": [
-        {
-          "name": "Adam Rogers",
-          "url": "https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH"
-        },
-        {
-          "name": "John Patitucci",
-          "url": "https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH"
-        },
-        {
-          "name": "Clarence Penn",
-          "url": "https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh"
-        }
-      ],
-      "duration_ms": 446493,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR"
     }
   ],
   "unique_name": "Jazz Guitar Classics",

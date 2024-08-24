@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3pXaXS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3pXaXS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3pXaXS)
 
-### [This Is The Police](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pXaXS)
+### [This Is ザ・ポリス](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pXaXS)
 
-> This Is The Police\. Los temas esenciales, todos en una lista.
+> This is ザ・ポリス。アーティストの代表曲をひとつのプレイリストに。
 
 68 songs - 4 hr 16 min
 
@@ -27,7 +27,7 @@
 | [Don't Stand So Close To Me](https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \- Remastered 2003](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:02 | 2022-09-17 |  |
 | [Driven To Tears](https://open.spotify.com/track/3ixzqclumr9K5ZY8xcdo0O) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \- Remastered 2003](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 3:20 | 2022-09-17 |  |
 | [Every Bomb You Make](https://open.spotify.com/track/2k7p1BXc82S8Yj5vKIaTJi) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \- Super Deluxe Edition](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 3:22 | 2024-07-31 |  |
-| [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2022-09-17 |  |
+| [Every Breath You Take](https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \- Remastered 2003](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:13 | 2022-09-17 |  |
 | [Every Breath You Take \- Demo](https://open.spotify.com/track/5JL3i96BobsDBjPB8oC4jG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \- Super Deluxe Edition](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 4:00 | 2024-08-02 |  |
 | [Every Breath You Take \- Live From River Plate Stadium, Buenos Aires](https://open.spotify.com/track/3ZPyWxGouBXvvSBqwNqCMC) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Certifiable \(Live in Buenos Aires\)](https://open.spotify.com/album/2Dz4qhsr2dWMcRLVP7474f) | 6:13 | 2022-09-17 | 2024-08-02 |
 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \- Remastered 2003](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 | 2022-09-17 |  |
@@ -40,7 +40,7 @@
 | [I Burn For You](https://open.spotify.com/track/4vXZgd53m0p0UdFNjEbp2f) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Alternate Sequence\)](https://open.spotify.com/album/2796tQP9Fel4s4zaCX66Oo) | 3:07 | 2023-02-02 |  |
 | [Invisible Sun](https://open.spotify.com/track/5u8Dwz4h41DDOKfeFfexMR) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \- Remastered 2003](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 3:44 | 2022-09-17 |  |
 | [It's Alright For You](https://open.spotify.com/track/5fTI7JCaMRK09WtwG8ZrRK) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \- Remastered 2003](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 3:12 | 2022-09-17 |  |
-| [King Of Pain](https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:59 | 2022-09-17 |  |
+| [King Of Pain](https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \- Remastered 2003](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:59 | 2022-09-17 |  |
 | [Landlord](https://open.spotify.com/track/359ZqVnNGDhkQgMPmQ9dvn) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Flexible Strategies](https://open.spotify.com/album/0AlJc20R0rog9wo3baiMQS) | 3:07 | 2022-09-17 |  |
 | [Loch](https://open.spotify.com/track/2cZsLKCtoJ5rCqknUzDkTi) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \- Super Deluxe Edition](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 1:59 | 2024-08-06 |  |
 | [Man In A Suitcase](https://open.spotify.com/track/6C1ZUDfuIL0xHQeoGSdIMP) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \- Remastered 2003](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 2:18 | 2023-04-19 |  |
@@ -62,9 +62,9 @@
 | [So Lonely](https://open.spotify.com/track/2wnsBaxrmkthIFAm6vqCuX) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \- Remastered 2003](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 4:49 | 2022-09-17 |  |
 | [Someone To Talk To](https://open.spotify.com/track/5kijcc1kZNSFcEboJsDVkF) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \- Super Deluxe Edition](https://open.spotify.com/album/4IdDVb3BntFlGHKrFA5sea) | 3:04 | 2024-07-30 |  |
 | [Spirits In The Material World](https://open.spotify.com/track/4frelkLhC4ATqJH9VGJztu) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \- Remastered 2003](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 2:59 | 2022-09-17 |  |
-| [Synchronicity I](https://open.spotify.com/track/0eZvCQAK6hsPSlcfqzREvB) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 3:23 | 2022-09-17 |  |
-| [Synchronicity II](https://open.spotify.com/track/5ynO8cYFjDwELIZfFHHeYe) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:00 | 2022-09-17 |  |
-| [Tea In The Sahara](https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:19 | 2022-09-17 |  |
+| [Synchronicity I](https://open.spotify.com/track/0eZvCQAK6hsPSlcfqzREvB) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \- Remastered 2003](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 3:23 | 2022-09-17 |  |
+| [Synchronicity II](https://open.spotify.com/track/5ynO8cYFjDwELIZfFHHeYe) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \- Remastered 2003](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:00 | 2022-09-17 |  |
+| [Tea In The Sahara](https://open.spotify.com/track/26R3e7bjY6e9dlgghide8L) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \- Remastered 2003](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 4:19 | 2022-09-17 |  |
 | [The Bed's Too Big Without You](https://open.spotify.com/track/3PfBnnkOf0LbCw2jixUCQG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \- Remastered 2003](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 4:25 | 2022-09-17 |  |
 | [Too Much Information](https://open.spotify.com/track/4Vpc9K0tNyosBkXCjdd9sM) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 3:42 | 2024-02-22 | 2024-07-22 |
 | [Truth Hits Everybody](https://open.spotify.com/track/4pLhVO0JuMiFDSJYDiGP7S) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \- Remastered 2003](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 2:54 | 2022-09-17 |  |
@@ -75,6 +75,6 @@
 | [Walking On The Moon](https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \- Remastered 2003](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 5:00 | 2022-09-17 |  |
 | [We Are the Police](https://open.spotify.com/track/1cNHW91XkcPxisLZuDbc0h) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH), [Adam Driver](https://open.spotify.com/artist/37eFQoWqQ7wwYH8OuLXY9M), [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Annette \(Unlimited Edition\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1qqZSTptKt9zXK4zJkkNPf) | 1:22 | 2022-12-03 |  |
 | [When The World Is Running Down, You Make The Best Of What's Still Around](https://open.spotify.com/track/2e2P8zydI5GtcaVhTkOYa9) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \- Remastered 2003](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 3:36 | 2022-09-17 |  |
-| [Wrapped Around Your Finger \- Remastered 2003](https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered 2003\)](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:13 | 2022-09-17 |  |
+| [Wrapped Around Your Finger \- Remastered 2003](https://open.spotify.com/track/400ZJAUFuEuIGXhr7ie4xf) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \- Remastered 2003](https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY) | 5:13 | 2022-09-17 |  |
 
 \*This playlist was first scraped on 2022-09-18. Prior content cannot be recovered.

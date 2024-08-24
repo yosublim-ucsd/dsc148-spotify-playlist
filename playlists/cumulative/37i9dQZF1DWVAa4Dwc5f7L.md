@@ -2,9 +2,9 @@
 
 ### [Merengue Mania](https://open.spotify.com/playlist/37i9dQZF1DWVAa4Dwc5f7L)
 
-> ¡Hasta las 15! Monster merengue hits! Cover: Chino & Nacho
+> ¡Hasta las 15! Monster merengue hits! Cover: Manuel Turizo
 
-219 songs - 14 hr 52 min
+220 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Pedir Su Mano](https://open.spotify.com/track/5q9VC2VFj8Pak4E2jQnp7I) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS) | 4:55 | 2022-09-09 | 2024-04-19 |
 | [Abracadabra \- Remix](https://open.spotify.com/track/47iIwWo6cxBChV3WbzNOvm) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Multitudes](https://open.spotify.com/album/56bXSFaka1UrXzxPBrQzvG) | 4:27 | 2022-01-20 | 2022-07-28 |
 | [Abusadora](https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:09 | 2022-01-20 |  |
+| [Agua pa las flores](https://open.spotify.com/track/6xDLz0ASdr7awIQfI2fdCv) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Agua pa las flores](https://open.spotify.com/album/3mcFoaCh162OmUQYXolsmR) | 2:42 | 2024-08-23 |  |
 | [Alo](https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Aura](https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap) | 4:38 | 2022-01-20 |  |
 | [Amapola](https://open.spotify.com/track/7lxyCH0EgKyrxzsyZybkDV) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [¡Que Vaina!](https://open.spotify.com/album/4JEpyD4AqWvqtlNlvievRS) | 3:27 | 2022-01-20 |  |
 | [Anoche Hablamos de Amor](https://open.spotify.com/track/0ElCcbF18PWFCLzMwIJU9m) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:31 | 2022-01-20 |  |
@@ -41,7 +42,7 @@
 | [Como Los Rayos Del Sol](https://open.spotify.com/track/3lJX0mmL2kyPER1LMx6jmL) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Como Los Rayos Del Sol](https://open.spotify.com/album/7460LMvayest0YKVf9u052) | 3:36 | 2023-06-09 |  |
 | [Como Yo](https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 | 2022-01-20 |  |
 | [Confundido](https://open.spotify.com/track/56DvXyI2IcAM8cU6uWM0Ei) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ) | [Confundido](https://open.spotify.com/album/3nAOYBaxxla88WMihoA5Ig) | 3:13 | 2024-02-09 |  |
-| [Coqueta y Sabrosa](https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:37 | 2022-01-20 | 2024-08-22 |
+| [Coqueta y Sabrosa](https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [20th Anniversary](https://open.spotify.com/album/2t1J456wqiV9uKy2ILiS7G) | 4:37 | 2022-01-20 |  |
 | [Cuarto de Hotel](https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:58 | 2022-01-20 |  |
 | [Cutibili Pacha](https://open.spotify.com/track/0CcL3XBAzarwDseGAm1IFl) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:40 | 2022-01-20 |  |
 | [De Tu Boca](https://open.spotify.com/track/5B6BhnVnVkf91FrQFJIXib) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ojalá Que Llueva Café](https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc) | 4:41 | 2023-03-10 | 2023-06-10 |
@@ -81,7 +82,7 @@
 | [El Ñeñe](https://open.spotify.com/track/5PMAxw25hEnENaEdTYyJnc) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [El Manda Mas](https://open.spotify.com/album/2Gk1gz1nGwHYIfaFKKoRjy) | 4:50 | 2022-01-20 | 2022-07-27 |
 | [El Ñeñeñe](https://open.spotify.com/track/4787qTzGcugYeibCV3AyRV) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [El Mandamás](https://open.spotify.com/album/5YXoMxJWEFmlC4ePKS0nh3) | 4:50 | 2022-01-20 | 2023-02-25 |
 | [Ella Dice](https://open.spotify.com/track/0CTe09ay5oQbSDU4kWas4S) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Mudanza y Acarreo](https://open.spotify.com/album/3ziq7zy6hcvNHwAmQkLbzG) | 3:31 | 2022-01-20 | 2022-07-29 |
-| [Enamorame](https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax) | [Papi Sanchez](https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq) | [Merengue De hoy](https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo) | 4:24 | 2022-01-20 |  |
+| [Enamorame](https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax) | [Papi Sanchez](https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq) | [Merengue De hoy](https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo) | 4:24 | 2022-01-20 | 2024-08-24 |
 | [Enhorabuena](https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Enhorabuena](https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo) | 2:48 | 2024-08-09 |  |
 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 | 2022-01-20 |  |
 | [Eras Así](https://open.spotify.com/track/19yfOVNBk5X0xNW9sAfkoB) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 3:47 | 2022-01-20 | 2023-03-11 |
@@ -157,7 +158,7 @@
 | [No hay nadie más](https://open.spotify.com/track/7dBAzD9u3759XcFKFQdVaD) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5), [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [No hay nadie más](https://open.spotify.com/album/4isjLmay1QZJFZ3Avh91W4) | 4:32 | 2023-07-14 | 2024-08-10 |
 | [No Llores Por Ella](https://open.spotify.com/track/08Kj8ngwRihIzX2EquAaAN) | [Zafra Negra](https://open.spotify.com/artist/0xBILQlkSWm8I2eQoUpoht) | [Con El Machete En La Mano](https://open.spotify.com/album/1XcyOpJC4vdxfAhOnCL7Ol) | 4:50 | 2022-01-20 |  |
 | [No Me Veran Caer](https://open.spotify.com/track/6Jjr2fRVXtwMQoY94ybm9M) | [Barbosa](https://open.spotify.com/artist/1ZTqusXWkfiTeOciFTpphG) | [No Me Veran Caer](https://open.spotify.com/album/05y07x6dL5mGyy8HVnobt8) | 3:42 | 2022-01-20 |  |
-| [No Somos Iguales](https://open.spotify.com/track/4q8xSTHpmDBeUpqg404Qtn) | [Victor Drija](https://open.spotify.com/artist/4lEhDYnubDB7qOmVWOQoIT), [Sixto Rein](https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7), [Gustavo Elis](https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4) | [No Somos Iguales](https://open.spotify.com/album/2Ikv2DFaTjohR7qqyMyefN) | 3:22 | 2024-05-03 |  |
+| [No Somos Iguales](https://open.spotify.com/track/4q8xSTHpmDBeUpqg404Qtn) | [Victor Drija](https://open.spotify.com/artist/4lEhDYnubDB7qOmVWOQoIT), [Sixto Rein](https://open.spotify.com/artist/2dYSrA999b3VYp5V4J12T7), [Gustavo Elis](https://open.spotify.com/artist/2MmmFlTRNXxmrat4kdglT4) | [No Somos Iguales](https://open.spotify.com/album/2Ikv2DFaTjohR7qqyMyefN) | 3:22 | 2024-05-03 | 2024-08-24 |
 | [No Toy En Ti](https://open.spotify.com/track/0YMxfbonjLYbG4m9iEox7y) | [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1), [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq) | [No Toy En Ti](https://open.spotify.com/album/3ThubO1iZCTdnci01gnpSE) | 2:51 | 2023-03-03 |  |
 | [No Vale la Pena Sufrir \- Pop Version](https://open.spotify.com/track/4f8zYSaFyVA3kd9Bdbk0kK) | [Limi\-T 21](https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7) | [No Vale la Pena Sufrir \(Pop Version\)](https://open.spotify.com/album/6oCXgAq3JmEjDyz9XksiCW) | 2:45 | 2022-01-20 | 2023-03-11 |
 | [Nuestra Cancion](https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:28 | 2022-01-20 |  |

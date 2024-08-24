@@ -2,9 +2,9 @@
 
 ### [New Country Hits \(Country Life\)](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Post Malone
+> From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Thomas Rhett
 
-224 songs - 12 hr 3 min
+225 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 | 2024-01-12 |  |
 | [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/track/6pWmnSmn9EqCRDb2Qg1ngj) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SIX FEET UNDER \(Caleigh’s Song\)](https://open.spotify.com/album/443mTdceNT52OKQv2tnRN8) | 3:11 | 2024-06-08 |  |
 | [So Many Summers](https://open.spotify.com/track/6fLOf6vy3ZXYqJPAETavUb) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [So Many Summers](https://open.spotify.com/album/7LJugehkZRhRCm0RwX1j3M) | 3:44 | 2023-11-03 | 2024-03-02 |
+| [Somethin' 'Bout A Woman](https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 3:30 | 2024-08-23 |  |
 | [Somewhere Between](https://open.spotify.com/track/11N3xwyjdDK8WAWnkvYZO2) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Somewhere Between](https://open.spotify.com/album/4qXo28L1OSKzJIckZk1oej) | 3:40 | 2024-03-01 | 2024-06-09 |
 | [Songs About Whiskey](https://open.spotify.com/track/7crxg59CxoOqSxhHC7I6LY) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 2:53 | 2024-04-19 | 2024-07-30 |
 | [Soul & My Sanity](https://open.spotify.com/track/67TxTJi4FO08ZVfXHt387f) | [Ryan Langdon](https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV) | [Soul & My Sanity](https://open.spotify.com/album/1J8qR59qyGvqtDO8QtI2Oy) | 2:33 | 2024-02-23 | 2024-04-06 |

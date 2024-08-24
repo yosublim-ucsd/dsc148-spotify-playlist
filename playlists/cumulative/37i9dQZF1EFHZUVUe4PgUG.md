@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-166 songs - 8 hr 47 min
+168 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,9 +67,11 @@
 | [Hay Un Feeling](https://open.spotify.com/track/5boc1C7pVFM2Ub1PVqZVk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 3:24 | 2022-06-04 |  |
 | [Hombre](https://open.spotify.com/track/1OPfK9dAwuwxLdu4WzeX27) | [Sammi Sanchez](https://open.spotify.com/artist/1ipFOh7c2lNnTdXJiIKR87) | [Hombre](https://open.spotify.com/album/0sm5DYD1xyeGzIjqDKUeAp) | 3:05 | 2022-06-04 |  |
 | [How Not to Love You](https://open.spotify.com/track/1dFUGlyxSCJUkxjbgFTAZW) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Elevated](https://open.spotify.com/album/2SfDOXc3iFB6kjjBVzuSOo) | 3:18 | 2022-06-04 | 2023-02-16 |
-| [How Not to Love You](https://open.spotify.com/track/2UhjhMMrovpvczG0eYFTUs) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Elevated](https://open.spotify.com/album/7pCN8MnVL6ywouL7p5oeG9) | 3:18 | 2023-12-13 |  |
+| [How Not to Love You](https://open.spotify.com/track/2UhjhMMrovpvczG0eYFTUs) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Elevated](https://open.spotify.com/album/7pCN8MnVL6ywouL7p5oeG9) | 3:18 | 2023-12-13 | 2024-08-24 |
+| [How Not to Love You](https://open.spotify.com/track/5AGdWYFPTY5oCzse6RcLCu) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Elevated](https://open.spotify.com/album/6AzEFiFywJ97kmvuJv3a0r) | 3:18 | 2024-08-23 |  |
 | [How Not to Love You](https://open.spotify.com/track/5LHuyD5JBubppebKuEbaKp) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Elevated](https://open.spotify.com/album/6iuEaQiTz3tq2P4IuDNjfT) | 3:18 | 2023-02-15 | 2023-12-14 |
-| [It Ain't Christmas Without You](https://open.spotify.com/track/2XPl53VXghPKJq0ydiipKA) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [It Ain't Christmas Without You](https://open.spotify.com/album/4eoMH6l7rAGCjpH30CMB6X) | 4:06 | 2024-03-26 |  |
+| [It Ain't Christmas Without You](https://open.spotify.com/track/2XPl53VXghPKJq0ydiipKA) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [It Ain't Christmas Without You](https://open.spotify.com/album/4eoMH6l7rAGCjpH30CMB6X) | 4:06 | 2024-03-26 | 2024-08-24 |
+| [It Ain't Christmas Without You](https://open.spotify.com/track/4mwlbSkDFExZvEhQOqwJex) | [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [It Ain't Christmas Without You](https://open.spotify.com/album/7FH4vYfbjBQx4niggOAh6M) | 4:06 | 2024-08-23 |  |
 | [Japonesa](https://open.spotify.com/track/66coDQwXDOvgKJQ6rqD5vu) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 2:35 | 2022-06-04 |  |
 | [Já é Tarde \(No Más\)](https://open.spotify.com/track/3zOM8olfYjhEY4gARuV8gU) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Cabrera](https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2) | [Já é Tarde \(No Más\)](https://open.spotify.com/album/52XNWdUMP7Ln42XtpKI33y) | 2:29 | 2023-06-22 |  |
 | [Karma](https://open.spotify.com/track/1aD57u2jMh60hE9bhI7sTd) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:14 | 2024-07-06 |  |

@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-169 songs - 9 hr 43 min
+170 songs - 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Dearly Beloved \- KINGDOM HEARTS II Version\-](https://open.spotify.com/track/6Tkn4gwyqVcpU0ecgtU3bw) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS \-HD 2.5 ReMIX\- \(Original Soundtrack\)](https://open.spotify.com/album/6eVWdfj3yizOc8qtEmF00P) | 4:19 | 2023-05-04 |  |
 | [Demacia Rising](https://open.spotify.com/track/6Q6G9OIyiehtUDmSOGCLCF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends Vol\. 1](https://open.spotify.com/album/4pg51OJaG6MGlpRFxWWLpr) | 4:07 | 2021-12-15 |  |
 | [Dianoia](https://open.spotify.com/track/4eKttBFjxz3qF2ByEv5tol) | [Gareth Coker](https://open.spotify.com/artist/1I9Hqy4QnMyVhZwRM2r41B) | [Immortals Fenyx Rising \(Original Game Soundtrack\)](https://open.spotify.com/album/5j30b8wiK6MbEbmxnB8CmI) | 4:24 | 2021-12-15 |  |
+| [Divine Overture \(Main Theme\)](https://open.spotify.com/track/6eXw5tf0oLrJRowzaOetc0) | [Stephen Barton](https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk) | [SMITE 2 \(Official Game Soundtrack\)](https://open.spotify.com/album/3rqJtPHoRHCMQ4iv06UHfk) | 2:49 | 2024-08-23 |  |
 | [Dragonborn](https://open.spotify.com/track/2gaZJDgE71VL9PzzUUlpMg) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 3:55 | 2021-12-15 |  |
 | [EA Sports Football Theme](https://open.spotify.com/track/3CWHoLCOIbK3cYC6okUMeU) | [Bleeding Fingers](https://open.spotify.com/artist/1UpmxFaO2uAw5IPK1JUxib) | [EA Sports Football Theme \(Original Game Soundtrack\)](https://open.spotify.com/album/5NQSOHUwU3lP8Y0NDpr7qT) | 0:50 | 2024-08-09 |  |
 | [Elden Ring](https://open.spotify.com/track/2iiJOgkKOCyb7ZPeqUNpud) | [Tsukasa Saitoh](https://open.spotify.com/artist/4iHfF8FJmOcgYAhnhqLqaD) | [Elden Ring \(Original Soundtrack\)](https://open.spotify.com/album/6WWL32UxPnjrIWlgLdzoir) | 1:38 | 2022-09-09 |  |

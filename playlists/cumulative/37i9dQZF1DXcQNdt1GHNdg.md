@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-82 songs - 4 hr 11 min
+83 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Born to Shine](https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:33 | 2023-07-18 |  |
 | [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 | 2023-07-18 | 2024-02-03 |
 | [Chorni](https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Chorni](https://open.spotify.com/album/5zGHPCBVVX3L7UADaS2AQ8) | 3:01 | 2023-07-18 |  |
-| [Compulsory](https://open.spotify.com/track/326eZ9C7qpDj6NSsEiKvoW) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:36 | 2023-07-18 |  |
+| [Compulsory](https://open.spotify.com/track/326eZ9C7qpDj6NSsEiKvoW) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:36 | 2023-07-18 | 2024-08-24 |
 | [Court](https://open.spotify.com/track/1weINSMgJOVHx4apkdMr1C) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Court](https://open.spotify.com/album/1sWveBnE9UEJXH3rlFqulY) | 2:47 | 2023-07-18 | 2023-11-18 |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2023-07-18 |  |
 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 | 2023-09-04 |  |
@@ -70,6 +70,7 @@
 | [Ragde](https://open.spotify.com/track/6xLL74gaBomkzTvXmZLIEb) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Ragde](https://open.spotify.com/album/697aEI4GlUznHZeZYHT5ZQ) | 2:11 | 2024-06-10 | 2024-07-02 |
 | [Rank 1](https://open.spotify.com/track/4JrKDRAIljTReNP1xfU88p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 2:59 | 2023-07-18 | 2024-04-19 |
 | [Rank 1](https://open.spotify.com/track/7piFoYCgGN0w8vxukuCrvP) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Never Before](https://open.spotify.com/album/3YFTFdg3bhcB8XAg85Rugh) | 2:59 | 2024-04-06 |  |
+| [Richie Rich](https://open.spotify.com/track/5OxAMzahUJ6vfpKe1sMSO4) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ), [Straight Bank](https://open.spotify.com/artist/6MmvoeQxFPr8VWERxYdE5f) | [In Your Thoughts](https://open.spotify.com/album/6YAIfEP5AwiMV7pFt6gVGg) | 3:02 | 2024-08-23 |  |
 | [RODE COLLEGE \- From "Rode College"](https://open.spotify.com/track/3YacK9PyNjxmYWkTDg4N1R) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Matte Ala](https://open.spotify.com/artist/7kFGiiWwaSc4lu1C22TH7a), [Real Sach](https://open.spotify.com/artist/3SaiIyh09WpsbDlMFPz3ix) | [RODE COLLEGE \(From "Rode College"\)](https://open.spotify.com/album/1thGIzOKI2h1OLyQLN9RzB) | 2:52 | 2024-06-03 | 2024-06-11 |
 | [Rubicon Drill](https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Forever](https://open.spotify.com/album/4qlI6YM61j9NeGe832mExq) | 3:08 | 2023-07-18 |  |
 | [Rumours](https://open.spotify.com/track/72dpLcvlQNZdDecynf9t7Y) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Rumours](https://open.spotify.com/album/0vgsIj6NEPotka3GEd4aOi) | 2:20 | 2024-07-26 |  |

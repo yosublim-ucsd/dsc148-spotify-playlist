@@ -1,12 +1,12 @@
 {
-  "description": "This is Banda Rafaga. The essential tracks, all in one playlist.",
-  "num_followers": 7288,
+  "description": "This Is Banda Rafaga. Los temas esenciales, todos en una lista.",
+  "num_followers": 7293,
   "original_name": "This Is Banda Rafaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABEMfVXQsgt55rGQpmOzLnj",
+  "snapshot_id": "ZsZ/gAAAAAAXK9zB4sPJhYqGeyoZN1rZ",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy de Carne Y Hueso",
-        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 156013,
-      "name": "La Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/5CoCN3Ll8Ms6vP8cYqWDGO"
+      "duration_ms": 217186,
+      "name": "Hoja en Blanco",
+      "url": "https://open.spotify.com/track/4uOfm8oGMeY0oagM3IHZGI"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Ellas",
-        "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
+        "name": "Soy de Carne Y Hueso",
+        "url": "https://open.spotify.com/album/0odEw39wF4LrGZdSxf9urQ"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 217186,
-      "name": "Hoja en Blanco",
-      "url": "https://open.spotify.com/track/4uOfm8oGMeY0oagM3IHZGI"
+      "duration_ms": 156013,
+      "name": "La Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/5CoCN3Ll8Ms6vP8cYqWDGO"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
-        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Popotitos - En Vivo",
-      "url": "https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg"
+      "duration_ms": 157760,
+      "name": "No Hay Vacante",
+      "url": "https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LLegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 157760,
-      "name": "No Hay Vacante",
-      "url": "https://open.spotify.com/track/1dLLZZ5dt0YfSHjIQ24rB1"
+      "duration_ms": 223000,
+      "name": "Popotitos - En Vivo",
+      "url": "https://open.spotify.com/track/0Pgt6d2p8pc53Qg7iwaqDg"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lagrimas Del Corazon",
-        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
+        "name": "LLegaste A Mi Vida",
+        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 210760,
-      "name": "Lo Aprendi De Ti",
-      "url": "https://open.spotify.com/track/6RsO5L8zxXLM9EWmKmti8p"
+      "duration_ms": 186546,
+      "name": "Amigo Mesero",
+      "url": "https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LLegaste A Mi Vida",
-        "url": "https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb"
+        "name": "Lagrimas Del Corazon",
+        "url": "https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 186546,
-      "name": "Amigo Mesero",
-      "url": "https://open.spotify.com/track/3xy3UDy7Yqv60LAjM8AuAB"
+      "duration_ms": 210760,
+      "name": "Lo Aprendi De Ti",
+      "url": "https://open.spotify.com/track/6RsO5L8zxXLM9EWmKmti8p"
     },
     {
       "added_at": null,
@@ -552,25 +552,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 193720,
-      "name": "Para Ellas",
-      "url": "https://open.spotify.com/track/0NB5GkAROV33z5pDY7GGpu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 185887,
-      "name": "No Llega el Olvido",
-      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
+      "duration_ms": 184653,
+      "name": "Mi Amor Bendito",
+      "url": "https://open.spotify.com/track/5gIPwxhkCDameLVPiykU8n"
     },
     {
       "added_at": null,
@@ -587,6 +571,22 @@
       "duration_ms": 262666,
       "name": "Bota Y Tambora",
       "url": "https://open.spotify.com/track/6Xr8tCaYqmOhnbicXfZJHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 185887,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW"
     },
     {
       "added_at": null,
@@ -616,25 +616,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 184653,
-      "name": "Mi Amor Bendito",
-      "url": "https://open.spotify.com/track/5gIPwxhkCDameLVPiykU8n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
-        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 357500,
-      "name": "Frios Enemigos/noche de Banda - En Vivo",
-      "url": "https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3"
+      "duration_ms": 193720,
+      "name": "Para Ellas",
+      "url": "https://open.spotify.com/track/0NB5GkAROV33z5pDY7GGpu"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 357500,
+      "name": "Frios Enemigos/noche de Banda - En Vivo",
+      "url": "https://open.spotify.com/track/3awZnjk2w7QRDXYudcvBA3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Ellas",
         "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
       },
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
-        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
+        "name": "Banda Rafaga en Vivo! , Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 175250,
-      "name": "Quiero Que Me Vuelas Queder - En Vivo",
-      "url": "https://open.spotify.com/track/2DooiJlsHLN4pUnxHgAkqK"
+      "duration_ms": 167020,
+      "name": "Morenita - En Vivo",
+      "url": "https://open.spotify.com/track/5JE8FvmSOnudMDgbcLk4yZ"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Rafaga en Vivo! , Vol.2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI"
+        "name": "Banda Rafaga en Vivo! Desde Tepic, Nayarit",
+        "url": "https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
         }
       ],
-      "duration_ms": 167020,
-      "name": "Morenita - En Vivo",
-      "url": "https://open.spotify.com/track/5JE8FvmSOnudMDgbcLk4yZ"
+      "duration_ms": 175250,
+      "name": "Quiero Que Me Vuelas Queder - En Vivo",
+      "url": "https://open.spotify.com/track/2DooiJlsHLN4pUnxHgAkqK"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Medias Negras",
-        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
-      },
-      "artists": [
-        {
-          "name": "Banda Rafaga",
-          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
-        }
-      ],
-      "duration_ms": 201613,
-      "name": "Se Termino Lo Nuestro",
-      "url": "https://open.spotify.com/track/6VNEA24QBwFvuDIZw6zrYH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Banda Rafaga en Vivo! , Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 270351,
       "name": "No Vas a Creer/Te Preguntaras - En Vivo",
       "url": "https://open.spotify.com/track/3puernBYuD2jnlq3732oG0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Medias Negras",
+        "url": "https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "duration_ms": 201613,
+      "name": "Se Termino Lo Nuestro",
+      "url": "https://open.spotify.com/track/6VNEA24QBwFvuDIZw6zrYH"
     },
     {
       "added_at": null,

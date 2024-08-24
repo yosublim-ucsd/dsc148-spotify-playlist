@@ -1,6 +1,6 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 649659,
+  "num_followers": 649976,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-09 21:20:54",
       "album": {
-        "name": "Me Gustan Las Viejas Buenas",
-        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
-      },
-      "artists": [
-        {
-          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
-          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "El Penal De La Loma",
-      "url": "https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF"
-    },
-    {
-      "added_at": "2024-07-09 21:20:54",
-      "album": {
         "name": "De Coraz\u00f3n Norte\u00f1o",
         "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 254706,
       "name": "Sim\u00f3n Blanco",
       "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
+    },
+    {
+      "added_at": "2024-07-09 21:20:54",
+      "album": {
+        "name": "Me Gustan Las Viejas Buenas",
+        "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
+      },
+      "artists": [
+        {
+          "name": "La Numero 1 Banda Jerez De Marco A. Flores",
+          "url": "https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "El Penal De La Loma",
+      "url": "https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF"
     },
     {
       "added_at": "2024-07-09 21:20:54",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-09 21:20:54",
       "album": {
-        "name": "Corridos Y Tragedias De La Frontera",
-        "url": "https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 221719,
-      "name": "Corrido de Macario Leyva",
-      "url": "https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3"
-    },
-    {
-      "added_at": "2024-07-09 21:20:54",
-      "album": {
         "name": "Vicente Fern\u00e1ndez Y Sus Corridos Consentidos",
         "url": "https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 146213,
       "name": "Luis Pulido",
       "url": "https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e"
+    },
+    {
+      "added_at": "2024-07-09 21:20:54",
+      "album": {
+        "name": "Corridos Y Tragedias De La Frontera",
+        "url": "https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 221719,
+      "name": "Corrido de Macario Leyva",
+      "url": "https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3"
     },
     {
       "added_at": "2024-07-09 21:20:54",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-07-09 21:20:54",
       "album": {
-        "name": "Nieves De Enero",
-        "url": "https://open.spotify.com/album/3Poo7dfLjlhV1kqNdzmyBC"
+        "name": "El Cartel De Los Cielos",
+        "url": "https://open.spotify.com/album/1TSt8F0r3kjDNlz1QztfWT"
       },
       "artists": [
         {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
         }
       ],
-      "duration_ms": 190496,
-      "name": "El Crimen De Culiacan",
-      "url": "https://open.spotify.com/track/2do8YtW8qv4gVlCZcXKkt4"
+      "duration_ms": 236226,
+      "name": "Regalo Caro",
+      "url": "https://open.spotify.com/track/5VQGHYoJGFFUUZFu12grRF"
     }
   ],
   "unique_name": "Corridos de Anta\u00f1o",

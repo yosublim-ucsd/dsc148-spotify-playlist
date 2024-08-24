@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Noeline Hofmann",
+  "description": "The home of Canadian country music. Cover: Madeline Merlo & Dustin Lynch",
   "name": "North Country",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 158918,
       "name": "Better Mistake",
       "url": "https://open.spotify.com/track/2knmYl21AiF8yljirioZGw"
@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Five Beers From Now",
+        "url": "https://open.spotify.com/album/5WrD6JrbGQNvoirJTTnuiP"
+      },
+      "artists": [
+        {
+          "name": "Riley Taylor",
+          "url": "https://open.spotify.com/artist/6dmjczHicFnkqGNmDmjku9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "Five Beers From Now",
+      "url": "https://open.spotify.com/track/6LGAKE2ueo1S3K74wST2zU"
+    },
+    {
+      "album": {
         "name": "Get Outta My Dreams, Get into My Truck",
         "url": "https://open.spotify.com/album/4FgylBunFrYAdWkEAuQPXz"
       },
@@ -666,6 +684,42 @@
       "duration_ms": 167386,
       "name": "Got It",
       "url": "https://open.spotify.com/track/1hJzdE1N69zSEmG5VIhEwy"
+    },
+    {
+      "album": {
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/3y6XWLi6AnYqkdOhopkLe3"
+      },
+      "artists": [
+        {
+          "name": "Parker Graye",
+          "url": "https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219662,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/5GiOwpuHSFeh0snoOIGnaH"
+    },
+    {
+      "album": {
+        "name": "He's The One",
+        "url": "https://open.spotify.com/album/5oaGk1fr7NQxfHEMccMFFT"
+      },
+      "artists": [
+        {
+          "name": "Savannah Jade",
+          "url": "https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193789,
+      "name": "He's The One",
+      "url": "https://open.spotify.com/track/2UpfodsBum0ZsQEo10FWXb"
     },
     {
       "album": {
@@ -1406,7 +1460,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 228101,
       "name": "River Runnin' Wide",
       "url": "https://open.spotify.com/track/0SbrzOOLejgBYDqg9CFw6m"

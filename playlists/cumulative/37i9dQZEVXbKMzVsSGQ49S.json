@@ -7092,7 +7092,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 187007,
       "name": "CVPT",
       "url": "https://open.spotify.com/track/4M578llmwxTl2v5j3CIg84"
@@ -16802,7 +16802,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 157611,
       "name": "Hvert ertu a\u00f0 fara?",
       "url": "https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ"
@@ -25010,6 +25010,24 @@
       "duration_ms": 195950,
       "name": "N95",
       "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+    },
+    {
+      "album": {
+        "name": "Limite",
+        "url": "https://open.spotify.com/album/216kGnEeCYRu8Bc9lbSyeQ"
+      },
+      "artists": [
+        {
+          "name": "Pisada 100 Limite",
+          "url": "https://open.spotify.com/artist/4v9o0gcNGJZdcLknCWt70j"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165181,
+      "name": "Na Carro\u00e7a",
+      "url": "https://open.spotify.com/track/5ss4r6hz2gZIMgf1tky2mu"
     },
     {
       "album": {
@@ -36320,7 +36338,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -37078,7 +37096,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
@@ -37096,7 +37114,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
@@ -40318,7 +40336,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -42372,7 +42390,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 194692,
       "name": "\u00d6skubakki",
       "url": "https://open.spotify.com/track/04C8FsuH5xW4NI11YZcEHj"

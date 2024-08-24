@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ?si=FYxpcz9nQIan29ux-OyxGg\">Hugo Pooe</a>",
+  "description": "The best Indie sounds from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v?si=wBqRig7eQiGfN35dPviv7g\">December Streets</a>",
   "name": "Indie GO",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 205263,
       "name": "Add Up My Love",
       "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
@@ -2663,6 +2663,42 @@
     },
     {
       "album": {
+        "name": "Close to Dying",
+        "url": "https://open.spotify.com/album/5YVuajI1Qk3oSfE3hfFTRM"
+      },
+      "artists": [
+        {
+          "name": "MAIH",
+          "url": "https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180819,
+      "name": "Close to Dying",
+      "url": "https://open.spotify.com/track/4IpTVJKJU7Em4INGFY07EG"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/521oIz6XtscH69ZuEhlvdu"
+      },
+      "artists": [
+        {
+          "name": "Face and the Features",
+          "url": "https://open.spotify.com/artist/16vvbLv35opMOVyRC8x5c9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183500,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5qm0BllxwXCJaFDMsO5XfH"
+    },
+    {
+      "album": {
         "name": "cold",
         "url": "https://open.spotify.com/album/3sq9US2YY0YruWQbvV8Yfo"
       },
@@ -3645,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "DON'T WANNA HEAR THAT SONG ANYMORE",
+        "url": "https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "DON'T WANNA HEAR THAT SONG ANYMORE",
+      "url": "https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC"
+    },
+    {
+      "album": {
         "name": "don't want u to die",
         "url": "https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB"
       },
@@ -4009,6 +4063,24 @@
     },
     {
       "album": {
+        "name": "EMP",
+        "url": "https://open.spotify.com/album/1Tu97xvthnEdDFoymh5e9P"
+      },
+      "artists": [
+        {
+          "name": "TRIIIP",
+          "url": "https://open.spotify.com/artist/2GGLj4Ng4Yawj7oj18QCzA"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "EMP",
+      "url": "https://open.spotify.com/track/5WCIpzfLjC8hH8ARcCSlQt"
+    },
+    {
+      "album": {
         "name": "eMtunzini",
         "url": "https://open.spotify.com/album/2TEOzmQFEnzigADnPLoMPm"
       },
@@ -4211,6 +4283,32 @@
     },
     {
       "album": {
+        "name": "fall into place",
+        "url": "https://open.spotify.com/album/52yws9V4uJtcfwg98W8fap"
+      },
+      "artists": [
+        {
+          "name": "Mookigang",
+          "url": "https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO"
+        },
+        {
+          "name": "raihan",
+          "url": "https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD"
+        },
+        {
+          "name": "oh haven",
+          "url": "https://open.spotify.com/artist/454F3LMjDK0L51zDLsQDMe"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117777,
+      "name": "fall into place",
+      "url": "https://open.spotify.com/track/2sFHw6ZJaxqL56CuOtXqAt"
+    },
+    {
+      "album": {
         "name": "Falling For You",
         "url": "https://open.spotify.com/album/7IQueyGAvp9urNG0tt0UhR"
       },
@@ -4240,7 +4338,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 176640,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/3jgQY8e7ov3PYBZ4Il8SZl"
@@ -6344,7 +6442,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 145263,
       "name": "I'll Follow On",
       "url": "https://open.spotify.com/track/2uLUJJZf9QQq9c4jHADBig"
@@ -6550,6 +6648,24 @@
       "duration_ms": 190005,
       "name": "In Rome",
       "url": "https://open.spotify.com/track/0hEhSq1LChxU3J4zlfknt5"
+    },
+    {
+      "album": {
+        "name": "In The Modern World",
+        "url": "https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266884,
+      "name": "In The Modern World",
+      "url": "https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h"
     },
     {
       "album": {
@@ -7058,7 +7174,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 166334,
       "name": "Keep On Rollin'",
       "url": "https://open.spotify.com/track/06IJd0vms8dzPpYqWEnB7Q"
@@ -7491,6 +7607,24 @@
     },
     {
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/56DN3d8LzeS29Jv3KQuCwx"
+      },
+      "artists": [
+        {
+          "name": "Justin Prins",
+          "url": "https://open.spotify.com/artist/7BxTlyY52WY7TaBkNOWP0C"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243243,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/5MJGUbDWdGsnnAjP6CR8uY"
+    },
+    {
+      "album": {
         "name": "Subtle Affection",
         "url": "https://open.spotify.com/album/46QpadPmdS38FxqUm7vDDh"
       },
@@ -7774,7 +7908,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 213000,
       "name": "LOVE IS OVERRATED",
       "url": "https://open.spotify.com/track/32aeAbj5YQ3xpfsELu1hze"
@@ -8273,6 +8407,24 @@
     },
     {
       "album": {
+        "name": "Illuminator",
+        "url": "https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z"
+      },
+      "artists": [
+        {
+          "name": "GIFT",
+          "url": "https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268772,
+      "name": "Milestones",
+      "url": "https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b"
+    },
+    {
+      "album": {
         "name": "Milk",
         "url": "https://open.spotify.com/album/17fH9Ubi1ovMNEOVUAt47o"
       },
@@ -8356,7 +8508,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 262285,
       "name": "MOMS PRAYING",
       "url": "https://open.spotify.com/track/2dATdHdpCbTJQR4EtcbhMn"
@@ -8804,6 +8956,24 @@
       "duration_ms": 277293,
       "name": "Nectarines",
       "url": "https://open.spotify.com/track/6jziuXsD78INluNGcWaQr4"
+    },
+    {
+      "album": {
+        "name": "Nevermind.",
+        "url": "https://open.spotify.com/album/5vTrYfOMYC8Hh5Vpc9sjnY"
+      },
+      "artists": [
+        {
+          "name": "Leomile",
+          "url": "https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151408,
+      "name": "Nevermind.",
+      "url": "https://open.spotify.com/track/31lU9LGAQ9UhrDBTwdvNm5"
     },
     {
       "album": {
@@ -9300,7 +9470,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 236666,
       "name": "Obsidian",
       "url": "https://open.spotify.com/track/2ymxwPco6JogE7kLLf17Nm"
@@ -9675,6 +9845,28 @@
     },
     {
       "album": {
+        "name": "Organs",
+        "url": "https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc"
+      },
+      "artists": [
+        {
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
+        },
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287403,
+      "name": "Organs",
+      "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
+    },
+    {
+      "album": {
         "name": "Otherlife",
         "url": "https://open.spotify.com/album/6xLV395ycMaeT33LQhNPN5"
       },
@@ -9802,7 +9994,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 230500,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/4iTyAQ2QxKbU1crRidu4QA"
@@ -12056,7 +12248,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 213116,
       "name": "Soup",
       "url": "https://open.spotify.com/track/1Wi1XpdZzGVIdRTzlTrIEF"
@@ -13057,6 +13249,24 @@
     },
     {
       "album": {
+        "name": "When a Thought Grows Wings",
+        "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223929,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke"
+    },
+    {
+      "album": {
         "name": "Gold Past Life",
         "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
       },
@@ -13122,7 +13332,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 250174,
       "name": "The Depth Of An Answer",
       "url": "https://open.spotify.com/track/4Ctd50Er8N3MIOirhnJl6W"
@@ -13259,6 +13469,24 @@
     },
     {
       "album": {
+        "name": "The Meaning",
+        "url": "https://open.spotify.com/album/4oMSLkDWDglOE9P2OLV4p3"
+      },
+      "artists": [
+        {
+          "name": "December Streets",
+          "url": "https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167520,
+      "name": "The Meaning",
+      "url": "https://open.spotify.com/track/1YdoaaMS7GZQOosDl2hR8K"
+    },
+    {
+      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -13349,6 +13577,24 @@
     },
     {
       "album": {
+        "name": "The Story I've Told",
+        "url": "https://open.spotify.com/album/4P7rxhUnxd8qhO0fGCMiHM"
+      },
+      "artists": [
+        {
+          "name": "A Year on Earth",
+          "url": "https://open.spotify.com/artist/3fUsegKYycWDZOspXioFO7"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218933,
+      "name": "The Story I've Told",
+      "url": "https://open.spotify.com/track/0bKvBldhrGDTEmZrwAN9bO"
+    },
+    {
+      "album": {
         "name": "The Things We Dare Not Tell",
         "url": "https://open.spotify.com/album/2obV1R1hywZW5riJG3Ys5U"
       },
@@ -13414,7 +13660,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 270934,
       "name": "the warmth",
       "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
@@ -14252,7 +14498,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 176743,
       "name": "Viens on prend le temps",
       "url": "https://open.spotify.com/track/4DzyOw0ACdOdOqzh6suSWj"
@@ -14476,7 +14722,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 189346,
       "name": "Walking on a Dream",
       "url": "https://open.spotify.com/track/7wNcSxmtSZmdHwrJ0wUvsU"

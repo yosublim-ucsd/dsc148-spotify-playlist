@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Kelvin e Gustavo",
+  "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Jennifer & Stephany, Luan Pereira",
   "name": "Gera\u00e7\u00e3o Sertaneja",
   "tracks": [
     {
@@ -249,6 +249,28 @@
     },
     {
       "album": {
+        "name": "Blus\u00e3o - Ao Vivo",
+        "url": "https://open.spotify.com/album/6iCs5eDoJN23kTTDBx3czc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer e Stephany",
+          "url": "https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164321,
+      "name": "Blus\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/7apnKYlZfgsXLaSyZIL7s7"
+    },
+    {
+      "album": {
         "name": "Gah na Chacrinha - Ao Vivo",
         "url": "https://open.spotify.com/album/5HSxzXYQxJfDcBRlMrGatI"
       },
@@ -304,6 +326,24 @@
       "duration_ms": 156218,
       "name": "Boca Solta",
       "url": "https://open.spotify.com/track/7HwFEByDQS8Xg9z7FW9Gh2"
+    },
+    {
+      "album": {
+        "name": "Casinha",
+        "url": "https://open.spotify.com/album/5skYgk4NPduWPjiDNuuLQ6"
+      },
+      "artists": [
+        {
+          "name": "Sandro e C\u00edcero",
+          "url": "https://open.spotify.com/artist/3asFzvfQUWzmAJQtWoL1u5"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180605,
+      "name": "Casinha",
+      "url": "https://open.spotify.com/track/7pi1FjqCvv3wVr55MsDPqP"
     },
     {
       "album": {
@@ -468,7 +508,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 160442,
       "name": "Deixa Ela Falar - Ao Vivo",
       "url": "https://open.spotify.com/track/2X6wELEYoNbrQgfeEZ2zo7"
@@ -1338,7 +1378,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 173066,
       "name": "N\u00e3o Sei o Que L\u00e1 / S\u00f3 Fazendo Amor - Batid\u00e3o & Terer\u00e9, Ao Vivo",
       "url": "https://open.spotify.com/track/1JeyJyzInLEcczWkSiTSsY"
@@ -2022,7 +2062,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 180326,
       "name": "Suposta Culpa - Ao Vivo",
       "url": "https://open.spotify.com/track/4GdO6VlgD8F7n4hOB33bj8"
@@ -2088,6 +2128,28 @@
       "duration_ms": 153511,
       "name": "Terapeuta - Ao Vivo",
       "url": "https://open.spotify.com/track/1ly43YD4MNXwcr7a3282gc"
+    },
+    {
+      "album": {
+        "name": "Tercinho",
+        "url": "https://open.spotify.com/album/3KuEzSwSRDPNqad5lIhExo"
+      },
+      "artists": [
+        {
+          "name": "Pep\u00ea Figueiredo",
+          "url": "https://open.spotify.com/artist/1mjXgySVuyBfkqyIjkVkZW"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174226,
+      "name": "Tercinho",
+      "url": "https://open.spotify.com/track/09lpc8MwMNJoNKH8mvvnTM"
     },
     {
       "album": {
@@ -2204,7 +2266,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 228026,
       "name": "Vai Descendo - Ao Vivo",
       "url": "https://open.spotify.com/track/2niXqu7FF1ujNbYh1loM5g"

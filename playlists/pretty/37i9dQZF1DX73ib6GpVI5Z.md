@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 
 > Enjoy music from legendary "Anpanman" series! /「それいけ!アンパンマン」から数々の名曲を1つのプレイリストに。<br/>\(C\)やなせたかし／フレーベル館・TMS・NTV
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,890 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,907 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73ib6GpVI5Z.md) - [plain]
 | 16 | [ダ ダン ダン！](https://open.spotify.com/track/1tymhkUGldSZJGUAog9Zph) | [中尾隆聖 \(ばいきんまん\)](https://open.spotify.com/artist/468rrFUOTJ2Oa7Wox9ptho) | [それいけ！アンパンマン映画&テレビ25年記念作品 あつまれ！ムービーソングス](https://open.spotify.com/album/5iXfT2ND1lOyJpsxzccgwP) | 3:22 |
 | 17 | [ナガネギフラメンコ](https://open.spotify.com/track/3soDJhaK8FuVPBIBcCZTs1) | [大塚明夫 \(ナガネギマン\)](https://open.spotify.com/artist/24zSbaZ80y7dHaE2coIWcl) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 3:31 |
 | 18 | [ドキンのララバイ](https://open.spotify.com/track/13ti30uTQEkVOwiMpjQl8y) | [鶴ひろみ \(ドキンちゃん\)](https://open.spotify.com/artist/11sAsEvOfzI5pzzToXzHWG) | [それいけ！アンパンマン げんき100ばいソングス ドキンちゃん](https://open.spotify.com/album/5wFdjDwHQqafk2KyhVDcAT) | 3:27 |
-| 19 | [生きてるパンをつくろう ～Brand New ver.](https://open.spotify.com/track/2QmuiZyfFn2hC8uUFIFIPQ) | [増岡弘 \(ジャムおじさん\)](https://open.spotify.com/artist/5JJqzE4zHvt6D7LDD0HMbh) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:18 |
-| 20 | [パンナのパンチ](https://open.spotify.com/track/13gmOtnzjawjmcN3yfRt7j) | [かないみか \(メロンパンナ\)](https://open.spotify.com/artist/36tydnwuR4Qgh5J6s93HTp) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:28 |
+| 19 | [パンナのパンチ](https://open.spotify.com/track/13gmOtnzjawjmcN3yfRt7j) | [かないみか \(メロンパンナ\)](https://open.spotify.com/artist/36tydnwuR4Qgh5J6s93HTp) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:28 |
+| 20 | [生きてるパンをつくろう ～Brand New ver.](https://open.spotify.com/track/2QmuiZyfFn2hC8uUFIFIPQ) | [増岡弘 \(ジャムおじさん\)](https://open.spotify.com/artist/5JJqzE4zHvt6D7LDD0HMbh) | [それいけ！アンパンマン ベストヒット'14](https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92) | 2:18 |
 | 21 | [Do You Know カツドン？](https://open.spotify.com/track/3aRiNq6y0pPSltzmhHIJOv) | [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2) | [それいけ！アンパンマン ベストヒット'15](https://open.spotify.com/album/5zO6exCqlJ1HX4co8xfcb6) | 2:58 |
 | 22 | [いけいけ！どんぶりまんトリオ](https://open.spotify.com/track/5vjZwrtXc5oqE9ky7ZLYUV) | [坂本千夏 \(てんどんまん\)](https://open.spotify.com/artist/4V7B51RciMPnbx203XtuwQ), [三ツ矢雄二 \(カツドンマン\)](https://open.spotify.com/artist/55QGfq8evmKQcKMhCXOlK2), [山寺宏一 \(かまめしどん\)](https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp) | [それいけ！アンパンマン ベストヒット'13](https://open.spotify.com/album/6ngjF7VE4ylUtdEpIKody0) | 2:47 |
 | 23 | [山育ちかまめしどん](https://open.spotify.com/track/3ZepeGHQBVqRIcnbtQ7VIO) | [山寺宏一 \(かまめしどん\)](https://open.spotify.com/artist/4HZfYMYleDFBGxXqtsjXvp) | [それいけ！アンパンマン ベストヒット'15](https://open.spotify.com/album/5zO6exCqlJ1HX4co8xfcb6) | 2:57 |

@@ -180,7 +180,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 332560,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 151680,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv"
@@ -1008,6 +1008,32 @@
       "duration_ms": 188000,
       "name": "Como Es Posible Que a Mi Lado",
       "url": "https://open.spotify.com/track/4n3z3N2m6zfCJzrAc3ABPi"
+    },
+    {
+      "album": {
+        "name": "Como La Flor",
+        "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
+      },
+      "artists": [
+        {
+          "name": "Play-N-Skillz",
+          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
+        },
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174555,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
     },
     {
       "album": {
@@ -3241,6 +3267,28 @@
     },
     {
       "album": {
+        "name": "LIV - Spotify Singles",
+        "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
+      },
+      "artists": [
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Deorro",
+          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165248,
+      "name": "LIV - Spotify Singles",
+      "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
+    },
+    {
+      "album": {
         "name": "Live Better",
         "url": "https://open.spotify.com/album/3J4oni8O5DkDI45B48RUZY"
       },
@@ -4950,7 +4998,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 174891,
       "name": "Ruja",
       "url": "https://open.spotify.com/track/7ipNXtOqIcUh6Gs9jVSI8O"
@@ -5916,6 +5964,24 @@
       "duration_ms": 194163,
       "name": "Switch It - Tom & Collins Remix",
       "url": "https://open.spotify.com/track/0F5rIeJwd3hEUELOAPGvV4"
+    },
+    {
+      "album": {
+        "name": "T siento RARA",
+        "url": "https://open.spotify.com/album/5ZieWnajGvBE0OmLqXlPnn"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129535,
+      "name": "T siento RARA",
+      "url": "https://open.spotify.com/track/1YuqSddupYzGZYrOke88D1"
     },
     {
       "album": {

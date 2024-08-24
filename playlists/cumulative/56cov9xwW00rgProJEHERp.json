@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 271013,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/1T2KyCYBHZhHSmnwLH0A5Y"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 208439,
       "name": "Aw, Shoot!",
       "url": "https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 155761,
       "name": "Betting on Us",
       "url": "https://open.spotify.com/track/0cgiEyA9bl4EvbhnvocQm6"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 223636,
       "name": "Ego",
       "url": "https://open.spotify.com/track/7dHzPI3YRolg60tFHtTydt"
@@ -756,6 +756,24 @@
       "duration_ms": 212287,
       "name": "even forever",
       "url": "https://open.spotify.com/track/1OicUu8wILtHnqX7VTv2MI"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh"
     },
     {
       "album": {
@@ -1803,6 +1821,28 @@
     },
     {
       "album": {
+        "name": "My Body's My Buddy",
+        "url": "https://open.spotify.com/album/1IumCl0HdwL0UcDVkGdY2u"
+      },
+      "artists": [
+        {
+          "name": "Tessa Violet",
+          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
+        },
+        {
+          "name": "Brye",
+          "url": "https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208983,
+      "name": "My Body's My Buddy",
+      "url": "https://open.spotify.com/track/1Ra2A7WtslDs3V6bEwpVkO"
+    },
+    {
+      "album": {
         "name": "Name of God",
         "url": "https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai"
       },
@@ -2056,7 +2096,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 149366,
       "name": "Over You",
       "url": "https://open.spotify.com/track/6KX5lORRwSuUWyXpMlJ8Hs"
@@ -2475,6 +2515,24 @@
     },
     {
       "album": {
+        "name": "When a Thought Grows Wings",
+        "url": "https://open.spotify.com/album/7i3h5FxsKCEFVvtKg2fZGs"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223929,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/77815RO1IuoduqqoxRaC2n"
+    },
+    {
+      "album": {
         "name": "In Another Lifetime",
         "url": "https://open.spotify.com/album/4NnwZcieQumRpDD2rdO3pO"
       },
@@ -2753,6 +2811,24 @@
     },
     {
       "album": {
+        "name": "Wait for You",
+        "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Wait for You",
+      "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
+    },
+    {
+      "album": {
         "name": "Waterfall (I Adore You)",
         "url": "https://open.spotify.com/album/2JMwjCJEkSI2jskt9bMkG9"
       },
@@ -3026,6 +3102,28 @@
       "duration_ms": 291447,
       "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
       "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"
+    },
+    {
+      "album": {
+        "name": "You and What You Do",
+        "url": "https://open.spotify.com/album/2ka9wk9kIVIpWN9DqRCQvH"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        },
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "You and What You Do",
+      "url": "https://open.spotify.com/track/0VdhXIvSTN4C4aP1h8T5VR"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Cumbia pa' volar la chapa con Los Turros.",
-  "num_followers": 567066,
+  "num_followers": 567093,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-08-21 17:45:19",
       "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "Un Beso y una Flor",
+      "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
+    },
+    {
+      "added_at": "2024-08-21 17:45:19",
+      "album": {
         "name": "Tus Dulces Abrazos",
         "url": "https://open.spotify.com/album/3pT3T6TkQtLuqKpAB8PR0q"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 195333,
       "name": "Tus Dulces Abrazos",
       "url": "https://open.spotify.com/track/0jhdK4k5NwGxnj2DX0SJTc"
-    },
-    {
-      "added_at": "2024-08-21 17:45:19",
-      "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "Un Beso y una Flor",
-      "url": "https://open.spotify.com/track/2Gw02zy3Me82k56qTQ5qFk"
     },
     {
       "added_at": "2024-08-21 17:45:19",
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 313190,
-      "name": "Sentimiento Villero",
-      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
+      "duration_ms": 308337,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
     },
     {
       "added_at": "2024-08-21 17:45:19",
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 308337,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+      "duration_ms": 313190,
+      "name": "Sentimiento Villero",
+      "url": "https://open.spotify.com/track/77UtrgTACiQ5ziErPh7fKe"
     },
     {
       "added_at": "2024-08-21 17:45:19",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-08-21 17:45:19",
       "album": {
-        "name": "A Todo Remix",
-        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
-      },
-      "artists": [
-        {
-          "name": "Puro Movimiento DJ",
-          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
-        }
-      ],
-      "duration_ms": 207121,
-      "name": "D\u00e9jala",
-      "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
-    },
-    {
-      "added_at": "2024-08-21 17:45:19",
-      "album": {
         "name": "Gracia Divina",
         "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 179644,
       "name": "Me Volvi a Enamorar",
       "url": "https://open.spotify.com/track/1le09gYoWpB2ZUQ28K9VaC"
+    },
+    {
+      "added_at": "2024-08-21 17:45:19",
+      "album": {
+        "name": "A Todo Remix",
+        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
+      },
+      "artists": [
+        {
+          "name": "Puro Movimiento DJ",
+          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
+        }
+      ],
+      "duration_ms": 207121,
+      "name": "D\u00e9jala",
+      "url": "https://open.spotify.com/track/3LVOGJxNkd5b6nJoqLFpeT"
     },
     {
       "added_at": "2024-08-21 17:45:19",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-08-21 17:45:19",
       "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 263955,
-      "name": "Entre Vos Yo y el Cielo",
-      "url": "https://open.spotify.com/track/4YchG5vZOhKYTnZh5Lj5WB"
-    },
-    {
-      "added_at": "2024-08-21 17:45:19",
-      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 233247,
       "name": "Coraz\u00f3n de Madre (Destapate Una Cerveza)",
       "url": "https://open.spotify.com/track/3ZLU1OKjiCyM2Ka7vcjT5f"
+    },
+    {
+      "added_at": "2024-08-21 17:45:19",
+      "album": {
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 263955,
+      "name": "Entre Vos Yo y el Cielo",
+      "url": "https://open.spotify.com/track/4YchG5vZOhKYTnZh5Lj5WB"
     },
     {
       "added_at": "2024-08-21 17:45:19",
@@ -1563,38 +1563,6 @@
     {
       "added_at": "2024-08-21 17:45:19",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 235368,
-      "name": "Vengo de la casa de ella",
-      "url": "https://open.spotify.com/track/3wyLQdYYslrohkFNitbtgD"
-    },
-    {
-      "added_at": "2024-08-21 17:45:19",
-      "album": {
-        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
-        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 208744,
-      "name": "Siguiendo la Luna",
-      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
-    },
-    {
-      "added_at": "2024-08-21 17:45:19",
-      "album": {
         "name": "PICA",
         "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
       },
@@ -1619,26 +1587,18 @@
     {
       "added_at": "2024-08-21 17:45:19",
       "album": {
-        "name": "Cumbia del Recuerdo",
-        "url": "https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA"
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
       "artists": [
         {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
         }
       ],
-      "duration_ms": 177340,
-      "name": "Cumbia del Recuerdo",
-      "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
+      "duration_ms": 235368,
+      "name": "Vengo de la casa de ella",
+      "url": "https://open.spotify.com/track/3wyLQdYYslrohkFNitbtgD"
     },
     {
       "added_at": "2024-08-21 17:45:19",
@@ -1663,6 +1623,46 @@
       "duration_ms": 128265,
       "name": "6to Sentido (Una Vuelta)",
       "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
+    },
+    {
+      "added_at": "2024-08-21 17:45:19",
+      "album": {
+        "name": "La Humildad Es Sin\u00f3nimo de Grandeza",
+        "url": "https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 208744,
+      "name": "Siguiendo la Luna",
+      "url": "https://open.spotify.com/track/6ubKrtwTufLEAWj65SqVUD"
+    },
+    {
+      "added_at": "2024-08-21 17:45:19",
+      "album": {
+        "name": "Cumbia del Recuerdo",
+        "url": "https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 177340,
+      "name": "Cumbia del Recuerdo",
+      "url": "https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh"
     },
     {
       "added_at": "2024-08-21 17:45:19",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-08-21 17:45:19",
       "album": {
-        "name": "Y Lloro",
-        "url": "https://open.spotify.com/album/3WCfk8HWohE0nQ4rpwF2qG"
-      },
-      "artists": [
-        {
-          "name": "El Rodri",
-          "url": "https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm"
-        }
-      ],
-      "duration_ms": 143166,
-      "name": "Y Lloro",
-      "url": "https://open.spotify.com/track/0xX1l3RDNYkNKOEZqobohM"
-    },
-    {
-      "added_at": "2024-08-21 17:45:19",
-      "album": {
         "name": "Altos Cumbieros - Cumbia Villera",
         "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 223920,
       "name": "La cola less",
       "url": "https://open.spotify.com/track/64R5nJZvyvIynP0bPnLYgV"
+    },
+    {
+      "added_at": "2024-08-21 17:45:19",
+      "album": {
+        "name": "Y Lloro",
+        "url": "https://open.spotify.com/album/3WCfk8HWohE0nQ4rpwF2qG"
+      },
+      "artists": [
+        {
+          "name": "El Rodri",
+          "url": "https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm"
+        }
+      ],
+      "duration_ms": 143166,
+      "name": "Y Lloro",
+      "url": "https://open.spotify.com/track/0xX1l3RDNYkNKOEZqobohM"
     },
     {
       "added_at": "2024-08-21 17:45:19",
@@ -2159,6 +2159,26 @@
     {
       "added_at": "2024-08-21 17:45:19",
       "album": {
+        "name": "Tranka",
+        "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 164323,
+      "name": "Tranka",
+      "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
+    },
+    {
+      "added_at": "2024-08-21 17:45:19",
+      "album": {
         "name": "Cual Fue? (Remix)",
         "url": "https://open.spotify.com/album/2mROokrsjxuPcDemjcqvJ6"
       },
@@ -2183,22 +2203,6 @@
     {
       "added_at": "2024-08-21 17:45:19",
       "album": {
-        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
-        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
-      },
-      "artists": [
-        {
-          "name": "Amar y yo",
-          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
-        }
-      ],
-      "duration_ms": 198253,
-      "name": "Sentate en el pelado",
-      "url": "https://open.spotify.com/track/4fqDmV6uRZtNgYg5h4FnGP"
-    },
-    {
-      "added_at": "2024-08-21 17:45:19",
-      "album": {
         "name": "Moviendo la Cola",
         "url": "https://open.spotify.com/album/3eQBSHn1c0CBiDY1LrMs3O"
       },
@@ -2215,22 +2219,34 @@
     {
       "added_at": "2024-08-21 17:45:19",
       "album": {
-        "name": "Tranka",
-        "url": "https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU"
+        "name": "Amar y yo - Produccion Pablo Lescano - Damas Gratis",
+        "url": "https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV"
       },
       "artists": [
         {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+          "name": "Amar y yo",
+          "url": "https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8"
         }
       ],
-      "duration_ms": 164323,
-      "name": "Tranka",
-      "url": "https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea"
+      "duration_ms": 198253,
+      "name": "Sentate en el pelado",
+      "url": "https://open.spotify.com/track/4fqDmV6uRZtNgYg5h4FnGP"
+    },
+    {
+      "added_at": "2024-08-21 17:45:19",
+      "album": {
+        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
+        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
+      },
+      "artists": [
+        {
+          "name": "Los Turros",
+          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
+        }
+      ],
+      "duration_ms": 158145,
+      "name": "No Te Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
     },
     {
       "added_at": "2024-08-21 17:45:19",
@@ -2255,22 +2271,6 @@
       "duration_ms": 186436,
       "name": "Te Fuiste De Gira",
       "url": "https://open.spotify.com/track/1hiIFZciaCbhgCvwxHGT7P"
-    },
-    {
-      "added_at": "2024-08-21 17:45:19",
-      "album": {
-        "name": "En Este Futuro Brillante, No Puedes Olvidar Tu Pasado",
-        "url": "https://open.spotify.com/album/2IjvMrgOdotCUq7lbWjt7H"
-      },
-      "artists": [
-        {
-          "name": "Los Turros",
-          "url": "https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB"
-        }
-      ],
-      "duration_ms": 158145,
-      "name": "No Te Aguanto M\u00e1s",
-      "url": "https://open.spotify.com/track/4f8bTxlLhCK8DgpLrdVGfF"
     },
     {
       "added_at": "2024-08-21 17:45:19",

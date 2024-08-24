@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: NEXZ
 
-1,161 songs - 2 day 14 hr 38 min
+1,163 songs - 2 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,6 +687,7 @@
 | [On My Youth \- English Version](https://open.spotify.com/track/3aybnlPK0zZK2YRmlRm0Ph) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [On My Youth \- The 2nd Album](https://open.spotify.com/album/5E0N8pJpGjx60wKTlpu9Hs) | 3:32 | 2023-10-31 | 2023-12-15 |
 | [on the street \(with J\. Cole\)](https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [on the street \(with J\. Cole\)](https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO) | 3:34 | 2023-03-03 | 2023-05-17 |
 | [One and Only](https://open.spotify.com/track/7dDY45rR3idfeCypFDrk0G) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [One and Only](https://open.spotify.com/album/5LGe47qZJTNwtM8gUfT7Mx) | 2:46 | 2023-07-11 | 2023-09-22 |
+| [One and Only \- PIKA PIKA Remix](https://open.spotify.com/track/45N7MSKZFAeYTdGxzUai69) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Won Jong Lee](https://open.spotify.com/artist/0VNPOgaslwkZTwcnmoFrFT) | [One and Only \- PIKA PIKA Remix](https://open.spotify.com/album/2ZoxLRc9WtPBjYmlEeqsCm) | 2:43 | 2024-08-23 |  |
 | [One Heart](https://open.spotify.com/track/6xw1r7HNaJZuseZdrjNf1i) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T), [中島美嘉](https://open.spotify.com/artist/1hXIFV17zZ2Q5X2GWIAIwF) | [One Heart](https://open.spotify.com/album/5Y9VvyQdmZmAgfUiJ1WOA2) | 4:20 | 2022-09-20 | 2022-10-05 |
 | [One In A Billion](https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [One In A Billion](https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd) | 3:16 | 2022-09-06 | 2022-12-22 |
 | [One Kiss](https://open.spotify.com/track/2B0fIX58M69Y7kuPG86l7g) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING](https://open.spotify.com/album/7JidrvBZXM4otdFhbf7OZ1) | 3:32 | 2024-05-01 | 2024-07-31 |
@@ -751,6 +752,7 @@
 | [QUINCY \- The Greatest Ver.](https://open.spotify.com/track/2KtMiAgFluozh8ZeMxHy5x) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [QUINCY \(The Greatest Ver.\)](https://open.spotify.com/album/01hBZCUobgWupslzzdgoV7) | 3:08 | 2022-05-10 | 2022-07-07 |
 | [RACE](https://open.spotify.com/track/6ZRDqsJlFXzbIquKhaMdQe) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF) | [RACE](https://open.spotify.com/album/6fa2O5Ph59LzOm0N4hiFwL) | 3:21 | 2021-12-23 | 2021-12-29 |
 | [Rain Day](https://open.spotify.com/track/07lK6LoH13tGwxziXWIp16) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Rain Day \- SM STATION : NCT LAB](https://open.spotify.com/album/58uFef7QCVv7hVQZDur3n0) | 3:10 | 2022-07-19 | 2022-10-12 |
+| [Rains in Heaven](https://open.spotify.com/track/17IcI8xMok8qFNhSPRufjo) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Rains in Heaven](https://open.spotify.com/album/2SUJuWIru2k3m8RkjwcSsW) | 3:57 | 2024-08-23 |  |
 | [RATA\-TAT\-TAT](https://open.spotify.com/track/7AdyfUxsfKi1ERbwu7wLQU) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [RATA\-TAT\-TAT](https://open.spotify.com/album/1Zhm7LxHfqZg8XS143vJtz) | 3:24 | 2022-05-10 | 2022-07-19 |
 | [RE8EL](https://open.spotify.com/track/4zN0rgpBOcpXnp6EJkYmnM) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [RE8EL](https://open.spotify.com/album/396PmDmC3mjNC93wW6E9QS) | 2:55 | 2023-11-28 | 2024-01-24 |
 | [Ready for the World](https://open.spotify.com/track/1zh1cJT5qzuhb0F2S6X9ba) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Ready for the World](https://open.spotify.com/album/4AUH5o7KAs0BpvJwH1Je77) | 3:05 | 2023-12-01 | 2024-01-19 |

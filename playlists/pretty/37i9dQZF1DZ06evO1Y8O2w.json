@@ -1,29 +1,13 @@
 {
-  "description": "This is Phyllis Hyman. The essential tracks, all in one playlist.",
+  "description": "This is Phyllis Hyman. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 7615,
   "original_name": "This Is Phyllis Hyman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAACE7VB2ciBRzMs3TwKGHcQY",
+  "snapshot_id": "ZsZ/gAAAAACvyp/7SvCPaT3cHOI+3T8R",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Living All Alone",
-        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 290626,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/3qTq1bSZBrndBmw8YktDNi"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 452466,
       "name": "You Know How to Love Me",
       "url": "https://open.spotify.com/track/1hLNOxFIiEAgApBstfwONV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living All Alone",
+        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 290626,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/3qTq1bSZBrndBmw8YktDNi"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living All Alone",
-        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Legacy Of Phyllis Hyman",
         "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 309400,
       "name": "Living All Alone",
       "url": "https://open.spotify.com/track/6c1Xd2ZERcoUmhLvYVrYIX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living All Alone",
+        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 242733,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere In My Lifetime (Expanded)",
-        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
+        "name": "Living All Alone",
+        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 256786,
-      "name": "Be Careful (How You Treat My Love)",
-      "url": "https://open.spotify.com/track/5HZBeOoFFy9yO5mzq6fgeK"
+      "duration_ms": 241573,
+      "name": "First Time Together",
+      "url": "https://open.spotify.com/track/3m8zuI0D66a2VLI1swx1mD"
     },
     {
       "added_at": null,
@@ -331,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legacy Of Phyllis Hyman",
-        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
+        "name": "Somewhere In My Lifetime (Expanded)",
+        "url": "https://open.spotify.com/album/3KRmacfnU7BPbkQPRODzEw"
       },
       "artists": [
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        },
-        {
-          "name": "Michael Henderson",
-          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
         }
       ],
-      "duration_ms": 317293,
-      "name": "Can't We Fall in Love Again",
-      "url": "https://open.spotify.com/track/0c61XIxgnxVYAk3vum9TM3"
+      "duration_ms": 256786,
+      "name": "Be Careful (How You Treat My Love)",
+      "url": "https://open.spotify.com/track/5HZBeOoFFy9yO5mzq6fgeK"
     },
     {
       "added_at": null,
@@ -367,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living All Alone",
-        "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
+        "name": "The Legacy Of Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
       },
       "artists": [
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        },
+        {
+          "name": "Michael Henderson",
+          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
         }
       ],
-      "duration_ms": 241573,
-      "name": "First Time Together",
-      "url": "https://open.spotify.com/track/3m8zuI0D66a2VLI1swx1mD"
+      "duration_ms": 317293,
+      "name": "Can't We Fall in Love Again",
+      "url": "https://open.spotify.com/track/0c61XIxgnxVYAk3vum9TM3"
     },
     {
       "added_at": null,
@@ -431,26 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Will Find a Way (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW"
+        "name": "The Legacy Of Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
       },
       "artists": [
-        {
-          "name": "Pharoah Sanders",
-          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
-        },
-        {
-          "name": "Norman Connors",
-          "url": "https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR"
-        },
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 358093,
-      "name": "Everything I Have Is Good (feat. Norman Connors & Phyllis Hyman)",
-      "url": "https://open.spotify.com/track/44Ju7KqdFitKeI5v66O250"
+      "duration_ms": 297906,
+      "name": "Gonna Make Changes",
+      "url": "https://open.spotify.com/track/4URmiJKUQuceu4ZfcaIA5S"
     },
     {
       "added_at": null,
@@ -503,18 +495,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legacy Of Phyllis Hyman",
-        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
+        "name": "Love Will Find a Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW"
       },
       "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        },
+        {
+          "name": "Norman Connors",
+          "url": "https://open.spotify.com/artist/54bbmw5qZiMf23TTmm6ojR"
+        },
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 297906,
-      "name": "Gonna Make Changes",
-      "url": "https://open.spotify.com/track/4URmiJKUQuceu4ZfcaIA5S"
+      "duration_ms": 358093,
+      "name": "Everything I Have Is Good (feat. Norman Connors & Phyllis Hyman)",
+      "url": "https://open.spotify.com/track/44Ju7KqdFitKeI5v66O250"
     },
     {
       "added_at": null,
@@ -655,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slingshot",
-        "url": "https://open.spotify.com/album/4ZTtXdTxQFaHLJrJPxUt3x"
+        "name": "Phyllis Hyman (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
       },
       "artists": [
-        {
-          "name": "Michael Henderson",
-          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
-        },
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 224226,
-      "name": "Can't We Fall in Love Again",
-      "url": "https://open.spotify.com/track/7LoUpAYekcUxAnBC8Cv27p"
+      "duration_ms": 450306,
+      "name": "Loving You - Losing You",
+      "url": "https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT"
     },
     {
       "added_at": null,
@@ -691,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phyllis Hyman (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CNAoF5myCR0foNabbyld2"
+        "name": "Slingshot",
+        "url": "https://open.spotify.com/album/4ZTtXdTxQFaHLJrJPxUt3x"
       },
       "artists": [
+        {
+          "name": "Michael Henderson",
+          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
+        },
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 450306,
-      "name": "Loving You - Losing You",
-      "url": "https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT"
+      "duration_ms": 224226,
+      "name": "Can't We Fall in Love Again",
+      "url": "https://open.spotify.com/track/7LoUpAYekcUxAnBC8Cv27p"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legacy Of Phyllis Hyman",
-        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "In A Sentimental Mood",
-      "url": "https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goddess of Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Legacy Of Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/73PpHL1BhZ3ji6c1FLhEfo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't We Fall In Love Again (Expanded Edition)",
         "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
       },
@@ -767,22 +767,6 @@
       "duration_ms": 200213,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/3pAmGIMw7jjf85vraM5mnA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Refuse To Be Lonely",
-        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 252346,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/2FCbFUE0hMKvHje3DX8LYf"
     },
     {
       "added_at": null,
@@ -815,6 +799,22 @@
       "duration_ms": 277040,
       "name": "Come Right or Not at All",
       "url": "https://open.spotify.com/track/0Rf1w4aSyzSwZyRh5PTKmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Refuse To Be Lonely",
+        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/2FCbFUE0hMKvHje3DX8LYf"
     },
     {
       "added_at": null,

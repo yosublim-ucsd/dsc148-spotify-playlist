@@ -5083,6 +5083,24 @@
     },
     {
       "album": {
+        "name": "Lyon",
+        "url": "https://open.spotify.com/album/4zD3Vo5cUhyduQYYr0CGyF"
+      },
+      "artists": [
+        {
+          "name": "Florentin Davies",
+          "url": "https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185165,
+      "name": "Lyon",
+      "url": "https://open.spotify.com/track/5ma2pRU2IrZ29Tca6tdHpS"
+    },
+    {
+      "album": {
         "name": "L\u00e4mna",
         "url": "https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni"
       },

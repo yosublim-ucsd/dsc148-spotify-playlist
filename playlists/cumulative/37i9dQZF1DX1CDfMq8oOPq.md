@@ -2,9 +2,9 @@
 
 ### [Baby Hair](https://open.spotify.com/playlist/37i9dQZF1DX1CDfMq8oOPq)
 
-> todos os olhos na onnika 👀
+> cristal multiplicando amor aqui!
 
-255 songs - 12 hr 10 min
+256 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Linha Torta](https://open.spotify.com/track/1jp3ua6XiMziN3PbDBKMuA) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:08 | 2023-11-17 | 2024-03-09 |
 | [Louca e Sagaz \(feat\. WC no Beat\)](https://open.spotify.com/track/5EpPmsMyOYId0GzjXdr5bX) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Louca e Sagaz \(feat\. WC no Beat\)](https://open.spotify.com/album/0iCw4A5XxTUq6T3wc8tHlj) | 3:13 | 2022-03-11 | 2022-06-25 |
 | [Loucona de Toddyn](https://open.spotify.com/track/3ix7zsFUG6OAW7QMjZbgns) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Loucona de Toddyn](https://open.spotify.com/album/0OTEIZb8v2VfSKwLZ06MgD) | 2:18 | 2023-10-13 | 2023-12-09 |
+| [LOVE COMMUNITY](https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR) | [EPIFANIA](https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m) | 3:33 | 2024-08-23 |  |
 | [MACETAH! \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/track/6uFXQbkmMG0rI7D03tktCV) | [MC Mari](https://open.spotify.com/artist/2AdUWxNm17kkGZiPGuorth), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [MACETAH! \(Versus Vol\. 1\) \[feat\. Tropkillaz\]](https://open.spotify.com/album/3VuOEKHPWAlU5MJvimXx0A) | 3:40 | 2022-03-11 | 2022-04-29 |
 | [MADDY](https://open.spotify.com/track/0sTU2re42O2KQGpyqK7ngN) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9) | [MADDY](https://open.spotify.com/album/2JQSEpZshZaAqlFyySYtu6) | 2:26 | 2023-10-20 | 2023-12-23 |
 | [Magia](https://open.spotify.com/track/2VAV3GVOT6cCxl3PMDzm65) | [Akascagrossa](https://open.spotify.com/artist/4g75QCIGrJufszfx2cH7Qj) | [Magia](https://open.spotify.com/album/22w3IMJ6SZgVfMPKeLr3Bn) | 2:41 | 2024-06-21 | 2024-07-13 |
@@ -261,7 +262,7 @@
 | [Who Cares?](https://open.spotify.com/track/2KgRLOrzPKSy4ur5DPqzt3) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [grenier spinz](https://open.spotify.com/artist/0NScuC0UGxFvZ76OlHPIWJ) | [Who Cares?](https://open.spotify.com/album/5RSm9jbk6T7IiTzJWqsjtn) | 1:54 | 2023-08-04 | 2023-08-19 |
 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 | 2022-06-17 |  |
 | [Xeque\-Mate](https://open.spotify.com/track/7bs5NNmTcrktPH1pAQnVPz) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK), [Caio Kazzi](https://open.spotify.com/artist/2qDGGgQrsth8uAC6OfGlIc), [HERvolution](https://open.spotify.com/artist/3rN8auMvCh8BcWf1WKt7OW) | [Xeque\-Mate](https://open.spotify.com/album/6XCmEGHcQ5ykWHtgrHmBWx) | 2:04 | 2022-10-14 | 2022-10-29 |
-| [Zero Buxixo](https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [SOU + EU](https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV) | 2:34 | 2023-10-06 |  |
+| [Zero Buxixo](https://open.spotify.com/track/3cYgq3iE7oxCQV8KwiZZG9) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [SOU + EU](https://open.spotify.com/album/0cReQ0rS6UZ5JLz7Ufp3EV) | 2:34 | 2023-10-06 | 2024-08-24 |
 | [Água Rosa](https://open.spotify.com/track/1mlX8flEeeKgiszMtbPwGf) | [MARIAH](https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo), [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Água Rosa](https://open.spotify.com/album/3AioYL7cRO6qjYnrRz4sJj) | 2:49 | 2022-04-15 | 2022-05-28 |
 
 \*This playlist was first scraped on 2022-03-24. Prior content cannot be recovered.

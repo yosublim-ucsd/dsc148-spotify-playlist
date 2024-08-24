@@ -1,13 +1,33 @@
 {
-  "description": "\ud83e\udd52\ud83e\udd52 sometimes you need to eat an entire cucumber \ud83e\udd52\ud83e\udd52\ud83e\udd52",
-  "num_followers": 264305,
+  "description": "i just wanna be part of your symphony",
+  "num_followers": 264342,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsYNkwAAAADEythmT6QY8qWT6wLdNP4C",
+  "snapshot_id": "ZsiOmAAAAADQjmltJ+TUfhwmqMTZDbvX",
   "tracks": [
+    {
+      "added_at": "2024-08-23 13:28:56",
+      "album": {
+        "name": "Symphony (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 212459,
+      "name": "Symphony (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
+    },
     {
       "added_at": "2024-08-15 08:57:47",
       "album": {

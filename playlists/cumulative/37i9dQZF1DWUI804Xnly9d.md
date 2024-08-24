@@ -4,11 +4,11 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-389 songs - 22 hr 3 min
+390 songs - 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [90's Kid](https://open.spotify.com/track/267GHnAzfVj04A6ErbCOSD) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [90's Kid](https://open.spotify.com/album/2TeDSPSdj1UC36nj3G4nam) | 1:58 | 2024-08-14 |  |
+| [90's Kid](https://open.spotify.com/track/267GHnAzfVj04A6ErbCOSD) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [90's Kid](https://open.spotify.com/album/2TeDSPSdj1UC36nj3G4nam) | 1:58 | 2024-08-14 | 2024-08-24 |
 | [Aa Bhi Jaa](https://open.spotify.com/track/2UhGH6QOvugViwXNTLEN2L) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Do Aur Do Pyaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4u9BrvsOQ5Cda7oKgIvSAa) | 2:24 | 2024-04-15 | 2024-06-29 |
 | [Aa Milke Baate Zindagi](https://open.spotify.com/track/4OLU7HbSkmhoxuoZCEO1Vo) | [Sagar Siddham](https://open.spotify.com/artist/3XldFTs2E3AIRnP6ht5jcL), [Pallavi Jamindar Siddham](https://open.spotify.com/artist/5IUmaGr0oynNc6WnOoT3Ee) | [Aa Milke Baate Zindagi](https://open.spotify.com/album/1p3RjUC8pYQ3TAS57zLuHb) | 4:07 | 2024-01-15 | 2024-02-21 |
 | [Aaja \- Stripped Version](https://open.spotify.com/track/6RBoeJVWQmesmSzl5ole38) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Sapne](https://open.spotify.com/album/2Lw9o65L8txLwH8Tg4jvWy) | 4:10 | 2024-01-19 | 2024-08-01 |
@@ -86,7 +86,7 @@
 | [Dil Besabar](https://open.spotify.com/track/5LV90I2HKJFJ8GMNaS75ZA) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Dil Besabar](https://open.spotify.com/album/7bstmsZGHaiZfupqDfk9NA) | 3:10 | 2024-07-31 |  |
 | [Dil Bhara](https://open.spotify.com/track/1FufKIAGNgVJXmvxGih7MI) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4) | [Dil Bhara](https://open.spotify.com/album/18enJ7jL95iojIBGAnZwub) | 2:56 | 2023-09-26 | 2024-01-13 |
 | [Dil Ki Kahani](https://open.spotify.com/track/63PAklGYefhEPUWMXiONSC) | [Anandi Aheeri](https://open.spotify.com/artist/24FIQnYu0IgWUXE6qvXYPe) | [Dil Ki Kahani](https://open.spotify.com/album/7mhklP1bZglS3XGjIxefhE) | 3:46 | 2024-03-15 | 2024-05-10 |
-| [Dil Mein Thoda Sa](https://open.spotify.com/track/2eBWFPefQnjrEMZDECXg5U) | [Gaurav Agrawal](https://open.spotify.com/artist/4HhD2GH1866v1KvZfYCF0V) | [Dil Mein Thoda Sa](https://open.spotify.com/album/0ppxaU8C9xdliTrUCxM7NT) | 3:42 | 2024-07-30 |  |
+| [Dil Mein Thoda Sa](https://open.spotify.com/track/2eBWFPefQnjrEMZDECXg5U) | [Gaurav Agrawal](https://open.spotify.com/artist/4HhD2GH1866v1KvZfYCF0V) | [Dil Mein Thoda Sa](https://open.spotify.com/album/0ppxaU8C9xdliTrUCxM7NT) | 3:42 | 2024-07-30 | 2024-08-24 |
 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 | 2023-05-17 | 2024-01-20 |
 | [Dil yeh mera](https://open.spotify.com/track/75FFYq4zjscYgpWSLrcj1X) | [Prasad Aalim](https://open.spotify.com/artist/472d15meTJCz0GzJel8SF6) | [Dil yeh mera](https://open.spotify.com/album/13oAQqhmMpDVPGTgDbZsV2) | 4:00 | 2023-06-15 | 2023-12-19 |
 | [Dilasey \- Stripped](https://open.spotify.com/track/3tBq6098N2lJgn4M1teUFy) | [Raas](https://open.spotify.com/artist/69Lcocv13gvr4uEhh2mEVu), [Sonalika Verma](https://open.spotify.com/artist/6630QOzOF3QYY6BwB3ZFRu) | [Dilasey \(Stripped\)](https://open.spotify.com/album/2INEk8a7RiIvnvL0uZ9D4J) | 3:51 | 2023-06-20 | 2023-07-29 |
@@ -326,6 +326,7 @@
 | [Tauba Tauba \- Reply Version](https://open.spotify.com/track/6QuvG0gL7S0XlTVvjGLly1) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx) | [Tauba Tauba \- Reply Version](https://open.spotify.com/album/68fer3E93D3XdzbHFdq3af) | 1:47 | 2024-07-22 | 2024-08-15 |
 | [Tera Aasra](https://open.spotify.com/track/2bt46Wc1gdlwLq4WA34Lwf) | [Xeede](https://open.spotify.com/artist/4vctQONvB4a2PdcySenCRu), [F Kaze](https://open.spotify.com/artist/3LzW4ntDuBhWgewwqs7jL7) | [Tera Aasra](https://open.spotify.com/album/0FVTyISjP50lQI9nLKLgG9) | 3:00 | 2023-07-12 | 2023-09-23 |
 | [Tera Hi Intezaar Hai](https://open.spotify.com/track/3CUOhQONkaHfyEbJ9o6eFY) | [Rrajeev Sharma](https://open.spotify.com/artist/64zDyqa34wJUmIUr5iXKLv), [Harshit Shrivastava](https://open.spotify.com/artist/5eYHTsRSjK7Kqo7KDxEtSA) | [Tera Hi Intezaar Hai](https://open.spotify.com/album/7xju3kOHcr5VUiH2Au4FaA) | 3:06 | 2023-11-17 | 2023-12-02 |
+| [Tera Rahoon](https://open.spotify.com/track/2trVpKomYRJZP15P8Ya2JU) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4) | [Tera Rahoon](https://open.spotify.com/album/1tMApkXGbpx9ZmL9Q0pTEJ) | 2:52 | 2024-08-23 |  |
 | [Tera Saath](https://open.spotify.com/track/1fINFWBFzNNU2k5TVWgFoa) | [Rishabh Shah](https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8), [Bhaven Dhanak](https://open.spotify.com/artist/3HI3NpSJpafnCHuiKKhJ9D) | [Tera Saath](https://open.spotify.com/album/4GLNPcFEMzcLOoIcyy4nxQ) | 2:54 | 2023-06-20 | 2023-09-22 |
 | [Tere Bin Laage](https://open.spotify.com/track/5GfZTeR24ugCddSRj0BKU9) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Tere Bin Laage](https://open.spotify.com/album/6qDbMxoh61bYMbBwKdrssP) | 3:29 | 2023-05-17 | 2024-07-31 |
 | [Tere Bina](https://open.spotify.com/track/4kJ6jb1QL8vQbkwhNZFsLQ) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Tere Bina](https://open.spotify.com/album/1eZuo2SoysHA1TvBfkRsZA) | 2:49 | 2024-01-19 | 2024-08-02 |

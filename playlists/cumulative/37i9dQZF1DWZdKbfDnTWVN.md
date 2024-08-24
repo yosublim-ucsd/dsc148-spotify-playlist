@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU?si=b6B1ehSTSAygcrw\_hMd7Hw">BURUKLYN BOYZ</a>
 
-260 songs - 13 hr 26 min
+261 songs - 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Nairobi Pengz](https://open.spotify.com/track/6vYlSCbecwhbLN7LCReItg) | [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [CHONJO](https://open.spotify.com/album/7MKDPUsNzh4adGw36ACW9C) | 3:42 | 2022-07-07 | 2023-09-15 |
 | [Natoka Na Nani? \(feat\. Khaligraph Jones\)](https://open.spotify.com/track/3WaClrMeTUUaZyZhzCIpEu) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Mbuzi](https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j) | 4:25 | 2024-07-25 |  |
 | [Nduki \(feat\. dutchavelli\)](https://open.spotify.com/track/2fLXqKmxFQXZ5qcJVtBuCk) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Mbuzi](https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j) | 3:21 | 2024-06-27 | 2024-07-27 |
-| [Next](https://open.spotify.com/track/1MwtufHfFLYQPCw1e9i0Yn) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ) | [Next](https://open.spotify.com/album/0aYga2tetl8BcfUbava1LM) | 3:08 | 2024-02-01 |  |
+| [Next](https://open.spotify.com/track/1MwtufHfFLYQPCw1e9i0Yn) | [Boutross](https://open.spotify.com/artist/60llzVzPwr1pfNy7qerr7y), [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ) | [Next](https://open.spotify.com/album/0aYga2tetl8BcfUbava1LM) | 3:08 | 2024-02-01 | 2024-08-24 |
 | [niko therapy](https://open.spotify.com/track/2457sLZDAIfnwMHjXHTjTe) | [KABUGA](https://open.spotify.com/artist/68d2olhtpyi3Lt3vKY6uWa) | [niko therapy](https://open.spotify.com/album/3rx0B0rvmzAbXUpYFgV02J) | 3:38 | 2024-02-15 | 2024-06-22 |
 | [Nimechekii](https://open.spotify.com/track/4hTJbEvhSu8OQ7xF8DExp0) | [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7) | [Nimechekii](https://open.spotify.com/album/7B1D6MLjELUHBv6V9mTslD) | 2:43 | 2024-05-09 | 2024-06-14 |
 | [No Hook](https://open.spotify.com/track/79yYxJd98IRA51BCP4mPBV) | [Splifff](https://open.spotify.com/artist/3FbXkQv5LMtFqNBbvImIde), [Dok](https://open.spotify.com/artist/6cXAmvwesliaTtwaGdv0qC), [Infamous Alvin](https://open.spotify.com/artist/1o5JBUR0mqOxLwNWa7siPZ) | [No Hook](https://open.spotify.com/album/48audShqxj5ypmHoLSuTmH) | 3:17 | 2023-07-27 | 2024-03-16 |
@@ -186,6 +186,7 @@
 | [Quagmire](https://open.spotify.com/track/4vma7XUXJRiXjyKRaxDzvW) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Saint Sinner](https://open.spotify.com/album/6S32d9VMvOGlV9pjk7m300) | 3:19 | 2024-07-25 |  |
 | [Queens Speech](https://open.spotify.com/track/39KWRJHeOCPrxjZtat72zD) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH), [Shanty Bobo](https://open.spotify.com/artist/5DHVUoC4CvknkFAOkyJ88N) | [Dem Kutoka Mwiki](https://open.spotify.com/album/1JD29V2kKZBTOebnyqXgOc) | 3:26 | 2023-04-27 | 2024-02-23 |
 | [Quill2thmfwrld](https://open.spotify.com/track/7snV7SDZmfCjS9Sm099RRG) | [Jakk Quill](https://open.spotify.com/artist/6QqOXzlH2dcYNAHeGgZcLm) | [SEARCHING FOR UTOPIA](https://open.spotify.com/album/7IbrgLFXo4lzo7UvK4xqZe) | 5:19 | 2023-08-04 | 2024-02-10 |
+| [Real nigga](https://open.spotify.com/track/2ftC2l9HBgs58L0DWYA12L) | [Sosa The Prodigy](https://open.spotify.com/artist/4A558mJxlQqB0DZwMOfMbJ), [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [Wakorofi Settingz](https://open.spotify.com/album/2Ols4uYa3ik1c9umm0RmCS) | 3:28 | 2024-08-23 |  |
 | [Riswa 4](https://open.spotify.com/track/4pvrbIrBj18UKnsEi3QZf1) | [Dyana Cods](https://open.spotify.com/artist/1TMFrPAmqxTK5rVS8ujqMR), [Sewersydaa](https://open.spotify.com/artist/6CxcUeJaPy4qYjudhmDJaf) | [Rong Manners](https://open.spotify.com/album/11VRCN8jmGgrfzD7b1hoF4) | 2:03 | 2024-05-02 |  |
 | [RITHO](https://open.spotify.com/track/2M32pG0Wr1eT5RdKoAzykL) | [LIL FELLY](https://open.spotify.com/artist/5V32E4hgOemIeK7Shk7uXR), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [RITHO](https://open.spotify.com/album/2MnJFS59N80lemAi2QELvF) | 5:15 | 2024-02-09 | 2024-06-28 |
 | [Rock Da Mic](https://open.spotify.com/track/2KWZbfHQ2u9V09QiCnAL00) | [AMiR](https://open.spotify.com/artist/4XRD4l8f4sJSMSgFnmBsyj) | [Rock Da Mic](https://open.spotify.com/album/2IDw3STsuEWk0oyA3yzBaB) | 2:14 | 2024-03-07 | 2024-06-22 |

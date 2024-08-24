@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 20795,
+  "num_followers": 20798,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAAmNjiglpPjbuFHYBcI1j52",
+  "snapshot_id": "ZsZ/gAAAAADsruGeJeWz95oLaAD8LsJE",
   "tracks": [
     {
       "added_at": null,
@@ -235,18 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chandelier of Stars",
-        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
       },
       "artists": [
         {
           "name": "John Williamson",
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        },
+        {
+          "name": "Warren H. Williams",
+          "url": "https://open.spotify.com/artist/24mAUpCTQNw1yhDus8rwrY"
         }
       ],
-      "duration_ms": 193013,
-      "name": "Flower on the Water",
-      "url": "https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj"
+      "duration_ms": 170173,
+      "name": "A Thousand Feet (with Warren H. Williams)",
+      "url": "https://open.spotify.com/track/6BrNnnYSe3a0xSRe9nxiqo"
     },
     {
       "added_at": null,
@@ -267,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
+        "name": "Chandelier of Stars",
+        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
       },
       "artists": [
         {
           "name": "John Williamson",
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        },
-        {
-          "name": "Warren H. Williams",
-          "url": "https://open.spotify.com/artist/24mAUpCTQNw1yhDus8rwrY"
         }
       ],
-      "duration_ms": 170173,
-      "name": "A Thousand Feet (with Warren H. Williams)",
-      "url": "https://open.spotify.com/track/6BrNnnYSe3a0xSRe9nxiqo"
+      "duration_ms": 193013,
+      "name": "Flower on the Water",
+      "url": "https://open.spotify.com/track/5nKQJrsJlVjtZBjQgkXaCj"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "John Williamson: In Symphony",
-        "url": "https://open.spotify.com/album/4SvEahcLlJcRGaI8qRI4DK"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "A Bushman Can't Survive",
-      "url": "https://open.spotify.com/track/52vVnJVanG26T4XMGkU1Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rip Rip Woodchip (feat. John Williamson) [Live At The Sydney Opera House]",
         "url": "https://open.spotify.com/album/3yiovJTUp4fzK0F8bDdXZu"
       },
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waratah St.",
-        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
+        "name": "John Williamson: In Symphony",
+        "url": "https://open.spotify.com/album/4SvEahcLlJcRGaI8qRI4DK"
       },
       "artists": [
         {
@@ -768,9 +752,25 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 271160,
-      "name": "Tubbo Station",
-      "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
+      "duration_ms": 228186,
+      "name": "A Bushman Can't Survive",
+      "url": "https://open.spotify.com/track/52vVnJVanG26T4XMGkU1Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Australia Is Another Word for Free",
+      "url": "https://open.spotify.com/track/12GHwnYl5kQOCIxKDLuvEZ"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+        "name": "Waratah St.",
+        "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 195106,
-      "name": "Australia Is Another Word for Free",
-      "url": "https://open.spotify.com/track/12GHwnYl5kQOCIxKDLuvEZ"
+      "duration_ms": 271160,
+      "name": "Tubbo Station",
+      "url": "https://open.spotify.com/track/15sMNVZ86VVP2pBpZhZqwa"
     },
     {
       "added_at": null,

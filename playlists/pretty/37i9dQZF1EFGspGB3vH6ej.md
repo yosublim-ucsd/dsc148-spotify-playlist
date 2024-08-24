@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,016 likes - 249 songs - 17 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,015 likes - 249 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 34 | [Through The Rain](https://open.spotify.com/track/0mvtBgpiAg6fPg7ec7lxE9) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 4:48 |
 | 35 | [Say Something](https://open.spotify.com/track/1TztkUc1qFYl61tT85MHU4) | [Kadiatou](https://open.spotify.com/artist/4MvZ0qFh21x4rJ8lqMh5qZ) | [Say Something](https://open.spotify.com/album/3YHusqbp3AQbQK4hpo5I6D) | 3:43 |
 | 36 | [Butterfly](https://open.spotify.com/track/3hp4ojt7tHLWwz6SaR7vkw) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:33 |
-| 37 | [Joy to the World](https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:17 |
-| 38 | [Angels Cry Remix \- Remix](https://open.spotify.com/track/0TJRfA2MIIRd3tTDK9tPPf) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Angels Cry Remix feat\. Ne\-Yo](https://open.spotify.com/album/3SxgnytOcu80ARVznoU6P0) | 3:53 |
+| 37 | [Angels Cry Remix \- Remix](https://open.spotify.com/track/0TJRfA2MIIRd3tTDK9tPPf) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Angels Cry Remix feat\. Ne\-Yo](https://open.spotify.com/album/3SxgnytOcu80ARVznoU6P0) | 3:53 |
+| 38 | [Joy to the World](https://open.spotify.com/track/2OggiWqL8exckT6kOrcDuA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:17 |
 | 39 | [A No No](https://open.spotify.com/track/2Q0JkTzFXrU2BbnQT7tzIR) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:07 |
 | 40 | [Anytime You Need a Friend](https://open.spotify.com/track/6tsBYvprVAntHx8rQLedqn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:25 |
 | 41 | [GTFO](https://open.spotify.com/track/5GjXMhZsT6cdfRB7nurGu2) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution](https://open.spotify.com/album/64zK6tmksJw9gNZR0L4DVx) | 3:27 |
@@ -220,8 +220,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 210 | [One Night \- 1995](https://open.spotify.com/track/6eOZrCUM5K99o1fwedYHEh) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 4:41 |
 | 211 | [Miss You \(feat\. Jadakiss\)](https://open.spotify.com/track/3Z58wUS9esAmboMQOwNsx1) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [The Remixes](https://open.spotify.com/album/7GTZRYNB0eAig7UTsb54XG) | 5:08 |
 | 212 | [Mesmerized \- 2012](https://open.spotify.com/track/2JDmYRtktRlVmqBiYN770A) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Rarities](https://open.spotify.com/album/0v1DRRYBXYg1uVN1CIsyy0) | 3:22 |
-| 213 | [Triumphant \- Pulse Club Mix](https://open.spotify.com/track/2gcnvAxDFpxkYYsHzAlr9j) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Josh Abraham](https://open.spotify.com/artist/0fI7XTbV15bFnDfievQtmD), [Oligee](https://open.spotify.com/artist/1FR7xzV2leZ9lE9Ykqelyv), [U\-Tern](https://open.spotify.com/artist/2MOItYWcmLgA2E2OrjK759) | [Triumphant \(The Remixes\)](https://open.spotify.com/album/00IKlZAuwGQLqBJ1jjDSFC) | 5:28 |
-| 214 | [Mi Todo](https://open.spotify.com/track/79hDt9k2EGdVys1m9gcbhc) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah En Español EP](https://open.spotify.com/album/4HMb32LinHnacPdr6rnTRj) | 3:51 |
+| 213 | [Mi Todo](https://open.spotify.com/track/79hDt9k2EGdVys1m9gcbhc) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah En Español EP](https://open.spotify.com/album/4HMb32LinHnacPdr6rnTRj) | 3:51 |
+| 214 | [Triumphant \- Pulse Club Mix](https://open.spotify.com/track/2gcnvAxDFpxkYYsHzAlr9j) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Josh Abraham](https://open.spotify.com/artist/0fI7XTbV15bFnDfievQtmD), [Oligee](https://open.spotify.com/artist/1FR7xzV2leZ9lE9Ykqelyv), [U\-Tern](https://open.spotify.com/artist/2MOItYWcmLgA2E2OrjK759) | [Triumphant \(The Remixes\)](https://open.spotify.com/album/00IKlZAuwGQLqBJ1jjDSFC) | 5:28 |
 | 215 | [Sunflowers For Alfred Roy](https://open.spotify.com/track/2XhYtrNdQVnM7WYjBduASm) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/16rTsMjlDt6DEbLRtxvcWu) | 2:59 |
 | 216 | [Want You](https://open.spotify.com/track/4mUvyHNUEvRxghGy11deBn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 4:43 |
 | 217 | [Runway](https://open.spotify.com/track/357y2F83GG18TmJOhAi5nj) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Caution \(Japan Version\)](https://open.spotify.com/album/2VtWkFLhMJAFsWkHAXwosS) | 3:41 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 248 | [Herói](https://open.spotify.com/track/1kEV3SaWpYpYtGQPka4ilY) | [Márcio José](https://open.spotify.com/artist/4C3DIE332Fqn9pc3gjBEFg), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Uma Voz, Um Coração](https://open.spotify.com/album/26fyRBEH5saQYYnZQKzxaI) | 4:25 |
 | 249 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbaIgAAAAABZjCzMRLsMn9L+GPTjf+Yp`
+Snapshot ID: `AbaN4gAAAADOhC9tT4YrVZ4tfw9uDpc8`

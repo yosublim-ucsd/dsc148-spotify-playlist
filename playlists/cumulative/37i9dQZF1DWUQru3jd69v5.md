@@ -2,7 +2,7 @@
 
 ### [Raptopia](https://open.spotify.com/playlist/37i9dQZF1DWUQru3jd69v5)
 
-> La nuova generazione del rap italiano\. Néza in cover, aggiornata ogni venerdì
+> La nuova generazione del rap italiano\. Cover: Frezza
 
 1,285 songs - 2 day 7 hr 22 min
 

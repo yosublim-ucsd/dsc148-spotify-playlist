@@ -478,7 +478,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 153423,
       "name": "absolutely nothing",
       "url": "https://open.spotify.com/track/6cTGOjH47FApmq146t4ZBA"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 170823,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/0mxI2Q9O6Dm1nHo8E8F7fk"
@@ -2786,6 +2786,24 @@
       "duration_ms": 167000,
       "name": "Chillthefuckout.",
       "url": "https://open.spotify.com/track/55VMltUMehjSJecVIF9Ed2"
+    },
+    {
+      "album": {
+        "name": "Chop Chop",
+        "url": "https://open.spotify.com/album/3QMikZs5w6nMOusNY89ZY3"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161693,
+      "name": "Chop Chop",
+      "url": "https://open.spotify.com/track/2ShBQLwve2SDP7xJEVfbUE"
     },
     {
       "album": {
@@ -9951,6 +9969,28 @@
     },
     {
       "album": {
+        "name": "NOSE BLEED",
+        "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195161,
+      "name": "NOSE BLEED",
+      "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
+    },
+    {
+      "album": {
         "name": "NOT actin rite",
         "url": "https://open.spotify.com/album/6n7aidZ2WpTzxT7CwjefSw"
       },
@@ -11438,6 +11478,24 @@
       "duration_ms": 258826,
       "name": "Say It Ain't So",
       "url": "https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA"
+    },
+    {
+      "album": {
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162013,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
     },
     {
       "album": {
@@ -14812,7 +14870,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 193588,
       "name": "Used Me Up",
       "url": "https://open.spotify.com/track/42KSut7ComVs9N9tlraXNs"

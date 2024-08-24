@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 34791,
+  "num_followers": 34829,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAA04kAMuk2g08zWj4Mww4av",
+  "snapshot_id": "ZsZ/gAAAAAAqoQJxewKtAVuqHRh6HkXN",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/4tqiynYobtljkE8BAgKwkN"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/03HQFGIsEbZe2qmtfQhjs2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loco Enamorado",
         "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/4tqiynYobtljkE8BAgKwkN"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/03HQFGIsEbZe2qmtfQhjs2"
     },
     {
       "added_at": null,
@@ -507,6 +507,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Polvo Soy",
+        "url": "https://open.spotify.com/album/3HltDQreHZI013zu1J8Q60"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 173793,
+      "name": "Polvo Soy",
+      "url": "https://open.spotify.com/track/0hTJPHYkKsSzf9gfejChCy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 201258,
+      "name": "Sentimientos De Carton - En Vivo",
+      "url": "https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos 602 Vol.2",
         "url": "https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5"
       },
@@ -567,38 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.3 - En Vivo",
-        "url": "https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 201258,
-      "name": "Sentimientos De Carton - En Vivo",
-      "url": "https://open.spotify.com/track/13bpCkdwpBycK88vHzbnIM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191477,
-      "name": "El De La 31",
-      "url": "https://open.spotify.com/track/3HqbCSQ8soSfTLdPeYTs1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Ando Solo",
         "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
       },
@@ -619,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo Soy",
-        "url": "https://open.spotify.com/album/7D0Kkh6JDZkP2fF3JWJ7rI"
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5"
       },
       "artists": [
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 173793,
-      "name": "Polvo Soy",
-      "url": "https://open.spotify.com/track/32j8TGCQDBzKEmYmvCCNG2"
+      "duration_ms": 191477,
+      "name": "El De La 31",
+      "url": "https://open.spotify.com/track/3HqbCSQ8soSfTLdPeYTs1Q"
     },
     {
       "added_at": null,
@@ -755,22 +755,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es por Ella",
-        "url": "https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew"
+        "name": "No Ando Solo",
+        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
       },
       "artists": [
         {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        },
-        {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 170908,
-      "name": "No Es por Ella",
-      "url": "https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H"
+      "duration_ms": 188511,
+      "name": "Si Esta Botella Hablara",
+      "url": "https://open.spotify.com/track/5r8wUCktxdOwIZTxuCD9rJ"
     },
     {
       "added_at": null,
@@ -791,22 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ando Solo",
-        "url": "https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e"
+        "name": "No Es por Ella",
+        "url": "https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
         },
         {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 188511,
-      "name": "Si Esta Botella Hablara",
-      "url": "https://open.spotify.com/track/5r8wUCktxdOwIZTxuCD9rJ"
+      "duration_ms": 170908,
+      "name": "No Es por Ella",
+      "url": "https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H"
     },
     {
       "added_at": null,

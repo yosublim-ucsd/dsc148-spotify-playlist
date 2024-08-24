@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: AB6IX\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? \(Cover: NCT DREAM\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-596 songs - 1 day 9 hr 2 min
+597 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Call My Name](https://open.spotify.com/track/4oiItSewsjWXE8uDFYMAua) | [BLACK6IX](https://open.spotify.com/artist/5W5dowztOO3kw9A5zpyjOO) | [Nice To Meet You](https://open.spotify.com/album/2CISWZe4O7VeAyGCIbyh12) | 3:16 | 2022-03-22 | 2022-04-17 |
 | [CALLING](https://open.spotify.com/track/5NibycDD14103N4SpuTSe6) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [CALLING](https://open.spotify.com/album/5iDRA7S5w068WynMraKeL5) | 3:17 | 2023-03-15 | 2023-03-25 |
 | [Can't You See Me?](https://open.spotify.com/track/2qI0Uchpdc2RkzuhbRnnZ8) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: ETERNITY](https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora) | 3:21 | 2021-12-08 | 2022-07-15 |
-| [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 | 2022-12-21 | 2024-08-19 |
+| [Candy](https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Candy \- Winter Special Mini Album](https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K) | 3:37 | 2022-12-21 |  |
 | [Candy Sugar Pop](https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Drive to the Starry Road](https://open.spotify.com/album/5yFMVUSwNR0qAtEW78nDj0) | 2:49 | 2022-05-17 | 2022-06-09 |
 | [Can’t Stop Shining](https://open.spotify.com/track/0oJZzuHUjpKAFrSHqjJKZM) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [SHINING UP](https://open.spotify.com/album/1NqjkIZ66H34YgWgtU7gaE) | 2:51 | 2022-08-29 | 2022-09-06 |
 | [CASE 143](https://open.spotify.com/track/3O8G8eVrhfXTGttyQ1xVuq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:11 | 2022-10-12 |  |
@@ -224,7 +224,7 @@
 | [God’s Menu](https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ) | 2:47 | 2021-12-08 | 2022-07-29 |
 | [God’s Menu](https://open.spotify.com/track/4XPXrcpyNr30Km6aPiflJy) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 2:47 | 2022-07-27 | 2024-04-19 |
 | [Golden \(feat\. XIAOJUN of WayV, pH\-1\)](https://open.spotify.com/track/3PAdRq6wr8XloSVdCneAMH) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [XIAOJUN](https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:18 | 2022-03-22 | 2022-04-17 |
-| [Gone](https://open.spotify.com/track/7bvE43XnhZncVwLRY3abGp) | [BANG&JUNG&YOO&MOON](https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI) | [CURTAIN CALL](https://open.spotify.com/album/16TGHVXVMsIJu1cNUsK71E) | 3:19 | 2024-08-08 |  |
+| [Gone](https://open.spotify.com/track/7bvE43XnhZncVwLRY3abGp) | [BANG&JUNG&YOO&MOON](https://open.spotify.com/artist/6KalXi8b9Zf4l2ilPgfOJI) | [CURTAIN CALL](https://open.spotify.com/album/16TGHVXVMsIJu1cNUsK71E) | 3:19 | 2024-08-08 | 2024-08-24 |
 | [GOOD BAM](https://open.spotify.com/track/2iODlZgbroRzdfuxmFfPiH) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [YAHO](https://open.spotify.com/album/54lrjzd3nWqD8JxSERPlBN) | 3:30 | 2021-12-08 | 2022-04-20 |
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2022-05-09 | 2024-04-05 |
 | [Good Enough](https://open.spotify.com/track/3N4tXBhKONZAFWIEZgFwPk) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 1\. \[Good Enough\]](https://open.spotify.com/album/3hfI6iAFZCjWXI08xJFIcH) | 3:29 | 2024-03-26 | 2024-04-06 |
@@ -275,7 +275,7 @@
 | [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-07 | 2022-07-20 |
 | [Impossible](https://open.spotify.com/track/0GIzsyWjS0wb15Q7zB5L7b) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING](https://open.spotify.com/album/4DdDtcluroMFPVLWFKykqk) | 3:02 | 2024-04-29 | 2024-05-21 |
 | [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 | 2024-04-18 | 2024-05-08 |
-| [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2023-07-19 | 2024-08-17 |
+| [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2023-07-19 |  |
 | [Infinite City \- Groundbreak Version](https://open.spotify.com/track/5DvbyNZX3sXad7BXiCZlql) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [1st Track of CJ LiveCity](https://open.spotify.com/album/37OcZj8uuvKDgwTXhTsS9r) | 4:11 | 2022-03-22 | 2022-04-20 |
 | [INSIDE OUT](https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The 2nd Album ‘Romanticize’](https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs) | 3:17 | 2021-12-08 | 2022-07-23 |
 | [Into You](https://open.spotify.com/track/049uXN76j7jCn0OrQiSDCm) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Into You](https://open.spotify.com/album/3rLteXReBNmvMLaTufI17p) | 2:38 | 2024-06-25 | 2024-07-19 |
@@ -284,7 +284,7 @@
 | [It's Raining](https://open.spotify.com/track/0dpp5l5Mf17gFI8AtahK3h) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Road to Kingdom \(Your Song\), Pt\. 1](https://open.spotify.com/album/69u5RBm7sL60Y1BK3dtUDH) | 3:33 | 2022-03-22 | 2022-04-10 |
 | [JACKPOT](https://open.spotify.com/track/4e4RlMOWUnoVkIYyjNjN57) | [VANNER](https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D) | [CAPTURE THE FLAG](https://open.spotify.com/album/2gQepXItf8PffuK3DgEpiY) | 2:38 | 2024-01-31 | 2024-02-27 |
 | [JAWS](https://open.spotify.com/track/5BVe5BDEa3JGJnA9IHuBYg) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [INTERSECTION : BLAZE](https://open.spotify.com/album/7raO8lCDp9amtMVxrE29HM) | 3:28 | 2022-03-30 | 2022-04-13 |
-| [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 | 2022-02-15 |  |
+| [JIKJIN](https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:04 | 2022-02-15 | 2024-08-24 |
 | [Jopping](https://open.spotify.com/track/5WrEilrRI5cIW0DxMvQYPZ) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [SuperM \- The 1st Mini Album](https://open.spotify.com/album/1C1qYeSC9RdgbrKXpZCTSJ) | 4:11 | 2022-03-31 | 2022-04-16 |
 | [Journey](https://open.spotify.com/track/6dxgKYAH0TvoSb16xD30rD) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 3:18 | 2023-04-26 | 2023-05-17 |
 | [JUMP](https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ALL IN](https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B) | 2:43 | 2023-06-09 | 2023-09-13 |
@@ -294,7 +294,7 @@
 | [Just Breath](https://open.spotify.com/track/68U6oSUCvqk4MiTULbYCEd) | [JINJIN&ROCKY\(ASTRO\)](https://open.spotify.com/artist/6zJq6snkjTflfNsUOQBekK) | [Restore](https://open.spotify.com/album/6tMchqSyAKi6ePdzbaZqK6) | 3:23 | 2022-01-17 | 2022-07-28 |
 | [KARMA](https://open.spotify.com/track/7r0SUODm7Wq4yTpT2KKtg8) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Part II \. Chiwoo](https://open.spotify.com/album/3t29EYNXWXk1GQcNxKZATU) | 3:56 | 2022-03-30 | 2022-06-14 |
 | [Kick It 4 Now](https://open.spotify.com/track/5oyt64vcLF0MwDq5XNgx86) | [THE NEW SIX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [BOYHOOD](https://open.spotify.com/album/3k4xr3Bn9NfyX7O1nlK7Mg) | 2:55 | 2023-06-09 | 2023-06-16 |
-| [KILL ME](https://open.spotify.com/track/4TBLxFV7UNywrpfVBzeSFb) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Find YOU](https://open.spotify.com/album/7GsX3SQSkUvDWnYT0ziJuK) | 3:12 | 2024-08-13 |  |
+| [KILL ME](https://open.spotify.com/track/4TBLxFV7UNywrpfVBzeSFb) | [LEE DAE HWI](https://open.spotify.com/artist/5j4ZfrjfKJhMBbDgTFxIwB), [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Find YOU](https://open.spotify.com/album/7GsX3SQSkUvDWnYT0ziJuK) | 3:12 | 2024-08-13 | 2024-08-24 |
 | [KILLA](https://open.spotify.com/track/7MyF8hoeUbpv6ZIEVlsTY8) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [KILLA \- MIRAE 1st Mini Album](https://open.spotify.com/album/1Hie8o9qZTYeiitXGmzI2V) | 3:32 | 2022-01-03 | 2022-06-01 |
 | [Killin' It](https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [Killin' It](https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6) | 2:56 | 2024-02-05 |  |
 | [KILLING ME](https://open.spotify.com/track/36wruYZk4V9sWeUzR3rB74) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [NEW KIDS REPACKAGE : THE NEW KIDS](https://open.spotify.com/album/2e2VfakLM318HT1VaJsKq2) | 3:13 | 2022-03-31 | 2022-04-16 |
@@ -426,6 +426,7 @@
 | [Puzzle](https://open.spotify.com/track/5QYXBAiagfRIwzlouAnJXQ) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE PIECE OF9](https://open.spotify.com/album/5SPtURpxbD8ZCIKRpjQWpo) | 3:36 | 2023-01-09 | 2023-03-16 |
 | [Ra Pam Pam](https://open.spotify.com/track/7aJSEhH3kzrcr4g0uGXUC7) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 2nd Album \[Game Changer\]](https://open.spotify.com/album/4PTy3b8H1Blt625KhFa9QU) | 3:31 | 2022-03-30 | 2022-07-28 |
 | [Rain To Be](https://open.spotify.com/track/3JUy6uHdxEGf5cqk7IxDrE) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Planet Nine : Alter Ego](https://open.spotify.com/album/4vGyxBRf0DK6Jhq0DyL87O) | 3:15 | 2022-01-27 | 2022-06-21 |
+| [Rains in Heaven](https://open.spotify.com/track/2u30g2qcJJo13rES1Us8aW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Rains in Heaven](https://open.spotify.com/album/3FTFpShMTd8cB5vV7w0gf1) | 3:57 | 2024-08-23 |  |
 | [RE=LOAD](https://open.spotify.com/track/7xbF0zvvjJ4oT4HvcYi85k) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BEGUN](https://open.spotify.com/album/0uF2qZ5B62L4ZlfLkAXhd1) | 3:18 | 2022-04-15 | 2022-05-12 |
 | [Ready or Not](https://open.spotify.com/track/5ArnumzuZkiaSmZaxPsQfh) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [SUN SEEKER](https://open.spotify.com/album/1FdVBP7g9FfMa7ifgyY4iA) | 3:11 | 2023-09-11 | 2023-10-14 |
 | [REALLY REALLY](https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/5hmezEZaQ7D0ntBA9J76kb) | 3:23 | 2021-12-08 | 2022-07-29 |

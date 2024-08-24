@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Sly5thAve",
-  "num_followers": 351733,
+  "num_followers": 351844,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAABoGV1NglqfnnZOVKUxnB8+",
+  "snapshot_id": "ZsgJQAAAAADzSgsEzApa9/ZDs0Vo0Vxx",
   "tracks": [
     {
       "added_at": "2024-07-26 04:00:00",
@@ -43,6 +43,34 @@
       "duration_ms": 199060,
       "name": "Burning",
       "url": "https://open.spotify.com/track/7ru68qYGq300h0aC0icBOA"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Audio Bicycle Day",
+        "url": "https://open.spotify.com/album/20LESRKaYkgillAMKMCzFy"
+      },
+      "artists": [
+        {
+          "name": "Ari Joshua",
+          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
+        },
+        {
+          "name": "Grant Schroff",
+          "url": "https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii"
+        },
+        {
+          "name": "Skerik",
+          "url": "https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md"
+        },
+        {
+          "name": "Delvon Lamarr",
+          "url": "https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR"
+        }
+      ],
+      "duration_ms": 341560,
+      "name": "Audio Bicycle Day",
+      "url": "https://open.spotify.com/track/4lDY6ELuyvyReJJ3MWUxLT"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -119,6 +147,34 @@
       "duration_ms": 202131,
       "name": "Cold As Hell",
       "url": "https://open.spotify.com/track/0mu1NEo7V5CbOytI64KUso"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Amplify",
+        "url": "https://open.spotify.com/album/47nlAwFvlWQtpYgMX86kDz"
+      },
+      "artists": [
+        {
+          "name": "The Lao Tizer Band",
+          "url": "https://open.spotify.com/artist/0ztSmxNCHPTylzNhhZOIgC"
+        },
+        {
+          "name": "Elliott Yamin",
+          "url": "https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd"
+        },
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        },
+        {
+          "name": "Chieli Minucci",
+          "url": "https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX"
+        }
+      ],
+      "duration_ms": 438793,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/7tlyMqKsd5fbx0zzovhPxM"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -383,34 +439,6 @@
       "duration_ms": 491250,
       "name": "Gentle Thoughts",
       "url": "https://open.spotify.com/track/1QW7UMRftBD5tPs0Q3ODff"
-    },
-    {
-      "added_at": "2024-03-15 04:01:00",
-      "album": {
-        "name": "Rare Groove",
-        "url": "https://open.spotify.com/album/2KenMRteWWP6tr3nVS6BS0"
-      },
-      "artists": [
-        {
-          "name": "Ari Joshua",
-          "url": "https://open.spotify.com/artist/3C9Z1YhnRr08CKRSZ7nEuV"
-        },
-        {
-          "name": "Grant Schroff",
-          "url": "https://open.spotify.com/artist/5uxQLRiqpsaOO2WYT85Fii"
-        },
-        {
-          "name": "Skerik",
-          "url": "https://open.spotify.com/artist/00uSjAOZMB626Y0W2ij3Md"
-        },
-        {
-          "name": "Delvon Lamarr",
-          "url": "https://open.spotify.com/artist/02eerWTQGpKteeEReGfGXR"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Rare Groove",
-      "url": "https://open.spotify.com/track/4Cc9CxBFDRIbzRhp2mldMz"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -3215,22 +3243,6 @@
       "duration_ms": 340946,
       "name": "The Check In",
       "url": "https://open.spotify.com/track/6TeBNoedebZvrVU3qQ8vho"
-    },
-    {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "Step Down",
-        "url": "https://open.spotify.com/album/3Gy33o1AUvu4eNKT8jHAIV"
-      },
-      "artists": [
-        {
-          "name": "The Sure Fire Soul Ensemble",
-          "url": "https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ"
-        }
-      ],
-      "duration_ms": 209013,
-      "name": "Love Age",
-      "url": "https://open.spotify.com/track/4rI9SISHRL2STgTlLH1DtN"
     },
     {
       "added_at": "2021-04-09 04:01:00",

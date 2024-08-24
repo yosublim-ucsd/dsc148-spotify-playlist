@@ -2,9 +2,9 @@
 
 ### [This Is Miranda Lambert](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bb9Kw)
 
-> This Is Miranda Lambert\. Los temas esenciales, todos en una lista.
+> This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-90 songs - 5 hr 14 min
+91 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Mess with My Head](https://open.spotify.com/track/3pOYCVZaunOdjHaf5LhiV6) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 2:33 | 2022-09-08 | 2022-10-13 |
 | [More Like Her](https://open.spotify.com/track/6vMiU1tMnWXkWlmMWjX6ZN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:28 | 2022-09-08 |  |
 | [New Strings](https://open.spotify.com/track/3aLD4sG82hq2c1xVpiIkK5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:50 | 2022-09-24 | 2022-09-26 |
+| [No Man's Land](https://open.spotify.com/track/51bsmJ20vnlJ6rKuoemI0s) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [No Man's Land](https://open.spotify.com/album/6NynYyx8H1IP10YRdWpyaQ) | 3:43 | 2024-08-24 |  |
 | [Okie From Muskogee \- Live](https://open.spotify.com/track/529x2bhs2op70bGqGOoLk4) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB), [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT), [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP), [Ben Haggard](https://open.spotify.com/artist/2RtEucMpDtN3H68hDwFdnc), [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx), [Lynyrd Skynyrd](https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0), [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb), [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [Ronnie Dunn](https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8), [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Okie From Muskogee \(Live\)](https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6) | 1:35 | 2022-10-12 |  |
 | [Only Prettier](https://open.spotify.com/track/05Rdg52eBYVUy5A55rnz39) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 3:09 | 2022-09-08 |  |
 | [Outrunnin' Your Memory](https://open.spotify.com/track/79gv58G6usuURwl6TlmBTu) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 | 2022-09-08 |  |

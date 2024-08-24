@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "All For The Glory",
+        "url": "https://open.spotify.com/album/6DPXDXZQ6QDHYOa2hTOPhL"
+      },
+      "artists": [
+        {
+          "name": "DIAMANTE",
+          "url": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172695,
+      "name": "All For The Glory",
+      "url": "https://open.spotify.com/track/7vaYafNVrxCBZJagbhJB40"
+    },
+    {
+      "album": {
         "name": "Blood & Stone (Deluxe)",
         "url": "https://open.spotify.com/album/42bxR4Y43Hyjr7vcQRfxBs"
       },
@@ -1183,6 +1201,28 @@
     },
     {
       "album": {
+        "name": "Popular Monster",
+        "url": "https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "Saraya",
+          "url": "https://open.spotify.com/artist/7EJH4GRkCHu08SoTKVKQm2"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157741,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/7uAWPqXthO4pO2Exc8V90t"
+    },
+    {
+      "album": {
         "name": "Divisive",
         "url": "https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa"
       },
@@ -1624,7 +1664,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 188341,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/1SYgq8E7JfQWoLmI0KYjqH"
@@ -4854,7 +4894,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 145600,
       "name": "Fear Of You",
       "url": "https://open.spotify.com/track/29hSHVfUKExy1l9hfPeib5"
@@ -5468,10 +5508,28 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 221306,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/7pBQZBry3YU6ciSwXrjVdh"
+    },
+    {
+      "album": {
+        "name": "Ghost Inside The Shell",
+        "url": "https://open.spotify.com/album/6xqFGXKtI20ESDGkWtjWeB"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228967,
+      "name": "Ghost Inside The Shell",
+      "url": "https://open.spotify.com/track/49HsFAhcWNTjQx2eBkd7bo"
     },
     {
       "album": {
@@ -5592,7 +5650,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 247333,
       "name": "GIVE 'EM HELL",
       "url": "https://open.spotify.com/track/0vns6leiaTVEhpzMdw4Swt"
@@ -6386,7 +6444,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 163413,
       "name": "HIGHER POWER",
       "url": "https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz"
@@ -7120,6 +7178,24 @@
       "duration_ms": 189499,
       "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
       "url": "https://open.spotify.com/track/5MgL0ccriqgDP1Gq3pwNNO"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08"
+      },
+      "artists": [
+        {
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242106,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD"
     },
     {
       "album": {
@@ -7994,7 +8070,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 215796,
       "name": "LEAVE ME ALONE",
       "url": "https://open.spotify.com/track/6rpP8yjaUFXW85basqmW3s"
@@ -11106,7 +11182,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 244233,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/4T5tvbFPk4pqxQYT78cADG"
@@ -12259,6 +12335,24 @@
     },
     {
       "album": {
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162013,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
+    },
+    {
+      "album": {
         "name": "Say What You Will",
         "url": "https://open.spotify.com/album/7gSyu9jMUqHOFYXeKtOSfB"
       },
@@ -12498,7 +12592,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 190833,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE"
@@ -12790,6 +12884,24 @@
       "duration_ms": 198927,
       "name": "Skin",
       "url": "https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D"
+    },
+    {
+      "album": {
+        "name": "Skin & Bones",
+        "url": "https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Skin & Bones",
+      "url": "https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT"
     },
     {
       "album": {
@@ -13502,7 +13614,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 217286,
       "name": "Suicide (The Lovers)",
       "url": "https://open.spotify.com/track/0oVcZ9Z9GIZUcQIbcm3LbL"
@@ -14719,6 +14831,42 @@
     },
     {
       "album": {
+        "name": "Dragonborn",
+        "url": "https://open.spotify.com/album/0OnqzEEMsXMiRKL3je3SHi"
+      },
+      "artists": [
+        {
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196981,
+      "name": "The Story Of Our Lives",
+      "url": "https://open.spotify.com/track/3EIH4AJu0eGSVNp768Mrb6"
+    },
+    {
+      "album": {
+        "name": "The Void",
+        "url": "https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3"
+    },
+    {
+      "album": {
         "name": "The Atlas Underground Fire",
         "url": "https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp"
       },
@@ -15474,6 +15622,24 @@
       "duration_ms": 175157,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/4sOgK1FXdaCf2hsCtduj3C"
+    },
+    {
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/6TfNPrsQuGXEGuY3stlPRD"
+      },
+      "artists": [
+        {
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224924,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/0gmYPQH9XpNeuQoBLgoS9W"
     },
     {
       "album": {

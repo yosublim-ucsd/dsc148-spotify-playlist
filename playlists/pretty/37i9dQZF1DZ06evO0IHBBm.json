@@ -1,12 +1,12 @@
 {
-  "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 29717,
+  "description": "This is Damares. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 29716,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABLeFgj6Owbq4K7R5eBh2NT",
+  "snapshot_id": "ZsZ/gAAAAABweLLMFonVw0nvCrBv0bKs",
   "tracks": [
     {
       "added_at": null,
@@ -799,6 +799,26 @@
       "duration_ms": 267264,
       "name": "\u00c9s Maior",
       "url": "https://open.spotify.com/track/0cPy3Yr05gh3G8dTpzMGDR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tudo Isso Vai Passar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/45U92rIVHr0cmdz8G422VS"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Tudo Isso Vai Passar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5EJIAQL7BEMaznS7xlCEyH"
     }
   ],
   "unique_name": "This Is Damares",

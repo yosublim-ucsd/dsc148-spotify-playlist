@@ -2,9 +2,9 @@
 
 ### [ALTER\-native](https://open.spotify.com/playlist/37i9dQZF1DWVx80ckNwI92)
 
-> The future of African Indie and Alternative\. Cover: Hugo Pooe
+> The future of African Indie and Alternative\. Cover: <a href="https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW?si=zzLUoLWXTQ\-1K4bkD6aCVQ">Leomile</a>
 
-151 songs - 7 hr 47 min
+152 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [MOVE ALONG](https://open.spotify.com/track/61VXr1QvI8NeETilAJst3O) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [SKTLLZ](https://open.spotify.com/artist/66olM2buHnkGEYhr9MjIf5) | [MOVE ALONG](https://open.spotify.com/album/4ylBPHCeJ9aOCqe0cc2tqx) | 2:59 | 2023-06-26 | 2024-07-19 |
 | [my intentions](https://open.spotify.com/track/6xLC342gJAbWQYG3Td23cn) | [Funbi](https://open.spotify.com/artist/2ZvhA3s4Jwbcce62lzGEGX) | [my Intentions](https://open.spotify.com/album/3HKtKW3F060uEkTCxWnU8E) | 3:06 | 2023-03-30 | 2023-06-09 |
 | [Nako](https://open.spotify.com/track/300ZG5cAu0vRAb0J20n3tD) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh) | [Sello](https://open.spotify.com/album/0FZJRs20d6SFhG4S9XlT0E) | 4:39 | 2024-06-27 |  |
+| [Nevermind.](https://open.spotify.com/track/31lU9LGAQ9UhrDBTwdvNm5) | [Leomile](https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW) | [Nevermind.](https://open.spotify.com/album/5vTrYfOMYC8Hh5Vpc9sjnY) | 2:31 | 2024-08-23 |  |
 | [New Lamp](https://open.spotify.com/track/50oZJpYzGdHBCFdzTGIavP) | [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Mellow Dramatic](https://open.spotify.com/album/61PXFedLFHdsDP2L8YWte4) | 3:54 | 2024-06-14 |  |
 | [No Lymyt](https://open.spotify.com/track/6iyVmsDyy81510Hs9LP6b1) | [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [No Lymyt](https://open.spotify.com/album/0vXzKg4qs3SQ9fsHIyOIIH) | 4:06 | 2024-03-21 |  |
 | [no more love](https://open.spotify.com/track/00bjwboO8r7vRXULyP2Eni) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw), [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY) | [no more love](https://open.spotify.com/album/3AyyNEwDeL3yEcvWFdPtOV) | 2:53 | 2023-11-03 | 2024-07-19 |

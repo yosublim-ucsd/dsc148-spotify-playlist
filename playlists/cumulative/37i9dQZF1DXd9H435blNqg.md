@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-153 songs - 8 hr 28 min
+154 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Love from Philly \(feat\. Schoolly D & Chuck Treece\)](https://open.spotify.com/track/7EhHLLq7Q9djkr36bvRfBr) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Schoolly D](https://open.spotify.com/artist/63NXL9k1RkJYcQ5MkUETLL), [Chuck Treece](https://open.spotify.com/artist/1eqVSNP9MMcDjki4dMIfeV) | [Love from Philly \(feat\. Schoolly D & Chuck Treece\)](https://open.spotify.com/album/6CBVX1JoEZLgo8t53RJ4Ds) | 4:42 | 2022-04-22 | 2023-06-24 |
 | [Love Your Lies](https://open.spotify.com/track/28tee7ARpnxcoTuUQpriWl) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Kill Or Be Kind](https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA) | 2:47 | 2021-02-12 |  |
 | [Mexico \(I Want You Back\)](https://open.spotify.com/track/0axHK5bsuYwY0ES36dvoHl) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Get By \(Good Enough\)](https://open.spotify.com/album/1cjS4Dg6yv2uUD2YqgEYyZ) | 3:10 | 2023-06-23 | 2024-04-19 |
-| [Mexico \(I Want You Back\)](https://open.spotify.com/track/2GbOkXVIIjtkt17jaz8xui) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 3:10 | 2023-06-23 |  |
+| [Mexico \(I Want You Back\)](https://open.spotify.com/track/2GbOkXVIIjtkt17jaz8xui) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Mexico \(I Want You Back\)](https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3) | 3:10 | 2023-06-23 | 2024-08-24 |
 | [Mexico \(I Want You Back\)](https://open.spotify.com/track/4BKgz9TACeo9wrlkjDAu5n) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Light Rail Blues \(Heart Attack\)](https://open.spotify.com/album/0SjzyBUxbepqv4WXjO7551) | 3:10 | 2023-06-23 | 2023-10-24 |
 | [Mexico \(I Want You Back\)](https://open.spotify.com/track/5JSmdAPbXsFUqoPWd88JRP) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Bless Your Soul \(Change\)](https://open.spotify.com/album/0Z35p1m5sLNanfuS8eQnvN) | 3:10 | 2023-06-23 | 2023-09-11 |
 | [Mexico \(I Want You Back\)](https://open.spotify.com/track/6iu6EHTx9w9Hj1orNRcVN9) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Come on Now \(Take From Me\)](https://open.spotify.com/album/2xDs9g1yb4bs0nTsztRmoH) | 3:10 | 2023-06-23 | 2024-02-09 |
@@ -126,6 +126,7 @@
 | [Searching for Captain Save a Hoe](https://open.spotify.com/track/2Q2QaeGLf2TC3czLKwv2P9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Have You Lost Your Mind yet?](https://open.spotify.com/album/6b96nRUJmHMTQwK1IK9tJy) | 3:45 | 2021-02-12 | 2024-03-23 |
 | [Shot Down](https://open.spotify.com/track/42vMIdruxaoslgfiyYBuwh) | [Vinny Virgo](https://open.spotify.com/artist/6ltRvKGrFYQoDwAmgYIB3B) | [Shot Down](https://open.spotify.com/album/4RWPMWMElW4byNmBLINBsL) | 3:13 | 2022-08-31 | 2024-04-19 |
 | [Shot Down](https://open.spotify.com/track/6fqeBYpDjHcCTtIfZ4L9i0) | [Vinny Virgo](https://open.spotify.com/artist/6ltRvKGrFYQoDwAmgYIB3B) | [Shot Down](https://open.spotify.com/album/3GSGs4142RQMnWYEmGGHBd) | 3:13 | 2021-02-12 |  |
+| [Slow Down \(No Need to Worry\)](https://open.spotify.com/track/4Lfsre3Eip6TADVeduK1VW) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Get By \(With Me\)](https://open.spotify.com/album/798myu49T30x19CgMckKis) | 4:01 | 2024-08-23 |  |
 | [Somebody to Love \(Trust\)](https://open.spotify.com/track/7otWVTT2kHVAKkToJJaOJn) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Somebody to Love \(Trust\)](https://open.spotify.com/album/4V9uqHkiHQfMpt8gYDaGWg) | 3:02 | 2024-05-31 |  |
 | [South Gotta Change](https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [South Gotta Change](https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ) | 3:45 | 2021-02-12 |  |
 | [Stay Wild](https://open.spotify.com/track/1fMrYWrnxIQcaO6suYfrVR) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Stay Wild](https://open.spotify.com/album/2EvSeHfsL1ZgP2U7CTmBRF) | 4:45 | 2021-02-19 |  |

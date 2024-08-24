@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-648 songs - 2 day 15 hr 57 min
+649 songs - 2 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Alfortville](https://open.spotify.com/track/2c7WrSsnIYnBYCrUi0HP11) | [Remcord](https://open.spotify.com/artist/09iSLnIk5tjj4u4T7nrhmB) | [Alfortville EP](https://open.spotify.com/album/2U8G8IAd5eEDk3rvfFddan) | 7:15 | 2021-05-07 | 2021-05-28 |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-08-12 |  |
 | [All I Know](https://open.spotify.com/track/3xaiWZvVvs59VpCtNWEUY6) | [Sascha Braemer](https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond) | [Megan EP](https://open.spotify.com/album/4vzXrvITQCyH3FSQMygG2V) | 7:43 | 2020-03-25 | 2020-04-09 |
+| [All we ever wanted](https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [SCHWARZ](https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc) | [All we ever wanted](https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2) | 3:38 | 2024-08-16 |  |
 | [Alle](https://open.spotify.com/track/1SMyvP1TNiTiJ8rDZG54BJ) | [Eluize](https://open.spotify.com/artist/4UynZk3RxczOK1AwaHR5ha), [La Fraicheur](https://open.spotify.com/artist/5xrTRjPCPnJZVsI6RUaG1i) | [Alle](https://open.spotify.com/album/1s3j5UFwrQGG8Z971wgeaD) | 6:41 | 2019-10-24 | 2020-03-19 |
 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 | 2023-09-01 |  |
 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-07-19 |  |
@@ -214,7 +215,7 @@
 | [Galissa](https://open.spotify.com/track/0R0xgloOtA5RPmTE5BTnRn) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Galissa](https://open.spotify.com/album/1yeFt2ishOi9hh7P9k8sv2) | 6:51 | 2021-08-17 | 2021-09-10 |
 | [Garden Of Peace \- Yotto Renaissance Remix](https://open.spotify.com/track/3dbaMprMQ9YytqZM50lvfn) | [Power Circle](https://open.spotify.com/artist/1wkJvdDly55Dtr4fFxCtsN), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Garden Of Peace](https://open.spotify.com/album/1sdeUNPrA39oF45xeVy3u4) | 6:47 | 2021-05-08 | 2022-04-17 |
 | [German Spring](https://open.spotify.com/track/16rPiwJp75OWUxBAMVzJQx) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [German Spring](https://open.spotify.com/album/6zAnjHCE27AwbAqXXW8otQ) | 7:12 | 2021-06-05 | 2022-07-28 |
-| [Get Lucky](https://open.spotify.com/track/4lSCnW0nsmts8DKJLNiia9) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Gracie Thunder](https://open.spotify.com/artist/25d61nDt5Q9CgyfTraRplX) | [Get Lucky](https://open.spotify.com/album/17OsldS6iPodvsbgVOJEho) | 3:45 | 2023-06-30 |  |
+| [Get Lucky](https://open.spotify.com/track/4lSCnW0nsmts8DKJLNiia9) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Gracie Thunder](https://open.spotify.com/artist/25d61nDt5Q9CgyfTraRplX) | [Get Lucky](https://open.spotify.com/album/17OsldS6iPodvsbgVOJEho) | 3:45 | 2023-06-30 | 2024-08-24 |
 | [Ghostkeeper](https://open.spotify.com/track/13EMVBU1hcy5yJdX1Xhf9a) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [GIVVEN](https://open.spotify.com/artist/7e1aNehmQevT0RVtN8Pzly) | [Ghostkeeper](https://open.spotify.com/album/1yv2QCPD4HcYendMbnMnet) | 5:31 | 2020-02-26 | 2020-10-21 |
 | [Gimme Something](https://open.spotify.com/track/6JcHGCnx7iWrtZS26TJGK3) | [Drauf & Dran](https://open.spotify.com/artist/7vDF2oFndw0LFoqtF1nopb), [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Gimme Something](https://open.spotify.com/album/0lTIOKZtFl72ZEnr8EH6BR) | 5:53 | 2020-03-10 | 2021-12-21 |
 | [Give It All to You](https://open.spotify.com/track/1j4K66xky5S6qU3ng5YQoD) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Give It All to You](https://open.spotify.com/album/065o4Yye2hn6zHa9g1yvFV) | 6:39 | 2019-08-06\* | 2019-08-29 |

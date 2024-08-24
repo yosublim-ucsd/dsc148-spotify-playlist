@@ -272,7 +272,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 151633,
       "name": "A7X",
       "url": "https://open.spotify.com/track/7fywVRxevIbDGLWeNEz77I"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 202414,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 206511,
       "name": "BK Warehouse",
       "url": "https://open.spotify.com/track/13YV06ESsCZe2DRTyohV9p"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 168067,
       "name": "Breaking News (feat. Rico Nasty & Kilo Kish)",
       "url": "https://open.spotify.com/track/2hF3dmFEl36kASrmYEcGP0"
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 135228,
       "name": "DJ Got Me",
       "url": "https://open.spotify.com/track/5lFcDZXn5dXeAimwkpNP6s"
@@ -2493,6 +2493,28 @@
     },
     {
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Milaa",
+          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214214,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
+    },
+    {
+      "album": {
         "name": "Emancipated (Deluxe)",
         "url": "https://open.spotify.com/album/4kzAbEHPhMHmRtT7RMAlg3"
       },
@@ -2628,7 +2650,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 161563,
       "name": "Freekish",
       "url": "https://open.spotify.com/track/3dHBdRQoAQpumu58GPl1TU"
@@ -3680,7 +3702,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 171428,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj"
@@ -3876,6 +3898,28 @@
       "duration_ms": 101558,
       "name": "Keep It Playa (feat. 8ae)",
       "url": "https://open.spotify.com/track/4H7keLEwnjlpYHqV2HxwiL"
+    },
+    {
+      "album": {
+        "name": "KETCHUP",
+        "url": "https://open.spotify.com/album/3h27FLfrETdCJiMfP9DwVg"
+      },
+      "artists": [
+        {
+          "name": "KingAlexBeats",
+          "url": "https://open.spotify.com/artist/6UKzVrB3hJHkBAz60T4jlw"
+        },
+        {
+          "name": "FouKi",
+          "url": "https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "KETCHUP",
+      "url": "https://open.spotify.com/track/6x1tSvkdnEQqLh1WsLHFkN"
     },
     {
       "album": {
@@ -5031,6 +5075,24 @@
     },
     {
       "album": {
+        "name": "Out Of This World",
+        "url": "https://open.spotify.com/album/78R8e1C824Qo6335JT41FD"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "Out Of This World",
+      "url": "https://open.spotify.com/track/0UcLSSdeAeNCn4T28S0EKO"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/0Ml1rHhHIimsKY5G6AZh2b"
       },
@@ -5238,6 +5300,28 @@
       "duration_ms": 159253,
       "name": "Perdi\u00f3 Este Culo",
       "url": "https://open.spotify.com/track/1bmIRafMOhUKsnZE7haw2u"
+    },
+    {
+      "album": {
+        "name": "PHASES",
+        "url": "https://open.spotify.com/album/75BUYyrlTDKzPtWAwM5m0Q"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        },
+        {
+          "name": "\u00a3MONZO",
+          "url": "https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143376,
+      "name": "PHASES",
+      "url": "https://open.spotify.com/track/4HihdOraRzAVksckm2rCzc"
     },
     {
       "album": {
@@ -6530,7 +6614,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 138143,
       "name": "Standing Up To The Wind",
       "url": "https://open.spotify.com/track/5LDZR1EgPtlaAEUDPt90yq"
@@ -6732,6 +6816,36 @@
       "duration_ms": 184857,
       "name": "Switch It",
       "url": "https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI"
+    },
+    {
+      "album": {
+        "name": "take your vibes and go",
+        "url": "https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134844,
+      "name": "take your vibes and go",
+      "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
     },
     {
       "album": {
@@ -7142,7 +7256,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 166680,
       "name": "Turn Me Loose",
       "url": "https://open.spotify.com/track/6Y4awWdX9ahqmYMP1nErn7"
@@ -7558,7 +7672,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 161500,
       "name": "WHO DO YOU KNOW?",
       "url": "https://open.spotify.com/track/1oIiu8RHYJglhz2NQPW4wR"

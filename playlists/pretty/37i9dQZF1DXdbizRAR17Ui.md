@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,692 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,695 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 32 | [Riddles](https://open.spotify.com/track/692A9OaT8kc7KuFhvdcMqu) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Riddles](https://open.spotify.com/album/5RifJhwYzGXU4kQ4KGIkYC) | 2:49 |
 | 33 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 |
 | 34 | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/track/0QcO66hidLPUiazab9hprm) | [Jonny was Here.](https://open.spotify.com/artist/23nRxsR5E3ALBpT8Cl2Vbv), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr) | 3:14 |
-| 35 | [Home](https://open.spotify.com/track/1wD2C9vWlPgmRa2hw1RdA0) | [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM), [T\. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv) | [Home](https://open.spotify.com/album/66O2AlsvHJhKtaXtSZGias) | 2:45 |
-| 36 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
+| 35 | [Falling Apart](https://open.spotify.com/track/6OLWbvjMrcnjee9YyD6qnA) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Falling Apart](https://open.spotify.com/album/2WOEuoplEe5oGQlz6jNlji) | 3:28 |
+| 36 | [Home](https://open.spotify.com/track/1wD2C9vWlPgmRa2hw1RdA0) | [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM), [T\. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv) | [Home](https://open.spotify.com/album/66O2AlsvHJhKtaXtSZGias) | 2:45 |
 | 37 | [Del Oro](https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Del Oro](https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0) | 6:14 |
 | 38 | [Something Right](https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2), [Molly Moonwater](https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O) | [Something Right](https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI) | 2:55 |
 | 39 | [Backwards \- Dirty Danger Remix](https://open.spotify.com/track/01bm2bOFAqev8ISXyZPcTo) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Dirty Danger](https://open.spotify.com/artist/78lktX7XM4b5604M5Wq1YG) | [Backwards \(Dirty Danger Remix\)](https://open.spotify.com/album/7gJxO9sYE3Z3P6o2ZU11GP) | 2:21 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 45 | [RB3](https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [RB3](https://open.spotify.com/album/7ICteuiidF1pKca1tyX0A8) | 3:59 |
 | 46 | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L) | 3:31 |
 | 47 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
-| 48 | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u) | 3:15 |
-| 49 | [Nobody Knows](https://open.spotify.com/track/2Npm9RJ2U8hhKCQonDJESq) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [In My Head](https://open.spotify.com/album/0U2QxOH1RSNhTSFPeOd8yH) | 2:52 |
+| 48 | [Nobody Knows](https://open.spotify.com/track/2Npm9RJ2U8hhKCQonDJESq) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [In My Head](https://open.spotify.com/album/0U2QxOH1RSNhTSFPeOd8yH) | 2:52 |
+| 49 | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u) | 3:15 |
 | 50 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
 
 Snapshot ID: `ZsfC8AAAAADumQQyiHZJJ95U5joCUy3K`

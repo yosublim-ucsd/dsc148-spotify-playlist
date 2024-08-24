@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Sherman Zhuo
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,795 likes - 97 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,798 likes - 97 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 9 | [永遠不夠好](https://open.spotify.com/track/7CHTKV69cVtAaeuXorU7Cr) | [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [永遠不夠好](https://open.spotify.com/album/7eDr0qWKsvzIaqx4Hr3Z9n) | 4:39 |
 | 10 | [Cherry](https://open.spotify.com/track/0dbELkzr0YN3rNjuW9p8GS) | [nkei](https://open.spotify.com/artist/6DS6uiPxL0Sardq5cfls4O) | [Cherry](https://open.spotify.com/album/4JtelJ6oLVvzoPcCI3lJoO) | 2:58 |
 | 11 | [想起你還是心痛](https://open.spotify.com/track/213v8DxOqqKI90qrtaYCY0) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [想起你還是心痛](https://open.spotify.com/album/4jcIunWtt0hg8JbSLcR6AO) | 4:22 |
-| 12 | [Until The Sun Says Hi](https://open.spotify.com/track/3NOqA0wSeAEMazJeb6MK5t) | [Jonny Ong](https://open.spotify.com/artist/1mIf4tLRj9nww55KZwBEYm) | [Until The Sun Says Hi](https://open.spotify.com/album/4crSwOUofPPeCG5ccVTTIZ) | 3:48 |
+| 12 | [Until the Sun Says Hi](https://open.spotify.com/track/3NOqA0wSeAEMazJeb6MK5t) | [Jonny Ong](https://open.spotify.com/artist/1mIf4tLRj9nww55KZwBEYm) | [Until the Sun Says Hi](https://open.spotify.com/album/4crSwOUofPPeCG5ccVTTIZ) | 3:48 |
 | 13 | [Summer Love](https://open.spotify.com/track/7l3C6vs5qUb8FrOhDmHmgL) | [Kyle Waves](https://open.spotify.com/artist/4JI8Ua08Ilxh3BVUZTSdiR) | [Summer Love](https://open.spotify.com/album/1WkVAie27rZ91L4pHfVVcc) | 3:21 |
 | 14 | [I DON'T BELIEVE IN KARMA](https://open.spotify.com/track/5I48AHwTDwTvJKX61dbVjS) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [I DON'T BELIEVE IN KARMA](https://open.spotify.com/album/5aI4fIMlufpLaZfgGAKsUR) | 2:52 |
 | 15 | [Car Stereo](https://open.spotify.com/track/6xIlXQ9SXaVQyP2U2CtkaI) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Car Stereo](https://open.spotify.com/album/4oTjC4vugGn73WtW9O8O7A) | 3:53 |

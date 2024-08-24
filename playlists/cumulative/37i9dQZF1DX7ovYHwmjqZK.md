@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-149 songs - 8 hr 51 min
+151 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [As Cores das Flores](https://open.spotify.com/track/0SIpgaiaCYnrMsFra2eRRU) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Márcio Moreira](https://open.spotify.com/artist/2B05TksdlRPIiOgu0wl8Kg) | [As Cores das Flores](https://open.spotify.com/album/4KdRvg4blGZQsB2upPmpKL) | 3:01 | 2021-11-26 |  |
 | [Ataraxia](https://open.spotify.com/track/59eUAGih69vhMrwQoHrQNP) | [Emma dos Santos](https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp) | [Ataraxia](https://open.spotify.com/album/2qm9RP68WSIOpjeuz9Y8bk) | 3:03 | 2021-11-26 |  |
 | [Bachianas Brasileiras No.2: O Trenzinho do Caipira](https://open.spotify.com/track/2EJVC0ARkDDHxTkFQe4hhW) | [Chico Teixeira](https://open.spotify.com/artist/0rAlodh0dGYlbFuk3XGPmW) | [Bachianas Brasileiras No.2: O Trenzinho do Caipira](https://open.spotify.com/album/550yBsaBetEVsKvQkVH2Xn) | 2:41 | 2021-11-26 | 2023-11-25 |
+| [Bahia Com H](https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Bahia Com H](https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR) | 4:24 | 2024-08-23 |  |
 | [Batidinha](https://open.spotify.com/track/3KqGO5n8QUERnz0HXcma5S) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Wave](https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T) | 3:17 | 2021-11-26 |  |
 | [Bela Moça](https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6) | [Davide Sosa](https://open.spotify.com/artist/6h3NI13Spsuh4zJEuDjeY4) | [Insônia](https://open.spotify.com/album/6HI3NhU2eJR1Ca1M5LEVPZ) | 3:16 | 2021-11-26 |  |
 | [Bim Bom](https://open.spotify.com/track/0QNmH33S2Hk6tIHVYLcom4) | [Ana Solari](https://open.spotify.com/artist/1Gv09zvQN6BmMpFygO3SiP) | [Bim Bom](https://open.spotify.com/album/6Z5CN2IlbUsmmxxnLSrDwq) | 1:41 | 2021-11-26 |  |
@@ -92,7 +93,7 @@
 | [Nada é Melhor Do Que Você](https://open.spotify.com/track/5av3enKGwy5cfBKX8dpQ4r) | [Vitto Meirelles](https://open.spotify.com/artist/1k6FKHfl8lzBXvBfr6IPee) | [Da Hora](https://open.spotify.com/album/7nPkLH5JVbbc1mvesc6cGi) | 4:35 | 2021-11-26 | 2024-04-19 |
 | [No Gurufim do Tio Sam](https://open.spotify.com/track/4GbVxEoS43Q8TfmvLveiuP) | [Rodrigo Lessa](https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG), [Celsinho Silva](https://open.spotify.com/artist/4JdO9dhvvCt7GeaTuta1aR), [Edu Neves](https://open.spotify.com/artist/4qomJGjiGCSHTPV3lxQRjY), [Everson Moraes](https://open.spotify.com/artist/6HX0YIU3MInb2cWswmGXZW), [Lucas Brito](https://open.spotify.com/artist/1AMghPiVVQlIpgRAC7xqKi), [Rogério Souza](https://open.spotify.com/artist/3VMrYFbtHX3uXrdP1ZuZp1) | [No Jeito](https://open.spotify.com/album/2s9LJjJJgI3WskTqhu9wx8) | 3:41 | 2021-11-26 |  |
 | [O Melhor Carinho](https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw) | [Elisa Gudin](https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I) | [O Melhor Carinho](https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o) | 3:13 | 2021-11-26 |  |
-| [O Morro Nao Tem Vez](https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Antonio Carlos Jobim](https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT) | 3:19 | 2021-11-26 |  |
+| [O Morro Nao Tem Vez](https://open.spotify.com/track/57U0iv9L9gG6fqXXIle1GB) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Antonio Carlos Jobim](https://open.spotify.com/album/1cnvL1UIhCM0OQODOGJYyT) | 3:19 | 2021-11-26 | 2024-08-24 |
 | [O Morro Não Tem Vez](https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 3:20 | 2021-11-26 | 2024-04-19 |
 | [O Morro Não Tem Vez](https://open.spotify.com/track/0BFY4ELzGsvmBEJDqCmkyj) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Verve Jazz Masters 13: Antonio Carlos Jobim](https://open.spotify.com/album/4uFZbUN1TogRO5PTIeDpjr) | 3:25 | 2022-10-14 | 2022-11-13 |
 | [Outra Vez](https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp) | [Adriana Arias](https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK) | [Outra Vez](https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B) | 2:17 | 2021-11-26 |  |
@@ -124,8 +125,9 @@
 | [Saudade Fez um Samba](https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Saudade Fez um Samba](https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7) | 2:50 | 2023-11-24 |  |
 | [Se Acontecer](https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Storytellers](https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic) | 5:10 | 2021-11-26 |  |
 | [Se Acontecer](https://open.spotify.com/track/7komzDHdZsnmHDuPiTVddq) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Storytellers](https://open.spotify.com/album/1mY5MaseCDkFKEW8jmEiZk) | 5:10 | 2023-11-24 | 2024-04-19 |
-| [Seres Incriveis](https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW) | [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [Selfie](https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz) | 3:07 | 2021-11-26 |  |
+| [Seres Incriveis](https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW) | [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [Selfie](https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz) | 3:07 | 2021-11-26 | 2024-08-24 |
 | [Sorte!](https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA) | [John Finbury](https://open.spotify.com/artist/5ZJCJGLaqOHfaspjjNQism), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY), [Vitor Gonçalves](https://open.spotify.com/artist/5dEIDzhH5MWFhRrM8Cb7mh) | [Sorte!](https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw) | 4:51 | 2021-11-26 |  |
+| [Sos](https://open.spotify.com/track/0EwkDFJhV8AyA8GxZQlSaE) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fim,](https://open.spotify.com/album/13FYpAYfMYHbOtIl4D3Nah) | 3:19 | 2024-08-23 |  |
 | [Só Agora](https://open.spotify.com/track/0JAR5NO542VuQ0gE16gSAk) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Só Agora](https://open.spotify.com/album/1n0Y919WafjPZjJcxZcmFZ) | 2:32 | 2021-11-26 | 2024-05-11 |
 | [Só Tinha de Ser com Você](https://open.spotify.com/track/5KrmPhZXWsrn1xVey30806) | [Joao Silva Oliveira](https://open.spotify.com/artist/2H9tPIniwpdz9EvKYvRKFq) | [Só Tinha de Ser com Você](https://open.spotify.com/album/7nUM7a3z2pGH5pII2MEy8n) | 3:58 | 2021-11-26 |  |
 | [Talismã](https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Talismã](https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz) | 3:49 | 2024-08-09 |  |

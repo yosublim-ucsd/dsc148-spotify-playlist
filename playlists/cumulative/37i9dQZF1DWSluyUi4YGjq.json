@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "VOL. 2",
+        "url": "https://open.spotify.com/album/4D3KMryl6rGcxwEhlyjEnl"
+      },
+      "artists": [
+        {
+          "name": "Novulent",
+          "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230363,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2w3zcWWx80N3q9HZ8LGrYy"
+    },
+    {
+      "album": {
         "name": "23",
         "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
       },

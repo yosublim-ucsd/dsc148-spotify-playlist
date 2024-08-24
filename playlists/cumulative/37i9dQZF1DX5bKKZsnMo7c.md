@@ -4,7 +4,7 @@
 
 > Feeling dramatic? All eyes on you\. Cover: Chappell Roan
 
-381 songs - 20 hr 25 min
+384 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [cut my fingers off](https://open.spotify.com/track/5ARrWiDDRDocvURbemcnCy) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [cut my fingers off](https://open.spotify.com/album/0iTfRgGOirNa2W7ran3xHo) | 2:19 | 2022-05-17 | 2023-01-14 |
 | [Danke Schoen](https://open.spotify.com/track/0udPmR2HQO8iaCMqF6rrIL) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/1kwJPORCIZEZ57iE9mziXZ) | 2:38 | 2023-02-02 | 2023-02-05 |
 | [Danke Schoen](https://open.spotify.com/track/4uq0JdZB0O52Zw3OHl3O1n) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Danke Schoen](https://open.spotify.com/album/3aDnLvCqgLNPDY3Jk3hI71) | 2:38 | 2023-02-02 | 2023-06-28 |
+| [dead end.](https://open.spotify.com/track/57EHa4bjlEm8Cr63Ue4BGZ) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 3:18 | 2024-08-23 |  |
 | [Derek Spears](https://open.spotify.com/track/4009DkrtlBshvWNbbqVwbk) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Derek Spears](https://open.spotify.com/album/7HkJ7jZ3BbX5P2efcqUb9o) | 3:12 | 2023-08-22 | 2023-10-17 |
 | [despair](https://open.spotify.com/track/292JruITePIpFvRpPb85GF) | [leo.](https://open.spotify.com/artist/0YYWwSEUilM9sK1A12GSGC) | [despair](https://open.spotify.com/album/4N3ckWWF9Z4ysPv7LHakOr) | 2:55 | 2022-05-17 | 2024-01-27 |
 | [Devil Town](https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Cavetown](https://open.spotify.com/album/0ZyaO9oGhq7blYJzo3l65t) | 2:59 | 2023-03-27 | 2024-05-25 |
@@ -155,6 +156,7 @@
 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 | 2022-09-14 | 2023-05-08 |
 | [Happy World](https://open.spotify.com/track/0kY86R5mW1Js0jymCs8Wfp) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Happy World](https://open.spotify.com/album/6fFP8CR3WRLZxwnrvBfGTh) | 2:59 | 2024-04-26 |  |
 | [Harpy Hare](https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT) | [Yaelokre](https://open.spotify.com/artist/3rRyfgGByetsaaujkjQ7rY) | [Harpy Hare](https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz) | 3:00 | 2024-07-17 |  |
+| [Hater](https://open.spotify.com/track/3ZDWkcuyJOOZZJgZAAyTId) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C) | [Hater](https://open.spotify.com/album/7AaZZ5PezxbMCHrsN8Ic2x) | 2:46 | 2024-08-23 |  |
 | [Haunted Hotel](https://open.spotify.com/track/3hU8MzXKeThkB9IPKR7iIr) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [Haunted Hotel](https://open.spotify.com/album/7J6LFUuNIeajdBgAoA55U9) | 2:01 | 2024-06-14 |  |
 | [Heart Be Still](https://open.spotify.com/track/0ewPlKce3kwoC2kFBlagty) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [Hold Me Like You're Scared To](https://open.spotify.com/album/2VHeRxzNfeqiCOhF6mEYcz) | 3:58 | 2023-01-27 | 2023-02-25 |
 | [HEARTBEAT](https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HEARTBEAT](https://open.spotify.com/album/7cLRRJ3fRfyExOHOIwcLDy) | 2:04 | 2022-08-31 | 2022-11-30 |
@@ -267,6 +269,7 @@
 | [Pacific](https://open.spotify.com/track/6sRfy2yk9S1lANwfahVDJx) | [Chase Petra](https://open.spotify.com/artist/1MTlhWSyxv11aeqREGEeb3) | [Pacific](https://open.spotify.com/album/4m6flSORd5ArtoR4HDEae5) | 3:16 | 2022-05-17 | 2022-12-10 |
 | [paris](https://open.spotify.com/track/6i0FcQXML5J3FgZSVWa3pk) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [paris](https://open.spotify.com/album/4ihpxWgHCfBc3hJ7nkX7ak) | 2:29 | 2024-06-28 |  |
 | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC) | [Kaden MacKay](https://open.spotify.com/artist/3pvdhTDfKYnjDZ0R41qY3x) | [Passing Through \(Can't the Future Just Wait\)](https://open.spotify.com/album/6mTcEL6EVR3bN1WO6obNz2) | 3:13 | 2022-05-17 |  |
+| [pawnshop president](https://open.spotify.com/track/23HC5E4g1GVQkMCzZeXWX2) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [pawnshop president](https://open.spotify.com/album/6As4dStIzxShVklG5ZsHE0) | 2:26 | 2024-08-23 |  |
 | [Paycheck](https://open.spotify.com/track/4X6IYXcZzSRdsMYiv0K30k) | [Max Bennett Kelly](https://open.spotify.com/artist/5DrrFAKP5lAFBaDw9oKZel) | [Paycheck](https://open.spotify.com/album/0IL0oxZMy5U8E2cZfLmRn0) | 2:28 | 2023-06-15 | 2023-09-16 |
 | [People Eater](https://open.spotify.com/track/1Sv71cSqfQLuzdPZlzb6QH) | [Sodikken](https://open.spotify.com/artist/1MUV2xrrCkG9mhZyVUDGEy) | [People Eater](https://open.spotify.com/album/54dJtwRtbMWK0poaUXYgIi) | 1:36 | 2022-05-17 | 2022-06-02 |
 | [Perfume](https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:27 | 2022-06-03 | 2022-08-10 |

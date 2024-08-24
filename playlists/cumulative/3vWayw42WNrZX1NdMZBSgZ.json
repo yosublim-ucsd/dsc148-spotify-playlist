@@ -6643,6 +6643,24 @@
     },
     {
       "album": {
+        "name": "HOY TENGO GANAS DE TI",
+        "url": "https://open.spotify.com/album/4y5leWM7OukafuPcBHrvtx"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170672,
+      "name": "HOY TENGO GANAS DE TI",
+      "url": "https://open.spotify.com/track/27AycGPhBPGCc6YnTZTaSh"
+    },
+    {
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
       },
@@ -8930,6 +8948,28 @@
       "duration_ms": 267271,
       "name": "Manos de Tijera",
       "url": "https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW"
+    },
+    {
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/1P9CO4GRy3hkcDHARgaChU"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210181,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/6tuUffUKTvUTP173f0bt9Q"
     },
     {
       "album": {

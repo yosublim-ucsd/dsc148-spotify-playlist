@@ -457,6 +457,36 @@
     },
     {
       "album": {
+        "name": "Charleston Girl",
+        "url": "https://open.spotify.com/album/2fJbdvfLYGnCEpDkzykcd1"
+      },
+      "artists": [
+        {
+          "name": "The Desert Willows",
+          "url": "https://open.spotify.com/artist/11kqrpD777gwAzqoqbGk11"
+        },
+        {
+          "name": "Cloverdale Family Band",
+          "url": "https://open.spotify.com/artist/4DQBIKp7t2Bq5WSJ1lC7MC"
+        },
+        {
+          "name": "Shane Travis",
+          "url": "https://open.spotify.com/artist/0Rpj6yLa15br1rTsEz4ZAv"
+        },
+        {
+          "name": "Julia DiGrazia",
+          "url": "https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Charleston Girl",
+      "url": "https://open.spotify.com/track/02QXKeOD4kgrAKeyz4EqRo"
+    },
+    {
+      "album": {
         "name": "Chasing Old Memories Down",
         "url": "https://open.spotify.com/album/5iPGt2XBYPkvCheoXvHLb9"
       },
@@ -1082,7 +1112,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 159000,
       "name": "Georgia in Her Eyes",
       "url": "https://open.spotify.com/track/2h2eMdiQThxg2AIwcpSRrl"
@@ -1553,6 +1583,46 @@
     },
     {
       "album": {
+        "name": "I Will Not Go Down (feat. Billy Strings)",
+        "url": "https://open.spotify.com/album/7HPOLhuFelaq5SseZYhnQJ"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237360,
+      "name": "I Will Not Go Down (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/2eQxXfDk7F06iYIfOeERil"
+    },
+    {
+      "album": {
+        "name": "I Wish I Had One More",
+        "url": "https://open.spotify.com/album/1hj1m4PtINwRo1TRMSn0DU"
+      },
+      "artists": [
+        {
+          "name": "Chosen Road",
+          "url": "https://open.spotify.com/artist/2DFoaBr8ZkxOjcQ8Qvwqwh"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197093,
+      "name": "I Wish I Had One More",
+      "url": "https://open.spotify.com/track/5b1kQfCpFbTfc2qQpQx58D"
+    },
+    {
+      "album": {
         "name": "Junk Drawer",
         "url": "https://open.spotify.com/album/2PM6aDxBiqUTRecj0LrEjc"
       },
@@ -1604,6 +1674,24 @@
       "duration_ms": 241000,
       "name": "I'm in Tennessee",
       "url": "https://open.spotify.com/track/6NNuFH7JO8K24y3aLTw4ai"
+    },
+    {
+      "album": {
+        "name": "If Something Should Happen",
+        "url": "https://open.spotify.com/album/2ZAawoOcedZ0la9HdAiW9n"
+      },
+      "artists": [
+        {
+          "name": "Wildfire",
+          "url": "https://open.spotify.com/artist/4Om13DlPH4kSdXe3KIzT4e"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208703,
+      "name": "If Something Should Happen",
+      "url": "https://open.spotify.com/track/0SR3I3ZNPYwGfPkDFVQwoU"
     },
     {
       "album": {
@@ -1716,7 +1804,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 204303,
       "name": "It's Alive",
       "url": "https://open.spotify.com/track/39jCXgc3bJziag2bsjk9eo"
@@ -2027,6 +2115,24 @@
     },
     {
       "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302746,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
+    },
+    {
+      "album": {
         "name": "Dan Tyminski: Live From The Ryman",
         "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
       },
@@ -2234,7 +2340,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 226797,
       "name": "Pickin' Flowers",
       "url": "https://open.spotify.com/track/1jf0sdpNgpxUvwqbrcKdlQ"
@@ -2486,7 +2592,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 237000,
       "name": "R-26",
       "url": "https://open.spotify.com/track/7Mq4NE0YAnAHpU89XRx6YG"
@@ -2739,6 +2845,28 @@
     },
     {
       "album": {
+        "name": "Smoky Mountain DNA",
+        "url": "https://open.spotify.com/album/2pYVKXNEnJBaBqZjfqFU6Z"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Dolly Parton & Family",
+          "url": "https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119535,
+      "name": "Smoky Mountain DNA",
+      "url": "https://open.spotify.com/track/7bSeYYLEHb7zu2YQSRKqz5"
+    },
+    {
+      "album": {
         "name": "Southern Pines",
         "url": "https://open.spotify.com/album/6IOGv7EQfWVEZ4BNsjzPKx"
       },
@@ -2754,6 +2882,28 @@
       "duration_ms": 197019,
       "name": "Southern Pines",
       "url": "https://open.spotify.com/track/3xq4R4ji2VvzueStNzPcUm"
+    },
+    {
+      "album": {
+        "name": "Spanish Moss",
+        "url": "https://open.spotify.com/album/6SWaPEPMBWuSJog2tH7ORp"
+      },
+      "artists": [
+        {
+          "name": "Brice Davis",
+          "url": "https://open.spotify.com/artist/1b1HAA4FKPRckylVMBY9PM"
+        },
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180464,
+      "name": "Spanish Moss",
+      "url": "https://open.spotify.com/track/6TA2JwXz8q0oZoteNgrbar"
     },
     {
       "album": {
@@ -2886,6 +3036,24 @@
       "duration_ms": 256924,
       "name": "Take Me Home Country Roads",
       "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
+    },
+    {
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/5LueE7fMbNPIDVMDOftBzC"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Tennessee Hound Dog",
+      "url": "https://open.spotify.com/track/3CqcTeCtBPLazFandOSy9b"
     },
     {
       "album": {
@@ -3115,6 +3283,24 @@
     },
     {
       "album": {
+        "name": "Time's Winding Up",
+        "url": "https://open.spotify.com/album/1FZzxf6fb2otmFpFhXCOub"
+      },
+      "artists": [
+        {
+          "name": "The David Mayfield Parade",
+          "url": "https://open.spotify.com/artist/2cUl2KIxv7FHmL4pt4uLsN"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166665,
+      "name": "Time's Winding Up",
+      "url": "https://open.spotify.com/track/0JLrfElWRBmwFnoi0zznDL"
+    },
+    {
+      "album": {
         "name": "Too Cool",
         "url": "https://open.spotify.com/album/6GFiyFBfPaIbjqa8aHsRrn"
       },
@@ -3274,7 +3460,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 433563,
       "name": "Wagon Wheel",
       "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
@@ -3339,6 +3525,24 @@
     },
     {
       "album": {
+        "name": "What if You're Wrong",
+        "url": "https://open.spotify.com/album/3Vinp0LVm9a214BkrqWDiT"
+      },
+      "artists": [
+        {
+          "name": "Chris Jones & The Night Drivers",
+          "url": "https://open.spotify.com/artist/1B6YLr705p5ddQ3ZjMPf9H"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "What if You're Wrong",
+      "url": "https://open.spotify.com/track/7hPE0sK2Z5FzHwy7El4MSO"
+    },
+    {
+      "album": {
         "name": "What People Think of Me Is None of My Business",
         "url": "https://open.spotify.com/album/5AO7gQRmQuWW24y0LoSxvm"
       },
@@ -3354,6 +3558,24 @@
       "duration_ms": 139762,
       "name": "What People Think of Me Is None of My Business",
       "url": "https://open.spotify.com/track/5hk7aR6Qg3PUlZxUO0Qoeh"
+    },
+    {
+      "album": {
+        "name": "What's Gonna Become of Me",
+        "url": "https://open.spotify.com/album/0JDaQznWdFuq9Aem2CWTn0"
+      },
+      "artists": [
+        {
+          "name": "Jerron Paxton",
+          "url": "https://open.spotify.com/artist/55AXvXsYcSs54rz9XDtc0V"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228916,
+      "name": "What's Gonna Become of Me",
+      "url": "https://open.spotify.com/track/3gdOwcqtYHUyw1FuU0hIxG"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 144968,
+  "num_followers": 145014,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAADZWOXLMH+QMtuLlBMrx+cj",
+  "snapshot_id": "ZsgJQAAAAAAXHJIctvAJS+M+4fWOKKMT",
   "tracks": [
     {
       "added_at": "2024-08-16 04:00:00",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/00yTQuZp0A69meXFjfriE2"
     },
     {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Reste un peu (Radio Edit)",
+        "url": "https://open.spotify.com/album/1ZqFs8SHrRTHhbzTFYQrxQ"
+      },
+      "artists": [
+        {
+          "name": "Calo\u00e9",
+          "url": "https://open.spotify.com/artist/5VhECTqYomp7HNwQrzQYNL"
+        }
+      ],
+      "duration_ms": 185560,
+      "name": "Reste un peu - Radio Edit",
+      "url": "https://open.spotify.com/track/2JCrxO2zWI1XVV3jp02qdG"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "P.S. I Love You",
@@ -75,6 +91,26 @@
       "duration_ms": 258440,
       "name": "P.S. I Love You",
       "url": "https://open.spotify.com/track/7IbXt8rAf2Qwcvdb4S8utc"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Javon & Nikki Go To The Movies",
+        "url": "https://open.spotify.com/album/01YTAunRobOOZLaOpuNGrF"
+      },
+      "artists": [
+        {
+          "name": "Javon Jackson",
+          "url": "https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl"
+        },
+        {
+          "name": "Nikki Giovanni",
+          "url": "https://open.spotify.com/artist/06rw1GLIJu1xfIgO6iI7RG"
+        }
+      ],
+      "duration_ms": 218602,
+      "name": "How About You",
+      "url": "https://open.spotify.com/track/5Q5MOdNowDzfIGnS6AKur1"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1289,22 +1325,6 @@
       "url": "https://open.spotify.com/track/6A7E5xGBYU8OKMc3KnbMac"
     },
     {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Ysla",
-        "url": "https://open.spotify.com/album/5kNgR9PtICYsOzn9WF7fGu"
-      },
-      "artists": [
-        {
-          "name": "Yumi Ito",
-          "url": "https://open.spotify.com/artist/3uWJmmVbMN5fhVLhaDRcBY"
-        }
-      ],
-      "duration_ms": 238309,
-      "name": "Lonely Island",
-      "url": "https://open.spotify.com/track/1xh4CsdmVqXOuK7Ms5LAsR"
-    },
-    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "M\u00e9lusine",
@@ -1319,22 +1339,6 @@
       "duration_ms": 140686,
       "name": "Petite musique terrienne",
       "url": "https://open.spotify.com/track/6OZn149r8yFdTTI0TvtKhY"
-    },
-    {
-      "added_at": "2023-04-21 04:01:00",
-      "album": {
-        "name": "Stage & Screen",
-        "url": "https://open.spotify.com/album/7DNsUgvsb3yMZMsfVaiBnS"
-      },
-      "artists": [
-        {
-          "name": "John Pizzarelli",
-          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
-        }
-      ],
-      "duration_ms": 353920,
-      "name": "Too Close For Comfort",
-      "url": "https://open.spotify.com/track/6I6ZvbjUPX4BH1fGZaODy2"
     },
     {
       "added_at": "2023-05-26 04:01:00",

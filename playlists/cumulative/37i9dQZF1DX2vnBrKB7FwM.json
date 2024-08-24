@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: N. Hardem",
+  "description": "Porque Colombia es tierra de MCs, Rap y Hip-Hop. Foto: Penyair",
   "name": "RAP\u00fablica de Colombia",
   "tracks": [
     {
@@ -324,7 +324,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 209828,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/7jaY9QKJtJrwxeAaKR3TAW"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 122847,
       "name": "Contando Gotas",
       "url": "https://open.spotify.com/track/7Fa30eh4kPGdNGBBYEoD9U"
@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "La Ley del Todo",
+        "url": "https://open.spotify.com/album/15s8xG2vM4C5j14G3LZ8tU"
+      },
+      "artists": [
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/3fF7menvXCbyRBkeA24uQ5"
+    },
+    {
+      "album": {
         "name": "No Era para M\u00ed",
         "url": "https://open.spotify.com/album/4QR2dbCWiNhdndpcTpwDKc"
       },
@@ -2248,6 +2266,28 @@
       "duration_ms": 126655,
       "name": "Redundancia",
       "url": "https://open.spotify.com/track/5i8GlPFnvADXn8Q4UVKd82"
+    },
+    {
+      "album": {
+        "name": "TABOGO'S FINEST",
+        "url": "https://open.spotify.com/album/3DeRst2QWe9zsGpKP7zfEe"
+      },
+      "artists": [
+        {
+          "name": "Ruzto",
+          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
+        },
+        {
+          "name": "Ecks One",
+          "url": "https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190879,
+      "name": "Rel\u00e9",
+      "url": "https://open.spotify.com/track/1HJbLgHCVVAWEAHMp0JZmB"
     },
     {
       "album": {
@@ -2806,7 +2846,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 201804,
       "name": "Uno",
       "url": "https://open.spotify.com/track/0KS5pkZsWwnJdQJtwFE1UE"
@@ -2940,6 +2980,36 @@
       "duration_ms": 242517,
       "name": "Value",
       "url": "https://open.spotify.com/track/3Pkze3D7iN4CfgyJQZcNLR"
+    },
+    {
+      "album": {
+        "name": "\u00bfAlgo Que Decir?",
+        "url": "https://open.spotify.com/album/3ESxHrgjrVxQAWxZKPn78a"
+      },
+      "artists": [
+        {
+          "name": "Selene",
+          "url": "https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j"
+        },
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/1KNW0yA92QHGP5wyLXvT2c"
+        },
+        {
+          "name": "Tatiana Gomez Rap",
+          "url": "https://open.spotify.com/artist/0Bwdg8Wfolta9Eum4FQGVI"
+        },
+        {
+          "name": "Eddy Mugre",
+          "url": "https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143119,
+      "name": "\u00bfAlgo Que Decir?",
+      "url": "https://open.spotify.com/track/57eaJ15ZJpAfefBpANiw5C"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2vnBrKB7FwM"

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain](/playlists/plain/37i9dQZF1E4D8xyoXUDhng) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4D8xyoXUDhng)
 
-### [Callie Day Radyosu](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
+### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> Callie Day, Terrell Grice, Samoht ve daha fazlası ile
+> With Callie Day, Terrell Grice, Samoht and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 217 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 219 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Peace](https://open.spotify.com/track/551LfJ66LrA30ViGRTae0K) | [Juanita Bynum](https://open.spotify.com/artist/2nJ05dqGHcswVdVgmqZi46) | [Morning Glory: Volume One Peace](https://open.spotify.com/album/4x023faWo0dCSdoD0x4OY4) | 5:48 |
 | 50 | [I Belong Here](https://open.spotify.com/track/22tu08CfFWq1nkJiOBp0xa) | [Rudy Currence](https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8) | [Stained Glass Windows](https://open.spotify.com/album/1q710a6wLm18GHUA1eAMRb) | 4:33 |
 
-Snapshot ID: `Zsf75QAAAABrzotm1xdtX1p7j54GpAtM`
+Snapshot ID: `ZslKLwAAAAAxUsQLFBFOsq1F7uBWU7dT`

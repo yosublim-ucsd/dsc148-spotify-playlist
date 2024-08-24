@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DUMB.RONG",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: lostbeans",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 240644,
       "name": "1",
       "url": "https://open.spotify.com/track/7C0iw6P8SwYz8FJrN7SGaj"
@@ -226,7 +226,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 191497,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/6oP4ZPYqkLjzSnKMT6ETaH"
@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/5lennoMOBZbKonOdVZQoWd"
+      },
+      "artists": [
+        {
+          "name": "FRONGNTC",
+          "url": "https://open.spotify.com/artist/473j8XAhQml9Te4xvm2q3j"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "\u0e16\u0e49\u0e32\u0e40\u0e23\u0e32\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/2xGoojl0EEQW0dvrJNUtQi"
+    },
+    {
+      "album": {
         "name": "When you cry, I cry",
         "url": "https://open.spotify.com/album/5XhRRYSmXmx6oEHgJM72vk"
       },
@@ -882,7 +900,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 279625,
       "name": "\u0e25\u0e21\u0e1d\u0e19 (By Your Side)",
       "url": "https://open.spotify.com/track/1oNSDOwAjJUxFLQy2z5OcH"
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 284683,
       "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07\u0e0a\u0e48\u0e27\u0e07\u0e40\u0e27\u0e25\u0e32 (TLINLA)",
       "url": "https://open.spotify.com/track/3qzJc8mkixrse59KqX4t8X"
@@ -1455,6 +1473,24 @@
     },
     {
       "album": {
+        "name": "\u0e43\u0e2b\u0e49\u0e21\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e41\u0e2b\u0e25\u0e30\u0e14\u0e35\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/7JsTa8trDyiihx7pEtzHdM"
+      },
+      "artists": [
+        {
+          "name": "TWODAYS",
+          "url": "https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221750,
+      "name": "\u0e43\u0e2b\u0e49\u0e21\u0e31\u0e19\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1a\u0e1a\u0e19\u0e35\u0e49\u0e41\u0e2b\u0e25\u0e30\u0e14\u0e35\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/0oP0RgtbFPiTlAWtJ0I7Fa"
+    },
+    {
+      "album": {
         "name": "\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e19\u0e36\u0e01\u0e16\u0e36\u0e07\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e23\u0e31\u0e01\u0e01\u0e31\u0e19",
         "url": "https://open.spotify.com/album/3sYhNmotfWyLJYVGUdzNjn"
       },
@@ -1527,6 +1563,24 @@
     },
     {
       "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e43\u0e04\u0e23\u0e23\u0e39\u0e49",
+        "url": "https://open.spotify.com/album/1BC5GiuLLAZ1TkbfNiHWeC"
+      },
+      "artists": [
+        {
+          "name": "242",
+          "url": "https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182824,
+      "name": "\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e43\u0e2b\u0e49\u0e43\u0e04\u0e23\u0e23\u0e39\u0e49",
+      "url": "https://open.spotify.com/track/2kldTgMUVzMVGctA5VjNle"
+    },
+    {
+      "album": {
         "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e40\u0e25\u0e37\u0e2d\u0e19\u0e2b\u0e32\u0e22 (Bygone days)",
         "url": "https://open.spotify.com/album/60K7zt5spofDT1JaJotwa0"
       },
@@ -1542,6 +1596,24 @@
       "duration_ms": 318352,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e40\u0e25\u0e37\u0e2d\u0e19\u0e2b\u0e32\u0e22 (Bygone days)",
       "url": "https://open.spotify.com/track/3qBz1hhoPZeow1fkyYf96Z"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e01\u0e48\u0e2d\u0e19",
+        "url": "https://open.spotify.com/album/6bJ6JFCFWzwt1FGZEJSZQD"
+      },
+      "artists": [
+        {
+          "name": "lostbeans",
+          "url": "https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254842,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e21\u0e37\u0e2d\u0e19\u0e01\u0e48\u0e2d\u0e19",
+      "url": "https://open.spotify.com/track/3Abjyw5bTmfsi80k5ZO3T3"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI"

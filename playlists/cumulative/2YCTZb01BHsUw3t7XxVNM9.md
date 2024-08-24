@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-485 songs - 1 day 9 hr 47 min
+486 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Roar](https://open.spotify.com/track/73rYPSWPLepJVNAXh75KVh) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [HARDCORE SYNDROME 14](https://open.spotify.com/album/0kErHEeF6I9gufV6WPrfY3) | 3:41 | 2020-08-19 |  |
 | [Ruined Empire](https://open.spotify.com/track/5ZvZtkMOIH4iNwd4oCvNH4) | [TAIYO](https://open.spotify.com/artist/0zdOkgRS2gOQnYrccL7tKh), [Quark](https://open.spotify.com/artist/0cgvFywwD5eQevYZed0hw7) | [Ruined Empire](https://open.spotify.com/album/3ceswDvB6NaZ2dVudYNfVp) | 4:30 | 2020-07-06 |  |
 | [S.U.M.M.E.R](https://open.spotify.com/track/4MH15TwGD1hhZzarf3uqrZ) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [HARDCORE SYNDROME 9](https://open.spotify.com/album/1uxiKOKZUE8XumZBZ8hgGt) | 5:14 | 2019-06-01 |  |
+| [Sacrifice of Fools](https://open.spotify.com/track/6hU3mMCVT0w3GgSwC9dibK) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [tug](https://open.spotify.com/artist/3R2Ax8KjYjOZ7DGqdMlSUq) | [Sacrifice of Fools](https://open.spotify.com/album/3xepL1E9bcFdZpLigcAHvh) | 2:10 | 2024-08-23 |  |
 | [Samurai Terrorist \(DJ Myosuke Remix\)](https://open.spotify.com/track/0s8HDVEUZHv28HZphRkgZd) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [CARDS: KING](https://open.spotify.com/album/43BauWO1WIHc2NEAycBRtJ) | 4:52 | 2019-02-15 |  |
 | [Sapporo Subway](https://open.spotify.com/track/0J7eqnZrthuealIo24cczZ) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO) | [YATSUZAKI HARDCORE COLLECTION 4](https://open.spotify.com/album/168aLfRN1NBDv5tiLA99Ae) | 3:34 | 2022-04-01 |  |
 | [Saqrifice](https://open.spotify.com/track/3ksjvm5lt8nNT70Y67O5V8) | [QUIL](https://open.spotify.com/artist/3Q6X5VDF0Zfu1hGHTEARSR) | [SOLIDCORE VIII](https://open.spotify.com/album/0zM6Fqm9QpkbyPd5lkFR4u) | 4:57 | 2019-07-07 |  |

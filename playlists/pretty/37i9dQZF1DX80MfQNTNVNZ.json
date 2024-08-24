@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 187829,
+  "num_followers": 187878,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,26 @@
     {
       "added_at": "2024-08-09 00:46:08",
       "album": {
+        "name": "Work This Out",
+        "url": "https://open.spotify.com/album/6vb6Zec5YfjXBcizesC5yh"
+      },
+      "artists": [
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 178120,
+      "name": "Work This Out",
+      "url": "https://open.spotify.com/track/3VymabYos1p2fXzmk0cPKg"
+    },
+    {
+      "added_at": "2024-08-09 00:46:08",
+      "album": {
         "name": "Where I Go (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
-    },
-    {
-      "added_at": "2024-08-09 00:46:08",
-      "album": {
-        "name": "Work This Out",
-        "url": "https://open.spotify.com/album/6vb6Zec5YfjXBcizesC5yh"
-      },
-      "artists": [
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "Work This Out",
-      "url": "https://open.spotify.com/track/3VymabYos1p2fXzmk0cPKg"
     },
     {
       "added_at": "2024-08-09 00:46:08",

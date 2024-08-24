@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The world's biggest dance & electronic hits. Cover: Chase & Status, Stormzy",
+  "description": "The world's biggest dance & electronic hits. Cover: Sofi Tukker",
   "name": "mint",
   "tracks": [
     {
@@ -7366,7 +7366,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 238270,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5Hh09KHzQ9NRjRd6HIes5R"
@@ -7556,7 +7556,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 189874,
       "name": "Hey Homie",
       "url": "https://open.spotify.com/track/5HlzvCWmwMFeA0ENrG8ixa"
@@ -7820,7 +7820,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 141760,
       "name": "Holy Moly (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1q22aC4uN1ScliKRzoB0OV"
@@ -8357,6 +8357,28 @@
     },
     {
       "album": {
+        "name": "I AM A GOD",
+        "url": "https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128437,
+      "name": "I AM A GOD",
+      "url": "https://open.spotify.com/track/25v3NCfgs0QGwcZ4cekGhg"
+    },
+    {
+      "album": {
         "name": "I Believe In Love Again",
         "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
       },
@@ -8650,6 +8672,24 @@
       "duration_ms": 108373,
       "name": "I must apologise",
       "url": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
+    },
+    {
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
       "album": {
@@ -15587,6 +15627,32 @@
     },
     {
       "album": {
+        "name": "Receipts (feat. Gunna)",
+        "url": "https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234461,
+      "name": "Receipts (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ"
+    },
+    {
+      "album": {
         "name": "Redlight",
         "url": "https://open.spotify.com/album/79YZVPlv0WgFrhi0jxAjd0"
       },
@@ -16288,7 +16354,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 205116,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml"
@@ -16596,7 +16662,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 179016,
       "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
       "url": "https://open.spotify.com/track/33oyHkoS7H92RWsecOKn6u"
@@ -16766,6 +16832,28 @@
       "duration_ms": 185316,
       "name": "Shady Intentions (feat. Tori Levett)",
       "url": "https://open.spotify.com/track/7zN7l6yep9kPdBJeevfPvY"
+    },
+    {
+      "album": {
+        "name": "Shake Body",
+        "url": "https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Shake Body",
+      "url": "https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR"
     },
     {
       "album": {
@@ -21428,6 +21516,28 @@
       "duration_ms": 217261,
       "name": "Won\u2019t Let You Go",
       "url": "https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"
+    },
+    {
+      "album": {
+        "name": "BREAD",
+        "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192856,
+      "name": "Woof (feat. Kah-Lo)",
+      "url": "https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ"
     },
     {
       "album": {

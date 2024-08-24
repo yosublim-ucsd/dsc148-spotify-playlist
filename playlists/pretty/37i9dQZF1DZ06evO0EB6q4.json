@@ -1,12 +1,12 @@
 {
-  "description": "This Is Nanpa B\u00e1sico. Los temas esenciales, todos en una lista.",
-  "num_followers": 222674,
+  "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
+  "num_followers": 222779,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAD/FRu87bqykPK1usEZ/Qgz",
+  "snapshot_id": "ZsZ/gAAAAABK/1XVcexXtPqAlocyuR3P",
   "tracks": [
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otro Paso a la Locura",
-        "url": "https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Prototipo",
-      "url": "https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pienses Que Me Fui",
         "url": "https://open.spotify.com/album/62vCdSR0XvlCjbz0ApdhxG"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 150186,
       "name": "No Pienses Que Me Fui",
       "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otro Paso a la Locura",
+        "url": "https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 228675,
+      "name": "Prototipo",
+      "url": "https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR"
     },
     {
       "added_at": null,
@@ -975,46 +975,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Que Mami No Llore",
-        "url": "https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8"
+        "name": "Pelinegra",
+        "url": "https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK"
       },
       "artists": [
         {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gordo del Funk",
-          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
         }
       ],
-      "duration_ms": 231068,
-      "name": "Pa' Que Mami No Llore",
-      "url": "https://open.spotify.com/track/0R2afZhhIkljgXj9BcGK7D"
+      "duration_ms": 217739,
+      "name": "Pelinegra",
+      "url": "https://open.spotify.com/track/3Huo8FfIN5pph8cwHvgUiM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Puedo Olvidarte",
-        "url": "https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR"
+        "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) [Remix]",
+        "url": "https://open.spotify.com/album/2Zs2mVbPL5ZJyDYD4oshLD"
       },
       "artists": [
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         },
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 225923,
-      "name": "No Puedo Olvidarte",
-      "url": "https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R"
+      "duration_ms": 360910,
+      "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) - Remix",
+      "url": "https://open.spotify.com/track/0YFtiekZdGa81WeWgzbRAG"
     }
   ],
   "unique_name": "This Is Nanpa B\u00e1sico",

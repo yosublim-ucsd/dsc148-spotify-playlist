@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA?si=PGOhQyLuSu2YGqbCR2lh0A\">Ivan Roux</a>  ",
+  "description": "Die beste country musiek. Omslag: <a href=\"https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC?si=BjUwS8-zSLWRVaqV74qFrw\">Lainey Wilson</a>  ",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 211053,
       "name": "5 Leaf Clover",
       "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Black Coffee",
+        "url": "https://open.spotify.com/album/29aot6JOzcSkH3ad3b9jFN"
+      },
+      "artists": [
+        {
+          "name": "Demarie",
+          "url": "https://open.spotify.com/artist/4wMH6p9mxcndu43v9vc2zj"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170375,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/4XXNTT4WD4HUthuoSqT97K"
+    },
+    {
+      "album": {
         "name": "But I Got A Beer In My Hand",
         "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
       },
@@ -196,7 +214,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 176426,
       "name": "But I Got A Beer In My Hand",
       "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
@@ -1258,6 +1276,24 @@
       "duration_ms": 181742,
       "name": "Vegas",
       "url": "https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V"
+    },
+    {
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240120,
+      "name": "Whirlwind",
+      "url": "https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz"
     },
     {
       "album": {

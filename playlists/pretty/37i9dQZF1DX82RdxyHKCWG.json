@@ -1,6 +1,6 @@
 {
   "description": "Tudo de novo que t\u00e1 rolando no pop! Atualizada toda semana \u2728 Foto: Shawn Mendes",
-  "num_followers": 613262,
+  "num_followers": 613232,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-08-16 11:41:00",
       "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
+    },
+    {
+      "added_at": "2024-08-16 11:41:00",
+      "album": {
         "name": "Lithonia",
         "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 179320,
       "name": "Lithonia",
       "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
-    },
-    {
-      "added_at": "2024-08-16 11:41:00",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
     },
     {
       "added_at": "2024-08-16 11:41:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2024-08-16 11:41:00",
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk"
+    },
+    {
+      "added_at": "2024-08-16 11:41:00",
+      "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
@@ -523,22 +539,6 @@
     {
       "added_at": "2024-08-16 11:41:00",
       "album": {
-        "name": "Pretty Slowly",
-        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 261420,
-      "name": "Pretty Slowly",
-      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
-    },
-    {
-      "added_at": "2024-08-16 11:41:00",
-      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF"
       },
@@ -551,6 +551,30 @@
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
+    },
+    {
+      "added_at": "2024-08-16 11:41:00",
+      "album": {
+        "name": "Alegr\u00eda",
+        "url": "https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 165054,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i"
     },
     {
       "added_at": "2024-08-16 11:41:00",
@@ -587,30 +611,6 @@
       "duration_ms": 189192,
       "name": "15 MINUTES",
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
-    },
-    {
-      "added_at": "2024-08-16 11:41:00",
-      "album": {
-        "name": "Alegr\u00eda",
-        "url": "https://open.spotify.com/album/0jEGAl1Uz2PAE6XQyRGBtq"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 165054,
-      "name": "Alegr\u00eda",
-      "url": "https://open.spotify.com/track/5v9LMshhQsNtkUkcXRGO7i"
     },
     {
       "added_at": "2024-08-16 11:41:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-08-16 11:41:00",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/58UwdMAci96aMa30xLuutY"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 148898,
-      "name": "Whoops",
-      "url": "https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk"
-    },
-    {
-      "added_at": "2024-08-16 11:41:00",
-      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/2B4mk9YhSBZYi5fjLKVvr2"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 234090,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/4m1xjbJPiWDy1IRPe9PbPZ"
+    },
+    {
+      "added_at": "2024-08-16 11:41:00",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/58UwdMAci96aMa30xLuutY"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 148898,
+      "name": "Whoops",
+      "url": "https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk"
     },
     {
       "added_at": "2024-08-16 11:41:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-08-16 11:41:00",
       "album": {
+        "name": "Lonely is the Muse",
+        "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 241579,
+      "name": "Lonely is the Muse",
+      "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
+    },
+    {
+      "added_at": "2024-08-16 11:41:00",
+      "album": {
         "name": "the boy is mine (Remix)",
         "url": "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2024-08-16 11:41:00",
       "album": {
-        "name": "Lonely is the Muse",
-        "url": "https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 241579,
-      "name": "Lonely is the Muse",
-      "url": "https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD"
-    },
-    {
-      "added_at": "2024-08-16 11:41:00",
-      "album": {
         "name": "There Goes My Baby",
         "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-08-16 11:41:00",
       "album": {
-        "name": "360",
-        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 133805,
-      "name": "360",
-      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
-    },
-    {
-      "added_at": "2024-08-16 11:41:00",
-      "album": {
         "name": "Unaired",
         "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 237213,
       "name": "Nobody's Soldier",
       "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
+    },
+    {
+      "added_at": "2024-08-16 11:41:00",
+      "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
     },
     {
       "added_at": "2024-08-16 11:41:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-08-16 11:41:00",
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 161976,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
-    },
-    {
-      "added_at": "2024-08-16 11:41:00",
-      "album": {
         "name": "Funk Generation",
         "url": "https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 157838,
       "name": "Ahi",
       "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
+    },
+    {
+      "added_at": "2024-08-16 11:41:00",
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6MBVShS0FIBbZLBdfzXuZS"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 161976,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5OR5cpJpHTlM8sL1ABKUOM"
     },
     {
       "added_at": "2024-08-16 11:41:00",

@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 433417,
+  "num_followers": 433459,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Si estuvieras aqu\u00ed",
-        "url": "https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 302962,
-      "name": "Si estuvieras aqu\u00ed",
-      "url": "https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/503JdbgCMQzgpYU4sEDKSC"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 248720,
       "name": "Eres",
       "url": "https://open.spotify.com/track/4oa27owMHu69L0eou4gK10"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Si estuvieras aqu\u00ed",
+        "url": "https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 302962,
+      "name": "Si estuvieras aqu\u00ed",
+      "url": "https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Me Llaman Nella",
         "url": "https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 198298,
       "name": "Me Llaman Nella",
       "url": "https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Versus (EP)",
-        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
-      },
-      "artists": [
-        {
-          "name": "Palenke Soultribe",
-          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
-        },
-        {
-          "name": "Louis Towers",
-          "url": "https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "El Liso (feat. Luis Towers)",
-      "url": "https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 185160,
       "name": "Mar Y Cielo",
       "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Versus (EP)",
+        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
+      },
+      "artists": [
+        {
+          "name": "Palenke Soultribe",
+          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
+        },
+        {
+          "name": "Louis Towers",
+          "url": "https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "El Liso (feat. Luis Towers)",
+      "url": "https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Mariposas",
-        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
-      },
-      "artists": [
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 261696,
-      "name": "Mariposas Blancas",
-      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Esperando Verte",
         "url": "https://open.spotify.com/album/1DizlzrJAt2J6CdekDpyMT"
       },
@@ -995,22 +979,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Las Flores",
-        "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
+        "name": "Mariposas",
+        "url": "https://open.spotify.com/album/6mc4GtVnrTUk5lScACco4q"
       },
       "artists": [
         {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        },
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
         }
       ],
-      "duration_ms": 355019,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
+      "duration_ms": 261696,
+      "name": "Mariposas Blancas",
+      "url": "https://open.spotify.com/track/2eOyh4AuxBnX5uAwWLrgsB"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1031,6 +1011,26 @@
       "duration_ms": 302000,
       "name": "Danz\u00f3n Para La Espera",
       "url": "https://open.spotify.com/track/1RlcebUFfWS1DaRnlDr0Ms"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Las Flores",
+        "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 355019,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Pelear",
+        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
+      },
+      "artists": [
+        {
+          "name": "Blanco Palamera",
+          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+        }
+      ],
+      "duration_ms": 252397,
+      "name": "Pelear",
+      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Somos Hermanas",
         "url": "https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK"
       },
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Pelear",
-        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
       },
       "artists": [
         {
-          "name": "Blanco Palamera",
-          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+          "name": "Si*S\u00e9",
+          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
         }
       ],
-      "duration_ms": 252397,
-      "name": "Pelear",
-      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
+      "duration_ms": 224826,
+      "name": "Donde Est\u00e1",
+      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1259,22 +1275,6 @@
       "duration_ms": 370730,
       "name": "Pelo Negro",
       "url": "https://open.spotify.com/track/63lE9CBiNmJIdgkH2vPpVm"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
-      },
-      "artists": [
-        {
-          "name": "Si*S\u00e9",
-          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Donde Est\u00e1",
-      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Nain",
+        "url": "https://open.spotify.com/album/51aBrTUEa7j6UyEf4bkCxm"
+      },
+      "artists": [
+        {
+          "name": "Brownout",
+          "url": "https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S"
+        }
+      ],
+      "duration_ms": 247320,
+      "name": "Nain",
+      "url": "https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Delicate & Jumpy",
         "url": "https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 224051,
       "name": "Happy ending",
       "url": "https://open.spotify.com/track/25zVytp42AZHoJ4PBiaXvo"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Nain",
-        "url": "https://open.spotify.com/album/51aBrTUEa7j6UyEf4bkCxm"
-      },
-      "artists": [
-        {
-          "name": "Brownout",
-          "url": "https://open.spotify.com/artist/75ITBSKqlC5hlS4PZ2XP1S"
-        }
-      ],
-      "duration_ms": 247320,
-      "name": "Nain",
-      "url": "https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK"
     },
     {
       "added_at": "2024-07-26 04:00:00",

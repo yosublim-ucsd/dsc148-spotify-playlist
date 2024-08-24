@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-137 songs - 8 hr 37 min
+138 songs - 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [eden](https://open.spotify.com/track/2hch6pI5wxnE2iPoFomn2b) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [if I can be honest](https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8) | 3:25 | 2023-12-08 | 2024-04-13 |
 | [Eden \(Harlem\)](https://open.spotify.com/track/0THutYP9Uqq75bogKFuoXL) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [If Beale Street Could Talk \(Original Motion Picture Score\)](https://open.spotify.com/album/0fJDCdcog8975mFnYSCKZT) | 2:54 | 2024-01-12 | 2024-04-20 |
 | [Entangled](https://open.spotify.com/track/5802VW3sVbchM6EkEavcUt) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 3:04 | 2023-12-08 | 2024-02-17 |
-| [Everything Blooms Around Her](https://open.spotify.com/track/4eVI54n4Y1zJJIz0SczRb4) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Everything Blooms Around Her](https://open.spotify.com/album/4kbekoqQAWlGXkbfnhItpU) | 3:50 | 2024-07-05 |  |
+| [Everything Blooms Around Her](https://open.spotify.com/track/4eVI54n4Y1zJJIz0SczRb4) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Everything Blooms Around Her](https://open.spotify.com/album/4kbekoqQAWlGXkbfnhItpU) | 3:50 | 2024-07-05 | 2024-08-24 |
 | [Fading Anxieties](https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Fading Anxieties](https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ) | 3:34 | 2024-04-12 |  |
 | [Falls Of Avich](https://open.spotify.com/track/4YplGCsYN7vpdtceKPPa32) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Reflections 07](https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V) | 1:49 | 2023-12-08 | 2024-03-09 |
 | [Feel This \(How Long Will I\)](https://open.spotify.com/track/6S7bSBiayEPAWNwCpARM9P) | [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Feel This \(How Long Will I\)](https://open.spotify.com/album/7tJGLUwFnzo9ibvwy0H3xt) | 2:50 | 2023-12-08 | 2024-01-20 |
@@ -113,6 +113,7 @@
 | [Reductive Ruin](https://open.spotify.com/track/56OKl9gTmHB3VoGR4uPMy2) | [Dae Kim](https://open.spotify.com/artist/6dmVUp9TvBREry9O63OFbh) | [Music For Home Vol\. 2: Redemption](https://open.spotify.com/album/2vRGgj6klG7akio8JobObE) | 4:06 | 2023-12-08 | 2024-01-20 |
 | [Reflected](https://open.spotify.com/track/23ot990qxQ3vDliNsFbDE7) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm), [Polar M](https://open.spotify.com/artist/3deSTS7GVnIHb5s6T7rV5g) | [Music For Home Vol\. 1: Our Season](https://open.spotify.com/album/3k2iR3YPoOw1xIFHoLSpvX) | 4:53 | 2023-12-08 | 2024-01-27 |
 | [Remember Me](https://open.spotify.com/track/676TDDDpvxBeddNHeJJ5Uy) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Remember Me](https://open.spotify.com/album/4KJhQTZgKYxewsxHoKy6Mj) | 3:10 | 2024-07-12 |  |
+| [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 | 2024-08-23 |  |
 | [Second Chance](https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Second Chance](https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS) | 4:30 | 2024-01-12 |  |
 | [shimmering like you taught me](https://open.spotify.com/track/2mAj7esKn9QtZwjzKKAyow) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [shimmering like you taught me](https://open.spotify.com/album/1eBMSN2GVwskDKeBKUcuYa) | 2:44 | 2024-07-19 | 2024-08-17 |
 | [Shinrin\-yoku \(森林浴\)](https://open.spotify.com/track/2gHvMuXWRWs1E3hGhba4Vl) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Shinrin\-yoku \(森林浴\)](https://open.spotify.com/album/2fb2A2HtNR5dUvFpai1Pmv) | 4:38 | 2023-12-08 | 2024-01-20 |

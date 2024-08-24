@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,878 likes - 150 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,962 likes - 150 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 33 | [Crossroads \- 2008 Remaster](https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:24 |
 | 34 | [Choctaw Bingo](https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6) | [James McMurtry](https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH) | [Saint Mary Of The Woods](https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y) | 8:33 |
 | 35 | [Merely Avoiding](https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Shouted, Written Down & Quoted](https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L) | 3:27 |
-| 36 | [Made Up Mind](https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 3:40 |
-| 37 | [Moonshiner](https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 4:23 |
+| 36 | [Moonshiner](https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 4:23 |
+| 37 | [Made Up Mind](https://open.spotify.com/track/2M13EkwriCE63GAg4lZ97z) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 3:40 |
 | 38 | [Iowa \(Traveling, Pt\. 3\)](https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [Mortal City](https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG) | 4:47 |
 | 39 | [Who You Thought I Was](https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life Is a Record](https://open.spotify.com/album/027y46STDxTFM35diEeoxy) | 3:09 |
 | 40 | [Can't Let Go](https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x) | 3:28 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 93 | [Brand New Me](https://open.spotify.com/track/5NVHI2Q8PCg2ksjcP1vZp1) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [High Life](https://open.spotify.com/album/0p61CSjJ023JK2s1xmp3QJ) | 4:15 |
 | 94 | [36 Cents](https://open.spotify.com/track/5ZVO59lU0EGA0hlVsE9VBw) | [The Bacon Brothers](https://open.spotify.com/artist/30vw9jA2FfUcjQNtJPZBEG) | [36 ¢](https://open.spotify.com/album/5uqrCWPw94WRdpxw6Hx6tV) | 4:24 |
 | 95 | [Barbeque](https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [The Party Never Ends](https://open.spotify.com/album/4lhMWQupmo7IWJX0cJt1gc) | 4:42 |
-| 96 | [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 |
-| 97 | [The Damage](https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Damage](https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu) | 4:01 |
+| 96 | [The Damage](https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Damage](https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu) | 4:01 |
+| 97 | [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 |
 | 98 | [Can't Be There Today](https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Can't Be There Today](https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8) | 3:44 |
 | 99 | [Troublesome Waters](https://open.spotify.com/track/1SV7mIySMGQDOQNgZ2p6YA) | [Carlene Carter](https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Carter Girl](https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T) | 5:18 |
 | 100 | [New York City](https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Robby Hecht](https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4) | 3:41 |

@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 142307,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
@@ -3744,7 +3744,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 140925,
       "name": "bite the bullet",
       "url": "https://open.spotify.com/track/5CspzXgtgJH2pSpDxQWjgo"
@@ -4234,7 +4234,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 116571,
       "name": "BOOM SNAP CLAP",
       "url": "https://open.spotify.com/track/6ZWnx79qcIAc4noEucrW2I"
@@ -4292,7 +4292,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 137186,
       "name": "Bottle Go Down",
       "url": "https://open.spotify.com/track/349jUksHiirUFIUqOZ4pUX"
@@ -4422,7 +4422,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 155000,
       "name": "Boys Like U",
       "url": "https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3"
@@ -5092,7 +5092,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 226100,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/1DlqQ6itflIyZwOBx5Fppa"
@@ -5732,7 +5732,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 165106,
       "name": "Check",
       "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
@@ -5840,7 +5840,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -6270,6 +6270,24 @@
       "duration_ms": 148086,
       "name": "club heaven - Live from Spotify Green Screen",
       "url": "https://open.spotify.com/track/3AaRTY18Q5ETuYoQ2wLXDP"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164202,
+      "name": "Coincidence",
+      "url": "https://open.spotify.com/track/0x2c3kWgC2mSS4wItmPmx7"
     },
     {
       "album": {
@@ -7902,7 +7920,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 181860,
       "name": "DIVE",
       "url": "https://open.spotify.com/track/5vK3WrTOp6rEoASx1jAsp1"
@@ -8938,7 +8956,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -9216,7 +9234,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 159400,
       "name": "exes",
       "url": "https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8"
@@ -9346,6 +9364,24 @@
       "duration_ms": 170754,
       "name": "Fainted Love",
       "url": "https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj"
+    },
+    {
+      "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/1OHQ1ovrNmPGdNuresKn8P"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172731,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/25dal1jwzqCrMvHBG548g1"
     },
     {
       "album": {
@@ -11224,7 +11260,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -13165,6 +13201,24 @@
     },
     {
       "album": {
+        "name": "WILD CHILD",
+        "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133106,
+      "name": "I Don't Wanna Go Downtown",
+      "url": "https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU"
+    },
+    {
+      "album": {
         "name": "reputation Stadium Tour Surprise Song Playlist",
         "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
       },
@@ -13368,6 +13422,24 @@
       "duration_ms": 200961,
       "name": "I Have Never Felt More Alive - from the feature film \"Fall\"",
       "url": "https://open.spotify.com/track/3Hz0axxTsemGQSNK3BiRa9"
+    },
+    {
+      "album": {
+        "name": "I Hope It Hurts",
+        "url": "https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249003,
+      "name": "I Hope It Hurts",
+      "url": "https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2"
     },
     {
       "album": {
@@ -16127,6 +16199,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202001,
+      "name": "Lie To Girls",
+      "url": "https://open.spotify.com/track/5il0jwWUlvgtIzWvzJi12z"
+    },
+    {
+      "album": {
         "name": "Descendants: The Rise of Red (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3KPOdANPLDWwF0U4TOzjrK"
       },
@@ -16142,7 +16232,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 218723,
       "name": "Life Is Sweeter",
       "url": "https://open.spotify.com/track/46CznmGbHRvRhTkvaN5rDB"
@@ -19602,7 +19692,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 179178,
       "name": "No Strings Attached",
       "url": "https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT"
@@ -20967,6 +21057,24 @@
     },
     {
       "album": {
+        "name": "Paper Cup",
+        "url": "https://open.spotify.com/album/0NQmRiFIkoGduRJ8Prnggn"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196181,
+      "name": "Paper Cup",
+      "url": "https://open.spotify.com/track/6qYIxqCTc7JSpLrJEOMyML"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -21052,7 +21160,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 218080,
       "name": "Paris",
       "url": "https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH"
@@ -21377,6 +21485,24 @@
     },
     {
       "album": {
+        "name": "Pick Ur Poison",
+        "url": "https://open.spotify.com/album/4yKjSDt7NEOdUc80aZIGNj"
+      },
+      "artists": [
+        {
+          "name": "Brianna Mazzola",
+          "url": "https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155198,
+      "name": "Pick Ur Poison",
+      "url": "https://open.spotify.com/track/44egyxnTY6iexemCIRsUIl"
+    },
+    {
+      "album": {
         "name": "Baby Teeth",
         "url": "https://open.spotify.com/album/71irsFKcf0lvzG4DO2jDUL"
       },
@@ -21526,6 +21652,24 @@
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "album": {
+        "name": "Plead",
+        "url": "https://open.spotify.com/album/4J4RCPMjZDFySB3dS5qvfx"
+      },
+      "artists": [
+        {
+          "name": "Ashley Kutcher",
+          "url": "https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224227,
+      "name": "Plead",
+      "url": "https://open.spotify.com/track/39QJZuilsv6YdkaQv7VR0e"
     },
     {
       "album": {
@@ -22237,6 +22381,24 @@
     },
     {
       "album": {
+        "name": "RABBITHOLE",
+        "url": "https://open.spotify.com/album/3zxAXVIsNoLPv727sWSqKg"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141443,
+      "name": "RABBITHOLE",
+      "url": "https://open.spotify.com/track/6l5sqTPOD2UdzEb2RlwtSI"
+    },
+    {
+      "album": {
         "name": "Born To Die - The Paradise Edition",
         "url": "https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX"
       },
@@ -22270,6 +22432,24 @@
       "duration_ms": 172688,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5D50LQOoqYJxSLTC6xtAbK"
+    },
+    {
+      "album": {
+        "name": "Rains in Heaven",
+        "url": "https://open.spotify.com/album/2SUJuWIru2k3m8RkjwcSsW"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237499,
+      "name": "Rains in Heaven",
+      "url": "https://open.spotify.com/track/17IcI8xMok8qFNhSPRufjo"
     },
     {
       "album": {
@@ -22736,7 +22916,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
@@ -23737,6 +23917,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218284,
+      "name": "Sharpest Tool",
+      "url": "https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl"
+    },
+    {
+      "album": {
         "name": "She Likes a Boy",
         "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
       },
@@ -24286,6 +24484,24 @@
       "duration_ms": 175875,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152195,
+      "name": "Slim Pickins",
+      "url": "https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb"
     },
     {
       "album": {
@@ -27202,7 +27418,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 173639,
       "name": "the boy is mine",
       "url": "https://open.spotify.com/track/0Lmbke3KNVFXtoH2mMSHCw"
@@ -27762,7 +27978,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 206522,
       "name": "The Same Bitch!",
       "url": "https://open.spotify.com/track/1NiHPhOiEqtqxIyuvF5X4E"
@@ -28020,6 +28236,24 @@
       "duration_ms": 204035,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/4jWCFYhDAqOLClw5dFvk8O"
+    },
+    {
+      "album": {
+        "name": "They Know I'm Bored",
+        "url": "https://open.spotify.com/album/1Ijudy4I61SaNFp8xCMuXd"
+      },
+      "artists": [
+        {
+          "name": "Presley Regier",
+          "url": "https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130332,
+      "name": "They Know I'm Bored",
+      "url": "https://open.spotify.com/track/7zKfjOLymdXIts4v18jqAw"
     },
     {
       "album": {
@@ -30754,7 +30988,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -31982,6 +32216,24 @@
       "duration_ms": 185573,
       "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
       "url": "https://open.spotify.com/track/54mG1R0iqWi7COJrHAXSkg"
+    },
+    {
+      "album": {
+        "name": "Fe3O4: STICK OUT",
+        "url": "https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182795,
+      "name": "\ubcc4\ubcc4\ubcc4 (See that?)",
+      "url": "https://open.spotify.com/track/2Oc0j4x7HkDRVZq8JsgACT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "Romance a la antig\u00fcita con Jos\u00e9 y El Toro en portada.",
+  "description": "Romance a la antig\u00fcita con Enjambe en portada.",
   "name": "Boleros Pop",
   "tracks": [
     {
@@ -517,6 +517,28 @@
     },
     {
       "album": {
+        "name": "Bailando Bonito",
+        "url": "https://open.spotify.com/album/7rxzzbpTZ8xAJPnLFN88EW"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243983,
+      "name": "Bailando Bonito",
+      "url": "https://open.spotify.com/track/2C47Ri3AXxD67NH8VLnprW"
+    },
+    {
+      "album": {
         "name": "Be True to Me - Sabor a Mi (Versi\u00f3n Biling\u00fce)",
         "url": "https://open.spotify.com/album/7e2OxHdIYyVK7dY8oHkGKx"
       },
@@ -688,7 +710,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 244711,
       "name": "B\u00e9same mucho",
       "url": "https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz"
@@ -1206,6 +1228,24 @@
       "duration_ms": 179000,
       "name": "DIME X FAVOR",
       "url": "https://open.spotify.com/track/1D1QmWAL0havpDhu00y6Qr"
+    },
+    {
+      "album": {
+        "name": "Divergencia (Noches de Sal\u00f3n)",
+        "url": "https://open.spotify.com/album/3PRKgdagGPB86zWUIcF9u4"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297500,
+      "name": "Divergencia - Noches de Sal\u00f3n",
+      "url": "https://open.spotify.com/track/2wPHxKXRyfqvyVfTLx33Dz"
     },
     {
       "album": {
@@ -2548,7 +2588,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 198826,
       "name": "Lo Que T\u00fa Quieras",
       "url": "https://open.spotify.com/track/29IQpdkv1MaP6Hvr1IBsdv"
@@ -2672,7 +2712,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 192000,
       "name": "Manteles & Arrugas",
       "url": "https://open.spotify.com/track/0NyR8dPui2MoWlWPTQJuUc"
@@ -2760,6 +2800,24 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
+    },
+    {
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98210,
+      "name": "Me Fui",
+      "url": "https://open.spotify.com/track/4PQwFIg4CgTMuYraERrJsC"
     },
     {
       "album": {
@@ -4314,7 +4372,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 138960,
       "name": "Sabor a Mi - En Vivo",
       "url": "https://open.spotify.com/track/5y5x3qdMoimI7GFoKXD8Ps"
@@ -4704,7 +4762,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 234128,
       "name": "Somos Algo",
       "url": "https://open.spotify.com/track/5iSpfk6cDOSYePagAoG639"
@@ -4900,7 +4958,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 232306,
       "name": "Te Mata",
       "url": "https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v"
@@ -4958,7 +5016,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 193426,
       "name": "Te Tocaba A Ti Llorar",
       "url": "https://open.spotify.com/track/69wyLBhOeKlS4VcilXZhzN"

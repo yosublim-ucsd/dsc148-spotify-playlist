@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,831 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,827 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 48 | [Bright Lights](https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Bright Lights](https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4) | 4:10 |
 | 49 | [XTC](https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi) | [urika's bedroom](https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw) | [XTC](https://open.spotify.com/album/7vdX9R9wDp0lQcisTd1G2o) | 4:05 |
 | 50 | [The End](https://open.spotify.com/track/61hkYwYeknRNFuj9TmgTtI) | [October Baby](https://open.spotify.com/artist/1x5rMrmsrQmBYs7P8sm9rD) | [The End](https://open.spotify.com/album/6diYy4ydu9Ew6yLStmpNdK) | 2:39 |
-| 51 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 |
 
-Snapshot ID: `Zse04AAAAAAGfB39ZSYMPVEIK4GA7FM6`
+Snapshot ID: `Zsg8CgAAAAB8OH9Wf9FXixDCENplrxD3`

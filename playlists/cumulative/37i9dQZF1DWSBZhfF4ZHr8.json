@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Fleurs Fan\u00e9es",
+        "url": "https://open.spotify.com/album/0PUmXgFRh9hyIIG9cuBxPA"
+      },
+      "artists": [
+        {
+          "name": "Candice",
+          "url": "https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208201,
+      "name": "Fleurs Fan\u00e9es",
+      "url": "https://open.spotify.com/track/49T0ep6z8zQG1m4iJfQPx3"
+    },
+    {
+      "album": {
         "name": "Gamins des sables",
         "url": "https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG"
       },

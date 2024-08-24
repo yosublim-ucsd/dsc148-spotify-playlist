@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-1,835 songs - 3 day 21 hr 50 min
+1,836 songs - 3 day 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1382,7 +1382,7 @@
 | [Seasons](https://open.spotify.com/track/4FMWjjXiJttRPvnmflfani) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Seasons](https://open.spotify.com/album/7DrzMnIkJsr84RAQehsjfZ) | 2:48 | 2024-08-15 | 2024-08-23 |
 | [Seasons & Narcissus](https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part One](https://open.spotify.com/album/14gwVejGdggFC3UspqGWOC) | 3:29 | 2024-07-26 | 2024-08-02 |
 | [Secrets](https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Secrets](https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE) | 3:44 | 2024-08-22 |  |
-| [see you again](https://open.spotify.com/track/0mW95CFGEMqpJ5rOXSvYOg) | [fka jim](https://open.spotify.com/artist/6QPmxSImZWhMaUL0cECeEL) | [see you again](https://open.spotify.com/album/6l9jidV2wcnk9yioYXGnPS) | 2:00 | 2024-08-22 |  |
+| [see you again](https://open.spotify.com/track/0mW95CFGEMqpJ5rOXSvYOg) | [Jim Alxndr](https://open.spotify.com/artist/73oeeOCtBTa9kBMuVggdMI) | [see you again](https://open.spotify.com/album/6l9jidV2wcnk9yioYXGnPS) | 2:00 | 2024-08-22 |  |
 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 | 2024-08-15 | 2024-08-23 |
 | [Seed of a Seed](https://open.spotify.com/track/2dLVXnwdnstcHIRTJMgqsx) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Seed of a Seed](https://open.spotify.com/album/77Q7ZGkqC4k1GjgoSdMrYa) | 2:44 | 2024-08-01 | 2024-08-09 |
 | [segersommer](https://open.spotify.com/track/4TkeYrl83OHX3HCIlpHx03) | [Segertåget](https://open.spotify.com/artist/2ipDTQIxcKOp0YwDcGgO1u) | [segersommer](https://open.spotify.com/album/6eciJp2ynwIr5Ggscztfgo) | 2:32 | 2024-06-13 | 2024-06-21 |
@@ -1728,6 +1728,7 @@
 | [Vi finns](https://open.spotify.com/track/774cIVzgW1vbeMeZsysdgv) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Vi finns](https://open.spotify.com/album/7Kn3vr40BixidoI9pRf4BR) | 2:57 | 2024-04-26 | 2024-05-03 |
 | [Vibin](https://open.spotify.com/track/4FDFlJQhYcMHyOrPg88QvD) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d), [Jungle Jonsson](https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z), [BAYZY](https://open.spotify.com/artist/3Bp2X5t7A5WNxBg3Kdhr6z) | [Vibin](https://open.spotify.com/album/2orAGDqiUmj7ss1xzVArIo) | 2:00 | 2024-05-02 | 2024-05-10 |
 | [View Of You](https://open.spotify.com/track/0ZzaF4eCeuOieLBJb5GrrW) | [tigerstate](https://open.spotify.com/artist/5IASPTbco70KYmxQwSg8E1), [Most Likely Marlin](https://open.spotify.com/artist/3hvm1YoZ5efW61Whc5RuKy) | [View Of You](https://open.spotify.com/album/4VggkGM4C1W4noWojPlK96) | 3:09 | 2024-06-13 | 2024-06-21 |
+| [Vil du elske meg](https://open.spotify.com/track/1O1z3wgUI0xneeh9a1CZiU) | [Ong Spiller](https://open.spotify.com/artist/1EPMyEV5UesL9Y8rc5jgnF) | [Vil du elske meg](https://open.spotify.com/album/1rQPdHROzgtFPkNtfrG3w8) | 3:25 | 2024-08-22 |  |
 | [Vil du komme over?](https://open.spotify.com/track/7qNKViZ2nQylwhuySzlqfi) | [Bare Andy](https://open.spotify.com/artist/6IpOWXE5U9K6vYTBgaRkrU) | [Finest etter klokka to](https://open.spotify.com/album/3b7yWCg10udqgqn6MIzKME) | 2:19 | 2024-05-23 | 2024-06-01 |
 | [Vil ikke hjem](https://open.spotify.com/track/0Rpw1FEivr3Io9yjjOLXGw) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Vil ikke hjem](https://open.spotify.com/album/0hJvr0HkNM3oi9QbrmPGZf) | 2:41 | 2024-06-06 | 2024-06-14 |
 | [Vilde Ingen Hvile](https://open.spotify.com/track/5hSsSeLlibK1UjnBEYaGmJ) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [FOMO 88.8 FM](https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn) | 2:46 | 2024-08-09 | 2024-08-16 |

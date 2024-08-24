@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: The Blessed Madonna x Kylie Minogue",
-  "num_followers": 182371,
+  "num_followers": 182591,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsJnaAAAAACAl1oVMXVaMtuPYju7ocN/",
+  "snapshot_id": "ZsgJ1gAAAABeWJCtG9/9KWVAX8QchE5N",
   "tracks": [
     {
       "added_at": "2024-08-18 21:28:08",
@@ -31,6 +31,206 @@
     {
       "added_at": "2024-08-18 21:28:08",
       "album": {
+        "name": "Angel Of Satisfaction",
+        "url": "https://open.spotify.com/album/7EhvxUYBMcsxAjt2Ub0E9n"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 211130,
+      "name": "Angel Of Satisfaction",
+      "url": "https://open.spotify.com/track/36jC9d0yHY8JUyxl5PrCLM"
+    },
+    {
+      "added_at": "2024-08-23 04:02:30",
+      "album": {
+        "name": "Out Of This World",
+        "url": "https://open.spotify.com/album/78R8e1C824Qo6335JT41FD"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Out Of This World",
+      "url": "https://open.spotify.com/track/0UcLSSdeAeNCn4T28S0EKO"
+    },
+    {
+      "added_at": "2024-08-23 04:02:30",
+      "album": {
+        "name": "Messing With My Heart",
+        "url": "https://open.spotify.com/album/48tjiTGh58IbHNVSdiXrJP"
+      },
+      "artists": [
+        {
+          "name": "Gamuel Sori",
+          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 136859,
+      "name": "Messing With My Heart",
+      "url": "https://open.spotify.com/track/4cQvJW6spSZth2hFx73FUC"
+    },
+    {
+      "added_at": "2024-08-23 04:02:30",
+      "album": {
+        "name": "BREAD",
+        "url": "https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 192856,
+      "name": "Woof (feat. Kah-Lo)",
+      "url": "https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ"
+    },
+    {
+      "added_at": "2024-08-23 04:02:30",
+      "album": {
+        "name": "All Night (with Sophie and the Giants)",
+        "url": "https://open.spotify.com/album/0Ef6pDrlRVps38PdMIgfLV"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 120975,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1rtUGB9XxwnX64t1k34ldu"
+    },
+    {
+      "added_at": "2024-08-23 04:02:30",
+      "album": {
+        "name": "Feel Your Love (Rapture)",
+        "url": "https://open.spotify.com/album/4EoPxkx9NLL0BmgpLXOL11"
+      },
+      "artists": [
+        {
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Ganesh Waghela",
+          "url": "https://open.spotify.com/artist/4Kac7OHMUGXTbh1nWNXuNw"
+        }
+      ],
+      "duration_ms": 190070,
+      "name": "Feel Your Love (Rapture)",
+      "url": "https://open.spotify.com/track/71KYvmtTDxWggYdmJP3tTV"
+    },
+    {
+      "added_at": "2024-08-23 04:02:30",
+      "album": {
+        "name": "The Great Alone",
+        "url": "https://open.spotify.com/album/343twK5RZcEydZcoM8KleZ"
+      },
+      "artists": [
+        {
+          "name": "Binoy",
+          "url": "https://open.spotify.com/artist/4Ex31uB8b0dXDzSgyrVCgr"
+        }
+      ],
+      "duration_ms": 190413,
+      "name": "The Same Mistake",
+      "url": "https://open.spotify.com/track/5hPecn0mRsCHWBfU1kWrji"
+    },
+    {
+      "added_at": "2024-08-23 04:02:30",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/0ypGTa4ZhiEf0CeNx46APm"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 157689,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/2u6XasNryHmfzy9DjXNO9D"
+    },
+    {
+      "added_at": "2024-08-23 04:02:30",
+      "album": {
+        "name": "HIGHER (feat. SACHA)",
+        "url": "https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 131764,
+      "name": "HIGHER (feat. SACHA)",
+      "url": "https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM"
+    },
+    {
+      "added_at": "2024-08-18 21:28:08",
+      "album": {
+        "name": "Cry Baby",
+        "url": "https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 157086,
+      "name": "Cry Baby",
+      "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
+    },
+    {
+      "added_at": "2024-08-18 21:28:08",
+      "album": {
         "name": "BURN IT DOWN",
         "url": "https://open.spotify.com/album/4SMYoMTin6mYgT7sDnebMt"
       },
@@ -45,20 +245,24 @@
       "url": "https://open.spotify.com/track/2yikG6FBpLI5FOYKo3r1YB"
     },
     {
-      "added_at": "2024-08-18 21:28:08",
+      "added_at": "2024-08-23 04:02:30",
       "album": {
-        "name": "Angel Of Satisfaction",
-        "url": "https://open.spotify.com/album/7EhvxUYBMcsxAjt2Ub0E9n"
+        "name": "Heal My Heart",
+        "url": "https://open.spotify.com/album/1RZBZTyRggeKIRzw7O5JNy"
       },
       "artists": [
         {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
         }
       ],
-      "duration_ms": 211130,
-      "name": "Angel Of Satisfaction",
-      "url": "https://open.spotify.com/track/36jC9d0yHY8JUyxl5PrCLM"
+      "duration_ms": 150000,
+      "name": "Heal My Heart",
+      "url": "https://open.spotify.com/track/5RaIR7tKEdO3tf4gpSgQ7P"
     },
     {
       "added_at": "2024-08-18 21:28:08",
@@ -91,6 +295,30 @@
       "duration_ms": 192000,
       "name": "LIFETIMES",
       "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
+    },
+    {
+      "added_at": "2024-08-23 04:02:30",
+      "album": {
+        "name": "Make You Mine (with Whethan & Hayley May)",
+        "url": "https://open.spotify.com/album/1UnHaaTNIGTlZCMm36pcfa"
+      },
+      "artists": [
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 169906,
+      "name": "Make You Mine (with Whethan & Hayley May)",
+      "url": "https://open.spotify.com/track/7z94OvAWLwUuRi1t0NwyLq"
     },
     {
       "added_at": "2024-08-18 21:28:08",
@@ -133,6 +361,26 @@
       "url": "https://open.spotify.com/track/35KkZrQ5r4NpHYuoLUT0VI"
     },
     {
+      "added_at": "2024-08-23 04:02:30",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/2TpzrA8WwmRSYYu1v9drok"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Kyla Imani",
+          "url": "https://open.spotify.com/artist/2bo6iIgHOLdXBRHPqco1ed"
+        }
+      ],
+      "duration_ms": 172573,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4V7LChILRB41wjxXAoTYtI"
+    },
+    {
       "added_at": "2024-08-18 21:28:08",
       "album": {
         "name": "True",
@@ -151,6 +399,30 @@
       "duration_ms": 125806,
       "name": "True",
       "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
+    },
+    {
+      "added_at": "2024-08-23 04:02:30",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/2JuSoLnQXNXbVdOODSZQ88"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 147124,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2212Svokvme9GTbKsSeyw6"
     },
     {
       "added_at": "2024-08-18 21:28:08",
@@ -193,6 +465,26 @@
       "url": "https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi"
     },
     {
+      "added_at": "2024-08-23 04:02:30",
+      "album": {
+        "name": "Chains",
+        "url": "https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D"
+      },
+      "artists": [
+        {
+          "name": "Tina Arena",
+          "url": "https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8"
+        },
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 215649,
+      "name": "Chains",
+      "url": "https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6"
+    },
+    {
       "added_at": "2024-08-18 21:28:08",
       "album": {
         "name": "Love Me Like That",
@@ -207,30 +499,6 @@
       "duration_ms": 148124,
       "name": "Love Me Like That",
       "url": "https://open.spotify.com/track/3DUuurb1M5yAebc2PGcAfK"
-    },
-    {
-      "added_at": "2024-08-18 21:28:08",
-      "album": {
-        "name": "Cry Baby",
-        "url": "https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b"
-      },
-      "artists": [
-        {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-        },
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 157086,
-      "name": "Cry Baby",
-      "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
     },
     {
       "added_at": "2024-08-18 21:28:08",

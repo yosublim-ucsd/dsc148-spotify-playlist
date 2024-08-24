@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: South Arcade",
-  "num_followers": 577448,
+  "num_followers": 577554,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,18 @@
     {
       "added_at": "2024-08-14 10:18:50",
       "album": {
-        "name": "Light It Up",
-        "url": "https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC"
+        "name": "Love Sux",
+        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 172506,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
+      "duration_ms": 159746,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
     },
     {
       "added_at": "2024-08-14 10:18:50",
@@ -59,18 +59,18 @@
     {
       "added_at": "2024-08-14 10:18:50",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+      "duration_ms": 172506,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
     },
     {
       "added_at": "2024-08-14 10:18:50",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-08-14 10:18:50",
       "album": {
-        "name": "Make It All Right",
-        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 214053,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
-    },
-    {
-      "added_at": "2024-08-14 10:18:50",
-      "album": {
         "name": "Neck Deep",
         "url": "https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 178600,
       "name": "Dumbstruck Dumbf**k",
       "url": "https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj"
+    },
+    {
+      "added_at": "2024-08-14 10:18:50",
+      "album": {
+        "name": "Make It All Right",
+        "url": "https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 214053,
+      "name": "Make It All Right",
+      "url": "https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2"
     },
     {
       "added_at": "2024-08-14 10:18:50",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-08-14 10:18:50",
       "album": {
-        "name": "Sour",
-        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
-      },
-      "artists": [
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 165858,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
-    },
-    {
-      "added_at": "2024-08-14 10:18:50",
-      "album": {
         "name": "Generational",
         "url": "https://open.spotify.com/album/0KjcU59seFJaLu75xJJgBv"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 129511,
       "name": "Generational",
       "url": "https://open.spotify.com/track/2H7ReZ9ZqBqp7YoiYaGMew"
+    },
+    {
+      "added_at": "2024-08-14 10:18:50",
+      "album": {
+        "name": "Sour",
+        "url": "https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ"
+      },
+      "artists": [
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 165858,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/1eEq2illl2lZlqawke83S8"
     },
     {
       "added_at": "2024-08-14 10:18:50",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-08-14 10:18:50",
       "album": {
-        "name": "The Mosaic",
-        "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
-      },
-      "artists": [
-        {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
-        }
-      ],
-      "duration_ms": 213387,
-      "name": "Final Words",
-      "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
-    },
-    {
-      "added_at": "2024-08-14 10:18:50",
-      "album": {
         "name": "The Storm",
         "url": "https://open.spotify.com/album/3JDUl3oKejH3cGOLBFlJgf"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 173614,
       "name": "The Storm",
       "url": "https://open.spotify.com/track/7dK3KXph8IKzuMo89sh6Kg"
+    },
+    {
+      "added_at": "2024-08-14 10:18:50",
+      "album": {
+        "name": "The Mosaic",
+        "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 213387,
+      "name": "Final Words",
+      "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
     },
     {
       "added_at": "2024-08-14 10:18:50",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-08-14 10:18:50",
       "album": {
-        "name": "People That I Love Leave",
-        "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
-      },
-      "artists": [
-        {
-          "name": "Cassadee Pope",
-          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
-        }
-      ],
-      "duration_ms": 149248,
-      "name": "People That I Love Leave",
-      "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
-    },
-    {
-      "added_at": "2024-08-14 10:18:50",
-      "album": {
         "name": "Before I Die",
         "url": "https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 149465,
       "name": "Crushing Me",
       "url": "https://open.spotify.com/track/5h8EGfF4j1az4GNCAgQBkF"
+    },
+    {
+      "added_at": "2024-08-14 10:18:50",
+      "album": {
+        "name": "People That I Love Leave",
+        "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
+      },
+      "artists": [
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "duration_ms": 149248,
+      "name": "People That I Love Leave",
+      "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

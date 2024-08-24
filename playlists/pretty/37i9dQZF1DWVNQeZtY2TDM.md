@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 
 > Spotify 台灣上線十年精采呈獻！最高人氣歌手的最熱門華語歌曲大全輯！歌手精選請聽 <a href="spotify:genre:0JQ5IMCbQBLtYOSc3HviWJ">Spotify 台灣上線 10 年全精選</a> ! Cover: 周杰倫
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,921 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,992 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVNQeZtY2TDM.md) - [plain]
 | 38 | [在沒有你以後 \(feat\. 張智成\)](https://open.spotify.com/track/4mDGkFRAqaYosoyWUI7QzM) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [Z\-Chen](https://open.spotify.com/artist/5rG61ghWZ2R4TDvCO7d0jw) | [要你知道](https://open.spotify.com/album/79RVoXUiYqAjGcBJ5Y7Tx0) | 3:53 |
 | 39 | [Black Out \(feat\. 9m88\)](https://open.spotify.com/track/2LoGv4HSbilp1SVoQ10Qw6) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [ØZI: The Album](https://open.spotify.com/album/0LnXoVIBhZ1zUlHlgYsr3q) | 3:57 |
 | 40 | [我真的受傷了](https://open.spotify.com/track/5cN75zXR3M4si2toC2eF5C) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [學友．熱](https://open.spotify.com/album/16vik0cfPFsAZ6XJeQMyoR) | 3:28 |
-| 41 | [恆溫](https://open.spotify.com/track/122XVqEGBM36Lp0XNvsgTV) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [girls](https://open.spotify.com/album/0MhMx54l7L35HxqnMNfL9z) | 4:20 |
+| 41 | [恆溫](https://open.spotify.com/track/122XVqEGBM36Lp0XNvsgTV) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Girls](https://open.spotify.com/album/0MhMx54l7L35HxqnMNfL9z) | 4:20 |
 | 42 | [我很好騙](https://open.spotify.com/track/69AvckyixY1AIGRYDZ1QnO) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 5:13 |
 | 43 | [路過人間 \(電視劇《我們與惡的距離》插曲\)](https://open.spotify.com/track/1ZSleGniKMWNrWvK5cGALO) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [路過人間](https://open.spotify.com/album/7hd795P01sAfMB5CtPPYUJ) | 4:07 |
 | 44 | [末班車](https://open.spotify.com/track/4oELKeBS6hWwN3CTuN6acA) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [孤獨的和弦](https://open.spotify.com/album/0OFap7LvZ4AZUkcein45fr) | 4:48 |

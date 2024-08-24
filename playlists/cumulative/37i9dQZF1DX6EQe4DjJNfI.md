@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Melly
 
-231 songs - 11 hr 50 min
+232 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [1001 Roteiros](https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2) | [1001 Roteiros](https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm) | 2:41 | 2024-03-22 |  |
 | [22:50](https://open.spotify.com/track/4fhAcHeUevxayFBkoyDAeY) | [Janu](https://open.spotify.com/artist/6hJAzChzllkTwqTIU3NP1W), [Tainá Seabra](https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf), [Dj Kaslu](https://open.spotify.com/artist/6ZP4IqLMMJNAXeXMehlO8S) | [22:50](https://open.spotify.com/album/2szD2sU7fHObX4eAPnKAho) | 3:24 | 2022-11-18 | 2022-12-03 |
 | [5458](https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs) | [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [5458](https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV) | 3:07 | 2022-11-18 | 2023-11-04 |
-| [A Faca e o Beijo](https://open.spotify.com/track/2B6uSfSsBqdCOo1Xc1WqGY) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [A Faca e o Beijo](https://open.spotify.com/album/4TNTbaTflBaJI88vXWB2nM) | 2:03 | 2024-06-21 |  |
+| [A Faca e o Beijo](https://open.spotify.com/track/2B6uSfSsBqdCOo1Xc1WqGY) | [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [A Faca e o Beijo](https://open.spotify.com/album/4TNTbaTflBaJI88vXWB2nM) | 2:03 | 2024-06-21 | 2024-08-24 |
 | [A MEIA NOITE](https://open.spotify.com/track/0zohxkEGHHOEZSJddLIGjL) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 3:39 | 2024-03-01 |  |
 | [A Noite Toda](https://open.spotify.com/track/7xr8FjbUs6rZjs3YikkDZn) | [Charm Mone](https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c), [BENO](https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny) | [A Noite Toda](https://open.spotify.com/album/23I05Wl6UdtEX9sgA2KtW5) | 3:04 | 2023-06-30 | 2023-07-15 |
 | [A Nossa Brisa](https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy) | [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Lunar](https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf) | 1:55 | 2022-12-01 | 2024-07-19 |
@@ -135,6 +135,7 @@
 | [Muito Sou\(L\)](https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Rashid](https://open.spotify.com/artist/6MAebUQUc54IEPRoaIv5My) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 3:42 | 2023-07-21 | 2023-11-11 |
 | [Na Cama](https://open.spotify.com/track/3jBUU3sojivff7iNesTd9S) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Na Cama](https://open.spotify.com/album/0NvtbyPCU9bIVdIhTh4fgo) | 3:15 | 2022-11-18 | 2023-01-14 |
 | [Nada Mais](https://open.spotify.com/track/5FU7Bcnvd27SxFstEF8Cp0) | [Yas Werneck](https://open.spotify.com/artist/5TjjSBov2DyArXPihcNWs2) | [Nada Mais](https://open.spotify.com/album/5WXB15pFJ00Wvh3eTPOHku) | 2:57 | 2023-04-23 | 2023-08-26 |
+| [NEGRA COR](https://open.spotify.com/track/342rayf5kBDPfjdGu7Ke0S) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [VIVER É SENTIR](https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb) | 3:21 | 2024-08-23 |  |
 | [Nem Sei Fingir](https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv) | [Nem Sei Fingir](https://open.spotify.com/album/0DDKZ9qObSoNiA4qAkuiEh) | 2:56 | 2024-01-19 | 2024-05-03 |
 | [Nessa Vida](https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Nessa Vida](https://open.spotify.com/album/5SivaxB405MCGeZroyNpza) | 3:09 | 2023-06-23 | 2024-04-19 |
 | [Nessa Vida](https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH) | [IGOR](https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Nessa Vida](https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE) | 3:09 | 2022-11-18 |  |

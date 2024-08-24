@@ -1,12 +1,12 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 64285,
+  "num_followers": 64316,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABVKB44jxyPNzoaaFtshSo0",
+  "snapshot_id": "ZsZ/gAAAAABfUfb5aP1klNTeRAqPHw+1",
   "tracks": [
     {
       "added_at": null,
@@ -575,30 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DECIRTE LO QUE SIENTO",
-        "url": "https://open.spotify.com/album/7o2GjDeLWCLtV38zUk1z6G"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Ariza",
-          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
-        }
-      ],
-      "duration_ms": 181258,
-      "name": "DECIRTE LO QUE SIENTO",
-      "url": "https://open.spotify.com/track/0LkYMmuNRsys7RgL6P7ta2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras no Vuelves",
         "url": "https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ"
       },
@@ -619,6 +595,30 @@
       "duration_ms": 197786,
       "name": "Mientras no Vuelves",
       "url": "https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DECIRTE LO QUE SIENTO",
+        "url": "https://open.spotify.com/album/7o2GjDeLWCLtV38zUk1z6G"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        }
+      ],
+      "duration_ms": 181258,
+      "name": "DECIRTE LO QUE SIENTO",
+      "url": "https://open.spotify.com/track/0LkYMmuNRsys7RgL6P7ta2"
     },
     {
       "added_at": null,
@@ -679,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Belleza",
-        "url": "https://open.spotify.com/album/3wzeBIxedazMhG0oiSryZ8"
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
       "artists": [
-        {
-          "name": "Christian Lara",
-          "url": "https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5"
-        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 200955,
-      "name": "Tu Belleza",
-      "url": "https://open.spotify.com/track/7J9QvKA6f5BhZtRbWnL7tI"
+      "duration_ms": 211500,
+      "name": "Nuestro Pasado",
+      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
     },
     {
       "added_at": null,
@@ -719,18 +715,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+        "name": "Tu Belleza",
+        "url": "https://open.spotify.com/album/3wzeBIxedazMhG0oiSryZ8"
       },
       "artists": [
+        {
+          "name": "Christian Lara",
+          "url": "https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5"
+        },
         {
           "name": "DannyLux",
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Nuestro Pasado",
-      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
+      "duration_ms": 200955,
+      "name": "Tu Belleza",
+      "url": "https://open.spotify.com/track/7J9QvKA6f5BhZtRbWnL7tI"
     },
     {
       "added_at": null,

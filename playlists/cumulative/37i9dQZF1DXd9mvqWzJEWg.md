@@ -2,9 +2,9 @@
 
 ### [GQOM Power House](https://open.spotify.com/playlist/37i9dQZF1DXd9mvqWzJEWg)
 
-> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB?si=\_Gk8lPnkRVSCHyLGM3\_UBA">STATE OFFF</a>
+> It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr?si=c1VXIp\-7TXqy2\-7euag15g">Cairo CPT</a>
 
-201 songs - 17 hr 57 min
+202 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Yebo](https://open.spotify.com/track/39OPuSut8UC6cMMmTE54pI) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Thobeka](https://open.spotify.com/artist/3AyBsX5nXTMPaXkmZelNCu) | [THE REBELLION](https://open.spotify.com/album/2exf6yfLxHJzx0z5EFZGYA) | 5:09 | 2024-07-04 |  |
 | [YFM](https://open.spotify.com/track/39yBTOilZA5sAKbbJ7H0ge) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx), [Solan Lo](https://open.spotify.com/artist/1wSf79jCXrpZNR7ke1JHmq) | [YFM](https://open.spotify.com/album/4oPK8pdveVEaHSxwNCT7E1) | 5:06 | 2024-05-02 |  |
 | [Yini Ukusha](https://open.spotify.com/track/6rhCovB1BU0nkuPbDPs2PM) | [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Que DJ](https://open.spotify.com/artist/6US33OdDB5JmPMRDo16547) | [Aluku Records Various Compilation SA Edition Pt.4 \(Deluxe\)](https://open.spotify.com/album/7Cn9DI3AhuIiJsNsNplRWw) | 5:01 | 2024-02-15 |  |
+| [Yonkinto](https://open.spotify.com/track/3m8UOWi5h7gg9Lv9CuT8v4) | [Cairo CPT](https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr), [Minollar](https://open.spotify.com/artist/2kVLLGJJbdQ5YAObQTa00K) | [Yonkinto](https://open.spotify.com/album/19tpw7WwMqsZpKzjuwbuFA) | 4:05 | 2024-08-23 |  |
 | [Yoshimitsu](https://open.spotify.com/track/5TfEWjBkIpoFG8yU8dcOto) | [Surreal Sessions](https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E), [Jaydon Lewis](https://open.spotify.com/artist/7BhPEQsY4yOzud3WiYCSeo) | [Double Dragon](https://open.spotify.com/album/4U5urN3pncYaFXEr62rDdY) | 5:34 | 2024-04-08 |  |
 | [Zero Gravity](https://open.spotify.com/track/3jp2qPoR0ZL6Fmsa4rzr0R) | [Dlala Chass](https://open.spotify.com/artist/2BuFIwEOV547lKQhOapZU3), [Woza Spice](https://open.spotify.com/artist/5jXhHXqQusFuDslFf7VJYQ) | [Double Impact](https://open.spotify.com/album/1xKN6gKx9T1NI0WpQXX1eG) | 5:49 | 2022-07-28 | 2023-02-04 |
 

@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 69567,
+  "num_followers": 69577,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Hei Sommer",
-        "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
-      },
-      "artists": [
-        {
-          "name": "Admiral P",
-          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
-        },
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 172516,
-      "name": "Hei Sommer",
-      "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Mera tid",
         "url": "https://open.spotify.com/album/5QCsjByk5aWUXvdRCKE42R"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 189600,
       "name": "Mera tid",
       "url": "https://open.spotify.com/track/4PzAEGMHPCwtf9jXvzMLEw"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Hei Sommer",
+        "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
+      },
+      "artists": [
+        {
+          "name": "Admiral P",
+          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
+        },
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 172516,
+      "name": "Hei Sommer",
+      "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
     },
     {
       "added_at": "2024-06-24 11:19:01",

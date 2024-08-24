@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > Cool és trendi dalok Magyarországon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,946 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,959 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 40 | [ITALODISCO](https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [ITALODISCO](https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn) | 3:19 |
 | 41 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 |
 | 42 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 |
-| 43 | [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 |
-| 44 | [Soñar](https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Soñar](https://open.spotify.com/album/7A70nUpKaVQYIlDfyZjoT0) | 4:15 |
+| 43 | [Soñar](https://open.spotify.com/track/3lI1sZnyM1Ju3ApgNo0ITT) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Soñar](https://open.spotify.com/album/7A70nUpKaVQYIlDfyZjoT0) | 4:15 |
+| 44 | [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 |
 | 45 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 |
 | 46 | [Makeba](https://open.spotify.com/track/5JdLUE9D743ob2RtgmVpVx) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka](https://open.spotify.com/album/2S12TNfqdnUFdTfYlE96tb) | 4:09 |
 | 47 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 59 | [Úgy Hiszem](https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 3:19 |
 | 60 | [Felicidad \(De la serie 'Berlin' de Netflix\)](https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO) | [Pedro Alonso](https://open.spotify.com/artist/3ZKd5UA8cotv3Zx6DKl2PO), [Tristan Ulloa](https://open.spotify.com/artist/6SeRILwpI0BvkRbAbVeq8M) | [Felicidad \(De la serie 'Berlín' de Netflix\)](https://open.spotify.com/album/5YeZ6BoqHtO60NLH1R1pkQ) | 3:20 |
 | 61 | [CARTIER](https://open.spotify.com/track/65zjjkUwz8KIPNypaHRX9m) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:30 |
-| 62 | [Valencia](https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb) | [Tomi](https://open.spotify.com/artist/3T7cPgj4vAIoSdypl7cNH8), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Valencia](https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9) | 2:55 |
-| 63 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 |
+| 62 | [egyszerű](https://open.spotify.com/track/4h5Z5rfp8af1RKD0zY8q5n) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [rabiga](https://open.spotify.com/album/4m3abzBFPf2roj9TyyZ8OH) | 2:50 |
+| 63 | [Valencia](https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb) | [Tomi](https://open.spotify.com/artist/3T7cPgj4vAIoSdypl7cNH8), [VALMAR](https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh) | [Valencia](https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9) | 2:55 |
 | 64 | [Osztriga](https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [A bús barista balladái](https://open.spotify.com/album/4TGu3sVQHkz67nUz1GWueo) | 2:06 |
 | 65 | [Tiara](https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Tiara](https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn) | 3:23 |
 | 66 | [Mámor](https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Vagy Mindent Vagy Semmit](https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH) | 2:56 |

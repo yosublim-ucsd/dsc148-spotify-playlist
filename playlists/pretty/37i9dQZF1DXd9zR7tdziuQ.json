@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 933833,
+  "num_followers": 933866,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 154764,
-      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "City of Stars",
         "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 154858,
       "name": "City of Stars",
       "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 154764,
+      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/7a7v27v9qrwjKBbsqrCZt9"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Pretty Girl (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
-      },
-      "artists": [
-        {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
-        }
-      ],
-      "duration_ms": 180828,
-      "name": "Pretty Girl - Acoustic Version",
-      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 198000,
       "name": "U Remind Me - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22wMOOsQVIKkoVAILL5ruw"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Pretty Girl (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3qbKaJJsSO5uuMcYPvKALk"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 180828,
+      "name": "Pretty Girl - Acoustic Version",
+      "url": "https://open.spotify.com/track/4Q28TwldTqBGxYfyWaYPFL"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Unchained Melody",
-        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 280827,
       "name": "When Doves Cry - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Unchained Melody",
+        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
+      },
+      "artists": [
+        {
+          "name": "Becca Adams",
+          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
+        }
+      ],
+      "duration_ms": 227279,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Perfect Strangers (Acoustic)",
         "url": "https://open.spotify.com/album/2rJ9hhlOmZZvQfXVGMrmUK"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 191206,
       "name": "Perfect Strangers - Acoustic",
       "url": "https://open.spotify.com/track/5AFMjlqAA0skXGqZHGZDxt"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/6jBrihWQmJCl81kuNQS3pE"
-      },
-      "artists": [
-        {
-          "name": "Becca Adams",
-          "url": "https://open.spotify.com/artist/40ip5fLaAm6psgM7bUiSGb"
-        }
-      ],
-      "duration_ms": 227279,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2xugNZzWFJVQB54PS5XnG2"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Architect (Deluxe)",
-        "url": "https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv"
-      },
-      "artists": [
-        {
-          "name": "Wallis Bird",
-          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Chained To The Rhythm",
         "url": "https://open.spotify.com/album/0bpEFgySwiqBSeqoxoujy9"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 203070,
       "name": "Chained To The Rhythm",
       "url": "https://open.spotify.com/track/6WYZpPWeHcAXd0KVSfjbwI"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Architect (Deluxe)",
+        "url": "https://open.spotify.com/album/4tKIQtoOiJDj2mRonGNOcv"
+      },
+      "artists": [
+        {
+          "name": "Wallis Bird",
+          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/625ZpDbngDHqNgjoGiCgBp"
     },
     {
       "added_at": "2024-07-10 07:20:21",

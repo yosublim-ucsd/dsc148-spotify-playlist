@@ -4,7 +4,7 @@
 
 > Pop country hits of today and tomorrow\. Cover: Danielle Bradbery
 
-302 songs - 15 hr 41 min
+303 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [Should Have Known Better](https://open.spotify.com/track/4lAQRXLmEv38xGzUJYoIJq) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [The Woman I've Become](https://open.spotify.com/album/1BWUybJrDIFyZmrMbZHkyu) | 2:27 | 2021-12-17 | 2022-07-29 |
 | [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 | 2024-03-29 |  |
 | [Single Saturday Night](https://open.spotify.com/track/1irAliF0T8sLIOPJp6n7rU) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Single Saturday Night](https://open.spotify.com/album/1wmVEVgetT1F0Qnu0651Ps) | 3:07 | 2021-12-17 |  |
+| [Slim Pickins](https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:32 | 2024-08-23 |  |
 | [Small Town Scandal](https://open.spotify.com/track/56yiEEYcSMw27ujiSyVzCS) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Small Town Scandal](https://open.spotify.com/album/1KQBTxsa7BMd72SSO4Dj6s) | 3:30 | 2024-04-05 | 2024-07-13 |
 | [So Far So Good](https://open.spotify.com/track/3cIiJErQHF9NUcp6DwEOGB) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [So Far So Good](https://open.spotify.com/album/5wx6ZdqqOrQSUUIh6tYRTh) | 2:41 | 2021-12-17 | 2022-01-15 |
 | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Some Things I'll Never Know \(feat\. Maren Morris\)](https://open.spotify.com/album/1iUKdH9SrtKcSaCbIVcrNj) | 4:02 | 2023-11-17 |  |
@@ -305,7 +306,7 @@
 | [Wine Into Whiskey](https://open.spotify.com/track/2DVHIJA2bLas9cGLmHmUsY) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wine Into Whiskey](https://open.spotify.com/album/62gi4vmy1oTqnUxs0z4Vma) | 2:46 | 2024-05-03 |  |
 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 | 2021-12-17 |  |
 | [Woman](https://open.spotify.com/track/6fWBVn4vwRnaOZiu5292Gd) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Woman](https://open.spotify.com/album/34Ya6PWAG8aOVRjUNIkmzq) | 2:36 | 2024-03-08 | 2024-06-01 |
-| [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 | 2021-12-17 |  |
+| [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 | 2021-12-17 | 2024-08-24 |
 | [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 | 2023-04-21 | 2024-03-09 |
 | [X's](https://open.spotify.com/track/0xgXEMA62AEMPSM0inCuLy) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Chapter 1: Things We're Not Saying](https://open.spotify.com/album/1WbnYN5xJRoNCPMQ2Ne0xn) | 2:34 | 2022-09-23 | 2023-07-24 |
 | [Y'all Life \(feat\. Ciara\)](https://open.spotify.com/track/19Zc2DohB8aihlDOrONMUQ) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Y'all Life \(feat\. Ciara\)](https://open.spotify.com/album/68lDrqwjVOebqh6f580Eac) | 3:12 | 2022-10-14 | 2022-12-17 |

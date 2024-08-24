@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59195,
+  "num_followers": 59206,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7"
+      },
+      "artists": [
+        {
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        }
+      ],
+      "duration_ms": 179754,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Dina \u00d6gon \u00c4r Nakna",
         "url": "https://open.spotify.com/album/36kAfpQDj75JajMG41D1VX"
       },
@@ -475,34 +491,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/3ZrhrH8iDFgDLEgVYfobR7"
+        "name": "Stj\u00e4rnorna inatt",
+        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
       },
       "artists": [
         {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+          "name": "Lilla London",
+          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
         }
       ],
-      "duration_ms": 179754,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/6kvS2z82Q6l7h4DnzteKwO"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Idioti",
-        "url": "https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe"
-      },
-      "artists": [
-        {
-          "name": "noll2",
-          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
-        }
-      ],
-      "duration_ms": 193327,
-      "name": "Idioti",
-      "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
+      "duration_ms": 207160,
+      "name": "Stj\u00e4rnorna inatt",
+      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Stj\u00e4rnorna inatt",
-        "url": "https://open.spotify.com/album/5ds8GyAwvIwrtI8JdtGMHO"
+        "name": "Idioti",
+        "url": "https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe"
       },
       "artists": [
         {
-          "name": "Lilla London",
-          "url": "https://open.spotify.com/artist/6zK5imaibUQAokIz18dOGD"
+          "name": "noll2",
+          "url": "https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR"
         }
       ],
-      "duration_ms": 207160,
-      "name": "Stj\u00e4rnorna inatt",
-      "url": "https://open.spotify.com/track/1DKFVX0HLcAGK8o7uHbJ3N"
+      "duration_ms": 193327,
+      "name": "Idioti",
+      "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Klyschor",
+        "url": "https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd"
+      },
+      "artists": [
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "duration_ms": 153186,
+      "name": "Klyschor",
+      "url": "https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Aff\u00e4ren (feat. Dolce)",
         "url": "https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Klyschor",
-        "url": "https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd"
-      },
-      "artists": [
-        {
-          "name": "Nadja Evelina",
-          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
-        }
-      ],
-      "duration_ms": 153186,
-      "name": "Klyschor",
-      "url": "https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "En F\u00f6rsta Dans",
         "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 130285,
       "name": "En F\u00f6rsta Dans",
       "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Rollercoaster",
+        "url": "https://open.spotify.com/album/6IAHl13kHHbwAomOO4xm3j"
+      },
+      "artists": [
+        {
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+        }
+      ],
+      "duration_ms": 150170,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -795,18 +811,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Rollercoaster",
-        "url": "https://open.spotify.com/album/6IAHl13kHHbwAomOO4xm3j"
+        "name": "Black Lake",
+        "url": "https://open.spotify.com/album/7e4KbLhXLMtAISnyc9mSQJ"
       },
       "artists": [
         {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
         }
       ],
-      "duration_ms": 150170,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/27SLYYc8iLbG5b7yyMpiXe"
+      "duration_ms": 175555,
+      "name": "Black Lake",
+      "url": "https://open.spotify.com/track/4jQsY9gkKNevXHvdXS16aI"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 304000,
       "name": "Summer",
       "url": "https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Black Lake",
-        "url": "https://open.spotify.com/album/7e4KbLhXLMtAISnyc9mSQJ"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 175555,
-      "name": "Black Lake",
-      "url": "https://open.spotify.com/track/4jQsY9gkKNevXHvdXS16aI"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Flyttat d\u00e4rifr\u00e5n",
-        "url": "https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp"
-      },
-      "artists": [
-        {
-          "name": "Dear Sara",
-          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Flyttat d\u00e4rifr\u00e5n",
-      "url": "https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Tu Mirada",
         "url": "https://open.spotify.com/album/1RoQIKvC40xS3gWMDtcPp7"
       },
@@ -1059,6 +1043,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Flyttat d\u00e4rifr\u00e5n",
+        "url": "https://open.spotify.com/album/5PDNp1F6qzCnMDp6Q9GSJp"
+      },
+      "artists": [
+        {
+          "name": "Dear Sara",
+          "url": "https://open.spotify.com/artist/721YShAWcHkTb98Kn0zi3S"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Flyttat d\u00e4rifr\u00e5n",
+      "url": "https://open.spotify.com/track/2HC0Y27D9pGyMBMoivUcer"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "P\u00e5 sommaren",
         "url": "https://open.spotify.com/album/2pqShugX6VXlHKMENACUAF"
       },
@@ -1071,6 +1071,22 @@
       "duration_ms": 191073,
       "name": "P\u00e5 sommaren",
       "url": "https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Min Elsa",
+        "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
+      },
+      "artists": [
+        {
+          "name": "Klara Tuva",
+          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
+        }
+      ],
+      "duration_ms": 172602,
+      "name": "Min Elsa",
+      "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1095,22 +1111,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Min Elsa",
-        "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
-      },
-      "artists": [
-        {
-          "name": "Klara Tuva",
-          "url": "https://open.spotify.com/artist/5x0bjg1UeCRvFr8kUyj3fk"
-        }
-      ],
-      "duration_ms": 172602,
-      "name": "Min Elsa",
-      "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Havet",
         "url": "https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo"
       },
@@ -1123,6 +1123,22 @@
       "duration_ms": 262976,
       "name": "Havet",
       "url": "https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL"
+      },
+      "artists": [
+        {
+          "name": "SI EVOL",
+          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 188643,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/354lfV6oHEL9nVFfJXoWog"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5fpqWfinoaiwFuw9XpIczL"
-      },
-      "artists": [
-        {
-          "name": "SI EVOL",
-          "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4QMovHbMTImVWqbkwVriSg"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "I'll Come Your Way",
-        "url": "https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "I'll Come Your Way",
-      "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Imagine Paradise",
         "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 237655,
       "name": "Imagine Paradise",
       "url": "https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "I'll Come Your Way",
+        "url": "https://open.spotify.com/album/2Ck1pJHLkPj5uZxstCJEO9"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "I'll Come Your Way",
+      "url": "https://open.spotify.com/track/3lk15upGEldLkgKm7f48QS"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/0PPvSeJIcxxg3x5K4CmsF5"
+      },
+      "artists": [
+        {
+          "name": "Shenie Fogo",
+          "url": "https://open.spotify.com/artist/6QUHPMpP30k5IbRj4VPqmy"
+        }
+      ],
+      "duration_ms": 184196,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/2w7RjSRuxxMH0MyMhEqX7N"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Hey Little Love",
         "url": "https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 159764,
       "name": "Born a Riot",
       "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "In My Feelings",
-        "url": "https://open.spotify.com/album/0PPvSeJIcxxg3x5K4CmsF5"
-      },
-      "artists": [
-        {
-          "name": "Shenie Fogo",
-          "url": "https://open.spotify.com/artist/6QUHPMpP30k5IbRj4VPqmy"
-        }
-      ],
-      "duration_ms": 184196,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/2w7RjSRuxxMH0MyMhEqX7N"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "phonetic",
-        "url": "https://open.spotify.com/album/3TSmKJKQneZCgLhLOJ3iTf"
+        "name": "Ce Soir?",
+        "url": "https://open.spotify.com/album/5kqT56WuYXU7Tc5TAsrOB1"
       },
       "artists": [
         {
-          "name": "Haley Bridge",
-          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
+          "name": "\u00c4ngie",
+          "url": "https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw"
         }
       ],
-      "duration_ms": 106666,
-      "name": "phonetic",
-      "url": "https://open.spotify.com/track/58xtrlvib5PVvshQ4u3oPC"
+      "duration_ms": 198005,
+      "name": "Ce Soir?",
+      "url": "https://open.spotify.com/track/7GoTVYMzXGwdFZBOwKlKga"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Trouble in Paradise",
-        "url": "https://open.spotify.com/album/3k2wn8fQ47FSKZVLibgFiY"
-      },
-      "artists": [
-        {
-          "name": "XOV",
-          "url": "https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv"
-        }
-      ],
-      "duration_ms": 204489,
-      "name": "Trouble in Paradise",
-      "url": "https://open.spotify.com/track/0YFPpk8QJCKIoLrhqBOj0y"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "B\u00f6rjan p\u00e5 ingenting",
         "url": "https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD"
       },
@@ -1703,18 +1687,34 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Ce Soir?",
-        "url": "https://open.spotify.com/album/5kqT56WuYXU7Tc5TAsrOB1"
+        "name": "Trouble in Paradise",
+        "url": "https://open.spotify.com/album/3k2wn8fQ47FSKZVLibgFiY"
       },
       "artists": [
         {
-          "name": "\u00c4ngie",
-          "url": "https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw"
+          "name": "XOV",
+          "url": "https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv"
         }
       ],
-      "duration_ms": 198005,
-      "name": "Ce Soir?",
-      "url": "https://open.spotify.com/track/7GoTVYMzXGwdFZBOwKlKga"
+      "duration_ms": 204489,
+      "name": "Trouble in Paradise",
+      "url": "https://open.spotify.com/track/0YFPpk8QJCKIoLrhqBOj0y"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "phonetic",
+        "url": "https://open.spotify.com/album/3TSmKJKQneZCgLhLOJ3iTf"
+      },
+      "artists": [
+        {
+          "name": "Haley Bridge",
+          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "phonetic",
+      "url": "https://open.spotify.com/track/58xtrlvib5PVvshQ4u3oPC"
     },
     {
       "added_at": "2024-08-22 22:00:00",

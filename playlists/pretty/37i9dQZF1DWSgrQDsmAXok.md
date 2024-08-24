@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgrQDsmAXok.md) - [plain]
 
 > Early Noise 2020選出アーティスト藤井 風の楽曲を1つのプレイリストで。All the essentials from Early Noise \(RADAR\) 2020 artist, Fujii Kaze.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,245 likes - 29 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,401 likes - 29 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

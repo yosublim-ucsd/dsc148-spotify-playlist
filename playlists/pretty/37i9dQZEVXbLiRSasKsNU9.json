@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1769099,
+  "num_followers": 1769142,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Llqk8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Llv0GAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "You're Invited",
         "url": "https://open.spotify.com/album/0erms21aPII4YFHe9BTEHs"
@@ -77,23 +77,7 @@
       "url": "https://open.spotify.com/track/0Nb5ft0OdmZMNJnaEkpxB6"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 196702,
-      "name": "De Gra\u00e7a ou Pagando",
-      "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
@@ -109,27 +93,23 @@
       "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
-        "name": "Guess featuring Billie Eilish",
-        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
         }
       ],
-      "duration_ms": 143330,
-      "name": "Guess featuring Billie Eilish",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+      "duration_ms": 196702,
+      "name": "De Gra\u00e7a ou Pagando",
+      "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
@@ -145,7 +125,27 @@
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "VANITY",
         "url": "https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g"
@@ -161,27 +161,7 @@
       "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "Dil Tu Jaan Tu",
-        "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
-      },
-      "artists": [
-        {
-          "name": "Gurnazar",
-          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
-        },
-        {
-          "name": "Chet Singh",
-          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Dil Tu Jaan Tu",
-      "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Pensa Que \u00c9 Dois",
         "url": "https://open.spotify.com/album/1yCiQjjUx0YdoQ4EJTk6JS"
@@ -205,7 +185,27 @@
       "url": "https://open.spotify.com/track/396PHB0q5c3JVE3DyJlFHW"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "Dil Tu Jaan Tu",
+        "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Dil Tu Jaan Tu",
+      "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Chuttamalle (From \"Devara Part 1\")",
         "url": "https://open.spotify.com/album/77bk7awXNSGEQkZTcTp2Gj"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/4qR2qFXGphq6VW5IJIoHI1"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
         "url": "https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/3vX1qpjqKTmuESvmvwMBHR"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Bauch Beine Po",
         "url": "https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW"
@@ -309,23 +309,7 @@
       "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Feel It",
         "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
@@ -345,7 +329,7 @@
       "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Sialnya, Hidup Harus Tetap Berjalan",
         "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
@@ -361,23 +345,7 @@
       "url": "https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "Sialnya, Hidup Harus Tetap Berjalan",
-        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 184670,
-      "name": "Lama-Lama",
-      "url": "https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Jo Tum Mere Ho",
         "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
@@ -393,7 +361,59 @@
       "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "Sialnya, Hidup Harus Tetap Berjalan",
+        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 184670,
+      "name": "Lama-Lama",
+      "url": "https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "Zaroor",
+        "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
+      },
+      "artists": [
+        {
+          "name": "Aparshakti Khurana",
+          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
+        },
+        {
+          "name": "Savi Kahlon",
+          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Zaroor",
+      "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Maharaj",
         "url": "https://open.spotify.com/album/2R2iYcw81Fjfup0kUZtlf6"
@@ -417,43 +437,7 @@
       "url": "https://open.spotify.com/track/1WxzZoWBTmB68AtyA6ejBB"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 172721,
-      "name": "Dias De Luta",
-      "url": "https://open.spotify.com/track/3BBh5EWaOi8L6qqXJu9Gdf"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "Zaroor",
-        "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
-      },
-      "artists": [
-        {
-          "name": "Aparshakti Khurana",
-          "url": "https://open.spotify.com/artist/2UWTNi6LLK5lXNGzFWzIqT"
-        },
-        {
-          "name": "Savi Kahlon",
-          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "Zaroor",
-      "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Terlintas",
         "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
@@ -469,7 +453,23 @@
       "url": "https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 172721,
+      "name": "Dias De Luta",
+      "url": "https://open.spotify.com/track/3BBh5EWaOi8L6qqXJu9Gdf"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
@@ -485,23 +485,7 @@
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "That's Who I Praise",
-        "url": "https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 228285,
-      "name": "That's Who I Praise",
-      "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -517,7 +501,39 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "That's Who I Praise",
+        "url": "https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 228285,
+      "name": "That's Who I Praise",
+      "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
@@ -537,23 +553,23 @@
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -569,7 +585,43 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "Rossetto e caff\u00e8",
+        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
+      },
+      "artists": [
+        {
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "Rossetto e caff\u00e8",
+      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "Hasta Aqu\u00ed Llegu\u00e9",
+        "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 188887,
+      "name": "Hasta Aqu\u00ed Llegu\u00e9",
+      "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Kaathu Mela - From \"Think Indie\"",
         "url": "https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H"
@@ -593,23 +645,7 @@
       "url": "https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
@@ -633,95 +669,7 @@
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "Ortak",
-        "url": "https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI"
-      },
-      "artists": [
-        {
-          "name": "Melike \u015eahin",
-          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
-        }
-      ],
-      "duration_ms": 205224,
-      "name": "Ortak",
-      "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "Hasta Aqu\u00ed Llegu\u00e9",
-        "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 188887,
-      "name": "Hasta Aqu\u00ed Llegu\u00e9",
-      "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "O Melhor no Que Faz 3.0 [Slowed]",
-        "url": "https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN"
-      },
-      "artists": [
-        {
-          "name": "DJ BRYAN 7",
-          "url": "https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m"
-        },
-        {
-          "name": "Dj Fenix",
-          "url": "https://open.spotify.com/artist/2i1LrKFvlDNbvZi0wd5bhS"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "O Melhor no Que Faz 3.0 [Slowed]",
-      "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "Rossetto e caff\u00e8",
-        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
-      },
-      "artists": [
-        {
-          "name": "Sal Da Vinci",
-          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Rossetto e caff\u00e8",
-      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "Angel Of My Dreams",
-        "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 197639,
-      "name": "Angel Of My Dreams",
-      "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Laila Majnu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO"
@@ -741,7 +689,119 @@
       "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "O Melhor no Que Faz 3.0 [Slowed]",
+        "url": "https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN"
+      },
+      "artists": [
+        {
+          "name": "DJ BRYAN 7",
+          "url": "https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m"
+        },
+        {
+          "name": "Dj Fenix",
+          "url": "https://open.spotify.com/artist/2i1LrKFvlDNbvZi0wd5bhS"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "O Melhor no Que Faz 3.0 [Slowed]",
+      "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "Ortak",
+        "url": "https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI"
+      },
+      "artists": [
+        {
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
+        }
+      ],
+      "duration_ms": 205224,
+      "name": "Ortak",
+      "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "Cold Beer & Country Music",
+        "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "I Never Lie",
+      "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "Angel Of My Dreams",
+        "url": "https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 197639,
+      "name": "Angel Of My Dreams",
+      "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "I Adore You (feat. Daecolm)",
+        "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "I Adore You (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
@@ -765,39 +825,7 @@
       "url": "https://open.spotify.com/track/7vv89PswQvqGKCGJ1rw5on"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 195109,
-      "name": "Juna",
-      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -829,67 +857,23 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
-        "name": "I Adore You (feat. Daecolm)",
-        "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Arash",
-          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 214000,
-      "name": "I Adore You (feat. Daecolm)",
-      "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+      "duration_ms": 195109,
+      "name": "Juna",
+      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 258034,
-      "name": "Pink Pony Club",
-      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
-      "album": {
-        "name": "Cold Beer & Country Music",
-        "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
-      },
-      "artists": [
-        {
-          "name": "Zach Top",
-          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "I Never Lie",
-      "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
-    },
-    {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "MONTAGEM VOZES PROFUNDAS (Remixes)",
         "url": "https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS"
@@ -913,7 +897,7 @@
       "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
         "name": "Lost;Found",
         "url": "https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH"
@@ -933,20 +917,36 @@
       "url": "https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE"
     },
     {
-      "added_at": "2024-08-22 19:37:14",
+      "added_at": "2024-08-23 19:42:01",
       "album": {
-        "name": "Reid Alert",
-        "url": "https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9"
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
       "artists": [
         {
-          "name": "James Reid",
-          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 244520,
-      "name": "Randomantic",
-      "url": "https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT"
+      "duration_ms": 258034,
+      "name": "Pink Pony Club",
+      "url": "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+    },
+    {
+      "added_at": "2024-08-23 19:42:01",
+      "album": {
+        "name": "Aradan \u00c7ok Y\u0131llar Ge\u00e7ti",
+        "url": "https://open.spotify.com/album/4rsN93FJo8QLv2MLSiMivc"
+      },
+      "artists": [
+        {
+          "name": "Tu\u011f\u00e7e Kandemir",
+          "url": "https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN"
+        }
+      ],
+      "duration_ms": 170490,
+      "name": "Aradan \u00c7ok Y\u0131llar Ge\u00e7ti",
+      "url": "https://open.spotify.com/track/4CDY8eGMrkQjyOTkvsXiq0"
     }
   ],
   "unique_name": "Viral 50 - Global",

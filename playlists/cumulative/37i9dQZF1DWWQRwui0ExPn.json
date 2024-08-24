@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 149702,
       "name": "AAAlkaline",
       "url": "https://open.spotify.com/track/1uE0vNOkb8UW7nsqiMilUI"
@@ -4956,7 +4956,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 118588,
       "name": "almost aw",
       "url": "https://open.spotify.com/track/5s1BaD2jiYrshKYLkjt7SS"
@@ -7484,6 +7484,24 @@
       "duration_ms": 96684,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4KQrCZqyZiagPCmCoQL1K1"
+    },
+    {
+      "album": {
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/73MhQfeeReJ3Ub94Z8fMx6"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133353,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/5oLivAilVwA2ajiJ5tREcG"
     },
     {
       "album": {
@@ -51730,7 +51748,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 226893,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/1AsI8jxKdeD8i2PujNGc0X"
@@ -67970,7 +67988,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 108375,
       "name": "Lost in Space",
       "url": "https://open.spotify.com/track/6uYy46Yaqad9NhwlOlHLpY"
@@ -72458,6 +72476,24 @@
       "duration_ms": 153623,
       "name": "Melter",
       "url": "https://open.spotify.com/track/5HoXyhnvk6Y0kXCXVDbMKQ"
+    },
+    {
+      "album": {
+        "name": "Melting",
+        "url": "https://open.spotify.com/album/4L4NHeuZXzT1Os2eL2MSAL"
+      },
+      "artists": [
+        {
+          "name": "Cyber Bloom",
+          "url": "https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123286,
+      "name": "Melting",
+      "url": "https://open.spotify.com/track/4QvdOlz6E05lpdtTvS9ZaT"
     },
     {
       "album": {
@@ -93824,7 +93860,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 135384,
       "name": "Rainbow Skies",
       "url": "https://open.spotify.com/track/1CbmeDupyfPqIub89Lu8zk"
@@ -96116,6 +96152,24 @@
       "duration_ms": 147304,
       "name": "Rewards",
       "url": "https://open.spotify.com/track/72X5weOGXF8hEQUNv2Eiw3"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/2tiQl2zizbZF27Joc0PXFh"
+      },
+      "artists": [
+        {
+          "name": "Beats on 21st",
+          "url": "https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/5b2KoCrBxm7fQunHH6O2b3"
     },
     {
       "album": {
@@ -118171,6 +118225,28 @@
     },
     {
       "album": {
+        "name": "The Sauce",
+        "url": "https://open.spotify.com/album/7zDpGxZC4j2UlflqNDapC7"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "The Sauce",
+      "url": "https://open.spotify.com/track/0PIHjdQss2Do1UG2ubmVs8"
+    },
+    {
+      "album": {
         "name": "The Seeds",
         "url": "https://open.spotify.com/album/6uUw716nJhQ8w1ySVW41nd"
       },
@@ -133362,7 +133438,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 116000,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/7rwpZWPbNDlsi2OSax4tBg"

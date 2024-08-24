@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-20",
-  "description": "rock never dies | feel it in your bones.  \ud83d\udcf8: The Beaches",
+  "description": "rock never dies | feel it in your bones.  \ud83d\udcf8: Fontaines D.C.",
   "name": "MARROW",
   "tracks": [
     {
@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "ALL IN MY HEAD / NO FUN",
+        "url": "https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162805,
+      "name": "ALL IN MY HEAD",
+      "url": "https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV"
+    },
+    {
+      "album": {
         "name": "All In My Head",
         "url": "https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX"
       },
@@ -564,7 +582,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 199220,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1kiw6IXeTauPy3L964yxoZ"
@@ -1837,6 +1855,24 @@
     },
     {
       "album": {
+        "name": "Chow",
+        "url": "https://open.spotify.com/album/1WJBLXYjqnWTlHO5auebXh"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169929,
+      "name": "Chow",
+      "url": "https://open.spotify.com/track/17bP2StnSZYGTmkFbKiytm"
+    },
+    {
+      "album": {
         "name": "clairbourne practice",
         "url": "https://open.spotify.com/album/2yVBjpKNmNUTK6RACxnBF6"
       },
@@ -2478,7 +2514,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 131609,
       "name": "Dissonance",
       "url": "https://open.spotify.com/track/5WFkQAuARYEAslWRkSxdke"
@@ -2768,7 +2804,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 135413,
       "name": "Earth Hater",
       "url": "https://open.spotify.com/track/2PDa4aHaUsUmWx9cJYA3ac"
@@ -2952,7 +2988,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -3279,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/27w0RH5IDt6xU3B2j7QOuy"
+    },
+    {
+      "album": {
         "name": "i'll remember you for the same feeling you gave me as i slept",
         "url": "https://open.spotify.com/album/300GyQbkryd3NF4gAngXZm"
       },
@@ -3460,7 +3514,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 183826,
       "name": "Friends In Low Places",
       "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
@@ -3822,6 +3876,24 @@
       "duration_ms": 216698,
       "name": "Give Me My Halo",
       "url": "https://open.spotify.com/track/6ZzzgG2fybg82Einm9aC4N"
+    },
+    {
+      "album": {
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/6CAtz3dRGq2NS42PdqieCf"
+      },
+      "artists": [
+        {
+          "name": "Michigander",
+          "url": "https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194997,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/1MDkdfWPIaV4YZ2vnJyDB7"
     },
     {
       "album": {
@@ -4234,7 +4306,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 163412,
       "name": "Here's The Thing",
       "url": "https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP"
@@ -5487,6 +5559,24 @@
     },
     {
       "album": {
+        "name": "Knocking At My Door",
+        "url": "https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190433,
+      "name": "Knocking At My Door",
+      "url": "https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE"
+    },
+    {
+      "album": {
         "name": "Kool",
         "url": "https://open.spotify.com/album/4AERPveWzXsS4SIBWBVIsv"
       },
@@ -6112,7 +6202,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 183573,
       "name": "Loud Bark",
       "url": "https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG"
@@ -6202,7 +6292,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 238773,
       "name": "Love On The Outside",
       "url": "https://open.spotify.com/track/3jl676aK6eGkmcQxizfPRh"
@@ -6546,7 +6636,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 218346,
       "name": "maybe it's me",
       "url": "https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5"
@@ -7393,6 +7483,24 @@
     },
     {
       "album": {
+        "name": "I Got Heaven",
+        "url": "https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Pussy",
+          "url": "https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249440,
+      "name": "Nothing Like",
+      "url": "https://open.spotify.com/track/7sWKIQsoW2dlKMNobxXoXp"
+    },
+    {
+      "album": {
         "name": "Nothing Matters",
         "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
       },
@@ -7802,6 +7910,24 @@
       "duration_ms": 226786,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/7r6IKrSrxElm4CONGUhlv5"
+    },
+    {
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
     },
     {
       "album": {
@@ -9279,6 +9405,24 @@
     },
     {
       "album": {
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162013,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
+    },
+    {
+      "album": {
         "name": "Scared",
         "url": "https://open.spotify.com/album/5jMvIY27hzHwpHIjA7fYeT"
       },
@@ -10175,6 +10319,24 @@
     },
     {
       "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221450,
+      "name": "Starburster",
+      "url": "https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0"
+    },
+    {
+      "album": {
         "name": "Starburster",
         "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
       },
@@ -10186,7 +10348,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 221450,
       "name": "Starburster",
       "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
@@ -11010,7 +11172,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 173866,
       "name": "The Craving - single version",
       "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
@@ -11868,7 +12030,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 165300,
       "name": "Tortuga",
       "url": "https://open.spotify.com/track/5vfBDicRo7VrPY2KkApYsK"
@@ -12428,6 +12590,24 @@
       "duration_ms": 184842,
       "name": "What're We Doing Here",
       "url": "https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p"
+    },
+    {
+      "album": {
+        "name": "What's Fair",
+        "url": "https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "What's Fair",
+      "url": "https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL"
     },
     {
       "album": {

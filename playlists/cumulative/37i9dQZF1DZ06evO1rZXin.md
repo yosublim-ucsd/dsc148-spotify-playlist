@@ -2,7 +2,7 @@
 
 ### [This Is Banda Vallarta Show](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rZXin)
 
-> This Is Banda Vallarta Show\. Los temas esenciales, todos en una lista.
+> This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
 102 songs - 4 hr 58 min
 
@@ -46,13 +46,13 @@
 | [El Jaripeo](https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:53 | 2022-06-01 |  |
 | [El Mero Mero](https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [La Fiesta](https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy) | 2:35 | 2022-06-01 |  |
 | [El Noah, Noah](https://open.spotify.com/track/4yRDlfMcaAnS10mvjGoxek) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 3:55 | 2022-08-04 | 2022-08-06 |
-| [El Pobre Caminante](https://open.spotify.com/track/2vqfVIK1VuEGVwoRxnGDWM) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:37 | 2024-06-09 | 2024-06-11 |
+| [El Pobre Caminante](https://open.spotify.com/track/2vqfVIK1VuEGVwoRxnGDWM) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:37 | 2024-06-09 |  |
 | [El Pobre Caminante](https://open.spotify.com/track/7jYexhqsm6ZpasdPFVn4rO) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:39 | 2022-06-02 | 2022-06-04 |
 | [El Tirador](https://open.spotify.com/track/3F2dFmMNcTWAPU6xPARLTA) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:11 | 2022-06-01 |  |
 | [El Toro Moro](https://open.spotify.com/track/0tJZt6q1eHD7qFcPpRnZ1d) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena...](https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl) | 2:24 | 2024-06-18 |  |
 | [El Toro Moro](https://open.spotify.com/track/3dK0G4fedpTO1yJ7z4WiZk) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Te Ves Bien Buena....](https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ) | 2:24 | 2022-06-01 | 2024-06-18 |
 | [El Ultimo Rodeo](https://open.spotify.com/track/41BavIqhW0j16R7w6QCYEg) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:14 | 2022-06-01 | 2023-03-18 |
-| [El Ultimo Rodeo](https://open.spotify.com/track/602nYaYlgOn9RZtcPrOXdf) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:15 | 2024-06-10 |  |
+| [El Ultimo Rodeo](https://open.spotify.com/track/602nYaYlgOn9RZtcPrOXdf) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:15 | 2024-06-10 | 2024-08-24 |
 | [El Último Rodeo](https://open.spotify.com/track/2OoriUGBIdApEuKMkeDmTH) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y) | 3:15 | 2023-03-17 | 2024-06-10 |
 | [Esa Chica Me Vacila](https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:35 | 2022-06-01 | 2024-06-10 |
 | [Esa Chica Me Vacila](https://open.spotify.com/track/5n7Ve3yvy4VapkWzCDbhJf) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 3:40 | 2024-06-10 |  |

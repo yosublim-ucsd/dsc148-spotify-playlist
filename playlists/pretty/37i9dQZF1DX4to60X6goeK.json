@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Mozey",
-  "num_followers": 62765,
+  "num_followers": 62789,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-08-09 14:18:20",
       "album": {
+        "name": "Polarity (VIP)",
+        "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "Polarity - VIP",
+      "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
+    },
+    {
+      "added_at": "2024-08-09 14:18:20",
+      "album": {
         "name": "Robocop",
         "url": "https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 181714,
       "name": "Robocop",
       "url": "https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO"
-    },
-    {
-      "added_at": "2024-08-09 14:18:20",
-      "album": {
-        "name": "Polarity (VIP)",
-        "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Polarity - VIP",
-      "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
     },
     {
       "added_at": "2024-08-09 14:18:20",
@@ -995,26 +995,6 @@
     {
       "added_at": "2024-08-09 14:18:20",
       "album": {
-        "name": "OH SHIT",
-        "url": "https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Dreps",
-          "url": "https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "OH SHIT",
-      "url": "https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS"
-    },
-    {
-      "added_at": "2024-08-09 14:18:20",
-      "album": {
         "name": "Confliction",
         "url": "https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E"
       },
@@ -1039,18 +1019,42 @@
     {
       "added_at": "2024-08-09 14:18:20",
       "album": {
-        "name": "Break It Down",
-        "url": "https://open.spotify.com/album/3Wexk9iIasCfB4h57xcFzw"
+        "name": "Forever Changes",
+        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+          "name": "DNMO",
+          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
+        },
+        {
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
         }
       ],
-      "duration_ms": 203164,
-      "name": "Break It Down",
-      "url": "https://open.spotify.com/track/5pg0g6o6ePcRHiQOxgzDMd"
+      "duration_ms": 184065,
+      "name": "Forever Changes",
+      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
+    },
+    {
+      "added_at": "2024-08-09 14:18:20",
+      "album": {
+        "name": "OH SHIT",
+        "url": "https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Dreps",
+          "url": "https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "OH SHIT",
+      "url": "https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS"
     },
     {
       "added_at": "2024-08-09 14:18:20",
@@ -1103,22 +1107,18 @@
     {
       "added_at": "2024-08-09 14:18:20",
       "album": {
-        "name": "Forever Changes",
-        "url": "https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6"
+        "name": "Break It Down",
+        "url": "https://open.spotify.com/album/3Wexk9iIasCfB4h57xcFzw"
       },
       "artists": [
         {
-          "name": "DNMO",
-          "url": "https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz"
-        },
-        {
-          "name": "Zara Kershaw",
-          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
         }
       ],
-      "duration_ms": 184065,
-      "name": "Forever Changes",
-      "url": "https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs"
+      "duration_ms": 203164,
+      "name": "Break It Down",
+      "url": "https://open.spotify.com/track/5pg0g6o6ePcRHiQOxgzDMd"
     },
     {
       "added_at": "2024-08-09 14:18:20",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is The Black Keys. Los temas esenciales, todos en una lista.",
-  "num_followers": 286107,
+  "description": "This is The Black Keys. The essential tracks, all in one playlist.",
+  "num_followers": 286152,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAADpoTS3rjkAYUSri19FvILo",
+  "snapshot_id": "ZsZ/gAAAAAD/1QG5lXbGFMd4RZr/HvK+",
   "tracks": [
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 205037,
-      "name": "Too Afraid to Love You",
-      "url": "https://open.spotify.com/track/2LhnW02jJHTYgtBpk9BVrs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Everybody! (21st Century Juke Joint Blues From Easy Eye Sound)",
         "url": "https://open.spotify.com/album/3GTVE7nzIEmerPTDJwpdbD"
       },
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 205037,
+      "name": "Too Afraid to Love You",
+      "url": "https://open.spotify.com/track/2LhnW02jJHTYgtBpk9BVrs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 198213,
-      "name": "Next Girl",
-      "url": "https://open.spotify.com/track/2UE4m8egf0aREmOi47sDOk"
+      "duration_ms": 269306,
+      "name": "Ten Cent Pistol",
+      "url": "https://open.spotify.com/track/2qoLCpTRYv6h8Vx94hxkvl"
     },
     {
       "added_at": null,

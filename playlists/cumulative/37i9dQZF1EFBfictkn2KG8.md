@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-37 songs - 1 hr 45 min
+38 songs - 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 | 2024-06-13 |  |
 | [Rocket Ride \(feat\. Mougleta\)](https://open.spotify.com/track/5ovg81kJ8fyRjxpqgUZlzL) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Rocket Ride \(feat\. Mougleta\)](https://open.spotify.com/album/4BdQeYDvVrDJ6PowcNqRRH) | 2:46 | 2024-06-13 |  |
 | [Send It \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/5G674ePHPwtbRbo4E5noZl) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Send It \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/0mQUo8qTCCxTWXcC0Eqo2L) | 3:01 | 2024-06-13 |  |
-| [Sing Along](https://open.spotify.com/track/3BPslvVpadxuTyXnd9gxWi) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Sing Along](https://open.spotify.com/album/1fFx7VqRKjG1fK0DZYHmed) | 3:04 | 2024-06-13 |  |
+| [Sing Along](https://open.spotify.com/track/2zcESQlp8lYDd9pAMPTBcT) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Sing Along](https://open.spotify.com/album/4IAqNDZyM1ioAKBaThDHrt) | 3:04 | 2024-08-23 |  |
+| [Sing Along](https://open.spotify.com/track/3BPslvVpadxuTyXnd9gxWi) | [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI) | [Sing Along](https://open.spotify.com/album/1fFx7VqRKjG1fK0DZYHmed) | 3:04 | 2024-06-13 | 2024-08-24 |
 | [Somebody New](https://open.spotify.com/track/1n7Gc7LbzQWDSJ7g5IoOdP) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Somebody New](https://open.spotify.com/album/1Rt2VGbNDz7uUtobyHGu2k) | 2:48 | 2024-06-13 |  |
 | [Take My Crown](https://open.spotify.com/track/5Cw3g20qoXLGM8ACIeiXko) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [LittleKings](https://open.spotify.com/artist/7pSOgeenBhBEN5a5yHzxIS), [Kalkovich](https://open.spotify.com/artist/1FeiNJm4aeEJ97JnSMduTh) | [Take My Crown](https://open.spotify.com/album/1e1TUK852Wm9sw7cY46c8W) | 2:26 | 2024-06-13 |  |
 | [This Time](https://open.spotify.com/track/2Yd4qXngsCBJMGnl7jpd4J) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r), [Desiree Dawson](https://open.spotify.com/artist/1BeMe0yy4Sqo29rnqkZ1tc) | [This Time](https://open.spotify.com/album/5lg1ZSzwI54olu69s3Uw37) | 2:50 | 2024-06-13 |  |

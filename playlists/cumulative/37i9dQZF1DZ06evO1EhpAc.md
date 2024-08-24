@@ -2,14 +2,15 @@
 
 ### [This Is Yaeji](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1EhpAc)
 
-> This Is Yaeji\. Los temas esenciales, todos en una lista.
+> This is Yaeji\. The essential tracks, all in one playlist.
 
-38 songs - 2 hr 9 min
+39 songs - 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [29](https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Year to Year / 29](https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan) | 3:48 | 2023-05-02 |  |
 | [After That](https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:38 | 2023-05-02 |  |
+| [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 | 2024-08-24 |  |
 | [Done \(Let's Get It\)](https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:52 | 2023-05-02 |  |
 | [Drink I’m Sippin On](https://open.spotify.com/track/7pCirXrdJ4xN1Dqmm0DuAz) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:21 | 2023-05-02 |  |
 | [Drink Redux](https://open.spotify.com/track/4sX1Kyk2p8tS7PffqH6qjw) | [DJ OG Uncle Skip](https://open.spotify.com/artist/3BbyKFr0ezUecGOTFkaEUL), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EAST Vs\. WEST](https://open.spotify.com/album/68wu3CBa3CvLooOkAahxbV) | 3:46 | 2024-01-09 |  |

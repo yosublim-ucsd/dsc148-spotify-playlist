@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "natural wine vibes, because wine not? | Photo: Stir Crazy LA ",
+  "description": "natural wine vibes, because wine not? ",
   "name": "Wine Bar",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 123000,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/3whY26FqEAhCSP7YeEluNL"
+    },
+    {
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166179,
+      "name": "Are You Looking Up",
+      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
     },
     {
       "album": {
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 286680,
       "name": "Shirim",
       "url": "https://open.spotify.com/track/1HBXXiiegRl0TpzgikBBTP"

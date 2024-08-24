@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: La Vida Boh\u00e8me",
+  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia",
   "name": "Indie Andinos",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 227994,
       "name": "coral",
       "url": "https://open.spotify.com/track/3UOo8zf78epJdsoFo50AOF"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 227343,
       "name": "Corriendo",
       "url": "https://open.spotify.com/track/19B8jai2irsTUVsJxGhRTR"
@@ -450,6 +450,24 @@
       "duration_ms": 236356,
       "name": "Destino",
       "url": "https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP"
+    },
+    {
+      "album": {
+        "name": "devut",
+        "url": "https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156852,
+      "name": "devut",
+      "url": "https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB"
     },
     {
       "album": {
@@ -634,6 +652,28 @@
       "duration_ms": 193953,
       "name": "Fighting Ghosts",
       "url": "https://open.spotify.com/track/3zB85E2AyFwv90Bo3MOHY5"
+    },
+    {
+      "album": {
+        "name": "Florecer Contigo",
+        "url": "https://open.spotify.com/album/60u8fR1xRaw7SWKIn0J3XG"
+      },
+      "artists": [
+        {
+          "name": "Nasa Histoires",
+          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167729,
+      "name": "Florecer Contigo",
+      "url": "https://open.spotify.com/track/7BizyJuwuuRYp4hnExnO16"
     },
     {
       "album": {

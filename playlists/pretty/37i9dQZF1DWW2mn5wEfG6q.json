@@ -1,6 +1,6 @@
 {
   "description": "2013 highlights from the home of indie music. Cover: HAIM ",
-  "num_followers": 80448,
+  "num_followers": 80482,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -1232,9 +1232,9 @@
           "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 257813,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/1vSEwZtoQA0sJxkOgF7MtG"
+      "duration_ms": 230453,
+      "name": "If I Could Change Your Mind",
+      "url": "https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
-        "name": "Melophobia",
-        "url": "https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 207320,
-      "name": "Take It Or Leave It",
-      "url": "https://open.spotify.com/track/4cAyxZSDlcVS6CYaeBYrIJ"
-    },
-    {
-      "added_at": "2021-09-02 08:24:19",
-      "album": {
         "name": "Reflektor",
         "url": "https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2021-09-02 08:24:19",
       "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "Take It Or Leave It",
+      "url": "https://open.spotify.com/track/4cAyxZSDlcVS6CYaeBYrIJ"
+    },
+    {
+      "added_at": "2021-09-02 08:24:19",
+      "album": {
         "name": "Days Are Gone (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX"
       },
@@ -1392,9 +1392,9 @@
           "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 230453,
-      "name": "If I Could Change Your Mind",
-      "url": "https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU"
+      "duration_ms": 257813,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/1vSEwZtoQA0sJxkOgF7MtG"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1504,9 +1504,9 @@
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         }
       ],
-      "duration_ms": 194733,
-      "name": "Blondie",
-      "url": "https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9"
+      "duration_ms": 167986,
+      "name": "New Flesh",
+      "url": "https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1"
     },
     {
       "added_at": "2021-09-02 08:24:19",
@@ -1620,9 +1620,9 @@
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         }
       ],
-      "duration_ms": 167986,
-      "name": "New Flesh",
-      "url": "https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1"
+      "duration_ms": 194733,
+      "name": "Blondie",
+      "url": "https://open.spotify.com/track/4UkCtBCYh6VMsucGMQZyh9"
     }
   ],
   "unique_name": "Best of Indie 2013",

@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 46019,
+  "num_followers": 46024,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABcUPHfpwzlDOtwsDgWgWFY",
+  "snapshot_id": "ZsZ/gAAAAABODHFFyIgWSYSYXjUkPFD5",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dearly Departed (feat. robbietheused)",
-        "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
       },
       "artists": [
         {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
           "name": "The Used",
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        },
-        {
-          "name": "robbietheused",
-          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
         }
       ],
-      "duration_ms": 196560,
-      "name": "Dearly Departed (feat. robbietheused)",
-      "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
+      "duration_ms": 190813,
+      "name": "Let It Bleed",
+      "url": "https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw"
     },
     {
       "added_at": null,
@@ -399,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Let It Bleed",
-      "url": "https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toxic Positivity",
         "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
       },
@@ -427,6 +403,30 @@
       "duration_ms": 190222,
       "name": "Giving Up",
       "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dearly Departed (feat. robbietheused)",
+        "url": "https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "robbietheused",
+          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Dearly Departed (feat. robbietheused)",
+      "url": "https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shallow Believer",
-        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 120640,
-      "name": "Choke Me",
-      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heartwork (Deluxe)",
         "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 184286,
       "name": "River Stay",
       "url": "https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 120640,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
     },
     {
       "added_at": null,

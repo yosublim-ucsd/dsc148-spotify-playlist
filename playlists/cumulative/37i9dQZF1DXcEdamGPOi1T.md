@@ -4,7 +4,7 @@
 
 > De la vitamine D en musique!
 
-418 songs - 22 hr 8 min
+419 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Jim Carrey](https://open.spotify.com/track/1Jo2xoLjy1EfU8n7jLL6qN) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Jim Carrey](https://open.spotify.com/album/5Oy1LcmGT63jjU7ave3oyH) | 3:03 | 2023-07-14 | 2023-08-02 |
 | [Jump](https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2024-04-05 | 2024-07-21 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2024-04-19 | 2024-08-12 |
-| [KETCHUP](https://open.spotify.com/track/6x1tSvkdnEQqLh1WsLHFkN) | [KingAlexBeats](https://open.spotify.com/artist/6UKzVrB3hJHkBAz60T4jlw), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [KETCHUP](https://open.spotify.com/album/3h27FLfrETdCJiMfP9DwVg) | 3:04 | 2024-08-16 |  |
+| [KETCHUP](https://open.spotify.com/track/6x1tSvkdnEQqLh1WsLHFkN) | [KingAlexBeats](https://open.spotify.com/artist/6UKzVrB3hJHkBAz60T4jlw), [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [KETCHUP](https://open.spotify.com/album/3h27FLfrETdCJiMfP9DwVg) | 3:04 | 2024-08-16 | 2024-08-24 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2022-05-27 | 2024-04-20 |
 | [L'amour, l'amour, l'amour](https://open.spotify.com/track/6OGpURRDL26WAeouxgnfX9) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [Aller\-retour](https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14) | 3:07 | 2022-05-27 | 2022-06-10 |
 | [La baie](https://open.spotify.com/track/5awqGLNiSTNRtMtWve1bSA) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire](https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy) | 3:50 | 2022-05-27 | 2022-06-09 |
@@ -375,6 +375,7 @@
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:49 | 2024-03-29 | 2024-04-20 |
 | [Sweet but Psycho](https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:07 | 2022-07-26 | 2024-04-20 |
 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2022-05-27 | 2022-07-29 |
+| [Sérieux](https://open.spotify.com/track/5tU5GlKTWTMnuTgExeh3DP) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Sérieux](https://open.spotify.com/album/54Sei7mz33JumC682Ypuh3) | 2:27 | 2024-08-23 |  |
 | [Tangerine](https://open.spotify.com/track/3H0AwabHiugPGdHwYIZUYf) | [LaF](https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8) | [Hôtel délices](https://open.spotify.com/album/73Q5aLTYECXFWFbYQKAPML) | 3:28 | 2022-05-27 | 2022-06-11 |
 | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/track/4TBxB7MulrQ1Nb2uxHwJX1) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Tek Tek \(feat\. MHD\)](https://open.spotify.com/album/7uWbDuFBLAEI68L9U2pJ85) | 2:41 | 2023-06-01 | 2023-07-12 |
 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 | 2024-03-29 |  |

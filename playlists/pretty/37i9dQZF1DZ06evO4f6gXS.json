@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3050,
+  "num_followers": 3051,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABZ1Kto2CX8JdzdHQio5EX+",
+  "snapshot_id": "ZsZ/gAAAAABTJk2xyZotJ/k86Gx3Ly4Q",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 292066,
-      "name": "When a Woman's in Love",
-      "url": "https://open.spotify.com/track/7yNoOvTRXMiXEFqkdKdoQR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Keep It Comin'",
         "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 276973,
       "name": "Ah, Ah, Ah, Ah",
       "url": "https://open.spotify.com/track/2NVBR55sc6DUEBXJdPErFK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 292066,
+      "name": "When a Woman's in Love",
+      "url": "https://open.spotify.com/track/7yNoOvTRXMiXEFqkdKdoQR"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+        "name": "Keep It Comin'",
+        "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 296786,
-      "name": "2 Win U Back",
-      "url": "https://open.spotify.com/track/5MSBptBOsXevqa0YltKt5b"
+      "duration_ms": 280000,
+      "name": "Won't Let You Take It Back",
+      "url": "https://open.spotify.com/track/7AfXda0tSyLrhlN3vkbkpo"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep It Comin'",
-        "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Won't Let You Take It Back",
-      "url": "https://open.spotify.com/track/7AfXda0tSyLrhlN3vkbkpo"
+      "duration_ms": 296786,
+      "name": "2 Win U Back",
+      "url": "https://open.spotify.com/track/5MSBptBOsXevqa0YltKt5b"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep It Comin'",
-        "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Why You Wanna Do That to Me",
-      "url": "https://open.spotify.com/track/37qqCwdo1Vx0lKV0t2v3oa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 337026,
       "name": "Getting on with My Own Life",
       "url": "https://open.spotify.com/track/12c8DOnkjclmBMFSj1yMnS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keep It Comin'",
+        "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Why You Wanna Do That to Me",
+      "url": "https://open.spotify.com/track/37qqCwdo1Vx0lKV0t2v3oa"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep It Comin'",
-        "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "Better Things to Do",
-      "url": "https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 218493,
       "name": "Sweet Ecstasy",
       "url": "https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keep It Comin'",
+        "url": "https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Better Things to Do",
+      "url": "https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 231053,
-      "name": "You're the Only Bargain I've Got",
-      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coming Back",
         "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 260773,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0mDzUWzBdFU2qiALsa2JpM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 231053,
+      "name": "You're the Only Bargain I've Got",
+      "url": "https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 254533,
-      "name": "Baby I'm Yours",
-      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music Merchant A-Sides (The Holland Dozier Holland 45s)",
         "url": "https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC"
       },
@@ -784,9 +768,25 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 270666,
-      "name": "You Threw Our Love Away",
-      "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
+      "duration_ms": 265506,
+      "name": "Merry Go Round",
+      "url": "https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 254533,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
     },
     {
       "added_at": null,
@@ -835,6 +835,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "On Target",
+        "url": "https://open.spotify.com/album/4zZWFsydY5jgzszx3HeYSq"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 263973,
+      "name": "I Can Make a Difference",
+      "url": "https://open.spotify.com/track/6kHVUkihPT7sV5fdfb5wop"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Back",
+        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 270666,
+      "name": "You Threw Our Love Away",
+      "url": "https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On Target (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
       },
@@ -867,8 +899,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coming Back",
-        "url": "https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY"
+        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
+        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
       },
       "artists": [
         {
@@ -876,25 +908,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 265506,
-      "name": "Merry Go Round",
-      "url": "https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On Target",
-        "url": "https://open.spotify.com/album/4zZWFsydY5jgzszx3HeYSq"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 263973,
-      "name": "I Can Make a Difference",
-      "url": "https://open.spotify.com/track/6kHVUkihPT7sV5fdfb5wop"
+      "duration_ms": 168920,
+      "name": "Don't Be Sorry Be Careful",
+      "url": "https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t"
     },
     {
       "added_at": null,
@@ -911,22 +927,6 @@
       "duration_ms": 300413,
       "name": "Curious",
       "url": "https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Merchant B-Sides (The Holland Dozier Holland 45s)",
-        "url": "https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu"
-      },
-      "artists": [
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
-        }
-      ],
-      "duration_ms": 168920,
-      "name": "Don't Be Sorry Be Careful",
-      "url": "https://open.spotify.com/track/0sXmIrSxNdjBPcQCvFGe5t"
     }
   ],
   "unique_name": "This Is The Jones Girls",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI?si=PHyghI-TTzms7L3xkPFnKw\">Qendresa</a>. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35?si=rmUzRaJKSLOkd1etKCY7MA\">CARI</a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -5061,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "Bleeding",
+        "url": "https://open.spotify.com/album/66PpY2pEIhQ1s3LPBpme4Z"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173649,
+      "name": "Bleeding",
+      "url": "https://open.spotify.com/track/3ClOC6cr12jZ7smMCgviqe"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/3Yejv3WU5J4IYBrcxwpn5p"
       },
@@ -5332,7 +5350,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 106638,
       "name": "BLUSH",
       "url": "https://open.spotify.com/track/2SijVGKbuJtVcifspmfthM"
@@ -13729,6 +13747,24 @@
     },
     {
       "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/5cUlb8YzA2ZUeD4T2tJjLW"
+      },
+      "artists": [
+        {
+          "name": "sectiontoo",
+          "url": "https://open.spotify.com/artist/3AfDFNOpXAPEPlFFrBMOL3"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159801,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0Xfo49zvpvgKDvUN5QOA2M"
+    },
+    {
+      "album": {
         "name": "Fickle",
         "url": "https://open.spotify.com/album/0Qv2r7upfV3ypA63OVwAPA"
       },
@@ -13928,7 +13964,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 158876,
       "name": "Finished",
       "url": "https://open.spotify.com/track/4AvGZH0eEyLZPEye5PR0GB"
@@ -14292,6 +14328,24 @@
       "duration_ms": 224234,
       "name": "Flowers (Remix)",
       "url": "https://open.spotify.com/track/05R3bRHAU9rB0bfh6f02Aj"
+    },
+    {
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/12fpMn2uGZXQ6KE0PPCbl1"
+      },
+      "artists": [
+        {
+          "name": "Mio",
+          "url": "https://open.spotify.com/artist/1JfJjWsE2dwEFhcZG0zVlA"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72282,
+      "name": "Flowers in the Garden",
+      "url": "https://open.spotify.com/track/4N4mPmwbdHFhb37oZq5DaS"
     },
     {
       "album": {
@@ -15750,7 +15804,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 136839,
       "name": "GINA",
       "url": "https://open.spotify.com/track/6do6ML8FIuSUTPRa3uMlYJ"
@@ -26713,6 +26767,28 @@
     },
     {
       "album": {
+        "name": "FairXchange (Deluxe)",
+        "url": "https://open.spotify.com/album/7nIduAxvjda3knMGnzfZD6"
+      },
+      "artists": [
+        {
+          "name": "PxRRY",
+          "url": "https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE"
+        },
+        {
+          "name": "Norman Perry",
+          "url": "https://open.spotify.com/artist/3YebotmWYFiED1bx82XBmB"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171465,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/4XKqiLh6FvM6i0Gp2RLBbN"
+    },
+    {
+      "album": {
         "name": "Miss Me",
         "url": "https://open.spotify.com/album/4gaVYOrr1tb5riDi3SciPY"
       },
@@ -28106,7 +28182,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 180565,
       "name": "Needle and Thread",
       "url": "https://open.spotify.com/track/3XtJrmVUBdYu9jqTdHiGCC"
@@ -28814,6 +28890,24 @@
       "duration_ms": 177053,
       "name": "No Pussy For Losers",
       "url": "https://open.spotify.com/track/3kh99WWzbxxl4OOKNzGI0Q"
+    },
+    {
+      "album": {
+        "name": "No Return",
+        "url": "https://open.spotify.com/album/1K8FToaA57VF3btE0Gy7dG"
+      },
+      "artists": [
+        {
+          "name": "Miles from Kinshasa",
+          "url": "https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "No Return",
+      "url": "https://open.spotify.com/track/19DuSBYrqVGZecfkvqitnn"
     },
     {
       "album": {
@@ -37433,6 +37527,24 @@
     },
     {
       "album": {
+        "name": "sideways",
+        "url": "https://open.spotify.com/album/7h6kkpx65p00XTuBDFKtDC"
+      },
+      "artists": [
+        {
+          "name": "IX WULF",
+          "url": "https://open.spotify.com/artist/4YJ3Jfbf78CW0WCNPVNNa2"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196885,
+      "name": "sideways",
+      "url": "https://open.spotify.com/track/5l7DdT59Rqczl4rTVucUAi"
+    },
+    {
+      "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/2eKKYq1k31wypkignW6pL7"
       },
@@ -43610,6 +43722,24 @@
       "duration_ms": 177214,
       "name": "Treasure Island (Oasis)",
       "url": "https://open.spotify.com/track/6QTFdoSIhm4OGbHQHA4kn0"
+    },
+    {
+      "album": {
+        "name": "TRENDSETTER",
+        "url": "https://open.spotify.com/album/70qHmQkPPCg7qridZsUFIk"
+      },
+      "artists": [
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150128,
+      "name": "TRENDSETTER",
+      "url": "https://open.spotify.com/track/13vOehmUuNKBMhjl5dBjeN"
     },
     {
       "album": {

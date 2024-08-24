@@ -1,6 +1,6 @@
 {
   "description": "Modern heavenly sounds. Cover: Eartheater & Sega Bodega",
-  "num_followers": 1617182,
+  "num_followers": 1617245,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,18 @@
     {
       "added_at": "2024-07-25 23:48:26",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "kai",
-          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
         }
       ],
-      "duration_ms": 234909,
-      "name": "Never Be Like You (feat. Kai)",
-      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "added_at": "2024-08-16 23:02:00",
@@ -507,18 +503,22 @@
     {
       "added_at": "2024-07-25 23:48:26",
       "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
       },
       "artists": [
         {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "kai",
+          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
         }
       ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
+      "duration_ms": 234909,
+      "name": "Never Be Like You (feat. Kai)",
+      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
     },
     {
       "added_at": "2024-07-25 23:48:26",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-07-25 23:48:26",
       "album": {
-        "name": "Starburned and Unkissed",
-        "url": "https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 220148,
-      "name": "Starburned and Unkissed",
-      "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
-    },
-    {
-      "added_at": "2024-07-25 23:48:26",
-      "album": {
         "name": "Call For Help",
         "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 147441,
       "name": "Bloom For Me",
       "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
+    },
+    {
+      "added_at": "2024-07-25 23:48:26",
+      "album": {
+        "name": "Starburned and Unkissed",
+        "url": "https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 220148,
+      "name": "Starburned and Unkissed",
+      "url": "https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf"
     },
     {
       "added_at": "2024-07-25 23:48:26",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-07-25 23:48:26",
       "album": {
+        "name": "Call For Help",
+        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
+      },
+      "artists": [
+        {
+          "name": "Pearly Drops",
+          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+        }
+      ],
+      "duration_ms": 198967,
+      "name": "Call For Help",
+      "url": "https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk"
+    },
+    {
+      "added_at": "2024-07-25 23:48:26",
+      "album": {
         "name": "Good Torture (with Elyanna)",
         "url": "https://open.spotify.com/album/5xhbojvUylmbWTsaCgISZr"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 200787,
       "name": "Good Torture (with Elyanna)",
       "url": "https://open.spotify.com/track/3s29qreJr2KU7BFSiDtw0U"
-    },
-    {
-      "added_at": "2024-07-25 23:48:26",
-      "album": {
-        "name": "Call For Help",
-        "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
-      },
-      "artists": [
-        {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
-        }
-      ],
-      "duration_ms": 198967,
-      "name": "Call For Help",
-      "url": "https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk"
     },
     {
       "added_at": "2024-07-25 23:48:26",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-07-25 23:48:26",
       "album": {
+        "name": "Powders",
+        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd"
+    },
+    {
+      "added_at": "2024-07-25 23:48:26",
+      "album": {
         "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
         "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 186866,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p"
-    },
-    {
-      "added_at": "2024-07-25 23:48:26",
-      "album": {
-        "name": "Powders",
-        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "Crushing",
-      "url": "https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd"
     }
   ],
   "unique_name": "Ethereal",

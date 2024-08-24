@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,603 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,597 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 80 | [Por Tu Adiós](https://open.spotify.com/track/2Uv19wAiksXZcFM84R00KQ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 4:05 |
 | 81 | [Arrullo De Estrellas](https://open.spotify.com/track/4yalDD5kuqKZKI3z1rfWqD) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Arrullo De Estrellas](https://open.spotify.com/album/3WpXOKVAbbFLVD2OK7QALS) | 3:25 |
 | 82 | [Para Siempre \- En Vivo](https://open.spotify.com/track/271KWDMsmn3f0JoFB1ol6w) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 3:12 |
-| 83 | [Hasta En Mis Huesos](https://open.spotify.com/track/1Mg9TGZPjLc9CCV2PonaO8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 4:04 |
-| 84 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/6UDlA3NYx8BbDmrTcDozLy) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mis Canciones, Mis Amigos](https://open.spotify.com/album/3kK5fiiotnlN1G5W8iTH3t) | 2:23 |
+| 83 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/6UDlA3NYx8BbDmrTcDozLy) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mis Canciones, Mis Amigos](https://open.spotify.com/album/3kK5fiiotnlN1G5W8iTH3t) | 2:23 |
+| 84 | [Hasta En Mis Huesos](https://open.spotify.com/track/1Mg9TGZPjLc9CCV2PonaO8) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 4:04 |
 | 85 | [En el Jardín](https://open.spotify.com/track/3J0rEntEhkv5aE9vbr3VmF) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 4:50 |
 | 86 | [Cuando Más Te Amaba](https://open.spotify.com/track/0znMUux7ItGZNjOwEVzXYu) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:27 |
 | 87 | [En Lo Correcto](https://open.spotify.com/track/2ntKQlw7u1UrldD4Y3A9VD) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 2:18 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 117 | [Para Nada](https://open.spotify.com/track/3HqDtfyluJxxNR9oWshJGp) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:29 |
 | 118 | [Para Sacarte De Mi Vida \- Versión Norteña](https://open.spotify.com/track/4itGUqG0j7mOHfAzTZSkAO) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Para Sacarte De Mi Vida \(Versión Norteña\)](https://open.spotify.com/album/3zdLxMDh5JtA6afQj9L5Yw) | 3:56 |
 | 119 | [Que Dios Te Bendiga \(with Ana Gabriel\) \- Remasterizado 2005](https://open.spotify.com/track/5Qhiu3TMNfZMv6CUoDdwyn) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mis Duetos](https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG) | 3:33 |
-| 120 | [Flores Negras](https://open.spotify.com/track/5w4lrTtCsUDxYGmLkrXtDo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:30 |
-| 121 | [Agua Salada](https://open.spotify.com/track/0zpwifNScjNcCxcpwjQs5N) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:20 |
+| 120 | [Agua Salada](https://open.spotify.com/track/0zpwifNScjNcCxcpwjQs5N) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:20 |
+| 121 | [Flores Negras](https://open.spotify.com/track/5w4lrTtCsUDxYGmLkrXtDo) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:30 |
 | 122 | [Acuérdate de Mí](https://open.spotify.com/track/2npESL7BcrNIHzr5DvT9mV) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 2:40 |
 | 123 | [Chacha Linda](https://open.spotify.com/track/6nnn9tHXWazFdO2imEdqCA) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:35 |
 | 124 | [Los Verdaderos Hombres](https://open.spotify.com/track/3ETW6vJ6JeSCzEZbdFrh42) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Más Romántico Que Nunca](https://open.spotify.com/album/2P1SMhhZQQSSDuG6E68Cud) | 3:41 |

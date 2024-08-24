@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1438364,
+  "num_followers": 1438343,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "World On The Ground",
-        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "The Order Of Time",
         "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 166440,
       "name": "Shakedown",
       "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "World On The Ground",
+        "url": "https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Peach Fuzz",
-        "url": "https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP"
+        "name": "Borderline",
+        "url": "https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ"
       },
       "artists": [
         {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
         }
       ],
-      "duration_ms": 224360,
-      "name": "Peach Fuzz",
-      "url": "https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz"
+      "duration_ms": 194026,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Borderline",
-        "url": "https://open.spotify.com/album/0njLxifL1LcAPRrNIBiaQJ"
+        "name": "Peach Fuzz",
+        "url": "https://open.spotify.com/album/3SBXtpxz4noPeQg4MqD7RP"
       },
       "artists": [
         {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Borderline",
-      "url": "https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6"
+      "duration_ms": 224360,
+      "name": "Peach Fuzz",
+      "url": "https://open.spotify.com/track/2UFtUjo3UebrpxbAFvSdRz"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Backpush",
-        "url": "https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj"
-      },
-      "artists": [
-        {
-          "name": "Diamond Thug",
-          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
-        }
-      ],
-      "duration_ms": 182152,
-      "name": "Backpush",
-      "url": "https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "Other Love Songs",
         "url": "https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 296111,
       "name": "If Something Breaks",
       "url": "https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "Backpush",
+        "url": "https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj"
+      },
+      "artists": [
+        {
+          "name": "Diamond Thug",
+          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
+        }
+      ],
+      "duration_ms": 182152,
+      "name": "Backpush",
+      "url": "https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF"
     },
     {
       "added_at": "2024-07-05 19:52:41",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-07-05 19:52:41",
       "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 276087,
-      "name": "Taking Me Back (Gently)",
-      "url": "https://open.spotify.com/track/5F87lvBBP8EraYzsRBE6Yw"
-    },
-    {
-      "added_at": "2024-07-05 19:52:41",
-      "album": {
         "name": "The Weakness",
         "url": "https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 242173,
       "name": "Hellfire",
       "url": "https://open.spotify.com/track/2m557twwp7RuyMQxYT55I1"
+    },
+    {
+      "added_at": "2024-07-05 19:52:41",
+      "album": {
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 276087,
+      "name": "Taking Me Back (Gently)",
+      "url": "https://open.spotify.com/track/5F87lvBBP8EraYzsRBE6Yw"
     },
     {
       "added_at": "2024-07-05 19:52:41",

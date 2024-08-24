@@ -1,12 +1,12 @@
 {
   "description": "New music from your favourite hip-hop artists, updated weekly! Featuring Drake, Ice Spice, Eminem,  GloRilla and more! Sign up <a href=\"https://forms.umusic-online.com/forms/-MymKGNlc3qqAKkFa_Hi\">here</a> for exclusives, merch &amp; more! ",
-  "num_followers": 23431,
+  "num_followers": 23430,
   "original_name": "Hip-Hop Pulse",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAhFXPeJbQnjVd/etyt1PFCgeZ/RK1o",
+  "snapshot_id": "AAAhGAa2FChLISug62HH6kOCZWAIhHjl",
   "tracks": [
     {
       "added_at": "2024-08-12 13:08:40",
@@ -1759,6 +1759,62 @@
       "duration_ms": 215240,
       "name": "GET OFF ME (with Travis Scott)",
       "url": "https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ"
+    },
+    {
+      "added_at": "2024-08-23 12:24:12",
+      "album": {
+        "name": "What You Need (with Skilla Baby)",
+        "url": "https://open.spotify.com/album/7dZogAybcQ8eBs5uVeO0PR"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "duration_ms": 174576,
+      "name": "What You Need (with Skilla Baby)",
+      "url": "https://open.spotify.com/track/4ESpN7uNGuhw3Mpu7KwBsa"
+    },
+    {
+      "added_at": "2024-08-23 12:26:11",
+      "album": {
+        "name": "BOOM BAP",
+        "url": "https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134522,
+      "name": "BOOM BAP",
+      "url": "https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D"
+    },
+    {
+      "added_at": "2024-08-23 12:27:20",
+      "album": {
+        "name": "Buffalo Butch, Vol. 1",
+        "url": "https://open.spotify.com/album/6MM5ngsgBgSK4oKU5cNTY4"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Buffalo Freestyle (feat. Drake)",
+      "url": "https://open.spotify.com/track/6sd45lml04PdPBeXbduJzn"
     }
   ],
   "unique_name": "Hip-Hop Pulse",

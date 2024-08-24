@@ -2,9 +2,9 @@
 
 ### [This Is Lourena](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VkTcy)
 
-> This is Lourena\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Lourena\. The essential tracks, all in one playlist.
 
-64 songs - 4 hr 39 min
+65 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Posturadin](https://open.spotify.com/track/60nf4kVvOPfKPL8C9INkCI) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Artioli](https://open.spotify.com/artist/5F0vXJ4To4MUhFRSz5rIs6), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Posturadin](https://open.spotify.com/album/66QOsOeesc7RCRddsMOLKo) | 3:46 | 2024-07-09 |  |
 | [Posturadin](https://open.spotify.com/track/1iQ5pBXothXSvjP6JdSli2) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w) | [Posturadin](https://open.spotify.com/album/0b5ZXyXDNpqKzSQb7UDKRC) | 3:46 | 2023-12-30 | 2024-07-09 |
 | [Pássaros](https://open.spotify.com/track/09a27piHzkROsmYoFqr15A) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [A Saída Está Dentro](https://open.spotify.com/album/6VfOqa6cm75t5RjmC62hC8) | 3:51 | 2023-12-30 |  |
-| [Quando Você Voltar](https://open.spotify.com/track/3yFW4IN8OkspoFGL0jt2Cg) | [Grito Filmes](https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [WJ](https://open.spotify.com/artist/3ay6p0y6ajeg3HgENy1V9p) | [Quando Você Voltar](https://open.spotify.com/album/233tYCNMcUV3M49Uk3TqX2) | 4:30 | 2023-12-30 |  |
+| [Quando Você Voltar](https://open.spotify.com/track/3koekiyh2nzzzbRm7s4uUo) | [Grito Filmes](https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [WJ](https://open.spotify.com/artist/3ay6p0y6ajeg3HgENy1V9p) | [Quando Você Voltar](https://open.spotify.com/album/6qQeBVXwmoX8ngGvxT2v3K) | 4:30 | 2024-08-24 |  |
+| [Quando Você Voltar](https://open.spotify.com/track/3yFW4IN8OkspoFGL0jt2Cg) | [Grito Filmes](https://open.spotify.com/artist/6JGgc0QXvUeYUqhoX88133), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Morcego](https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81), [WJ](https://open.spotify.com/artist/3ay6p0y6ajeg3HgENy1V9p) | [Quando Você Voltar](https://open.spotify.com/album/233tYCNMcUV3M49Uk3TqX2) | 4:30 | 2023-12-30 | 2024-08-24 |
 | [Quero Te Levar](https://open.spotify.com/track/5lY1N9XJ90Yhm54urHitVB) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Quero Te Levar](https://open.spotify.com/album/7KvZow5DHtujTtczDOspjt) | 2:38 | 2023-12-30 | 2024-02-20 |
 | [Quero Te Levar](https://open.spotify.com/track/7oewKPBSYM9qNbGLm7Y3LO) | [MC Marcinho](https://open.spotify.com/artist/3ZJCmnY5iUo1M0UFFWDXGf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Quero Te Levar](https://open.spotify.com/album/6uhyTCcHmC8UeSBW5rMMxK) | 2:38 | 2024-02-19 | 2024-03-23 |
 | [Ressentimento](https://open.spotify.com/track/1JEVUqr2B689BR4ST2Z2Ll) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [DJ Thi Marquez](https://open.spotify.com/artist/3PqV7Fyye1JcHwZHQ8BjoA) | [Um Pouco de Mim](https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv) | 2:59 | 2024-03-08 |  |

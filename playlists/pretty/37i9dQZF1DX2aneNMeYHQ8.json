@@ -1,6 +1,6 @@
 {
   "description": "alt, folk, and indie rock sprinkled into this sonic melting pot. Cover: Something Corporate",
-  "num_followers": 628174,
+  "num_followers": 628163,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 297933,
-      "name": "Seventeen Going Under",
-      "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "The Balcony",
         "url": "https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 160886,
       "name": "Kathleen",
       "url": "https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 297933,
+      "name": "Seventeen Going Under",
+      "url": "https://open.spotify.com/track/5rF6YUIlgiat22OT1lWspJ"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Prelude to Ecstasy",
         "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 176483,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Massachusetts",
-        "url": "https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 218954,
-      "name": "Massachusetts",
-      "url": "https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Cub",
         "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 183466,
       "name": "Leader of the Pack",
       "url": "https://open.spotify.com/track/1YYK8zYkBKxVaANQ7CkgYu"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Massachusetts",
+        "url": "https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 218954,
+      "name": "Massachusetts",
+      "url": "https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "She's Leaving You",
-        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "She's Leaving You",
-      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "She's Leaving You",
+        "url": "https://open.spotify.com/album/07Wpt6vMno7YmKR4F5AoFp"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "She's Leaving You",
+      "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "All Born Screaming",
-        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 178722,
-      "name": "Big Time Nothing",
-      "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 280130,
       "name": "King",
       "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "All Born Screaming",
+        "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 178722,
+      "name": "Big Time Nothing",
+      "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "California Rain",
-        "url": "https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 203494,
-      "name": "California Rain",
-      "url": "https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 175120,
       "name": "Bored",
       "url": "https://open.spotify.com/track/0gYo87SYqysIJJ5ZIRYnY3"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "California Rain",
+        "url": "https://open.spotify.com/album/6AP2pWklJEWxzemOkIBYaw"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 203494,
+      "name": "California Rain",
+      "url": "https://open.spotify.com/track/6t2NMt38FtP7uKiXVe0X1z"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Backfire",
-        "url": "https://open.spotify.com/album/3bFtx73cpXEELUIMMGrH3d"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 213866,
-      "name": "Backfire",
-      "url": "https://open.spotify.com/track/6tAOc7igS4LWMKQBMkqMkU"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Bad Luck",
         "url": "https://open.spotify.com/album/1nX5ipB1JDiptJyxwt4gTO"
       },
@@ -979,22 +963,6 @@
       "duration_ms": 202387,
       "name": "Bad Luck",
       "url": "https://open.spotify.com/track/1Ln6nNE0NKKCEmxSkBNGsT"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
-        "name": "You're So Impatient",
-        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 128880,
-      "name": "You're So Impatient",
-      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1015,6 +983,38 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
+        "name": "Backfire",
+        "url": "https://open.spotify.com/album/3bFtx73cpXEELUIMMGrH3d"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 213866,
+      "name": "Backfire",
+      "url": "https://open.spotify.com/track/6tAOc7igS4LWMKQBMkqMkU"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "You're So Impatient",
+        "url": "https://open.spotify.com/album/75hBHuaFQCVisHjw2l892X"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 128880,
+      "name": "You're So Impatient",
+      "url": "https://open.spotify.com/track/3C6DObIUb0dvgPtN1SsC0m"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Bells and Whistles",
-        "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Bells and Whistles",
-      "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "We've Been Going About This All Wrong",
         "url": "https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 239146,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Bells and Whistles",
+        "url": "https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Bells and Whistles",
+      "url": "https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 201233,
-      "name": "Neon Pill",
-      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Poetry",
         "url": "https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 189418,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Spit Of You",
+        "url": "https://open.spotify.com/album/75FuYiKpmPLtgruoGpEQWZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "Spit Of You",
+      "url": "https://open.spotify.com/track/2SGkIE5YRgm8znklaCArE4"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Spit Of You",
-        "url": "https://open.spotify.com/album/75FuYiKpmPLtgruoGpEQWZ"
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 273026,
-      "name": "Spit Of You",
-      "url": "https://open.spotify.com/track/2SGkIE5YRgm8znklaCArE4"
+      "duration_ms": 201233,
+      "name": "Neon Pill",
+      "url": "https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "CHAOS NOW*",
-        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "PIRATE RADIO*",
-      "url": "https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Motivational Speaking",
         "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 192453,
       "name": "Day by Day",
       "url": "https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "CHAOS NOW*",
+        "url": "https://open.spotify.com/album/1h6QGKzD4kzEZDzojyXeoM"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "PIRATE RADIO*",
+      "url": "https://open.spotify.com/track/5ShMDjPL7vYhhdyGGppXm9"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Fill My Cup",
-        "url": "https://open.spotify.com/album/3ac6ncPJZAVymKeAFuAiYQ"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/0huzOhM3ghLoTXDSmqevHv"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Mood Swings",
         "url": "https://open.spotify.com/album/7sVfGWfXF2C97KvHHw3Voa"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 263933,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/7v4FF3DWuUfRecyXWCgoQY"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Fill My Cup",
+        "url": "https://open.spotify.com/album/3ac6ncPJZAVymKeAFuAiYQ"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/0huzOhM3ghLoTXDSmqevHv"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Burnout / Feel Less Bad",
-        "url": "https://open.spotify.com/album/6KW2sO4EPL3CtzEqY0IxSP"
-      },
-      "artists": [
-        {
-          "name": "Futurebirds",
-          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
-        }
-      ],
-      "duration_ms": 153014,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/0TvdoyqP2Vi2pA1BBVHYD0"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Piranhanana",
         "url": "https://open.spotify.com/album/2mVALYxNoT5iDd9YSttn3X"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 165237,
       "name": "Piranhanana",
       "url": "https://open.spotify.com/track/10iJAaFvMXMNtnYmMQs7g0"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Burnout / Feel Less Bad",
+        "url": "https://open.spotify.com/album/6KW2sO4EPL3CtzEqY0IxSP"
+      },
+      "artists": [
+        {
+          "name": "Futurebirds",
+          "url": "https://open.spotify.com/artist/4Ait1vX2ZaWPrkua8Z664O"
+        }
+      ],
+      "duration_ms": 153014,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/0TvdoyqP2Vi2pA1BBVHYD0"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -1943,26 +1943,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/3zPYDjHecBsekQsjV3PXKE"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        },
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/0HDUQhPXnunzwvqAmDpznE"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "The Color That Suits You",
         "url": "https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa"
       },
@@ -1979,6 +1959,26 @@
       "duration_ms": 293037,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/3zPYDjHecBsekQsjV3PXKE"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        },
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 197706,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/0HDUQhPXnunzwvqAmDpznE"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Lady Lou",
-        "url": "https://open.spotify.com/album/1Yh3TJP49ypjIuQVy5Kcmi"
-      },
-      "artists": [
-        {
-          "name": "HAFFWAY",
-          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
-        }
-      ],
-      "duration_ms": 277177,
-      "name": "Home for the Weekend",
-      "url": "https://open.spotify.com/track/1YB4xS05wUpuCaJs8IFDjA"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "High and Lonesome",
         "url": "https://open.spotify.com/album/1hXu1hzBLLXJLoJgacsc6K"
       },
@@ -2243,6 +2227,22 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
+        "name": "Lady Lou",
+        "url": "https://open.spotify.com/album/1Yh3TJP49ypjIuQVy5Kcmi"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "duration_ms": 277177,
+      "name": "Home for the Weekend",
+      "url": "https://open.spotify.com/track/1YB4xS05wUpuCaJs8IFDjA"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
         "name": "Hot Rod Pipe Dream",
         "url": "https://open.spotify.com/album/2haMU8vcx0Cv0lfeMjM951"
       },
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "Wish You Would",
-        "url": "https://open.spotify.com/album/6NkI657P2YhP6XjC7ulX4A"
-      },
-      "artists": [
-        {
-          "name": "Los Lonely Boys",
-          "url": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Wish You Would",
-      "url": "https://open.spotify.com/track/1xvlYXdRgq42iA1NL6JnIN"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "Alarm Clock",
         "url": "https://open.spotify.com/album/7qyehmMxEXQoDVdlcBeJvN"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 174610,
       "name": "Alarm Clock",
       "url": "https://open.spotify.com/track/2zkiwigwXhvi1YBdiczVhT"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "Wish You Would",
+        "url": "https://open.spotify.com/album/6NkI657P2YhP6XjC7ulX4A"
+      },
+      "artists": [
+        {
+          "name": "Los Lonely Boys",
+          "url": "https://open.spotify.com/artist/4aSEmLLxLX9wR5aLMllOKj"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Wish You Would",
+      "url": "https://open.spotify.com/track/1xvlYXdRgq42iA1NL6JnIN"
     },
     {
       "added_at": "2024-08-20 22:59:02",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2024-08-20 22:59:02",
       "album": {
-        "name": "FEVER / SKY",
-        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
-      },
-      "artists": [
-        {
-          "name": "Wilder Woods",
-          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Maestro (Tears Don't Lie)",
-      "url": "https://open.spotify.com/track/5BF1TNThRiA6fnfGkTxEfQ"
-    },
-    {
-      "added_at": "2024-08-20 22:59:02",
-      "album": {
         "name": "in the wake of your leave",
         "url": "https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 156789,
       "name": "Bad Side",
       "url": "https://open.spotify.com/track/5sP3cH0Gw02dt9mBT5n9Xz"
+    },
+    {
+      "added_at": "2024-08-20 22:59:02",
+      "album": {
+        "name": "FEVER / SKY",
+        "url": "https://open.spotify.com/album/4zpGSBstdibPEMzdRH1iip"
+      },
+      "artists": [
+        {
+          "name": "Wilder Woods",
+          "url": "https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Maestro (Tears Don't Lie)",
+      "url": "https://open.spotify.com/track/5BF1TNThRiA6fnfGkTxEfQ"
     },
     {
       "added_at": "2024-08-20 22:59:02",

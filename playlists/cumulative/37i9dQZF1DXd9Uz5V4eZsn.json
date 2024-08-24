@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "Break of Dawn",
+        "url": "https://open.spotify.com/album/6crfzN6rxNXy9MCLs0Ma26"
+      },
+      "artists": [
+        {
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        },
+        {
+          "name": "Siddhartha Belmannu",
+          "url": "https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc"
+        },
+        {
+          "name": "Purbayan Chatterjee",
+          "url": "https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372500,
+      "name": "Awakened Hope",
+      "url": "https://open.spotify.com/track/5Ro7n4nekpKf0FyVD7ulnv"
+    },
+    {
+      "album": {
         "name": "Banaras Flute Meditation",
         "url": "https://open.spotify.com/album/6oELvDJjCasbu0xCN5eu6g"
       },
@@ -100,6 +126,32 @@
       "duration_ms": 214666,
       "name": "Bhupali",
       "url": "https://open.spotify.com/track/3hfh3VfPtFVtB9KnuNtJXo"
+    },
+    {
+      "album": {
+        "name": "Break of Dawn",
+        "url": "https://open.spotify.com/album/6crfzN6rxNXy9MCLs0Ma26"
+      },
+      "artists": [
+        {
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        },
+        {
+          "name": "Ravichandra Kulur",
+          "url": "https://open.spotify.com/artist/0omRr17N8KjinEiNh5hRTF"
+        },
+        {
+          "name": "Nishant Shekar",
+          "url": "https://open.spotify.com/artist/2i89PLXxOww7jBL2Z4IQWp"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291896,
+      "name": "Break of Dawn",
+      "url": "https://open.spotify.com/track/4A4jaqRBzOppLqNF1VYU3y"
     },
     {
       "album": {

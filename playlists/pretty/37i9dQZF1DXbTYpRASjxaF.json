@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: F\u00faria",
-  "num_followers": 131179,
+  "num_followers": 131198,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -903,46 +903,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Falc\u00e3o do Morro",
-        "url": "https://open.spotify.com/album/7dAgNIIV8VVzZFCDSbpnlG"
-      },
-      "artists": [
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Slaasty",
-          "url": "https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1"
-        },
-        {
-          "name": "Coelho",
-          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
-        },
-        {
-          "name": "Prod Renatinho",
-          "url": "https://open.spotify.com/artist/2Fsxe36GfnJVFM5gM10Y9p"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Blogueira",
-      "url": "https://open.spotify.com/track/5BuFyXTbnTxhR0WlztMjww"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Carro Chefe",
         "url": "https://open.spotify.com/album/1Wk4hEON3xo8USZcKRCYFf"
       },
@@ -983,6 +943,46 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
+        "name": "Falc\u00e3o do Morro",
+        "url": "https://open.spotify.com/album/7dAgNIIV8VVzZFCDSbpnlG"
+      },
+      "artists": [
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Slaasty",
+          "url": "https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1"
+        },
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5IQ5ayF3TFHtgMqENq0xPa"
+        },
+        {
+          "name": "Prod Renatinho",
+          "url": "https://open.spotify.com/artist/2Fsxe36GfnJVFM5gM10Y9p"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Blogueira",
+      "url": "https://open.spotify.com/track/5BuFyXTbnTxhR0WlztMjww"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
         "name": "Outra Hora",
         "url": "https://open.spotify.com/album/6yHAyJrF3xvZj0Hb2kBpJw"
       },
@@ -999,30 +999,6 @@
       "duration_ms": 197333,
       "name": "Outra Hora",
       "url": "https://open.spotify.com/track/4ezcavj874X6qmOMdjIN1q"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Paladar",
-        "url": "https://open.spotify.com/album/6Y5GeHtdEKBESUSzCDZAng"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        },
-        {
-          "name": "Mc Luki",
-          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
-        }
-      ],
-      "duration_ms": 112952,
-      "name": "Paladar",
-      "url": "https://open.spotify.com/track/62uUKrOmi2WzHlCpALbex5"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1051,6 +1027,30 @@
       "duration_ms": 218000,
       "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
       "url": "https://open.spotify.com/track/4TmIkfVvu5LOE2JADl8Brp"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Paladar",
+        "url": "https://open.spotify.com/album/6Y5GeHtdEKBESUSzCDZAng"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        }
+      ],
+      "duration_ms": 112952,
+      "name": "Paladar",
+      "url": "https://open.spotify.com/track/62uUKrOmi2WzHlCpALbex5"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1207,34 +1207,26 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Dacoromode",
-        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+        "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
         },
         {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
         },
         {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Dj Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+          "name": "Real Bege",
+          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
         }
       ],
-      "duration_ms": 200039,
-      "name": "Ela joga no 7",
-      "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
+      "duration_ms": 121540,
+      "name": "Ambi\u00e7\u00f5es E V\u00edcios",
+      "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1263,30 +1255,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
-      },
-      "artists": [
-        {
-          "name": "DJ Matt D",
-          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Real Bege",
-          "url": "https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP"
-        }
-      ],
-      "duration_ms": 121540,
-      "name": "Ambi\u00e7\u00f5es E V\u00edcios",
-      "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Fora Da Panela (Mixtape)",
         "url": "https://open.spotify.com/album/2LuDsaA1An3g5kS1U85d3V"
       },
@@ -1303,6 +1271,38 @@
       "duration_ms": 164571,
       "name": "Belo Horizonte 30 Graus A Noite",
       "url": "https://open.spotify.com/track/0JavOJghJE36Q51xIUfd5z"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Dacoromode",
+        "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Dj Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 200039,
+      "name": "Ela joga no 7",
+      "url": "https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7"
     },
     {
       "added_at": "2024-08-23 03:01:00",

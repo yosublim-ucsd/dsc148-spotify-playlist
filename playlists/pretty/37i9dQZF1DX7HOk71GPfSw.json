@@ -1,13 +1,29 @@
 {
   "description": "tsubi club is back",
-  "num_followers": 462398,
+  "num_followers": 462407,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZIUwAAAACPOnPnOIqxZzl1PfG6KGWu",
+  "snapshot_id": "ZsgUzgAAAAD68tQyNe7WKDsqbZBy8jgV",
   "tracks": [
+    {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "Caustic",
+        "url": "https://open.spotify.com/album/4IC9bgthgbTqjuciZf1QTi"
+      },
+      "artists": [
+        {
+          "name": "The Hellp",
+          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Caustic",
+      "url": "https://open.spotify.com/track/4psWH7HF7omu2KbAusNeQt"
+    },
     {
       "added_at": "2024-08-16 17:58:00",
       "album": {
@@ -29,36 +45,20 @@
       "url": "https://open.spotify.com/track/0ckT2CLzy9AZrqH47AZ6yc"
     },
     {
-      "added_at": "2024-08-03 16:18:57",
+      "added_at": "2024-08-23 04:49:18",
       "album": {
-        "name": "Flash in the Pan",
-        "url": "https://open.spotify.com/album/5CgiC1Q1hhTpyXWH7w0yDt"
+        "name": "i only want what i can't have!!!",
+        "url": "https://open.spotify.com/album/4epyoIUY5WS6ilXM0ZI70T"
       },
       "artists": [
         {
-          "name": "Jane Remover",
-          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+          "name": "han.irl <3",
+          "url": "https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z"
         }
       ],
-      "duration_ms": 223365,
-      "name": "Flash in the Pan",
-      "url": "https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ"
-    },
-    {
-      "added_at": "2024-08-16 17:58:00",
-      "album": {
-        "name": "rotation",
-        "url": "https://open.spotify.com/album/2lc8H0hC4cGMssCMXerYQ3"
-      },
-      "artists": [
-        {
-          "name": "Sophie Cates",
-          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
-        }
-      ],
-      "duration_ms": 161805,
-      "name": "rotation",
-      "url": "https://open.spotify.com/track/3hsyt612wWHrqtKVQjViXS"
+      "duration_ms": 201715,
+      "name": "i only want what i can't have!!!",
+      "url": "https://open.spotify.com/track/1Odw5XWelziILeKluwcWbJ"
     },
     {
       "added_at": "2024-08-03 15:58:38",
@@ -75,6 +75,70 @@
       "duration_ms": 170000,
       "name": "laced up",
       "url": "https://open.spotify.com/track/7BmPwqjDJUoSjMFitrqs4Z"
+    },
+    {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/2VeJ1I0f6jCGGrFZMWcaCA"
+      },
+      "artists": [
+        {
+          "name": "LoveLeo",
+          "url": "https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6"
+        }
+      ],
+      "duration_ms": 179812,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/1JMXeAXC275pyY2hYafYdQ"
+    },
+    {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "Honeycomb",
+        "url": "https://open.spotify.com/album/4mhf0XnJKJwrustMTk4hRI"
+      },
+      "artists": [
+        {
+          "name": "Semma",
+          "url": "https://open.spotify.com/artist/63qIQLQgiDrn5JLeftvuoK"
+        }
+      ],
+      "duration_ms": 184300,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/5tdbBukXi7Hmg7gHXTpgwR"
+    },
+    {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/47DlMVv64jPLw8DJJ1oqLU"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 229353,
+      "name": "Ray of Light",
+      "url": "https://open.spotify.com/track/2NCivP0yuBfwHuvLf9QNzy"
+    },
+    {
+      "added_at": "2024-08-16 17:58:00",
+      "album": {
+        "name": "rotation",
+        "url": "https://open.spotify.com/album/2lc8H0hC4cGMssCMXerYQ3"
+      },
+      "artists": [
+        {
+          "name": "Sophie Cates",
+          "url": "https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2"
+        }
+      ],
+      "duration_ms": 161805,
+      "name": "rotation",
+      "url": "https://open.spotify.com/track/3hsyt612wWHrqtKVQjViXS"
     },
     {
       "added_at": "2024-08-16 17:58:00",
@@ -97,6 +161,70 @@
       "url": "https://open.spotify.com/track/6fIPNpjZu5qdOTmnGJArBS"
     },
     {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "ODDS",
+        "url": "https://open.spotify.com/album/3tBmhNuRM1zTZqlFqhcZcf"
+      },
+      "artists": [
+        {
+          "name": "Dava",
+          "url": "https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu"
+        }
+      ],
+      "duration_ms": 168071,
+      "name": "ODDS",
+      "url": "https://open.spotify.com/track/7cpTlJpt1WCe8Gj8wjFSoW"
+    },
+    {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/7L1HvGDKE96GAkpsEDQgeU"
+      },
+      "artists": [
+        {
+          "name": "Body Meat",
+          "url": "https://open.spotify.com/artist/4BrSvpXSgT02JhhNULggJk"
+        }
+      ],
+      "duration_ms": 235794,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/7xUAdQvYQFjR767gAzJy24"
+    },
+    {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "SPORTS",
+        "url": "https://open.spotify.com/album/71YUFjHlLLwt67NHlbHuUx"
+      },
+      "artists": [
+        {
+          "name": "Model Child",
+          "url": "https://open.spotify.com/artist/3zZPv8aJhRywJjUqOLFe0O"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "SPORTS",
+      "url": "https://open.spotify.com/track/6d58EADHoLpqNFh7Q4k4NN"
+    },
+    {
+      "added_at": "2024-08-03 16:18:57",
+      "album": {
+        "name": "Flash in the Pan",
+        "url": "https://open.spotify.com/album/5CgiC1Q1hhTpyXWH7w0yDt"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 223365,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ"
+    },
+    {
       "added_at": "2024-08-16 17:58:00",
       "album": {
         "name": "Notes To Self",
@@ -111,6 +239,46 @@
       "duration_ms": 151440,
       "name": "Stalk Me 151 To 170",
       "url": "https://open.spotify.com/track/612fIqLqyNA3HcRjZedJM0"
+    },
+    {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "Pretty Girl Party",
+        "url": "https://open.spotify.com/album/1OYly7NLk78fIHZw29vsM7"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        },
+        {
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Pretty Girl Party",
+      "url": "https://open.spotify.com/track/1ymK7hZ3biElFYTXhGwONM"
+    },
+    {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "shiversucker (feat. Suzi Wu)",
+        "url": "https://open.spotify.com/album/3v42YrMxArtlJrxEjtRhkT"
+      },
+      "artists": [
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        },
+        {
+          "name": "Suzi Wu",
+          "url": "https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "shiversucker (feat. Suzi Wu)",
+      "url": "https://open.spotify.com/track/08yQrUffF2D43OJcRExm1m"
     },
     {
       "added_at": "2024-08-03 15:58:38",
@@ -179,6 +347,38 @@
       "duration_ms": 170206,
       "name": "just not sure",
       "url": "https://open.spotify.com/track/66GoQ5s67RsxaZPeLbYdoV"
+    },
+    {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "For Two",
+        "url": "https://open.spotify.com/album/6LckbMkAspa3A4UJC7ACcN"
+      },
+      "artists": [
+        {
+          "name": "K\u00c4SSY",
+          "url": "https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6"
+        }
+      ],
+      "duration_ms": 196302,
+      "name": "For Two",
+      "url": "https://open.spotify.com/track/6T1YH2tO5llDU1PmNTMiOm"
+    },
+    {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "Salad Years",
+        "url": "https://open.spotify.com/album/7u7XDkGZuNWsqMNNqPF3r8"
+      },
+      "artists": [
+        {
+          "name": "SUUNCAAT",
+          "url": "https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7"
+        }
+      ],
+      "duration_ms": 171942,
+      "name": "Salad Years",
+      "url": "https://open.spotify.com/track/0iq4EmXYWMbWNWPgnWYRT8"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2293,22 +2493,6 @@
       "url": "https://open.spotify.com/track/6cHNGetkkvyreYspgs0NCc"
     },
     {
-      "added_at": "2024-02-12 21:03:59",
-      "album": {
-        "name": "Person (Angel Mix)",
-        "url": "https://open.spotify.com/album/61WZkS5rDvpQkyK3sOifiu"
-      },
-      "artists": [
-        {
-          "name": "Petal Supply",
-          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
-        }
-      ],
-      "duration_ms": 222979,
-      "name": "Person - Angel Mix",
-      "url": "https://open.spotify.com/track/5iTzaatezJzsUhX1QjT0Kp"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "fuck this town",
@@ -2351,30 +2535,6 @@
       "duration_ms": 114460,
       "name": "money machine",
       "url": "https://open.spotify.com/track/61bwFjzXGG1x2aZsANdLyl"
-    },
-    {
-      "added_at": "2024-02-09 15:58:51",
-      "album": {
-        "name": "4eva",
-        "url": "https://open.spotify.com/album/1qH35yuPAM1IfRJBsKyCo8"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Kingdom",
-          "url": "https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj"
-        }
-      ],
-      "duration_ms": 140933,
-      "name": "4eva",
-      "url": "https://open.spotify.com/track/36cJT1XQw11vx8QIAHsj2Z"
     },
     {
       "added_at": "2024-02-16 16:39:59",
@@ -2483,166 +2643,6 @@
       "duration_ms": 172174,
       "name": "One Mile at a Time",
       "url": "https://open.spotify.com/track/0RERxLbgUk0GzpdQOLNduB"
-    },
-    {
-      "added_at": "2024-01-26 15:53:41",
-      "album": {
-        "name": "Conspiracy",
-        "url": "https://open.spotify.com/album/2M0pUtW7UgbfsWnzxAsBIJ"
-      },
-      "artists": [
-        {
-          "name": "Terror Jr",
-          "url": "https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Conspiracy",
-      "url": "https://open.spotify.com/track/50Sj6rnSai38ca3ZKLHvPL"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "DOA",
-        "url": "https://open.spotify.com/album/75ScphmWaaBgNOTUh4fatP"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 151015,
-      "name": "lastjune",
-      "url": "https://open.spotify.com/track/1welGULVlPbPc61eiGEELm"
-    },
-    {
-      "added_at": "2024-01-26 15:53:41",
-      "album": {
-        "name": "hi nice to meet ya",
-        "url": "https://open.spotify.com/album/6bPN3UG1Ey3LXPyh8Tj3Fi"
-      },
-      "artists": [
-        {
-          "name": "Mixed Matches",
-          "url": "https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34"
-        },
-        {
-          "name": "Iankon",
-          "url": "https://open.spotify.com/artist/2mpu6oG30YDtaWYiCjStuZ"
-        },
-        {
-          "name": "Xhulooo",
-          "url": "https://open.spotify.com/artist/7Lg7lDO4P5HMTJljr0MV83"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "hi nice to meet ya",
-      "url": "https://open.spotify.com/track/2281dtl2dD4FYjnOf13dwc"
-    },
-    {
-      "added_at": "2024-01-22 16:16:47",
-      "album": {
-        "name": "7G",
-        "url": "https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB"
-      },
-      "artists": [
-        {
-          "name": "A. G. Cook",
-          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
-        }
-      ],
-      "duration_ms": 122526,
-      "name": "Silver",
-      "url": "https://open.spotify.com/track/7jckam3u2rKAPqwscTcBY1"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "tell me",
-        "url": "https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        },
-        {
-          "name": "Club Shy",
-          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
-        }
-      ],
-      "duration_ms": 163532,
-      "name": "tell me",
-      "url": "https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "F\u00fchrerschein",
-        "url": "https://open.spotify.com/album/2x7ou8ctS719LdjHz2DoBp"
-      },
-      "artists": [
-        {
-          "name": "Dilla",
-          "url": "https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ"
-        }
-      ],
-      "duration_ms": 242671,
-      "name": "F\u00fchrerschein",
-      "url": "https://open.spotify.com/track/0TU7YkMOLBxrUIOo7SnpIV"
-    },
-    {
-      "added_at": "2024-01-26 15:53:41",
-      "album": {
-        "name": "STARING AT THE SUN",
-        "url": "https://open.spotify.com/album/13hCVNVfws021KSGhxNlFI"
-      },
-      "artists": [
-        {
-          "name": "monty.pk",
-          "url": "https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g"
-        }
-      ],
-      "duration_ms": 114947,
-      "name": "STARING AT THE SUN",
-      "url": "https://open.spotify.com/track/7rtUWgeSs798smh0Z3HAuH"
-    },
-    {
-      "added_at": "2024-01-22 16:15:30",
-      "album": {
-        "name": "club hospice (I.WANTED.YOU.TO.KNOW)",
-        "url": "https://open.spotify.com/album/4l6tZWq1inNrZM4k4HJuF1"
-      },
-      "artists": [
-        {
-          "name": "heffy",
-          "url": "https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr"
-        }
-      ],
-      "duration_ms": 180450,
-      "name": "club hospice (I.WANTED.YOU.TO.KNOW)",
-      "url": "https://open.spotify.com/track/58mrz6T6oMMmSGemae30nV"
-    },
-    {
-      "added_at": "2024-01-26 15:53:41",
-      "album": {
-        "name": "neopet rescrambled",
-        "url": "https://open.spotify.com/album/0zUIZlNjNhgfcs0GDTstjP"
-      },
-      "artists": [
-        {
-          "name": "PIAO",
-          "url": "https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb"
-        }
-      ],
-      "duration_ms": 137644,
-      "name": "neopet rescrambled",
-      "url": "https://open.spotify.com/track/6UIAi9oj0ybwjkU2421lZV"
     },
     {
       "added_at": "2024-01-22 16:15:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 
 > mate\- Bus stop!
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,699 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,704 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tCg29z8GX8.md) - [plain]
 | 24 | [Manzi Nte \(feat\. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo\)](https://open.spotify.com/track/4GxZKOak4mz6VmMJUmO4Is) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Masterpiece YVK](https://open.spotify.com/artist/5wVRDS1b9ZMXN6VKEl8f9b), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P), [Silas Africa](https://open.spotify.com/artist/2m0tIjDO5ludphgMpEviTP), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Manzi Nte \(feat\. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo\)](https://open.spotify.com/album/3FFhGEtxLrk7T6sAadIoUg) | 7:23 |
 | 25 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
 | 26 | [Xtra Cool](https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Xtra Cool](https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL) | 2:30 |
-| 27 | [PAPARAZZI](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PAPARAZZI](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 |
-| 28 | [INTOXYCATED](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 |
+| 27 | [INTOXYCATED](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 |
+| 28 | [PAPARAZZI](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PAPARAZZI](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 |
 | 29 | [Obi Tan Wo](https://open.spotify.com/track/6UFei2sXl9dHbOzmCQJOD3) | [Adina Thembi](https://open.spotify.com/artist/7ujlMMbxQ1lbbBNpYyAU6d), [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Obi Tan Wo](https://open.spotify.com/album/2PQZCAt8WOUXPmRgVZr2VQ) | 2:35 |
 | 30 | [Thy Grace](https://open.spotify.com/track/5mr9USRpDKJdryweH8mBFy) | [Kwesi Taadi](https://open.spotify.com/artist/5cwOSWuUV5wpdx7FmxRuVw), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Day & Night Nonstop](https://open.spotify.com/album/1kh4dliJ5soTkDpUN7kxup) | 2:35 |
 | 31 | [Suns Out](https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Suns Out](https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy) | 2:31 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 331033,
+  "num_followers": 331076,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
-        "name": "Mi Vida Sin Tu Amor",
-        "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 272200,
-      "name": "Por Amarte As\u00ed",
-      "url": "https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa"
-    },
-    {
-      "added_at": "2024-06-14 18:17:57",
-      "album": {
         "name": "Escucha",
         "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 236613,
       "name": "V\u00edveme",
       "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+    },
+    {
+      "added_at": "2024-06-14 18:17:57",
+      "album": {
+        "name": "Mi Vida Sin Tu Amor",
+        "url": "https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 272200,
+      "name": "Por Amarte As\u00ed",
+      "url": "https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa"
     },
     {
       "added_at": "2024-06-14 18:17:57",
@@ -651,7 +651,7 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
-        "name": "SEX AND LOVE (Deluxe)",
+        "name": "SEX AND LOVE - Deluxe",
         "url": "https://open.spotify.com/album/2kZkiVn1m00XcgaWlLb2LD"
       },
       "artists": [
@@ -1035,7 +1035,7 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
-        "name": "3 A.M. (Deluxe)",
+        "name": "3 A.M. - Deluxe",
         "url": "https://open.spotify.com/album/2zx3DYhlTX0ALhbEDUnbnA"
       },
       "artists": [
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-06-14 18:17:57",
       "album": {
-        "name": "Estrella Guia",
-        "url": "https://open.spotify.com/album/0bJDginBxFe7sM7Vz8gAAQ"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Pires",
-          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Amame",
-      "url": "https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO"
-    },
-    {
-      "added_at": "2024-06-14 18:17:57",
-      "album": {
         "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 279040,
       "name": "Escucha a tu coraz\u00f3n",
       "url": "https://open.spotify.com/track/7rlNIalRVbyM76fUXCfXg3"
+    },
+    {
+      "added_at": "2024-06-14 18:17:57",
+      "album": {
+        "name": "Estrella Guia",
+        "url": "https://open.spotify.com/album/0bJDginBxFe7sM7Vz8gAAQ"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        }
+      ],
+      "duration_ms": 245720,
+      "name": "Amame",
+      "url": "https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO"
     },
     {
       "added_at": "2024-06-14 18:17:57",

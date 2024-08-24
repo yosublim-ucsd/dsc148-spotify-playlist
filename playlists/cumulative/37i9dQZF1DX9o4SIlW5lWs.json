@@ -806,7 +806,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 206346,
       "name": "Boquita de Caramelo",
       "url": "https://open.spotify.com/track/1BQ0w7Dhgo9BeUeq0zfM1a"
@@ -7330,6 +7330,28 @@
       "duration_ms": 243496,
       "name": "Te Juro Que Te Amo",
       "url": "https://open.spotify.com/track/5Y3n9BcwwtJPPilw4GMaII"
+    },
+    {
+      "album": {
+        "name": "Te Lo Agradezco",
+        "url": "https://open.spotify.com/album/5BX90KAtpnJg6R2rW9p3jo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        },
+        {
+          "name": "Aneley",
+          "url": "https://open.spotify.com/artist/0fwYg36a0rtDscNA60ULVQ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219150,
+      "name": "Te Lo Agradezco",
+      "url": "https://open.spotify.com/track/5AAAr9ckR54bP5BfvXqILr"
     },
     {
       "album": {

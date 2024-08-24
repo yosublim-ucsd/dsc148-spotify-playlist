@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,242 songs - 2 day 15 hr 51 min
+1,243 songs - 2 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,7 +264,7 @@
 | [Didn't Even Notice](https://open.spotify.com/track/5s27QGuQo3Gm92wx3f0nDh) | [CS Kid](https://open.spotify.com/artist/5lgVc33hwAih5sxGaOekRQ), [Conch](https://open.spotify.com/artist/6s4rRzSz74RitFaweXeojr) | [Didn't Even Notice](https://open.spotify.com/album/49hXDj2kebhGhM7hSGzUMl) | 2:48 | 2021-03-27 | 2021-05-22 |
 | [Disappointing the Internet](https://open.spotify.com/track/0wpQc6DuoM3B9VsAzSHNtv) | [Cassidy Mann](https://open.spotify.com/artist/6RJL8I7zuC8mVHP5u9juRu) | [Disappointing the Internet](https://open.spotify.com/album/3KXnbWDUt4OfEbLtCwkBPs) | 2:46 | 2024-06-21 |  |
 | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 | 2022-03-25 | 2022-04-16 |
-| [dishes](https://open.spotify.com/track/5fl0hbVtZpswYuFORfDkfO) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [dishes](https://open.spotify.com/album/3Sk4lToMRHoSjjzorQBAQX) | 2:40 | 2023-03-17 |  |
+| [dishes](https://open.spotify.com/track/5fl0hbVtZpswYuFORfDkfO) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [dishes](https://open.spotify.com/album/3Sk4lToMRHoSjjzorQBAQX) | 2:40 | 2023-03-17 | 2024-08-24 |
 | [DIZZY](https://open.spotify.com/track/5c0WB921PDc4s4EpthSDJo) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [DIZZY](https://open.spotify.com/album/7lFMvbDwtUZhLhVJyUu8tB) | 3:19 | 2022-02-18 | 2022-03-15 |
 | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/track/3Gplr4iOpewQ9ynbZujzlu) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q), [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dizzy \(feat\. Thomas Headon and Alfie Templeman\)](https://open.spotify.com/album/12W0CN6ybPdK5ZeHnff5k4) | 2:38 | 2021-11-20 | 2022-03-05 |
 | [Do It Over](https://open.spotify.com/track/2lEGr8w1XYJ2cyRoKrGui7) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Do It Over](https://open.spotify.com/album/38lfw021YLO2OWKwHcvZUb) | 3:17 | 2021-10-16 | 2021-12-11 |
@@ -812,6 +812,7 @@
 | [Paper Hero](https://open.spotify.com/track/7vtMYNyyVfBfYZ2ppDncmk) | [Alyssa Baker](https://open.spotify.com/artist/6B69HCFm8HCDgGzeAwy1K9) | [Paper Hero](https://open.spotify.com/album/2mfolriJcum79EdIydGqM3) | 2:37 | 2020-10-29\* | 2020-11-04 |
 | [paranoia](https://open.spotify.com/track/11TXeRevqYzPNw2i2qsvzT) | [Jades Goudreault](https://open.spotify.com/artist/1LFfKkCrn95l1ZuxCNa3yN) | [Motel 6...paranoia](https://open.spotify.com/album/6g6IufYpFh84awZjdjRYql) | 3:15 | 2020-11-03 | 2020-12-07 |
 | [paranoia party](https://open.spotify.com/track/29ptwsAFxPgzqMqyAu1OuK) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/5kmn5lkE9iXZTcObGqtWam) | 3:05 | 2021-06-05 | 2021-07-10 |
+| [PARANOID](https://open.spotify.com/track/6SFKld0gd9xlOm3LRMVr6P) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [PARANOID](https://open.spotify.com/album/0R2a80cHrhulPnJM9m1jXc) | 3:09 | 2024-08-23 |  |
 | [Part of Me](https://open.spotify.com/track/2yRlcQn3yUqseUYHw2XzNZ) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:21 | 2021-01-16 | 2021-03-19 |
 | [Party Again](https://open.spotify.com/track/2Pj8ZzeHsiI4FEl8USfARH) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Party Again](https://open.spotify.com/album/5bAeOQJE8mkEtkYJ0Gblkx) | 2:44 | 2021-07-24 | 2021-07-31 |
 | [Party Sickness](https://open.spotify.com/track/06DcUBxCvBAqvWgpExtbLE) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Party Sickness](https://open.spotify.com/album/0fwHTsZvukaWOUHCbSQhJf) | 3:49 | 2022-02-04 | 2022-04-09 |

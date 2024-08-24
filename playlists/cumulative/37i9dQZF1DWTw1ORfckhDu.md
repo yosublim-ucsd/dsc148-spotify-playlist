@@ -4,7 +4,7 @@
 
 > 100 Suomi 💯 Kannessa Senya ja Sara Bee.
 
-658 songs - 1 day 7 hr 23 min
+659 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,7 +423,7 @@
 | [OULALALA](https://open.spotify.com/track/1tp9H1208V1TRhG8IEBPxD) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [OULALALA](https://open.spotify.com/album/3lF3JCLt13YRCgPQj2LHVG) | 2:32 | 2024-05-16 | 2024-07-05 |
 | [Paa se biisi soimaan](https://open.spotify.com/track/1QArR7272Cv4x9SbKhZIQO) | [Julma Henri](https://open.spotify.com/artist/3Ua7hkwc1gdzoUBx0fdt8o), [Raappana](https://open.spotify.com/artist/7m7tqSW9C7alkliDAZYvF0), [Jiiaa](https://open.spotify.com/artist/3y31Ycml0xTe80UqfY5E4q) | [Paa se biisi soimaan](https://open.spotify.com/album/6odTEg8t7OnQj6C48Cdu8x) | 3:55 | 2023-12-21 | 2024-01-12 |
 | [Pahis](https://open.spotify.com/track/7n7Gm5IJVwcccl0w31yoeN) | [Miika](https://open.spotify.com/artist/7aY4XP3cJx7pFPYHMaF8pi) | [Pahis](https://open.spotify.com/album/6NUBUaeCxXgKJVejq2nMXB) | 2:20 | 2023-10-26 | 2023-11-10 |
-| [Paholainen](https://open.spotify.com/track/1vFLrSQ1zmDeNQimkEvKEh) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Paholainen](https://open.spotify.com/album/2M3sA4w1BieZDkszLz0Bn2) | 2:23 | 2024-05-16 |  |
+| [Paholainen](https://open.spotify.com/track/1vFLrSQ1zmDeNQimkEvKEh) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Paholainen](https://open.spotify.com/album/2M3sA4w1BieZDkszLz0Bn2) | 2:23 | 2024-05-16 | 2024-08-24 |
 | [Pakko jatkaa](https://open.spotify.com/track/6RVw3bCg7oXilVs6b0zdOG) | [ARMAN](https://open.spotify.com/artist/2APEIVp6Jhy8SQ229com4L), [Topi Alanko](https://open.spotify.com/artist/6aKiwr6RqsY6BneGBtbiIt) | [Pakko jatkaa](https://open.spotify.com/album/21ssjmKMBP7wXtUB7yY53Q) | 2:34 | 2024-03-07 | 2024-03-22 |
 | [Palamaan](https://open.spotify.com/track/7xfSNbCBxTRv5KhOQweOcf) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Palamaan](https://open.spotify.com/album/6DkFG7wc6XPxEiWHY5TctZ) | 2:50 | 2024-02-15 | 2024-03-01 |
 | [Palkintoi](https://open.spotify.com/track/0fuZ4C5pQvWJD7A2hC18KT) | [Mon\-Sala](https://open.spotify.com/artist/563RJHQJRgjoBBSehPAY5Q) | [Palkintoi](https://open.spotify.com/album/3JR6nOWVX3Y5TmrwJAPOpQ) | 2:34 | 2023-10-26 | 2023-11-10 |
@@ -602,6 +602,7 @@
 | [Tänne mä kaipaan](https://open.spotify.com/track/3zlFujNWtRS4XP0S8s59eO) | [219osok](https://open.spotify.com/artist/7pa9yV91OIhOYb3BGAYvjC) | [Tänne mä kaipaan](https://open.spotify.com/album/6WBPOVW0SOYq07uPMTwo7j) | 2:51 | 2024-05-23 | 2024-07-02 |
 | [Tänä yön](https://open.spotify.com/track/2XxF52QQrTVBj7WI92mPrc) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Tänä yön](https://open.spotify.com/album/4buYgQelnBcFrmkar87mt7) | 2:51 | 2024-06-13 | 2024-08-16 |
 | [Tässä ja nyt \(feat\. william\)](https://open.spotify.com/track/52Jcc0xkoJyguwYnfKUnFU) | [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Tässä ja nyt \(feat\. william\)](https://open.spotify.com/album/5X4Ftxb2PKeexJD9V9zf62) | 2:45 | 2023-11-16 | 2024-02-23 |
+| [Täydellinen](https://open.spotify.com/track/19mKgvz3lPyUJBXvnXXuvv) | [Blacflaco](https://open.spotify.com/artist/7pRRxojl7QoW1M7s4Zhxo4) | [Täydellinen](https://open.spotify.com/album/4t2rUEiSmBtwVpe1tA7MkX) | 2:28 | 2024-08-23 |  |
 | [Tää ei lopu](https://open.spotify.com/track/6Fsl5nvdOFEWkZq5bJLGp1) | [Are](https://open.spotify.com/artist/16X4XStfwmDUkI98lVGj4Z) | [Tää ei lopu](https://open.spotify.com/album/4mM6bQfpEsls1PKeaNzotD) | 3:33 | 2024-03-28 | 2024-04-12 |
 | [TÄÄ ILTA \(feat\. Senya\)](https://open.spotify.com/track/3Q2AIM4SuTHcar4Wy1hAr2) | [Maxin](https://open.spotify.com/artist/3rYG05hlpuT7IK1Qwqy7s9), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [TÄÄ ILTA \(feat\. Senya\)](https://open.spotify.com/album/2YjdIxfTnEMMWL436k0hAR) | 2:49 | 2023-09-21 | 2023-10-20 |
 | [Tää on se kesä \(feat\. Juno\)](https://open.spotify.com/track/4zFkX52MQGSqrkLHLvRhmG) | [TuuriUli](https://open.spotify.com/artist/4bdVhqWUYJo5n6evj621t7), [Juno](https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9) | [Tää on se kesä \(feat\. Juno\)](https://open.spotify.com/album/4nG0mFMKgm0KMZxCbH2T34) | 3:09 | 2024-05-09 | 2024-07-02 |

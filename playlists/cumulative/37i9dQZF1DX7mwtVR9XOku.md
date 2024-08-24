@@ -4,7 +4,7 @@
 
 > Déjate arrullar por estas apacibles melodías clásicas.
 
-86 songs - 4 hr 15 min
+87 songs - 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Late](https://open.spotify.com/track/617B8BzRj0qN4cx8ITXV5B) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/6kczD163sXLW0Z8P42laJ6) | 3:18 | 2023-03-31 | 2024-04-19 |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2023-03-31 | 2023-11-03 |
 | [Late](https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Late](https://open.spotify.com/album/5t53hTakFJn6VnwBQnfd5f) | 3:18 | 2023-03-31 |  |
+| [Lily’s Lullaby](https://open.spotify.com/track/3oXl4DnBBGeGhXjHmSSMpU) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Lily’s Lullaby](https://open.spotify.com/album/42F0b6Sj5NZ7QzRhhHRMAC) | 3:59 | 2024-08-23 |  |
 | [Lost In Thought](https://open.spotify.com/track/7LU7XMeV4RkmimgQobn1kY) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Oak](https://open.spotify.com/album/1SQPvjJ95QTU9BikQfYdkb) | 1:30 | 2023-03-31 |  |
 | [Lullaby For Nick](https://open.spotify.com/track/3WA6G5I5pfVR2NG7xvngZu) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Tamara Anna Cislowska](https://open.spotify.com/artist/6qq0PaNoOuhPsYtUtsxRQs) | [Butterflying: Piano Music By Elena Kats\-Chernin](https://open.spotify.com/album/5VDfSISCsDgMMOIBvoKLRp) | 3:23 | 2023-03-31 |  |
 | [Lullaby for Nick](https://open.spotify.com/track/3sSGalPwfFt0XiNnYx7fBB) | [Elena Kats\-Chernin](https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk), [Tamara Anna Cislowska](https://open.spotify.com/artist/6qq0PaNoOuhPsYtUtsxRQs) | [Butterflying: Piano Music of Elena Kats\-Chernin](https://open.spotify.com/album/1r7qNZsIrYhszVnFp92pv9) | 3:23 | 2023-03-31 | 2024-04-19 |

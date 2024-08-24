@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 321114,
+  "num_followers": 321309,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-08-14 19:26:18",
       "album": {
-        "name": "Entre Borboletas e Avi\u00f5es",
-        "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        },
-        {
-          "name": "Falamansa",
-          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
-        }
-      ],
-      "duration_ms": 207808,
-      "name": "Rede no Coqueiro",
-      "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
-    },
-    {
-      "added_at": "2024-08-14 19:26:18",
-      "album": {
         "name": "Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/2pKxo9wod5y9eKezCaCK3Q"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 174858,
       "name": "pequena - Ao Vivo",
       "url": "https://open.spotify.com/track/5EqU0CRq0k4ZRg95lRoxRp"
+    },
+    {
+      "added_at": "2024-08-14 19:26:18",
+      "album": {
+        "name": "Entre Borboletas e Avi\u00f5es",
+        "url": "https://open.spotify.com/album/6YnU3FIZ2JZ5dNkU0TkpIC"
+      },
+      "artists": [
+        {
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 207808,
+      "name": "Rede no Coqueiro",
+      "url": "https://open.spotify.com/track/4MUJnjOOaAlitUZKduaw3Q"
     },
     {
       "added_at": "2024-08-14 19:26:18",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-08-14 19:26:18",
       "album": {
-        "name": "Clareza",
-        "url": "https://open.spotify.com/album/72PbniAoRMR2dY3X6bpvju"
-      },
-      "artists": [
-        {
-          "name": "Lacerda Canta",
-          "url": "https://open.spotify.com/artist/1Zzc5eVfg8mxTItATqjZiq"
-        }
-      ],
-      "duration_ms": 178916,
-      "name": "Clareza",
-      "url": "https://open.spotify.com/track/5ZjNs81TkLa6LA2TZK6nP8"
-    },
-    {
-      "added_at": "2024-08-14 19:26:18",
-      "album": {
         "name": "Uma Noite E 1/2",
         "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 232353,
       "name": "Saquarema - Remix",
       "url": "https://open.spotify.com/track/3UroqLcI69FDBw4l41iVGO"
+    },
+    {
+      "added_at": "2024-08-14 19:26:18",
+      "album": {
+        "name": "Clareza",
+        "url": "https://open.spotify.com/album/72PbniAoRMR2dY3X6bpvju"
+      },
+      "artists": [
+        {
+          "name": "Lacerda Canta",
+          "url": "https://open.spotify.com/artist/1Zzc5eVfg8mxTItATqjZiq"
+        }
+      ],
+      "duration_ms": 178916,
+      "name": "Clareza",
+      "url": "https://open.spotify.com/track/5ZjNs81TkLa6LA2TZK6nP8"
     },
     {
       "added_at": "2024-08-14 19:26:18",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-08-14 19:26:18",
       "album": {
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+      },
+      "artists": [
+        {
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+    },
+    {
+      "added_at": "2024-08-14 19:26:18",
+      "album": {
         "name": "Vou Agradecer",
         "url": "https://open.spotify.com/album/41TqnxKqqb5N0HlkVlBk0A"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 219538,
       "name": "Vou Agradecer",
       "url": "https://open.spotify.com/track/6FpK0zclfVVqFBQHxxp4cl"
-    },
-    {
-      "added_at": "2024-08-14 19:26:18",
-      "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
-      },
-      "artists": [
-        {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2024-08-14 19:26:18",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-08-14 19:26:18",
       "album": {
+        "name": "Santa Terra",
+        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
+      },
+      "artists": [
+        {
+          "name": "Qback",
+          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
+        }
+      ],
+      "duration_ms": 276509,
+      "name": "Santa Terra",
+      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
+    },
+    {
+      "added_at": "2024-08-14 19:26:18",
+      "album": {
         "name": "Terra do Sol",
         "url": "https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 153253,
       "name": "Terra do Sol",
       "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
-    },
-    {
-      "added_at": "2024-08-14 19:26:18",
-      "album": {
-        "name": "Santa Terra",
-        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
-      },
-      "artists": [
-        {
-          "name": "Qback",
-          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
-        }
-      ],
-      "duration_ms": 276509,
-      "name": "Santa Terra",
-      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
     },
     {
       "added_at": "2024-08-14 19:26:18",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-08-14 19:26:18",
       "album": {
-        "name": "Coletivo (Remasterizado)",
-        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
-      },
-      "artists": [
-        {
-          "name": "Amaro Lima",
-          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
-        }
-      ],
-      "duration_ms": 254858,
-      "name": "Na Jornada - Remasterizado",
-      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
-    },
-    {
-      "added_at": "2024-08-14 19:26:18",
-      "album": {
         "name": "Corri Demais",
         "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 178470,
       "name": "Corri Demais",
       "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+    },
+    {
+      "added_at": "2024-08-14 19:26:18",
+      "album": {
+        "name": "Coletivo (Remasterizado)",
+        "url": "https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G"
+      },
+      "artists": [
+        {
+          "name": "Amaro Lima",
+          "url": "https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag"
+        }
+      ],
+      "duration_ms": 254858,
+      "name": "Na Jornada - Remasterizado",
+      "url": "https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s"
     },
     {
       "added_at": "2024-08-14 19:26:18",

@@ -1,62 +1,18 @@
 {
-  "description": "Chill r&b vibes for your most relaxed moods. Cover: Leon Thomas",
-  "num_followers": 2350781,
+  "description": "Chill r&b vibes for your most relaxed moods. Cover: ELHAE & Xavier Om\u00e4r ",
+  "num_followers": 2350900,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAAANse/38MF3rrGIIK6vv+py",
+  "snapshot_id": "ZsgYfQAAAACQlJ5lRNhgUNdvRsXCr3rb",
   "tracks": [
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-23 05:05:01",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
-    },
-    {
-      "added_at": "2024-06-14 06:33:56",
-      "album": {
-        "name": "Why Lawd?",
-        "url": "https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe"
-      },
-      "artists": [
-        {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 254395,
-      "name": "KeepHer (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/0idhCXzizPkiwfUnhM28ld"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Luv 4 U",
-        "url": "https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO"
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/2O5nHhevgApYSTlSgyVcbg"
       },
       "artists": [
         {
@@ -68,9 +24,9 @@
           "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
         }
       ],
-      "duration_ms": 186493,
-      "name": "Luv 4 U",
-      "url": "https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D"
+      "duration_ms": 200920,
+      "name": "It's All There (Secrets)",
+      "url": "https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -107,6 +63,66 @@
       "duration_ms": 269055,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/7gqM91bnZpu2hmylITqpFU"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "added_at": "2024-08-23 05:05:01",
+      "album": {
+        "name": "Light Work",
+        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 217304,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+    },
+    {
+      "added_at": "2024-06-14 06:33:56",
+      "album": {
+        "name": "Why Lawd?",
+        "url": "https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 254395,
+      "name": "KeepHer (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/0idhCXzizPkiwfUnhM28ld"
     },
     {
       "added_at": "2024-07-19 04:04:58",
@@ -237,6 +253,66 @@
       "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
     },
     {
+      "added_at": "2024-06-14 06:33:56",
+      "album": {
+        "name": "INDUSTREETS",
+        "url": "https://open.spotify.com/album/2W5e5gmkBCGydBo2DzZ9OH"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "SHOW N PROVE",
+          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "Sugar (feat. Larry June & SHOW N PROVE)",
+      "url": "https://open.spotify.com/track/4A6hQhA11OwQhvN37bOu5Q"
+    },
+    {
+      "added_at": "2024-08-23 05:05:01",
+      "album": {
+        "name": "Kissing In Da Club",
+        "url": "https://open.spotify.com/album/5NqEMtMuEbO6RGgHOfJ9sP"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 147317,
+      "name": "Kissing In Da Club",
+      "url": "https://open.spotify.com/track/4S54f2Nkw5F44UA2ib54CA"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Luv 4 U",
+        "url": "https://open.spotify.com/album/4RaeK1e4NRNJcD0wrMr2SO"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Luv 4 U",
+      "url": "https://open.spotify.com/track/7G8ikmLayId5II6mKYnz9D"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Trouble In Paradise",
@@ -271,30 +347,6 @@
       "duration_ms": 182666,
       "name": "Check - Acoustic",
       "url": "https://open.spotify.com/track/7x72giFAlEjZUKt06VjeUk"
-    },
-    {
-      "added_at": "2024-06-14 06:33:56",
-      "album": {
-        "name": "INDUSTREETS",
-        "url": "https://open.spotify.com/album/2W5e5gmkBCGydBo2DzZ9OH"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "SHOW N PROVE",
-          "url": "https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        }
-      ],
-      "duration_ms": 179310,
-      "name": "Sugar (feat. Larry June & SHOW N PROVE)",
-      "url": "https://open.spotify.com/track/4A6hQhA11OwQhvN37bOu5Q"
     },
     {
       "added_at": "2024-06-14 06:33:56",
@@ -343,6 +395,22 @@
       "duration_ms": 247526,
       "name": "Think Different",
       "url": "https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Bird's Eye",
+        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "From Scratch",
+      "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -399,34 +467,38 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "guidance",
-        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
+        "name": "Sophcore",
+        "url": "https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
         }
       ],
-      "duration_ms": 215198,
-      "name": "guidance",
-      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
+      "duration_ms": 215360,
+      "name": "Hey Girl",
+      "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Bird's Eye",
-        "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
+        "name": "STANK ROSE",
+        "url": "https://open.spotify.com/album/07aNXc0N6OAAV4Y54QlMqE"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 205773,
-      "name": "From Scratch",
-      "url": "https://open.spotify.com/track/1OimzlKVRx75TZtPZiGAGK"
+      "duration_ms": 186346,
+      "name": "STANK ROSE",
+      "url": "https://open.spotify.com/track/3UgGcXBLByVMxC1SDZwcLO"
     },
     {
       "added_at": "2024-07-19 04:04:58",
@@ -459,42 +531,6 @@
       "duration_ms": 268875,
       "name": "Cranes in the Sky - Spotify Singles",
       "url": "https://open.spotify.com/track/0vtTKF9vZSaPY81sNHwpz4"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "STANK ROSE",
-        "url": "https://open.spotify.com/album/07aNXc0N6OAAV4Y54QlMqE"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 186346,
-      "name": "STANK ROSE",
-      "url": "https://open.spotify.com/track/3UgGcXBLByVMxC1SDZwcLO"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Sophcore",
-        "url": "https://open.spotify.com/album/72ocR4sSbkz2XT5eIA5c1h"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Hey Girl",
-      "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -621,6 +657,26 @@
       "url": "https://open.spotify.com/track/4EBmRDnoPHS8CnumK8tVv8"
     },
     {
+      "added_at": "2024-08-23 05:05:01",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/1VzeUh3hvVCkFW3G7TAr8F"
+      },
+      "artists": [
+        {
+          "name": "Lyrica Anderson",
+          "url": "https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh"
+        },
+        {
+          "name": "11:11",
+          "url": "https://open.spotify.com/artist/5gsyao2Qm21EKylbVIuRQ3"
+        }
+      ],
+      "duration_ms": 171154,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/25AgUosXE7BMGq2TE9P58J"
+    },
+    {
       "added_at": "2024-07-19 04:04:58",
       "album": {
         "name": "Ground",
@@ -635,6 +691,22 @@
       "duration_ms": 182093,
       "name": "Ground",
       "url": "https://open.spotify.com/track/5O0EFJLBBQb0byw3t6ycw9"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "guidance",
+        "url": "https://open.spotify.com/album/7aC4TYECoF7QKtnJJz3LVs"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 215198,
+      "name": "guidance",
+      "url": "https://open.spotify.com/track/3rwIujhqyCP3v4mXI7eWN3"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -819,34 +891,6 @@
       "duration_ms": 179571,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/4Z973kxz9iOlxwTlCDskpl"
-    },
-    {
-      "added_at": "2024-06-14 06:33:56",
-      "album": {
-        "name": "Why Lawd?",
-        "url": "https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe"
-      },
-      "artists": [
-        {
-          "name": "NxWorries",
-          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        },
-        {
-          "name": "Rae Khalil",
-          "url": "https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq"
-        }
-      ],
-      "duration_ms": 206383,
-      "name": "OutTheWay (feat. Rae Khalil)",
-      "url": "https://open.spotify.com/track/0IPG2jOqjMz3PAIeh4NhXW"
     },
     {
       "added_at": "2024-05-03 15:06:51",
@@ -1471,30 +1515,6 @@
       "duration_ms": 160581,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/2ZqOCKuFkKhAZDRYI90EHb"
-    },
-    {
-      "added_at": "2024-06-07 11:27:49",
-      "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 230823,
-      "name": "Do 2 Me (feat. Anderson .Paak & SiR)",
-      "url": "https://open.spotify.com/track/5J75NvHDMTbJtLqym6CXuI"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2265,22 +2285,6 @@
       "url": "https://open.spotify.com/track/1LWfSjRW9AS4mWnO67bdYp"
     },
     {
-      "added_at": "2023-10-20 21:56:24",
-      "album": {
-        "name": "Marking My Time",
-        "url": "https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 161529,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Heaven",
@@ -2327,22 +2331,6 @@
       "duration_ms": 165933,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/7bA2I7BtpuuxPwQE91nBUM"
-    },
-    {
-      "added_at": "2024-02-10 19:21:19",
-      "album": {
-        "name": "Bad M'fkr",
-        "url": "https://open.spotify.com/album/31Fsbdngq7zJf19UVMycdE"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        }
-      ],
-      "duration_ms": 218698,
-      "name": "Bad M'fkr",
-      "url": "https://open.spotify.com/track/37o1LWelGPbIdcf8YGMBP5"
     },
     {
       "added_at": "2024-03-01 05:05:58",
@@ -2431,22 +2419,6 @@
       "duration_ms": 189257,
       "name": "Regardless",
       "url": "https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2023-10-20 21:56:24",
@@ -2651,22 +2623,6 @@
       "duration_ms": 216436,
       "name": "How Does It Make You Feel",
       "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Be My Summer",
-        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
-      },
-      "artists": [
-        {
-          "name": "Snoh Aalegra",
-          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
-        }
-      ],
-      "duration_ms": 186540,
-      "name": "Be My Summer",
-      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
     },
     {
       "added_at": "2023-09-15 04:00:00",

@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "SMITE 2 (Official Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3rqJtPHoRHCMQ4iv06UHfk"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169666,
+      "name": "Divine Overture (Main Theme)",
+      "url": "https://open.spotify.com/track/6eXw5tf0oLrJRowzaOetc0"
+    },
+    {
+      "album": {
         "name": "The Elder Scrolls V: Skyrim: Original Game Soundtrack",
         "url": "https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4"
       },

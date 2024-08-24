@@ -2,9 +2,9 @@
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 
-> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: La Vida Bohème
+> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-93 songs - 5 hr 16 min
+95 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,14 +24,15 @@
 | [Cien Pies](https://open.spotify.com/track/5nbQMMaFw4YPu9HdSQzB0G) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Cien Pies](https://open.spotify.com/album/57ew0qDZTLwGTQmNWacPUc) | 2:24 | 2023-11-17 |  |
 | [Ciudad Espanto](https://open.spotify.com/track/1LaVxGRKECxCucel5Gs8tt) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki) | [Muchachito Roto](https://open.spotify.com/album/59EbB1Kyy8ThhlY9QJFPev) | 3:13 | 2023-09-22 |  |
 | [Claroscuro](https://open.spotify.com/track/5p5AhrRFj9HUaxqDXDL5rh) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Claroscuro](https://open.spotify.com/album/7yfdxsGFK68Q5P2kGaqK3Y) | 3:04 | 2023-09-22 | 2023-10-21 |
-| [coral](https://open.spotify.com/track/3UOo8zf78epJdsoFo50AOF) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [coral](https://open.spotify.com/album/78K4xSAjShKybDLVkkWH6J) | 3:47 | 2023-09-22 |  |
+| [coral](https://open.spotify.com/track/3UOo8zf78epJdsoFo50AOF) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [coral](https://open.spotify.com/album/78K4xSAjShKybDLVkkWH6J) | 3:47 | 2023-09-22 | 2024-08-24 |
 | [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 | 2023-09-22 |  |
 | [Corolla 94](https://open.spotify.com/track/2n9rhvlYHPaMEFOmw5Y1QX) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/0ntx5OUeKXWlmEiXHh7jXN) | 3:21 | 2023-10-20 | 2024-04-19 |
-| [Corriendo](https://open.spotify.com/track/19B8jai2irsTUVsJxGhRTR) | [Canales Nacionales](https://open.spotify.com/artist/6IKWIwAANTdlk5fSh2PBDJ) | [Corriendo](https://open.spotify.com/album/1oF3W8fNMxBs4u7sbKLZJe) | 3:47 | 2023-09-22 |  |
+| [Corriendo](https://open.spotify.com/track/19B8jai2irsTUVsJxGhRTR) | [Canales Nacionales](https://open.spotify.com/artist/6IKWIwAANTdlk5fSh2PBDJ) | [Corriendo](https://open.spotify.com/album/1oF3W8fNMxBs4u7sbKLZJe) | 3:47 | 2023-09-22 | 2024-08-24 |
 | [De Cabeza](https://open.spotify.com/track/6g7J0GQZ0CEbJoLP6JDAug) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [De Cabeza](https://open.spotify.com/album/5sAfBwkvC5h66RxrWswRRY) | 2:54 | 2024-03-01 |  |
 | [De Maravilla](https://open.spotify.com/track/7osWLKq6j6KxoMT03EdvHv) | [The Vue](https://open.spotify.com/artist/1bCVI2X0v8Ext3IXFNd0oY) | [Las Cosas Que No Dije \(LCQND\)](https://open.spotify.com/album/2uC2X3vkFU4hLmRUPKWZ98) | 3:22 | 2023-09-22 | 2023-10-14 |
 | [Desprevenido](https://open.spotify.com/track/2iJwRkYxLQ5qK3yCPOHYYK) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Desprevenido](https://open.spotify.com/album/5b7GmiY0WfSAAPDdfI4Hoh) | 3:17 | 2023-09-22 | 2024-02-24 |
 | [Destino](https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Destino](https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p) | 3:56 | 2023-09-22 |  |
+| [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 | 2024-08-23 |  |
 | [Déjame Ir \- Sesión En Vivo](https://open.spotify.com/track/3jWsQr0g2beZgdaWj1Pv0y) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Déjame Ir \(Sesión En Vivo\)](https://open.spotify.com/album/6rH83cKM2JX2Mp2xg9PeMJ) | 3:19 | 2024-05-17 |  |
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2023-09-22 |  |
 | [El Amor Es un Juego de Perdedores](https://open.spotify.com/track/1iPK5UXUetYDBRoDgwjvHA) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [El Amor Es un Juego de Perdedores](https://open.spotify.com/album/1Xxs2T7CHUycFvPg7rj2La) | 3:28 | 2024-05-17 |  |
@@ -42,6 +43,7 @@
 | [Este Momento](https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM) | 3:45 | 2023-09-22 | 2023-11-18 |
 | [Estrella](https://open.spotify.com/track/6rEtb8R6eV1bSOJEx5Um9v) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj) | [Blanca](https://open.spotify.com/album/7duIH01tOo9sohniGvpX7y) | 3:18 | 2023-09-22 |  |
 | [Fighting Ghosts](https://open.spotify.com/track/3zB85E2AyFwv90Bo3MOHY5) | [No Stories](https://open.spotify.com/artist/0mbkM3QZtS7hm3M1peCnPc) | [Fighting Ghosts](https://open.spotify.com/album/7BgbqiWI2lp6U3tfpXqiU1) | 3:13 | 2023-09-22 |  |
+| [Florecer Contigo](https://open.spotify.com/track/7BizyJuwuuRYp4hnExnO16) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Florecer Contigo](https://open.spotify.com/album/60u8fR1xRaw7SWKIn0J3XG) | 2:47 | 2024-08-23 |  |
 | [Gravity](https://open.spotify.com/track/1uZjGWW5zZ7W0NKuxcCPp1) | [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws), [Amantina](https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7), [San Pedro Bonfim](https://open.spotify.com/artist/2zgWIWNakYzjY1IJaj6QFp) | [Gravity](https://open.spotify.com/album/6CsC1YU6PlbzRCV9pWpbFT) | 3:12 | 2023-09-22 |  |
 | [Génesis](https://open.spotify.com/track/3RwaAtM12WAUgfUcYVqNF1) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Génesis](https://open.spotify.com/album/05a8mBM0Y8jviCgp84igyN) | 2:25 | 2023-09-22 |  |
 | [He Venido al Mar \- short mix](https://open.spotify.com/track/5IYgKrYcxbCzM2PQCtA7X8) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [He Venido al Mar](https://open.spotify.com/album/1qv5Iknhk3yL2GYS8AWsI4) | 5:40 | 2024-05-17 |  |

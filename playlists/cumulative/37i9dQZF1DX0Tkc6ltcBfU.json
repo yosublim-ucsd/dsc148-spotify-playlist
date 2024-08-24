@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the south. Cover: BossMan Dlow",
+  "description": "The hottest out the south. Cover: Young Thug",
   "name": "No Cap",
   "tracks": [
     {
@@ -86,6 +86,24 @@
       "duration_ms": 199453,
       "name": "100 or Nun (feat. Tony Shhnow)",
       "url": "https://open.spotify.com/track/0U6ZKypkSptN2Zlhtkbvj6"
+    },
+    {
+      "album": {
+        "name": "12 Got My Jewelry",
+        "url": "https://open.spotify.com/album/5B5tO3CyvJp06WsEcG3XST"
+      },
+      "artists": [
+        {
+          "name": "Yung Mal",
+          "url": "https://open.spotify.com/artist/6m0MLa2Q5RwIF8R7nwQkQ2"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "12 Got My Jewelry",
+      "url": "https://open.spotify.com/track/6fdkZwtRTFwpURgKeq9QEv"
     },
     {
       "album": {
@@ -758,6 +776,28 @@
       "duration_ms": 175118,
       "name": "6 Months (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/15MObTsMBIdr35hEa4Fgz4"
+    },
+    {
+      "album": {
+        "name": "Mr. Skii",
+        "url": "https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183491,
+      "name": "7 AM in Munich (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3t8MGSsf0IpjpIt1XyLOBP"
     },
     {
       "album": {
@@ -1756,7 +1796,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 133386,
       "name": "ATM",
       "url": "https://open.spotify.com/track/5LDfQCmBF4gkFtjzNWCKDS"
@@ -2951,6 +2991,28 @@
     },
     {
       "album": {
+        "name": "Bigger Than Yo Block (feat. Peezy)",
+        "url": "https://open.spotify.com/album/4vQFYIsMN3d8IIb7B0vGH4"
+      },
+      "artists": [
+        {
+          "name": "King Hendrick$",
+          "url": "https://open.spotify.com/artist/6RiCLOQGyUOBm2H4obkif7"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220235,
+      "name": "Bigger Than Yo Block (feat. Peezy)",
+      "url": "https://open.spotify.com/track/1001xczRtgAyMORz3BdXmD"
+    },
+    {
+      "album": {
         "name": "GHETTO GODS",
         "url": "https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v"
       },
@@ -3570,6 +3632,24 @@
       "duration_ms": 123651,
       "name": "BOOK IT",
       "url": "https://open.spotify.com/track/0tJQdCQmrhviw9qfbDOlVC"
+    },
+    {
+      "album": {
+        "name": "BOOM BAP",
+        "url": "https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134522,
+      "name": "BOOM BAP",
+      "url": "https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D"
     },
     {
       "album": {
@@ -5008,7 +5088,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 170000,
       "name": "Choppa, Cock It, Pop It",
       "url": "https://open.spotify.com/track/1pqDDkeuiRFfxr2JdaidMT"
@@ -5740,7 +5820,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 187895,
       "name": "Could've Been Me",
       "url": "https://open.spotify.com/track/4kELqlhTezaIEHjGu4zgQT"
@@ -6494,7 +6574,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 185098,
       "name": "Die For Me (feat. SoFaygo)",
       "url": "https://open.spotify.com/track/6X89NsO4HtYKJpghkm19Y4"
@@ -7322,6 +7402,24 @@
       "duration_ms": 133475,
       "name": "DROP TOP",
       "url": "https://open.spotify.com/track/5LF0f602GWSAxZfmwRvUUI"
+    },
+    {
+      "album": {
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208487,
+      "name": "Drugs You Should Try It",
+      "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
     },
     {
       "album": {
@@ -8390,6 +8488,28 @@
       "duration_ms": 124917,
       "name": "Fires",
       "url": "https://open.spotify.com/track/7tuplUZWycOudn832iuQk3"
+    },
+    {
+      "album": {
+        "name": "Welcome Home",
+        "url": "https://open.spotify.com/album/2r1jieCXAc0NSjmqWzJMsC"
+      },
+      "artists": [
+        {
+          "name": "Ralo",
+          "url": "https://open.spotify.com/artist/6Z99p0M73gzZSHQ1FlonCi"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "First 48 (feat. Key Glock)",
+      "url": "https://open.spotify.com/track/73aThC0dgBpmSWLGLgAwaZ"
     },
     {
       "album": {
@@ -9916,6 +10036,24 @@
       "duration_ms": 191626,
       "name": "Gin & Juice (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/2EA5h6XD8KB070waaoclje"
+    },
+    {
+      "album": {
+        "name": "GIRLS GONE WILD",
+        "url": "https://open.spotify.com/album/7q2C8SwFYTyWCspWExMsZN"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141413,
+      "name": "GIRLS GONE WILD",
+      "url": "https://open.spotify.com/track/5nRyvWHWIb2F0CzIQfbaUr"
     },
     {
       "album": {
@@ -11454,7 +11592,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 193246,
       "name": "Hit Stick",
       "url": "https://open.spotify.com/track/0tBESQdomKNyQQQk32nfA4"
@@ -13799,6 +13937,24 @@
     },
     {
       "album": {
+        "name": "Keep It Gangsta",
+        "url": "https://open.spotify.com/album/5oa7tFoUkKgWPqyTUpubtR"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135254,
+      "name": "Keep It Gangsta",
+      "url": "https://open.spotify.com/track/4YeYNpm9FIOfPWuxEjltIr"
+    },
+    {
+      "album": {
         "name": "Hard To Love",
         "url": "https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol"
       },
@@ -13916,6 +14072,24 @@
       "duration_ms": 202257,
       "name": "KICK DOOR",
       "url": "https://open.spotify.com/track/3hrNmOrVieY0t27DijFfYH"
+    },
+    {
+      "album": {
+        "name": "Greatest Of All Trappers - Gangsta Grillz Edition",
+        "url": "https://open.spotify.com/album/2YaNo3GoShVwNxP7nEPrPD"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168447,
+      "name": "Kicked In",
+      "url": "https://open.spotify.com/track/0hpbQsGA9tQm8T5Irms59n"
     },
     {
       "album": {
@@ -15818,7 +15992,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 186153,
       "name": "Making Love to the Money, Pt. 2",
       "url": "https://open.spotify.com/track/2vIBggistn1NuGJJCY2Fer"
@@ -15910,6 +16084,32 @@
       "duration_ms": 160000,
       "name": "Mama Tears",
       "url": "https://open.spotify.com/track/7vkobYR10Zmy5XQvKhNkrM"
+    },
+    {
+      "album": {
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272772,
+      "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
+      "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
     },
     {
       "album": {
@@ -16833,6 +17033,24 @@
     },
     {
       "album": {
+        "name": "Mr. Skii",
+        "url": "https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129938,
+      "name": "Mr. Skii",
+      "url": "https://open.spotify.com/track/2PwWZ6NySkxwGBx9A2x5Ke"
+    },
+    {
+      "album": {
         "name": "Mrs. Davis",
         "url": "https://open.spotify.com/album/6FVfrVKa2otpLyn5bVvHhR"
       },
@@ -17586,7 +17804,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 128132,
       "name": "NISSAN ALTIMA",
       "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
@@ -20116,7 +20334,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 178359,
       "name": "PJ (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C"
@@ -20708,7 +20926,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 181707,
       "name": "Priceless Smile",
       "url": "https://open.spotify.com/track/47qVdg2AD0XwKMKc8KmAP1"
@@ -21744,7 +21962,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 258579,
       "name": "Rich Niggaz",
       "url": "https://open.spotify.com/track/6JNDrnCTLgQKT6SW5NlYLz"
@@ -23133,6 +23351,24 @@
     },
     {
       "album": {
+        "name": "Shoot It Out - Versions",
+        "url": "https://open.spotify.com/album/0czYDZX3GMkKouZ5juPvFb"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128146,
+      "name": "Shoot It Out",
+      "url": "https://open.spotify.com/track/5hYEXv4i4saqJMo4YEv0Zq"
+    },
+    {
+      "album": {
         "name": "Shotta Flow 7",
         "url": "https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d"
       },
@@ -23170,6 +23406,32 @@
       "duration_ms": 186770,
       "name": "should've wore a bonnet",
       "url": "https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ"
+    },
+    {
+      "album": {
+        "name": "Show Dat Work (feat. GloRilla & Rob49)",
+        "url": "https://open.spotify.com/album/3h6UsC0h6zJXxNITr2OFqV"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222313,
+      "name": "Show Dat Work (feat. GloRilla & Rob49)",
+      "url": "https://open.spotify.com/track/3sQinkjMM30VKi3xMdHtA9"
     },
     {
       "album": {
@@ -23254,7 +23516,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 164373,
       "name": "Shrimp & Grits (feat. Young Nudy)",
       "url": "https://open.spotify.com/track/04yFP7f0TBeeIKs34TXvAP"
@@ -25880,7 +26142,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 132266,
       "name": "The Largest",
       "url": "https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz"
@@ -27152,7 +27414,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 246400,
       "name": "Type A N***a",
       "url": "https://open.spotify.com/track/2E5JwQRxlWVKs7OjRbMyFQ"
@@ -27536,6 +27798,32 @@
       "duration_ms": 149000,
       "name": "Unsigned Hype",
       "url": "https://open.spotify.com/track/7t5ua3XEUvaQ32EglBnRQR"
+    },
+    {
+      "album": {
+        "name": "WEE ARE WHO WE ARE",
+        "url": "https://open.spotify.com/album/2oeZwMMRmBnpjmkYGCQE2w"
+      },
+      "artists": [
+        {
+          "name": "Lil Poppa",
+          "url": "https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg"
+        },
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "Webbie",
+          "url": "https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273865,
+      "name": "Untamed (feat. Boosie Badazz & Webbie)",
+      "url": "https://open.spotify.com/track/0UbYsK2PtWDOT624SiHVKx"
     },
     {
       "album": {
@@ -29840,7 +30128,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 158932,
       "name": "Young Nigga",
       "url": "https://open.spotify.com/track/3CtG8IYfUxwBtNduMjCFTE"

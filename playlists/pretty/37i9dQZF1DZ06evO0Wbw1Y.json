@@ -1,12 +1,12 @@
 {
   "description": "This Is Ventino. Los temas esenciales, todos en una lista.",
-  "num_followers": 28941,
+  "num_followers": 28944,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAADmtSsyqqK4J6qZJJTEUYKK",
+  "snapshot_id": "ZsZ/gAAAAACCve+YZ4ZR/q98sh82SxjL",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Qu\u00e9 Te Vas",
-        "url": "https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 201190,
-      "name": "Por Qu\u00e9 Te Vas",
-      "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cosas Pendientes",
         "url": "https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 181253,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Qu\u00e9 Te Vas",
+        "url": "https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 201190,
+      "name": "Por Qu\u00e9 Te Vas",
+      "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
     },
     {
       "added_at": null,
@@ -683,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Popurr\u00ed de Juan Gabriel",
+        "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
+        },
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 294653,
+      "name": "Popurr\u00ed de Juan Gabriel",
+      "url": "https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para No Esperarte M\u00e1s",
         "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 168645,
       "name": "De 0 a 100",
       "url": "https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Popurr\u00ed de Juan Gabriel",
-        "url": "https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
-        },
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 294653,
-      "name": "Popurr\u00ed de Juan Gabriel",
-      "url": "https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0"
     },
     {
       "added_at": null,

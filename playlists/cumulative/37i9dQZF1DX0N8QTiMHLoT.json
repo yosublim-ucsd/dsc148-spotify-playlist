@@ -255,6 +255,36 @@
     },
     {
       "album": {
+        "name": "Bringing It Down to the Bass",
+        "url": "https://open.spotify.com/album/6C1mIWAOf4vlhWExDH6Zir"
+      },
+      "artists": [
+        {
+          "name": "Tony Levin",
+          "url": "https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH"
+        },
+        {
+          "name": "Dominic Miller",
+          "url": "https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL"
+        },
+        {
+          "name": "Manu Katch\u00e9",
+          "url": "https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy"
+        },
+        {
+          "name": "Alex Foster",
+          "url": "https://open.spotify.com/artist/1FOmilcr94cgU8VTgZ02RV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334160,
+      "name": "Bringing It Down to the Bass",
+      "url": "https://open.spotify.com/track/03wJyKd87QKIz3q2KnPIjm"
+    },
+    {
+      "album": {
         "name": "Electric Wood",
         "url": "https://open.spotify.com/album/6BPszTAxgfBXZZco1IOkdu"
       },

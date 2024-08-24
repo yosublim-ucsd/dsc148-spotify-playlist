@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-603 songs - 1 day 2 hr 9 min
+604 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2022-04-22 | 2024-04-16 |
 | [Luna piena](https://open.spotify.com/track/5YwXUOcRaJNOoEImMYLIfu) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Luna piena](https://open.spotify.com/album/2cP8f6LAElBMVU8epr2t5V) | 2:50 | 2022-04-22 | 2023-04-19 |
 | [Luz](https://open.spotify.com/track/16LPouz5bGb5gh4jerSRYi) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [Luz](https://open.spotify.com/album/6FYr3rZ3L5e7VmpUaDfMzd) | 2:33 | 2022-04-22 | 2024-04-16 |
+| [Lyon](https://open.spotify.com/track/5ma2pRU2IrZ29Tca6tdHpS) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [Lyon](https://open.spotify.com/album/4zD3Vo5cUhyduQYYr0CGyF) | 3:05 | 2024-08-23 |  |
 | [Lämna](https://open.spotify.com/track/3CQN71R8GSjtdBKodHBai2) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Lämna](https://open.spotify.com/album/3KGZgOnsQPjHYVHF4vAMni) | 3:15 | 2022-04-22 | 2022-09-16 |
 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-04-22 | 2024-07-30 |
 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 | 2022-04-22 | 2024-02-14 |

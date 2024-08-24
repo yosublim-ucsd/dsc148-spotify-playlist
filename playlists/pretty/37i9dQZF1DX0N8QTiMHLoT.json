@@ -1,13 +1,41 @@
 {
   "description": "Because bass. Cover: Victor Wooten",
-  "num_followers": 147259,
+  "num_followers": 147287,
   "original_name": "Bottoms Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZowxAAAAAADGmvy3PaOem08wpcjPDVbf",
+  "snapshot_id": "ZsgJQAAAAAC/Nb+ycwoXZ8dQBZi51BkZ",
   "tracks": [
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Bringing It Down to the Bass",
+        "url": "https://open.spotify.com/album/6C1mIWAOf4vlhWExDH6Zir"
+      },
+      "artists": [
+        {
+          "name": "Tony Levin",
+          "url": "https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH"
+        },
+        {
+          "name": "Dominic Miller",
+          "url": "https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL"
+        },
+        {
+          "name": "Manu Katch\u00e9",
+          "url": "https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy"
+        },
+        {
+          "name": "Alex Foster",
+          "url": "https://open.spotify.com/artist/1FOmilcr94cgU8VTgZ02RV"
+        }
+      ],
+      "duration_ms": 334160,
+      "name": "Bringing It Down to the Bass",
+      "url": "https://open.spotify.com/track/03wJyKd87QKIz3q2KnPIjm"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {

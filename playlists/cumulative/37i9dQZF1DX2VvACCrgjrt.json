@@ -2341,6 +2341,32 @@
     },
     {
       "album": {
+        "name": "Brain On Drugs",
+        "url": "https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214326,
+      "name": "Brain On Drugs",
+      "url": "https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y"
+    },
+    {
+      "album": {
         "name": "Break (My Heart)",
         "url": "https://open.spotify.com/album/1QaVW8SMjc5blQdgWsSxXk"
       },
@@ -6181,6 +6207,28 @@
     },
     {
       "album": {
+        "name": "Get It Right",
+        "url": "https://open.spotify.com/album/0TVtQVw8WoiqutXeubiGiN"
+      },
+      "artists": [
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        },
+        {
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165354,
+      "name": "Get It Right",
+      "url": "https://open.spotify.com/track/2IvtQzqvs8vmQBEeszvh1k"
+    },
+    {
+      "album": {
         "name": "Get My Mind Right",
         "url": "https://open.spotify.com/album/0axqQkX4vj2RegEqoZ13q2"
       },
@@ -6196,6 +6244,24 @@
       "duration_ms": 231428,
       "name": "Get My Mind Right",
       "url": "https://open.spotify.com/track/5vDBcy4bP6ZyECZYwziFWJ"
+    },
+    {
+      "album": {
+        "name": "Get on the Floor",
+        "url": "https://open.spotify.com/album/2E3DkNSz31jdWJZ3ejO2AT"
+      },
+      "artists": [
+        {
+          "name": "Croatia Squad",
+          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "Get on the Floor",
+      "url": "https://open.spotify.com/track/2a3izLYRkbQ2XyacnA4bNt"
     },
     {
       "album": {
@@ -7660,7 +7726,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 168281,
       "name": "I Just Wanna",
       "url": "https://open.spotify.com/track/3PfFnAMDnkuDrTdXuz8W2L"
@@ -7952,7 +8018,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 196190,
       "name": "Intoxicated",
       "url": "https://open.spotify.com/track/31rfmss1bYtH3MxPGw6FwE"
@@ -8036,7 +8102,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 168750,
       "name": "It's A Vibe",
       "url": "https://open.spotify.com/track/1lF6fVuFGAT9EAkD0S04ql"
@@ -8390,7 +8456,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 143148,
       "name": "Kiss Like This",
       "url": "https://open.spotify.com/track/1VGFyQ88dFZXj1LUlkXnHC"
@@ -8704,7 +8770,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 209062,
       "name": "Let's Rock",
       "url": "https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt"
@@ -8802,6 +8868,28 @@
       "duration_ms": 170476,
       "name": "Lift",
       "url": "https://open.spotify.com/track/2dQYULMxZEMtMYpQ9j7hZz"
+    },
+    {
+      "album": {
+        "name": "Lift Off",
+        "url": "https://open.spotify.com/album/63PEpI6Ip1Mc9fldkuEkbY"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135238,
+      "name": "Lift Off",
+      "url": "https://open.spotify.com/track/2YfTrcUHlcOCoY2LJzga6H"
     },
     {
       "album": {
@@ -9160,7 +9248,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 196000,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/4dknK9wbrEGJx5S2Re8SgU"
@@ -10547,6 +10635,24 @@
     },
     {
       "album": {
+        "name": "New Testament",
+        "url": "https://open.spotify.com/album/7MIAsG7TLUJI9yNK474psh"
+      },
+      "artists": [
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0gtMx0Y0pkjuLYvmmCkyGE"
+    },
+    {
+      "album": {
         "name": "NO RULES",
         "url": "https://open.spotify.com/album/55SOheZmaTFPTrqCm3xhti"
       },
@@ -11348,6 +11454,32 @@
       "duration_ms": 203809,
       "name": "Out Of Time",
       "url": "https://open.spotify.com/track/3aTL9YroCEJ1em7VVOm9bK"
+    },
+    {
+      "album": {
+        "name": "Out Past 2",
+        "url": "https://open.spotify.com/album/0Wj9OJw633Op4VZiCVJERY"
+      },
+      "artists": [
+        {
+          "name": "Dances",
+          "url": "https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL"
+        },
+        {
+          "name": "AMPRS&ND",
+          "url": "https://open.spotify.com/artist/7Av5m3tbfqa4yzpvPPBNCK"
+        },
+        {
+          "name": "BLK&WHT",
+          "url": "https://open.spotify.com/artist/2C2HyiSzWJdRhsFRTTR9p8"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196533,
+      "name": "Out Past 2",
+      "url": "https://open.spotify.com/track/636DZcUk6YMmdG0rliLJ9H"
     },
     {
       "album": {
@@ -12610,7 +12742,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 153600,
       "name": "Riff",
       "url": "https://open.spotify.com/track/7xG6aGSYbas8SWYNtAJrPM"
@@ -13114,6 +13246,24 @@
       "duration_ms": 172800,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/7MD0m1CkFZqFZnPBXIBxPe"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/1KuAbt3xUbNmFK96gehnbs"
+      },
+      "artists": [
+        {
+          "name": "IILO",
+          "url": "https://open.spotify.com/artist/3b9lTEUWpg0CqrtDF8leUi"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172857,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6ISdwYvLVjNfxHXhCefeXi"
     },
     {
       "album": {
@@ -14728,7 +14878,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 166299,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/3ZgB2mUHXuESVEkidu9GDC"
@@ -15786,6 +15936,24 @@
       "duration_ms": 221413,
       "name": "Underground",
       "url": "https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW"
+    },
+    {
+      "album": {
+        "name": "underground",
+        "url": "https://open.spotify.com/album/4g8NXBEduciysz5gR2qHwL"
+      },
+      "artists": [
+        {
+          "name": "Syence",
+          "url": "https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "underground",
+      "url": "https://open.spotify.com/track/3CqDUah3hz637y9a2ERyNm"
     },
     {
       "album": {

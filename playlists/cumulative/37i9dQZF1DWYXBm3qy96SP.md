@@ -2,9 +2,9 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 世界中のロックシーンを彩る話題曲をチェック。Cover: The Linda Lindas
+> 世界中のロックシーンを彩る話題曲をチェック。Cover: Fontaines D.C.
 
-1,395 songs - 3 day 8 hr 8 min
+1,397 songs - 3 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 | 2023-03-16 | 2023-03-25 |
 | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5AzFP6taTTCZp0SU18jxpc) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/1dVLmx7MeskNv1bwe6MY8Y) | 3:56 | 2023-10-12 | 2023-10-20 |
 | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/track/5zxw8pF2P97NMSzGsdCgzg) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Carrie & Lowell & Cody \(Pendent\)](https://open.spotify.com/album/7Gu5f03bP20s7holoeIO3E) | 3:56 | 2023-10-12 | 2023-10-14 |
+| [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-23 |  |
 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 | 2023-09-28 | 2023-10-06 |
 | [CD Wallet](https://open.spotify.com/track/0699x8orNRyAhiYxyDjxdH) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [CD Wallet](https://open.spotify.com/album/4GuIkU3CHTJWwLYgXtRTtr) | 3:11 | 2024-02-08 | 2024-02-16 |
 | [Ceiling Fan/Piggy](https://open.spotify.com/track/4kfeEOMy1ba1K7gMdxYoXp) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Ceiling Fan/Piggy](https://open.spotify.com/album/2iHlPpnltsN7fpivWmudIY) | 4:19 | 2023-07-06 | 2023-07-14 |
@@ -380,7 +381,7 @@
 | [Drones](https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Drones](https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb) | 2:30 | 2023-03-23 | 2023-04-29 |
 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 | 2023-04-13 | 2023-12-30 |
 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 | 2023-03-16 | 2023-05-19 |
-| [Dull \(feat\. Softcult\)](https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dull \(feat\. Softcult\)](https://open.spotify.com/album/3gmtr45Lzb7GjzQFXe49C8) | 3:15 | 2024-08-15 |  |
+| [Dull \(feat\. Softcult\)](https://open.spotify.com/track/6tv37DbWSLe4Rik7CeYzOT) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Dull \(feat\. Softcult\)](https://open.spotify.com/album/3gmtr45Lzb7GjzQFXe49C8) | 3:15 | 2024-08-15 | 2024-08-24 |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-16 | 2023-06-04 |
 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 | 2024-01-25 | 2024-03-01 |
 | [DYWTYLM](https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [DYWTYLM](https://open.spotify.com/album/0xLXYxkjjIPfVFhbPWvCwy) | 4:00 | 2023-04-20 | 2023-05-28 |
@@ -622,6 +623,7 @@
 | [Immortal](https://open.spotify.com/track/3CzoVCSPGjuxwUyC3Md3g2) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Moment You Find Your Flame](https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v) | 3:10 | 2023-08-17 | 2023-08-25 |
 | [In Lieu Of Flowers](https://open.spotify.com/track/2unhGIxGgfLoRaMNohojiG) | [Aaron West and The Roaring Twenties](https://open.spotify.com/artist/59cc2f0IvGu6YVEtY4cS0p) | [In Lieu Of Flowers](https://open.spotify.com/album/4Yg0PZfWLX95iSQ0gP6bWn) | 4:25 | 2024-01-11 | 2024-01-19 |
 | [In My Head](https://open.spotify.com/track/3ryXl6OFAr9fzUpIjAnHIY) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [In My Head](https://open.spotify.com/album/0fAeiVQKeMPvewBk7UXsSm) | 2:52 | 2023-03-16 | 2023-05-26 |
+| [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-08-23 |  |
 | [In The Silence](https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 3:32 | 2023-08-10 | 2023-08-18 |
 | [In Your City](https://open.spotify.com/track/6eZj6copAxs0la9V8FTJmA) | [The Moving Stills](https://open.spotify.com/artist/5MXKeoHi08yq7nnRNe3t4w) | [Wabi Sabi](https://open.spotify.com/album/0kPjOeepHuRmHR43CtmUlD) | 3:21 | 2023-11-23 | 2023-12-01 |
 | [Infernoids](https://open.spotify.com/track/0pok6MZVjACv63B032iF7W) | [Adora](https://open.spotify.com/artist/6hlmeO5GSiAKHjBgZlKPmB) | [Infernoids \- Single](https://open.spotify.com/album/1UThdhct5a4WeVQc8croan) | 3:11 | 2024-05-16 | 2024-06-01 |
@@ -680,7 +682,7 @@
 | [LANGUAGE](https://open.spotify.com/track/13ynkovTAESCMefYh6MqIb) | [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [LANGUAGE](https://open.spotify.com/album/1Pu6wKzlEoCEMO2P2p5PeM) | 2:58 | 2023-06-22 | 2023-06-30 |
 | [Last Man In The World](https://open.spotify.com/track/4BO4583RpKU9ILHVvIR5vv) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Last Man In The World](https://open.spotify.com/album/44yyClOXbzPpTBhcUbsarK) | 2:42 | 2023-05-25 | 2023-06-16 |
 | [Last Night On Earth \- Single Version / Remastered 2024](https://open.spotify.com/track/7Ctp5UnoabCQ9MLG6v8eKw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Last Night On Earth](https://open.spotify.com/album/0JB2aNVc7mUlwwz5qdl9zM) | 4:15 | 2024-05-07 | 2024-05-16 |
-| [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-11 |  |
+| [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-11 | 2024-08-24 |
 | [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 | 2023-04-27 | 2023-05-05 |
 | [Leap Years](https://open.spotify.com/track/5VaWu5KxCmOdp7RDLodofW) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Leap Years](https://open.spotify.com/album/4wzM7nTc1gGCQheDLFRRqo) | 2:39 | 2024-02-29 | 2024-03-08 |
 | [Leave Her](https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Withering](https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG) | 2:44 | 2024-02-08 |  |

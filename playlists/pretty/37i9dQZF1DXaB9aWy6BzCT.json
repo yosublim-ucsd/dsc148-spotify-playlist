@@ -1,15 +1,67 @@
 {
   "description": "Los grandes \u00e9xitos de Daddy Yankee y Nicky Jam en un mismo lugar.",
-  "num_followers": 231553,
+  "num_followers": 231745,
   "original_name": "Dos \u00edconos: Daddy Yankee x Nicky Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIxWUwAAAAC2osKrro2Mi8Dc7uPQywmu",
+  "snapshot_id": "ZsirbQAAAACKH8xkgRrrq2GxrvAPWWdb",
   "tracks": [
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/6z5Xrx58p5Bs18RIe6KXbI"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/2qSyMVTIKLArOx4GNcvutB"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 157023,
+      "name": "En La Cama (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/2Eg6dOam7cAe5turf2bnCg"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Nicky Jam Hits",
+        "url": "https://open.spotify.com/album/4etANPc5BMELu5yx987Rpx"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "Travesuras",
+      "url": "https://open.spotify.com/track/1PtL0YQRtq3qxDGUSwZPJ5"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
       "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
@@ -33,27 +85,7 @@
       "url": "https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Polvo",
-        "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 211130,
-      "name": "Polvo",
-      "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
         "name": "La Rompe Corazones",
         "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
@@ -73,46 +105,10 @@
       "url": "https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "Te Robar\u00e9",
-        "url": "https://open.spotify.com/album/4ykGcrqJO8PcTePuNOFMxa"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "Te Robar\u00e9",
-      "url": "https://open.spotify.com/track/6v0lAdFF4haL8xjBIUjtOw"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Daddy Yankee Mundial",
-        "url": "https://open.spotify.com/album/4MAUxicEf2ZyY569TJNBdk"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/44f68Zu5X9gJ44ziVnaYoR"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Nicky Jam Hits",
-        "url": "https://open.spotify.com/album/4etANPc5BMELu5yx987Rpx"
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
       "artists": [
         {
@@ -120,32 +116,28 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 195453,
-      "name": "Travesuras",
-      "url": "https://open.spotify.com/track/1PtL0YQRtq3qxDGUSwZPJ5"
+      "duration_ms": 198706,
+      "name": "Hasta el Amanecer",
+      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "Adictiva",
-        "url": "https://open.spotify.com/album/7Eeyj4vopzd7c1aAhwXFGU"
+        "name": "Barrio Fino En Directo",
+        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
       },
       "artists": [
         {
           "name": "Daddy Yankee",
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 207853,
-      "name": "Adictiva",
-      "url": "https://open.spotify.com/track/6MJUCumnQsQEKbCy28tbCP"
+      "duration_ms": 188626,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
         "name": "Mu\u00e9velo",
         "url": "https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG"
@@ -165,247 +157,7 @@
       "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "King Daddy",
-        "url": "https://open.spotify.com/album/5m43SVd4aJhA7M88UwzU8a"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 197053,
-      "name": "La Nueva Y La Ex",
-      "url": "https://open.spotify.com/track/2UYXTSZkSxWJYGpcd64SRO"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Daddy Yankee Mundial",
-        "url": "https://open.spotify.com/album/4MAUxicEf2ZyY569TJNBdk"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 172906,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/3FOh6ssnmv39CsoMYVUMZA"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Te Busco",
-        "url": "https://open.spotify.com/album/1rvF6y0pavyw1cJHeibSnE"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 233559,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/2M2WWJE863upPYUrzCRjN6"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Barrio Fino En Directo",
-        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 188626,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Ven Conmigo",
-      "url": "https://open.spotify.com/track/2QSuNcQxqFfokvbS7SInHG"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Talento de Barrio",
-        "url": "https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 239920,
-      "name": "Llamado de Emergencia",
-      "url": "https://open.spotify.com/track/3bkBVEmRJuJZNh5iVgJkWm"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "S\u00edgueme Y Te Sigo",
-        "url": "https://open.spotify.com/album/0VrKUe36H6KPKSe9Y1FL2w"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "S\u00edgueme Y Te Sigo",
-      "url": "https://open.spotify.com/track/1ClQpnPU9M6mQpXGvhGPvQ"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210933,
-      "name": "Lo Que Pas\u00f3, Pas\u00f3",
-      "url": "https://open.spotify.com/track/6z5Xrx58p5Bs18RIe6KXbI"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Talento de Barrio",
-        "url": "https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "\u00bfQu\u00e9 Tengo Que Hacer?",
-      "url": "https://open.spotify.com/track/0nssGbqC6ZSMx0OliWCkHk"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/0GarKYA3ebL7sQx7IP2SSt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/3AZXqe3LGCFD4r6YFJgaK3"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Hasta el Amanecer",
-      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "El Desorden",
-        "url": "https://open.spotify.com/album/4mB0S19kFt0O2REi1W21mB"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "El Desorden",
-      "url": "https://open.spotify.com/track/0JOUrhZGMCx3lk9VosAQWl"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 219466,
-      "name": "Estrella",
-      "url": "https://open.spotify.com/track/4S2JBCs9FfFEJPLEf8YiE7"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 208346,
-      "name": "Mil L\u00e1grimas",
-      "url": "https://open.spotify.com/track/5EFAloMY9VlEKrjllKoXjL"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/74D2cU8F6KbBqva3mnzrqI"
@@ -425,7 +177,23 @@
       "url": "https://open.spotify.com/track/39N9RPD9MRb5WmoLzNzPeA"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "King Daddy",
+        "url": "https://open.spotify.com/album/5m43SVd4aJhA7M88UwzU8a"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 197053,
+      "name": "La Nueva Y La Ex",
+      "url": "https://open.spotify.com/track/2UYXTSZkSxWJYGpcd64SRO"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
       "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
@@ -445,146 +213,10 @@
       "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "Si Supieras",
-        "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 218540,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/5BAmltzhQpFXtBddPN4sUf"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 255973,
-      "name": "Piensas en M\u00ed",
-      "url": "https://open.spotify.com/track/7pUaz2o36MSX36TUISuoR5"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Tanta Falta Remix",
-        "url": "https://open.spotify.com/album/296ygxpV1TLiYxQqiMLrvu"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Tanta Falta Remix",
-      "url": "https://open.spotify.com/track/6GxEpbOvB4dXgRF2SLJliK"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 192156,
-      "name": "Juegos Prohibidos",
-      "url": "https://open.spotify.com/track/07Z5WXxcQC7FjUcJcq3z0c"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Dance Latin # 1 Hits",
-        "url": "https://open.spotify.com/album/4GMgJaHCYCH8YVqEYZ0NxA"
-      },
-      "artists": [
-        {
-          "name": "Luny Tunes",
-          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 309266,
-      "name": "Mayor Que Yo 3",
-      "url": "https://open.spotify.com/track/0bMRpUsk1IWi5O2NIkWsqR"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Que Tire Pa Lante",
-        "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
+        "name": "S\u00edgueme Y Te Sigo",
+        "url": "https://open.spotify.com/album/0VrKUe36H6KPKSe9Y1FL2w"
       },
       "artists": [
         {
@@ -592,15 +224,15 @@
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 210520,
-      "name": "Que Tire Pa Lante",
-      "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
+      "duration_ms": 209786,
+      "name": "S\u00edgueme Y Te Sigo",
+      "url": "https://open.spotify.com/track/1ClQpnPU9M6mQpXGvhGPvQ"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "Desahogo (feat. Carla Morrison)",
-        "url": "https://open.spotify.com/album/2eJA1FwzgGFXNB1nhXnOJM"
+        "name": "Te Robar\u00e9",
+        "url": "https://open.spotify.com/album/4ykGcrqJO8PcTePuNOFMxa"
       },
       "artists": [
         {
@@ -608,19 +240,19 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 198253,
-      "name": "Desahogo (feat. Carla Morrison)",
-      "url": "https://open.spotify.com/track/71oz9Wgbrm873aMlVBrDKR"
+      "duration_ms": 201818,
+      "name": "Te Robar\u00e9",
+      "url": "https://open.spotify.com/track/6v0lAdFF4haL8xjBIUjtOw"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/0GarKYA3ebL7sQx7IP2SSt"
+        "name": "Daddy Yankee Mundial",
+        "url": "https://open.spotify.com/album/4MAUxicEf2ZyY569TJNBdk"
       },
       "artists": [
         {
@@ -628,28 +260,88 @@
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 185106,
-      "name": "Impacto",
-      "url": "https://open.spotify.com/track/4jjPvqzUHNYuNEtSJnklwJ"
+      "duration_ms": 202826,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/44f68Zu5X9gJ44ziVnaYoR"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/3mCZPmix70kS3uC4aOXz7w"
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 211130,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Adictiva",
+        "url": "https://open.spotify.com/album/7Eeyj4vopzd7c1aAhwXFGU"
       },
       "artists": [
         {
           "name": "Daddy Yankee",
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 193626,
-      "name": "Pasarela",
-      "url": "https://open.spotify.com/track/4yORNsoYe4XnK99EXhKhWB"
+      "duration_ms": 207853,
+      "name": "Adictiva",
+      "url": "https://open.spotify.com/track/6MJUCumnQsQEKbCy28tbCP"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Kilates 2",
+        "url": "https://open.spotify.com/album/6rYQq40SoConI7BlkDlVXL"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 201692,
+      "name": "Yo no Soy Tu Marido",
+      "url": "https://open.spotify.com/track/2h9ymIolsmYaqwtxn69fXj"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "El Cangri.com",
+        "url": "https://open.spotify.com/album/1u6jqoJEVYSDlpDduLlXYk"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 182125,
+      "name": "Guayando",
+      "url": "https://open.spotify.com/track/5KfTXVRme8sMRFOqHUlWYo"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
       "album": {
         "name": "Whine Up",
         "url": "https://open.spotify.com/album/71mNEWYV4Qvnj4quA26eM2"
@@ -669,10 +361,82 @@
       "url": "https://open.spotify.com/track/7JabxjX6a5GvDDw6zRFscj"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/3mCZPmix70kS3uC4aOXz7w"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Pasarela",
+      "url": "https://open.spotify.com/track/4yORNsoYe4XnK99EXhKhWB"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "El Amante",
+      "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/0GarKYA3ebL7sQx7IP2SSt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/3AZXqe3LGCFD4r6YFJgaK3"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Gargolas 3",
+        "url": "https://open.spotify.com/album/6owe1MO20hyH4dZURGb3Ob"
+      },
+      "artists": [
+        {
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 170004,
+      "name": "Donde Estan las Gatas",
+      "url": "https://open.spotify.com/track/0tIpUUbOYIWqvI50Ksf7D5"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
       "artists": [
         {
@@ -680,43 +444,19 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         },
         {
-          "name": "\u00d1ejo",
-          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 224679,
-      "name": "Voy a Beber - Remix",
-      "url": "https://open.spotify.com/track/62aO9HGJY7hdFDyljqCHO2"
+      "duration_ms": 221026,
+      "name": "Si T\u00fa La Ves (feat. Wisin)",
+      "url": "https://open.spotify.com/track/4yN6xPLopmTLvc27pO9LIE"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "PAM",
-        "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "PAM",
-      "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im"
+        "name": "Talento de Barrio",
+        "url": "https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr"
       },
       "artists": [
         {
@@ -724,52 +464,160 @@
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP"
+      "duration_ms": 239920,
+      "name": "Llamado de Emergencia",
+      "url": "https://open.spotify.com/track/3bkBVEmRJuJZNh5iVgJkWm"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "Shaky Shaky",
-        "url": "https://open.spotify.com/album/2zrLk90b4qjmrxRZKyIY7X"
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 234320,
-      "name": "Shaky Shaky",
-      "url": "https://open.spotify.com/track/58IL315gMSTD37DOZPJ2hf"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Mi Cama (Remix)",
-        "url": "https://open.spotify.com/album/6dVC3KSMioVw7ywpXx10cl"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
           "name": "Nicky Jam",
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 196320,
-      "name": "Mi Cama - Remix",
-      "url": "https://open.spotify.com/track/38QmUDpkoYlNbMKvpvAsrE"
+      "duration_ms": 195213,
+      "name": "Perro Fiel (feat. Nicky Jam)",
+      "url": "https://open.spotify.com/track/70lnL3QaSOIIyMa2X9aVRL"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Daddy Yankee Mundial",
+        "url": "https://open.spotify.com/album/4MAUxicEf2ZyY569TJNBdk"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 172906,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/3FOh6ssnmv39CsoMYVUMZA"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Te Busco",
+        "url": "https://open.spotify.com/album/1rvF6y0pavyw1cJHeibSnE"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 233559,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/2M2WWJE863upPYUrzCRjN6"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/2QSuNcQxqFfokvbS7SInHG"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "69",
+        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 221935,
+      "name": "69",
+      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Talento de Barrio",
+        "url": "https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "\u00bfQu\u00e9 Tengo Que Hacer?",
+      "url": "https://open.spotify.com/track/0nssGbqC6ZSMx0OliWCkHk"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 208346,
+      "name": "Mil L\u00e1grimas",
+      "url": "https://open.spotify.com/track/5EFAloMY9VlEKrjllKoXjL"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
       "album": {
         "name": "Definitivamente",
         "url": "https://open.spotify.com/album/6pJLqbnEE1gjMZ15dpi1cH"
@@ -789,10 +637,10 @@
       "url": "https://open.spotify.com/track/113PlnpZbHd3WIqeYjhZWv"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "Greatest Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
+        "name": "Voy a Beber",
+        "url": "https://open.spotify.com/album/7pbNrorPeJquteY1Xb9z1p"
       },
       "artists": [
         {
@@ -800,139 +648,15 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 178299,
-      "name": "Tu Primera Vez",
-      "url": "https://open.spotify.com/track/0APyIFymuzSzBN5mvFgdsj"
+      "duration_ms": 212377,
+      "name": "Voy a Beber",
+      "url": "https://open.spotify.com/track/00MIYoxM5jrqZ9zzU1h4C2"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "Despacito (Featuring Daddy Yankee)",
-        "url": "https://open.spotify.com/album/5qnvJbamuZLbsasuYKRy1l"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Despacito (Featuring Daddy Yankee)",
-      "url": "https://open.spotify.com/track/7CUYHcu0RnbOnMz4RuN07w"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Satisfacci\u00f3n",
-        "url": "https://open.spotify.com/album/54kKKlH1NeDeihHxTYEvGA"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 256493,
-      "name": "Satisfacci\u00f3n",
-      "url": "https://open.spotify.com/track/21WvAGxPUNJARcZoSqswd7"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Dura",
-        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Dura",
-      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "Cheerleader (feat. Nicky Jam) [Felix Jaehn Remix]",
-        "url": "https://open.spotify.com/album/78pYkzquJWs2tsEwIJ06fW"
-      },
-      "artists": [
-        {
-          "name": "OMI",
-          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 180967,
-      "name": "Cheerleader (feat. Nicky Jam) - Felix Jaehn Remix",
-      "url": "https://open.spotify.com/track/1mnPNAxWN8MvWYsjHWpnnc"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "Tu Hombre (feat. Daddy Yankee)",
-      "url": "https://open.spotify.com/track/3u8fKvW5X1zvrsweW5h2xa"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Valentino",
-          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Cuando Quieras (feat. Valentino)",
-      "url": "https://open.spotify.com/track/0iP84MjJ1KvnzxWa91Zsvt"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+        "name": "Si Supieras",
+        "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
       },
       "artists": [
         {
@@ -940,52 +664,16 @@
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
         }
       ],
-      "duration_ms": 182413,
-      "name": "BOMB\u00d3N",
-      "url": "https://open.spotify.com/track/4OAPnWJ3J5w4c4IBLh2chn"
+      "duration_ms": 241880,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "No Te Puedo Olvidar",
-      "url": "https://open.spotify.com/track/4lMBnVOEKScRyQyfyJQwI4"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
-      "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 248768,
-      "name": "RUMBAT\u00d3N",
-      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
-    },
-    {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
         "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
         "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
@@ -1005,10 +693,26 @@
       "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "Ojos Rojos",
-        "url": "https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY"
+        "name": "Shaky Shaky",
+        "url": "https://open.spotify.com/album/2zrLk90b4qjmrxRZKyIY7X"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 234320,
+      "name": "Shaky Shaky",
+      "url": "https://open.spotify.com/track/58IL315gMSTD37DOZPJ2hf"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
       },
       "artists": [
         {
@@ -1016,12 +720,80 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 152110,
-      "name": "Ojos Rojos",
-      "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"
+      "duration_ms": 255973,
+      "name": "Piensas en M\u00ed",
+      "url": "https://open.spotify.com/track/7pUaz2o36MSX36TUISuoR5"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 218540,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/5BAmltzhQpFXtBddPN4sUf"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Que Tire Pa Lante",
+        "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Que Tire Pa Lante",
+      "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Tu Hombre (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/3u8fKvW5X1zvrsweW5h2xa"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
       "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
@@ -1041,10 +813,66 @@
       "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
     },
     {
-      "added_at": "2023-01-26 16:59:44",
+      "added_at": "2024-08-23 15:31:57",
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl"
+        "name": "Despacito (Featuring Daddy Yankee)",
+        "url": "https://open.spotify.com/album/5qnvJbamuZLbsasuYKRy1l"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "Despacito (Featuring Daddy Yankee)",
+      "url": "https://open.spotify.com/track/7CUYHcu0RnbOnMz4RuN07w"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "CALOR",
+        "url": "https://open.spotify.com/album/6Wje6XhXvKPW2hgMs2Jse8"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "CALOR",
+      "url": "https://open.spotify.com/track/3fbPAnQhNaUlIMaYtyNvk9"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
       },
       "artists": [
         {
@@ -1052,9 +880,45 @@
           "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 192006,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka"
+      "duration_ms": 192156,
+      "name": "Juegos Prohibidos",
+      "url": "https://open.spotify.com/track/07Z5WXxcQC7FjUcJcq3z0c"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "RUMBAT\u00d3N",
+      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
+    },
+    {
+      "added_at": "2024-08-23 15:31:57",
+      "album": {
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 202240,
+      "name": "BAD CON NICKY",
+      "url": "https://open.spotify.com/track/5bmSver2b3ZXyuyLKtgnFI"
     }
   ],
   "unique_name": "Dos \u00edconos: Daddy Yankee x Nicky Jam",

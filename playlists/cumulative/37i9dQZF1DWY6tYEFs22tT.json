@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "act like",
+        "url": "https://open.spotify.com/album/0LRuQdLEgYh81dwxnhoHqs"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "act like",
+      "url": "https://open.spotify.com/track/33RjTvr5dcg1MyC9wrB8nZ"
+    },
+    {
+      "album": {
         "name": "K3",
         "url": "https://open.spotify.com/album/5177KbwBNYTWdCgo5UtoeD"
       },
@@ -1908,7 +1926,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 173823,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/72ZVTeHKV9Uzkk8qtYbkss"
@@ -2796,6 +2814,24 @@
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI"
+    },
+    {
+      "album": {
+        "name": "Bolide Noir",
+        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126315,
+      "name": "Billion Streams Freestyle",
+      "url": "https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp"
     },
     {
       "album": {
@@ -5875,6 +5911,24 @@
     },
     {
       "album": {
+        "name": "Double The Fun",
+        "url": "https://open.spotify.com/album/3kTrG8X7CMET7p6I5h3JcB"
+      },
+      "artists": [
+        {
+          "name": "Haviah Mighty",
+          "url": "https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186046,
+      "name": "Double The Fun",
+      "url": "https://open.spotify.com/track/3qTvr3GcWm7iVIojVEbFBo"
+    },
+    {
+      "album": {
         "name": "Down In Atlanta",
         "url": "https://open.spotify.com/album/3SxiMoJROq0kvfbQtd75xp"
       },
@@ -6862,6 +6916,28 @@
       "duration_ms": 156306,
       "name": "FAN",
       "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
+    },
+    {
+      "album": {
+        "name": "fashion week",
+        "url": "https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        },
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114626,
+      "name": "fashion week",
+      "url": "https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk"
     },
     {
       "album": {
@@ -8288,7 +8364,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 153693,
       "name": "gen z luv",
       "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
@@ -14320,7 +14396,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 115973,
       "name": "NAN",
       "url": "https://open.spotify.com/track/0CbXAQ9r0pvnQC9WAbZij4"
@@ -17000,7 +17076,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 459072,
       "name": "problem",
       "url": "https://open.spotify.com/track/558OkRc07xtIAkKu9iXGQg"
@@ -22442,7 +22518,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 225132,
       "name": "U My Everything (feat. Drake)",
       "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"

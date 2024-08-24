@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Heriot
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Gore.
 
-770 songs - 2 day 0 hr 29 min
+776 songs - 2 day 0 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Attitude](https://open.spotify.com/track/57WYmdUYggjpXqTsU5BT9n) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Attitude](https://open.spotify.com/album/7cp19grH5E1gFFSEQ0hjM2) | 0:51 | 2022-12-09 | 2023-07-15 |
 | [Avenge](https://open.spotify.com/track/0aMPSVbotlEJJ7RHKKOmh5) | [Sentinel](https://open.spotify.com/artist/52vLjSY4OTo3YyIr0zTJgE) | [Avenge](https://open.spotify.com/album/5WYedUR5YPq1Cwdt4ZS6M7) | 1:40 | 2023-11-17 | 2024-02-03 |
 | [Axe of Kindness](https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL) | [To The Grave](https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ) | [Axe Of Kindness](https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6) | 4:08 | 2022-12-09 | 2023-07-15 |
+| [Babylon](https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Babylon](https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB) | 3:33 | 2024-08-23 |  |
 | [Backfire](https://open.spotify.com/track/6qA3JeQaSLng3XmIFr7IC0) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Backfire](https://open.spotify.com/album/4DBR3CJvtw972fOYg93ndQ) | 4:22 | 2023-01-27 | 2024-02-03 |
 | [Ball and Chain](https://open.spotify.com/track/457LPWq6juhZXzJ6kIgivc) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Ball and Chain](https://open.spotify.com/album/1qikoon0QW3Bug8IVj5uHY) | 3:43 | 2023-11-17 | 2024-02-03 |
 | [Bananarchy Zoo](https://open.spotify.com/track/5jbB924JhR1lKjdZn58OoV) | [Eye Flys](https://open.spotify.com/artist/7GzM51BvYYlZ6Hdef6fM41) | [Bananarchy Zoo](https://open.spotify.com/album/4aR9eUz1g7Nx6RGnhnauwz) | 5:25 | 2024-01-05 |  |
@@ -164,6 +165,7 @@
 | [deep fake](https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [deep fake](https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF) | 3:33 | 2022-09-02 | 2023-07-15 |
 | [Deep in the Willow](https://open.spotify.com/track/7KbfKTMX3wbQW5OJvIGRdg) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Upon Loss Singles](https://open.spotify.com/album/75ineHmMUJPWsM7H8gwKFZ) | 3:31 | 2023-06-16 | 2024-02-03 |
 | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV) | [Degradation Rules \(feat\. Tony Iommi\)](https://open.spotify.com/album/7KlSuUcCKAJlrzWESm9jjq) | 4:10 | 2022-07-22 | 2023-07-15 |
+| [Demon Killer](https://open.spotify.com/track/491Y81WE8NvyqRdHGMODPu) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Phenomena II](https://open.spotify.com/album/3f9kyaXtbKIFuSh85ZBHQo) | 5:18 | 2024-08-23 |  |
 | [Demons](https://open.spotify.com/track/3JixPLD5JPEMwuvXDBEopC) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Demons](https://open.spotify.com/album/2fhfxWeJs1pDssqnLvqc7U) | 2:47 | 2023-07-14 | 2024-02-03 |
 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-02-17 | 2024-02-03 |
 | [Desert Carnage](https://open.spotify.com/track/09ndVy44UKGyXHe5c0NjEQ) | [Go Ahead And Die](https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113) | [Desert Carnage](https://open.spotify.com/album/4oLWb1iJuQx5qPRWmn5rQ6) | 3:59 | 2023-09-22 | 2024-02-03 |
@@ -388,6 +390,7 @@
 | [Many Opps Terminated](https://open.spotify.com/track/4IGmkTpW8b2WJreZPXI4OP) | [Moment of Truth](https://open.spotify.com/artist/7m1PAkhUGJqjCmJbZS8uHv) | [M.O.T\. Promo 2024](https://open.spotify.com/album/3WZaa8PS31cw3P20rqMCKS) | 2:30 | 2024-01-26 |  |
 | [Mark of the Beast](https://open.spotify.com/track/2H7S1nfwOMiorqcxIngVdx) | [Jarhead Fertilizer](https://open.spotify.com/artist/58NoEzpin3N6OEtvVZwOtj) | [Mark of the Beast](https://open.spotify.com/album/5HxfVHLTw5GbJ6sPxxEITk) | 3:11 | 2023-12-01 | 2024-02-03 |
 | [Martyr](https://open.spotify.com/track/2wtCQ4hMGsPQrQ45Kq98qJ) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/7iSh8UZLiaaxaxi6H8BRjc) | 2:36 | 2024-08-16 |  |
+| [Masc](https://open.spotify.com/track/4VXRyp2UzYP7AEfPw9BMze) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Masc](https://open.spotify.com/album/3kiTF4RUr3WAoV4fZiHXSA) | 4:09 | 2024-08-23 |  |
 | [Masters of Morbidity](https://open.spotify.com/track/0T6GFp0XeYDiQv083xTZyp) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Masters of Morbidity](https://open.spotify.com/album/7IAQnZhOMVvzgeAS4BMRu7) | 4:22 | 2022-11-11 | 2023-07-15 |
 | [Meat & Greet](https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Meat & Greet](https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp) | 3:30 | 2023-10-20 | 2024-02-03 |
 | [Meat Magnet](https://open.spotify.com/track/35r5Dt58LBPIwL0Tzk3wX8) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG), [Barney Greenway](https://open.spotify.com/artist/62sEOi8iaAJtqjv6pq7XO9) | [Meat Magnet](https://open.spotify.com/album/48xhkBjkwomTJ8XpYK8sxk) | 3:07 | 2023-12-15 | 2024-02-03 |
@@ -499,6 +502,7 @@
 | [Purge](https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Purge](https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF) | 4:42 | 2023-12-15 | 2024-02-03 |
 | [Pushing The Pink Envelope](https://open.spotify.com/track/4hvDdBwERAE7KbDRqia8WS) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Pushing The Pink Envelope](https://open.spotify.com/album/1aQ0u8V9EOwE8ohlaFeHhm) | 4:11 | 2023-09-22 | 2024-02-03 |
 | [Put Your Back Into The Oar](https://open.spotify.com/track/4fY2JR0REUiykvzRw61sk9) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Put Your Back Into The Oar](https://open.spotify.com/album/3mS1TiUhXrH9XOvZGEd3Eo) | 4:37 | 2022-02-18 | 2023-07-15 |
+| [Radiance](https://open.spotify.com/track/2FMNCmWngbfBYBoUSeeKM4) | [Seven Hours After Violet](https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z) | [Radiance](https://open.spotify.com/album/7uEqTi7T7zyRxdhsLCoqp9) | 3:34 | 2024-08-23 |  |
 | [Rage](https://open.spotify.com/track/5fKQoFnP46hSNH2xD6hlDL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/2UaM4rE9GCvkjbdrDyqxwu) | 3:54 | 2022-05-20 | 2023-07-15 |
 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 | 2022-05-06 | 2023-07-15 |
 | [Rampage](https://open.spotify.com/track/0eNDqVImfIXLh4dUyDkRNa) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Rampage](https://open.spotify.com/album/4ckRIwGoYjDBg9xZqOoFDW) | 4:14 | 2023-11-03 | 2024-02-03 |
@@ -523,6 +527,7 @@
 | [Resurrected](https://open.spotify.com/track/68XdsXMEEhP6SOkpj4FNrG) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Resurrected](https://open.spotify.com/album/2hnXIMJc9CNCdTsVyTO3d7) | 2:11 | 2024-01-12 |  |
 | [Resurrection II](https://open.spotify.com/track/4vLJYJjWCRAsfpvl31AYTa) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Resurrection II](https://open.spotify.com/album/7HVjB5TNxYYKv7CTQfcZMY) | 3:02 | 2023-03-10 | 2024-02-03 |
 | [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 | 2023-10-13 | 2024-02-03 |
+| [Righteous Man](https://open.spotify.com/track/4Nq3yojHldocHnarSy8wZV) | [Carcosa](https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G) | [Righteous Man](https://open.spotify.com/album/1GTG9hbTBZtK07rIPmbcaI) | 3:48 | 2024-08-23 |  |
 | [Rise from the Grave](https://open.spotify.com/track/3Uo3xhqUJG9EHTtdlBbEm4) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Rise from the Grave](https://open.spotify.com/album/4rTmT4RMbmdNHid4lgighZ) | 3:35 | 2022-01-21 | 2023-07-15 |
 | [ROC SH!T](https://open.spotify.com/track/5vHhnLEqrFXj8Agx6JmKAD) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [ROC SH!T](https://open.spotify.com/album/1tpC1yYHkOxqRtaGlc6kbJ) | 3:05 | 2023-07-07 | 2024-02-03 |
 | [Rose Bather](https://open.spotify.com/track/0jyeo3XhHV9FlIKU3toVtZ) | [thoughtcrimes](https://open.spotify.com/artist/7xJ6tFnLODDMEhhlj6ftop) | [Rose Bather](https://open.spotify.com/album/3pjrQzkFEVUjb4bEHnICMA) | 3:37 | 2023-12-08 | 2024-02-03 |
@@ -700,6 +705,7 @@
 | [Ultra\-Violence](https://open.spotify.com/track/6x2FkO3YW7zwBmgtWH6lxJ) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Ultra\-Violence](https://open.spotify.com/album/4hOu1sSu360iLvwL3lF5hM) | 2:10 | 2023-01-27 | 2024-02-03 |
 | [Unbridled Fury](https://open.spotify.com/track/5KUh5cJ8iy9qu917XtfMZF) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Unbridled Fury](https://open.spotify.com/album/4Nx90Kc8txadnzrDZsO7OP) | 3:30 | 2023-02-03 | 2024-02-03 |
 | [Under My Skin](https://open.spotify.com/track/31b42JpcNCgM1AV3l7Ixje) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Under My Skin](https://open.spotify.com/album/3YjB0HnU6qIJIvyxxGovGo) | 2:52 | 2023-07-21 | 2024-02-03 |
+| [Under the Curse of the One God](https://open.spotify.com/track/1f7mdLZTP8taPKMZknvj3z) | [Nile](https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE) | [Under the Curse of the One God](https://open.spotify.com/album/608ApQjbgAV0HFIIpO5bxA) | 4:45 | 2024-08-23 |  |
 | [Under The Gun](https://open.spotify.com/track/2cfPWvkroCsCVi21YZhtUi) | [Mouth for War](https://open.spotify.com/artist/2XWmtvXZ0FHiRT9PGzGPaF) | [Under The Gun](https://open.spotify.com/album/3Jo11kwZg9wtMh3dQNE2Ti) | 2:51 | 2023-08-25 | 2024-02-03 |
 | [Under the Weight of a Billion Souls](https://open.spotify.com/track/1ZwssJSK0DVLZ2vrHbrvlC) | [Chrome Waves](https://open.spotify.com/artist/2R5Sry7fmvqc3QnoV2myJ4) | [Under the Weight of a Billion Souls](https://open.spotify.com/album/0L2edepdKR9dK85X70lIz1) | 8:27 | 2022-12-16 | 2023-07-15 |
 | [Undertow \(feat\. King Woman\)](https://open.spotify.com/track/60LTPp9VKjj6aE4oje3lWJ) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek), [King Woman](https://open.spotify.com/artist/4C20AUsp5T2VNHmzSTSzYn) | [Undertow \(feat\. King Woman\)](https://open.spotify.com/album/11q5IRxOgpGbGCyY6BZN1W) | 3:41 | 2023-09-08 | 2024-02-03 |

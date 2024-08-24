@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 24 | [Rent Free \(feat\. GRACEY\)](https://open.spotify.com/track/5SG2y67BbtCQm6KwcNi6E4) | [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [All Over The Place \(Platinum VIP Edition\)](https://open.spotify.com/album/4MGvFyMua1aBO0hDNafkp5) | 2:44 |
 | 25 | [Purpose](https://open.spotify.com/track/6APLWNdNt72jjkLfB1dYey) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 2:50 |
 | 26 | [If You Loved Me](https://open.spotify.com/track/3ExAXzgV1cbwQHLcxGwLx4) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [If You Loved Me](https://open.spotify.com/album/2tpHEjm8uJht1p5q0AQhzD) | 2:58 |
-| 27 | [Make You Dance](https://open.spotify.com/track/6BzNEYhKszAJ5rkl2xbcMi) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF \(DELUXE\)](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 3:11 |
+| 27 | [Make You Dance](https://open.spotify.com/track/6BzNEYhKszAJ5rkl2xbcMi) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF \- DELUXE](https://open.spotify.com/album/745q70iMPQHWqjGzHeseBp) | 3:11 |
 | 28 | [Got You Covered](https://open.spotify.com/track/0yyxb5ORtu0n5KaHVAI674) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82) | [Got You Covered](https://open.spotify.com/album/75ZE1CYqgrmZXXDpjRq2HR) | 2:56 |
 | 29 | [Feel the Same](https://open.spotify.com/track/5vAT67Un0962lz61w0wlNl) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW) | [You Know I Know \(Expanded Edition\)](https://open.spotify.com/album/6Z6lqEBbZq9Rbf7aYRxAZP) | 3:11 |
 | 30 | [Now Or Never](https://open.spotify.com/track/0OmiVCvlnnC0hTLekt8dPJ) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Back To Life](https://open.spotify.com/album/1J3os6fg6lvIoEC6czG8EY) | 3:27 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLKM90w7qiQs.md) - [plain]
 | 52 | [I’ll Be Here For You](https://open.spotify.com/track/2j1SimCZFJOQzOVA1R9SPT) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Still Learning](https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh) | 2:38 |
 | 53 | [Figure It Out](https://open.spotify.com/track/4u1OGnxFaeeDncPLsW6Zbf) | [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Figure It Out](https://open.spotify.com/album/3nx85pcfiQEOTzpyIeJcw8) | 3:11 |
 
-Snapshot ID: `AbaIiAAAAAClw76nS+DlRTbXQXEdMQaD`
+Snapshot ID: `AbaN9gAAAACVt5/V8MDdyHtYkqeMrTj8`

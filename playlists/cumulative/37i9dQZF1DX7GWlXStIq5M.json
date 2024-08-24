@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Thiago Pantale\u00e3o",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, Marina Sena",
   "name": "Palco POP",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 157989,
       "name": "(n\u00e3o) era amor",
       "url": "https://open.spotify.com/track/7DmZMqXYgQ1oI3z3bGUEbi"
+    },
+    {
+      "album": {
+        "name": "No Escuro,",
+        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169845,
+      "name": "(N\u00e3o) Quero Me Apaixonar",
+      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
     },
     {
       "album": {
@@ -4236,7 +4254,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 180021,
       "name": "Deixa",
       "url": "https://open.spotify.com/track/2TJdH3Uz7RAJqqQKwiTxDV"
@@ -8139,6 +8157,32 @@
     },
     {
       "album": {
+        "name": "EPIFANIA",
+        "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213125,
+      "name": "LOVE COMMUNITY",
+      "url": "https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU"
+    },
+    {
+      "album": {
         "name": "Reviravolta",
         "url": "https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo"
       },
@@ -9984,7 +10028,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 176640,
       "name": "Nem Sei Fingir",
       "url": "https://open.spotify.com/track/4G9gWLcVflZjv56Fp8SKnP"
@@ -11326,7 +11370,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 140000,
       "name": "Patipapa",
       "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
@@ -13204,7 +13248,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 70153,
       "name": "Quero Te Ver Pelada",
       "url": "https://open.spotify.com/track/5a5YuCUYrM8yNowoHilHQh"
@@ -14681,6 +14725,28 @@
     },
     {
       "album": {
+        "name": "solto (hist\u00f3rias de amor)",
+        "url": "https://open.spotify.com/album/1W8WFozGDueySUZcTJ5eKp"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190834,
+      "name": "solto (hist\u00f3rias de amor)",
+      "url": "https://open.spotify.com/track/56RKGwqSeMhb8qSBJLOMSx"
+    },
+    {
+      "album": {
         "name": "Some",
         "url": "https://open.spotify.com/album/2aKkuY9VYxP4oNUV3us7rs"
       },
@@ -15136,6 +15202,24 @@
       "duration_ms": 190451,
       "name": "Sussurro",
       "url": "https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX"
+    },
+    {
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0OlaUpNPhRm8mnEcOwEcfK"
+      },
+      "artists": [
+        {
+          "name": "Any Gabrielly",
+          "url": "https://open.spotify.com/artist/7Exa8X6gyaqkug3tLGVKje"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162838,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/3Zps8PNjvaapLmUM63mQ3Q"
     },
     {
       "album": {

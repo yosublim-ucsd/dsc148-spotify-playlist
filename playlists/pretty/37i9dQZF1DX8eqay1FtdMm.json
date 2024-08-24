@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Jay Park(\ubc15\uc7ac\ubc94)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 378897,
+  "num_followers": 378891,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 215946,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
         "name": "Invitation",
         "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 233813,
       "name": "\ubcf4\uc5ec\uc904\uac8c",
       "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
     },
     {
       "added_at": "2024-08-14 09:23:17",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
-        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "I\u2032m Sorry",
-      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
         "name": "Heavenly fate (Original Soundtrack from the Webtoon A Not So Fairy Tale)",
         "url": "https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
+        "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
+        "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
+      },
+      "artists": [
+        {
+          "name": "KIM BUMSOO",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 244128,
+      "name": "\ubcf4\uace0\uc2f6\ub2e4",
+      "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
         "name": "Jay Park Season 1",
         "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
       },
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
-        "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
-        "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
+        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
       },
       "artists": [
         {
-          "name": "KIM BUMSOO",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 244128,
-      "name": "\ubcf4\uace0\uc2f6\ub2e4",
-      "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
+      "duration_ms": 256173,
+      "name": "I\u2032m Sorry",
+      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
     },
     {
       "added_at": "2024-08-14 09:23:17",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 228615,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
-        "name": "Stay Here",
-        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
-      },
-      "artists": [
-        {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
-        }
-      ],
-      "duration_ms": 228615,
-      "name": "Stay Here",
-      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
     },
     {
       "added_at": "2024-08-14 09:23:17",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
         "name": "Mother Nature (H\u2082O)",
         "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
+        "name": "180\u02da",
+        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 229187,
+      "name": "180 Degree",
+      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
     },
     {
       "added_at": "2024-08-14 09:23:17",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
-        "name": "The 3rd Digital Single `Amazing You'",
-        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
-      },
-      "artists": [
-        {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
-        }
-      ],
-      "duration_ms": 296832,
-      "name": "Amazing You",
-      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/6MuCnZXw3dRrXfUvUjsPn6"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 206666,
       "name": "What's Not To Love",
       "url": "https://open.spotify.com/track/45HfDac3XJkRZMqgS103Ih"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
+        "name": "The 3rd Digital Single `Amazing You'",
+        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 296832,
+      "name": "Amazing You",
+      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
     },
     {
       "added_at": "2024-08-14 09:23:17",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
-        "name": "Counting Days",
-        "url": "https://open.spotify.com/album/0g3wLgXbtmTGUzakbUsrjc"
-      },
-      "artists": [
-        {
-          "name": "Urban Zakapa",
-          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
-        }
-      ],
-      "duration_ms": 236880,
-      "name": "Counting Days",
-      "url": "https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
         "name": "HOSPITAL PLAYLIST Season2, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
       },
@@ -1263,18 +1247,38 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
-        "name": "Go for a Walk",
-        "url": "https://open.spotify.com/album/2uFpFHLMj1SpHx3iP4wDLJ"
+        "name": "Counting Days",
+        "url": "https://open.spotify.com/album/0g3wLgXbtmTGUzakbUsrjc"
+      },
+      "artists": [
+        {
+          "name": "Urban Zakapa",
+          "url": "https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8"
+        }
+      ],
+      "duration_ms": 236880,
+      "name": "Counting Days",
+      "url": "https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
+        "name": "Even for a moment",
+        "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
       },
       "artists": [
         {
           "name": "Sung Si Kyung",
           "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        },
+        {
+          "name": "Naul",
+          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
         }
       ],
-      "duration_ms": 275928,
-      "name": "Go for a Walk",
-      "url": "https://open.spotify.com/track/4VMdrHuuA2lQtP5Nyrk7dD"
+      "duration_ms": 293160,
+      "name": "Even for a moment",
+      "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
     },
     {
       "added_at": "2024-08-14 09:23:17",
@@ -1363,42 +1367,6 @@
     {
       "added_at": "2024-08-14 09:23:17",
       "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
-        "name": "Even for a moment",
-        "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        },
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 293160,
-      "name": "Even for a moment",
-      "url": "https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD"
-    },
-    {
-      "added_at": "2024-08-14 09:23:17",
-      "album": {
         "name": "The Little Prince",
         "url": "https://open.spotify.com/album/4IhQK9dp1h4Iex4cFzFEkY"
       },
@@ -1411,6 +1379,38 @@
       "duration_ms": 261372,
       "name": "The Little Prince",
       "url": "https://open.spotify.com/track/0LGmR0txlWO9k6NY24G7Uv"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
+        "name": "Go for a Walk",
+        "url": "https://open.spotify.com/album/2uFpFHLMj1SpHx3iP4wDLJ"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 275928,
+      "name": "Go for a Walk",
+      "url": "https://open.spotify.com/track/4VMdrHuuA2lQtP5Nyrk7dD"
+    },
+    {
+      "added_at": "2024-08-14 09:23:17",
+      "album": {
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2024-08-14 09:23:17",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belarus.
 
-278 songs - 12 hr 15 min
+280 songs - 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [NO SLEEP](https://open.spotify.com/track/7vaiMoDFgSD5zVJ6Gv6H5x) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R), [SALUKI](https://open.spotify.com/artist/07tFgedhta5b5WaF0Yj4bH) | [WE LIVE ONLY ONCE](https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d) | 2:40 | 2024-08-10 | 2024-08-14 |
 | [Not Obama](https://open.spotify.com/track/0KcPjLCxQGKUOhTjjfb5g0) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [PEEKABOO](https://open.spotify.com/album/7LP4dCklRhdTncqIYesDqi) | 2:24 | 2024-06-29 | 2024-07-02 |
 | [Not the same](https://open.spotify.com/track/6fc44ZlFFyTxX5FTMrpcIB) | [DIMA SP](https://open.spotify.com/artist/3V2y7WZiaDdH0lBDAXou8d), [favor](https://open.spotify.com/artist/2z2h9JKWPNVqjnfCFNlPEU) | [Not the same](https://open.spotify.com/album/4nfVHwiNX7Hn8gEBfhC0qk) | 2:17 | 2024-05-11 | 2024-05-14 |
-| [November](https://open.spotify.com/track/4FSg7aHsASSaFgskTYPCor) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [Heartbreak](https://open.spotify.com/album/5fsk4Ue6YywjUPGLc9miuk) | 2:49 | 2024-07-27 |  |
+| [November](https://open.spotify.com/track/4FSg7aHsASSaFgskTYPCor) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [Heartbreak](https://open.spotify.com/album/5fsk4Ue6YywjUPGLc9miuk) | 2:49 | 2024-07-27 | 2024-08-24 |
 | [Ome Robert](https://open.spotify.com/track/4hFLAgCvQdngAtIhb3KaVI) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Albino](https://open.spotify.com/album/2X87EHKVeyoKrjMfaGpJfR) | 2:32 | 2024-05-17 | 2024-06-03 |
 | [One Time](https://open.spotify.com/track/17MhO4CkAL6qWy6jxO9B6a) | [Hotvibez](https://open.spotify.com/artist/7f4xrM2aayisIjXZxjzcGb) | [One Time](https://open.spotify.com/album/6edYgSjO0p6ySEuoM7HQux) | 1:35 | 2024-05-19 | 2024-05-21 |
 | [Pillole](https://open.spotify.com/track/3zpxG02AtzVVBSejsmqNiK) | [ReiNo](https://open.spotify.com/artist/79fU3KsB7u6FmLjNwzMP40) | [Pillole](https://open.spotify.com/album/5CuD3SN7QvcOFz9DS67ziO) | 3:29 | 2024-05-02 | 2024-05-04 |
@@ -101,7 +101,7 @@
 | [SAMAYA PERVAYA](https://open.spotify.com/track/0avFSJ9URBdqNM2M2ekzFa) | [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [SAMAYA PERVAYA](https://open.spotify.com/album/32b2Lta0ZHNuQCNb7DGj7O) | 3:48 | 2024-05-19 | 2024-05-28 |
 | [SAVE DAT](https://open.spotify.com/track/7l8Q5hVtKz2Ztold6N2gLh) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW), [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [SAVE DAT](https://open.spotify.com/album/5CrotczMtH0A2uHaCOPYb7) | 2:29 | 2024-03-23 | 2024-04-21 |
 | [Sladki Snov Rapper 2](https://open.spotify.com/track/1lx65Q3Vfy8NsfaA5DXUcJ) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [Cristoforo Colombo](https://open.spotify.com/album/4PmKko0sUQl7I1cyeBD5Zg) | 2:14 | 2024-07-29 | 2024-08-16 |
-| [Slappy Tap](https://open.spotify.com/track/5q0lNR2QzHVatYdjXc9Ty9) | [Baby Melo](https://open.spotify.com/artist/72c2wcAnsUn4VlXiN1uDOs) | [Slappy Tap](https://open.spotify.com/album/2AlsoF1eExPmQhY5mic5n6) | 1:02 | 2024-08-01 |  |
+| [Slappy Tap](https://open.spotify.com/track/5q0lNR2QzHVatYdjXc9Ty9) | [Baby Melo](https://open.spotify.com/artist/72c2wcAnsUn4VlXiN1uDOs) | [Slappy Tap](https://open.spotify.com/album/2AlsoF1eExPmQhY5mic5n6) | 1:02 | 2024-08-01 | 2024-08-24 |
 | [SLAY!](https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO) | [Eternxlkz](https://open.spotify.com/artist/3Xd2WSaNywx5gn1pgRPFjF) | [SLAY!](https://open.spotify.com/album/3xCc8FxQsm6AE7ZWJ7h5sx) | 1:47 | 2024-04-16 | 2024-05-28 |
 | [Slow Dance \(feat\. Sofia Carson\)](https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:08 | 2024-07-20 | 2024-07-22 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2024-01-29 | 2024-08-09 |
@@ -112,6 +112,7 @@
 | [Song 404](https://open.spotify.com/track/4i65zW2W1sHvWjOQpl5hVe) | [7hvrdx](https://open.spotify.com/artist/7DI03nY9DwvZ49pLTiQh9o), [HARDX](https://open.spotify.com/artist/6goAg9k3zJ2edlE7OtIkTn) | [Song 404](https://open.spotify.com/album/3RcGBHZuXCRcPoajHshmJw) | 2:45 | 2024-05-03 | 2024-05-23 |
 | [SOS](https://open.spotify.com/track/1xLzlr72jRS1ZJO0JZrbeb) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [SOS](https://open.spotify.com/album/0BN0TP6joQ4n47Vx8u4gyU) | 2:02 | 2024-08-03 | 2024-08-11 |
 | [SOS](https://open.spotify.com/track/5te7CQBdUAT6fUUwAGLc86) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [WE LIVE ONLY ONCE](https://open.spotify.com/album/7eO5K3obkRBr0jrRdMVJ3d) | 2:02 | 2024-08-10 |  |
+| [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2024-08-23 |  |
 | [Stray Kids](https://open.spotify.com/track/08H8CT32rALUZvL8TE4ruD) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 3:09 | 2024-07-20 | 2024-07-22 |
 | [Stress](https://open.spotify.com/track/3Dt7z7R0wCfSYqU5oqSpN2) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Stress](https://open.spotify.com/album/1FPkfqQDmrt2zpL87AIfcJ) | 2:51 | 2024-02-17 | 2024-03-03 |
 | [Suka](https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M) | [KRISTIEE](https://open.spotify.com/artist/0qyv7OappGDi0OyJxcqpVt), [mapt0v](https://open.spotify.com/artist/5GTZUVrKf86Aco9LJQquxc) | [Suka from Arizona](https://open.spotify.com/album/5WAnfvzPNerWLrWtO8f1J8) | 1:24 | 2024-07-07 |  |
@@ -188,6 +189,7 @@
 | [Мефистофель](https://open.spotify.com/track/6hqHMxZAXwS2FqwmluUSi3) | [5mewmet](https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih) | [Кетаминовая Яма 2](https://open.spotify.com/album/4HPtCceldRKrNLeJcBuSWk) | 1:26 | 2024-01-29 | 2024-03-01 |
 | [Мечты](https://open.spotify.com/track/48Mtf0Vuc3H7yI56Iz1OhU) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [FEDUK](https://open.spotify.com/artist/3EsjO0y0DE1GC453Sgyr7Z), [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg) | [AA LANGUAGE 2](https://open.spotify.com/album/7IvfbDBurAnYpUC0w1h1Na) | 1:50 | 2024-01-29 | 2024-02-18 |
 | [МИР ГОРИТ](https://open.spotify.com/track/1L5KNP37brkkpexAqodMwZ) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [МИР ГОРИТ](https://open.spotify.com/album/0w5dUhpKSPd2Hpkekal8GN) | 3:25 | 2024-05-15 | 2024-05-20 |
+| [можно](https://open.spotify.com/track/2zQYnQQDFuW5rCBaXlkodn) | [Госпожа Эвелин](https://open.spotify.com/artist/41LPLkAOe7BxiwPqa6S50q) | [можно](https://open.spotify.com/album/3Jb4g7CDEKcj9mC1ikGQbE) | 1:54 | 2024-08-23 |  |
 | [Можно я с тобой](https://open.spotify.com/track/0MRBhe9wjupFpmdKGh3Xhp) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/1P6jao46qEoaobNco6B0yl) | 2:12 | 2024-05-22 |  |
 | [Можно я с тобой](https://open.spotify.com/track/2KlFcj8nBHh4VSg7lkQOqJ) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/2v232fMW91TYINJUwtgwOB) | 2:12 | 2024-03-04 | 2024-03-14 |
 | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/track/4CvrZAA0I1rG4tlvwYydi4) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/album/7Kc9koYXi87S1nPJ9EOZmK) | 2:12 | 2024-03-13 | 2024-05-23 |

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92175,
+  "num_followers": 92195,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "After All The Bars Are Closed",
-        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "After All The Bars Are Closed",
-      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Regnbl\u00f6ta skor",
         "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
       },
@@ -315,18 +299,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Don't Blame It On Me",
-        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 168933,
-      "name": "Don't Blame It On Me",
-      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -343,6 +327,22 @@
       "duration_ms": 220666,
       "name": "right person, wrong time",
       "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Don't Blame It On Me",
+        "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 168933,
+      "name": "Don't Blame It On Me",
+      "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "WILDSIDE",
-        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
-      },
-      "artists": [
-        {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "WILDSIDE",
-      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/5GKNtp0KLwDysaUXwZNeib"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 200649,
       "name": "Walked on Water (feat. Kesha)",
       "url": "https://open.spotify.com/track/15Dz1snbrX3zsvYU0F28g1"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "WILDSIDE",
+        "url": "https://open.spotify.com/album/6ggMT935Pv86JpdRYw6RiV"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "WILDSIDE",
+      "url": "https://open.spotify.com/track/7eekKD4pyyAVsHm84WCvNB"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Drakar",
-        "url": "https://open.spotify.com/album/39WTqqEmR9dZV7ygjX1TxE"
-      },
-      "artists": [
-        {
-          "name": "Niello",
-          "url": "https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7"
-        },
-        {
-          "name": "Lisa Ekdahl",
-          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
-        }
-      ],
-      "duration_ms": 168566,
-      "name": "Drakar",
-      "url": "https://open.spotify.com/track/4ip89aAHN98ptLeYzpB3OS"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Fri till slut - Spotify Singles",
         "url": "https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Drakar",
+        "url": "https://open.spotify.com/album/39WTqqEmR9dZV7ygjX1TxE"
+      },
+      "artists": [
+        {
+          "name": "Niello",
+          "url": "https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7"
+        },
+        {
+          "name": "Lisa Ekdahl",
+          "url": "https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE"
+        }
+      ],
+      "duration_ms": 168566,
+      "name": "Drakar",
+      "url": "https://open.spotify.com/track/4ip89aAHN98ptLeYzpB3OS"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0"
-      },
-      "artists": [
-        {
-          "name": "ELMA",
-          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
-        }
-      ],
-      "duration_ms": 194509,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/3uxYhXV0mZimmqvRbZbpX7"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Min Elsa",
         "url": "https://open.spotify.com/album/3uNPo9qEdsW5q7eUev4tfC"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 172602,
       "name": "Min Elsa",
       "url": "https://open.spotify.com/track/18D6W7pJJqwbalzijKOXpB"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0"
+      },
+      "artists": [
+        {
+          "name": "ELMA",
+          "url": "https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c"
+        }
+      ],
+      "duration_ms": 194509,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/3uxYhXV0mZimmqvRbZbpX7"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Pl\u00e5ster",
+        "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
+      },
+      "artists": [
+        {
+          "name": "Stiko Per Larsson",
+          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
+        }
+      ],
+      "duration_ms": 299861,
+      "name": "Pl\u00e5ster",
+      "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Sommarens famn",
         "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
       },
@@ -1095,18 +1111,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Pl\u00e5ster",
-        "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
+        "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj (Fr\u00e5n \"Svenska revyn\")",
+        "url": "https://open.spotify.com/album/3LguV8haPBBtIQmzdhG9ws"
       },
       "artists": [
         {
-          "name": "Stiko Per Larsson",
-          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
+          "name": "Henrik Dorsin",
+          "url": "https://open.spotify.com/artist/26ELugcMgfqnLLFQHlhrSd"
+        },
+        {
+          "name": "Per \u201cPutte\u201d Ekdahls orkester",
+          "url": "https://open.spotify.com/artist/4OFi5n5FmjB8GhTTaAdjMg"
         }
       ],
-      "duration_ms": 299861,
-      "name": "Pl\u00e5ster",
-      "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
+      "duration_ms": 297895,
+      "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj - Fr\u00e5n \"Svenska revyn\"",
+      "url": "https://open.spotify.com/track/73ZSckcVhaQndTcLpeQEvm"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1143,6 +1163,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "\u00c4nglarna",
+        "url": "https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Lundqvist",
+          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "\u00c4nglarna",
+      "url": "https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
       },
@@ -1155,26 +1191,6 @@
       "duration_ms": 176776,
       "name": "I Had Some Help",
       "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj (Fr\u00e5n \"Svenska revyn\")",
-        "url": "https://open.spotify.com/album/3LguV8haPBBtIQmzdhG9ws"
-      },
-      "artists": [
-        {
-          "name": "Henrik Dorsin",
-          "url": "https://open.spotify.com/artist/26ELugcMgfqnLLFQHlhrSd"
-        },
-        {
-          "name": "Per \u201cPutte\u201d Ekdahls orkester",
-          "url": "https://open.spotify.com/artist/4OFi5n5FmjB8GhTTaAdjMg"
-        }
-      ],
-      "duration_ms": 297895,
-      "name": "Det l\u00f6ser sig med bl\u00e5b\u00e4rspaj - Fr\u00e5n \"Svenska revyn\"",
-      "url": "https://open.spotify.com/track/73ZSckcVhaQndTcLpeQEvm"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1207,6 +1223,22 @@
       "duration_ms": 171038,
       "name": "Peaceful Easy Feeling",
       "url": "https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Siljans strand / Midsommarvisa",
+        "url": "https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw"
+      },
+      "artists": [
+        {
+          "name": "Stiko Per Larsson",
+          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
+        }
+      ],
+      "duration_ms": 226680,
+      "name": "Siljans strand",
+      "url": "https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1247,22 +1279,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Siljans strand / Midsommarvisa",
-        "url": "https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw"
-      },
-      "artists": [
-        {
-          "name": "Stiko Per Larsson",
-          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Siljans strand",
-      "url": "https://open.spotify.com/track/1H8DYjLRJ8MLtJiz4uKTkK"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Not With You",
         "url": "https://open.spotify.com/album/6C87WyxHXIgupIrGXlY1JJ"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 208153,
       "name": "Not With You",
       "url": "https://open.spotify.com/track/5TVRqKHORb3AhjwaLxOqct"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "\u00c4nglarna",
-        "url": "https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Lundqvist",
-          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "\u00c4nglarna",
-      "url": "https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Jag g\u00f6r allt som man inte f\u00e5r",
-        "url": "https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz"
-      },
-      "artists": [
-        {
-          "name": "Rolf Wikstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Jag g\u00f6r allt som man inte f\u00e5r",
-      "url": "https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "I Keep On Falling in Love",
         "url": "https://open.spotify.com/album/0ymhQryQrdMfStblEmf8bB"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 210413,
       "name": "I Keep On Falling in Love",
       "url": "https://open.spotify.com/track/4hSFhD9TNsgiHg0LazilZI"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Jag g\u00f6r allt som man inte f\u00e5r",
+        "url": "https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz"
+      },
+      "artists": [
+        {
+          "name": "Rolf Wikstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Jag g\u00f6r allt som man inte f\u00e5r",
+      "url": "https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "The Player",
+        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "The Player",
+      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Endless Road",
         "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
       },
@@ -1467,6 +1483,38 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Ge En Sol",
+        "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
+      },
+      "artists": [
+        {
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+        }
+      ],
+      "duration_ms": 172166,
+      "name": "Ge En Sol",
+      "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Flowers at a Funeral",
+        "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Flowers at a Funeral",
+      "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Double Up",
         "url": "https://open.spotify.com/album/6xV6TtGQLjtdK7MMYruM9Q"
       },
@@ -1483,54 +1531,6 @@
       "duration_ms": 177562,
       "name": "Double Up",
       "url": "https://open.spotify.com/track/7dM1Z6C8e9V71d04CS2E5L"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9"
-      },
-      "artists": [
-        {
-          "name": "Sofi Bonde",
-          "url": "https://open.spotify.com/artist/5bj7t0m3RGAPVDNG7EaOj6"
-        }
-      ],
-      "duration_ms": 224402,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "The Player",
-        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "The Player",
-      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Ge En Sol",
-        "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
-      },
-      "artists": [
-        {
-          "name": "Sara Zacharias",
-          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
-        }
-      ],
-      "duration_ms": 172166,
-      "name": "Ge En Sol",
-      "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Flowers at a Funeral",
-        "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
+        "name": "You",
+        "url": "https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9"
       },
       "artists": [
         {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+          "name": "Sofi Bonde",
+          "url": "https://open.spotify.com/artist/5bj7t0m3RGAPVDNG7EaOj6"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Flowers at a Funeral",
-      "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
+      "duration_ms": 224402,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX"
     }
   ],
   "unique_name": "Aktuellt",

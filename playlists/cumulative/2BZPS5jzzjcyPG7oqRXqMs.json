@@ -6052,10 +6052,36 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 128933,
       "name": "We Become We",
       "url": "https://open.spotify.com/track/6fMG6aQhcMhgfZGISkdvxZ"
+    },
+    {
+      "album": {
+        "name": "We Become We - From \u201cJourney To Bethlehem\u201d",
+        "url": "https://open.spotify.com/album/376t3bgY9AwvVvlK2EVXjY"
+      },
+      "artists": [
+        {
+          "name": "The Cast Of Journey To Bethlehem",
+          "url": "https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup"
+        },
+        {
+          "name": "Fiona Palomo",
+          "url": "https://open.spotify.com/artist/5xXDSTO0sufLEplESs2MSW"
+        },
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128933,
+      "name": "We Become We - From \u201cJourney To Bethlehem\u201d",
+      "url": "https://open.spotify.com/track/6VzynQkBcxPO5Z3Q6Qel4H"
     },
     {
       "album": {

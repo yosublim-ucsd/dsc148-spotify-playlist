@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Nubya Garcia",
+  "description": "New jazz for open minds. Cover: Tank and the Bangas",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -5025,6 +5025,24 @@
     },
     {
       "album": {
+        "name": "Alternate Summer",
+        "url": "https://open.spotify.com/album/1zebikSXM9BKeiO56EL71C"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376800,
+      "name": "Chalcedon",
+      "url": "https://open.spotify.com/track/4SRS9WPIKQ2utUk5ojd4XY"
+    },
+    {
+      "album": {
         "name": "Chandler",
         "url": "https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8"
       },
@@ -5756,7 +5774,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 336443,
       "name": "Come Talk to Me",
       "url": "https://open.spotify.com/track/6MjQOY7bzbrcktQOGZG5Tr"
@@ -5898,6 +5916,36 @@
       "duration_ms": 302546,
       "name": "Contra",
       "url": "https://open.spotify.com/track/4zcSxhs5fzmXqO2VBblm8h"
+    },
+    {
+      "album": {
+        "name": "Free Trap",
+        "url": "https://open.spotify.com/album/1W6O3yZir8yLmqBZu3kHbg"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        },
+        {
+          "name": "TyC",
+          "url": "https://open.spotify.com/artist/2VjJ70ddXIbIGaeR5h35Ry"
+        },
+        {
+          "name": "Gabe Jones",
+          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
+        },
+        {
+          "name": "Tommy Lehman",
+          "url": "https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214708,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4DHcY0NyOusUtbcYBfiUs9"
     },
     {
       "album": {
@@ -6050,7 +6098,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 208155,
       "name": "Courage",
       "url": "https://open.spotify.com/track/2i6pMDJd8lcKpD6gOOnEsl"
@@ -6234,7 +6282,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 276680,
       "name": "C\u00e9zanne",
       "url": "https://open.spotify.com/track/0JERQpFXjfbK8pWqKGiMXF"
@@ -9441,6 +9489,28 @@
     },
     {
       "album": {
+        "name": "Feels Like Yesterday",
+        "url": "https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129748,
+      "name": "Feels Like Yesterday",
+      "url": "https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI"
+    },
+    {
+      "album": {
         "name": "The Southern Suite",
         "url": "https://open.spotify.com/album/6s49yqVpAtx05F2J16ciYr"
       },
@@ -10108,6 +10178,24 @@
       "duration_ms": 199418,
       "name": "Freight",
       "url": "https://open.spotify.com/track/3k63MoKSa1ivGMHOSMAySF"
+    },
+    {
+      "album": {
+        "name": "French Horns",
+        "url": "https://open.spotify.com/album/7wZtgAFAjPWqsZo9Ywgtmx"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "French Horns",
+      "url": "https://open.spotify.com/track/3ZUvVOCj7KGLZZC9nCuYhQ"
     },
     {
       "album": {
@@ -11026,6 +11114,32 @@
       "duration_ms": 435306,
       "name": "Good Trouble, for John Lewis",
       "url": "https://open.spotify.com/track/1PArjhY3mBNVgpjlAMfrZ6"
+    },
+    {
+      "album": {
+        "name": "Goodbye Pork Pie Hat",
+        "url": "https://open.spotify.com/album/5db6RoNey80Ho1ovO2Ph9y"
+      },
+      "artists": [
+        {
+          "name": "Domenico Sanna",
+          "url": "https://open.spotify.com/artist/7FzyFf3LPN7errxLk8j2Sp"
+        },
+        {
+          "name": "Ameen Saleem",
+          "url": "https://open.spotify.com/artist/06PqoAQfQ2qejtBsWr5022"
+        },
+        {
+          "name": "Gregory Hutchinson",
+          "url": "https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265506,
+      "name": "Goodbye Pork Pie Hat",
+      "url": "https://open.spotify.com/track/6rPopMdcPX74K6ZlwtTi09"
     },
     {
       "album": {
@@ -17301,6 +17415,24 @@
     },
     {
       "album": {
+        "name": "Misanthrope's Hymn",
+        "url": "https://open.spotify.com/album/3IgLL4Xq4uP9uYrguIwKvI"
+      },
+      "artists": [
+        {
+          "name": "Walter Smith III",
+          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369253,
+      "name": "Misanthrope's Hymn",
+      "url": "https://open.spotify.com/track/55gPsGRHeTmZv33UeoFYxP"
+    },
+    {
+      "album": {
         "name": "Undertones (Live)",
         "url": "https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw"
       },
@@ -18536,7 +18668,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 219120,
       "name": "NEW POWER",
       "url": "https://open.spotify.com/track/4gDdNk7QLJ94bxKjy9VMDX"
@@ -20062,7 +20194,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 336906,
       "name": "Ottobre",
       "url": "https://open.spotify.com/track/37EtjdiQZuYPgQ6A5fkE7D"
@@ -20830,7 +20962,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 303687,
       "name": "Philly Minions",
       "url": "https://open.spotify.com/track/0CNlech8ixhk4cbAHrCZ25"
@@ -22321,6 +22453,32 @@
     },
     {
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5F9W0ZzmESRfGUvMluW1kU"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        },
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240538,
+      "name": "Remember (feat. Samara Joy, Robert Glasper)",
+      "url": "https://open.spotify.com/track/1j8K2Lv9a3oPOxu0wXCsla"
+    },
+    {
+      "album": {
         "name": "Origin",
         "url": "https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE"
       },
@@ -23056,6 +23214,28 @@
       "duration_ms": 392942,
       "name": "Ruby Dance",
       "url": "https://open.spotify.com/track/4jVJyn1mluD7WzJIHR4Nf0"
+    },
+    {
+      "album": {
+        "name": "Ruby My Dear (Radio Edit)",
+        "url": "https://open.spotify.com/album/62h4vb7MNgMwn41BRbmDFv"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        },
+        {
+          "name": "Geri Allen",
+          "url": "https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442002,
+      "name": "Ruby My Dear - Radio Edit",
+      "url": "https://open.spotify.com/track/22iEyK5qJrGKIIVNBTG7SD"
     },
     {
       "album": {
@@ -25420,7 +25600,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 288351,
       "name": "State of the Mental - Instrumental",
       "url": "https://open.spotify.com/track/1kC1Jhkzkta20TuEtEp7Uf"
@@ -26048,6 +26228,32 @@
       "duration_ms": 452393,
       "name": "Suite 408",
       "url": "https://open.spotify.com/track/1bZH4iix8YTwyoNzFVMTYa"
+    },
+    {
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/12pMtgGiB879imf4fnQj1I"
+      },
+      "artists": [
+        {
+          "name": "Avishai Cohen",
+          "url": "https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l"
+        },
+        {
+          "name": "Roni Kaspi",
+          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
+        },
+        {
+          "name": "Guy Moskovich",
+          "url": "https://open.spotify.com/artist/3ayMZIWae6YcKu9kdj0pVK"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263649,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5t9OXfSNOOc8F5JdO1OI6g"
     },
     {
       "album": {
@@ -29926,7 +30132,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 343373,
       "name": "Tsamykonos",
       "url": "https://open.spotify.com/track/1VMHdwCCCqhxEzq6x2jZF1"
@@ -30912,7 +31118,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 172782,
       "name": "Vita",
       "url": "https://open.spotify.com/track/1YPkJ8YxFYPbtHD6uCaSnG"
@@ -30930,7 +31136,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 150329,
       "name": "Voices in my Head",
       "url": "https://open.spotify.com/track/1tYkD1SYRtTGjOhczQ7IuW"
@@ -32588,6 +32794,36 @@
       "duration_ms": 288950,
       "name": "You and the Night and the Music",
       "url": "https://open.spotify.com/track/38c784KxSdIUzJoz37ZJCZ"
+    },
+    {
+      "album": {
+        "name": "You Are",
+        "url": "https://open.spotify.com/album/2AkFRvvzpDPUCkmsFoIM0a"
+      },
+      "artists": [
+        {
+          "name": "Scott Colley",
+          "url": "https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs"
+        },
+        {
+          "name": "Edward Simon",
+          "url": "https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463598,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/4Q5mbSRm09rfhISzSS1L27"
     },
     {
       "album": {

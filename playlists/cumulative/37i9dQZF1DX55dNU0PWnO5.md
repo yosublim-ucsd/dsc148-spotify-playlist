@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-412 songs - 1 day 0 hr 56 min
+413 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Anzio](https://open.spotify.com/track/6hKaFy6fU9YR0H1SWqh1LT) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Anzio](https://open.spotify.com/album/1ZkhTi6giWgtNDVMs1KYys) | 2:58 | 2023-06-23 |  |
 | [Around the stabs](https://open.spotify.com/track/2Ix2f5OnsIDSvSjcwOxzv4) | [Hirshy](https://open.spotify.com/artist/05iOlkEoADKxlGg776876i) | [Around the stabs](https://open.spotify.com/album/5HqljPTsCr2Sm0it9VhLiI) | 3:04 | 2022-05-16 |  |
 | [Ascendence](https://open.spotify.com/track/6k6qH3laE9HyzDgaXWcHfJ) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY), [Svoy](https://open.spotify.com/artist/2xEdZTDak84WNqm4fopNxO) | [Ascendence](https://open.spotify.com/album/1NcZT5C3yNKGhY5oThnkIV) | 3:54 | 2024-03-01 |  |
+| [Aurora](https://open.spotify.com/track/7mqfcqAl6KdHv3Hk6iVILJ) | [Leif Maine](https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Volte\-Face](https://open.spotify.com/album/42Zh1ftsN4bR2zwJXEtCoE) | 2:42 | 2024-08-23 |  |
 | [Autophagy Master](https://open.spotify.com/track/3p0bE9o9cM1sFafJUjqKDT) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [DJ PRAWN](https://open.spotify.com/artist/4jPW4kWsgb8VvOnkEofr5x), [Trey Tarzia](https://open.spotify.com/artist/2KRPe190bgjDaiDUsbtt4R), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Jellowstoned](https://open.spotify.com/album/3gzVnpDE5qcrusH3UuNOZT) | 2:52 | 2024-04-19 |  |
 | [Back to the Grind](https://open.spotify.com/track/2eFudpKhUZAai09n869l2g) | [Bao](https://open.spotify.com/artist/4vFpR9EhP5zCcxBIadxBXg), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [Back to the Grind](https://open.spotify.com/album/6MzTGkuB3gv3ZA9xFyq48y) | 2:46 | 2024-03-29 |  |
 | [Bangerang](https://open.spotify.com/track/6s28dDs4TFJiLUbtpPCQJW) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB), [Tommy Lehman](https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h) | [Bangerang](https://open.spotify.com/album/1NjtM3sdelZWmjmYIxB6s3) | 3:22 | 2022-03-25 | 2022-07-29 |
@@ -302,7 +303,7 @@
 | [Sadboys2020](https://open.spotify.com/track/3MtAOH2nJoLMeKFkEN8PuG) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Honk If You're Sad](https://open.spotify.com/album/24YxXPFVExwXvkDkjVGzvC) | 4:00 | 2022-04-29 |  |
 | [Sadboys2020](https://open.spotify.com/track/4HRP3KpGutMNyj3UevMxTy) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU) | [Honk If You're Sad](https://open.spotify.com/album/6vaViTZ9Hqlj2zo30JVR4U) | 4:00 | 2022-05-16 | 2024-04-19 |
 | [Saga of Robert and Lauryn](https://open.spotify.com/track/6wLsSF1scWTuKUCcFtsFM5) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Saga of Robert and Lauryn](https://open.spotify.com/album/46748hpUzt23YnErcLskie) | 3:36 | 2021-04-09 | 2022-07-27 |
-| [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 | 2022-05-20 |  |
+| [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 | 2022-05-20 | 2024-08-24 |
 | [Sauce Brazil](https://open.spotify.com/track/1enqMgoegZ9tTVhmDfpv3t) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv), [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Back & Forth](https://open.spotify.com/album/1dL25WjfKgZ0aSPtfiaxOE) | 5:06 | 2022-05-20 | 2024-04-19 |
 | [Sauce Brazil](https://open.spotify.com/track/3qoi5xFFw0UhGVAEkjkva7) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv), [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Sauce Brazil](https://open.spotify.com/album/2kIe5TGnIaLKYh0g1tIW70) | 5:06 | 2022-05-16 |  |
 | [Saudade da Festa](https://open.spotify.com/track/35sKN3l62pOBhzu6yqMiAE) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM), [Aquiles Navarro](https://open.spotify.com/artist/615UQ2I7eSQVkvMrYIImNZ), [Tali Lamaison](https://open.spotify.com/artist/7DuJwh4J3waP5PYvcLmO3e) | [Saudade da Festa](https://open.spotify.com/album/40zpDaK3TFAP53BtRM2Eqo) | 2:57 | 2021-03-26 |  |

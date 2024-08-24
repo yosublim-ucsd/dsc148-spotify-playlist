@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 
 > Soul for the blues\. Cover: Otis Redding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,229 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,426 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXchlyaSeZp0q.md) - [plain]
 | 36 | [Wish You Were Here](https://open.spotify.com/track/2BZjcbZpQyyhpVr3gMGPn6) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Faithful Man](https://open.spotify.com/album/38vdzwOSCNDvh81G0QmGfk) | 4:12 |
 | 37 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
 | 38 | [Bad Luck \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 6:26 |
-| 39 | [What I Need Is Love](https://open.spotify.com/track/46zfaRtWBbR8nd5myuH6JQ) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [You'll Lose A Good Thing](https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ) | 2:28 |
-| 40 | [I'll never do you wrong](https://open.spotify.com/track/6hG59WXc951utGHcrbhr4V) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [The Very Best of, Volume 1](https://open.spotify.com/album/4nctU0RFRsjiYDgnYNcix5) | 3:08 |
+| 39 | [I'll never do you wrong](https://open.spotify.com/track/6hG59WXc951utGHcrbhr4V) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [The Very Best of, Volume 1](https://open.spotify.com/album/4nctU0RFRsjiYDgnYNcix5) | 3:08 |
+| 40 | [What I Need Is Love](https://open.spotify.com/track/46zfaRtWBbR8nd5myuH6JQ) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [You'll Lose A Good Thing](https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ) | 2:28 |
 
 Snapshot ID: `ZowpKAAAAAD1RDAS4hvYz0Msef1hHdm7`

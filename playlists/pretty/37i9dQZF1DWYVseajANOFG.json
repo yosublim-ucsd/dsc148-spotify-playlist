@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
-  "num_followers": 118779,
+  "num_followers": 118829,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAACPIS/+bVsrMsXQhxmmmSWn",
+  "snapshot_id": "ZsgJQAAAAADUs2pSBzFJLZb7899M3JZC",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -69,6 +69,22 @@
       "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"
     },
     {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Amiri",
+        "url": "https://open.spotify.com/album/4csRjxs5QE4MOQaugsyPVp"
+      },
+      "artists": [
+        {
+          "name": "Makano",
+          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Amiri",
+      "url": "https://open.spotify.com/track/6FDMu3kDZPIhiUz2srZvuU"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "De 0 a 100",
@@ -109,6 +125,26 @@
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
     },
     {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Cuando",
+        "url": "https://open.spotify.com/album/68TiuUpgtjXf4iMjypi0sq"
+      },
+      "artists": [
+        {
+          "name": "Predikador",
+          "url": "https://open.spotify.com/artist/2thPpoFosFJC33Yy4xIAWY"
+        },
+        {
+          "name": "El Roockie",
+          "url": "https://open.spotify.com/artist/3sc8HnadkPW5YaIGbCljw4"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/6bqEwYcDLJYMnTo7JmBWHe"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "La Ruta",
@@ -137,24 +173,24 @@
       "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Entre Tantas",
-        "url": "https://open.spotify.com/album/7zHZnAmhgExCtZ4ird0Hb1"
+        "name": "Money Making Guy",
+        "url": "https://open.spotify.com/album/4g87H5cTTkbKiIFri7nrln"
       },
       "artists": [
         {
-          "name": "Flama",
-          "url": "https://open.spotify.com/artist/0lhXYjnd2XC8SeyT0opzNg"
+          "name": "Danger Man",
+          "url": "https://open.spotify.com/artist/2sJrkdfEkurbjXycyjuybI"
         },
         {
-          "name": "Andres Couper",
-          "url": "https://open.spotify.com/artist/5MM5EKv4qZf92tutw74bpe"
+          "name": "Japanese",
+          "url": "https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT"
         }
       ],
-      "duration_ms": 141888,
-      "name": "Entre Tantas",
-      "url": "https://open.spotify.com/track/2Im6o5icHHV4vY5hnMZVeS"
+      "duration_ms": 103096,
+      "name": "Money Making Guy",
+      "url": "https://open.spotify.com/track/2Se1amw8WTAeORP5NnuSKC"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -197,28 +233,24 @@
       "url": "https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Pone & Pone",
-        "url": "https://open.spotify.com/album/7sURMroHOvNYn5T5XLdVfh"
+        "name": "FAVELA",
+        "url": "https://open.spotify.com/album/2tjEG5AdeMjpYyCR6nbXU6"
       },
       "artists": [
         {
-          "name": "Anyuri",
-          "url": "https://open.spotify.com/artist/3CC7UwBlcBeQtj20V9xjiE"
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
         },
         {
-          "name": "LH",
-          "url": "https://open.spotify.com/artist/4ebruhG8pei8qFQOfNxxLs"
-        },
-        {
-          "name": "Crissy",
-          "url": "https://open.spotify.com/artist/6q5vGWpgDni3Twrof2jUcY"
+          "name": "SMILE BEATS",
+          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
         }
       ],
-      "duration_ms": 201142,
-      "name": "Pone & Pone",
-      "url": "https://open.spotify.com/track/4iqa1XmmNoB7GvKm5hUP7g"
+      "duration_ms": 183958,
+      "name": "FAVELA",
+      "url": "https://open.spotify.com/track/71LrvCBBn4q500OuayF7OK"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -257,24 +289,24 @@
       "url": "https://open.spotify.com/track/5PEzhJIvmjFCFZcFZRze9S"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/502HTZa2IfWh9QNLbrLhlV"
+        "name": "Vip",
+        "url": "https://open.spotify.com/album/28eakD0gKzXmiKLV1yrVkh"
       },
       "artists": [
         {
-          "name": "Eddy Lover",
-          "url": "https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX"
+          "name": "DimeloYossi",
+          "url": "https://open.spotify.com/artist/5Hq36dh82zGGB2mTEMb652"
         },
         {
-          "name": "Predikador",
-          "url": "https://open.spotify.com/artist/2thPpoFosFJC33Yy4xIAWY"
+          "name": "Kabliz",
+          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
         }
       ],
-      "duration_ms": 158615,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/0riQdS5CJ3xPStmtOI2TsF"
+      "duration_ms": 213552,
+      "name": "Vip",
+      "url": "https://open.spotify.com/track/1PlRznnNpnc78OjG52TtLL"
     },
     {
       "added_at": "2024-02-15 17:30:32",
@@ -311,26 +343,6 @@
       "duration_ms": 210000,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/0aP4dyDE4k1LUg7TAgYYRx"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "GANGSTER",
-        "url": "https://open.spotify.com/album/778GOmSW61qgyGD2kg2sO1"
-      },
-      "artists": [
-        {
-          "name": "Shyno",
-          "url": "https://open.spotify.com/artist/0BaQaJxpYSd7iRsLYBv2Xm"
-        },
-        {
-          "name": "Riccheza",
-          "url": "https://open.spotify.com/artist/6uMRvAdfHhtFzku8dtq43Z"
-        }
-      ],
-      "duration_ms": 181700,
-      "name": "GANGSTER",
-      "url": "https://open.spotify.com/track/2znqtjA6QsoI9CEOcPtQ4Q"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -371,6 +383,22 @@
       "duration_ms": 211983,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/1ARzLQnVJwKNiHTULmi28n"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "No Son Traquetos",
+        "url": "https://open.spotify.com/album/3uKIEwqBL69WhCjsvblPRe"
+      },
+      "artists": [
+        {
+          "name": "EL BEWI",
+          "url": "https://open.spotify.com/artist/0TscbxeMzPiEDhB0NlmNuL"
+        }
+      ],
+      "duration_ms": 182674,
+      "name": "No Son Traquetos",
+      "url": "https://open.spotify.com/track/2LXMqzZKPiSaK4yTJMYt6r"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -479,26 +507,6 @@
       "duration_ms": 214961,
       "name": "Vicio",
       "url": "https://open.spotify.com/track/0JJ074OaMdofBdF5DRqOVr"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Tu Man",
-        "url": "https://open.spotify.com/album/4XuOjGyUerxGIRnGai6ZmS"
-      },
-      "artists": [
-        {
-          "name": "Josuan",
-          "url": "https://open.spotify.com/artist/4I8dxVJ518Fc8xqfIilTeU"
-        },
-        {
-          "name": "Valentino GRM",
-          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
-        }
-      ],
-      "duration_ms": 239634,
-      "name": "Tu Man",
-      "url": "https://open.spotify.com/track/3wMxU6KYZ89HhYSBoJe78M"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -707,26 +715,6 @@
       "duration_ms": 199148,
       "name": "Ya Ni Se",
       "url": "https://open.spotify.com/track/270ZMuPkTL02DYyG2ntJv2"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Obsesi\u00f3n",
-        "url": "https://open.spotify.com/album/5wQJnvv4Bga1fgRzoIeWQU"
-      },
-      "artists": [
-        {
-          "name": "Haquil",
-          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
-        },
-        {
-          "name": "One Time Music",
-          "url": "https://open.spotify.com/artist/33me5od0CPHlQtuzgHkF7h"
-        }
-      ],
-      "duration_ms": 203357,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4nHjRhTWGC2LgJVB8Z2ulj"
     },
     {
       "added_at": "2024-02-02 05:00:00",

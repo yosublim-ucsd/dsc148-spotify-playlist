@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-218 songs - 12 hr 49 min
+219 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Undead Murder Farce](https://open.spotify.com/track/4n3tx3Ur7Yf5504K0Iog9W) | [Mara Carlyle](https://open.spotify.com/artist/165UIU9o6ULboTQs0QYXj1), [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [Undead Murder Farce \(Original Series Soundtrack\)](https://open.spotify.com/album/6NYKmuUwNeJW3IYaG2Bngq) | 4:25 | 2023-07-28 |  |
 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 | 2023-01-13 | 2023-12-14 |
 | [Viral Hit](https://open.spotify.com/track/5luvvsngp4hbs4vwZGdMjn) | [Yutaka Yamada](https://open.spotify.com/artist/0G8iubd5gKv5vdPnmHRaxT), [Bobby John](https://open.spotify.com/artist/6QI1mcZG5nePp3poiPUYJD) | [Viral Hit \(Original Soundtrack\)](https://open.spotify.com/album/2mfrIRhlfdauSlA4qqK6Ml) | 3:09 | 2024-04-26 |  |
+| [Water Run](https://open.spotify.com/track/0TT96iwokXhohfFvdCOsrb) | [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y) | [Bye Bye, Earth \- Vol\. 1 \(Original Anime Series Soundtrack\)](https://open.spotify.com/album/1xqVscAg5Apa7CR6BATdRD) | 3:01 | 2024-08-23 |  |
 | [Wave](https://open.spotify.com/track/2QkBSAn7hcxElro2UEI1ux) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Layers](https://open.spotify.com/album/6kDQ4uisku1cm591Y1ix3Q) | 2:25 | 2022-02-18 | 2022-12-10 |
 | [Welcome to the Party \(feat\. Zhavia\)](https://open.spotify.com/track/0UBafqn0HVWRceDnOv2SZu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Zhavia](https://open.spotify.com/artist/1CO6e7WRJvSFenmQO8n64C) | [Deadpool 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2NvfPngtKzNClIdFMuUAxl) | 3:01 | 2022-02-18 | 2022-12-10 |
 | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/2EMXqSv1xiGy0PfTIB0Uz3) | [Aoiema](https://open.spotify.com/artist/10XKbVG4CEEwWKkcSRAG8D), [Mashiro Uchida](https://open.spotify.com/artist/3kFbGXxreI0op7aD2SInoo), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [When Wishes Bloom \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/4kxAWubYxgVBB6149n7Pi9) | 4:38 | 2024-03-29 |  |

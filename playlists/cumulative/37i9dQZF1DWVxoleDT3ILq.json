@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "Todo el sonido indie de Chile. Foto: Cancamusa.",
+  "description": "Todo el sonido indie de Chile. Foto: Dulce y Agraz.",
   "name": "Indie Chile",
   "tracks": [
+    {
+      "album": {
+        "name": "10 minutos",
+        "url": "https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202074,
+      "name": "10 minutos",
+      "url": "https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL"
+    },
     {
       "album": {
         "name": "Traducciones",
@@ -530,7 +548,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 398380,
       "name": "Anatta",
       "url": "https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd"
@@ -976,7 +994,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 190681,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0IfaQfbSQMIjDyYNCLcJ7Z"
@@ -1313,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "Comida China",
+        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162993,
+      "name": "Comida China",
+      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
+    },
+    {
+      "album": {
         "name": "como antes :(",
         "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
       },
@@ -1532,7 +1572,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 204617,
       "name": "Corazonada",
       "url": "https://open.spotify.com/track/36h0uW75FKh8LraW4r9E2X"
@@ -1688,6 +1728,28 @@
       "duration_ms": 252044,
       "name": "Cuotas",
       "url": "https://open.spotify.com/track/7pRYt9hsBvUjdiWFGKigld"
+    },
+    {
+      "album": {
+        "name": "Cu\u00e1ndo y D\u00f3nde",
+        "url": "https://open.spotify.com/album/3ABUQjkrlpiczuZwbmO4Qf"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        },
+        {
+          "name": "Luz Elena Mendoza",
+          "url": "https://open.spotify.com/artist/1ZHeh74UvOHtp0h6ZNyZtv"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194956,
+      "name": "Cu\u00e1ndo y D\u00f3nde",
+      "url": "https://open.spotify.com/track/0Uwd8OYQ22JboX3phAychX"
     },
     {
       "album": {
@@ -2006,7 +2068,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 190566,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/3AlBiuHcUjtTACtAKxI0pK"
@@ -2460,7 +2522,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 124403,
       "name": "El Efecto",
       "url": "https://open.spotify.com/track/2arFzyifrmAqgxnmQQ0SyD"
@@ -2660,7 +2722,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 186893,
       "name": "El Sol y T\u00fa",
       "url": "https://open.spotify.com/track/4I2W2aOUJlmaEbW19PxyYj"
@@ -2998,7 +3060,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 209579,
       "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
       "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
@@ -3294,7 +3356,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 153065,
       "name": "formas de volver a casa",
       "url": "https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu"
@@ -4004,7 +4066,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 196571,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2XxJKaZNhPanBkpGSMoApE"
@@ -4098,7 +4160,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 300272,
       "name": "La Casa Gana",
       "url": "https://open.spotify.com/track/2XxDJqTFLMaLhbQfDOgiYz"
@@ -4384,7 +4446,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 140649,
       "name": "Labios de Miel",
       "url": "https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks"
@@ -4644,7 +4706,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 208441,
       "name": "Lo Que No Hablas",
       "url": "https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb"
@@ -5064,7 +5126,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 236022,
       "name": "Metatr\u00f3n",
       "url": "https://open.spotify.com/track/6qUsTRejNR8WuUVqClm8Li"
@@ -5336,7 +5398,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 236255,
       "name": "Nada Para Ti",
       "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
@@ -6062,7 +6124,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/5a7CMKpx4xdOS6S6r7SfEd"
@@ -6240,7 +6302,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 200238,
       "name": "Peque\u00f1as Esperanzas",
       "url": "https://open.spotify.com/track/4uEpJGZaCOtjNtz4VEUpPr"
@@ -6548,7 +6610,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 236916,
       "name": "Plegarias",
       "url": "https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay"
@@ -6700,7 +6762,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 233528,
       "name": "Prisma",
       "url": "https://open.spotify.com/track/3OrnisN6iubVnRmhNlmQ5g"
@@ -7696,7 +7758,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 206700,
       "name": "Sincron\u00eda Universal - Edici\u00f3n Deluxe",
       "url": "https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j"
@@ -8250,7 +8312,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 219031,
       "name": "Tenemos que cocinar",
       "url": "https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv"
@@ -9418,7 +9480,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 197881,
       "name": "XAT - Juanita La O Remix",
       "url": "https://open.spotify.com/track/2HFqgimGHdB73kdBoNKAY3"

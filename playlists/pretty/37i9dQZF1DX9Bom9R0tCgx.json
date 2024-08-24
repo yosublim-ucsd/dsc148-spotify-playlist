@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 388906,
+  "num_followers": 389026,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -595,26 +595,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "TABU.",
-        "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
-      },
-      "artists": [
-        {
-          "name": "Yung Yury",
-          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
-        },
-        {
-          "name": "Damn Yury",
-          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
-        }
-      ],
-      "duration_ms": 135302,
-      "name": "TABU.",
-      "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "My Gasoline",
         "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 236999,
       "name": "My Gasoline",
       "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "TABU.",
+        "url": "https://open.spotify.com/album/6RfzTgu36z9KsBvxPKoMom"
+      },
+      "artists": [
+        {
+          "name": "Yung Yury",
+          "url": "https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz"
+        },
+        {
+          "name": "Damn Yury",
+          "url": "https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ"
+        }
+      ],
+      "duration_ms": 135302,
+      "name": "TABU.",
+      "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -739,6 +739,26 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Balling (L\u00c4UFF Remix)",
+        "url": "https://open.spotify.com/album/2VwGReme07lzMsGY5JHEXe"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        },
+        {
+          "name": "L\u00c4UFF",
+          "url": "https://open.spotify.com/artist/5hJX0u5GJfdXV7hWGm7e73"
+        }
+      ],
+      "duration_ms": 260689,
+      "name": "Balling - L\u00c4UFF Remix",
+      "url": "https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Click Click Click",
         "url": "https://open.spotify.com/album/5Zvp6MgsmxCHWNB4G7WbVl"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 167600,
       "name": "Click Click Click",
       "url": "https://open.spotify.com/track/5E1XI3JnHOoSEcY2hYnbhj"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Balling (L\u00c4UFF Remix)",
-        "url": "https://open.spotify.com/album/2VwGReme07lzMsGY5JHEXe"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        },
-        {
-          "name": "L\u00c4UFF",
-          "url": "https://open.spotify.com/artist/5hJX0u5GJfdXV7hWGm7e73"
-        }
-      ],
-      "duration_ms": 260689,
-      "name": "Balling - L\u00c4UFF Remix",
-      "url": "https://open.spotify.com/track/3PsQcSCxyOm5l96rQfEjVA"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "T.N.T. (Techno Remix)",
-        "url": "https://open.spotify.com/album/4NydermwrtbQyYQfsawidt"
-      },
-      "artists": [
-        {
-          "name": "Nic Johnston",
-          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
-        }
-      ],
-      "duration_ms": 137473,
-      "name": "T.N.T. - Techno Remix",
-      "url": "https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Hit The Road Jack",
         "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
       },
@@ -1151,22 +1135,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Boom Boom Boom",
-        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
+        "name": "T.N.T. (Techno Remix)",
+        "url": "https://open.spotify.com/album/4NydermwrtbQyYQfsawidt"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+          "name": "Nic Johnston",
+          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
         }
       ],
-      "duration_ms": 181787,
-      "name": "Boom Boom Boom",
-      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
+      "duration_ms": 137473,
+      "name": "T.N.T. - Techno Remix",
+      "url": "https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1191,6 +1171,26 @@
       "duration_ms": 121384,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/050mcqcICeaJ4h2yXdwCHT"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/61kxtwoBSwj15YzF0LZr3G"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 181787,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/2e7cgqJbNLp5W5L2XAinEw"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/5hmgtCgjbaSRGHY9B2W1w2"
-      },
-      "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 176571,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6UQp47gAFE7KmAhh3eutMb"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Queen of Kings (Da Tweekaz x Tungevaag Remix)",
         "url": "https://open.spotify.com/album/0cLcrDXPAQ7JDZ6CsNXLhF"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 145032,
       "name": "Queen of Kings - Da Tweekaz x Tungevaag Remix",
       "url": "https://open.spotify.com/track/5Cmgqsv4Rmodk87JfVydPh"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/5hmgtCgjbaSRGHY9B2W1w2"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6UQp47gAFE7KmAhh3eutMb"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Convivium",
         "url": "https://open.spotify.com/album/0zZaUF6x1OKbeEY1QbJ4Sv"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 133200,
       "name": "Convivium",
       "url": "https://open.spotify.com/track/16koq0SV3LIAXl5V2FfGKM"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Europatr\u00e4ume",
+        "url": "https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf"
+      },
+      "artists": [
+        {
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+        }
+      ],
+      "duration_ms": 216592,
+      "name": "Europatr\u00e4ume",
+      "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx"
       },
@@ -1491,18 +1507,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Europatr\u00e4ume",
-        "url": "https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf"
+        "name": "Stumblin' In (LUNAX Remix)",
+        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
       },
       "artists": [
         {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
         }
       ],
-      "duration_ms": 216592,
-      "name": "Europatr\u00e4ume",
-      "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
+      "duration_ms": 180000,
+      "name": "Stumblin' In (LUNAX Remix)",
+      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1535,26 +1555,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Stumblin' In (LUNAX Remix)",
-        "url": "https://open.spotify.com/album/5b3URVxK37W2advy0gEdj6"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Stumblin' In (LUNAX Remix)",
-      "url": "https://open.spotify.com/track/4ZySJNZ7LRTlPFhzBHs2oV"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Dance Therapy",
         "url": "https://open.spotify.com/album/12V052Mk8ocjWz8LW5lpaa"
       },
@@ -1583,46 +1583,6 @@
       "duration_ms": 163165,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Rave Generator",
-        "url": "https://open.spotify.com/album/2GFWUP3aHHxvCAXDKP7cNf"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 112499,
-      "name": "Rave Generator",
-      "url": "https://open.spotify.com/track/25Mloe1yvLqjNDIpi7dtfd"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "P.I.M.P",
-        "url": "https://open.spotify.com/album/2obXOASaM8BX9vlhWW24Ts"
-      },
-      "artists": [
-        {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
-        },
-        {
-          "name": "Swizznife",
-          "url": "https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a"
-        }
-      ],
-      "duration_ms": 117882,
-      "name": "P.I.M.P",
-      "url": "https://open.spotify.com/track/4aIJ6bMEK91amdy07Ap21o"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1671,6 +1631,66 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Rave Generator",
+        "url": "https://open.spotify.com/album/2GFWUP3aHHxvCAXDKP7cNf"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 112499,
+      "name": "Rave Generator",
+      "url": "https://open.spotify.com/track/25Mloe1yvLqjNDIpi7dtfd"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "KAJAK",
+          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
+        }
+      ],
+      "duration_ms": 192643,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "P.I.M.P",
+        "url": "https://open.spotify.com/album/2obXOASaM8BX9vlhWW24Ts"
+      },
+      "artists": [
+        {
+          "name": "Alfons",
+          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+        },
+        {
+          "name": "Swizznife",
+          "url": "https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a"
+        }
+      ],
+      "duration_ms": 117882,
+      "name": "P.I.M.P",
+      "url": "https://open.spotify.com/track/4aIJ6bMEK91amdy07Ap21o"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "9mm",
         "url": "https://open.spotify.com/album/3sci6Sx5qkPpOxTVYXYzxD"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "KAJAK",
-          "url": "https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt"
-        }
-      ],
-      "duration_ms": 192643,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1975,6 +1975,26 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Atlantis",
+        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "OneHundred",
         "url": "https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE"
       },
@@ -1995,26 +2015,6 @@
       "duration_ms": 189376,
       "name": "OneHundred",
       "url": "https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        },
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/7qOHKIBWU9ygcoYA7B23wP"
     },
     {
       "added_at": "2024-08-22 22:00:00",

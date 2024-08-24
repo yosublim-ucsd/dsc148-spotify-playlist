@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 27668,
+  "num_followers": 27673,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAADpzRh+hfA7UtMrHsGGMuue",
+  "snapshot_id": "ZsZ/gAAAAAAX5zDf3ujLW8D7UWGdPMR7",
   "tracks": [
     {
       "added_at": null,
@@ -43,13 +43,13 @@
     {
       "added_at": null,
       "album": {
-        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "name": "The London Howlin\u2019 Wolf Sessions - Deluxe Edition",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
       "artists": [
         {
-          "name": "Howlin' Wolf with Steve Winwood: Piano & Organ, Bill Wyman: Bass Guitar, Shaker & Cowbell, Charlie Watts: Drums, Conga & Assorted Percussion",
-          "url": "https://open.spotify.com/artist/33yY8KynjFTutORPp8Q8ln"
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         },
         {
           "name": "Eric Clapton",
@@ -60,12 +60,12 @@
           "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
         },
         {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
         },
         {
-          "name": "Charlie Watts",
-          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
       "duration_ms": 210826,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Change My Way",
-        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 140760,
-      "name": "Hidden Charms - Single Version",
-      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -379,6 +363,38 @@
       "duration_ms": 394173,
       "name": "Ooh, Baby / Wrecking My Love Life - Medley",
       "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The London Howlin\u2019 Wolf Sessions - Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Highway 49",
+      "url": "https://open.spotify.com/track/12notHo8LwKc09rKORGtAQ"
     },
     {
       "added_at": null,
@@ -415,42 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf with Steve Winwood: Piano & Organ, Bill Wyman: Bass Guitar, Shaker & Cowbell, Charlie Watts: Drums, Conga & Assorted Percussion",
-          "url": "https://open.spotify.com/artist/33yY8KynjFTutORPp8Q8ln"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        },
-        {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
-        },
-        {
-          "name": "Charlie Watts",
-          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
-        },
-        {
-          "name": "Hubert Sumlin",
-          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Highway 49",
-      "url": "https://open.spotify.com/track/12notHo8LwKc09rKORGtAQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Change My Way",
         "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
       },
@@ -460,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 175733,
-      "name": "Just Like I Treat You - Single Version",
-      "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
+      "duration_ms": 140760,
+      "name": "Hidden Charms - Single Version",
+      "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
     },
     {
       "added_at": null,
@@ -523,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 175733,
+      "name": "Just Like I Treat You - Single Version",
+      "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
       },
@@ -571,7 +567,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "The London Howlin' Wolf Sessions (Reissue)",
+        "name": "The London Howlin' Wolf Sessions - Reissue",
         "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
       },
       "artists": [
@@ -584,16 +580,12 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
         },
         {
           "name": "Bill Wyman",
           "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
-        },
-        {
-          "name": "Charlie Watts",
-          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
         }
       ],
       "duration_ms": 179040,
@@ -659,7 +651,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "The London Howlin' Wolf Sessions (Reissue)",
+        "name": "The London Howlin' Wolf Sessions - Reissue",
         "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
       },
       "artists": [
@@ -672,20 +664,12 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        },
-        {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
-        },
-        {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
         },
         {
-          "name": "Hubert Sumlin",
-          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
       "duration_ms": 143826,
@@ -743,7 +727,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "The London Howlin' Wolf Sessions (Reissue)",
+        "name": "The London Howlin' Wolf Sessions - Reissue",
         "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
       },
       "artists": [
@@ -760,16 +744,12 @@
           "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
         },
         {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
-        },
-        {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
         },
         {
-          "name": "Hubert Sumlin",
-          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
         }
       ],
       "duration_ms": 183373,
@@ -788,40 +768,28 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 175160,
-      "name": "Stop Using Me",
-      "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
+      "duration_ms": 154800,
+      "name": "Can't Stay Here",
+      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "name": "The London Howlin\u2019 Wolf Sessions - Deluxe Edition",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
       "artists": [
         {
-          "name": "Howlin' Wolf with Steve Winwood: Piano & Organ, Bill Wyman: Bass Guitar, Shaker & Cowbell, Charlie Watts: Drums, Conga & Assorted Percussion",
-          "url": "https://open.spotify.com/artist/33yY8KynjFTutORPp8Q8ln"
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         },
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         },
         {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        },
-        {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
-        },
-        {
           "name": "Charlie Watts",
           "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
-        },
-        {
-          "name": "Hubert Sumlin",
-          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
         }
       ],
       "duration_ms": 223946,
@@ -872,9 +840,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 154800,
-      "name": "Can't Stay Here",
-      "url": "https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp"
+      "duration_ms": 175160,
+      "name": "Stop Using Me",
+      "url": "https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia"
     },
     {
       "added_at": null,

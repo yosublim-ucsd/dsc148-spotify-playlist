@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: The Synaptik
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,192 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,198 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 17 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 |
 | 18 | [VINI](https://open.spotify.com/track/6NBc4HFBDAz9ghMfXuz3M0) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 3:04 |
 | 19 | [Wasitkom](https://open.spotify.com/track/05ZQ9kkbuXgoMdrP9jHAIK) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Wasitkom](https://open.spotify.com/album/14d7Ubwrr8EJBl5PGMrqcw) | 5:57 |
-| 20 | [3AMEL EH](https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3AMEL EH](https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC) | 2:57 |
-| 21 | [M3 3DM E7TRAMY](https://open.spotify.com/track/0qql8zT1LEoL8NmbD4mtQ9) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [2000GEN](https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk) | 2:32 |
+| 20 | [M3 3DM E7TRAMY](https://open.spotify.com/track/0qql8zT1LEoL8NmbD4mtQ9) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [2000GEN](https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk) | 2:32 |
+| 21 | [3AMEL EH](https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3AMEL EH](https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC) | 2:57 |
 | 22 | [We9tna](https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:20 |
 | 23 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 |
 | 24 | [San Siro](https://open.spotify.com/track/0WuTPXry9d1aV446dafoO1) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [San Siro](https://open.spotify.com/album/5QOytCFrVEvxxeR3zGsjfP) | 3:24 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 41 | [Ghetto Symphony](https://open.spotify.com/track/0Qk2pgJxmfiAwH1jtjTTBc) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [RECTOVERSO](https://open.spotify.com/album/1PXz6YGt7KNq52crGuY9v9) | 4:11 |
 | 42 | [Rajel](https://open.spotify.com/track/4YibFdQpXOTKUuONm34QLV) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Rajel](https://open.spotify.com/album/5qIdMl371jLKWHDkj63uca) | 3:33 |
 | 43 | [Hotel](https://open.spotify.com/track/1UKKa0dT81UdHFFiGq1Qtb) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [Hotel](https://open.spotify.com/album/0ofD5pzUTbUDiumyojrMCN) | 3:02 |
-| 44 | [Luna](https://open.spotify.com/track/3yB9fJ2xV09wfOHRVP9AAB) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [OMW](https://open.spotify.com/album/3lllRihvhGpSdxuJzn1oOQ) | 3:12 |
-| 45 | [العيد الكبير](https://open.spotify.com/track/4ERlcyCKQThcS7RED0dK1R) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [العيد الكبير](https://open.spotify.com/album/7E2j8lpqaa47KK1KueLaYR) | 2:35 |
+| 44 | [العيد الكبير](https://open.spotify.com/track/4ERlcyCKQThcS7RED0dK1R) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [العيد الكبير](https://open.spotify.com/album/7E2j8lpqaa47KK1KueLaYR) | 2:35 |
+| 45 | [Luna](https://open.spotify.com/track/3yB9fJ2xV09wfOHRVP9AAB) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [OMW](https://open.spotify.com/album/3lllRihvhGpSdxuJzn1oOQ) | 3:12 |
 | 46 | [Rio](https://open.spotify.com/track/0Z3PUi6pnShr7HmhjYkhkV) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN) | [HEPTA](https://open.spotify.com/album/3JQgobucm5cegRkCt202JN) | 2:30 |
 | 47 | [Hajes](https://open.spotify.com/track/4YwBQlGau4lH5J8L9C7LV1) | [Blvxb](https://open.spotify.com/artist/36whjqpoNGMYbloxVMxVzT), [Ruhmvn](https://open.spotify.com/artist/5cRscGfILoBPh338Cmikjn) | [Valhalla](https://open.spotify.com/album/2Rnk0M57sZhNgN3IyjOvcP) | 4:00 |
 | 48 | [Bella Hadid](https://open.spotify.com/track/5Kguky2KjXEvvLrHMspsiq) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk), [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U) | [Decor](https://open.spotify.com/album/5x2eEUfDfYex3CG78zvl1I) | 2:21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Aoife O\u2019Donovan",
+  "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Jessica Pratt",
   "name": "Women of Acoustic",
   "tracks": [
     {
@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Country Dance",
+        "url": "https://open.spotify.com/album/39ZxoCaRZcE8kjs8j9JrZU"
+      },
+      "artists": [
+        {
+          "name": "Joanna Sternberg",
+          "url": "https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177023,
+      "name": "A Country Dance",
+      "url": "https://open.spotify.com/track/70STpXvjirFK1ZKL7gTokK"
+    },
+    {
+      "album": {
         "name": "After a Time",
         "url": "https://open.spotify.com/album/34V7OGom5kiDdY8xJVhMoW"
       },
@@ -38,6 +56,24 @@
       "duration_ms": 231408,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/2kipERgqD2j3zw9B4l9J6a"
+    },
+    {
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/4JA0mBZ4KkCk0clp3d8kLY"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/3AinWupnMmlYaOgJGqitFe"
     },
     {
       "album": {
@@ -696,7 +732,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 179109,
       "name": "Dust and Magic",
       "url": "https://open.spotify.com/track/6hTNf8zgq7BtA9ZNwQFa0i"
@@ -736,6 +772,24 @@
       "duration_ms": 167426,
       "name": "eight hours",
       "url": "https://open.spotify.com/track/5cn3Zlb938iYc28dY5s3vm"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh"
     },
     {
       "album": {
@@ -966,7 +1020,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 198403,
       "name": "For Now",
       "url": "https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds"
@@ -1424,7 +1478,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 150141,
       "name": "I'd Have to Think About It",
       "url": "https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ"
@@ -1730,7 +1784,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 148101,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/4sMYfHAXlPOUzdHcjG5aRh"
@@ -2160,10 +2214,28 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 235035,
       "name": "Pancakes for Dinner",
       "url": "https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW"
+    },
+    {
+      "album": {
+        "name": "No One\u2019s Gonna Love You Like I Can",
+        "url": "https://open.spotify.com/album/5JoMxxvtDzOfaIW1YOYxSu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260509,
+      "name": "Patterns",
+      "url": "https://open.spotify.com/track/7HRiiK71reyWWDdKrw0Vle"
     },
     {
       "album": {
@@ -3049,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Untangling",
+        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236575,
+      "name": "Untangling",
+      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
+    },
+    {
+      "album": {
         "name": "untitled",
         "url": "https://open.spotify.com/album/0p62EsX82Xd24KmMhORtwC"
       },
@@ -3255,6 +3345,24 @@
     },
     {
       "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189640,
+      "name": "World on a String",
+      "url": "https://open.spotify.com/track/06uOV6fQr0khY0LzYcy4w0"
+    },
+    {
+      "album": {
         "name": "Wouldn't Come Back",
         "url": "https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1"
       },
@@ -3284,7 +3392,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 257532,
       "name": "Yellow Bed",
       "url": "https://open.spotify.com/track/1zQoOFTtwlEZjUCfRCagm8"

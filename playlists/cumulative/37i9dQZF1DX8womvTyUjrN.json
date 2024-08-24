@@ -928,7 +928,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 201663,
       "name": "Apap\u00e1chame Lento",
       "url": "https://open.spotify.com/track/04BffOVFlbFBHZMy8hBK9N"
@@ -2703,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "Complicado",
+        "url": "https://open.spotify.com/album/3O1AbfIJieTkLxxXblVco0"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Carmona",
+          "url": "https://open.spotify.com/artist/0A8EVlCdERoogCYcfTWsuc"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "Complicado",
+      "url": "https://open.spotify.com/track/3gYFpnIwIbOC4aRkVkimEj"
+    },
+    {
+      "album": {
         "name": "Con Otro",
         "url": "https://open.spotify.com/album/6eThBhSMkokwuwEZFG3UxW"
       },
@@ -4138,6 +4156,24 @@
       "duration_ms": 197836,
       "name": "El Wey",
       "url": "https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5"
+    },
+    {
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/0nkucqAzWAF6G0whHHCeau"
+      },
+      "artists": [
+        {
+          "name": "Rouss",
+          "url": "https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147468,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1AhHMKj1fyenGv86vJLHQ6"
     },
     {
       "album": {
@@ -5604,6 +5640,24 @@
       "duration_ms": 133051,
       "name": "HOY ME PORTO MAL",
       "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
+    },
+    {
+      "album": {
+        "name": "HOY TENGO GANAS DE TI",
+        "url": "https://open.spotify.com/album/4y5leWM7OukafuPcBHrvtx"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170672,
+      "name": "HOY TENGO GANAS DE TI",
+      "url": "https://open.spotify.com/track/27AycGPhBPGCc6YnTZTaSh"
     },
     {
       "album": {
@@ -8637,6 +8691,28 @@
     },
     {
       "album": {
+        "name": "neo roneo",
+        "url": "https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166705,
+      "name": "neo roneo",
+      "url": "https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS"
+    },
+    {
+      "album": {
         "name": "Ni\u00f1a de Mis Ojos",
         "url": "https://open.spotify.com/album/4YZN11bEMW5RRxF3cRejET"
       },
@@ -8837,6 +8913,24 @@
     },
     {
       "album": {
+        "name": "no llames lo m\u00edo nuestro",
+        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "no llames lo m\u00edo nuestro",
+      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
+    },
+    {
+      "album": {
         "name": "No Me Controles",
         "url": "https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC"
       },
@@ -8918,6 +9012,24 @@
       "duration_ms": 186832,
       "name": "No Se Acaba Hasta Que Acabe",
       "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
+    },
+    {
+      "album": {
+        "name": "no s\u00e9 si estoy preparada para esto",
+        "url": "https://open.spotify.com/album/6qcNEklKhpS6GDX6XBTO0q"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137366,
+      "name": "no s\u00e9 si estoy preparada para esto",
+      "url": "https://open.spotify.com/track/2ylZEcO877S3GpkllgGraL"
     },
     {
       "album": {

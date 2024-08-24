@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 ### [This Is Paulo Londra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO22B8T3)
 
-> This is Paulo Londra\. The essential tracks, all in one playlist.
+> This Is Paulo Londra\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,855 likes - 35 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,857 likes - 36 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,5 +43,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 33 | [Confiado y Tranquilo](https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Confiado y Tranquilo](https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b) | 3:32 |
 | 34 | [Por Lo Mio](https://open.spotify.com/track/1CEcHkjbDqRxu56FcUnJ04) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Por Lo Mio](https://open.spotify.com/album/6kBdowJIfRT9Df3x8Fi9vi) | 3:43 |
 | 35 | [Nothing On You \(feat\. Paulo Londra & Dave\)](https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:20 |
+| 36 | [Cansado](https://open.spotify.com/track/4IWSiikKGhA9cBmAL6r3iy) | [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cansado](https://open.spotify.com/album/2xx2vcIQ5RhMKhvGVphwDu) | 3:02 |
 
-Snapshot ID: `ZsUuAAAAAABXac9DsuPQN5YFHNBA47YZ`
+Snapshot ID: `ZsZ/gAAAAAD+ZCAXPU5hXiyu4SjCJCub`

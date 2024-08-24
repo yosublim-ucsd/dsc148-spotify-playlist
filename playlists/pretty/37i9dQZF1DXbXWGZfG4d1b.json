@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 23183,
+  "num_followers": 23211,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Arco y Flecha",
-        "url": "https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 163496,
-      "name": "Caballos",
-      "url": "https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Verano Todo El A\u00f1o",
         "url": "https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 164845,
       "name": "Verano Todo el A\u00f1o",
       "url": "https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Arco y Flecha",
+        "url": "https://open.spotify.com/album/5TEvOwAKlHcNOqM5EUnohR"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 163496,
+      "name": "Caballos",
+      "url": "https://open.spotify.com/track/24XhxQCrRigCd7wMEbbRaI"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "El Buen Fantasma",
-        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
-      },
-      "artists": [
-        {
-          "name": "Tigre Ulli",
-          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
-        }
-      ],
-      "duration_ms": 179539,
-      "name": "El Buen Fantasma",
-      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "YASS",
         "url": "https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 185390,
       "name": "HAT TRICK",
       "url": "https://open.spotify.com/track/1dLUkI78UJyPZgcP3t9XUd"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "El Buen Fantasma",
+        "url": "https://open.spotify.com/album/48hbGU7bm2fKzJhoYfI0fA"
+      },
+      "artists": [
+        {
+          "name": "Tigre Ulli",
+          "url": "https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v"
+        }
+      ],
+      "duration_ms": 179539,
+      "name": "El Buen Fantasma",
+      "url": "https://open.spotify.com/track/7iLbWqKcFMp5uCxXqDjihM"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Vamos a Destruir",
-        "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
-      },
-      "artists": [
-        {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
-        }
-      ],
-      "duration_ms": 250621,
-      "name": "Cangrejal",
-      "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Una Temporada en el Invierno",
         "url": "https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 236081,
       "name": "Una Temporada en el Invierno",
       "url": "https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Vamos a Destruir",
+        "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "duration_ms": 250621,
+      "name": "Cangrejal",
+      "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Bar de Playa",
-        "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
-      },
-      "artists": [
-        {
-          "name": "107 Faunos",
-          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
-        }
-      ],
-      "duration_ms": 129945,
-      "name": "Bar de Playa",
-      "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Frutillas con Crema",
         "url": "https://open.spotify.com/album/01kd8mR6HRA6AxvvyXQ8i1"
       },
@@ -711,38 +695,34 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Los Halcones",
-        "url": "https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz"
+        "name": "Bar de Playa",
+        "url": "https://open.spotify.com/album/7CUbw1fLnPPJCEGTkLMUzU"
+      },
+      "artists": [
+        {
+          "name": "107 Faunos",
+          "url": "https://open.spotify.com/artist/5CyGExgiIO5AfElXLtoU7r"
+        }
+      ],
+      "duration_ms": 129945,
+      "name": "Bar de Playa",
+      "url": "https://open.spotify.com/track/6YbC0D2ZYyjOmXn2sBirbA"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Que te iba a Decir",
+        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
       },
       "artists": [
         {
           "name": "Santiago Moraes",
           "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
-        },
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
         }
       ],
-      "duration_ms": 326973,
-      "name": "Los Halcones",
-      "url": "https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Corriendo",
-        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
-      },
-      "artists": [
-        {
-          "name": "TELESCOPIOS",
-          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
-        }
-      ],
-      "duration_ms": 159576,
-      "name": "Corriendo",
-      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
+      "duration_ms": 381577,
+      "name": "Botas encontradas",
+      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -763,6 +743,22 @@
       "duration_ms": 164236,
       "name": "Malambo de Acero",
       "url": "https://open.spotify.com/track/4EPXBJ33pPf3o8y4tpZe2N"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Corriendo",
+        "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
+      },
+      "artists": [
+        {
+          "name": "TELESCOPIOS",
+          "url": "https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG"
+        }
+      ],
+      "duration_ms": 159576,
+      "name": "Corriendo",
+      "url": "https://open.spotify.com/track/4RKs3I15fRANzpyAr36zfx"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -875,18 +871,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Que te iba a Decir",
-        "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
+        "name": "Los Halcones",
+        "url": "https://open.spotify.com/album/0VtAPQ89V7neq7B8RyevIz"
       },
       "artists": [
         {
           "name": "Santiago Moraes",
           "url": "https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
         }
       ],
-      "duration_ms": 381577,
-      "name": "Botas encontradas",
-      "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
+      "duration_ms": 326973,
+      "name": "Los Halcones",
+      "url": "https://open.spotify.com/track/5TdKAGXN0JBooUcGP5jE0j"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Desconsuelo",
-        "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
-      },
-      "artists": [
-        {
-          "name": "DOJO",
-          "url": "https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG"
-        }
-      ],
-      "duration_ms": 243126,
-      "name": "Desconsuelo",
-      "url": "https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Romance Con la Luna",
         "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 171882,
       "name": "Romance Con la Luna",
       "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Desconsuelo",
+        "url": "https://open.spotify.com/album/75MUnnnMA6L2ywe5DzQM7T"
+      },
+      "artists": [
+        {
+          "name": "DOJO",
+          "url": "https://open.spotify.com/artist/4GjDDGyy3jprA7C8LqD0EG"
+        }
+      ],
+      "duration_ms": 243126,
+      "name": "Desconsuelo",
+      "url": "https://open.spotify.com/track/1OPav1MEsEbjyNvPy8BAf2"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Razon",
-        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
-      },
-      "artists": [
-        {
-          "name": "Francisco Bochat\u00f3n",
-          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
-        }
-      ],
-      "duration_ms": 179658,
-      "name": "Raz\u00f3n",
-      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Espejo",
         "url": "https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 255897,
       "name": "Espejo",
       "url": "https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Razon",
+        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
+      },
+      "artists": [
+        {
+          "name": "Francisco Bochat\u00f3n",
+          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
+        }
+      ],
+      "duration_ms": 179658,
+      "name": "Raz\u00f3n",
+      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Amarras",
-        "url": "https://open.spotify.com/album/0ht5lOQi8PPTlwUeyl29el"
-      },
-      "artists": [
-        {
-          "name": "Shaman Herrera",
-          "url": "https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So"
-        }
-      ],
-      "duration_ms": 277438,
-      "name": "Amarras",
-      "url": "https://open.spotify.com/track/4rwAzcLfS0Rze0QkJU9QgB"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "No Est\u00e1 Mal Volar",
         "url": "https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 196434,
       "name": "No Est\u00e1 Mal Volar",
       "url": "https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Amarras",
+        "url": "https://open.spotify.com/album/0ht5lOQi8PPTlwUeyl29el"
+      },
+      "artists": [
+        {
+          "name": "Shaman Herrera",
+          "url": "https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So"
+        }
+      ],
+      "duration_ms": 277438,
+      "name": "Amarras",
+      "url": "https://open.spotify.com/track/4rwAzcLfS0Rze0QkJU9QgB"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1623,6 +1623,50 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Karma Dron",
+        "url": "https://open.spotify.com/album/08nCJLqKbQUZOnMtbEuUCl"
+      },
+      "artists": [
+        {
+          "name": "Nico Sorin",
+          "url": "https://open.spotify.com/artist/1tXOIb9gcNlk9fWbFNabdL"
+        },
+        {
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        },
+        {
+          "name": "Karma Dron",
+          "url": "https://open.spotify.com/artist/4M2ZeBbCdmpDpj8pew42wl"
+        }
+      ],
+      "duration_ms": 205186,
+      "name": "Karma Dron",
+      "url": "https://open.spotify.com/track/0QtgpUZ9iSGCnlcUtjgEpZ"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Botella",
+        "url": "https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi"
+      },
+      "artists": [
+        {
+          "name": "Hojas por el Barrio",
+          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
+        }
+      ],
+      "duration_ms": 132221,
+      "name": "Botella",
+      "url": "https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "La Danza de los Principiantes",
         "url": "https://open.spotify.com/album/0609boj0n6y9QvmgeNcUzr"
       },
@@ -1683,50 +1727,6 @@
       "duration_ms": 186250,
       "name": "Volver a cero",
       "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Karma Dron",
-        "url": "https://open.spotify.com/album/08nCJLqKbQUZOnMtbEuUCl"
-      },
-      "artists": [
-        {
-          "name": "Nico Sorin",
-          "url": "https://open.spotify.com/artist/1tXOIb9gcNlk9fWbFNabdL"
-        },
-        {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
-        },
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        },
-        {
-          "name": "Karma Dron",
-          "url": "https://open.spotify.com/artist/4M2ZeBbCdmpDpj8pew42wl"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Karma Dron",
-      "url": "https://open.spotify.com/track/0QtgpUZ9iSGCnlcUtjgEpZ"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Botella",
-        "url": "https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi"
-      },
-      "artists": [
-        {
-          "name": "Hojas por el Barrio",
-          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
-        }
-      ],
-      "duration_ms": 132221,
-      "name": "Botella",
-      "url": "https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH"
     }
   ],
   "unique_name": "6PM Indie",

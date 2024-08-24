@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 ### [This Is Kaliii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17rZzq)
 
-> This Is Kaliii\. Los temas esenciales, todos en una lista.
+> This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,761 likes - 48 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,759 likes - 48 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 14 | [Do A Bitch](https://open.spotify.com/track/3t7NM4j6pmzJqck5sQdyAF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:44 |
 | 15 | [Sl\*t Him Out Again \(feat\. Kaliii\)](https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:53 |
 | 16 | [Track & Field \(feat\. Kaliii\)](https://open.spotify.com/track/2VEqGWCSJaQeQlwToXSB36) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [No Luv](https://open.spotify.com/album/3dWR4DigMGjegp0NPBfAV7) | 2:18 |
-| 17 | [Can’t Get ‘Em](https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [GloRilla](https://open.spotify.com/artist/0QZvDwAKRuOXMnjIWfiJUf) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 2:17 |
-| 18 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 |
+| 17 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kaliii\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 |
+| 18 | [Can’t Get ‘Em](https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [GloRilla](https://open.spotify.com/artist/0QZvDwAKRuOXMnjIWfiJUf) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 2:17 |
 | 19 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
 | 20 | [Where She At \(feat\. Kali, KenTheMan\)](https://open.spotify.com/track/0ou1POV1L5meXTc8HeELNP) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [MULTI](https://open.spotify.com/album/01Gyi3UvIcbXejlgpjAYyD) | 3:28 |
 | 21 | [Touchin' \(feat\. Kaliii\)](https://open.spotify.com/track/7KY0PsHITl98gztGO1fh5Z) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Touchin' \(feat\. Kaliii\)](https://open.spotify.com/album/46dCBNUNDnajk5pK0i0VgN) | 3:34 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 47 | [Do A Bitch \- Club Mix](https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Do A Bitch \(Club Mix\)](https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3) | 2:36 |
 | 48 | [Dan Živih Mrtvaca](https://open.spotify.com/track/3y7dFcGXcbvArKIrLdNsnO) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Djubre](https://open.spotify.com/artist/1gjTCYso5nszQJ7xk6HaJk), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Svetište Svinja](https://open.spotify.com/album/5pxHJboXT8rSibEGH05R0m) | 4:35 |
 
-Snapshot ID: `ZsUuAAAAAAD1b0KQRbU+J4Ps/SdN9bkJ`
+Snapshot ID: `ZsZ/gAAAAAA/y98cFcuxCikuMZWWnBQw`

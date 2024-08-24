@@ -1,13 +1,29 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 53883,
+  "num_followers": 53911,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqxZwAAAAAAzIedz8D6UxLAhhQc5OlWJ",
+  "snapshot_id": "ZsgJQAAAAAC83FYJlHF14vc8nGZikpdT",
   "tracks": [
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Square Grouper",
+        "url": "https://open.spotify.com/album/1BNAdPjRA2p67zJ1OWgPh8"
+      },
+      "artists": [
+        {
+          "name": "Electric Kif",
+          "url": "https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn"
+        }
+      ],
+      "duration_ms": 303809,
+      "name": "Square Grouper",
+      "url": "https://open.spotify.com/track/4twKScGj0Dc0KG4GVLl9Us"
+    },
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {

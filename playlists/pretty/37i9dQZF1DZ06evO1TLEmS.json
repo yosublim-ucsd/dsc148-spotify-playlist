@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAACWmDrVzSlhKRgUWVu/AY0l",
+  "snapshot_id": "ZsZ/gAAAAAAPg7AVY0PTV8nAH6eBew3f",
   "tracks": [
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 262727,
-      "name": "Sunshine Over The Counter",
-      "url": "https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg"
+      "duration_ms": 262934,
+      "name": "In From Japan",
+      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 262934,
-      "name": "In From Japan",
-      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
+      "duration_ms": 262727,
+      "name": "Sunshine Over The Counter",
+      "url": "https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Lose, Remember",
-        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "I Close My Eyes",
-      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wednesday",
         "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 268053,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "I Close My Eyes",
+      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Lose, Remember",
-        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 270746,
-      "name": "When Love Loves Alone",
-      "url": "https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revealer (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3nGF3nGNbvyqlwPHbpGof1"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 283093,
       "name": "Death By Suspicion",
       "url": "https://open.spotify.com/track/53yh4A2jqHZBA3QOB4TJyY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 270746,
+      "name": "When Love Loves Alone",
+      "url": "https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wednesday (Extended Edition)",
+        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 336222,
+      "name": "Lover, You Should\u2019ve Come Over",
+      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love, Lose, Remember",
         "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
       },
@@ -819,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday (Extended Edition)",
-        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
+        "name": "Inventing The Wheel",
+        "url": "https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw"
       },
       "artists": [
         {
@@ -828,9 +844,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 336222,
-      "name": "Lover, You Should\u2019ve Come Over",
-      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
+      "duration_ms": 257202,
+      "name": "Inventing The Wheel",
+      "url": "https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2"
     },
     {
       "added_at": null,
@@ -851,22 +867,6 @@
       "duration_ms": 195086,
       "name": "Louisiana 1927 (feat. Madison Cunningham)",
       "url": "https://open.spotify.com/track/08v0Un342hJHIgtsLcBbER"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Inventing The Wheel",
-        "url": "https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 257202,
-      "name": "Inventing The Wheel",
-      "url": "https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2"
     }
   ],
   "unique_name": "This Is Madison Cunningham",

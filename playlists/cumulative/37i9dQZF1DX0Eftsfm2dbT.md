@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: NENE
 
-995 songs - 2 day 3 hr 24 min
+996 songs - 2 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Carnival](https://open.spotify.com/track/77WtzFdjX0hWD5OthFOCMO) | [CK the Shake](https://open.spotify.com/artist/3JnlT2qWcBqH8Bd6LCsFxs), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1), [J'Da Skit](https://open.spotify.com/artist/2JoqX2KHh4qjreZpCZHAwL) | [Carnival](https://open.spotify.com/album/71j13DGYOWnEiIFxsvxZZt) | 2:50 | 2024-01-30 | 2024-02-23 |
 | [Cartier Scouter](https://open.spotify.com/track/0n4b8dQmReIUnDDeoeDp2p) | [Hawo Beats](https://open.spotify.com/artist/11Ui4niZGPBoZ8QAzUlSvn), [Deech](https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME) | [Cartier Scouter](https://open.spotify.com/album/0kgJydHNG9zlm0cIT5UY4S) | 1:48 | 2024-02-20 | 2024-03-06 |
 | [CATCH UP](https://open.spotify.com/track/1pun3MQ7dbrzs2magIwseo) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [DLEN](https://open.spotify.com/artist/7FGUs03W7LYSEdn4lL7eTg), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [CATCH UP](https://open.spotify.com/album/73ycvNiwdFSVWPkuRb0fIp) | 3:01 | 2024-02-20 | 2024-04-03 |
+| [Champion Sound](https://open.spotify.com/track/0dlUi4CQU8Xb7SzKvWRhiG) | [doc flawless](https://open.spotify.com/artist/7kQqFUxkHeDyqYlDDUtLvR), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd), [BES](https://open.spotify.com/artist/0eclqlcc0hJCIAeWj3nF1H) | [Champion Sound](https://open.spotify.com/album/193S06WeTyKua4KUhXu7Rs) | 2:57 | 2024-08-23 |  |
 | [CHAMPION SOUND \- Scratch by DJ MATTO](https://open.spotify.com/track/2RNOM5GBxH9pcVdCy4iCst) | [FREEZ](https://open.spotify.com/artist/1SgsdAxtT2jPv6pWihNLGp) | [CHAMPION SOUND](https://open.spotify.com/album/1qCCGcljL92WPGuQxmdCV7) | 3:42 | 2023-10-31 | 2023-11-09 |
 | [CHAMPION SOUND \- Scratch by DJ MATTO](https://open.spotify.com/track/5VJqOw7zvmf0KSwKpRYkBZ) | [FREEZ](https://open.spotify.com/artist/1SgsdAxtT2jPv6pWihNLGp) | [CHAMPION SOUND](https://open.spotify.com/album/1fFbxBMQFBuNNk9Q6k45xl) | 3:42 | 2023-10-31 | 2023-11-02 |
 | [Champions](https://open.spotify.com/track/07n4Wa9DmDyZyeyoba6dtA) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Champions](https://open.spotify.com/album/2AlTOHvsl8jYqVxGgsvXqe) | 4:37 | 2024-04-30 | 2024-07-31 |
@@ -889,7 +890,7 @@
 | [ymf](https://open.spotify.com/track/5CFBCDNVduY3AFVgR9UBCK) | [KZ](https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8), [Roco JeffPort](https://open.spotify.com/artist/2OfLas7kxuBNupXZGkTdKo), [Mell Owell](https://open.spotify.com/artist/19CqxFvHpaEC4lPpZ43PW1) | [ymf](https://open.spotify.com/album/00K4ekq9i8aOHAn6KcAbXV) | 3:29 | 2024-06-11 | 2024-06-26 |
 | [Yoi yoi](https://open.spotify.com/track/2EmvnrbpmIsHXfF0z190WG) | [COMA\-CHI](https://open.spotify.com/artist/1EGbVC1fE68gQaPrYEyr99) | [OTO](https://open.spotify.com/album/1figvJIj0rXRnmcbmrcIxq) | 3:22 | 2024-05-15 | 2024-05-22 |
 | [Yoppa Ratta](https://open.spotify.com/track/7JkoS8bqTrTgtJBnBSdMGq) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGRHYTHM](https://open.spotify.com/album/24wuIBwGVSr5BuE4SAZVPP) | 3:55 | 2024-06-28 | 2024-08-14 |
-| [You Are Mine](https://open.spotify.com/track/0TYPszN362vVEkPGB4ON37) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [AIRERA](https://open.spotify.com/album/731UNRWFj2wcHp5TftjS2C) | 3:43 | 2024-06-18 | 2024-06-26 |
+| [You Are Mine](https://open.spotify.com/track/0TYPszN362vVEkPGB4ON37) | [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [AIRERA](https://open.spotify.com/album/731UNRWFj2wcHp5TftjS2C) | 3:43 | 2024-06-18 |  |
 | [You do you](https://open.spotify.com/track/1mzJhSlD1PN8JZiwatDESQ) | [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU) | [Life Teller](https://open.spotify.com/album/3n9iEOlH9FeGrl2T3Gex8z) | 3:56 | 2023-12-06 | 2023-12-20 |
 | [You Know What](https://open.spotify.com/track/6NoqYV7UXMwyYRIhSxjDMQ) | [ONJUICY](https://open.spotify.com/artist/1ZEZD4ScYfzwC3RnQZ5GRD), [Guchon](https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99) | [You Know What](https://open.spotify.com/album/5Zkkm966JQaj4vVuzfA71e) | 3:13 | 2024-05-07 | 2024-05-15 |
 | [Young Boy](https://open.spotify.com/track/0pmE2OAqk0YIoQBHUfR2Pw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [ICON](https://open.spotify.com/album/2T9uqa1ZOZiHu2FGrbOWgR) | 3:01 | 2023-11-28 | 2024-04-24 |

@@ -1,29 +1,13 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Marcin",
-  "num_followers": 146025,
+  "num_followers": 146075,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqMfQAAAAADwEWDDuRwrfaOstdVoKLis",
+  "snapshot_id": "ZsgJQAAAAAAPonot7fCFJ2GV04/NaSTU",
   "tracks": [
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Paul Position",
-        "url": "https://open.spotify.com/album/6FBuizIyg53wy5UT5DElGv"
-      },
-      "artists": [
-        {
-          "name": "Matteo Mancuso",
-          "url": "https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1"
-        }
-      ],
-      "duration_ms": 258461,
-      "name": "Paul Position",
-      "url": "https://open.spotify.com/track/4feswYiBEeswnbvARZYes2"
-    },
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 198160,
       "name": "Classical Dragon (feat. Tim Henson)",
       "url": "https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Paul Position",
+        "url": "https://open.spotify.com/album/6FBuizIyg53wy5UT5DElGv"
+      },
+      "artists": [
+        {
+          "name": "Matteo Mancuso",
+          "url": "https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1"
+        }
+      ],
+      "duration_ms": 258461,
+      "name": "Paul Position",
+      "url": "https://open.spotify.com/track/4feswYiBEeswnbvARZYes2"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -115,6 +115,22 @@
       "duration_ms": 194394,
       "name": "The Boy From Beckenham",
       "url": "https://open.spotify.com/track/2tYZOtgQxJF8sxR3kpeqyR"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/22PE6brFbO4xXEpbhj9kyp"
+      },
+      "artists": [
+        {
+          "name": "Marcin",
+          "url": "https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/49ZqzWNFWJJpXUoDH0ZaC3"
     },
     {
       "added_at": "2024-02-07 14:48:34",
@@ -1439,34 +1455,6 @@
       "duration_ms": 188000,
       "name": "Action Boyz",
       "url": "https://open.spotify.com/track/1vyWw3z1eW510h1DfcjOBq"
-    },
-    {
-      "added_at": "2022-10-11 14:34:22",
-      "album": {
-        "name": "Far More",
-        "url": "https://open.spotify.com/album/2yt2ezg0pwAQwDfkT4TqAw"
-      },
-      "artists": [
-        {
-          "name": "Lari Basilio",
-          "url": "https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0"
-        },
-        {
-          "name": "Vinnie Colaiuta",
-          "url": "https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO"
-        },
-        {
-          "name": "Nathan East",
-          "url": "https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ"
-        },
-        {
-          "name": "Greg Phillinganes",
-          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "California Waves",
-      "url": "https://open.spotify.com/track/40GKKivAkAwgM0rTibvNmn"
     },
     {
       "added_at": "2022-10-11 14:34:22",

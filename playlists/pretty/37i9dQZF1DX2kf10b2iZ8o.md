@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,257 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,265 likes - 75 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 68 | [Hungry?](https://open.spotify.com/track/2tbKrlz5rUmjZKBzT4A4lu) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM NEW STAGE EPISODE：02 THE 虎牙道](https://open.spotify.com/album/0JvkledARWRgZDOvqEzVHx) | 3:41 |
 | 69 | [Baile Apasionado](https://open.spotify.com/track/2OTdGu4Ar0sX2OhbSlevlq) | [橘 志狼 \(CV.古畑恵介\)](https://open.spotify.com/artist/29N5EzAl3nWfydjQkSyAH2), [硲 道夫 \(CV.伊東健人\)](https://open.spotify.com/artist/4EhRW7ws3liEFllG66Nwlq), [牙崎 漣 \(CV.小松昌平\)](https://open.spotify.com/artist/12UKr0NKzDGIckxk5QDknx) | [THE IDOLM@STER SideM WORLD TRE@SURE 03](https://open.spotify.com/album/2600B026iZThRT78I7Xjlk) | 4:08 |
 | 70 | [mermaid fermata](https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 5th ANNIVERSARY 05](https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J) | 4:46 |
-| 71 | [もっふ・いんざぼっくす](https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM ST@RTING LINE\-13 もふもふえん](https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB) | 4:04 |
-| 72 | [千客万来ニーハオサァカス！](https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W) | [御手洗翔太 \(CV.松岡禎丞\)](https://open.spotify.com/artist/27EIW2zgQENFON94CmfVOs), [渡辺みのり \(CV.高塚智人\)](https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V), [大河タケル \(CV.寺島惇太\)](https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd), [兜 大吾 \(CV.浦尾岳大\)](https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5) | [THE IDOLM@STER SideM WORLD TRE@SURE 04](https://open.spotify.com/album/5YY6uJriyD5sLakE00iPx1) | 3:40 |
-| 73 | [Because](https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q) | [桜庭 薫 \(CV.内田雄馬\)](https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:55 |
-| 74 | [POKER FAITH \-ポーカーフェイス\-](https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03](https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK) | 4:03 |
-| 75 | [バーニン・クールで輝いて](https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE\-09 神速一魂](https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk) | 4:27 |
+| 71 | [バーニン・クールで輝いて](https://open.spotify.com/track/2dwYu8lDOXLrCwH2fyhrjW) | [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd) | [THE IDOLM@STER SideM ST@RTING LINE\-09 神速一魂](https://open.spotify.com/album/0V7ZKaIhX9xTlWvhiOJ5qk) | 4:27 |
+| 72 | [もっふ・いんざぼっくす](https://open.spotify.com/track/13WoTc4bqZFbEZf0M2v77m) | [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM ST@RTING LINE\-13 もふもふえん](https://open.spotify.com/album/6fDhBe9uCNQcEJU5RoVjlB) | 4:04 |
+| 73 | [千客万来ニーハオサァカス！](https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W) | [御手洗翔太 \(CV.松岡禎丞\)](https://open.spotify.com/artist/27EIW2zgQENFON94CmfVOs), [渡辺みのり \(CV.高塚智人\)](https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V), [大河タケル \(CV.寺島惇太\)](https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd), [兜 大吾 \(CV.浦尾岳大\)](https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5) | [THE IDOLM@STER SideM WORLD TRE@SURE 04](https://open.spotify.com/album/5YY6uJriyD5sLakE00iPx1) | 3:40 |
+| 74 | [Because](https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q) | [桜庭 薫 \(CV.内田雄馬\)](https://open.spotify.com/artist/6PQKKLOrSxVWl2iz0i3zph) | [THE IDOLM@STER SideM ORIGIN@L PIECES 04](https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65) | 4:55 |
+| 75 | [POKER FAITH \-ポーカーフェイス\-](https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03](https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK) | 4:03 |
 
 Snapshot ID: `ZedXbwAAAAA6VByJ4FhXzL1fo7PpFDzx`

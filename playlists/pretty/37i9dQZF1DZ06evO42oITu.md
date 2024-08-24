@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 ### [This Is Eric Clapton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO42oITu)
 
-> This is Eric Clapton\. The essential tracks, all in one playlist.
+> This is Eric Clapton\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,616 likes - 51 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 354,664 likes - 51 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 50 | [Come Rain or Come Shine](https://open.spotify.com/track/2Z7U506Agti2s9uxP564LE) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding With The King](https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c) | 4:11 |
 | 51 | [River of Tears](https://open.spotify.com/track/7henYpsVePUUrB8sQmhG6O) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Pilgrim](https://open.spotify.com/album/4zWJPA1aq4IBdLk1QbWD63) | 7:22 |
 
-Snapshot ID: `ZsUuAAAAAADdJePo6a1JeVtYKNdegJ9V`
+Snapshot ID: `ZsZ/gAAAAAAvpQfJ1v/ZDXTZ4wuZrQUD`

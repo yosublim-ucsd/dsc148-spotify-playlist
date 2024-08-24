@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-245 songs - 14 hr 53 min
+246 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Desafio](https://open.spotify.com/track/3hft4CnJUz54rJcJY5mw22) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Desafio](https://open.spotify.com/album/2gdQzcvu00rbuwtOFefWxc) | 3:46 | 2022-02-04 | 2022-07-29 |
 | [Deu Bossa](https://open.spotify.com/track/33hnkbQrn9OpSOLCHYrxnd) | [André Bellini](https://open.spotify.com/artist/389NRQvEXJKmucw2RIR2fC), [Bira Fernandez](https://open.spotify.com/artist/2DTGjI8UW3h8CK3g7H4avw) | [Deu Bossa](https://open.spotify.com/album/6JUbFtuF3sxxPKcFdCFujl) | 2:55 | 2022-02-04 | 2022-07-29 |
 | [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/track/0HYHMmuWQ1WWLiYXOhjt5I) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/album/7sjeAJANX5rlCazXEMkSLO) | 3:42 | 2022-03-22 | 2023-12-20 |
+| [Dia Branco](https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Dia Branco](https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb) | 2:27 | 2024-08-23 |  |
 | [Dias de Janeiro](https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5) | [Otto](https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK) | [Condom Black](https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas) | 5:42 | 2022-03-22 |  |
 | [Dilema](https://open.spotify.com/track/7GZoLg9b4QggdnHBHeSmpX) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Dilema](https://open.spotify.com/album/5nCyYGiOwdgYcafhT6Asq3) | 2:57 | 2022-02-04 | 2022-07-29 |
 | [do avesso](https://open.spotify.com/track/1mPXDwkAClgl2XeI12ubB5) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA) | [bem vindo, amanhecer](https://open.spotify.com/album/680EwE0QR2RqxQxjyVqXWQ) | 2:49 | 2022-07-04 | 2022-07-19 |
@@ -105,7 +106,7 @@
 | [Eu e Você](https://open.spotify.com/track/5SPr3nOUnQSq8xjeDTTwVY) | [Becca Perret](https://open.spotify.com/artist/63Vs4mVVHzjm7PbQgcGior) | [Eu e Você](https://open.spotify.com/album/5LeHhtWVgTxb8NVVe4m1PK) | 2:37 | 2022-02-04 | 2022-07-29 |
 | [Eu Não Sei Te Amar](https://open.spotify.com/track/7xgps6ZioyyH3AqjYjyFu6) | [Duda In The Sky](https://open.spotify.com/artist/7JMMxGGAQVHUU3KAGHVUFu) | [Eu Não Sei Te Amar](https://open.spotify.com/album/1Yhcy9dq0MAIcU00PnHMzM) | 3:12 | 2022-02-04 | 2022-07-27 |
 | [Faixa Extra](https://open.spotify.com/track/4sqCNJNaoC6h2d6YbyOWNg) | [Sávio](https://open.spotify.com/artist/4ElL2M4IPZftmoEmkHgMiz) | [Moletom](https://open.spotify.com/album/1GSxfFtqA55sIBhS6kEvMI) | 2:11 | 2022-03-22 | 2022-07-02 |
-| [Faz Uma Loucura Por Mim](https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Faz Uma Loucura Por Mim](https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM) | 3:35 | 2022-02-04 |  |
+| [Faz Uma Loucura Por Mim](https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Faz Uma Loucura Por Mim](https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM) | 3:35 | 2022-02-04 | 2024-08-24 |
 | [Fim do Horizonte](https://open.spotify.com/track/7D3Kw5T7nQtM3Cg5jgNVeX) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd), [Hamilton De Holanda](https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8) | [Fim do Horizonte](https://open.spotify.com/album/46bYEuUXkQl7pL0p88TdgJ) | 3:20 | 2022-04-08 | 2023-03-10 |
 | [Final de Semana](https://open.spotify.com/track/41sjmSYBlafAQrfcxt5387) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Final de Semana](https://open.spotify.com/album/7oGa4f5RYS54efYTLmrCHu) | 3:21 | 2022-02-04 |  |
 | [Fiz pra Você](https://open.spotify.com/track/0YSqqxz1LzukkCoPSzmkcE) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fiz pra Você](https://open.spotify.com/album/6FsNorcuVRASevNtPwmbix) | 3:12 | 2022-02-04 | 2022-07-28 |

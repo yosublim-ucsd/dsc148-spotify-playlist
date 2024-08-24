@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-168 songs - 11 hr 21 min
+169 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Come Fly With Me \- Remastered 1998](https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Come Fly With Me \(Remastered\)](https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE) | 3:19 | 2021-12-16 | 2022-04-21 |
 | [Cononbridge](https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h) | [Matt Carmichael](https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0) | [Cononbridge](https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj) | 4:58 | 2021-12-16 |  |
 | [Dakar](https://open.spotify.com/track/3bQEe78SKsthvH116E12YJ) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8), [Fabian Kallerdahl](https://open.spotify.com/artist/7fl8Q1ZxnrShvSPkISUZoU), [Michael Edlund](https://open.spotify.com/artist/0kYl58y2IiOpSbieJ31Oja), [Josef Kallerdahl](https://open.spotify.com/artist/5Wc1iOuZi2XsaM1ppRsAaN) | [Buen Sabor](https://open.spotify.com/album/0d3GbYL99XBllNDr93R4T0) | 8:02 | 2021-12-16 |  |
-| [Days Like This](https://open.spotify.com/track/5aspFFWrnfeQznONFnVwSs) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [What It Means](https://open.spotify.com/album/402n12WlvkNWlGmIKoY9qg) | 3:23 | 2024-08-09 |  |
+| [Days Like This](https://open.spotify.com/track/5aspFFWrnfeQznONFnVwSs) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [What It Means](https://open.spotify.com/album/402n12WlvkNWlGmIKoY9qg) | 3:23 | 2024-08-09 | 2024-08-24 |
 | [Don't Get Around Much Anymore](https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 3:03 | 2022-05-25 |  |
 | [Don't Get Around Much Anymore](https://open.spotify.com/track/6RjvMuSa4ZCqPueIIO4IBs) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 2:39 | 2021-12-16 |  |
 | [Doozy](https://open.spotify.com/track/6qszUQoH3QJYvSNwFP9yJB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/4HSABxiXhFWk3UQrCzloLz) | 5:33 | 2021-12-16 | 2022-07-29 |
@@ -174,6 +174,7 @@
 | [Wonder Why](https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs) | [Lafayette Harris, Jr.](https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT) | [You Can't Lose with the Blues](https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl) | 5:15 | 2021-12-16 |  |
 | [Yes Sir, That's My Baby](https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \- Rudy Van Gelder Remaster](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 4:20 | 2021-12-16 |  |
 | [You Can Have Him](https://open.spotify.com/track/1FIkhPVchSeLTinKQcC5tV) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 3:46 | 2021-12-16 | 2022-08-30 |
+| [You Go to My Head](https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [You Go to My Head](https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl) | 3:59 | 2024-08-16 |  |
 | [You Make Me Feel so Young](https://open.spotify.com/track/3MnRIr9WZLkX3OIQBSByMF) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [Chris Connor](https://open.spotify.com/album/6Upvk936bmob5lyoY7ouDD) | 2:51 | 2021-12-16 |  |
 | [You're Sensational](https://open.spotify.com/track/6SCyZl4vel7zvAPj29xqmi) | [Eric Reed Trio](https://open.spotify.com/artist/6lX8wa641FsHnSseVqnG4Q) | [Blue Trane](https://open.spotify.com/album/3RXgzvCKKFbKowuo83Nb3x) | 6:52 | 2021-12-16 |  |
 

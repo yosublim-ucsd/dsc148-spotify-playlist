@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 354225,
       "name": "1000 FACES",
       "url": "https://open.spotify.com/track/6N782SRelKTC2FXbLfNELm"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 201795,
       "name": "BACK ON",
       "url": "https://open.spotify.com/track/77bCvwZqXZJLfLBG7iGvjE"
@@ -1328,6 +1328,24 @@
       "duration_ms": 278095,
       "name": "Beee-Hive",
       "url": "https://open.spotify.com/track/7I2ViRmeZhDSxNBTSwLMXa"
+    },
+    {
+      "album": {
+        "name": "Subtle",
+        "url": "https://open.spotify.com/album/2AOptu4dzltO34HxCx8iqf"
+      },
+      "artists": [
+        {
+          "name": "Human Movement",
+          "url": "https://open.spotify.com/artist/37dubgexq6dhyB4eCM3PHZ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208621,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/30k9KWmDgRtnffbPim1nSR"
     },
     {
       "album": {
@@ -1890,7 +1908,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 166523,
       "name": "Broke My Heart",
       "url": "https://open.spotify.com/track/1ZHl7FtYY4gio5bGkFfiGP"
@@ -3342,7 +3360,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 374122,
       "name": "Del Oro",
       "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
@@ -7225,6 +7243,24 @@
     },
     {
       "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "album": {
         "name": "I Told U (XL Regular Remix)",
         "url": "https://open.spotify.com/album/2qPhNMBF1ecPWJC9udzGeQ"
       },
@@ -8080,6 +8116,24 @@
       "duration_ms": 236764,
       "name": "Key103 [a56 edit]",
       "url": "https://open.spotify.com/track/56fuQi8Bld3J8Jwkw8Hc08"
+    },
+    {
+      "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/1tmMxfgR5KvSqFNBalrrMS"
+      },
+      "artists": [
+        {
+          "name": "TOSH7",
+          "url": "https://open.spotify.com/artist/6xDfWQKubFhoPsW8bmkheu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415952,
+      "name": "Khaan.",
+      "url": "https://open.spotify.com/track/5XSTRRyhece1Td0H04ql8n"
     },
     {
       "album": {
@@ -9603,6 +9657,32 @@
     },
     {
       "album": {
+        "name": "Anarcho Disco Vol. 1",
+        "url": "https://open.spotify.com/album/72YwO4P2Y9bVHCnyaGbjKR"
+      },
+      "artists": [
+        {
+          "name": "G\u01fcG",
+          "url": "https://open.spotify.com/artist/2IS0MZpYejuJAOkYL02xhJ"
+        },
+        {
+          "name": "MONKEY TIMERS",
+          "url": "https://open.spotify.com/artist/3tHaliLoFR0AscFTHDiPxE"
+        },
+        {
+          "name": "Keita Sano",
+          "url": "https://open.spotify.com/artist/4dBOdFLRA3l1S7I1eaSYCn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452697,
+      "name": "Merpa",
+      "url": "https://open.spotify.com/track/6TmHSrZTZY48z3OvSxBS9L"
+    },
+    {
+      "album": {
         "name": "Mike (desert island duvet)",
         "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
       },
@@ -10176,6 +10256,24 @@
       "duration_ms": 205555,
       "name": "My Crew (feat. Flowdan)",
       "url": "https://open.spotify.com/track/0BX4SC4ZfRn2egJfxjcgKc"
+    },
+    {
+      "album": {
+        "name": "Prisma 2",
+        "url": "https://open.spotify.com/album/5a9sckglDEejXghPvhSN8e"
+      },
+      "artists": [
+        {
+          "name": "Dazzle Drums",
+          "url": "https://open.spotify.com/artist/4uDHKttZHqeHquQcd7tiX2"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Myths of Tomorrow",
+      "url": "https://open.spotify.com/track/4g55KGMsZC53blTPskOp8n"
     },
     {
       "album": {
@@ -10978,7 +11076,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 389508,
       "name": "One Way",
       "url": "https://open.spotify.com/track/7jBWh8IKOJlHCuHXHkWzqq"
@@ -12027,6 +12125,28 @@
     },
     {
       "album": {
+        "name": "RB3",
+        "url": "https://open.spotify.com/album/7ICteuiidF1pKca1tyX0A8"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239890,
+      "name": "RB3",
+      "url": "https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC"
+    },
+    {
+      "album": {
         "name": "Reach Out",
         "url": "https://open.spotify.com/album/6JgGyHsJKXN7cQ8epQsPBz"
       },
@@ -12118,7 +12238,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 328957,
       "name": "Red Velvet",
       "url": "https://open.spotify.com/track/1Qjrjvl8BIXcsa1HsalA7O"
@@ -12439,6 +12559,24 @@
     },
     {
       "album": {
+        "name": "Roberta Johnson",
+        "url": "https://open.spotify.com/album/1m0s1YYj8ay7yr21GbQxZZ"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332155,
+      "name": "Roberta Johnson",
+      "url": "https://open.spotify.com/track/3jg3XARpLmvxLlJDv3HkRz"
+    },
+    {
+      "album": {
         "name": "music for stealing to",
         "url": "https://open.spotify.com/album/5uYtMIrMlJaJSeeRExvaQK"
       },
@@ -12490,7 +12628,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 233200,
       "name": "RR.dnk",
       "url": "https://open.spotify.com/track/6az5DcWgPNlWDUte0OqpXM"
@@ -12792,7 +12930,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 216960,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/0TsJzxDrjLNs6szBrho1dG"
@@ -13084,6 +13222,28 @@
       "duration_ms": 194900,
       "name": "Shadows Pt. 3",
       "url": "https://open.spotify.com/track/6QndKEhGoxbCDixi6FPOGD"
+    },
+    {
+      "album": {
+        "name": "Shake Body",
+        "url": "https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Shake Body",
+      "url": "https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR"
     },
     {
       "album": {
@@ -13708,6 +13868,24 @@
       "duration_ms": 271055,
       "name": "Sorbet - LSDXOXO Remix",
       "url": "https://open.spotify.com/track/6agcpxNbvaijdICaroWF9g"
+    },
+    {
+      "album": {
+        "name": "Sorry (Digital Underground)",
+        "url": "https://open.spotify.com/album/2s2V25Ws1cPpZOhTiiYWk3"
+      },
+      "artists": [
+        {
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166443,
+      "name": "Sorry (Digital Underground)",
+      "url": "https://open.spotify.com/track/4DXCVd7CIfnCtCtQZspNBy"
     },
     {
       "album": {
@@ -15518,7 +15696,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 240580,
       "name": "Treat Each Other Right",
       "url": "https://open.spotify.com/track/52GJf3163rfoCtjOvCe85K"
@@ -15748,7 +15926,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 154603,
       "name": "UFO-mie - imai Remix",
       "url": "https://open.spotify.com/track/0eWWdB5oKMlw6pK6ExRhwd"
@@ -16717,6 +16895,24 @@
     },
     {
       "album": {
+        "name": "WHERE'S MY VAPE?",
+        "url": "https://open.spotify.com/album/2vNQ3JP3vnNL47n6yx5EIi"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279428,
+      "name": "WHERE'S MY VAPE?",
+      "url": "https://open.spotify.com/track/398FKmK2bGM2FBmI0g9PnN"
+    },
+    {
+      "album": {
         "name": "white horse",
         "url": "https://open.spotify.com/album/7fdAdlq3AmkfRKcRPd9KrB"
       },
@@ -16754,7 +16950,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 244629,
       "name": "Without Love - MET Contrast Remix",
       "url": "https://open.spotify.com/track/0DVOV3RLe5wN5aA8EpCzfO"
@@ -17042,6 +17238,28 @@
       "duration_ms": 161111,
       "name": "Yo Fam!",
       "url": "https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE"
+    },
+    {
+      "album": {
+        "name": "Yoruba Riddim, Log On",
+        "url": "https://open.spotify.com/album/144aXOCHsVHC2hfohrKNmz"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        },
+        {
+          "name": "KILIMANJARO",
+          "url": "https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "Yoruba Riddim",
+      "url": "https://open.spotify.com/track/0TrVS90gLpKq2okJ66AEfz"
     },
     {
       "album": {

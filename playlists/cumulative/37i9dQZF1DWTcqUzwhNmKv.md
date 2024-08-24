@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Left To Suffer on top of today's best Metal playlist.
+> Halestorm on top of today's best Metal playlist.
 
-739 songs - 2 day 0 hr 47 min
+743 songs - 2 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Be Someone](https://open.spotify.com/track/4iLBQIgE9PuT41Rf8M9bPw) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Future Lovers](https://open.spotify.com/album/4i8gvZZJAG88UAG4Jy7vEl) | 3:20 | 2022-09-23 | 2022-11-12 |
 | [Beat It](https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Beat It](https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL) | 3:30 | 2021-12-20 | 2022-01-07 |
 | [Become One](https://open.spotify.com/track/24cthHMisFuAn0QKaAYbsf) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone \(Bonus Edition\)](https://open.spotify.com/album/6TaVKA8OkhhGvrbxCtZPpy) | 3:28 | 2024-02-16 | 2024-05-18 |
+| [BEG!](https://open.spotify.com/track/0g9GhfqFotNeAt2TuggiEh) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [BEG!](https://open.spotify.com/album/2J0StL6VInyddAmQvM7bRC) | 2:42 | 2024-08-23 |  |
 | [Beholden to Clan](https://open.spotify.com/track/5LxBDSxTZH9hrNTMXnMEGT) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Crypt of Ancestral Knowledge](https://open.spotify.com/album/2gWPiPmcyw7Hdha3wR74g4) | 6:57 | 2023-10-06 | 2023-11-04 |
 | [Believe](https://open.spotify.com/track/5uLekx5vq0kEw9NR8k33f6) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Believe](https://open.spotify.com/album/0zDSGyLShEvz9xjD7OhlK9) | 4:36 | 2022-07-29 | 2022-10-22 |
 | [Better Than You](https://open.spotify.com/track/5NFXZaUersjjJuIqPbOlhF) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Better Than You](https://open.spotify.com/album/3iCN4f0sMLQ9TF7nYm4NAx) | 3:32 | 2022-04-22 | 2022-07-30 |
@@ -182,7 +183,7 @@
 | [Dismantled](https://open.spotify.com/track/01dPcsbep0CGpj4VZ2OWKc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Dismantled](https://open.spotify.com/album/2pJDgYFNu0Qu1FgNDMDa9T) | 3:11 | 2022-06-17 | 2022-07-30 |
 | [Dissociative Being](https://open.spotify.com/track/7viT7z5vi1jk1TP8nKtdzW) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Dissociative Being](https://open.spotify.com/album/0yf8qxSFTinq7lVURtd016) | 3:50 | 2024-04-19 | 2024-06-15 |
 | [Ditch](https://open.spotify.com/track/0IcUCRcLXR9S8OGFt0iT1L) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x) | 3:37 | 2022-11-25 | 2023-02-11 |
-| [Divine](https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Divine](https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA) | 3:39 | 2024-05-10 |  |
+| [Divine](https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [Divine](https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA) | 3:39 | 2024-05-10 | 2024-08-24 |
 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Divine Attack \- Shingeki \-](https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR) | 3:38 | 2022-11-04 | 2022-12-10 |
 | [Do Or Die](https://open.spotify.com/track/0JfaobFI1qJCapXqsCUxcc) | [Elegant Weapons](https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ) | [Do Or Die](https://open.spotify.com/album/6boPlXyyTR7F5YYPYhNLCX) | 5:21 | 2023-04-21 | 2023-05-28 |
 | [Do Or Die](https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM) | [Elegant Weapons](https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ) | [Horns For A Halo](https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if) | 5:21 | 2023-05-26 | 2023-10-14 |
@@ -298,6 +299,7 @@
 | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/track/2mTi7e03FygOF0bds32848) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Heretic \(feat\. Loz Taylor\)](https://open.spotify.com/album/4GuxQZOki4NdCKpn9kW9xn) | 3:32 | 2023-03-03 | 2023-11-18 |
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-07-15 | 2022-10-08 |
 | [Higher Than Death](https://open.spotify.com/track/1uSnbsUf7odODC8r6qPPPx) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [EndEx](https://open.spotify.com/album/7wHoOSWfxWuHcZrLeZHj1B) | 4:19 | 2023-09-29 | 2024-05-11 |
+| [Hole Hearted](https://open.spotify.com/track/6WU2sHLqU13QUzwV9m6iGB) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Hole Hearted](https://open.spotify.com/album/10kEMeY4T4I4gPn1gYLOgD) | 3:13 | 2024-08-23 |  |
 | [Hostage](https://open.spotify.com/track/7qHbY5PvQVGYRiQKE2Qojx) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Hostage](https://open.spotify.com/album/31ABP3oxNXYvlIGdnzxf36) | 4:39 | 2024-08-02 |  |
 | [Hostage](https://open.spotify.com/track/52OSF0Q6raA5sTdU5d0eJh) | [No Resolve](https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp) | [Hostage](https://open.spotify.com/album/4nElAmQfKidEz20r1DFuRT) | 3:23 | 2021-12-20 | 2022-03-11 |
 | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Hosting the Shadow \(feat\. Randy Blythe\)](https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr) | 4:21 | 2024-08-09 |  |
@@ -309,7 +311,7 @@
 | [Hurricane](https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf) | [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Hurricane](https://open.spotify.com/album/65z7MiMcyvptnddVK2LZeC) | 3:00 | 2022-01-14 | 2022-04-01 |
 | [Hurrikan](https://open.spotify.com/track/4uBXb5llcXoL231RHUv8JD) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Hurrikan](https://open.spotify.com/album/3metucRFaJQD1Tx4zVYwLp) | 1:39 | 2022-09-09 | 2022-10-01 |
 | [I Am Damnation](https://open.spotify.com/track/17ExHVQYfJBlTSnbidz0LQ) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [I Am Damnation](https://open.spotify.com/album/4CegSYvQSSoiMLhO0AHEDa) | 4:46 | 2021-12-20 | 2022-04-15 |
-| [I Am Dog Now](https://open.spotify.com/track/2V0hvlkjUrp9GxL6iHnOJD) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [I Am Dog Now](https://open.spotify.com/album/4A3gdWUjByvSGaT7z2DwvK) | 3:53 | 2024-07-19 |  |
+| [I Am Dog Now](https://open.spotify.com/track/2V0hvlkjUrp9GxL6iHnOJD) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [I Am Dog Now](https://open.spotify.com/album/4A3gdWUjByvSGaT7z2DwvK) | 3:53 | 2024-07-19 | 2024-08-24 |
 | [I am the Beast](https://open.spotify.com/track/46xrzJkwWM6s8tb3nVU4mQ) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [Dethalbum IV](https://open.spotify.com/album/0kOvFgwICfLldItMxuJvgC) | 4:15 | 2023-09-08 | 2023-09-30 |
 | [I Run With Wolves](https://open.spotify.com/track/7oNOP1xca406nustARPRru) | [Manafest](https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL) | [I Run With Wolves](https://open.spotify.com/album/4lJsPWd2NLv14P4AhDZkmo) | 3:21 | 2021-12-20 | 2022-01-14 |
 | [I See Dead People](https://open.spotify.com/track/3UgZA53hNSPbwtNJ7x8Bd9) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK), [Louie Knuxx](https://open.spotify.com/artist/2SQXiX0AGHf3Aw43or85KX) | [I See Dead People](https://open.spotify.com/album/3R8VofbgLwq9q48eueOCqC) | 3:36 | 2023-02-17 | 2023-05-13 |
@@ -353,7 +355,7 @@
 | [Ketamine](https://open.spotify.com/track/37vKzukXbXcJiA3TMmGptj) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Ketamine](https://open.spotify.com/album/7IJVzIr5F8Vq0Qe50PGwke) | 2:52 | 2022-06-24 | 2022-09-17 |
 | [Kid Of Darkness](https://open.spotify.com/track/6jfdoFizeyEAJ30BNHjVq7) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Kid Of Darkness](https://open.spotify.com/album/7nSuVfuuJObHowL6DL8SlH) | 4:25 | 2024-06-21 |  |
 | [Killshot](https://open.spotify.com/track/3F8Bjx90CZMEWADfHSImPN) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Killshot](https://open.spotify.com/album/6RLzKueY42p7BlSIRgOpVC) | 2:32 | 2023-11-17 | 2024-03-30 |
-| [Kings of the Underworld](https://open.spotify.com/track/6ouLDMuQXNZY6WAhQZ9Z7c) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [The Order Of Fear](https://open.spotify.com/album/2ZAHidu1BbX01QEiG8BpcF) | 3:57 | 2024-07-12 |  |
+| [Kings of the Underworld](https://open.spotify.com/track/6ouLDMuQXNZY6WAhQZ9Z7c) | [Orden Ogan](https://open.spotify.com/artist/3t5X2CVDf5mrlIx1SdvWYM) | [The Order Of Fear](https://open.spotify.com/album/2ZAHidu1BbX01QEiG8BpcF) | 3:57 | 2024-07-12 | 2024-08-24 |
 | [Kintsugi](https://open.spotify.com/track/4TwfI4rWaKILmOeg22pLuv) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Kintsugi](https://open.spotify.com/album/3J7qLVPyQ4wdZk0N2bGfhW) | 3:22 | 2024-03-08 | 2024-04-19 |
 | [Kool\-Aid](https://open.spotify.com/track/0hpWmAB3L0OJ3VBeMkOQUu) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 3:48 | 2024-05-24 | 2024-07-19 |
 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-05 | 2024-05-25 |
@@ -404,6 +406,7 @@
 | [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 | 2024-03-08 | 2024-05-18 |
 | [Murder8](https://open.spotify.com/track/1iujWexZauOlEulLxjEzKm) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm), [Jamey Jasta](https://open.spotify.com/artist/0ZMRPS0nmaMsLth9slhzIL) | [Murder8](https://open.spotify.com/album/3iv3lzt8M01kjeGLR4dV9G) | 3:48 | 2024-05-31 |  |
 | [My Will Be Done](https://open.spotify.com/track/6ueojaNAK670h4Cei9ZG4A) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [My Will Be Done](https://open.spotify.com/album/1rPhn7A7DaQioOB0ku0UXU) | 3:42 | 2022-10-28 | 2023-01-21 |
+| [Necessary Evil](https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Necessary Evil](https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV) | 2:56 | 2024-08-23 |  |
 | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/track/0lMYQaJNpyo4NIdLiv5eXY) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj), [Lukas Rossi](https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID) | [Neurotic \(feat\. Lukas Rossi\)](https://open.spotify.com/album/7C0499YNyKXYczyKagdhip) | 3:17 | 2022-02-24 | 2022-04-15 |
 | [Never Dawn](https://open.spotify.com/track/53h0CfeES5dh1ECvoNjlMu) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3n9sbXBR3ZhRwuNb4KBisF) | 4:49 | 2023-06-16 | 2024-03-23 |
 | [Never Dawn](https://open.spotify.com/track/6FwcX0FQLYsGRvU8DWCUsg) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Never Dawn](https://open.spotify.com/album/3oxrUHGaR7eZ0j5dKpeSAo) | 4:49 | 2023-06-09 | 2023-06-19 |
@@ -422,6 +425,7 @@
 | [Nihilism](https://open.spotify.com/track/6C8l342LO3G0EOQWbdM7Yz) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Nihilism](https://open.spotify.com/album/69fjRGFNKKjgx4PzdxAsRz) | 3:16 | 2024-05-17 |  |
 | [NO HELP](https://open.spotify.com/track/2yxjtF4f1Yw2GpKELclHw3) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [NO HELP](https://open.spotify.com/album/65SYISbipzVUmmoeAzsYtP) | 2:53 | 2022-04-15 | 2022-07-23 |
 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 | 2022-07-29 | 2023-04-22 |
+| [No Tomorrow](https://open.spotify.com/track/25ZT2d4YmjQApcfWLXD1Eg) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [No Tomorrow](https://open.spotify.com/album/6nmJnknaiCSIRODXFa4htZ) | 4:40 | 2024-08-23 |  |
 | [No Way Back Just Through](https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 3:53 | 2021-12-20 | 2022-01-07 |
 | [Noah](https://open.spotify.com/track/7nNIk5X6AanHDEhYKekymO) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Noah](https://open.spotify.com/album/4PyTSqcMOE1DXi4pLu1T0F) | 3:36 | 2023-08-11 | 2023-10-07 |
 | [Nobody](https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 5:53 | 2023-06-02 | 2024-05-04 |

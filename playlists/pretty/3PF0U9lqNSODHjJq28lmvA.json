@@ -1,236 +1,392 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2388,
+  "num_followers": 2389,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAADzhs3QsPN8uvutcQStKooSee0BitQ",
+  "snapshot_id": "AAAD0KsxHOzR/2VecHr/UoP40jJpXEob",
   "tracks": [
     {
-      "added_at": "2024-08-16 13:36:18",
+      "added_at": "2024-08-23 13:17:46",
       "album": {
-        "name": "Lost In The Dark",
-        "url": "https://open.spotify.com/album/1xCG1fQzBBG833J5JS3NnG"
+        "name": "Dvmn",
+        "url": "https://open.spotify.com/album/04WmiTzbtC0a8TKEOEEDUv"
       },
       "artists": [
         {
-          "name": "Pearly Drops",
-          "url": "https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL"
+          "name": "Feyesal",
+          "url": "https://open.spotify.com/artist/6frffJSfCnyExIFDQEHnyf"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Lost In The Dark",
-      "url": "https://open.spotify.com/track/63hTGiELUmNseEn3rVWLLi"
+      "duration_ms": 147208,
+      "name": "Dvmn",
+      "url": "https://open.spotify.com/track/7Hb7B3IJfUyxcwY0l94c6S"
     },
     {
-      "added_at": "2024-08-16 13:36:18",
+      "added_at": "2024-08-23 13:17:46",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/2IMm7bIMOkDnxMbYohzJhA"
+        "name": "read me",
+        "url": "https://open.spotify.com/album/192PnVFJYP2IjcP5Mnw0uN"
       },
       "artists": [
         {
-          "name": "Cl\u00f6die",
-          "url": "https://open.spotify.com/artist/7rp5EvHp460huD1jkfRM15"
+          "name": "TeYo",
+          "url": "https://open.spotify.com/artist/4quJ5m7lBQ7ZbBEDHikTEC"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "read me",
+      "url": "https://open.spotify.com/track/7ef3OjBB4PyjEocFXJQDOU"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "Tough Kids",
+        "url": "https://open.spotify.com/album/4ahI4ceyxUKpdU9sxMUVQr"
+      },
+      "artists": [
+        {
+          "name": "Seafarers",
+          "url": "https://open.spotify.com/artist/7dWWrUu4v70sxCnz2iIf2x"
+        }
+      ],
+      "duration_ms": 338720,
+      "name": "Tough Kids",
+      "url": "https://open.spotify.com/track/6JrxaO4bD5TNa52HO6BLNZ"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "Scoop her up",
+        "url": "https://open.spotify.com/album/5X93INm3ucz0LagbdK7nZQ"
+      },
+      "artists": [
+        {
+          "name": "Crome",
+          "url": "https://open.spotify.com/artist/1iZyeabeAU7T0ipsLEja51"
         },
         {
-          "name": "Mike Olow",
-          "url": "https://open.spotify.com/artist/5Oh8tVVgTzXEGqdtFkPZMt"
+          "name": "Ralf Gyllenhammar",
+          "url": "https://open.spotify.com/artist/5y0Utp1nAKHzmezYai73H5"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/0s5XxWW3DRLkmSb0d8YwEu"
+      "duration_ms": 182500,
+      "name": "Scoop her up",
+      "url": "https://open.spotify.com/track/33kOMJJmmYITZbB0Z8RLl0"
     },
     {
-      "added_at": "2024-08-16 13:36:18",
+      "added_at": "2024-08-23 13:17:46",
       "album": {
-        "name": "House Of Love",
-        "url": "https://open.spotify.com/album/5cjHZ8tzjLuhaEHkaKMyVA"
+        "name": "Dumbfounded",
+        "url": "https://open.spotify.com/album/5H9FPkvHrmJNotd8aCfyr1"
       },
       "artists": [
         {
-          "name": "Micke Lovberg",
-          "url": "https://open.spotify.com/artist/5HfjZQR2FGcfUQ0oMAAxsG"
+          "name": "Adulting",
+          "url": "https://open.spotify.com/artist/64Ofoq8JgFAWvxuCtAgZqK"
         }
       ],
-      "duration_ms": 240000,
-      "name": "House Of Love",
-      "url": "https://open.spotify.com/track/26H7Nffsit80gbewHRfWu0"
+      "duration_ms": 192773,
+      "name": "Dumbfounded",
+      "url": "https://open.spotify.com/track/7vTZyAa1zoXHwHkxoCqMcT"
     },
     {
-      "added_at": "2024-08-16 13:36:18",
+      "added_at": "2024-08-23 13:17:46",
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/7vhmpLYvCMPNuWjfvgRg1V"
+        "name": "Demoner",
+        "url": "https://open.spotify.com/album/6bHNchblug6SG27YKXEM9r"
       },
       "artists": [
         {
-          "name": "Yozif",
-          "url": "https://open.spotify.com/artist/5Y0UtFJl6GLJFXu9UH9Xwg"
-        }
-      ],
-      "duration_ms": 322298,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/7HeH3Djnx5p5Uq4SWGbHpw"
-    },
-    {
-      "added_at": "2024-08-16 13:36:18",
-      "album": {
-        "name": "Fiery Night",
-        "url": "https://open.spotify.com/album/3JFJ8vEYlFhCyHUH4KJsh1"
-      },
-      "artists": [
-        {
-          "name": "Spiders On Drugs",
-          "url": "https://open.spotify.com/artist/0L1ISkAR88soOflJEb5sLm"
+          "name": "Dava",
+          "url": "https://open.spotify.com/artist/59UfURXqVmhzy5FZkFJFRg"
         },
         {
-          "name": "Patrik Tammelin",
-          "url": "https://open.spotify.com/artist/6RE5O8YXcLufw1yqYsKsDi"
+          "name": "Vaiken",
+          "url": "https://open.spotify.com/artist/2ldZCADuSqTdJsYMT4VLjn"
+        }
+      ],
+      "duration_ms": 193505,
+      "name": "Demoner",
+      "url": "https://open.spotify.com/track/6H2d6SEVjZCwkc2o2xFuY1"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "ELD",
+        "url": "https://open.spotify.com/album/7mUyEHWg0MXoADsFuQQMGR"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/17BNApAqvSVoXhWG79LgNy"
         },
         {
-          "name": "Maria Simonson",
-          "url": "https://open.spotify.com/artist/67yhCBMk6NuA2XaCSUTF3o"
-        }
-      ],
-      "duration_ms": 191253,
-      "name": "Fiery Night",
-      "url": "https://open.spotify.com/track/30wShil0OGBnolu9NqyX2p"
-    },
-    {
-      "added_at": "2024-08-16 13:36:18",
-      "album": {
-        "name": "Love me harder",
-        "url": "https://open.spotify.com/album/55dBJAuL13NRfkxssHcJGj"
-      },
-      "artists": [
-        {
-          "name": "Odessa K",
-          "url": "https://open.spotify.com/artist/6hunLtgmo7i5cX2QGsQjR7"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Love me harder",
-      "url": "https://open.spotify.com/track/0TaConHdFV7yjGdcTFnXuj"
-    },
-    {
-      "added_at": "2024-08-16 13:36:18",
-      "album": {
-        "name": "Ghostdance",
-        "url": "https://open.spotify.com/album/2v50r02yQefeIlssieqrUq"
-      },
-      "artists": [
-        {
-          "name": "Blue Train",
-          "url": "https://open.spotify.com/artist/7rdg63lZqxc0bJq39Zat00"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Ghostdance",
-      "url": "https://open.spotify.com/track/06DNSk0u174rsFqH02D0ew"
-    },
-    {
-      "added_at": "2024-08-16 13:36:18",
-      "album": {
-        "name": "Inte ha mage",
-        "url": "https://open.spotify.com/album/2fpzdrD47dRRNgYPbpHJkK"
-      },
-      "artists": [
-        {
-          "name": "Kajsa Larsson",
-          "url": "https://open.spotify.com/artist/0UsiAYIj7AE0jTnDrC3itV"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "Inte ha mage",
-      "url": "https://open.spotify.com/track/4zvaqXkcpFKMY8OQ20JlR5"
-    },
-    {
-      "added_at": "2024-08-16 13:36:18",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/36iKwzZScYT3ugXFEs2kyK"
-      },
-      "artists": [
-        {
-          "name": "Ad.03.00.am",
-          "url": "https://open.spotify.com/artist/3UgiNpWgMpsrOFyxlqBb6r"
+          "name": "Scientific",
+          "url": "https://open.spotify.com/artist/3e8OpWlbKBsKycsOzmoek1"
         },
         {
-          "name": "Fjern",
-          "url": "https://open.spotify.com/artist/05QVbmiN8MmnCQzwm5ebur"
+          "name": "Griljo",
+          "url": "https://open.spotify.com/artist/1WLvxNy2LpRZCgtrhwDwV3"
+        },
+        {
+          "name": "Juan Havana",
+          "url": "https://open.spotify.com/artist/4YT541KEfw10tFLrXxuyE1"
         }
       ],
-      "duration_ms": 164699,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/37UOnSrtT1FAIB6eqRXoYU"
+      "duration_ms": 245250,
+      "name": "ELD",
+      "url": "https://open.spotify.com/track/1vDr5vfGgz2ujQY7a5QcmB"
     },
     {
-      "added_at": "2024-08-16 13:36:18",
+      "added_at": "2024-08-23 13:17:46",
       "album": {
-        "name": "Koirankoppi",
-        "url": "https://open.spotify.com/album/6gvaaZPHhdPN1e6mAsk5ie"
+        "name": "3M (City of Sins)",
+        "url": "https://open.spotify.com/album/3guMauerTQYMCILFhp9Hno"
       },
       "artists": [
         {
-          "name": "Pudel Blanco",
-          "url": "https://open.spotify.com/artist/54ehlR3XM3YNwv5R7p60iN"
+          "name": "GINAxC",
+          "url": "https://open.spotify.com/artist/4hHUHCaBuD2d2FRHLgeOWQ"
         }
       ],
-      "duration_ms": 188241,
-      "name": "Koirankoppi",
-      "url": "https://open.spotify.com/track/1PQgImlchEAXyLptApv0CL"
+      "duration_ms": 205354,
+      "name": "3M (City of Sins)",
+      "url": "https://open.spotify.com/track/4OwqHu3kEerF9yPvsqBWGE"
     },
     {
-      "added_at": "2024-08-16 13:36:18",
+      "added_at": "2024-08-23 13:17:46",
       "album": {
-        "name": "\u4fe1\u697d\u30c9\u30e9\u30a4\u30d6",
-        "url": "https://open.spotify.com/album/6uIvryWynYWovVjDSN4vbW"
+        "name": "Pohtinut",
+        "url": "https://open.spotify.com/album/4TCTMnZCCSSc2ybBFPJm5C"
       },
       "artists": [
         {
-          "name": "Daigo Akane",
-          "url": "https://open.spotify.com/artist/6aTFD0LHw9wphqLFRdHoMi"
+          "name": "H\u00e4jy D",
+          "url": "https://open.spotify.com/artist/0U4nUl4jN6nQP2PQLNn9rC"
         }
       ],
-      "duration_ms": 231253,
-      "name": "\u3042\u306a\u305f\u306e\u6b4c",
-      "url": "https://open.spotify.com/track/4sHxZQDidvElrXRSjXlIxa"
+      "duration_ms": 177230,
+      "name": "Pohtinut",
+      "url": "https://open.spotify.com/track/2C66yRDkRgZkEJyvUBP6OC"
     },
     {
-      "added_at": "2024-08-16 13:36:18",
+      "added_at": "2024-08-23 13:17:46",
       "album": {
-        "name": "Lost in the lights",
-        "url": "https://open.spotify.com/album/2mEGH09KaUD8wf1LV9DK1u"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0Pkv28cjYBtMhPMsziqZ4V"
       },
       "artists": [
         {
-          "name": "Lisa D",
-          "url": "https://open.spotify.com/artist/1TcqqLgeU8TnYRhRgZ37fG"
+          "name": "Revone",
+          "url": "https://open.spotify.com/artist/3K6JwA2vFd39DnYI1rmzvM"
         }
       ],
-      "duration_ms": 214835,
-      "name": "Lost in the lights",
-      "url": "https://open.spotify.com/track/6CPgiMb7oBC1po1MEjSdZz"
+      "duration_ms": 489603,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/6nQMv92fHCInqqWLFI75jM"
     },
     {
-      "added_at": "2024-08-16 13:36:18",
+      "added_at": "2024-08-23 13:17:46",
       "album": {
-        "name": "If I Can't Be Alone",
-        "url": "https://open.spotify.com/album/5C1pVqb5t5rpj1m717pA4R"
+        "name": "Only For Love - Tuesday Night Remix",
+        "url": "https://open.spotify.com/album/1FPhqomrbLM7nIfz0imKeV"
       },
       "artists": [
         {
-          "name": "Ma\u00e8",
-          "url": "https://open.spotify.com/artist/1WkoXsYTfEcrvfojd1tyQu"
+          "name": "Indigo Rogue",
+          "url": "https://open.spotify.com/artist/62wJFQE5VA2QlDtJ6LfBpc"
         }
       ],
-      "duration_ms": 131000,
-      "name": "If I Can't Be Alone",
-      "url": "https://open.spotify.com/track/5EYoGOK5TGWLoeI4QqO658"
+      "duration_ms": 366614,
+      "name": "Only For Love - Tuesday Night Remix",
+      "url": "https://open.spotify.com/track/0wjOWShJbGs53g2i60olOU"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "Gl\u00e4djed\u00f6dare",
+        "url": "https://open.spotify.com/album/2U8P4Jtrsxp91XQFfnjfHU"
+      },
+      "artists": [
+        {
+          "name": "Second Sun",
+          "url": "https://open.spotify.com/artist/6rjBxUbzdlsIQVk1EvihBk"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Gl\u00e4djed\u00f6dare",
+      "url": "https://open.spotify.com/track/4gK3z96ROypLxWm8rMGrHK"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "I SEE YOU IN EVERYTHING",
+        "url": "https://open.spotify.com/album/5IwIW3ibQTFtUtHwvNRlJq"
+      },
+      "artists": [
+        {
+          "name": "Cailin Pitt",
+          "url": "https://open.spotify.com/artist/7rXW2V5VLvQlmynqSM4FtO"
+        }
+      ],
+      "duration_ms": 169142,
+      "name": "The Edges Of You",
+      "url": "https://open.spotify.com/track/5Y48aswqdm733pyN9zWZdZ"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "Hangover Song",
+        "url": "https://open.spotify.com/album/1S4kXZPnm6uTRo1KJoYN0z"
+      },
+      "artists": [
+        {
+          "name": "Tropic Waste",
+          "url": "https://open.spotify.com/artist/1o6HvQWlqxaR2tkryaaQiv"
+        }
+      ],
+      "duration_ms": 103212,
+      "name": "Hangover Song",
+      "url": "https://open.spotify.com/track/6ujvLMct3tZJSUGd13uDBr"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "Impression",
+        "url": "https://open.spotify.com/album/4rExNzP6EBGJxiDMeTdGlW"
+      },
+      "artists": [
+        {
+          "name": "Paper Space",
+          "url": "https://open.spotify.com/artist/2sA7MJCEjmzDQ4W1Gdx3Uc"
+        }
+      ],
+      "duration_ms": 194227,
+      "name": "Impression",
+      "url": "https://open.spotify.com/track/6793mzpDLeFQnkjLLlOrbW"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "Alles Ist",
+        "url": "https://open.spotify.com/album/1CKbWUzQm4RQy27mdQvXPV"
+      },
+      "artists": [
+        {
+          "name": "CU@Sunrise",
+          "url": "https://open.spotify.com/artist/7jrAG13kX9rmRlvnxbiBSi"
+        }
+      ],
+      "duration_ms": 178196,
+      "name": "Alles Ist",
+      "url": "https://open.spotify.com/track/0Ss9IDSmEPt3w0jiEpyfT6"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "When The Coast Is Clear",
+        "url": "https://open.spotify.com/album/40yFP2Uhjmo1rKM721RwK5"
+      },
+      "artists": [
+        {
+          "name": "The Night Parrots",
+          "url": "https://open.spotify.com/artist/1F9tpDnuGk3WaYe4AQyILo"
+        }
+      ],
+      "duration_ms": 204696,
+      "name": "When The Coast Is Clear",
+      "url": "https://open.spotify.com/track/3lu6t5woSlOvE9ZeYbitXK"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "Ozean",
+        "url": "https://open.spotify.com/album/4idnVOl6Zmcg7fqDwNv5a6"
+      },
+      "artists": [
+        {
+          "name": "Gero Camp",
+          "url": "https://open.spotify.com/artist/0hRT14ejP5gmhfwExXjZAj"
+        }
+      ],
+      "duration_ms": 228358,
+      "name": "Ozean",
+      "url": "https://open.spotify.com/track/2NExNlRoaKxdFNH2stT52A"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "Ettan p\u00e5 Tracks",
+        "url": "https://open.spotify.com/album/5cTzCe2CSIhDPMyzPXJjX8"
+      },
+      "artists": [
+        {
+          "name": "500 Mil",
+          "url": "https://open.spotify.com/artist/2ONTHTFGq5YowEelCnTJWC"
+        }
+      ],
+      "duration_ms": 274413,
+      "name": "Ettan p\u00e5 Tracks",
+      "url": "https://open.spotify.com/track/4hrQ7dIFAcrxBVLsnVUwNd"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "Mainee",
+        "url": "https://open.spotify.com/album/0WyOJM9Inl98XKCzQ6Dmgn"
+      },
+      "artists": [
+        {
+          "name": "idle know",
+          "url": "https://open.spotify.com/artist/0E9Stcc2Pm5K7yuMuchCUm"
+        }
+      ],
+      "duration_ms": 361132,
+      "name": "Mainee",
+      "url": "https://open.spotify.com/track/3nr7Wrr3FJkDhPQFTYj0tK"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/1U2VRkeIN41e2b1MCC9Jbb"
+      },
+      "artists": [
+        {
+          "name": "Invisible Tom",
+          "url": "https://open.spotify.com/artist/2phI1aDUiE3puyBywaniNv"
+        }
+      ],
+      "duration_ms": 205061,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/1l3AgE5ZmBUFZcBVhJwNEV"
+    },
+    {
+      "added_at": "2024-08-23 13:17:46",
+      "album": {
+        "name": "Como quisiera que estuvieras aqui",
+        "url": "https://open.spotify.com/album/2AWit6lmxn6UZqUAN4kXBs"
+      },
+      "artists": [
+        {
+          "name": "EL DEMONIO MERIDIANO",
+          "url": "https://open.spotify.com/artist/3VPRpFkim3ueKhEmQKQf66"
+        },
+        {
+          "name": "HENRY D'ARIAS",
+          "url": "https://open.spotify.com/artist/72IeYTH7Q34m7DYZsw57Wx"
+        },
+        {
+          "name": "ANDRES CA\u00d1AS",
+          "url": "https://open.spotify.com/artist/4ByTk66MfR6X4rNFvvDm1r"
+        }
+      ],
+      "duration_ms": 339818,
+      "name": "Como quisiera que estuvieras aqui",
+      "url": "https://open.spotify.com/track/197eO4XY3IWICU72bU4043"
     }
   ],
   "unique_name": "Independent Music Friday",

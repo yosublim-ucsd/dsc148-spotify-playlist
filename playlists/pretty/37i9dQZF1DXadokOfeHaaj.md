@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new indie dance music\. Cover: Killen
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,878 likes - 112 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,891 likes - 112 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

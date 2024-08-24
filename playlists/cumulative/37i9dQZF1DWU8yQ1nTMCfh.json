@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 178142,
       "name": "El Puesto Es M\u00edo",
       "url": "https://open.spotify.com/track/4EXV8TWancvWk4co8l97PP"
@@ -2494,6 +2494,24 @@
       "duration_ms": 207089,
       "name": "Llama Gemela",
       "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
+    },
+    {
+      "album": {
+        "name": "Lloro",
+        "url": "https://open.spotify.com/album/3yrXGZXlwvJcDEqqD3oxPC"
+      },
+      "artists": [
+        {
+          "name": "Abel",
+          "url": "https://open.spotify.com/artist/4ZFj0agwCvU6RhjDVLSIEZ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Lloro",
+      "url": "https://open.spotify.com/track/31QRagEpAiKv5L4t74pWgn"
     },
     {
       "album": {
@@ -4772,7 +4790,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 171904,
       "name": "Su\u00e9ltate el pelo",
       "url": "https://open.spotify.com/track/3MGZVhOFo5ihrcUjFkE8mb"
@@ -5474,6 +5492,24 @@
       "duration_ms": 203023,
       "name": "Vigilantes del Espejo",
       "url": "https://open.spotify.com/track/6NGziF7yJMzHdf0RTkOkzK"
+    },
+    {
+      "album": {
+        "name": "Volver a cero",
+        "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
+      },
+      "artists": [
+        {
+          "name": "Dante Ouvi\u00f1a",
+          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Volver a cero",
+      "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
     },
     {
       "album": {

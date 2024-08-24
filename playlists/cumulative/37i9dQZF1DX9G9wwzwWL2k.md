@@ -4,7 +4,7 @@
 
 > Lend a little drama to the occasion with this collection of truly epic classical music.
 
-111 songs - 17 hr 7 min
+112 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Fantasie in C, Op\. 17: I\. Durchaus fantastisch und leidenschaftlich vorzutragen \- Im Legendenton \- Erstes Tempo](https://open.spotify.com/track/7dmFJ4l96vnOtbbxuHXHOP) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Maurizio Pollini](https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh) | [Maurizio Pollini \- Schumann Complete Recordings](https://open.spotify.com/album/2hiQHYrCXb3s9jsMxcsKzf) | 12:07 | 2020-11-03 | 2022-02-15 |
 | [Finlandia, Op\. 26](https://open.spotify.com/track/3hHWhvw2hjwfngWcFjIzqr) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Lahti Symphony Orchestra](https://open.spotify.com/artist/5RFv0vIgbz020yHVboJQ0y), [Osmo Vänskä](https://open.spotify.com/artist/2GhXDeZqUWAqSpz7So8yUt) | [The Sound of Sibelius](https://open.spotify.com/album/3c4pFqVpXlGjUt9yGSaCQi) | 8:27 | 2020-11-03 |  |
 | [Gayane: Sabre Dance \- Redbook Stereo](https://open.spotify.com/track/7dSZFzpjRkIs0VSgOAexfJ) | [Aram Khachaturian](https://open.spotify.com/artist/5WIoytpqi3VWoFSHnl49in), [Arthur Fiedler](https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8) | [Pops Caviar](https://open.spotify.com/album/1N5YwVPdjYvGUS3Gb2tFiF) | 2:28 | 2020-11-03 | 2022-02-15 |
+| [Glass \(Arr\. Knoth for Solo Violin, Piano & Strings\)](https://open.spotify.com/track/4VAtedBdWADNrXc40ETjpx) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR), [Scoring Berlin](https://open.spotify.com/artist/5aVO01MTGf8SFlZvNm98ke), [Jonathan Stockhammer](https://open.spotify.com/artist/2PIjtepywKZwGT0mZIumrW) | [LIFE](https://open.spotify.com/album/1QZB5pIZbQ4FyPSYSujKfE) | 4:11 | 2024-08-23 |  |
 | [Grandes études de Paganini, S141: No.3 In G Sharp Minor \- "La Campanella"](https://open.spotify.com/track/04Z8OH1BVCtTZ9vk06SCtz) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [YUNDI](https://open.spotify.com/artist/1T6BHJnhY5xIVvZKzV5f2u) | [Liszt: Piano Recital](https://open.spotify.com/album/2nhKfecSEy4IetybklNcXy) | 4:42 | 2020-11-03 | 2022-02-15 |
 | [Guillaume Tell: Guillaume Tell: Overture](https://open.spotify.com/track/3QaPlDueCFnbJdPCeK0RbM) | [Gioachino Rossini](https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4), [Prague Sinfonia](https://open.spotify.com/artist/2rslujXEON2msrHEXH3VjL), [Christian Benda](https://open.spotify.com/artist/0BJkJ1ZYbOXeQMhQLT1Uhy) | [Rossini: Complete Overtures, Vol\. 2](https://open.spotify.com/album/2otvQncJiFFEzAtv14FiN3) | 11:35 | 2020-11-03 | 2022-02-15 |
 | [Jenkins: Palladio, for Strings \(Excerpt, Allegretto\)](https://open.spotify.com/track/7tRoCdhlg4QYrSMgmJvk0p) | [Karl Jenkins](https://open.spotify.com/artist/1q1wfzh2xtpj27TnIAqIvd), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Karl Jenkins: Quirk, Sarikiz & Over the Stone](https://open.spotify.com/album/6WggQRWkbz8LU1HFzddVjA) | 3:46 | 2022-02-14 |  |

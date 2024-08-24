@@ -808,7 +808,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 262653,
       "name": "Coraz\u00f3n Con Candado",
       "url": "https://open.spotify.com/track/56rdvz30wcKbCHfcLKmyln"
@@ -2458,6 +2458,28 @@
       "duration_ms": 261500,
       "name": "M\u00e1gicas Princesas",
       "url": "https://open.spotify.com/track/7IKHR9KFJ4Z37CjJZEAC7u"
+    },
+    {
+      "album": {
+        "name": "Ni Con \u00c9l, Ni Conmigo",
+        "url": "https://open.spotify.com/album/5wj31qM3yS7ykkbvzvBcpV"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227134,
+      "name": "Ni Con \u00c9l, Ni Conmigo",
+      "url": "https://open.spotify.com/track/19NuFFsZaydL7IOAQWp7lK"
     },
     {
       "album": {

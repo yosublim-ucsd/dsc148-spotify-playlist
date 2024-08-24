@@ -4,7 +4,7 @@
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-48 songs - 2 hr 55 min
+50 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Drowning \(feat\. Robokid\)](https://open.spotify.com/track/0eK9kkZtKmamkDs7BmLfMV) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Robokid](https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 4:30 | 2024-08-23 |  |
 | [Drowning \(feat\. Robokid\)](https://open.spotify.com/track/2w3aOwaMgPEWRqrEJ2sulq) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Robokid](https://open.spotify.com/artist/3n7KOlGKfaR8KKKSkC4tA3) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:30 | 2024-08-21 | 2024-08-23 |
 | [Easy For Me \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Easy For Me \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/1fKNCfgQCgQkjwV0tMYbfY) | 3:21 | 2024-07-19 |  |
-| [Gravity \(feat\. JMR\)](https://open.spotify.com/track/1OBUY61V7sX1vcS99PxKLa) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [JMR](https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752) | [Kindred Spirits](https://open.spotify.com/album/16CCJo59jCko0476mRMmQu) | 3:48 | 2024-01-29 |  |
+| [Gravity \(feat\. JMR\)](https://open.spotify.com/track/1OBUY61V7sX1vcS99PxKLa) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [JMR](https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752) | [Kindred Spirits](https://open.spotify.com/album/16CCJo59jCko0476mRMmQu) | 3:48 | 2024-01-29 | 2024-08-24 |
+| [Gravity \(feat\. JMR\)](https://open.spotify.com/track/4jo8IfDa6WLOlvexEEWLAz) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [JMR](https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:48 | 2024-08-24 |  |
 | [Half Hearted \- Demo](https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 4:54 | 2024-08-19 |  |
 | [Half Hearted Interlude](https://open.spotify.com/track/73eZbV5vNeLulwZdBpL7la) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 1:28 | 2024-08-19 |  |
 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 | 2024-01-29 |  |
@@ -44,7 +45,8 @@
 | [Telepathy](https://open.spotify.com/track/4mhlPdtYrrX7J01zWOo52k) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:49 | 2024-08-21 |  |
 | [Telepathy](https://open.spotify.com/track/6wHU6eEdsYfw8HS5Ybg9DJ) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG) | 3:49 | 2024-01-29 | 2024-08-21 |
 | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B) | 3:06 | 2024-01-29 |  |
-| [The World Is Ours](https://open.spotify.com/track/0YDSEyBzPsuQzkuc9Bu8iR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/16CCJo59jCko0476mRMmQu) | 3:42 | 2024-01-29 |  |
+| [The World Is Ours](https://open.spotify.com/track/0YDSEyBzPsuQzkuc9Bu8iR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/16CCJo59jCko0476mRMmQu) | 3:42 | 2024-01-29 | 2024-08-24 |
+| [The World Is Ours](https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:42 | 2024-08-24 |  |
 | [This Song Reminds Me Of You](https://open.spotify.com/track/2gmhlNXdqrbqmlpps8qTsc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG) | 3:54 | 2024-01-29 | 2024-08-21 |
 | [This Song Reminds Me Of You \- Piano Version by David Park](https://open.spotify.com/track/0go48v79b8XuDxcC06sY5H) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 2:06 | 2024-08-21 | 2024-08-22 |
 | [This Space In My Heart Is for You](https://open.spotify.com/track/4gw3U6M0xzvFAdIpFWrQjO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/16CCJo59jCko0476mRMmQu) | 1:35 | 2024-01-29 | 2024-08-21 |

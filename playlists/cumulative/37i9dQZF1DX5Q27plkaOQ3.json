@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 238344,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/4rkXjSB8o4uXxAxG68Kj5z"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 211200,
       "name": "Arcane Ooze",
       "url": "https://open.spotify.com/track/2nsC5w9pVl93uG80vanP5j"
@@ -2189,6 +2189,24 @@
     },
     {
       "album": {
+        "name": "Canal Street Crook",
+        "url": "https://open.spotify.com/album/5I2bOAOVhJmJ5MR8fnLzMf"
+      },
+      "artists": [
+        {
+          "name": "Codd Dubz",
+          "url": "https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Canal Street Crook",
+      "url": "https://open.spotify.com/track/4uNO3gJ1u3PYuaZjYbqU7P"
+    },
+    {
+      "album": {
         "name": "Carbonara",
         "url": "https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8"
       },
@@ -2992,6 +3010,32 @@
       "duration_ms": 231724,
       "name": "CYBERHELL",
       "url": "https://open.spotify.com/track/2NfAq9xX1bEVWueNRDZh7n"
+    },
+    {
+      "album": {
+        "name": "DA PIT",
+        "url": "https://open.spotify.com/album/2xr3Zy0YRWFvR4c0kGLLpd"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        },
+        {
+          "name": "HAMRO",
+          "url": "https://open.spotify.com/artist/45tIGuLKx3RA70cm4rnSLH"
+        },
+        {
+          "name": "XAE",
+          "url": "https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163862,
+      "name": "DA PIT",
+      "url": "https://open.spotify.com/track/0fP60ShPw677cqudSmfzBM"
     },
     {
       "album": {
@@ -4822,7 +4866,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 178758,
       "name": "Feedback",
       "url": "https://open.spotify.com/track/7ejEHmuauEs9xcqSGlcwXL"
@@ -6768,7 +6812,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 182800,
       "name": "Hypnotic Cycle",
       "url": "https://open.spotify.com/track/3waqzZPc7fwEx3JKB5gqqZ"
@@ -6924,6 +6968,32 @@
       "duration_ms": 194571,
       "name": "I Need You - Champagne Drip Remix",
       "url": "https://open.spotify.com/track/1EWLeVwvL6fQyNAdI2bf8i"
+    },
+    {
+      "album": {
+        "name": "I'll Wait For You",
+        "url": "https://open.spotify.com/album/7KoKBGgqZFDmZ4LQdef74V"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205241,
+      "name": "I'll Wait For You",
+      "url": "https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI"
     },
     {
       "album": {
@@ -7106,6 +7176,24 @@
       "duration_ms": 220689,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/3qPJQhBBLPtr1R9ojGQFKk"
+    },
+    {
+      "album": {
+        "name": "EAT ROCKS",
+        "url": "https://open.spotify.com/album/4BbOCGC4UhjSjIOSmIHs5b"
+      },
+      "artists": [
+        {
+          "name": "BLVNKSPVCE",
+          "url": "https://open.spotify.com/artist/72qYTgSCSu7QFhBhyk00fe"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218482,
+      "name": "IN UR FACE",
+      "url": "https://open.spotify.com/track/6If1M2LKyVCJijA7DTHXMr"
     },
     {
       "album": {
@@ -7562,6 +7650,28 @@
       "duration_ms": 355364,
       "name": "Kill to Feel",
       "url": "https://open.spotify.com/track/4hSCaNNtzVlek62PCmsti5"
+    },
+    {
+      "album": {
+        "name": "KILLA",
+        "url": "https://open.spotify.com/album/4nu7wpa375CHZVOAp1zdLt"
+      },
+      "artists": [
+        {
+          "name": "Benda",
+          "url": "https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M"
+        },
+        {
+          "name": "RZRKT",
+          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "KILLA",
+      "url": "https://open.spotify.com/track/0tkweWSDmerhKMIaM2midQ"
     },
     {
       "album": {
@@ -8248,6 +8358,24 @@
       "duration_ms": 211200,
       "name": "Mass Destruction",
       "url": "https://open.spotify.com/track/1RAFDlJk4pf9VfNbuLjxMA"
+    },
+    {
+      "album": {
+        "name": "Masyaf",
+        "url": "https://open.spotify.com/album/3q4Hy70gEZstuwZJlFWPFO"
+      },
+      "artists": [
+        {
+          "name": "Soltan",
+          "url": "https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152275,
+      "name": "Masyaf",
+      "url": "https://open.spotify.com/track/3rRBJVFtEZ4vftRrX30804"
     },
     {
       "album": {
@@ -11598,7 +11726,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 217655,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/1ttkNqDHNLSJBdlVwalFF0"
@@ -11920,6 +12048,24 @@
       "duration_ms": 264000,
       "name": "Shank",
       "url": "https://open.spotify.com/track/7Mvl8tGMD5lmgpcdcm53WK"
+    },
+    {
+      "album": {
+        "name": "Shape Shifter",
+        "url": "https://open.spotify.com/album/118GGRATXZLOgNegqdEacA"
+      },
+      "artists": [
+        {
+          "name": "Emorfik",
+          "url": "https://open.spotify.com/artist/34bGTqa9HJUnf14IOHt6pc"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194839,
+      "name": "Shape Shifter",
+      "url": "https://open.spotify.com/track/48QPjsjPblbFMV33O0k8Qx"
     },
     {
       "album": {
@@ -12964,7 +13110,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 144324,
       "name": "STEPPIN",
       "url": "https://open.spotify.com/track/0Cxf7WWBmKaLLKr6sjAveV"
@@ -13740,7 +13886,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 145714,
       "name": "Ten Toad Anthem",
       "url": "https://open.spotify.com/track/6KSJxsRPs4Q3Feaqyt4ZRZ"
@@ -14914,7 +15060,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 161280,
       "name": "Undaground",
       "url": "https://open.spotify.com/track/5utbHoL1W47GeoQfNXK7J9"
@@ -15432,7 +15578,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 212152,
       "name": "Where's the Score - Evol Intent Remix, KILL SAFARI REREMIX",
       "url": "https://open.spotify.com/track/51MgUt5ZhEP3FSMpt5cEZu"

@@ -5592,7 +5592,7 @@
       ],
       "date_added": "2024-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 176424,
       "name": "Brought The Heat Back",
       "url": "https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1"
@@ -7442,7 +7442,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -7460,7 +7460,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
@@ -9993,6 +9993,28 @@
     },
     {
       "album": {
+        "name": "Sue\u00f1os Cumplidos",
+        "url": "https://open.spotify.com/album/3DUoSSUJDCEGfdiJraOvEO"
+      },
+      "artists": [
+        {
+          "name": "Brenda Bezares",
+          "url": "https://open.spotify.com/artist/37EPXsU2coRfOwmJSO2Ryu"
+        },
+        {
+          "name": "Migue Soria",
+          "url": "https://open.spotify.com/artist/6e6Qhp9APSH08RCBo2yLYd"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "Demasiado Fuerte - Remix",
+      "url": "https://open.spotify.com/track/00UQ405nqKkXwF8GLiThlt"
+    },
+    {
+      "album": {
         "name": "DEMBOW B\u00c9LICO",
         "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
@@ -10764,7 +10786,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 297500,
       "name": "Divergencia - Noches de Sal\u00f3n",
       "url": "https://open.spotify.com/track/2wPHxKXRyfqvyVfTLx33Dz"
@@ -20886,7 +20908,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 224210,
       "name": "LINDA",
       "url": "https://open.spotify.com/track/4oowI6IgJp9oqUnJewTp6Y"

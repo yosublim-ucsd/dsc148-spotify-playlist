@@ -4,7 +4,7 @@
 
 > New Orleans kind of funk\. Cover: Cha Wa
 
-67 songs - 4 hr 33 min
+68 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Bow Down](https://open.spotify.com/track/046MQs8b85n3grgTpWAk0x) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [Bow Down](https://open.spotify.com/album/2oSZjjRQDOmn9Fhuywm6uA) | 3:24 | 2021-03-12 |  |
 | [Bow Down](https://open.spotify.com/track/75zPkWTK4UY6thDZEiFp3x) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [My People](https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c) | 3:24 | 2021-03-12 | 2024-04-19 |
 | [Can I Be Your Squeeze](https://open.spotify.com/track/5yJYA6dvIH4zmw7Ku2dn5f) | [Chuck Carbo](https://open.spotify.com/artist/4pbFsZJ317vxLwtAvmilGJ) | [Can I Be Your Squeeze / Take Care of Your Homework, Friend \(Digital 45\)](https://open.spotify.com/album/0HjvXbHZY3jjs0XyzX8gZo) | 2:29 | 2020-04-29 |  |
-| [Cha Wa](https://open.spotify.com/track/4N1XezxVYISff0Bxvelbpp) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [Spyboy](https://open.spotify.com/album/5kjYBEXnL4PkBRAkgIGT9t) | 3:23 | 2020-04-29 |  |
+| [Cha Wa](https://open.spotify.com/track/4N1XezxVYISff0Bxvelbpp) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [Spyboy](https://open.spotify.com/album/5kjYBEXnL4PkBRAkgIGT9t) | 3:23 | 2020-04-29 | 2024-08-24 |
 | [Church](https://open.spotify.com/track/0MzO0c9Lr1d4mTUQtGhSJX) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ) | [Coolin' Off](https://open.spotify.com/album/0xkOcQLjAB9PIEDrGbl4OI) | 5:53 | 2020-04-29 |  |
 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 | 2020-04-29 |  |
 | [Do You](https://open.spotify.com/track/4YSfp2I61liqg6NtWTBrxp) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 4:52 | 2021-04-09 | 2024-04-19 |
@@ -37,6 +37,7 @@
 | [Hurricane Season](https://open.spotify.com/track/10yqXWUbVgZy0XzonDOIgs) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Backatown](https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a) | 3:20 | 2020-04-29 |  |
 | [I've Got Reasons](https://open.spotify.com/track/4tDXJiS5xIYLz7thE3nQUz) | [Mary Jane Hooper](https://open.spotify.com/artist/3I44vrVBXPqMTiY0Z5SkQm) | [Psychedelphia](https://open.spotify.com/album/5biOWOxXzduoE0X2a1x3At) | 3:08 | 2020-04-29 |  |
 | [I've Got Reasons](https://open.spotify.com/track/7Gmb33nmkxVETieoPSiukO) | [Mary Jane Hooper](https://open.spotify.com/artist/3I44vrVBXPqMTiY0Z5SkQm) | [Psychedelphia](https://open.spotify.com/album/5VhtqB6aBGOxY2TcL7qznX) | 3:08 | 2020-04-29 | 2024-04-19 |
+| [Ikwyl](https://open.spotify.com/track/0bGZLbAcxp3yVbXJ5XfioI) | [Slugger](https://open.spotify.com/artist/1XBvJ36SQR3nOGyvEtgMB4), [Berkley The Artist](https://open.spotify.com/artist/1GnsHBUXW7pQf0P2K6mCcQ), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Ikwyl](https://open.spotify.com/album/4GmnjbuVlXFm6wMjzDYRVq) | 2:42 | 2024-08-23 |  |
 | [Injuns, Here Dey Come](https://open.spotify.com/track/1oGqcvkZPkxLndniVtqzRi) | [Hundred & One Runners](https://open.spotify.com/artist/1zRXkzU8uhUMu15HDbbF20) | [Best of New Orleans \(Mardi Gras Indians\)](https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8) | 5:16 | 2020-04-29 |  |
 | [Just Kissed My Baby](https://open.spotify.com/track/1TB0dZqFRQsnf4fLLLRKQV) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Rejuvenation](https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW) | 4:43 | 2020-04-29 |  |
 | [Justice](https://open.spotify.com/track/1IG8HWAvN6CIEpScisLhQX) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Justice](https://open.spotify.com/album/31jDtYwdinBgdmjg0cdLrV) | 4:31 | 2020-04-29 |  |

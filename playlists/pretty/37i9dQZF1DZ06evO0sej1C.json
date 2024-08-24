@@ -1,12 +1,12 @@
 {
-  "description": "This Is Yoss Bones. Los temas esenciales, todos en una lista.",
-  "num_followers": 40170,
+  "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
+  "num_followers": 40192,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAADo1gjurjD3BxCyxm1PsjEi",
+  "snapshot_id": "ZsZ/gAAAAACCKsR46avmknb8LRi5tFX7",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piensa En Mis Labios",
+        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "Piensa En Mis Labios",
+      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sin Rencor Ni Mal De Amores",
         "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 198591,
       "name": "Sin Rencor Ni Mal De Amores",
       "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piensa En Mis Labios",
-        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 197407,
-      "name": "Piensa En Mis Labios",
-      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e1melo",
-        "url": "https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "D\u00e1melo",
-      "url": "https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LQRA Session #3",
         "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 174285,
       "name": "LQRA Session #3",
       "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00e1melo",
+        "url": "https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "D\u00e1melo",
+      "url": "https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2"
     },
     {
       "added_at": null,
@@ -1039,26 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Dealer",
-        "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 182844,
-      "name": "LIKE A BULL",
-      "url": "https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alto Calibre",
         "url": "https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 171807,
       "name": "Alto Calibre",
       "url": "https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Dealer",
+        "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 182844,
+      "name": "LIKE A BULL",
+      "url": "https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc"
     },
     {
       "added_at": null,
@@ -1155,6 +1155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PILLS",
+        "url": "https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "PILLS",
+      "url": "https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faruz Fit, Vol. 2",
         "url": "https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 283668,
       "name": "Susurros",
       "url": "https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PILLS",
-        "url": "https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "PILLS",
-      "url": "https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf"
     }
   ],
   "unique_name": "This Is Yoss Bones",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
-  "num_followers": 242541,
+  "description": "This is Eden Mu\u00f1oz. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 242686,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAAt4V5UzQYlrxkMaCvfsiKd",
+  "snapshot_id": "ZsZ/gAAAAAD7/yvVlKmbGL+IM/My9klq",
   "tracks": [
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Del Trigo",
-        "url": "https://open.spotify.com/album/0Xf6CfmEEadTIyqmxWLImy"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Cheko Mg",
-          "url": "https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA"
-        }
-      ],
-      "duration_ms": 178864,
-      "name": "El Del Trigo",
-      "url": "https://open.spotify.com/track/0AVtMI07ElJJxViPO2Dg92"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/0R0HnxAjPn1dgy1PEwPiHF"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 161985,
       "name": "NEPTUNO",
       "url": "https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Del Trigo",
+        "url": "https://open.spotify.com/album/0Xf6CfmEEadTIyqmxWLImy"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Cheko Mg",
+          "url": "https://open.spotify.com/artist/6gSAzGq3CloVM0kyt8uOKA"
+        }
+      ],
+      "duration_ms": 178864,
+      "name": "El Del Trigo",
+      "url": "https://open.spotify.com/track/0AVtMI07ElJJxViPO2Dg92"
     },
     {
       "added_at": null,
@@ -747,22 +747,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hay Que Hacer Dinero",
-        "url": "https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN"
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
       },
       "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 179130,
-      "name": "Hay Que Hacer Dinero",
-      "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
+      "duration_ms": 127186,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
     },
     {
       "added_at": null,
@@ -779,6 +775,26 @@
       "duration_ms": 181701,
       "name": "Viejo",
       "url": "https://open.spotify.com/track/0uP9Sni25rINuhcfN2dwGb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hay Que Hacer Dinero",
+        "url": "https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 179130,
+      "name": "Hay Que Hacer Dinero",
+      "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 196406,
       "name": "Te Invito a Ser Feliz",
       "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "Full",
-      "url": "https://open.spotify.com/track/7M1HQslmDuV74HqOLTIMoh"
     },
     {
       "added_at": null,

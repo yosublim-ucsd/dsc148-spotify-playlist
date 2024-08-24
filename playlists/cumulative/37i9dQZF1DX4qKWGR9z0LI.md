@@ -2,7 +2,7 @@
 
 ### [Salsa Nation](https://open.spotify.com/playlist/37i9dQZF1DX4qKWGR9z0LI)
 
-> Lo último y lo mejor de la salsa\. Cover: Luis Vazquez
+> Lo último y lo mejor de la salsa\. Cover: Mike Bahía
 
 280 songs - 20 hr 35 min
 

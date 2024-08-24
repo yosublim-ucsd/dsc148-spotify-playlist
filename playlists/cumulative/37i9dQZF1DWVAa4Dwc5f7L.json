@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Chino & Nacho",
+  "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Manuel Turizo",
   "name": "Merengue Mania",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 249813,
       "name": "Abusadora",
       "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
+    },
+    {
+      "album": {
+        "name": "Agua pa las flores",
+        "url": "https://open.spotify.com/album/3mcFoaCh162OmUQYXolsmR"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162114,
+      "name": "Agua pa las flores",
+      "url": "https://open.spotify.com/track/6xDLz0ASdr7awIQfI2fdCv"
     },
     {
       "album": {
@@ -638,7 +656,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 277803,
       "name": "Coqueta y Sabrosa",
       "url": "https://open.spotify.com/track/2eqcBuixUaODqSy1aDeXTP"
@@ -1370,7 +1388,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 264160,
       "name": "Enamorame",
       "url": "https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 202926,
       "name": "No Somos Iguales",
       "url": "https://open.spotify.com/track/4q8xSTHpmDBeUpqg404Qtn"

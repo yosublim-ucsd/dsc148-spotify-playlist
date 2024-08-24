@@ -2,7 +2,7 @@
 
 ### [Kollywood Themes](https://open.spotify.com/playlist/37i9dQZF1DWUptwB9dhZvQ)
 
-> Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
+> Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
 184 songs - 5 hr 35 min
 

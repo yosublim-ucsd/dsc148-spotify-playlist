@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: Panda Bear &amp; Sonic Boom
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5?si=rkkz3xKqQTCfkmyCtuVXVQ">Joe Goddard</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,893 likes - 51 songs - 3 hr 26 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 66,898 likes - 51 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 43 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 |
 | 44 | [The Medium](https://open.spotify.com/track/79lTOsoJPNhsPVJo4BSaPy) | [Crack Cloud](https://open.spotify.com/artist/10butpS2A0V5nRIu2YDrKI) | [The Medium](https://open.spotify.com/album/6t2cp8jvrAYGrCB9UMEp1Y) | 4:36 |
 | 45 | [Time For Slurp](https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [SHHHHHHH!](https://open.spotify.com/album/1zvvdEwZHfPQvLsADalPmf) | 1:57 |
-| 46 | [How To Walk](https://open.spotify.com/track/6uWU8pvBG7r5tEZDCl7u10) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [How to Walk](https://open.spotify.com/album/1KfhJhQin6N1OnfQMb7nYG) | 3:54 |
+| 46 | [How To Walk](https://open.spotify.com/track/6uWU8pvBG7r5tEZDCl7u10) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [How To Walk](https://open.spotify.com/album/1KfhJhQin6N1OnfQMb7nYG) | 3:54 |
 | 47 | [Micro](https://open.spotify.com/track/07GK5FmdmfXoBiGCl4wTEb) | [O.](https://open.spotify.com/artist/0R2UqQKBdSADXMN2Gx5CrB) | [WeirdOs](https://open.spotify.com/album/48rRditt0gLVgDEMt1DoY6) | 3:15 |
 | 48 | [John Grant](https://open.spotify.com/track/2HMQMGQaCUk1QGL1CJveu2) | [Linda Thompson](https://open.spotify.com/artist/4ktfLBwmywJsDFeBsce3F6), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Proxy Music](https://open.spotify.com/album/7bCk4cB8DT6ni6Rupnswqz) | 3:41 |
 | 49 | [Ignore The Flood](https://open.spotify.com/track/76QDLt0s8R3fYbWAp01rgK) | [Giant Day](https://open.spotify.com/artist/4ci5JPNYFlCjHkDMWQpvU7) | [Ignore The Flood \[single\]](https://open.spotify.com/album/6x2nztcp02EVlkV0xjnvxK) | 3:11 |
 | 50 | [Old Violence](https://open.spotify.com/track/4l8NisWFoxlLJb3jXPLynt) | [Uncle Skunk](https://open.spotify.com/artist/1HDxyDK3AT4J32POd8yDya) | [II](https://open.spotify.com/album/5QH1ifgGA6VEYfEuMI1P1F) | 2:22 |
 | 51 | [Dream Design House](https://open.spotify.com/track/3fpkudCsTA8BFyADYUZxYP) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [Home Constellation Study](https://open.spotify.com/album/3x7F1yCZ0wjlKhRbWqkMzw) | 4:42 |
 
-Snapshot ID: `AAAP2YE/g74kNmq5m6KZGjatzEkeNrr1`
+Snapshot ID: `AAAP2u33s+CeDknWJRrzdOtxGkPgWJHC`

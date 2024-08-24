@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 196715,
       "name": "A Distancia",
       "url": "https://open.spotify.com/track/57OXmqVMeKe8AaEt6Y5FG1"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 184826,
       "name": "Ex (con La Joaqui)",
       "url": "https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4"
@@ -842,7 +842,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 150600,
       "name": "Il\u00f3gico",
       "url": "https://open.spotify.com/track/6a2PRnRqeXkzIaX0a3oLY2"
@@ -1329,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "Mi Peor Error",
+        "url": "https://open.spotify.com/album/2z956U4CQEWy4cyVGgWhFh"
+      },
+      "artists": [
+        {
+          "name": "Norci Morales",
+          "url": "https://open.spotify.com/artist/6FvOeMMM4g8hr3fixOV5mh"
+        },
+        {
+          "name": "Stidlmusic",
+          "url": "https://open.spotify.com/artist/0xLrCvJATAv6Zw5ealVQlH"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163571,
+      "name": "Mi Peor Error",
+      "url": "https://open.spotify.com/track/04t0G1yf4nVc5qxTb8ASQu"
+    },
+    {
+      "album": {
         "name": "Mirame",
         "url": "https://open.spotify.com/album/5oCAS6VzHoESewtXUGMqbz"
       },
@@ -1693,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169026,
+      "name": "OTRA OPORTUNIDAD",
+      "url": "https://open.spotify.com/track/5EUCaO1SzuWNM3Fs0GOzt5"
+    },
+    {
+      "album": {
         "name": "BAH\u00cdA DUCATI",
         "url": "https://open.spotify.com/album/444LqH6QlvR62nY8Vxn37u"
       },
@@ -2054,6 +2094,28 @@
       "duration_ms": 289760,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/5F7IJrXD6Fa3EmqoYE0gU4"
+    },
+    {
+      "album": {
+        "name": "SE ME OLVIDA",
+        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225373,
+      "name": "SE ME OLVIDA",
+      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
     },
     {
       "album": {

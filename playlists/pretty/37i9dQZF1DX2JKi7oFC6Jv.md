@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,362 likes - 60 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,355 likes - 60 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 55 | [Razzclart](https://open.spotify.com/track/1EyibibCLQgHcGDYbCmCPx) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Razzler Man](https://open.spotify.com/artist/67zKupu2re2sdiPMz5HtOu) | [Razzclart](https://open.spotify.com/album/7pb4GNvMnFSZiop8nebPqo) | 2:54 |
 | 56 | [Badboii](https://open.spotify.com/track/77DHkBg5doxOWTA6M8javv) | [Doctor Nick](https://open.spotify.com/artist/5IJtTZ2DdjCHpoSQsTxWv8) | [Badboii](https://open.spotify.com/album/53d753mCGaTNTYlcotiQin) | 4:56 |
 | 57 | [Bombtrack \(Roska Remix\)](https://open.spotify.com/track/5xGbjkIYJqg7gTkMXDG4Ap) | [andrew](https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr), [なかむらみなみ](https://open.spotify.com/artist/4gGr7IJIkVijGyJclVxqiq), [PEAVIS](https://open.spotify.com/artist/7GoNWfvCoIwFMMUksqv0oe), [Saint Vega](https://open.spotify.com/artist/2q9fTUnXONSgnAW3boqrNc), [Roska](https://open.spotify.com/artist/5p8U1acntDKzfbbZLwWYE5) | [Bombtrack \(Roska Remix\)](https://open.spotify.com/album/3KLyOjPzGwvyMmx5s8tm8C) | 4:28 |
-| 58 | [Open Source](https://open.spotify.com/track/1QDQm9g3hVTfWeLdolhrO6) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Computer Games the Unreleased Files Expansion Pack 0,4](https://open.spotify.com/album/4MO8iMa3iNIhUfbn17hYGS) | 7:01 |
-| 59 | [Goo](https://open.spotify.com/track/25n06U7QZRVbd8ygUU9JOL) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Kwam](https://open.spotify.com/artist/5xL30yTBxQPRYS9hbEhCWk) | [Goo](https://open.spotify.com/album/1qyofi0544PbioP27dqY34) | 4:08 |
-| 60 | [Fuller](https://open.spotify.com/track/0cjqXX58zJv6H7Wq1EliTW) | [FunkyStepz](https://open.spotify.com/artist/1sMcpUeV5yIQw4F4SvFqcb) | [Fuller / Hurricane Riddim](https://open.spotify.com/album/5KE1MO9AlHyop9nBp81sqo) | 4:45 |
+| 58 | [Goo](https://open.spotify.com/track/25n06U7QZRVbd8ygUU9JOL) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Kwam](https://open.spotify.com/artist/5xL30yTBxQPRYS9hbEhCWk) | [Goo](https://open.spotify.com/album/1qyofi0544PbioP27dqY34) | 4:08 |
+| 59 | [Open Source](https://open.spotify.com/track/1QDQm9g3hVTfWeLdolhrO6) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W) | [Computer Games the Unreleased Files Expansion Pack 0,4](https://open.spotify.com/album/4MO8iMa3iNIhUfbn17hYGS) | 7:01 |
+| 60 | [Elevator](https://open.spotify.com/track/2BNztHs4pufXHi2YY6s0mn) | [Seiji](https://open.spotify.com/artist/6XwHEDOkZpFRqtZDXLYHlK) | [Seiji 1](https://open.spotify.com/album/4Ln7xUPsqJ2JsI0uaiyGm6) | 4:18 |
 
 Snapshot ID: `ZplXmQAAAACcbWcih2UC0Be9M54Awylx`

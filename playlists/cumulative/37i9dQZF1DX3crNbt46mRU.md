@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Sabrina Carpenter
 
-13,600 songs - 28 day 7 hr 20 min
+13,601 songs - 28 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1724,6 +1724,7 @@
 | [Boogieman](https://open.spotify.com/track/1cwmkeI14dR6IaBYXIdNC6) | [Sharktank](https://open.spotify.com/artist/6BcWGwvuWOW4F9IYBvWR6K) | [Boogieman](https://open.spotify.com/album/7vUwo4fHOZiGkJCZUnPEGw) | 3:03 | 2024-01-11 | 2024-01-19 |
 | [boohoo](https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [debbie downer](https://open.spotify.com/album/0h5j78YPHOMhUD1PNLlmp9) | 3:04 | 2022-09-29 | 2022-10-07 |
 | [Book of OL](https://open.spotify.com/track/4dOreYhcafLHEH4F5P2aME) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Book of OL](https://open.spotify.com/album/5xgPgmL57ap3TYaA0rRvjE) | 2:17 | 2023-03-24 | 2023-03-31 |
+| [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 | 2024-08-22 |  |
 | [Boom Boom \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0ccUI8Zs25jqWr6vhRGfeQ) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Boom Boom \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2mb4aeOU7TvbjgY86EEBqa) | 1:58 | 2022-03-10 | 2022-03-18 |
 | [boomerang](https://open.spotify.com/track/1bcXs0KpBkBW2FGSbmhJGl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [boomerang](https://open.spotify.com/album/29cuKsKKlPn4HJ2Keh3jwD) | 2:18 | 2024-03-14 | 2024-03-22 |
 | [boomerTroll](https://open.spotify.com/track/77wROmemYzL2zRAkeLEcsO) | [IKAN HYU](https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK) | [❁ OASIS ❁](https://open.spotify.com/album/0Y57O1RF8G6FaLJFGIoS8S) | 2:42 | 2023-11-09 | 2023-11-17 |

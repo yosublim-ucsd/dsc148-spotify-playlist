@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Sele Vera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,665 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,700 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLoJq8d80ds.md) - [plain]
 | 3 | [Es Tan Grande Este Amor](https://open.spotify.com/track/6Z4uK6bVC2XjJKXjTUobhr) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Es Tan Grande Este Amor](https://open.spotify.com/album/2iLRaP3hBMDL0Q06VYzqkm) | 3:06 |
 | 4 | [Cosa Peligrosa](https://open.spotify.com/track/73P9ywsIA24QwWvL6E1gjT) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Cosa Peligrosa](https://open.spotify.com/album/5eui9pdwONxGwCCO8djIV5) | 3:21 |
 | 5 | [Fuerte No Soy](https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM), [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Fuerte No Soy](https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J) | 3:28 |
-| 6 | [Que Yo Te Amo](https://open.spotify.com/track/4knZMJHoBcXE0qm6pe2yoe) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Alvaro Teruel](https://open.spotify.com/artist/0dCALQ1TpALyNQq6fOyvEn) | [Que Yo Te Amo](https://open.spotify.com/album/6rFvoF7weNJ2HIlzLJUTFw) | 3:41 |
+| 6 | [Que Yo Te Amo](https://open.spotify.com/track/4knZMJHoBcXE0qm6pe2yoe) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Alvaro Teruel](https://open.spotify.com/artist/0dCALQ1TpALyNQq6fOyvEn) | [Que Yo Te Amo](https://open.spotify.com/album/6rFvoF7weNJ2HIlzLJUTFw) | 3:42 |
 | 7 | [Entre La Tierra y El Cielo](https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Entre La Tierra y El Cielo](https://open.spotify.com/album/32Pv25yHJ8Tnyac7ATFo7T) | 4:13 |
 | 8 | [La Noche Sin Ti](https://open.spotify.com/track/3o9cQ5wp9QXhKXHAOAESFG) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP) | [Ahyre](https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN) | 4:29 |
 | 9 | [Mi Última Carta](https://open.spotify.com/track/43WqH65SJnBZThYmkQ7qzE) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Mi Última Carta](https://open.spotify.com/album/11O74gRggmfrtEYoNAem0U) | 3:05 |

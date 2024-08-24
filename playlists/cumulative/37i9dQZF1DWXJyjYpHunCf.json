@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "baggy t-shirt",
+        "url": "https://open.spotify.com/album/263pkWunlv7F0dd5uh5saT"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "baggy t-shirt",
+      "url": "https://open.spotify.com/track/6P6y5Sn1hqBiGK8dfhuDjK"
+    },
+    {
+      "album": {
         "name": "The Art of Letting Go",
         "url": "https://open.spotify.com/album/449CV10TloVGhBv9NfwFTD"
       },
@@ -1400,6 +1418,24 @@
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/4uzKAj0mIyYmyhsRRyPXaQ"
+    },
+    {
+      "album": {
+        "name": "Wild Spirit",
+        "url": "https://open.spotify.com/album/6dLSL5RbIw2qv5413Df5Zy"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207213,
+      "name": "Caves",
+      "url": "https://open.spotify.com/track/6dtaAuJD7vqsNQqyOKlyLV"
     },
     {
       "album": {
@@ -4506,7 +4542,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 224400,
       "name": "Like Gold",
       "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
@@ -4832,7 +4868,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 222815,
       "name": "Misnomer",
       "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
@@ -5030,7 +5066,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 194400,
       "name": "my friend's toyota",
       "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
@@ -6324,7 +6360,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/0zcCGdrTZqUVfWOOgPYLLB"
@@ -6905,6 +6941,24 @@
     },
     {
       "album": {
+        "name": "The Player",
+        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168188,
+      "name": "The Player",
+      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
+    },
+    {
+      "album": {
         "name": "The Roads",
         "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
       },
@@ -7462,6 +7516,24 @@
       "duration_ms": 236507,
       "name": "Visions Of You",
       "url": "https://open.spotify.com/track/22D1DwiWzLVfIodVEG5XtA"
+    },
+    {
+      "album": {
+        "name": "Wait for You",
+        "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Wait for You",
+      "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
     },
     {
       "album": {

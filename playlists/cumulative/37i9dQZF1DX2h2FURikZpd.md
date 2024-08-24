@@ -4,7 +4,7 @@
 
 > Latin gems you absolutely need to hear\. Save them before they're gone!
 
-164 songs - 8 hr 43 min
+166 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,9 +59,10 @@
 | [Exclusive](https://open.spotify.com/track/46exxtUZ41hRS4RudfrVJw) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Exclusive](https://open.spotify.com/album/3AIRDrD1ScPbFhgqdG0k7O) | 2:50 | 2024-02-05 | 2024-03-25 |
 | [Feliz Por Ti](https://open.spotify.com/track/2e2dOJMIieLvAh2g7kN9dP) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Feliz Por Ti](https://open.spotify.com/album/27XAaGZpB9Rogg30c9g9As) | 2:57 | 2023-12-18 | 2024-02-10 |
 | [Fetiche](https://open.spotify.com/track/5bpaaNUGknnGSNsUmThj4K) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Hotel Caracas](https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS) | 3:07 | 2024-05-31 | 2024-08-06 |
-| [Frankies](https://open.spotify.com/track/3kiD3rIZcfyYHIAdjwSkm3) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [Purista](https://open.spotify.com/album/76rg0ChnCtwxKWjKKPozIM) | 4:01 | 2024-08-16 |  |
+| [Frankies](https://open.spotify.com/track/3kiD3rIZcfyYHIAdjwSkm3) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [Purista](https://open.spotify.com/album/76rg0ChnCtwxKWjKKPozIM) | 4:01 | 2024-08-16 | 2024-08-24 |
 | [FRESITA](https://open.spotify.com/track/6hA12wp8wT93WpLwNYUmOq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:22 | 2024-08-16 |  |
 | [FRIKI](https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [FRIKI](https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL) | 3:09 | 2024-04-23 | 2024-07-03 |
+| [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 | 2024-08-23 |  |
 | [Gafas Negras](https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Gafas Negras](https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn) | 3:06 | 2024-01-31 | 2024-02-17 |
 | [Gaia](https://open.spotify.com/track/43pdManuxxQh80XyU51ybY) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Dēlian](https://open.spotify.com/artist/53h2h24DKU5xQcjfXXBKsI) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:44 | 2023-12-18 | 2024-02-18 |
 | [GATITAS SANDUNGUERAS VOL.1](https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:11 | 2024-05-31 | 2024-08-17 |
@@ -70,6 +71,7 @@
 | [Gordo](https://open.spotify.com/track/0KcyU1JCY5W8WGuILa8MDv) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:40 | 2024-02-09 | 2024-04-24 |
 | [Goteras](https://open.spotify.com/track/4sykJxUsqdXZRqRv1J9fEQ) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Goteras](https://open.spotify.com/album/4mFVkQGAj9T2hyNoxHAcGw) | 3:36 | 2024-07-03 |  |
 | [Gualero REFF12.31](https://open.spotify.com/track/2gKLtFP8HSTPfPshO0GsuM) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Gualero REFF12.31](https://open.spotify.com/album/17FImqLfr4kV6VhWh5fXdH) | 3:21 | 2024-01-24 | 2024-02-17 |
+| [HASTA LA VISTA](https://open.spotify.com/track/2j1N4tKiBY2akbVpIbka9H) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [HASTA LA VISTA](https://open.spotify.com/album/0aqtYnUfIYg18QPPpw5O7X) | 2:54 | 2024-08-23 |  |
 | [Hechizado](https://open.spotify.com/track/6IqqPa90DqA4LtgpF0ON0U) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Hechizado](https://open.spotify.com/album/6RyCdyp0xSKFZHPGvsRH78) | 2:30 | 2024-08-16 |  |
 | [Hermosa Casualidad](https://open.spotify.com/track/2dtxMxo4srf1VXy6fPkadI) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Hermosa Casualidad](https://open.spotify.com/album/2MvYDDD4PwJZHKZM7YyvZj) | 3:25 | 2024-05-31 | 2024-08-17 |
 | [Hielo](https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Hielo](https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g) | 3:04 | 2024-02-09 | 2024-02-25 |
@@ -87,7 +89,7 @@
 | [La Intención](https://open.spotify.com/track/05tGmdz9dVZ4yGqz4YJdPK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Intención](https://open.spotify.com/album/3tKHDHYrbcCFDC1yDeLOx2) | 4:09 | 2024-01-31 | 2024-04-06 |
 | [la manera que me ves](https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [la manera que me ves](https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr) | 3:49 | 2024-05-31 | 2024-06-02 |
 | [LA NENA](https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LA NENA](https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw) | 3:20 | 2024-04-15 | 2024-06-01 |
-| [LA PRIMERA VEZ](https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [LA PRIMERA VEZ](https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0) | 2:51 | 2024-08-16 |  |
+| [LA PRIMERA VEZ](https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [LA PRIMERA VEZ](https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0) | 2:51 | 2024-08-16 | 2024-08-24 |
 | [lady madrizZz](https://open.spotify.com/track/1f3oAGS76ZIzOrsxcD2P36) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [lady madrizZz](https://open.spotify.com/album/6GCckrVHubDC4DRoCWIONI) | 2:11 | 2024-02-27 | 2024-04-06 |
 | [LIV \- Spotify Singles](https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [LIV \- Spotify Singles](https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM) | 2:45 | 2024-08-16 |  |
 | [Lo mejor en tu vida](https://open.spotify.com/track/6P3JPwDgzRzR4TXJuHRDaN) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:31 | 2024-05-31 | 2024-08-17 |

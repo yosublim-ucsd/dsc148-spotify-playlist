@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Lady Gaga, Bruno Mars",
+  "description": "\u0422\u043e\u043f\u043e\u0432\u0456 \u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u043e\u0457 \u043f\u043e\u043f-\u043c\u0443\u0437\u0438\u043a\u0438. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Sabrina Carpenter",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2024",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 204111,
       "name": "Chasing Low Vibrations",
       "url": "https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB"
+    },
+    {
+      "album": {
+        "name": "Chasing My Happiness",
+        "url": "https://open.spotify.com/album/3BrE2WivfUgrylO1SORHwX"
+      },
+      "artists": [
+        {
+          "name": "DEMCHUK",
+          "url": "https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126538,
+      "name": "Chasing My Happiness",
+      "url": "https://open.spotify.com/track/29jEfDkP0Vg2pQVaOX4EL4"
     },
     {
       "album": {
@@ -984,7 +1002,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 276066,
       "name": "One Night/All Night",
       "url": "https://open.spotify.com/track/7sjuNUjWtSqhbxJ3RAUffm"
@@ -1190,6 +1208,24 @@
       "duration_ms": 161757,
       "name": "Talk talk",
       "url": "https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
     },
     {
       "album": {
@@ -1788,7 +1824,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 185407,
       "name": "\u041b\u0456\u0442\u043e",
       "url": "https://open.spotify.com/track/6rEc1q1piCjkv5nQoUkPHJ"
@@ -1857,6 +1893,28 @@
     },
     {
       "album": {
+        "name": "\u041e\u0440\u0431\u0456\u0442\u0438",
+        "url": "https://open.spotify.com/album/2KqiogCnQ852Z3Ib3oLW0L"
+      },
+      "artists": [
+        {
+          "name": "TVORCHI",
+          "url": "https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5"
+        },
+        {
+          "name": "Klavdia Petrivna",
+          "url": "https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "\u041e\u0440\u0431\u0456\u0442\u0438",
+      "url": "https://open.spotify.com/track/2EUtede0ZdQHWZxmD0jajP"
+    },
+    {
+      "album": {
         "name": "\u0407\u0434\u0435 \u0434\u0430\u0445",
         "url": "https://open.spotify.com/album/0TEDqckCsqdG080yh5IiVP"
       },
@@ -1868,7 +1926,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 159500,
       "name": "\u041f\u0430\u043c\u2019\u044f\u0442\u0430\u0439 - \u0422\u0435\u0445\u043d\u043e",
       "url": "https://open.spotify.com/track/6Lx6kyYG2lBkSJ5PgX5bgQ"

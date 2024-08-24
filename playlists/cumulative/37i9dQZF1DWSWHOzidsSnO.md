@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección especial de Greccia.
 
-386 songs - 21 hr 7 min
+387 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Aquello](https://open.spotify.com/track/19jPCXbSmUU5pFmYCZl1NN) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Aquello](https://open.spotify.com/album/61QtJjPRIjhMRHGFToskyk) | 3:06 | 2022-01-05 | 2023-06-08 |
 | [Arráncame las ganas \- Primer Conjuro](https://open.spotify.com/track/5Pz8gWDuyF07TwvqFdmlsD) | [Duina Del Mar](https://open.spotify.com/artist/3NLiMFbrwqCHXPz17pOBTU) | [Arráncame las ganas \(Primer Conjuro\)](https://open.spotify.com/album/54kqmsWB0dt0PAVbpF8pGZ) | 2:21 | 2022-01-05 | 2024-06-06 |
 | [Asi Esta la Cosa](https://open.spotify.com/track/2WdqnZOLjFtfunFv3SkLnY) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Asi Esta la Cosa](https://open.spotify.com/album/4AIaRa9LBZsHF4QRoOeDWR) | 3:03 | 2022-01-05 | 2022-03-10 |
-| [Así De Simple](https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Así De Simple](https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT) | 3:09 | 2023-07-05 |  |
+| [Así De Simple](https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Así De Simple](https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT) | 3:09 | 2023-07-05 | 2024-08-24 |
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-01-28 | 2024-06-06 |
 | [Aurora](https://open.spotify.com/track/3OAcJ8edCrAvbEVG99AjAL) | [Maria McCausland](https://open.spotify.com/artist/1m56GYSSg63RZcYpEJwYJm) | [Aurora](https://open.spotify.com/album/1uAinYIc2lPdFom5R5trX5) | 3:43 | 2022-05-27 | 2023-03-02 |
 | [Ausencia](https://open.spotify.com/track/3b1ABaqWYULqWBoiT7Mtvc) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ) | [Ausencia](https://open.spotify.com/album/0BvHenysl35MTkpwERt5CR) | 4:09 | 2023-05-26 | 2023-06-21 |
@@ -113,6 +113,7 @@
 | [Desconocidos \- Cinco de Mil Pedazos](https://open.spotify.com/track/4MMgut3ltwpW6pGO0iZxUD) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Desconocidos \(Cinco de Mil Pedazos\)](https://open.spotify.com/album/6asUSscngBCoG8DvRTq98W) | 3:15 | 2023-11-21 |  |
 | [Desde que te fuiste](https://open.spotify.com/track/1rrH9cVutzoTeoZFyYQZDM) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Tristes, pero no tanto](https://open.spotify.com/album/20zvxpE7iqkvjmh3fFy3Wc) | 2:52 | 2024-03-06 | 2024-04-04 |
 | [Desorden](https://open.spotify.com/track/3vEK8aeuI9hC8yLbqm0L1n) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Desorden](https://open.spotify.com/album/1HZq5pIum2fq1cU6CeiCYs) | 3:26 | 2023-11-01 | 2023-11-22 |
+| [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 | 2024-08-23 |  |
 | [Dia de Enero](https://open.spotify.com/track/0OEBOJhSObnFuHuasXdt52) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 2:53 | 2024-04-03 | 2024-05-02 |
 | [Dime](https://open.spotify.com/track/3PyabZoSk7Y7pq43gjiD2Q) | [Sabi Satizábal](https://open.spotify.com/artist/3hkSIfiborsBV1wzOqe2qX), [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [Lo Que Nos Hizo Gigantes](https://open.spotify.com/album/5UEfpCW3J8iw4AXYv1E4mv) | 3:38 | 2023-11-21 | 2024-06-06 |
 | [Discos \(Am\)](https://open.spotify.com/track/6z06VdmZGTBVQZtgrpV0xx) | [Una María](https://open.spotify.com/artist/7CijOJxzQvp3mA6Sfquinl) | [Música para Dormir \(O Despertar\)](https://open.spotify.com/album/2hY4egfHaGdNhQBRix6jFy) | 2:16 | 2022-01-05 | 2023-01-05 |

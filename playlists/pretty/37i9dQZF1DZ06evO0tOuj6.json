@@ -1,12 +1,12 @@
 {
-  "description": "This Is Tokyo Ska Paradise Orchestra. Los temas esenciales, todos en una lista.",
-  "num_followers": 35822,
-  "original_name": "This Is Tokyo Ska Paradise Orchestra",
+  "description": "This is \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9. The essential tracks, all in one playlist.",
+  "num_followers": 35836,
+  "original_name": "This Is \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABzIBlTfczwTmm75BQNw8xc",
+  "snapshot_id": "ZsZ/gAAAAABHVGeeu2kW/ttQ8f5IwTbM",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chasing the Horizon",
-        "url": "https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        },
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Freak It!",
-      "url": "https://open.spotify.com/track/0U9rOURjZlunqFlm5TWgX0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 243026,
       "name": "Paradise Has No Border",
       "url": "https://open.spotify.com/track/0g2W5jMygHfV8HoN4qYTRp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chasing the Horizon",
+        "url": "https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Freak It!",
+      "url": "https://open.spotify.com/track/0U9rOURjZlunqFlm5TWgX0"
     },
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coco (Original Motion Picture Soundtrack/Japanese Version)",
-        "url": "https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9"
-      },
-      "artists": [
-        {
-          "name": "Kavka Shishido",
-          "url": "https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8"
-        },
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Remember Me (End Credit Version) - Japanese Version",
-      "url": "https://open.spotify.com/track/43bGrywq4gIWKawbTKVUUk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30ea\u30dc\u30f3 [feat.\u685c\u4e95\u548c\u5bff(Mr.Children)]",
         "url": "https://open.spotify.com/album/50IqCwJbqBzE6mOFIsSQyk"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 273766,
       "name": "\u9752\u3044\u6625\u306e\u30a8\u30c1\u30e5\u30fc\u30c9 - feat. \u9577\u5c4b\u6674\u5b50 (\u7dd1\u9ec4\u8272\u793e\u4f1a)",
       "url": "https://open.spotify.com/track/3bAobLtFa0QXOlo9KWYJpD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coco (Original Motion Picture Soundtrack/Japanese Version)",
+        "url": "https://open.spotify.com/album/0UYGH1uVYPr2Fzqw6lyjd9"
+      },
+      "artists": [
+        {
+          "name": "Kavka Shishido",
+          "url": "https://open.spotify.com/artist/0dlbyoDrOHqBVQpKdPuUB8"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Remember Me (End Credit Version) - Japanese Version",
+      "url": "https://open.spotify.com/track/43bGrywq4gIWKawbTKVUUk"
     },
     {
       "added_at": null,
@@ -699,42 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b0\u30e9\u30f3\u30d7\u30ea",
-        "url": "https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Yukihiro Takahashi",
-          "url": "https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5"
-        }
-      ],
-      "duration_ms": 336933,
-      "name": "WATERMELON",
-      "url": "https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u541b\u306b\u30b5\u30c1\u30a2\u30ec",
-        "url": "https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 250366,
-      "name": "\u541b\u306b\u30b5\u30c1\u30a2\u30ec",
-      "url": "https://open.spotify.com/track/2G58KvDX7VmM7069VlHWdR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S.O.S. [Share One Sorrow] (feat.Tokyo Tanaka & Jean-Ken Johnny)",
         "url": "https://open.spotify.com/album/0dCx3huClCtbq4KZvi4SRr"
       },
@@ -759,6 +723,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u541b\u306b\u30b5\u30c1\u30a2\u30ec",
+        "url": "https://open.spotify.com/album/315UiYeZgHk9F0VM5pcJZJ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 250366,
+      "name": "\u541b\u306b\u30b5\u30c1\u30a2\u30ec",
+      "url": "https://open.spotify.com/track/2G58KvDX7VmM7069VlHWdR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b0\u30e9\u30f3\u30d7\u30ea",
+        "url": "https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Yukihiro Takahashi",
+          "url": "https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5"
+        }
+      ],
+      "duration_ms": 336933,
+      "name": "WATERMELON",
+      "url": "https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30b9\u30ab\u30d1\u30e9\u767b\u5834",
         "url": "https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JUNK or GEM",
-        "url": "https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "\u30ab\u30eb\u307a\u30fb\u30c7\u30a3\u30a8\u30e0\uff5e\u4eca\u65e5\u304c\u305d\u306e\u65e5\u3055",
-      "url": "https://open.spotify.com/track/30gSJf2EyyXKij3fvQUjsi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WORLD SKA SYMPHONY",
         "url": "https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 273280,
       "name": "\u6d41\u661f\u3068\u30d0\u30e9\u30fc\u30c9",
       "url": "https://open.spotify.com/track/6v15Dbe89xjPzgkHCypVAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JUNK or GEM",
+        "url": "https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "\u30ab\u30eb\u307a\u30fb\u30c7\u30a3\u30a8\u30e0\uff5e\u4eca\u65e5\u304c\u305d\u306e\u65e5\u3055",
+      "url": "https://open.spotify.com/track/30gSJf2EyyXKij3fvQUjsi"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6b32\u671b",
-        "url": "https://open.spotify.com/album/4PYr4vs7P4lqnSBxV3znHi"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "\u9ec4\u660f\u3092\u904a\u3076\u732b",
-      "url": "https://open.spotify.com/track/3kvySsFmIKAM3tWacJ883D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Ninja",
         "url": "https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 216933,
       "name": "The Last Ninja",
       "url": "https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6b32\u671b",
+        "url": "https://open.spotify.com/album/4PYr4vs7P4lqnSBxV3znHi"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "\u9ec4\u660f\u3092\u904a\u3076\u732b",
+      "url": "https://open.spotify.com/track/3kvySsFmIKAM3tWacJ883D"
     },
     {
       "added_at": null,
@@ -949,6 +949,6 @@
       "url": "https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN"
     }
   ],
-  "unique_name": "This Is Tokyo Ska Paradise Orchestra",
+  "unique_name": "This Is \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6"
 }

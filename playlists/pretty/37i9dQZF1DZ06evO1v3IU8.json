@@ -1,12 +1,12 @@
 {
   "description": "This Is Banda MS de Sergio Liz\u00e1rraga. Los temas esenciales, todos en una lista.",
-  "num_followers": 1325385,
+  "num_followers": 1325510,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABHNGvkrB0tzadymtkBAn02",
+  "snapshot_id": "ZsZ/gAAAAADWvDGUmNDv34GI9ImQ44Oc",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "A Mi Tambien Me Vale",
+      "url": "https://open.spotify.com/track/45aFUmuYDIL4biQYNfiGSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Santo Patr\u00f3n",
         "url": "https://open.spotify.com/album/4ymTuJ84CKaHgqxP8BElM0"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 141428,
       "name": "Santo Patr\u00f3n",
       "url": "https://open.spotify.com/track/2aejtdTxSKhsCkT51Wixhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "A Mi Tambien Me Vale",
-      "url": "https://open.spotify.com/track/45aFUmuYDIL4biQYNfiGSQ"
     },
     {
       "added_at": null,

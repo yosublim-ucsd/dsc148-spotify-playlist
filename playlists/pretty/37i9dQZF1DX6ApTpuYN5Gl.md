@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,553 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,533 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 44 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 |
 | 45 | [Higher](https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 |
 | 46 | [Let It Bleed](https://open.spotify.com/track/4u5KbHYUrsO5ZTfAZe9Wa1) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [Jamis](https://open.spotify.com/artist/2SdcyCKXwjtQJymVLGyBlx), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [HIISAK](https://open.spotify.com/artist/45cP3p476ZtqaaATv4cScf) | [Let It Bleed](https://open.spotify.com/album/5sDLRWZHNSxWX0KoKdOgNI) | 2:41 |
-| 47 | [Hush Hush](https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Hush Hush](https://open.spotify.com/album/3jkBwDVX1UXdLclMHJsAAX) | 2:48 |
+| 47 | [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 |
 | 48 | [Company](https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Company](https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP) | 2:42 |
-| 49 | [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 |
+| 49 | [Hush Hush](https://open.spotify.com/track/4Rz0P4dIS3gLBoPKhzNxXa) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94), [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Hush Hush](https://open.spotify.com/album/3jkBwDVX1UXdLclMHJsAAX) | 2:48 |
 | 50 | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/track/4dZHhJUpHa0D3kSN8iOVvx) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g), [LPW](https://open.spotify.com/artist/22fLwOqQV0IYn4GTTfg4Ha) | [Can't Love Myself \(feat\. Mishaal & LPW\)](https://open.spotify.com/album/2bcHQl1hCwAZRHERbtDR4d) | 2:36 |
 
 Snapshot ID: `ZrZdmQAAAAB7HTgUx+E5ZYflD7uFZwn3`

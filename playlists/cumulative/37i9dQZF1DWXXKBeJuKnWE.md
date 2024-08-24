@@ -2,9 +2,9 @@
 
 ### [The Pit](https://open.spotify.com/playlist/37i9dQZF1DWXXKBeJuKnWE)
 
-> The home for heavy music\. Cover: House of Protection
+> The home for heavy music\. Cover: Magnolia Park
 
-387 songs - 23 hr 2 min
+389 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-03-23 | 2023-06-25 |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |
 | [IF IT DOESN'T HURT](https://open.spotify.com/track/1ve6FiKnpfXt8vUxhndH7p) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [CARNAL](https://open.spotify.com/album/0ivYaIK4SxXpiSiKXTNvtF) | 2:59 | 2024-07-19 |  |
+| [Illusion](https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Illusion](https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08) | 4:02 | 2024-08-23 |  |
 | [In the shadow of your former self.](https://open.spotify.com/track/7icAw1EcEfXRpOxkhB3HZw) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [In the shadow of your former self.](https://open.spotify.com/album/2L3ASLYdsXsrombwNJVyAG) | 4:21 | 2023-07-25 | 2023-09-08 |
 | [In The Silence](https://open.spotify.com/track/1klDKOUmMD566cwy91pqEO) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Reflections](https://open.spotify.com/album/3HmGULnPeH7ZhDkQlDibh3) | 3:32 | 2023-08-10 |  |
 | [Invincible Shield](https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 6:21 | 2024-03-08 | 2024-05-11 |
@@ -342,6 +343,7 @@
 | [The Summoning](https://open.spotify.com/track/0S38Oso3I9vpDXcTb7kYt9) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 6:35 | 2023-05-11 | 2023-07-26 |
 | [The Summoning](https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX) | 6:35 | 2023-02-10 | 2023-05-23 |
 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-20 | 2023-02-17 |
+| [The Void](https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [The Void](https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb) | 2:51 | 2024-08-23 |  |
 | [The Void](https://open.spotify.com/track/6TuoAUJFtdz4OMshZeaKHW) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Void](https://open.spotify.com/album/0QRXPpwdM079Cs6XmMjOnv) | 3:40 | 2023-04-21 | 2023-08-25 |
 | [The Weight of It All](https://open.spotify.com/track/6E7trHVQxQsH6Ve3spYZyv) | [Forlorn](https://open.spotify.com/artist/4aOGVF2gQb9TY4raTPjLWf) | [The Weight of It All](https://open.spotify.com/album/3eRxuVGr0PVyugK1L7MXa5) | 3:40 | 2023-07-25 | 2024-01-19 |
 | [Things I Don't Feel](https://open.spotify.com/track/0N2ykPdDmAnqAHxY7PAbIR) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Rest Assured](https://open.spotify.com/album/2Cv1QmB5lrMKewHKUb5Nlm) | 3:25 | 2024-04-11 |  |

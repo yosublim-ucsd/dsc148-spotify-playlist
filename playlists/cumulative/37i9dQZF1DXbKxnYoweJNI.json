@@ -2993,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u6574\u5929",
+        "url": "https://open.spotify.com/album/3d9CbNWURQQ7N6uHA7lha8"
+      },
+      "artists": [
+        {
+          "name": "sodagreen",
+          "url": "https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188988,
+      "name": "\u4e00\u6574\u5929",
+      "url": "https://open.spotify.com/track/2Bf38yCUENYoZX2N6iXLVy"
+    },
+    {
+      "album": {
         "name": "\u4e00\u7247\u6d77",
         "url": "https://open.spotify.com/album/3GotJrlKXOJ3PmMV7HLNlM"
       },
@@ -3266,8 +3284,8 @@
           "url": "https://open.spotify.com/artist/6ekUFXp9TXnNsFL1qO3DKt"
         },
         {
-          "name": "\u6797\u9824\u539f",
-          "url": "https://open.spotify.com/artist/1y7P3hlPFirLEcyzfY4OwM"
+          "name": "EUAN",
+          "url": "https://open.spotify.com/artist/7tJUAyM0VRKna9QEqcngkM"
         }
       ],
       "date_added": "2024-08-22",

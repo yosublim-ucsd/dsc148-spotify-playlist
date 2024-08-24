@@ -4284,7 +4284,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
@@ -7912,7 +7912,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -9006,7 +9006,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
@@ -9282,7 +9282,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 241874,
       "name": "I've Been Waiting - Radio Mix",
       "url": "https://open.spotify.com/track/6hfRfhGxvubOieXwiPL4oA"
@@ -10226,7 +10226,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -16020,7 +16020,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 270118,
       "name": "Rdy",
       "url": "https://open.spotify.com/track/1gVT9clRR3jRvgJYK2KsIp"
@@ -17088,7 +17088,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/3di5hcvxxciiqwMH1jarhY"
@@ -17124,7 +17124,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 242973,
       "name": "Set Fire to the Rain",
       "url": "https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx"
@@ -17658,7 +17658,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"
@@ -19028,7 +19028,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 264773,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1Ist6PR2BZR3n2z2Y5R6S1"
@@ -23949,6 +23949,24 @@
     },
     {
       "album": {
+        "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
+        "url": "https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120145,
+      "name": "\u062d\u0628\u064a\u0628\u064a \u0644\u064a\u0647",
+      "url": "https://open.spotify.com/track/3vX1qpjqKTmuESvmvwMBHR"
+    },
+    {
+      "album": {
         "name": "umiy (1)",
         "url": "https://open.spotify.com/album/7LM9tHOXAjYx5NCrW0WNSW"
       },
@@ -24212,7 +24230,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 200782,
       "name": "\u062e\u0644\u064a\u062c\u064a \u0645\u0637\u0644\u0648\u0628 | \u0648\u0644\u0627\u0646\u062a \u063a\u064a\u0645 \u0641\u0627\u0644\u0633\u0645\u0627\u0621 - \u0627\u0635\u0627\u0644\u0629 .",
       "url": "https://open.spotify.com/track/2GnkDk01pxmxPUslnRCXk3"
@@ -24908,7 +24926,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 220434,
       "name": "\u0639\u0645 \u0627\u0644\u0645\u062c\u0627\u0644",
       "url": "https://open.spotify.com/track/3MzJ2M9PzfCtaGMHAirjIM"
@@ -25730,7 +25748,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 235826,
       "name": "\u0648\u064a\u0644\u0627\u0647",
       "url": "https://open.spotify.com/track/6sR0gCVYVfKjQzqx1v20bC"

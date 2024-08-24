@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 51478,
+  "num_followers": 51486,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-08-07 19:14:49",
       "album": {
-        "name": "BOA",
-        "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 154732,
-      "name": "BOA",
-      "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
-    },
-    {
-      "added_at": "2024-08-07 19:14:49",
-      "album": {
         "name": "family ties (with Kendrick Lamar)",
         "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
       },
@@ -311,6 +295,38 @@
       "duration_ms": 252069,
       "name": "family ties (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+    },
+    {
+      "added_at": "2024-08-07 19:14:49",
+      "album": {
+        "name": "BOA",
+        "url": "https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 154732,
+      "name": "BOA",
+      "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
+    },
+    {
+      "added_at": "2024-08-07 19:14:49",
+      "album": {
+        "name": "Tempt Me",
+        "url": "https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 130434,
+      "name": "Tempt Me",
+      "url": "https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi"
     },
     {
       "added_at": "2024-08-07 19:14:49",
@@ -335,22 +351,6 @@
       "duration_ms": 216135,
       "name": "Cash In Cash Out",
       "url": "https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X"
-    },
-    {
-      "added_at": "2024-08-07 19:14:49",
-      "album": {
-        "name": "Tempt Me",
-        "url": "https://open.spotify.com/album/7ehRZk4A4DfCtxrg7Omgvk"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 130434,
-      "name": "Tempt Me",
-      "url": "https://open.spotify.com/track/3CAws2VaEfaIvOeTcXVpGi"
     },
     {
       "added_at": "2024-08-07 19:14:49",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-08-07 19:14:49",
       "album": {
-        "name": "Rice N Gravy - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Rice N Gravy - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
-    },
-    {
-      "added_at": "2024-08-07 19:14:49",
-      "album": {
         "name": "Do It Right",
         "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 174474,
       "name": "Do It Right",
       "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
+    },
+    {
+      "added_at": "2024-08-07 19:14:49",
+      "album": {
+        "name": "Rice N Gravy - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/71DwI0KDjEE3svRPMTUnGU"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Rice N Gravy - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/5yJRY9n8VlzqGzOHOZHCIA"
     },
     {
       "added_at": "2024-08-07 19:14:49",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-08-07 19:14:49",
       "album": {
-        "name": "Dreamin'",
-        "url": "https://open.spotify.com/album/0dndwGladqdj1dI4nli8Po"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "Pete Rock",
-          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
-        }
-      ],
-      "duration_ms": 240818,
-      "name": "Dreamin'",
-      "url": "https://open.spotify.com/track/4XmcwGiMSrUcfCOsh9vw4B"
-    },
-    {
-      "added_at": "2024-08-07 19:14:49",
-      "album": {
         "name": "Vinyl Days",
         "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 108387,
       "name": "In my lifetime (feat. Action Bronson)",
       "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
+    },
+    {
+      "added_at": "2024-08-07 19:14:49",
+      "album": {
+        "name": "Dreamin'",
+        "url": "https://open.spotify.com/album/0dndwGladqdj1dI4nli8Po"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Pete Rock",
+          "url": "https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2"
+        }
+      ],
+      "duration_ms": 240818,
+      "name": "Dreamin'",
+      "url": "https://open.spotify.com/track/4XmcwGiMSrUcfCOsh9vw4B"
     },
     {
       "added_at": "2024-08-07 19:14:49",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-08-07 19:14:49",
       "album": {
-        "name": "Passion",
-        "url": "https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 149470,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/19WjyfRVesPAW99OWawkFV"
-    },
-    {
-      "added_at": "2024-08-07 19:14:49",
-      "album": {
         "name": "Too Much (feat. Moneybagg Yo)",
         "url": "https://open.spotify.com/album/0R87OEh0NzfdjavsrmrGtj"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 188869,
       "name": "Too Much (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/7pZeacKYnK4unCplCmI2qb"
+    },
+    {
+      "added_at": "2024-08-07 19:14:49",
+      "album": {
+        "name": "Passion",
+        "url": "https://open.spotify.com/album/1EgQyKNvBiHcODPia9pjKm"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 149470,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/19WjyfRVesPAW99OWawkFV"
     },
     {
       "added_at": "2024-08-07 19:14:49",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2024-08-07 19:14:49",
       "album": {
+        "name": "ARE YOU WITH THAT?",
+        "url": "https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 138410,
+      "name": "ARE YOU WITH THAT?",
+      "url": "https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx"
+    },
+    {
+      "added_at": "2024-08-07 19:14:49",
+      "album": {
         "name": "3 Feet High and Rising",
         "url": "https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD"
       },
@@ -1935,22 +1951,6 @@
       "duration_ms": 294728,
       "name": "Buddy",
       "url": "https://open.spotify.com/track/0xr24hc6g7hFBZcU4xY87j"
-    },
-    {
-      "added_at": "2024-08-07 19:14:49",
-      "album": {
-        "name": "ARE YOU WITH THAT?",
-        "url": "https://open.spotify.com/album/4aVkF3zCR2qWA6uDb8DTbd"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 138410,
-      "name": "ARE YOU WITH THAT?",
-      "url": "https://open.spotify.com/track/0du80hkIk5zQfc4oLNUfKx"
     },
     {
       "added_at": "2024-08-07 19:14:49",

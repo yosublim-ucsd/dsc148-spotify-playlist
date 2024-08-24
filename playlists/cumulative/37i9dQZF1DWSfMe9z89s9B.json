@@ -4937,6 +4937,32 @@
     },
     {
       "album": {
+        "name": "CREEPIN",
+        "url": "https://open.spotify.com/album/3BgyvGcAiuIgGd20oJifpG"
+      },
+      "artists": [
+        {
+          "name": "JEMS!",
+          "url": "https://open.spotify.com/artist/4gWkKMPLSCHcWWbw6ouXHe"
+        },
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "J.Robb",
+          "url": "https://open.spotify.com/artist/2DfpfU9DpRLC3EuWLKyy4m"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161825,
+      "name": "CREEPIN",
+      "url": "https://open.spotify.com/track/1A8ADUOWjkGnvDWfeUjKxr"
+    },
+    {
+      "album": {
         "name": "CRISIS",
         "url": "https://open.spotify.com/album/3sAJ892CzDIa869oCpgj1G"
       },
@@ -5416,6 +5442,24 @@
       "duration_ms": 237473,
       "name": "Daughter Of The Sun",
       "url": "https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B"
+    },
+    {
+      "album": {
+        "name": "Day In The Life",
+        "url": "https://open.spotify.com/album/4QHe6j9qW4Yma5qSGIAC6B"
+      },
+      "artists": [
+        {
+          "name": "BABYKIRA",
+          "url": "https://open.spotify.com/artist/2WQJ535LhodE0a8LfyVnlX"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180279,
+      "name": "Day In The Life",
+      "url": "https://open.spotify.com/track/0jQsuxl8WwYHAKDstAaFVB"
     },
     {
       "album": {
@@ -12459,6 +12503,24 @@
     },
     {
       "album": {
+        "name": "Lonely Fight",
+        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229169,
+      "name": "Lonely Fight",
+      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
+    },
+    {
+      "album": {
         "name": "Look To Him",
         "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
       },
@@ -16090,7 +16152,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 183716,
       "name": "Pixie Dust",
       "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
@@ -16672,7 +16734,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 213333,
       "name": "PURE AMERICANA",
       "url": "https://open.spotify.com/track/6I65yb8kxIGdzyonW8hssZ"
@@ -20085,6 +20147,24 @@
     },
     {
       "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174266,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E"
+    },
+    {
+      "album": {
         "name": "How Do You Sleep At Night?",
         "url": "https://open.spotify.com/album/2zm0qaBZaaH4zAaCCqU2cF"
       },
@@ -20668,7 +20748,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 286350,
       "name": "Telescope",
       "url": "https://open.spotify.com/track/29oH20WCU0mVO3SwfIaaib"
@@ -22464,7 +22544,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 144446,
       "name": "unruly",
       "url": "https://open.spotify.com/track/2bTrWTnaLwQ5WVnUzS2X46"

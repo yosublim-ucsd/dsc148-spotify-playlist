@@ -964,7 +964,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 236828,
       "name": "Primeiro Amor",
       "url": "https://open.spotify.com/track/53QAehrU0CmcYdozhxiWhQ"
@@ -1334,6 +1334,24 @@
       "duration_ms": 291253,
       "name": "Vest\u00edgios",
       "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
+    },
+    {
+      "album": {
+        "name": "Vida Boa",
+        "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
+      },
+      "artists": [
+        {
+          "name": "Marllon Ribeiro",
+          "url": "https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283947,
+      "name": "Vida Boa",
+      "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
     },
     {
       "album": {

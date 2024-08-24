@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Stormzy, Chase &amp; Status
+> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
 
-134 songs - 7 hr 35 min
+135 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [The Slinfold Loop](https://open.spotify.com/track/1uipt3Xqlntn6MLWdjmjsV) | [K.D.A.P.](https://open.spotify.com/artist/1NShLHrgna15CWNJAQDoom), [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [The Slinfold Loop](https://open.spotify.com/album/2A2gNOH6UmTTyIATIW94I5) | 5:02 | 2023-12-01 | 2024-02-17 |
 | [The Wisp Song](https://open.spotify.com/track/4eJrcgPtNToP8lBTxuozIg) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Polarities](https://open.spotify.com/album/1FHgoaW0HQ6LpKRkEUmA9A) | 3:46 | 2023-12-01 |  |
 | [Think Of You](https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Think Of You](https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE) | 3:05 | 2023-12-01 |  |
+| [Tomb Of The Scorpion](https://open.spotify.com/track/661OQwbwYMIy8WBqBqC9XG) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA) | [Tomb Of The Scorpion](https://open.spotify.com/album/0wsigP8YYNdHUtFRZ3Yi3w) | 3:53 | 2024-08-23 |  |
 | [Touch](https://open.spotify.com/track/1l90jvHTkNh9VmOh2LbbeC) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [L8NCY](https://open.spotify.com/artist/749cvAxS1Mb1jsqATH9tlD) | [Touch](https://open.spotify.com/album/6UUxfgFRnORokuQCqEXA1g) | 3:40 | 2023-12-08 |  |
 | [Trippy Land](https://open.spotify.com/track/0vN6M8uGKNGFAFgJtHKvFz) | [Mersiv](https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Trippy Land](https://open.spotify.com/album/0gSPOYfq5SPRQOHp0awjnI) | 3:06 | 2024-05-03 |  |
 | [Unfinished Business](https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Unfinished Business](https://open.spotify.com/album/7jsXqctphtpjxSyprnVlNf) | 3:16 | 2024-03-15 |  |

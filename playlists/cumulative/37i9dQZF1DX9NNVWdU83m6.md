@@ -4,7 +4,7 @@
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-167 songs - 15 hr 14 min
+168 songs - 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Sons of Creation](https://open.spotify.com/track/0JuPd6sug8NBmLPLMUsELk) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Seven](https://open.spotify.com/album/24N4zsxdUCnH3340jhDvMX) | 4:21 | 2021-01-27 | 2023-04-29 |
 | [Sons of Creation](https://open.spotify.com/track/5496y8zaZCBQULCo2lbDxh) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Sons of Creation](https://open.spotify.com/album/1oPoiGcCidtKk1OgRXWCdo) | 4:21 | 2021-01-27 | 2022-07-29 |
 | [Spanish Eddie](https://open.spotify.com/track/0htP653pd2hS4KcpuKlbGt) | [The Aristocrats](https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth) | [You Know What...?](https://open.spotify.com/album/4o8lhtUGjSJxEWmxuy7lvw) | 6:56 | 2021-01-27 |  |
+| [Square Grouper](https://open.spotify.com/track/4twKScGj0Dc0KG4GVLl9Us) | [Electric Kif](https://open.spotify.com/artist/41LEVpkU57qLy17tbPFuFn) | [Square Grouper](https://open.spotify.com/album/1BNAdPjRA2p67zJ1OWgPh8) | 5:03 | 2024-08-23 |  |
 | [Stadium Jazz](https://open.spotify.com/track/5jmC7XRZ7iPQS25o3iGgJI) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Casting for Gravity \(feat\. Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/album/34D47CVvLiw6yctVw1kzER) | 7:17 | 2021-01-27 | 2024-04-19 |
 | [Stadium Jazz](https://open.spotify.com/track/7B5p2XX9Prn5OkI5mye6gE) | [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M) | [Casting for Gravity \(feat\. Jason Lindner, Tim Lefebvre & Mark Guiliana\)](https://open.spotify.com/album/60GZJyntKspBvsw7J9TTki) | 7:17 | 2021-01-27 |  |
 | [STARGAZER](https://open.spotify.com/track/3vwYWNZgig7iwiKra7MgeQ) | [Waxamilion](https://open.spotify.com/artist/7G97Mckd7WAQsjZLUF3vN6), [Kevin J Dill](https://open.spotify.com/artist/3HVu17IKkNAlPW7T0OBri9), [Ben Rosett](https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ) | [STARGAZER](https://open.spotify.com/album/2SqQFcZC7UiOAo92C41sLU) | 4:05 | 2021-04-16 |  |

@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Amarillaste",
+        "url": "https://open.spotify.com/album/1WySFOSMpSq1UgjecGcMza"
+      },
+      "artists": [
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149723,
+      "name": "Amarillaste",
+      "url": "https://open.spotify.com/track/0tu8pXY4uKWDvSJGbjh1yu"
+    },
+    {
+      "album": {
         "name": "AMIGA DATE CUENTA",
         "url": "https://open.spotify.com/album/15e00RGSgvmgPfovIgtCAa"
       },
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 189278,
       "name": "BANDI2",
       "url": "https://open.spotify.com/track/2RfSStDNc1VP8AbojzaiOf"
@@ -2859,6 +2877,32 @@
     },
     {
       "album": {
+        "name": "Chika Tik Tok",
+        "url": "https://open.spotify.com/album/3tFV8TNDJTFTbY0o8rsLuJ"
+      },
+      "artists": [
+        {
+          "name": "El Rey",
+          "url": "https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx"
+        },
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225700,
+      "name": "Chika Tik Tok",
+      "url": "https://open.spotify.com/track/0HDfbEmYveimuTqlvTTgkt"
+    },
+    {
+      "album": {
         "name": "Chimbita",
         "url": "https://open.spotify.com/album/3vcoTPVfVArtQeeB2Ag2tv"
       },
@@ -3084,7 +3128,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 115059,
       "name": "Como Si Fuese Real",
       "url": "https://open.spotify.com/track/6QrM9W6ccP6Gf5sOAI4oEp"
@@ -3646,7 +3690,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 185081,
       "name": "Culito",
       "url": "https://open.spotify.com/track/6qBUklJgQu1YtJ3Ermu57V"
@@ -5024,7 +5068,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 165500,
       "name": "En Ti Lo Voy a Gastar",
       "url": "https://open.spotify.com/track/5H7nDiW2VGHZEvI0AJ3uAm"
@@ -5326,7 +5370,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 183032,
       "name": "ESPECIAL Y PELIGROSA",
       "url": "https://open.spotify.com/track/3WCD1WqYrz8aVzLoS6viJl"
@@ -5742,7 +5786,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 203870,
       "name": "FLORIDA",
       "url": "https://open.spotify.com/track/6fxrrjyC7vWVv4KTCLgJB4"
@@ -6578,7 +6622,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 172422,
       "name": "HACE TIEMPO",
       "url": "https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ"
@@ -6950,7 +6994,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 190058,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/1vAXwGMVmlleOkd6vLZFOk"
@@ -7332,7 +7376,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 133469,
       "name": "KELOMAMEN",
       "url": "https://open.spotify.com/track/2vsugTd1RAWUHKBEXd3h2Z"
@@ -7582,7 +7626,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 157968,
       "name": "La Moto",
       "url": "https://open.spotify.com/track/2Y48IYiLezdSeNhBugwk12"
@@ -11186,7 +11230,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 182039,
       "name": "M\u00e1s Risa Menos Pena <3",
       "url": "https://open.spotify.com/track/6C8J7tzAowu429wel8oxTE"
@@ -12804,7 +12848,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 165600,
       "name": "Pedazo de Corte",
       "url": "https://open.spotify.com/track/7xNkcNMkA9KboR1YK2YzSB"
@@ -12874,6 +12918,28 @@
       "duration_ms": 134930,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/5PCGEfALcpGtURIuTqvX0R"
+    },
+    {
+      "album": {
+        "name": "Pendiente 2.0",
+        "url": "https://open.spotify.com/album/4thHPBcGHgpu3AoFUq4vfY"
+      },
+      "artists": [
+        {
+          "name": "Igna",
+          "url": "https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t"
+        },
+        {
+          "name": "Lexter",
+          "url": "https://open.spotify.com/artist/7IFdRlM8n1AUJvKN5Eb7xj"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105600,
+      "name": "Pendiente 2.0",
+      "url": "https://open.spotify.com/track/4tkcTmISMZmCqG8NhsXLMl"
     },
     {
       "album": {
@@ -13493,6 +13559,32 @@
     },
     {
       "album": {
+        "name": "Por el Area - Remix",
+        "url": "https://open.spotify.com/album/7pkNCVf3BG9G8fJjgjXFgK"
+      },
+      "artists": [
+        {
+          "name": "Amon Becker",
+          "url": "https://open.spotify.com/artist/4FzmRBPZwDrJA8b6ghegd6"
+        },
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "CrisMj",
+          "url": "https://open.spotify.com/artist/0VpbRlXvRRSRIUSsE7dWnU"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149677,
+      "name": "Por el Area - Remix",
+      "url": "https://open.spotify.com/track/0CdN5JFkQjk2L5ZxrJotZ3"
+    },
+    {
+      "album": {
         "name": "Por Ella",
         "url": "https://open.spotify.com/album/4XNgfRpzodtOCX3osGoSAU"
       },
@@ -13796,7 +13888,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 142425,
       "name": "Puntos Clave",
       "url": "https://open.spotify.com/track/4uAzDliIPFSB8YQHyhVLQe"
@@ -13878,7 +13970,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 203288,
       "name": "P\u00d3RTATE MAL",
       "url": "https://open.spotify.com/track/0aTxzT2QQSvOACyVdD3Srx"
@@ -14442,7 +14534,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 185187,
       "name": "QU\u00c9 TAL BEB\u00c9",
       "url": "https://open.spotify.com/track/5QnpiuYk0RNejlxwPRB77N"
@@ -14740,6 +14832,28 @@
       "duration_ms": 188387,
       "name": "Rika",
       "url": "https://open.spotify.com/track/5bSIyaz49u9YhmMjtgzQfS"
+    },
+    {
+      "album": {
+        "name": "RIMINI",
+        "url": "https://open.spotify.com/album/6KaRgpl4ioZoD917YFdSrr"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185883,
+      "name": "RIMINI",
+      "url": "https://open.spotify.com/track/1qpIm96qflilx8XUqAoqJX"
     },
     {
       "album": {
@@ -15153,6 +15267,28 @@
     },
     {
       "album": {
+        "name": "PALABREO DEL FUTURO",
+        "url": "https://open.spotify.com/album/1UGMwCbhIEk8vI9z0RFVDv"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Nes",
+          "url": "https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129298,
+      "name": "Secuestrarte",
+      "url": "https://open.spotify.com/track/6ccc5JmSOoHnmUR8l3sMYj"
+    },
+    {
+      "album": {
         "name": "Sensual",
         "url": "https://open.spotify.com/album/6SxyDPTu6QHPmZYPG7jaba"
       },
@@ -15164,7 +15300,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 127455,
       "name": "Sensual",
       "url": "https://open.spotify.com/track/5uZFjjgwX9BmW9PoCaoujF"
@@ -15750,7 +15886,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 243000,
       "name": "Sin Gravedad",
       "url": "https://open.spotify.com/track/1eF9A8xU3ekgF6dsVrqtoE"
@@ -17068,7 +17204,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 152133,
       "name": "TNT",
       "url": "https://open.spotify.com/track/5pjqVFD6jFwMNM5Le9Bw06"
@@ -17414,7 +17550,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 154732,
       "name": "Tu Diosa",
       "url": "https://open.spotify.com/track/6AVF8BlUQYC8TsDlFmWRkE"
@@ -18575,6 +18711,28 @@
     },
     {
       "album": {
+        "name": "epistolares",
+        "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "www.hotxulito.com",
+      "url": "https://open.spotify.com/track/3ubXujtdHQjKWm8JAAn9OP"
+    },
+    {
+      "album": {
         "name": "X ESO BB",
         "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
       },
@@ -18812,6 +18970,32 @@
       "duration_ms": 209838,
       "name": "Yo Quiero",
       "url": "https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB"
+    },
+    {
+      "album": {
+        "name": "Yo Soy Tu Chuky",
+        "url": "https://open.spotify.com/album/3dYRCHKyUGLoJIPGj1DPog"
+      },
+      "artists": [
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "Shondy La Nota Discordante",
+          "url": "https://open.spotify.com/artist/32XS38UBLuW8TQqATg8Wxz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175472,
+      "name": "Yo Soy Tu Chuky",
+      "url": "https://open.spotify.com/track/0ySxpWX3rTXFkfrJznGU4z"
     },
     {
       "album": {

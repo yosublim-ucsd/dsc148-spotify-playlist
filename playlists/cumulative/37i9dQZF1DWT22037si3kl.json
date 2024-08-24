@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Tz da Coronel",
+  "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Phl Notunrboy",
   "name": "O Drip",
   "tracks": [
     {
@@ -887,6 +887,32 @@
     },
     {
       "album": {
+        "name": "Hora do Rock",
+        "url": "https://open.spotify.com/album/4QhDTIM0kI10cpMthLCksx"
+      },
+      "artists": [
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "BLOCKKSTAR",
+          "url": "https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191861,
+      "name": "BBB",
+      "url": "https://open.spotify.com/track/25nbGiHS68J0Lps0zixJ6E"
+    },
+    {
+      "album": {
         "name": "TAURUS",
         "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
       },
@@ -1538,7 +1564,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 162506,
       "name": "Celine",
       "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
@@ -2218,7 +2244,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 160000,
       "name": "De Lala - Spotify Singles",
       "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
@@ -3884,7 +3910,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 124651,
       "name": "GLOCK DE COR",
       "url": "https://open.spotify.com/track/4ZFpXnUUS1UKkf90Z7KDQ6"
@@ -5006,7 +5032,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 172003,
       "name": "Leans, Pt. 2",
       "url": "https://open.spotify.com/track/0GsQzTpegvifzQZ4wXsCZ2"
@@ -8364,6 +8390,24 @@
       "duration_ms": 210545,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/6OfUolBOcrDVMsdOUwNd8Q"
+    },
+    {
+      "album": {
+        "name": "Replay - Spotify Singles",
+        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150093,
+      "name": "Replay - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
     },
     {
       "album": {

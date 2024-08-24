@@ -4,7 +4,7 @@
 
 > Tú, nosotros y esta lista de canciones\. Foto: Andrés Cepeda
 
-102 songs - 6 hr 44 min
+103 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Azúcar Amargo](https://open.spotify.com/track/4i6PCo9JMAnIqzUZrTirCP) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Originales \- 20 Exitos](https://open.spotify.com/album/3XJ5zeV7FVsvZQl0SNPBhy) | 4:40 | 2022-09-29 | 2022-11-13 |
 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 | 2022-07-01 | 2024-04-19 |
 | [Azúcar Amargo](https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Exitos](https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd) | 4:41 | 2022-01-14 |  |
+| [Besos Usados](https://open.spotify.com/track/5NkqaMOyY36DIgSp1mKCjj) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Día Tras Día](https://open.spotify.com/album/6nz72sfPeeDMBslamOBT3R) | 3:54 | 2024-08-23 |  |
 | [Caraluna](https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Caraluna](https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj) | 4:26 | 2022-01-14 |  |
 | [Casi](https://open.spotify.com/track/511RYafYu9yoYBZN6fyhB5) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Casi](https://open.spotify.com/album/3h84MHwqGAdHPX03BfKvpV) | 3:07 | 2022-09-09 | 2022-11-12 |
 | [Castillos de arena](https://open.spotify.com/track/7njQTsT1xvKVDE0jPJAvrU) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Castillos de arena](https://open.spotify.com/album/0iNZh2qDkWIwcIikCMAeMq) | 4:12 | 2022-01-14 | 2022-04-02 |
@@ -42,7 +43,7 @@
 | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Dos Extraños \(Cuarteto de Cuerda\)](https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q) | 2:58 | 2023-12-20 | 2024-07-06 |
 | [Dos Oruguitas](https://open.spotify.com/track/0HFxZvViHzxYpavybvKVq9) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:34 | 2022-01-14 | 2022-04-23 |
 | [Día Tras Día](https://open.spotify.com/track/0vkcyC4KUteZGNYAzTLSv0) | [Andrés Cepeda](https://open.spotify.com/artist/40xooL6psYyBZMsJEq7sD7) | [Día Tras Día](https://open.spotify.com/album/742ogTFBB6k7MPAnE74lIk) | 4:05 | 2024-07-05 |  |
-| [El Café](https://open.spotify.com/track/0DuFJ57dIw1dotUvUgb13b) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [El Café](https://open.spotify.com/album/6aQtASlHEBluTY5ZEH9DzY) | 3:01 | 2024-07-05 |  |
+| [El Café](https://open.spotify.com/track/0DuFJ57dIw1dotUvUgb13b) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [El Café](https://open.spotify.com/album/6aQtASlHEBluTY5ZEH9DzY) | 3:01 | 2024-07-05 | 2024-08-24 |
 | [El Día Que Me Quieras](https://open.spotify.com/track/2tYXqOwmOs1Lx6lUQaM2Mc) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [El Día Que Me Quieras](https://open.spotify.com/album/1QycfiMI1YAEorcLQImADn) | 4:11 | 2022-04-01 | 2022-05-07 |
 | [En El Muelle de San Blas](https://open.spotify.com/track/0mvocLIWUnT10znvIXwHGr) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:52 | 2022-04-01 |  |
 | [Eres Mi Religión](https://open.spotify.com/track/3NTaEHQg5iVrRRNWlnK4RY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Revolución De Amor](https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V) | 5:27 | 2022-01-14 |  |

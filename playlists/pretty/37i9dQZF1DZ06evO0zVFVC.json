@@ -1,12 +1,12 @@
 {
-  "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 98453,
+  "description": "This Is Parkway Drive. Los temas esenciales, todos en una lista.",
+  "num_followers": 98479,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAACUB8lKwHeEPA34aZvuY1JE",
+  "snapshot_id": "ZsZ/gAAAAADKd5MZkVMWtb3cZ3YUkAxE",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 241033,
-      "name": "Sleepwalker",
-      "url": "https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj"
+      "duration_ms": 229173,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5fwwWmgreaDgfmLxqOdF8f"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 229173,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/5fwwWmgreaDgfmLxqOdF8f"
+      "duration_ms": 241033,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/2XZP7EIjlD75VwYcHNePYj"
     },
     {
       "added_at": null,

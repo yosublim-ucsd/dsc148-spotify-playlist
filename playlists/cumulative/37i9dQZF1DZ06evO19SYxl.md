@@ -4,7 +4,7 @@
 
 > This is Tex Tex\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 37 min
+60 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Perdido](https://open.spotify.com/track/25zVsjcK15lfJLyII4Tl1S) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:00 | 2023-01-14 |  |
 | [Pienso en Ti \- 2022 Remasterizado](https://open.spotify.com/track/2R6U2IsnJOKoPL7k0FotuA) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Pienso en Ti \(2022 Remasterizado\)](https://open.spotify.com/album/2aYTPJH1knXa3TLh7LIXNz) | 3:28 | 2023-01-14 | 2024-03-20 |
 | [Pobre Rocanrolero](https://open.spotify.com/track/6PO1FpMte6nYYtpgKIa466) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:53 | 2023-01-14 |  |
-| [Salón](https://open.spotify.com/track/792lAOhCxwFi8AdaWRkgW6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Forajido \(Deluxe Edition\)](https://open.spotify.com/album/1BnFqEcCY568k6wDfWbPYR) | 3:17 | 2024-07-24 |  |
+| [Salón](https://open.spotify.com/track/792lAOhCxwFi8AdaWRkgW6) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Forajido \(Deluxe Edition\)](https://open.spotify.com/album/1BnFqEcCY568k6wDfWbPYR) | 3:17 | 2024-07-24 | 2024-08-24 |
+| [San Francisco](https://open.spotify.com/track/5W485vHAISIu1378PMn3pv) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 1:46 | 2024-08-24 |  |
 | [Se Fue Con Otro](https://open.spotify.com/track/7qwhXFE0IF2c7nCnIyRggF) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 3:16 | 2023-01-14 |  |
 | [Srita Martinez Punk](https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Srita Martinez Punk](https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV) | 3:18 | 2023-01-14 |  |
 | [Swing de la Tarde / Flores en Tu Pelo](https://open.spotify.com/track/0gvqro1POjzsUSGfjgY88B) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Hombre Afortunado](https://open.spotify.com/album/2TDsxyCXFpUuMYgIWdtriW) | 4:33 | 2023-01-14 | 2023-04-18 |

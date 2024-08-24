@@ -4,12 +4,13 @@
 
 > Gazing at pedals, soaring celestially high\. cover: They Are Gutting A Body Of Water
 
-681 songs - 1 day 20 hr 15 min
+682 songs - 1 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(image for\) drawing on canvas](https://open.spotify.com/track/6h0YR0kt5KfVlT6N9HTLkQ) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [\(image for\) drawing on canvas](https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg) | 4:33 | 2022-11-25 | 2022-12-13 |
 | [1999](https://open.spotify.com/track/0YvG1SZHHjzEpCMCUhB3Vf) | [Dreams on Tape](https://open.spotify.com/artist/0AFGPuSQHul71WUKnoUUhy) | [1999](https://open.spotify.com/album/0tY4FzgCmvJPgDaeyBwbNV) | 3:30 | 2023-02-17 | 2023-07-19 |
+| [2002](https://open.spotify.com/track/2w3zcWWx80N3q9HZ8LGrYy) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [VOL\. 2](https://open.spotify.com/album/4D3KMryl6rGcxwEhlyjEnl) | 3:50 | 2024-08-23 |  |
 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 | 2021-10-19 | 2023-06-08 |
 | [23](https://open.spotify.com/track/4h9pwQbHEz9HSGeOE8UMf4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO) | 5:18 | 2021-10-19 | 2022-07-29 |
 | [2g ether](https://open.spotify.com/track/2IVBzvAP4xcMJk7pGnNjxo) | [Full Body 2](https://open.spotify.com/artist/4hCh0DfO21IV18sFffmTqw) | [demo 02](https://open.spotify.com/album/5WFz5GnwnfjtdSx1StnGAG) | 3:42 | 2023-02-17 | 2023-08-12 |

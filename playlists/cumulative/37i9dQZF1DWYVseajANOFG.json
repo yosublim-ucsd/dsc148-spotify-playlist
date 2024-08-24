@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Amiri",
+        "url": "https://open.spotify.com/album/4csRjxs5QE4MOQaugsyPVp"
+      },
+      "artists": [
+        {
+          "name": "Makano",
+          "url": "https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Amiri",
+      "url": "https://open.spotify.com/track/6FDMu3kDZPIhiUz2srZvuU"
+    },
+    {
+      "album": {
         "name": "AMOR ESPACIAL",
         "url": "https://open.spotify.com/album/3wpg7V46FHKZ0IuB5yqlsd"
       },
@@ -1309,6 +1327,28 @@
     },
     {
       "album": {
+        "name": "Cuando",
+        "url": "https://open.spotify.com/album/68TiuUpgtjXf4iMjypi0sq"
+      },
+      "artists": [
+        {
+          "name": "Predikador",
+          "url": "https://open.spotify.com/artist/2thPpoFosFJC33Yy4xIAWY"
+        },
+        {
+          "name": "El Roockie",
+          "url": "https://open.spotify.com/artist/3sc8HnadkPW5YaIGbCljw4"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/6bqEwYcDLJYMnTo7JmBWHe"
+    },
+    {
+      "album": {
         "name": "Culito",
         "url": "https://open.spotify.com/album/2t3rg1IJcw59hPyHUlkNEx"
       },
@@ -2016,7 +2056,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 141888,
       "name": "Entre Tantas",
       "url": "https://open.spotify.com/track/2Im6o5icHHV4vY5hnMZVeS"
@@ -2200,6 +2240,28 @@
       "duration_ms": 271394,
       "name": "Fans",
       "url": "https://open.spotify.com/track/48TUgKEWfLrFzgNlFY7r7P"
+    },
+    {
+      "album": {
+        "name": "FAVELA",
+        "url": "https://open.spotify.com/album/2tjEG5AdeMjpYyCR6nbXU6"
+      },
+      "artists": [
+        {
+          "name": "Valentino GRM",
+          "url": "https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr"
+        },
+        {
+          "name": "SMILE BEATS",
+          "url": "https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183958,
+      "name": "FAVELA",
+      "url": "https://open.spotify.com/track/71LrvCBBn4q500OuayF7OK"
     },
     {
       "album": {
@@ -2436,7 +2498,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 181700,
       "name": "GANGSTER",
       "url": "https://open.spotify.com/track/2znqtjA6QsoI9CEOcPtQ4Q"
@@ -4139,6 +4201,28 @@
     },
     {
       "album": {
+        "name": "Money Making Guy",
+        "url": "https://open.spotify.com/album/4g87H5cTTkbKiIFri7nrln"
+      },
+      "artists": [
+        {
+          "name": "Danger Man",
+          "url": "https://open.spotify.com/artist/2sJrkdfEkurbjXycyjuybI"
+        },
+        {
+          "name": "Japanese",
+          "url": "https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103096,
+      "name": "Money Making Guy",
+      "url": "https://open.spotify.com/track/2Se1amw8WTAeORP5NnuSKC"
+    },
+    {
+      "album": {
         "name": "Mosca",
         "url": "https://open.spotify.com/album/47CftaM8innYI4ubP4E8ou"
       },
@@ -4467,6 +4551,24 @@
     },
     {
       "album": {
+        "name": "No Son Traquetos",
+        "url": "https://open.spotify.com/album/3uKIEwqBL69WhCjsvblPRe"
+      },
+      "artists": [
+        {
+          "name": "EL BEWI",
+          "url": "https://open.spotify.com/artist/0TscbxeMzPiEDhB0NlmNuL"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182674,
+      "name": "No Son Traquetos",
+      "url": "https://open.spotify.com/track/2LXMqzZKPiSaK4yTJMYt6r"
+    },
+    {
+      "album": {
         "name": "Smile Riddim",
         "url": "https://open.spotify.com/album/418F3f9pX5ZW5FJMFrCrJj"
       },
@@ -4650,7 +4752,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 203357,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/4nHjRhTWGC2LgJVB8Z2ulj"
@@ -5364,7 +5466,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 201142,
       "name": "Pone & Pone",
       "url": "https://open.spotify.com/track/4iqa1XmmNoB7GvKm5hUP7g"
@@ -6638,7 +6740,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 158615,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/0riQdS5CJ3xPStmtOI2TsF"
@@ -6952,7 +7054,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 239634,
       "name": "Tu Man",
       "url": "https://open.spotify.com/track/3wMxU6KYZ89HhYSBoJe78M"
@@ -7306,6 +7408,28 @@
       "duration_ms": 214961,
       "name": "Vicio",
       "url": "https://open.spotify.com/track/0JJ074OaMdofBdF5DRqOVr"
+    },
+    {
+      "album": {
+        "name": "Vip",
+        "url": "https://open.spotify.com/album/28eakD0gKzXmiKLV1yrVkh"
+      },
+      "artists": [
+        {
+          "name": "DimeloYossi",
+          "url": "https://open.spotify.com/artist/5Hq36dh82zGGB2mTEMb652"
+        },
+        {
+          "name": "Kabliz",
+          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213552,
+      "name": "Vip",
+      "url": "https://open.spotify.com/track/1PlRznnNpnc78OjG52TtLL"
     },
     {
       "album": {

@@ -6,10 +6,226 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADM0NdJ7A+MBJPUZGqFuvNd",
+  "snapshot_id": "AAAAAAAAAACv+ZOsuaB3SkPeKX49lltN",
   "tracks": [
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Lady Wingshot (with The Gone With The Wind Orchestra) - from Archives Vol. III",
+        "url": "https://open.spotify.com/album/4T9Hx9CdgEVILVYmGGs2bM"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Nicolette Larson",
+          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
+        },
+        {
+          "name": "The Gone With The Wind Orchestra",
+          "url": "https://open.spotify.com/artist/6w36lwZT5VBmDAM5ONL1si"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Lady Wingshot (with The Gone With The Wind Orchestra)",
+      "url": "https://open.spotify.com/track/2XS0zBGcSz95v3lACOFNUZ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "50 Beautiful Nature Sounds",
+        "url": "https://open.spotify.com/album/3J1j8xlh2FXggJSTFc1CGu"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica Relajante para Beb\u00e9s",
+          "url": "https://open.spotify.com/artist/4tgjFOfai20uJmry9w8cKu"
+        },
+        {
+          "name": "Meditaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
+        },
+        {
+          "name": "Calming Sounds",
+          "url": "https://open.spotify.com/artist/5SqxgH3k1AkSVkpdTGYudY"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "Harmonious Resonance Rush",
+      "url": "https://open.spotify.com/track/0Baha0vJ7P6iuyDaHp0M8I"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Essential Classics, Vol. 403: Little Richard",
+        "url": "https://open.spotify.com/album/0KWZ96ZatKen60xSi3Yl1c"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        },
+        {
+          "name": "Essential Classics",
+          "url": "https://open.spotify.com/artist/3N7AfUOyfxjblhD6wygyTN"
+        }
+      ],
+      "duration_ms": 129203,
+      "name": "Heeby Jeebies",
+      "url": "https://open.spotify.com/track/0hMIJi4T6aFUhsxN26eKaZ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Itachi Uchiha",
+        "url": "https://open.spotify.com/album/2hkAWkvL6wlprimlT0Aa5V"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "Itachi Uchiha",
+      "url": "https://open.spotify.com/track/5sGcH2dBRuvJ233ghSBYUr"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "IMPOSSIBLE DREAM",
+        "url": "https://open.spotify.com/album/32NeEr5asvCJHfXz6mKzyH"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lazar",
+          "url": "https://open.spotify.com/artist/6ETQCRI940NdLTF9wqAZhh"
+        },
+        {
+          "name": "Kristin Chenoweth",
+          "url": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Lin-Manuel Miranda",
+          "url": "https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N"
+        },
+        {
+          "name": "Kelli O'Hara",
+          "url": "https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9"
+        },
+        {
+          "name": "Norm Lewis",
+          "url": "https://open.spotify.com/artist/7dHUb3yBmLZdtX3zsjHOgQ"
+        },
+        {
+          "name": "Kate Baldwin",
+          "url": "https://open.spotify.com/artist/7v9S5rwclGrPpm3jdoJcJa"
+        },
+        {
+          "name": "Christy Altomare",
+          "url": "https://open.spotify.com/artist/789FjOfgnmP40E4Zdyj7F4"
+        },
+        {
+          "name": "Shoshana Bean",
+          "url": "https://open.spotify.com/artist/3f6n3RzZESaZnpoKit0Sk5"
+        },
+        {
+          "name": "Liz Callaway",
+          "url": "https://open.spotify.com/artist/4hcWMDrWJYyU66HA583nCb"
+        },
+        {
+          "name": "Joanna Gleason",
+          "url": "https://open.spotify.com/artist/1cmXJ8AXxIMdUL2fvJ6RbU"
+        },
+        {
+          "name": "Adam Jacobs",
+          "url": "https://open.spotify.com/artist/5AmnFjIvQPCZJk3ES5kki4"
+        },
+        {
+          "name": "Brian D'Arcy James",
+          "url": "https://open.spotify.com/artist/3oYQrBzEQNpxnjWXP54B4n"
+        },
+        {
+          "name": "Marc Kudisch",
+          "url": "https://open.spotify.com/artist/7J7yKGzSVuaerLfaFue1FW"
+        },
+        {
+          "name": "Brian Stokes Mitchell",
+          "url": "https://open.spotify.com/artist/22ZiDrzGc0fi8wGMaHPmtX"
+        },
+        {
+          "name": "Christiane Noll",
+          "url": "https://open.spotify.com/artist/2cIqRwRLQlceBErvh3CYcJ"
+        },
+        {
+          "name": "Max Von Essen",
+          "url": "https://open.spotify.com/artist/74YVw9S41bO4eb7Zd2Nsjv"
+        },
+        {
+          "name": "Adrienne Warren",
+          "url": "https://open.spotify.com/artist/6Fa9ZDsa97z3apsVwp4KMC"
+        },
+        {
+          "name": "Betsy Wolfe",
+          "url": "https://open.spotify.com/artist/2GpXUAHwbk1AO5h0kF4Ty1"
+        },
+        {
+          "name": "Tony Yazbeck",
+          "url": "https://open.spotify.com/artist/3q1ASlikYAAdmnZjkqp6mo"
+        }
+      ],
+      "duration_ms": 263382,
+      "name": "The Impossible Dream",
+      "url": "https://open.spotify.com/track/7uYFgDfs7o1eLhRroKCxVf"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Healing Atmospheric",
+        "url": "https://open.spotify.com/album/5vd2JAmWluuoWGTdGcol7W"
+      },
+      "artists": [
+        {
+          "name": "Monjes Tibetanos",
+          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
+        }
+      ],
+      "duration_ms": 114123,
+      "name": "Devotion Esoteric",
+      "url": "https://open.spotify.com/track/0Hsmc2Sy1FL16vKUwJF3M1"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Run To You - SUMD4ZE Edit",
+        "url": "https://open.spotify.com/album/5j3MWUbMQI5jRgIgx6r7g4"
+      },
+      "artists": [
+        {
+          "name": "SUMD4ZE",
+          "url": "https://open.spotify.com/artist/6T3rJwEHvw1o5JCGouZtec"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        },
+        {
+          "name": "LMC",
+          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
+        }
+      ],
+      "duration_ms": 151295,
+      "name": "Run To You - SUMD4ZE Edit",
+      "url": "https://open.spotify.com/track/7GdqjqLKrf4yWO2EoDtU2T"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Endtime Signals",
         "url": "https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI"
@@ -25,7 +241,7 @@
       "url": "https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Human Clay - Deluxe Edition",
         "url": "https://open.spotify.com/album/0COtuvphKnKh3lYWJEheML"
@@ -41,7 +257,7 @@
       "url": "https://open.spotify.com/track/4jxhl6bhajNa92S9363ETG"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Sad Song - Mauldeth Road West Demo, Nov' 92",
         "url": "https://open.spotify.com/album/4t3hIBsq1eZB5FVVw1Ti9W"
@@ -57,7 +273,7 @@
       "url": "https://open.spotify.com/track/0dABTXRfWoMmWD43T66KZI"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "No Tomorrow",
         "url": "https://open.spotify.com/album/6nmJnknaiCSIRODXFa4htZ"
@@ -73,7 +289,7 @@
       "url": "https://open.spotify.com/track/25ZT2d4YmjQApcfWLXD1Eg"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Yes - Mind Games Meditation Mix",
         "url": "https://open.spotify.com/album/6aRKumCaAorGCDtliAuQ14"
@@ -89,7 +305,7 @@
       "url": "https://open.spotify.com/track/4V3GpjOf7OqVUOzS62ffmy"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "It's All Over Now, Baby Blue [Live at The Forum, Inglewood, CA - February 14, 1974 (Afternoon)]",
         "url": "https://open.spotify.com/album/3eF5Dyc5aAvyFqgdfgQbXk"
@@ -109,7 +325,7 @@
       "url": "https://open.spotify.com/track/3q6WUhqjjcHCos0sW83Gn3"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/4HzDlHyWBDBBz4nvtCHxtJ"
@@ -141,7 +357,7 @@
       "url": "https://open.spotify.com/track/5D7QfKHK1w7jkman29CNnr"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Other Landscapes, Vol. 1",
         "url": "https://open.spotify.com/album/3mRM87d7RHlFrF27fWhAtD"
@@ -157,31 +373,7 @@
       "url": "https://open.spotify.com/track/0KyOqeVAPYVKcryHhqrGPU"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Sleepy Compilation for Inner Peace",
-        "url": "https://open.spotify.com/album/3rGw8Gyi5mieaWwrLzGudK"
-      },
-      "artists": [
-        {
-          "name": "Binaural Beats Brainwave Entrainment",
-          "url": "https://open.spotify.com/artist/19JUcz7OOlHDURJdJpnAor"
-        },
-        {
-          "name": "Instrumental",
-          "url": "https://open.spotify.com/artist/0wMmGaXRfdHPhqSEAVQIr6"
-        },
-        {
-          "name": "Meditaci\u00f3n",
-          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Mist Shrouded Dream Drift",
-      "url": "https://open.spotify.com/track/0aEoAR14aP1Uyjvvdfeies"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "\u0411\u0435\u043b\u0430\u044f \u041f\u043e\u043b\u043e\u0441\u0430 / Belaya Polosa",
         "url": "https://open.spotify.com/album/1zoNknVyk2LDUcZWVxATbC"
@@ -197,7 +389,7 @@
       "url": "https://open.spotify.com/track/5Q2nwpPOPSRA3YceejOc9H"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "We Don't Care",
         "url": "https://open.spotify.com/album/0LCoxC1ihyaiygfwk7Rt3L"
@@ -213,7 +405,7 @@
       "url": "https://open.spotify.com/track/0pCmQxPKjj9roW9HJcgmYL"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "50th Anniversary Live - Second Night",
         "url": "https://open.spotify.com/album/3ZFAS293XPGNfuXcKzdhtO"
@@ -229,7 +421,7 @@
       "url": "https://open.spotify.com/track/5zAdE8QwyFuFExIFNOhPQR"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Canciones Sepia",
         "url": "https://open.spotify.com/album/1FiOhClmJiIRz2yjVdzt9K"
@@ -245,7 +437,7 @@
       "url": "https://open.spotify.com/track/6GJarQJvGXahxeybW7NLbu"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Prana",
         "url": "https://open.spotify.com/album/2xyAcE0OvftzBHfXHaaNKJ"
@@ -265,43 +457,7 @@
       "url": "https://open.spotify.com/track/5pa7JgUnE625Rgsd8WfnuK"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Winter Winds - from Archives Vol. III",
-        "url": "https://open.spotify.com/album/24rLZkA6jwnhLPPeXBODDx"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 193193,
-      "name": "Winter Winds",
-      "url": "https://open.spotify.com/track/66KiqBhLgZL8IbcikkVkBQ"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Undefeated Eyes (Radio Edit)",
-        "url": "https://open.spotify.com/album/5hA9rwzWYLOkCj3oNyHTe6"
-      },
-      "artists": [
-        {
-          "name": "Fantastic Negrito",
-          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 217103,
-      "name": "Undefeated Eyes - Radio Edit",
-      "url": "https://open.spotify.com/track/4IxMFz3PKWaqmsOq0ORjoV"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "String Sextet in D Minor \"Souvenir de Florence\", Op. 70: 3. Allegro moderato",
         "url": "https://open.spotify.com/album/4axnuwdAKlZI5qpNvkSevw"
@@ -321,23 +477,7 @@
       "url": "https://open.spotify.com/track/3b9XyVYIBUIMZrkPfP75ps"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Gentle Echoing Zen",
-        "url": "https://open.spotify.com/album/1sY16shG28HBBPcZSMlWYW"
-      },
-      "artists": [
-        {
-          "name": "Monjes Tibetanos",
-          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
-        }
-      ],
-      "duration_ms": 128464,
-      "name": "Audible Situation",
-      "url": "https://open.spotify.com/track/2izkzLlWX3vzXmdE3v7agT"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Don't Blame It On Me",
         "url": "https://open.spotify.com/album/35g7Yy0XREz3hHUFVMlPu9"
@@ -353,7 +493,7 @@
       "url": "https://open.spotify.com/track/0Vm9YhrT39p1sBOVH81aAZ"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "I Like It - Alesso & Sentinel Remix",
         "url": "https://open.spotify.com/album/7GJkVr9LA2svhxSG2w5N3Z"
@@ -377,7 +517,7 @@
       "url": "https://open.spotify.com/track/2kG38uIoDRlqJU0aFafpP0"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "VSQ Performs the Hits of 2024",
         "url": "https://open.spotify.com/album/5og9lzNTh4Ak19jLp81Bnk"
@@ -393,7 +533,7 @@
       "url": "https://open.spotify.com/track/7BmSSHBfpq4LsyBURC5rL3"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Hosting the Shadow (feat. Randy Blythe)",
         "url": "https://open.spotify.com/album/0KP2z07uVLOhT0pUHL8enr"
@@ -413,7 +553,7 @@
       "url": "https://open.spotify.com/track/5kGYXoTex44RouWpcc6MD0"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Somewhere Far Beyond (Revisited)",
         "url": "https://open.spotify.com/album/6xGJmXBiu1afT8eN13KBOJ"
@@ -429,23 +569,7 @@
       "url": "https://open.spotify.com/track/2og2RFuX8c1iThdlLmV2RW"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Rock And Roll Hell",
-        "url": "https://open.spotify.com/album/5DRawetthfEySOsMJhzAkA"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 198335,
-      "name": "Rock And Roll Hell",
-      "url": "https://open.spotify.com/track/7I29mrdkXOOg5G18OKKXhW"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Necessary Evil",
         "url": "https://open.spotify.com/album/7aWBxSYIWpbsu3Ztl8QxmV"
@@ -461,7 +585,7 @@
       "url": "https://open.spotify.com/track/1TOMPmDRkQ9WBiYDZtcF98"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Cosmic",
         "url": "https://open.spotify.com/album/5lHtH6O6mCnVx1MNuPPBQK"
@@ -477,7 +601,7 @@
       "url": "https://open.spotify.com/track/34cdCSNJBuctt5KKC1ch2k"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Mariposa Peregrina",
         "url": "https://open.spotify.com/album/6Xyg15pXpZOhVaIkpoY5D1"
@@ -497,7 +621,7 @@
       "url": "https://open.spotify.com/track/4gMeMbcQg2susBehVPgZwS"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Bruce Springsteen & The E Street Band - The Reunion Tour '99",
         "url": "https://open.spotify.com/album/4jNMmcMXt3rQsta5LGWI4Q"
@@ -513,7 +637,7 @@
       "url": "https://open.spotify.com/track/57SjNJSHWhBAsZkRWEfTDJ"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Outcome (acoustic)",
         "url": "https://open.spotify.com/album/06pDPAm9G4KKwzx7OCnP3B"
@@ -531,22 +655,6 @@
       "duration_ms": 178285,
       "name": "Outcome - acoustic",
       "url": "https://open.spotify.com/track/7pkBHmXsBrJwUZOBlcm2xj"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "IKIGAI",
-        "url": "https://open.spotify.com/album/71EzwNnnR1dqai7BKH6eJp"
-      },
-      "artists": [
-        {
-          "name": "jjcqs",
-          "url": "https://open.spotify.com/artist/4gTzsmh3Dwdf0uf4m7q4K6"
-        }
-      ],
-      "duration_ms": 252120,
-      "name": "POSDATA - Rerecorded",
-      "url": "https://open.spotify.com/track/6yQQxHSnpefHrv4bKTqwhL"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

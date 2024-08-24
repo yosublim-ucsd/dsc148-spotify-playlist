@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Molina
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,452 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,454 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 71 | [Riff Before Work](https://open.spotify.com/track/0wFpbcKr0QhZjmobFZMBNz) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Riff Before Work](https://open.spotify.com/album/47aFetVSgGTuupxJi49bNP) | 2:46 |
 | 72 | [Se på oss](https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP) | [Faråker](https://open.spotify.com/artist/3umyqRlNtUXAsL6r70Znjt) | [Se på oss](https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY) | 3:29 |
 | 73 | [Salamina](https://open.spotify.com/track/77n2LesdLx0krLwVgsVIWn) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Salamina](https://open.spotify.com/album/7EFHatQ7I0LuZNNFmwIFeV) | 2:56 |
-| 74 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Loving you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 |
+| 74 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Lovin you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 |
 | 75 | [So Far Gone \(feat\. Lizzy McAlpine\)](https://open.spotify.com/track/2ttemPsvqBdA8ItME6DCbL) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:16 |
 | 76 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 |
 | 77 | [Waiting for You](https://open.spotify.com/track/3hd9olC7a3UAwLubOBRkVm) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Waiting for You](https://open.spotify.com/album/1ka8hFWeasaX1W1bLuXTVE) | 3:23 |

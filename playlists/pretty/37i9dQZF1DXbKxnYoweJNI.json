@@ -1,6 +1,6 @@
 {
   "description": "\u7368\u7acb\u5c31\u662f\u786c\u5730\u81ea\u4e3b\uff0c\u97f3\u6a02\u5c31\u8981\u5c55\u73fe\u98a8\u683c\uff0c\u52a0\u8d77\u4f86\u5c31\u662f\u75db\u5feb\uff01Cover: \u543e\u6a4b\u6709\u6c34 (FloodingBridge)",
-  "num_followers": 60590,
+  "num_followers": 60609,
   "original_name": "\u7368\u7acb\u6700\u524d\u7dda",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-08-22 16:00:00",
       "album": {
+        "name": "\u4e00\u6574\u5929",
+        "url": "https://open.spotify.com/album/3d9CbNWURQQ7N6uHA7lha8"
+      },
+      "artists": [
+        {
+          "name": "sodagreen",
+          "url": "https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U"
+        }
+      ],
+      "duration_ms": 188988,
+      "name": "\u4e00\u6574\u5929",
+      "url": "https://open.spotify.com/track/2Bf38yCUENYoZX2N6iXLVy"
+    },
+    {
+      "added_at": "2024-08-22 16:00:00",
+      "album": {
         "name": "\u524d\u9014\u7121\u91cf (\u5f71\u8996\u5287\u300a\u524d\u9014\u7121\u91cf\u300b\u540c\u540d\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/5iD0IDEjJJRbhpdcmlaDRb"
       },
@@ -832,8 +848,8 @@
           "url": "https://open.spotify.com/artist/6ekUFXp9TXnNsFL1qO3DKt"
         },
         {
-          "name": "\u6797\u9824\u539f",
-          "url": "https://open.spotify.com/artist/1y7P3hlPFirLEcyzfY4OwM"
+          "name": "EUAN",
+          "url": "https://open.spotify.com/artist/7tJUAyM0VRKna9QEqcngkM"
         }
       ],
       "duration_ms": 198429,

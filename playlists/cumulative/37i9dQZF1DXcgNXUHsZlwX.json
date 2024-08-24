@@ -953,6 +953,24 @@
     },
     {
       "album": {
+        "name": "Chaque nuit la mort",
+        "url": "https://open.spotify.com/album/3eiHeMkAh3caWE2yFJUm7n"
+      },
+      "artists": [
+        {
+          "name": "Nicolet",
+          "url": "https://open.spotify.com/artist/5M1fJVSLxyQGV6RSqilBjR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329351,
+      "name": "Chaque nuit la mort",
+      "url": "https://open.spotify.com/track/2WLiGXeSEwXC0PtykisCnD"
+    },
+    {
+      "album": {
         "name": "Chez Gaspard",
         "url": "https://open.spotify.com/album/6lr4Nc9QC3vsjEl3vo9efY"
       },
@@ -1567,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "DON'T WANNA HEAR THAT SONG ANYMORE",
+        "url": "https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "DON'T WANNA HEAR THAT SONG ANYMORE",
+      "url": "https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC"
+    },
+    {
+      "album": {
         "name": "Essai de danse sans gravit\u00e9",
         "url": "https://open.spotify.com/album/0ARc8KE40XTNMXG7Qkdsta"
       },
@@ -1784,7 +1820,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 209570,
       "name": "Elle vit dans les bois",
       "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
@@ -2978,7 +3014,7 @@
       ],
       "date_added": "2021-01-03",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 150453,
       "name": "J'esp\u00e8re",
       "url": "https://open.spotify.com/track/2kUWRvNpKmcpesv1fCdOAO"

@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Nicolle Galyon
 
-254 songs - 14 hr 50 min
+255 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [When Something’s Gotta Give](https://open.spotify.com/track/2W7uaqP73dJAEdqKTFNBMH) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [When Something’s Gotta Give](https://open.spotify.com/album/4FLOgD3dGXPv8uCTZ5YEQY) | 3:23 | 2023-04-07 |  |
 | [When You Say Nothing At All](https://open.spotify.com/track/7mXjTkZ79hpL0p1ofHlcio) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Greatest Hits](https://open.spotify.com/album/7LAKDwDjQsjeOh5YbZobrn) | 4:14 | 2022-01-01 |  |
 | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/track/5pet1oAtPaMCmrx3uDxkzv) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/album/64Kt98Z8gUihw85TgI5gHd) | 5:11 | 2022-01-01 |  |
+| [Whiskey Colored Crayon](https://open.spotify.com/track/3lhNhhXTaZ4MctV8turR8r) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:26 | 2024-08-23 |  |
 | [Whiskey Glasses \- demo](https://open.spotify.com/track/2guihRk5epmyNyHBDzWGDu) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Whiskey Glasses \(demo\)](https://open.spotify.com/album/7nj4tJDeS8J5em0r0TTIdR) | 3:30 | 2024-07-05 |  |
 | [Whiskey Lullaby](https://open.spotify.com/track/28fV7UpKzp6BoawvKYTaNZ) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh) | [Whiskey Lullaby](https://open.spotify.com/album/6tfS46lGV8GngP6ir1lTVo) | 4:08 | 2022-01-01 |  |
 | [Whiskey Mode](https://open.spotify.com/track/37Vr9VYnUtMZXxZ9DkR6Qv) | [Hunter Phelps](https://open.spotify.com/artist/3TiUMPXO9xfV406Vv8qYXq) | [Whiskey Mode](https://open.spotify.com/album/7N1YlqTjrOBPWZ8uccFmJ7) | 3:30 | 2022-02-28 | 2023-07-01 |

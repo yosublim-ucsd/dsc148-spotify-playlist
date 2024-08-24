@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 ### [This Is J Boog](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4nvAQ5)
 
-> This Is J Boog\. Los temas esenciales, todos en una lista.
+> This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,485 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,489 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 49 | [Danger](https://open.spotify.com/track/3XT9HuM3PYlkGOLKTyeStN) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Tyrone's Jacket](https://open.spotify.com/artist/5dxrfWzDmhPO4LJ3ESS70U) | [Iration](https://open.spotify.com/album/6XBN7JbqWczCIST7mmdkAx) | 3:59 |
 | 50 | [Blaze It for Days \(feat\. Lion Fiyah & Gappy Ranks\)](https://open.spotify.com/track/48Lsxsxa8Z6XIxFK9uImA7) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Lion Fiyah](https://open.spotify.com/artist/4os8LHgkbQYhV5pvJeytcq), [Gappy Ranks](https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:07 |
 
-Snapshot ID: `ZsUuAAAAAABVyhdCiVrDfvwrTC9x27TQ`
+Snapshot ID: `ZsZ/gAAAAAD3GMZ7Y6pUZkloYEmAki8q`

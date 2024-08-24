@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: rusowsky, LATIN MAFIA.",
-  "num_followers": 194880,
+  "num_followers": 194922,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -471,18 +471,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Nost\u00e0lgia Airlines",
-        "url": "https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV"
+        "name": "Lo Contrario",
+        "url": "https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8"
       },
       "artists": [
         {
-          "name": "Maria Jaume",
-          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+          "name": "GOMZ",
+          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
         }
       ],
-      "duration_ms": 176176,
-      "name": "Pura geografia",
-      "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
+      "duration_ms": 190398,
+      "name": "Lo Contrario",
+      "url": "https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -543,22 +547,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Lo Contrario",
-        "url": "https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8"
+        "name": "Nost\u00e0lgia Airlines",
+        "url": "https://open.spotify.com/album/5csb7A1tX7g8GCvar9WuLV"
       },
       "artists": [
         {
-          "name": "GOMZ",
-          "url": "https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+          "name": "Maria Jaume",
+          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
         }
       ],
-      "duration_ms": 190398,
-      "name": "Lo Contrario",
-      "url": "https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs"
+      "duration_ms": 176176,
+      "name": "Pura geografia",
+      "url": "https://open.spotify.com/track/7hO8gFY9xTofMHbZIoSRGv"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Ressaca a sa platja",
-        "url": "https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ"
-      },
-      "artists": [
-        {
-          "name": "Maria Jaume",
-          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
-        }
-      ],
-      "duration_ms": 176654,
-      "name": "Ressaca a sa platja",
-      "url": "https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Ni una sola palabra",
         "url": "https://open.spotify.com/album/1JguOmFup7ktxhEgkxPn9g"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 211567,
       "name": "Ni una sola palabra",
       "url": "https://open.spotify.com/track/4jXc8gWfKCq6OWSnIyvJ5V"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Ressaca a sa platja",
+        "url": "https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ"
+      },
+      "artists": [
+        {
+          "name": "Maria Jaume",
+          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+        }
+      ],
+      "duration_ms": 176654,
+      "name": "Ressaca a sa platja",
+      "url": "https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Amargura (Cover para Movistar Plus+)",
-        "url": "https://open.spotify.com/album/27Z1U1bmE7S5COp8N9bLgL"
-      },
-      "artists": [
-        {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        },
-        {
-          "name": "BRONQUIO",
-          "url": "https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Amargura (Cover para Movistar Plus+)",
-      "url": "https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Autom\u00f3viles",
         "url": "https://open.spotify.com/album/3opwVD7QPkliMcVj4iuuMf"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 228890,
       "name": "Autom\u00f3viles",
       "url": "https://open.spotify.com/track/7sm0mCPk9si3MQ8706IrOT"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Amargura (Cover para Movistar Plus+)",
+        "url": "https://open.spotify.com/album/27Z1U1bmE7S5COp8N9bLgL"
+      },
+      "artists": [
+        {
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
+        },
+        {
+          "name": "BRONQUIO",
+          "url": "https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Amargura (Cover para Movistar Plus+)",
+      "url": "https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "El farsante",
+        "url": "https://open.spotify.com/album/1RUSabd7pUar8XyoLwqHa7"
+      },
+      "artists": [
+        {
+          "name": "lusill\u00f3n",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
+        }
+      ],
+      "duration_ms": 182768,
+      "name": "El farsante",
+      "url": "https://open.spotify.com/track/2CNMMWso8912ZK45QcyYIP"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "HELLO PITI",
         "url": "https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "El farsante",
-        "url": "https://open.spotify.com/album/1RUSabd7pUar8XyoLwqHa7"
-      },
-      "artists": [
-        {
-          "name": "lusill\u00f3n",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 182768,
-      "name": "El farsante",
-      "url": "https://open.spotify.com/track/2CNMMWso8912ZK45QcyYIP"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Decid\u00ed Desaparecer",
         "url": "https://open.spotify.com/album/5uYQnJrJDPzpmXE7EwG4nO"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 163001,
       "name": "Decid\u00ed Desaparecer",
       "url": "https://open.spotify.com/track/5qa2qTNUc9CZdL1APiLRaH"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Al infierno",
-        "url": "https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA"
-      },
-      "artists": [
-        {
-          "name": "Embusteros",
-          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
-        }
-      ],
-      "duration_ms": 218779,
-      "name": "Al infierno",
-      "url": "https://open.spotify.com/track/7JGdiO9JZ5ptciwfGIpXCP"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1039,18 +1023,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Prefiero",
-        "url": "https://open.spotify.com/album/7JL7AQrwDarN3w2lUmrz4p"
+        "name": "Al infierno",
+        "url": "https://open.spotify.com/album/18EbbTx2GElGvszuckMxzA"
       },
       "artists": [
         {
-          "name": "Begut",
-          "url": "https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u"
+          "name": "Embusteros",
+          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
         }
       ],
-      "duration_ms": 175663,
-      "name": "Prefiero",
-      "url": "https://open.spotify.com/track/0zkDM9b49NlqpSsAWXxecX"
+      "duration_ms": 218779,
+      "name": "Al infierno",
+      "url": "https://open.spotify.com/track/7JGdiO9JZ5ptciwfGIpXCP"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 189303,
       "name": "Volver\u00e9is",
       "url": "https://open.spotify.com/track/1DorbdhQk2qrzucKdxfv1d"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Prefiero",
+        "url": "https://open.spotify.com/album/7JL7AQrwDarN3w2lUmrz4p"
+      },
+      "artists": [
+        {
+          "name": "Begut",
+          "url": "https://open.spotify.com/artist/7JivS2YOCfCKfjRcsbS08u"
+        }
+      ],
+      "duration_ms": 175663,
+      "name": "Prefiero",
+      "url": "https://open.spotify.com/track/0zkDM9b49NlqpSsAWXxecX"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Reventarme",
-        "url": "https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX"
-      },
-      "artists": [
-        {
-          "name": "trashi",
-          "url": "https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ"
-        }
-      ],
-      "duration_ms": 186382,
-      "name": "Reventarme",
-      "url": "https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Echo de menos a los Arctic Monkeys",
         "url": "https://open.spotify.com/album/1hLzA65hHzjmVkJGucZCwG"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 199448,
       "name": "Echo de menos a los Arctic Monkeys",
       "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Reventarme",
+        "url": "https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX"
+      },
+      "artists": [
+        {
+          "name": "trashi",
+          "url": "https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ"
+        }
+      ],
+      "duration_ms": 186382,
+      "name": "Reventarme",
+      "url": "https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Ez Nintzen Ni Izango (Esa No Ser\u00eda Yo)",
-        "url": "https://open.spotify.com/album/2eIfbE9QY4rESyCsu3JFUu"
-      },
-      "artists": [
-        {
-          "name": "BULEGO",
-          "url": "https://open.spotify.com/artist/536zVauyusZp2cjwh4QB5B"
-        },
-        {
-          "name": "Ede",
-          "url": "https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Ez Nintzen Ni Izango (Esa No Ser\u00eda Yo)",
-      "url": "https://open.spotify.com/track/1LeD6LjLKzEb4Zo7l48Pw5"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "El Porvenir",
         "url": "https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 232157,
       "name": "Famara (feat. Depedro)",
       "url": "https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Ez Nintzen Ni Izango (Esa No Ser\u00eda Yo)",
+        "url": "https://open.spotify.com/album/2eIfbE9QY4rESyCsu3JFUu"
+      },
+      "artists": [
+        {
+          "name": "BULEGO",
+          "url": "https://open.spotify.com/artist/536zVauyusZp2cjwh4QB5B"
+        },
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/1O3NvmKUV1bKyER3apqx3Q"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Ez Nintzen Ni Izango (Esa No Ser\u00eda Yo)",
+      "url": "https://open.spotify.com/track/1LeD6LjLKzEb4Zo7l48Pw5"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Si Tengo Suerte",
-        "url": "https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Si Tengo Suerte",
-      "url": "https://open.spotify.com/track/6tTdsX1G7PqeJag5rmkKRD"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "la del cretino",
         "url": "https://open.spotify.com/album/6DxzzlM2KEKrcrPtdD34LO"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 216373,
       "name": "la del cretino",
       "url": "https://open.spotify.com/track/3FqV5v3r3WZ0NFlFc1WgPX"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Si Tengo Suerte",
+        "url": "https://open.spotify.com/album/6TrI89PomEOYFifshPg7uh"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Si Tengo Suerte",
+      "url": "https://open.spotify.com/track/6tTdsX1G7PqeJag5rmkKRD"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "COMO YO",
-        "url": "https://open.spotify.com/album/1CyXLV1RNiLbbrs0lvJ5m5"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 117891,
-      "name": "COMO YO",
-      "url": "https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
         "url": "https://open.spotify.com/album/3aYPdrenPlKJpMcE6lUNFH"
       },
@@ -1559,22 +1543,6 @@
       "duration_ms": 222755,
       "name": "Har\u00eda Lo Que Fuera (Menos Lo Que T\u00fa Quieras)",
       "url": "https://open.spotify.com/track/73oQIXIzoLHl9A3ra8GIIo"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Ajedrez",
-        "url": "https://open.spotify.com/album/6ig55uXsdJVqspmTyw2ibt"
-      },
-      "artists": [
-        {
-          "name": "MERINO",
-          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
-        }
-      ],
-      "duration_ms": 202413,
-      "name": "Ajedrez",
-      "url": "https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1599,6 +1567,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "COMO YO",
+        "url": "https://open.spotify.com/album/1CyXLV1RNiLbbrs0lvJ5m5"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 117891,
+      "name": "COMO YO",
+      "url": "https://open.spotify.com/track/506T6zVDUSlZ0d4pIMhMGJ"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "relevante",
         "url": "https://open.spotify.com/album/0crdvXNF6hemAWuVLAIdeQ"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 235565,
       "name": "relevante",
       "url": "https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Ajedrez",
+        "url": "https://open.spotify.com/album/6ig55uXsdJVqspmTyw2ibt"
+      },
+      "artists": [
+        {
+          "name": "MERINO",
+          "url": "https://open.spotify.com/artist/6oUhPlreIDCXfoUSUcXOam"
+        }
+      ],
+      "duration_ms": 202413,
+      "name": "Ajedrez",
+      "url": "https://open.spotify.com/track/2nMK2nFgxfTJdjyZPw8O04"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
-        "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
-      },
-      "artists": [
-        {
-          "name": "Morreo",
-          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
-        }
-      ],
-      "duration_ms": 114799,
-      "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
-      "url": "https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Mimetizarnos",
         "url": "https://open.spotify.com/album/6nsNU5wYVt9mbm1AXQRM3L"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 172562,
       "name": "Mimetizarnos",
       "url": "https://open.spotify.com/track/6436kNCDC0NvCgvBVCNsWG"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
+        "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
+      },
+      "artists": [
+        {
+          "name": "Morreo",
+          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
+        }
+      ],
+      "duration_ms": 114799,
+      "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
+      "url": "https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N"
     },
     {
       "added_at": "2024-08-22 22:00:00",

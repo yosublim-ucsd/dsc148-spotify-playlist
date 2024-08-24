@@ -1,41 +1,13 @@
 {
-  "description": "This Is Dharius. Los temas esenciales, todos en una lista.",
-  "num_followers": 109575,
+  "description": "This is Dharius. The essential tracks, all in one playlist.",
+  "num_followers": 109597,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAADMocc7/c0LsVu6y0cTsay2",
+  "snapshot_id": "ZsZ/gAAAAADbgeAmHVNaiKXlXxgZzZOX",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Troca Mamalona (feat. Eme Malafe)",
-        "url": "https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2"
-      },
-      "artists": [
-        {
-          "name": "Cricket",
-          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 223565,
-      "name": "Troca Mamalona (feat. Eme Malafe)",
-      "url": "https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS"
-    },
     {
       "added_at": null,
       "album": {
@@ -379,6 +351,34 @@
       "duration_ms": 349297,
       "name": "Todos en la Cuadra Bien Locos (feat. C-kan, Gera MX, Santa Fe Klan & Neto Pe\u00f1a)",
       "url": "https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Troca Mamalona (feat. Eme Malafe)",
+        "url": "https://open.spotify.com/album/4XNEt495jHIsQuRsz9FxA2"
+      },
+      "artists": [
+        {
+          "name": "Cricket",
+          "url": "https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 223565,
+      "name": "Troca Mamalona (feat. Eme Malafe)",
+      "url": "https://open.spotify.com/track/5NDjqJI5Z2U5Vzbh5vKRhS"
     },
     {
       "added_at": null,
@@ -1075,42 +1075,6 @@
       "duration_ms": 196235,
       "name": "WARZONE FREESTYLE",
       "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poco a Poco (feat. Lunatic, Z-Xperimento & Beliko)",
-        "url": "https://open.spotify.com/album/315fLlUbg2VsiiJjhfsNfH"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        },
-        {
-          "name": "Mhaya",
-          "url": "https://open.spotify.com/artist/5HbNJgAcVq526lZFrM4sJi"
-        },
-        {
-          "name": "Kami Mami",
-          "url": "https://open.spotify.com/artist/52WyfsARd4mYGaH1BBICDG"
-        },
-        {
-          "name": "Lunatic",
-          "url": "https://open.spotify.com/artist/3wrdBMCPqcrkHztWO37Qb8"
-        },
-        {
-          "name": "Z-Xperimento",
-          "url": "https://open.spotify.com/artist/6L9Lp5b3SCpR3W7iJXmGdC"
-        },
-        {
-          "name": "Beliko",
-          "url": "https://open.spotify.com/artist/0bD52a8xVx5b64rVnutDlg"
-        }
-      ],
-      "duration_ms": 503613,
-      "name": "Poco a Poco (feat. Lunatic, Z-Xperimento & Beliko)",
-      "url": "https://open.spotify.com/track/4fuAlhVNKYCxDnU0MzXoFD"
     }
   ],
   "unique_name": "This Is Dharius",

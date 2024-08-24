@@ -2,9 +2,9 @@
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx?si=aTboVi\-iSCCQb\-Sq1fLRRA">Jayda G</a>
+> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=YK0nFpmcT7GzizH1e7bNwQ">Sio</a> & <a href="https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=u34RXozVQma2PT7UApMHqA">Kid Fonque</a>
 
-1,073 songs - 4 day 0 hr 33 min
+1,074 songs - 4 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -750,6 +750,7 @@
 | [Reflections \- Black Coffee Remix](https://open.spotify.com/track/490NwSQImdylBzpjMWYF5w) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Thoko \(SA\)](https://open.spotify.com/artist/7lR5jbhtBvxbwuV4OX7Hmk), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Modern Africa, Part I \- Ekhaya \(Deluxe\)](https://open.spotify.com/album/3jC7ucrvKNqs2psuvEG8R0) | 3:41 | 2022-01-20 | 2022-04-23 |
 | [Rekere 3 Step](https://open.spotify.com/track/0PlYLQnZiogGTS0fRcErxl) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR) | [VO](https://open.spotify.com/album/3smMYYd5TPdPg0gw9i6Kx4) | 6:38 | 2023-10-16 | 2024-03-21 |
 | [Rekere 3 Step](https://open.spotify.com/track/7bcotMiHylhuo0dEc34XL9) | [SGVO](https://open.spotify.com/artist/479FU7Z02AG01paQ7HVs4s), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR) | [VO](https://open.spotify.com/album/6czH3qSpT34ZlRDyhEOPJ0) | 6:38 | 2024-03-01 | 2024-04-13 |
+| [Rekindled](https://open.spotify.com/track/7al4dZR5uPs09wrYmMHdtC) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Rekindled](https://open.spotify.com/album/5TImCleOgK4gc9QcogM8Zo) | 4:05 | 2024-08-23 |  |
 | [Remarkable](https://open.spotify.com/track/5EB0g0X1zXrT0IGQ1Vslbb) | [Jason Le Roux](https://open.spotify.com/artist/3mMSJeMFQ4P5WDMlk2W7Uv), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Remarkable](https://open.spotify.com/album/7sWKkKvfeuRW34ss1cASoD) | 7:27 | 2022-07-21 | 2022-08-19 |
 | [Remember Who You Are](https://open.spotify.com/track/6sXl8AlBBwutE25FnN4qoR) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg), [DeKrypt](https://open.spotify.com/artist/5UZKcERFAI5upgIVfqeLQm) | [Remember Who You Are](https://open.spotify.com/album/0O7yo5RoihxhtN64KPLTxv) | 5:10 | 2022-03-10 | 2022-04-08 |
 | [Reminiscing](https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Reminiscing](https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3) | 4:18 | 2022-01-27 | 2022-03-11 |

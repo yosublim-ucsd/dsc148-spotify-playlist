@@ -1,12 +1,12 @@
 {
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
-  "num_followers": 2128,
+  "num_followers": 2129,
   "original_name": "This Is Terry Riley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABHSr+zcN7EXsj/SSN1/wxS",
+  "snapshot_id": "ZsZ/gAAAAADMLYjuRjZPnbKSh81WJzZL",
   "tracks": [
     {
       "added_at": null,
@@ -39,34 +39,6 @@
       "duration_ms": 132960,
       "name": "The New Albion Chorale - Reprise",
       "url": "https://open.spotify.com/track/6ixKgTMRTxZpuitgmhfvds"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kiss Yo' Ass Goodbye",
-        "url": "https://open.spotify.com/album/15ddJIGLgokdLB3WYhlV0o"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Org",
-          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
-        },
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
-        },
-        {
-          "name": "Sara Miyamoto",
-          "url": "https://open.spotify.com/artist/1Jwf2KArN4zKklP5zb74Zz"
-        }
-      ],
-      "duration_ms": 581373,
-      "name": "Kiss Yo' Ass Goodbye",
-      "url": "https://open.spotify.com/track/6vkWk9kEyhsGpLsybHLKFB"
     },
     {
       "added_at": null,
@@ -119,6 +91,34 @@
       "duration_ms": 168640,
       "name": "The Soul of Patrick Lee",
       "url": "https://open.spotify.com/track/0GaT82s6CpgvesuSpV8nZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss Yo' Ass Goodbye",
+        "url": "https://open.spotify.com/album/15ddJIGLgokdLB3WYhlV0o"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Org",
+          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
+        },
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        },
+        {
+          "name": "Sara Miyamoto",
+          "url": "https://open.spotify.com/artist/1Jwf2KArN4zKklP5zb74Zz"
+        }
+      ],
+      "duration_ms": 581373,
+      "name": "Kiss Yo' Ass Goodbye",
+      "url": "https://open.spotify.com/track/6vkWk9kEyhsGpLsybHLKFB"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Persian Surgery Dervishes",
-        "url": "https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH"
+        "name": "Sanguine Cherry",
+        "url": "https://open.spotify.com/album/7J8yyaLuRs9BsAHF4A5U9H"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 1249000,
-      "name": "Performance One - Part 1",
-      "url": "https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA"
+      "duration_ms": 50142,
+      "name": "Sanguine Cherry",
+      "url": "https://open.spotify.com/track/5DRTBcoHrx4YM5uO5M1lFi"
     },
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Persian Surgery Dervishes",
+        "url": "https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1249000,
+      "name": "Performance One - Part 1",
+      "url": "https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
         "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
       },
@@ -259,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Les Yeux Ferm\u00e9s / Lifespan",
+        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "G Song",
+      "url": "https://open.spotify.com/track/1WvX1J8vS5Jt9AXBnDtC3e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Church of Anthrax",
         "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
       },
@@ -275,22 +307,6 @@
       "duration_ms": 545480,
       "name": "Church of Anthrax",
       "url": "https://open.spotify.com/track/21UCyo72hcHcZnH0OZfhxm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Les Yeux Ferm\u00e9s / Lifespan",
-        "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "G Song",
-      "url": "https://open.spotify.com/track/1WvX1J8vS5Jt9AXBnDtC3e"
     },
     {
       "added_at": null,
@@ -351,6 +367,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Church of Anthrax",
+        "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 481320,
+      "name": "The Hall of Mirrors In the Palace of Versailles",
+      "url": "https://open.spotify.com/track/6YWHrK0BRdcoyqEsf6CLpn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
         "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
       },
@@ -371,26 +407,6 @@
       "duration_ms": 117400,
       "name": "5 Preludes, Op. 74: No. 2. Tres lent, contemplatif",
       "url": "https://open.spotify.com/track/5fvAOnB3TFJWaehSr9L7Dt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Church of Anthrax",
-        "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 481320,
-      "name": "The Hall of Mirrors In the Palace of Versailles",
-      "url": "https://open.spotify.com/track/6YWHrK0BRdcoyqEsf6CLpn"
     },
     {
       "added_at": null,
@@ -423,22 +439,6 @@
       "duration_ms": 1108053,
       "name": "Journey From The Death Of A Friend",
       "url": "https://open.spotify.com/track/1riIi7QHl0ALuLGGItsExf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sanguine Cherry",
-        "url": "https://open.spotify.com/album/7J8yyaLuRs9BsAHF4A5U9H"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 50142,
-      "name": "Sanguine Cherry",
-      "url": "https://open.spotify.com/track/5DRTBcoHrx4YM5uO5M1lFi"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Late Night Tales: Four Tet",
+        "url": "https://open.spotify.com/album/1LlsBkjNOqksaOFL053zS3"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 108826,
+      "name": "Music for the Gift, Pt. 2",
+      "url": "https://open.spotify.com/track/6ELrIEqqy8y0TVrbuwUxSx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Les Yeux Ferm\u00e9s / Lifespan",
         "url": "https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r"
       },
@@ -491,30 +507,6 @@
       "duration_ms": 400306,
       "name": "In The Summer",
       "url": "https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
-        "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
-      },
-      "artists": [
-        {
-          "name": "Alexander Scriabin",
-          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
-        },
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Cecil Lytle",
-          "url": "https://open.spotify.com/artist/2aExcBr1TqFMd7zDw9HT64"
-        }
-      ],
-      "duration_ms": 114666,
-      "name": "3 Etudes, Op. 65: 3 Etudes, Op. 65: No. 2 in C sharp major",
-      "url": "https://open.spotify.com/track/4toeeZBBVEjPrU207TL4ef"
     },
     {
       "added_at": null,
@@ -539,18 +531,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Late Night Tales: Four Tet",
-        "url": "https://open.spotify.com/album/1LlsBkjNOqksaOFL053zS3"
+        "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
+        "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
       },
       "artists": [
         {
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Cecil Lytle",
+          "url": "https://open.spotify.com/artist/2aExcBr1TqFMd7zDw9HT64"
         }
       ],
-      "duration_ms": 108826,
-      "name": "Music for the Gift, Pt. 2",
-      "url": "https://open.spotify.com/track/6ELrIEqqy8y0TVrbuwUxSx"
+      "duration_ms": 114666,
+      "name": "3 Etudes, Op. 65: 3 Etudes, Op. 65: No. 2 in C sharp major",
+      "url": "https://open.spotify.com/track/4toeeZBBVEjPrU207TL4ef"
     },
     {
       "added_at": null,
@@ -587,58 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
-        "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
-      },
-      "artists": [
-        {
-          "name": "Florian Fricke",
-          "url": "https://open.spotify.com/artist/21ciJ5ssX76NZ21k3GUxFK"
-        },
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 456066,
-      "name": "Spirit of Peace: Part II.",
-      "url": "https://open.spotify.com/track/49jlgHpsuZEeQxgo8xxYKP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Padova Concert",
-        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 520293,
-      "name": "Mongolian Winds",
-      "url": "https://open.spotify.com/track/4OoC4jry1EgM5M7jMmRto1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 273746,
-      "name": "Quijote",
-      "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Steve Reich: Six Pianos & Terry Riley: Keyboard Study #1",
         "url": "https://open.spotify.com/album/4tZdDTJcXvF7mDH9MTlC01"
       },
@@ -668,25 +616,41 @@
       },
       "artists": [
         {
-          "name": "Thomas de Hartmann",
-          "url": "https://open.spotify.com/artist/7jqkUMjqGY2FfZRUirtKdo"
-        },
-        {
-          "name": "G. I. Gurdjieff",
-          "url": "https://open.spotify.com/artist/4zFrWxrEffCBWEqNnZyB8T"
-        },
-        {
-          "name": "Herbert Henck",
-          "url": "https://open.spotify.com/artist/3oUiU2Wni97F5yPnZm1kUx"
+          "name": "Florian Fricke",
+          "url": "https://open.spotify.com/artist/21ciJ5ssX76NZ21k3GUxFK"
         },
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 104000,
-      "name": "Hymns from a Great Temple: Hymn No. 3, \"Hymn of the Cherubim\"",
-      "url": "https://open.spotify.com/track/45G3yCpdT7oaChqXr8avFp"
+      "duration_ms": 456066,
+      "name": "Spirit of Peace: Part II.",
+      "url": "https://open.spotify.com/track/49jlgHpsuZEeQxgo8xxYKP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archangels",
+        "url": "https://open.spotify.com/album/1lSLVobRXUgHQsrZD0xobC"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Julian Wachner",
+          "url": "https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH"
+        },
+        {
+          "name": "NOVUS NY Cellists",
+          "url": "https://open.spotify.com/artist/6wYwsqWrtdk2CI1jYBSp0g"
+        }
+      ],
+      "duration_ms": 373118,
+      "name": "Archangels: I. Queen of Black Waters",
+      "url": "https://open.spotify.com/track/4yGwQzeOHH8gYbViFYohXY"
     },
     {
       "added_at": null,
@@ -716,9 +680,37 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 207746,
-      "name": "Tango Ladeado",
-      "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
+      "duration_ms": 273746,
+      "name": "Quijote",
+      "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piano Music - Fricke, F. / Otte, H. / Hamel, P.M. / Gurdjieff, G.I. / Hartmann, T. De / Scriabin, A. / Riley, T. (Keys of Life)",
+        "url": "https://open.spotify.com/album/1rBSNgu72iAgM3fpaWpkEs"
+      },
+      "artists": [
+        {
+          "name": "Thomas de Hartmann",
+          "url": "https://open.spotify.com/artist/7jqkUMjqGY2FfZRUirtKdo"
+        },
+        {
+          "name": "G. I. Gurdjieff",
+          "url": "https://open.spotify.com/artist/4zFrWxrEffCBWEqNnZyB8T"
+        },
+        {
+          "name": "Herbert Henck",
+          "url": "https://open.spotify.com/artist/3oUiU2Wni97F5yPnZm1kUx"
+        },
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Hymns from a Great Temple: Hymn No. 3, \"Hymn of the Cherubim\"",
+      "url": "https://open.spotify.com/track/45G3yCpdT7oaChqXr8avFp"
     },
     {
       "added_at": null,
@@ -756,13 +748,29 @@
           "url": "https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH"
         },
         {
-          "name": "NOVUS NY Cellists",
-          "url": "https://open.spotify.com/artist/6wYwsqWrtdk2CI1jYBSp0g"
+          "name": "Choir of Trinity Wall Street",
+          "url": "https://open.spotify.com/artist/1KBoKfkaxjSKZsmD9XCg3B"
         }
       ],
-      "duration_ms": 373118,
-      "name": "Archangels: I. Queen of Black Waters",
-      "url": "https://open.spotify.com/track/4yGwQzeOHH8gYbViFYohXY"
+      "duration_ms": 544411,
+      "name": "Madrigal",
+      "url": "https://open.spotify.com/track/1E9IYK88nHDOAo4HlyBlgl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "Tango Ladeado",
+      "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
     },
     {
       "added_at": null,
@@ -779,6 +787,70 @@
       "duration_ms": 604333,
       "name": "The Harp of New Albion: VI. Return of the Ancestors",
       "url": "https://open.spotify.com/track/1BfjSZH8MBJKHa34FfGoKL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autodreamographical Tales",
+        "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Bang On A Can All-Stars",
+          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Zucchini",
+      "url": "https://open.spotify.com/track/2VK6z7oz1vunj6hVPtjf8q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Padova Concert",
+        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 520293,
+      "name": "Mongolian Winds",
+      "url": "https://open.spotify.com/track/4OoC4jry1EgM5M7jMmRto1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archangels",
+        "url": "https://open.spotify.com/album/1lSLVobRXUgHQsrZD0xobC"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Julian Wachner",
+          "url": "https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH"
+        },
+        {
+          "name": "NOVUS NY Cellists",
+          "url": "https://open.spotify.com/artist/6wYwsqWrtdk2CI1jYBSp0g"
+        },
+        {
+          "name": "Choir of Trinity Wall Street",
+          "url": "https://open.spotify.com/artist/1KBoKfkaxjSKZsmD9XCg3B"
+        }
+      ],
+      "duration_ms": 589255,
+      "name": "Remember This, O Mind: III. Even Your Beloved Wife",
+      "url": "https://open.spotify.com/track/3CGMRbacgbkn25eaMak2oP"
     },
     {
       "added_at": null,
@@ -812,39 +884,15 @@
           "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
         }
       ],
-      "duration_ms": 180869,
-      "name": "Zucchini",
-      "url": "https://open.spotify.com/track/2VK6z7oz1vunj6hVPtjf8q"
+      "duration_ms": 139333,
+      "name": "The Miracle",
+      "url": "https://open.spotify.com/track/2Z3e1jZPF25lEIYIEdL1Yp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Archangels",
-        "url": "https://open.spotify.com/album/1lSLVobRXUgHQsrZD0xobC"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Julian Wachner",
-          "url": "https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH"
-        },
-        {
-          "name": "Choir of Trinity Wall Street",
-          "url": "https://open.spotify.com/artist/1KBoKfkaxjSKZsmD9XCg3B"
-        }
-      ],
-      "duration_ms": 544411,
-      "name": "Madrigal",
-      "url": "https://open.spotify.com/track/1E9IYK88nHDOAo4HlyBlgl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For the Birds: The Birdsong Project, Vol. I",
-        "url": "https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv"
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
       },
       "artists": [
         {
@@ -852,45 +900,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 289346,
-      "name": "St. Francis and the Birds",
-      "url": "https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 592026,
-      "name": "Zamorra",
-      "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Autodreamographical Tales",
-        "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "Bang On A Can All-Stars",
-          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
-        }
-      ],
-      "duration_ms": 255760,
-      "name": "Black Woman",
-      "url": "https://open.spotify.com/track/41BeACjgrGUeIPR0jLLqD9"
+      "duration_ms": 1293666,
+      "name": "The Harp of New Albion: I. The New Abion Chorale / The Discovery",
+      "url": "https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p"
     },
     {
       "added_at": null,
@@ -911,8 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riley: The Harp of New Albion",
-        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+        "name": "For the Birds: The Birdsong Project, Vol. I",
+        "url": "https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv"
       },
       "artists": [
         {
@@ -920,9 +932,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 1293666,
-      "name": "The Harp of New Albion: I. The New Abion Chorale / The Discovery",
-      "url": "https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p"
+      "duration_ms": 289346,
+      "name": "St. Francis and the Birds",
+      "url": "https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY"
     }
   ],
   "unique_name": "This Is Terry Riley",

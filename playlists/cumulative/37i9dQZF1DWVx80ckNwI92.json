@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-05",
-  "description": "The future of African Indie and Alternative. Cover: Hugo Pooe",
+  "description": "The future of African Indie and Alternative. Cover: <a href=\"https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW?si=zzLUoLWXTQ-1K4bkD6aCVQ\">Leomile</a>",
   "name": "ALTER-native",
   "tracks": [
     {
@@ -1766,6 +1766,24 @@
       "duration_ms": 279013,
       "name": "Nako",
       "url": "https://open.spotify.com/track/300ZG5cAu0vRAb0J20n3tD"
+    },
+    {
+      "album": {
+        "name": "Nevermind.",
+        "url": "https://open.spotify.com/album/5vTrYfOMYC8Hh5Vpc9sjnY"
+      },
+      "artists": [
+        {
+          "name": "Leomile",
+          "url": "https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151408,
+      "name": "Nevermind.",
+      "url": "https://open.spotify.com/track/31lU9LGAQ9UhrDBTwdvNm5"
     },
     {
       "album": {

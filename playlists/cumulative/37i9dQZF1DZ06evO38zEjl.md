@@ -2,7 +2,7 @@
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This is Jon Hassell\. The essential tracks, all in one playlist.
+> This is Jon Hassell\. Todos os maiores hits em uma só playlist.
 
 133 songs - 13 hr 19 min
 
@@ -42,7 +42,7 @@
 | [Cuba Libre](https://open.spotify.com/track/1D2EVnedAlPNh6Ax17Exsi) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 3:28 | 2023-03-04 | 2024-04-21 |
 | [Darbari Bridge](https://open.spotify.com/track/0EiW7uVV0szH089yAUf5xX) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 11:42 | 2023-03-27 | 2023-08-11 |
 | [Darbari Bridge](https://open.spotify.com/track/3IG17OU64mtHaPXz6ziFqN) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 11:42 | 2022-05-29 | 2023-02-01 |
-| [Darbari Extension I](https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 13:52 | 2022-05-29 |  |
+| [Darbari Extension I](https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 13:52 | 2022-05-29 | 2024-08-24 |
 | [Darbari Extension II](https://open.spotify.com/track/7yeOaqzx9sciyl2vOyUzrD) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 7:23 | 2022-09-11 | 2022-09-15 |
 | [Delicado](https://open.spotify.com/track/3JJAL8JjdRS3JiTSh9h50o) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 4:02 | 2023-02-12 |  |
 | [Delicado](https://open.spotify.com/track/6OqlazjaFOPqlZI6gWvuvJ) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 4:02 | 2022-05-30 | 2023-02-13 |
@@ -77,7 +77,7 @@
 | [Lunar](https://open.spotify.com/track/2s9A9QkP6poey6gfYdTeJF) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 6:32 | 2022-05-30 | 2023-02-12 |
 | [Lunar](https://open.spotify.com/track/3MOYk5IIuNMbqa7Npk1OKE) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 6:32 | 2023-02-11 |  |
 | [Maarifa Street](https://open.spotify.com/track/1eL6wpxyDb1Wt7kgV8yNoE) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:09 | 2022-05-29 | 2023-01-17 |
-| [Maarifa Street](https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 7:09 | 2023-05-22 | 2024-08-19 |
+| [Maarifa Street](https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 7:09 | 2023-05-22 |  |
 | [Manga Scene](https://open.spotify.com/track/2RHtLQ1gxmqL6kCBvY4mlH) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 5:44 | 2022-05-29 | 2023-02-14 |
 | [Manga Scene](https://open.spotify.com/track/4H1mGSeiayRkwB08vaJAfI) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 5:44 | 2023-02-13 |  |
 | [Miracle Steps](https://open.spotify.com/track/2q6MuQKOrsSwGwGViknzLy) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 4:21 | 2022-05-29 |  |

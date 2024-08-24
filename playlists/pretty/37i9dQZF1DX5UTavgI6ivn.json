@@ -1,12 +1,12 @@
 {
   "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: J Balvin",
-  "num_followers": 735624,
+  "num_followers": 735703,
   "original_name": "Made in Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWqSAAAAAATMQ6FkSDOoHJgMcR1j1zU",
+  "snapshot_id": "ZsglJAAAAABR5NKUHILi8K2HV5nmkfmh",
   "tracks": [
     {
       "added_at": "2024-08-09 05:34:00",
@@ -59,6 +59,26 @@
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2024-08-23 05:59:00",
+      "album": {
+        "name": "SE ME OLVIDA",
+        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "SE ME OLVIDA",
+      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
     },
     {
       "added_at": "2024-08-09 05:34:00",
@@ -263,22 +283,6 @@
       "duration_ms": 177760,
       "name": "Superpoder",
       "url": "https://open.spotify.com/track/4RCcQeGtfdPQGxwvSdE1nV"
-    },
-    {
-      "added_at": "2024-08-09 05:34:00",
-      "album": {
-        "name": "Contrato",
-        "url": "https://open.spotify.com/album/1P8gtGncSlrreFD51eOUno"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 204391,
-      "name": "Contrato",
-      "url": "https://open.spotify.com/track/4LccwPrd0k6ROyl5oKyjHG"
     },
     {
       "added_at": "2024-08-09 05:34:00",

@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 200246,
       "name": "Everything Is Everything",
       "url": "https://open.spotify.com/track/7ijDV8QPQEIDPmjxZ3xtDV"
@@ -5404,6 +5404,28 @@
       "duration_ms": 223533,
       "name": "Mr. Sun (miss da sun)",
       "url": "https://open.spotify.com/track/2dhPGfqPl8LEXqRiU8tfPl"
+    },
+    {
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        },
+        {
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179809,
+      "name": "Much",
+      "url": "https://open.spotify.com/track/3wwK9BmSigIs5UMCVHI0HU"
     },
     {
       "album": {

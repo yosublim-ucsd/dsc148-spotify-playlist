@@ -1771,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Murder On The Dancefloor - Live From New York",
+        "url": "https://open.spotify.com/album/50Iu8cK1aemeaAoCmVqIe3"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292520,
+      "name": "Murder On The Dancefloor - Live From New York",
+      "url": "https://open.spotify.com/track/5s8U1xMYlnqP9iDkcUGHAS"
+    },
+    {
+      "album": {
         "name": "Can We Please Have Fun",
         "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
       },
@@ -2715,7 +2733,7 @@
     },
     {
       "album": {
-        "name": "Synchronicity (Remastered 2003)",
+        "name": "Synchronicity - Remastered 2003",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
       "artists": [

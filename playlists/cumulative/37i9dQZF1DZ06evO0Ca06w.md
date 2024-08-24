@@ -4,7 +4,7 @@
 
 > This is Miriam Makeba\. The essential tracks, all in one playlist.
 
-179 songs - 9 hr 21 min
+180 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Saduva \- Mono Version](https://open.spotify.com/track/5bRK2of0jRe5vFWHE33Tf9) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:41 | 2023-11-10 | 2023-12-22 |
 | [Samba](https://open.spotify.com/track/7wRrVZt1Xq7iCbq6AYrthq) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [A Promise](https://open.spotify.com/album/2MN4gZa70AyA9QQu9CuSnT) | 4:52 | 2021-12-30 | 2022-06-26 |
 | [Show Me the Way, My Brother \- Iph'indlela](https://open.spotify.com/track/379vHYzOPbCYzVAC45FC1i) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [An Evening with Belafonte/Makeba](https://open.spotify.com/album/2G80lHUAV0NafyurfZwP2G) | 3:11 | 2021-12-28 | 2023-01-14 |
+| [Sindiza Ngecadillacs](https://open.spotify.com/track/0cEz3caou9B0Ayqh1oMaJb) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [The Skylarks](https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV) | [The Very Best Of \(1956 \- 1959\)](https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP) | 2:23 | 2024-08-24 |  |
 | [Sing Me a Song](https://open.spotify.com/track/3WtwaHV7KrGWgPL3jQY7tZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sing Me a Song](https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B) | 3:54 | 2021-12-29 |  |
 | [Siyavuya](https://open.spotify.com/track/2QP3MmoV7cc7h9rZdublEP) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [The Skylarks](https://open.spotify.com/artist/66PMwwbTtl5mVtfSuT4roV) | [The Very Best Of \(1956 \- 1959\)](https://open.spotify.com/album/1V3SRMqXbc88d2SNFFe6TP) | 2:38 | 2022-12-19 | 2023-09-22 |
 | [Soweto Blues](https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:16 | 2021-12-28 |  |
@@ -155,7 +156,7 @@
 | [The Click Song a.k.a\. Qongqothwane](https://open.spotify.com/track/1MC8rGCbqEIeeCRSwjz3Gj) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/5HPe4HG9qPl6ldZo8eEyoy) | 4:54 | 2021-12-28 | 2022-10-09 |
 | [The Click Song a.k.a\. Qongqothwane](https://open.spotify.com/track/3hEjs6cSbz0lULe5HCZuhL) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn) | 4:54 | 2022-10-09 | 2024-03-01 |
 | [The Lion Cries \- Mbube](https://open.spotify.com/track/6YQouQ4X59d2yc0ij92JY6) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Country Girl](https://open.spotify.com/album/5eNlR91mGGOR0DjLXC8KEF) | 5:00 | 2022-01-25 | 2024-06-25 |
-| [The Lion Sleeps Tonight \(Mbube\)](https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:33 | 2023-03-12 |  |
+| [The Lion Sleeps Tonight \(Mbube\)](https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:33 | 2023-03-12 | 2024-08-24 |
 | [The Naughty Little Flea](https://open.spotify.com/track/2tpTYvXlFQsGGgU3Ka1Jhb) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 3:46 | 2022-03-20 | 2024-03-21 |
 | [The Naughty Little Flea](https://open.spotify.com/track/3uPYm2dlE3PIvEmHjZkdrP) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/4E067sQw5yPAQ79HORHdAT) | 3:48 | 2022-05-20 | 2023-10-05 |
 | [The Naughty Little Flea](https://open.spotify.com/track/0xOsFeKE4n4qRk5GorMshu) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Goodbye to Africa](https://open.spotify.com/album/307axQScWAWAOCzK1rc7fm) | 3:49 | 2022-09-25 | 2022-12-28 |

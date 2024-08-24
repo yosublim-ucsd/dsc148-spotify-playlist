@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. The Warning en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Peces Raros en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,110 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,132 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Verano Todo el Año](https://open.spotify.com/track/4VIV71YT5WCfvcTFpY6KE7) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai), [Anabella Cartolano](https://open.spotify.com/artist/08DbRq8mfXjAQPIyhR070C) | [Verano Todo El Año](https://open.spotify.com/album/3PSI19qqk8YxjP0BBdR68l) | 2:44 |
-| 2 | [Día Uno](https://open.spotify.com/track/5r0DmaRCDDBlUHB3ekQOH6) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [Día Uno](https://open.spotify.com/album/6ryEHlaniUoPaUl8JgTYNt) | 2:49 |
-| 3 | [Extrañando Casa \- Soundtrack: Un Tributo a División Minúscula](https://open.spotify.com/track/2TemL4w69BKllitEqHW3Xl) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Extrañando Casa \(Soundtrack: Un Tributo a División Minúscula\)](https://open.spotify.com/album/2GH37cvXXWdTQzw9RgYNPh) | 3:18 |
-| 4 | [Lagrimas de Sal](https://open.spotify.com/track/3Iau7Oh49UqO5AE041BuME) | [Joven Tom](https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP) | [Lagrimas de Sal](https://open.spotify.com/album/3nPRQOSD4ix6l3zMSExdEr) | 3:17 |
+| 1 | [Nada para siempre](https://open.spotify.com/track/4DxAIWAKUuiGe9yEBx6TeB) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI) | 3:49 |
+| 2 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 |
+| 3 | [Bomba Casera](https://open.spotify.com/track/5OzCaZtDyuYfHvEqybo9fL) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Bomba Casera](https://open.spotify.com/album/7EmUyHOzD1wAvPkn6wDQ21) | 2:50 |
+| 4 | [Aleluya](https://open.spotify.com/track/6V69uIkyQJXptQ2MKmBajz) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Aleluya](https://open.spotify.com/album/1YUyVKfP4DG2mj4KaShZCB) | 3:18 |
 | 5 | [Me Gustan Tus Pies](https://open.spotify.com/track/5fcMptVw16W2ITNZG8203u) | [Joven Tom](https://open.spotify.com/artist/1JSr283fyctRV2R4OER9gP) | [Putas Canciones](https://open.spotify.com/album/6HGjfn7XpPRmRVAzlktFmF) | 2:34 |
-| 6 | [Aleluya](https://open.spotify.com/track/6V69uIkyQJXptQ2MKmBajz) | [BETA](https://open.spotify.com/artist/7pS2gi3aVVIZ3Bcm1Nvqdl) | [Aleluya](https://open.spotify.com/album/1YUyVKfP4DG2mj4KaShZCB) | 3:18 |
-| 7 | [Estoy bien](https://open.spotify.com/track/290htD7mglMzB7IIWPUpLn) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estoy bien](https://open.spotify.com/album/4tv1eEZOeen4PSciKyUEx5) | 2:43 |
-| 8 | [Somethin' Sweet](https://open.spotify.com/track/3IgTKP8ZsJeu1oHj7UQlKJ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Somethin' Sweet](https://open.spotify.com/album/5nTvNsfsG1iEpcU0AQZ646) | 3:52 |
-| 9 | [fui tu esclavo](https://open.spotify.com/track/33OPPlGjxY52iFTNxqaJl9) | [Carlos Cruzalegui](https://open.spotify.com/artist/0ZQlapKWlxWVqzNldGL4MU), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Bonish](https://open.spotify.com/artist/1Zf3NKtybAUdD2Ap3GEJtu) | [fui tu esclavo](https://open.spotify.com/album/1GFjjnYh2IsyRoBwGZbQ4a) | 3:03 |
-| 10 | [Ojos De Terror](https://open.spotify.com/track/0jqzJuVWWRxnX2bWAd7roV) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Ojos De Terror](https://open.spotify.com/album/1RPUCUTJf9eLGNIjeF3xyL) | 2:36 |
-| 11 | [Six Feet Deep](https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:59 |
-| 12 | [Ké MaL](https://open.spotify.com/track/1WJMc1hCOnWaK9Eczxzu8g) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Ké MaL](https://open.spotify.com/album/2GHyrL2mwHWmw1vmQfCrNv) | 3:08 |
-| 13 | [Aquello que llaman amor](https://open.spotify.com/track/2mRhNjLh1qflTjUPsn92of) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Aquello que llaman amor](https://open.spotify.com/album/1bULNS6QwGROWbeoxgUU2X) | 3:15 |
-| 14 | [TH1RT33N GH0STS](https://open.spotify.com/track/091B2uR1L5QcGXTPD3Hfka) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [TH1RT33N GH0STS](https://open.spotify.com/album/27Z2wyhQRd9gkWrhqcuiIs) | 2:50 |
-| 15 | [Nada para siempre](https://open.spotify.com/track/4DxAIWAKUuiGe9yEBx6TeB) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Artificial](https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI) | 3:49 |
+| 6 | [Día Uno](https://open.spotify.com/track/5r0DmaRCDDBlUHB3ekQOH6) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [Día Uno](https://open.spotify.com/album/6ryEHlaniUoPaUl8JgTYNt) | 2:49 |
+| 7 | [Extrañando Casa \- Soundtrack: Un Tributo a División Minúscula](https://open.spotify.com/track/2TemL4w69BKllitEqHW3Xl) | [Thermo](https://open.spotify.com/artist/3HA7l0ZFLSMYWHCVuUZjT7) | [Extrañando Casa \(Soundtrack: Un Tributo a División Minúscula\)](https://open.spotify.com/album/2GH37cvXXWdTQzw9RgYNPh) | 3:18 |
+| 8 | [Me has invitado a bailar](https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Me has invitado a bailar](https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp) | 3:12 |
+| 9 | [Estoy bien](https://open.spotify.com/track/290htD7mglMzB7IIWPUpLn) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Estoy bien](https://open.spotify.com/album/4tv1eEZOeen4PSciKyUEx5) | 2:43 |
+| 10 | [Somethin' Sweet](https://open.spotify.com/track/3IgTKP8ZsJeu1oHj7UQlKJ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Somethin' Sweet](https://open.spotify.com/album/5nTvNsfsG1iEpcU0AQZ646) | 3:52 |
+| 11 | [fui tu esclavo](https://open.spotify.com/track/33OPPlGjxY52iFTNxqaJl9) | [Carlos Cruzalegui](https://open.spotify.com/artist/0ZQlapKWlxWVqzNldGL4MU), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Bonish](https://open.spotify.com/artist/1Zf3NKtybAUdD2Ap3GEJtu) | [fui tu esclavo](https://open.spotify.com/album/1GFjjnYh2IsyRoBwGZbQ4a) | 3:03 |
+| 12 | [Ojos De Terror](https://open.spotify.com/track/0jqzJuVWWRxnX2bWAd7roV) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Ojos De Terror](https://open.spotify.com/album/1RPUCUTJf9eLGNIjeF3xyL) | 2:36 |
+| 13 | [Six Feet Deep](https://open.spotify.com/track/0PYv39k6J2A85gCidgpn5u) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 2:59 |
+| 14 | [Aquello que llaman amor](https://open.spotify.com/track/2mRhNjLh1qflTjUPsn92of) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Aquello que llaman amor](https://open.spotify.com/album/1bULNS6QwGROWbeoxgUU2X) | 3:15 |
+| 15 | [TH1RT33N GH0STS](https://open.spotify.com/track/091B2uR1L5QcGXTPD3Hfka) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [TH1RT33N GH0STS](https://open.spotify.com/album/27Z2wyhQRd9gkWrhqcuiIs) | 2:50 |
 | 16 | [NO KIERO KERER](https://open.spotify.com/track/4lcdOZXYaFoNKgD0gNJxza) | [Mila La Morena](https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P) | [NO KIERO KERER](https://open.spotify.com/album/2EFOz9guTJP37KRNmqlMLr) | 2:43 |
 | 17 | [Fuego En El Corazón](https://open.spotify.com/track/7jbAZo4OCnJoTXgc8B246F) | [Disidente](https://open.spotify.com/artist/1grNAkAHEaQSOCifKwW53L) | [Fuego En El Corazón](https://open.spotify.com/album/4BlMgBflIhGpNWymRuvJSE) | 3:42 |
 | 18 | [Fé Clandestina](https://open.spotify.com/track/20KpeCVl1q92r45UL81wf8) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [Fé Clandestina](https://open.spotify.com/album/7t5NsGyB462JjCns4PqJm2) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [SKR](https://open.spotify.com/track/02jY4Umvqc6JdcjdsYxEEQ) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 5:11 |
 | 100 | [Vida En El Espejo](https://open.spotify.com/track/2yThUakfNYwaToGaKJxKEK) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Imperfecto Extraño](https://open.spotify.com/album/1xWHQFcS9qDf0cXX6NXcPK) | 4:25 |
 
-Snapshot ID: `ZrWwYAAAAAAAuuiaStc57Aq4Q+zLcI1D`
+Snapshot ID: `ZsglYAAAAADUv5hmDZcg+Eh01Jwe4tfx`

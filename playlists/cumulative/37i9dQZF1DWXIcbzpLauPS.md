@@ -4,7 +4,7 @@
 
 > metalcore at its best\. Cover: Fit For A King
 
-978 songs - 2 day 12 hr 43 min
+979 songs - 2 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Bleeding Sun](https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Bleeding Sun](https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO) | 3:39 | 2022-07-13 | 2022-07-17 |
 | [Blind Kings](https://open.spotify.com/track/6UyUnoGID5hjDrGZ0FpfzK) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Blind Kings](https://open.spotify.com/album/0YNSxqbVrKfGsUmdLGSRGG) | 4:02 | 2022-07-13 | 2022-07-21 |
 | [Blinding Faith](https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Blinding Faith](https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp) | 2:51 | 2024-03-08 |  |
+| [Blood $oda](https://open.spotify.com/track/3aY20b8Gp7v95zWYeyR9OK) | [SWARM6IX](https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp) | [Blood $oda](https://open.spotify.com/album/0qgmBQ4wi11o8SMR1onUNH) | 3:04 | 2024-08-12 |  |
 | [Blood & Honey](https://open.spotify.com/track/2stPzQY6XyjRTtsevzgjdA) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Krewe D'Amour, Vol\. 2](https://open.spotify.com/album/5vvNSlSJC11OnhvE8Esqnx) | 3:17 | 2022-02-11 | 2022-05-06 |
 | [Blood Eagle](https://open.spotify.com/track/7k4bQ69rhUem3UcfJN8brF) | [Deep as Ocean](https://open.spotify.com/artist/344AraN5Ez4IUmGHYPoo6N) | [Blood Eagle](https://open.spotify.com/album/5bGQuHM7O09qh8Iqftm9lD) | 4:37 | 2021-12-17 | 2022-01-22 |
 | [Blood For Blood](https://open.spotify.com/track/6K7CKGJS74vxcW8QmyWP2p) | [Void Of Vision](https://open.spotify.com/artist/7bpJe59fkklnlfHPxCMvF1) | [Blood For Blood](https://open.spotify.com/album/0ZLXQ4hfuQxAjxICWDXalb) | 2:45 | 2024-08-12 |  |
@@ -725,7 +726,7 @@
 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 | 2024-03-08 |  |
 | [Rot in Flesh](https://open.spotify.com/track/5x7gHN66A2h1m52fTsWYjG) | [Bleed The Sky](https://open.spotify.com/artist/5Uja5NwAaord75KaD0jLXv) | [Rot in Flesh](https://open.spotify.com/album/6SGxC2zPYKdyBIYsIfQoK7) | 3:57 | 2022-07-13 | 2022-07-18 |
 | [Rot With Me](https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1) | [For the Likes of You](https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC) | [Rot With Me](https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz) | 4:46 | 2022-07-13 | 2022-07-21 |
-| [Roulette](https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DEATH 2](https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ) | 3:32 | 2024-02-09 |  |
+| [Roulette](https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [DEATH 2](https://open.spotify.com/album/0SZhoXnyrw33OzOen90BgZ) | 3:32 | 2024-02-09 | 2024-08-24 |
 | [Rule Of Seven](https://open.spotify.com/track/1bLcSZc353HB2EArKlTZF7) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Rule Of Seven](https://open.spotify.com/album/5fvpPMUvCSvl8yH180cjhU) | 3:36 | 2022-07-13 | 2022-07-15 |
 | [Rōnin](https://open.spotify.com/track/11ArWSwCKdG9P0ZAzDlS2G) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU), [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Rōnin](https://open.spotify.com/album/6QxmiqZTHh35bUPiYtgXgc) | 9:13 | 2022-03-25 | 2022-05-21 |
 | [SACRiFiCE](https://open.spotify.com/track/4LGOYMMj4ksSVaR28vX7zq) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA), [Billy Martin](https://open.spotify.com/artist/50cv1LUzko0wYHYGFE3PFE) | [bioMACHiNA](https://open.spotify.com/album/4azxoq5UXg4huDqHWo9SL1) | 3:30 | 2022-04-22 | 2022-07-08 |

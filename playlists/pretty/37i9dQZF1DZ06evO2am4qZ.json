@@ -1,12 +1,12 @@
 {
-  "description": "This Is Baby Tate. Los temas esenciales, todos en una lista.",
-  "num_followers": 4494,
+  "description": "This is Baby Tate. The essential tracks, all in one playlist.",
+  "num_followers": 4495,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAAJjHO1uHycGcqJ/l/J9+3M",
+  "snapshot_id": "ZsZ/gAAAAAAWStPJTeQu6I1cPKb0cAs0",
   "tracks": [
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys Are From Mars (feat. Yung Baby Tate)",
-        "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Boys Are From Mars (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After The Rain: Deluxe",
         "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 192697,
       "name": "Like We",
       "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys Are From Mars (feat. Yung Baby Tate)",
+        "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Boys Are From Mars (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After The Rain: Deluxe",
+        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Focused",
+      "url": "https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -683,38 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Rain: Deluxe",
-        "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Focused",
-      "url": "https://open.spotify.com/track/0R86U2o1voaXPzvL5QrNWE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 162492,
-      "name": "Wig",
-      "url": "https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bow (feat. Baby Tate)",
         "url": "https://open.spotify.com/album/2bf8hfYFu0gMwdT0LVfJoL"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 94524,
       "name": "Bow (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/5TRZOLd92OksSG1I04LziQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 162492,
+      "name": "Wig",
+      "url": "https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRLS",
-        "url": "https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 270186,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "STUPID (feat. Ashnikko & Yung Baby Tate) [Sped Up Nightcore]",
         "url": "https://open.spotify.com/album/7I2HnKQFARWPLxSsUjIDIL"
       },
@@ -895,6 +879,38 @@
       "duration_ms": 144233,
       "name": "STUPID (feat. Ashnikko & Yung Baby Tate) - Sped Up Nightcore",
       "url": "https://open.spotify.com/track/6cxzd3vNyGtNOTnv34OCwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 270186,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby Tate Presents - Sexploration: The Musical",
+        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 162199,
+      "name": "Luv Everybody",
+      "url": "https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM"
     },
     {
       "added_at": null,
@@ -959,22 +975,6 @@
       "duration_ms": 168094,
       "name": "Hey Ladies",
       "url": "https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby Tate Presents - Sexploration: The Musical",
-        "url": "https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 162199,
-      "name": "Luv Everybody",
-      "url": "https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM"
     },
     {
       "added_at": null,

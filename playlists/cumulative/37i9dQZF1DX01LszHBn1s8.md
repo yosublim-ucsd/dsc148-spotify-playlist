@@ -2,9 +2,9 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> 🥒🥒 sometimes you need to eat an entire cucumber 🥒🥒🥒
+> i just wanna be part of your symphony
 
-1,507 songs - 3 day 7 hr 20 min
+1,508 songs - 3 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1291,6 +1291,7 @@
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-05-19 |  |
 | [Swim](https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Chase Atlantic](https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd) | 3:48 | 2022-05-19 |  |
 | [Swim Good](https://open.spotify.com/track/3CgZCQyuyxHRMWB9BTwmni) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Swim Good](https://open.spotify.com/album/3TLaFWQDhV1g39Qwd5sPAm) | 4:17 | 2024-04-04 | 2024-04-12 |
+| [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Symphony \(feat\. Zara Larsson\)](https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD) | 3:32 | 2024-08-23 |  |
 | [Syrener](https://open.spotify.com/track/7iKUMPi3CcDLLNF4pU1vND) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Syrener](https://open.spotify.com/album/35KHrZ7KsOC7ajWq6SNxgu) | 3:02 | 2022-05-19 |  |
 | [Sämst i Norden \(Utan Sverige vore Norge ingenting\)](https://open.spotify.com/track/0GouWpGnbwyInBEPYrTvOp) | [SamTheMan](https://open.spotify.com/artist/33ynUCCkq4sqASHJiYveJX) | [Sämst i Norden \(Utan Sverige vore Norge ingenting\)](https://open.spotify.com/album/64mEH4zoGUodlMoCz8nbc6) | 2:13 | 2022-08-01 | 2023-01-06 |
 | [Så længe jeg er sexy.](https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Så længe jeg er sexy.](https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9) | 2:30 | 2024-08-20 |  |

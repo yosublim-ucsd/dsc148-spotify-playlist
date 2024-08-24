@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,830 likes - 80 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,818 likes - 80 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 71 | [Tabaco y ron](https://open.spotify.com/track/4Wo82fEZenBEqL4dpn6Bqt) | [Rodolfo y su Típica RA7](https://open.spotify.com/artist/2cHxxmqUJnm5Rc4FqqU1Hy) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:05 |
 | 72 | [Víspera de Año Nuevo](https://open.spotify.com/track/0hRfaXRQhSAqMUCon1QT3Y) | [Guillermo Buitrago](https://open.spotify.com/artist/4gL0wUwZLxSxMi1rL9q84p), [Los Trovadores de Baru](https://open.spotify.com/artist/2D3uhAFcCc823HKq05RJqP) | [16 Éxitos de Navidad y Año Nuevo](https://open.spotify.com/album/4puHLAC2IeDe0ZAnjyNPMF) | 2:30 |
 | 73 | [La Casa De Fernando](https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 76 1/2](https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ) | 3:14 |
-| 74 | [Esta Navidad No Es Mia](https://open.spotify.com/track/0ZnZT0eGVzK6OiTjtAtRBw) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0) | 3:24 |
-| 75 | [Cinco Pa' las 12](https://open.spotify.com/track/5fbPZGNwJ622HDVfJDjn6a) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Top Latino Navidad \- Remix \- Audio](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 2:59 |
+| 74 | [Cinco Pa' las 12](https://open.spotify.com/track/5fbPZGNwJ622HDVfJDjn6a) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Top Latino Navidad \- Remix \- Audio](https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE) | 2:59 |
+| 75 | [Esta Navidad No Es Mia](https://open.spotify.com/track/0ZnZT0eGVzK6OiTjtAtRBw) | [Darío Gómez](https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM) | [El Rey del Despecho \- Internacional](https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0) | 3:24 |
 | 76 | [La Última Copa](https://open.spotify.com/track/4KvDehYUsEFeQLM4CmBTNV) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Ídolo del Pueblo](https://open.spotify.com/album/6ig8xziD88iwcXRZjrWJtE) | 2:34 |
 | 77 | [Sin Rencores](https://open.spotify.com/track/1noWzwzuuWRClbaOX8Rbx7) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 3:31 |
 | 78 | [El negrito del Batey \- Remastered](https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Sonora Matancera y sus voces de oro, Vol\. 1 \- Remastered](https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM) | 2:33 |

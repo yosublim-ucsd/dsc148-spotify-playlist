@@ -1,12 +1,12 @@
 {
-  "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 129246,
+  "description": "This Is Wizkid. Los temas esenciales, todos en una lista.",
+  "num_followers": 129308,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAA7tFZ5JShTPdoe4m/N2SM8",
+  "snapshot_id": "ZsZ/gAAAAABdXj9kErQtBDl4hq+PLVoY",
   "tracks": [
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Energy (Stay Far Away)",
         "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 199521,
       "name": "Energy (Stay Far Away)",
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ayo",
-        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 216242,
-      "name": "Ojuelegba",
-      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
     },
     {
       "added_at": null,
@@ -955,6 +955,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "SoundMan Vol. 1",
+        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
+      },
+      "artists": [
+        {
+          "name": "StarBoy",
+          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/048xdKwKT0Kx6SyYKIzXbr"
+        }
+      ],
+      "duration_ms": 185123,
+      "name": "Ease Your Mind (feat. Wizkid & Kel-P)",
+      "url": "https://open.spotify.com/track/7LbgrMEa9n3FwEc2sEOGnn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
       },
@@ -1003,46 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoundMan Vol. 1",
-        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
-      },
-      "artists": [
-        {
-          "name": "StarBoy",
-          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Kel-P",
-          "url": "https://open.spotify.com/artist/048xdKwKT0Kx6SyYKIzXbr"
-        }
-      ],
-      "duration_ms": 185123,
-      "name": "Ease Your Mind (feat. Wizkid & Kel-P)",
-      "url": "https://open.spotify.com/track/7LbgrMEa9n3FwEc2sEOGnn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 252244,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Refuse to Be Broke: Da Revolution 2",
         "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 261545,
       "name": "Slow Down (feat. Wiz Kid)",
       "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 252244,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS"
     }
   ],
   "unique_name": "This Is Wizkid",

@@ -2,9 +2,9 @@
 
 ### [ฮิตติดกระแส](https://open.spotify.com/playlist/37i9dQZF1DWW1S2VXZ4bIj)
 
-> เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: Whal & Dolph
+> เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: Zom Marie
 
-145 songs - 9 hr 9 min
+148 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Aftercry](https://open.spotify.com/track/0lWlgVOKrCpa1AQfvlIZqM) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Aftercry](https://open.spotify.com/album/0EzeQWsY83xRG35HMF1wsG) | 3:51 | 2024-08-02 |  |
 | [All The Way Home](https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [All The Way Home](https://open.spotify.com/album/5Trqw7SQqbXfQnXHLzLnEN) | 2:47 | 2024-07-12 | 2024-07-27 |
 | [April](https://open.spotify.com/track/1HcNxQxyvT4Jg2c1A9FxjS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [April \- Single](https://open.spotify.com/album/2zittikcejcyLsFIk5mSik) | 4:58 | 2024-06-27 |  |
-| [Barbie](https://open.spotify.com/track/7vMTgmx2xtN0yUWf47fjEI) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Barbie](https://open.spotify.com/album/1LLHRg01Vb5my1oq6FCQVc) | 2:03 | 2024-08-02 |  |
+| [Barbie](https://open.spotify.com/track/7vMTgmx2xtN0yUWf47fjEI) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Barbie](https://open.spotify.com/album/1LLHRg01Vb5my1oq6FCQVc) | 2:03 | 2024-08-02 | 2024-08-24 |
+| [beginner](https://open.spotify.com/track/4bcfiaTv3id9jpqhyDv2uV) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [Love & Limerence](https://open.spotify.com/album/3QI3Yxmiebv6OWPw2wU2Nh) | 3:52 | 2024-08-23 |  |
 | [BF](https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [BF](https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u) | 3:36 | 2024-08-02 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-07-05 |  |
 | [Bones](https://open.spotify.com/track/3QtqrIugcBU5T05qD6OHkT) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 3:36 | 2024-06-27 | 2024-07-13 |
@@ -34,7 +35,7 @@
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-06-27 | 2024-08-10 |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-19 | 2024-07-27 |
 | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq) | 5:10 | 2024-06-27 |  |
-| [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-06-27 |  |
+| [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-06-27 | 2024-08-24 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 |  |
 | [Pink](https://open.spotify.com/track/2MvwYhejHpLfBcptTEWhDL) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:15 | 2024-06-27 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-05 |  |
@@ -50,7 +51,7 @@
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-06-27 |  |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-19 | 2024-07-27 |
 | [กลับมาเพื่อบอกลา \(JUST TO LET ME KNOW\)](https://open.spotify.com/track/36VP0QLf0R3KqcWeyJxuEO) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW) | [กลับมาเพื่อบอกลา \(JUST TO LET ME KNOW\) \- Single](https://open.spotify.com/album/2HgDU0bpa2LwPdFpXJLsBL) | 3:34 | 2024-06-27 |  |
-| [กอดหมอน](https://open.spotify.com/track/02HqCUXbVoIwfAHj2IsVtx) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [กอดหมอน \- Single](https://open.spotify.com/album/19LkHJ30sHvBjY99fYIsvu) | 3:20 | 2024-07-12 |  |
+| [กอดหมอน](https://open.spotify.com/track/02HqCUXbVoIwfAHj2IsVtx) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [กอดหมอน \- Single](https://open.spotify.com/album/19LkHJ30sHvBjY99fYIsvu) | 3:20 | 2024-07-12 | 2024-08-24 |
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-06-27 |  |
 | [ก้าวก่าย](https://open.spotify.com/track/62HLOpfjoG6E0JTtUEfplQ) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ก้าวก่าย](https://open.spotify.com/album/4BFAsh0aHyHFlRexQe5NRx) | 3:32 | 2024-06-27 |  |
 | [ขอให้เธอใจดี](https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ขอให้เธอใจดี](https://open.spotify.com/album/0M0ul20pgcYfWCooWsh9Sb) | 4:55 | 2024-06-27 |  |
@@ -112,6 +113,7 @@
 | [หลง](https://open.spotify.com/track/3PsB1HkYkzegKJfz4I5q4e) | [JODAI](https://open.spotify.com/artist/0eKqmbA0GNAKxYXr5mLIPd) | [หลง](https://open.spotify.com/album/41Xmy2NIDNjo8f8g5SRHxL) | 3:46 | 2024-06-27 | 2024-07-13 |
 | [หลับตาลง \(Dream A Dream\)](https://open.spotify.com/track/01JmglS4X4Adg9qmsUoB6Y) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [หลับตาลง \(Dream A Dream\)](https://open.spotify.com/album/3eQRcl3CUXwk2J6cnzrI5H) | 4:05 | 2024-08-16 |  |
 | [หากว่าฉันได้ครอบครอง](https://open.spotify.com/track/467XT84TTQHkdifhD7eUgQ) | [VELIKA](https://open.spotify.com/artist/1s5OUEKobcxAqQaDKQnRAi) | [หากว่าฉันได้ครอบครอง](https://open.spotify.com/album/329aoU1SsBsIVdtnuflbKq) | 3:28 | 2024-06-27 | 2024-07-13 |
+| [อยู่คนเดียวกับเขา](https://open.spotify.com/track/53LA6FpWz2mGrQVde1vTr9) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [อยู่คนเดียวกับเขา](https://open.spotify.com/album/2Pm2Btrcqr3bhyOLPXRolY) | 3:45 | 2024-08-23 |  |
 | [อยู่ได้แล้ว](https://open.spotify.com/track/2AdBbeVaEdW731a3FXJAJC) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [อยู่ได้แล้ว](https://open.spotify.com/album/3NkCwiKDPhfwZaKSEZUUiE) | 4:13 | 2024-08-02 |  |
 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 | 2024-06-27 |  |
 | [อิจฉา](https://open.spotify.com/track/5SP4XIuwGjbA5xTEkTQq7E) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [อิจฉา \- Single](https://open.spotify.com/album/01dsnQ9UyqGzZ4FtoZvXtQ) | 3:35 | 2024-06-27 |  |
@@ -131,6 +133,7 @@
 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 | 2024-07-07 |  |
 | [เส้นบางๆ](https://open.spotify.com/track/5n3UhHQI7SHKkhI69u69Yq) | [Indigo](https://open.spotify.com/artist/5505l53fTUi5P0uWQbRT0w) | [เส้นบางๆ](https://open.spotify.com/album/02FsmwYV0AlSX79gNlcnmV) | 4:31 | 2024-06-27 | 2024-08-03 |
 | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\)](https://open.spotify.com/track/1iB4DlhihIiLpXB6rTDtkO) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\) \- Single](https://open.spotify.com/album/083WVo2isnQjzo2Z0IiYHZ) | 2:56 | 2024-08-16 |  |
+| [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8) | 4:21 | 2024-08-23 |  |
 | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/track/3cvnQ06TvhaROQrObb4Cai) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เอเรนเดล \(EARENDEL\)](https://open.spotify.com/album/5xjy0OQeE3AhKyov5snKIM) | 4:39 | 2024-06-27 | 2024-07-06 |
 | [เอ็นดู](https://open.spotify.com/track/2ZHtauPTfmZJhlbRdlyM9P) | [Paradox](https://open.spotify.com/artist/32bq0Oy4ygWPR5ItUM5J5M) | [เอ็นดู \- Single](https://open.spotify.com/album/2sRprySk4hYdhwebAIDDxY) | 3:27 | 2024-07-05 | 2024-07-20 |
 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 | 2024-06-27 |  |

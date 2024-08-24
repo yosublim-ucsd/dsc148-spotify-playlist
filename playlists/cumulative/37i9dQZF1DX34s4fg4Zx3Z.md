@@ -4,7 +4,7 @@
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Chi Xê
 
-1,789 songs - 4 day 8 hr 46 min
+1,790 songs - 4 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1210,7 +1210,7 @@
 | [regret](https://open.spotify.com/track/3j0GWCC5vw7jylMjDZEAz5) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [regret](https://open.spotify.com/album/49ed2UXd4qvqZKEZcjWrvZ) | 3:24 | 2022-08-17 | 2022-09-01 |
 | [Ren Song](https://open.spotify.com/track/4RhCZCAZgCHYZQNAaT2IpP) | [w h o l e s o m r](https://open.spotify.com/artist/1UOCavSb5A8IaXo1BX1wDv) | [Ren Song](https://open.spotify.com/album/5jNMGSDt1UG0jJsVpm50Ed) | 3:48 | 2023-11-16 | 2023-11-30 |
 | [replay](https://open.spotify.com/track/0TshkDQVtYChJteOx5RWAS) | [blackvelvetz](https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3) | [replay](https://open.spotify.com/album/1EoeuBXSGaXOKRDIAcIqLe) | 3:40 | 2023-10-03 | 2023-10-24 |
-| [RIVER FLOWS](https://open.spotify.com/track/23ppanoqUxuvQMn48ooUKy) | [Trash Dee](https://open.spotify.com/artist/4d4gNVfuHfIwndxSpUyk4e), [Karma Montana](https://open.spotify.com/artist/6gxmVTiWRk7RihY8mg6U4s), [Waterloo](https://open.spotify.com/artist/6DocKPXemJP1PkJpF45vpt) | [RIVER FLOWS](https://open.spotify.com/album/6L4UTFTVTSNPbSiXR1q0RR) | 3:47 | 2024-08-22 |  |
+| [RIVER FLOWS](https://open.spotify.com/track/23ppanoqUxuvQMn48ooUKy) | [Trash Dee](https://open.spotify.com/artist/4d4gNVfuHfIwndxSpUyk4e), [Karma Montana](https://open.spotify.com/artist/6gxmVTiWRk7RihY8mg6U4s), [Waterloo](https://open.spotify.com/artist/4y8JpZV1Yw8rkSTOhVzPkW) | [RIVER FLOWS](https://open.spotify.com/album/6L4UTFTVTSNPbSiXR1q0RR) | 3:47 | 2024-08-22 |  |
 | [Roi Se Qua](https://open.spotify.com/track/16fGS3LuKKJfBqRbw0vM4z) | [Flo D](https://open.spotify.com/artist/25cLQ8alZJssXY06KE3SZP), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Roi Se Qua](https://open.spotify.com/album/0Yf1YWBjEj43kMynQyRQvx) | 2:32 | 2022-10-31 | 2022-11-18 |
 | [Rolling](https://open.spotify.com/track/6Avp5CoeXEzoaE1jpbhLSs) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA) | [Rolling](https://open.spotify.com/album/49iXXCdyYpKulqDp3BbOBi) | 3:11 | 2022-02-07 | 2022-02-15 |
 | [Rolling](https://open.spotify.com/track/7lCIPZCXGkm7xXRRLUwn14) | [Richie D\. ICY](https://open.spotify.com/artist/0FvZX3MHDrlAAnf15FgBkA) | [Rolling](https://open.spotify.com/album/4iB73n0vVBKhMHK32GtYHc) | 3:11 | 2022-02-14 | 2023-01-06 |
@@ -1488,6 +1488,7 @@
 | [Tình Yêu Lofi](https://open.spotify.com/track/3vbGVpoTPFjPPUCm4127GO) | [DawnG](https://open.spotify.com/artist/76FtV3J5Mr7TIAOCp4iKec), [kim](https://open.spotify.com/artist/3vHCYbpC0mr2ITEYz1CnrE), [Chill Mal](https://open.spotify.com/artist/1p6TbwOK6fMNSAWRDjoYEu) | [Tình Yêu Lofi](https://open.spotify.com/album/0PhXWWBBvuMCgAQDOZtXNx) | 3:28 | 2022-08-31 | 2022-10-03 |
 | [Tình Yêu Là Cái Quái Gì](https://open.spotify.com/track/5JrkMoCwTByk79R3O5tyrO) | [Lena](https://open.spotify.com/artist/4WxO9PBJlzYXOmtln97gnT) | [Tình Yêu Là Cái Quái Gì](https://open.spotify.com/album/6EKsPewZzL4gSrXZBZ7ba6) | 2:32 | 2022-06-12 | 2023-01-06 |
 | [tình yêu là gì?](https://open.spotify.com/track/0McHAU1qcrFsQaJZdsEEm4) | [Thiên Thanh Azura](https://open.spotify.com/artist/5JdusihgVMCGKFSzNMMgvT), [Sing](https://open.spotify.com/artist/79RTt4imwk0NaxS5lCnm29) | [tình yêu là gì?](https://open.spotify.com/album/5dPmVgBlLmEVHG0MxjZixj) | 4:18 | 2024-07-04 |  |
+| [Tình Yêu Mùa Hạ](https://open.spotify.com/track/3C1zqredNJEhL9rK9Sau5C) | [Jang Mi](https://open.spotify.com/artist/0gNlSfGp7s6Wg0H2cJIzno) | [Tình Yêu Mùa Hạ](https://open.spotify.com/album/1YB5YNsCsJjEpj6dOX8GoO) | 3:24 | 2024-08-22 |  |
 | [Tình Yêu Một Chiều](https://open.spotify.com/track/7rX0qfi0SPz6J8ztHZHi5s) | [Min Min](https://open.spotify.com/artist/64N4D9T873bPsmeiK5Q97J), [Chú Gián Nhỏ](https://open.spotify.com/artist/2pnzfxMhBpsRIIoxmXHHs7) | [Tình Yêu Một Chiều](https://open.spotify.com/album/2F2n3jaAU7n6MSXPESSaRy) | 3:29 | 2023-06-21 | 2023-07-07 |
 | [tình yêu say đấm](https://open.spotify.com/track/6ZIZC6eeaIrAl137VK3U6S) | [Phuc海福](https://open.spotify.com/artist/427T0w6Sda4vqX3WNqJwiV) | [tình yêu say đấm](https://open.spotify.com/album/1Xbq5MQEpvlDrcVJJaWmeX) | 3:45 | 2024-03-14 | 2024-06-15 |
 | [Tình Yêu Tìm Thấy](https://open.spotify.com/track/4jAP8VQpevQDXPn7ur2ugT) | [Nguyễn Kiều Oanh](https://open.spotify.com/artist/2a8CbNT5XhhygZtuAg3PdT), [Quân Lee](https://open.spotify.com/artist/4BlKKUTXbSX97Q0BjXhpt5) | [Tình Yêu Tìm Thấy](https://open.spotify.com/album/4i5x8GRgJBWXTYJJj9eqyE) | 3:33 | 2024-08-22 |  |

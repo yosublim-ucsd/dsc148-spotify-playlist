@@ -3433,6 +3433,32 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Pell\u00e9as et M\u00e9lisande Suite, Op. 80: III. Sicilienne. Allegretto molto moderato",
+        "url": "https://open.spotify.com/album/67DGWJ9ypKs6NPnENGGY0Q"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246360,
+      "name": "Pell\u00e9as et M\u00e9lisande Suite, Op. 80: III. Sicilienne. Allegretto molto moderato",
+      "url": "https://open.spotify.com/track/3ynbqSi0Z7e3FdcZrhOnQC"
+    },
+    {
+      "album": {
         "name": "Faur\u00e9: Requiem; Pell\u00e9as et M\u00e9lisande; Pavane for Orchestra and Choir",
         "url": "https://open.spotify.com/album/0WoaIDvXwBYvWhZVYo1wmD"
       },
@@ -3452,7 +3478,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 233400,
       "name": "Pell\u00e9as et M\u00e9lisande, Op. 80: 4. Sicilienne",
       "url": "https://open.spotify.com/track/0oIQl9tFpCiKBRavEIIGzo"

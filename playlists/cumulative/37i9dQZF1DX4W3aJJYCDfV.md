@@ -4,7 +4,7 @@
 
 > Brand new music from Sabrina Carpenter \(pictured\),  Fontaines D.C.,  Myles Smith and more!
 
-12,025 songs - 27 day 0 hr 51 min
+12,029 songs - 27 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1173,6 +1173,7 @@
 | [Bikini](https://open.spotify.com/track/0JtmRJ2flxK5bI7Qhg85zW) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Bikini](https://open.spotify.com/album/0cIEx7SCOMdsSitPnBWtdH) | 2:23 | 2024-04-11 | 2024-04-19 |
 | [Bikini Bottom](https://open.spotify.com/track/0rR7viRrWI8HN2tgfa2ILw) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Bikini Bottom](https://open.spotify.com/album/3moo248lwSwzx1I3G7PmVq) | 1:46 | 2022-10-28 | 2022-11-04 |
 | [Billboard Face](https://open.spotify.com/track/1Zaac2d6XmkUGluCwggXhA) | [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Mum, Pray for Your Son](https://open.spotify.com/album/7ehEgkqVomqg80YURfqPht) | 2:28 | 2024-04-19 | 2024-04-26 |
+| [Billion Streams Freestyle](https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:06 | 2024-08-23 |  |
 | [Billionaire](https://open.spotify.com/track/67BVAiOqovJtuKUMpqfFXM) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Billionaire](https://open.spotify.com/album/4u2kjSO5FlYAp2GC8MzWaH) | 3:11 | 2022-11-18 | 2022-11-25 |
 | [Billions](https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Billions](https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2) | 3:44 | 2024-05-16 | 2024-05-24 |
 | [BIMBO](https://open.spotify.com/track/4eXUalPDn4ej1m84sIewu5) | [CANCEL CULTURE](https://open.spotify.com/artist/6hV3BCQYd06kNbRYcAAifx) | [BIMBO](https://open.spotify.com/album/142Wg7T68P8awOfixZ4XGt) | 3:07 | 2023-04-06 | 2023-04-14 |
@@ -1354,6 +1355,7 @@
 | [Bookie's Dirtbag](https://open.spotify.com/track/4RWbO2RDo6yyA12R3TNVsx) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV), [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Bookie's Dirtbag](https://open.spotify.com/album/5mxfUmBRoMzVoDW8bFeq1K) | 4:00 | 2022-12-02 | 2022-12-09 |
 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 | 2023-02-24 | 2023-03-03 |
 | [Boom \(feat\. Tokischa\)](https://open.spotify.com/track/0OCdChh8IoBCIm3kVGY3GN) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Boom \(feat\. Tokischa\)](https://open.spotify.com/album/4Liw2H1qC6Nq3ojx8wQBOB) | 2:12 | 2024-08-01 | 2024-08-09 |
+| [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 | 2024-08-22 |  |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-09 | 2024-05-17 |
 | [Boombox](https://open.spotify.com/track/1LKiKXq5gOQGdUe4rCf04D) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Boombox](https://open.spotify.com/album/2mBOuLiTCriY31GjpXDdwP) | 3:53 | 2023-10-12 | 2023-10-20 |
 | [boombox](https://open.spotify.com/track/2bZsAj7qMClKIwpGb23Hgs) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [boombox](https://open.spotify.com/album/4VX15BRy8UrW9Vt5T3ltgJ) | 3:07 | 2024-06-27 | 2024-07-05 |
@@ -9301,6 +9303,7 @@
 | [Sky](https://open.spotify.com/track/2MauWFL8iZpIclHLwEtLBj) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Sky](https://open.spotify.com/album/2P8aTavVCgkiXNc9sOeYrq) | 2:49 | 2024-07-11 | 2024-07-19 |
 | [Sky \(Shining Bright\)](https://open.spotify.com/track/6C941cB4Kzxkw67MhPzlXr) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Sky \(Shining Bright\)](https://open.spotify.com/album/0ENcoMHBD8idjhAShpgTr7) | 2:50 | 2024-05-09 | 2024-05-17 |
 | [Skyboy](https://open.spotify.com/track/2HFigR6saLng0ZUEr9ISCE) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/1aBJUsmDLkDgfeZ2nCqHlm) | 3:31 | 2023-03-10 | 2023-03-18 |
+| [Skyfall \(feat\. Young Thug\)](https://open.spotify.com/track/5s6ToF2Jl5GGuBh3Wj9qnT) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId) | 5:14 | 2024-08-22 |  |
 | [Slamdunk Rally](https://open.spotify.com/track/4WMEwl7wbkMec6czTDaQBI) | [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE), [K9](https://open.spotify.com/artist/4J9OVieVNyyuDhYSYcUw9l), [Drifter](https://open.spotify.com/artist/1VtQGM34MU4G72LKVE9gvE), [Kozzie](https://open.spotify.com/artist/4DEP2Gftmem88C3JN8be77), [Jammz](https://open.spotify.com/artist/6KDwmvnFgtstS18skjklR0), [Wiley](https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3) | [First Treatment](https://open.spotify.com/album/1ymQOeEWMimK270zDy4AzX) | 3:30 | 2022-12-02 | 2022-12-09 |
 | [SLB](https://open.spotify.com/track/5aKVi02d8B8hoFuiqroPXT) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [SLB](https://open.spotify.com/album/4gYrCsnSRFp0plFHs7U6ve) | 4:05 | 2024-07-18 | 2024-07-27 |
 | [Sleep](https://open.spotify.com/track/3GrBddYgzmnynZrcZxE1OZ) | [Fredwave](https://open.spotify.com/artist/2mP7s6geSborhRN3ohxJqz) | [Sleep](https://open.spotify.com/album/26fV78PltSwFLl3f2fwQcN) | 3:22 | 2023-06-29 | 2023-07-07 |
@@ -9965,6 +9968,7 @@
 | [Sweat](https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweat](https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs) | 3:20 | 2023-04-20 | 2023-04-28 |
 | [Sweat](https://open.spotify.com/track/7HwP0lytsnQo4MKdqfVQt2) | [JAWS](https://open.spotify.com/artist/3E3NOIlw2s1ZPU9GRB9jaq) | [Sweat](https://open.spotify.com/album/7BXae87zZyq9Y1nDcHDJjU) | 3:46 | 2023-08-17 | 2023-08-25 |
 | [Sweat](https://open.spotify.com/track/37Ik0Rvl2cptEffURjIls9) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Sweat](https://open.spotify.com/album/5MEqr6fRpxyFlgzijl10Uf) | 2:45 | 2023-01-06 | 2023-01-13 |
+| [Sweat \(Island File\)](https://open.spotify.com/track/5Da5oMlJgqXvgTN1tcihZT) | [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Island Files](https://open.spotify.com/album/32oWDz4GWZLF0P5jSDJoLW) | 3:07 | 2024-08-22 |  |
 | [Sweat \- Ape Drums Remix](https://open.spotify.com/track/1JSur5SXLkjdvbK8C3VNvB) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Sweat \(Ape Drums Remix\)](https://open.spotify.com/album/3OzQLbWRu1M1jPj9oPnfeq) | 2:27 | 2024-06-13 | 2024-06-21 |
 | [Sweatpants](https://open.spotify.com/track/5nIkCBRTvwEyEVqyXP25xC) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Glorification of Sadness](https://open.spotify.com/album/3TpQfWDRBdDBqn9Edfr8uk) | 3:31 | 2024-02-16 | 2024-02-23 |
 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 | 2024-06-27 | 2024-07-05 |

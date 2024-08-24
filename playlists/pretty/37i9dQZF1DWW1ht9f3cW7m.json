@@ -1,6 +1,6 @@
 {
   "description": "the sweetest new indie pop, featuring Kai Bosch \ud83c\udf51",
-  "num_followers": 29305,
+  "num_followers": 29307,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Keep It Up",
-        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
         }
       ],
-      "duration_ms": 156524,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
+      "duration_ms": 237117,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
       },
       "artists": [
         {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 237117,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC"
+      "duration_ms": 156524,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
+        "name": "BIG BOYS CRY TOO",
+        "url": "https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo"
+      },
+      "artists": [
+        {
+          "name": "Jo Hill",
+          "url": "https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "BIG BOYS CRY TOO",
+      "url": "https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
         "name": "Palo Alto",
         "url": "https://open.spotify.com/album/58V5LHqVQrYRLBURRer7aF"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 190272,
       "name": "Don't Miss It.",
       "url": "https://open.spotify.com/track/0RayQ84I4gGgPtb0PmZEeY"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
-        "name": "BIG BOYS CRY TOO",
-        "url": "https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo"
-      },
-      "artists": [
-        {
-          "name": "Jo Hill",
-          "url": "https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "BIG BOYS CRY TOO",
-      "url": "https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "24 hours",
-        "url": "https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "24 hours",
-      "url": "https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
         "name": "sprinkles",
         "url": "https://open.spotify.com/album/6JPFvDl16Wh4iTm69fYpNs"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 273488,
       "name": "sprinkles",
       "url": "https://open.spotify.com/track/1X7zU3V1TDVhqM253XcIV7"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
+        "name": "24 hours",
+        "url": "https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "24 hours",
+      "url": "https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
         "name": "miss american dream",
         "url": "https://open.spotify.com/album/2gsa6Xm1r2hbXkeH9FVvsW"
       },
@@ -1019,18 +1035,18 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Chamomile",
-        "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
+        "name": "Now That I Know You",
+        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
       },
       "artists": [
         {
-          "name": "Victoria Canal",
-          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
         }
       ],
-      "duration_ms": 187906,
-      "name": "Chamomile",
-      "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
+      "duration_ms": 226240,
+      "name": "Now That I Know You",
+      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -1067,22 +1083,6 @@
       "duration_ms": 197546,
       "name": "Spinnin'",
       "url": "https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
-        "name": "Now That I Know You",
-        "url": "https://open.spotify.com/album/10SXrX5HMTcW9P7g5CZ4W7"
-      },
-      "artists": [
-        {
-          "name": "Connie Campsie",
-          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
-        }
-      ],
-      "duration_ms": 226240,
-      "name": "Now That I Know You",
-      "url": "https://open.spotify.com/track/69aiHwZrZBVwhhkGLRMxCM"
     },
     {
       "added_at": "2024-08-21 13:07:59",

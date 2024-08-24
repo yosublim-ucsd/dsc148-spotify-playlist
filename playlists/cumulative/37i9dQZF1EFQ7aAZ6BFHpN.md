@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-149 songs - 11 hr 15 min
+150 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [My Sunday Fella](https://open.spotify.com/track/7CgnC1LPmNqlsCjigRVHOK) | [Victoria Hart](https://open.spotify.com/artist/3URdRBdlpe3PPJ5iBNKqoS) | [The Lost Gershwin](https://open.spotify.com/album/2nNWWKOyzmRFky8QpHcArS) | 4:27 | 2024-07-24 |  |
 | [Nice Work If You Can Get It \- Remastered](https://open.spotify.com/track/1mxW31WHnp0Rq1RQrhMPDj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \- Remastered / Expanded Edition](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 2:21 | 2024-07-24 |  |
 | [Niet Voor Mij Alleen](https://open.spotify.com/track/33T3wNvINj0gHMu18bgeJN) | [Kommil Foo](https://open.spotify.com/artist/68X7EQtVYHuUAYoFilK3wE) | [Wolf](https://open.spotify.com/album/3304CAyy9hPpSlCDS1UWA9) | 4:37 | 2024-07-24 |  |
-| [Nothing But Love](https://open.spotify.com/track/1rss0GffDwykCmieNzGQYM) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [Brian Wilson Reimagines Gershwin](https://open.spotify.com/album/28JqeTO39K30eh0u0wXvQz) | 3:24 | 2024-07-24 |  |
+| [Nothing But Love](https://open.spotify.com/track/1rss0GffDwykCmieNzGQYM) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [Brian Wilson Reimagines Gershwin](https://open.spotify.com/album/28JqeTO39K30eh0u0wXvQz) | 3:24 | 2024-07-24 | 2024-08-24 |
+| [Nothing But Love](https://open.spotify.com/track/5h4VW490aww3I7ikwmNipF) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [Brian Wilson Reimagines Gershwin](https://open.spotify.com/album/5V2xLFiybTKxScEAFEqPTW) | 3:24 | 2024-08-23 |  |
 | [Oh Dey's So Fresh And Fine \(Strawberry Woman\)](https://open.spotify.com/track/4ngD285cJ9UXUQZ2FbyOJL) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Plays Porgy And Bess](https://open.spotify.com/album/083nSCiHBU3Ah6IUQKzjxL) | 0:52 | 2024-07-24 |  |
 | [Oh Kay!: Dear Little Girl](https://open.spotify.com/track/7lK8cKjxxARMs1qcNHWxI1) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [P\. G\. Wodehouse](https://open.spotify.com/artist/4vISG7SjHkjRQv9Xst9PXI), [Jack Cassidy](https://open.spotify.com/artist/79vGXDbP2XvW4mco6SWexk), [Oh, Kay! Ensemble \(1955\)](https://open.spotify.com/artist/0FQQK4NcOHsXZs4s9HAkB8), [Lehman Engel](https://open.spotify.com/artist/6uq6cUwOJmgO50qP4hIrTr) | [Oh, Kay! \(Studio Cast Recording \(1955\)\)](https://open.spotify.com/album/6BcA818BNAqm8hXl2BIoT4) | 3:31 | 2024-07-24 |  |
 | [Oh Lady Be Good](https://open.spotify.com/track/4QfwBjaq7OprjSZss5Qle3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Lullabies Of Birdland](https://open.spotify.com/album/44zUpA9KsYPplGV7HZmE8K) | 3:08 | 2024-07-24 |  |

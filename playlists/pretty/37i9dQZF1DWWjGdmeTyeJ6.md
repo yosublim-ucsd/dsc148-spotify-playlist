@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Jessica Doolan, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,600 likes - 199 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,662 likes - 199 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 52 | [Wii Shop Channel](https://open.spotify.com/track/1nyjTJTfvks3F2YfuAXIqQ) | [Eole](https://open.spotify.com/artist/1KIal9VoT1fsIfIG2B9sRl) | [Wii Shop Channel](https://open.spotify.com/album/6I5KUIzKR76VqZp2bSJKbI) | 3:51 |
 | 53 | [Selene](https://open.spotify.com/track/3meXRMEexOIrdQbwvhKfDM) | [deary](https://open.spotify.com/artist/5Pir3nnrulz7WMyC9bFhkL) | [Selene](https://open.spotify.com/album/3yoDGQz5YqgD96RKJyJvLf) | 4:16 |
 | 54 | [King's Garden](https://open.spotify.com/track/4aUPb0DZj1saaUJFDjoahk) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [King's Garden](https://open.spotify.com/album/6zsXmJ5est3sAXA9cb15xV) | 2:47 |
-| 55 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Loving you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 |
+| 55 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Lovin you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 |
 | 56 | [Sky Hooks](https://open.spotify.com/track/6KqOFPJTgkSXWmKkjstNWC) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Sky Hooks](https://open.spotify.com/album/1cRRoju0uC7dKI0DShRofp) | 6:03 |
 | 57 | [We Were Never Gonna \(with Abbey Cone\)](https://open.spotify.com/track/7sAzQLOa2WXtsvEUDPExIF) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq), [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [We Were Never Gonna \(with Abbey Cone\)](https://open.spotify.com/album/0wGjX2LDYo1MFX5WHaKGie) | 3:15 |
 | 58 | [A Long Time](https://open.spotify.com/track/701A990FNNf7RuKqQFxyw3) | [Born Runner](https://open.spotify.com/artist/4H4DkVtD3nBKpJ1zmua5Uz) | [A Long Time](https://open.spotify.com/album/0GbohZu7RyCSpR1GHvmviM) | 3:00 |

@@ -4,7 +4,7 @@
 
 > Una lista perfecta para aquellos corazones que aún no han sido correspondidos.
 
-92 songs - 5 hr 47 min
+93 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Más Que Tu Amigo](https://open.spotify.com/track/7pnyHkdpnKlVIVE5xOwOV6) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [GRUPERAS ROMÁNTICAS PARA ENAMORARTE](https://open.spotify.com/album/41DcGjStFwVPPQiZGiUUtA) | 3:30 | 2022-11-04 | 2022-11-13 |
 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 | 2021-11-12 | 2024-06-08 |
 | [Niña Bonita](https://open.spotify.com/track/2T6IW1nQ2CTctvnYrWqM6R) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Melissa Robles](https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs) | [Niña Bonita](https://open.spotify.com/album/4h7cWmz3MjF3HzPTc5PezA) | 4:23 | 2021-11-12 |  |
+| [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 | 2024-08-23 |  |
 | [No Me Doy Por Vencido](https://open.spotify.com/track/1eLRga2SlL8WNMe3IbwP3q) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Romances](https://open.spotify.com/album/6cFUspXBAwzoLZfMLrQPlc) | 3:57 | 2021-11-12 |  |
 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/7sa6E5h8yXMbK50kBDB91x) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 | 2023-02-15 |  |
 | [No Voy a Ser Yo](https://open.spotify.com/track/1eMgItwutbGkckkl3JTKFH) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [No Voy a Ser Yo](https://open.spotify.com/album/1tnAVXOqJfrqGUgG6ZUm3e) | 2:55 | 2022-11-04 | 2023-08-12 |
@@ -73,7 +74,7 @@
 | [Sé Que Te Duele](https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 3:48 | 2022-01-21 | 2024-04-19 |
 | [Sé Que Te Duele](https://open.spotify.com/track/2R6r40dVVmkDvCYgan9dGO) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sé Que Te Duele](https://open.spotify.com/album/060f2E024r1h0rSTYH6mQC) | 3:48 | 2021-11-12 |  |
 | [Sé Que Te Duele](https://open.spotify.com/track/2pUsl7G4TUlklHmCV5L1Gx) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sé Que Te Duele](https://open.spotify.com/album/72Q2xRjzLZawtKzJP7duRP) | 3:48 | 2022-11-04 | 2022-11-13 |
-| [Te estás olvidando de mí](https://open.spotify.com/track/3AKyURJxA2IRJwxjkZggC8) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Te estás olvidando de mí](https://open.spotify.com/album/5xBZq1HDeIt56vtLU1eMAY) | 3:02 | 2021-11-12 |  |
+| [Te estás olvidando de mí](https://open.spotify.com/track/3AKyURJxA2IRJwxjkZggC8) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Te estás olvidando de mí](https://open.spotify.com/album/5xBZq1HDeIt56vtLU1eMAY) | 3:02 | 2021-11-12 | 2024-08-24 |
 | [Te Voy a Amar](https://open.spotify.com/track/6G6DiIkasBrTbARK74U7kv) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Te Voy a Amar](https://open.spotify.com/album/5Nbmpy3j7Bsk5Fi2AUSQYh) | 3:38 | 2021-11-12 |  |
 | [Tengo Todo Excepto a Ti](https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [20 Años](https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd) | 4:32 | 2021-11-12 |  |
 | [TQM](https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:19 | 2022-01-21 | 2023-09-09 |

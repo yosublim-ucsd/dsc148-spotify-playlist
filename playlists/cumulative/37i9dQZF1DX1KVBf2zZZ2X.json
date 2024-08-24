@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 134000,
       "name": "Above The Sea",
       "url": "https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-07",
+      "date_removed": null,
       "duration_ms": 158490,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 187444,
       "name": "Dream Catcher",
       "url": "https://open.spotify.com/track/4cgqpbNog3N37Gd6uCvOB1"
@@ -992,6 +992,24 @@
       "duration_ms": 129750,
       "name": "Evening meditation",
       "url": "https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj"
+    },
+    {
+      "album": {
+        "name": "Final Step",
+        "url": "https://open.spotify.com/album/2WHUbVbpqZEs7MvZi5Xa8r"
+      },
+      "artists": [
+        {
+          "name": "Elton Baptiste",
+          "url": "https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Final Step",
+      "url": "https://open.spotify.com/track/6reH8eOdmg2c3huGrFAq1t"
     },
     {
       "album": {
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 127000,
       "name": "Micelle",
       "url": "https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga"
@@ -1708,7 +1726,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 159000,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/6tZqBZ52QjlSwA6T25QoLu"
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 151480,
       "name": "Nota Placidit\u00e0",
       "url": "https://open.spotify.com/track/51P6OZHsSCEcsWQj2Ysjrv"
@@ -2086,7 +2104,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Passing",
       "url": "https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8"
@@ -2309,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "Remote Escape (in the Rain)",
+        "url": "https://open.spotify.com/album/6RTvmpXlvTkpCQpnp3zdZP"
+      },
+      "artists": [
+        {
+          "name": "Sound of Muses",
+          "url": "https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218250,
+      "name": "Remote Escape (in the Rain)",
+      "url": "https://open.spotify.com/track/44oJ4rwFKjyzfiHMVdlS3W"
+    },
+    {
+      "album": {
         "name": "Returning Home",
         "url": "https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L"
       },
@@ -2500,7 +2536,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 271384,
       "name": "Serene Dream",
       "url": "https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I"
@@ -2860,7 +2896,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 130500,
       "name": "Trail of Fauna",
       "url": "https://open.spotify.com/track/6gdNCfmHrLAKii20Kon3QS"
@@ -3040,7 +3076,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Winter Lake",
       "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"

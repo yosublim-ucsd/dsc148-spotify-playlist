@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx?si=aTboVi-iSCCQb-Sq1fLRRA\">Jayda G</a>",
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=YK0nFpmcT7GzizH1e7bNwQ\">Sio</a> & <a href=\"https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=u34RXozVQma2PT7UApMHqA\">Kid Fonque</a>",
   "name": "mint South Africa",
   "tracks": [
     {
@@ -16718,6 +16718,28 @@
       "duration_ms": 398425,
       "name": "Rekere 3 Step",
       "url": "https://open.spotify.com/track/7bcotMiHylhuo0dEc34XL9"
+    },
+    {
+      "album": {
+        "name": "Rekindled",
+        "url": "https://open.spotify.com/album/5TImCleOgK4gc9QcogM8Zo"
+      },
+      "artists": [
+        {
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245970,
+      "name": "Rekindled",
+      "url": "https://open.spotify.com/track/7al4dZR5uPs09wrYmMHdtC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 > Podcasts que necesitas tener en el RADAR\. En la portada: <a href="https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ?si=aee7681de4dd411e">Casos de la Risa Real</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,907 likes - 12 songs - 14 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,910 likes - 12 songs - 14 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

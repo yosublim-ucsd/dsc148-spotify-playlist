@@ -1,13 +1,45 @@
 {
-  "description": "Get to know our 2024 Artists to Watch! Cover: Destroy Boys",
-  "num_followers": 5254,
+  "description": "Get to know our 2024 Artists to Watch! Cover: Sam Barber",
+  "num_followers": 5259,
   "original_name": "Artists To Watch 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAAAbqi+noBNH5sOzSQfS4b6o",
+  "snapshot_id": "ZsgJQAAAAACGLI3BEb4OyRABOrkY1EDv",
   "tracks": [
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Better Year / Jersey Giant",
+        "url": "https://open.spotify.com/album/5y0pO2GUp0WxLpA2mlr199"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Better Year",
+      "url": "https://open.spotify.com/track/16Dak03vkp5lEuwIFFpeOm"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "RABBITHOLE",
+        "url": "https://open.spotify.com/album/3zxAXVIsNoLPv727sWSqKg"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 141443,
+      "name": "RABBITHOLE",
+      "url": "https://open.spotify.com/track/6l5sqTPOD2UdzEb2RlwtSI"
+    },
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
@@ -53,6 +85,22 @@
       "url": "https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq"
     },
     {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "DEADBEAT! - Disc 1",
+        "url": "https://open.spotify.com/album/1hY6wDixeGad4Bxwe4tMsx"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 191456,
+      "name": "The Rug",
+      "url": "https://open.spotify.com/track/2ig3FVvbLfrLPEgLJbz8OZ"
+    },
+    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "SATA 42",
@@ -73,20 +121,20 @@
       "url": "https://open.spotify.com/track/3e0e2wQgq06Ht7Y1po72uQ"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Scatterbrain (Deluxe)",
-        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
+        "name": "very little effort",
+        "url": "https://open.spotify.com/album/5gytBTbcIRuIZP7R5spxLn"
       },
       "artists": [
         {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
         }
       ],
-      "duration_ms": 142307,
-      "name": "Agree to Disagree",
-      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
+      "duration_ms": 256160,
+      "name": "very little effort",
+      "url": "https://open.spotify.com/track/50vCyMaif5TrJDp3cgSO7F"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -103,6 +151,22 @@
       "duration_ms": 164988,
       "name": "POOL",
       "url": "https://open.spotify.com/track/7El03GRicPnYpkPIKZ81KM"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Knocking At My Door",
+        "url": "https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 190433,
+      "name": "Knocking At My Door",
+      "url": "https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE"
     },
     {
       "added_at": "2024-05-31 04:00:00",
@@ -597,38 +661,6 @@
       "url": "https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "that b*tch don't even kno my name...",
-        "url": "https://open.spotify.com/album/2fzAi6TqQrDhv6heenILWU"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 138384,
-      "name": "that b*tch don't even kno my name...",
-      "url": "https://open.spotify.com/track/5RgGQDoWdFGPRUxbb4olwx"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "S.O.B.",
-        "url": "https://open.spotify.com/album/1ueSCQNbsw3cZ0sV97Qrka"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 183407,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/3h65hnA2SkIeOK3aVyUIe7"
-    },
-    {
       "added_at": "2024-01-10 14:00:00",
       "album": {
         "name": "labour",
@@ -903,22 +935,6 @@
       "duration_ms": 119015,
       "name": "Mmhmm",
       "url": "https://open.spotify.com/track/1nQaTUDJ7Rc4yOvZmg9Ozr"
-    },
-    {
-      "added_at": "2024-01-10 14:00:00",
-      "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1275,22 +1291,6 @@
       "duration_ms": 124000,
       "name": "DECLAN RICE",
       "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
-    },
-    {
-      "added_at": "2024-01-10 14:00:00",
-      "album": {
-        "name": "catalogue",
-        "url": "https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc"
-      },
-      "artists": [
-        {
-          "name": "julie",
-          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "catalogue",
-      "url": "https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS"
     },
     {
       "added_at": "2024-01-19 00:00:00",

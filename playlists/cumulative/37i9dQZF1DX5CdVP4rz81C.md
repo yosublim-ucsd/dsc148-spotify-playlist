@@ -2,9 +2,9 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Joshua Bassett
+> Discover your favorite new chill pop songs\. Cover: Dhruv
 
-1,707 songs - 3 day 18 hr 5 min
+1,709 songs - 3 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1107,6 +1107,7 @@
 | [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 | 2023-09-08 | 2023-11-08 |
 | [Once Upon A Time](https://open.spotify.com/track/6gEAtpx5St6cbPkJfZNQ1t) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Once Upon A Time](https://open.spotify.com/album/7cxeHwDuhQxZeiE5Oxew7d) | 3:46 | 2020-12-11 | 2021-02-12 |
 | [One](https://open.spotify.com/track/21Xv9HhXnTjsyvwAcCyWhI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [One](https://open.spotify.com/album/4WQDeihU1K0tdoOqRoYsvW) | 4:11 | 2021-04-24 | 2021-05-15 |
+| [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2024-08-23 |  |
 | [one before the one](https://open.spotify.com/track/0IveFmA4WZfTIhp6uoANDO) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [lover boy](https://open.spotify.com/album/2KvPFsQl591kXKkhhEtnMe) | 3:05 | 2024-07-12 |  |
 | [One Day Less](https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [One Day Less](https://open.spotify.com/album/6btELiaRuDMZSrhu9PE2xY) | 3:27 | 2022-07-15 | 2022-09-03 |
 | [One Foot in Front of the Other](https://open.spotify.com/track/032DRv0baStN644jRO2lMV) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot in Front of the Other](https://open.spotify.com/album/3MsmfBSepcDujGmqtlDHFw) | 3:12 | 2021-05-29 | 2021-07-10 |
@@ -1290,6 +1291,7 @@
 | [Sh\*t People](https://open.spotify.com/track/2o5waDrBvUvW0vmZWQ7DtS) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Sh\*t People](https://open.spotify.com/album/2kWbl4QeZsNbCdLAPeV6cR) | 3:16 | 2021-08-21 | 2021-09-25 |
 | [SHADES ON](https://open.spotify.com/track/0o7t39Y0zDTrqqcJx5CbZ8) | [Raissa](https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS) | [SHADES ON](https://open.spotify.com/album/40BvwgCFswCvzMltktVPtV) | 2:20 | 2021-01-23 | 2021-02-09 |
 | [Shadow Of Mine](https://open.spotify.com/track/0uth6JMSGzbmREU9esuWX5) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Shadow Of Mine](https://open.spotify.com/album/1WOXEZWW81y830KHdqOdVG) | 2:45 | 2022-02-25 | 2022-10-22 |
+| [Sharpest Tool](https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:38 | 2024-08-23 |  |
 | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [She Calls Me Back \(with Kacey Musgraves\)](https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz) | 4:03 | 2023-10-06 | 2023-12-02 |
 | [She's Mine](https://open.spotify.com/track/1ac5TkGKdYuR43vgKJ652F) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [She's Mine](https://open.spotify.com/album/7AQIoedGAYR8u8f0W5ILw2) | 2:58 | 2021-08-21 | 2021-08-28 |
 | [Sheesh!](https://open.spotify.com/track/3ddNKnYpVx0uI8vcwbTQ5Y) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sheesh!](https://open.spotify.com/album/7aGQrZNnvPaOc0PVm7yuc5) | 2:28 | 2021-08-21 | 2021-10-16 |
@@ -1371,7 +1373,7 @@
 | [South Dakota](https://open.spotify.com/track/2s3CzgeeA7NpLP87ZDbmC8) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [South Dakota](https://open.spotify.com/album/7pXsFVBKdJdyLEXUJ3j3oV) | 3:11 | 2021-10-30 | 2021-12-09 |
 | [Spaces](https://open.spotify.com/track/3S73WiRmw3nowr7ZC6Bmkp) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Spaces](https://open.spotify.com/album/2zleDyRZGgQR9MGVFgdVSO) | 3:47 | 2020-10-13\* | 2020-11-20 |
 | [Speakers](https://open.spotify.com/track/1620rCO9xoE7kug77sS4AJ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:39 | 2022-04-15 | 2022-05-07 |
-| [Speed of Light](https://open.spotify.com/track/4X3a6cE8mRHHVKkqLDSK3m) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Speed of Light](https://open.spotify.com/album/2QYOMAjVLhjshBsPvU0xhW) | 3:27 | 2024-05-31 |  |
+| [Speed of Light](https://open.spotify.com/track/4X3a6cE8mRHHVKkqLDSK3m) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Speed of Light](https://open.spotify.com/album/2QYOMAjVLhjshBsPvU0xhW) | 3:27 | 2024-05-31 | 2024-08-24 |
 | [Spell](https://open.spotify.com/track/6VnKIbHslTmwhEmH36ln4Q) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Spell](https://open.spotify.com/album/4DW2TnIuLYckzD1fPIgOrK) | 4:07 | 2022-10-21 | 2022-10-29 |
 | [Spinnin](https://open.spotify.com/track/0K2KKyyKoPaNTOUPxubHPN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Spinnin](https://open.spotify.com/album/1H231df9UtLpu609triLDa) | 2:46 | 2023-08-18 | 2023-09-30 |
 | [Spinning](https://open.spotify.com/track/0R6pHybIu4aJA6gJEJgRbc) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Spinning](https://open.spotify.com/album/6dKyD7dQTcNnSYSoedettQ) | 3:08 | 2021-04-10 | 2021-05-15 |
@@ -1537,7 +1539,7 @@
 | [Too Late \(with AJR\)](https://open.spotify.com/track/1FNpMhXQtpIfN0BXwEvIWS) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The People's Champ](https://open.spotify.com/album/3plm9depNQ4MWerYdN0vaq) | 2:55 | 2023-01-27 | 2023-02-25 |
 | [too many feelings](https://open.spotify.com/track/3tb3sGsGLnSsyUxue8Aetd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [too many feelings](https://open.spotify.com/album/2XJb3KWRBjAarZvPf6Rqwu) | 3:06 | 2021-02-12 | 2021-05-08 |
 | [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-03-22 | 2024-04-19 |
-| [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-22 |  |
+| [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-22 | 2024-08-24 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-22 |  |
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-02-04 | 2022-03-12 |
 | [Traffic Lights](https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Traffic Lights](https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z) | 3:24 | 2021-06-26 | 2021-12-11 |

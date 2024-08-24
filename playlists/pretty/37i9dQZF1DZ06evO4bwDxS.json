@@ -1,12 +1,12 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 355024,
+  "num_followers": 356413,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABEJjj9fIPkJaYQkKXPAsR2",
+  "snapshot_id": "ZsZ/gAAAAAAMv4xVCsWeuBI0xS5Ehg6Q",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "Can't Blame a Girl for Trying",
-      "url": "https://open.spotify.com/track/5K7fGxZQB0K5sPKhLe9e07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WOW (feat. Sabrina Carpenter) [Remix]",
         "url": "https://open.spotify.com/album/1RE0ZZJkxSZXdkNac4lcJD"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 179652,
       "name": "WOW (feat. Sabrina Carpenter) - Remix",
       "url": "https://open.spotify.com/track/5WokFKscrfGEGGLPTu3jgO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "Can't Blame a Girl for Trying",
+      "url": "https://open.spotify.com/track/5K7fGxZQB0K5sPKhLe9e07"
     },
     {
       "added_at": null,

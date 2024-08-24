@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 
 > Get nostalgic with all the summer hits and bangers you'll need\. From Beyoncé, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 463,317 likes - 250 songs - 15 hr 16 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 463,290 likes - 251 songs - 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -258,5 +258,6 @@ pretty - [cumulative](/playlists/cumulative/1tPWTwuxOLsE2Do1JQSUxA.md) - [plain]
 | 248 | [The Hills](https://open.spotify.com/track/25khomWgBVamSdKw7hzm3l) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/28ZKQMoNBB0etKXZ97G2SN) | 4:02 |
 | 249 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
 | 250 | [SKELETONS](https://open.spotify.com/track/6NMtzpDQBTOfJwMzgMX0zl) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 2:25 |
+| 251 | [That Girl \(Sped Up\)](https://open.spotify.com/track/7JdvmDLR3EKyXU7Yl9huZA) | [Olly Murs](https://open.spotify.com/artist/3whuHq0yGx60atvA2RCVRW), [sped up + slowed](https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl) | [That Girl \(Sped Up\)](https://open.spotify.com/album/3lUD3Fp7dIo0x4KRQbJtjt) | 2:15 |
 
-Snapshot ID: `AAAMnSSFDtx/MvhDW6C+T4m/OIusTcUw`
+Snapshot ID: `AAAMnqljYTUFwCymgJ/kEXm2JE1sx1D0`

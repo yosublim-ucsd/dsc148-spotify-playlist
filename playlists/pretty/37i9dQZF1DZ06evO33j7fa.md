@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 ### [This Is Nick Drake](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33j7fa)
 
-> This is Nick Drake\. The essential tracks, all in one playlist.
+> This is Nick Drake\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,334 likes - 32 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,342 likes - 32 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 31 | [Blossom](https://open.spotify.com/track/7fChVrZnxmpBlOTVWgoeFX) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:41 |
 | 32 | [Sketch 1](https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 1:00 |
 
-Snapshot ID: `ZsUuAAAAAADHn+siC2Amo+jY3dCuVqs8`
+Snapshot ID: `ZsZ/gAAAAABwguBBn7AzwDd1H396Y5UY`

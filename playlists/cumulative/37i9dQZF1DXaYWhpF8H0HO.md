@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Ramengvrl, Awich
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: AGNEZ MO
 
-136 songs - 7 hr 55 min
+142 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,9 @@
 | [Fallin’ \(feat\. Assia Keva\)](https://open.spotify.com/track/1NaC5MbdtiGR3ot2EDHF6v) | [Ankadiov](https://open.spotify.com/artist/2dCGSLwiJ8mBhGM9noHFYi), [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Fallin’ \(feat\. Assia Keva\)](https://open.spotify.com/album/5zT1ZfIceq8hRmQBy6mxvW) | 3:26 | 2024-07-23 |  |
 | [Favorite Art](https://open.spotify.com/track/0uwKZi6NBSfJS77MejAxvu) | [Jasmine Nadya](https://open.spotify.com/artist/3riJuqytC4fjg5RFkYGT4O) | [Favorite Art](https://open.spotify.com/album/42btgmtHPBE4Moq3luRC2z) | 2:53 | 2024-06-27 |  |
 | [Feeling for You](https://open.spotify.com/track/0NA1nlCQ9BlRbbY8F6UTN9) | [LONE](https://open.spotify.com/artist/5HeBFZyF0fqXHw7SU1xZHF) | [Feeling for You](https://open.spotify.com/album/49FXRUWF9fMNgV5BF8vAyk) | 4:13 | 2024-06-27 | 2024-07-27 |
+| [Feels Like We're Still a Lover](https://open.spotify.com/track/62YskeUHdVoZiLge8ORBrt) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Feels Like We're Still a Lover](https://open.spotify.com/album/0O3xNA5pIZZc8N6L1GF60G) | 4:54 | 2024-08-23 |  |
 | [Feenin' \- Andezzz Remix](https://open.spotify.com/track/19CfTZUocbSgUJrQGjgvPs) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7), [Andezzz](https://open.spotify.com/artist/2fbpowgwOj5DqZt6IZHzWd) | [Feenin'](https://open.spotify.com/album/4cZ5TWhsqDaZrU9c9cxuoC) | 4:52 | 2024-06-27 | 2024-07-24 |
+| [Fight Some More](https://open.spotify.com/track/4Ky9mJFd5mztZfcR6z9Ko0) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Hardcore Romance](https://open.spotify.com/album/4LvgUXgET9nwyO1wpRpR0Y) | 3:48 | 2024-08-23 |  |
 | [Flashlight](https://open.spotify.com/track/4qTspjp0GiwfTTYDvhgJ6u) | [Precious Bloom](https://open.spotify.com/artist/6IFNsMUy9ZIPoITKCjMTMN) | [Flashlight](https://open.spotify.com/album/16670hpVDgDohewHKfthD6) | 7:07 | 2024-06-27 |  |
 | [flower](https://open.spotify.com/track/7xgSBx3RaTvzW6qVWOauy8) | [kei](https://open.spotify.com/artist/6BwkCs5yTqTKgg3oKfjVzJ) | [flower](https://open.spotify.com/album/2WtQETY1JytUrqxLo6Ksy4) | 3:29 | 2024-06-27 |  |
 | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Fly Me To The Moon \(From "Fly Me To The Moon" Movie\)](https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80) | 2:50 | 2024-08-01 |  |
@@ -103,14 +105,16 @@
 | [On It](https://open.spotify.com/track/1ETUIsy5AB0vRex8R5XnKj) | [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Midnight Notion](https://open.spotify.com/album/6B0zS4VpKLy0R7WyeaetbI) | 5:40 | 2024-06-27 |  |
 | [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-06-27 |  |
 | [PAPER](https://open.spotify.com/track/1f6h9GndsIZQS4kqcSgF0M) | [Belanegara Abe](https://open.spotify.com/artist/7ynDbLbbf0ldcQvzPyALuA), [Januarta](https://open.spotify.com/artist/2FyRWlpFXQPdq4JRaKLXS9), [Slayla](https://open.spotify.com/artist/4VazjevYZN85lxlc6E0CGu) | [PAPER](https://open.spotify.com/album/7iT5ZXlI7R2YYFgfeO9DCP) | 2:19 | 2024-07-25 |  |
+| [Party In Bali \(PIB\)](https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Party In Bali \(PIB\)](https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk) | 2:52 | 2024-08-23 |  |
 | [pixie dust](https://open.spotify.com/track/1l6skfQdQcDhtgC1aid8oc) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP) | [pixie dust](https://open.spotify.com/album/6JGaw5JilOBgXRUxr6VVgm) | 2:49 | 2024-06-27 |  |
 | [pixie dust \- Sihk Jawbreaker Remix](https://open.spotify.com/track/2BipYiVwCeeZw3Zb9B32dO) | [Reikko](https://open.spotify.com/artist/5n4a9seylr5pY9paMr9nWP), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [pixie dust \(Sihk Jawbreaker Remix\)](https://open.spotify.com/album/4xwuCQPIUPxvoQNaLOy2rk) | 2:22 | 2024-07-11 |  |
 | [Plastic Tears](https://open.spotify.com/track/2jyehOUAOjKd425X6qB5CF) | [VIONA](https://open.spotify.com/artist/6Ng5PoEhU9eoRDsu6f3pUa), [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL) | [Plastic Tears](https://open.spotify.com/album/6LbSQpaWQhdVDndSqrrC4O) | 2:20 | 2024-06-27 | 2024-07-12 |
 | [Pon It](https://open.spotify.com/track/0xlnJ2dcvIeTPprHRvuPhP) | [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR) | [Pon It](https://open.spotify.com/album/2ZtN4k88qToFwIflalaCfg) | 2:52 | 2024-06-27 |  |
+| [Renaissance Man](https://open.spotify.com/track/3kkrXydZaaor24348eYbIp) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Renaissance Man](https://open.spotify.com/album/3fiZhTVA6QGTc7Xw0uSXom) | 2:22 | 2024-08-23 |  |
 | [Reverie](https://open.spotify.com/track/3tEHmpoGjvi6FAcu0YGUNi) | [Aruna Dawn](https://open.spotify.com/artist/0IR68oTOmMzCDoidJ7FICS) | [Reverie](https://open.spotify.com/album/5cMhH6CED8TexREEwEKHQi) | 2:53 | 2024-06-27 | 2024-07-27 |
 | [ride](https://open.spotify.com/track/76DGdLjh2E520hCmUNzxbO) | [Emir Hermono](https://open.spotify.com/artist/4pw0ZfX3PzaBXQu1qL5G0p), [Ibrahim Hady](https://open.spotify.com/artist/7CY2yX0drmINWD5PzBxcZh) | [ride](https://open.spotify.com/album/1bHZhY0wLxuNCL0bL2C76q) | 2:57 | 2024-06-27 |  |
 | [RODEO](https://open.spotify.com/track/0XHFv970OR2DsFuZ5wphN2) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [RODEO](https://open.spotify.com/album/3rJ5KX09jYLvNEVKAaK1oh) | 2:41 | 2024-06-27 |  |
-| [Round & Round](https://open.spotify.com/track/1WcXm9lIEBwpzRhuidPijI) | [Dylan Pearce](https://open.spotify.com/artist/7KKvQnTOtvJJITks84EYjx), [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g), [Xyanu](https://open.spotify.com/artist/06dzWNEeA2LYjFwJSZ4iOl) | [Round & Round](https://open.spotify.com/album/7bz0AifWRCoUYyytRev8db) | 3:39 | 2024-08-09 |  |
+| [Round & Round](https://open.spotify.com/track/1WcXm9lIEBwpzRhuidPijI) | [Dylan Pearce](https://open.spotify.com/artist/7KKvQnTOtvJJITks84EYjx), [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g), [Xyanu](https://open.spotify.com/artist/06dzWNEeA2LYjFwJSZ4iOl) | [Round & Round](https://open.spotify.com/album/7bz0AifWRCoUYyytRev8db) | 3:39 | 2024-08-09 | 2024-08-24 |
 | [Rufus](https://open.spotify.com/track/4K1ZDFZFRXEA0t97xTrPUC) | [The High Temples](https://open.spotify.com/artist/36ku8N2i3yWGUZlp1Zm3Wh) | [Rufus/Odyssey](https://open.spotify.com/album/3Ru1lWqR5bT9AhxZJRsgcb) | 4:44 | 2024-07-11 |  |
 | [safe space](https://open.spotify.com/track/1arHEA81jsCOyaKHwEkrXc) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [i will, i'm sure](https://open.spotify.com/album/540AbpojrvWb0CvFIcA2Da) | 3:29 | 2024-06-27 | 2024-07-24 |
 | [Sandman](https://open.spotify.com/track/2nR5RuOatuTHHZeXKtw22O) | [Valentine](https://open.spotify.com/artist/0b7yUYbKbidPYkoLNAN56k) | [Sandman](https://open.spotify.com/album/1W3ikg59vMZmXLnhGCMlnh) | 1:43 | 2024-08-01 |  |
@@ -124,6 +128,8 @@
 | [Sunday Song](https://open.spotify.com/track/1uJvtc4QPyockQgGuQxZ0r) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Sunday Song](https://open.spotify.com/album/3QuIuCr8XwSA5xjqG6CYlb) | 3:30 | 2024-06-27 |  |
 | [SUNNY](https://open.spotify.com/track/3eygOmxZWUfywDRaKCH7RJ) | [IN:A](https://open.spotify.com/artist/27u2IhosoH9I9NUiHPikjJ) | [SUNNY](https://open.spotify.com/album/2RY5jFCIvyrhBy8mhFS7jg) | 2:24 | 2024-06-27 | 2024-07-12 |
 | [Sunny Days](https://open.spotify.com/track/3UUhumDP8p4E01p0XFYJPR) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Sunny Days](https://open.spotify.com/album/3pJ3n5CYENWn102UrSB4jN) | 3:56 | 2024-07-25 |  |
+| [Sunset](https://open.spotify.com/track/640IYssUkByrQsSWfs0r12) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [Sunset](https://open.spotify.com/album/3mD4drDmgID4a37nidP0kF) | 3:46 | 2024-08-23 |  |
+| [Sweet](https://open.spotify.com/track/7qiPEIyiABDUK2WAez5GC4) | [Abe Hoed](https://open.spotify.com/artist/3FGtrvyMWYYnEyCtityD8y) | [Sweet](https://open.spotify.com/album/3pcG25f5YmhBzQRCi7EuSS) | 3:09 | 2024-08-23 |  |
 | [Take It Slow](https://open.spotify.com/track/5DXX82PVYUYIdAb6czzR6l) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Take It Slow](https://open.spotify.com/album/5tmiUYxb4Xx7GgPC8D3LdZ) | 3:49 | 2024-08-01 |  |
 | [take me home](https://open.spotify.com/track/03CfNgeIsd5pKYidGk2pm3) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [take me home](https://open.spotify.com/album/1jsjYXxocWl0MyMvpCJ19k) | 4:36 | 2024-06-27 |  |
 | [Teenage Years](https://open.spotify.com/track/4Ft96mSN2Yy3BWwZ9mgcSX) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Teenage Years](https://open.spotify.com/album/4wwDH2rLj9iB2eUltgzrUY) | 4:10 | 2024-07-11 |  |

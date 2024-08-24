@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Charley Crockett",
+  "description": "A new shade of Country. Cover: Colby Acuff",
   "name": "Indigo",
   "tracks": [
     {
@@ -5106,7 +5106,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 153793,
       "name": "In Between (feat. Ken Pomeroy)",
       "url": "https://open.spotify.com/track/5NpBOItPWmAFR4V5rayGAS"
@@ -5418,7 +5418,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 178583,
       "name": "Johnny Moonshine",
       "url": "https://open.spotify.com/track/0stjCXW1ny6dRPtxhU6cqz"
@@ -6275,6 +6275,24 @@
     },
     {
       "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "Middle Of It",
+      "url": "https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS"
+    },
+    {
+      "album": {
         "name": "Mighty Beast / All the Wars from Now On",
         "url": "https://open.spotify.com/album/2H053931olSuzHhdvxpfcm"
       },
@@ -6938,6 +6956,24 @@
       "duration_ms": 226710,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
+    },
+    {
+      "album": {
+        "name": "Rhinestoned",
+        "url": "https://open.spotify.com/album/5XEFMMgAByAZq8rYn6hE6t"
+      },
+      "artists": [
+        {
+          "name": "Maggie Antone",
+          "url": "https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190124,
+      "name": "One Too Many",
+      "url": "https://open.spotify.com/track/2oKAAMhjYdsheJAo8RgtGK"
     },
     {
       "album": {

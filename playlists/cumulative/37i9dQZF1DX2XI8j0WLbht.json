@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Color, humor y narrativas contempor\u00e1neas que recorren toda Latinoam\u00e9rica. Manu Chao en portada.",
+  "description": "Color, humor y narrativas contempor\u00e1neas que recorren toda Latinoam\u00e9rica. The Mexican Standoff en portada.",
   "name": "Folclor N\u00f3mada",
   "tracks": [
     {
@@ -642,7 +642,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 196390,
       "name": "Cuc\u00fa",
       "url": "https://open.spotify.com/track/6Tzp2xOa46S6lXYjdLSi1w"
@@ -878,6 +878,32 @@
       "duration_ms": 220862,
       "name": "El Lobo",
       "url": "https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM"
+    },
+    {
+      "album": {
+        "name": "El Pantal\u00f3n Blue Jean",
+        "url": "https://open.spotify.com/album/50jPfEfaUjR2NqFmD2yekn"
+      },
+      "artists": [
+        {
+          "name": "The Mexican Standoff",
+          "url": "https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts"
+        },
+        {
+          "name": "Los Texmaniacs",
+          "url": "https://open.spotify.com/artist/1CMRsisCxvV0fXDzxUbiwV"
+        },
+        {
+          "name": "Flaco Jimenez",
+          "url": "https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "El Pantal\u00f3n Blue Jean",
+      "url": "https://open.spotify.com/track/5ssDbtA9UgQz8hBgbA2VTP"
     },
     {
       "album": {

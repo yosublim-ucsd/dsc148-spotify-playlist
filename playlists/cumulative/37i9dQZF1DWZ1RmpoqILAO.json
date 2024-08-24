@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "indie tunes with country experimentation featuring music from The Japanese House \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
+  "description": "indie tunes with country experimentation featuring music from MJ Lenderman \ud83c\udf1f\ud83c\udf1f\ud83c\udf1f",
   "name": "Indie Twang",
   "tracks": [
     {
@@ -2389,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Joker Lips",
+        "url": "https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181040,
+      "name": "Joker Lips",
+      "url": "https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX"
+    },
+    {
+      "album": {
         "name": "Florist",
         "url": "https://open.spotify.com/album/5VAH7pRonDHlMiLLfCGpaK"
       },
@@ -3488,7 +3506,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 278226,
       "name": "She's Leaving You",
       "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"

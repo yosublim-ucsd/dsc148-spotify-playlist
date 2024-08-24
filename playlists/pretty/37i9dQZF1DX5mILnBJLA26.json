@@ -1,13 +1,37 @@
 {
-  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/1W5wfiEUdPebJdwmyglKP4?si=qjmcqNPeQh-7FP8-ASs5pQ\">Cyfred</a>",
-  "num_followers": 842297,
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u?si=di5PZMWvQeSBdkG7RCcbkw\">Sayfar</a>",
+  "num_followers": 843297,
   "original_name": "AMAPIANO GROOVES",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsMIowAAAAAt72QuTkSx/8KyKAVcoL1B",
+  "snapshot_id": "ZshJJAAAAAC1Utdig7+BuTrdceRa2P6A",
   "tracks": [
+    {
+      "added_at": "2024-08-23 08:32:36",
+      "album": {
+        "name": "Manje",
+        "url": "https://open.spotify.com/album/1qGlnxxBnS3OxgLD9ikyPK"
+      },
+      "artists": [
+        {
+          "name": "Sayfar",
+          "url": "https://open.spotify.com/artist/1y9NmDltEwzLlhMowk4q5u"
+        },
+        {
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        }
+      ],
+      "duration_ms": 342289,
+      "name": "Manje",
+      "url": "https://open.spotify.com/track/6BZfqUo03B6jZ3NHvJNLQ2"
+    },
     {
       "added_at": "2024-08-19 08:56:03",
       "album": {

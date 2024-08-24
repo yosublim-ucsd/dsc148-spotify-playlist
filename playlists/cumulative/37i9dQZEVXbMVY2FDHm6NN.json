@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 162840,
       "name": "ABCD",
       "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
@@ -688,7 +688,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -952,6 +952,28 @@
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
+    },
+    {
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "album": {
@@ -1346,7 +1368,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
@@ -1364,7 +1386,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 212734,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi"
@@ -1404,7 +1426,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
@@ -1834,7 +1856,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 174580,
       "name": "I Hate Myself Sometimes",
       "url": "https://open.spotify.com/track/5znau6BqFcgBkyQGcOutil"
@@ -1856,7 +1878,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 174580,
       "name": "I Hate Myself Sometimes",
       "url": "https://open.spotify.com/track/72mpLVMCFHmrV31xiJj6Vt"
@@ -2673,6 +2695,28 @@
     },
     {
       "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
         "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
       },
@@ -3382,7 +3426,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/3lwK3WyKAI5bUuGY1OgGbZ"
@@ -3868,7 +3912,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4"
@@ -3904,7 +3948,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
@@ -4816,6 +4860,24 @@
       "duration_ms": 227269,
       "name": "\u4e0d\u559c\u6b61\u6c92\u6709\u4f60\u7684\u5730\u65b9",
       "url": "https://open.spotify.com/track/1R0OkkgvpoIqA0XdU0YSp4"
+    },
+    {
+      "album": {
+        "name": "\u4e0d\u5c0f\u5fc3 (\u96fb\u5f71\u300a\u590f\u65e5\u7684\u6ab8\u6aac\u8349\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/5Rwv3r2MSbKNGFvSBoipyR"
+      },
+      "artists": [
+        {
+          "name": "\u5a41\u5cfb\u78a9",
+          "url": "https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252605,
+      "name": "\u4e0d\u5c0f\u5fc3 - \u96fb\u5f71\u300a\u590f\u65e5\u7684\u6ab8\u6aac\u8349\u300b\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/7hvs8UV83TpZV0Jiu84OsT"
     },
     {
       "album": {
@@ -5992,7 +6054,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 283000,
       "name": "\u611b\u4e0d\u611b\u6211",
       "url": "https://open.spotify.com/track/5Mxrr2d5V0f5btmaxm1w3X"
@@ -6277,6 +6339,28 @@
     },
     {
       "album": {
+        "name": "\u624b\u6a5f\u9322\u5305\u9470\u5319\u83f8 (Ft. \u76e7\u5ee3\u4ef2)",
+        "url": "https://open.spotify.com/album/5mb99zTzuEmUFdUcslQbQS"
+      },
+      "artists": [
+        {
+          "name": "Amazing Show",
+          "url": "https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI"
+        },
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200552,
+      "name": "\u624b\u6a5f\u9322\u5305\u9470\u5319\u83f8 (Ft. \u76e7\u5ee3\u4ef2)",
+      "url": "https://open.spotify.com/track/2DhX6wct6tY8lbZpq5KgXp"
+    },
+    {
+      "album": {
         "name": "\u6211\u80af\u5b9a\u5728\u5e7e\u767e\u5e74\u524d\u5c31\u8aaa\u904e\u611b\u4f60",
         "url": "https://open.spotify.com/album/7yvCk24AtE9k0vLcolSs2i"
       },
@@ -6414,7 +6498,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 218350,
       "name": "\u661f\u671f\u4e94\u665a\u4e0a",
       "url": "https://open.spotify.com/track/7JKYx62KGXytK27ZInyAHG"
@@ -6732,6 +6816,24 @@
       "duration_ms": 160208,
       "name": "\u6c92\u6709\u95dc\u4fc2",
       "url": "https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC"
+    },
+    {
+      "album": {
+        "name": "\u6211\u5011\u4ee5\u5f8c\u8981\u7d50\u5a5a",
+        "url": "https://open.spotify.com/album/0mnRDacFJUE7YDLLIUwTbL"
+      },
+      "artists": [
+        {
+          "name": "EggPlantEgg",
+          "url": "https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253723,
+      "name": "\u6d6a\u6d41\u9023",
+      "url": "https://open.spotify.com/track/1IS0WFyiVpwsATeSzjEvpI"
     },
     {
       "album": {
@@ -7248,7 +7350,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-20",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "\u9019\u9ebc\u591a\u5e74 - \u96fb\u5f71\u300a\u6211\u60f3\u548c\u4f60\u5728\u4e00\u8d77\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/5NykvdFrH8mejmohWZvIWo"

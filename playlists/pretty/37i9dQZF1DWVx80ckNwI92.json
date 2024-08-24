@@ -1,13 +1,29 @@
 {
-  "description": "The future of African Indie and Alternative. Cover: Hugo Pooe",
-  "num_followers": 6709,
+  "description": "The future of African Indie and Alternative. Cover: <a href=\"https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW?si=zzLUoLWXTQ-1K4bkD6aCVQ\">Leomile</a>",
+  "num_followers": 6706,
   "original_name": "ALTER-native",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpmecAAAAABqMXMkK7a4Y7PWDXeRHB4P",
+  "snapshot_id": "Zsgp7wAAAAAbRR4mRasY7vmdA3abYP94",
   "tracks": [
+    {
+      "added_at": "2024-08-23 06:19:27",
+      "album": {
+        "name": "Nevermind.",
+        "url": "https://open.spotify.com/album/5vTrYfOMYC8Hh5Vpc9sjnY"
+      },
+      "artists": [
+        {
+          "name": "Leomile",
+          "url": "https://open.spotify.com/artist/0OptNOG76pN5MwzhzkUaSW"
+        }
+      ],
+      "duration_ms": 151408,
+      "name": "Nevermind.",
+      "url": "https://open.spotify.com/track/31lU9LGAQ9UhrDBTwdvNm5"
+    },
     {
       "added_at": "2024-07-18 23:00:00",
       "album": {

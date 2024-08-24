@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 ### [Kollywood Themes](https://open.spotify.com/playlist/37i9dQZF1DWUptwB9dhZvQ)
 
-> Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
+> Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,441 likes - 77 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,465 likes - 77 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 76 | [Con Man Theme \(From "Masss"\)](https://open.spotify.com/track/3aTwmfaxQ6icUXmVCvPc8b) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Masss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hzJ98YUQ00xb3FBzWOjPC) | 2:23 |
 | 77 | [Manmadhan Theme Music](https://open.spotify.com/track/5Q0ffIynfGqumKoJuqjlEC) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\) \- Bonus Tracks](https://open.spotify.com/album/6k25DINuCoGsG1rayjLqSt) | 1:23 |
 
-Snapshot ID: `ZnlNyQAAAABZicKhW0o2mJyiaxPstyq2`
+Snapshot ID: `ZshM4AAAAABlB77M7ely9qp3SiV4+Eyd`

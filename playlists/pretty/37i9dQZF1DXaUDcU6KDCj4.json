@@ -1,13 +1,269 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Ray LaMontagne",
-  "num_followers": 802428,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Mon Rov\u00eea",
+  "num_followers": 802645,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAACJAZ2aIbdgFo3xiP+BU9Ax",
+  "snapshot_id": "ZsgJQAAAAAB6KtaAVGFOggcyMpEy6s2U",
   "tracks": [
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Do You Haunt Me",
+        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 193155,
+      "name": "Do You Haunt Me",
+      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "crooked the road.",
+        "url": "https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "crooked the road.",
+      "url": "https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Please Slow Down",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 163324,
+      "name": "Please Slow Down",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Casual Drug Use",
+        "url": "https://open.spotify.com/album/6Zix2cAzCUIJrlTRbPAsJe"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        }
+      ],
+      "duration_ms": 191601,
+      "name": "Casual Drug Use",
+      "url": "https://open.spotify.com/track/1PrvJfraAbqeqXjXOHUazh"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/0mOvApuMW4itdILMv3Cfug"
+      },
+      "artists": [
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/4lks4mEKMApTCgC6NF8enH"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "martingale",
+        "url": "https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 257851,
+      "name": "martingale",
+      "url": "https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "No One\u2019s Gonna Love You Like I Can",
+        "url": "https://open.spotify.com/album/5JoMxxvtDzOfaIW1YOYxSu"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 122624,
+      "name": "No One's Gonna Love You Like I Can",
+      "url": "https://open.spotify.com/track/7jLMyy8FS31sTUPd4vNaWZ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Stratosphere Blues / I Believe In You",
+        "url": "https://open.spotify.com/album/6Aebvjv6Si7T8atsk3mxA2"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 350746,
+      "name": "Stratosphere Blues / I Believe in You",
+      "url": "https://open.spotify.com/track/4AncNup4cxUqJI2khU1Eq3"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Beauty School",
+        "url": "https://open.spotify.com/album/5ECvC9nLKDcgFJZbgEuwbw"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "Beauty School",
+      "url": "https://open.spotify.com/track/2OBkztfXpBHAcanmlvj0JS"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Stained Glass",
+        "url": "https://open.spotify.com/album/7j0kfKJFYdDoK5NbQ1Ikv6"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 219359,
+      "name": "Left of Me",
+      "url": "https://open.spotify.com/track/1ePMaox31BBUKy5nxwyYyf"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "DON'T WANNA HEAR THAT SONG ANYMORE",
+        "url": "https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "DON'T WANNA HEAR THAT SONG ANYMORE",
+      "url": "https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Heartbreak Rodeo",
+        "url": "https://open.spotify.com/album/0zy1HOwPKMbbHGhYoecsFe"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 187633,
+      "name": "Heartbreak Rodeo",
+      "url": "https://open.spotify.com/track/3pPcEKe8l6kylaLchvQCXU"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "A Country Dance",
+        "url": "https://open.spotify.com/album/39ZxoCaRZcE8kjs8j9JrZU"
+      },
+      "artists": [
+        {
+          "name": "Joanna Sternberg",
+          "url": "https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI"
+        }
+      ],
+      "duration_ms": 177023,
+      "name": "A Country Dance",
+      "url": "https://open.spotify.com/track/70STpXvjirFK1ZKL7gTokK"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Threads",
+        "url": "https://open.spotify.com/album/0Xhz0jgZNqaA3UCkqiaRbC"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 165741,
+      "name": "7 flowers",
+      "url": "https://open.spotify.com/track/2lUhiPwGPDsgELctdkrS2V"
+    },
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
@@ -2239,266 +2495,6 @@
       "duration_ms": 200724,
       "name": "Oh My My",
       "url": "https://open.spotify.com/track/6pCSZtcwnhYTEayZELCJl3"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/5hHJEg1omCYfQDzaPw674E"
-      },
-      "artists": [
-        {
-          "name": "Willie Watson",
-          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
-        }
-      ],
-      "duration_ms": 343756,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/2gWLBnIi5tph6aqeiNNoNm"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "American Son",
-        "url": "https://open.spotify.com/album/47zGI80MnyO7qSmFwxgvta"
-      },
-      "artists": [
-        {
-          "name": "Colby Acuff",
-          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "American Son",
-      "url": "https://open.spotify.com/track/0v3F6RV8nLTGPFnZfV7KsW"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Big Crown Vaults Vol. 2",
-        "url": "https://open.spotify.com/album/6aVMpJwZmdNp7b0eV0rCIZ"
-      },
-      "artists": [
-        {
-          "name": "The Shacks",
-          "url": "https://open.spotify.com/artist/6vqxTQz5ZOfRSQZWfes7mR"
-        }
-      ],
-      "duration_ms": 215541,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/3AOL9XMk8j0c6nB9OXrMNV"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Wild Eyed Blue",
-        "url": "https://open.spotify.com/album/3XXnTDUTkmCbw8Uxye4xjv"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "Wild Eyed Blue",
-      "url": "https://open.spotify.com/track/63wUVbhOemz0dCHZWXS3DX"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Take Her With Me",
-        "url": "https://open.spotify.com/album/4kKw5A8ylCvmNevEikVH8W"
-      },
-      "artists": [
-        {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
-        },
-        {
-          "name": "Brittony May",
-          "url": "https://open.spotify.com/artist/2KclrycahxvJxfZfUBPJLc"
-        }
-      ],
-      "duration_ms": 173060,
-      "name": "Take Her With Me",
-      "url": "https://open.spotify.com/track/3a2DCHz2kOnxqmaoXiRZ4o"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/2ap20TnfZUSbmas2IYCB7e"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 154340,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/4SpRlGOIkzx9bLfxl40wae"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Victory Song",
-        "url": "https://open.spotify.com/album/3WLD7sI4QdVOA0qLIC47WF"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 188426,
-      "name": "Victory Song",
-      "url": "https://open.spotify.com/track/38sXkXANlA2xbrbt8y7CHZ"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Nothing To You",
-        "url": "https://open.spotify.com/album/5Ct0WpbCZQZd90RRyppQ5J"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 191424,
-      "name": "Nothing To You",
-      "url": "https://open.spotify.com/track/6UDzdLmiAhgr6wGpVlyUKp"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "For all my eyes have seen",
-        "url": "https://open.spotify.com/album/56zLXVP20MYSoP0UV90B9c"
-      },
-      "artists": [
-        {
-          "name": "Rowan Drake",
-          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
-        }
-      ],
-      "duration_ms": 281410,
-      "name": "Unsee",
-      "url": "https://open.spotify.com/track/4s4Qxld7g6ydIcQ5Ir6MTf"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Speak the Word to Hear the Sound",
-        "url": "https://open.spotify.com/album/4shtmmwjJnSUXZYbuNtLnQ"
-      },
-      "artists": [
-        {
-          "name": "Alycia Lang",
-          "url": "https://open.spotify.com/artist/7tjNex1evNPneJtpH3Lps8"
-        }
-      ],
-      "duration_ms": 265287,
-      "name": "Canaries",
-      "url": "https://open.spotify.com/track/1rUxpwM4pNOlIf2CAoVw2T"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Early Morning Sun",
-        "url": "https://open.spotify.com/album/3b8Exk4GmAPa3OVUNhij5L"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 191493,
-      "name": "Early Morning Sun",
-      "url": "https://open.spotify.com/track/6irktO5jFEuTjSEB8FIXlS"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "All I Ever",
-        "url": "https://open.spotify.com/album/7AorJqqart4ZxXkIAOsUOM"
-      },
-      "artists": [
-        {
-          "name": "Chelou",
-          "url": "https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq"
-        }
-      ],
-      "duration_ms": 149734,
-      "name": "All I Ever",
-      "url": "https://open.spotify.com/track/3D1CGjCwOJlCeacxmWR3bj"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "The Bird",
-        "url": "https://open.spotify.com/album/6ARTBe25ddBVKujpTrpSmC"
-      },
-      "artists": [
-        {
-          "name": "Delilah Montagu",
-          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
-        }
-      ],
-      "duration_ms": 197712,
-      "name": "Do You Wanna Believe Me",
-      "url": "https://open.spotify.com/track/2sBzb6gHWU4uPMvpTFauAe"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Body of Light",
-        "url": "https://open.spotify.com/album/53hubpsxg8vxd4VK7evRBO"
-      },
-      "artists": [
-        {
-          "name": "The Dead Tongues",
-          "url": "https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Daylily",
-      "url": "https://open.spotify.com/track/12FdjLNa5Hdmp1iBcS5IYr"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "I'm Sorry",
-        "url": "https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L"
-      },
-      "artists": [
-        {
-          "name": "Cordelia",
-          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
-        }
-      ],
-      "duration_ms": 184898,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm"
-    },
-    {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "A Little Mad",
-        "url": "https://open.spotify.com/album/5QyWbrGonZRed6HrjQoZBF"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 137542,
-      "name": "A Little Mad",
-      "url": "https://open.spotify.com/track/6Y6W9F7xM18JhB8L8LY58D"
     }
   ],
   "unique_name": "Fresh Folk",

@@ -4,7 +4,7 @@
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-340 songs - 21 hr 37 min
+341 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [I'll Never Forget The Time I Spent With You](https://open.spotify.com/track/4fdTYbdskQ3GqivKixQq97) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [How Beautiful Life Can Be](https://open.spotify.com/album/2r8yXie5ySfYgRuxmceSmf) | 3:13 | 2022-08-15 | 2023-08-26 |
 | [I'll Never Make It](https://open.spotify.com/track/4B4kG3ecG3WOOHd5irCPGb) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 5:37 | 2023-08-08 | 2024-04-19 |
 | [I'll Never Make It](https://open.spotify.com/track/5cVKrJVfZPSMqeBkyoMfvM) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [I'll Never Make It b/w Don't Fade Out](https://open.spotify.com/album/2WB0hSKhms2361VLihdxRa) | 5:37 | 2023-09-21 | 2024-08-19 |
+| [I'm Ready](https://open.spotify.com/track/1RPmeICY33v1lLiq6Gqj1r) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 3:14 | 2024-08-18 |  |
 | [I've Got A Bad Bad Feeling](https://open.spotify.com/track/4ApZHEHDUDh4j48X3shcnY) | [Swimmingly](https://open.spotify.com/artist/5TwNdcFYWfZtvq3uUPKvTg) | [I've Got A Bad Bad Feeling](https://open.spotify.com/album/3K31D1r7thS4Lj04sdYhap) | 2:54 | 2022-10-06 | 2023-09-22 |
 | [In From Japan](https://open.spotify.com/track/0LxU43GrDXaH5EMZdNJDtm) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In From Japan](https://open.spotify.com/album/22svVKvi5msG9GcGcQOPcT) | 4:22 | 2022-09-09 | 2022-09-24 |
 | [In Plain Sight](https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [In Plain Sight](https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0) | 2:36 | 2023-08-08 |  |
@@ -334,7 +335,7 @@
 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2022-06-22 | 2023-08-09 |
 | [White Winter Hymnal](https://open.spotify.com/track/4XTuSMs47SIg35KxhNIUGe) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/1rfgmU0AYNwWfS88pCOlX7) | 2:27 | 2021-12-03 | 2022-07-29 |
 | [White Winter Hymnal](https://open.spotify.com/track/7II56zDppy5Zyj1oJhkkZ1) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection 2006\-2009](https://open.spotify.com/album/6ou9sQOsIY5xIIX417L3ud) | 2:27 | 2022-10-06 | 2022-11-13 |
-| [Why Not?](https://open.spotify.com/track/4CZrDrP8pmwHkUl2eqwPeG) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Why Not?](https://open.spotify.com/album/1B3Vg4apTV7ods0nVQmuNF) | 2:29 | 2022-09-23 |  |
+| [Why Not?](https://open.spotify.com/track/4CZrDrP8pmwHkUl2eqwPeG) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Why Not?](https://open.spotify.com/album/1B3Vg4apTV7ods0nVQmuNF) | 2:29 | 2022-09-23 | 2024-08-24 |
 | [Wild Winds](https://open.spotify.com/track/1RV6KELv1ZX4BoO2RxF5NS) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Wild Winds](https://open.spotify.com/album/2G58RVCdP81L0t60yjJfXN) | 3:33 | 2022-10-13 |  |
 | [Witches](https://open.spotify.com/track/4CZgaNdobtnTfBevPBje0c) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Witches](https://open.spotify.com/album/63OtMpfcpIe7FiXY2Cpb4v) | 3:15 | 2023-09-21 | 2024-08-19 |
 | [Witches](https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Witches](https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM) | 3:15 | 2023-08-08 | 2024-04-19 |

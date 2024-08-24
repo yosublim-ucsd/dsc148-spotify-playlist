@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Kya Logey Tum' by B Praak & Jaani
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,106 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,173 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 | 45 | [Yaad Piya Ki Aane Lagi](https://open.spotify.com/track/0TkquWzzuxcrwbCWlTrKYF) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Lalit Sen](https://open.spotify.com/artist/5fDnhohLUsWhN7MUXse3QS) | [Yaad Piya Ki Aane Lagi](https://open.spotify.com/album/4c3IszwqbBtplyBxZc61rS) | 4:16 |
 | 46 | [Naach Meri Rani](https://open.spotify.com/track/1orM67pmkNc4alrZkWjYkV) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Naach Meri Rani](https://open.spotify.com/album/5bimKHx8YBRQBsoph5sODo) | 3:32 |
 | 47 | [Teri Aankhon Mein](https://open.spotify.com/track/3wmI2n0Whs6kg4MT8jFRU1) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Teri Aankhon Mein](https://open.spotify.com/album/77dwEKk1JI2JN9L5tg8d7t) | 4:21 |
-| 48 | [Leja Re](https://open.spotify.com/track/68iBMrMRc1rg4eAxJbvxch) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Leja Re](https://open.spotify.com/album/3Qx3ApbCoc45FxqRVkty7E) | 3:25 |
+| 48 | [Titliaan](https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Sargun Mehta](https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z) | [Titliaan](https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku) | 3:15 |
 | 49 | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7) | [Genda Phool \(feat\. Payal Dev\)](https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV) | 2:50 |
 | 50 | [Dil Tod Ke](https://open.spotify.com/track/71OoohX1NBG4ez6eijgaWE) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Dil Tod Ke](https://open.spotify.com/album/5mWY0yGOJSTeTN8zQmbm9L) | 3:59 |
 

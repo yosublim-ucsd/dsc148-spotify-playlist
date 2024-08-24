@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-446 songs - 1 day 15 hr 20 min
+447 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [El Tiempo](https://open.spotify.com/track/3gqn5ShJpp0VTnPNzpdfJi) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Combinations EP](https://open.spotify.com/album/7qrdnd3NoxZwClPen84lC9) | 6:11 | 2023-04-07 | 2024-08-22 |
 | [Elamy](https://open.spotify.com/track/6jdaBz780wecXanS9elu68) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Elamy](https://open.spotify.com/album/6Kuuqtn0uf0kJ4r8fmSUi6) | 4:38 | 2022-04-15 | 2024-03-08 |
 | [En Route to Atlanta](https://open.spotify.com/track/5ubs1jwENWd53GCdfSOuuW) | [Lützenkirchen](https://open.spotify.com/artist/22kkH3Nik327a1kc4OXz8d) | [Run Coward Run](https://open.spotify.com/album/5E6UfUKKYZ3Ks5lhYe5hxf) | 6:22 | 2022-04-15 | 2022-07-03 |
+| [ENERGY](https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [THIS IS NOT AN ALBUM](https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt) | 6:17 | 2024-08-21 |  |
 | [EPICA MAXIMA](https://open.spotify.com/track/1ln3mQQP4daxuTtvcJTSyP) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [OXYMOREWORKS](https://open.spotify.com/album/41E84NAYxLXdVsVW2cslo0) | 5:17 | 2023-11-27 | 2024-04-26 |
 | [ESOTERIC TULUM BANGER](https://open.spotify.com/track/7xIbwmLl3uXs0J47x7uHev) | [Adryiano](https://open.spotify.com/artist/2fRT8ojJkJjfr6Z2zNo0WH) | [ESOTERIC TULUM BANGER](https://open.spotify.com/album/20kO9E9eeZzyRGap6tEXJ5) | 6:49 | 2022-06-24 | 2022-07-19 |
 | [Espíritu de la Tierra](https://open.spotify.com/track/2Wrsk3l6kA2LBjs2V7krgx) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU), [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Espíritu de la Tierra](https://open.spotify.com/album/3OXOruY0PfamK5rjL4fuHW) | 6:48 | 2022-04-15 | 2022-07-26 |
@@ -335,7 +336,7 @@
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-11-14 |  |
 | [Riddm \- DJ ÆDIDIAS Remix](https://open.spotify.com/track/6AlWtGphjy0VWq2mpOEWqe) | [No\_4mat](https://open.spotify.com/artist/0KWgRtUbQXSiICkWp7g213), [Mantis Hands](https://open.spotify.com/artist/1iqF9deWyPSHS48JzVFUk4), [DJ ÆDIDIAS](https://open.spotify.com/artist/0w6ZceEXUiil9lGTzZRAAZ) | [Riddm \(DJ ÆDIDIAS Remix\)](https://open.spotify.com/album/0PXrQobfWuMfNFP460wJso) | 4:07 | 2022-04-15 | 2022-04-21 |
 | [Rider](https://open.spotify.com/track/4r0HVrlaSAFx4usOEXEf2G) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Rider](https://open.spotify.com/album/49R5umJQYx9Gk02aamMFsv) | 3:49 | 2024-04-11 | 2024-06-08 |
-| [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 | 2023-08-30 |  |
+| [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 | 2023-08-30 | 2024-08-24 |
 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 | 2023-04-07 | 2024-07-05 |
 | [Rituals](https://open.spotify.com/track/4AgbFfaJGqz7vBCpmapJQO) | [Steand](https://open.spotify.com/artist/2lX40grYVkSFaWX6vWOquI), [Andy Kulter](https://open.spotify.com/artist/2wHIfsNcNgN0dKxYa2XOF6) | [Rituals](https://open.spotify.com/album/6aPY8GoHHfEUv1aVMMf58J) | 5:57 | 2023-01-13 | 2023-02-04 |
 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 | 2024-02-13 | 2024-03-20 |

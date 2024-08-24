@@ -4,7 +4,7 @@
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Strat
 
-134 songs - 6 hr 18 min
+135 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [PA TY](https://open.spotify.com/track/5KAFVVP37eGo6pn9qUUlBC) | [Likeboss](https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73), [ROPEX LATERIO](https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9), [Paris Kalpos](https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM) | [PA TY](https://open.spotify.com/album/5iS25SyRDFUcns0Fs4dDio) | 2:33 | 2024-08-01 | 2024-08-23 |
 | [Pasar \(oulele\)](https://open.spotify.com/track/7kGAJAa3cFDO4qsg2Sismf) | [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR) | [Pasar \(oulele\)](https://open.spotify.com/album/13e2DVAkijKHghalFWstVR) | 4:11 | 2024-07-04 | 2024-07-19 |
 | [Passion Haze](https://open.spotify.com/track/4ZF96qGBiidcn7XHyjUnYm) | [Retro](https://open.spotify.com/artist/09E3lzgW2TIZZaDAB2y4nb), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [Passion Haze](https://open.spotify.com/album/2V0SJWjhXpcxZXq7w4dEd5) | 2:59 | 2024-07-18 | 2024-08-02 |
+| [Phantom](https://open.spotify.com/track/2lzP8ZaWG45DhmaMZ7L7q3) | [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR), [Prznt](https://open.spotify.com/artist/57kVlVXJYheaFNXA91qP4w), [SLVG](https://open.spotify.com/artist/779QJkvhTmrxtUGaMo8QbK) | [Phantom](https://open.spotify.com/album/5kgt1ltex1gi2HOBBe4UiI) | 3:24 | 2024-08-22 |  |
 | [PLAIN JANE](https://open.spotify.com/track/1a929Dhxncp5JHP8hFqPF4) | [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Younggbeatz](https://open.spotify.com/artist/5jF0NtCmF4JWI7NxdcsHmE) | [PLAIN JANE](https://open.spotify.com/album/4SCsSHeYkx46cu5Niyki1a) | 2:32 | 2024-07-11 | 2024-07-27 |
 | [POLICIA](https://open.spotify.com/track/0uAPYmZsrCRxmDj7wPFaBG) | [Verde](https://open.spotify.com/artist/5caqmh5ZXnKSx8vmdsCA9v), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Echo](https://open.spotify.com/artist/0JfrxGQOdnHYZWBAtzPezD) | [POLICIA](https://open.spotify.com/album/6rvJfaK4fjRwbPa2KjCFWZ) | 2:33 | 2024-07-18 |  |
 | [Pornstar .i.](https://open.spotify.com/track/3ijZezhpvrHubmkbOGj6bJ) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB) | [Pre Za Ki](https://open.spotify.com/album/0CYhzv8lk2aMXgy5XBkxsD) | 2:48 | 2024-06-27 | 2024-07-05 |
@@ -131,7 +132,7 @@
 | [Trap](https://open.spotify.com/track/4TzuhUQ81vpZAs5V3Yk0Wi) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [Trap](https://open.spotify.com/album/08lV4mpT5TQ9GxfepeCLzu) | 3:10 | 2024-06-27 |  |
 | [TRAP BABY](https://open.spotify.com/track/0G6PeftMRYSm3PUlTUHZko) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [TRAP BABY](https://open.spotify.com/album/29GYtBFhfqyQDUsgqNO0wA) | 2:36 | 2024-06-27 | 2024-08-09 |
 | [TTG](https://open.spotify.com/track/1oQeqOY7x547NT2sIoLNyd) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [TTG](https://open.spotify.com/album/1gq0igzktvaGSza3o872s6) | 1:51 | 2024-06-27 | 2024-07-12 |
-| [U/2](https://open.spotify.com/track/4H1kdmHykpDLziS7kKHopG) | [Gio Melody](https://open.spotify.com/artist/0Sh0w5zB1VEVANn4VO0GEp), [Riskykidd](https://open.spotify.com/artist/3lDfsS6EuLofMXRdKpypb2), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [A.R.T.E.](https://open.spotify.com/album/0jWVdAak4dUjrcy9Gwnvxt) | 1:58 | 2024-08-22 |  |
+| [U 2 <3](https://open.spotify.com/track/4H1kdmHykpDLziS7kKHopG) | [Gio Melody](https://open.spotify.com/artist/0Sh0w5zB1VEVANn4VO0GEp), [Riskykidd](https://open.spotify.com/artist/3lDfsS6EuLofMXRdKpypb2), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [A.R.T.E.](https://open.spotify.com/album/0jWVdAak4dUjrcy9Gwnvxt) | 1:58 | 2024-08-22 |  |
 | [Valaoritou](https://open.spotify.com/track/1qnGRggChnWJ6FWM2FRL7n) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Fthina Tricks 2](https://open.spotify.com/album/723nAhgLLTPuxBuJlsNSOU) | 3:01 | 2024-06-27 |  |
 | [Vamos A Bailar](https://open.spotify.com/track/454F8uQt4IlAvBvh54CRrG) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA) | [Vamos A Bailar](https://open.spotify.com/album/6HdALb6FUd6pad2uYgudSZ) | 2:14 | 2024-08-01 |  |
 | [Verano](https://open.spotify.com/track/1iyeUhzobrowCtTwKf4BrY) | [Kimi](https://open.spotify.com/artist/6uhMFybh7MnkaBS2EgyzNw), [Dirty Harry](https://open.spotify.com/artist/7BXe1v4YJm7R5wg2ioeA1q), [Echο](https://open.spotify.com/artist/3gJkEpmd7y2TsfAnyTGSTK) | [Verano](https://open.spotify.com/album/2eUmAm9rSyQtjXHLP3Cdas) | 3:15 | 2024-08-22 |  |

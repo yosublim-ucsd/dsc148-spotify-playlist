@@ -2401,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "Blood $oda",
+        "url": "https://open.spotify.com/album/0qgmBQ4wi11o8SMR1onUNH"
+      },
+      "artists": [
+        {
+          "name": "SWARM6IX",
+          "url": "https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184370,
+      "name": "Blood $oda",
+      "url": "https://open.spotify.com/track/3aY20b8Gp7v95zWYeyR9OK"
+    },
+    {
+      "album": {
         "name": "Krewe D'Amour, Vol. 2",
         "url": "https://open.spotify.com/album/5vvNSlSJC11OnhvE8Esqnx"
       },
@@ -13482,7 +13500,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 212413,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/2KVE3CIYhD83nTwI2HGio9"

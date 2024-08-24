@@ -1,12 +1,12 @@
 {
-  "description": "This Is Thursday. Los temas esenciales, todos en una lista.",
-  "num_followers": 4349,
+  "description": "This is Thursday. The essential tracks, all in one playlist.",
+  "num_followers": 4352,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAALMJj+bNdzjhH67iWVMjcI",
+  "snapshot_id": "ZsZ/gAAAAADbkK9i0r2bXlUY+b8xUjxS",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Devoluci\u00f3n",
-        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 293973,
-      "name": "Turnpike Divides",
-      "url": "https://open.spotify.com/track/1FgPKrJkqR16RSdDUMBUSA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A City By The Light Divided",
         "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 281213,
       "name": "The Other Side Of The Crash/Over And Out (Of Control)",
       "url": "https://open.spotify.com/track/41fAJ4UTQemRnjRkJRstZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Devoluci\u00f3n",
+        "url": "https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 293973,
+      "name": "Turnpike Divides",
+      "url": "https://open.spotify.com/track/1FgPKrJkqR16RSdDUMBUSA"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 239013,
-      "name": "Beyond The Visible Spectrum",
-      "url": "https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z"
+      "duration_ms": 243760,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 243760,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g"
+      "duration_ms": 239013,
+      "name": "Beyond The Visible Spectrum",
+      "url": "https://open.spotify.com/track/1v1xzaGKeKyjb8kuinY47z"
     }
   ],
   "unique_name": "This Is Thursday",

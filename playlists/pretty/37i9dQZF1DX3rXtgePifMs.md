@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 
 > The official EA SPORTS FC 24 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,300 likes - 110 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,440 likes - 110 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 64 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 |
 | 65 | [Shut It Down](https://open.spotify.com/track/6k1JXdWW1ZGAcTUtjao9d6) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [Shut It Down](https://open.spotify.com/album/50WI8N9WqWFJ13nfogGsQB) | 2:42 |
 | 66 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 |
-| 67 | [smile](https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx) | [Insincere](https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI) | [smile](https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a) | 2:45 |
-| 68 | [The Gates Will Open](https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2) | [The Gates Will Open](https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv) | 5:46 |
+| 67 | [The Gates Will Open](https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4) | [Karma Kid](https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2) | [The Gates Will Open](https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv) | 5:46 |
+| 68 | [smile](https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx) | [Insincere](https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI) | [smile](https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a) | 2:45 |
 | 69 | [Sigo Tus Pasos](https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Barzo](https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO) | [Sigo Tus Pasos](https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub) | 4:02 |
 | 70 | [FLATLINE](https://open.spotify.com/track/0i2RbagsiSkoYlyVyY06mj) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [FLATLINE](https://open.spotify.com/album/68qY8pAl8uRX4XxzTJ64cf) | 3:45 |
 | 71 | [Running Water](https://open.spotify.com/track/3JUDKFLxLlSQe7lBI1xkin) | [Soo Joo](https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Running Water](https://open.spotify.com/album/5aABozC2vJE5ZeKyzRp8zt) | 4:00 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rXtgePifMs.md) - [plain]
 | 99 | [I Can't Stay](https://open.spotify.com/track/2J0NODVUeY1wMGFjsl4CRR) | [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL), [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2) | [I Can't Stay](https://open.spotify.com/album/3p4oXVXJ7PK0POkgQ6a87U) | 4:17 |
 | 100 | [THAT GIRL](https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [THAT GIRL](https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE) | 2:05 |
 | 101 | [I Go Get It](https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt) | [Souls Of Creation](https://open.spotify.com/artist/2IdVY7sUy5Dvugq7YXpp9L), [Bobbie Johnson](https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO) | [I Go Get It](https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL) | 2:11 |
-| 102 | [MMM](https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P) | [Skinny Local](https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1), [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3) | [MMM](https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco) | 2:24 |
-| 103 | [R.A.V.E.A.S.A.P \(Unglued Remix\)](https://open.spotify.com/track/1FSy5JFWNsPj6hM2qIWr7W) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [R.A.V.E.A.S.A.P \- The Remixes](https://open.spotify.com/album/3ScbyV8uIm9LF607YF8zCT) | 3:32 |
+| 102 | [R.A.V.E.A.S.A.P \(Unglued Remix\)](https://open.spotify.com/track/1FSy5JFWNsPj6hM2qIWr7W) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Unglued](https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC) | [R.A.V.E.A.S.A.P \- The Remixes](https://open.spotify.com/album/3ScbyV8uIm9LF607YF8zCT) | 3:32 |
+| 103 | [MMM](https://open.spotify.com/track/5ubj4AhuTnQ5qzuhv4CP3P) | [Skinny Local](https://open.spotify.com/artist/2Qqm503Ng7iC2dMxEobQa1), [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3) | [MMM](https://open.spotify.com/album/0Fbc2gf82fyBWrpDQqxnco) | 2:24 |
 | 104 | [Follow the Cyborg](https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 4:45 |
 | 105 | [Mamgobhozi](https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mamgobhozi](https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598) | 3:56 |
 | 106 | [denver luna \(acappella\)](https://open.spotify.com/track/4hGgIWJLCzQpEyWvdbsf8q) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [denver luna \(acappella\)](https://open.spotify.com/album/5jayItxgtL0rwZzJKwcr2G) | 2:27 |

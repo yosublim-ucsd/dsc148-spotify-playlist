@@ -735,6 +735,24 @@
     },
     {
       "album": {
+        "name": "Fire Truck (Action Song)",
+        "url": "https://open.spotify.com/album/25JcqTn2g2lUN6vWKN7Z3J"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107827,
+      "name": "Fire Truck (Action Song)",
+      "url": "https://open.spotify.com/track/4wGDWCtQ8j5TzPbfuiP9of"
+    },
+    {
+      "album": {
         "name": "Blippi Tunes, Vol. 4: Vehicles",
         "url": "https://open.spotify.com/album/27S5LgtyQbiX0EQFfhBFFl"
       },

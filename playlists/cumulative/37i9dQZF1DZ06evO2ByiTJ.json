@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "Fidelidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Danielle Cristina",
+          "url": "https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330921,
+      "name": "Fidelidade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq"
+    },
+    {
+      "album": {
         "name": "Firme nas Promessas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB"
       },

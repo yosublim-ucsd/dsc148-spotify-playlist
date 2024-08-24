@@ -4,7 +4,7 @@
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2024.
 
-214 songs - 13 hr 7 min
+215 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 | 2024-05-31 |  |
 | [A New England](https://open.spotify.com/track/0IfjReTYtafqN3uCfO3Xva) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Life's a Riot with Spy vs\. Spy](https://open.spotify.com/album/7McfyVgOfvdfyREan8IHHC) | 2:14 | 2024-05-31 |  |
 | [About You Now](https://open.spotify.com/track/1ctdfJSzp6qF2iDAVdDrfl) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Change](https://open.spotify.com/album/1xY00CnzzvXjYZjZEUS4qI) | 3:32 | 2024-05-31 |  |
-| [All I Need](https://open.spotify.com/track/5FUXuii2C6UdjHevv4yKsN) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [All I Need](https://open.spotify.com/album/5eAXhrI7B70r6wH7P3P2Fe) | 2:46 | 2024-05-31 |  |
+| [All I Need](https://open.spotify.com/track/5FUXuii2C6UdjHevv4yKsN) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [All I Need](https://open.spotify.com/album/5eAXhrI7B70r6wH7P3P2Fe) | 2:46 | 2024-05-31 | 2024-08-24 |
 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 | 2024-05-31 |  |
 | [All Night Long](https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [All Night Long](https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v) | 3:54 | 2024-05-31 |  |
 | [All Together Now](https://open.spotify.com/track/3FMwO7SOz9VTn9ii3Zkk0j) | [The Farm](https://open.spotify.com/artist/3lN1TG4RIoaJCff6Ck9KUR) | [Spartacus](https://open.spotify.com/album/7w7T49LesvAibOIcxebMCw) | 5:42 | 2024-05-31 |  |
@@ -210,6 +210,7 @@
 | [Valerie](https://open.spotify.com/track/2LuJkoxMlLQshNTVa8oCXW) | [The Zutons](https://open.spotify.com/artist/2qV7axHq9Jk7QqFcB3f05A) | [Tired Of Hanging Around](https://open.spotify.com/album/4fvsd8sC8ExZgdIUSzSYGX) | 3:56 | 2024-06-04 |  |
 | [Von dutch remix with skream and benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Von dutch remix with skream and benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 | 2024-05-31 |  |
 | [Voodoo](https://open.spotify.com/track/3hQSct6Ay5azm9dfFxHixY) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Salvation](https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e) | 3:34 | 2024-05-31 |  |
+| [Voodoo Ray](https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt) | [A Guy Called Gerald](https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU) | [Hot Lemonade](https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl) | 4:27 | 2024-05-31 |  |
 | [Waiting All Night \(feat\. Ella Eyre\)](https://open.spotify.com/track/6yraFyhgbavO2amB2lhpfi) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Home](https://open.spotify.com/album/2AOpbitJNMvKhSbsi2YD4F) | 4:52 | 2024-05-31 |  |
 | [Walking Wires](https://open.spotify.com/track/0vf5m8HAO3EGlBd6fNTsor) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [No Sense No Feeling](https://open.spotify.com/album/26BkhNDaSetFD6Xp5YXDMv) | 2:44 | 2024-05-31 |  |
 | [Weekend In Paradise](https://open.spotify.com/track/0FDZSqUceUEognaSTGY2P6) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [We Get By](https://open.spotify.com/album/7oxuY6hojOHrp5ID7baSOW) | 3:16 | 2024-06-04 |  |

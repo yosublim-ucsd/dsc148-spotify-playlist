@@ -4,7 +4,7 @@
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-115 songs - 7 hr 53 min
+116 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Cante Louvor: Legado 40 Conexões](https://open.spotify.com/track/7ce5qOUmxru6SaolIhiryx) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Cante Louvor: Legado 40 Conexões](https://open.spotify.com/album/245T8eQMUyf53Sx85tCZ4O) | 4:07 | 2023-04-15 | 2024-04-19 |
 | [Celebre a Vida](https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr) | [Bira Santos](https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM) | [Celebre a Vida](https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf) | 4:04 | 2023-04-15 |  |
 | [Com Fé](https://open.spotify.com/track/0LCFgYi7hb8Ua56oTIbup2) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Com Fé](https://open.spotify.com/album/226pVoolaSukKmfILxh8U5) | 3:57 | 2023-04-15 | 2023-10-07 |
+| [Comprou](https://open.spotify.com/track/34tJt507yo0qGUt1dTauRm) | [William Augusto](https://open.spotify.com/artist/5PWqtqZ9ZTiBUYSJeymF1K), [Paloma Possi](https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS), [Cleber Ao Cubo](https://open.spotify.com/artist/5ms6TnDz0eV1QZitd7lqJk) | [Comprou](https://open.spotify.com/album/5csEYwj6oEMSTgJRN4U9b7) | 4:42 | 2024-08-23 |  |
 | [Crente Que Ora \- Ao Vivo](https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Luz Do Mundo \(Ao Vivo\)](https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj) | 4:40 | 2023-04-15 |  |
 | [Cântico Novo](https://open.spotify.com/track/2JwayPaEZNwn8qY3LoSotg) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Cântico Novo](https://open.spotify.com/album/4QdKBokUDI0dnm3nJ2FKPK) | 2:54 | 2023-04-15 |  |
 | [Dele, Com Ele](https://open.spotify.com/track/6cytlMsScIOGrHiqWSeaPX) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Dele, Com Ele](https://open.spotify.com/album/0gV7RyIBPe0RIMo5qjdqHQ) | 2:53 | 2023-04-15 |  |
@@ -78,7 +79,7 @@
 | [Nunca Vou Parar \- Live](https://open.spotify.com/track/7dXI0bmuBoPjTuhBLGyZlS) | [Daniel Araujo](https://open.spotify.com/artist/4Jq7MWwjAEjcBI7TdTtCYg) | [Nunca Vou Parar \(Live\)](https://open.spotify.com/album/3eFgwOT6PBsfIeHPCgS7QF) | 3:45 | 2023-04-15 |  |
 | [Não Pare de Crer](https://open.spotify.com/track/5c9H63Ch7zPugB36knsHmc) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 2:46 | 2023-04-15 |  |
 | [O Amor de Deus](https://open.spotify.com/track/5J8MT6suqzNoHktOWIor4A) | [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Cuida de Mim](https://open.spotify.com/album/4HoqgnIu2CtdA9BaRLyIyY) | 5:01 | 2023-04-15 |  |
-| [O Céu É o Limite](https://open.spotify.com/track/7d3BPwhS1MLufNHPWhM7rD) | [FLG](https://open.spotify.com/artist/7xf7H8QcLCbhkCTBngAhFX), [Binhu](https://open.spotify.com/artist/2nHUTqOWnonUf8hmQBmAgE) | [O Céu É o Limite](https://open.spotify.com/album/4QX2r7tjScwYK7SGdEf1dn) | 4:43 | 2023-04-15 |  |
+| [O Céu É o Limite](https://open.spotify.com/track/7d3BPwhS1MLufNHPWhM7rD) | [FLG](https://open.spotify.com/artist/7xf7H8QcLCbhkCTBngAhFX), [Binhu](https://open.spotify.com/artist/2nHUTqOWnonUf8hmQBmAgE) | [O Céu É o Limite](https://open.spotify.com/album/4QX2r7tjScwYK7SGdEf1dn) | 4:43 | 2023-04-15 | 2024-08-24 |
 | [O Melhor Pra Mim \- Ao Vivo](https://open.spotify.com/track/5jsfQTrepBmAHHuGQ0JQP9) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [O Melhor Pra Mim \(Ao Vivo\)](https://open.spotify.com/album/3VvVQVzuM9fw71hQnFFaAO) | 4:06 | 2023-10-06 |  |
 | [O Que Eu Preciso É de Jesus \(Live Session\)](https://open.spotify.com/track/4gfNeWiST9t0KjyiR5Ix2r) | [Melk Villar](https://open.spotify.com/artist/2aE9MDAGfmKUGmTTKWjKCn) | [O Que Eu Preciso É de Jesus \(Live Session\)](https://open.spotify.com/album/10In8vB7Xzk4xHmfdDt5Dq) | 3:19 | 2023-04-15 |  |
 | [O Que Há Por Dentro](https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU) | [Sobre Deixar](https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt) | 3:40 | 2023-04-15 |  |

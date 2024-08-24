@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-337 songs - 16 hr 14 min
+339 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Let's Rock](https://open.spotify.com/track/24rPV15ci9iOz0BRTX5ZKt) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj) | [Let's Rock](https://open.spotify.com/album/7bTuDkxqFRTxHoteWvIb25) | 3:29 | 2024-02-02 |  |
 | [Level Up \(feat\. Scrufizzer\)](https://open.spotify.com/track/3VFtHmvmClUSOp9kWrx4RA) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Level Up \(feat\. Scrufizzer\)](https://open.spotify.com/album/3RIW263kHZvpyYk3ZrCALC) | 3:00 | 2023-12-08 |  |
 | [LIE](https://open.spotify.com/track/61l5AiygB8vP6u28WqXozT) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [Lynzz](https://open.spotify.com/artist/7BNmWFren7JBhowtx1SgdH) | [LIE](https://open.spotify.com/album/6FrCK0SulsJW1Xm5b8svS1) | 3:10 | 2023-11-22 |  |
+| [Lift Off](https://open.spotify.com/track/2YfTrcUHlcOCoY2LJzga6H) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Michael Sparks](https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87) | [Lift Off](https://open.spotify.com/album/63PEpI6Ip1Mc9fldkuEkbY) | 2:15 | 2024-08-23 |  |
 | [Lighter](https://open.spotify.com/track/0Fnjp5rPXHGYnehRgnaEjr) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Lighter](https://open.spotify.com/album/5JAzBPWkz1a1GZJYsawDUX) | 2:46 | 2023-11-22 |  |
 | [Lights Out](https://open.spotify.com/track/0piqEtzcndLn6q4FTZMYGB) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Lights Out](https://open.spotify.com/album/699pfQZ7g6XRHPeTC6Oxf0) | 3:18 | 2022-05-06 | 2022-09-07 |
 | [Like I Used To](https://open.spotify.com/track/6zBmmiGwTPmiYS6Xz3rAm3) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Like I Used To](https://open.spotify.com/album/7EXcj1UAHyOotIw8GSziCp) | 2:27 | 2022-07-27 | 2022-10-22 |
@@ -207,6 +208,7 @@
 | [Move Your Feet \(Like This\)](https://open.spotify.com/track/2Z0IPXm9YUEb8FWRTAiM3d) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4) | [Move Your Feet \(Like This\)](https://open.spotify.com/album/39DhmYTEg0M0jtjSbacrGw) | 2:16 | 2024-06-28 |  |
 | [Music Is The Answer](https://open.spotify.com/track/6q0gaCCxMImKzJX5j3MHz0) | [Le Twins](https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb) | [Music Is The Answer](https://open.spotify.com/album/5nwZ4ou2yHpuOu5vv1ny1G) | 3:47 | 2023-11-22 |  |
 | [Music Means Love Forever](https://open.spotify.com/track/4LlhYmenqKC0boXvDpl6vt) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Music Means Love Forever](https://open.spotify.com/album/2Fd0eRQIYmYhmQguxmZH8j) | 3:27 | 2022-05-06 | 2022-09-25 |
+| [My Fix](https://open.spotify.com/track/27tMeLOBeObM0JVjEsnPCo) | [Benzi](https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa), [Velvet Cash](https://open.spotify.com/artist/2JE4L1DVUHTozvwDFAQkZr) | [My Fix](https://open.spotify.com/album/6ITzSDoQS1cPCIJ0Z0cKSh) | 2:31 | 2024-08-23 |  |
 | [My Mind](https://open.spotify.com/track/6PHkTkDcRZsp2WbZBZZbNe) | [Cheyenne Giles](https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj), [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [My Mind](https://open.spotify.com/album/7aneBfOjpEOtzBReiowj3u) | 3:04 | 2024-07-12 |  |
 | [My Room](https://open.spotify.com/track/4TZqdDTRiGuWSWMy9xIGPO) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [My Room](https://open.spotify.com/album/6GpkuUuvRxvrLYZgrXoyVz) | 2:29 | 2023-11-22 |  |
 | [My Room \- Makla Remix](https://open.spotify.com/track/1eupUP0KyIxklOmWSe0PO1) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M) | [My Room \(Remixes\)](https://open.spotify.com/album/6efb70DGUPyC36qBqmLI1h) | 3:03 | 2024-03-29 |  |

@@ -4,7 +4,7 @@
 
 > built for the climb
 
-312 songs - 18 hr 47 min
+313 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Me and My Kind](https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Cowboy Like Me](https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj) | 2:36 | 2023-02-24 | 2023-08-21 |
 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 | 2023-05-05 |  |
 | [Merigold](https://open.spotify.com/track/2LtF7oIVC1x6SbQ27iywSb) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Merigold](https://open.spotify.com/album/5HURvzbiMiuYDPxsKmfGsP) | 4:12 | 2023-06-16 |  |
+| [Middle Of It](https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:26 | 2024-08-23 |  |
 | [Milwaukee](https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Milwaukee](https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V) | 2:59 | 2024-01-26 |  |
 | [Miner Imperfections](https://open.spotify.com/track/4GCtc95vUfhaa673o1vbv6) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6) | 4:36 | 2023-09-22 | 2023-12-09 |
 | [Mississippi](https://open.spotify.com/track/1WAgbIFKH1ruetQ3PKUlxi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Mississippi](https://open.spotify.com/album/2ZYYocRhZtuJB2DmRplEIN) | 3:47 | 2023-03-31 | 2023-08-21 |

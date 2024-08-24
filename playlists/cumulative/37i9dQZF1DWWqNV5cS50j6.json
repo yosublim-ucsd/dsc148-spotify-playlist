@@ -552,7 +552,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 107313,
       "name": "A Cold Sunday",
       "url": "https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 165360,
       "name": "Aphid (feat. Dijon)",
       "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
@@ -8168,7 +8168,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -9162,7 +9162,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 158133,
       "name": "FAMJAM4000",
       "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
@@ -10564,7 +10564,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/49oKnEjgRSs3DMXScEU2G1"
@@ -11088,7 +11088,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
@@ -11610,7 +11610,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 245819,
       "name": "Gorilla",
       "url": "https://open.spotify.com/track/0pJO1tc1GpnxFyQp6Zp82r"
@@ -24309,6 +24309,24 @@
     },
     {
       "album": {
+        "name": "same stories (come and go)",
+        "url": "https://open.spotify.com/album/09PzH45qZbdIQmw6xB2kNq"
+      },
+      "artists": [
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173569,
+      "name": "same stories (come and go)",
+      "url": "https://open.spotify.com/track/0HZPos6Q7OA5WabEIDI3hG"
+    },
+    {
+      "album": {
         "name": "Same Thing",
         "url": "https://open.spotify.com/album/7k4bGDgPxmnxuvnMOAgzOa"
       },
@@ -24791,6 +24809,24 @@
     },
     {
       "album": {
+        "name": "PARCELLES 16",
+        "url": "https://open.spotify.com/album/38sa7hMEFDyVCncvESkqH6"
+      },
+      "artists": [
+        {
+          "name": "papa mbye",
+          "url": "https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179561,
+      "name": "SENEGAMBIA",
+      "url": "https://open.spotify.com/track/2Yxi5xjzYw28541eY5xlNu"
+    },
+    {
+      "album": {
         "name": "Sensitive",
         "url": "https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte"
       },
@@ -24932,6 +24968,24 @@
       "duration_ms": 162945,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/4PAENZ9jspzi8mKE9UlzRe"
+    },
+    {
+      "album": {
+        "name": "NOT SO DISTOPIA",
+        "url": "https://open.spotify.com/album/5bwWj5bM6uL4zumhXX2wIS"
+      },
+      "artists": [
+        {
+          "name": "Hugo Pooe",
+          "url": "https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196955,
+      "name": "SHADOWS",
+      "url": "https://open.spotify.com/track/5qPtQaDS9sdeQ1co9z2Xkb"
     },
     {
       "album": {
@@ -25925,6 +25979,24 @@
     },
     {
       "album": {
+        "name": "Snakes & Ladders",
+        "url": "https://open.spotify.com/album/4bWdnhUhAIC9fHymhjWqZE"
+      },
+      "artists": [
+        {
+          "name": "LUKAS OSCAR",
+          "url": "https://open.spotify.com/artist/2us7w75YxBYkyYom4CAGKH"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173365,
+      "name": "Snakes & Ladders",
+      "url": "https://open.spotify.com/track/4Rg6MTZzS7LdCdHhO1oGFP"
+    },
+    {
+      "album": {
         "name": "Snot (feat. Deb Never)",
         "url": "https://open.spotify.com/album/2PlsmttVNv6nkHI694FcWE"
       },
@@ -26830,6 +26902,24 @@
       "duration_ms": 177731,
       "name": "Stay Blessed",
       "url": "https://open.spotify.com/track/6fReWEXkgRzOaLwT8fNbXb"
+    },
+    {
+      "album": {
+        "name": "stay late",
+        "url": "https://open.spotify.com/album/5BVIrhysqsYBAOOEInHCzC"
+      },
+      "artists": [
+        {
+          "name": "Clubhouse",
+          "url": "https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173283,
+      "name": "stay late",
+      "url": "https://open.spotify.com/track/0SYw9oxfkCgewe45b68RBG"
     },
     {
       "album": {
@@ -29811,6 +29901,24 @@
     },
     {
       "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/6ypPEd46mjBNn9NsfpxWKT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274266,
+      "name": "Tommy",
+      "url": "https://open.spotify.com/track/38piSUlzLXLqHqgrxSO4zE"
+    },
+    {
+      "album": {
         "name": "ROMCOM",
         "url": "https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I"
       },
@@ -30406,6 +30514,24 @@
       "duration_ms": 126684,
       "name": "Tweakin' Together",
       "url": "https://open.spotify.com/track/6r639TM0j9JWM4jWJB1cVR"
+    },
+    {
+      "album": {
+        "name": "TWENTY SENSATIONS",
+        "url": "https://open.spotify.com/album/6IKnKLeJeVezSmqA1SwzL6"
+      },
+      "artists": [
+        {
+          "name": "Ashes To Amber",
+          "url": "https://open.spotify.com/artist/1VjLe0p8LUFKPbyKaQZAgu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142451,
+      "name": "TWENTY SENSATIONS",
+      "url": "https://open.spotify.com/track/3gDkef52OXhgDrxlAdcvTK"
     },
     {
       "album": {
@@ -31424,7 +31550,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 178357,
       "name": "Wake Up, Pass Out",
       "url": "https://open.spotify.com/track/0ISluANGR8RAokUJCzRygg"

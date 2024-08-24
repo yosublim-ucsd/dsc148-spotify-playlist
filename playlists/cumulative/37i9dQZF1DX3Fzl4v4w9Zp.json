@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Johnny Blue Skies",
+  "description": "Keep your finger on the pulse of Americana. Cover: Gillian Welch and David Rawlings",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 197610,
       "name": "Devil In Disguise",
       "url": "https://open.spotify.com/track/4tTxMLnr9eZmSz6ljylmMz"
@@ -3190,7 +3190,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 204914,
       "name": "Empty Trainload Of Sky",
       "url": "https://open.spotify.com/track/4XNeSs0RanJTsQ8XF5OYes"
@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 187867,
       "name": "First High",
       "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
@@ -4094,7 +4094,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 226920,
       "name": "Get To Know Ya",
       "url": "https://open.spotify.com/track/0ctW5fXiE3V5Z2KFEGF3aN"
@@ -5738,6 +5738,28 @@
       "duration_ms": 265843,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv"
+    },
+    {
+      "album": {
+        "name": "I Will Not Go Down (feat. Billy Strings)",
+        "url": "https://open.spotify.com/album/7HPOLhuFelaq5SseZYhnQJ"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237360,
+      "name": "I Will Not Go Down (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/2eQxXfDk7F06iYIfOeERil"
     },
     {
       "album": {
@@ -7700,6 +7722,24 @@
       "duration_ms": 233813,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/3878vJyS8co3IApl8L9VDe"
+    },
+    {
+      "album": {
+        "name": "American Son",
+        "url": "https://open.spotify.com/album/3AbDe8cQYZwtJOmJc6mlXG"
+      },
+      "artists": [
+        {
+          "name": "Colby Acuff",
+          "url": "https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197986,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/0oksHGLvgXwrvmAxWNO33T"
     },
     {
       "album": {
@@ -10313,6 +10353,24 @@
     },
     {
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/2p9oJBiFjBfz46rAa2lQ4x"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208920,
+      "name": "Step Into Your Power",
+      "url": "https://open.spotify.com/track/4c3DEPn1eHVu9chCQ8tGzC"
+    },
+    {
+      "album": {
         "name": "Cobra Poems",
         "url": "https://open.spotify.com/album/56iMOzpLs06QDhpkgxxDsb"
       },
@@ -12209,6 +12267,28 @@
     },
     {
       "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1nrQDucPS1W1XLLaPGhmAI"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        },
+        {
+          "name": "David Rawlings",
+          "url": "https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238632,
+      "name": "What We Had",
+      "url": "https://open.spotify.com/track/3HptZiwapNwyNVGyb9pt4u"
+    },
+    {
+      "album": {
         "name": "JERRY JEFF",
         "url": "https://open.spotify.com/album/6UpH0BD46arNlmmefz6Tlu"
       },
@@ -12592,7 +12672,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 169243,
       "name": "Winter's Come and Gone - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB"

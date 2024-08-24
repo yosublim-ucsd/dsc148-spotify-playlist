@@ -1,6 +1,6 @@
 {
   "description": "The latest in AUS & NZ Rap. Cover: Yung Maynie",
-  "num_followers": 138369,
+  "num_followers": 138377,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-08-23 01:44:19",
       "album": {
+        "name": "I Ain't Never Met A Cigarette I Couldn't Smoke",
+        "url": "https://open.spotify.com/album/686LQZJ2lwgS79gF4HlVpU"
+      },
+      "artists": [
+        {
+          "name": "Faceless 1-7",
+          "url": "https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV"
+        }
+      ],
+      "duration_ms": 141139,
+      "name": "I Ain't Never Met A Cigarette I Couldn't Smoke",
+      "url": "https://open.spotify.com/track/3p0DvtpZ8HCLz2iekgh9eN"
+    },
+    {
+      "added_at": "2024-08-23 01:44:19",
+      "album": {
         "name": "Souths Most Wanted",
         "url": "https://open.spotify.com/album/5RxqqLZmax9JUDet82iJhR"
       },
@@ -806,6 +822,10 @@
         {
           "name": "Castro",
           "url": "https://open.spotify.com/artist/7fmYjYhnT8J7ThoEd7sNgG"
+        },
+        {
+          "name": "Slothy",
+          "url": "https://open.spotify.com/artist/2f4tQM1yksSy5GBltolY4l"
         }
       ],
       "duration_ms": 191647,

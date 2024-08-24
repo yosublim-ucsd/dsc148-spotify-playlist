@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > Fresh new music by independent artists and labels, featuring Mando Exclusivo\.  Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,791 likes - 54 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,819 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

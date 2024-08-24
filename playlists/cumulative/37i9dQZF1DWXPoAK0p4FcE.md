@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: เรนิษรา
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Dept
 
-58 songs - 4 hr 3 min
+59 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [ตลอดไปที่เป็นจริง \(คือโดนทิ้งตลอดกาล\)](https://open.spotify.com/track/33KlpDka9LzP7XGF2onlhh) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [เรนิษรา Radio](https://open.spotify.com/album/3epd1gHGZvz2NBeF0lyyyP) | 3:05 | 2024-06-27 |  |
 | [ตาข่ายดักฝัน \(Rainbow Catcher\)](https://open.spotify.com/track/6PAS5UAJQLYgzRJu2s2a8U) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [Rainbow Landscape](https://open.spotify.com/album/1ZwmlC8iroJsQ9o76cYdCd) | 4:25 | 2024-08-16 |  |
 | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \- Gloomy](https://open.spotify.com/track/0dXpGBC0pUivUk96OrptbQ) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \[Gloomy\]](https://open.spotify.com/album/15Vu38hxu9KIZHeU9ZKsjW) | 4:17 | 2024-06-27 |  |
+| [ต้องห้ามน้ำตาแบบไหน \(Lacrimal Gland\)](https://open.spotify.com/track/39VELAPLYYqNYjKBpkeYJH) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ต้องห้ามน้ำตาแบบไหน \(Lacrimal Gland\)](https://open.spotify.com/album/0tbhHsd13yvAyGRFJwXfua) | 4:12 | 2024-08-23 |  |
 | [ถามดาว \(Please Be Kind\)](https://open.spotify.com/track/7pSHw1T4Xwt4byS6XIcDjA) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ถามดาว \(Please Be Kind\)](https://open.spotify.com/album/5vm7a9G3ySZKCOjRi7VWPH) | 3:36 | 2024-06-27 |  |
 | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk) | 4:50 | 2024-06-27 | 2024-07-06 |
 | [ที่ข้างๆฉัน \(Bolster\)](https://open.spotify.com/track/1LaVe5YHUEU4qQ8wt3TZHR) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:36 | 2024-06-27 |  |
@@ -44,7 +45,7 @@
 | [รบกวน](https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [รบกวน](https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb) | 3:41 | 2024-06-27 |  |
 | [รสหวาน](https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ท้องฟ้าจำลอง](https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr) | 4:53 | 2024-06-27 |  |
 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 | 2024-06-27 |  |
-| [ลา ลา ลา](https://open.spotify.com/track/27OEf7iSIOJ14txp16xweP) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ลา ลา ลา](https://open.spotify.com/album/2fwk9nkcCTL3mrmJkcj60q) | 4:13 | 2024-06-27 |  |
+| [ลา ลา ลา](https://open.spotify.com/track/27OEf7iSIOJ14txp16xweP) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ลา ลา ลา](https://open.spotify.com/album/2fwk9nkcCTL3mrmJkcj60q) | 4:13 | 2024-06-27 | 2024-08-24 |
 | [สายรุ้งหลังฝนโปรย](https://open.spotify.com/track/6IAnRK7K3c6SZetYS7R3wY) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [PurfectPeech](https://open.spotify.com/album/5wAiWwSRZKqpUIsKlVADiI) | 5:00 | 2024-06-27 |  |
 | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/track/6s9gVijXmSRNHc7ed9stqE) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [หยุดเปลี่ยนให้ฉันเป็นใคร \(Toxic\)](https://open.spotify.com/album/1lZTrq8sWbQ5DpV1K1hvr7) | 4:36 | 2024-06-27 |  |
 | [อยากเจอจะทนไม่ไหว \(Dear Me\)](https://open.spotify.com/track/6kbPfIB4a78Qg496QvsRmm) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [อยากเจอจะทนไม่ไหว \(Dear Me\)](https://open.spotify.com/album/2m9DP9KmKTehY52imD558Q) | 3:33 | 2024-06-27 |  |

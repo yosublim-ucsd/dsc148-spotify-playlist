@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mon Laferte. Los temas esenciales, todos en una lista.",
-  "num_followers": 683680,
+  "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
+  "num_followers": 683870,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAADv4ew/OzJNZ9TgnCryiQ/L",
+  "snapshot_id": "ZsZ/gAAAAAAO2r680681uPL/mJmvyiJy",
   "tracks": [
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEIS",
+        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 179280,
+      "name": "Que Se Sepa Nuestro Amor",
+      "url": "https://open.spotify.com/track/7tXXKycluHP0078F0jnbzA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Canto de Todos",
         "url": "https://open.spotify.com/album/5Y5gm7ty6In0hBDm7R39eO"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 41880,
       "name": "El Canto de Todos - Bonus Track",
       "url": "https://open.spotify.com/track/2UTskfGvRLtIMTnqu9iuPr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEIS",
-        "url": "https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 179280,
-      "name": "Que Se Sepa Nuestro Amor",
-      "url": "https://open.spotify.com/track/7tXXKycluHP0078F0jnbzA"
     },
     {
       "added_at": null,

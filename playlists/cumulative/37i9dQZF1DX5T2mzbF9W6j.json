@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Falling Back",
+        "url": "https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX"
+      },
+      "artists": [
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        },
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189560,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl"
+    },
+    {
+      "album": {
         "name": "favorite",
         "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
       },
@@ -734,7 +756,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 184615,
       "name": "I \u017ce czuje si\u0119 sam",
       "url": "https://open.spotify.com/track/66J5TPZdbpAl9V3VLrZF4N"
@@ -959,6 +981,24 @@
     },
     {
       "album": {
+        "name": "Nad Morze",
+        "url": "https://open.spotify.com/album/6vLQyZsVUjc7CGaj14TO4h"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140501,
+      "name": "Nad Morze",
+      "url": "https://open.spotify.com/track/27CrwOUz78ejDV5CkEzuRG"
+    },
+    {
+      "album": {
         "name": "Nie ma Ci\u0119 tu",
         "url": "https://open.spotify.com/album/2DXY3yPf7YoSEglJBJ6xO1"
       },
@@ -1137,6 +1177,28 @@
     },
     {
       "album": {
+        "name": "Ready For Your Love",
+        "url": "https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159055,
+      "name": "Ready For Your Love",
+      "url": "https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP"
+    },
+    {
+      "album": {
         "name": "Risk",
         "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
       },
@@ -1202,7 +1264,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 145622,
       "name": "Sacrifice Tomorrow",
       "url": "https://open.spotify.com/track/5H4y5thHDJUAxwiclrSXc1"
@@ -1256,7 +1318,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 144920,
       "name": "So Good",
       "url": "https://open.spotify.com/track/2XTSjtPIN0PzfJEfdceNaN"
@@ -1372,6 +1434,24 @@
       "duration_ms": 195093,
       "name": "Tam s\u0142o\u0144ce, gdzie my",
       "url": "https://open.spotify.com/track/1Wh2SwNbe3OQCoskPc3fD8"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
       "album": {
@@ -1538,7 +1618,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 191666,
       "name": "Upadki i wzloty",
       "url": "https://open.spotify.com/track/6lmd1iffw55qQIzBxStFOP"
@@ -1596,10 +1676,28 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 132310,
       "name": "WHY DO YOU HATE ME?",
       "url": "https://open.spotify.com/track/4zuEIiREfhd0nWrWKUkwmz"
+    },
+    {
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "album": {

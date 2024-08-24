@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 270500,
       "name": "For The Cool In You",
       "url": "https://open.spotify.com/track/6lcZYupfafKV55hB2R2sCi"
@@ -3411,6 +3411,24 @@
     },
     {
       "album": {
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/0OVp7l61NtLRuQauGUSoLJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Broening",
+          "url": "https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243975,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/3iZDt8tUUKq5KblXWZGXiL"
+    },
+    {
+      "album": {
         "name": "Happy Smooth Jazz",
         "url": "https://open.spotify.com/album/3HRdOUQrnMrSrvhbSzEJx5"
       },
@@ -3816,6 +3834,24 @@
       "duration_ms": 231267,
       "name": "III",
       "url": "https://open.spotify.com/track/7rNgsAyH7iQCIVSCVvS2kz"
+    },
+    {
+      "album": {
+        "name": "Impulse",
+        "url": "https://open.spotify.com/album/5LazfoIN28eaJqAy2Bi03s"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243662,
+      "name": "Impulse",
+      "url": "https://open.spotify.com/track/0nV7T8aDzUGJ0RQ417uAMJ"
     },
     {
       "album": {
@@ -4720,7 +4756,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 255268,
       "name": "Light Within (feat. LaShawn D. Gary and Dave McMurray)",
       "url": "https://open.spotify.com/track/3v0OEwQsVjR5Rx2ESj5dSk"

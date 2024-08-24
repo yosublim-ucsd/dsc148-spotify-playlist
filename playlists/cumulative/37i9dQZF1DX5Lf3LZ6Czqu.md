@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-146 songs - 11 hr 8 min
+147 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Bad Asteroid](https://open.spotify.com/track/5TzCDKy1ZmFZdW8100A8p9) | [The Aristocrats](https://open.spotify.com/artist/1V4jsLjkic1Mxvdke86Qth) | [The Aristocrats](https://open.spotify.com/album/7GKzcJbW0Qernh0Xab1bIf) | 5:53 | 2021-05-04 |  |
 | [Belvedere](https://open.spotify.com/track/0Kq3RypTOKtYbYPVSrHcS1) | [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Way Forward](https://open.spotify.com/album/731aQEGKlJ8RveY3ncSekU) | 5:24 | 2021-05-04 |  |
 | [Big Rock](https://open.spotify.com/track/6zj3GgamevCXncxB9E0GLI) | [Neil Zaza](https://open.spotify.com/artist/4FzEKhLeEN58Mu7JzUHdHF) | [Big Rock](https://open.spotify.com/album/1rAGxz4UMc4jqdlcibxrb8) | 3:47 | 2022-07-29 | 2022-10-12 |
-| [California Waves](https://open.spotify.com/track/40GKKivAkAwgM0rTibvNmn) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Far More](https://open.spotify.com/album/2yt2ezg0pwAQwDfkT4TqAw) | 3:53 | 2022-10-11 |  |
+| [California Waves](https://open.spotify.com/track/40GKKivAkAwgM0rTibvNmn) | [Lari Basilio](https://open.spotify.com/artist/74cXaGQVjndcGMGcxWz7j0), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Greg Phillinganes](https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu) | [Far More](https://open.spotify.com/album/2yt2ezg0pwAQwDfkT4TqAw) | 3:53 | 2022-10-11 | 2024-08-24 |
 | [Carefree Summer](https://open.spotify.com/track/1LR6dmXvaKluTM4q3CElzN) | [Jan Cyrka](https://open.spotify.com/artist/1UA7iIS5ui7PypnfhzJjJU), [James Graydon](https://open.spotify.com/artist/6spqPpkPxVBtTSn2LOKnvz), [Alex Hutchings](https://open.spotify.com/artist/1qgI5ZUZuPXqVDylA1vt4j) | [Guitar Heroes](https://open.spotify.com/album/5KqwEjfur240inzWyd32Hu) | 1:39 | 2022-10-11 |  |
 | [Catboy \- Live at the Iridium](https://open.spotify.com/track/6ENVj2YszxhC9QLgwBNkJE) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Jason "JT" Thomas](https://open.spotify.com/artist/5sN8E3sVIXfIgkW8rvOutw), [Wes Stephenson](https://open.spotify.com/artist/0su3WUFcvO40NtFuDiaT88), [Daniel Porter](https://open.spotify.com/artist/16uVRYUgf82UOiseOjclwG) | [Catboy \(Live at the Iridium\)](https://open.spotify.com/album/2dig4oAnKv3V2G5fDEZs5x) | 8:09 | 2023-06-23 |  |
 | [Cherry Blossoms](https://open.spotify.com/track/05RLMlOEa3HZn574VsLWxf) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [What Happens Next](https://open.spotify.com/album/03k5c6BMyXdk4D2CE9zOQP) | 4:29 | 2021-05-04 | 2024-01-05 |
@@ -69,6 +69,7 @@
 | [Havin' It](https://open.spotify.com/track/0nhqmycepbgpJxoDlKftqn) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Behold Electric Guitar](https://open.spotify.com/album/0TVfzZyaJYKPM3QGkBnJFo) | 6:59 | 2021-05-04 | 2024-04-19 |
 | [Havin' It](https://open.spotify.com/track/1L4zRZzhBECP4IvNJNMz68) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [Behold Electric Guitar](https://open.spotify.com/album/0hAq2Cqzq3LhHlYvaxEFAg) | 6:59 | 2021-05-04 |  |
 | [Headless Chicken](https://open.spotify.com/track/5rDXHvjM3oIlEpkq0iao8N) | [Marbin](https://open.spotify.com/artist/3bbmbyiX3lqrAjlwFgZE16) | [Headless Chicken](https://open.spotify.com/album/4dZ8oDnHYryYJ66VKiBjxD) | 8:39 | 2022-03-04 |  |
+| [Heart\-Shaped Box](https://open.spotify.com/track/49ZqzWNFWJJpXUoDH0ZaC3) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71) | [Heart\-Shaped Box](https://open.spotify.com/album/22PE6brFbO4xXEpbhj9kyp) | 3:39 | 2024-08-23 |  |
 | [Hollywood Woman](https://open.spotify.com/track/4N5QsHoAC40TVNWKxQXjXF) | [Guthrie Govan](https://open.spotify.com/artist/19MZg9MYc5xw08l09RCfrT) | [West Coast Grooves](https://open.spotify.com/album/6pp0yGrv9FuAI0BFl42Vcx) | 1:56 | 2021-05-04 |  |
 | [I Don't Funk with You](https://open.spotify.com/track/2eiK5sjccZJdNTq8Qej596) | [TORA DAA](https://open.spotify.com/artist/5IpA1DlNpyxdxx5Qwcndey) | [Seventeen](https://open.spotify.com/album/6MjtsP8KTYhasnb1sdrUkZ) | 2:33 | 2022-09-23 |  |
 | [Illuminate, Pt\. II](https://open.spotify.com/track/2CGdWIMOBsgUmgiwS5rMvN) | [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [Rock Candy](https://open.spotify.com/album/1PTQRv4S9laI9rIt99d1RV) | 2:04 | 2022-10-14 |  |

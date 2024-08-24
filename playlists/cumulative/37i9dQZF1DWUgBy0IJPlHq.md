@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Charley Crockett
+> A new shade of Country\. Cover: Colby Acuff
 
-584 songs - 1 day 11 hr 46 min
+586 songs - 1 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 | 2021-12-17 | 2022-04-29 |
 | [If There Weren't So Many Damn Songs](https://open.spotify.com/track/0zhQYIwWGcjQ3wnCd3qjse) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj), [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [If There Weren't So Many Damn Songs](https://open.spotify.com/album/6g0jNAgCfeOKPzgz0LLXwQ) | 3:46 | 2021-12-17 | 2022-02-05 |
 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 | 2023-07-14 |  |
-| [In Between \(feat\. Ken Pomeroy\)](https://open.spotify.com/track/5NpBOItPWmAFR4V5rayGAS) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI), [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [In Between \(feat\. Ken Pomeroy\)](https://open.spotify.com/album/732GuhMPyi5dReK5Ebyvdm) | 2:33 | 2023-09-22 |  |
+| [In Between \(feat\. Ken Pomeroy\)](https://open.spotify.com/track/5NpBOItPWmAFR4V5rayGAS) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI), [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [In Between \(feat\. Ken Pomeroy\)](https://open.spotify.com/album/732GuhMPyi5dReK5Ebyvdm) | 2:33 | 2023-09-22 | 2024-08-24 |
 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-01-28 | 2023-08-26 |
 | [In His Arms](https://open.spotify.com/track/0ddFRjXyLgrNulsOwGJKJZ) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [The Marfa Tapes](https://open.spotify.com/album/0Jck41FMi9tJooKSHApv9p) | 2:30 | 2021-12-17 | 2022-12-10 |
 | [In Texas With A Band](https://open.spotify.com/track/6iWhR6e5mBsUPT1Mogqny7) | [Brennen Leigh](https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW), [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm), [Ray Benson](https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M) | [In Texas With A Band](https://open.spotify.com/album/1JhJnz9YsQMbQXcfluJb8C) | 2:52 | 2022-04-22 | 2022-05-28 |
@@ -291,7 +291,7 @@
 | [John Prine's Cadillac](https://open.spotify.com/track/13g3NBMrRx6wIiP4CLso0o) | [Will Hoge](https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT) | [John Prine's Cadillac](https://open.spotify.com/album/0L3ha9vuo1xrdDD4EnuBcA) | 3:21 | 2022-06-17 | 2022-07-30 |
 | [John Wayne](https://open.spotify.com/track/0gjUYiqimLvi6QxJ0Od2Dg) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [John Wayne](https://open.spotify.com/album/1O9rZ9fDKAddiZSImbxRpG) | 4:55 | 2022-02-18 | 2022-07-30 |
 | [John Wayne](https://open.spotify.com/track/2fMFGxKTLDYroA9v6eKv9N) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT) | 4:55 | 2022-07-29 | 2023-06-10 |
-| [Johnny Moonshine](https://open.spotify.com/track/0stjCXW1ny6dRPtxhU6cqz) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Johnny Moonshine](https://open.spotify.com/album/2xgWJk6MgbNCnmesnaOqif) | 2:58 | 2024-07-26 |  |
+| [Johnny Moonshine](https://open.spotify.com/track/0stjCXW1ny6dRPtxhU6cqz) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Johnny Moonshine](https://open.spotify.com/album/2xgWJk6MgbNCnmesnaOqif) | 2:58 | 2024-07-26 | 2024-08-24 |
 | [Juanita](https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 3:40 | 2021-12-17 | 2022-07-30 |
 | [Jubilee](https://open.spotify.com/track/48fWEET1Ew40JKW9ze9wEY) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 2:22 | 2021-12-17 | 2022-04-16 |
 | [Just Like Honey \- Billy Horton Sessions](https://open.spotify.com/track/60TMSnA1iwOZlDZRgrFMCO) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Man from Waco \(Redux\)](https://open.spotify.com/album/2EooXTMJ3Rygu3PwYWYxuS) | 2:52 | 2023-05-26 | 2023-09-23 |
@@ -337,6 +337,7 @@
 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 | 2023-05-12 | 2023-08-26 |
 | [Mercy Me \(Memphis Sessions\)](https://open.spotify.com/track/5411Wbb2RgcMhtyeADXWEF) | [Rob Baird](https://open.spotify.com/artist/1eE9EMjfAxDNT22LXc4Xpt) | [Memphis Sessions](https://open.spotify.com/album/16IJckPLGFCIfKsM4ZfscE) | 3:36 | 2023-02-03 | 2024-02-03 |
 | [Middle of a Heart](https://open.spotify.com/track/2w7MGuFvgpc7UXSf0ZLLC0) | [Adeem the Artist](https://open.spotify.com/artist/28ZFEGg2RNdrtoaFqxA6vj) | [White Trash Revelry](https://open.spotify.com/album/2GlHvIfPIhJCgpqimu1mTP) | 4:00 | 2022-12-16 | 2023-08-19 |
+| [Middle Of It](https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:26 | 2024-08-23 |  |
 | [Mighty Beast](https://open.spotify.com/track/4tyP3hJbZSD26PTo3K5PW5) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Mighty Beast / All the Wars from Now On](https://open.spotify.com/album/2H053931olSuzHhdvxpfcm) | 4:31 | 2023-07-14 | 2023-08-19 |
 | [Milwaukee](https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Milwaukee](https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V) | 2:59 | 2024-01-26 | 2024-04-19 |
 | [Miner Imperfections](https://open.spotify.com/track/4GCtc95vUfhaa673o1vbv6) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6) | 4:36 | 2023-09-22 | 2023-12-16 |
@@ -372,6 +373,7 @@
 | [Once in a Lifetime](https://open.spotify.com/track/68JRR2BErak063DjjCpdYx) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Once in a Lifetime](https://open.spotify.com/album/5V7IaCpGDPdYPoOSdIjyrY) | 4:00 | 2022-02-18 | 2022-04-09 |
 | [One Hell of an Angel](https://open.spotify.com/track/1SniaPt656Q2RJFOh5QBPK) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [One Hell of an Angel](https://open.spotify.com/album/4qngZnFUHmu4I3cGpENpWF) | 3:31 | 2022-08-26 | 2023-12-16 |
 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 | 2022-07-29 | 2023-03-04 |
+| [One Too Many](https://open.spotify.com/track/2oKAAMhjYdsheJAo8RgtGK) | [Maggie Antone](https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp) | [Rhinestoned](https://open.spotify.com/album/5XEFMMgAByAZq8rYn6hE6t) | 3:10 | 2024-08-23 |  |
 | [Other Side](https://open.spotify.com/track/19kDyB6HprmUSzBvPbpkTl) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Other Side](https://open.spotify.com/album/75nchWQhiPgAjVdXsNLOaY) | 4:13 | 2022-05-27 | 2022-09-24 |
 | [Other Than That](https://open.spotify.com/track/3YlHvC8fJhnQdbCbeEPsS2) | [J.R\. Carroll](https://open.spotify.com/artist/3KULmzjXBD6uu50to1WXRm) | [Other Than That](https://open.spotify.com/album/7jEbVyXKzcWE4rJXnES8JO) | 4:18 | 2022-07-08 | 2023-04-15 |
 | [Outlaw in Me](https://open.spotify.com/track/1xKNbEB3wHDttLRmOkXfYa) | [Colby Acuff](https://open.spotify.com/artist/2L9DVKDXY3W8uRl5TwLbMC) | [Western White Pines](https://open.spotify.com/album/0isB8xO9YoDZjpY8VGlkMR) | 4:05 | 2023-06-09 | 2023-09-23 |

@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 13911,
+  "num_followers": 13913,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-08-10 15:50:28",
       "album": {
-        "name": "OceanooM\u2218\u263d",
-        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
-      },
-      "artists": [
-        {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        }
-      ],
-      "duration_ms": 205306,
-      "name": "OceanooM\u2218\u263d",
-      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
-    },
-    {
-      "added_at": "2024-08-10 15:50:28",
-      "album": {
         "name": "Free Giveaway",
         "url": "https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 211456,
       "name": "Free Giveaway",
       "url": "https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi"
+    },
+    {
+      "added_at": "2024-08-10 15:50:28",
+      "album": {
+        "name": "OceanooM\u2218\u263d",
+        "url": "https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "duration_ms": 205306,
+      "name": "OceanooM\u2218\u263d",
+      "url": "https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2"
     },
     {
       "added_at": "2024-08-10 15:50:28",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-08-10 15:50:28",
       "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Lost Stars",
-      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
-    },
-    {
-      "added_at": "2024-08-10 15:50:28",
-      "album": {
         "name": "Losing Myself",
         "url": "https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 176373,
       "name": "Losing Myself",
       "url": "https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX"
+    },
+    {
+      "added_at": "2024-08-10 15:50:28",
+      "album": {
+        "name": "Lonely Night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Lost Stars",
+      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
     },
     {
       "added_at": "2024-08-10 15:50:28",

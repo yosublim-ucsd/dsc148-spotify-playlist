@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con ALMAS en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,563 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,562 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 43 | [Más Allá](https://open.spotify.com/track/5y9EP5baygJB9zWQl8549b) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Más Allá](https://open.spotify.com/album/036nFxQ7ocbEdG3FjY88jO) | 3:04 |
 | 44 | [todos los días](https://open.spotify.com/track/4jCxY9Lz53qbTBWNoaA7xD) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [todos los días](https://open.spotify.com/album/1V60bSO7MoRte4DJ0YgL2s) | 3:32 |
 | 45 | [El Crush](https://open.spotify.com/track/5dzakAiRvtFpCx5NtWVb10) | [Alan Navarro](https://open.spotify.com/artist/2OErLAm8iN9bisLoX3E0zH) | [El Crush](https://open.spotify.com/album/0AXvsimNkl1hQ7OFr2FSxm) | 2:28 |
-| 46 | [Te Perdono](https://open.spotify.com/track/7rQWY0VbmgKDVeQ1cqVlwp) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Te Perdono](https://open.spotify.com/album/1dxvzNdRqY9OMFCyh5bWIE) | 3:16 |
-| 47 | [las cosas no son lo que parecen](https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [las cosas no son lo que parecen](https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD) | 2:54 |
+| 46 | [las cosas no son lo que parecen](https://open.spotify.com/track/0vZnu6jdjTA4QKhmJm3IQT) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [las cosas no son lo que parecen](https://open.spotify.com/album/6Zs6kAVDytdZAj7J3aaHRD) | 2:54 |
+| 47 | [Te Perdono](https://open.spotify.com/track/7rQWY0VbmgKDVeQ1cqVlwp) | [Agris](https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q) | [Te Perdono](https://open.spotify.com/album/1dxvzNdRqY9OMFCyh5bWIE) | 3:16 |
 | 48 | [Genérico](https://open.spotify.com/track/4XNuxlT1MZ5qD7JFnZ4ci1) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Club 614](https://open.spotify.com/album/6bUyVi8PXGQQObGzCmcPX2) | 2:40 |
 | 49 | [maracuyá](https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [maracuyá](https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07) | 2:18 |
 | 50 | [TONY MONTANA](https://open.spotify.com/track/6BUhgP4VBxhAlExeKMyLCB) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [TONY MONTANA](https://open.spotify.com/album/5WzMhrOgTyRoMNMPvvRhI0) | 3:35 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 52 | [Money Lovin'](https://open.spotify.com/track/7jjRj5E4Z4yuEpYWckzJrl) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Money Lovin'](https://open.spotify.com/album/3qJ7wk5r8r0e3pPo5snnwL) | 2:45 |
 | 53 | [Cotorreo](https://open.spotify.com/track/7K27fNsluLKHw9ptLS4nTa) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [EMILIANO](https://open.spotify.com/album/3uFvFpPz0Mr1TcW8fJSOim) | 2:26 |
 | 54 | [Desconocernos](https://open.spotify.com/track/4S4Q9yocHzKUI2Ws4Ir4lC) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Desconocernos](https://open.spotify.com/album/2sjbd7CdcKMOFQuLZwAz9K) | 2:57 |
-| 55 | [disfraz](https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4), [Irvin Mach](https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [disfraz](https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY) | 2:58 |
-| 56 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
+| 55 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
+| 56 | [disfraz](https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4), [Irvin Mach](https://open.spotify.com/artist/7MXgCL89Td8yUmscNmymst), [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [disfraz](https://open.spotify.com/album/1aYecFP3ZxpUWWoBpBfRfY) | 2:58 |
 | 57 | [nena](https://open.spotify.com/track/1WAre4IzA6tYI5qxRqzFQM) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [nena](https://open.spotify.com/album/0dVgnsyb0HAdDTAMW2kI54) | 3:03 |
-| 58 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 |
-| 59 | [Escuchado](https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Escuchado](https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9) | 3:02 |
+| 58 | [Escuchado](https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Escuchado](https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9) | 3:02 |
+| 59 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 |
 | 60 | [feliz año nuevo](https://open.spotify.com/track/56rV56F2JBMgL7jSzoEiAW) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Oscar Plaza](https://open.spotify.com/artist/0FYXuJlqrMUDBXt30fHy9U) | [feliz año nuevo](https://open.spotify.com/album/47ubxDMVM0bINclhKv85aG) | 2:43 |
 | 61 | [Tormento](https://open.spotify.com/track/7luTItMWT5N84eLmo9une9) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Tormento](https://open.spotify.com/album/70h7L4J38OMRLpkxM5aK7B) | 2:50 |
 | 62 | [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 |

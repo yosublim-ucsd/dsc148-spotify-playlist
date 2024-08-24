@@ -95,6 +95,28 @@
     },
     {
       "album": {
+        "name": "Solos",
+        "url": "https://open.spotify.com/album/2OZZ7yK2YNyeiRTEg97Tal"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Katia Lab\u00e8que",
+          "url": "https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162226,
+      "name": "A Good Person",
+      "url": "https://open.spotify.com/track/3v2dFuLmI0YtB3s5eK9Z68"
+    },
+    {
+      "album": {
         "name": "N\u00e9o-Romance",
         "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
       },
@@ -1021,6 +1043,40 @@
     },
     {
       "album": {
+        "name": "Orph\u00e9e",
+        "url": "https://open.spotify.com/album/1ZPtIPAHcNHgLuL0K6BzJN"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        },
+        {
+          "name": "Yuki Numata Resnick",
+          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
+        },
+        {
+          "name": "Tarn Travers",
+          "url": "https://open.spotify.com/artist/78PSEAPRjcRID297AMMPJC"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391160,
+      "name": "Flight from the City",
+      "url": "https://open.spotify.com/track/3Sy6wgTNEp6vSgLs4EyXAf"
+    },
+    {
+      "album": {
         "name": "Divenire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2EhFeiWsTdfqzdFskVUxBg"
       },
@@ -1412,6 +1468,24 @@
       "duration_ms": 111013,
       "name": "Laura (Piano Vision)",
       "url": "https://open.spotify.com/track/63ofp7btGGtGE4vRruo5vu"
+    },
+    {
+      "album": {
+        "name": "180\u00b0",
+        "url": "https://open.spotify.com/album/4hFVZKTMTQHEDrG1bzlEJs"
+      },
+      "artists": [
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278766,
+      "name": "LEO \u201cThe Fierce\u201d",
+      "url": "https://open.spotify.com/track/4aHYB3DwRl5ladGeGjoFJ9"
     },
     {
       "album": {
@@ -2112,6 +2186,24 @@
       "duration_ms": 145869,
       "name": "oku",
       "url": "https://open.spotify.com/track/0dh69TWktsQtq1JWheVpHZ"
+    },
+    {
+      "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/5f5y9Z2AYNtA2FfCAFZR0o"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125984,
+      "name": "Once",
+      "url": "https://open.spotify.com/track/7gTVQWqEGrqTuZkXpe43z1"
     },
     {
       "album": {

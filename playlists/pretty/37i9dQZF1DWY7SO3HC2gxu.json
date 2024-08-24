@@ -1,52 +1,36 @@
 {
   "description": "Best blends of Electronic music Across East Africa. Cover: Munyasya",
-  "num_followers": 6151,
+  "num_followers": 6156,
   "original_name": "Oontz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqOKIAAAAABLjXWANSK0pxxXf/DiQ+DR",
+  "snapshot_id": "ZshlRwAAAAB30RqM5wRb9o2CfGdCHGVi",
   "tracks": [
     {
       "added_at": "2024-07-26 11:36:00",
       "album": {
-        "name": "Digane (Raphael Afro Vibe Remix)",
-        "url": "https://open.spotify.com/album/0yXa0touOce9Gfm7lctKfV"
+        "name": "Kibogoyo (Funkky Remix)",
+        "url": "https://open.spotify.com/album/5DtX7nWHKR6N38wkvg24ob"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
         },
         {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+          "name": "Sunlee",
+          "url": "https://open.spotify.com/artist/0Xa81WVUf9lecuae8hqMjQ"
         },
         {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/2pPXhvvsskybTdBCuOnjV1"
+          "name": "Funkky",
+          "url": "https://open.spotify.com/artist/5K6MIUxhHMmOxGF22JaySb"
         }
       ],
-      "duration_ms": 185298,
-      "name": "Digane - Raphael Afro Vibe Remix",
-      "url": "https://open.spotify.com/track/2toSZyPADIFdkZArAUKUXf"
-    },
-    {
-      "added_at": "2024-07-26 11:36:00",
-      "album": {
-        "name": "Sonder",
-        "url": "https://open.spotify.com/album/1qLQYpWgWtO7DLAaqFnCY7"
-      },
-      "artists": [
-        {
-          "name": "Munyasya",
-          "url": "https://open.spotify.com/artist/4TvHKIqggNweDs4pqn6j6Z"
-        }
-      ],
-      "duration_ms": 428429,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/2gVy654eoz1UEah0YP9EdV"
+      "duration_ms": 343278,
+      "name": "Kibogoyo - Funkky Remix",
+      "url": "https://open.spotify.com/track/1kJrI8k2XsIHTNsB3UR32P"
     },
     {
       "added_at": "2024-07-26 11:36:00",
@@ -67,6 +51,22 @@
       "duration_ms": 323495,
       "name": "Find Your Way",
       "url": "https://open.spotify.com/track/6eSyiy2IBds8UThlpxyLhU"
+    },
+    {
+      "added_at": "2024-07-26 11:36:00",
+      "album": {
+        "name": "Sonder",
+        "url": "https://open.spotify.com/album/1qLQYpWgWtO7DLAaqFnCY7"
+      },
+      "artists": [
+        {
+          "name": "Munyasya",
+          "url": "https://open.spotify.com/artist/4TvHKIqggNweDs4pqn6j6Z"
+        }
+      ],
+      "duration_ms": 428429,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2gVy654eoz1UEah0YP9EdV"
     },
     {
       "added_at": "2024-07-26 11:36:00",
@@ -155,26 +155,26 @@
     {
       "added_at": "2024-07-26 11:36:00",
       "album": {
-        "name": "Kibogoyo (Funkky Remix)",
-        "url": "https://open.spotify.com/album/5DtX7nWHKR6N38wkvg24ob"
+        "name": "Digane (Raphael Afro Vibe Remix)",
+        "url": "https://open.spotify.com/album/0yXa0touOce9Gfm7lctKfV"
       },
       "artists": [
         {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
         },
         {
-          "name": "Sunlee",
-          "url": "https://open.spotify.com/artist/0Xa81WVUf9lecuae8hqMjQ"
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
         },
         {
-          "name": "Funkky",
-          "url": "https://open.spotify.com/artist/5K6MIUxhHMmOxGF22JaySb"
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/2pPXhvvsskybTdBCuOnjV1"
         }
       ],
-      "duration_ms": 343278,
-      "name": "Kibogoyo - Funkky Remix",
-      "url": "https://open.spotify.com/track/1kJrI8k2XsIHTNsB3UR32P"
+      "duration_ms": 185298,
+      "name": "Digane - Raphael Afro Vibe Remix",
+      "url": "https://open.spotify.com/track/2toSZyPADIFdkZArAUKUXf"
     },
     {
       "added_at": "2024-07-26 11:36:00",
@@ -219,22 +219,6 @@
       "duration_ms": 410000,
       "name": "SHINDA - RB\u00d8R Remix",
       "url": "https://open.spotify.com/track/3S5Z7x6uR8VX54TwRKL9QS"
-    },
-    {
-      "added_at": "2024-07-26 11:36:00",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/4jvIzo5bnxPmkyhe1P3DQ0"
-      },
-      "artists": [
-        {
-          "name": "Dj McKenzie",
-          "url": "https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45"
-        }
-      ],
-      "duration_ms": 175295,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/2ZPKXWhtR5xfONqBdSgBiO"
     },
     {
       "added_at": "2024-07-26 11:36:00",
@@ -407,6 +391,42 @@
     {
       "added_at": "2024-07-26 11:36:00",
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/4jvIzo5bnxPmkyhe1P3DQ0"
+      },
+      "artists": [
+        {
+          "name": "Dj McKenzie",
+          "url": "https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45"
+        }
+      ],
+      "duration_ms": 175295,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2ZPKXWhtR5xfONqBdSgBiO"
+    },
+    {
+      "added_at": "2024-08-23 10:32:39",
+      "album": {
+        "name": "Pyramids",
+        "url": "https://open.spotify.com/album/4Imc9qg3fBn0KuusJYydSb"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        },
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        }
+      ],
+      "duration_ms": 566534,
+      "name": "Njoke Njuge",
+      "url": "https://open.spotify.com/track/2hnnON4yT1gk5vnbCON1Q7"
+    },
+    {
+      "added_at": "2024-07-26 11:36:00",
+      "album": {
         "name": "Forever (&Lez Remix)",
         "url": "https://open.spotify.com/album/4uhoVqDV7IFDbwgs2U2EvZ"
       },
@@ -499,6 +519,22 @@
       "duration_ms": 376000,
       "name": "Kula - Tony Shades Remix",
       "url": "https://open.spotify.com/track/6Hu7KdszWs8YTmgjOKwnwD"
+    },
+    {
+      "added_at": "2024-07-26 11:36:00",
+      "album": {
+        "name": "Soul Explosion",
+        "url": "https://open.spotify.com/album/49tmF9OnGsQ45l11uf9KCq"
+      },
+      "artists": [
+        {
+          "name": "DJ Vivona",
+          "url": "https://open.spotify.com/artist/2MrGECnmnJ6NsokRk4QHkz"
+        }
+      ],
+      "duration_ms": 385490,
+      "name": "Soul Explosion",
+      "url": "https://open.spotify.com/track/2SSwhh7RjztAFSeA2S9iQ9"
     },
     {
       "added_at": "2024-07-26 11:36:00",
@@ -647,22 +683,6 @@
       "duration_ms": 162500,
       "name": "SHINDA",
       "url": "https://open.spotify.com/track/7y2KJOf3eHan2PezVrj3iU"
-    },
-    {
-      "added_at": "2024-07-26 11:36:00",
-      "album": {
-        "name": "Soul Explosion",
-        "url": "https://open.spotify.com/album/49tmF9OnGsQ45l11uf9KCq"
-      },
-      "artists": [
-        {
-          "name": "DJ Vivona",
-          "url": "https://open.spotify.com/artist/2MrGECnmnJ6NsokRk4QHkz"
-        }
-      ],
-      "duration_ms": 385490,
-      "name": "Soul Explosion",
-      "url": "https://open.spotify.com/track/2SSwhh7RjztAFSeA2S9iQ9"
     },
     {
       "added_at": "2024-07-26 11:36:00",
@@ -985,20 +1005,28 @@
       "url": "https://open.spotify.com/track/5O5IsfHQCKLCmMIgi4CCqM"
     },
     {
-      "added_at": "2024-07-26 11:36:00",
+      "added_at": "2024-08-23 10:32:39",
       "album": {
-        "name": "Wahyu",
-        "url": "https://open.spotify.com/album/0ZnAhsScg3mJNvBjsiDR1h"
+        "name": "Dhurman",
+        "url": "https://open.spotify.com/album/0L8bjadIiBH6tkIXE7jXjr"
       },
       "artists": [
         {
-          "name": "Saint Evo",
-          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        },
+        {
+          "name": "Argento Dust",
+          "url": "https://open.spotify.com/artist/4k5ekCq3lqokDeY3JifNjt"
+        },
+        {
+          "name": "Nyamal Nyang",
+          "url": "https://open.spotify.com/artist/2nUvkwwkStnsjzkFNt1Yi9"
         }
       ],
-      "duration_ms": 476065,
-      "name": "Wahyu",
-      "url": "https://open.spotify.com/track/7u8m9omhQ2a8gUqVErnKK3"
+      "duration_ms": 286126,
+      "name": "Dhurman",
+      "url": "https://open.spotify.com/track/5kdpjpVTsYAqJZr7hTfQR1"
     },
     {
       "added_at": "2024-07-26 11:36:00",
@@ -1087,6 +1115,22 @@
     {
       "added_at": "2024-07-26 11:36:00",
       "album": {
+        "name": "Wahyu",
+        "url": "https://open.spotify.com/album/0ZnAhsScg3mJNvBjsiDR1h"
+      },
+      "artists": [
+        {
+          "name": "Saint Evo",
+          "url": "https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE"
+        }
+      ],
+      "duration_ms": 476065,
+      "name": "Wahyu",
+      "url": "https://open.spotify.com/track/7u8m9omhQ2a8gUqVErnKK3"
+    },
+    {
+      "added_at": "2024-07-26 11:36:00",
+      "album": {
         "name": "Mwele (Chalee Remix)",
         "url": "https://open.spotify.com/album/1f5eRNVwmLj7BnteTVfJJs"
       },
@@ -1111,30 +1155,6 @@
       "duration_ms": 419819,
       "name": "Mwele - Chalee Remix",
       "url": "https://open.spotify.com/track/07lE4WqD5v3jZgwiYSk5H8"
-    },
-    {
-      "added_at": "2024-07-26 11:36:00",
-      "album": {
-        "name": "Your Love (Antdot Remix)",
-        "url": "https://open.spotify.com/album/5IWlETbudB9LdBT2BHVhSw"
-      },
-      "artists": [
-        {
-          "name": "PLS&TY",
-          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        },
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 177541,
-      "name": "Your Love - Antdot Remix",
-      "url": "https://open.spotify.com/track/4SylEKPh0HWqJep7CfISHk"
     },
     {
       "added_at": "2024-07-26 11:36:00",
@@ -1203,6 +1223,30 @@
       "duration_ms": 436005,
       "name": "Umoya",
       "url": "https://open.spotify.com/track/00f6dMrGyyVh0HaCmaNE7F"
+    },
+    {
+      "added_at": "2024-07-26 11:36:00",
+      "album": {
+        "name": "Your Love (Antdot Remix)",
+        "url": "https://open.spotify.com/album/5IWlETbudB9LdBT2BHVhSw"
+      },
+      "artists": [
+        {
+          "name": "PLS&TY",
+          "url": "https://open.spotify.com/artist/14byx2nRysWNtgauCXscKT"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 177541,
+      "name": "Your Love - Antdot Remix",
+      "url": "https://open.spotify.com/track/4SylEKPh0HWqJep7CfISHk"
     },
     {
       "added_at": "2024-07-26 11:36:00",
@@ -1417,6 +1461,34 @@
       "url": "https://open.spotify.com/track/6X0p3vgL8JMyUTLHDm8taS"
     },
     {
+      "added_at": "2024-08-23 10:32:39",
+      "album": {
+        "name": "Weche (Frigid Armadillo Remix)",
+        "url": "https://open.spotify.com/album/6kIAiqOVtJaHrpf77tmS9F"
+      },
+      "artists": [
+        {
+          "name": "Punk Mbedzi",
+          "url": "https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi"
+        },
+        {
+          "name": "Euggy",
+          "url": "https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn"
+        },
+        {
+          "name": "Akoth Jumadi",
+          "url": "https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo"
+        },
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        }
+      ],
+      "duration_ms": 485120,
+      "name": "Weche - Frigid Armadillo Remix",
+      "url": "https://open.spotify.com/track/6mXDUMeyDiCOXfejzfgy26"
+    },
+    {
       "added_at": "2024-07-26 11:36:00",
       "album": {
         "name": "Oroboto",
@@ -1565,6 +1637,22 @@
       "url": "https://open.spotify.com/track/2rLlcbVQ2jsB1VOpWy5n6s"
     },
     {
+      "added_at": "2024-08-23 10:32:39",
+      "album": {
+        "name": "Field Marshal",
+        "url": "https://open.spotify.com/album/6EE6g9l0mzMXubQJTmoGfg"
+      },
+      "artists": [
+        {
+          "name": "Jack Rooster",
+          "url": "https://open.spotify.com/artist/6eOFtqlRygKBcvT4VBKXHP"
+        }
+      ],
+      "duration_ms": 323823,
+      "name": "Field Marshal",
+      "url": "https://open.spotify.com/track/0nJKcRz0vf0FuCJHtOk7JK"
+    },
+    {
       "added_at": "2024-07-26 11:36:00",
       "album": {
         "name": "Power Of You",
@@ -1631,6 +1719,26 @@
       "duration_ms": 189178,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/7BOfHtdQyccVMIdEaHoKJi"
+    },
+    {
+      "added_at": "2024-08-23 10:32:39",
+      "album": {
+        "name": "Gorah",
+        "url": "https://open.spotify.com/album/31Dhd35ip9kwOzHZhzFzZ1"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Gorah",
+      "url": "https://open.spotify.com/track/49GpUfc9M09eGET6yBJUAj"
     },
     {
       "added_at": "2024-07-26 11:36:00",

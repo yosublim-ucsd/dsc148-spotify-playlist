@@ -3711,6 +3711,24 @@
     },
     {
       "album": {
+        "name": "ASIAN ROCKY",
+        "url": "https://open.spotify.com/album/2Wk8RSHMYTQar6RTl86pWR"
+      },
+      "artists": [
+        {
+          "name": "Wing Goods",
+          "url": "https://open.spotify.com/artist/23NRuMfzEnH4qMODcsaE6E"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "ASIAN ROCKY",
+      "url": "https://open.spotify.com/track/66d04EIyGJ5SE87w4rRWFv"
+    },
+    {
+      "album": {
         "name": "Ask",
         "url": "https://open.spotify.com/album/41AqMEdPeWiTrLCphXbQDa"
       },
@@ -32794,6 +32812,24 @@
       "duration_ms": 183310,
       "name": "Once",
       "url": "https://open.spotify.com/track/0cNU8rmtPjdwVQ5JurnB4U"
+    },
+    {
+      "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/77TA6N7h6qJRzfllTYuB8p"
+      },
+      "artists": [
+        {
+          "name": "Mica Javier",
+          "url": "https://open.spotify.com/artist/1fwxng0bfmgRfzdutglXEa"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165801,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/33wcKo6iuDjREEwdTzghh7"
     },
     {
       "album": {

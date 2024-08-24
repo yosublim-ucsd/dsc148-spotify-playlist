@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 889189,
+  "num_followers": 889384,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABo8ls8mBAyi7HEHjdGTnyW",
+  "snapshot_id": "ZsZ/gAAAAABfbc4tDS4JHjRqZeWm6bH8",
   "tracks": [
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Slide Park",
-        "url": "https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 35723,
-      "name": "Hole In My Pocket",
-      "url": "https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Best Day Ever (5th Anniversary Remastered Edition)",
         "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 159119,
       "name": "Best Day Ever",
       "url": "https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Slide Park",
+        "url": "https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 35723,
+      "name": "Hole In My Pocket",
+      "url": "https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R"
     },
     {
       "added_at": null,

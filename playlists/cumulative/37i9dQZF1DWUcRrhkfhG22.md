@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-121 songs - 8 hr 57 min
+122 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Time Runners](https://open.spotify.com/track/7cHpy9RziRJcB7sJzkVl3G) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Spectrum](https://open.spotify.com/album/37kg8ppSvrlXOR88u2fvNB) | 4:21 | 2020-09-18 |  |
 | [Too Late](https://open.spotify.com/track/463ciDPJsnDzuzEqnsU63c) | [Kazzey](https://open.spotify.com/artist/5wQ8DuXAlRz7HtLTjWnUyY) | [Voyage 1](https://open.spotify.com/album/5bRcZmrU98mH2ii0vbSPqV) | 3:09 | 2022-07-08 |  |
 | [Treasure \- Cover](https://open.spotify.com/track/7e0QtmkcaWUZMKZ1vV2VnS) | [Neighbors Complain](https://open.spotify.com/artist/20bloSpXKTBtyHo7iYcitT) | [Made in Street 2 \(Live Covers\)](https://open.spotify.com/album/31I6U15zlGiCa4OC82JZxe) | 4:23 | 2021-11-26 |  |
+| [Waste Your Heart](https://open.spotify.com/track/0rhaAXJdGr3Xx5tXJXWbmY) | [Miguel Campbell](https://open.spotify.com/artist/4uZJDUKi3NXQsuMKP3rOeC) | [Waste Your Heart](https://open.spotify.com/album/6pRKFEApm5Dvx1pfjqdhKo) | 5:26 | 2024-08-23 |  |
 | [We are the Jonzun Crew](https://open.spotify.com/track/47P4iI2RAFDY2WqK7h9iUN) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/2kdKsa0iKJ98bOBSAKpgJp) | 6:23 | 2020-09-18 |  |
 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 | 2020-09-18 | 2024-04-19 |
 | [What U Do](https://open.spotify.com/track/3rw6Y1CGiJcnQ27QyYpZ6f) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [What U Do](https://open.spotify.com/album/3Ewvl9pL2nfoyKw0pktqoK) | 5:42 | 2020-09-18 |  |

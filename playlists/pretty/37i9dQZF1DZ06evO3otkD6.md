@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 ### [This Is Belinda](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3otkD6)
 
-> This is Belinda\. The essential tracks, all in one playlist.
+> This Is Belinda\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,838 likes - 51 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,896 likes - 51 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 50 | [Eden](https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Eden](https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0) | 2:40 |
 | 51 | [Contigo Siempre](https://open.spotify.com/track/4hrKrgSeEil3uXvgouZLhd) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Laura Flores](https://open.spotify.com/artist/7HcfNDsEN1QvF3zUvf03OF) | [Silvana \- Cómplices Al Rescate](https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc) | 2:54 |
 
-Snapshot ID: `ZsUuAAAAAACQ3+9djvHXWG9Z6plG7ouS`
+Snapshot ID: `ZsZ/gAAAAACnInMEQikk78/3fmOpsUw+`

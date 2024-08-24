@@ -4,7 +4,7 @@
 
 > Tag your location, we shall pass by as we go around Africa
 
-84 songs - 5 hr 35 min
+85 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Lagos](https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:25 | 2024-08-08 |  |
 | [Lagos](https://open.spotify.com/track/5u9wdFL8Gb6RWMtCGUa9Xw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Lagos](https://open.spotify.com/album/2ZB7h9Nu1OYI0CMStgljYs) | 3:44 | 2023-09-08 |  |
 | [Lagos 101](https://open.spotify.com/track/7b0dJi7JyafNH4ueg479Qw) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Lagos 101](https://open.spotify.com/album/6cHp1TJC51U5R6EAhDnaKw) | 2:31 | 2023-09-08 |  |
+| [Lagos 2 Vegas](https://open.spotify.com/track/7hx0tEGdoAL9KG8k7SRcLT) | [Thutmose](https://open.spotify.com/artist/1igl9M102nuD96lo3ZoW5d) | [Lagos 2 Vegas](https://open.spotify.com/album/3pEhjim9cIerL9CPVaAwlK) | 2:31 | 2024-08-23 |  |
 | [Lagos Anthem](https://open.spotify.com/track/1vVLdumXpjKqiHF8OLdfSM) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Lagos Anthem](https://open.spotify.com/album/5d78fTQDQxh9ryCgymMZZr) | 3:29 | 2024-05-03 |  |
 | [Lagos Love Story](https://open.spotify.com/track/2Q2QZJlhGcGPV1XAdvcqob) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:35 | 2024-06-07 |  |
 | [Lagos to Kampala](https://open.spotify.com/track/5gVcAwtySmuwkaaFamFzTR) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Runtown Hits, Vol\. 1](https://open.spotify.com/album/5LCydiDsNtJH6oxI57oy7h) | 3:34 | 2024-03-15 |  |
@@ -70,7 +71,7 @@
 | [Mzansi](https://open.spotify.com/track/6h6lRoxhGgkfLw6pVMvPHN) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Eindo](https://open.spotify.com/artist/6kHkTLWCtE88wnK3XKXFFr), [Turaz](https://open.spotify.com/artist/6G0KGHioY6sCFMNozFUQRC) | [Necessary Evil](https://open.spotify.com/album/5DAnRaWABIjjFFNdMFOPrc) | 3:49 | 2023-09-08 |  |
 | [Nairobi](https://open.spotify.com/track/1QzPmQynOP65qaOuZDJUbm) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [NAIROBI](https://open.spotify.com/album/2pVb3IsYOZWdYNk6KJIjh4) | 3:40 | 2023-09-08 |  |
 | [Nairobi](https://open.spotify.com/track/7ipje7w6H8in5Otc4pEex4) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [Nairobi](https://open.spotify.com/album/7uWo9YZ9ggrk7E00QddrXm) | 3:16 | 2023-09-08 | 2024-01-20 |
-| [Nairobi](https://open.spotify.com/track/1D4Pjb9OYgGxPIKgusObu1) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Tokooos II](https://open.spotify.com/album/2Tcx5XnaqhO7ooOH00iA6M) | 2:41 | 2023-09-08 |  |
+| [Nairobi](https://open.spotify.com/track/1D4Pjb9OYgGxPIKgusObu1) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Tokooos II](https://open.spotify.com/album/2Tcx5XnaqhO7ooOH00iA6M) | 2:41 | 2023-09-08 | 2024-08-24 |
 | [Nairobi \(feat\. Mejja\)](https://open.spotify.com/track/5spupseGpHQqN1mXCvJQwU) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Nairobi \(feat\. Mejja\)](https://open.spotify.com/album/6Iw9McXkgroTLndvjgH9UF) | 3:40 | 2024-03-15 | 2024-04-19 |
 | [Namanga](https://open.spotify.com/track/6ty1FoWHfvkyLc4L5rQiFi) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Namanga](https://open.spotify.com/album/13rAjLXBk5Hq11WymEJRaE) | 3:30 | 2024-07-25 |  |
 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 | 2023-09-08 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Solace Out The Door Artwork: Isu Kim
 
-2,660 songs - 6 day 12 hr 10 min
+2,662 songs - 6 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [As It Was \- Sick Viral Version](https://open.spotify.com/track/3Isgvi0QgmPEbu1VIqdc8E) | [Fornevermore](https://open.spotify.com/artist/7iqJcmL3M73o038KHVJ6QV), [Sick Viral](https://open.spotify.com/artist/0HWjBjFaNg6YHozzC1gicb) | [As It Was \(Sick Viral Version\)](https://open.spotify.com/album/3ah8RD49hAioS92CojQFWL) | 2:57 | 2024-02-29 | 2024-03-22 |
 | [As Long As I'm With You](https://open.spotify.com/track/3WpfiD7hJnFafzdE1LJklZ) | [Marckenny](https://open.spotify.com/artist/1g0nZFSoTHic1hFJVQ9AKT) | [As Long As I'm With You](https://open.spotify.com/album/6hKNlDt00y8a2tJvbStbQI) | 2:58 | 2023-04-20 | 2023-05-05 |
 | [Ash and Bones](https://open.spotify.com/track/5vxhXcIXH5U1Z6shBCGPX8) | [MANIC SEASON](https://open.spotify.com/artist/2wXqsJqHE9GkvLFRoLXjwo) | [Ash and Bones](https://open.spotify.com/album/4JHSUugxLoYA68poAsigSX) | 4:42 | 2024-06-20 | 2024-07-27 |
+| [ASIAN ROCKY](https://open.spotify.com/track/66d04EIyGJ5SE87w4rRWFv) | [Wing Goods](https://open.spotify.com/artist/23NRuMfzEnH4qMODcsaE6E) | [ASIAN ROCKY](https://open.spotify.com/album/2Wk8RSHMYTQar6RTl86pWR) | 3:21 | 2024-08-23 |  |
 | [Ask](https://open.spotify.com/track/4zCaZsPd72QApYhH50ZrCA) | [JR Oca Experience](https://open.spotify.com/artist/5bctrF5mgDa7KfIQqXsACA) | [Ask](https://open.spotify.com/album/41AqMEdPeWiTrLCphXbQDa) | 4:16 | 2023-11-02 | 2023-12-09 |
 | [At Kahit](https://open.spotify.com/track/2V8y3mXusbLMpAZgLg6ve9) | [Jose Carlito](https://open.spotify.com/artist/0dCm0lE7zONgLuquyvat4m) | [At Kahit](https://open.spotify.com/album/5TlW3zW6vLb3BklQWkAk04) | 5:33 | 2022-03-03 | 2023-01-13 |
 | [Atin Ang Sandali \- Acoustic Version](https://open.spotify.com/track/1MvNQXJRL6vQnDSNo742PK) | [Tema](https://open.spotify.com/artist/0JHGjAEXAEzNH9nEv6Q3TB) | [Atin Ang Sandali \(Acoustic Version\)](https://open.spotify.com/album/0SxfnZAt4gVNUpr6JOS4jq) | 3:32 | 2023-03-16 | 2023-04-07 |
@@ -1716,6 +1717,7 @@
 | [ON YOUR MIND?](https://open.spotify.com/track/40aQdbc1Q7AvamvpWtWB6R) | [deyo](https://open.spotify.com/artist/5bF9hgr4Q88TwENK5D32Vq), [Lance A](https://open.spotify.com/artist/0fdCjtR1V4tSbkShNAXeNq) | [ON YOUR MIND?](https://open.spotify.com/album/0js7Pa1jQFu3OCtuaUEYcV) | 3:19 | 2023-11-29 | 2024-01-12 |
 | [On&Off](https://open.spotify.com/track/4uh7kGhYyAzvABoNVUG50M) | [Vince Lucero](https://open.spotify.com/artist/4UXx2GO375uJJFcMk8FWwq), [knōwmaad](https://open.spotify.com/artist/1fLR67iN8Rm9atDIhgMbAU), [ONEFLOOR](https://open.spotify.com/artist/5mn4HsyvMQ1tluNNl2HXDQ) | [On&Off](https://open.spotify.com/album/0UzoVAS4sDTE46lmKDCyVT) | 3:41 | 2024-08-08 |  |
 | [Once](https://open.spotify.com/track/0cNU8rmtPjdwVQ5JurnB4U) | [Chris Cantada Force](https://open.spotify.com/artist/5ubeV5kSMrVqdelpI3LlMw) | [Once](https://open.spotify.com/album/3BKCMFho1Eib4qpCTRrZmk) | 3:03 | 2024-05-23 | 2024-06-21 |
+| [One Life](https://open.spotify.com/track/33wcKo6iuDjREEwdTzghh7) | [Mica Javier](https://open.spotify.com/artist/1fwxng0bfmgRfzdutglXEa) | [One Life](https://open.spotify.com/album/77TA6N7h6qJRzfllTYuB8p) | 2:45 | 2024-08-23 |  |
 | [One More](https://open.spotify.com/track/1e6wzwHu1Gl9rx46EppHSX) | [DAZE](https://open.spotify.com/artist/0jts7PajizS8WEOylLO1b6) | [One More](https://open.spotify.com/album/21rHkFRX8t2ed0f4hGouFE) | 2:14 | 2024-08-23 |  |
 | [One night](https://open.spotify.com/track/3KaVG6Ygzl8AGyQFpiNZTV) | [King Murph](https://open.spotify.com/artist/5GskChFEdkaoBxhzSQRKsG), [Fritzie](https://open.spotify.com/artist/7gTIW4HEdX5UDO0gXyOGV4), [Lyka B](https://open.spotify.com/artist/6yZkoXDZ5YHVXljE3GEdy6) | [One night](https://open.spotify.com/album/0UxlTYP37ZWylyNBw44414) | 3:51 | 2023-06-08 | 2023-06-23 |
 | [one night](https://open.spotify.com/track/1zI5gUifb91l59QIGSJF1R) | [lennnn.](https://open.spotify.com/artist/0hYiCyMrUkdDFsO7ud2dUX) | [one night](https://open.spotify.com/album/5vBPlwmu6SFQY7MjVAghFy) | 2:47 | 2023-03-02 | 2023-03-25 |

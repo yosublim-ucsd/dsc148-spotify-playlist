@@ -1,13 +1,29 @@
 {
-  "description": "All new, all blues. Cover: Judith Hill",
-  "num_followers": 149338,
+  "description": "All new, all blues. Cover: Sonny Gullage",
+  "num_followers": 149352,
   "original_name": "Nu-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAADfdQM0zImG1H0XCxvYLfpX",
+  "snapshot_id": "ZsgJQAAAAAAm7a6idNqhj67R99svIHvV",
   "tracks": [
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Go Be Free",
+        "url": "https://open.spotify.com/album/13g3kHvJyUsg5lCtf2k7up"
+      },
+      "artists": [
+        {
+          "name": "Sonny Gullage",
+          "url": "https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7"
+        }
+      ],
+      "duration_ms": 259107,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/1nlndNfaPWrnt3PdVS6ZCY"
+    },
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
@@ -45,26 +61,6 @@
       "url": "https://open.spotify.com/track/3NcYD29MReKX1PN2CC7Bss"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
-        "url": "https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi"
-      },
-      "artists": [
-        {
-          "name": "Sonny Gullage",
-          "url": "https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 194236,
-      "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
-      "url": "https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y"
-    },
-    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Smoke",
@@ -99,6 +95,26 @@
       "duration_ms": 144000,
       "name": "Oil & Water",
       "url": "https://open.spotify.com/track/3BIxy1SXeYRybqVgqID10B"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
+        "url": "https://open.spotify.com/album/6eD6kNl8lOlydWGkVzmNfi"
+      },
+      "artists": [
+        {
+          "name": "Sonny Gullage",
+          "url": "https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 194236,
+      "name": "Worried About the Young (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/0frJeuQhpyPeDVt6zJGI6y"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1683,22 +1699,6 @@
       "duration_ms": 334893,
       "name": "She Ought to Be King",
       "url": "https://open.spotify.com/track/44xJuf6ZyXmKZzACJqFBof"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "30 Years Shot To Hell: A Tommy Womack Anthology",
-        "url": "https://open.spotify.com/album/62wREHeyhnAmDMkc4oZlgS"
-      },
-      "artists": [
-        {
-          "name": "Tommy Womack",
-          "url": "https://open.spotify.com/artist/3AeSz3QNO4DSmtyEZhICje"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Sweet Hitchhiker",
-      "url": "https://open.spotify.com/track/48ElMRo9c1HlS23AuHMRVS"
     },
     {
       "added_at": "2023-02-24 05:01:00",

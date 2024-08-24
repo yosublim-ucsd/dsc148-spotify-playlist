@@ -1,12 +1,12 @@
 {
   "description": "This Is Evaluna Montaner. Los temas esenciales, todos en una lista.",
-  "num_followers": 15067,
+  "num_followers": 15071,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAADIOJ/rfBB6cJBZAJgund7Y",
+  "snapshot_id": "ZsZ/gAAAAAB8jgrMfwrgW9j6hPXf7JaY",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Avivamiento",
-        "url": "https://open.spotify.com/album/5HrZsblI2GKiT8FcKRo3BM"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 359303,
-      "name": "Quiero A Cristo",
-      "url": "https://open.spotify.com/track/6mAU2YRQkhWdk5LZyxsyz0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa Cuentas Conmigo (feat. Carolina Mestrovic, Fefi Oliveira, Sebasti\u00e1n Silva & Santiago Achaga)",
         "url": "https://open.spotify.com/album/58oiaDxwcQwP3Os4WFmGQT"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 173929,
       "name": "T\u00fa Cuentas Conmigo (feat. Carolina Mestrovic, Fefi Oliveira, Sebasti\u00e1n Silva & Santiago Achaga)",
       "url": "https://open.spotify.com/track/7o1euvvl0ctDsnkvXuPhYF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avivamiento",
+        "url": "https://open.spotify.com/album/5HrZsblI2GKiT8FcKRo3BM"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 359303,
+      "name": "Quiero A Cristo",
+      "url": "https://open.spotify.com/track/6mAU2YRQkhWdk5LZyxsyz0"
     },
     {
       "added_at": null,
@@ -699,42 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 254306,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        }
-      ],
-      "duration_ms": 204714,
-      "name": "Al\u00edviame",
-      "url": "https://open.spotify.com/track/3Gdpd6fMO2Zz0B8ymwMsKH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muchacha Solitaria",
         "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
       },
@@ -751,6 +715,50 @@
       "duration_ms": 221423,
       "name": "Muchacha Solitaria",
       "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Fefi Oliveira",
+          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 175353,
+      "name": "Algo Bueno Va a Pasar (feat. Fefi Oliveira & Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/5gAsh9ARvb03FCffajAXyE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 254306,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
     },
     {
       "added_at": null,

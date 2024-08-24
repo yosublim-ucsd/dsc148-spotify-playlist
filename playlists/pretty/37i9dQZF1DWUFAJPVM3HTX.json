@@ -1,13 +1,129 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI?si=PHyghI-TTzms7L3xkPFnKw\">Qendresa</a>. Updates every Wednesday.",
-  "num_followers": 247460,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35?si=rmUzRaJKSLOkd1etKCY7MA\">CARI</a>. Updates every Wednesday.",
+  "num_followers": 247531,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7UtAAAAAAQhhFayC33DudRcgSqzuCf",
+  "snapshot_id": "Zsgo8QAAAABrhsytpJYrfDxWrkfglTEj",
   "tracks": [
+    {
+      "added_at": "2024-08-23 06:15:13",
+      "album": {
+        "name": "Bleeding",
+        "url": "https://open.spotify.com/album/66PpY2pEIhQ1s3LPBpme4Z"
+      },
+      "artists": [
+        {
+          "name": "CARI",
+          "url": "https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35"
+        }
+      ],
+      "duration_ms": 173649,
+      "name": "Bleeding",
+      "url": "https://open.spotify.com/track/3ClOC6cr12jZ7smMCgviqe"
+    },
+    {
+      "added_at": "2024-08-23 06:15:13",
+      "album": {
+        "name": "No Return",
+        "url": "https://open.spotify.com/album/1K8FToaA57VF3btE0Gy7dG"
+      },
+      "artists": [
+        {
+          "name": "Miles from Kinshasa",
+          "url": "https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "No Return",
+      "url": "https://open.spotify.com/track/19DuSBYrqVGZecfkvqitnn"
+    },
+    {
+      "added_at": "2024-08-23 06:15:13",
+      "album": {
+        "name": "sideways",
+        "url": "https://open.spotify.com/album/7h6kkpx65p00XTuBDFKtDC"
+      },
+      "artists": [
+        {
+          "name": "IX WULF",
+          "url": "https://open.spotify.com/artist/4YJ3Jfbf78CW0WCNPVNNa2"
+        }
+      ],
+      "duration_ms": 196885,
+      "name": "sideways",
+      "url": "https://open.spotify.com/track/5l7DdT59Rqczl4rTVucUAi"
+    },
+    {
+      "added_at": "2024-08-23 06:15:13",
+      "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/5cUlb8YzA2ZUeD4T2tJjLW"
+      },
+      "artists": [
+        {
+          "name": "sectiontoo",
+          "url": "https://open.spotify.com/artist/3AfDFNOpXAPEPlFFrBMOL3"
+        }
+      ],
+      "duration_ms": 159801,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0Xfo49zvpvgKDvUN5QOA2M"
+    },
+    {
+      "added_at": "2024-08-23 06:15:13",
+      "album": {
+        "name": "FairXchange (Deluxe)",
+        "url": "https://open.spotify.com/album/7nIduAxvjda3knMGnzfZD6"
+      },
+      "artists": [
+        {
+          "name": "PxRRY",
+          "url": "https://open.spotify.com/artist/0PsWfG0oEt3Oz7Vlur7pkE"
+        },
+        {
+          "name": "Norman Perry",
+          "url": "https://open.spotify.com/artist/3YebotmWYFiED1bx82XBmB"
+        }
+      ],
+      "duration_ms": 171465,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/4XKqiLh6FvM6i0Gp2RLBbN"
+    },
+    {
+      "added_at": "2024-08-23 06:15:13",
+      "album": {
+        "name": "TRENDSETTER",
+        "url": "https://open.spotify.com/album/70qHmQkPPCg7qridZsUFIk"
+      },
+      "artists": [
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        }
+      ],
+      "duration_ms": 150128,
+      "name": "TRENDSETTER",
+      "url": "https://open.spotify.com/track/13vOehmUuNKBMhjl5dBjeN"
+    },
+    {
+      "added_at": "2024-08-23 06:15:13",
+      "album": {
+        "name": "BLISS",
+        "url": "https://open.spotify.com/album/12fpMn2uGZXQ6KE0PPCbl1"
+      },
+      "artists": [
+        {
+          "name": "Mio",
+          "url": "https://open.spotify.com/artist/1JfJjWsE2dwEFhcZG0zVlA"
+        }
+      ],
+      "duration_ms": 72282,
+      "name": "Flowers in the Garden",
+      "url": "https://open.spotify.com/track/4N4mPmwbdHFhb37oZq5DaS"
+    },
     {
       "added_at": "2024-08-16 04:25:24",
       "album": {
@@ -2547,26 +2663,6 @@
     {
       "added_at": "2024-07-01 15:12:18",
       "album": {
-        "name": "Needle and Thread",
-        "url": "https://open.spotify.com/album/6mkspEofbB6unYwnOxpJB1"
-      },
-      "artists": [
-        {
-          "name": "Neila",
-          "url": "https://open.spotify.com/artist/3vRiuQKPUpfmh1ZFr6xsAp"
-        },
-        {
-          "name": "Dende",
-          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
-        }
-      ],
-      "duration_ms": 180565,
-      "name": "Needle and Thread",
-      "url": "https://open.spotify.com/track/3XtJrmVUBdYu9jqTdHiGCC"
-    },
-    {
-      "added_at": "2024-07-01 15:12:18",
-      "album": {
         "name": "You Part II",
         "url": "https://open.spotify.com/album/4gylsEyMaJeSpb4uLZreDz"
       },
@@ -2579,22 +2675,6 @@
       "duration_ms": 180000,
       "name": "You Part II",
       "url": "https://open.spotify.com/track/4QJ3FwDbUrrISchG2acltH"
-    },
-    {
-      "added_at": "2024-07-01 15:12:18",
-      "album": {
-        "name": "GINA",
-        "url": "https://open.spotify.com/album/3Xwv8uoWyB8gfvittEvQLu"
-      },
-      "artists": [
-        {
-          "name": "theMIND",
-          "url": "https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP"
-        }
-      ],
-      "duration_ms": 136839,
-      "name": "GINA",
-      "url": "https://open.spotify.com/track/6do6ML8FIuSUTPRa3uMlYJ"
     },
     {
       "added_at": "2024-07-01 15:12:18",
@@ -2627,38 +2707,6 @@
       "duration_ms": 131931,
       "name": "Polygons",
       "url": "https://open.spotify.com/track/79t7peHF7VoWNFFPb6HD4T"
-    },
-    {
-      "added_at": "2024-07-01 15:12:18",
-      "album": {
-        "name": "Finished",
-        "url": "https://open.spotify.com/album/7GRBTlXbIJlEAeB9emd9BW"
-      },
-      "artists": [
-        {
-          "name": "Nellie Charles",
-          "url": "https://open.spotify.com/artist/38SPpsFeCY6kSCR0ggfGy5"
-        }
-      ],
-      "duration_ms": 158876,
-      "name": "Finished",
-      "url": "https://open.spotify.com/track/4AvGZH0eEyLZPEye5PR0GB"
-    },
-    {
-      "added_at": "2024-07-01 15:12:18",
-      "album": {
-        "name": "BLUSH",
-        "url": "https://open.spotify.com/album/2IhUGTXGBSgQr9VDOQ5n1K"
-      },
-      "artists": [
-        {
-          "name": "Samuel Petra",
-          "url": "https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3"
-        }
-      ],
-      "duration_ms": 106638,
-      "name": "BLUSH",
-      "url": "https://open.spotify.com/track/2SijVGKbuJtVcifspmfthM"
     },
     {
       "added_at": "2024-06-19 18:08:57",

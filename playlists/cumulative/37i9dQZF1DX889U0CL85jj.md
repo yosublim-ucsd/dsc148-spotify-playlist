@@ -4,7 +4,7 @@
 
 > Always good, always chill indie for hanging out and relaxing.
 
-626 songs - 1 day 12 hr 17 min
+627 songs - 1 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -556,6 +556,7 @@
 | [that's us](https://open.spotify.com/track/1anxX1NLxxdIjVzomBJK45) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [The Nicholas](https://open.spotify.com/artist/2HOeKK6JSrvz00FoQk0biZ), [rei so la](https://open.spotify.com/artist/6ZyqJ0aS979tbln9vjpVyF) | [that's us](https://open.spotify.com/album/7tmJkPTraTuKBJPxQPp4fY) | 2:42 | 2020-10-02 | 2022-08-06 |
 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 | 2023-05-04 | 2024-04-13 |
 | [The City](https://open.spotify.com/track/46VVqPB050Euv6hIxeV45l) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [The City](https://open.spotify.com/album/7aOqSME6hWSephSVHYIsxt) | 4:11 | 2020-04-02 | 2022-08-03 |
+| [The Hard Way](https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [The Hard Way](https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N) | 3:56 | 2024-08-23 |  |
 | [The Modern Western World](https://open.spotify.com/track/30bLh2OQSfIvDpdu8ckzRg) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [The Modern Western World](https://open.spotify.com/album/1PzNv0eCsRTtdxWlOiX3kM) | 2:21 | 2022-12-22 |  |
 | [The Most Beautiful Thing](https://open.spotify.com/track/7EncNzyGs8uJiQittB38ef) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [The Most Beautiful Thing](https://open.spotify.com/album/1HPfv8XBrL0EiWOcNPr9q9) | 3:55 | 2020-05-01 | 2022-01-22 |
 | [The Shaman](https://open.spotify.com/track/7FzTEzwDcjfxCFlNGkkrAU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Shaman](https://open.spotify.com/album/3kp75Hdfwnpnw78eEIXbir) | 2:36 | 2021-11-19 | 2023-03-18 |

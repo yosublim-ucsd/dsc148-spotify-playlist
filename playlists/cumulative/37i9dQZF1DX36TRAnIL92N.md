@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-233 songs - 20 hr 23 min
+234 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [All the Things She Said](https://open.spotify.com/track/6FxRH7N7Q86i6aixaSYYzx) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [All the Things She Said](https://open.spotify.com/album/6GxNLOlFGgl6J3cvLGN81l) | 2:45 | 2024-06-21 |  |
 | [Alle meine Raver](https://open.spotify.com/track/3UShLxr87usr5yQ6G3GVKK) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8), [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo) | [Alle meine Raver](https://open.spotify.com/album/3u1t460lF2E1dS547CkEg4) | 5:14 | 2023-03-29 | 2024-04-20 |
 | [Ananda](https://open.spotify.com/track/4OgesRizuZuES11S4oMmCp) | [Joseph Capriati](https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf), [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR) | [Mantra EP](https://open.spotify.com/album/1ciTAED3gTIYBfhA3MpGNT) | 3:17 | 2024-06-14 | 2024-08-23 |
+| [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 | 2024-08-23 |  |
 | [Asura](https://open.spotify.com/track/0VuuObMpLGGCMGtPNgG1rp) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/5mVxJJjUM7BKyZG7S2GDKc) | 7:49 | 2023-11-10 | 2024-04-19 |
 | [Asura](https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Asura EP](https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB) | 7:49 | 2022-07-05 | 2023-11-05 |
 | [Attention](https://open.spotify.com/track/1qvzL0oWnc4msWpcDiAmGG) | [Warp Brothers](https://open.spotify.com/artist/1npPQS3PDH4xmOhYxB2L0T) | [Attention](https://open.spotify.com/album/11gyGSY3EFkKd0g9y4aY8O) | 5:57 | 2022-07-05 | 2023-03-29 |
@@ -119,7 +120,7 @@
 | [Losing Gravity](https://open.spotify.com/track/2lCJlVxUXg7hE187mVPLZm) | [Carbon](https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK) | [Losing Gravity](https://open.spotify.com/album/3WJC7hFCWhLXkDw0lrf85s) | 6:03 | 2023-09-08 | 2023-10-04 |
 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-08-09 |  |
 | [Luna](https://open.spotify.com/track/4KEsZFbFgEdaBfBjCijKnX) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [Sam WOLFE](https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4) | [Luna](https://open.spotify.com/album/4n2DzX9Ow9SA7L2dKVy4Mc) | 3:52 | 2024-07-29 |  |
-| [Machine Pulse](https://open.spotify.com/track/0BKfE3aTw6dy7im1IZldMG) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Machine Pulse](https://open.spotify.com/album/34I15SYM2dCpWDBvFddUor) | 3:41 | 2023-11-10 |  |
+| [Machine Pulse](https://open.spotify.com/track/0BKfE3aTw6dy7im1IZldMG) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Machine Pulse](https://open.spotify.com/album/34I15SYM2dCpWDBvFddUor) | 3:41 | 2023-11-10 | 2024-08-24 |
 | [Mars Powder \- Radio Edit](https://open.spotify.com/track/3PJkEdIheSss9bhIdqnQju) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Mars Powder](https://open.spotify.com/album/7cuM14P80mW17Tzi4bYxGm) | 4:03 | 2022-07-05 | 2022-07-09 |
 | [Maschine](https://open.spotify.com/track/5mX46VGRf2zGXrSQ2utxbA) | [Kaufmann \(DE\)](https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v) | [Maschine](https://open.spotify.com/album/21s6LGNDIZ6TMdEIDZbgO8) | 6:47 | 2022-07-11 | 2022-07-29 |
 | [ME/AN](https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Vision 20/20](https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM) | [ME/AN](https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR) | 3:49 | 2022-07-11 | 2023-02-04 |

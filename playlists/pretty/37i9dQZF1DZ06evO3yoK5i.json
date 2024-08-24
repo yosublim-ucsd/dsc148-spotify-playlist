@@ -1,12 +1,12 @@
 {
-  "description": "This Is Eros Ramazzotti. Los temas esenciales, todos en una lista.",
-  "num_followers": 229932,
+  "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
+  "num_followers": 229980,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAAAD84VkYTgNXgvh6ZsgRlXd",
+  "snapshot_id": "ZsZ/gAAAAACMLSj/3pHXSG/9LDBXgbOG",
   "tracks": [
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Musica Es",
+        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 242106,
+      "name": "Por Ti Me Casare",
+      "url": "https://open.spotify.com/track/7a551oQYN0mjS9Fiu2nQSp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Calma Apparente",
         "url": "https://open.spotify.com/album/5A5pws69LWyMgZ0iJlb3Nb"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 265600,
       "name": "I Belong to You (feat. Anastacia)",
       "url": "https://open.spotify.com/track/4RUoW6ewYFNsNzTbtvM99Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Musica Es",
-        "url": "https://open.spotify.com/album/0I3z9Ye15qtOwzrvh9LWdh"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 242106,
-      "name": "Por Ti Me Casare",
-      "url": "https://open.spotify.com/track/7a551oQYN0mjS9Fiu2nQSp"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfetto",
-        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 228080,
-      "name": "Sei Un Pensiero Speciale",
-      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
+      "duration_ms": 279666,
+      "name": "Estrella Gemela",
+      "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+        "name": "Perfetto",
+        "url": "https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 279666,
-      "name": "Estrella Gemela",
-      "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
+      "duration_ms": 228080,
+      "name": "Sei Un Pensiero Speciale",
+      "url": "https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt"
     },
     {
       "added_at": null,

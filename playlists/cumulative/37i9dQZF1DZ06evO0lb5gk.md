@@ -4,10 +4,11 @@
 
 > This is Gojira\. The essential tracks, all in one playlist.
 
-59 songs - 4 hr 40 min
+60 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [04](https://open.spotify.com/track/71quk58zQYDoz650CiuVjF) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 2:10 | 2024-08-24 |  |
 | [5988 trillions de tonnes](https://open.spotify.com/track/35WnKriRJleyW2pVFXfLyH) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Terra Incognita](https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4) | 1:18 | 2023-12-13 | 2024-01-02 |
 | [A sight to behold](https://open.spotify.com/track/2fA5O6Fs60rtXxIfelVKcH) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 5:09 | 2022-09-19 |  |
 | [Adoration for none](https://open.spotify.com/track/3l5h9gjuQDSC6CI0N6Fr0v) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [The way of all flesh](https://open.spotify.com/album/4J79cxsmRqZbI0BKmNFDy2) | 6:19 | 2022-08-11 | 2022-08-13 |

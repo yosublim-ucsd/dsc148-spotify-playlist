@@ -2,7 +2,7 @@
 
 ### [Roots Rising](https://open.spotify.com/playlist/37i9dQZF1DWYV7OOaGhoH0)
 
-> The best in folk & acoustic today featuring music from Amos Lee
+> The best in folk & acoustic today featuring music from Gigi Perez
 
 596 songs - 1 day 12 hr 50 min
 

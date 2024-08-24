@@ -4791,6 +4791,24 @@
     },
     {
       "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206493,
+      "name": "Whiskey Colored Crayon",
+      "url": "https://open.spotify.com/track/3lhNhhXTaZ4MctV8turR8r"
+    },
+    {
+      "album": {
         "name": "Whiskey Glasses (demo)",
         "url": "https://open.spotify.com/album/7nj4tJDeS8J5em0r0TTIdR"
       },

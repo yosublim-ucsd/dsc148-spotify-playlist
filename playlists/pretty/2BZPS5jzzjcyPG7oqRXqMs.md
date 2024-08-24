@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 
 > Christian Soundtracks \(Movie + TV\) 2024 \| &quot;I could never choose to love another, maybe one day I can learn to love you too...&quot; \| Music from Christian Movies and TV that we all know and love! Cover: <a href="https://www.journeytobethlehemmovie.com/">Cast of Journey To Bethlehem</a>
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,542 likes - 109 songs - 6 hr 50 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 12,541 likes - 109 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [We Become We](https://open.spotify.com/track/6fMG6aQhcMhgfZGISkdvxZ) | [The Cast Of Journey To Bethlehem](https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup), [Fiona Palomo](https://open.spotify.com/artist/5xXDSTO0sufLEplESs2MSW), [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5) | [Journey To Bethlehem \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0H4TpETV9J5fiqvIPIWKRR) | 2:08 |
+| 1 | [We Become We \- From “Journey To Bethlehem”](https://open.spotify.com/track/6VzynQkBcxPO5Z3Q6Qel4H) | [The Cast Of Journey To Bethlehem](https://open.spotify.com/artist/1FS6nAHDWtWguh8VtxERup), [Fiona Palomo](https://open.spotify.com/artist/5xXDSTO0sufLEplESs2MSW), [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5) | [We Become We \- From “Journey To Bethlehem”](https://open.spotify.com/album/376t3bgY9AwvVvlK2EVXjY) | 2:08 |
 | 2 | [In The End \- Mellen Gi Remix](https://open.spotify.com/track/5rAUZy2eDdegBxUVYxePK2) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4), [Mellen Gi](https://open.spotify.com/artist/6Hpe3EZqFMWYtJ61D0GjSa) | [In The End](https://open.spotify.com/album/4ogDiddFmcxnT4PC9lVEoV) | 3:38 |
 | 3 | [This I Believe \(The Creed\) \- Live](https://open.spotify.com/track/5jOB2z6geW5vPlxabsaNeY) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Hillsong – Let Hope Rise \(Live/Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffdIV1LbjNv7K0qUM1TY9) | 6:41 |
 | 4 | [The Prince Of Egypt \(When You Believe\)](https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 5:01 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/2BZPS5jzzjcyPG7oqRXqMs.md) - [plain]
 | 108 | [For Every Mountain \- Remix](https://open.spotify.com/track/4ySaUNWfWMRBuHJXKgQ5XJ) | [Kingdom Business Cast](https://open.spotify.com/artist/2SVxgMxoXCbEfYM2nXHGBn), [Tytist](https://open.spotify.com/artist/2kQKQZOPjlvy0bz2BbE9w3) | [Kingdom Business 2 \(Music from the BET+ Original TV Series\)](https://open.spotify.com/album/0AD3pvkVkxMSJ5iJvUJrky) | 2:40 |
 | 109 | [When You Believe](https://open.spotify.com/track/0w1dqIds7K9sQna7dSCdan) | [Alexia Khadime](https://open.spotify.com/artist/4jtNresJX9NjFZczXgXfqY), [Christine Allado](https://open.spotify.com/artist/3dl5JxBCHHKpXS8DPFSEpN), [Mia Lakha](https://open.spotify.com/artist/16OPzi7kd5bfNEoK8MLdqi), [Luke Brady](https://open.spotify.com/artist/2jHGDVfLRdO9sheZMMKAng), [The Prince of Egypt Original Cast Ensemble](https://open.spotify.com/artist/3Agg3zitCoUpSrzNTCaHWe) | [The Prince of Egypt \(Original Cast Recording\)](https://open.spotify.com/album/7MOGTYjo3ifwHDBf0EBE71) | 4:34 |
 
-Snapshot ID: `AAANMZy/ZwfvC7EUNiOnqQXBEjSIsBXk`
+Snapshot ID: `AAANM5Mb2JDgdTmyKrcEVwjuoIc2gAhB`

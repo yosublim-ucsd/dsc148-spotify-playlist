@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Kaeto",
+  "description": "Beyond titles, beyond genre. Cover: Mk.gee",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 151633,
       "name": "A7X",
       "url": "https://open.spotify.com/track/7fywVRxevIbDGLWeNEz77I"
@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "Are You Gonna Find It",
+        "url": "https://open.spotify.com/album/6zwboIYLz6IaKYCrfom8lR"
+      },
+      "artists": [
+        {
+          "name": "Thandii",
+          "url": "https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293613,
+      "name": "Are You Gonna Find It",
+      "url": "https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ"
+    },
+    {
+      "album": {
         "name": "Two Star & The Dream Police",
         "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
@@ -212,6 +230,32 @@
       "duration_ms": 208439,
       "name": "Aw, Shoot!",
       "url": "https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c"
+    },
+    {
+      "album": {
+        "name": "Babe",
+        "url": "https://open.spotify.com/album/3fGFAVv90etRh2ws3W9bI0"
+      },
+      "artists": [
+        {
+          "name": "Louis Culture",
+          "url": "https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR"
+        },
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        },
+        {
+          "name": "Richie",
+          "url": "https://open.spotify.com/artist/34rtXQytQe9l53JCgJSbwa"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188711,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4"
     },
     {
       "album": {
@@ -816,7 +860,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 188306,
       "name": "don't want u to die",
       "url": "https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif"
@@ -950,7 +994,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 169835,
       "name": "Everytime",
       "url": "https://open.spotify.com/track/1M90Mf0GQiVlpVL3A9ey2A"
@@ -1022,7 +1066,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 144331,
       "name": "Fortune Green",
       "url": "https://open.spotify.com/track/41arbLAzIm7uV8T0dCZNio"
@@ -1411,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Holy, Holy",
+        "url": "https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V"
+      },
+      "artists": [
+        {
+          "name": "Geordie Greep",
+          "url": "https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363138,
+      "name": "Holy, Holy",
+      "url": "https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2I1lXDLSd7naOK0nbE1viy"
       },
@@ -1466,6 +1528,24 @@
       "duration_ms": 183846,
       "name": "I am the King",
       "url": "https://open.spotify.com/track/5BD2sRwZBmAcS649vipoAq"
+    },
+    {
+      "album": {
+        "name": "I Forget (I\u2019m So Young)",
+        "url": "https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z"
+      },
+      "artists": [
+        {
+          "name": "Sofie Royer",
+          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259475,
+      "name": "I Forget (I\u2019m So Young)",
+      "url": "https://open.spotify.com/track/64Arxcm1BKaKaXhq8aWoCy"
     },
     {
       "album": {
@@ -1708,6 +1788,24 @@
       "duration_ms": 193493,
       "name": "Less of You",
       "url": "https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV"
+    },
+    {
+      "album": {
+        "name": "Lonely Fight",
+        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229169,
+      "name": "Lonely Fight",
+      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
     },
     {
       "album": {
@@ -2077,6 +2175,28 @@
     },
     {
       "album": {
+        "name": "Organs",
+        "url": "https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc"
+      },
+      "artists": [
+        {
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
+        },
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287403,
+      "name": "Organs",
+      "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
+    },
+    {
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU"
       },
@@ -2088,7 +2208,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 219950,
       "name": "Over",
       "url": "https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa"
@@ -2204,6 +2324,24 @@
       "duration_ms": 187686,
       "name": "Rafters",
       "url": "https://open.spotify.com/track/3wyYvUZfeJRUPVW5PLaF4r"
+    },
+    {
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/47DlMVv64jPLw8DJJ1oqLU"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229353,
+      "name": "Ray of Light",
+      "url": "https://open.spotify.com/track/2NCivP0yuBfwHuvLf9QNzy"
     },
     {
       "album": {
@@ -2753,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "That's My Floor",
+        "url": "https://open.spotify.com/album/5dGhpX3W12hDDip1gniXfK"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "That's My Floor",
+      "url": "https://open.spotify.com/track/2mJI78wsFOQfLvrrlR0H3H"
+    },
+    {
+      "album": {
         "name": "That's Us/Wild Combination",
         "url": "https://open.spotify.com/album/3ifBjWe4ziDBImGZaapF4f"
       },
@@ -2840,7 +2996,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 174178,
       "name": "The Pressures of the Heart",
       "url": "https://open.spotify.com/track/0dBhs5Aw3NO9gAVIWrnmLZ"
@@ -2862,7 +3018,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 189098,
       "name": "The Racket - Mr Jukes Remix",
       "url": "https://open.spotify.com/track/4kwIpNUU8xyVeDHE3FkJV6"
@@ -2964,7 +3120,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 176026,
       "name": "True Colours (Part 2)",
       "url": "https://open.spotify.com/track/7iELnuie3AdZvCSBuqXCnb"
@@ -3178,10 +3334,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 117735,
       "name": "WE CANNOT BE FRIENDS",
       "url": "https://open.spotify.com/track/1T21V9uTRE3Rmfujj7jJFS"
+    },
+    {
+      "album": {
+        "name": "Common People",
+        "url": "https://open.spotify.com/album/6QuyXjOtOEWJ0RkUanzAlu"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "We Move",
+      "url": "https://open.spotify.com/track/7ahvkrZ5wIpOTRBKYmL0i0"
     },
     {
       "album": {

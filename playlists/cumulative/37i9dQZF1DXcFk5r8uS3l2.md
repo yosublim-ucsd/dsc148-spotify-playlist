@@ -2,14 +2,14 @@
 
 ### [Blues Roots](https://open.spotify.com/playlist/37i9dQZF1DXcFk5r8uS3l2)
 
-> You've come to the crossroads of soul, folk, and the blues\. Cover: Amythyst Kiah
+> You've come to the crossroads of soul, folk, and the blues\. Cover: Ruthie Foster
 
-391 songs - 1 day 0 hr 34 min
+394 songs - 1 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [13 Years](https://open.spotify.com/track/5qAZiFTk5rLhJmrOZVYgx1) | [Marc A Ridge](https://open.spotify.com/artist/4tK0B7SdYJ0gKLFkR69YBn) | [13 Years](https://open.spotify.com/album/4NIJG4kamBBJqjonUtmqZG) | 6:42 | 2024-08-02 |  |
-| [2 FOR THA SHOW](https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Traffic Fiction](https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA) | 3:56 | 2023-10-06 |  |
+| [2 FOR THA SHOW](https://open.spotify.com/track/6OJzYB7wzVhxI2YIjVrfr6) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Traffic Fiction](https://open.spotify.com/album/0MkenTu5G8qe0SgyE619fA) | 3:56 | 2023-10-06 | 2024-08-24 |
 | [4 Edward](https://open.spotify.com/track/33AfkIQqriOQPBHUNhfs1w) | [Nancy Wilson](https://open.spotify.com/artist/5gnpB90GzUR1gXpse5Kl4R) | [4 Edward](https://open.spotify.com/album/53J3ZGvVMa4Jwq0abT24iv) | 1:43 | 2021-12-17 | 2023-03-11 |
 | [500 Miles](https://open.spotify.com/track/1oVkFIm3zqa7fy5nUxFyhH) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [500 Miles](https://open.spotify.com/album/0shW2Ea6gtcqAYOm2bPDMg) | 3:30 | 2023-01-20 | 2023-03-27 |
 | [500 Miles](https://open.spotify.com/track/7Im3HTE5xwZHJnHEgVBX6E) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 3:30 | 2023-02-03 | 2023-10-07 |
@@ -77,6 +77,7 @@
 | [Colors \- Acoustic](https://open.spotify.com/track/7ubLP1DYpvxm4WMsRCKmmv) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Colors \(Acoustic\)](https://open.spotify.com/album/6Mltcw41Ponx8agMEUPU5o) | 5:23 | 2021-12-17 |  |
 | [Cool Whip](https://open.spotify.com/track/11VRbqIoImi99kotcVUDKw) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 3:42 | 2022-08-19 | 2023-04-01 |
 | [Cool Whip](https://open.spotify.com/track/5sj0p138vmExupLI9pOTI7) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Cool Whip](https://open.spotify.com/album/2NyghAoOQRqYCUdHgMNTrl) | 3:42 | 2022-08-19 | 2023-03-02 |
+| [Cover Me](https://open.spotify.com/track/3BSJNXL0i0hBNNBI8qLMaQ) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) | [Ugly](https://open.spotify.com/album/7EfWvQIahrZafZL6xiyBQ3) | 5:35 | 2024-08-23 |  |
 | [CRY](https://open.spotify.com/track/2DtkXqhFKskzSz1Y2xGepP) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [CRY](https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8) | 3:57 | 2021-12-17 | 2022-07-29 |
 | [CRY](https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 3:57 | 2022-01-28 | 2023-03-11 |
 | [Dance Monkey](https://open.spotify.com/track/4W3UeFjutmOG80XCTgioWT) | [Bette Smith](https://open.spotify.com/artist/3hFYJXV9rGaHMAPkvP4YZ3), [Kirk Fletcher](https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq) | [Dance Monkey](https://open.spotify.com/album/1uUxV8oH2qs8wRApyp62Rn) | 3:33 | 2021-12-17 |  |
@@ -135,7 +136,7 @@
 | [Have a Ball](https://open.spotify.com/track/6ngNT63RRgIqmgZkWK39Q7) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [If These Walls Could Talk](https://open.spotify.com/album/4FN73eUqBC3Nh0nnsz4A8c) | 2:24 | 2022-05-06 | 2024-05-18 |
 | [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 | 2023-03-10 | 2023-04-09 |
 | [Heart by Heart](https://open.spotify.com/track/3xOt8ADrsq52yDivtBZfS6) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Heart by Heart](https://open.spotify.com/album/35lPmfsSzeu5pgEIlO2Ntv) | 4:03 | 2021-12-17 | 2023-10-07 |
-| [Heartshine](https://open.spotify.com/track/53bgRTz4YRHfTkVAwfYWDc) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Heartshine](https://open.spotify.com/album/6l3sHGhVV31YItfJP6lHTq) | 4:49 | 2024-06-28 |  |
+| [Heartshine](https://open.spotify.com/track/53bgRTz4YRHfTkVAwfYWDc) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Heartshine](https://open.spotify.com/album/6l3sHGhVV31YItfJP6lHTq) | 4:49 | 2024-06-28 | 2024-08-24 |
 | [Heaven Knows](https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Heaven Knows](https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8) | 5:23 | 2022-04-29 |  |
 | [Help Me Now](https://open.spotify.com/track/3GBV8M2iOv6T5UD91Lok2y) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Help Me Now](https://open.spotify.com/album/2zf92DYqMqjqLeGbaMpxdl) | 3:41 | 2022-10-14 | 2022-10-22 |
 | [Her Song](https://open.spotify.com/track/0zwqiSwBs0pzOsRrwjQedc) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Mama Rosa](https://open.spotify.com/album/68lPlEz1PvticlwgS0aznV) | 5:26 | 2023-04-28 |  |
@@ -220,6 +221,7 @@
 | [Malibu Man](https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 3:36 | 2021-12-17 | 2023-03-11 |
 | [Man On Fire \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7B2paARxJo6qtdPaVNkbva) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Spotify Singles](https://open.spotify.com/album/1JmZYnqTR2y0CKrHUD5JKf) | 3:49 | 2021-12-17 | 2022-12-03 |
 | [Maybe Someday](https://open.spotify.com/track/5hPQhhwqgJfPDUJIwYAzql) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Maybe Someday](https://open.spotify.com/album/2i59MYGjnrbk9qtiTNcZ19) | 2:55 | 2023-03-24 | 2023-05-20 |
+| [Mileage](https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 4:10 | 2024-08-23 |  |
 | [Mistakes](https://open.spotify.com/track/0Sox7tv3MK5h6AkFLUPHtY) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Side Pony](https://open.spotify.com/album/1pXxKrTopCyALgXX7h5tmX) | 4:08 | 2021-12-17 |  |
 | [Monsoon Lightning](https://open.spotify.com/track/2amxmJp83GsKX3tS3GkBFo) | [Lonesome Shack](https://open.spotify.com/artist/72lMhHXgtmKeNQbfT5QLq3), [Tom Walbank](https://open.spotify.com/artist/6Ju4WiHeO57mAP7iEUFfCw) | [Monsoon Lightning](https://open.spotify.com/album/7ELb0B6hRV0GO0U4e7BBpN) | 4:23 | 2024-07-05 |  |
 | [Mood](https://open.spotify.com/track/0W5jMo5MpHvLTGVnAN8c1R) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [Mood](https://open.spotify.com/album/1Q1qs8DABP6SgIyRyadg8s) | 3:29 | 2022-10-21 |  |
@@ -284,6 +286,7 @@
 | [Running](https://open.spotify.com/track/2M6f90yKmcXK71HGVpnOcB) | [Ash Radford](https://open.spotify.com/artist/5xbTNkvW7vgjRXPKjwBEyw) | [Terra Santa](https://open.spotify.com/album/3utismh5YS0OUEc0M0pDb2) | 4:00 | 2022-12-09 | 2023-01-21 |
 | [Said and Done](https://open.spotify.com/track/1nU3EteBtKcrE2DhnKZLw2) | [Banditos](https://open.spotify.com/artist/6bDfhlhiEEJliB13BqdOIg) | [Right On](https://open.spotify.com/album/0bHzlnQ4InLhnDwrqL0nBC) | 2:28 | 2022-05-20 | 2022-06-11 |
 | [San Quentin Infirmary Blues \- Stripped Back](https://open.spotify.com/track/6A8JDsJSjQsrBwfXl2UTKk) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [All The Bad Things \(Stripped Back\)](https://open.spotify.com/album/3iJ2lF1mIHOEGSTl5HSZy4) | 3:12 | 2023-05-19 |  |
+| [Satisfied](https://open.spotify.com/track/3RWOkWVdve8HZG4vIg6bkF) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [Jonah Smith](https://open.spotify.com/artist/6fzuHPaTcs58hw346q64EC) | [Satisfied](https://open.spotify.com/album/4IqsiNwUfcrA7RrUHwAo6k) | 3:11 | 2024-08-23 |  |
 | [Savior](https://open.spotify.com/track/0oNrkWjdY3U8sZRJkcjbDP) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Keep On](https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ) | 3:43 | 2022-01-28 | 2023-02-25 |
 | [Savior](https://open.spotify.com/track/5gICNh1EHmDlpyWERFitXG) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Savior](https://open.spotify.com/album/7FH2YwQt08tTA8vnxkAwfy) | 3:43 | 2021-12-17 | 2022-07-29 |
 | [Scoundrel](https://open.spotify.com/track/4j0WcNktMTebmrWzxiOOnQ) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/6fY05JCUUXTtFmDsYZ2ulw) | 3:49 | 2022-03-11 | 2022-07-29 |
@@ -295,7 +298,7 @@
 | [Size Up](https://open.spotify.com/track/68Qhf4bBC9zmY3E6Q33Us0) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Size Up](https://open.spotify.com/album/2WJ2bo01zbp6i2s9UpBn2M) | 3:36 | 2023-08-25 |  |
 | [So Far Gone](https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [So Far Gone](https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4) | 3:43 | 2022-04-08 |  |
 | [So Long Savior](https://open.spotify.com/track/2G5z3Y9tvqTx4NWKsPHlC2) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: II\. Ascension](https://open.spotify.com/album/1kAOpSgqnN3ya5cFIeZMbM) | 2:39 | 2022-09-09 |  |
-| [So Much Fun](https://open.spotify.com/track/1slkixWBOISrD6xD7LH4U3) | [A.J\. Croce](https://open.spotify.com/artist/5GddXlP15Ktw1aHZEcKGZe) | [So Much Fun](https://open.spotify.com/album/6lP1LTZ6X6bzRigf2HwLFu) | 3:10 | 2022-06-17 |  |
+| [So Much Fun](https://open.spotify.com/track/1slkixWBOISrD6xD7LH4U3) | [A.J\. Croce](https://open.spotify.com/artist/5GddXlP15Ktw1aHZEcKGZe) | [So Much Fun](https://open.spotify.com/album/6lP1LTZ6X6bzRigf2HwLFu) | 3:10 | 2022-06-17 | 2024-08-24 |
 | [Sober](https://open.spotify.com/track/1s7Max0epbgOzPtsFfh5d6) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [Sober](https://open.spotify.com/album/6r25VBzNtDV6OUMV71WbVC) | 2:59 | 2021-12-17 | 2023-09-16 |
 | [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/0lFVNmrmtrcG5H0ODj8jcT) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/2lu9WD2gKfgX0YlgP7o2vu) | 4:38 | 2023-10-06 | 2024-04-19 |
 | [Somebody Tryin’ to Hoodoo Me](https://open.spotify.com/track/3Od56s7dbG5gcDVYnSh1RR) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Cherry Red Boots / Somebody Tryin’ To HooDoo Me](https://open.spotify.com/album/12Ms9IQbpfywaJWETeoeBI) | 4:38 | 2023-02-24 |  |

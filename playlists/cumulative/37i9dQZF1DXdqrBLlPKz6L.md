@@ -2,9 +2,9 @@
 
 ### [Trapperz Andinos](https://open.spotify.com/playlist/37i9dQZF1DXdqrBLlPKz6L)
 
-> Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Andy Rivera, Pirlo
+> Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Reboll333
 
-109 songs - 5 hr 57 min
+111 songs - 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Bolero 808](https://open.spotify.com/track/4LFRvZF78H1R5adZZ8gYGL) | [Jaycob Duque](https://open.spotify.com/artist/2NEwLjbrw5RA4KWYhUIM9r), [Argüello](https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy) | [Bolero 808](https://open.spotify.com/album/0tDqrQpbvpTII7Yf35SthC) | 2:45 | 2021-10-15 | 2022-08-20 |
 | [Bon Appetit](https://open.spotify.com/track/7rKBwaFOnzq0j3FFrgYUQW) | [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4) | [Trapicheando: Una Sangre, Vol\. 3](https://open.spotify.com/album/2qEII4DM0ASNWy49HTvTYH) | 4:09 | 2024-01-26 | 2024-04-19 |
 | [Bon Appétit](https://open.spotify.com/track/1QseGaBHU6q2KRPKEWEVrY) | [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4) | [Una Sangre, Vol\. 3: Trapicheando](https://open.spotify.com/album/1ZSf5zV02X8P3Xbj9LcIm2) | 4:09 | 2021-10-15 |  |
+| [Brincona](https://open.spotify.com/track/6Dq1T8lCvMStFAGkaiQ4KK) | [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg) | [Brincona](https://open.spotify.com/album/17oDuUNMqlorVDAbayQl28) | 2:56 | 2024-08-23 |  |
 | [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 | 2021-10-15 |  |
 | [Celebrando](https://open.spotify.com/track/28l5P6yBrjBMAvgFm1uiQ4) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Celebrando](https://open.spotify.com/album/3vM9T5faPuqqEbZJ0wYPN3) | 3:27 | 2021-10-15 |  |
 | [Cellphone](https://open.spotify.com/track/2pAuWlwPCIWNGtp3TrdoHT) | [Daga](https://open.spotify.com/artist/6qbdQTpYKGLSeoahWGTVPe), [Colavizza](https://open.spotify.com/artist/078mloHMPRQZhY0795u30V) | [Cellphone](https://open.spotify.com/album/03oFCkB5mzMncCPx0BJSn1) | 4:03 | 2021-10-15 |  |
@@ -43,6 +44,7 @@
 | [Esteban Rojas Hotline: Cobuz & Bustta](https://open.spotify.com/track/1ekyUJAtwt1VvoUQNcgWrf) | [Hotline](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Esteban Rojas Hotline: Cobuz & Bustta](https://open.spotify.com/album/294JtJhmt9pSQARdmgEQBb) | 3:32 | 2023-10-27 |  |
 | [Estoy Bien](https://open.spotify.com/track/42e8NZUQvgxiirRcVEjbOz) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6) | [A Veces Es Bueno Estar Triste](https://open.spotify.com/album/2AGlNJbOjLzn0o7wSEWegz) | 3:14 | 2022-04-08 | 2023-03-03 |
 | [Estoy Bien](https://open.spotify.com/track/6sVkcxtbmibIyphiQ2tvv9) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6) | [Estoy Bien](https://open.spotify.com/album/33ZiGzFhSsAJj5UJQgNl5i) | 3:14 | 2021-10-15 | 2022-07-29 |
+| [Extendo](https://open.spotify.com/track/7Bu12uXqRtldFXjQrDz1OJ) | [Anonimus](https://open.spotify.com/artist/62lbdm09j0QUbWB7SqCJvt), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Mi Amol](https://open.spotify.com/album/6q2Fr2Emd3XP45CcfdEq75) | 2:31 | 2024-08-23 |  |
 | [Fendi & Valentino](https://open.spotify.com/track/6zfmaPzczHb0NiXglOxamn) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh) | [Fendi & Valentino](https://open.spotify.com/album/2aXzhaV9TkNFsmUnkOUBy9) | 4:02 | 2023-03-24 |  |
 | [Flight Away](https://open.spotify.com/track/5nggToLBtfPFNjIRQjHc58) | [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [YK](https://open.spotify.com/artist/0fml592mEs3xp2zhVLjxre), [Hiro Angeles](https://open.spotify.com/artist/3UYyyQSTk9ytiF55vUXO6G) | [Flight Away](https://open.spotify.com/album/5TWKnCddueE4CqT0lEJ8Pj) | 4:03 | 2021-10-15 | 2023-02-10 |
 | [Flor de Loto](https://open.spotify.com/track/4lS5OOqQzyQDDR0g1EmcdK) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Flor de Loto](https://open.spotify.com/album/1zdtga77ItleW98WqnrX0m) | 2:06 | 2022-08-19 |  |
@@ -54,7 +56,7 @@
 | [Gira Gira](https://open.spotify.com/track/3YLIOwJrc2qPpPpmTi1IJ2) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Gira Gira](https://open.spotify.com/album/1mVbhr5tkcxe0F5n5uRZ5U) | 3:00 | 2021-10-15 | 2022-04-09 |
 | [Gitana](https://open.spotify.com/track/7q78FieNqXkT9WgADVpLBc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Gitana](https://open.spotify.com/album/6DjIokTLgY41mCcOw8hnlM) | 3:08 | 2021-10-15 |  |
 | [Hablando de Palms](https://open.spotify.com/track/0RK8tfsAaZdWW2qUIoKH8B) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [Hablando de Palms](https://open.spotify.com/album/411cSCPFAGfusWrJMjVbvY) | 3:03 | 2022-04-08 | 2024-04-19 |
-| [Hablando de Palms](https://open.spotify.com/track/2zuGuhsTdBxdwmdflVIoX3) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [Hablando de Palms](https://open.spotify.com/album/1CVDNfEKuLH9s4evQ5Q4vv) | 3:03 | 2021-10-15 |  |
+| [Hablando de Palms](https://open.spotify.com/track/2zuGuhsTdBxdwmdflVIoX3) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [Hablando de Palms](https://open.spotify.com/album/1CVDNfEKuLH9s4evQ5Q4vv) | 3:03 | 2021-10-15 | 2024-08-24 |
 | [Hennessy](https://open.spotify.com/track/2Cz3yDcBoePfcJCYdpYZCC) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Apokalypsis](https://open.spotify.com/album/396w1nHvgP7SQvdPq4SZya) | 3:49 | 2021-10-15 |  |
 | [Hoteles](https://open.spotify.com/track/0zbaDrVISF93yL82O7LpoQ) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Hoteles](https://open.spotify.com/album/7FzZZCYbxkv4KUZASG8TkF) | 2:22 | 2023-03-24 | 2024-04-19 |
 | [Hoteles](https://open.spotify.com/track/7MWr95LyNYlPv0SHtaEBVV) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf) | [Hoteles](https://open.spotify.com/album/3RGqp0nFOrkqf5SrE26iaP) | 2:22 | 2022-04-08 |  |
@@ -114,7 +116,7 @@
 | [Tóxicos](https://open.spotify.com/track/3d3Fm6zl1r92THmUESENbW) | [Asmir Young](https://open.spotify.com/artist/2oUCnlGXMjbBgRBab3vb8E), [JOTA](https://open.spotify.com/artist/4ICS3tvd4Uo6Xq4HUZ9fEG) | [Años Luz](https://open.spotify.com/album/0ohYJclEYAy8q6SkYAbXAR) | 2:57 | 2022-04-08 | 2022-09-03 |
 | [VICE](https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [VICE](https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy) | 2:41 | 2023-03-02 |  |
 | [Wherever I May Roam](https://open.spotify.com/track/7qCHqtiSiX3T09ErW718yQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Wherever I May Roam](https://open.spotify.com/album/0WNfOMxwCMjYOjDWlGsgNA) | 2:38 | 2021-10-15 | 2022-04-09 |
-| [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 2:51 | 2021-10-15 |  |
+| [WOW](https://open.spotify.com/track/4I9U5XBHs37jV9pRo3VLTa) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [WOW](https://open.spotify.com/album/22eepM8FdWx13R7aGAO1gH) | 2:51 | 2021-10-15 | 2024-08-24 |
 | [Ziploc \(Blessd Version\)](https://open.spotify.com/track/3JYw9n3rJTVQryVz1rwlH4) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:56 | 2022-11-03 |  |
 | [¿Que Nalgas Son Esas?](https://open.spotify.com/track/2VkFtqDPapy6UaHARdghVS) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [¿Que Nalgas Son Esas?](https://open.spotify.com/album/6LyOSerd3DNwni2WYl2Qzf) | 2:49 | 2021-10-15 |  |
 

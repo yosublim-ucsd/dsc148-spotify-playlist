@@ -3172,7 +3172,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 115906,
       "name": "AURA",
       "url": "https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj"
@@ -11426,7 +11426,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 132922,
       "name": "Ela Joga na Hora",
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
@@ -13280,6 +13280,24 @@
       "duration_ms": 176124,
       "name": "Flawl\u00ebss (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3"
+    },
+    {
+      "album": {
+        "name": "Floki lost soul / \u0412\u043e\u0440\u0443\u044e \u0410\u043b\u043a\u043e\u0433\u043e\u043b\u044c",
+        "url": "https://open.spotify.com/album/2kyfpSD1dhGexNFkzq2Rka"
+      },
+      "artists": [
+        {
+          "name": "Bravuta",
+          "url": "https://open.spotify.com/artist/4VxWsdcgU70F4lj4YtY3x4"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174962,
+      "name": "Floki lost soul / \u0412\u043e\u0440\u0443\u044e \u0410\u043b\u043a\u043e\u0433\u043e\u043b\u044c",
+      "url": "https://open.spotify.com/track/16Hd22WmRC8mHTSaQ3icZ7"
     },
     {
       "album": {
@@ -20902,7 +20920,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -23374,7 +23392,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 173168,
       "name": "Love Potions",
       "url": "https://open.spotify.com/track/6ZK4VMxfEYLPqpSvX2l4iY"
@@ -26410,7 +26428,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 54308,
       "name": "MONTAGEM VOZES PROFUNDAS - TikTok Version",
       "url": "https://open.spotify.com/track/6gXzRzLtdNSbsJVg72J3AA"
@@ -29864,7 +29882,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 144000,
       "name": "O Melhor no Que Faz 3.0 [Slowed]",
       "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
@@ -38792,7 +38810,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 184375,
       "name": "ss",
       "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"

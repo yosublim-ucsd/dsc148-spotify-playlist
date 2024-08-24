@@ -1,12 +1,12 @@
 {
   "description": "This Is Celia Cruz. Los temas esenciales, todos en una lista.",
-  "num_followers": 102808,
+  "num_followers": 102824,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAADCWLPwO6lYx3xQtCX5G9iL",
+  "snapshot_id": "ZsZ/gAAAAAAkqxuWKgr0HRbKjQ1/J5JR",
   "tracks": [
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Esp\u00e9rame En El Cielo",
-      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Son con Guaguanc\u00f3",
         "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 211866,
       "name": "Bemba Color\u00e1",
       "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Esp\u00e9rame En El Cielo",
+      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
     },
     {
       "added_at": null,

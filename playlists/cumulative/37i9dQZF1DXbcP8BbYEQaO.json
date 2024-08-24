@@ -2531,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "Delirium",
+        "url": "https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166631,
+      "name": "Delirium",
+      "url": "https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH"
+    },
+    {
+      "album": {
         "name": "Deserve Each Other",
         "url": "https://open.spotify.com/album/58LefUcdVk0zIBJaZhzfDd"
       },
@@ -2661,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
         "name": "dirty little secret",
         "url": "https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ"
       },
@@ -2676,6 +2712,24 @@
       "duration_ms": 181346,
       "name": "dirty little secret",
       "url": "https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu"
+    },
+    {
+      "album": {
+        "name": "Dizzy",
+        "url": "https://open.spotify.com/album/4LabtYkpsQ8rxBUBn3Wyeu"
+      },
+      "artists": [
+        {
+          "name": "Renon",
+          "url": "https://open.spotify.com/artist/66puVL22TUX3DM6r0uZyyY"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258200,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/7Lfs6kd0Jbefn9FWHYNd5m"
     },
     {
       "album": {
@@ -5039,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/5sAJM4NjF2nwwTtirLjLr9"
+      },
+      "artists": [
+        {
+          "name": "Leona Naess",
+          "url": "https://open.spotify.com/artist/060CzFv7eCEPramQlIJYNY"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182302,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/1QheBawboy68qlo1A0wcct"
+    },
+    {
+      "album": {
         "name": "Home To Another One",
         "url": "https://open.spotify.com/album/6T4kLqRny6Fe3CgOP6ahbt"
       },
@@ -7263,6 +7335,24 @@
     },
     {
       "album": {
+        "name": "Zorb",
+        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148689,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
+    },
+    {
+      "album": {
         "name": "MEZCAL MINT GUM N COCAINE",
         "url": "https://open.spotify.com/album/5NrSC4lV0XHAa8cEkIxy3n"
       },
@@ -8233,6 +8323,24 @@
     },
     {
       "album": {
+        "name": "ODDS",
+        "url": "https://open.spotify.com/album/3tBmhNuRM1zTZqlFqhcZcf"
+      },
+      "artists": [
+        {
+          "name": "Dava",
+          "url": "https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168071,
+      "name": "ODDS",
+      "url": "https://open.spotify.com/track/7cpTlJpt1WCe8Gj8wjFSoW"
+    },
+    {
+      "album": {
         "name": "Off",
         "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
       },
@@ -8818,7 +8926,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 219666,
       "name": "Ponytail",
       "url": "https://open.spotify.com/track/4y2KeXbvKEjalxsElqq9Ze"

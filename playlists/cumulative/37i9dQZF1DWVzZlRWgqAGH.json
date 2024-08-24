@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: Foushe\u00e9",
+  "description": "Music for your soul. Cover: Jean Dawson",
   "name": "BUTTER",
   "tracks": [
     {
@@ -6019,6 +6019,28 @@
     },
     {
       "album": {
+        "name": "Die For Me (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206955,
+      "name": "Die For Me (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9"
+    },
+    {
+      "album": {
         "name": "Die for You (feat. Serious Klein)",
         "url": "https://open.spotify.com/album/2t91FExxOUBMyo13cQkiNy"
       },
@@ -7813,6 +7835,28 @@
     },
     {
       "album": {
+        "name": "Feels Like Yesterday",
+        "url": "https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129748,
+      "name": "Feels Like Yesterday",
+      "url": "https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI"
+    },
+    {
+      "album": {
         "name": "Feral (letherette Remix)",
         "url": "https://open.spotify.com/album/7xYi0MGloOywBv9KphZVlk"
       },
@@ -8006,7 +8050,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 236434,
       "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
       "url": "https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se"
@@ -8922,7 +8966,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 241511,
       "name": "FromHere (feat. Snoop Dogg & October London)",
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
@@ -10036,6 +10080,28 @@
     {
       "album": {
         "name": "Groove",
+        "url": "https://open.spotify.com/album/6plRhpIeWMZF9lnFLXddeN"
+      },
+      "artists": [
+        {
+          "name": "Shann Aberdeen",
+          "url": "https://open.spotify.com/artist/6nCWqG1NbQWzSZ1gmk8s3O"
+        },
+        {
+          "name": "Skip Waiters",
+          "url": "https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198247,
+      "name": "Groove",
+      "url": "https://open.spotify.com/track/0BgCVdM786Ng9PZ9P1zsD8"
+    },
+    {
+      "album": {
+        "name": "Groove",
         "url": "https://open.spotify.com/album/2Mki2nNSzQ9tA7Ok7PnyrU"
       },
       "artists": [
@@ -10156,7 +10222,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 252889,
       "name": "Gyae Su",
       "url": "https://open.spotify.com/track/3U9NVmsEdrTutU49F1ykvf"
@@ -13339,6 +13405,24 @@
     },
     {
       "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/6tCqDvlPeSvcIT9JYZ0RET"
+      },
+      "artists": [
+        {
+          "name": "Leo Dressel",
+          "url": "https://open.spotify.com/artist/0sYVJ7r0hJz6aRm7TvOmYB"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291785,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/2FNzljk1Jl7KKyCAl3NBRb"
+    },
+    {
+      "album": {
         "name": "Light It Again",
         "url": "https://open.spotify.com/album/6AQOoaEhFa87OPWcTmqyX3"
       },
@@ -13354,6 +13438,24 @@
       "duration_ms": 278680,
       "name": "Light It Again - Radio Edit",
       "url": "https://open.spotify.com/track/2NZo2ZK5AgUgIuVGsraMq5"
+    },
+    {
+      "album": {
+        "name": "Light Work",
+        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217304,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
     },
     {
       "album": {
@@ -17146,7 +17248,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 139458,
       "name": "OOTW",
       "url": "https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4"
@@ -18360,7 +18462,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 263040,
       "name": "Praise Jah In The Moonlight",
       "url": "https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9"
@@ -18728,7 +18830,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 184414,
       "name": "Qu\u00e9 Sabroso Mi Son",
       "url": "https://open.spotify.com/track/2gEBY1rgIvdsplZ96Ni8Rm"
@@ -19080,6 +19182,32 @@
       "duration_ms": 164493,
       "name": "release! (THE KRAKEN)",
       "url": "https://open.spotify.com/track/1io6ZvYgR23E6HEEkfza6G"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/5F9W0ZzmESRfGUvMluW1kU"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        },
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240538,
+      "name": "Remember (feat. Samara Joy, Robert Glasper)",
+      "url": "https://open.spotify.com/track/1j8K2Lv9a3oPOxu0wXCsla"
     },
     {
       "album": {
@@ -19868,7 +19996,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 175838,
       "name": "See Him Again",
       "url": "https://open.spotify.com/track/4G5BITntAX2JNy0uZGLNhF"
@@ -21646,7 +21774,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 295696,
       "name": "Stealing A Kiss",
       "url": "https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt"
@@ -22382,6 +22510,24 @@
       "duration_ms": 185371,
       "name": "Suspended",
       "url": "https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao"
+    },
+    {
+      "album": {
+        "name": "Sweet",
+        "url": "https://open.spotify.com/album/6xp4KdsAe421tX7SE7bTTX"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174266,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/3hpzfcWrd8lpZAC5hk5g7E"
     },
     {
       "album": {
@@ -24212,6 +24358,24 @@
       "duration_ms": 216000,
       "name": "Turning - FloFilz Remix",
       "url": "https://open.spotify.com/track/0Eh6WYIZEIBu552emxez4O"
+    },
+    {
+      "album": {
+        "name": "Twilight One",
+        "url": "https://open.spotify.com/album/7dnFnR9U4k8CvyQyQypzfI"
+      },
+      "artists": [
+        {
+          "name": "Kubla",
+          "url": "https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197116,
+      "name": "Twilight One",
+      "url": "https://open.spotify.com/track/2wtcuo2Y0bSIFXsb49ZHG6"
     },
     {
       "album": {

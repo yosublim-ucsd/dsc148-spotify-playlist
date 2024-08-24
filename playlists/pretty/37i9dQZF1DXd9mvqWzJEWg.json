@@ -1,13 +1,33 @@
 {
-  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/4NHX5R0Td6ooWh1a34AhtB?si=_Gk8lPnkRVSCHyLGM3_UBA\">STATE OFFF</a>",
-  "num_followers": 73904,
+  "description": "It's not just about the music, it's about the culture. Cover: \n<a href=\"https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr?si=c1VXIp-7TXqy2-7euag15g\">Cairo CPT</a>",
+  "num_followers": 73976,
   "original_name": "GQOM Power House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqwoXAAAAAD10PTdYu9UkBAnQL49Wcyw",
+  "snapshot_id": "ZsgosgAAAABL7Yy31rFYohsxWuyXrBZr",
   "tracks": [
+    {
+      "added_at": "2024-08-23 06:14:10",
+      "album": {
+        "name": "Yonkinto",
+        "url": "https://open.spotify.com/album/19tpw7WwMqsZpKzjuwbuFA"
+      },
+      "artists": [
+        {
+          "name": "Cairo CPT",
+          "url": "https://open.spotify.com/artist/5ZU2z8HnE8qlUdBpUoCkMr"
+        },
+        {
+          "name": "Minollar",
+          "url": "https://open.spotify.com/artist/2kVLLGJJbdQ5YAObQTa00K"
+        }
+      ],
+      "duration_ms": 245760,
+      "name": "Yonkinto",
+      "url": "https://open.spotify.com/track/3m8UOWi5h7gg9Lv9CuT8v4"
+    },
     {
       "added_at": "2024-08-02 00:29:16",
       "album": {

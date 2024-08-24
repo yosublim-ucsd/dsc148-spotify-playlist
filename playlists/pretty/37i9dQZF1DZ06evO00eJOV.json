@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 35731,
+  "num_followers": 35734,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAADmP/Ig0lspSp7nx0aNDBg1",
+  "snapshot_id": "ZsZ/gAAAAAC2Zjpo73Z7zzLm+SYrW+HJ",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malibongwe",
-        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 331373,
-      "name": "Mbulali Wami",
-      "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits 1964-2004",
         "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 306933,
       "name": "Mali",
       "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malibongwe",
+        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 331373,
+      "name": "Mbulali Wami",
+      "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+        "name": "Too Late For Mama",
+        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 244333,
-      "name": "Ngizobuya",
-      "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
+      "duration_ms": 277896,
+      "name": "Don't Follow Me I'm Married",
+      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Late For Mama",
-        "url": "https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN"
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 277896,
-      "name": "Don't Follow Me I'm Married",
-      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
+      "duration_ms": 244333,
+      "name": "Ngizobuya",
+      "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
     },
     {
       "added_at": null,

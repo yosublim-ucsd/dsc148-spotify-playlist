@@ -2561,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "Two Blue Chairs & You",
+        "url": "https://open.spotify.com/album/5TWk0jAcmvB9vsZPYUbJ7j"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168430,
+      "name": "Two Blue Chairs & You",
+      "url": "https://open.spotify.com/track/2RfkKGdFYORwUy7gOFUSRI"
+    },
+    {
+      "album": {
         "name": "Strummin' On Garth",
         "url": "https://open.spotify.com/album/2d0u2yReCiVSyN3iCsogFM"
       },

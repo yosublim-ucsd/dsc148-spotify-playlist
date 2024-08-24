@@ -146,7 +146,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 187594,
       "name": "Ahead of Our Time",
       "url": "https://open.spotify.com/track/3l0z706WPwEyD1i5sSjlxD"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 176426,
       "name": "But I Got A Beer In My Hand",
       "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 133973,
       "name": "Cowboys And Angels",
       "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 187111,
       "name": "Fixer Upper",
       "url": "https://open.spotify.com/track/1zsOdeipHnfc4MdzvFpktu"
@@ -1742,6 +1742,28 @@
       "duration_ms": 207453,
       "name": "From Austin",
       "url": "https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP"
+    },
+    {
+      "album": {
+        "name": "TWENTY SOMETHING",
+        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "ghost in my guitar (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG"
     },
     {
       "album": {
@@ -2458,7 +2480,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 207966,
       "name": "Home Less",
       "url": "https://open.spotify.com/track/4E6QysmamTqsumshjlibem"
@@ -2542,7 +2564,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 188736,
       "name": "How It Oughta Be",
       "url": "https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN"
@@ -3939,6 +3961,24 @@
     },
     {
       "album": {
+        "name": "Bud Light The Way",
+        "url": "https://open.spotify.com/album/34TtHMONcD2b1p4HM2hPN0"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227891,
+      "name": "Old Dirt Roads",
+      "url": "https://open.spotify.com/track/2pTBC0wyimbajdCQfwnKCA"
+    },
+    {
+      "album": {
         "name": "On A Different Night",
         "url": "https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF"
       },
@@ -4374,7 +4414,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 218160,
       "name": "Pretty Little Poison",
       "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
@@ -4396,7 +4436,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 173346,
       "name": "Product Of (Feat. Lee Brice)",
       "url": "https://open.spotify.com/track/3Bb1txAwFxLW1PbKRlBV2x"
@@ -5172,7 +5212,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 223666,
       "name": "Some Horses",
       "url": "https://open.spotify.com/track/11lEoJlWD0d8dkH4YpkzFF"
@@ -6202,7 +6242,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 153296,
       "name": "Traitor Joe",
       "url": "https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp"
@@ -6296,7 +6336,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 194800,
       "name": "Two Of Us",
       "url": "https://open.spotify.com/track/0XjVqPBriEaw2aDQixHSi1"
@@ -6774,7 +6814,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 188453,
       "name": "Who Says You Can't Have Everything",
       "url": "https://open.spotify.com/track/4KbLhLnwnhbHk0Aa13BeYD"

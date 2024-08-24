@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Blush Always",
-  "num_followers": 34461,
+  "num_followers": 34457,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-08-07 07:39:30",
       "album": {
-        "name": "Mellifluous",
-        "url": "https://open.spotify.com/album/0CQsoOVRMConvZInN2veLT"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 363040,
-      "name": "Mellifluous",
-      "url": "https://open.spotify.com/track/1QxxcAyEy1nxD8ynsCBpTU"
-    },
-    {
-      "added_at": "2024-08-07 07:39:30",
-      "album": {
         "name": "wir gehen rein",
         "url": "https://open.spotify.com/album/70DzYvnurmsMhVt8z4w2UL"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 161986,
       "name": "wir gehen rein",
       "url": "https://open.spotify.com/track/2HwhL4g7ip7rS8PS5P75RB"
+    },
+    {
+      "added_at": "2024-08-07 07:39:30",
+      "album": {
+        "name": "Mellifluous",
+        "url": "https://open.spotify.com/album/0CQsoOVRMConvZInN2veLT"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 363040,
+      "name": "Mellifluous",
+      "url": "https://open.spotify.com/track/1QxxcAyEy1nxD8ynsCBpTU"
     },
     {
       "added_at": "2024-08-07 07:39:30",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-07 07:39:30",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 163986,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp"
-    },
-    {
-      "added_at": "2024-08-07 07:39:30",
-      "album": {
         "name": "shut up!",
         "url": "https://open.spotify.com/album/5wF8Hszo6VWcMrX3m5AspW"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 103669,
       "name": "shut up!",
       "url": "https://open.spotify.com/track/4ynDEgatB1rZTDN0AxoaVB"
+    },
+    {
+      "added_at": "2024-08-07 07:39:30",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 163986,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp"
     },
     {
       "added_at": "2024-08-07 07:39:30",

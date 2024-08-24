@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,537 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,577 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 33 | [La Lechuza](https://open.spotify.com/track/1jx3RF8TADXBcnHLhI45SM) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer](https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF) | 1:08 |
 | 34 | [Animal Song](https://open.spotify.com/track/1MbACfYbcxgxJXDcNZqaE7) | [Have Fun Teaching](https://open.spotify.com/artist/705Z0iFTodc8kuWuq6s5ah) | [Science Songs](https://open.spotify.com/album/1SuAdgI7e9osUMADAoIPtC) | 6:19 |
 | 35 | [Animalitos](https://open.spotify.com/track/4QNh1CHTVaywsZFDN6iLSt) | [Ninaná](https://open.spotify.com/artist/4dAAAhQyqbw0QsuaM4aBSd) | [Animalitos](https://open.spotify.com/album/4Ecf2bOwqdmvo1DbEuv5n4) | 2:19 |
-| 36 | [Los Pollitos Dicen](https://open.spotify.com/track/41yJCVpmgWB3SVVPF8WZRA) | [Kids Music Box](https://open.spotify.com/artist/0syRfepwQdWHmbxLiOqMbC) | [Los Pollitos Dicen](https://open.spotify.com/album/6mMAInUWQTrXwNQUTxtlgH) | 1:39 |
+| 36 | [Lumi, luminosos \- De Morko y Mali](https://open.spotify.com/track/3G5TF0y9HIZL6BMlCJnAOU) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:10 |
 | 37 | [El Tío McDonald Tenía una Granja](https://open.spotify.com/track/4PQHPHrY05iVfWnloiUuQf) | [Felix Canales](https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx) | [Ronda Musical Infantil](https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj) | 3:10 |
-| 38 | [Lumi, luminosos \- De Morko y Mali](https://open.spotify.com/track/3G5TF0y9HIZL6BMlCJnAOU) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:10 |
+| 38 | [Los Pollitos Dicen](https://open.spotify.com/track/41yJCVpmgWB3SVVPF8WZRA) | [Kids Music Box](https://open.spotify.com/artist/0syRfepwQdWHmbxLiOqMbC) | [Los Pollitos Dicen](https://open.spotify.com/album/6mMAInUWQTrXwNQUTxtlgH) | 1:39 |
 | 39 | [Five Cool Cats](https://open.spotify.com/track/3OSqJ1Ut599zQdarfWez4j) | [Brian Waite Band](https://open.spotify.com/artist/0IssdwELpOUhnpISuAXXXB) | [Kidz S.T.E.M\. Songz](https://open.spotify.com/album/3nHt4nMlPuCzLFzrhq1Akg) | 5:06 |
 | 40 | [Mi Chacra](https://open.spotify.com/track/5zP8jxoTuAudT8i8orZzIn) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer World Adventure](https://open.spotify.com/album/4tNe4BNIrslkswQP5Y26JG) | 3:11 |
 | 41 | [El Gato Carpintero](https://open.spotify.com/track/7rOpbNnq64dn34lLKrNEHI) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [100 Años...100 Exitos](https://open.spotify.com/album/6a2BoXtXbsVQQo4FxTidco) | 2:17 |
-| 42 | [Gato Astronauta](https://open.spotify.com/track/0pXuUFOxkbZjXrBCUWdAYH) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:01 |
-| 43 | [Foxy Fakeout](https://open.spotify.com/track/1WM4SmNvIdUrQmmeKazKu7) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootropolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ei8Va8GUIXDNEPb2BEB8M) | 2:08 |
-| 44 | [Animal Jam](https://open.spotify.com/track/1FQMwZpGCFXkrt8GbrBVG6) | [Diego, Dora & Friends](https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V) | [Diego, Dora & Friends' Animal Jamboree](https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD) | 3:17 |
+| 42 | [Soy el sapo Sopa \- De Morko y Mali](https://open.spotify.com/track/32W3VkQuANDHNor6y0OruF) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:30 |
+| 43 | [Gato Astronauta](https://open.spotify.com/track/0pXuUFOxkbZjXrBCUWdAYH) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:01 |
+| 44 | [Foxy Fakeout](https://open.spotify.com/track/1WM4SmNvIdUrQmmeKazKu7) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootropolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ei8Va8GUIXDNEPb2BEB8M) | 2:08 |
 | 45 | [El Coqui](https://open.spotify.com/track/7yufdKdMxeVRPf3S5rOdw1) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora The Explorer](https://open.spotify.com/album/6gAb45W5Izm6N63yc5LEVF) | 1:36 |
-| 46 | [El Cocodrilo y el Orangután](https://open.spotify.com/track/3NgyGZjfoDxp5EHFBv0jtb) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Besos, Abrazos y Apapachos](https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic) | 2:11 |
-| 47 | [El Baile del Gorila \- Versión 2019](https://open.spotify.com/track/4j8g2MmU4KLn5ncFCSCyQq) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/27c6RC58X8aq8MF1HSgEMk) | 2:42 |
-| 48 | [Soy el sapo Sopa \- De Morko y Mali](https://open.spotify.com/track/32W3VkQuANDHNor6y0OruF) | [Elenco de Morko y Mali](https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW) | [Morko y Mali \- Aventuras en la selva \(La música de la serie de Disney Junior\)](https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb) | 2:30 |
+| 46 | [Animal Jam](https://open.spotify.com/track/1FQMwZpGCFXkrt8GbrBVG6) | [Diego, Dora & Friends](https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V) | [Diego, Dora & Friends' Animal Jamboree](https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD) | 3:17 |
+| 47 | [El Cocodrilo y el Orangután](https://open.spotify.com/track/3NgyGZjfoDxp5EHFBv0jtb) | [Mariana Mallol](https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg) | [Besos, Abrazos y Apapachos](https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic) | 2:11 |
+| 48 | [El Baile del Gorila \- Versión 2019](https://open.spotify.com/track/4j8g2MmU4KLn5ncFCSCyQq) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Super Éxitos](https://open.spotify.com/album/27c6RC58X8aq8MF1HSgEMk) | 2:42 |
 | 49 | [Yo Tenia Diez Perritos](https://open.spotify.com/track/6FbER5h2bkMjPQ38It5jJ8) | [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Rondas Infantiles](https://open.spotify.com/album/2KTIE0zh1TQiBh3jtHniTX) | 2:26 |
-| 50 | [A Bunny Can Go Savage](https://open.spotify.com/track/7eUj2Ck993hqGRwbEvrf86) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootropolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ei8Va8GUIXDNEPb2BEB8M) | 1:45 |
+| 50 | [Oso Azul](https://open.spotify.com/track/6YSFYrDmxaE54vxii1ignx) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 3:05 |
 
 Snapshot ID: `ZpAhjAAAAACBq8srUWv2hzB6/hY2JunM`

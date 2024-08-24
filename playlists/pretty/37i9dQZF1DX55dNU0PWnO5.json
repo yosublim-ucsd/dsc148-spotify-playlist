@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops",
-  "num_followers": 574242,
+  "num_followers": 574260,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrWUQAAAAAAIcBK734I+yL0IyLuCG3Sm",
+  "snapshot_id": "ZsgJQAAAAACScF1+dQp7ZwacjTvnpnBs",
   "tracks": [
     {
       "added_at": "2024-05-24 04:00:00",
@@ -27,6 +27,26 @@
       "duration_ms": 183516,
       "name": "Extra Life",
       "url": "https://open.spotify.com/track/2uDVeER8QitZUXQfUu9eVU"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Volte-Face",
+        "url": "https://open.spotify.com/album/42Zh1ftsN4bR2zwJXEtCoE"
+      },
+      "artists": [
+        {
+          "name": "Leif Maine",
+          "url": "https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        }
+      ],
+      "duration_ms": 162022,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/7mqfcqAl6KdHv3Hk6iVILJ"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2279,22 +2299,6 @@
       "duration_ms": 191653,
       "name": "SKJ - NerdStar Remix",
       "url": "https://open.spotify.com/track/4elSYrOgGwztOfcAGoBwUX"
-    },
-    {
-      "added_at": "2022-05-27 04:02:00",
-      "album": {
-        "name": "SAMURAI",
-        "url": "https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e"
-      },
-      "artists": [
-        {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
-        }
-      ],
-      "duration_ms": 716744,
-      "name": "SAMURAI - 2022 version",
-      "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
     },
     {
       "added_at": "2022-05-27 04:02:00",

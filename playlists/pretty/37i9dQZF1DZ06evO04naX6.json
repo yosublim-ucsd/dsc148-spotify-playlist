@@ -1,12 +1,12 @@
 {
   "description": "This Is Yandel. Los temas esenciales, todos en una lista.",
-  "num_followers": 168844,
+  "num_followers": 168848,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAABaX4AefkTuRe8XFgf+dIih",
+  "snapshot_id": "ZsZ/gAAAAABux5pJRllMtShkPLCXycB3",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Nunca Me Olvides",
-      "url": "https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -423,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFRO",
-        "url": "https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH"
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
       },
       "artists": [
         {
@@ -432,9 +416,9 @@
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 184984,
-      "name": "AFRO",
-      "url": "https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp"
+      "duration_ms": 241560,
+      "name": "Nunca Me Olvides",
+      "url": "https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
       "duration_ms": 221179,
       "name": "MySpace (feat. Wisin & Yandel)",
       "url": "https://open.spotify.com/track/6uoOKr3dxk9GVIhmJyQPMh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFRO",
+        "url": "https://open.spotify.com/album/0WtOZuT26iXiNHFVIkdKpH"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 184984,
+      "name": "AFRO",
+      "url": "https://open.spotify.com/track/0nkYJ6N4EeDZy53ZFxsfLp"
     },
     {
       "added_at": null,
@@ -979,30 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Cero",
-        "url": "https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "En Cero",
-      "url": "https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
       },
@@ -1027,26 +1003,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guayeteo",
-        "url": "https://open.spotify.com/album/6ZtoAhNlhokYGvR53BNx9V"
+        "name": "En Cero",
+        "url": "https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq"
       },
       "artists": [
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 153759,
-      "name": "Guayeteo",
-      "url": "https://open.spotify.com/track/2ruBYtHnFGNqfixpI0pbVs"
+      "duration_ms": 223586,
+      "name": "En Cero",
+      "url": "https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho"
     },
     {
       "added_at": null,
@@ -1067,26 +1043,6 @@
       "duration_ms": 165365,
       "name": "Cuanto Vale",
       "url": "https://open.spotify.com/track/3WHnnU4jaCPfzywrqSF5kl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mr. W",
-        "url": "https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 204633,
-      "name": "Perreo 101",
-      "url": "https://open.spotify.com/track/6uJDbR4EMdgMUDcm5UX9Eh"
     },
     {
       "added_at": null,
@@ -1115,6 +1071,50 @@
       "duration_ms": 216293,
       "name": "Unica - Remix",
       "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. W",
+        "url": "https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 204633,
+      "name": "Perreo 101",
+      "url": "https://open.spotify.com/track/6uJDbR4EMdgMUDcm5UX9Eh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guayeteo",
+        "url": "https://open.spotify.com/album/6ZtoAhNlhokYGvR53BNx9V"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 153759,
+      "name": "Guayeteo",
+      "url": "https://open.spotify.com/track/2ruBYtHnFGNqfixpI0pbVs"
     },
     {
       "added_at": null,

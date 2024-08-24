@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 吾橋有水 \(FloodingBridge\)
 
-508 songs - 1 day 5 hr 23 min
+509 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [一個人](https://open.spotify.com/track/5mrn8HUF66nFgUht2IZPPD) | [思遠AL](https://open.spotify.com/artist/47Y3qqRQCC32k2OO9dRcau) | [一個人](https://open.spotify.com/album/2SYLiGMbwrrqvP611BtoFZ) | 3:18 | 2024-07-11 | 2024-08-09 |
 | [一刻都不離去](https://open.spotify.com/track/0uAh1eBw2slAOSzcza7JYn) | [鄭以琦](https://open.spotify.com/artist/0fK1M3YgbZLpFBOCGZOPGb) | [一刻都不離去](https://open.spotify.com/album/5DSmNDS4wvlg6Gze5pIdj7) | 3:32 | 2024-06-27 | 2024-07-05 |
 | [一半自己, 一半你 \(A Half\)](https://open.spotify.com/track/3CrjXCYLuVOCmQcXuw1G8M) | [陳竟飛 Shane Chen](https://open.spotify.com/artist/1USgS12pGV5X0E5tfy9Uqw) | [一半自己, 一半你 \(A Half\)](https://open.spotify.com/album/3qjOvbZcg651h8STKLFHEm) | 3:51 | 2024-08-08 |  |
+| [一整天](https://open.spotify.com/track/2Bf38yCUENYoZX2N6iXLVy) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [一整天](https://open.spotify.com/album/3d9CbNWURQQ7N6uHA7lha8) | 3:08 | 2024-08-22 |  |
 | [一片海](https://open.spotify.com/track/01f3jEWKOTpZYhFzjW626r) | [蘇研之](https://open.spotify.com/artist/4cbEBwZICHpVIBPo9hgCdD) | [一片海](https://open.spotify.com/album/3GotJrlKXOJ3PmMV7HLNlM) | 4:47 | 2024-07-18 | 2024-08-09 |
 | [一盤棋局](https://open.spotify.com/track/6Zxnf0AlkRGM03pdSTi9XG) | [Insnowk](https://open.spotify.com/artist/5aeU78blusuYLltNCugrmg) | [一盤棋局](https://open.spotify.com/album/2p5g2CgMqvpluLUaVK0qSB) | 1:50 | 2024-07-18 | 2024-07-27 |
 | [一瞬間](https://open.spotify.com/track/23RfZ6VIC4cbQakEi2Xvff) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [一瞬間](https://open.spotify.com/album/3VBYWKe1QxKXPhBRUbmqUu) | 3:51 | 2024-08-01 | 2024-08-09 |
@@ -176,7 +177,7 @@
 | [不小心 \- 電影《夏日的檸檬草》主題曲](https://open.spotify.com/track/7hvs8UV83TpZV0Jiu84OsT) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [不小心 \(電影《夏日的檸檬草》主題曲\)](https://open.spotify.com/album/5Rwv3r2MSbKNGFvSBoipyR) | 4:12 | 2024-08-01 | 2024-08-23 |
 | [不就是哭嗎](https://open.spotify.com/track/7DvdMWMxqWBBs0OXAFQ4Wl) | [Soya 許素瑄](https://open.spotify.com/artist/4jpBObbAiOf1Zi55MIKgJr) | [So,ya.許素瑄同名EP](https://open.spotify.com/album/2qTfVuJb0cDmJ1S64TPCjy) | 3:18 | 2024-08-15 |  |
 | [不是我想做兄弟《角頭》原聲帶](https://open.spotify.com/track/3PuW28gKxqqZonaDUyXHJb) | [Jason Wang](https://open.spotify.com/artist/51ebLrYm2zzhVTz56XR57C) | [不是我想做兄弟《角頭》原聲帶](https://open.spotify.com/album/7zQL0KeGZ8BU3zVGVQZS68) | 4:12 | 2024-07-11 | 2024-08-02 |
-| [不會只有一顆流星劃過 \(feat\. 林頤原\)](https://open.spotify.com/track/0eQpliOOz0us9XDDu1Yx3O) | [Y3N](https://open.spotify.com/artist/6ekUFXp9TXnNsFL1qO3DKt), [林頤原](https://open.spotify.com/artist/1y7P3hlPFirLEcyzfY4OwM) | [不會只有一顆流星劃過 \(feat\. 林頤原\)](https://open.spotify.com/album/43P5TEtN8ktVVd9ccba5D6) | 3:18 | 2024-08-22 |  |
+| [不會只有一顆流星劃過 \(feat\. 林頤原\)](https://open.spotify.com/track/0eQpliOOz0us9XDDu1Yx3O) | [Y3N](https://open.spotify.com/artist/6ekUFXp9TXnNsFL1qO3DKt), [EUAN](https://open.spotify.com/artist/7tJUAyM0VRKna9QEqcngkM) | [不會只有一顆流星劃過 \(feat\. 林頤原\)](https://open.spotify.com/album/43P5TEtN8ktVVd9ccba5D6) | 3:18 | 2024-08-22 |  |
 | [不為誰而戰《三國雲夢錄》遊戲主題曲](https://open.spotify.com/track/3jydpjNntOXpyDOaimM5Nu) | [Luantan Ascent](https://open.spotify.com/artist/3LWW3ckEsnRJAzt4dEkyWm) | [不為誰而戰《三國雲夢錄》遊戲主題曲](https://open.spotify.com/album/2sP5fOymLM1JZh5sAbl4UL) | 3:54 | 2024-07-11 | 2024-08-02 |
 | [不要打擾我的靈魂](https://open.spotify.com/track/1gtUdh8KvmNIqmfhimTxyn) | [MC耀宗](https://open.spotify.com/artist/0P5VW67DISdcNKmRs18ldO), [CJ MiT](https://open.spotify.com/artist/0syb7CIJ6dOAGPeUmxJH0x), [吳子田](https://open.spotify.com/artist/47GEpMDQEvBRKMfXTIhVRG), [揚仔](https://open.spotify.com/artist/5dGaJ2ELhg7P0GZUakv9pY) | [不要打擾我的靈魂](https://open.spotify.com/album/6v3XKAU3JnN3ZXtQkjNLin) | 3:35 | 2024-07-04 | 2024-08-02 |
 | [之後](https://open.spotify.com/track/5UBZo4DXMs2M59eOCXZNyL) | [多情牛奶糖](https://open.spotify.com/artist/73NVIh5VRRl5XmWRvVRruC) | [之後](https://open.spotify.com/album/2wujpIbrdBHISsviGJ0Ge0) | 3:57 | 2024-07-25 | 2024-08-16 |

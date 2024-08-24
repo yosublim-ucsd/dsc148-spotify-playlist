@@ -231,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Dreamscape Jams",
+        "url": "https://open.spotify.com/album/4pHBPlUYS6mg28OpyK7viH"
+      },
+      "artists": [
+        {
+          "name": "Bogomolove",
+          "url": "https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM"
+        },
+        {
+          "name": "Senn",
+          "url": "https://open.spotify.com/artist/7xQncR3ejxUE58A6Ogb1Si"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119166,
+      "name": "Arboreous",
+      "url": "https://open.spotify.com/track/4yu1zpAy9PDX2p8NVdtXm1"
+    },
+    {
+      "album": {
         "name": "aries",
         "url": "https://open.spotify.com/album/0cbJnaBHP1XgOhM6M3zodW"
       },
@@ -366,7 +388,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 95999,
       "name": "autumn nights",
       "url": "https://open.spotify.com/track/54fOJRAITOTPKTMtuBFwot"
@@ -6985,6 +7007,24 @@
     },
     {
       "album": {
+        "name": "Snooze Groove",
+        "url": "https://open.spotify.com/album/5CaL7WVwN9ZBYHbzcXLCL6"
+      },
+      "artists": [
+        {
+          "name": "Dozy Duzzn",
+          "url": "https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124324,
+      "name": "Snooze Groove",
+      "url": "https://open.spotify.com/track/0Pvu5OJLVcukLnrLFZ8YgH"
+    },
+    {
+      "album": {
         "name": "Soaring Skies & Chatty Mountains",
         "url": "https://open.spotify.com/album/0dqIbxk81W1siCTh1eBP8a"
       },
@@ -7050,7 +7090,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 206447,
       "name": "Something Just Like This",
       "url": "https://open.spotify.com/track/7kUrFke3uXQj8aXrK31YMX"
@@ -8410,6 +8450,24 @@
       "duration_ms": 53815,
       "name": "voices",
       "url": "https://open.spotify.com/track/6vfoxpNa7KUzBZGFNfMXEX"
+    },
+    {
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/5a9qEcg5nTzr7ZIPVO8FQk"
+      },
+      "artists": [
+        {
+          "name": "Zeitgeister",
+          "url": "https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124556,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5gUG9ivCY3V5DRW8301SbS"
     },
     {
       "album": {

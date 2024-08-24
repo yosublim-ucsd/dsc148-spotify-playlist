@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Sisca Saras
 
-3,766 songs - 9 day 15 hr 3 min
+3,766 songs - 9 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1018,7 +1018,7 @@
 | [FILTHY ✱](https://open.spotify.com/track/4OTd5uaUiiJ5Sn0JOZ6Tba) | [Mario Draco](https://open.spotify.com/artist/1KwSZl8qwUAoKGk57dXl0q) | [FILTHY ✱](https://open.spotify.com/album/6HJvdM6qsCxBu7quK89xVt) | 1:32 | 2022-03-04 | 2022-03-18 |
 | [Find Me](https://open.spotify.com/track/7DtId45k8QcHHBWSMv8wtZ) | [Priskila Oktaviani](https://open.spotify.com/artist/756VewIK5Xf6QiIQC8NDRG) | [Find Me](https://open.spotify.com/album/4c0yRrNo75mIddjfGtihE2) | 3:52 | 2022-06-02 | 2022-06-24 |
 | [Find Myself](https://open.spotify.com/track/0R6WgwDupRoZmPpYpoLFm6) | [Yung Caters](https://open.spotify.com/artist/0F155RyWAEaj0UoTZX6lk2) | [What Happened To Us](https://open.spotify.com/album/5GwWh9rc9ZRzqH04OYfTwv) | 3:15 | 2023-10-19 | 2023-11-10 |
-| [Fine For What](https://open.spotify.com/track/20Age3EGRWgxF711RFBQTv) | [DANGER D](https://open.spotify.com/artist/2Ujt8uoFc0sE4AmXd4dYwg), [matchapuff](https://open.spotify.com/artist/67AoIFOoPBTDCH69EGC8GH) | [Fine For What](https://open.spotify.com/album/3mXJPlSwUaDUAlkCYDa1DT) | 4:18 | 2024-07-25 |  |
+| [Fine For What](https://open.spotify.com/track/20Age3EGRWgxF711RFBQTv) | [DANGER D](https://open.spotify.com/artist/2Ujt8uoFc0sE4AmXd4dYwg), [matchapuff](https://open.spotify.com/artist/67AoIFOoPBTDCH69EGC8GH) | [Fine For What](https://open.spotify.com/album/3mXJPlSwUaDUAlkCYDa1DT) | 3:48 | 2024-07-25 |  |
 | [Fine Without You](https://open.spotify.com/track/2uhQ7R7JSjrSlMZ0AiuZCv) | [No Heart Feeling](https://open.spotify.com/artist/49rHS4dqvrAhdoe6awWNMm) | [Fine Without You](https://open.spotify.com/album/2i1K72FnRbUj9mNvtiyAo8) | 4:12 | 2023-08-17 | 2023-09-01 |
 | [Finished](https://open.spotify.com/track/1Ew3yRolGuerXWdIzVVNCd) | [Naila Syarafina](https://open.spotify.com/artist/5ASlAOxuxZ0wnQjhJSZLhz) | [Finished](https://open.spotify.com/album/2NCEzQo5lUEkbPkF7jlKic) | 4:15 | 2022-06-16 | 2022-07-08 |
 | [Fire](https://open.spotify.com/track/2ykDtHyaPGq5cWtr1D5W1C) | [Dhendy Mawardi](https://open.spotify.com/artist/74XCCMZuyfrVANTycapwPC) | [Fire](https://open.spotify.com/album/5Us0atr5KhVWYpCoxdh3ei) | 5:40 | 2023-08-17 | 2023-09-01 |

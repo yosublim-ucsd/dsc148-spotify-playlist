@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: Coast Arcade
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,957 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,962 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 14 | [One Day](https://open.spotify.com/track/26OECDLRQBGRf4c7QDUdso) | [The Velvet Club](https://open.spotify.com/artist/7eMDwUnqRnKMlxGaDrH6H5) | [Space Between](https://open.spotify.com/album/2qAuT4NBNUKsxC6rwVMIPp) | 3:17 |
 | 15 | [Space Lobotomy](https://open.spotify.com/track/3KZu6T1NcYvskFmjHHyH1t) | [The Tin Knees](https://open.spotify.com/artist/5vE7sPsad7RraYzFA0VbyU) | [Space Lobotomy](https://open.spotify.com/album/4O4wqKydDydAGJkxkfCr4p) | 3:09 |
 | 16 | [Fight Or Flight](https://open.spotify.com/track/0FQu568m5iyA0hmF9NMjLq) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Fight Or Flight](https://open.spotify.com/album/2NUAVm5hnaZN42fPjQcin8) | 5:13 |
-| 17 | [WDUC? feat\. Mo'Ju](https://open.spotify.com/track/0mbzecMlsHZIJrwOlxE8Nt) | [PA777IENCE](https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t), [Mo'Ju](https://open.spotify.com/artist/2nrS28wu4Z5zjJGcDQT2pt) | [WDUC? feat\. Mo'Ju](https://open.spotify.com/album/0bhVDIpXvjTGSg5S0PkaoL) | 2:38 |
+| 17 | [WDUC? \(feat\. Mo'Ju\)](https://open.spotify.com/track/0mbzecMlsHZIJrwOlxE8Nt) | [PA777IENCE](https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t), [Mo'Ju](https://open.spotify.com/artist/2nrS28wu4Z5zjJGcDQT2pt) | [WDUC? \(feat\. Mo'Ju\)](https://open.spotify.com/album/0bhVDIpXvjTGSg5S0PkaoL) | 2:38 |
 | 18 | [I Wish I Never Loved You](https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [I Wish I Never Loved You](https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA) | 3:43 |
 | 19 | [Never See You Again](https://open.spotify.com/track/03uktU3LC5OUzvkf9BpFjg) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Never See You Again](https://open.spotify.com/album/6WOIvkvcVK0tk7k1xDZyEq) | 3:34 |
 | 20 | [High Standards](https://open.spotify.com/track/15TdTzxecMez1Dw6IvxhhM) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [High Standards](https://open.spotify.com/album/1Z5o4bvn3UfgHxKNxosdWU) | 2:36 |

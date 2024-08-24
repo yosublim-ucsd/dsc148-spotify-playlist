@@ -2,9 +2,9 @@
 
 ### [pulp](https://open.spotify.com/playlist/37i9dQZF1DX3IplhwNexYg)
 
-> The best in current indie rock\. Cover: Wunderhorse
+> The best in current indie rock\. Cover: Blondshell
 
-610 songs - 1 day 10 hr 13 min
+612 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Hate Me](https://open.spotify.com/track/6heQxArnGCBoyAZ0phwT7d) | [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [Hate Me](https://open.spotify.com/album/6Ts10Yx9238mocuLUKsBkr) | 2:46 | 2021-03-09 | 2022-01-17 |
 | [Heartbreak Kid](https://open.spotify.com/track/52J6YtU7jLcoBKShJxMITp) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Heartbreak Kid](https://open.spotify.com/album/6iDURKweXeDCpXnIXcTchM) | 3:00 | 2023-09-29 | 2024-03-02 |
 | [Heartbreaker](https://open.spotify.com/track/5w6i7gourKgjzOvd7lVi4M) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Heartbreaker](https://open.spotify.com/album/6TnnmPtPOhpd5KWjWSuGba) | 3:28 | 2024-02-16 | 2024-03-16 |
-| [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 | 2023-10-19 |  |
+| [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 | 2023-10-19 | 2024-08-24 |
 | [Heavy](https://open.spotify.com/track/0mlE732Ghbmo89ISngqVNk) | [The Goodnight Darlings](https://open.spotify.com/artist/6krukeKcu8LAYaEG50ohmM) | [Heavy](https://open.spotify.com/album/7j52cSMnSXWMbYV37zbhFH) | 3:16 | 2021-03-09 | 2022-01-17 |
 | [Heavy Heart](https://open.spotify.com/track/5eWmggao2s6P1vVDeheUIg) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 4:23 | 2022-08-18 | 2022-10-14 |
 | [Hell On Earth](https://open.spotify.com/track/5zkVTkQkHV4ygkf4sjicbA) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Hell On Earth](https://open.spotify.com/album/0H19BYgfRBOrW5BXg7yFqH) | 2:45 | 2022-08-18 | 2022-09-23 |
@@ -428,7 +428,7 @@
 | [R Entertainment](https://open.spotify.com/track/1kx7a4BiF5b0KH6pKLpwcJ) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/0AMdg90GRnvy0UFsvurqVI) | 3:09 | 2022-04-01 | 2022-07-29 |
 | [R&B](https://open.spotify.com/track/6yRsDLeo8qszcOS2u11ZDn) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [R&B](https://open.spotify.com/album/1fr1VcE4Jo3WoaUcOi7chU) | 2:48 | 2024-03-15 | 2024-04-15 |
 | [Rabbit Hole](https://open.spotify.com/track/3KX5GDVzAly6OoH24OMKwU) | [Thyla](https://open.spotify.com/artist/0L6tY7VDHwGDhx3T989SAJ) | [Rabbit Hole](https://open.spotify.com/album/3ZxC9jh02Nrvpo49frhUMR) | 4:28 | 2022-01-24 | 2022-03-11 |
-| [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 | 2024-04-12 |  |
+| [Rag](https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Rag](https://open.spotify.com/album/1Kxp2Qox5nEOGaYuHvthwH) | 2:22 | 2024-04-12 | 2024-08-24 |
 | [Rain](https://open.spotify.com/track/24FhBx2qcPxB6RAjF16Urq) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Rain](https://open.spotify.com/album/5wBGd8H3iD1gNQGmpfNLUp) | 3:16 | 2024-08-09 |  |
 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 | 2023-08-11 | 2024-05-17 |
 | [Read Receipts](https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [At Least I'm Free](https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP) | 3:36 | 2022-08-18 | 2023-01-14 |
@@ -564,6 +564,7 @@
 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 | 2022-09-08 | 2023-08-18 |
 | [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-09-01 | 2022-09-20 |
 | [Time Stopped](https://open.spotify.com/track/5zHwuvm8E6ToKnNVZhghGK) | [The Coronas](https://open.spotify.com/artist/2tppd6KkhK4ULAd217Ecq1) | [Time Stopped](https://open.spotify.com/album/31TPkC2CWri9TgBMMmwhdc) | 3:50 | 2022-10-06 | 2022-12-08 |
+| [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 | 2024-08-23 |  |
 | [Toro](https://open.spotify.com/track/3Lj2PcKAkTXYiSVSeT7UA7) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [Toro](https://open.spotify.com/album/72wu0Ve29nMO5iuUBIDywH) | 3:38 | 2021-03-09 | 2022-01-17 |
 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 | 2023-01-20 |  |
 | [Trouble](https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Trouble](https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr) | 3:51 | 2022-09-08 | 2023-05-19 |
@@ -591,6 +592,7 @@
 | [What Do You Mean?](https://open.spotify.com/track/4U8pHHV7Mhq6qOEb3dsyZN) | [Gabe Coulter](https://open.spotify.com/artist/5o8S3BWm7IgBj9nhPMGLP9) | [What Do You Mean?](https://open.spotify.com/album/3ly2DjbPZP1C2PScvRaL8Y) | 3:43 | 2022-08-18 | 2022-10-07 |
 | [What You Did](https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What You Did](https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP) | 3:02 | 2023-03-03 | 2023-05-24 |
 | [What You Did](https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:02 | 2023-05-25 | 2023-07-01 |
+| [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 | 2024-08-23 |  |
 | [What's The Point In Life](https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [What's The Point In Life](https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l) | 2:18 | 2023-07-13 | 2023-09-22 |
 | [What’s Wrong With Me](https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Sitting Pretty](https://open.spotify.com/album/7zMPk5h5WVOP2lr7vhlQPu) | 3:22 | 2023-02-10 | 2023-07-22 |
 | [When the Laughter Stops](https://open.spotify.com/track/3aE5Ldum42xgbCrOQsEkty) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd), [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [When The Laughter Stops](https://open.spotify.com/album/6U7OfgNaW72x04NE9Nugbs) | 3:17 | 2024-02-16 | 2024-03-19 |

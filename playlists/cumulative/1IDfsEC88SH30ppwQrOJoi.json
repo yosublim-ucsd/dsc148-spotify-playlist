@@ -129,6 +129,28 @@
     },
     {
       "album": {
+        "name": "Ain\u2019t Giving Up",
+        "url": "https://open.spotify.com/album/6DLqWNcNqD90oEgI7KWkaw"
+      },
+      "artists": [
+        {
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Ain't Giving Up",
+      "url": "https://open.spotify.com/track/4w0p0jhWegRvJmHOPI3lN9"
+    },
+    {
+      "album": {
         "name": "Ain't No Other Man (Rework)",
         "url": "https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq"
       },
@@ -2077,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Got To Be",
+        "url": "https://open.spotify.com/album/6a2HJtuzyDY9avmEFjEKKa"
+      },
+      "artists": [
+        {
+          "name": "Tigerblind",
+          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140909,
+      "name": "Got To Be",
+      "url": "https://open.spotify.com/track/2azPJNICoNaxiTaAYi11Vg"
+    },
+    {
+      "album": {
         "name": "Gradient",
         "url": "https://open.spotify.com/album/3WJrVYaL23cnjReefwIBWs"
       },
@@ -2430,6 +2470,28 @@
       "duration_ms": 256406,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+    },
+    {
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/4eZtcLOUFdM3ScPCGERBvx"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        },
+        {
+          "name": "Alex Hosking",
+          "url": "https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211120,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0yVNtNWZshsOXu0GLWp07P"
     },
     {
       "album": {

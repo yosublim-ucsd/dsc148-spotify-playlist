@@ -26958,8 +26958,8 @@
       },
       "artists": [
         {
-          "name": "fka jim",
-          "url": "https://open.spotify.com/artist/6QPmxSImZWhMaUL0cECeEL"
+          "name": "Jim Alxndr",
+          "url": "https://open.spotify.com/artist/73oeeOCtBTa9kBMuVggdMI"
         }
       ],
       "date_added": "2024-08-22",
@@ -33725,6 +33725,24 @@
     },
     {
       "album": {
+        "name": "Vil du elske meg",
+        "url": "https://open.spotify.com/album/1rQPdHROzgtFPkNtfrG3w8"
+      },
+      "artists": [
+        {
+          "name": "Ong Spiller",
+          "url": "https://open.spotify.com/artist/1EPMyEV5UesL9Y8rc5jgnF"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205822,
+      "name": "Vil du elske meg",
+      "url": "https://open.spotify.com/track/1O1z3wgUI0xneeh9a1CZiU"
+    },
+    {
+      "album": {
         "name": "Finest etter klokka to",
         "url": "https://open.spotify.com/album/3b7yWCg10udqgqn6MIzKME"
       },
@@ -34455,7 +34473,7 @@
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 233471,
+      "duration_ms": 233406,
       "name": "WE PRAY",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
     },

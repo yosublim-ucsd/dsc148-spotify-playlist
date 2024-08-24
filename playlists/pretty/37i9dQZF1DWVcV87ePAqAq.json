@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 363383,
+  "num_followers": 363347,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -251,30 +251,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "For Life (feat. Nile Rodgers)",
-        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 175803,
-      "name": "For Life (feat. Nile Rodgers)",
-      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -295,6 +271,30 @@
       "duration_ms": 154838,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "For Life (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 175803,
+      "name": "For Life (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Rockafeller Skank",
+        "url": "https://open.spotify.com/album/4VzJuJaV7gtjJhXMLEt9WD"
+      },
+      "artists": [
+        {
+          "name": "ILYAA",
+          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
+        }
+      ],
+      "duration_ms": 145568,
+      "name": "Rockafeller Skank",
+      "url": "https://open.spotify.com/track/2CeMzUrbykkE7QWA3qlXvx"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Man In Finance (G6 Trust Fund)",
         "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 151405,
       "name": "Man In Finance (G6 Trust Fund)",
       "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Rockafeller Skank",
-        "url": "https://open.spotify.com/album/4VzJuJaV7gtjJhXMLEt9WD"
-      },
-      "artists": [
-        {
-          "name": "ILYAA",
-          "url": "https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1"
-        }
-      ],
-      "duration_ms": 145568,
-      "name": "Rockafeller Skank",
-      "url": "https://open.spotify.com/track/2CeMzUrbykkE7QWA3qlXvx"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "T.N.T. (Techno Remix)",
-        "url": "https://open.spotify.com/album/4NydermwrtbQyYQfsawidt"
-      },
-      "artists": [
-        {
-          "name": "Nic Johnston",
-          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
-        }
-      ],
-      "duration_ms": 137473,
-      "name": "T.N.T. - Techno Remix",
-      "url": "https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Hit The Road Jack",
         "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 126428,
       "name": "Hit The Road Jack",
       "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "T.N.T. (Techno Remix)",
+        "url": "https://open.spotify.com/album/4NydermwrtbQyYQfsawidt"
+      },
+      "artists": [
+        {
+          "name": "Nic Johnston",
+          "url": "https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat"
+        }
+      ],
+      "duration_ms": 137473,
+      "name": "T.N.T. - Techno Remix",
+      "url": "https://open.spotify.com/track/6l514NhnJZJgHgYFeimsWs"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Bella Festa",
-        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
-      },
-      "artists": [
-        {
-          "name": "De Vet Du",
-          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
-        }
-      ],
-      "duration_ms": 117494,
-      "name": "Bella Festa",
-      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "\u00c4lskade \u00e4ngel",
         "url": "https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 151500,
       "name": "\u00c4lskade \u00e4ngel",
       "url": "https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Bella Festa",
+        "url": "https://open.spotify.com/album/6aLUITxk36ysZN4b0We6cE"
+      },
+      "artists": [
+        {
+          "name": "De Vet Du",
+          "url": "https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u"
+        }
+      ],
+      "duration_ms": 117494,
+      "name": "Bella Festa",
+      "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "MEDVETSL\u00d6S",
-        "url": "https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH"
-      },
-      "artists": [
-        {
-          "name": "Raggarligan",
-          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
-        }
-      ],
-      "duration_ms": 184258,
-      "name": "MEDVETSL\u00d6S",
-      "url": "https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "STUDENTEN (Hardstyle)",
         "url": "https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 132800,
       "name": "STUDENTEN (Hardstyle)",
       "url": "https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "MEDVETSL\u00d6S",
+        "url": "https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH"
+      },
+      "artists": [
+        {
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+        }
+      ],
+      "duration_ms": 184258,
+      "name": "MEDVETSL\u00d6S",
+      "url": "https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy"
     },
     {
       "added_at": "2024-06-13 22:00:00",

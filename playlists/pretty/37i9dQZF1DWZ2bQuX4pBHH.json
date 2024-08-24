@@ -1,6 +1,6 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 243897,
+  "num_followers": 243944,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-07-25 06:39:11",
       "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
+      },
+      "artists": [
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        }
+      ],
+      "duration_ms": 338593,
+      "name": "Mere Naam Tu",
+      "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
+    },
+    {
+      "added_at": "2024-07-25 06:39:11",
+      "album": {
         "name": "Swades",
         "url": "https://open.spotify.com/album/72oHSx1OrxR0gig6JcVAEW"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 446986,
       "name": "Yun Hi Chala Chal",
       "url": "https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc"
-    },
-    {
-      "added_at": "2024-07-25 06:39:11",
-      "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/5z2yHjVO0vVLaFodbgdtJf"
-      },
-      "artists": [
-        {
-          "name": "Abhay Jodhpurkar",
-          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
-        }
-      ],
-      "duration_ms": 338593,
-      "name": "Mere Naam Tu",
-      "url": "https://open.spotify.com/track/5fZ0oNVVUQe11KGpgcDCrY"
     },
     {
       "added_at": "2024-07-25 06:39:11",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2024-07-25 06:39:11",
       "album": {
+        "name": "Duplicate",
+        "url": "https://open.spotify.com/album/4cBp5HxpaOQ6G444YSM4Bc"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 419498,
+      "name": "Mere Mehboob Mere Sanam",
+      "url": "https://open.spotify.com/track/77QP3sduboWcEh7aypoz66"
+    },
+    {
+      "added_at": "2024-07-25 06:39:11",
+      "album": {
         "name": "Kabhi Khushi Kabhie Gham (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5lExQTV6ELzqRgwsqahZoh"
       },
@@ -1055,30 +1075,6 @@
     {
       "added_at": "2024-07-25 06:39:11",
       "album": {
-        "name": "Rab Ne Bana Di Jodi",
-        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Jaideep Sahni",
-          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
-        }
-      ],
-      "duration_ms": 394161,
-      "name": "Phir Milenge Chalte Chalte",
-      "url": "https://open.spotify.com/track/00slEv0AYGnW85H84XsmGz"
-    },
-    {
-      "added_at": "2024-07-25 06:39:11",
-      "album": {
         "name": "Phir Bhi Dil Hai Hindustani (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1s4wHsTNCTRV1gJnLelbOV"
       },
@@ -1099,22 +1095,22 @@
     {
       "added_at": "2024-07-25 06:39:11",
       "album": {
-        "name": "Duplicate",
-        "url": "https://open.spotify.com/album/4cBp5HxpaOQ6G444YSM4Bc"
+        "name": "Zinda Banda (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE"
       },
       "artists": [
         {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
         }
       ],
-      "duration_ms": 419498,
-      "name": "Mere Mehboob Mere Sanam",
-      "url": "https://open.spotify.com/track/77QP3sduboWcEh7aypoz66"
+      "duration_ms": 264000,
+      "name": "Zinda Banda (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"
     },
     {
       "added_at": "2024-07-25 06:39:11",
@@ -1139,22 +1135,42 @@
     {
       "added_at": "2024-07-25 06:39:11",
       "album": {
-        "name": "Zinda Banda (From \"Jawan\")",
-        "url": "https://open.spotify.com/album/1Kiukl1wioSAtG0QwDXsHE"
+        "name": "Rab Ne Bana Di Jodi",
+        "url": "https://open.spotify.com/album/7pbKuvQHUTwbq4FbevvEca"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
         },
         {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Jaideep Sahni",
+          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Zinda Banda (From \"Jawan\")",
-      "url": "https://open.spotify.com/track/4tzx5af2qpwgyjG6JQGthj"
+      "duration_ms": 394161,
+      "name": "Phir Milenge Chalte Chalte",
+      "url": "https://open.spotify.com/track/00slEv0AYGnW85H84XsmGz"
+    },
+    {
+      "added_at": "2024-07-25 06:39:11",
+      "album": {
+        "name": "Dilwale Dulhania Le Jayenge",
+        "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 310453,
+      "name": "Ruk Ja O Dil Deewane",
+      "url": "https://open.spotify.com/track/3LllvNPZFMxJ4vLWuUBAHG"
     },
     {
       "added_at": "2024-07-25 06:39:11",
@@ -1191,26 +1207,6 @@
       "duration_ms": 353693,
       "name": "Zara Sa Jhoom Loon Main",
       "url": "https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA"
-    },
-    {
-      "added_at": "2024-07-25 06:39:11",
-      "album": {
-        "name": "Baazigar (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
-      },
-      "artists": [
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 459266,
-      "name": "Baazigar O Baazigar",
-      "url": "https://open.spotify.com/track/56h75LnnsaBy4T8N8MSNgF"
     }
   ],
   "unique_name": "Starring Shah Rukh Khan",

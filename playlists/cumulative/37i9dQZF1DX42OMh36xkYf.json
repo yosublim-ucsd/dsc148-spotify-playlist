@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Jaze en portada.",
+  "description": "Resonancias extraordinarias de luminiscencia inclasificable. Con Greccia en portada.",
   "name": "IRIS",
   "tracks": [
     {
@@ -248,7 +248,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 142949,
       "name": "banco",
       "url": "https://open.spotify.com/track/2wCiFPVkLB8N6o6zLVXAdl"
@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "devut",
+        "url": "https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156852,
+      "name": "devut",
+      "url": "https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB"
+    },
+    {
+      "album": {
         "name": "el Alquimista",
         "url": "https://open.spotify.com/album/6U9wTBtMy0D9CHPola2s5g"
       },
@@ -1003,6 +1021,28 @@
     },
     {
       "album": {
+        "name": "Florecer Contigo",
+        "url": "https://open.spotify.com/album/60u8fR1xRaw7SWKIn0J3XG"
+      },
+      "artists": [
+        {
+          "name": "Nasa Histoires",
+          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167729,
+      "name": "Florecer Contigo",
+      "url": "https://open.spotify.com/track/7BizyJuwuuRYp4hnExnO16"
+    },
+    {
+      "album": {
         "name": "Fractal",
         "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
       },
@@ -1098,7 +1138,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 158360,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/3OrNw2UkMV8NI2hk5tDr5U"
@@ -2010,7 +2050,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 180720,
       "name": "Ojal\u00e1 Te Vaya Mal",
       "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"

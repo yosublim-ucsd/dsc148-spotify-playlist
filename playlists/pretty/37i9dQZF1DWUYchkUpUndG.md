@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=yqlzM3HlTC\-8KZv6GPoZpA>Spirit of Praise</a>'s "<a href=https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG?si=QaPZcevhQ\_GFbeYwZbF3mg>Mmatema</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,145 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,163 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 9 | [Faithful \- Instrumental](https://open.spotify.com/track/1fUi3U04bt3yyEbVzn1N6A) | [draw close](https://open.spotify.com/artist/6lQTc8ch7seamP33kWxxqT), [Emmanuel Songsore](https://open.spotify.com/artist/3BMM9j0sNACwGYlL9TvbBP) | [Faithful \(Instrumental\)](https://open.spotify.com/album/255QCI0MmR48A6wPmFlIAd) | 2:06 |
 | 10 | [Maisha Yangu / Baba Yangu, Baba Yangu \- Live in Kenya](https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Maisha Yangu / Baba Yangu, Baba Yangu \(Live in Kenya\)](https://open.spotify.com/album/09oMzJiQ4rr6Q84fLXRFR7) | 9:02 |
 | 11 | [Sing Hallelujah](https://open.spotify.com/track/7tV5kspyHg9hM9hMAnMXSG) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Sing Hallelujah](https://open.spotify.com/album/1b46ZBLiS7hkot89IFTV9p) | 4:31 |
-| 12 | [Ekwueme \(In Your Class\)](https://open.spotify.com/track/4VaTVRelsQw9HZDmg45GDs) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Ekwueme \(In Your Class\)](https://open.spotify.com/album/4aKFnqCvKz4ZDo2apxay1I) | 12:51 |
+| 12 | [Ekwueme \(In Your Class\)](https://open.spotify.com/track/4VaTVRelsQw9HZDmg45GDs) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Ekwueme \(In Your Class\)](https://open.spotify.com/album/4aKFnqCvKz4ZDo2apxay1I) | 12:53 |
 | 13 | [E Ti Tobi to \(Live\)](https://open.spotify.com/track/6CyvOdf4V0PM8mU3ktVzsh) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Choir](https://open.spotify.com/artist/3anQm3u8qGQyPeAOh0bAzb), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [E Ti Tobi to \(Live\)](https://open.spotify.com/album/5mY52gjoMuJsiLybLRQR3J) | 13:46 |
 | 14 | [Halle](https://open.spotify.com/track/4WZuNsjJKRd3iyGhQ6lFw8) | [Karlton Jones](https://open.spotify.com/artist/2gISs2WTbdQLHwbNOxoOHD), [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Halle](https://open.spotify.com/album/2WjtXRUuk3RJvnS5VLYinV) | 3:13 |
 | 15 | [The Name of Jesus](https://open.spotify.com/track/31TwFfVC8RMKZRCVavPLZQ) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [The Name of Jesus](https://open.spotify.com/album/4YyieGrZKYs8S7W9eaOGz4) | 2:51 |

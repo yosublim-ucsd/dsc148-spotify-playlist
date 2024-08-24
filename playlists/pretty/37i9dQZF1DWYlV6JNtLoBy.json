@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 5743,
+  "num_followers": 5747,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
+        "name": "Don't Fight Alone",
+        "url": "https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 240097,
+      "name": "Don't Fight Alone",
+      "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
         "name": "Take Me to the River (I Will Swim)",
         "url": "https://open.spotify.com/album/1iVcfyEbebsg5wQZpxkljD"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 176104,
       "name": "Take Me to the River (I Will Swim)",
       "url": "https://open.spotify.com/track/4yaalj9cPc9FCVi0SXkBuV"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "Don't Fight Alone",
-        "url": "https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 240097,
-      "name": "Don't Fight Alone",
-      "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
     },
     {
       "added_at": "2024-01-19 00:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "A Thousand Times",
-        "url": "https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 219879,
-      "name": "A Thousand Times",
-      "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "God Is With Us",
         "url": "https://open.spotify.com/album/6nQo0N1ep6600BCQheax8w"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 193253,
       "name": "My God Can",
       "url": "https://open.spotify.com/track/66FyOjreSvM26FWvVvsjOP"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 219879,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
     },
     {
       "added_at": "2024-01-19 00:01:00",

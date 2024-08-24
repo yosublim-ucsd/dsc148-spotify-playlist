@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 179025,
       "name": "2-3 Zone",
       "url": "https://open.spotify.com/track/61stjy8wXtCR3prmF6JEpm"
@@ -234,7 +234,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 170007,
       "name": "2011 (feat. Venna)",
       "url": "https://open.spotify.com/track/0n7mUH2Yx5mrUW2NvCBcTD"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 238846,
       "name": "25 Bricks",
       "url": "https://open.spotify.com/track/7tCGcmVVa6Stx6VUo6FePs"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 186666,
       "name": "Bacc 2 Harlem",
       "url": "https://open.spotify.com/track/4GMQyTh4yglx08mb1Aci6y"
@@ -1362,7 +1362,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 205453,
       "name": "Balut",
       "url": "https://open.spotify.com/track/3yeVb5di44wD6CZ2sJromR"
@@ -1829,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "BOOM BAP",
+        "url": "https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134522,
+      "name": "BOOM BAP",
+      "url": "https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D"
+    },
+    {
+      "album": {
         "name": "I Love Life, Thank You",
         "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
       },
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 154920,
       "name": "Buddy A Fool",
       "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
@@ -3650,7 +3668,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 301800,
       "name": "Double Standards (feat. Sampha)",
       "url": "https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9"
@@ -4666,7 +4684,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 246506,
       "name": "For Anybody (with TOBi)",
       "url": "https://open.spotify.com/track/0QPUZlehGYYulpIDeKbGSX"
@@ -4750,7 +4768,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 220235,
       "name": "Forgot We Were Seeds",
       "url": "https://open.spotify.com/track/6XK53Z4myhw8Q6iu6L3ie2"
@@ -4990,7 +5008,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 136917,
       "name": "FU",
       "url": "https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd"
@@ -5310,7 +5328,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 183466,
       "name": "Good Kid",
       "url": "https://open.spotify.com/track/7CXtko4co5UNe51FVioLyX"
@@ -6118,7 +6136,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 186136,
       "name": "Houston BBQ (feat. Bun B)",
       "url": "https://open.spotify.com/track/1BOdSKk6qnTUMY3AV0hayh"
@@ -6802,7 +6820,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 212062,
       "name": "Intergalactic Icons",
       "url": "https://open.spotify.com/track/2acCrpnHeM7XlylIU0Xczd"
@@ -8152,7 +8170,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 221026,
       "name": "Mass Appeal",
       "url": "https://open.spotify.com/track/3lGBvPUgO7MJltUnBlOpe9"
@@ -8254,7 +8272,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 114466,
       "name": "Mercedez",
       "url": "https://open.spotify.com/track/0wlckRqDjrNoD78B3frNrN"
@@ -9558,7 +9576,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 108187,
       "name": "NYDFRYSTL",
       "url": "https://open.spotify.com/track/5wVqh6vqoztvzWUf7x5Vmm"
@@ -10098,7 +10116,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 169933,
       "name": "Passports & Suitcases (feat. KayCyy)",
       "url": "https://open.spotify.com/track/0A0ZpEwDk5iNNfxUSYeJCt"
@@ -13288,7 +13306,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 220528,
       "name": "The Facilitator",
       "url": "https://open.spotify.com/track/7J96BhO0q61HfIHixeESCn"
@@ -14194,7 +14212,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 155169,
       "name": "TULUM",
       "url": "https://open.spotify.com/track/7xSlkebKRYibm6plhrEQAX"
@@ -14572,7 +14590,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 150254,
       "name": "Wait",
       "url": "https://open.spotify.com/track/7GiqRi0aUGWCzasSUNfOyl"
@@ -14674,7 +14692,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 174800,
       "name": "Watch Out Now",
       "url": "https://open.spotify.com/track/1n6pgjMma0nsl4jyMzmjxQ"
@@ -14828,7 +14846,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 138567,
       "name": "WEARY",
       "url": "https://open.spotify.com/track/2ZZbZZmUVqgdKLJdiOXmwp"

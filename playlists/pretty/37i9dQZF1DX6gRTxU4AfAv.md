@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gRTxU4AfAv.md) - [plain]
 
 > De Spotify redactie kiest het beste van 2023\. Cover: MEAU
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,266 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,265 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

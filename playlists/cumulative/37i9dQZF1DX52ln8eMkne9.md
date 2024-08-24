@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-340 songs - 1 day 1 hr 26 min
+341 songs - 1 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Lounge Lizard](https://open.spotify.com/track/39mehRLHX9wvfrooKeiWxa) | [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Lounge Lizard](https://open.spotify.com/album/4W6s4LdmewGx1WB1f0kWR0) | 3:49 | 2023-11-17 | 2024-01-18 |
 | [Loving You](https://open.spotify.com/track/226aNk2hiOlW3joJHIvSVe) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM) | [Move On: A Sondheim Adventure](https://open.spotify.com/album/21rqFgEooG35NUhxxwOqTs) | 2:51 | 2022-02-18 |  |
 | [Lucky To Be Me](https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Over The Years](https://open.spotify.com/album/3XE2b9grofAamuVk72wdn5) | 7:29 | 2021-12-17 |  |
+| [Lucky to Be Me](https://open.spotify.com/track/1Aw7w0E9iqGTqlbIjp2IMJ) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Lucky to Be Me](https://open.spotify.com/album/0CRxgAIw7pGHk0YGhnfPxT) | 2:59 | 2024-08-23 |  |
 | [Lumiére](https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U) | [Emily Sage](https://open.spotify.com/artist/5VmTuE1qfSRDnjltjkNTWL) | [Lumiére](https://open.spotify.com/album/1DIbpgTuxkiAAvCU3cfY82) | 3:16 | 2021-12-17 |  |
 | [Make It Last](https://open.spotify.com/track/4c1ZinOfQQeWkkDgAb9Jh3) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Make It Last](https://open.spotify.com/album/0SLUNa64lFa7Bb5SN76jRX) | 4:41 | 2022-02-24 |  |
 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 | 2021-12-17 |  |
@@ -221,7 +222,7 @@
 | [Nice Girls Don't Stay for Breakfast](https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Nice Girls Don't Stay for Breakfast](https://open.spotify.com/album/0ZnzFlGCe6D48yDBV4rXjO) | 3:37 | 2024-03-20 |  |
 | [Night And Day](https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:38 | 2021-12-17 | 2022-12-07 |
 | [Night and Day](https://open.spotify.com/track/52Bx2eqyLGX1r70PN3ePOk) | [Lina Nyberg](https://open.spotify.com/artist/51lkmSxQ5rpUuRSgoAzWcv), [Daniel Karlsson](https://open.spotify.com/artist/133ujfci80J2umYb3Oas89) | [The Night and the Music](https://open.spotify.com/album/3G8RPQgYAbX2Gpyc69YU3k) | 4:09 | 2022-02-18 |  |
-| [Nightjar in the Northern Sky](https://open.spotify.com/track/3Lm4Il6xzIbfZ0XmneRCRA) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/0r36MHOZz9hrzGQF6m6Ylr) | 4:47 | 2022-02-18 |  |
+| [Nightjar in the Northern Sky](https://open.spotify.com/track/3Lm4Il6xzIbfZ0XmneRCRA) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/0r36MHOZz9hrzGQF6m6Ylr) | 4:47 | 2022-02-18 | 2024-08-24 |
 | [Nightjar in the Northern Sky](https://open.spotify.com/track/5fCsD2cRqXf0q5JAGTrmez) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Nightjar in the Northern Sky](https://open.spotify.com/album/5xFn6wFCZJ3DTJwzEzaFEV) | 4:47 | 2022-07-28 | 2024-04-19 |
 | [No Guarantees](https://open.spotify.com/track/6ZVC9vfwMNEKD2CwyrhMOp) | [Laura & Anton](https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy) | [No Guarantees](https://open.spotify.com/album/1nR6FaZr89igcbaPow6y8z) | 3:08 | 2021-12-17 |  |
 | [Oh My Love](https://open.spotify.com/track/22ckf5hC1cnHnFPY6pxINQ) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Gouache](https://open.spotify.com/album/3rTG744ZZuutEfX65xI88L) | 4:47 | 2022-05-13 | 2022-07-29 |

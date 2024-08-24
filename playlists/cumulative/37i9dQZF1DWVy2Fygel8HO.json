@@ -603,6 +603,24 @@
     },
     {
       "album": {
+        "name": "Ecru",
+        "url": "https://open.spotify.com/album/1mLEQBy5wZefMZiSNp14hL"
+      },
+      "artists": [
+        {
+          "name": "Kristian Hart",
+          "url": "https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118273,
+      "name": "Ecru",
+      "url": "https://open.spotify.com/track/1EvgGClIT8lWfBI77ZU6xK"
+    },
+    {
+      "album": {
         "name": "Ellie",
         "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
       },

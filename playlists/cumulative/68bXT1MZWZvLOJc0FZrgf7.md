@@ -2,9 +2,9 @@
 
 ### [Dance For Days 🪩🕺 2024 EDM](https://open.spotify.com/playlist/68bXT1MZWZvLOJc0FZrgf7)
 
-> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Austin Millz &amp; Farruko
+> Dance to your favorite electronic hits 🪩 2024 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: DVBBS, Cash Cash, Quinn XCII
 
-614 songs - 1 day 7 hr 53 min
+615 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [Silver and Gold \(feat\. Sam Fischer & Pink Sweat$\)](https://open.spotify.com/track/0xHeGspdxuVIm49iNXDO2u) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Silver and Gold](https://open.spotify.com/album/5RG5m64csMJpvGF0wZkQrS) | 2:57 | 2022-06-03 | 2022-11-05 |
 | [Sinner](https://open.spotify.com/track/3LqnR4dZYdZoaVivSIidKH) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Sinner](https://open.spotify.com/album/3GTekC6u6cCRqbJtSzsqdT) | 3:58 | 2022-06-03 | 2023-02-05 |
 | [Sleep Walk \(feat\. Liz Cass\)](https://open.spotify.com/track/5qZw8Y01dhAluWp6xdk4VV) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Liz Cass](https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp) | [Sleep Walk \(feat\. Liz Cass\)](https://open.spotify.com/album/09crQU0aP4oOt8R5l0FUwv) | 3:38 | 2023-03-03 | 2023-07-29 |
+| [Smile](https://open.spotify.com/track/2212Svokvme9GTbKsSeyw6) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Smile](https://open.spotify.com/album/2JuSoLnQXNXbVdOODSZQ88) | 2:27 | 2024-08-23 |  |
 | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im) | 3:12 | 2024-07-19 |  |
 | [So Alive](https://open.spotify.com/track/5uT52Slz5g1B2n5Xy1twGA) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [So Alive](https://open.spotify.com/album/3P8eSxbBlzn1rqaaMdAmra) | 5:22 | 2023-07-21 | 2024-07-27 |
 | [So Far So Good](https://open.spotify.com/track/6NzM2e5qsOoCn4TG5XX2Mx) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [E11EVN](https://open.spotify.com/artist/6Xx4afrFly7ljWMyqVoZkj) | [So Far So Good](https://open.spotify.com/album/1SIcijucSaOA0qp7zDDhPB) | 3:06 | 2022-06-03 | 2023-02-05 |

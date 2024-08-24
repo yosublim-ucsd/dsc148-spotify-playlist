@@ -4,7 +4,7 @@
 
 > ¡Esto sí es Bachata! Portada: Manuel Turizo
 
-177 songs - 11 hr 47 min
+178 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Como Serás Tu](https://open.spotify.com/track/269nyKy2duFQEE1FSnkdny) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Escenas De Amor](https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco) | 3:50 | 2022-02-15 | 2024-04-19 |
 | [Como Serás Tu](https://open.spotify.com/track/79NcDVo4gRqBkum8WUk0Sl) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Latin Hits 2016 Summer \- 60 Latin Music Hits \(Reggaeton, Urbano, Salsa, Bachata, Dembow, Merengue, Timba, Cubaton Kuduro, Latin Fitness\)](https://open.spotify.com/album/3ZKoej6nsmZm5UN6LNqATV) | 3:50 | 2022-10-25 | 2022-11-13 |
 | [COMO YO TE QUIERO \(DELUXE\)](https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [SEROTONINA \(DELUXE\)](https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY) | 3:31 | 2024-06-20 |  |
-| [Corazón Con Candado](https://open.spotify.com/track/56rdvz30wcKbCHfcLKmyln) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/4v6H0THnWjG3pakiQ9zQR9) | 4:22 | 2021-12-02 |  |
+| [Corazón Con Candado](https://open.spotify.com/track/56rdvz30wcKbCHfcLKmyln) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/4v6H0THnWjG3pakiQ9zQR9) | 4:22 | 2021-12-02 | 2024-08-24 |
 | [Corazón Con Candado](https://open.spotify.com/track/3GrsB2BYD7486eXyUfWMv9) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [FIESTA LATINA \- LATIN PARTY 2018 \(40 Latin Hits Para Tu Fiesta! Reggaeton, Salsa, Bachata, Merengue y Clasicos!\)](https://open.spotify.com/album/6nD4jrB4HOPla26OcZSdfa) | 4:22 | 2022-10-25 | 2022-11-13 |
 | [Corazón Con Candado](https://open.spotify.com/track/6BrJFyOcW5El8YLp3DtTJ7) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Hablamos En La Cama](https://open.spotify.com/album/2U6skaTPCGdtHbpAfb8Bap) | 4:22 | 2022-02-15 | 2024-04-19 |
 | [Corazón Culpable](https://open.spotify.com/track/198HWHhymECcoWD5udzWzH) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Aqui Esta La Bachata, Vol\. 2: Con Sus Interpretes Originales](https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9) | 6:01 | 2021-12-02 |  |
@@ -136,6 +136,7 @@
 | [Mujer de las Mil Batallas](https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:24 | 2021-12-02 |  |
 | [My Voy \- Live](https://open.spotify.com/track/2YYqOY94VWoSl5XewubU9w) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Todavía Me Amas: Lo Mejor de Aventura \(Deluxe Edition\)](https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q) | 4:25 | 2021-12-02 | 2022-07-29 |
 | [Mágicas Princesas](https://open.spotify.com/track/7IKHR9KFJ4Z37CjJZEAC7u) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/26dpAQy9hpsW0bIiA0FSdb) | 4:21 | 2021-12-02 | 2022-07-29 |
+| [Ni Con Él, Ni Conmigo](https://open.spotify.com/track/19NuFFsZaydL7IOAQWp7lK) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Ni Con Él, Ni Conmigo](https://open.spotify.com/album/5wj31qM3yS7ykkbvzvBcpV) | 3:47 | 2024-08-23 |  |
 | [No Es Brujeria](https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D) | [El Varon de la bachata](https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV) | [Alma Perdida](https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu) | 4:08 | 2021-12-02 | 2024-06-21 |
 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 | 2021-12-02 |  |
 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 3:59 | 2021-12-02 |  |

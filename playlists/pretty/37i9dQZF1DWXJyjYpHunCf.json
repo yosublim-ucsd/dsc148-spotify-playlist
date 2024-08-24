@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Jenna Raine",
-  "num_followers": 926563,
+  "num_followers": 926744,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAAB1TPxsG68hKkaKgXMGd1Ea",
+  "snapshot_id": "ZsgJQAAAAAByeYtMScb399ZHKwxn83yh",
   "tracks": [
     {
       "added_at": "2024-08-09 04:00:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
     },
     {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Wait for You",
+        "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Wait for You",
+      "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
+    },
+    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Rockwood",
@@ -71,6 +87,38 @@
       "duration_ms": 169041,
       "name": "Why Why Why",
       "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "The Player",
+        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "The Player",
+      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -137,20 +185,20 @@
       "url": "https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
+      "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "Wild Spirit",
+        "url": "https://open.spotify.com/album/6dLSL5RbIw2qv5413Df5Zy"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
         }
       ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+      "duration_ms": 207213,
+      "name": "Caves",
+      "url": "https://open.spotify.com/track/6dtaAuJD7vqsNQqyOKlyLV"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -231,6 +279,22 @@
       "duration_ms": 177146,
       "name": "I Hate Springsteen",
       "url": "https://open.spotify.com/track/1E839ULmgiydsiDqzmyk9a"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "baggy t-shirt",
+        "url": "https://open.spotify.com/album/263pkWunlv7F0dd5uh5saT"
+      },
+      "artists": [
+        {
+          "name": "asiris",
+          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "baggy t-shirt",
+      "url": "https://open.spotify.com/track/6P6y5Sn1hqBiGK8dfhuDjK"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -863,22 +927,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "You Promised A Lifetime",
-        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/0zcCGdrTZqUVfWOOgPYLLB"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Floating in the Night",
         "url": "https://open.spotify.com/album/460chVvDygcJD9jvu0FKkl"
       },
@@ -1275,22 +1323,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "my friend's toyota",
-        "url": "https://open.spotify.com/album/3nIvomXE7fMgjtLvrkLTPg"
-      },
-      "artists": [
-        {
-          "name": "asiris",
-          "url": "https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "my friend's toyota",
-      "url": "https://open.spotify.com/track/5klqVId6gE0LT4QkbPUKCf"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Perfect Portrait of Young Love",
         "url": "https://open.spotify.com/album/3bdkQ8IbGwzvmOBAeRjbIm"
       },
@@ -1611,38 +1643,6 @@
       "duration_ms": 176666,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Like Gold",
-      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
     }
   ],
   "unique_name": "Folk Pop",

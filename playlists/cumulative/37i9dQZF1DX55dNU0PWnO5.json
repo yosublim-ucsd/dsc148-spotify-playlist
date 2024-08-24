@@ -615,6 +615,28 @@
     },
     {
       "album": {
+        "name": "Volte-Face",
+        "url": "https://open.spotify.com/album/42Zh1ftsN4bR2zwJXEtCoE"
+      },
+      "artists": [
+        {
+          "name": "Leif Maine",
+          "url": "https://open.spotify.com/artist/7MBurgGNsSYdHWtMEMQu2l"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162022,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/7mqfcqAl6KdHv3Hk6iVILJ"
+    },
+    {
+      "album": {
         "name": "Jellowstoned",
         "url": "https://open.spotify.com/album/3gzVnpDE5qcrusH3UuNOZT"
       },
@@ -6236,7 +6258,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 716744,
       "name": "SAMURAI - 2022 version",
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"

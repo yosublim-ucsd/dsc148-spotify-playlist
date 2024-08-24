@@ -1,13 +1,57 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44236,
+  "num_followers": 44238,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZml71rrdJivYhcWdBzcrKjJ6AD8eR",
+  "snapshot_id": "AAAZnFT9kJLf+s+Z9Lk7Bm/q0gP3cXP0",
   "tracks": [
+    {
+      "added_at": "2024-08-23 16:54:14",
+      "album": {
+        "name": "Lift Off",
+        "url": "https://open.spotify.com/album/63PEpI6Ip1Mc9fldkuEkbY"
+      },
+      "artists": [
+        {
+          "name": "Sikdope",
+          "url": "https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG"
+        },
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "duration_ms": 135238,
+      "name": "Lift Off",
+      "url": "https://open.spotify.com/track/2YfTrcUHlcOCoY2LJzga6H"
+    },
+    {
+      "added_at": "2024-08-23 16:53:55",
+      "album": {
+        "name": "My Fix",
+        "url": "https://open.spotify.com/album/6ITzSDoQS1cPCIJ0Z0cKSh"
+      },
+      "artists": [
+        {
+          "name": "Benzi",
+          "url": "https://open.spotify.com/artist/1dqyvasqrPO2j7VS8TOxDl"
+        },
+        {
+          "name": "Bella Renee",
+          "url": "https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa"
+        },
+        {
+          "name": "Velvet Cash",
+          "url": "https://open.spotify.com/artist/2JE4L1DVUHTozvwDFAQkZr"
+        }
+      ],
+      "duration_ms": 151259,
+      "name": "My Fix",
+      "url": "https://open.spotify.com/track/27tMeLOBeObM0JVjEsnPCo"
+    },
     {
       "added_at": "2024-08-19 19:12:18",
       "album": {

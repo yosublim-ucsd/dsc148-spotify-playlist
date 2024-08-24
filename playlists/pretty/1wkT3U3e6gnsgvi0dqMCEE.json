@@ -6,7 +6,7 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAACFDOSaqEW1Sa3DmfVuFzgXJPqdsIW",
+  "snapshot_id": "AAACGRfmFjeMjuL6eRZrgG2e1pr8+lwJ",
   "tracks": [
     {
       "added_at": "2024-08-16 14:09:29",
@@ -41,24 +41,36 @@
       "url": "https://open.spotify.com/track/6WqpjGIipa3oCFTGQ1d9Q0"
     },
     {
-      "added_at": "2024-08-16 14:09:29",
+      "added_at": "2024-08-23 11:17:02",
       "album": {
-        "name": "The Harder They Come: The Remixes",
-        "url": "https://open.spotify.com/album/4TPNcqvtgLmayYYq0oGfuR"
+        "name": "Murder On The Dancefloor - Live From New York",
+        "url": "https://open.spotify.com/album/50Iu8cK1aemeaAoCmVqIe3"
       },
       "artists": [
         {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        },
-        {
-          "name": "Walshy Fire",
-          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 217029,
-      "name": "The Harder They Come - Remix",
-      "url": "https://open.spotify.com/track/0MBxswSDvXheQKJNLkvrI3"
+      "duration_ms": 292520,
+      "name": "Murder On The Dancefloor - Live From New York",
+      "url": "https://open.spotify.com/track/5s8U1xMYlnqP9iDkcUGHAS"
+    },
+    {
+      "added_at": "2024-08-16 14:09:29",
+      "album": {
+        "name": "LIFETIMES",
+        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "LIFETIMES",
+      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
     },
     {
       "added_at": "2024-08-16 14:09:29",
@@ -95,6 +107,26 @@
       "duration_ms": 157173,
       "name": "FLY",
       "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
+    },
+    {
+      "added_at": "2024-08-16 14:09:29",
+      "album": {
+        "name": "The Harder They Come: The Remixes",
+        "url": "https://open.spotify.com/album/4TPNcqvtgLmayYYq0oGfuR"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
+        },
+        {
+          "name": "Walshy Fire",
+          "url": "https://open.spotify.com/artist/3yJLZoq3Ra2VmSW5teVgih"
+        }
+      ],
+      "duration_ms": 217029,
+      "name": "The Harder They Come - Remix",
+      "url": "https://open.spotify.com/track/0MBxswSDvXheQKJNLkvrI3"
     },
     {
       "added_at": "2024-08-16 14:09:29",
@@ -167,22 +199,6 @@
       "duration_ms": 155742,
       "name": "Photograph - Def Leppard x Armand Van Helden",
       "url": "https://open.spotify.com/track/5JWWzqa9Mdd3Yl3uTW14oQ"
-    },
-    {
-      "added_at": "2024-08-16 14:09:29",
-      "album": {
-        "name": "LIFETIMES",
-        "url": "https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "LIFETIMES",
-      "url": "https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV"
     },
     {
       "added_at": "2024-08-16 14:09:29",
@@ -1571,7 +1587,7 @@
     {
       "added_at": "2024-08-16 14:09:29",
       "album": {
-        "name": "Synchronicity (Remastered 2003)",
+        "name": "Synchronicity - Remastered 2003",
         "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
       },
       "artists": [

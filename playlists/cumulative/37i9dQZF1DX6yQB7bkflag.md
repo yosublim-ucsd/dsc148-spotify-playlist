@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Pamungkas
 
-751 songs - 1 day 20 hr 1 min
+753 songs - 1 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,6 +484,7 @@
 | [Pada Akhirnya](https://open.spotify.com/track/5Cjjypy2Pm1LK1mdmohCuT) | [Monica Christiana](https://open.spotify.com/artist/2GqWsg2YJM3SRdIreM7f2h) | [Pada Akhirnya](https://open.spotify.com/album/7eE0Br39S9GL6R91ATl83G) | 4:03 | 2024-05-09 | 2024-06-01 |
 | [Pandai Bicara](https://open.spotify.com/track/6RCVSl65W3uAsEZTyJI4PX) | [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Pandai Bicara](https://open.spotify.com/album/2M1LHvoFgQQA0gPXX08Gx2) | 3:54 | 2024-05-16 | 2024-06-21 |
 | [parasite](https://open.spotify.com/track/4ASoS06kltBvEel1ekoziv) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [parasite](https://open.spotify.com/album/6wXSu1dznZzEXakEeMmPca) | 2:11 | 2024-03-21 | 2024-04-12 |
+| [Party In Bali \(PIB\)](https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O) | [AGNEZ MO](https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z) | [Party In Bali \(PIB\)](https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk) | 2:52 | 2024-08-22 |  |
 | [Patah Terbelah](https://open.spotify.com/track/3a2JAzygdSbcaDVzgQVzOo) | [The Rain](https://open.spotify.com/artist/76FV2FPEhMQj3GZPIkAJP2) | [Patah Terbelah](https://open.spotify.com/album/6mR37QRgdYkAceaK23eTmq) | 4:15 | 2024-06-20 | 2024-07-12 |
 | [Penikmat Senyummu](https://open.spotify.com/track/2Gu8EMg6OLhnCP5is8G5R2) | [Mark Natama](https://open.spotify.com/artist/6M3LQdDjNTANaCzV7wGqMi) | [Penikmat Senyummu](https://open.spotify.com/album/6tpQfnEsyEVshedIZswudd) | 3:58 | 2024-05-16 | 2024-06-21 |
 | [Pentas Sandiwara](https://open.spotify.com/track/1fEgsbDomEXg2NXa6CaAUt) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Pentas Sandiwara](https://open.spotify.com/album/1IjSlt19qg8tzbhyBtbdkR) | 4:04 | 2024-07-19 | 2024-08-09 |
@@ -509,6 +510,7 @@
 | [Pulang \(Robbighfirlii\)](https://open.spotify.com/track/40xD1oDjPZVHt5AyIPBX7h) | [Wali](https://open.spotify.com/artist/5pnSNZZRyYViu2n58Zlw1J) | [Pulang \(Robbighfirlii\)](https://open.spotify.com/album/6aR6TWWlaWYauxklZKnD4Z) | 4:23 | 2024-03-14 | 2024-04-12 |
 | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Big Mouth Cast](https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w) | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza) | 2:21 | 2024-01-18 | 2024-02-17 |
 | [Putus](https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Putus](https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp) | 3:33 | 2024-07-25 |  |
+| [Rains in Heaven](https://open.spotify.com/track/17IcI8xMok8qFNhSPRufjo) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Rains in Heaven](https://open.spotify.com/album/2SUJuWIru2k3m8RkjwcSsW) | 3:57 | 2024-08-22 |  |
 | [Raja dan Ratu](https://open.spotify.com/track/7FZyTvbYGvyDBo0XSDDuXu) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Raja dan Ratu](https://open.spotify.com/album/4nHoAM5p4eDehGmgQQQvKI) | 3:53 | 2024-05-02 | 2024-06-07 |
 | [Rapuh \- From "Kawin Tangan"](https://open.spotify.com/track/4z6f9z75aV6rcFwjlzbgVF) | [Adrian Sant](https://open.spotify.com/artist/7LnKv7Mz67Fnpo9AyKXbyB) | [Rapuh \(From "Kawin Tangan"\)](https://open.spotify.com/album/5HPpfn3f5jf52NSOe6hP0I) | 4:33 | 2024-06-06 | 2024-07-05 |
 | [Real Good Feeling](https://open.spotify.com/track/32bmBFVHjF9I78mJ1X472K) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Real Good Feeling](https://open.spotify.com/album/2TRNRZBL1Yb8LGiBZMBC50) | 2:38 | 2024-07-04 | 2024-08-09 |
@@ -755,7 +757,7 @@
 | [Young Man](https://open.spotify.com/track/2iF0v1qgFjCFBhHTdscbVA) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Young Man](https://open.spotify.com/album/40MzrJn2KzZbShzPiqxZ4r) | 4:17 | 2024-07-04 | 2024-08-09 |
 | [Your Favorite Food](https://open.spotify.com/track/4yWaGVdcT6VhMyUY7kjV3d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Your Favorite Food](https://open.spotify.com/album/6XsHlUuJB9vrOVwflRFoOp) | 4:30 | 2024-02-29 | 2024-03-22 |
 | [You’re Losing Me \(From The Vault\)](https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [You're Losing Me \(From The Vault\)](https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7) | 4:37 | 2024-01-18 | 2024-02-17 |
-| [เหมือนวิวาห์ \(Rain wedding\) \[From วิมานหนาม\]](https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [เหมือนวิวาห์ \(Rain wedding\) \[From วิมานหนาม\]](https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8) | 4:21 | 2024-08-22 |  |
+| [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8) | 4:21 | 2024-08-22 |  |
 | [⁠Sayang/Cinta](https://open.spotify.com/track/1ucdQ8Ipa0P0tQ5QqOXjyo) | [Insomniacks](https://open.spotify.com/artist/3uSnvyMAFJTm7XkZJFo0xP) | [TEMAN EP](https://open.spotify.com/album/1SliEzHuM0J3s3ZwNmDT6G) | 3:48 | 2024-08-08 |  |
 | [ひとつの誓い \(We’ll Never Change\)](https://open.spotify.com/track/6ZVLzrvg4jw9bS9NChKFOr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [誓い \(CHIKAI\)](https://open.spotify.com/album/4gUSRC5pgmbbDi39dGBsuL) | 2:57 | 2024-07-04 | 2024-08-02 |
 | [해야 \(HEYA\)](https://open.spotify.com/track/4gOwpU4kMZZNDWkoHYUj1Z) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/7z61DsZtWO2S4nC5xd0b9p) | 3:09 | 2024-05-02 | 2024-05-25 |

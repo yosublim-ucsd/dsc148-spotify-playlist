@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 405291,
+  "num_followers": 405418,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "Every Night",
         "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 174735,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
     },
     {
       "added_at": "2024-07-05 18:25:49",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-07-05 18:25:49",
       "album": {
-        "name": "Rolling Over Me",
-        "url": "https://open.spotify.com/album/63oxuPBkp987wX1y353urb"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 289080,
-      "name": "Rolling Over Me",
-      "url": "https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm"
-    },
-    {
-      "added_at": "2024-07-05 18:25:49",
-      "album": {
         "name": "Washashore Cowgirl",
         "url": "https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 185033,
       "name": "Washashore Cowgirl",
       "url": "https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK"
+    },
+    {
+      "added_at": "2024-07-05 18:25:49",
+      "album": {
+        "name": "Rolling Over Me",
+        "url": "https://open.spotify.com/album/63oxuPBkp987wX1y353urb"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 289080,
+      "name": "Rolling Over Me",
+      "url": "https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm"
     },
     {
       "added_at": "2024-07-05 18:25:49",

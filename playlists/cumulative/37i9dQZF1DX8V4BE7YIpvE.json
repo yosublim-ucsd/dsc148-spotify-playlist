@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Virtual Realm",
+        "url": "https://open.spotify.com/album/7iD7qgWarP2cE6milUdLxk"
+      },
+      "artists": [
+        {
+          "name": "Saffari",
+          "url": "https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "Virtual Realm",
+      "url": "https://open.spotify.com/track/02g6jSLXQTRxzObVfJCD5R"
+    },
+    {
+      "album": {
         "name": "Vision",
         "url": "https://open.spotify.com/album/68V0lav8D7wxmj0dSermlU"
       },
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 235874,
       "name": "Wired",
       "url": "https://open.spotify.com/track/1usiyjleODBeDKa53mgF8F"

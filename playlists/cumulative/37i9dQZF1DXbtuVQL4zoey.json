@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 184702,
       "name": "Alicante",
       "url": "https://open.spotify.com/track/0YRYWdsmAm97kcgRvXuJDB"
@@ -2218,6 +2218,28 @@
       "duration_ms": 156000,
       "name": "Cloud Bossa",
       "url": "https://open.spotify.com/track/06d4rPAlFzb2Outp9ZAmyu"
+    },
+    {
+      "album": {
+        "name": "Cloudsurf",
+        "url": "https://open.spotify.com/album/5Ud3hQ7v1kuOhH16jscwOX"
+      },
+      "artists": [
+        {
+          "name": "Homson",
+          "url": "https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2"
+        },
+        {
+          "name": "John Lee",
+          "url": "https://open.spotify.com/artist/5yY5Dd7ek0OzZgy6a7j52E"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153253,
+      "name": "Cloudsurf",
+      "url": "https://open.spotify.com/track/3yCRMhSv2kkyiQrPgKaiJ7"
     },
     {
       "album": {
@@ -5068,7 +5090,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 128695,
       "name": "kaktus",
       "url": "https://open.spotify.com/track/2o4rAZiXnrgoxdKAPiJbpm"
@@ -5396,7 +5418,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 95567,
       "name": "Livingroom Diaries",
       "url": "https://open.spotify.com/track/5mldxUZ2V2dcqs5A1wecQC"
@@ -6191,6 +6213,28 @@
     },
     {
       "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/36xWvXUdongzxhblaAyjZl"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        },
+        {
+          "name": "Niklas Nadidai",
+          "url": "https://open.spotify.com/artist/7xG4xBlSjxQnDcToJoVs0Q"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141219,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/0hcX7etCRdZALhZEV33Vip"
+    },
+    {
+      "album": {
         "name": "Morning Bop",
         "url": "https://open.spotify.com/album/2EuhBsy4LXpc2gPZ8BJ2HJ"
       },
@@ -6948,6 +6992,32 @@
       "duration_ms": 110571,
       "name": "Papillon",
       "url": "https://open.spotify.com/track/6S1uhrWCT8WFV6z8f5P8Va"
+    },
+    {
+      "album": {
+        "name": "Paradise Villa",
+        "url": "https://open.spotify.com/album/3OnLf8HHO1RbtwpYsw09jJ"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        },
+        {
+          "name": "DEOVI",
+          "url": "https://open.spotify.com/artist/1lzJWPoLRR3k9dUX2dWuTM"
+        },
+        {
+          "name": "Lazlow",
+          "url": "https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127173,
+      "name": "Paradise Villa",
+      "url": "https://open.spotify.com/track/0XvjpUfmsRyOhXzAFgSGnk"
     },
     {
       "album": {
@@ -8238,7 +8308,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 193000,
       "name": "Shaken Stir",
       "url": "https://open.spotify.com/track/20bxpthQ6s3G9OMJTVJZVA"
@@ -8256,7 +8326,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 124186,
       "name": "Siesta",
       "url": "https://open.spotify.com/track/7hoffiDjviMT3MKHzRjJ8r"
@@ -10301,6 +10371,28 @@
     },
     {
       "album": {
+        "name": "Ukiyo",
+        "url": "https://open.spotify.com/album/37Ygifb8OcmNVcmqlbtNQv"
+      },
+      "artists": [
+        {
+          "name": "Majid Unpeek",
+          "url": "https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152404,
+      "name": "Ukiyo",
+      "url": "https://open.spotify.com/track/6bgYsHwlOEKTjUjicBVyWH"
+    },
+    {
+      "album": {
         "name": "Uncharted Waters",
         "url": "https://open.spotify.com/album/75EavO1JI3ppj3HkdDUlzQ"
       },
@@ -10518,6 +10610,24 @@
       "duration_ms": 118685,
       "name": "valeu",
       "url": "https://open.spotify.com/track/1F2uybth25RtZSiswOl7S2"
+    },
+    {
+      "album": {
+        "name": "Velvet Morning",
+        "url": "https://open.spotify.com/album/62un6QqyX7F8QM5SuVIqTq"
+      },
+      "artists": [
+        {
+          "name": "Langston",
+          "url": "https://open.spotify.com/artist/4PT0WPDrchM47JRRojzjhA"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124235,
+      "name": "Velvet Morning",
+      "url": "https://open.spotify.com/track/0lTc2usMMsijfucFVzS9gP"
     },
     {
       "album": {

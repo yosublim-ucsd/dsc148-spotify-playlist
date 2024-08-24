@@ -3455,6 +3455,24 @@
     },
     {
       "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/0Qw7YmBKDoghXSWtZ9Zj67"
+      },
+      "artists": [
+        {
+          "name": "Blake Hollow",
+          "url": "https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179372,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/2Gy4DgPptxn1ERnqefNTSM"
+    },
+    {
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/76wQZPok3Inlxf5aSPp9gF"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Top trending country tracks from the last few months. Cover: Koe Wetzel",
+  "description": "Top trending country tracks from the last few months. Cover: Thomas Rhett",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "After All The Bars Are Closed",
+        "url": "https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191839,
+      "name": "After All The Bars Are Closed",
+      "url": "https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr"
+    },
+    {
+      "album": {
         "name": "After We Broke Up",
         "url": "https://open.spotify.com/album/21s4j5umh7ZV1wbldlMO3n"
       },
@@ -258,7 +276,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 169453,
       "name": "After We Broke Up",
       "url": "https://open.spotify.com/track/6Mb4ChyGxYAfVtXz9ia0DN"
@@ -658,7 +676,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 163894,
       "name": "Beautiful As You",
       "url": "https://open.spotify.com/track/2ObBVRY8a2lnAkNG62u9eC"
@@ -1302,6 +1320,24 @@
       "duration_ms": 183906,
       "name": "Country Boy's Dream Girl",
       "url": "https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV"
+    },
+    {
+      "album": {
+        "name": "Cowboy Songs",
+        "url": "https://open.spotify.com/album/6oYFjTGEuRoK7oeJisREF5"
+      },
+      "artists": [
+        {
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187186,
+      "name": "Cowboy Songs",
+      "url": "https://open.spotify.com/track/7LV9OX6WfOTndB4BqoXDEE"
     },
     {
       "album": {
@@ -3686,6 +3722,24 @@
       "duration_ms": 182411,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/6CEpat1VI4pDz57r9CxVm5"
+    },
+    {
+      "album": {
+        "name": "Intoxicated",
+        "url": "https://open.spotify.com/album/05T7YUft6JbwZzwZRfMwYy"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165712,
+      "name": "Intoxicated",
+      "url": "https://open.spotify.com/track/0KzMtN3OM0HKHeilGVB6N6"
     },
     {
       "album": {
@@ -7440,7 +7494,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 153906,
       "name": "What He'll Never Have",
       "url": "https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS"

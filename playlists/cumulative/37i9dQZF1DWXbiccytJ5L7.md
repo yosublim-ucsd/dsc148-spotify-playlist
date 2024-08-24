@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-134 songs - 7 hr 18 min
+135 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Dutton Ranch Freestyle](https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk) | 2:23 | 2023-03-17 |  |
 | [Escape](https://open.spotify.com/track/3dqB7rcjQOck6MbWfV4Nhd) | [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT) | [Since Birth](https://open.spotify.com/album/00TQLFYMVs0VjBsHLiASzh) | 2:30 | 2023-03-17 | 2023-05-27 |
 | [Fall in the Fall](https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie 2](https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad) | 4:09 | 2023-03-17 |  |
+| [Firewood](https://open.spotify.com/track/4jkp3lwbbXDbqiaRib0Irt) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Firewood](https://open.spotify.com/album/4Uqf1mfIBwljmWI03YjsUC) | 3:09 | 2024-08-23 |  |
 | [For My Kinfoke](https://open.spotify.com/track/0FrSK4s7R9gNCSM9JFNOZk) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [For My Kinfoke](https://open.spotify.com/album/3eTIfdShz9mfOG4Q1Uw5R4) | 3:31 | 2023-06-30 |  |
 | [Forgive Me](https://open.spotify.com/track/2mBnRpo3EECA5UB24qU2AS) | [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Broken](https://open.spotify.com/album/3rFkyJX6pMbRmz9jaskhdz) | 3:31 | 2023-03-17 | 2023-08-21 |
 | [Good Times Roll](https://open.spotify.com/track/2A0JdQvwSbOtI9sSIIxgQR) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 2:38 | 2023-06-30 | 2023-07-29 |
@@ -76,7 +77,7 @@
 | [Hunger in My Stomach](https://open.spotify.com/track/4JcoMt9O0jUumJG2PoJGss) | [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV) | [The Foundation](https://open.spotify.com/album/6CnajEdJG9GdOe7UgSit7T) | 4:43 | 2023-03-17 | 2024-04-19 |
 | [Hunger in My Stomach](https://open.spotify.com/track/4hexDDErC1cS0SF4Eqrz8k) | [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV) | [The Foundation](https://open.spotify.com/album/7C1JUuLHcxYTV87kB92xEC) | 4:43 | 2024-04-19 |  |
 | [Hunnids In A Honky Tonk \(feat\. Paul Wall\)](https://open.spotify.com/track/0mGVfytxzgPXgGJf7RknpU) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [Hunnids In A Honky Tonk \(feat\. Paul Wall\)](https://open.spotify.com/album/3BW2kxCEMimQumskwX0Q9b) | 3:17 | 2024-04-19 |  |
-| [I Ain't Bullshit'n](https://open.spotify.com/track/1w6DVjzGZkneW30aXGTe5M) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [The Lone Ranger](https://open.spotify.com/album/7DnuF02akJmIUTf8QOnDUa) | 3:03 | 2023-12-22 |  |
+| [I Ain't Bullshit'n](https://open.spotify.com/track/1w6DVjzGZkneW30aXGTe5M) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [The Lone Ranger](https://open.spotify.com/album/7DnuF02akJmIUTf8QOnDUa) | 3:03 | 2023-12-22 | 2024-08-24 |
 | [I Break Down](https://open.spotify.com/track/3HrgCysmgDJpAGRrigxEq6) | [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Broken](https://open.spotify.com/album/0vFFeehyxP9DIMR4gGpXap) | 3:00 | 2023-03-17 | 2024-04-19 |
 | [I Break Down](https://open.spotify.com/track/5mcePHeMAUwHNOsh5bDNJU) | [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Broken](https://open.spotify.com/album/3rFkyJX6pMbRmz9jaskhdz) | 3:00 | 2024-04-19 |  |
 | [I Mow, I Till](https://open.spotify.com/track/7xOSlsorO1COjKfIdVk5t7) | [Redneck Souljers](https://open.spotify.com/artist/5FY8IkeSIChD7WcmPPH5NW) | [Tiller Gang](https://open.spotify.com/album/0NJcvtv173uUae6NFosCIl) | 4:20 | 2023-03-17 |  |

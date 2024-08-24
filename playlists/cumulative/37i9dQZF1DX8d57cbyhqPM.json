@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Koffi Olomide",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tontons Oxlade et Fally Ipupa",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -550,7 +550,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 226973,
       "name": "Bad",
       "url": "https://open.spotify.com/track/3bmHBHh990jX1pTANKDPoe"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 151000,
       "name": "Cadeau (feat. Tiakola)",
       "url": "https://open.spotify.com/track/4serT1J6lu8eTsMMG9VhF8"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 246101,
       "name": "Dendisa",
       "url": "https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw"
@@ -2435,6 +2435,28 @@
     },
     {
       "album": {
+        "name": "Elengi",
+        "url": "https://open.spotify.com/album/4GQjeDdEQYKDHp90d8A2gD"
+      },
+      "artists": [
+        {
+          "name": "Future Destin",
+          "url": "https://open.spotify.com/artist/54v6fGbKfPoC31jwPPTA6v"
+        },
+        {
+          "name": "Christian Bella",
+          "url": "https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Elengi",
+      "url": "https://open.spotify.com/track/5f9X0jeqQX8agwzPywXhDZ"
+    },
+    {
+      "album": {
         "name": "Elengi (feat. Koffi Olomide)",
         "url": "https://open.spotify.com/album/1u1FkfGwN92at9xyF791nf"
       },
@@ -2566,7 +2588,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 184444,
       "name": "Fais \u00e7a bien",
       "url": "https://open.spotify.com/track/7lTpq4P6yA8YbldQ7CgcDx"
@@ -2816,7 +2838,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 261428,
       "name": "Fondili",
       "url": "https://open.spotify.com/track/7FTTX6qzR4TSPeyOxo2N2b"
@@ -2990,7 +3012,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 133584,
       "name": "Garde Ta Position",
       "url": "https://open.spotify.com/track/5WtWjJKaFlAJDCu1IzFAjM"
@@ -3070,7 +3092,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 101182,
       "name": "Ghetto Youth",
       "url": "https://open.spotify.com/track/68Sv4hfeTd5adTfPIuA0lg"
@@ -3292,6 +3314,28 @@
       "duration_ms": 237866,
       "name": "I love you",
       "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
+    },
+    {
+      "album": {
+        "name": "IFA",
+        "url": "https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218055,
+      "name": "IFA",
+      "url": "https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ"
     },
     {
       "album": {
@@ -3546,6 +3590,24 @@
       "duration_ms": 186428,
       "name": "Julio Cesar - Amapiano",
       "url": "https://open.spotify.com/track/3RDFbEo7EZado9KJVtLFc5"
+    },
+    {
+      "album": {
+        "name": "Capitaine fait de l'art",
+        "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "J\u2019crois qu\u2019ils ont pas compris",
+      "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
     },
     {
       "album": {
@@ -4388,7 +4450,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 121333,
       "name": "Longue Vie",
       "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
@@ -4888,7 +4950,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 219867,
       "name": "Mbangu te",
       "url": "https://open.spotify.com/track/6nB2jTxdEasmji0SqlU77Q"
@@ -5095,6 +5157,28 @@
     },
     {
       "album": {
+        "name": "Momie",
+        "url": "https://open.spotify.com/album/4wVtvpZ1p7XVFLHYJwm8wi"
+      },
+      "artists": [
+        {
+          "name": "CDG",
+          "url": "https://open.spotify.com/artist/44ePsJ2ugBV7yHk8c4w4WL"
+        },
+        {
+          "name": "Dk2fois",
+          "url": "https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165306,
+      "name": "Momie",
+      "url": "https://open.spotify.com/track/4WB6gXdcGCoHog2SzZFlcs"
+    },
+    {
+      "album": {
         "name": "Mon bonheur",
         "url": "https://open.spotify.com/album/10mo1JVParjtGIAL9pM5p1"
       },
@@ -5251,6 +5335,24 @@
     },
     {
       "album": {
+        "name": "Motorsport",
+        "url": "https://open.spotify.com/album/1gqvXyj4Pw5IfyRkYT51uA"
+      },
+      "artists": [
+        {
+          "name": "Cash Crime",
+          "url": "https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139222,
+      "name": "Motorsport",
+      "url": "https://open.spotify.com/track/0dDis2bdAYXAogzrULQx6u"
+    },
+    {
+      "album": {
         "name": "KINSHASA BOY",
         "url": "https://open.spotify.com/album/0red0DSnEtH6YcoYNsLDEg"
       },
@@ -5389,6 +5491,24 @@
     },
     {
       "album": {
+        "name": "Mwasi Kitoko",
+        "url": "https://open.spotify.com/album/3SRG4VoNV8gwAalyWgJJ0D"
+      },
+      "artists": [
+        {
+          "name": "Nicky B Fly",
+          "url": "https://open.spotify.com/artist/73UrAsxfBxDVNpRzbjgxl6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169153,
+      "name": "Mwasi Kitoko",
+      "url": "https://open.spotify.com/track/6q9pwWCx3IubrcewoHVB3K"
+    },
+    {
+      "album": {
         "name": "Mwinda",
         "url": "https://open.spotify.com/album/1oBCQkbNReIySY06NBdHgs"
       },
@@ -5454,7 +5574,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 189126,
       "name": "Na d\u00e9marrer",
       "url": "https://open.spotify.com/track/2wNDQHCnQARthNpnEtRmzr"
@@ -5720,7 +5840,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 185191,
       "name": "Ne doute pas",
       "url": "https://open.spotify.com/track/3jjR16AsYxadkidrptGLYc"
@@ -6315,6 +6435,24 @@
     },
     {
       "album": {
+        "name": "Pas besoin",
+        "url": "https://open.spotify.com/album/3RrONxLSoEtBV1fV1SWiKT"
+      },
+      "artists": [
+        {
+          "name": "LZ",
+          "url": "https://open.spotify.com/artist/5HPJiHxebHdqOuei6LpFgh"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104448,
+      "name": "Pas besoin",
+      "url": "https://open.spotify.com/track/4LyRgm94FGnT577MSvj1By"
+    },
+    {
+      "album": {
         "name": "Pas comme eux (Remix)",
         "url": "https://open.spotify.com/album/1nogGp45JYTkF7GW9BfeB3"
       },
@@ -6492,7 +6630,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 217142,
       "name": "Petit g\u00e9nie",
       "url": "https://open.spotify.com/track/6z0GwK274ToNmvxfyYPuHw"
@@ -7315,6 +7453,24 @@
     },
     {
       "album": {
+        "name": "Sugar daddy",
+        "url": "https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r"
+      },
+      "artists": [
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166774,
+      "name": "Sugar daddy",
+      "url": "https://open.spotify.com/track/1zJNohDPObG94E3SPaKz7U"
+    },
+    {
+      "album": {
         "name": "Malcom",
         "url": "https://open.spotify.com/album/0WuVSt5wBpyAmidXb7AN1e"
       },
@@ -7472,7 +7628,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 153649,
       "name": "Temps en temps",
       "url": "https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G"

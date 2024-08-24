@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste nye knive i dansk musik\ud83d\udd2a LILLI p\u00e5 coveret \ud83e\udd8b",
+  "description": "de skarpeste nye knive i dansk musik\ud83d\udd2a FRAAD p\u00e5 coveret, Uhhh Yeah!",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 170727,
       "name": "Bedre",
       "url": "https://open.spotify.com/track/5Ql2mALNZqpOGjIniaI5sY"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 168750,
       "name": "Kemisk",
       "url": "https://open.spotify.com/track/2BKwxqYyt1R8FwNS87BpCt"
@@ -1099,6 +1099,28 @@
     },
     {
       "album": {
+        "name": "Organs",
+        "url": "https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc"
+      },
+      "artists": [
+        {
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
+        },
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287403,
+      "name": "Organs",
+      "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
+    },
+    {
+      "album": {
         "name": "ENGLE & BLAA MAERKER",
         "url": "https://open.spotify.com/album/5uhCZB1SB8Lo0wsNylID2x"
       },
@@ -1146,7 +1168,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 199578,
       "name": "Puff",
       "url": "https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa"
@@ -1200,7 +1222,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 168986,
       "name": "Siger Det Ik'",
       "url": "https://open.spotify.com/track/0A4EXxKqR3WSfft3rwFeHU"
@@ -1410,6 +1432,24 @@
       "duration_ms": 154000,
       "name": "Uheldig",
       "url": "https://open.spotify.com/track/7xmVPbxXvp4jyznoElf5RR"
+    },
+    {
+      "album": {
+        "name": "Uhh Yeah",
+        "url": "https://open.spotify.com/album/3rvRRmYzTULJ694xxugyI3"
+      },
+      "artists": [
+        {
+          "name": "FRAADS",
+          "url": "https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173032,
+      "name": "Uhh Yeah",
+      "url": "https://open.spotify.com/track/2WG8EuarYi6f5V8XXTCX7K"
     },
     {
       "album": {

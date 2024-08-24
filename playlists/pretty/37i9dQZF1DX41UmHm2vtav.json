@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 469883,
+  "num_followers": 469938,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -1139,30 +1139,6 @@
     {
       "added_at": "2024-08-09 13:47:44",
       "album": {
-        "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
-        "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        },
-        {
-          "name": "Pic Schmitz",
-          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
-        },
-        {
-          "name": "Breno Rocha",
-          "url": "https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut"
-        }
-      ],
-      "duration_ms": 158824,
-      "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
-      "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
-    },
-    {
-      "added_at": "2024-08-09 13:47:44",
-      "album": {
         "name": "La Belle De Jour (Remix)",
         "url": "https://open.spotify.com/album/13FFkY8H5bRfN05qfhQCLt"
       },
@@ -1183,6 +1159,30 @@
       "duration_ms": 155393,
       "name": "La Belle De Jour (Remix)",
       "url": "https://open.spotify.com/track/3zVmzU4TDiV6IyUALMZqyv"
+    },
+    {
+      "added_at": "2024-08-09 13:47:44",
+      "album": {
+        "name": "Dentro de um Abra\u00e7o (Pic Schmitz e Breno Rocha Remix)",
+        "url": "https://open.spotify.com/album/6g9xyadZnZXOlRDLUaq73M"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Pic Schmitz",
+          "url": "https://open.spotify.com/artist/1sE1LdTZxsVYyGl84vl9zl"
+        },
+        {
+          "name": "Breno Rocha",
+          "url": "https://open.spotify.com/artist/0K2OlH7mYZqjcJXDuR35ut"
+        }
+      ],
+      "duration_ms": 158824,
+      "name": "Dentro de um Abra\u00e7o - Pic Schmitz e Breno Rocha Remix",
+      "url": "https://open.spotify.com/track/48NmUbjBeqaHbYJwl8xFm4"
     },
     {
       "added_at": "2024-08-09 13:47:44",
@@ -1443,22 +1443,42 @@
     {
       "added_at": "2024-08-09 13:47:44",
       "album": {
-        "name": "Alok Presents Brazilian Bass: Pt. 1",
-        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
+        "name": "Pra Sempre (feat. SUNBREED)",
+        "url": "https://open.spotify.com/album/1ksJkWi7dbdQTjy17A1ucQ"
       },
       "artists": [
         {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         },
         {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+          "name": "SUNBREED",
+          "url": "https://open.spotify.com/artist/4vcup5bPvFDVppXVl1rpp6"
         }
       ],
-      "duration_ms": 173114,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
+      "duration_ms": 142490,
+      "name": "Pra Sempre (feat. SUNBREED)",
+      "url": "https://open.spotify.com/track/3h2PNYGfoi3eYmWwDKHeeZ"
+    },
+    {
+      "added_at": "2024-08-09 13:47:44",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
     },
     {
       "added_at": "2024-08-09 13:47:44",
@@ -1487,50 +1507,22 @@
     {
       "added_at": "2024-08-09 13:47:44",
       "album": {
-        "name": "A Dois Passos do Para\u00edso (Remix)",
-        "url": "https://open.spotify.com/album/1at0bvTPBCtDv2a9nPnlRB"
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
       },
       "artists": [
         {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
         },
         {
-          "name": "Guz Zanotto",
-          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
-        },
-        {
-          "name": "Overdriver Duo",
-          "url": "https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18"
-        },
-        {
-          "name": "Evandro Carlos Tiburski",
-          "url": "https://open.spotify.com/artist/3WnTOvr9Hr4aPgVXr7vun7"
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
         }
       ],
-      "duration_ms": 209014,
-      "name": "A Dois Passos do Para\u00edso - Remix",
-      "url": "https://open.spotify.com/track/1pXXIiYHe8sqZlE1yKQG6b"
-    },
-    {
-      "added_at": "2024-08-09 13:47:44",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
+      "duration_ms": 173114,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     }
   ],
   "unique_name": "Festa na Praia",

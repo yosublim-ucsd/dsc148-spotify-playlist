@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49 #\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
+  "description": "\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e04\u0e27\u0e32\u0e21\u0e25\u0e31\u0e1a\u0e02\u0e2d\u0e07 PiXXiE \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49! \u0e1f\u0e31\u0e07\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e02\u0e2d\u0e07\u0e20\u0e39\u0e15\u0e34\u0e08\u0e34\u0e4b\u0e27 \u0e41\u0e25\u0e30\u0e2b\u0e32\u0e27\u0e48\u0e32\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e2b\u0e19\u0e02\u0e2d\u0e07 PiXXiE \u0e17\u0e35\u0e48\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e25\u0e31\u0e1a\u0e0b\u0e48\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48!! \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e40\u0e25\u0e34\u0e1f\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48",
   "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 224483,
       "name": "ABC",
       "url": "https://open.spotify.com/track/7d5HnOYWyxs3L8xf75vyjg"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 242250,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/58Jm9WlrD6smHP4SLS0Wdp"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 210598,
       "name": "\u0e08\u0e23\u0e34\u0e07\u0e46\u0e19\u0e30",
       "url": "https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER"
@@ -934,6 +934,24 @@
       "duration_ms": 185000,
       "name": "\u0e0a\u0e2d\u0e1a\u0e2d\u0e22\u0e39\u0e48 \u0e23\u0e39\u0e49\u0e22\u0e31\u0e07 (FYI)",
       "url": "https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN"
+    },
+    {
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219878,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e44\u0e1b\u0e2b\u0e21\u0e14 (Way Too Cute)",
+      "url": "https://open.spotify.com/track/73rLFde6eQ2Xzg4cF5ilHs"
     },
     {
       "album": {
@@ -1256,7 +1274,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 252897,
       "name": "\u0e15\u0e49\u0e32\u0e19\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 (magnetize)",
       "url": "https://open.spotify.com/track/5HTpwZZ7Xg5YRSbwrkvnZG"
@@ -1509,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "\u0e1b\u0e23\u0e34\u0e28\u0e19\u0e32\u0e15\u0e32\u0e21\u0e2b\u0e32\u0e20\u0e39\u0e15\u0e34\u0e41\u0e2b\u0e48\u0e07\u0e2a\u0e32\u0e22\u0e19\u0e49\u0e33",
+        "url": "https://open.spotify.com/album/1RwvaZnnZLOui5pU8GJziC"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19097,
+      "name": "\u0e1b\u0e23\u0e34\u0e28\u0e19\u0e32\u0e15\u0e32\u0e21\u0e2b\u0e32\u0e20\u0e39\u0e15\u0e34\u0e41\u0e2b\u0e48\u0e07\u0e2a\u0e32\u0e22\u0e19\u0e49\u0e33",
+      "url": "https://open.spotify.com/track/0Gw8mjZv0rmkBnuYQO8cDQ"
+    },
+    {
+      "album": {
         "name": "\u0e1b\u0e35\u0e19\u0e35\u0e49\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e2b\u0e07\u0e32\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e41\u0e25\u0e49\u0e27\u0e42\u0e27\u0e49\u0e22",
         "url": "https://open.spotify.com/album/7LqpicnCabVFkpaVDKxRNW"
       },
@@ -1592,7 +1628,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "\u0e1c\u0e48\u0e32\u0e19\u0e15\u0e32 (Everyday)",
       "url": "https://open.spotify.com/track/7HA6Jhuis4khuPJffFGM7Y"
@@ -1722,7 +1758,7 @@
       ],
       "date_added": "2024-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 219500,
       "name": "\u0e20\u0e39\u0e40\u0e02\u0e32\u0e1a\u0e31\u0e07\u0e40\u0e2a\u0e49\u0e19\u0e1c\u0e21 (Hide you) feat. TWOPEE",
       "url": "https://open.spotify.com/track/5kHLmBd3GTMIFhWdD3berA"
@@ -1820,7 +1856,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 216160,
       "name": "\u0e23\u0e2d",
       "url": "https://open.spotify.com/track/72hhTWu9CZwZan3iC3U3DS"
@@ -1856,7 +1892,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 183300,
       "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08",
       "url": "https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor"
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 217899,
       "name": "\u0e23\u0e31\u0e01\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
       "url": "https://open.spotify.com/track/1jDtb5VfsCC0Uoipn641qB"
@@ -2265,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19",
+      "url": "https://open.spotify.com/track/3GMvQQ1R91hkdoGPYBQTlu"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 (Too Cute)",
         "url": "https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o"
       },
@@ -2276,7 +2330,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 186000,
       "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 - Too Cute",
       "url": "https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c"
@@ -2576,7 +2630,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 255957,
       "name": "\u0e40\u0e1e\u0e25\u0e07\u0e23\u0e31\u0e01 (Hook) (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \u0e41\u0e1f\u0e19\u0e1c\u0e21\u0e40\u0e1b\u0e47\u0e19\u0e1b\u0e23\u0e30\u0e18\u0e32\u0e19\u0e19\u0e31\u0e01\u0e40\u0e23\u0e35\u0e22\u0e19 My School President)",
       "url": "https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI"
@@ -2710,7 +2764,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-16",
+      "date_removed": null,
       "duration_ms": 292640,
       "name": "\u0e40\u0e23\u0e34\u0e48\u0e21\u0e43\u0e2b\u0e21\u0e48",
       "url": "https://open.spotify.com/track/0jKVrsyHlyEhH1JyKE45iT"
@@ -2800,7 +2854,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 216734,
       "name": "\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e44\u0e21\u0e42\u0e2d\u0e19\u0e49\u0e2d\u0e07 - Hermionong",
       "url": "https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7"
@@ -3210,7 +3264,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 198979,
       "name": "\u0e43\u0e08\u0e2b\u0e32\u0e22\u0e2d\u0e48\u0e30 \u0e2a\u0e07\u0e2a\u0e31\u0e22\u0e2d\u0e22\u0e39\u0e48\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d - AirTag",
       "url": "https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR"
@@ -3254,6 +3308,24 @@
       "duration_ms": 265654,
       "name": "\u0e44\u0e21\u0e48\u0e1b\u0e25\u0e48\u0e2d\u0e22\u0e21\u0e37\u0e2d (Coming of Age) - From \u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2",
       "url": "https://open.spotify.com/track/3aqxAWiWENQZ1pSY3o0Q86"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e08\u0e01\u0e25\u0e32\u0e07\u0e04\u0e27\u0e32\u0e21\u0e23\u0e39\u0e49\u0e2a\u0e36\u0e01\u0e14\u0e35\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D"
+      },
+      "artists": [
+        {
+          "name": "Ae Jirakorn",
+          "url": "https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293973,
+      "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e15\u0e23\u0e07\u0e01\u0e25\u0e32\u0e07",
+      "url": "https://open.spotify.com/track/6otJyteHTgYanrd812Z3eM"
     },
     {
       "album": {

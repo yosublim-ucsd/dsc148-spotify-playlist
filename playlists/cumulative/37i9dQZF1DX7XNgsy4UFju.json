@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The best indie tracks of the moment. Cover: Lola Young",
+  "description": "The best indie tracks of the moment. Cover: Peach Pit",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 169266,
       "name": "90 to 99",
       "url": "https://open.spotify.com/track/6J2qRzwQ0TFXKtCoBlC2MR"
@@ -3700,7 +3700,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 223459,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/4CfjowwUEGviS86FoABRCJ"
@@ -4638,7 +4638,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 175720,
       "name": "can't slow down",
       "url": "https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ"
@@ -5823,6 +5823,24 @@
     },
     {
       "album": {
+        "name": "coloured concrete",
+        "url": "https://open.spotify.com/album/2bhF8TcYORRGmbgJhbcpPT"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190133,
+      "name": "coloured concrete",
+      "url": "https://open.spotify.com/track/0jV3B8KhjiUrC6jmaBlNnx"
+    },
+    {
+      "album": {
         "name": "comatose",
         "url": "https://open.spotify.com/album/6ogAdVYy0rIrNP1tTBF9vi"
       },
@@ -5834,7 +5852,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 200738,
       "name": "comatose",
       "url": "https://open.spotify.com/track/6ztreKmSmNhlCC7n3iNHe4"
@@ -6474,7 +6492,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 101718,
       "name": "Crying At The End",
       "url": "https://open.spotify.com/track/0Bv8P8yN64KbbcZqj5uFTg"
@@ -6995,6 +7013,24 @@
     },
     {
       "album": {
+        "name": "here we go again...",
+        "url": "https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198054,
+      "name": "dead end.",
+      "url": "https://open.spotify.com/track/57EHa4bjlEm8Cr63Ue4BGZ"
+    },
+    {
+      "album": {
         "name": "Dear Boy",
         "url": "https://open.spotify.com/album/44Bmf0xSlLy5REkiXLVQ6N"
       },
@@ -7366,7 +7402,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 212509,
       "name": "Didn't Stand a Chance",
       "url": "https://open.spotify.com/track/3RmykO7gbuWxJNpMMHAMmA"
@@ -8045,6 +8081,24 @@
     },
     {
       "album": {
+        "name": "DON'T WANNA HEAR THAT SONG ANYMORE",
+        "url": "https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ"
+      },
+      "artists": [
+        {
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "DON'T WANNA HEAR THAT SONG ANYMORE",
+      "url": "https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC"
+    },
+    {
+      "album": {
         "name": "LIMBO",
         "url": "https://open.spotify.com/album/7zRAnRLCMzizB4xRSpIDf2"
       },
@@ -8660,7 +8714,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 158617,
       "name": "End of Beginning - triple j Like A Version",
       "url": "https://open.spotify.com/track/4zw1CzJ4ePqLazD6xZ32Vz"
@@ -9974,7 +10028,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 140800,
       "name": "fine print",
       "url": "https://open.spotify.com/track/5DaioYi0j9yvJu56KE7FYl"
@@ -15000,7 +15054,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 162405,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/1xEQzQ64fSDNYKiHhLn1IE"
@@ -15098,6 +15152,24 @@
       "duration_ms": 281306,
       "name": "In The Flowers",
       "url": "https://open.spotify.com/track/3MYwtTSyvNuHDc1VwUIubg"
+    },
+    {
+      "album": {
+        "name": "In The Modern World",
+        "url": "https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266884,
+      "name": "In The Modern World",
+      "url": "https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h"
     },
     {
       "album": {
@@ -17501,6 +17573,24 @@
     },
     {
       "album": {
+        "name": "Lonely Fight",
+        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229169,
+      "name": "Lonely Fight",
+      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
+    },
+    {
+      "album": {
         "name": "LOO SONG",
         "url": "https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8"
       },
@@ -18230,6 +18320,24 @@
       "duration_ms": 221866,
       "name": "Magazine Man",
       "url": "https://open.spotify.com/track/1fdKtCzN4rl4G0LIM04RMP"
+    },
+    {
+      "album": {
+        "name": "Magpie",
+        "url": "https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241290,
+      "name": "Magpie",
+      "url": "https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF"
     },
     {
       "album": {
@@ -21815,6 +21923,28 @@
     },
     {
       "album": {
+        "name": "Organs",
+        "url": "https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc"
+      },
+      "artists": [
+        {
+          "name": "Molina",
+          "url": "https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF"
+        },
+        {
+          "name": "ML Buch",
+          "url": "https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287403,
+      "name": "Organs",
+      "url": "https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO"
+    },
+    {
+      "album": {
         "name": "Orlando",
         "url": "https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl"
       },
@@ -22104,6 +22234,24 @@
       "duration_ms": 246703,
       "name": "Parallel",
       "url": "https://open.spotify.com/track/71yizzHrqEmKVdffU6BZbo"
+    },
+    {
+      "album": {
+        "name": "PARANOID",
+        "url": "https://open.spotify.com/album/0R2a80cHrhulPnJM9m1jXc"
+      },
+      "artists": [
+        {
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189652,
+      "name": "PARANOID",
+      "url": "https://open.spotify.com/track/6SFKld0gd9xlOm3LRMVr6P"
     },
     {
       "album": {
@@ -26168,7 +26316,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 199969,
       "name": "Slam Dunk",
       "url": "https://open.spotify.com/track/5irfGJsfIcZ70KjCGUJ23n"
@@ -26872,6 +27020,24 @@
       "duration_ms": 191333,
       "name": "Somehow I Forgot",
       "url": "https://open.spotify.com/track/0YtblIQRK83VTI0ienTyOH"
+    },
+    {
+      "album": {
+        "name": "Someone Asked Me How I've Been",
+        "url": "https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Someone Asked Me How I've Been",
+      "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
     },
     {
       "album": {
@@ -29065,6 +29231,42 @@
     },
     {
       "album": {
+        "name": "When a Thought Grows Wings",
+        "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223929,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke"
+    },
+    {
+      "album": {
+        "name": "That's My Floor",
+        "url": "https://open.spotify.com/album/5dGhpX3W12hDDip1gniXfK"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "That's My Floor",
+      "url": "https://open.spotify.com/track/2mJI78wsFOQfLvrrlR0H3H"
+    },
+    {
+      "album": {
         "name": "That's The Gods Talking",
         "url": "https://open.spotify.com/album/5UQWromAJVsHvwWyqYURts"
       },
@@ -29076,7 +29278,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 187977,
       "name": "That's the Gods Talking",
       "url": "https://open.spotify.com/track/1eGWf4DL4TkSORg6HjqPEr"

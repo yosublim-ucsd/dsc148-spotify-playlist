@@ -4,7 +4,7 @@
 
 > 
 
-405 songs - 1 day 0 hr 8 min
+406 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Even If It Hurts](https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 4:11 | 2022-06-20 | 2023-04-04 |
 | [Even If It Hurts \(feat\. Blood Orange\)](https://open.spotify.com/track/0dK65MHzlEfrImScmaNNvl) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Even If It Hurts \(feat\. Blood Orange\)](https://open.spotify.com/album/2n1a8R8GbWeUixEU1DuKR1) | 4:10 | 2022-04-11 | 2022-04-20 |
 | [Even If It Hurts \(feat\. Blood Orange\)](https://open.spotify.com/track/3awUAAKKgqpvQUKSxvcqYM) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [La Linda](https://open.spotify.com/album/36BV0UIqHyq9RG7a2Q0x0K) | 4:10 | 2022-06-20 | 2023-11-11 |
-| [Everything Is Everything](https://open.spotify.com/track/7ijDV8QPQEIDPmjxZ3xtDV) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Everything Is Everything](https://open.spotify.com/album/2Q4XtuUFgl9chQvddYqVxv) | 3:20 | 2022-05-06 |  |
+| [Everything Is Everything](https://open.spotify.com/track/7ijDV8QPQEIDPmjxZ3xtDV) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Everything Is Everything](https://open.spotify.com/album/2Q4XtuUFgl9chQvddYqVxv) | 3:20 | 2022-05-06 | 2024-08-24 |
 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 | 2024-04-04 |  |
 | [Excuse Me](https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [One Time](https://open.spotify.com/album/6CXi6cgaUfZCb4gDcqDWiu) | 2:19 | 2024-03-01 |  |
 | [Eye Mo K](https://open.spotify.com/track/4LBrt8RUMpGhPXkLqvsh4U) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn) | 5:42 | 2021-12-07 | 2022-07-29 |
@@ -273,6 +273,7 @@
 | [Moving On](https://open.spotify.com/track/7xeAzyhW9sfqoIIm7685mL) | [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Moving On](https://open.spotify.com/album/3gmhzb6Ltr0znZeIYfgr4n) | 4:09 | 2021-12-07 | 2022-07-29 |
 | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS) | 3:43 | 2022-06-20 | 2023-11-11 |
 | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/track/2dhPGfqPl8LEXqRiU8tfPl) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/album/5Am0UN7kEecKT7yhFJk3xp) | 3:43 | 2021-12-07 | 2022-07-29 |
+| [Much](https://open.spotify.com/track/3wwK9BmSigIs5UMCVHI0HU) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW), [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [Monochrome](https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1) | 2:59 | 2024-07-26 |  |
 | [Much Better](https://open.spotify.com/track/7ak7IiRXeKHZNq3fKLpVEy) | [Himalia](https://open.spotify.com/artist/45ryIcdZBFNpZvmBGuRMwM), [Gaby Zacara](https://open.spotify.com/artist/1NIQ4MYg3dPpkFJwepVVpA) | [Much Better](https://open.spotify.com/album/4mDlvrKOYALRjiCJGD9koz) | 3:23 | 2022-04-11 | 2022-07-29 |
 | [Muzzle](https://open.spotify.com/track/23LsABoKEwgy5OWmqUXB3J) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH), [R.A.E](https://open.spotify.com/artist/1z3xC9ml81L5vugg78Eegq) | [Muzzle](https://open.spotify.com/album/5jLQXyHP8Iy2xEYmzFqqS5) | 3:29 | 2022-04-11 | 2022-04-19 |
 | [MY LOVER'S MIND](https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [MY LOVER'S MIND](https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is) | 3:23 | 2024-06-14 |  |

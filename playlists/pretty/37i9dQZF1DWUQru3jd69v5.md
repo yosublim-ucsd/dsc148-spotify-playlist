@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 ### [Raptopia](https://open.spotify.com/playlist/37i9dQZF1DWUQru3jd69v5)
 
-> La nuova generazione del rap italiano\. Néza in cover, aggiornata ogni venerdì
+> La nuova generazione del rap italiano\. Cover: Frezza
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,819 likes - 55 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,822 likes - 55 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cassetta di Sicurezza](https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [ECO](https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91) | 1:29 |
-| 2 | [Plastica](https://open.spotify.com/track/3AaeYnKeQ7qehcs0KZj44T) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Plastica](https://open.spotify.com/album/388cfcJn3XVc1Os60btSzr) | 2:46 |
-| 3 | [Lo Stesso](https://open.spotify.com/track/2A0EUXa2zHTa1Q8FiQyGHg) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Lo Stesso](https://open.spotify.com/album/44zfpYsiEhviYMwOPo3lXN) | 2:41 |
-| 4 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 |
+| 1 | [Vecchio stampo & West Coast](https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [Vecchio stampo & West Coast](https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa) | 3:03 |
+| 2 | [Cassetta di Sicurezza](https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [ECO](https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91) | 1:29 |
+| 3 | [Plastica](https://open.spotify.com/track/3AaeYnKeQ7qehcs0KZj44T) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Plastica](https://open.spotify.com/album/388cfcJn3XVc1Os60btSzr) | 2:46 |
+| 4 | [Lo Stesso](https://open.spotify.com/track/2A0EUXa2zHTa1Q8FiQyGHg) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Lo Stesso](https://open.spotify.com/album/44zfpYsiEhviYMwOPo3lXN) | 2:41 |
 | 5 | [Rivalsa \(feat\. 22simba\)](https://open.spotify.com/track/4kt7KzlSvKTup0Oz4VhrQu) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Fame di Rivalsa](https://open.spotify.com/album/79WcSTW52Em1smSlOUupqC) | 2:21 |
 | 6 | [Il Metodo Migliore \(Tutorial 2\)](https://open.spotify.com/track/44d6e7jKy2SZt5yy5k1Exh) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Il Metodo Migliore \(Tutorial 2\)](https://open.spotify.com/album/3AenhDEsYyqT8zKGvZ2ULF) | 1:52 |
 | 7 | [AVVOCATO \(feat\. Simba La Rue\)](https://open.spotify.com/track/37xYXWS5oXyu5YEpH4Gy1r) | [MadPrince](https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [AVVOCATO \(feat\. Simba La Rue\)](https://open.spotify.com/album/1gA7NrXfOvJY7nXtfqaWqp) | 2:19 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [Re di Cuori](https://open.spotify.com/track/2YCXfySVOpRrxurUCOFgpC) | [Taizal](https://open.spotify.com/artist/6AMEEJtkHSBmiemI3yEhNT), [Exynos](https://open.spotify.com/artist/5XRz1xKClFKxJNyjRgwi5s) | [Re di Cuori](https://open.spotify.com/album/5pHYVJ0Ewo2jJTLYUfY4Tn) | 2:32 |
 | 55 | [Trafficante](https://open.spotify.com/track/6XItzqTzt8AXRvFn37uzDS) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P), [Whellele](https://open.spotify.com/artist/0FLa2WN4PurUaFP24efaZF) | [Trafficante](https://open.spotify.com/album/7nBtCdKOWuFZctyMUosLGs) | 2:05 |
 
-Snapshot ID: `Zse1HAAAAACcVR0CQBzSph1dSJ/AhvQL`
+Snapshot ID: `ZshSrgAAAABP8/qPwHoo1G2XvXaQkwI5`

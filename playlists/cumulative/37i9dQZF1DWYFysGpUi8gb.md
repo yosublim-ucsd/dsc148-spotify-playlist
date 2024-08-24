@@ -2,9 +2,9 @@
 
 ### [melomania](https://open.spotify.com/playlist/37i9dQZF1DWYFysGpUi8gb)
 
-> welcome to the underground\. greetings from w\. h\. lung.
+> welcome to the underground\. greetings from geordie greep.
 
-119 songs - 7 hr 11 min
+120 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Grief In Phantasia](https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Grief In Phantasia](https://open.spotify.com/album/27sdYbobl75RNO0pv7Z3Wu) | 5:07 | 2024-06-14 |  |
 | [Headspace](https://open.spotify.com/track/6Ciqo08MA2NF2lgWiNi8u4) | [cruush](https://open.spotify.com/artist/09SorScmrKs8yZMG9hdr6N) | [Headspace](https://open.spotify.com/album/649jLqVMfUAXVgJ3zgqegv) | 4:39 | 2024-06-14 |  |
 | [Hello](https://open.spotify.com/track/3nh0eAFCTAx01aIuq8YTqR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Hello](https://open.spotify.com/album/169ybGzGpv1UjjWJ37ckhx) | 3:39 | 2024-06-14 | 2024-07-13 |
+| [Holy, Holy](https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Holy, Holy](https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V) | 6:03 | 2024-08-23 |  |
 | [Homie Don’t Shake](https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Homie Don’t Shake](https://open.spotify.com/album/137AbUv6B2FQth3LqCOS7w) | 2:56 | 2024-07-12 |  |
 | [HOT MESS](https://open.spotify.com/track/1dKlvNXx9uIOcb4GW8kGE8) | [Johnny Hunter](https://open.spotify.com/artist/4TvM3UVvqDRG51RaUeK5Qo) | [HOT MESS](https://open.spotify.com/album/6nT5hqcDpuYXssUPI5WXx9) | 2:26 | 2024-08-16 |  |
 | [Hottest Man Alive 1995](https://open.spotify.com/track/0LodhNOnEi9nnvYvWgq8M6) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Now Leaving West Feldwood](https://open.spotify.com/album/7m10seswHmxu6oSrXNvths) | 3:29 | 2024-06-14 |  |

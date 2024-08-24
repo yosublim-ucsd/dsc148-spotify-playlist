@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Lainey Wilson
 
-744 songs - 1 day 16 hr 48 min
+745 songs - 1 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Hold My Halo](https://open.spotify.com/track/4moFjUlJwvPBPi72q6TTxk) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/6yU8DaNYX5E9BPKYfh5wUY) | 3:26 | 2022-10-27 | 2022-11-25 |
 | [Hold On Hope \(with Eric Church\)](https://open.spotify.com/track/5wXfwmtAOe8Rv0WiSgFUW0) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hold On Hope \(with Eric Church\)](https://open.spotify.com/album/6B5cFxr38RU2w3FlAMRIhs) | 3:32 | 2024-01-25 | 2024-02-23 |
 | [Hold On To It](https://open.spotify.com/track/5qteRK6fo4KC2DbJOP5uW6) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Standing Room Only](https://open.spotify.com/album/7JXjtz0F7VWwAboPCoyg14) | 3:11 | 2023-08-24 | 2023-11-03 |
+| [Hold Their Drink](https://open.spotify.com/track/3nuEBJq9uLdNg9vXUtJued) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Hold Their Drink](https://open.spotify.com/album/1L8KvQgnSPazBaimskycqG) | 3:36 | 2024-08-15 |  |
 | [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 | 2024-02-22 | 2024-06-28 |
 | [Home To Me](https://open.spotify.com/track/1BWrFZ30QHoGVvz7JFsf70) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Nothing But Wild](https://open.spotify.com/album/46YbOwWy2Dm27YsZDOCgpW) | 2:54 | 2022-09-15 | 2023-01-20 |
 | [Homegrown Love](https://open.spotify.com/track/5f5YJPmTv7PiYgwN52btb5) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/4Ficof37YsNcrLKaWSIbdp) | 3:10 | 2022-08-26 | 2022-12-09 |

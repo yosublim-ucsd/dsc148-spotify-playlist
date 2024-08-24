@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Discover the next wave of talent writing their own songs. Cover: Emma Foley",
+  "description": "Discover the next wave of talent writing their own songs. Cover: Talia Rae",
   "name": "Next Gen Singer-Songwriters",
   "tracks": [
     {
@@ -8654,7 +8654,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 261794,
       "name": "Paper Rose",
       "url": "https://open.spotify.com/track/6pGh07Y3T2zQLAuFTvjAXm"
@@ -9472,7 +9472,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 217215,
       "name": "Rocket Woman",
       "url": "https://open.spotify.com/track/2PtZMicbDMbAYWpBzR8g3I"
@@ -9854,6 +9854,24 @@
       "duration_ms": 146728,
       "name": "Sex & TV",
       "url": "https://open.spotify.com/track/0EQcLq20sqq1hazLaImEkz"
+    },
+    {
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC"
+      },
+      "artists": [
+        {
+          "name": "Talia Rae",
+          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183420,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx"
     },
     {
       "album": {
@@ -11872,6 +11890,24 @@
       "duration_ms": 131144,
       "name": "Understood",
       "url": "https://open.spotify.com/track/1U1oiy0gG7yqhzJ8duuzMd"
+    },
+    {
+      "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/4EgBAIKvsEgr9JZXd28G6K"
+      },
+      "artists": [
+        {
+          "name": "Liv Miraldi",
+          "url": "https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236893,
+      "name": "Unfinished Business",
+      "url": "https://open.spotify.com/track/51Es7m0L8xBEthyJna04so"
     },
     {
       "album": {

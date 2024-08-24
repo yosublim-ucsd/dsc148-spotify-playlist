@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,143 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,141 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 41 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
 | 42 | [Neo Thang](https://open.spotify.com/track/3JaXOtxSsNWgJ9su8DUSC2) | [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [HER MIND \(BLOSSOM EDITION\)](https://open.spotify.com/album/3uAKzfR2PMG5eJTEXprAPF) | 2:31 |
 | 43 | [Cavalo de Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo de Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 |
-| 44 | [Caipirinha de Milão](https://open.spotify.com/track/3NNtJ1cxR3olu3YfF1zup3) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x), [Milla Zuti](https://open.spotify.com/artist/3p53okrxm97yd0dQuVacgB) | [Contém1drama](https://open.spotify.com/album/7mXmm1XHg7pOlCW7NUVWGY) | 3:05 |
-| 45 | [Mapa De Estrelas](https://open.spotify.com/track/6sayqC4sAyPHxqy0iJi636) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:11 |
+| 44 | [Mapa De Estrelas](https://open.spotify.com/track/6sayqC4sAyPHxqy0iJi636) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:11 |
+| 45 | [Caipirinha de Milão](https://open.spotify.com/track/3NNtJ1cxR3olu3YfF1zup3) | [Totô de Babalong](https://open.spotify.com/artist/0zsgeSGGHL9FLxTBcfNd2x), [Milla Zuti](https://open.spotify.com/artist/3p53okrxm97yd0dQuVacgB) | [Contém1drama](https://open.spotify.com/album/7mXmm1XHg7pOlCW7NUVWGY) | 3:05 |
 | 46 | [Não Me Atende](https://open.spotify.com/track/2D8Kx5gZC7xQDXhTBHXXxs) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Darlan](https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj) | [Não Me Atende](https://open.spotify.com/album/55eSfLlD9JaXeucxTGoTR9) | 2:31 |
 | 47 | [Calcinha](https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P), [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe) | [Calcinha](https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW) | 2:58 |
 | 48 | [Colo da Tropa](https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi) | [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe), [Dornelles](https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV) | [Colo da Tropa](https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE) | 2:41 |
 | 49 | [Sem Necessidade](https://open.spotify.com/track/3QzAkwsDY420mcBIeZh2mC) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7), [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Amor Fati](https://open.spotify.com/album/3Lmn9e3tpif5pa791FhcBy) | 3:31 |
-| 50 | [1+1 É Pouco](https://open.spotify.com/track/5aQ7X8vHzu7zWsFBjPvQEV) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [MAGNÉTICO](https://open.spotify.com/album/1aEf8qXaEIHLbAeaKE9bNG) | 2:37 |
-| 51 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 |
+| 50 | [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 |
+| 51 | [1+1 É Pouco](https://open.spotify.com/track/5aQ7X8vHzu7zWsFBjPvQEV) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [MAGNÉTICO](https://open.spotify.com/album/1aEf8qXaEIHLbAeaKE9bNG) | 2:37 |
 | 52 | [Menino Pele Cor de Jambo](https://open.spotify.com/track/4aJmFKqNoJssmygH1WmeQG) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 3:42 |
 | 53 | [Em Plena Lua De Mel](https://open.spotify.com/track/19F1I2zcOOUMAc8KK4ntIO) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Gaby Amarantos](https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L) | [FREVÁLIA](https://open.spotify.com/album/4S048cLKhn1TaH814OJPcz) | 3:44 |
 | 54 | [Vampira \- Remix](https://open.spotify.com/track/6xVXGHIp2UaCQIu68ZlyaJ) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Vampira \(Remix\)](https://open.spotify.com/album/5a1QHyVkFNM1paAMHIZZ3B) | 2:58 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 57 | [lave sua boca \(suja\) quando for falar de mim](https://open.spotify.com/track/7sjy4zFpKblSZ5xCHKlxlQ) | [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf) | [in.corpo.ração](https://open.spotify.com/album/4l2RvWh3gQVWLJPZa6W2Wf) | 2:56 |
 | 58 | [Fluorescente](https://open.spotify.com/track/07peghrFo7KCcAgRGqIs6v) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 4:05 |
 | 59 | [Me Bate](https://open.spotify.com/track/4nIbgRXB46ucTtEYnSSMKN) | [A Travestis](https://open.spotify.com/artist/00Jb0oU8RUPJgKTWKsNCxw), [lia mersi](https://open.spotify.com/artist/4SphBMSSyBqb1HR4o0TOze) | [Me Bate](https://open.spotify.com/album/0HdsFRrZcOP2YsviiLZkSx) | 1:51 |
-| 60 | [Pra Nós](https://open.spotify.com/track/6NKgPEz0Zcol4Zy6JDcJv5) | [MEL](https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L), [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Raquel](https://open.spotify.com/artist/1W2iZuMWizkCnbbCKNaKxR) | [Pra Nós](https://open.spotify.com/album/2WPgSyY87D7P9jQDeWnb5L) | 2:41 |
+| 60 | [O Menino que Mexe Comigo](https://open.spotify.com/track/5panpHdwYvwP6OS2tYlF98) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Jaqueira](https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M) | 1:37 |
 
 Snapshot ID: `ZpFTSAAAAAD1aOxepvyswWrwvGfP8kFZ`

@@ -1,12 +1,12 @@
 {
   "description": "This Is Codiciado. Los temas esenciales, todos en una lista.",
-  "num_followers": 30430,
+  "num_followers": 30464,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAACg+YzBqHFboN6ZYnlzaL16",
+  "snapshot_id": "ZsZ/gAAAAACrifG6ojYBe2w2O+XOPMtA",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1o De Oro",
-        "url": "https://open.spotify.com/album/0NBlTXwQlvRDZ9ZV78hOxh"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Relojito Adiamantado",
-      "url": "https://open.spotify.com/track/1AUb1vYXNAsD9phjOWocu0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Norte a Sur",
         "url": "https://open.spotify.com/album/0WbzAROHxqLtsjzrd6UtXm"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 213926,
       "name": "Tal Vez Ma\u00f1ana",
       "url": "https://open.spotify.com/track/2eVmYcOm2tfW0qsVwiQcDu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni\u00f1o De Oro",
+        "url": "https://open.spotify.com/album/0NBlTXwQlvRDZ9ZV78hOxh"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 177720,
+      "name": "Relojito Adiamantado",
+      "url": "https://open.spotify.com/track/1AUb1vYXNAsD9phjOWocu0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Trazendo a Arca
 
-161 songs - 12 hr 30 min
+162 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Me Ensina a Seguir](https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr) | [Além do Mar](https://open.spotify.com/artist/7jRI5VDkIu2JU3zpyiF1b3) | [Me Ensina a Seguir](https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq) | 4:06 | 2022-09-02 |  |
 | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f) | 4:01 | 2022-09-02 |  |
 | [Me Recuso a Viver em Vão](https://open.spotify.com/track/7Abi0l5SsiALsAJatiLcg7) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [KINTSUGI](https://open.spotify.com/album/0bVQ9jChKnNeRkIkXlsomK) | 2:53 | 2023-09-04 | 2023-10-07 |
+| [Medley Corinhos de Fogo \- Ao Vivo](https://open.spotify.com/track/6f4FTnfOe8EJjbskXRnBHj) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p), [Jedson Aguiar](https://open.spotify.com/artist/0CPfWYNtRHXEU2SnIZKNDg) | [Medley Corinhos de Fogo \- Ao Vivo](https://open.spotify.com/album/3E46QWTq6mddhz4o67GAjH) | 2:44 | 2024-08-23 |  |
 | [Medley Leão de Judá](https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Lembre\-se 80's](https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu) | 4:56 | 2022-09-02 | 2024-04-19 |
 | [Medley Leão de Judá \- Ao Vivo](https://open.spotify.com/track/2JgFmY60kpblVPw7uHChSz) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [Medley Leão de Judá \(Ao Vivo\)](https://open.spotify.com/album/6992k2JHeyVKHqAbzyT0A0) | 4:56 | 2024-04-19 | 2024-07-31 |
 | [Mente Brilhante](https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [Mente Brilhante](https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy) | 5:07 | 2022-09-02 | 2023-09-05 |
@@ -143,7 +144,7 @@
 | [Resistência](https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Resistência](https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ) | 4:21 | 2022-09-02 |  |
 | [Retrato](https://open.spotify.com/track/6jzcEtCzGYnslrheybOMoc) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Retrato](https://open.spotify.com/album/1Dcw4IIzGiGcKFk8vVw5u8) | 5:33 | 2022-09-02 |  |
 | [Rookmaaker \- Ao Vivo](https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 4\)](https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE) | 5:22 | 2022-09-02 |  |
-| [Salmo 13](https://open.spotify.com/track/1KGq39KlJKihbiRxcMebeT) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Live Sessions](https://open.spotify.com/album/32wLGts5FSsd3ll1Kupg6F) | 5:01 | 2024-03-29 |  |
+| [Salmo 13](https://open.spotify.com/track/1KGq39KlJKihbiRxcMebeT) | [Tarik Mohallem](https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5), [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Live Sessions](https://open.spotify.com/album/32wLGts5FSsd3ll1Kupg6F) | 5:01 | 2024-03-29 | 2024-08-24 |
 | [Santo \- Ao Vivo](https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP) | 8:56 | 2022-09-02 |  |
 | [Sempre Foi Deus](https://open.spotify.com/track/5aJiKvmw8KvEMhlxh3rTLj) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Sempre Foi Deus](https://open.spotify.com/album/7AFUISl2RmHPJFu3AGf1yX) | 3:25 | 2022-09-02 | 2023-01-14 |
 | [Simplesmente](https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Profundo](https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc) | 5:23 | 2022-09-02 |  |

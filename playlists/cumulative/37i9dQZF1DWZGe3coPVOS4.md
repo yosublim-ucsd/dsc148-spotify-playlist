@@ -4,7 +4,7 @@
 
 > The perfect family party playlist \- jam packed with all your favorite KIDZ BOP hits.
 
-95 songs - 4 hr 36 min
+96 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Love Again](https://open.spotify.com/track/7pD34DzbJMKhdZaYmBA3MR) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 2:26 | 2023-07-14 | 2024-07-16 |
 | [Made You Look](https://open.spotify.com/track/4MYmtvx4fJhTQa05a1k57w) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Made You Look](https://open.spotify.com/album/78Gof3q5tLFoLN94sFjntF) | 2:13 | 2023-06-09 | 2023-07-15 |
 | [Made You Look](https://open.spotify.com/track/6gleJ9nGfCM0TljHXD2kfi) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 2:15 | 2023-07-14 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/7K9PMuKlniCS0uHRX0FWlU) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [MILLION DOLLAR BABY](https://open.spotify.com/album/3fcpT9C5xaM6hBOuR13n2K) | 2:35 | 2024-08-23 |  |
 | [Miracle](https://open.spotify.com/track/0hcOdt4JO5H5Y9SbTzvLuy) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:51 | 2024-01-22 | 2024-07-16 |
 | [Miss You](https://open.spotify.com/track/1m51a4loj9dnJXxtfo3owt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2023 Vol\. 2](https://open.spotify.com/album/7FG9GrSpXpe0X2Ipv9BR5m) | 2:50 | 2023-07-14 | 2024-07-16 |
 | [Miss You](https://open.spotify.com/track/0xxdVLq9v6ZKegFDy47NdD) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Miss You](https://open.spotify.com/album/77PTfPvhEoJGlgMW4AIvEb) | 2:50 | 2023-06-09 | 2023-07-15 |
@@ -76,7 +77,7 @@
 | [On My Love](https://open.spotify.com/track/30n5DvInhiaeSQKvovJEln) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024 Vol\. 2](https://open.spotify.com/album/1QGR5HUSkYh3FdapkrRNb5) | 3:43 | 2024-07-15 |  |
 | [Padam Padam](https://open.spotify.com/track/3lfZuAGAbPxh5VHR63ANtP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 2:46 | 2024-01-22 |  |
 | [Part Of Your World](https://open.spotify.com/track/1CJPgxgocqsMojhp1oELbZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Part Of Your World](https://open.spotify.com/album/6A9Na8Ss430ANHFWXzR6cn) | 3:00 | 2023-06-09 | 2024-07-16 |
-| [Party In The USA \- Redo Version](https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:26 | 2023-06-09 |  |
+| [Party In The USA \- Redo Version](https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All\-Time Greatest Hits](https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8) | 3:26 | 2023-06-09 | 2024-08-24 |
 | [Peaches \- 2023](https://open.spotify.com/track/5rmL6MvFJgSjq8zzBa8Zkl) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Peaches \(2023\)](https://open.spotify.com/album/0IFqCZgkdRI44XFLbFrd3v) | 1:34 | 2023-06-23 | 2023-07-15 |
 | [Perfect Night](https://open.spotify.com/track/5PSCvxpKq7hdfRUclZnYKV) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Perfect Night](https://open.spotify.com/album/08d35AqGWAMh9OSU4kGayp) | 2:40 | 2024-05-10 | 2024-07-16 |
 | [Popular](https://open.spotify.com/track/7B91IGnbY5PilOODVln00Z) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:27 | 2024-01-22 |  |

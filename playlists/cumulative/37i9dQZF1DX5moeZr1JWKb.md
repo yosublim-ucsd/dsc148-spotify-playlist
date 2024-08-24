@@ -2,9 +2,9 @@
 
 ### [Los Gallos](https://open.spotify.com/playlist/37i9dQZF1DX5moeZr1JWKb)
 
-> Estas son las grandes voces del Hip Hop\. Foto: Akapellah
+> Estas son las grandes voces del Hip Hop\. Foto: Tres Coronas
 
-138 songs - 7 hr 28 min
+139 songs - 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Embrujo](https://open.spotify.com/track/1nfgedLEIR61luO1vkeKo3) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Embrujo](https://open.spotify.com/album/7qwAOX3k3Fr2Zt20q5MNg0) | 3:01 | 2023-05-26 |  |
 | [Estrapgos](https://open.spotify.com/track/0NayxfCD9umqeRlllJHO2y) | [Crew Peligrosos](https://open.spotify.com/artist/0Coet47KeEkkmyD64KeW2g), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Estrapgos](https://open.spotify.com/album/4k8WeuQ4oAzj07EymJ7NwQ) | 4:07 | 2023-05-26 | 2023-09-09 |
 | [Excálibur](https://open.spotify.com/track/0n28ai4yMotZny94Wn9QPt) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu), [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf), [Yakari.](https://open.spotify.com/artist/4fUkVU0iJ24G3nfCllwoWs) | [Excálibur](https://open.spotify.com/album/74iGL5ud1G2NZ0B5rTFoFF) | 3:17 | 2023-11-10 |  |
+| [Falsedades](https://open.spotify.com/track/0iIjgyZqFQdBeQUe8FRGDo) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [Mixtape Remix](https://open.spotify.com/album/4XiFkOXtaJpruodj7vV6sW) | 4:40 | 2024-08-23 |  |
 | [Foráneos](https://open.spotify.com/track/2MOupuZ5SXzWtlE03VN9Ke) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij) | [Foráneos](https://open.spotify.com/album/0M5qXlASVuTQd6qu7tf0Fq) | 3:06 | 2023-05-26 |  |
 | [Freud](https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3) | [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m) | [Ecolocalización](https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P) | 1:56 | 2023-09-08 | 2024-02-24 |
 | [frutiño](https://open.spotify.com/track/3hDU4KpyHbpZfbkGf6YorE) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX) | [back to lo básico](https://open.spotify.com/album/4rrhaxUtoUqJjShPKM5h4x) | 3:15 | 2023-08-11 | 2024-04-19 |
@@ -58,7 +59,7 @@
 | [ke será de mí](https://open.spotify.com/track/2Nbv8V7VtWUohwHmtFBJ9y) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [TOY LOKAZO](https://open.spotify.com/album/5Dqi0yKIDsT7Bds9F3VHIn) | 2:43 | 2023-08-04 | 2023-08-12 |
 | [KILÓMETRO CERO](https://open.spotify.com/track/5ynzg8MEPGDZ8SP11rxdnA) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Kid Sanchez](https://open.spotify.com/artist/1tVHSMYLGXR8dGdHbCCyLS), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [KILÓMETRO CERO](https://open.spotify.com/album/6AWgDlLJ4Fvt9tHhNRBUw3) | 2:13 | 2023-08-11 |  |
 | [La Escuela](https://open.spotify.com/track/1yNR6HRqPOABW8eusg0qAO) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe), [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv) | [La Escuela](https://open.spotify.com/album/2wjVKjLqiuQkEkNBkrM3ib) | 4:35 | 2023-11-10 |  |
-| [La Junta](https://open.spotify.com/track/33XO9zynI5v4lS2bxYbpc7) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [La Junta](https://open.spotify.com/album/4tmlpeh4UeaZPxyEblnAzV) | 3:54 | 2023-05-26 |  |
+| [La Junta](https://open.spotify.com/track/33XO9zynI5v4lS2bxYbpc7) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe) | [La Junta](https://open.spotify.com/album/4tmlpeh4UeaZPxyEblnAzV) | 3:54 | 2023-05-26 | 2024-08-24 |
 | [La Llave del Universo](https://open.spotify.com/track/5DFu8B851bdNDpKipQsoFW) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:49 | 2023-05-26 | 2024-04-19 |
 | [La Llave del Universo](https://open.spotify.com/track/5eaYZliqtzLBGx1EoWR6Xg) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [La Llave del Universo](https://open.spotify.com/album/6QpW9A1c59mW2P4rzFzn18) | 3:49 | 2024-02-23 |  |
 | [La Sabia Escuela](https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 4:35 | 2024-04-26 |  |

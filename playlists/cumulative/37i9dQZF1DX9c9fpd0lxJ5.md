@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine \(✿◠‿◠\)
 
-250 songs - 13 hr 58 min
+251 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Flores](https://open.spotify.com/track/1EuAUmdu2uenavbPzm0KMb) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Flores](https://open.spotify.com/album/5rIabQTit12SrvdQKdNaiS) | 3:34 | 2023-03-03 |  |
 | [FLOTANDO](https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [FLOTANDO](https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY) | 2:42 | 2021-12-29 |  |
 | [Fresh](https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Fresh](https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD) | 2:45 | 2023-09-15 |  |
-| [Fugaz](https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm), [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [Fugaz](https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej) | 2:58 | 2023-05-26 |  |
+| [Fugaz](https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm), [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [Fugaz](https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej) | 2:58 | 2023-05-26 | 2024-08-24 |
 | [Fuma](https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fuma](https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM) | 3:19 | 2021-12-29 | 2024-07-09 |
 | [G CLASS](https://open.spotify.com/track/0HaADF00v1QZQr5tcY4URU) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Kuroh](https://open.spotify.com/artist/1SWKdOrynsD5faJKAoYTPp), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [G CLASS](https://open.spotify.com/album/5R8MCA9qPj2nulH42BeCHE) | 3:14 | 2024-05-31 |  |
 | [Ganas](https://open.spotify.com/track/2COIPWPW4VmT9FKiNx1xry) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Ganas](https://open.spotify.com/album/12ZTthAi7mA6pZqvafJip2) | 2:46 | 2023-03-03 |  |
@@ -153,7 +153,7 @@
 | [Nawebona](https://open.spotify.com/track/699gDcpwPjEIySd499EG7s) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Nawebona](https://open.spotify.com/album/4m3GE6peH6zuduZJhnxNTw) | 3:15 | 2023-05-05 | 2023-09-03 |
 | [Neon](https://open.spotify.com/track/5D0cMtWT1lDXrEAM0ylifs) | [Patterns](https://open.spotify.com/artist/3tJL2NbxEnJgYjo3LBdDQ9) | [Neon](https://open.spotify.com/album/0AVAqTZaiAhJBAAPlFU7g4) | 4:09 | 2022-01-26 | 2022-12-07 |
 | [New Lane](https://open.spotify.com/track/2vO9Ha3zfJ7MXRLsfHyI7q) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Bowling](https://open.spotify.com/album/4dM8zWbltC75lrKKQP7U3e) | 1:57 | 2022-01-26 | 2024-04-22 |
-| [No Eres Tú](https://open.spotify.com/track/6pzmv5QfwQMqKQ6419UWoJ) | [Tres Dedos](https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF) | [Te Contaron Que Me Gustas](https://open.spotify.com/album/2rbP1TYKeJHsxwwCAKCGAA) | 3:06 | 2024-02-23 |  |
+| [No Eres Tú](https://open.spotify.com/track/6pzmv5QfwQMqKQ6419UWoJ) | [Tres Dedos](https://open.spotify.com/artist/4U7l68MAeVO9CLljg04lrF) | [Te Contaron Que Me Gustas](https://open.spotify.com/album/2rbP1TYKeJHsxwwCAKCGAA) | 3:06 | 2024-02-23 | 2024-08-24 |
 | [No Hard Feelings](https://open.spotify.com/track/4dXF3hwLihDt8OiZNIWDQV) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [No Hard Feelings](https://open.spotify.com/album/3Y12HLP1kn6YjpsJmPJY3E) | 2:33 | 2021-12-29 | 2023-08-07 |
 | [No Puedo Parar](https://open.spotify.com/track/40Vkas3vI6KE0v02V1ZdiA) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [No Puedo Parar](https://open.spotify.com/album/4xIpUxqAgzC1vYpD9Zabfo) | 4:03 | 2021-12-29 |  |
 | [No Sé \(feat\. Girl Ultra\)](https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:38 | 2021-12-29 |  |
@@ -223,6 +223,7 @@
 | [tdbn](https://open.spotify.com/track/3fLmwbhdw0dgBYYSTvT3v5) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/6bdoqQybs5gW8m92VMwVPJ) | 3:19 | 2021-12-29 |  |
 | [Te conocí](https://open.spotify.com/track/2unxfFBxztipMMnZFFm02a) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Te conocí](https://open.spotify.com/album/2KkOssmITRyGi5FWAUTsx6) | 3:29 | 2024-05-31 |  |
 | [Te Lo Voy a Decir](https://open.spotify.com/track/6fjdYMqPz638sbKNyFV5SU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jet Love](https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ) | 4:06 | 2024-05-31 |  |
+| [Te Odio / Te Amo](https://open.spotify.com/track/6ln9v1YCxH3e2PvEuTmAdx) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Te Odio / Te Amo](https://open.spotify.com/album/2JUUJ0VasUnOkaosHgYAAv) | 2:59 | 2024-08-23 |  |
 | [Te Quiero Olvidar](https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:22 | 2023-12-01 | 2024-04-19 |
 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 | 2021-12-29 | 2023-12-09 |
 | [Te Quiero Olvidar \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/40EpFP3HQ0p2W8bwmwN1XZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [CARISMA \*isolation mixes\*](https://open.spotify.com/album/7i8Bh9wJJ8tonDpGfh7uTG) | 3:35 | 2021-12-29 | 2022-12-03 |
@@ -234,7 +235,7 @@
 | [Todo Is Gonna Be Alright, Mi Amor](https://open.spotify.com/track/12MFhpEpwzmtNkO1r8Kqxa) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Todo Is Gonna Be Alright, Mi Amor](https://open.spotify.com/album/544UD49q01Pe3ItnRi0tRw) | 3:12 | 2021-12-29 | 2023-03-04 |
 | [Todo Lamento](https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Todo Lamento](https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm) | 2:35 | 2022-01-26 |  |
 | [Todo Pasa](https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Todo Pasa](https://open.spotify.com/album/7hahBXkyUgf3A3JwBYU1CR) | 2:38 | 2022-06-15 | 2024-05-27 |
-| [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 | 2022-12-02 | 2024-08-21 |
+| [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 | 2022-12-02 |  |
 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 | 2023-04-21 |  |
 | [tu y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 | 2023-04-07 |  |
 | [Tumbado En El Jardín Viendo Atardecer](https://open.spotify.com/track/3CQ8mdIze27yCr4DNGas7f) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Tumbado En El Jardín Viendo Atardecer](https://open.spotify.com/album/3MMWQpliapfNub2AegCIYq) | 4:34 | 2021-12-29 | 2023-03-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Sex Week
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,044 likes - 112 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,072 likes - 112 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 12 | [bleed you](https://open.spotify.com/track/2sQ7StMb819dmkFdvdLIA4) | [Sierra Spirit](https://open.spotify.com/artist/1IpkMILxQQ6fXFxHsolyFR) | [bleed you](https://open.spotify.com/album/5MeoM4YOMdZX0u94nVZzCu) | 3:36 |
 | 13 | [take it off](https://open.spotify.com/track/317sqVXjumPF2ucELiBVKE) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [take it off](https://open.spotify.com/album/1hvDZoqyROThc4D9BZnct4) | 3:07 |
 | 14 | [Apple](https://open.spotify.com/track/4boKhmp1Acx4RLXHZwzj6n) | [Market](https://open.spotify.com/artist/7L9i7U3GAu8NDpxvuAjb8Y) | [Apple](https://open.spotify.com/album/1gE0kS57l4cpmzX4nyICMb) | 4:37 |
-| 15 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Loving you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 |
+| 15 | [Get down](https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Get down / Lovin you](https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv) | 2:25 |
 | 16 | [Why](https://open.spotify.com/track/6xy9PGUqhdoTrPTdZodMfs) | [Adrey](https://open.spotify.com/artist/3k4NEqdZ7x9TimSkbComhX) | [Why](https://open.spotify.com/album/05OKofNBUYy21sZlJsej2C) | 3:26 |
 | 17 | [I Think About Heaven](https://open.spotify.com/track/44ADDcYWJISFUrx8zIASLn) | [Christopher Owens](https://open.spotify.com/artist/0ukgSx1gUt5rUihbNh46qy) | [I Think About Heaven](https://open.spotify.com/album/3hfKLdxRBRMIiyQYUV37QF) | 6:03 |
 | 18 | [nothing/everything](https://open.spotify.com/track/1HfZ9P6w9wMnmyBMwh8CdC) | [Manta](https://open.spotify.com/artist/6AGlSGZh0z7CwUXEnFYXyJ) | [nothing/everything](https://open.spotify.com/album/7eLYPu4jtRxOZzqtC6g5wS) | 2:22 |

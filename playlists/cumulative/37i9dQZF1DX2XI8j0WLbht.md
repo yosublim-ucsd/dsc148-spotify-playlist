@@ -2,9 +2,9 @@
 
 ### [Folclor Nómada](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Manu Chao en portada.
+> Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. The Mexican Standoff en portada.
 
-157 songs - 10 hr 53 min
+158 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 | 2022-03-04 |  |
 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 | 2022-03-04 | 2023-10-07 |
 | [Corazon de Rubi](https://open.spotify.com/track/7FzuMjgbfNXdzpMvs3QkxL) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Café del Mar Vol\. 24](https://open.spotify.com/album/5ehYOGpVaP0NSBLYjHuw7b) | 4:08 | 2022-03-04 | 2023-02-23 |
-| [Cucú](https://open.spotify.com/track/6Tzp2xOa46S6lXYjdLSi1w) | [Elo Vit](https://open.spotify.com/artist/71EoKKnv9Jt1lReEtV79Dy) | [Cucú](https://open.spotify.com/album/1EwOmA1xoNDX0SvCI5Tj2h) | 3:16 | 2022-03-04 |  |
+| [Cucú](https://open.spotify.com/track/6Tzp2xOa46S6lXYjdLSi1w) | [Elo Vit](https://open.spotify.com/artist/71EoKKnv9Jt1lReEtV79Dy) | [Cucú](https://open.spotify.com/album/1EwOmA1xoNDX0SvCI5Tj2h) | 3:16 | 2022-03-04 | 2024-08-24 |
 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 | 2022-04-20 |  |
 | [De Música Ligera](https://open.spotify.com/track/5bLPTpFDAIZepilkmufet8) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [De Música Ligera](https://open.spotify.com/album/5SUspMXl2khtx0vMiZs2lU) | 2:54 | 2022-03-04 | 2024-06-01 |
 | [Dolorosa](https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [6 Conejo](https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72) | 4:25 | 2022-04-20 |  |
@@ -54,6 +54,7 @@
 | [El Chico de Mi Rosal](https://open.spotify.com/track/67OKXj9tIZutfy8cg3od5k) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Reynier Limonta](https://open.spotify.com/artist/0pnPRBAqtesmL0XSl6neqy) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:39 | 2022-03-04 |  |
 | [El Diablo y la Bruja](https://open.spotify.com/track/2UQhZFHl6kRUd9E99wC4mR) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [El Diablo y la Bruja](https://open.spotify.com/album/1gD56P1cbXWLpCrFt0j4Ll) | 3:53 | 2022-03-04 |  |
 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 | 2022-03-04 |  |
+| [El Pantalón Blue Jean](https://open.spotify.com/track/5ssDbtA9UgQz8hBgbA2VTP) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts), [Los Texmaniacs](https://open.spotify.com/artist/1CMRsisCxvV0fXDzxUbiwV), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M) | [El Pantalón Blue Jean](https://open.spotify.com/album/50jPfEfaUjR2NqFmD2yekn) | 2:49 | 2024-08-23 |  |
 | [El Pájaro Cú](https://open.spotify.com/track/0d7B2tUlBpaTfm4UufYpPD) | [Sonex](https://open.spotify.com/artist/2xA9FhJKzvCKxxGvwnVyMK) | [Madre Natura](https://open.spotify.com/album/7qqzSgpINycbcdZmRnzl8G) | 3:47 | 2022-03-04 |  |
 | [El Pájaro Cú](https://open.spotify.com/track/7GBKatFFO8xPt9cgT0H74D) | [Sonex](https://open.spotify.com/artist/2xA9FhJKzvCKxxGvwnVyMK) | [Madre Natura](https://open.spotify.com/album/6emglSRi7jlfog1ZDBkXBh) | 3:51 | 2022-03-04 | 2024-04-19 |
 | [El Son de Tus Suspiros](https://open.spotify.com/track/3Ha6gnrHZKElsm6QkJvCPD) | [Centeno](https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb) | [El Son de Tus Suspiros](https://open.spotify.com/album/40aQp39AwN6epVJvHdWE0C) | 3:19 | 2022-03-04 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.com ",
-  "num_followers": 1793326,
+  "num_followers": 1793333,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
@@ -211,10 +211,14 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Quiero Fiesta (feat. DJ PEREIRA, Three Seven Music, & The Chosen Few)",
+        "name": "Quiero Fiesta (feat. Boy Wonder CF, Three Seven Music, The Chosen Few)",
         "url": "https://open.spotify.com/album/7xFN7ma6s9g2SfkaXnyV4R"
       },
       "artists": [
+        {
+          "name": "DJ PEREIRA",
+          "url": "https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD"
+        },
         {
           "name": "Nino Freestyle",
           "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
@@ -228,10 +232,6 @@
           "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
         },
         {
-          "name": "DJ PEREIRA",
-          "url": "https://open.spotify.com/artist/56wdeN8OMcYrcKA8nWCkRD"
-        },
-        {
           "name": "Three Seven Music",
           "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
         },
@@ -241,7 +241,7 @@
         }
       ],
       "duration_ms": 191250,
-      "name": "Quiero Fiesta (feat. DJ PEREIRA, Three Seven Music, & The Chosen Few)",
+      "name": "Quiero Fiesta (feat. Boy Wonder CF, Three Seven Music, The Chosen Few)",
       "url": "https://open.spotify.com/track/2s2VIrvLwByM1agfaPVss2"
     },
     {
@@ -611,30 +611,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "La Nota",
-        "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 216107,
-      "name": "La Nota",
-      "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
         "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
       },
@@ -659,6 +635,30 @@
       "duration_ms": 225600,
       "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "La Nota",
+        "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 216107,
+      "name": "La Nota",
+      "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Djadja (feat. Maluma) [Remix]",
+        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166850,
+      "name": "Djadja (feat. Maluma) - Remix",
+      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Party Amanecio",
         "url": "https://open.spotify.com/album/7LFYQ2BkndbXAjUNpR1VVi"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 229814,
       "name": "Party Amanecio",
       "url": "https://open.spotify.com/track/5mfdizRPNwLR3OzKncnAMH"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Djadja (feat. Maluma) [Remix]",
-        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166850,
-      "name": "Djadja (feat. Maluma) - Remix",
-      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
     },
     {
       "added_at": "2024-08-02 04:00:00",

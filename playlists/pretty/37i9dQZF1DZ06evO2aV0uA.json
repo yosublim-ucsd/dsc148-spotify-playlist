@@ -1,12 +1,12 @@
 {
-  "description": "This is: Lamb of God. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 129799,
+  "description": "This is Lamb of God. The essential tracks, all in one playlist.",
+  "num_followers": 129831,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAACVyW2iHPL0Z9dVTGdzObsu",
+  "snapshot_id": "ZsZ/gAAAAAAmdHPHwMBzR/m5Fz6+40b1",
   "tracks": [
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resolution",
-        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
+        "name": "VII: Sturm und Drang",
+        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 270693,
-      "name": "Ghost Walking",
-      "url": "https://open.spotify.com/track/7ox7vxy21ttBt1o7xIp1Si"
+      "duration_ms": 284840,
+      "name": "512",
+      "url": "https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv"
     },
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VII: Sturm und Drang",
-        "url": "https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0"
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 284840,
-      "name": "512",
-      "url": "https://open.spotify.com/track/1WWq2DUV0UbO4XJda2usuv"
+      "duration_ms": 270693,
+      "name": "Ghost Walking",
+      "url": "https://open.spotify.com/track/7ox7vxy21ttBt1o7xIp1Si"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 233466,
-      "name": "Broken Hands",
-      "url": "https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww"
+      "duration_ms": 283000,
+      "name": "Vigil",
+      "url": "https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Vigil",
-      "url": "https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk"
+      "duration_ms": 233466,
+      "name": "Broken Hands",
+      "url": "https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New American Gospel",
-        "url": "https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 292293,
-      "name": "Black Label",
-      "url": "https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wrath (Special Edition)",
         "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 221080,
       "name": "Dead Seeds",
       "url": "https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New American Gospel",
+        "url": "https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 292293,
+      "name": "Black Label",
+      "url": "https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 223466,
-      "name": "For Your Malice",
-      "url": "https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wrath (Special Edition)",
         "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 236466,
       "name": "Grace",
       "url": "https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 223466,
+      "name": "For Your Malice",
+      "url": "https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 324666,
+      "name": "In Your Words",
+      "url": "https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "As The Palaces Burn",
         "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 230256,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 324666,
-      "name": "In Your Words",
-      "url": "https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bill & Ted Face The Music (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4RFYP3Mo9vSA6Cf7HXDxsa"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 239441,
-      "name": "The Death Of Us - From The \"Bill & Ted Face The Music\" Soundtrack",
-      "url": "https://open.spotify.com/track/3ipiVujau0BpkJ0PmYUtWx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wrath (Special Edition)",
         "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 202040,
       "name": "Contractor",
       "url": "https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bill & Ted Face The Music (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4RFYP3Mo9vSA6Cf7HXDxsa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 239441,
+      "name": "The Death Of Us - From The \"Bill & Ted Face The Music\" Soundtrack",
+      "url": "https://open.spotify.com/track/3ipiVujau0BpkJ0PmYUtWx"
     },
     {
       "added_at": null,

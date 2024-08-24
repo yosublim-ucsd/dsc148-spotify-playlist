@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-522 songs - 22 hr 21 min
+523 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Homebound](https://open.spotify.com/track/2TSm3aFc5f0tgzsVhIbMxp) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Homebound](https://open.spotify.com/album/05upCw1lmnqV6dO7xFRTz8) | 2:53 | 2022-01-18 | 2023-10-05 |
 | [Hope \(Felt\)](https://open.spotify.com/track/21S4oSMiR9K07kurcMTvgv) | [Danilo Stankovic](https://open.spotify.com/artist/656DEjf8bYlGw2DqBj28qz) | [Evoke](https://open.spotify.com/album/6drwsG0RvJaxNUS0oIz1c4) | 1:52 | 2021-12-07 | 2022-03-18 |
 | [Hope 希望](https://open.spotify.com/track/3urizsCookzGTWmwl5zS3M) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Hope 希望](https://open.spotify.com/album/388eJjJEdCAnY07p4xHRYy) | 3:14 | 2024-01-05 |  |
+| [Hopeful](https://open.spotify.com/track/2Gy4DgPptxn1ERnqefNTSM) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Hopeful](https://open.spotify.com/album/0Qw7YmBKDoghXSWtZ9Zj67) | 2:59 | 2024-08-23 |  |
 | [Horizon](https://open.spotify.com/track/1nQ2WCJTn89CnirpfDHV60) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Horizon](https://open.spotify.com/album/76wQZPok3Inlxf5aSPp9gF) | 2:22 | 2022-06-07 |  |
 | [House In The Woods](https://open.spotify.com/track/3hZO3P3BACp2OyxPStiY98) | [Emanuele Misuraca](https://open.spotify.com/artist/0sxrqx4sOBI30rENSZcv36) | [House In The Woods](https://open.spotify.com/album/6AUgTgfnvSr6XFrin6i3Ly) | 2:45 | 2021-12-07 | 2022-09-21 |
 | [How You're Remembered](https://open.spotify.com/track/2NHgyCHFDydecMMa57BcWP) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [How You're Remembered](https://open.spotify.com/album/6Wvn6npRvkS4KoGKZDfwOH) | 3:10 | 2021-12-07 | 2022-06-08 |

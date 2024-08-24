@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with FEVER 333
+> nü\-metal revival is happening here and now with FEVER 333.
 
-181 songs - 10 hr 23 min
+182 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Blood Moon](https://open.spotify.com/track/3rr9GJ6muRNyo2zWOEeiTk) | [Sunfall](https://open.spotify.com/artist/740XnUGK1y8DMyMZSgRjVN) | [Blood Moon](https://open.spotify.com/album/1RoFmafk2NEWi5723E4PTd) | 4:16 | 2024-05-24 | 2024-07-19 |
 | [Boiler](https://open.spotify.com/track/1vcoASbSH4zdZnVc6A3Uo9) | [BOSKAT](https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi), [Rudeboy](https://open.spotify.com/artist/4zPWhRwcFsAKDMsdvPSKjv) | [Boiler](https://open.spotify.com/album/3QRPe7VXaCFc8slgk9GtRR) | 2:55 | 2024-01-12 | 2024-07-06 |
 | [Break My Fall](https://open.spotify.com/track/1UpwPq2h2xCmOsCIwFYmz3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [Break My Fall](https://open.spotify.com/album/1SwIFHVJtunGpDylAM2ieB) | 3:32 | 2023-11-24 | 2024-01-27 |
+| [Butterscotch Biscuits](https://open.spotify.com/track/1qeLuU138hKq7NTD5qtpRF) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [Butterscotch Biscuits](https://open.spotify.com/album/5e1P3vP44iAIDK21yypNEB) | 3:15 | 2024-08-23 |  |
 | [Come Back Stronger](https://open.spotify.com/track/5PlNqAEj4tSnSC2RR6ja5Z) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Come Back Stronger](https://open.spotify.com/album/5UaFYlMCmEpHhXEL5dv2DT) | 3:35 | 2023-09-13 | 2024-03-02 |
 | [Confessions Of The Fallen](https://open.spotify.com/track/3wLuYl3hBaAceRUzi6XN4t) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/7DOyUfUOWH3myPk79r8Js9) | 3:50 | 2023-09-22 |  |
 | [Confessions Of The Fallen](https://open.spotify.com/track/6Zfhv8jhS1PDGQySEGqPTs) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6) | 3:50 | 2023-10-27 | 2024-04-19 |
@@ -113,7 +114,7 @@
 | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Aaron Pauley](https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5) | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7) | 3:28 | 2024-04-19 |  |
 | [Operator](https://open.spotify.com/track/5p1bCl7HEcsst4eF48z0Bm) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Operator](https://open.spotify.com/album/2Im99EnQocuboPDHectxjS) | 2:43 | 2024-02-02 | 2024-02-17 |
 | [Out Of Style](https://open.spotify.com/track/06nmwVr0Ev16QnVXsQXSf1) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:22 | 2023-10-13 | 2024-04-19 |
-| [Outcome](https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/3OPfTGs6dit3vywqCGpGHQ) | 3:25 | 2024-01-26 |  |
+| [Outcome](https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/3OPfTGs6dit3vywqCGpGHQ) | 3:25 | 2024-01-26 | 2024-08-24 |
 | [Outcome](https://open.spotify.com/track/54Mdl7oXai0VZ3usuCxIPb) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/1Sggf1c9AVCvAEAGaC9v6K) | 3:25 | 2024-01-26 | 2024-04-19 |
 | [Overture or Obituary](https://open.spotify.com/track/3PgK8DK9jZSYR17OEUDjJb) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untitled \(Deluxe\)](https://open.spotify.com/album/5gizwaBQyfZYTEb8zdL7Z6) | 3:02 | 2023-09-13 | 2023-09-23 |
 | [Paralyzed](https://open.spotify.com/track/1NSgXmZrP7qhCNl2fB57HB) | [Soulbound](https://open.spotify.com/artist/77iKiudWCr75l34XsQAVpl) | [obsYdian](https://open.spotify.com/album/77oFf0SWQ9HDxpPbLjJXXb) | 3:12 | 2024-07-26 |  |
@@ -148,7 +149,7 @@
 | [Sucks 2 Suck](https://open.spotify.com/track/256sFTOD01wutUbC7omH17) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Sucks 2 Suck](https://open.spotify.com/album/4vApNOb7B86XOY1DdLcs7w) | 3:53 | 2024-01-26 |  |
 | [SYM](https://open.spotify.com/track/1pAGSiTtKYd7Z5U7xuct2X) | [Nevertel](https://open.spotify.com/artist/0uTkKGuqdf7CtKlZLt9N0Y) | [SYM](https://open.spotify.com/album/0ysImV9oUwrQbgVt9ed6AS) | 2:54 | 2024-06-28 |  |
 | [system\_failure](https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:18 | 2023-09-13 | 2024-02-03 |
-| [T.I.T.P.](https://open.spotify.com/track/4UhSYiT6fJtQ55OCGKW7LD) | [REDDSTAR](https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK), [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ) | [T.I.T.P.](https://open.spotify.com/album/7IYFD43sOwlXArJ6PaV65r) | 2:55 | 2024-08-09 |  |
+| [T.I.T.P.](https://open.spotify.com/track/4UhSYiT6fJtQ55OCGKW7LD) | [REDDSTAR](https://open.spotify.com/artist/6jH2Z3zLI0WvW3KvQS1nYK), [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ) | [T.I.T.P.](https://open.spotify.com/album/7IYFD43sOwlXArJ6PaV65r) | 2:55 | 2024-08-09 | 2024-08-24 |
 | [Tabula Rasa](https://open.spotify.com/track/7j8rM6qmKanhiaogz5EG1Y) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [HYPERVIOLENCE](https://open.spotify.com/album/45dtTykdSpSunaRsONUYqX) | 3:04 | 2024-07-12 |  |
 | [Takers](https://open.spotify.com/track/6ayctlryVPbBV7mwVBHfwU) | [Discrepancies](https://open.spotify.com/artist/4SfKNu30hoXHZRfBFx1W19) | [Takers](https://open.spotify.com/album/5HoeNbrXoL39PA4RHQxo5j) | 3:16 | 2024-06-14 | 2024-06-22 |
 | [Telescope](https://open.spotify.com/track/3Tn9ea6IIwfH0LuRF71vfg) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Generation Of Danger](https://open.spotify.com/album/3o2oLb3RZjWhdIU6d98rnr) | 4:09 | 2023-09-13 | 2023-09-23 |

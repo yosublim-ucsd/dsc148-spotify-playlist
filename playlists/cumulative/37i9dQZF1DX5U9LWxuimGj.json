@@ -673,6 +673,28 @@
     },
     {
       "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/7CGrftmTvcJQTYpUuVVQJy"
+      },
+      "artists": [
+        {
+          "name": "Elias Medina",
+          "url": "https://open.spotify.com/artist/7c6AUl38S5Xo8t6fvGKJDJ"
+        },
+        {
+          "name": "Roan Ash",
+          "url": "https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193801,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/25eOhHLLr0tFImpmVx9WLQ"
+    },
+    {
+      "album": {
         "name": "Day Drinking (Party Mix)",
         "url": "https://open.spotify.com/album/221DPZOZH1TDYisXjLeC81"
       },
@@ -1008,6 +1030,28 @@
       "duration_ms": 171745,
       "name": "Girls Like Me",
       "url": "https://open.spotify.com/track/5SD4XZ2UEuynMl0F0Nml1y"
+    },
+    {
+      "album": {
+        "name": "Gosta de Caras Assim",
+        "url": "https://open.spotify.com/album/6Z1HPVHsaU9qg4rBVoVykm"
+      },
+      "artists": [
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        },
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205018,
+      "name": "Gosta de Caras Assim",
+      "url": "https://open.spotify.com/track/1bK1a1ghaYc1IcSfEQPYRs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Baby B3ns
 
-2,087 songs - 4 day 2 hr 15 min
+2,088 songs - 4 day 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Baby Blizzard \- Babycor3 Version](https://open.spotify.com/track/0UGh6ZoRrcNsAHMzdBH7Ix) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Baby Blizzard \(Babycor3 Version\)](https://open.spotify.com/album/01ptxLzi6VNqLBUUuBdH1O) | 1:53 | 2022-12-02 | 2023-02-24 |
 | [Baby By Me](https://open.spotify.com/track/1x075F39Q0zOhjPzPKgG8E) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Before I Self\-Destruct](https://open.spotify.com/album/4kaCrosmqvvrPUEAwcnC3s) | 3:33 | 2023-12-21 | 2024-03-08 |
 | [Baby dont hurt me](https://open.spotify.com/track/7ojcbtGjkGDlX5rxJyIDLy) | [Kapa Boy](https://open.spotify.com/artist/02WFtZreToLN0ARfpZukYI) | [Baby dont hurt me](https://open.spotify.com/album/6wa4P0rzzVArBxQf0SFve3) | 1:28 | 2022-06-27 | 2022-07-27 |
+| [BABY I'M BACK](https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:51 | 2024-08-23 |  |
 | [Babyblau](https://open.spotify.com/track/5lZ8DceeoYy2Mb2M6nUegi) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Nie verliebt](https://open.spotify.com/album/12dYXSDMMIX9VaJONASnsz) | 2:44 | 2022-08-25 | 2022-12-24 |
 | [Babyblau \- Remix](https://open.spotify.com/track/33ekll4uKJ5whLA4jP0ZPz) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Nie verliebt \- Aftershow Edits](https://open.spotify.com/album/4XPYexJkOU6g4CP5lqulDT) | 3:11 | 2023-05-25 | 2023-08-30 |
 | [babyboy](https://open.spotify.com/track/2SIaZDxvHBxkYLOPQLuLe5) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY), [Milxn](https://open.spotify.com/artist/2bLiRa87bjkU18nUFK5xPE) | [babyboy](https://open.spotify.com/album/7C1jueEWit717xYLLYf7J8) | 2:50 | 2024-06-13 |  |
@@ -1193,7 +1194,7 @@
 | [Miss You](https://open.spotify.com/track/6vAUQntCAzBg6kYern6LQM) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/2IHPG4aVcIcwz9Rpme2WaT) | 3:26 | 2022-11-10 | 2022-11-13 |
 | [Miss You](https://open.spotify.com/track/2JgciX6HkDVwRAU8e8VmR6) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You](https://open.spotify.com/album/2Y3dHOjEIxYumXA17T7QDH) | 3:26 | 2022-07-08 | 2022-08-06 |
 | [Misses DGAF](https://open.spotify.com/track/5vO5UOUjoFAOUgHFlq7DPv) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Misses DGAF](https://open.spotify.com/album/6AGpmVO0rQDxkKKcVov2VD) | 2:42 | 2024-06-13 | 2024-07-05 |
-| [Mittelmeer](https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Mittelmeer](https://open.spotify.com/album/2HOaHc9820Ds6YD76BbU9j) | 2:59 | 2024-05-23 |  |
+| [Mittelmeer](https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Mittelmeer](https://open.spotify.com/album/2HOaHc9820Ds6YD76BbU9j) | 2:59 | 2024-05-23 | 2024-08-24 |
 | [Mitternacht](https://open.spotify.com/track/4HIiTdeoKrcNjrWaFbgk4G) | [Stacks102](https://open.spotify.com/artist/32AAxPlW6sOK0nopTJM7sv), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Mitternacht](https://open.spotify.com/album/5usJEjNG3jHk3EWQT5IQ9c) | 2:13 | 2023-04-06 | 2023-05-05 |
 | [Mo\-Fr](https://open.spotify.com/track/5yNUQuj43NzLCXqCOjWfGZ) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Mo\-Fr](https://open.spotify.com/album/4etBEAEb9JcVFw1CwmgUmt) | 2:53 | 2023-11-16 | 2024-01-26 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-20 | 2023-03-18 |

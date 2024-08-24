@@ -1,12 +1,12 @@
 {
-  "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 219646,
+  "description": "This is Barry White. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 219684,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsUuAAAAAACks9J5orP45LX2DTClwPUp",
+  "snapshot_id": "ZsZ/gAAAAACwKWzuqsn65d5VNnm10Eng",
   "tracks": [
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Icon Is Love",
-        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 349506,
-      "name": "Come On",
-      "url": "https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm"
+      "duration_ms": 192160,
+      "name": "I'm Qualified To Satisfy You - Edit",
+      "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 192160,
-      "name": "I'm Qualified To Satisfy You - Edit",
-      "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
+      "duration_ms": 349506,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm"
     },
     {
       "added_at": null,

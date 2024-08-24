@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Marki.",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Rayos L\u00e1ser.",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -880,7 +880,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 172980,
       "name": "Charuto",
       "url": "https://open.spotify.com/track/0nij12ZRN179u8Jsi73C8V"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 202913,
       "name": "Cristal",
       "url": "https://open.spotify.com/track/6Gfkt8xCb1bihvs6KOMO2g"
@@ -2170,6 +2170,24 @@
       "duration_ms": 195750,
       "name": "Im\u00e1n",
       "url": "https://open.spotify.com/track/76RL8thD70xxFC3uUwggiG"
+    },
+    {
+      "album": {
+        "name": "Im\u00e1n",
+        "url": "https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v"
+      },
+      "artists": [
+        {
+          "name": "Rayos L\u00e1ser",
+          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194905,
+      "name": "Im\u00e1n",
+      "url": "https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7"
     },
     {
       "album": {
@@ -3391,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "Pensamientos Intrusivos",
+        "url": "https://open.spotify.com/album/7hgxTp99yKwlzXDZgV6O8I"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163239,
+      "name": "Pensamientos Intrusivos",
+      "url": "https://open.spotify.com/track/17KcNyZQ0tLSloefQFKskl"
+    },
+    {
+      "album": {
         "name": "pensando en ti",
         "url": "https://open.spotify.com/album/6bLJ9EbgSDl3rksxqhQfg9"
       },
@@ -3518,7 +3554,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 246001,
       "name": "Pol\u00edtico o Rolling Stone",
       "url": "https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO"
@@ -3848,7 +3884,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 278701,
       "name": "Siempre me Dejaste Volver",
       "url": "https://open.spotify.com/track/5x5wanlUjwYxiVQXtWJPG9"
@@ -3870,6 +3906,24 @@
       "duration_ms": 215462,
       "name": "Sinoca",
       "url": "https://open.spotify.com/track/5VKwR9EzAi8Ucod7lYmVhi"
+    },
+    {
+      "album": {
+        "name": "Siri",
+        "url": "https://open.spotify.com/album/6nThX8R3FpoAe25k7m6wV8"
+      },
+      "artists": [
+        {
+          "name": "Bifes con ensalada",
+          "url": "https://open.spotify.com/artist/65HV0X2MrHeNzgCEfruD3Y"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226268,
+      "name": "Siri",
+      "url": "https://open.spotify.com/track/290qX1v1rlPiXFBThC0plv"
     },
     {
       "album": {
@@ -4153,6 +4207,24 @@
     },
     {
       "album": {
+        "name": "tir\u00e9",
+        "url": "https://open.spotify.com/album/43HRzAOVSUL0HnpXBBdhyx"
+      },
+      "artists": [
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150037,
+      "name": "tir\u00e9",
+      "url": "https://open.spotify.com/track/61d5KCdm4c7Y7MMNbH0jnl"
+    },
+    {
+      "album": {
         "name": "TLDMPDFDS",
         "url": "https://open.spotify.com/album/32t2XpFH6hGPbmSDFPJryR"
       },
@@ -4310,6 +4382,28 @@
       "duration_ms": 196863,
       "name": "Tu Calor",
       "url": "https://open.spotify.com/track/4qqnfffDtMMt58Zw2NIffu"
+    },
+    {
+      "album": {
+        "name": "Tu Enemiga",
+        "url": "https://open.spotify.com/album/6tOyx4khgLtYy34qVhzBLY"
+      },
+      "artists": [
+        {
+          "name": "Luna Sujatovich",
+          "url": "https://open.spotify.com/artist/0RsjZIEbaxBvwvoEfnEs2G"
+        },
+        {
+          "name": "Mariana Michi",
+          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227203,
+      "name": "Tu Enemiga",
+      "url": "https://open.spotify.com/track/6lasm3i7HJM4SFZZ2pGmzK"
     },
     {
       "album": {
@@ -4578,7 +4672,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 143823,
       "name": "Viento helado",
       "url": "https://open.spotify.com/track/6esfymnhduFli5Sy1rRb3z"

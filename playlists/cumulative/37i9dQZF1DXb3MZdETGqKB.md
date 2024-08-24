@@ -2,9 +2,9 @@
 
 ### [Nu\-Blue](https://open.spotify.com/playlist/37i9dQZF1DXb3MZdETGqKB)
 
-> All new, all blues\. Cover: Judith Hill
+> All new, all blues\. Cover: Sonny Gullage
 
-314 songs - 18 hr 27 min
+315 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Say My Name](https://open.spotify.com/track/67k7KL7HTCrVUdMnBVbO7L) | [Malina Moye](https://open.spotify.com/artist/3fPngdGRZMBzFFBf3ql2XK) | [Say My Name](https://open.spotify.com/album/5cjzePZsDwF5W6LxCgyDXl) | 3:52 | 2023-01-20 | 2023-05-13 |
 | [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/6XYkGbWTkF3IUThub6DVfh) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [Set Sail](https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF) | 3:21 | 2021-12-03 | 2023-07-08 |
 | [See the Moon \(featuring Lamar Williams Jr\. and Sharisse Norman\)](https://open.spotify.com/track/7JD8dY7gEQEArHha4Qar6B) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4), [Sharisse Norman](https://open.spotify.com/artist/6PvWgYjRE5t62DQFGc9diL) | [See the Moon](https://open.spotify.com/album/7ne1A974f725ICMswwvG3e) | 3:21 | 2021-12-03 | 2022-07-29 |
+| [Separate Ways](https://open.spotify.com/track/1nlndNfaPWrnt3PdVS6ZCY) | [Sonny Gullage](https://open.spotify.com/artist/7ksIopzJPOkJXP9Hz61oU7) | [Go Be Free](https://open.spotify.com/album/13g3kHvJyUsg5lCtf2k7up) | 4:19 | 2024-08-23 |  |
 | [Settle For Less](https://open.spotify.com/track/2ha56ZefX99UI2KqBkZs29) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5), [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Settle For Less](https://open.spotify.com/album/1JpcWCaJAFI2nBoW4pqJRF) | 3:08 | 2023-04-24 | 2023-05-20 |
 | [Shake It, Shake It, Shake It](https://open.spotify.com/track/5qZHahQTxspNvpQ5IvhLPA) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Traveling Medicine Man](https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l) | 2:37 | 2023-03-03 |  |
 | [She Knows It](https://open.spotify.com/track/0BmWDpfHOFZ2p0vGX3Rlja) | [Steven Rodriguez](https://open.spotify.com/artist/2a84LFOuPFQX3qGB26eu9O) | [She Knows It](https://open.spotify.com/album/6DgHbvPexJ7CrDyHeJPLgO) | 2:15 | 2024-03-01 | 2024-07-27 |
@@ -260,7 +261,7 @@
 | [Surrender](https://open.spotify.com/track/6RyLEghWsRDVcDuRxDg2FN) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [Shout Into The Noise](https://open.spotify.com/album/3xyQGSWqRqQGOe3tvz2t8t) | 3:36 | 2022-03-11 | 2022-06-19 |
 | [Susie Q](https://open.spotify.com/track/2969tIZxNklbb9AELfgyh1) | [DOBBY](https://open.spotify.com/artist/1RW4O0kc1TxXivUceZyPad), [Jackie Brown Jr](https://open.spotify.com/artist/66GIx9fcibIH8z4s5JazfI) | [Susie Q](https://open.spotify.com/album/2XSjBNtzXGwplk6H91ferm) | 3:59 | 2022-05-06 | 2024-04-19 |
 | [Sweet Hitchhiker](https://open.spotify.com/track/1kZpY4ykTAUrrQfoKdDJll) | [Tommy Womack](https://open.spotify.com/artist/3AeSz3QNO4DSmtyEZhICje) | [30 Years Shot To Hell: A Tommy Womack Anthology](https://open.spotify.com/album/6YvLsP228sBx60XmzK0DH9) | 3:25 | 2022-08-05 | 2024-04-19 |
-| [Sweet Hitchhiker](https://open.spotify.com/track/48ElMRo9c1HlS23AuHMRVS) | [Tommy Womack](https://open.spotify.com/artist/3AeSz3QNO4DSmtyEZhICje) | [30 Years Shot To Hell: A Tommy Womack Anthology](https://open.spotify.com/album/62wREHeyhnAmDMkc4oZlgS) | 3:25 | 2022-08-05 |  |
+| [Sweet Hitchhiker](https://open.spotify.com/track/48ElMRo9c1HlS23AuHMRVS) | [Tommy Womack](https://open.spotify.com/artist/3AeSz3QNO4DSmtyEZhICje) | [30 Years Shot To Hell: A Tommy Womack Anthology](https://open.spotify.com/album/62wREHeyhnAmDMkc4oZlgS) | 3:25 | 2022-08-05 | 2024-08-24 |
 | [Sweetwater](https://open.spotify.com/track/1XLZKmNR5HOB78jvDx0iU1) | [Digging Roots](https://open.spotify.com/artist/6jXRPYI1uhTRJKuetXMRpj) | [Sweetwater](https://open.spotify.com/album/4Dj6dQExClkwocUsSrAYMg) | 5:40 | 2022-03-25 | 2022-06-19 |
 | [Taking Me Higher](https://open.spotify.com/track/3ChtpeFDJVzpW9RXgj2R68) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP) | 4:03 | 2023-03-31 |  |
 | [Taking Me Higher](https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Taking Me Higher](https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm) | 4:03 | 2023-03-31 | 2024-04-19 |

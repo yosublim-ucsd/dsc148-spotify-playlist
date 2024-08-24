@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Brank, Juniper, Mulú
 
-115 songs - 6 hr 34 min
+116 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Amanhã Tou Melhor](https://open.spotify.com/track/3I0w0pdn5s2W44gGmBxsa0) | [Capitão Fausto](https://open.spotify.com/artist/5CoXKGQeOWgWi8koTZh07b) | [Capitão Fausto Têm os Dias Contados](https://open.spotify.com/album/7iXoMNx0O5wa0gQ1iRE6Xp) | 3:26 | 2024-06-20 | 2024-07-19 |
 | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/track/2NvYdollt2CTUJYn66OBt9) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Any Way \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Qc9dnPXbHlfB2eXZoDPlF) | 5:09 | 2024-06-20 | 2024-08-09 |
 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 | 2024-06-20 |  |
-| [At Your Feet](https://open.spotify.com/track/57BolP2qJD7CdKa7rZ8Uvm) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [At Your Feet](https://open.spotify.com/album/7HN3dt0fbRyXWI1wFPqv7J) | 3:25 | 2024-07-18 |  |
+| [At Your Feet](https://open.spotify.com/track/57BolP2qJD7CdKa7rZ8Uvm) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [At Your Feet](https://open.spotify.com/album/7HN3dt0fbRyXWI1wFPqv7J) | 3:25 | 2024-07-18 | 2024-08-24 |
 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2024-06-20 |  |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 |  |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 |  |
@@ -50,6 +50,7 @@
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-18 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2024-06-20 |  |
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 | 2024-06-20 |  |
+| [Home Is Where the Hurt Is](https://open.spotify.com/track/0ytRXziKO9jo0FuMfXbgfp) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Satellites](https://open.spotify.com/album/1ie2aXQFGvAsxusB7c4Yb5) | 2:40 | 2024-08-22 |  |
 | [Homesick \(with Sam Fender\)](https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Homesick \(with Sam Fender\)](https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I) | 3:14 | 2024-06-20 |  |
 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2024-06-20 |  |
 | [I Know You](https://open.spotify.com/track/71BWZa1liIRyUiuJ3MB66o) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Faye Webster](https://open.spotify.com/album/0pEHMpnX1jA44pzhW3n0JB) | 4:11 | 2024-06-20 |  |

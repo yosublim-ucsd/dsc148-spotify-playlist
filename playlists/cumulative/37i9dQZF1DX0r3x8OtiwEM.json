@@ -339,6 +339,28 @@
     },
     {
       "album": {
+        "name": "All we ever wanted",
+        "url": "https://open.spotify.com/album/5v1b45XBRct5szZaw9mFX2"
+      },
+      "artists": [
+        {
+          "name": "MVCA",
+          "url": "https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R"
+        },
+        {
+          "name": "SCHWARZ",
+          "url": "https://open.spotify.com/artist/6EgeOrWkBT2qyIjkPdqGAc"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "All we ever wanted",
+      "url": "https://open.spotify.com/track/33SyBnfjyUS9c8lvz6YOp8"
+    },
+    {
+      "album": {
         "name": "Alle",
         "url": "https://open.spotify.com/album/1s3j5UFwrQGG8Z971wgeaD"
       },
@@ -4104,7 +4126,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 225120,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/4lSCnW0nsmts8DKJLNiia9"

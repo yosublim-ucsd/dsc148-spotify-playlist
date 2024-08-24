@@ -325,6 +325,24 @@
     },
     {
       "album": {
+        "name": "Keepsake EP",
+        "url": "https://open.spotify.com/album/24eoHPpCBe2DCjG0ozhnj3"
+      },
+      "artists": [
+        {
+          "name": "Destrata",
+          "url": "https://open.spotify.com/artist/76OnM8y64osFXktcM9g1m1"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271875,
+      "name": "Amp Service",
+      "url": "https://open.spotify.com/track/2D3MaJH9pGk816fvn4TAfQ"
+    },
+    {
+      "album": {
         "name": "Another Chance (SBF17)",
         "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
       },
@@ -980,6 +998,24 @@
       "duration_ms": 329142,
       "name": "Bonk",
       "url": "https://open.spotify.com/track/6yfbkg6QT1XkJZnWW2gEbj"
+    },
+    {
+      "album": {
+        "name": "booboo",
+        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212266,
+      "name": "booboo",
+      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
     },
     {
       "album": {
@@ -1780,7 +1816,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 314733,
       "name": "Dreaming Still",
       "url": "https://open.spotify.com/track/1sJkC6vimqL34rIQgfMtRg"
@@ -2062,7 +2098,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 300000,
       "name": "Fidget Spinner",
       "url": "https://open.spotify.com/track/3FK11WuLawXYVetQSYVDA0"
@@ -2913,6 +2949,28 @@
     },
     {
       "album": {
+        "name": "Hold It (The Glitch Mob Remix)",
+        "url": "https://open.spotify.com/album/35qNl1GbA11d4y74uAK3gg"
+      },
+      "artists": [
+        {
+          "name": "Lord Genmu",
+          "url": "https://open.spotify.com/artist/1hVeyfiKrAOsS0ZwZg0tWm"
+        },
+        {
+          "name": "The Glitch Mob",
+          "url": "https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205375,
+      "name": "Hold It - The Glitch Mob Remix",
+      "url": "https://open.spotify.com/track/39cViCI2rGJ8PelsFSaGdm"
+    },
+    {
+      "album": {
         "name": "Trablonika Daly EP",
         "url": "https://open.spotify.com/album/4Po7koLDo4oVnMX54lxa0f"
       },
@@ -3695,6 +3753,24 @@
     },
     {
       "album": {
+        "name": "Split 2",
+        "url": "https://open.spotify.com/album/1JfocIuWaYlM4DUjpLwoEU"
+      },
+      "artists": [
+        {
+          "name": "Aquarian",
+          "url": "https://open.spotify.com/artist/5sr7enH1jsMhSe1LT0hSJ0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431506,
+      "name": "Kool Ranch FM",
+      "url": "https://open.spotify.com/track/4d3JjEneDi1OlHZoj1KK8e"
+    },
+    {
+      "album": {
         "name": "L-EV8",
         "url": "https://open.spotify.com/album/1me51JkWUzELdWToBRm0zc"
       },
@@ -3888,7 +3964,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 297788,
       "name": "Luv",
       "url": "https://open.spotify.com/track/50sAxbAOfoiCOSZfNljcac"
@@ -3979,6 +4055,32 @@
     },
     {
       "album": {
+        "name": "Anarcho Disco Vol. 1",
+        "url": "https://open.spotify.com/album/72YwO4P2Y9bVHCnyaGbjKR"
+      },
+      "artists": [
+        {
+          "name": "G\u01fcG",
+          "url": "https://open.spotify.com/artist/2IS0MZpYejuJAOkYL02xhJ"
+        },
+        {
+          "name": "MONKEY TIMERS",
+          "url": "https://open.spotify.com/artist/3tHaliLoFR0AscFTHDiPxE"
+        },
+        {
+          "name": "Keita Sano",
+          "url": "https://open.spotify.com/artist/4dBOdFLRA3l1S7I1eaSYCn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452697,
+      "name": "Merpa",
+      "url": "https://open.spotify.com/track/6TmHSrZTZY48z3OvSxBS9L"
+    },
+    {
+      "album": {
         "name": "Money Mouth",
         "url": "https://open.spotify.com/album/691hEcaZox9DpOhMnzRa4o"
       },
@@ -4038,6 +4140,28 @@
       "duration_ms": 217152,
       "name": "Must Be Dead",
       "url": "https://open.spotify.com/track/1FhLIR9IcnuE5CRgugkvr2"
+    },
+    {
+      "album": {
+        "name": "My Dazed Friend",
+        "url": "https://open.spotify.com/album/4tpuNsHzxBcuA0ZWuSHM8Y"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        },
+        {
+          "name": "KL\u014c",
+          "url": "https://open.spotify.com/artist/04PGhfooPK0YQZPAj3itqo"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296170,
+      "name": "My Dazed Friend",
+      "url": "https://open.spotify.com/track/097wfbHE5h2rHtTA0KWIar"
     },
     {
       "album": {
@@ -4590,7 +4714,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 260571,
       "name": "Poppitt",
       "url": "https://open.spotify.com/track/2hax08kBT3ObIkCCsZBjzL"
@@ -5138,7 +5262,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 346666,
       "name": "Scrap",
       "url": "https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4"
@@ -5230,7 +5354,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 205714,
       "name": "Sinais - The Glitch Mob Remix",
       "url": "https://open.spotify.com/track/5s53pYQK4OU27tFD9wzXoH"
@@ -5564,6 +5688,24 @@
       "duration_ms": 243227,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
+    },
+    {
+      "album": {
+        "name": "Quick Game",
+        "url": "https://open.spotify.com/album/25hIhwZD7o9Hpr0KO67g1E"
+      },
+      "artists": [
+        {
+          "name": "Black Rave Culture",
+          "url": "https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141253,
+      "name": "STOMP EM OUT",
+      "url": "https://open.spotify.com/track/7kn2TMiBCYpiIDxqXyhhi4"
     },
     {
       "album": {
@@ -6051,6 +6193,28 @@
     },
     {
       "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/4ERUL5x8fPIOFZVYfcobbA"
+      },
+      "artists": [
+        {
+          "name": "Sangre Nueva",
+          "url": "https://open.spotify.com/artist/0YmokPIhVketCTSXBRp20R"
+        },
+        {
+          "name": "Florentino",
+          "url": "https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201900,
+      "name": "Toka",
+      "url": "https://open.spotify.com/track/0TAk7FFpkREMlKOO30iyrK"
+    },
+    {
+      "album": {
         "name": "Touch (Leonce Remix)",
         "url": "https://open.spotify.com/album/1oR96yctfi93SFLn0l1NLk"
       },
@@ -6164,7 +6328,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 236692,
       "name": "turn u into stone",
       "url": "https://open.spotify.com/track/4JgStfb87m3kgwi3jrFXSD"
@@ -6512,7 +6676,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 265118,
       "name": "walk2me",
       "url": "https://open.spotify.com/track/6CvZ9qG4Djxc859aWr54x8"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 230769,
       "name": "2.05am",
       "url": "https://open.spotify.com/track/05tYZqMR7vcjyZr57Vxn6y"
@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 115953,
       "name": "9th dream.",
       "url": "https://open.spotify.com/track/2PPdzCmfoOebVe79eApvCk"
@@ -328,6 +328,24 @@
       "duration_ms": 139829,
       "name": "About Us",
       "url": "https://open.spotify.com/track/6ZdT8NjncDzhoi2wFDZ2cs"
+    },
+    {
+      "album": {
+        "name": "Abstraction",
+        "url": "https://open.spotify.com/album/12uPuzJ3SA7dUH7apVS3Ee"
+      },
+      "artists": [
+        {
+          "name": "Vries",
+          "url": "https://open.spotify.com/artist/5i5SZplABmVMOyE66RrL9U"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189958,
+      "name": "Abstraction",
+      "url": "https://open.spotify.com/track/2WRtYZLyeVbLoQZFqyE9Jt"
     },
     {
       "album": {
@@ -2898,6 +2916,24 @@
       "duration_ms": 144035,
       "name": "donuts",
       "url": "https://open.spotify.com/track/4kk88YN0A8rpQh2Stl1Ifx"
+    },
+    {
+      "album": {
+        "name": "down by the river",
+        "url": "https://open.spotify.com/album/5oOUql0emApXHIPsMY1tll"
+      },
+      "artists": [
+        {
+          "name": "knight knight",
+          "url": "https://open.spotify.com/artist/7ykZNsdah5u9qzEJ6cvrgg"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "down by the river",
+      "url": "https://open.spotify.com/track/776c0Bqc4CPeqEusxUMtOG"
     },
     {
       "album": {
@@ -5714,7 +5750,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 144545,
       "name": "Incandescent",
       "url": "https://open.spotify.com/track/58Mea6sDTP0rbZ4YLpT3Xu"
@@ -6059,6 +6095,32 @@
     },
     {
       "album": {
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/7z3DQroXW3qIvGrjGZVveG"
+      },
+      "artists": [
+        {
+          "name": "Smith Beats",
+          "url": "https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u"
+        },
+        {
+          "name": "Banks",
+          "url": "https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU"
+        },
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Kindred",
+      "url": "https://open.spotify.com/track/1stN6sbYsN9Ii00FKi2YkG"
+    },
+    {
+      "album": {
         "name": "kinetic",
         "url": "https://open.spotify.com/album/2fhAlQRFaWkOBEUqCMVIxq"
       },
@@ -6092,7 +6154,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-24",
       "duration_ms": 135757,
       "name": "kokoro",
       "url": "https://open.spotify.com/track/2s3qMwGpx58YfJMtonpo21"
@@ -6300,6 +6362,28 @@
       "duration_ms": 132923,
       "name": "Late Night Strings",
       "url": "https://open.spotify.com/track/5SicbedUY1AEBr2FbR8qcn"
+    },
+    {
+      "album": {
+        "name": "late nights",
+        "url": "https://open.spotify.com/album/6P2n48m1s7DsjEPESdTSdG"
+      },
+      "artists": [
+        {
+          "name": "someday",
+          "url": "https://open.spotify.com/artist/5qXb2k1THc04mE2x1QGxlv"
+        },
+        {
+          "name": "tezpu",
+          "url": "https://open.spotify.com/artist/4qsNTmhzMYuDilyDFbJFp2"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147237,
+      "name": "late nights",
+      "url": "https://open.spotify.com/track/721Bki4eKI2WxkwrPPHW3c"
     },
     {
       "album": {
@@ -7298,6 +7382,28 @@
       "duration_ms": 144000,
       "name": "Maybes",
       "url": "https://open.spotify.com/track/1wChTOTxJtY33UEQAyjvLx"
+    },
+    {
+      "album": {
+        "name": "Me & My Dreams",
+        "url": "https://open.spotify.com/album/5fEPYoheooSb8JvGu9X8Li"
+      },
+      "artists": [
+        {
+          "name": "Antonius B",
+          "url": "https://open.spotify.com/artist/6eZyHHxTWb2rHy2kRPtj0s"
+        },
+        {
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122181,
+      "name": "Me & My Dreams",
+      "url": "https://open.spotify.com/track/4WbTS3tKGfxNxNAU6rjq8a"
     },
     {
       "album": {
@@ -13421,6 +13527,24 @@
     },
     {
       "album": {
+        "name": "vision",
+        "url": "https://open.spotify.com/album/5pBoODdZd9qJQHMRmHnrn5"
+      },
+      "artists": [
+        {
+          "name": "deneb glow",
+          "url": "https://open.spotify.com/artist/0vE06GEOhx9qwsvLNgaJ3l"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "vision",
+      "url": "https://open.spotify.com/track/6lKuDS6wWeWfqtjzWAbsIh"
+    },
+    {
+      "album": {
         "name": "waitingfor.",
         "url": "https://open.spotify.com/album/3PtY6hGRqNzJquQm14oWrQ"
       },
@@ -13726,6 +13850,24 @@
       "duration_ms": 175350,
       "name": "winds on the shore",
       "url": "https://open.spotify.com/track/5dw9OXdYkq0nvoa1rmY07M"
+    },
+    {
+      "album": {
+        "name": "Close To Home",
+        "url": "https://open.spotify.com/album/4gWonxCCuVvGg3hcnF2Gzk"
+      },
+      "artists": [
+        {
+          "name": "Bcalm",
+          "url": "https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144615,
+      "name": "Wishful",
+      "url": "https://open.spotify.com/track/7LQLDASdfCRXYNCw6pUukK"
     },
     {
       "album": {

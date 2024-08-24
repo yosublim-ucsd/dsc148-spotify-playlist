@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-131 songs - 7 hr 1 min
+132 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Amor Falsificado](https://open.spotify.com/track/6WnwnMSRkihOPbuC7TN3BR) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Amor Falsificado](https://open.spotify.com/album/39lPbTks55YEHh4J9yZqpT) | 3:26 | 2023-01-03 |  |
 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 | 2023-01-03 |  |
 | [Aonde Quer Chegar](https://open.spotify.com/track/6bcvIgM2W5kaMozN2L9e0k) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Aonde Quer Chegar](https://open.spotify.com/album/4OgqLEkwazzYv1snqUOQlo) | 3:11 | 2023-01-03 |  |
+| [Aquele 1% \- Ao Vivo](https://open.spotify.com/track/0Eu1DRLKILhNqsYh48a2DP) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT) | [Duetos \(Ao Vivo\)](https://open.spotify.com/album/659HNwQlvbAt8vGOPDJspp) | 2:56 | 2024-07-09 |  |
 | [Arranhão \- Ao Vivo](https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Arranhão \(Ao Vivo\)](https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z) | 2:33 | 2023-01-03 |  |
 | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [ASSIM NASCE UM BÊBADO](https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3) | 3:43 | 2023-01-03 |  |
 | [Assim Você Mata o Papai \- Ao Vivo](https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [De Volta Pro Amanhã, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E) | 1:59 | 2023-01-03 |  |
@@ -62,7 +63,7 @@
 | [Figurinha \- Ao Vivo](https://open.spotify.com/track/3qdkx26Wg8KlvyuiAprREm) | [Douglas & Vinicius](https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro), [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB) | [Ao Vivo No Golf Estate](https://open.spotify.com/album/7z6qoxXTPIfJkME28S1uXn) | 3:26 | 2023-11-17 | 2024-03-30 |
 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 | 2023-01-03 |  |
 | [Gaiola \- Ao Vivo](https://open.spotify.com/track/7qQPvdV9ussEfEZ6nfhbqr) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo\)](https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j) | 3:15 | 2023-11-17 |  |
-| [Graveto \- Ao Vivo](https://open.spotify.com/track/7AZPao1jegnylQcnDfNBxl) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode Do Pericão II, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0) | 2:48 | 2023-01-03 |  |
+| [Graveto \- Ao Vivo](https://open.spotify.com/track/7AZPao1jegnylQcnDfNBxl) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Pagode Do Pericão II, Pt\. 2 \(Ao Vivo\)](https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0) | 2:48 | 2023-01-03 | 2024-08-24 |
 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 | 2023-01-03 |  |
 | [Hold On](https://open.spotify.com/track/6pA2g7vd1G2yWbOJg7SgPh) | [Legard](https://open.spotify.com/artist/1kj0x0ZeBM6Yd5mfVuRCnT) | [Hold On](https://open.spotify.com/album/14Ld5fK0KulZMN0GHnt0eN) | 2:59 | 2023-01-03 | 2023-09-22 |
 | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 | 2023-01-03 |  |

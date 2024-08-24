@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 
 ### [This Is Libido](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4zOsk6)
 
-> This is Libido\. The essential tracks, all in one playlist.
+> This Is Libido\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,931 likes - 48 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,936 likes - 48 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 | 5 | [Tres](https://open.spotify.com/track/0cIxbSC4rzseQW4ohhnree) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 3:42 |
 | 6 | [Sed](https://open.spotify.com/track/4pAUE8Xf67tbhXK26TSAcQ) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw) | 1:53 |
 | 7 | [Frágil](https://open.spotify.com/track/4NkvNThbuHEwQ9elX0xtV9) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 3:38 |
-| 8 | [Tan Suave](https://open.spotify.com/track/4zOjJYRwuUBpA58Rzs0Hxs) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 3:42 |
+| 8 | [Malvada](https://open.spotify.com/track/6XE3FWj6GzwKK4o9MgupJj) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 2:58 |
 | 9 | [No Voy a Verte Más](https://open.spotify.com/track/5ILyT6kcx0NpBp7QTGWvml) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 3:50 |
 | 10 | [Ojos de Ángel](https://open.spotify.com/track/3ucX0vTy8Zy95OwalNgu4D) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw) | 2:50 |
 | 11 | [Sin Rencor](https://open.spotify.com/track/6SSJr60opa48UFAcbUCdGL) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 4:39 |
-| 12 | [Malvada](https://open.spotify.com/track/6XE3FWj6GzwKK4o9MgupJj) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 2:58 |
+| 12 | [Tan Suave](https://open.spotify.com/track/4zOjJYRwuUBpA58Rzs0Hxs) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Corazones Blancos](https://open.spotify.com/album/3aJCOemV1UhEtNYBDmpX7N) | 3:42 |
 | 13 | [Hembra](https://open.spotify.com/track/16sX7ktvlTcYWjHlJtKxZ7) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 4:11 |
 | 14 | [Libido](https://open.spotify.com/track/1N394dXTpjm6UDHJ89koXK) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Libido](https://open.spotify.com/album/2XeN5D4iNJAILDK4ehOxtw) | 4:58 |
 | 15 | [Universo](https://open.spotify.com/track/3tAmyOiJOpznwi9MvE3APj) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 3:52 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4zOsk6.md) - [plain]
 | 47 | [La Mujer](https://open.spotify.com/track/2EvrCdXPxTlvjBYzlDsJnT) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Rarezas](https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz) | 3:16 |
 | 48 | [Something](https://open.spotify.com/track/0m76CdizGAfdk7ARAYIqlN) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo en Londres](https://open.spotify.com/album/1TCsjLo40mSF7VroxYyWVc) | 2:46 |
 
-Snapshot ID: `ZsUuAAAAAAA7EbqBsZUaosW69DXxGSvl`
+Snapshot ID: `ZsZ/gAAAAABocZopocejJMRZgoiiyd7n`

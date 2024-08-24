@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 
 > Час перепочити 🌻🧘🌲
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,913 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,932 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2X2YHi92QqA.md) - [plain]
 | 52 | [Makoterchyk](https://open.spotify.com/track/2VHw1Ie1Job3uYw0GYMOwL) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Makoterchyk](https://open.spotify.com/album/0TOZytY7z2GIfbFqVei7Dw) | 4:15 |
 | 53 | [Мої гори](https://open.spotify.com/track/1xSZU917Nak0KAlHPOTgwt) | [FIЇNKA](https://open.spotify.com/artist/13NAXNT9stnvGPXbkj7d9u) | [Мої гори](https://open.spotify.com/album/5Zmrb5grx6WfEvCwBaH7ex) | 3:23 |
 | 54 | [Як же тобі там?](https://open.spotify.com/track/5sDurqXbFYuIW4rKwkPI07) | [Лівінстон](https://open.spotify.com/artist/6hdOzSe3EIQzPGqKtRX6q9) | [Як же тобі там?](https://open.spotify.com/album/43iMjqNTbopBrvGpvMZrBZ) | 4:04 |
-| 55 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 |
-| 56 | [Я тебе не чую](https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я тебе не чую](https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op) | 2:35 |
+| 55 | [Я тебе не чую](https://open.spotify.com/track/6OUfXrZk7Ti5mTh73Mw3Lj) | [To Eternity](https://open.spotify.com/artist/239RzDmVa4D8Or8e9ZZX5Q), [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я тебе не чую](https://open.spotify.com/album/02biUbwR7SZa0kO9FI68Op) | 2:35 |
+| 56 | [Воля \- full version](https://open.spotify.com/track/3YdeXVe2cwGjHOCsgDPXsb) | [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [Воля \(full version\)](https://open.spotify.com/album/4ZnOl68KK8mpwi9D13Fzhf) | 2:44 |
 | 57 | [Ти сонце я сніг](https://open.spotify.com/track/22kDdPFzyCHbqQC05fb1dz) | [ba.latskii](https://open.spotify.com/artist/7fT4gOIpKd0HOOGu8MSmWz) | [Ти сонце я сніг](https://open.spotify.com/album/4Fe2mgI9EEtrGj24IZcmpM) | 3:53 |
 | 58 | [Касета](https://open.spotify.com/track/2FQ7IeXv68DH72sTHdR9tn) | [Tof](https://open.spotify.com/artist/6uflAfOcyhgcTzIO5f8c3y), [Білий Бо](https://open.spotify.com/artist/5jA8GsN4qtk88Pc0pMWRWM) | [Касета](https://open.spotify.com/album/1sw8pB9yJTdZhesv8Jf5LA) | 3:03 |
-| 59 | [З тобою](https://open.spotify.com/track/5ErRotOfxOqygtKwW1Bkjd) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [З тобою](https://open.spotify.com/album/5nHYLXock3TMYnuOJrLAWf) | 3:00 |
-| 60 | [Цілуй](https://open.spotify.com/track/5DAzNt68KuvlFP0ntLJ6qO) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Цілуй](https://open.spotify.com/album/4j3Zg22aQBr2R61zVe2LRC) | 4:21 |
+| 59 | [Цілуй](https://open.spotify.com/track/5DAzNt68KuvlFP0ntLJ6qO) | [Adam](https://open.spotify.com/artist/19JYV5zLhGkyqClNjdSfdb), [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev) | [Цілуй](https://open.spotify.com/album/4j3Zg22aQBr2R61zVe2LRC) | 4:21 |
+| 60 | [З тобою](https://open.spotify.com/track/5ErRotOfxOqygtKwW1Bkjd) | [Tina Karol](https://open.spotify.com/artist/0W3C8tSz8ERP2t37m6Ru6r) | [З тобою](https://open.spotify.com/album/5nHYLXock3TMYnuOJrLAWf) | 3:00 |
 
 Snapshot ID: `ZpFW5QAAAACMOiEV4t6zFBhxgkqDsmqd`
