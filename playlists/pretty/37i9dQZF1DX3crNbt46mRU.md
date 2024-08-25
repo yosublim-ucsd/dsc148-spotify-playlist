@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,635 likes - 96 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,647 likes - 96 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 3 | [WE PRAY](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 |
 | 4 | [Airforce](https://open.spotify.com/track/52DjIXARE3qh096lgv77XA) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Airforce](https://open.spotify.com/album/2FZfpEgaQCVeYLieGFVorP) | 2:45 |
 | 5 | [Tentation \(feat\. Hamza\)](https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Tentation \(feat\. Hamza\)](https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP) | 2:55 |
-| 6 | [Wait for You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait for You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
+| 6 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
 | 7 | [Dangerous](https://open.spotify.com/track/3zozYpM2oou9n8eF2aU7zv) | [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW), [XEN](https://open.spotify.com/artist/1Yso012dk6JFCIGwvCxTBS) | [Dangerous](https://open.spotify.com/album/5nqZDwQm7SKXGghYyzyst6) | 2:25 |
 | 8 | [Haare trocknen](https://open.spotify.com/track/3pumsMT8WGMx4ddvzKmAPf) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg) | [Haare trocknen](https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF) | 2:52 |
 | 9 | [Lose Control](https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Lose Control](https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91) | 4:20 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 20 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |
 | 21 | [LEARN](https://open.spotify.com/track/3CnALqZaKwHyqHIlkSLDke) | [James Gruntz](https://open.spotify.com/artist/3vyUTiW9vClzOUXCHVNWsy) | [LEARN](https://open.spotify.com/album/3URbnPCaLXrNHfAXtGCMCe) | 3:39 |
 | 22 | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/track/1DXriJxszQLBseOwBD6fX4) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/album/61deJXJoZL1sMneoUmLYnu) | 2:50 |
-| 23 | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
+| 23 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
 | 24 | [Nur ein Wort](https://open.spotify.com/track/6qA3oTgV2MQrehl3wQLlO5) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Nur ein Wort](https://open.spotify.com/album/73kEVUOSZ0Z8CiMCO4unLt) | 2:22 |
 | 25 | [Il Tempo Cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il Tempo Cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 |
 | 26 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 |

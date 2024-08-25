@@ -2572,7 +2572,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 213024,
       "name": "BARA PRADA",
       "url": "https://open.spotify.com/track/5AjUKk5WuySZegVLQJUj60"
@@ -6064,6 +6064,24 @@
       "duration_ms": 186666,
       "name": "Colors",
       "url": "https://open.spotify.com/track/49aBr2lBFh0LkR84IbsIQz"
+    },
+    {
+      "album": {
+        "name": "coloured concrete",
+        "url": "https://open.spotify.com/album/2bhF8TcYORRGmbgJhbcpPT"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190133,
+      "name": "coloured concrete",
+      "url": "https://open.spotify.com/track/0jV3B8KhjiUrC6jmaBlNnx"
     },
     {
       "album": {
@@ -14515,25 +14533,7 @@
     },
     {
       "album": {
-        "name": "TT",
-        "url": "https://open.spotify.com/album/4yG9GrplfIO6LVTVbxYYbE"
-      },
-      "artists": [
-        {
-          "name": "Thelma",
-          "url": "https://open.spotify.com/artist/6cI9WkOXC2TkdQ0AXb8FXg"
-        }
-      ],
-      "date_added": "2024-06-21",
-      "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
-      "duration_ms": 148064,
-      "name": "HIGHER",
-      "url": "https://open.spotify.com/track/4UPXECdWvxHY7UhgUoP9tW"
-    },
-    {
-      "album": {
-        "name": "HIGHER (feat. SACHA)",
+        "name": "HIGHER",
         "url": "https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla"
       },
       "artists": [
@@ -14554,8 +14554,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 131764,
-      "name": "HIGHER (feat. SACHA)",
+      "name": "HIGHER",
       "url": "https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM"
+    },
+    {
+      "album": {
+        "name": "TT",
+        "url": "https://open.spotify.com/album/4yG9GrplfIO6LVTVbxYYbE"
+      },
+      "artists": [
+        {
+          "name": "Thelma",
+          "url": "https://open.spotify.com/artist/6cI9WkOXC2TkdQ0AXb8FXg"
+        }
+      ],
+      "date_added": "2024-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-06-28",
+      "duration_ms": 148064,
+      "name": "HIGHER",
+      "url": "https://open.spotify.com/track/4UPXECdWvxHY7UhgUoP9tW"
     },
     {
       "album": {
@@ -17314,7 +17332,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 155625,
       "name": "isaidimallfuck3dup",
       "url": "https://open.spotify.com/track/2etRYgi7IIzcHD9oKA0VO6"
@@ -22165,6 +22183,32 @@
     },
     {
       "album": {
+        "name": "Murderman (feat. LAZER DIM 700 & VonOff1700)",
+        "url": "https://open.spotify.com/album/4B1LLdiQmOjJl1EjnjTZke"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166274,
+      "name": "Murderman (feat. LAZER DIM 700 & VonOff1700)",
+      "url": "https://open.spotify.com/track/6xUjsKn8CsjmEKR6iwv4Mt"
+    },
+    {
+      "album": {
         "name": "MUSCLE",
         "url": "https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH"
       },
@@ -25365,6 +25409,24 @@
     },
     {
       "album": {
+        "name": "phonetic",
+        "url": "https://open.spotify.com/album/3TSmKJKQneZCgLhLOJ3iTf"
+      },
+      "artists": [
+        {
+          "name": "Haley Bridge",
+          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "phonetic",
+      "url": "https://open.spotify.com/track/58xtrlvib5PVvshQ4u3oPC"
+    },
+    {
+      "album": {
         "name": "PICK UP THE PHONE (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
       },
@@ -27974,7 +28036,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 120030,
       "name": "see you again",
       "url": "https://open.spotify.com/track/0mW95CFGEMqpJ5rOXSvYOg"
@@ -31984,7 +32046,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 182040,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/0Z0dF2btknCnv2BFpT7rlr"
@@ -34526,7 +34588,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 217241,
       "name": "Vanilla Chamomile",
       "url": "https://open.spotify.com/track/1foSVX885covGvZN0O1WtQ"
@@ -34829,7 +34891,7 @@
     },
     {
       "album": {
-        "name": "Wait for You",
+        "name": "Wait For You",
         "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
       },
       "artists": [
@@ -34842,7 +34904,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201533,
-      "name": "Wait for You",
+      "name": "Wait For You",
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
     },
     {

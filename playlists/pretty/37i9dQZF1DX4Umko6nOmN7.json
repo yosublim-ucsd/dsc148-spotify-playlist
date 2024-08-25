@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 620699,
+  "num_followers": 620724,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "All The Little Lights (Anniversary Edition)",
         "url": "https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 256986,
       "name": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
       "url": "https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "It's Not Easy to Write a Love Song",
-        "url": "https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN"
-      },
-      "artists": [
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "It's Not Easy to Write a Love Song",
-      "url": "https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Genom Eld & Vatten - Spotify Singles",
         "url": "https://open.spotify.com/album/4bbIpt6TQSObdFNOlqzPNq"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 186449,
       "name": "Genom Eld & Vatten - Spotify Singles",
       "url": "https://open.spotify.com/track/6TQOA3Fo2vpiEJB41PokcA"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "It's Not Easy to Write a Love Song",
+        "url": "https://open.spotify.com/album/5K6yv4og993B9tUmbc9UiN"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "It's Not Easy to Write a Love Song",
+      "url": "https://open.spotify.com/track/6rOuxWBbbGG61MoEpfnzoI"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1211,38 +1211,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Wonderful",
-        "url": "https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 226689,
-      "name": "Wonderful",
-      "url": "https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 180578,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -1263,6 +1231,38 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 180578,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Wonderful",
+        "url": "https://open.spotify.com/album/3BwgvjyD1pDNyj1VLW0dBw"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 226689,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/3Jm4XJix6nkGiY3IY8mPyu"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Superlativ 97",
         "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 186586,
       "name": "Dina l\u00e4ppar",
       "url": "https://open.spotify.com/track/41zrGMs7h8m1RpVwl380en"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "WILD CHILD",
+        "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 133106,
+      "name": "I Don't Wanna Go Downtown",
+      "url": "https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1367,6 +1383,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Till dig",
+        "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Du & jag",
+      "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "High On You",
         "url": "https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL"
       },
@@ -1383,22 +1415,6 @@
       "duration_ms": 194050,
       "name": "High On You",
       "url": "https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Till dig",
-        "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Du & jag",
-      "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Nyanser av liv",
-        "url": "https://open.spotify.com/album/5uyC93S9gBbzFQTcFdvnNz"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 118532,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/6ehSWpWjyuwbTx4yS1nUf7"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Ellen Krauss \u2013 Acoustic Versions",
         "url": "https://open.spotify.com/album/2ctdUiXbecnKcVxyMLHzv3"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 168874,
       "name": "Inatt (Inget Stoppar Oss Nu) - Live in Church",
       "url": "https://open.spotify.com/track/4G8dAXp2XdDch2cVILY6IB"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Nyanser av liv",
+        "url": "https://open.spotify.com/album/5uyC93S9gBbzFQTcFdvnNz"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 118532,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/6ehSWpWjyuwbTx4yS1nUf7"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1519,26 +1535,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
-        "url": "https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74"
-      },
-      "artists": [
-        {
-          "name": "Danny Saucedo",
-          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
-        },
-        {
-          "name": "Amy Deasismont",
-          "url": "https://open.spotify.com/artist/0pseTX8XD9hjhIknJ07rK9"
-        }
-      ],
-      "duration_ms": 160983,
-      "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
-      "url": "https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "If you love me",
         "url": "https://open.spotify.com/album/60nVtffyFBqZuhUiHiGPUe"
       },
@@ -1555,6 +1551,26 @@
       "duration_ms": 216306,
       "name": "If you love me",
       "url": "https://open.spotify.com/track/1u2PALe54ded9KMIhb9chD"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
+        "url": "https://open.spotify.com/album/0T8v3ZJdXOpKHM8RPfan74"
+      },
+      "artists": [
+        {
+          "name": "Danny Saucedo",
+          "url": "https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN"
+        },
+        {
+          "name": "Amy Deasismont",
+          "url": "https://open.spotify.com/artist/0pseTX8XD9hjhIknJ07rK9"
+        }
+      ],
+      "duration_ms": 160983,
+      "name": "201 (Till f\u00f6rm\u00e5n f\u00f6r Min Stora Dag)",
+      "url": "https://open.spotify.com/track/5guknVJ1c9Wjj7qT2FE8YH"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "let go of me slowly",
-        "url": "https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 207348,
-      "name": "let go of me slowly",
-      "url": "https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "\u00c4ngel",
-        "url": "https://open.spotify.com/album/03UrdydUyMXEvAYCiX1vK2"
+        "name": "let go of me slowly",
+        "url": "https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T"
       },
       "artists": [
         {
-          "name": "FILIPPA",
-          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
         }
       ],
-      "duration_ms": 209840,
-      "name": "\u00c4ngel",
-      "url": "https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ"
+      "duration_ms": 207348,
+      "name": "let go of me slowly",
+      "url": "https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "\u00c4ngel",
+        "url": "https://open.spotify.com/album/03UrdydUyMXEvAYCiX1vK2"
+      },
+      "artists": [
+        {
+          "name": "FILIPPA",
+          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+        }
+      ],
+      "duration_ms": 209840,
+      "name": "\u00c4ngel",
+      "url": "https://open.spotify.com/track/3pz7fuVOmmCfxTwkrVZ7jJ"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Fire Escapes",
         "url": "https://open.spotify.com/album/7kkPQtRxES08kc1r24BpjK"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 170356,
       "name": "Fire Escapes",
       "url": "https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Sally/Hungry Eyes",
-        "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
-      },
-      "artists": [
-        {
-          "name": "June Vide",
-          "url": "https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Sally/Hungry Eyes",
-      "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

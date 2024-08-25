@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 741773,
+  "num_followers": 741889,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "Showbiz",
-        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Unintended",
-      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
         "name": "Trench",
         "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 330986,
       "name": "Bandito",
       "url": "https://open.spotify.com/track/5INKIG4QNuD4xq7qZcfPzp"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
+        "name": "Showbiz",
+        "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Unintended",
+      "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
     },
     {
       "added_at": "2024-06-27 15:42:54",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-06-27 15:42:54",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 347573,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/4u4gi3VbzXQopL8VatxoPV"
-    },
-    {
-      "added_at": "2024-06-27 15:42:54",
-      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 258306,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/53qf90GmWQ70MH7LNzJHZb"
+    },
+    {
+      "added_at": "2024-06-27 15:42:54",
+      "album": {
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 347573,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/4u4gi3VbzXQopL8VatxoPV"
     },
     {
       "added_at": "2024-06-27 15:42:54",

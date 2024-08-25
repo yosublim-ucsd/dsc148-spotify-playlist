@@ -2145,6 +2145,28 @@
     },
     {
       "album": {
+        "name": "Airforce",
+        "url": "https://open.spotify.com/album/2FZfpEgaQCVeYLieGFVorP"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165013,
+      "name": "Airforce",
+      "url": "https://open.spotify.com/track/52DjIXARE3qh096lgv77XA"
+    },
+    {
+      "album": {
         "name": "Airplanes",
         "url": "https://open.spotify.com/album/6jBdckldnGZlXigVcXCOFJ"
       },
@@ -6250,7 +6272,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
@@ -9102,7 +9124,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 130409,
       "name": "BYE X3 (MIT JEREMIAS)",
       "url": "https://open.spotify.com/track/0ULpry2sJKjbSzabrh0yL3"
@@ -12592,6 +12614,28 @@
       "duration_ms": 163868,
       "name": "Dieses Leben...",
       "url": "https://open.spotify.com/track/0HkUMcZ3HQTLZiAQzUHrEI"
+    },
+    {
+      "album": {
+        "name": "DILEMIN",
+        "url": "https://open.spotify.com/album/5AAUlDsNabwWAHMSnRQdOv"
+      },
+      "artists": [
+        {
+          "name": "Eno",
+          "url": "https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131626,
+      "name": "DILEMIN",
+      "url": "https://open.spotify.com/track/2dARGs50kBX5FKi3oCivIQ"
     },
     {
       "album": {
@@ -19627,6 +19671,28 @@
     },
     {
       "album": {
+        "name": "GESPENSTER",
+        "url": "https://open.spotify.com/album/3DHMTc37qNDdA1KEtP5YWM"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "treamiboii",
+          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "GESPENSTER",
+      "url": "https://open.spotify.com/track/0IFHokanzfRH4Jlxq127fO"
+    },
+    {
+      "album": {
         "name": "Gest\u00e4ndnis",
         "url": "https://open.spotify.com/album/1XFDJO0I4f1QnqF77KGjoV"
       },
@@ -20600,7 +20666,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -20724,6 +20790,28 @@
       "duration_ms": 191958,
       "name": "Grapejuice",
       "url": "https://open.spotify.com/track/4j6kId9QIqhoXvqHKgSKa0"
+    },
+    {
+      "album": {
+        "name": "Grau",
+        "url": "https://open.spotify.com/album/3mtskI0keFB3wDrgicxwA6"
+      },
+      "artists": [
+        {
+          "name": "Apsilon",
+          "url": "https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170290,
+      "name": "Grau",
+      "url": "https://open.spotify.com/track/547ANtisgBzqbywQfQBtK8"
     },
     {
       "album": {
@@ -21106,6 +21194,36 @@
       "duration_ms": 170500,
       "name": "Ha-Satan",
       "url": "https://open.spotify.com/track/3StKvZCPfREqoxvUfa5FxF"
+    },
+    {
+      "album": {
+        "name": "Haare trocknen",
+        "url": "https://open.spotify.com/album/7jWDv0Hnw555axkqu2LbyF"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172065,
+      "name": "Haare trocknen",
+      "url": "https://open.spotify.com/track/3pumsMT8WGMx4ddvzKmAPf"
     },
     {
       "album": {
@@ -23068,7 +23186,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -28940,7 +29058,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 185283,
       "name": "Lieb mich",
       "url": "https://open.spotify.com/track/7HTbrUVnzVyU7U8Jm4ZyZo"
@@ -32823,6 +32941,24 @@
     },
     {
       "album": {
+        "name": "Milano",
+        "url": "https://open.spotify.com/album/6XY09Dk3iJQSF7vlri1SPw"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164771,
+      "name": "Milano",
+      "url": "https://open.spotify.com/track/1vjLSrChWwFaA59qlovjAv"
+    },
+    {
+      "album": {
         "name": "Himmel \u00fcber Berlin",
         "url": "https://open.spotify.com/album/68uZ1QirB4TtAyHzcoLGWK"
       },
@@ -34648,7 +34784,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 147586,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/3ilgxZl5g7MOQCUiky3VOG"
@@ -36142,7 +36278,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 183850,
       "name": "Nie deins",
       "url": "https://open.spotify.com/track/6cSfO7AiNbM9J1TNiYkWa3"
@@ -42580,6 +42716,24 @@
       "duration_ms": 170816,
       "name": "Round One",
       "url": "https://open.spotify.com/track/0VC3WEoYACFhohnz5qdRx2"
+    },
+    {
+      "album": {
+        "name": "RSQ8",
+        "url": "https://open.spotify.com/album/76oMginyxsvashZtY39mxy"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118762,
+      "name": "RSQ8",
+      "url": "https://open.spotify.com/track/1Uzw62WP2caOIgoIvDobzd"
     },
     {
       "album": {
@@ -49858,7 +50012,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
@@ -49876,7 +50030,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
@@ -50226,7 +50380,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 193602,
       "name": "Traum",
       "url": "https://open.spotify.com/track/1gGinE4DNA7TVPvyIl8xPp"
@@ -53142,7 +53296,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 167053,
       "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
       "url": "https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX"
@@ -53424,6 +53578,40 @@
       "duration_ms": 211826,
       "name": "We Made It",
       "url": "https://open.spotify.com/track/5IQvs70wHdurk63TnCV6ZP"
+    },
+    {
+      "album": {
+        "name": "WE PRAY",
+        "url": "https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233406,
+      "name": "WE PRAY",
+      "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
     },
     {
       "album": {
@@ -55924,6 +56112,24 @@
       "duration_ms": 148000,
       "name": "XAY\u00ceN",
       "url": "https://open.spotify.com/track/0YQ66kj6lI1AAFFPJKTh8S"
+    },
+    {
+      "album": {
+        "name": "Ya Habibi",
+        "url": "https://open.spotify.com/album/0nCs0vsIAcYNEyDlDvth78"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144813,
+      "name": "Ya Habibi",
+      "url": "https://open.spotify.com/track/315qV7Sx21xfDerY4SC5nF"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 6117,
+  "num_followers": 6116,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAABgLVR5Q1gBL9piFzfEQQR+",
+  "snapshot_id": "ZsfRAAAAAABvBpVWhpcuOOb8+9BE0Ly6",
   "tracks": [
     {
       "added_at": null,
@@ -396,7 +396,7 @@
       "added_at": null,
       "album": {
         "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 168200,
-      "name": "Me Esta Esperando Mar\u00eda",
-      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
+      "duration_ms": 217440,
+      "name": "Maria Isabel",
+      "url": "https://open.spotify.com/track/3nDbscVfqMmR8AtuCdCh6l"
     },
     {
       "added_at": null,
@@ -464,7 +464,7 @@
       "added_at": null,
       "album": {
         "name": "El Tirador",
-        "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Maria Isabel",
-      "url": "https://open.spotify.com/track/3nDbscVfqMmR8AtuCdCh6l"
+      "duration_ms": 168200,
+      "name": "Me Esta Esperando Mar\u00eda",
+      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
     },
     {
       "added_at": null,
@@ -588,6 +588,22 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
+      "duration_ms": 133000,
+      "name": "As\u00ed lo Quiso \u00c9l",
+      "url": "https://open.spotify.com/track/4K2NgTCeLM0KkrdZpGYAw6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
       "duration_ms": 173000,
       "name": "El Jaripeo",
       "url": "https://open.spotify.com/track/6G1a8yaZabFLVI1LNA5WHz"
@@ -607,22 +623,6 @@
       "duration_ms": 163000,
       "name": "El Botecito",
       "url": "https://open.spotify.com/track/1Tmtcb57PhTfpsxEPCREXT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "As\u00ed lo Quiso \u00c9l",
-      "url": "https://open.spotify.com/track/4K2NgTCeLM0KkrdZpGYAw6"
     },
     {
       "added_at": null,

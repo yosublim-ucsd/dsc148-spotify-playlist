@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,926 likes - 104 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,930 likes - 104 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 8 | [GO CRAZY](https://open.spotify.com/track/4XGjWw05q3yfzsN9vkRiU8) | [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5), [Øsen](https://open.spotify.com/artist/37gAlZahvuBPUXHqeLfyVo) | [GO CRAZY](https://open.spotify.com/album/5MU7xmlyoKCr7nyp6WruVR) | 2:25 |
 | 9 | [All Night](https://open.spotify.com/track/1rtUGB9XxwnX64t1k34ldu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [All Night \(with Sophie and the Giants\)](https://open.spotify.com/album/0Ef6pDrlRVps38PdMIgfLV) | 2:00 |
 | 10 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 |
-| 11 | [Wait for You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait for You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
+| 11 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
 | 12 | [Slim Pickins](https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:32 |
 | 13 | [September Something](https://open.spotify.com/track/1MBWwJGgfqRl9DQI1hSilH) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [September Something](https://open.spotify.com/album/5biuYKeKdN5ExEtwuOTHid) | 7:28 |
 | 14 | [CARTOON LOVE](https://open.spotify.com/track/3y0MokyxBN8JzQO6WMLd0R) | [KØDE](https://open.spotify.com/artist/33Xf7fZ9kKCjJds6dEFxcM) | [CARTOON LOVE](https://open.spotify.com/album/2yxu9niaAUx9WbYn2rUGVf) | 2:41 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 18 | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/track/1DXriJxszQLBseOwBD6fX4) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC), [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [It Could Have Been Us \(feat\. Griff\)](https://open.spotify.com/album/61deJXJoZL1sMneoUmLYnu) | 2:50 |
 | 19 | [I Hope It Hurts](https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Hope It Hurts](https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF) | 4:09 |
 | 20 | [Mindscape](https://open.spotify.com/track/4L0mNLmlpinVH6m1tjOSyx) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Sielo](https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP), [Nick Strand](https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd) | [Mindscape](https://open.spotify.com/album/4xdtwhroaFhsrJ6tsgQv9E) | 2:24 |
-| 21 | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
+| 21 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
 | 22 | [Highlight](https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Highlight](https://open.spotify.com/album/4z1KgyCoUK2h22jRFnd2yy) | 4:11 |
 | 23 | [For evig](https://open.spotify.com/track/5jG6utApTWd14qsrdoQ50N) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [For evig](https://open.spotify.com/album/09vnUd6RX58pKKofnq5Kdm) | 4:15 |
 | 24 | [Sjenert](https://open.spotify.com/track/7kxYmOGyn8zpXyHzXSvT0r) | [deLillos](https://open.spotify.com/artist/5gsErkGsLeCYCSK0Pxj01N) | [Sjenert](https://open.spotify.com/album/2D2VLXVPsfx6HYXe5XK2T9) | 3:38 |

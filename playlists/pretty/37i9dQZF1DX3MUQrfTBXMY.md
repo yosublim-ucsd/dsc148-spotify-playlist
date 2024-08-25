@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,988 likes - 61 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,028 likes - 61 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Delia Derbyshire. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This Is Delia Derbyshire. Los temas esenciales, todos en una lista.",
   "name": "This Is Delia Derbyshire",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 80200,
       "name": "Delia's Theme",
       "url": "https://open.spotify.com/track/1HSpoFHUmphpjU0RwqbnJz"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-30",
+      "date_removed": null,
       "duration_ms": 67800,
       "name": "Hannett and Delia synth exchanges track 11",
       "url": "https://open.spotify.com/track/2boj4w0TsIZtkT25yPo1zg"
@@ -966,7 +966,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 121573,
       "name": "Hannett and Delia synth exchanges track 14",
       "url": "https://open.spotify.com/track/4HdrI3r3t0t4VwikGGhovW"
@@ -1664,7 +1664,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 63760,
       "name": "Restless Relays",
       "url": "https://open.spotify.com/track/3cVx3TuP0wzLcGr23QIqJi"

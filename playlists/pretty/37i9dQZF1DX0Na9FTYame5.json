@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Montez",
-  "num_followers": 583831,
+  "num_followers": 583866,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "trauen",
+        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "duration_ms": 164011,
+      "name": "trauen",
+      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Ich hass dich",
         "url": "https://open.spotify.com/album/5Jv2VE7PyyoDR8G1qUV5Uw"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 193024,
       "name": "Ich hass dich",
       "url": "https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "trauen",
-        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 164011,
-      "name": "trauen",
-      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Ende der Strasse",
-        "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 156200,
-      "name": "Ende der Strasse",
-      "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Ich schw\u00f6r bei Gott",
         "url": "https://open.spotify.com/album/7jJs0KTEZcKsmToM6YeELg"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Ende der Strasse",
+        "url": "https://open.spotify.com/album/2FeJYliSXXAzXG3lO5XqFZ"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 156200,
+      "name": "Ende der Strasse",
+      "url": "https://open.spotify.com/track/3fl9kXdEeCFrs9ydRkNjVF"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Nie wieder sehen",
         "url": "https://open.spotify.com/album/74nmPMbAbjYQDEtwtHF5ZY"
       },
@@ -1103,42 +1103,6 @@
       "duration_ms": 161212,
       "name": "Nie wieder sehen",
       "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
-        "url": "https://open.spotify.com/album/4wXL9o4tCWcQrrpapKcehl"
-      },
-      "artists": [
-        {
-          "name": "ARY",
-          "url": "https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4"
-        },
-        {
-          "name": "Florentina",
-          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
-        }
-      ],
-      "duration_ms": 129136,
-      "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
-      "url": "https://open.spotify.com/track/1fuVhmutAEfV4exgyyFnIJ"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
-      },
-      "artists": [
-        {
-          "name": "Samra",
-          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
-        }
-      ],
-      "duration_ms": 166748,
-      "name": "1995",
-      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1163,6 +1127,42 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/5BLwflc68gAR6cJG2tU6HK"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "duration_ms": 166748,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/4AdhQGPnOKrH0EJWXc2EEM"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
+        "url": "https://open.spotify.com/album/4wXL9o4tCWcQrrpapKcehl"
+      },
+      "artists": [
+        {
+          "name": "ARY",
+          "url": "https://open.spotify.com/artist/6L7j9oK58YpVLZClqX0iF4"
+        },
+        {
+          "name": "Florentina",
+          "url": "https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo"
+        }
+      ],
+      "duration_ms": 129136,
+      "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
+      "url": "https://open.spotify.com/track/1fuVhmutAEfV4exgyyFnIJ"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "schwarze SUVs",
         "url": "https://open.spotify.com/album/6xkvyVTWRegxKOo0bbZcb2"
       },
@@ -1175,6 +1175,22 @@
       "duration_ms": 169761,
       "name": "schwarze SUVs",
       "url": "https://open.spotify.com/track/6pimu004QBUVyiWJPYylGi"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Elbe",
+        "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
+      },
+      "artists": [
+        {
+          "name": "Bozza",
+          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Elbe",
+      "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1195,22 +1211,6 @@
       "duration_ms": 151026,
       "name": "Zeiten \u00e4ndern nichts (feat. Kool Savas)",
       "url": "https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Elbe",
-        "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
-      },
-      "artists": [
-        {
-          "name": "Bozza",
-          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Elbe",
-      "url": "https://open.spotify.com/track/2kvJnNMqnimkCZUUWjOINy"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Kopf aus",
-        "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
-      },
-      "artists": [
-        {
-          "name": "1986zig",
-          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "Kopf aus",
-      "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "M\u00dcNCHEN GIRLS",
         "url": "https://open.spotify.com/album/2fVsrk8E0lDPlqvVkuVkCV"
       },
@@ -1335,22 +1319,6 @@
       "duration_ms": 171454,
       "name": "M\u00dcNCHEN GIRLS",
       "url": "https://open.spotify.com/track/4uOOTNRIs6HElv4gTPCk8t"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Feuer",
-        "url": "https://open.spotify.com/album/7GOJSTT1IGYEpbaNyNRRJF"
-      },
-      "artists": [
-        {
-          "name": "C\u00c9LINE",
-          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
-        }
-      ],
-      "duration_ms": 157147,
-      "name": "Feuer",
-      "url": "https://open.spotify.com/track/4vipRzDpYDtuRjWSL5UxO0"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1371,6 +1339,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Kopf aus",
+        "url": "https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "Kopf aus",
+      "url": "https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Fieber / Glatteis",
         "url": "https://open.spotify.com/album/6eNrbdwrN1GE7VWeiDc11f"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 202709,
       "name": "Glatteis",
       "url": "https://open.spotify.com/track/1z9NVyu6rOFQR57vA94xbR"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Feuer",
+        "url": "https://open.spotify.com/album/7GOJSTT1IGYEpbaNyNRRJF"
+      },
+      "artists": [
+        {
+          "name": "C\u00c9LINE",
+          "url": "https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA"
+        }
+      ],
+      "duration_ms": 157147,
+      "name": "Feuer",
+      "url": "https://open.spotify.com/track/4vipRzDpYDtuRjWSL5UxO0"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Normal zu lieben",
-        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "Normal zu lieben",
-      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "S1",
         "url": "https://open.spotify.com/album/28Ud7hGlfVUwAMWxkW1RoJ"
       },
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Normal zu lieben",
+        "url": "https://open.spotify.com/album/0TM0URyKK7Z9yRjzBx5Oxz"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "Normal zu lieben",
+      "url": "https://open.spotify.com/track/5BfAcaTKnD5s6hkwrK6EhQ"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Verlieren/Gefunden",
         "url": "https://open.spotify.com/album/5sHrdD7S86kT85JsOtxOgi"
       },
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "SUPERHERO Pt. II",
-        "url": "https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69"
+        "name": "Ein Auge blau",
+        "url": "https://open.spotify.com/album/3CM6jDh6ms00unaBkIReQF"
       },
       "artists": [
         {
-          "name": "Farid Bang",
-          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
         }
       ],
-      "duration_ms": 179226,
-      "name": "SUPERHERO Pt. II",
-      "url": "https://open.spotify.com/track/1si5jQY9oRUPh8jGrsX3B8"
+      "duration_ms": 182396,
+      "name": "Ein Auge blau",
+      "url": "https://open.spotify.com/track/1po98uYmh7Wf2GFBOKQNGF"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Ein Auge blau",
-        "url": "https://open.spotify.com/album/3CM6jDh6ms00unaBkIReQF"
+        "name": "SUPERHERO Pt. II",
+        "url": "https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69"
       },
       "artists": [
         {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
         }
       ],
-      "duration_ms": 182396,
-      "name": "Ein Auge blau",
-      "url": "https://open.spotify.com/track/1po98uYmh7Wf2GFBOKQNGF"
+      "duration_ms": 179226,
+      "name": "SUPERHERO Pt. II",
+      "url": "https://open.spotify.com/track/1si5jQY9oRUPh8jGrsX3B8"
     },
     {
       "added_at": "2024-08-22 22:00:00",

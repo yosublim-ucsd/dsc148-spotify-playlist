@@ -1,12 +1,12 @@
 {
-  "description": "This Is Julieta Venegas. \u0412\u0441\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u0442\u0440\u0435\u043a\u0438 \u0432 \u043e\u0434\u043d\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435.",
-  "num_followers": 212829,
+  "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
+  "num_followers": 212863,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAADc+DNkeuVHVINmMlX0evaU",
+  "snapshot_id": "ZsfRAAAAAABJPJKWcaQOiRSSafnHOppb",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 200706,
+      "name": "Tu Calor",
+      "url": "https://open.spotify.com/track/4yneB7RBZB9EAGlgdXKzw4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leb\u00f3n & Co.",
         "url": "https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 207396,
       "name": "Puedo Sentirlo (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/1E7C32U8IgXEOPAUg5uNpm"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 200706,
-      "name": "Tu Calor",
-      "url": "https://open.spotify.com/track/4yneB7RBZB9EAGlgdXKzw4"
     },
     {
       "added_at": null,
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 198373,
-      "name": "Te Voy a Mostrar",
-      "url": "https://open.spotify.com/track/6bxZEPqWc9oSqYBa1NgA7d"
+      "duration_ms": 216746,
+      "name": "M\u00edrame Bien",
+      "url": "https://open.spotify.com/track/3wNtT8VM9QLIk4NklKDCbQ"
     },
     {
       "added_at": null,

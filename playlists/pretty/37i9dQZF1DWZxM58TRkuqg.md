@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Yovie Widianto, Hivi!
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,683 likes - 84 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,811 likes - 84 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

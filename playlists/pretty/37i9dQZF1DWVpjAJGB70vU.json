@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: Alan Jackson",
-  "num_followers": 1905896,
+  "num_followers": 1906732,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Kickin' It Up",
-        "url": "https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK"
+        "name": "A Thousand Memories",
+        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
       },
       "artists": [
         {
-          "name": "John Michael Montgomery",
-          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+          "name": "Rhett Akins",
+          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Be My Baby Tonight",
-      "url": "https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7"
+      "duration_ms": 243106,
+      "name": "That Ain't My Truck",
+      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1059,18 +1059,34 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "A Thousand Memories",
-        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
+        "name": "Kickin' It Up",
+        "url": "https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK"
       },
       "artists": [
         {
-          "name": "Rhett Akins",
-          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
+          "name": "John Michael Montgomery",
+          "url": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
         }
       ],
-      "duration_ms": 243106,
-      "name": "That Ain't My Truck",
-      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
+      "duration_ms": 172200,
+      "name": "Be My Baby Tonight",
+      "url": "https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Clay Walker",
+        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 166626,
+      "name": "What's It to You",
+      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Clay Walker",
-        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 166626,
-      "name": "What's It to You",
-      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "T-R-O-U-B-L-E",
         "url": "https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "I Still Believe In You",
-        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Six Days On The Road",
         "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 172080,
       "name": "Six Days On The Road",
       "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1203,38 +1203,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "You've Got to Stand for Something",
-        "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Tippin",
-          "url": "https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M"
-        }
-      ],
-      "duration_ms": 182280,
-      "name": "You've Got to Stand for Something",
-      "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Honky Tonk Attitude",
-        "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 272066,
-      "name": "John Deere Green",
-      "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "No Doubt About It",
         "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
@@ -1247,6 +1215,38 @@
       "duration_ms": 162466,
       "name": "Wink",
       "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Here In The Real World",
+        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Chasin' That Neon Rainbow",
+      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "You've Got to Stand for Something",
+        "url": "https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Tippin",
+          "url": "https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M"
+        }
+      ],
+      "duration_ms": 182280,
+      "name": "You've Got to Stand for Something",
+      "url": "https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Here In The Real World",
-        "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
+        "name": "Honky Tonk Attitude",
+        "url": "https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 185373,
-      "name": "Chasin' That Neon Rainbow",
-      "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+      "duration_ms": 272066,
+      "name": "John Deere Green",
+      "url": "https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "The Greatest Hits Collection",
+        "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 147640,
+      "name": "Tall, Tall Trees",
+      "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "American Pride",
         "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 188840,
       "name": "Life's a Dance",
       "url": "https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "The Greatest Hits Collection",
-        "url": "https://open.spotify.com/album/0D20LzP7TOZhA18ANU1bid"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "Tall, Tall Trees",
-      "url": "https://open.spotify.com/track/0MMdmhfFXpflLBJKq4cdYA"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "When Love Finds You",
-        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
-      },
-      "artists": [
-        {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
-        }
-      ],
-      "duration_ms": 315973,
-      "name": "Go Rest High On That Mountain",
-      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Ricochet",
         "url": "https://open.spotify.com/album/1xTj0qEACdDpW7iVyWoet8"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 183493,
       "name": "Daddy's Money",
       "url": "https://open.spotify.com/track/7itHyuODr4R7Fdz454zn3F"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "It Matters to Me",
-        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
-      },
-      "artists": [
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
-        }
-      ],
-      "duration_ms": 197666,
-      "name": "It Matters to Me",
-      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 169546,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "It Matters to Me",
+        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "It Matters to Me",
+      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "All I Can Be",
-        "url": "https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA"
+        "name": "The Tractors",
+        "url": "https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96"
       },
       "artists": [
         {
-          "name": "Collin Raye",
-          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+          "name": "The Tractors",
+          "url": "https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9"
         }
       ],
-      "duration_ms": 231506,
-      "name": "Love, Me",
-      "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
+      "duration_ms": 236466,
+      "name": "Baby Likes To Rock It",
+      "url": "https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Tractors",
-        "url": "https://open.spotify.com/album/2fwvBbK1JkkzTAkSDBAk96"
+        "name": "All I Can Be",
+        "url": "https://open.spotify.com/album/4FpmJIF1jrWpgKaSp7jWmA"
       },
       "artists": [
         {
-          "name": "The Tractors",
-          "url": "https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9"
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Baby Likes To Rock It",
-      "url": "https://open.spotify.com/track/2kQtKFkPMdL5Jf7xk4T9SI"
+      "duration_ms": 231506,
+      "name": "Love, Me",
+      "url": "https://open.spotify.com/track/5cCLKP66G2PJEorzYQVXHR"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "I Left Something Turned On At Home",
+      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Brand New Man",
         "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 160360,
       "name": "Better Class of Losers",
       "url": "https://open.spotify.com/track/3EiXWMUIE0bNNo36suPrRQ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "I Left Something Turned On At Home",
-      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Did I Shave My Legs For This?",
-        "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
-      },
-      "artists": [
-        {
-          "name": "Deana Carter",
-          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "We Danced Anyway",
-      "url": "https://open.spotify.com/track/4fOFOwrAHA9PdhOL7lciok"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Whatcha Gonna Do With A Cowboy",
         "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
       },
@@ -1895,6 +1879,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Did I Shave My Legs For This?",
+        "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
+      },
+      "artists": [
+        {
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "We Danced Anyway",
+      "url": "https://open.spotify.com/track/4fOFOwrAHA9PdhOL7lciok"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Can't Run From Yourself",
         "url": "https://open.spotify.com/album/6AFaPe8uSnqCqP6kbq0CuS"
       },
@@ -1907,6 +1907,22 @@
       "duration_ms": 250533,
       "name": "Two Sparrows In A Hurricane",
       "url": "https://open.spotify.com/track/7k9F26WpokhmRjzwxlCsCP"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "(This Ain't) No Thinkin' Thing",
+      "url": "https://open.spotify.com/track/44YTMbU3aqvE7q09rjyUb3"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1943,22 +1959,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Sticks and Stones",
-        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
-      },
-      "artists": [
-        {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        }
-      ],
-      "duration_ms": 218053,
-      "name": "Sticks and Stones",
-      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "No Doubt About It",
         "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+        "name": "Sticks and Stones",
+        "url": "https://open.spotify.com/album/0MhvdNZeIBuzjyG1jBDTbq"
       },
       "artists": [
         {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
         }
       ],
-      "duration_ms": 242266,
-      "name": "(This Ain't) No Thinkin' Thing",
-      "url": "https://open.spotify.com/track/44YTMbU3aqvE7q09rjyUb3"
+      "duration_ms": 218053,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/1l6aokk2Hw72z0mFPKgPmm"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Ten Thousand Angels",
-        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
-      },
-      "artists": [
-        {
-          "name": "Mindy McCready",
-          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Guys Do It All the Time",
-      "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Something In Red",
         "url": "https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq"
       },
@@ -2035,6 +2019,22 @@
       "duration_ms": 176040,
       "name": "Except for Monday",
       "url": "https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Ten Thousand Angels",
+        "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
+      },
+      "artists": [
+        {
+          "name": "Mindy McCready",
+          "url": "https://open.spotify.com/artist/2uB5sjjJwj4kB6TrRGLYJO"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Guys Do It All the Time",
+      "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Wynonna",
-        "url": "https://open.spotify.com/album/1Z3psPyYFp0pUA1MupFbLi"
-      },
-      "artists": [
-        {
-          "name": "Wynonna",
-          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "No One Else On Earth",
-      "url": "https://open.spotify.com/track/6Ek2xNsKHwkuYBqvzj20rl"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "The Essential Mary Chapin Carpenter",
         "url": "https://open.spotify.com/album/5XZgZAIHcrnQwcAWq4Tbn9"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 243106,
       "name": "He Thinks He'll Keep Her",
       "url": "https://open.spotify.com/track/5ANnHcFKjGAC98A7Qkaepd"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Wynonna",
+        "url": "https://open.spotify.com/album/1Z3psPyYFp0pUA1MupFbLi"
+      },
+      "artists": [
+        {
+          "name": "Wynonna",
+          "url": "https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1"
+        }
+      ],
+      "duration_ms": 240706,
+      "name": "No One Else On Earth",
+      "url": "https://open.spotify.com/track/6Ek2xNsKHwkuYBqvzj20rl"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2263,18 +2263,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX"
+        "name": "What Do I Do With Me",
+        "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
       },
       "artists": [
         {
-          "name": "Diamond Rio",
-          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
         }
       ],
-      "duration_ms": 245400,
-      "name": "How Your Love Makes Me Feel",
-      "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
+      "duration_ms": 210200,
+      "name": "Down To My Last Teardrop",
+      "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2295,18 +2295,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "What Do I Do With Me",
-        "url": "https://open.spotify.com/album/5r3XWEnJj5iL1nIE1WOwEa"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5nl43n3kqCYnqGM9rM4tWX"
       },
       "artists": [
         {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+          "name": "Diamond Rio",
+          "url": "https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6"
         }
       ],
-      "duration_ms": 210200,
-      "name": "Down To My Last Teardrop",
-      "url": "https://open.spotify.com/track/4HCugTrpZ4fBcTF4tQW1Fc"
+      "duration_ms": 245400,
+      "name": "How Your Love Makes Me Feel",
+      "url": "https://open.spotify.com/track/4LSolq1CjLOVnya9zb0pU1"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Calm Before the Storm",
-        "url": "https://open.spotify.com/album/4FdWVE3DHKyWCdeNgEpEWR"
-      },
-      "artists": [
-        {
-          "name": "Paul Brandt",
-          "url": "https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP"
-        }
-      ],
-      "duration_ms": 220106,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/59GPuKaImwVCqcYRm1xrkY"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Tempted",
         "url": "https://open.spotify.com/album/0yKfHkH7qL4XO8lXlGMGQg"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 193173,
       "name": "Tempted",
       "url": "https://open.spotify.com/track/0zfwY9c8RGR0Z32u1Ouu9C"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Calm Before the Storm",
+        "url": "https://open.spotify.com/album/4FdWVE3DHKyWCdeNgEpEWR"
+      },
+      "artists": [
+        {
+          "name": "Paul Brandt",
+          "url": "https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP"
+        }
+      ],
+      "duration_ms": 220106,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/59GPuKaImwVCqcYRm1xrkY"
     }
   ],
   "unique_name": "90s Country",

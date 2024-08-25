@@ -2,7 +2,7 @@
 
 ### [This Is Ladysmith Black Mambazo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28fcwD)
 
-> This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
+> This Is Ladysmith Black Mambazo\. Les titres incontournables, réunis dans une seule et même playlist.
 
 152 songs - 10 hr 12 min
 
@@ -136,11 +136,11 @@
 | [This Town](https://open.spotify.com/track/4JJct5QXjrrAVw05RN5oQt) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:53 | 2022-09-10 |  |
 | [This Town](https://open.spotify.com/track/6I3EzrkvcPGaFi89axf3ch) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [This Town](https://open.spotify.com/album/4jFf18gtR4VdJ3T0Mr8Ozd) | 3:53 | 2021-12-28 | 2022-07-29 |
 | [Thula Mtwana](https://open.spotify.com/track/3Ljbrj0nexrBh9Rte2LVaX) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [African Lullaby](https://open.spotify.com/album/11xQkBWU2NXP17OyIIAf4L) | 3:03 | 2021-12-28 |  |
-| [Thula Ungakhlai \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/4mU0YSUlZ0RvXMapVj6kYx) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK) | 0:47 | 2021-12-28 |  |
+| [Thula Ungakhlai \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/4mU0YSUlZ0RvXMapVj6kYx) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Toast to Our Differences \(Deluxe Edition\)](https://open.spotify.com/album/0ORqx9M6ak7kqDwYUBwvdK) | 0:47 | 2021-12-28 | 2024-08-25 |
 | [Tough Times Never Last](https://open.spotify.com/track/2SJkvEJtHZcfSabOL0zSni) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Walking in the Footsteps of Our Fathers](https://open.spotify.com/album/5PRZaO2vN4ENcXrFmCpT5r) | 2:48 | 2021-12-28 | 2023-12-17 |
 | [Township Jive](https://open.spotify.com/track/0pmH0Dx8E47OAEonAkfrVR) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Africa in Harmony: 50th Anniversary Edition](https://open.spotify.com/album/5i0jyzlxb4i9fPXYNE2qkD) | 4:38 | 2021-12-28 | 2022-10-07 |
 | [Township Jive](https://open.spotify.com/track/4lTaWKl14MfGLgjzF8cbKZ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Two Worlds One Heart](https://open.spotify.com/album/6BtW4Rnw1IU89vHNb3MURa) | 4:40 | 2022-10-10 | 2022-10-13 |
-| [Umusa Kankulunkulu \(Mercy of God\)](https://open.spotify.com/track/0GqlEEum0IeztVdE5RhllQ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Journey Of Dreams](https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL) | 3:26 | 2022-06-23 | 2024-07-10 |
+| [Umusa Kankulunkulu \(Mercy of God\)](https://open.spotify.com/track/0GqlEEum0IeztVdE5RhllQ) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Journey Of Dreams](https://open.spotify.com/album/3vMHGUT6cjoHD4jIopv9tL) | 3:26 | 2022-06-23 |  |
 | [Upendi \- From "The Lion King II: Simba's Pride"/Soundtrack Version](https://open.spotify.com/track/6RJayUS0XvdWGt0d2HTKTH) | [Liz Callaway](https://open.spotify.com/artist/4hcWMDrWJYyU66HA583nCb), [Gene Miller](https://open.spotify.com/artist/1KYA9tk1iUyyaU523Wy8bc), [Robert Guillaume](https://open.spotify.com/artist/5ohxmJ6nh8Dx2WFzudufCl), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Lion King 2: Simba's Pride](https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy) | 2:54 | 2021-12-28 |  |
 | [Uthando](https://open.spotify.com/track/2be3NsmKfEWSbXYZ2S6A98) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ikhaya Nothando](https://open.spotify.com/album/2FROh0s0wCaWvJ4yM2Ym3V) | 3:46 | 2022-10-01 | 2022-10-13 |
 | [Vulani Amasango](https://open.spotify.com/track/7duYLZofuRBdxRGKZpOvIB) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [The Star and the Wiseman](https://open.spotify.com/album/6ua556UHIvk1qNJBw6kDng) | 3:15 | 2024-02-29 | 2024-03-05 |

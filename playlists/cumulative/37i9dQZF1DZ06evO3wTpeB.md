@@ -2,7 +2,7 @@
 
 ### [This Is Ali Aka Mind](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wTpeB)
 
-> This is Ali Aka Mind\. The essential tracks, all in one playlist.
+> This Is Ali Aka Mind\. Los temas esenciales, todos en una lista.
 
 57 songs - 3 hr 16 min
 
@@ -27,7 +27,7 @@
 | [Hijos de los Días](https://open.spotify.com/track/0v5vPs9sPH5v3XSzEj8sjD) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Sobrevivente](https://open.spotify.com/album/6m0g5Ap0yUoXH6SoHPAlkW) | 3:03 | 2023-12-30 |  |
 | [Hoy Quiero Confesarles](https://open.spotify.com/track/3FKYwSwP5G8SDRUqCeozMJ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Palabras del Alma](https://open.spotify.com/album/4JTGFe7NhpEVSInPEasMhV) | 3:13 | 2023-12-30 |  |
 | [Invente](https://open.spotify.com/track/5zXSfcJsB3UOJJh07ICLVO) | [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [RI](https://open.spotify.com/artist/31zcVceg6CBFwo6jiVO3MU) | [Estado Popular Del Alma • Epa](https://open.spotify.com/album/5XYKA56UCb99ZIEFUCiKC1) | 3:34 | 2024-04-10 |  |
-| [La Ansiedad y Yo](https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [La Ansiedad y Yo](https://open.spotify.com/album/1wLi7L3eS7OnfktZoyIj4n) | 3:16 | 2024-07-25 |  |
+| [La Ansiedad y Yo](https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [T\-Chord](https://open.spotify.com/artist/3GvdERCXrDLLTKzngNIyMW), [Dj J.L.P](https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [La Ansiedad y Yo](https://open.spotify.com/album/1wLi7L3eS7OnfktZoyIj4n) | 3:16 | 2024-07-25 |  |
 | [La Llave del Universo](https://open.spotify.com/track/5DFu8B851bdNDpKipQsoFW) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Manjit](https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr) | 3:49 | 2023-12-30 | 2024-01-02 |
 | [La Vida Es Solo Una](https://open.spotify.com/track/3DONoS10PcEs8mSoDbqhY1) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 3:04 | 2023-12-30 |  |
 | [Las Cinco Rosas](https://open.spotify.com/track/4KOVgUVYnmcdRdc908Gojp) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Rap Conciencia](https://open.spotify.com/album/6CVQjIWT0jNTyFVcsJfksR) | 3:52 | 2023-12-30 |  |

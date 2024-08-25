@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Poze do Rodo. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 114452,
+  "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
+  "num_followers": 114471,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAAD4yNKsVlbVbNWx42lqY9hr",
+  "snapshot_id": "ZsfRAAAAAABHSGPM0P7XwajsP6X0ZNzT",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "LUME",
+        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 143255,
+      "name": "Sonho Dos Cria",
+      "url": "https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Assault (Carro Bicho)",
         "url": "https://open.spotify.com/album/5ft3Gzo8bWvAHoofPH9bd5"
       },
@@ -303,30 +327,6 @@
       "duration_ms": 409846,
       "name": "Assault (Carro Bicho)",
       "url": "https://open.spotify.com/track/52K0daI216x97EPGrSA7jB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LUME",
-        "url": "https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 143255,
-      "name": "Sonho Dos Cria",
-      "url": "https://open.spotify.com/track/6KKT8dzP21J4WwBp9swjob"
     },
     {
       "added_at": null,
@@ -999,6 +999,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Chamado",
+        "url": "https://open.spotify.com/album/0GIsAsZO8aiEK5ZfqIzW08"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 206557,
+      "name": "O Chamado",
+      "url": "https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigo na F\u00e9 do Pai",
         "url": "https://open.spotify.com/album/7iC162RW3i4GYeyEcuFUUJ"
       },
@@ -1023,30 +1047,6 @@
       "duration_ms": 264827,
       "name": "Sigo na F\u00e9 do Pai",
       "url": "https://open.spotify.com/track/4KxjRjzK24EQXbM4qoOz4X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Chamado",
-        "url": "https://open.spotify.com/album/0GIsAsZO8aiEK5ZfqIzW08"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "O Chamado",
-      "url": "https://open.spotify.com/track/56xYjxmkJxnpBVQi6pLSiL"
     },
     {
       "added_at": null,
@@ -1167,22 +1167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e1 Fluindo",
-        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "T\u00e1 Fluindo",
-      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Toque de Malandragem",
         "url": "https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy"
       },
@@ -1203,6 +1187,42 @@
       "duration_ms": 240355,
       "name": "Hoje Tem Baile",
       "url": "https://open.spotify.com/track/2DFdNmpQumYmwmFrUpG6Yq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e1 Fluindo",
+        "url": "https://open.spotify.com/album/0Mw3N6i9NxXULaYEBigTjk"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "T\u00e1 Fluindo",
+      "url": "https://open.spotify.com/track/3J9RgzjfVuVnGlPjenqVho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
+        "url": "https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr"
+      },
+      "artists": [
+        {
+          "name": "DJ Henrique da VK",
+          "url": "https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 122070,
+      "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
+      "url": "https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ"
     },
     {
       "added_at": null,
@@ -1243,26 +1263,6 @@
       "duration_ms": 244000,
       "name": "Blogueira",
       "url": "https://open.spotify.com/track/5BuFyXTbnTxhR0WlztMjww"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
-        "url": "https://open.spotify.com/album/1hxxKAvd67Ww2m1p3neVSr"
-      },
-      "artists": [
-        {
-          "name": "DJ Henrique da VK",
-          "url": "https://open.spotify.com/artist/6ac253D3NynjiNAjkkR2TJ"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 122070,
-      "name": "No Baile N\u00f3s \u00c9 M\u00eddia",
-      "url": "https://open.spotify.com/track/2SfBmQExwL1AnjWCBPL7UZ"
     },
     {
       "added_at": null,

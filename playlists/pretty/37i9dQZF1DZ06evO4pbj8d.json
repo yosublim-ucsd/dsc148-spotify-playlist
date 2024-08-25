@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 7666,
+  "num_followers": 7678,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAAAJNErkQGm2b4aqILqCu7fj",
+  "snapshot_id": "ZsfRAAAAAAC0RzLHTRP1/0VyE6meVzeX",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "It\u2019s a good day (to fight the system) (feat. Joy Oladokun)",
-        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
       "artists": [
         {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        },
-        {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
         }
       ],
-      "duration_ms": 197474,
-      "name": "It\u2019s a good day (to fight the system) (feat. Joy Oladokun)",
-      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
+      "duration_ms": 183546,
+      "name": "heaven from here (with Penny and Sparrow)",
+      "url": "https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA"
     },
     {
       "added_at": null,
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+        "name": "It\u2019s a good day (to fight the system) (feat. Joy Oladokun)",
+        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
         },
         {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 183546,
-      "name": "heaven from here (with Penny and Sparrow)",
-      "url": "https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA"
+      "duration_ms": 197474,
+      "name": "It\u2019s a good day (to fight the system) (feat. Joy Oladokun)",
+      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
     },
     {
       "added_at": null,
@@ -483,38 +483,6 @@
       "duration_ms": 197767,
       "name": "Blink Twice",
       "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carry",
-        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 235047,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 240553,
-      "name": "The Hard Way",
-      "url": "https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE"
     },
     {
       "added_at": null,
@@ -539,6 +507,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 240553,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carry",
+        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 235047,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "in defense of my own happiness (the beginnings)",
         "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 188493,
       "name": "bad blood",
       "url": "https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 164253,
+      "name": "i see america",
+      "url": "https://open.spotify.com/track/6hi7QmxdXBbgdFSnQjCiaK"
     },
     {
       "added_at": null,
@@ -587,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
       "artists": [
         {
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 164253,
-      "name": "i see america",
-      "url": "https://open.spotify.com/track/6hi7QmxdXBbgdFSnQjCiaK"
+      "duration_ms": 214346,
+      "name": "younger days",
+      "url": "https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
       "duration_ms": 201856,
       "name": "Sober",
       "url": "https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in defense of my own happiness (the beginnings)",
-        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "younger days",
-      "url": "https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carry",
-        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 242811,
-      "name": "Carry",
-      "url": "https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fortune Favors The Bold",
         "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 218164,
       "name": "Fortune Favors The Bold",
       "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carry",
+        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 242811,
+      "name": "Carry",
+      "url": "https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7"
     },
     {
       "added_at": null,

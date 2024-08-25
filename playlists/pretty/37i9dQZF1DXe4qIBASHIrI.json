@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 156873,
+  "num_followers": 156938,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Border Revolver",
+        "url": "https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN"
+      },
+      "artists": [
+        {
+          "name": "Nortec Collective",
+          "url": "https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK"
+        }
+      ],
+      "duration_ms": 170438,
+      "name": "Sastre Del Diablo",
+      "url": "https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Amador",
         "url": "https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 193840,
       "name": "Amor Sin Fin",
       "url": "https://open.spotify.com/track/5wPsMPU6dTGckf8VLW2fsg"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Border Revolver",
-        "url": "https://open.spotify.com/album/0kL29ZyygPwNIkTxf7gpiN"
-      },
-      "artists": [
-        {
-          "name": "Nortec Collective",
-          "url": "https://open.spotify.com/artist/7uoHvGlnMzDKOlPrmGCTNK"
-        }
-      ],
-      "duration_ms": 170438,
-      "name": "Sastre Del Diablo",
-      "url": "https://open.spotify.com/track/7cfIzSgAEYUW4geo3jXduo"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Lejos. No Tan Lejos",
-        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 212014,
-      "name": "Un A\u00f1o Quebrado",
-      "url": "https://open.spotify.com/track/5v6luZrMK75XQ8Kj64qklf"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "M\u00e9jico M\u00e1xico",
         "url": "https://open.spotify.com/album/70WPUwHcJq2pRObNPByUaV"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 275933,
       "name": "Mirando a las muchachas",
       "url": "https://open.spotify.com/track/00Z3s0Xw7oE3fgTSZVjEFs"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Lejos. No Tan Lejos",
+        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 212014,
+      "name": "Un A\u00f1o Quebrado",
+      "url": "https://open.spotify.com/track/5v6luZrMK75XQ8Kj64qklf"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1059,22 +1059,6 @@
       "duration_ms": 259253,
       "name": "Carretera",
       "url": "https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Lejos. No Tan Lejos",
-        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 248645,
-      "name": "Me Has Olvidado",
-      "url": "https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1151,22 +1135,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Space Hymns",
-        "url": "https://open.spotify.com/album/2kJe0uAxDLlAnRy0Mk0I7M"
-      },
-      "artists": [
-        {
-          "name": "Aeiou",
-          "url": "https://open.spotify.com/artist/165DZ07075Tx8igd7lKfQB"
-        }
-      ],
-      "duration_ms": 222559,
-      "name": "Vivimos In L.A.",
-      "url": "https://open.spotify.com/track/55tL4KL8uXjXJHTvIKB4vE"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "El Techo es el Suelo",
         "url": "https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1"
       },
@@ -1179,6 +1147,38 @@
       "duration_ms": 280083,
       "name": "Dias Perfectos",
       "url": "https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Lejos. No Tan Lejos",
+        "url": "https://open.spotify.com/album/3fRqZCJsKzxzshDULlN6WZ"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 248645,
+      "name": "Me Has Olvidado",
+      "url": "https://open.spotify.com/track/4KgnL2H3Phfc3SvJn3Ph7G"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Space Hymns",
+        "url": "https://open.spotify.com/album/2kJe0uAxDLlAnRy0Mk0I7M"
+      },
+      "artists": [
+        {
+          "name": "Aeiou",
+          "url": "https://open.spotify.com/artist/165DZ07075Tx8igd7lKfQB"
+        }
+      ],
+      "duration_ms": 222559,
+      "name": "Vivimos In L.A.",
+      "url": "https://open.spotify.com/track/55tL4KL8uXjXJHTvIKB4vE"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "Happy-fi Compilaci\u00f3n Vol. 5 Coyote Nights",
+        "url": "https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F"
+      },
+      "artists": [
+        {
+          "name": "Quiero Club",
+          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
+        }
+      ],
+      "duration_ms": 277626,
+      "name": "Minutos de Aire (feat. Jorge Gonzalez)",
+      "url": "https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "Mediocre [Edici\u00f3n Especial]",
         "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 166504,
       "name": "Miente",
       "url": "https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
-        "name": "Happy-fi Compilaci\u00f3n Vol. 5 Coyote Nights",
-        "url": "https://open.spotify.com/album/6eqwMvTOD5AvY8gnpper2F"
-      },
-      "artists": [
-        {
-          "name": "Quiero Club",
-          "url": "https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA"
-        }
-      ],
-      "duration_ms": 277626,
-      "name": "Minutos de Aire (feat. Jorge Gonzalez)",
-      "url": "https://open.spotify.com/track/6LAYXFQnriD7pZiKcc86dj"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X"
-      },
-      "artists": [
-        {
-          "name": "Sol Flamingo",
-          "url": "https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr"
-        }
-      ],
-      "duration_ms": 218060,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Gazapo",
         "url": "https://open.spotify.com/album/52KdB5pIsS20pJ7XdsneFT"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 228010,
       "name": "Valedor",
       "url": "https://open.spotify.com/track/4OPMjEVvcoAOGu3XaB6nzd"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X"
+      },
+      "artists": [
+        {
+          "name": "Sol Flamingo",
+          "url": "https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr"
+        }
+      ],
+      "duration_ms": 218060,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c"
     }
   ],
   "unique_name": "Indie Mexicano: Cl\u00e1sicos",

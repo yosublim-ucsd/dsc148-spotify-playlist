@@ -4,7 +4,7 @@
 
 > This is Fernanda Brum\. The essential tracks, all in one playlist.
 
-73 songs - 5 hr 55 min
+74 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Escreve](https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Escreve](https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2) | 4:35 | 2024-04-29 |  |
 | [Espírito Santo](https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 4:19 | 2023-07-09 |  |
 | [Eu Vou Abrir o Meu Coração \- Acústico](https://open.spotify.com/track/6007JEFykqjFKhrRddZPDk) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Acústico](https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To) | 6:08 | 2023-07-09 |  |
+| [Faraó ou Deus?](https://open.spotify.com/track/1GSp1E5hAAexbPRN6joj1b) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Faraó ou Deus?](https://open.spotify.com/album/07X2Gi0OJ21k1zJ0GCreok) | 4:55 | 2024-08-25 |  |
 | [Fazendo o Impossível \(Ao Vivo\)](https://open.spotify.com/track/4IhFmvBx9bOynhtLCEOjVA) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 4:28 | 2023-07-09 | 2024-03-29 |
 | [Feliz De Vez](https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Feliz De Vez](https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO) | 4:39 | 2023-12-13 |  |
 | [Fonte Inesgotável \(Ao Vivo\)](https://open.spotify.com/track/2m0n1K1xijm4QGAdGjfYRg) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:17 | 2023-07-09 | 2023-09-15 |

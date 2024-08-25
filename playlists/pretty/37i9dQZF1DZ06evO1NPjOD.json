@@ -1,12 +1,12 @@
 {
-  "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 37983,
+  "description": "This Is City Girls. Todas as faixas essenciais numa \u00fanica playlist.",
+  "num_followers": 37985,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAABeNNnyzVqVrD7WDyDxyLEH",
+  "snapshot_id": "ZsfRAAAAAADKgn3WB/9PUDc6UP79A+I+",
   "tracks": [
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "43VA HEARTLESS",
+        "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 142395,
+      "name": "4 Da Moment (feat. City Girls)",
+      "url": "https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 160013,
       "name": "Pastor (Quavo, City Girls feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "43VA HEARTLESS",
-        "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 142395,
-      "name": "4 Da Moment (feat. City Girls)",
-      "url": "https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU"
     },
     {
       "added_at": null,

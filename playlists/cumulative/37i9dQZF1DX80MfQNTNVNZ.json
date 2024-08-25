@@ -1983,6 +1983,28 @@
     },
     {
       "album": {
+        "name": "DISTRACT ME - ft. Jyodan",
+        "url": "https://open.spotify.com/album/0TCZ8S74pzsyZk4BAZicDV"
+      },
+      "artists": [
+        {
+          "name": "Amiide",
+          "url": "https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR"
+        },
+        {
+          "name": "Jyodan",
+          "url": "https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153913,
+      "name": "DISTRACT ME - ft. Jyodan",
+      "url": "https://open.spotify.com/track/2LX3FMvSdSxs35reHTtifF"
+    },
+    {
+      "album": {
         "name": "Tuxedo",
         "url": "https://open.spotify.com/album/1mdlZytWHqyITkGx18A4R0"
       },
@@ -3602,7 +3624,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 202706,
       "name": "I Choose U (feat. RINI)",
       "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
@@ -6837,6 +6859,24 @@
     },
     {
       "album": {
+        "name": "Roulette",
+        "url": "https://open.spotify.com/album/66NYjSHUYFmgIW1VYKMASB"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159711,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/7pQ241OlUabMsT9qwiyWtV"
+    },
+    {
+      "album": {
         "name": "Round & Round",
         "url": "https://open.spotify.com/album/1sTIeDRLjYnAOgI2Qe7nK9"
       },
@@ -6878,6 +6918,24 @@
       "duration_ms": 293377,
       "name": "Satellite Business 2.0",
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
+    },
+    {
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/3mAVFbetKFyDv155Pds5CX"
+      },
+      "artists": [
+        {
+          "name": "Lil Summer",
+          "url": "https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/4r4zk1yp5USyxI9TdMvKR3"
     },
     {
       "album": {
@@ -7294,7 +7352,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 186157,
       "name": "Smoke (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx"
@@ -9364,7 +9422,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 222826,
       "name": "Vintage",
       "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"

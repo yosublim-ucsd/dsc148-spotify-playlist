@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 
 > Nur tote Fische schwimmen mit dem Strom\. Cover: Yu
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,245 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,264 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Mltk4BtiL.md) - [plain]
 | 35 | [Therapie](https://open.spotify.com/track/0qDvx4nKq97cNYR3udSFBj) | [Wanda](https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB) | [Therapie](https://open.spotify.com/album/42NQ4ja4LsyTICmR1tL3vC) | 2:46 |
 | 36 | [absolute gewinner](https://open.spotify.com/track/6zyUsh5QCMywV1A7bEky45) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [absolute gewinner](https://open.spotify.com/album/1bcvCOkwy8Jpwxac1AJbc4) | 2:21 |
 | 37 | [Der Weg zu zweit](https://open.spotify.com/track/1m5sm7IfjJzHWBDsK2FC0r) | [Frittenbude](https://open.spotify.com/artist/7jy0nL3F5ehHJxXYMBImkk) | [Der Weg zu zweit](https://open.spotify.com/album/2oDEOQhPicIKRZ19vWOwF1) | 2:32 |
-| 38 | [Achtung Fragile](https://open.spotify.com/track/6Mc07uFlXtFxqBDMv1He0f) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Achtung Fragile](https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9) | 2:27 |
-| 39 | [Lied vom donnernden Leben](https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Lied vom donnernden Leben](https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B) | 2:46 |
-| 40 | [Das Neue Normal](https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Das Neue Normal](https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC) | 3:33 |
+| 38 | [Das Neue Normal](https://open.spotify.com/track/4JZzUgcFrkWisEO1yirDj7) | [ok.danke.tschüss](https://open.spotify.com/artist/73SW9LnBmuff938R5ZbqK4) | [Das Neue Normal](https://open.spotify.com/album/6X5diaWcPFGcsNMjwnWZdC) | 3:33 |
+| 39 | [Achtung Fragile](https://open.spotify.com/track/6Mc07uFlXtFxqBDMv1He0f) | [Tropikel Ltd](https://open.spotify.com/artist/15VagIVEAdYm95xs0ayi1x) | [Achtung Fragile](https://open.spotify.com/album/4Suc6drXFcuMj1IofmJeV9) | 2:27 |
+| 40 | [Lied vom donnernden Leben](https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP) | [Betterov](https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ) | [Lied vom donnernden Leben](https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B) | 2:46 |
 | 41 | [Rumba](https://open.spotify.com/track/53c422MkQ07JBRO2DsHYFf) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo) | [Rumba](https://open.spotify.com/album/4fSjPl611azYLbPgIfHD4f) | 3:56 |
 | 42 | [Marmelade Und Himbeereis](https://open.spotify.com/track/3CrC7C45IHGfkD5Z1SOSOH) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Marmelade Und Himbeereis](https://open.spotify.com/album/064OxNn7XPDjxpmaKu57Di) | 3:48 |
 | 43 | [So schreibt man seinen Song](https://open.spotify.com/track/0r10l0wnJ9SwV0rnQxBORe) | [Olli Schulz](https://open.spotify.com/artist/3FFqyoSbYAiE91jM3DAUb1) | [Vom Rand der Zeit](https://open.spotify.com/album/6dOkDpALZWcL8uuic3LjoH) | 3:23 |
 | 44 | [Van Noten \- Live](https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Orpheum \(Live\)](https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo) | 4:21 |
 | 45 | [Santorin](https://open.spotify.com/track/0LjYNuvubOTSr6g0LW8vYG) | [Roy Bianco & Die Abbrunzati Boys](https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz) | [Santorin](https://open.spotify.com/album/1MTXqKBpMDmbXCsWPnT6Bm) | 3:44 |
 | 46 | [die fabrik](https://open.spotify.com/track/228FnXbEKe9zjCVPAI4qbA) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B), [GbR](https://open.spotify.com/artist/1PAQIPjvLHGZfcDwdR9eBm) | [die fabrik](https://open.spotify.com/album/3llTvy1SStPBl56onQN1JH) | 2:39 |
-| 47 | [Ostkreuz](https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy) | [Acht Eimer Hühnerherzen](https://open.spotify.com/artist/5Y2hHmvlOM6n0YP5wfe64i) | [Ostkreuz](https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF) | 3:25 |
-| 48 | [Geheimnis](https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz) | [Florian Paul & Die Kapelle der letzten Hoffnung](https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV), [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Geheimnis](https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y) | 2:19 |
-| 49 | [Muttertag](https://open.spotify.com/track/2Fk9KaQrSDCjOBYxcnQmFw) | [Antilopen Gang](https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB) | [Muttertag](https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN) | 1:06 |
+| 47 | [Geheimnis](https://open.spotify.com/track/50guZa3AiSjT2bXMm1xwQz) | [Florian Paul & Die Kapelle der letzten Hoffnung](https://open.spotify.com/artist/1yu9UIPwfNB7w4ZqjKSnnV), [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG) | [Geheimnis](https://open.spotify.com/album/7LhNRo0xj6F1SYL8kHbJ9y) | 2:19 |
+| 48 | [Ostkreuz](https://open.spotify.com/track/3zuceaMaDSWou7rCezQIMy) | [Acht Eimer Hühnerherzen](https://open.spotify.com/artist/5Y2hHmvlOM6n0YP5wfe64i) | [Ostkreuz](https://open.spotify.com/album/0A0YjiNrSRU3CHkV6fiIpF) | 3:25 |
+| 49 | [Skandal im Patriarchat](https://open.spotify.com/track/7Fpiu8kWaztTEfAV2t8GIY) | [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Skandal im Patriarchat](https://open.spotify.com/album/4pUqmx6OldfqSmIC864HKB) | 3:22 |
 | 50 | [Mensch am Mond](https://open.spotify.com/track/3ztlPP5pc0ZiX2Oa4YBYjx) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [Mensch am Mond](https://open.spotify.com/album/7zASnixcrPirKFIjhAwmXu) | 3:05 |
 
 Snapshot ID: `Zse04AAAAABXxrBBhixz6vKoF0qGIFjs`

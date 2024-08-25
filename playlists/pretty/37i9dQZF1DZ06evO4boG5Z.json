@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 27956,
+  "num_followers": 27961,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAACrW2q9NdAtM5TklCHliB5N",
+  "snapshot_id": "ZsfRAAAAAACCxJAFL7P+OrPHPERqAUOa",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 147493,
-      "name": "Bring Me Home",
-      "url": "https://open.spotify.com/track/3LZEfNShP0RjbHyd9vXQ2m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life On A Plate",
         "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 176493,
       "name": "Olympic",
       "url": "https://open.spotify.com/track/6xbmKbE9Z2Xot1oTyTxaYm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 147493,
+      "name": "Bring Me Home",
+      "url": "https://open.spotify.com/track/3LZEfNShP0RjbHyd9vXQ2m"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+        "name": "The Melancholy Connection",
+        "url": "https://open.spotify.com/album/77AjEPs6vSjhcmIeRQ7xC7"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 119946,
-      "name": "Autopilot Mode",
-      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
+      "duration_ms": 204760,
+      "name": "E20 Norr",
+      "url": "https://open.spotify.com/track/1k9GmgwJI3nuAuhjnbWjrC"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Melancholy Connection",
-        "url": "https://open.spotify.com/album/77AjEPs6vSjhcmIeRQ7xC7"
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 204760,
-      "name": "E20 Norr",
-      "url": "https://open.spotify.com/track/1k9GmgwJI3nuAuhjnbWjrC"
+      "duration_ms": 119946,
+      "name": "Autopilot Mode",
+      "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 79533,
-      "name": "Silent Suicide",
-      "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
+      "duration_ms": 219504,
+      "name": "Shut You Out",
+      "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 219504,
-      "name": "Shut You Out",
-      "url": "https://open.spotify.com/track/2yw98z3MXMILFSpHPUiaXZ"
+      "duration_ms": 79533,
+      "name": "Silent Suicide",
+      "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 220973,
-      "name": "Diznee Time",
-      "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
+      "duration_ms": 132333,
+      "name": "Mooseman's Jukebox",
+      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 132333,
-      "name": "Mooseman's Jukebox",
-      "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
+      "duration_ms": 220973,
+      "name": "Diznee Time",
+      "url": "https://open.spotify.com/track/4cew9gVe4Ot4gOVFL4Q8Cf"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Same Old Tunes",
-        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
+        "name": "Kingwood",
+        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 112733,
-      "name": "Fazil's Friend",
-      "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
+      "duration_ms": 138002,
+      "name": "Biftek Supernova",
+      "url": "https://open.spotify.com/track/5Le0pa8qEQSFFQn1H3sLLK"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kingwood",
-        "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
+        "name": "Same Old Tunes",
+        "url": "https://open.spotify.com/album/4tFV3wRfbeIUQ3dYsOFNy0"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 138002,
-      "name": "Biftek Supernova",
-      "url": "https://open.spotify.com/track/5Le0pa8qEQSFFQn1H3sLLK"
+      "duration_ms": 112733,
+      "name": "Fazil's Friend",
+      "url": "https://open.spotify.com/track/1RnXW0OprV2LRi8s6Er4Kh"
     },
     {
       "added_at": null,

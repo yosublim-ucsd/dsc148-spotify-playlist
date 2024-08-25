@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 205831,
+  "num_followers": 205890,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAADWsFAgxsxxlInz8cCNizC0",
+  "snapshot_id": "ZsfRAAAAAABTlTHkfOX8XKGF12ojRJKX",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith Of A Mustard Seed",
-        "url": "https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Yak's Prayer (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/2TWYm2ojFFrcq6y2utrCcx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Project Baby 2: All Grown Up",
         "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 143857,
       "name": "Senseless",
       "url": "https://open.spotify.com/track/3zzzVTaq2evjtfz4SryuaE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith Of A Mustard Seed",
+        "url": "https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Yak's Prayer (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/2TWYm2ojFFrcq6y2utrCcx"
     },
     {
       "added_at": null,
@@ -591,6 +591,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "ONBOA47RD",
+        "url": "https://open.spotify.com/album/2NibhROzVqZ3UmHx6JLygb"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Donald J. Trump",
+          "url": "https://open.spotify.com/artist/23U808v5GbnGrEIqalCIXi"
+        }
+      ],
+      "duration_ms": 185652,
+      "name": "ONBOA47RD",
+      "url": "https://open.spotify.com/track/40DPDhROA6rUmfE1E9wGjz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw"
       },
@@ -675,30 +699,6 @@
       "duration_ms": 224864,
       "name": "Skrt",
       "url": "https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ONBOA47RD",
-        "url": "https://open.spotify.com/album/2NibhROzVqZ3UmHx6JLygb"
-      },
-      "artists": [
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Donald J. Trump",
-          "url": "https://open.spotify.com/artist/23U808v5GbnGrEIqalCIXi"
-        }
-      ],
-      "duration_ms": 185652,
-      "name": "ONBOA47RD",
-      "url": "https://open.spotify.com/track/40DPDhROA6rUmfE1E9wGjz"
     },
     {
       "added_at": null,

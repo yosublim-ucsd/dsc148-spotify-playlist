@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,067 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,076 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 23 | [Enrolar \- Fantastic Four Remix](https://open.spotify.com/track/4Br7zuCL1Jetik8COatafL) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb), [LOS 4F](https://open.spotify.com/artist/7vdDWCqSTK2O100wDjYvh5) | [Enrolar \- Fantastic Four Remix](https://open.spotify.com/album/0BDsr0tgX3IivsPIW69kTO) | 5:03 |
 | 24 | [Es un Secreto](https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House of Pleasure](https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0) | 3:12 |
 | 25 | [misteriosa \(xulinho\)](https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [misteriosa \(xulinho\)](https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1) | 3:15 |
-| 26 | [Sólida](https://open.spotify.com/track/7eTTWunsR2Z1z5plDYKk6C) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Sólida](https://open.spotify.com/album/6ijyNh1JRhaj3lqPys9eiZ) | 2:37 |
+| 26 | [Solida](https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Solida](https://open.spotify.com/album/76Vgm0kKAsH7kkapKsPudr) | 2:33 |
 | 27 | [Avísame](https://open.spotify.com/track/55eG1F2xukyOGAkaNAG4MQ) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Avísame](https://open.spotify.com/album/0DDsewH4eZDjasZLoPgWkn) | 2:43 |
 | 28 | [Diabólica](https://open.spotify.com/track/4IJWhehNLXru5WfS71EWSx) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 3:12 |
 | 29 | [Rapido \(with Cris Mj\)](https://open.spotify.com/track/1emJPywtseFLmLCcPY92dW) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Quién es Dei V?](https://open.spotify.com/album/2i6InsyHZPR6NBFniDivF5) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 50 | [Que Brille Sola Mami](https://open.spotify.com/track/5MQ4q4Cjb7Bmwx8goqyRob) | [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Kail BRL](https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ) | [Que Brille Sola Mami](https://open.spotify.com/album/4ga6C0sQM4PdBwwpJfvJGC) | 3:15 |
 
-Snapshot ID: `Llv0GAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Ll1KSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

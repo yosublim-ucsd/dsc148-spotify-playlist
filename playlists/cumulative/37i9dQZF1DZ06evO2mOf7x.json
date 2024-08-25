@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "This Is Ana B\u00e1rbara. Los temas esenciales, todos en una lista.",
+  "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
   "name": "This Is Ana B\u00e1rbara",
   "tracks": [
     {
@@ -1246,6 +1246,28 @@
       "duration_ms": 213812,
       "name": "Quiero Verte",
       "url": "https://open.spotify.com/track/18Qh0YfnFo5wMb8P9756yK"
+    },
+    {
+      "album": {
+        "name": "Quise Olvidar",
+        "url": "https://open.spotify.com/album/3IKzgoIkPXQm7GOzOKSPfX"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "Quise Olvidar",
+      "url": "https://open.spotify.com/track/4SYoxA8J9FXJfnYqDngVUP"
     },
     {
       "album": {

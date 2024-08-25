@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: スカート Skirt
 
-1,817 songs - 4 day 17 hr 1 min
+1,818 songs - 4 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,7 +740,7 @@
 | [Overcast](https://open.spotify.com/track/2WH6hX0mKg6y6rVwDbp3n9) | [Salmon Pink](https://open.spotify.com/artist/5eR0ueB8Fx3Nyck2cAzYXN) | [Garden](https://open.spotify.com/album/4Q5reDgFvPvFN4wIrcpKEN) | 4:29 | 2023-09-29 | 2023-10-04 |
 | [overlap](https://open.spotify.com/track/3pxk3CJQd5o03EnaJfOPLP) | [at field of school](https://open.spotify.com/artist/6sWYy4uydbxFqNP7XCbJrp) | [BOYZ ATTACK](https://open.spotify.com/album/1f2V3EOiJ11XdJqzkGbvVe) | 3:05 | 2024-05-28 | 2024-06-05 |
 | [Owaranaimama](https://open.spotify.com/track/5o5r7X8Z4CJBpAgK4snpcS) | [Who Do You Love](https://open.spotify.com/artist/71nYHi1r0deMRvM1SAiflz) | [WHO DO YOU LOVE?](https://open.spotify.com/album/4Zwy3cY2rpi4vH7V16jDGm) | 2:40 | 2023-05-23 | 2023-05-31 |
-| [O’share](https://open.spotify.com/track/18PxFkC7bwTnK1D2qWNBDc) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [O’share](https://open.spotify.com/album/3O0iaMRn0XXzIYz7olwA95) | 4:03 | 2024-07-16 |  |
+| [O’share](https://open.spotify.com/track/18PxFkC7bwTnK1D2qWNBDc) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [O’share](https://open.spotify.com/album/3O0iaMRn0XXzIYz7olwA95) | 4:03 | 2024-07-16 | 2024-08-25 |
 | [p.m.5:00](https://open.spotify.com/track/31OTPJFZzufxDv0hlM6wDx) | [the slow films](https://open.spotify.com/artist/2NMTXQi0gZeYw8GdZvWssk) | [p.m.5:00 / 夢の中で](https://open.spotify.com/album/3kgj4YYIBt6x1LNo6iKNtO) | 3:19 | 2024-08-06 |  |
 | [Pacific](https://open.spotify.com/track/4J3lBZe7wVtWh9g5JOY5Wh) | [須田修矢](https://open.spotify.com/artist/3Ar5wNNrU2GDrAA35R08WK) | [Pacific](https://open.spotify.com/album/14Khbe4IHCnaifGqG9rjSN) | 3:18 | 2023-11-09 | 2023-11-16 |
 | [PANORAMA WORLD](https://open.spotify.com/track/70rnHbHv0WkMF8oQgIrVDL) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PANORAMA WORLD](https://open.spotify.com/album/0UAkGtvWjdX3SFoJnOh9Zx) | 4:33 | 2023-01-24 | 2023-02-24 |
@@ -1692,6 +1692,7 @@
 | [涙を隠して\(Boys Don't Cry\)](https://open.spotify.com/track/1cMqlaNP7zoTbp8Xerp8em) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [涙を隠して\(Boys Don't Cry\)](https://open.spotify.com/album/4JeWP56kr9EVljgX76I0sw) | 4:36 | 2023-11-21 | 2024-03-08 |
 | [液化](https://open.spotify.com/track/1SYl2CaGm5Joxz8FRptNnU) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [液化](https://open.spotify.com/album/4LKPTeleZPodLn7CvkTIoY) | 2:15 | 2023-09-26 | 2023-10-04 |
 | [渚](https://open.spotify.com/track/4tSJfQosT5D2KlzhtIJzmB) | [Simmer Pine](https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA) | [Recipe](https://open.spotify.com/album/47RmvUJTXC3QRzpiDN8MiF) | 3:35 | 2024-07-30 | 2024-08-07 |
+| [渚で会いましょう](https://open.spotify.com/track/07y4uMenyskCjDuxfdXuGB) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [渚で会いましょう](https://open.spotify.com/album/1tR10RiFgLv50ZWl6EjF4T) | 5:19 | 2024-08-22 |  |
 | [満たされない](https://open.spotify.com/track/0ArzFB1Maac2XHM7SbqAiu) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N) | [満たされない](https://open.spotify.com/album/0ff6yfGmOBvwzwNo6nJnvz) | 3:46 | 2024-04-30 | 2024-05-08 |
 | [満月の時は](https://open.spotify.com/track/08aohpizPZGq8r3Ohmr1Bm) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [all ok](https://open.spotify.com/album/4s5vxe9XrBSLYKncZfeNkt) | 3:32 | 2023-10-24 | 2023-11-01 |
 | [演劇](https://open.spotify.com/track/3GnXfXnd3cV7wLb8IWqgwZ) | [Broken Kangaroo](https://open.spotify.com/artist/2x88RJdG7aCmPZQAzlGUeo) | [演劇](https://open.spotify.com/album/6bgZRmwR4Uzyj6cYvDo2XB) | 3:38 | 2024-01-09 | 2024-01-17 |

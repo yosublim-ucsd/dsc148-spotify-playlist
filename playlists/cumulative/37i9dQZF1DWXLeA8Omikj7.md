@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-974 songs - 2 day 21 hr 53 min
+975 songs - 2 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Cup of Joe](https://open.spotify.com/track/5cwtgZnXsn2vVfuQZPSFt3) | [Hermanito](https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j) | [Cup of Joe](https://open.spotify.com/album/4JtOw2t4gAgOPs3SWxhp8N) | 3:46 | 2021-07-13 | 2022-07-29 |
 | [Cura](https://open.spotify.com/track/1k2sSU3ZMwYQLJBe3VvUF7) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Cura](https://open.spotify.com/album/3XNjNIxqlAxkus63k1VnIa) | 1:31 | 2019-06-19\* | 2020-08-26 |
 | [Cure for the Itch](https://open.spotify.com/track/3rpnfXSECgapxeGeRgUYqy) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 2:37 | 2019-07-25 | 2020-10-19 |
+| [Curves](https://open.spotify.com/track/14gFoEG2vJmqM7LaYRJ49m) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Infinite Falling Ground Pt.2](https://open.spotify.com/album/1uCUD9nJxidOu4zhKBm3m3) | 3:17 | 2024-08-23 |  |
 | [Cusp \- Edit](https://open.spotify.com/track/36MWyP1g6jAAosExPkzIqu) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Cusp](https://open.spotify.com/album/4sHkEDlPbGpFrRlVXldxwS) | 4:09 | 2021-05-20 | 2022-10-22 |
 | [Cusp \- Edit](https://open.spotify.com/track/6j6O8saTa1cVTx0BFBFmeW) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP), [Murge](https://open.spotify.com/artist/3ykuLH14n05EsgIRDZER5W) | [Cusp](https://open.spotify.com/album/3fUWKPK33lnxDcDLa44AQ2) | 4:09 | 2023-03-24 | 2024-04-19 |
 | [Daffodils](https://open.spotify.com/track/6Wx7Zbi9bgT0qqqmWndWW5) | [Jacaszek](https://open.spotify.com/artist/46xbeTrtjYfCObCHTlGOPW) | [Daffodils](https://open.spotify.com/album/0wc6Yze5PRKUGdMPayCTGq) | 5:01 | 2021-01-11 | 2022-04-21 |
@@ -390,7 +391,7 @@
 | [Homecoming](https://open.spotify.com/track/2DcJgbkcus5G7TrJZZwsuh) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 1:38 | 2019-07-25 | 2020-10-22 |
 | [Homesick](https://open.spotify.com/track/0sb4TomAMz09w1ofDC8nUr) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7), [Izzy](https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118) | [Cherry](https://open.spotify.com/album/34hcfZrsKEC8Xvn0Qddig3) | 3:54 | 2022-09-09 | 2023-02-03 |
 | [Homesick](https://open.spotify.com/track/4CFqL2BS4R4FZka8cibIMc) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7), [Izzy](https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118) | [Cherry](https://open.spotify.com/album/2n0aZMksvAjApZZzeH52l9) | 3:54 | 2021-10-01 | 2022-07-29 |
-| [Hope](https://open.spotify.com/track/5B83lmCIpUZbp3llYUN3Mg) | [Nall](https://open.spotify.com/artist/1TTP6vJbLEjFnjflpE4ahI) | [Hope](https://open.spotify.com/album/3XukZxrnN93zd1LCIHztVc) | 3:40 | 2019-06-19\* |  |
+| [Hope](https://open.spotify.com/track/5B83lmCIpUZbp3llYUN3Mg) | [Nall](https://open.spotify.com/artist/1TTP6vJbLEjFnjflpE4ahI) | [Hope](https://open.spotify.com/album/3XukZxrnN93zd1LCIHztVc) | 3:40 | 2019-06-19\* | 2024-08-25 |
 | [Horizon](https://open.spotify.com/track/07OBgEQb7HY6ENSqLvO2RW) | [Speo](https://open.spotify.com/artist/0rMH177vw5TAY2Gd1uLLgY) | [Horizon](https://open.spotify.com/album/6ekrtKzBfy0TRcjbK6cY7g) | 4:13 | 2019-05-26\* | 2020-08-26 |
 | [Horizons](https://open.spotify.com/track/0VpSjr6ouIqQYU53y2rOfr) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i), [Dorfex Bos](https://open.spotify.com/artist/60lZ2sr01yS7uJQeq7zoPv) | [Reflective \(Part 1\)](https://open.spotify.com/album/5tRZ2VKwSi6xxnY10Mea4B) | 4:24 | 2019-06-23 | 2020-08-26 |
 | [How May I Help You?](https://open.spotify.com/track/5o5Sg5yIKrFE7cTeq43am1) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [On Hold](https://open.spotify.com/album/3fZwDqwWWZ1uRdQNEOuau3) | 6:47 | 2021-03-08 | 2022-07-14 |
@@ -471,7 +472,7 @@
 | [Leaves Against The Sky](https://open.spotify.com/track/0ZVzN7tnseNSxtnAhTNK39) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:38 | 2020-10-23 | 2022-11-17 |
 | [Leaving](https://open.spotify.com/track/67zRyxMsahqZKFBZ65Dbje) | [Murtagh](https://open.spotify.com/artist/4cpTlyZCR7ed2g4WG8gUDf) | [Rush / Leaving](https://open.spotify.com/album/5mChkbJAUSBmR9eep9TWV0) | 4:25 | 2020-01-18 |  |
 | [Leaving Earth](https://open.spotify.com/track/5TiJIieCsjUMFbQJiYUOwH) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp) | [Creation](https://open.spotify.com/album/759sclnD3ycdQqfjMpmnl4) | 7:06 | 2019-05-26\* | 2020-06-12 |
-| [Leaving Earth 2](https://open.spotify.com/track/0u74chsSgmcIyhhOqTrEyV) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:13 | 2019-06-19\* | 2024-08-21 |
+| [Leaving Earth 2](https://open.spotify.com/track/0u74chsSgmcIyhhOqTrEyV) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:13 | 2019-06-19\* |  |
 | [Left Behind](https://open.spotify.com/track/0mkR9v0jfXU7uf7sednDbm) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Left Behind](https://open.spotify.com/album/0YIXc0vszubi1lt09JKRZb) | 2:31 | 2024-04-19 |  |
 | [Leftovers](https://open.spotify.com/track/5KDcDThWtlOOcEncBmseAw) | [Akın Sevgör](https://open.spotify.com/artist/586eJg9tmYDLSahAhozZBo) | [Reveries](https://open.spotify.com/album/3lcsRejIVqC2ZzgohbS9X1) | 3:01 | 2024-04-19 |  |
 | [Let You](https://open.spotify.com/track/3mZUPucA0LcSKoZbLHRhyY) | [Autumn Glow](https://open.spotify.com/artist/4VlqUkFSCfcGj6CpDMPd0b) | [Let You](https://open.spotify.com/album/2KupnIXyKS0Mprddu9on23) | 3:26 | 2021-09-10 | 2024-06-03 |
@@ -522,7 +523,7 @@
 | [Metro](https://open.spotify.com/track/2c6JKsE4PPXOtlD5ehbVIS) | [The EMBR](https://open.spotify.com/artist/5td7Gb5zym0uodrde5koHp) | [Metro](https://open.spotify.com/album/0GV6XG6ygQkjF1JuDdpazQ) | 2:32 | 2019-06-19\* | 2020-08-26 |
 | [Midnite](https://open.spotify.com/track/6hhq4YSYbt8ajR3j3mVcHv) | [Unoriginals](https://open.spotify.com/artist/6LUOePAzkWw3iTrAzfiP1d) | [Midnite](https://open.spotify.com/album/4kxI7zTFmwZcfbLfZ1KgJV) | 3:03 | 2019-06-19\* | 2020-08-26 |
 | [Miniature](https://open.spotify.com/track/2Tt3QTJW4mFiJ8kB97U0pU) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Miniature](https://open.spotify.com/album/4B17VWg6cInzyyzyDl1WV4) | 3:05 | 2019-07-25 | 2022-04-20 |
-| [Minority](https://open.spotify.com/track/6gNbfcv65cxFNPzIMQkVuS) | [Letsko](https://open.spotify.com/artist/5v0lzsRGgOxJ0FdpvokBv8) | [STUDY: Buttercream Bookworm](https://open.spotify.com/album/2ERWcZjYH3rvHaU7SBo4uw) | 3:18 | 2022-01-26 |  |
+| [Minority](https://open.spotify.com/track/6gNbfcv65cxFNPzIMQkVuS) | [Letsko](https://open.spotify.com/artist/5v0lzsRGgOxJ0FdpvokBv8) | [STUDY: Buttercream Bookworm](https://open.spotify.com/album/2ERWcZjYH3rvHaU7SBo4uw) | 3:18 | 2022-01-26 | 2024-08-25 |
 | [Mirage](https://open.spotify.com/track/5GD3iSEgPgb76VHQqjnE4o) | [Take/Five](https://open.spotify.com/artist/4MD0pIPxvGvPdohFuEkCua) | [Found Footage](https://open.spotify.com/album/2w8WfnamQbPHnopnZMcVrp) | 2:04 | 2019-06-19\* | 2020-08-26 |
 | [Mirrors](https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Mirrors](https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY) | 3:45 | 2023-07-07 | 2023-09-20 |
 | [Missing the Moon](https://open.spotify.com/track/2JvbaCFEHS8aaakQ92xWmz) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Missing the Moon](https://open.spotify.com/album/1hNTKdVUzEhglYbukbndok) | 3:32 | 2023-03-03 | 2023-05-27 |

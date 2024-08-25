@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. rusowsky con LATIN MAFIA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,231 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,241 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 21 | [Mi Maldición](https://open.spotify.com/track/53eTCj1AFXh3pPA3OY2PtB) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Mi Maldición](https://open.spotify.com/album/1PoByhqNZQejHtse6XRJ28) | 4:12 |
 | 22 | [Comida China](https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Comida China](https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5) | 2:42 |
 | 23 | [Imán](https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Imán](https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v) | 3:14 |
-| 24 | [Ay!](https://open.spotify.com/track/6QHXNpWsOKagtV3scwkaoQ) | [Julián Baglietto](https://open.spotify.com/artist/2jWobXd1SE2fhT0toIz8PR), [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Ay!](https://open.spotify.com/album/4g4VfRvjKDjOXyeTXHX1uO) | 3:11 |
+| 24 | [Ay!](https://open.spotify.com/track/6QHXNpWsOKagtV3scwkaoQ) | [Julián Baglietto](https://open.spotify.com/artist/2jWobXd1SE2fhT0toIz8PR), [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Ay!](https://open.spotify.com/album/4g4VfRvjKDjOXyeTXHX1uO) | 2:55 |
 | 25 | [Left of Me](https://open.spotify.com/track/1ePMaox31BBUKy5nxwyYyf) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Stained Glass](https://open.spotify.com/album/7j0kfKJFYdDoK5NbQ1Ikv6) | 3:39 |
 | 26 | [postal de verano </3](https://open.spotify.com/track/320uzJxlSgvg7cNAL8gPFG) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [postal de verano](https://open.spotify.com/album/28Y2zHNJ8X5AJrrjA5NqK5) | 2:38 |
 | 27 | [Me Cago En Tus Muertos](https://open.spotify.com/track/7FNZ22EPTcr0wySdMiHAUX) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM) | [Me Cago En Tus Muertos](https://open.spotify.com/album/7f0cqUGXKaudOdPyMYe2M5) | 2:49 |

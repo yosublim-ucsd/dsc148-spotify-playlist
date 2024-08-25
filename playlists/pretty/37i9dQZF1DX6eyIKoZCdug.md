@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 
 > From Joburg and Lagos..\. to Chicago\. Get lost in the electro and bass vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,288 likes - 51 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,388 likes - 51 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eyIKoZCdug.md) - [plain]
 | 27 | [Sauti](https://open.spotify.com/track/3wlEt7tgbcyowpdlcnCwfz) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Sauti](https://open.spotify.com/album/3tIC65kvqHU5C2npreZSSH) | 3:28 |
 | 28 | [Space Fair](https://open.spotify.com/track/16WmsfJpN9v239N0BtkwMj) | [Hanna Haïs](https://open.spotify.com/artist/6cnRri5dkUwbn0jsjXJrdA), [KingDonna](https://open.spotify.com/artist/2zZHw1UpT4BK4IJdS1WhDU) | [Space Fair](https://open.spotify.com/album/0hCU0hTfhkJv29eQW9OgZ6) | 6:57 |
 | 29 | [Scilla E Cariddi \- TR3NACRIA Remix](https://open.spotify.com/track/0zbtBY7uHGYSMJJazj4K2L) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH) | [Scilla E Cariddi \(TR3NACRIA Remix\)](https://open.spotify.com/album/68e9h9IdfSpbhMQsdKITvR) | 3:05 |
-| 30 | [Richa](https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk) | [Richa](https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu) | 4:02 |
+| 30 | [Richa](https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Richa](https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu) | 4:02 |
 | 31 | [Alive](https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Alive](https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO) | 3:12 |
 | 32 | [Spell\-Dial](https://open.spotify.com/track/4M3FV9igDRJPm062z10edS) | [Markus Wormstorm](https://open.spotify.com/artist/71drLE0EKMGWwlF5NDt9S8), [Qiniso Van Damme](https://open.spotify.com/artist/0XeJ4ltGFqHHKQduMqIgVp) | [Spell\-Dial](https://open.spotify.com/album/7wpXnVwohFTtqzIvKydDzx) | 3:28 |
 | 33 | [Udokotela](https://open.spotify.com/track/2hF8zj1pgjlzENfzqztU4b) | [Muzari](https://open.spotify.com/artist/5CKFDmOK1dzIqjxSoSyi6Y) | [Udokotela](https://open.spotify.com/album/5EzeLxe63DgICodZ1jsjPz) | 5:22 |

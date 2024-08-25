@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-388 songs - 1 day 0 hr 31 min
+389 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Pobre secretaria](https://open.spotify.com/track/1Ikzf2CUcmHzNf4ETPJexW) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 2:55 | 2022-08-31 | 2022-11-13 |
 | [Popurri Juan Gabriel Medley](https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Solo Lo Mejor \- 20 Exitos](https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb) | 4:55 | 2022-01-01 |  |
 | [Por Cobardía](https://open.spotify.com/track/2mpbYpv7RaP3nFT7PsLev0) | [Lila Deneken](https://open.spotify.com/artist/1ztsMJLgY2ISoHlSApijCG) | [Lila Deneken......Por Cobardía](https://open.spotify.com/album/796ID4GjmeQOqVXWVt31TN) | 4:44 | 2024-05-07 | 2024-06-02 |
-| [Por Debajo De La Mesa](https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:04 | 2022-01-01 |  |
+| [Por Debajo De La Mesa](https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:04 | 2022-01-01 | 2024-08-25 |
 | [Por Ese Hombre \(with Dyango\)](https://open.spotify.com/track/7Lw1CMlaUzFICJGTwz6wvZ) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo), [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [20 Exitos Originales](https://open.spotify.com/album/7K29PoNitWdhxYhOTOHa35) | 4:49 | 2022-01-01 |  |
 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/7uSEht8p9wuXz7sQfUBU47) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Éxitos](https://open.spotify.com/album/6vWqqBI2PSTDoROOU6IdE3) | 3:20 | 2022-01-01 | 2022-07-29 |
 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/3uNHsihawfIiZv8XClEZoY) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Exitos](https://open.spotify.com/album/7LqDl8hqvxYKVArJWWABtC) | 3:20 | 2022-06-02 | 2024-01-05 |
@@ -334,6 +334,7 @@
 | [Sola Con Mi Soledad](https://open.spotify.com/track/0GU3ULktdxtWMIPXXc1NNS) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Completamente Tuya](https://open.spotify.com/album/5vN1tVAL4qBWurY8UHah7g) | 3:45 | 2023-01-12 | 2024-04-19 |
 | [Sola Con Mi Soledad](https://open.spotify.com/track/1DocEW5Vym3fuAHkWN81LE) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela, Vol\. 2](https://open.spotify.com/album/4pNjXSgSDPrN2jsJnurJOW) | 3:49 | 2022-01-01 | 2022-07-28 |
 | [Sola Con Mi Soledad](https://open.spotify.com/track/5piVXhB5leKZ3kF5nFSiDZ) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 2](https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn) | 3:49 | 2022-06-02 | 2023-10-26 |
+| [Solamente Una Vez](https://open.spotify.com/track/70BcjMGYixgH1GKkLS40Jr) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 3:01 | 2024-06-04 |  |
 | [Soldado Del Amor](https://open.spotify.com/track/00WaqvalczjEOcQLo51cJ5) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Legend](https://open.spotify.com/album/6fDPYvx5G9cMAjDtwJs9LE) | 3:40 | 2022-01-01 | 2022-07-29 |
 | [Sombras \- Versión Trío](https://open.spotify.com/track/5XvhkNqprUww9RHa4XjSd2) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Exitos Con Trio](https://open.spotify.com/album/1BiLtcjrB3K5nJOaJ8gmaD) | 3:27 | 2022-01-01 |  |
 | [Soy rebelde](https://open.spotify.com/track/1oaPnvUccVzyjsKFkuE7oA) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Porque Te Vas](https://open.spotify.com/album/1qCaXMufzGyuuhkwvl2TYy) | 3:13 | 2024-05-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ\">Run Into Waves</a>",
-  "num_followers": 19745,
+  "num_followers": 19762,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Berge",
-        "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
-      },
-      "artists": [
-        {
-          "name": "Spoegwolf",
-          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
-        }
-      ],
-      "duration_ms": 255722,
-      "name": "Berge",
-      "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Stardust Galaxies",
         "url": "https://open.spotify.com/album/6tpTsx57LM1DmiOezpi0Ro"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 251600,
       "name": "Push Me to the Floor",
       "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Berge",
+        "url": "https://open.spotify.com/album/7lOASXESmgv642WLhyUPZE"
+      },
+      "artists": [
+        {
+          "name": "Spoegwolf",
+          "url": "https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn"
+        }
+      ],
+      "duration_ms": 255722,
+      "name": "Berge",
+      "url": "https://open.spotify.com/track/2z6QLwxk0nmW7Ckkt3M8vG"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Paaie X",
-        "url": "https://open.spotify.com/album/73m7S12HvQ1IArvaYy2lbO"
-      },
-      "artists": [
-        {
-          "name": "Aidan Kade",
-          "url": "https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Paaie X",
-      "url": "https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Hoop (In Die Donker)",
         "url": "https://open.spotify.com/album/4z2lEEAcjmXoZR5CpQ0T5W"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 177713,
       "name": "Hoop (In Die Donker)",
       "url": "https://open.spotify.com/track/0rewZ2OgrKpqifSqioVWs8"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Paaie X",
+        "url": "https://open.spotify.com/album/73m7S12HvQ1IArvaYy2lbO"
+      },
+      "artists": [
+        {
+          "name": "Aidan Kade",
+          "url": "https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Paaie X",
+      "url": "https://open.spotify.com/track/1mBEtvBdWd7i4X3TxGJ0Ud"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Penny Sleeps",
-        "url": "https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU"
-      },
-      "artists": [
-        {
-          "name": "HONEYMOAN",
-          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
-        }
-      ],
-      "duration_ms": 174974,
-      "name": "Penny Sleeps",
-      "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 207773,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
+        "name": "Penny Sleeps",
+        "url": "https://open.spotify.com/album/7ddzeb1G5JmAqTagzbphFU"
+      },
+      "artists": [
+        {
+          "name": "HONEYMOAN",
+          "url": "https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV"
+        }
+      ],
+      "duration_ms": 174974,
+      "name": "Penny Sleeps",
+      "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS"
     },
     {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/5toycwLOrTEoVW78Z8foya"
+      },
+      "artists": [
+        {
+          "name": "Sonofold",
+          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
+        }
+      ],
+      "duration_ms": 229400,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7"
+    },
+    {
       "added_at": "2024-07-28 19:12:15",
       "album": {
         "name": "All Comes Round 20th Anniversary Edition",
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/1eufrzhisuPjdBsiToqi1e"
-      },
-      "artists": [
-        {
-          "name": "Pony Jones",
-          "url": "https://open.spotify.com/artist/7AzbYu4z6CpgR2OSrb4DM2"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Burn Out",
-      "url": "https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY"
-    },
-    {
-      "added_at": "2024-07-28 19:12:15",
-      "album": {
         "name": "Long Live Tonight",
         "url": "https://open.spotify.com/album/1SrN5UhQ6uqqkFhMlsQwNo"
       },
@@ -681,36 +681,20 @@
       "url": "https://open.spotify.com/track/0PZGBkKhUJfPt6kUYE9SPd"
     },
     {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/5toycwLOrTEoVW78Z8foya"
-      },
-      "artists": [
-        {
-          "name": "Sonofold",
-          "url": "https://open.spotify.com/artist/7nCXKf1BC7v0GcK04mx7qD"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4x3Ot7V42zIMh5cSf850n7"
-    },
-    {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Heelal",
-        "url": "https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw"
+        "name": "One",
+        "url": "https://open.spotify.com/album/1eufrzhisuPjdBsiToqi1e"
       },
       "artists": [
         {
-          "name": "Ryno Velvet",
-          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
+          "name": "Pony Jones",
+          "url": "https://open.spotify.com/artist/7AzbYu4z6CpgR2OSrb4DM2"
         }
       ],
-      "duration_ms": 247146,
-      "name": "Katedraal",
-      "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"
+      "duration_ms": 161813,
+      "name": "Burn Out",
+      "url": "https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -731,18 +715,18 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Geen Vrede",
-        "url": "https://open.spotify.com/album/0M9N3Imf9ClenPXudEey8h"
+        "name": "Heelal",
+        "url": "https://open.spotify.com/album/0MRr2149VZFyYQ5Yn0tgCw"
       },
       "artists": [
         {
-          "name": "Elsje du Toit",
-          "url": "https://open.spotify.com/artist/6miepPtiQawx256JNyCecF"
+          "name": "Ryno Velvet",
+          "url": "https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt"
         }
       ],
-      "duration_ms": 227766,
-      "name": "Geen Vrede",
-      "url": "https://open.spotify.com/track/4Nrz4346TrtEM1o2RAnELo"
+      "duration_ms": 247146,
+      "name": "Katedraal",
+      "url": "https://open.spotify.com/track/0mJcJqP8GWSLCV2TMbnlIY"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -763,18 +747,18 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Joune",
-        "url": "https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db"
+        "name": "Geen Vrede",
+        "url": "https://open.spotify.com/album/0M9N3Imf9ClenPXudEey8h"
       },
       "artists": [
         {
-          "name": "Cara Rossouw",
-          "url": "https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa"
+          "name": "Elsje du Toit",
+          "url": "https://open.spotify.com/artist/6miepPtiQawx256JNyCecF"
         }
       ],
-      "duration_ms": 174701,
-      "name": "Joune",
-      "url": "https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7"
+      "duration_ms": 227766,
+      "name": "Geen Vrede",
+      "url": "https://open.spotify.com/track/4Nrz4346TrtEM1o2RAnELo"
     },
     {
       "added_at": "2024-07-28 19:12:15",
@@ -795,6 +779,22 @@
     {
       "added_at": "2024-07-28 19:12:15",
       "album": {
+        "name": "Joune",
+        "url": "https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db"
+      },
+      "artists": [
+        {
+          "name": "Cara Rossouw",
+          "url": "https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa"
+        }
+      ],
+      "duration_ms": 174701,
+      "name": "Joune",
+      "url": "https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7"
+    },
+    {
+      "added_at": "2024-07-28 19:12:15",
+      "album": {
         "name": "Voel Jy Dit?",
         "url": "https://open.spotify.com/album/0woO4IsAbmDoxLE2INCuE7"
       },
@@ -809,24 +809,20 @@
       "url": "https://open.spotify.com/track/6PHxsiho5eloCFvuYseB7Y"
     },
     {
-      "added_at": "2024-08-01 22:00:00",
+      "added_at": "2024-07-28 19:12:15",
       "album": {
-        "name": "Neon Bloodstains",
-        "url": "https://open.spotify.com/album/6AtsLU6ZKNfER256miHZ0l"
+        "name": "Net Om Die Geraas In Te Asem",
+        "url": "https://open.spotify.com/album/24XNRA90YKU8MOiI1Yaz65"
       },
       "artists": [
         {
-          "name": "Crash And The Void",
-          "url": "https://open.spotify.com/artist/32sIYcqIVAbg6nV8ARSGHo"
-        },
-        {
-          "name": "Johni Holiday",
-          "url": "https://open.spotify.com/artist/5olOTP2GaaiZP7ETJdvXH2"
+          "name": "\u00e9F-\u00e9L",
+          "url": "https://open.spotify.com/artist/0I1HsrpXxDkMUiOYp3Mmka"
         }
       ],
-      "duration_ms": 291576,
-      "name": "Neon Bloodstains",
-      "url": "https://open.spotify.com/track/3wUM1lQBu9bNj8kbHEKx3I"
+      "duration_ms": 141186,
+      "name": "Sindikaat",
+      "url": "https://open.spotify.com/track/0qkIdbHq4RHlUuVkj6eRcs"
     }
   ],
   "unique_name": "SA Rock ",

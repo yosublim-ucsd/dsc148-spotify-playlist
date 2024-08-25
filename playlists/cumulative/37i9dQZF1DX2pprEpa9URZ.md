@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-409 songs - 1 day 20 hr 9 min
+410 songs - 1 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Libero](https://open.spotify.com/track/38mE4ZdMQDAM9EhOoqyG1Y) | [Jan Dalvik](https://open.spotify.com/artist/0dd0MgZ7BCQsY6S4y3nAB7) | [Jalapeno](https://open.spotify.com/album/1iScBKYlCu5lvyyAKAKEwI) | 7:21 | 2019-10-10 | 2020-03-25 |
 | [Liberta](https://open.spotify.com/track/416I8K0fM9gjaATXXjEgaF) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [Liberta](https://open.spotify.com/album/1afVetospzZjeQBubuV3JX) | 6:57 | 2019-08-02\* | 2020-04-24 |
 | [Lingala \- Original Mix](https://open.spotify.com/track/5GvQL9DAEAsHzKDz32boXW) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Junior](https://open.spotify.com/artist/3gW7PKtk41S7b9xqHIFeVA) | [Lingala](https://open.spotify.com/album/4R2egWth0idZxRYWBJ9DMs) | 9:58 | 2019-08-02\* | 2019-09-20 |
+| [Lioness \- Francis Mercier Remix](https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Lioness \- Francis Mercier Remix](https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf) | 3:13 | 2024-08-22 |  |
 | [Lit](https://open.spotify.com/track/057dSG3J2yUkg6qvCpLEWJ) | [Hezarfen](https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx) | [Lit](https://open.spotify.com/album/7J7YPXiCDdTaKHdfFSPXSP) | 6:00 | 2022-11-25 | 2024-07-25 |
 | [Losing My Impatience \- Alvaro Suarez Remix](https://open.spotify.com/track/0OuXJfHcnyjiWraFGw0Gpw) | [Persian Electro Orchestra](https://open.spotify.com/artist/0a8cZDsBGT9Oj1OJqs05Qz), [Alvaro Suarez](https://open.spotify.com/artist/6zfwxQQjoCU9uSsrwckyZv) | [Losing My Impatience \(Alvaro Suarez Remix\)](https://open.spotify.com/album/62C8T1Rp36AFG0tr5Rx3iO) | 6:42 | 2021-02-11 | 2021-03-19 |
 | [Lost Tales](https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Facets](https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM) | 4:46 | 2023-06-30 | 2023-09-02 |
@@ -331,7 +332,7 @@
 | [Scena](https://open.spotify.com/track/3JARIWKhqDUQ0LDxCD75U5) | [Angelov](https://open.spotify.com/artist/1gfKoKe7IlVgI1rL6qG7J2) | [Scena EP](https://open.spotify.com/album/1XaQkW4nR9nUNJSG6L8A6M) | 5:41 | 2020-06-12 | 2020-08-20 |
 | [Se Va, Se Va](https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Se Va, Se Va](https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba) | 7:29 | 2023-01-30 |  |
 | [Secreto](https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ), [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Secreto](https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT) | 5:21 | 2022-09-09 |  |
-| [Senhor Carangeju \- Dengue Dengue Dengue Remix](https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Na Lagoa \(Remixes\)](https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm) | 4:24 | 2022-11-25 |  |
+| [Senhor Carangeju \- Dengue Dengue Dengue Remix](https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Na Lagoa \(Remixes\)](https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm) | 4:24 | 2022-11-25 | 2024-08-25 |
 | [Serbet](https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw) | [Dim Angelo](https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2), [Christos Papadopoulos](https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn), [Meditelectro](https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg) | [Serbet](https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17) | 5:12 | 2021-12-17 |  |
 | [Set The Controls For The Heart Of The Sun \- Original Mix](https://open.spotify.com/track/51mYZbYgAHEnFkn1d4pOOD) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Set The Controls For The Heart Of The Sun](https://open.spotify.com/album/67GFqXv5kM2TaZ4ZNaOv1s) | 7:35 | 2019-08-02\* | 2019-09-20 |
 | [Seymour](https://open.spotify.com/track/5AzouEvFfanX3ldNVHSv82) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Seymour](https://open.spotify.com/album/6078zrNUWo4oCNus4USYnL) | 5:27 | 2020-05-15 | 2022-07-29 |

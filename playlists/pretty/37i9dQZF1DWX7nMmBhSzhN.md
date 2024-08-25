@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,704 likes - 50 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,015 likes - 50 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 | 7 | [Ab Tere Bin](https://open.spotify.com/track/5maLNkwnwUGzB7I6dNANV5) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Aashiqui](https://open.spotify.com/album/7mUTDWUBOPcpXTALk1TJuX) | 5:46 |
 | 8 | [Tujhe Yaad Na Meri Aayee](https://open.spotify.com/track/2UtsLJy1O0OFkCgjJGPGfe) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Manpreet Akhtar](https://open.spotify.com/artist/1CwUuNEwAVFy1v7499k1b6) | [Kuch Kuch Hota Hai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q) | 7:04 |
 | 9 | [Pardesi Pardesi](https://open.spotify.com/track/01bXxpjsD4ARa6ZOP8dmLY) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Sapna Awasthi](https://open.spotify.com/artist/2tFjeCx8NJhn7JBTTiWT30) | [Raja Hindustani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5G16twTP5dS4B99YLakLE6) | 7:28 |
-| 10 | [Woh Meri Neend Mera Chain](https://open.spotify.com/track/7rmhuVGX5VFjdZ1EC0BZqk) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Hum Hain Rahi Pyar Ke \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63Y2RfrgCziZL6Jz8YCqV1) | 4:58 |
+| 10 | [Woh Meri Neend Mera Chain](https://open.spotify.com/track/7rmhuVGX5VFjdZ1EC0BZqk) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Hum Hain Rahi Pyar Ke \- Original Motion Picture Soundtrack](https://open.spotify.com/album/63Y2RfrgCziZL6Jz8YCqV1) | 4:58 |
 | 11 | [Dil Deta Hai Ro Ro Duhai](https://open.spotify.com/track/26YspgFmzTfiSFKWsHLtCY) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Phir Teri Kahani Yaad Aayee \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HcJ0Adf3w6NnsZYbFesjG) | 8:23 |
 | 12 | [Wafa Na Raas Aayee Tujhe O Harjaee](https://open.spotify.com/track/5o6OhGZJjGwaLsKeAgy1hz) | [Nitin Mukesh](https://open.spotify.com/artist/4ec676jWgAuvEZZg0y7dBy) | [Bewafa Sanam](https://open.spotify.com/album/4sJlxQ1A14C08AvP6wOitK) | 6:10 |
 | 13 | [Tadap Tadap](https://open.spotify.com/track/6n6hEYHXBzWfdSzBX20ZRw) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Dominique](https://open.spotify.com/artist/3Y24UY463kttOxNYMH9X2u) | [Hum Dil De Chuke Sanam](https://open.spotify.com/album/1QUfdAyckA0M14z0kpOBts) | 6:37 |

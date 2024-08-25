@@ -1,6 +1,6 @@
 {
   "description": "Come closer and see... into the dark. The Cure on cover.",
-  "num_followers": 805339,
+  "num_followers": 805794,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Starfish",
-        "url": "https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x"
-      },
-      "artists": [
-        {
-          "name": "The Church",
-          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
-        }
-      ],
-      "duration_ms": 295973,
-      "name": "Reptile",
-      "url": "https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 293693,
       "name": "Dead Souls",
       "url": "https://open.spotify.com/track/12s8P9IFXjJWwVnX7u26ca"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Starfish",
+        "url": "https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x"
+      },
+      "artists": [
+        {
+          "name": "The Church",
+          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
+        }
+      ],
+      "duration_ms": 295973,
+      "name": "Reptile",
+      "url": "https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/5FFvaskWpkLIgBdNhlSIOG"
     },
     {
-      "added_at": "2023-10-13 03:31:28",
-      "album": {
-        "name": "Bound By Naked Skies",
-        "url": "https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1"
-      },
-      "artists": [
-        {
-          "name": "Lathe of Heaven",
-          "url": "https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr"
-        }
-      ],
-      "duration_ms": 172869,
-      "name": "Ekpyrosis",
-      "url": "https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "At the End of the Sea",
@@ -1159,6 +1143,22 @@
       "duration_ms": 235080,
       "name": "Rumours",
       "url": "https://open.spotify.com/track/0g2OVqfjNDKHm9NVehyinS"
+    },
+    {
+      "added_at": "2023-10-13 03:31:28",
+      "album": {
+        "name": "Bound By Naked Skies",
+        "url": "https://open.spotify.com/album/5lY7DOXHvN5uCBUffyuRY1"
+      },
+      "artists": [
+        {
+          "name": "Lathe of Heaven",
+          "url": "https://open.spotify.com/artist/6sU6B7cuctosL0gOhgeBdr"
+        }
+      ],
+      "duration_ms": 172869,
+      "name": "Ekpyrosis",
+      "url": "https://open.spotify.com/track/5x8eW8WVdSGGNS8hRcLxmB"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Always Now",
-        "url": "https://open.spotify.com/album/2rt8lRE5VoWwI5GpfmMHqZ"
+        "name": "Lucky Number (The Best Of)",
+        "url": "https://open.spotify.com/album/7pltfJ1ItmrO7VHmV9Y0jD"
       },
       "artists": [
         {
-          "name": "Section 25",
-          "url": "https://open.spotify.com/artist/0WvBaBwebA8SOLSXUVh4ge"
+          "name": "Lene Lovich",
+          "url": "https://open.spotify.com/artist/1yFJnlNMiBUBplMaOP5CMX"
         }
       ],
-      "duration_ms": 178906,
-      "name": "Hit",
-      "url": "https://open.spotify.com/track/1lYjZUzStLNGtawS2RbvMj"
+      "duration_ms": 268733,
+      "name": "Bird Song",
+      "url": "https://open.spotify.com/track/1fkjuY5vauCjIPqhGD0RFR"
     }
   ],
   "unique_name": "Dark & Gothic",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "This Is Miel San Marcos. Los temas esenciales, todos en una lista.",
+  "description": "This is Miel San Marcos. Tutti i brani in un'unica playlist.",
   "name": "This Is Miel San Marcos",
   "tracks": [
     {
@@ -192,6 +192,28 @@
       "duration_ms": 266880,
       "name": "Como En El Cielo (En Vivo)",
       "url": "https://open.spotify.com/track/2Dro7J9lF4xyZe4rrSTTPE"
+    },
+    {
+      "album": {
+        "name": "Conf\u00edo En Dios",
+        "url": "https://open.spotify.com/album/7175gzjAEYxSNnvuNwO0cM"
+      },
+      "artists": [
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447037,
+      "name": "Conf\u00edo En Dios",
+      "url": "https://open.spotify.com/track/2ypy1GyFZPuR68xbLTXoKL"
     },
     {
       "album": {

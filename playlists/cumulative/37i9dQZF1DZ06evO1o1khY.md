@@ -2,9 +2,9 @@
 
 ### [This Is GloRilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1o1khY)
 
-> This is GloRilla\. The essential tracks, all in one playlist.
+> This Is GloRilla\. Los temas esenciales, todos en una lista.
 
-75 songs - 3 hr 34 min
+76 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Section](https://open.spotify.com/track/3mNZOADKlBrftXBOZclPhN) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq) | [Renegade](https://open.spotify.com/album/1oLihKPBT36E4csJUGlLP7) | 3:57 | 2023-12-13 | 2024-01-07 |
 | [Set The Tone](https://open.spotify.com/track/0MSe6jp83mHI6jqZqoyeZz) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [Set The Tone](https://open.spotify.com/album/7ptT0eB5rLQRUlUAULqJjX) | 3:03 | 2022-10-28 |  |
 | [Set The Tone 2](https://open.spotify.com/track/0zuFHdrVEVywDWFCe0t58e) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Renegade](https://open.spotify.com/album/1oLihKPBT36E4csJUGlLP7) | 2:46 | 2023-12-13 | 2024-01-07 |
+| [Show Dat Work \(feat\. GloRilla & Rob49\)](https://open.spotify.com/track/3sQinkjMM30VKi3xMdHtA9) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Show Dat Work \(feat\. GloRilla & Rob49\)](https://open.spotify.com/album/3h6UsC0h6zJXxNITr2OFqV) | 3:42 | 2024-08-25 |  |
 | [Sneaky Link](https://open.spotify.com/track/5Ml0jIVN0WWU3YTkRwLT9l) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [YCR Los](https://open.spotify.com/artist/2JM3W43C5eTSRuAhlaeQ4R) | [Sneaky Link](https://open.spotify.com/album/444HMhYaC7JPfiOOCbRDBU) | 2:38 | 2022-10-28 | 2023-07-23 |
 | [TGIF](https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF](https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D) | 2:44 | 2024-07-21 |  |
 | [TGIF](https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [TGIF \(Alternate Versions\)](https://open.spotify.com/album/14BMAk9z4NPb7j59jQnhRD) | 2:44 | 2024-06-23 | 2024-07-21 |

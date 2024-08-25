@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,413 likes - 713 songs - 1 day 23 hr 45 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,412 likes - 713 songs - 1 day 23 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -451,7 +451,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 441 | [Humility \(feat\. George Benson\)](https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:17 |
 | 442 | [Souk Eye](https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 4:34 |
 | 443 | [Cuttooth](https://open.spotify.com/track/6SpiFBcx6AnV3hJIAH6dLy) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Knives Out](https://open.spotify.com/album/57Y0vXSekxJYg9NqBmVSQc) | 5:23 |
-| 444 | [Saviour Machine \- 2015 Remaster](https://open.spotify.com/track/1LsDrUgiusxXHCoaSDvYDX) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \(2015 Remaster\)](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 4:30 |
+| 444 | [Saviour Machine \- 2015 Remaster](https://open.spotify.com/track/1LsDrUgiusxXHCoaSDvYDX) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \- 2015 Remaster](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 4:30 |
 | 445 | [Mr\. Beat](https://open.spotify.com/track/3vV8nAuqNguc4qd9FXetWj) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Nonagon Infinity](https://open.spotify.com/album/438JijxKCWYrtvpB5A5071) | 4:56 |
 | 446 | [People\-Vultures](https://open.spotify.com/track/6fyKnzGfR16ulDu3JC2N7F) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Nonagon Infinity](https://open.spotify.com/album/438JijxKCWYrtvpB5A5071) | 4:45 |
 | 447 | [She Bangs the Drums](https://open.spotify.com/track/28ndmDCRKWr3NCeRj1qB5P) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Very Best Of The Stone Roses](https://open.spotify.com/album/1RB1lMsMcQQmcqUyP23T5f) | 3:50 |
@@ -514,13 +514,13 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 504 | [Village Green \- 2018 Stereo Remaster](https://open.spotify.com/track/3dDN8YRmBb9Y9zUSZpcBu2) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [The Kinks Are The Village Green Preservation Society \(2018 Deluxe\)](https://open.spotify.com/album/6KSNUajJsQNXyp26fyE4Jf) | 2:11 |
 | 505 | [Give Me Love \(Give Me Peace On Earth\)](https://open.spotify.com/track/4XMRt4xFqLzGs4wDKkSSeu) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [Living In The Material World \(Remastered\)](https://open.spotify.com/album/79hB4QtJjn0Y4DyRPpllZg) | 3:35 |
 | 506 | [Giant Tortoise](https://open.spotify.com/track/2CgUaNGnbBYEIaKGzoLksn) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Hobo Rocket](https://open.spotify.com/album/4JcZo9SqwxrbDqsLf3e2WF) | 4:12 |
-| 507 | [All the Madmen \- 2015 Remaster](https://open.spotify.com/track/2ZnsnOk8bEM6LIUUUpWgDV) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \(2015 Remaster\)](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 5:43 |
+| 507 | [All the Madmen \- 2015 Remaster](https://open.spotify.com/track/2ZnsnOk8bEM6LIUUUpWgDV) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \- 2015 Remaster](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 5:43 |
 | 508 | [Easy Way Out](https://open.spotify.com/track/6Hlt4S0nm1URyqM0WLlQzY) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:44 |
-| 509 | [Black Country Rock \- 2015 Remaster](https://open.spotify.com/track/1SJyT00XqCV0qdEg6XX6PL) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \(2015 Remaster\)](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 3:36 |
+| 509 | [Black Country Rock \- 2015 Remaster](https://open.spotify.com/track/1SJyT00XqCV0qdEg6XX6PL) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \- 2015 Remaster](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 3:36 |
 | 510 | [Rock & Roll \- Full Length Version; 2015 Remaster](https://open.spotify.com/track/1o6DclZHw0HomxXEQR1ijX) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [Loaded: Re\-Loaded 45th Anniversary Edition](https://open.spotify.com/album/2ny1rPsLOoKNFZhMLubMrs) | 4:43 |
 | 511 | [Karma Police](https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn) | 4:24 |
 | 512 | [QYURRYUS](https://open.spotify.com/track/6pMRk6Tr05wmZSSINOqzE3) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 2:52 |
-| 513 | [The Supermen \- 2015 Remaster](https://open.spotify.com/track/0dXABNmo2aAdbmtRTzF1F2) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \(2015 Remaster\)](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 3:41 |
+| 513 | [The Supermen \- 2015 Remaster](https://open.spotify.com/track/0dXABNmo2aAdbmtRTzF1F2) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Man Who Sold the World \- 2015 Remaster](https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG) | 3:41 |
 | 514 | [Dusty](https://open.spotify.com/track/2l2vEgLnyAoARHlYok1bK1) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Down On The Upside](https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B) | 4:34 |
 | 515 | [Remember a Day](https://open.spotify.com/track/2YcxeBmk9hvMH7RFFyqnIr) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Saucerful of Secrets](https://open.spotify.com/album/2vnJKtGjZXRUg0mYPZ3HGH) | 4:32 |
 | 516 | [I Sat By The Ocean](https://open.spotify.com/track/7oXRMDUzBPekkLRTJhSGvC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [...Like Clockwork](https://open.spotify.com/album/06S2JBsr4U1Dz3YaenPdVq) | 3:55 |

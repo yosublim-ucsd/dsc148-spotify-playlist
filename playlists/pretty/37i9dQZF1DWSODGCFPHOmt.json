@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para las fiestas decembrinas. Cover: Panter Belico\n",
-  "num_followers": 10779,
+  "num_followers": 10778,
   "original_name": "La Posada",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Momentos Inolvidables",
-        "url": "https://open.spotify.com/album/4j52g8PEdpDLzznzt3lGUO"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 239699,
-      "name": "Navidad En Mi Rancho",
-      "url": "https://open.spotify.com/track/58poRvBpaSao6M24ZItrMq"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
         "name": "Navidad Rock",
         "url": "https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 157042,
       "name": "Voy A Pedirle A Santa Claus",
       "url": "https://open.spotify.com/track/1HKXIQ2GtrOPfSoUz0e0Jk"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
+        "name": "Momentos Inolvidables",
+        "url": "https://open.spotify.com/album/4j52g8PEdpDLzznzt3lGUO"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 239699,
+      "name": "Navidad En Mi Rancho",
+      "url": "https://open.spotify.com/track/58poRvBpaSao6M24ZItrMq"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Mi Burrito Sabanero",
-        "url": "https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Mi Burrito Sabanero",
-      "url": "https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
         "name": "Al Llegar La Navidad",
         "url": "https://open.spotify.com/album/584YXvUefVtSBELCB7pDML"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 139722,
       "name": "Al Llegar La Navidad",
       "url": "https://open.spotify.com/track/4qe40waYkAOOZmW1XOpugn"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+        "name": "Mi Burrito Sabanero",
+        "url": "https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2"
       },
       "artists": [
         {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 257586,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex"
+      "duration_ms": 178440,
+      "name": "Mi Burrito Sabanero",
+      "url": "https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -971,6 +971,30 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
+        "name": "Santa Claus Lleg\u00f3 A La Ciudad",
+        "url": "https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Kenia R\u00edos",
+          "url": "https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr"
+        },
+        {
+          "name": "Anahi R\u00edos",
+          "url": "https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l"
+        }
+      ],
+      "duration_ms": 120405,
+      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
+      "url": "https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
         "name": "Amarga Navidad",
         "url": "https://open.spotify.com/album/3MNqibanIKz1fwJtIoSnqF"
       },
@@ -1035,30 +1059,6 @@
       "duration_ms": 125066,
       "name": "Lista De Regalos (Feat. Nab\u00e1lez, Majo Aguilar, Banda Fortuna, Jary Franco, F\u00e1tima Campo, Ricardo Murillo)",
       "url": "https://open.spotify.com/track/7ElLuzVUuPMV0urEfAPBit"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
-        "name": "Santa Claus Lleg\u00f3 A La Ciudad",
-        "url": "https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Kenia R\u00edos",
-          "url": "https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr"
-        },
-        {
-          "name": "Anahi R\u00edos",
-          "url": "https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l"
-        }
-      ],
-      "duration_ms": 120405,
-      "name": "Santa Claus Lleg\u00f3 A La Ciudad",
-      "url": "https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Jingle Bells (Vamos All The Way)",
-        "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 155626,
-      "name": "Jingle Bells (Vamos All The Way)",
-      "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
         "name": "Navidad Fiesta Universal",
         "url": "https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb"
       },
@@ -1215,6 +1199,22 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
+        "name": "Jingle Bells (Vamos All The Way)",
+        "url": "https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 155626,
+      "name": "Jingle Bells (Vamos All The Way)",
+      "url": "https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
         "name": "La G\u00fcera Salom\u00e9",
         "url": "https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5"
       },
@@ -1227,6 +1227,38 @@
       "duration_ms": 224586,
       "name": "La G\u00fcera Salom\u00e9",
       "url": "https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
+        "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
+        "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 237869,
+      "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
+    },
+    {
+      "added_at": "2023-11-30 20:30:31",
+      "album": {
+        "name": "Navidad, Feel The Magic",
+        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 165773,
+      "name": "Navidad, Feel The Magic",
+      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -1287,34 +1319,18 @@
     {
       "added_at": "2023-11-30 20:30:31",
       "album": {
-        "name": "Navidad, Feel The Magic",
-        "url": "https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO"
+        "name": "Eterna Navidad Celebremos",
+        "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 165773,
-      "name": "Navidad, Feel The Magic",
-      "url": "https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
-        "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
-        "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 237869,
-      "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
+      "duration_ms": 166933,
+      "name": "Los Peces En El R\u00edo",
+      "url": "https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5"
     },
     {
       "added_at": "2023-11-30 20:30:31",
@@ -1331,22 +1347,6 @@
       "duration_ms": 190146,
       "name": "Mi Burrito Sabanero",
       "url": "https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca"
-    },
-    {
-      "added_at": "2023-11-30 20:30:31",
-      "album": {
-        "name": "Eterna Navidad Celebremos",
-        "url": "https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Los Peces En El R\u00edo",
-      "url": "https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5"
     },
     {
       "added_at": "2023-11-30 20:30:31",

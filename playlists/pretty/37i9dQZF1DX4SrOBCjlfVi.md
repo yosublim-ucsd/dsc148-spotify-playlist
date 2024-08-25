@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Cash Cobain, Tee Grizzley, Central Cee and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,420 likes - 49 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,557 likes - 49 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 23 | [Poppin Out](https://open.spotify.com/track/5juXrMWQdt8hfyN7urFOJo) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC) | [500k Degrees](https://open.spotify.com/album/0mnyS3LjbZM1gQfG5PoAec) | 2:21 |
 | 24 | [Big One](https://open.spotify.com/track/6KognKTBKJMjTHN6NGXwZR) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Big One](https://open.spotify.com/album/6sdV1PhNlF5RXjar4jsSpI) | 2:09 |
 | 25 | [Problem](https://open.spotify.com/track/6nVBeN060Kw7VYedxq2jaB) | [BlakeIANA](https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS) | [Problem](https://open.spotify.com/album/1QtLuMKitnxPiQlCdmq3Sm) | 2:58 |
-| 26 | [Me Time](https://open.spotify.com/track/1GygQ813dmWXhWxLW3d3eO) | [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC) | [Me Time](https://open.spotify.com/album/4iKua8swmnXHZoFBtiwg4s) | 2:26 |
+| 26 | [Me Time](https://open.spotify.com/track/1GygQ813dmWXhWxLW3d3eO) | [Bossa](https://open.spotify.com/artist/1c7g2IlcGxfR51B2axtFbC) | [Me Time](https://open.spotify.com/album/4iKua8swmnXHZoFBtiwg4s) | 2:12 |
 | 27 | [HERE WE GO AGAIN](https://open.spotify.com/track/4mGTpDMsOvm8HEmCQYmhKB) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [HERE WE GO AGAIN](https://open.spotify.com/album/6SK56sERumrjdNTsQSmBxF) | 2:30 |
 | 28 | [WANT\-NEED\-NA](https://open.spotify.com/track/0DUZgDwmj6e6kmQkfQcPln) | [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [WANT\-NEED\-NA](https://open.spotify.com/album/0HFzgLCDcUPHRbEmIXZ7yn) | 2:16 |
 | 29 | [Practice](https://open.spotify.com/track/3OGPEtMcV1OjnRXrAHQZqq) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Practice](https://open.spotify.com/album/0hhskdGh4roxJZtn9ZPl54) | 2:06 |

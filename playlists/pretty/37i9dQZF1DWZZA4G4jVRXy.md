@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,469 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,484 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 55 | [Underlay No.3](https://open.spotify.com/track/3pu0lqNFayew1RJ5WuLadM) | [Jack Trombey](https://open.spotify.com/artist/0CIxJ9KXfPW54mXzhWek7I) | [Blow Up presents Exclusive Blend Volume 2](https://open.spotify.com/album/2LscdictQbjN7PTZZ2EjTO) | 4:02 |
 | 56 | [Mombasa Love Song](https://open.spotify.com/track/5PggdfNnUPNg7nwGZSBNiw) | [Tak Shindo](https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR) | [MGANGA!](https://open.spotify.com/album/15jEM8o3CyVez6n1I0dERU) | 2:40 |
 | 57 | [Haleakala Hula](https://open.spotify.com/track/5op9hoVsdz26naItLYuwMb) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Uluwehi Sings Na Mele Hula Aloha](https://open.spotify.com/album/6c8VrZiE7YDNRjpa7ciSGe) | 2:35 |
-| 58 | [I Get a Kick Out of You](https://open.spotify.com/track/4ZGiNag9e8bNZ1fqXuvnDB) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Siboney \(Lounge Serie\)](https://open.spotify.com/album/5lCKCcAibWfuXzKpV9vi2x) | 2:39 |
+| 58 | [I Get a Kick Out of You](https://open.spotify.com/track/4ZGiNag9e8bNZ1fqXuvnDB) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Siboney \- Lounge Serie](https://open.spotify.com/album/5lCKCcAibWfuXzKpV9vi2x) | 2:39 |
 | 59 | [Hernando s Hideaway](https://open.spotify.com/track/56UuUpJI5Ov38bXhKjaZ2M) | [Augie Colon](https://open.spotify.com/artist/2pddiKucMu8fKxpDbWzJBN) | [Jungle Drums](https://open.spotify.com/album/0FsgkPg3yho6MeConxp9AQ) | 2:10 |
 | 60 | [Sweet Leilani](https://open.spotify.com/track/0eIb5Pu0dEaNw2OOTwkFa2) | [Lawrence Welk & His Orchestra](https://open.spotify.com/artist/4phr6llU1BoO8p2qg6I69R) | [Songs Of The Islands](https://open.spotify.com/album/2fHURThRK2CbhwhJz6jF9x) | 2:18 |
 | 61 | [Moon Of Manakoora](https://open.spotify.com/track/3NLbKZRBnyUSt1ZL2HFj9l) | [Geoff Love & His Orchestra](https://open.spotify.com/artist/4W9CuqPOk3XWnLpwT0mOTI) | [Heat Wave](https://open.spotify.com/album/5YO2Bk5jkOTrlKl9ZcVZWI) | 3:12 |

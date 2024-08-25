@@ -2,7 +2,7 @@
 
 ### [This Is Los Tigres Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UfTKo)
 
-> This is Los Tigres Del Norte\. De viktigaste låtarna samlade i en spellista.
+> This Is Los Tigres Del Norte\. Los temas esenciales, todos en una lista.
 
 59 songs - 3 hr 16 min
 

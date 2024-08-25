@@ -4,7 +4,7 @@
 
 > Lo mejor del pop electrónico en español.
 
-136 songs - 8 hr 20 min
+137 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [BOTON](https://open.spotify.com/track/34WKnyo66SajqdBMooAzl1) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [BOTON](https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427) | 2:18 | 2023-09-08 | 2024-02-03 |
 | [Bum \(Chocamos un Auto\)](https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv) | [Laika Perra Rusa](https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb) | [Bum \(Chocamos un Auto\)](https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6) | 3:46 | 2023-09-08 | 2023-10-20 |
 | [Bye Bye \- Juan Hansen Remix](https://open.spotify.com/track/7CKu9iA2e0tCjd1Qw7s8dX) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2), [Juan Hansen](https://open.spotify.com/artist/1ZFLYus27fzqEV3d6RBrxo) | [Bye Bye \(Juan Hansen Remix\)](https://open.spotify.com/album/2midg6u0xxE7KBnTCNqT98) | 6:07 | 2023-09-08 |  |
+| [Bórrame el Dolor ☆](https://open.spotify.com/track/4hv9p4wMWoBTDgdaWw6fmB) | [DANI RIDE](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6), [Supernova](https://open.spotify.com/artist/4hp1i0d15TWg1YN3lCUWgq) | [Bórrame el Dolor ☆](https://open.spotify.com/album/30eyu4C1vjBzJlMsJ5XBxW) | 3:43 | 2024-08-23 |  |
 | [Caribbean](https://open.spotify.com/track/6yciTnwFKwtN2WyrxaLyNz) | [Astro](https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g) | [Chicos de la Luz](https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe) | 4:39 | 2023-09-08 | 2024-04-19 |
 | [Caribbean](https://open.spotify.com/track/6etFpoM9bw0PU094PMLGvL) | [Astro](https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g) | [Chicos de la Luz](https://open.spotify.com/album/6Mh5DKubjomT2XxaSMCILY) | 4:39 | 2024-04-12 |  |
 | [Cerca](https://open.spotify.com/track/0GzgKVNy4E1E2R16zkKGOr) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cerca](https://open.spotify.com/album/1TUM8Vh8ZWkNfHc7LENZnP) | 3:11 | 2023-09-08 |  |
@@ -78,7 +79,7 @@
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2023-09-08 |  |
 | [Latina](https://open.spotify.com/track/0bVVqy2JB5oztWohSkWhPU) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Sukubito](https://open.spotify.com/artist/0JzKb7hoduFrEG3poYHHqy) | [Latina](https://open.spotify.com/album/3QPv9v7HojqK3ebBcfBpzR) | 3:07 | 2023-09-08 | 2023-11-25 |
 | [Locura](https://open.spotify.com/track/79NtEgOBdPsUCwynkb9sHK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Latinoamericana](https://open.spotify.com/album/0rJcvw5YO9a1QpktRZESAv) | 3:37 | 2023-09-08 | 2024-04-19 |
-| [Lucidez](https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Lucidez](https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD) | 6:11 | 2023-09-08 |  |
+| [Lucidez](https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Lucidez](https://open.spotify.com/album/1XZRNnQ1dcp59OJrq5DtUD) | 6:11 | 2023-09-08 | 2024-08-25 |
 | [Lucía](https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Lucía](https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH) | 4:49 | 2023-09-08 |  |
 | [Lunes Por La Madrugada](https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Por Si Acaso Se Acaba El Mundo](https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8) | 3:03 | 2023-11-24 |  |
 | [MAL NECESARIO](https://open.spotify.com/track/55M73tEx2Db51y2hXvkaY9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MAL NECESARIO](https://open.spotify.com/album/2N7E8e5LmRFUv7yRnYazyB) | 2:54 | 2023-09-08 |  |

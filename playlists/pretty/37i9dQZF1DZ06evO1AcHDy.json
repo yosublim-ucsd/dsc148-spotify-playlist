@@ -1,12 +1,12 @@
 {
-  "description": "This is Rina Sawayama. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 37825,
+  "description": "This Is Rina Sawayama. Los temas esenciales, todos en una lista.",
+  "num_followers": 37823,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAADI4sepQx0P95PurjQN9fiP",
+  "snapshot_id": "ZsfRAAAAAAClJgl6E8LowUJhYYzspdG5",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 60321,
+      "name": "Time Out - Interlude",
+      "url": "https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 267369,
+      "name": "Tokyo Love Hotel",
+      "url": "https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -375,38 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAWAYAMA",
-        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 267369,
-      "name": "Tokyo Love Hotel",
-      "url": "https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 60321,
-      "name": "Time Out - Interlude",
-      "url": "https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hold The Girl",
         "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
       },
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold The Girl (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 153466,
-      "name": "Flavour Of The Month",
-      "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
+      "duration_ms": 221880,
+      "name": "Cyber Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/7I9bSsqqIA0cV1nL0igGLm"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+        "name": "Hold The Girl (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 221880,
-      "name": "Cyber Stockholm Syndrome",
-      "url": "https://open.spotify.com/track/7I9bSsqqIA0cV1nL0igGLm"
+      "duration_ms": 153466,
+      "name": "Flavour Of The Month",
+      "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where U Are",
-        "url": "https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Where U Are",
-      "url": "https://open.spotify.com/track/30tie454RN2304xzAu5Din"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RINA",
         "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 205573,
       "name": "Take Me as I Am",
       "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where U Are",
+        "url": "https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Where U Are",
+      "url": "https://open.spotify.com/track/30tie454RN2304xzAu5Din"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 227037,
+      "name": "Ordinary Superstar",
+      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SAWAYAMA (Deluxe Edition)",
         "url": "https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 106832,
       "name": "Bees & Honey (Bonus Track)",
       "url": "https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 227037,
-      "name": "Ordinary Superstar",
-      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 
 > Music by our 2024 Artists To Watch\. Cover: Jasiel Nuñez
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,380 likes - 29 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,388 likes - 29 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZizs5bgPEuA.md) - [plain]
 | 21 | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/track/6HWm8rj8kX5AXUZAyciF14) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [CLIMA \(with Foreign Teck\)](https://open.spotify.com/album/5DllpnHoUTYe6Wjd5trxJP) | 2:44 |
 | 22 | [SANDUNGUEA](https://open.spotify.com/track/3GbLOCHhuhdGhuKm5zkQjz) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D) | [SANDUNGUEA](https://open.spotify.com/album/4NEEk4i3IvRIoUKsYDM1Lf) | 2:34 |
 | 23 | [Nos Entendemos](https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Nos Entendemos](https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa) | 2:56 |
-| 24 | [Hielo](https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Hielo](https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g) | 3:04 |
+| 24 | [la cumbia del cucuy](https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cumbialicious](https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG) | 2:14 |
 | 25 | [Buen Provecho](https://open.spotify.com/track/2WN5D1EawTaV8kfJ2Uf1PE) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Modales](https://open.spotify.com/album/3cq4GdUFxAh7NGgtaWTfgS) | 2:16 |
-| 26 | [la cumbia del cucuy](https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Cumbialicious](https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG) | 2:14 |
+| 26 | [Hielo](https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Hielo](https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g) | 3:04 |
 | 27 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 |
-| 28 | [Salsa y Clase](https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Salsa y Clase](https://open.spotify.com/album/1PYbu1cHo958o2vGgZRYYA) | 3:42 |
-| 29 | [Chiki Bombón](https://open.spotify.com/track/1SXwXMVllOY1IHVjtol5VL) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Chiki Bombón](https://open.spotify.com/album/32YOvP63wnklptWCwAOZx5) | 2:02 |
+| 28 | [Chiki Bombón](https://open.spotify.com/track/1SXwXMVllOY1IHVjtol5VL) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Chiki Bombón](https://open.spotify.com/album/32YOvP63wnklptWCwAOZx5) | 2:02 |
+| 29 | [Salsa y Clase](https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Salsa y Clase](https://open.spotify.com/album/1PYbu1cHo958o2vGgZRYYA) | 3:42 |
 
 Snapshot ID: `ZpCqQAAAAABYp+6ZmRu0R1tCEwdKZXuU`

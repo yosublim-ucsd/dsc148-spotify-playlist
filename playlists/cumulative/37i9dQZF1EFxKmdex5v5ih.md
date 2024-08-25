@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-432 songs - 23 hr 50 min
+433 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [RAIN](https://open.spotify.com/track/55PC8EQgaWWrIgP0H2VC6x) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead \(Deluxe\)](https://open.spotify.com/album/3h7X7RcVxhSNLCCxJ7I9ar) | 3:33 | 2022-12-15 |  |
 | [Raindance \(feat\. Native Soul\)](https://open.spotify.com/track/2hkDX0w2KRgicE7nHzEU2v) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Native Soul](https://open.spotify.com/artist/1YhcreGr3lGJf6nOne2AIv) | [World Music Radio](https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF) | 3:10 | 2023-12-13 |  |
 | [Ready Or Not](https://open.spotify.com/track/1LOXdPvVrWx9JU7yZmSnSQ) | [Michael Logen](https://open.spotify.com/artist/7KaasLUJvHN32JTeXBmowR) | [New Medicine](https://open.spotify.com/album/2IkjbRNgiMne7mWlagevtY) | 3:23 | 2023-06-22 |  |
+| [Real Good Love](https://open.spotify.com/track/13NS1isrYiasCdCt775RL3) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [Real Good Love](https://open.spotify.com/album/2CUpYizxYu2o1ULtbM61RF) | 2:52 | 2024-08-24 |  |
 | [Remember This](https://open.spotify.com/track/5dth8xfYgHeTtjL3Iu4stR) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Setlist: The Remember This Tour](https://open.spotify.com/album/0HlfQenJHaxL8JiXnqcT7i) | 2:58 | 2021-12-27 | 2022-06-12 |
 | [Remember This](https://open.spotify.com/track/6nACZEZIt1CIBmF09r5Pb5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Remember This](https://open.spotify.com/album/5sIvIsXTXfwoMEBVk1xCqm) | 2:58 | 2022-06-11 |  |
 | [Rich Boy](https://open.spotify.com/track/0K7Dd9DP6fvOl0mrlX0aUa) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Rich Boy](https://open.spotify.com/album/0Im9DNZw6k6bG5tjxKToPc) | 3:03 | 2023-06-22 |  |

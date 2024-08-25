@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Heeya Tikku, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,041 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,064 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 12 | [Dhokebaaz](https://open.spotify.com/track/1SQjiC4ds8kEzI9aeutBpp) | [Karigar](https://open.spotify.com/artist/6BSvdM5bDjeGF7dAaprE5k) | [Dhokebaaz](https://open.spotify.com/album/45sTsLLb7HHrnbkqU7TqRr) | 3:36 |
 | 13 | [Jalta Dekh Lo](https://open.spotify.com/track/5hT2D2tX7ygtcnnFtcYEf5) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Jalta Dekh Lo](https://open.spotify.com/album/1aDBsRyUgsd3keVhkdK44D) | 4:24 |
 | 14 | [Intezaar](https://open.spotify.com/track/6RBdY0KhCCNrmmkKejUDLv) | [Deb](https://open.spotify.com/artist/2btILajeHQDo6O6WpJ9wcm) | [Intezaar](https://open.spotify.com/album/7C3BtPk4WwP3eRlpk7KcM3) | 3:17 |
-| 15 | [burning desire](https://open.spotify.com/track/3GobSxwNTJ3r6AtEsEPCie) | [vishi](https://open.spotify.com/artist/60n9I7tfidGSwYM0qPZkwX) | [burning desire](https://open.spotify.com/album/6tD0xbtwZelkad4FvB0cpN) | 2:54 |
+| 15 | [burning desire](https://open.spotify.com/track/3GobSxwNTJ3r6AtEsEPCie) | [VISHIE](https://open.spotify.com/artist/2ifG16CzLrpvsPrMyLVUr9) | [burning desire](https://open.spotify.com/album/6tD0xbtwZelkad4FvB0cpN) | 2:54 |
 | 16 | [Jogan Piya](https://open.spotify.com/track/53LfFBsVz6cMtfbDYSsY8S) | [ZelliX](https://open.spotify.com/artist/5CJ8Xtvv57oEiRKIy6OjJt) | [Jogan Piya](https://open.spotify.com/album/1SiNqjudlYmKUQdGG0M89c) | 3:37 |
 | 17 | [Khwabida](https://open.spotify.com/track/5xQIxccM4JIOKI76LiIpxJ) | [Khayaal](https://open.spotify.com/artist/5Kfjxy64QteoXxlMjjNU48) | [Khwabida](https://open.spotify.com/album/60NNApLr35k0k5JM6pUbiU) | 3:20 |
 | 18 | [Baarish Ke Baad](https://open.spotify.com/track/6UzDyYcdGBOZF48hbwaRyb) | [Shrey Gupta](https://open.spotify.com/artist/34yBDo2076Osgm0GmlnzF7) | [Baarish Ke Baad](https://open.spotify.com/album/1NWdVuGxZzigoRnqkYCmoL) | 2:45 |

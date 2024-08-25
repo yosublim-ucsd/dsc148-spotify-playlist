@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 61625,
+  "num_followers": 61721,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Something Something - Remix",
+        "url": "https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs"
+      },
+      "artists": [
+        {
+          "name": "Tspykes",
+          "url": "https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 177005,
+      "name": "Something Something - Remix",
+      "url": "https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "diallo",
         "url": "https://open.spotify.com/album/6JT7nlbLoXpx4wLcgVbRtE"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 169090,
       "name": "Gon Gon",
       "url": "https://open.spotify.com/track/64t5AXI4zUzkiAcDImxNx9"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Something Something - Remix",
-        "url": "https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs"
-      },
-      "artists": [
-        {
-          "name": "Tspykes",
-          "url": "https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 177005,
-      "name": "Something Something - Remix",
-      "url": "https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1383,6 +1383,26 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "JOY",
+        "url": "https://open.spotify.com/album/0VtCiQ5GuMqVw37EGKQkiq"
+      },
+      "artists": [
+        {
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 169927,
+      "name": "JOY",
+      "url": "https://open.spotify.com/track/7FHUtQbPkCzWMwGltW8q4K"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Count My Blessings",
         "url": "https://open.spotify.com/album/7cr2lkX9TqXS0uN0v5lPoX"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 162371,
       "name": "Formula",
       "url": "https://open.spotify.com/track/4LBLe7bFvaXy2JCEDqrcnC"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "JOY",
-        "url": "https://open.spotify.com/album/0VtCiQ5GuMqVw37EGKQkiq"
-      },
-      "artists": [
-        {
-          "name": "Aguero Banks",
-          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
-        },
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 169927,
-      "name": "JOY",
-      "url": "https://open.spotify.com/track/7FHUtQbPkCzWMwGltW8q4K"
     },
     {
       "added_at": "2024-08-02 00:01:00",

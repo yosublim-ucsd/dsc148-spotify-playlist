@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,612 likes - 55 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,655 likes - 55 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Arts and the Hours](https://open.spotify.com/track/318jLr9oY0UrxYqyUHCfBA) | [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Debussy – Rameau](https://open.spotify.com/album/4oVqtr6UVWx5pCQpoOU6wU) | 4:45 |
+| 1 | [The Arts and the Hours](https://open.spotify.com/track/318jLr9oY0UrxYqyUHCfBA) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD), [Jean\-Philippe Rameau](https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce) | [Debussy – Rameau](https://open.spotify.com/album/4oVqtr6UVWx5pCQpoOU6wU) | 4:45 |
 | 2 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 |
 | 3 | [Symphony No\. 6 in F Major, Op\. 68, "Pastorale": I\. Allegro ma non troppo, "Awakening of cheerful feelings on arriving in the countryside"](https://open.spotify.com/track/6Ye4niSXscwpj4smkb5ioO) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk), [Emanuel Ax](https://open.spotify.com/artist/17yd2V3A2UmwD0a00hmjX5), [Leonidas Kavakos](https://open.spotify.com/artist/16XP6b4v1MdN8UYRBlgVKn) | [Beethoven for Three: Symphony No\. 6 "Pastorale" and Op\. 1, No\. 3](https://open.spotify.com/album/5ezojM5Z8lU0RPyS52MTlV) | 11:51 |
 | 4 | [Mozart: Clarinet Concerto in A Major, K\. 622: II\. Adagio](https://open.spotify.com/track/2fYOyayT80ysO3nxw9lKXn) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Sabine Meyer](https://open.spotify.com/artist/6kuAjH8jM4yaKQhZekTUgL), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP) | [Mozart: Clarinet Concerto/Debussy: Première Rhapsodie/Takemitsu: Fantasma/Cantos](https://open.spotify.com/album/6lu8QlTLnOsd199MZ7rHOy) | 6:34 |

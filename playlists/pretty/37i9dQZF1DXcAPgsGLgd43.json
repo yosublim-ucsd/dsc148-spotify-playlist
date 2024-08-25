@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 58945,
+  "num_followers": 58986,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1443,26 +1443,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "El Beso (feat. Mathieu Ruz)",
-        "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        }
-      ],
-      "duration_ms": 211547,
-      "name": "El Beso (feat. Mathieu Ruz)",
-      "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Pliva",
         "url": "https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh"
       },
@@ -1483,6 +1463,26 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "El Beso (feat. Mathieu Ruz)",
+        "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 211547,
+      "name": "El Beso (feat. Mathieu Ruz)",
+      "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/0epECTdYNNmR6Sos4cpR7a"
       },
@@ -1499,6 +1499,30 @@
       "duration_ms": 120120,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/5V2PCIRRf5doCDhOkCp7Ke"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Ya Me Voy",
+        "url": "https://open.spotify.com/album/5XM1OYppqZmJhUsP5tx3Mt"
+      },
+      "artists": [
+        {
+          "name": "Gettoblaster",
+          "url": "https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG"
+        },
+        {
+          "name": "Franklyn Watts",
+          "url": "https://open.spotify.com/artist/4cS1RS2vIhO2NStH2ktLYn"
+        },
+        {
+          "name": "Fuzzy Cufflinxxx",
+          "url": "https://open.spotify.com/artist/3KnbVIg4fT1t8hbNdAJt19"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "Ya Me Voy",
+      "url": "https://open.spotify.com/track/3Mg9pxQT9X6tyPrxU81gy7"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1771,6 +1795,34 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/5ignCxQmULl57kAIiyHxxH"
+      },
+      "artists": [
+        {
+          "name": "Azooland",
+          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
+        },
+        {
+          "name": "Wrex",
+          "url": "https://open.spotify.com/artist/1LOCONPERnyHCJPxV1FBKd"
+        },
+        {
+          "name": "Franklin Dam",
+          "url": "https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY"
+        },
+        {
+          "name": "Javier Moreno",
+          "url": "https://open.spotify.com/artist/5zZmo6eWphno0OClwx85rq"
+        }
+      ],
+      "duration_ms": 172815,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/1h40zA7noYbCerZwu7DS8x"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Matadora (Radio Edit)",
         "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
       },
@@ -1835,50 +1887,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/5ignCxQmULl57kAIiyHxxH"
-      },
-      "artists": [
-        {
-          "name": "Azooland",
-          "url": "https://open.spotify.com/artist/57Vi4e6NaX8OZqeYCJq4kQ"
-        },
-        {
-          "name": "Wrex",
-          "url": "https://open.spotify.com/artist/1LOCONPERnyHCJPxV1FBKd"
-        },
-        {
-          "name": "Franklin Dam",
-          "url": "https://open.spotify.com/artist/6lWfCJxyX6jAQVQbhLLOPY"
-        },
-        {
-          "name": "Javier Moreno",
-          "url": "https://open.spotify.com/artist/5zZmo6eWphno0OClwx85rq"
-        }
-      ],
-      "duration_ms": 172815,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/1h40zA7noYbCerZwu7DS8x"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Tranquilao",
-        "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Tranquilao",
-      "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "CKULO",
         "url": "https://open.spotify.com/album/3hnJU2TvsaJZvUWp9bVfJW"
       },
@@ -1895,6 +1903,22 @@
       "duration_ms": 152523,
       "name": "CKULO",
       "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Tranquilao",
+        "url": "https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Tranquilao",
+      "url": "https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1991,26 +2015,6 @@
       "duration_ms": 151874,
       "name": "Diablo (Que Rico)",
       "url": "https://open.spotify.com/track/4qbjFXrNrMU4U5fvBjMUBz"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "\u00a1Date Prisa!",
-        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
-      },
-      "artists": [
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "STO CULTR",
-          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
-        }
-      ],
-      "duration_ms": 199687,
-      "name": "\u00a1Date Prisa!",
-      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
     }
   ],
   "unique_name": "Latin House",

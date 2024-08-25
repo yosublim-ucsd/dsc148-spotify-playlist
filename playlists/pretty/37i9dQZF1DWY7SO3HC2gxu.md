@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa\. Cover: Munyasya
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,156 likes - 85 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,161 likes - 85 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 25 | [Jibambe \- Radio Edit](https://open.spotify.com/track/1KyPWkT6IccS8XebxjDMdV) | [Aaron Sevilla](https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX), [Mijangos](https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf), [Ricardo Criollo House](https://open.spotify.com/artist/3AtHoqwYxlqqGsrzOUGxYu), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Jibambe feat Nes Mburu](https://open.spotify.com/album/6lng1AYqDyNCP2lxtS1w2H) | 3:01 |
 | 26 | [Umenitosha](https://open.spotify.com/track/7t1y3tsgDKQnIGp7jw10Po) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Polaris Pauline](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [The 4th Republic](https://open.spotify.com/album/2XDjGP9eHn0YjnzS6AG19k) | 5:32 |
 | 27 | [uZosala](https://open.spotify.com/track/1S3QiJeXpptj7aath0JOpf) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [The Ascension](https://open.spotify.com/artist/69l0v3QQfyIR61ve0kWMjF), [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Umqhumo Wethu](https://open.spotify.com/album/2Dl8jKEAdAe81ifBg5uhNx) | 5:25 |
-| 28 | [Richa](https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk) | [Richa](https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu) | 4:02 |
+| 28 | [Richa](https://open.spotify.com/track/0tNhC1gTRuLH000EDfMEYf) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Tamir Regev](https://open.spotify.com/artist/0lIHXlaWHdfApCcSdz2mNk), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Richa](https://open.spotify.com/album/0eVRLEB9kzWxWbQPNzprnu) | 4:02 |
 | 29 | [Umeenda](https://open.spotify.com/track/1F1Q6F5c7z3EDgptzYOmGT) | [Wisso](https://open.spotify.com/artist/3mJZuJENgznvbVjsKIRgoh), [Jake Boehm](https://open.spotify.com/artist/1tnfpUErSTP9eXhQwxbqva), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Umeenda](https://open.spotify.com/album/6HehIb9CsvNbFOGEyV9IqT) | 7:00 |
 | 30 | [SHINDA](https://open.spotify.com/track/7y2KJOf3eHan2PezVrj3iU) | [Enzo Siffredi](https://open.spotify.com/artist/4mWiqSdiAvk8ztbk310uVQ), [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn) | [SHINDA](https://open.spotify.com/album/7MU0MfGCMgISf4NOkloTro) | 2:42 |
 | 31 | [Chuki](https://open.spotify.com/track/1i9pxVfeE7JLJRIgvWIIJp) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [TekniQ](https://open.spotify.com/artist/2bStEVhFVPtYOzOxP58xeq), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Chuki](https://open.spotify.com/album/5IzLQJEynAMDV6DGfzfkr6) | 6:26 |

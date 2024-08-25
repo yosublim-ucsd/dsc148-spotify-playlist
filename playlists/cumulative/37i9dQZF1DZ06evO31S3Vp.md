@@ -2,7 +2,7 @@
 
 ### [This Is Jão](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31S3Vp)
 
-> This is Jão\. Todos os maiores hits em uma só playlist.
+> This is Jão\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 48 songs - 2 hr 32 min
 

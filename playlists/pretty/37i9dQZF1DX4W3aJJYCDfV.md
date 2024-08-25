@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Sabrina Carpenter \(pictured\),  Fontaines D.C.,  Myles Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,845 likes - 116 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,952 likes - 116 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
 | 2 | [In The Modern World](https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 4:26 |
 | 3 | [WE PRAY](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 |
-| 4 | [Wait for You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait for You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
-| 5 | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
+| 4 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
+| 5 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
 | 6 | [Billion Streams Freestyle](https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:06 |
 | 7 | [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 |
 | 8 | [Fake Can't Stay \- ft.JAE5](https://open.spotify.com/track/409pX3u1zVMQr5GG8LUmJ3) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Beyond Rea5onable Doubt](https://open.spotify.com/album/2zrRASXuB791xdPFFGWtTV) | 3:23 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 101 | [Just For You](https://open.spotify.com/track/6e59b5fbBkKgf9jqEJNTKm) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [Just For You](https://open.spotify.com/album/68CRKwNto5YwFvF5UcdXYA) | 2:01 |
 | 102 | [Nobody Knows](https://open.spotify.com/track/4p7T6dYosWWP0Pfdliot0y) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Nobody Knows](https://open.spotify.com/album/7bxFWxw4rUn6GZpaypBxmO) | 4:28 |
 | 103 | [No Return](https://open.spotify.com/track/19DuSBYrqVGZecfkvqitnn) | [Miles from Kinshasa](https://open.spotify.com/artist/6ZWpMqNWzoiiQScsuzeBaE) | [No Return](https://open.spotify.com/album/1K8FToaA57VF3btE0Gy7dG) | 2:18 |
-| 104 | [I Want You \- Edit](https://open.spotify.com/track/14SB9XgnyqgHPR80uUvrgg) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [I Want You \(Edit\)](https://open.spotify.com/album/6QquCQwuUOTY6LaF17Dars) | 2:34 |
-| 105 | [Resilient 13](https://open.spotify.com/track/27hEqmCalAxRqrJRrBGkYG) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9) | [Gotham](https://open.spotify.com/album/1dUiHG3s7dL2qi9w1lv13i) | 2:49 |
+| 104 | [I Want You \- Edit](https://open.spotify.com/track/14SB9XgnyqgHPR80uUvrgg) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [I Want You \- Edit](https://open.spotify.com/album/6QquCQwuUOTY6LaF17Dars) | 2:34 |
+| 105 | [Gotham](https://open.spotify.com/track/27hEqmCalAxRqrJRrBGkYG) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9) | [Gotham](https://open.spotify.com/album/1dUiHG3s7dL2qi9w1lv13i) | 2:49 |
 | 106 | [My Fantasy](https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [My Fantasy](https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF) | 3:00 |
 | 107 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 |
 | 108 | [Miles Away](https://open.spotify.com/track/31JMPkFF7UtLNhHY2H6zVi) | [Oscar Blue](https://open.spotify.com/artist/1LSKJziUwTOlquPaHzHt4Z) | [Miles Away](https://open.spotify.com/album/26Ab9pIRTiVum4L7tAhAby) | 3:02 |

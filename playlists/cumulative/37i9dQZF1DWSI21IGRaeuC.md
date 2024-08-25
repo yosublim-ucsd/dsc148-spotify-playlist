@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-373 songs - 1 day 6 hr 20 min
+374 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Clapped](https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN) | [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6) | [Clapped](https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ) | 3:30 | 2022-11-11 | 2024-01-06 |
 | [Cold](https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [Cold](https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6) | 3:42 | 2023-02-10 |  |
 | [Collide](https://open.spotify.com/track/1sZw1rvxMeIacX91qTRYzr) | [Maxinne](https://open.spotify.com/artist/3sv9dCyzqOsGcJHPl5seiq), [Shyam P](https://open.spotify.com/artist/6MEz9NMqBseGCPes6zV3cj) | [Collide](https://open.spotify.com/album/70YMLqoTKFcaa6NwHrIvAp) | 4:15 | 2022-07-22 | 2022-11-17 |
-| [Come Right Back](https://open.spotify.com/track/1I5U2CJGY8t3jNxQ5QrRzj) | [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [Come Right Back EP](https://open.spotify.com/album/5RokEMqMKMwoN7F4mFA4IF) | 6:40 | 2024-04-12 |  |
+| [Come Right Back](https://open.spotify.com/track/1I5U2CJGY8t3jNxQ5QrRzj) | [Nick Curly](https://open.spotify.com/artist/5WI60lKXG4mP2OPyt8pyQ2) | [Come Right Back EP](https://open.spotify.com/album/5RokEMqMKMwoN7F4mFA4IF) | 6:40 | 2024-04-12 | 2024-08-25 |
 | [Connect the Dots \- Oliver Schories & Gorge Remix](https://open.spotify.com/track/3FWy6mQGJt44v0YmLU6ieG) | [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36), [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Connect the Dots](https://open.spotify.com/album/2h2On3mD6WD2TTgeVjJxSj) | 6:43 | 2022-08-26 | 2024-01-12 |
 | [Control](https://open.spotify.com/track/4H40HAa5y5N7mLPZreuojF) | [John Tejada](https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq), [Silent Servant](https://open.spotify.com/artist/1QwvlTkLsKbaB3JT1AV245) | [The Monitors \(Redux\)](https://open.spotify.com/album/2D7Xh2KYbW6PVQLe2whkD3) | 8:28 | 2024-02-02 | 2024-02-15 |
 | [Courtyard](https://open.spotify.com/track/0uwMH6cppEhY7YG64r5Adg) | [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Dolce Far Niente](https://open.spotify.com/album/1w4uK0j5N0jQRjQDZTSBww) | 8:01 | 2024-08-09 |  |
@@ -154,6 +154,7 @@
 | [Into The Hood](https://open.spotify.com/track/3A3aYBchPWOXGC20NuG5pR) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Yamagucci](https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG) | [Into The Hood](https://open.spotify.com/album/2wlhcGHzVyQD3LksH4wSOp) | 6:02 | 2023-06-30 |  |
 | [It's Alright](https://open.spotify.com/track/05p0F0sC8Ym7BZKG79hTKK) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Focus \- EP](https://open.spotify.com/album/42xO3MNl7t5rdhSBoqiC79) | 5:47 | 2024-03-22 | 2024-05-12 |
 | [Its Time to Move](https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Its Time to Move](https://open.spotify.com/album/6G4C4RQkB3CbLOoaYSM6ya) | 2:42 | 2023-09-22 |  |
+| [Jam Is Pumping](https://open.spotify.com/track/1tXkSkbltR7XjRxkgMZSNW) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6) | [Jam Is Pumping EP](https://open.spotify.com/album/7CIfwfDu0SqRHtkt50Krtq) | 3:46 | 2024-08-23 |  |
 | [Jump In](https://open.spotify.com/track/7KPM73DEawK8fsogmx87HX) | [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Jump In](https://open.spotify.com/album/07BxOVzzyMBEkff8GEczSG) | 2:46 | 2024-02-02 | 2024-03-13 |
 | [Jump Ship](https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp) | 6:21 | 2022-06-03 | 2023-10-15 |
 | [Jump Ship](https://open.spotify.com/track/5V6srZGdQEeOMbwlcEOLqy) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Jump Ship](https://open.spotify.com/album/4BvWZEC1BIYEq0GM7Bw3qC) | 6:21 | 2023-10-27 | 2024-03-01 |

@@ -1,6 +1,6 @@
 {
   "description": "Las m\u00e1s pegadas. Cover: KAROL G",
-  "num_followers": 686845,
+  "num_followers": 686833,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Brindo Con Agua",
+        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 281082,
+      "name": "Brindo Con Agua",
+      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "LOS DOS",
         "url": "https://open.spotify.com/album/5jBDqTxBaTjgnDQA1m8Z3T"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 214735,
       "name": "LOS DOS",
       "url": "https://open.spotify.com/track/0wbPydD5UUkau6EKhtBqjM"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Brindo Con Agua",
-        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 281082,
-      "name": "Brindo Con Agua",
-      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
     },
     {
       "added_at": "2024-08-23 04:00:00",

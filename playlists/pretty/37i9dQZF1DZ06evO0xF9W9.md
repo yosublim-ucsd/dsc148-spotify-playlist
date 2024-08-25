@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 
 ### [This Is Engel Montaz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0xF9W9)
 
-> This is Engel Montaz\. The essential tracks, all in one playlist.
+> This Is Engel Montaz\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,917 likes - 31 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,809 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 16 | [Provoca](https://open.spotify.com/track/2E59zaPJmV79zkp4iBqGws) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Provoca](https://open.spotify.com/album/425a8VovhxQ2sGLTbscygp) | 3:26 |
 | 17 | [Vibrador](https://open.spotify.com/track/4h3i4yz7mkw1H9XG9VMkjQ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:06 |
 | 18 | [Tu No Me Conoces](https://open.spotify.com/track/3IzGU1A2PM6F9RBLAQ2sf3) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt) | [Tu No Me Conoces](https://open.spotify.com/album/2EmPWhcBbQdNowYWHGe1pE) | 3:31 |
-| 19 | [Prende](https://open.spotify.com/track/0HDlIJj210agV16lELqz63) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [El Mangry](https://open.spotify.com/artist/07II99rXe72pglXtzRmaPQ), [Dj Astilo](https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK) | [Prende](https://open.spotify.com/album/7sWux5ojK5F7cCzylqmnHk) | 3:06 |
-| 20 | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e) | 3:32 |
+| 19 | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/track/5ylidhXD2jnlvaynl1qbqX) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Nota de Pasion \(feat\. Arcangel\)](https://open.spotify.com/album/7yADzGrTJTTzhxuDG6Ap2e) | 3:32 |
+| 20 | [Prende](https://open.spotify.com/track/0HDlIJj210agV16lELqz63) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [El Mangry](https://open.spotify.com/artist/07II99rXe72pglXtzRmaPQ), [Dj Astilo](https://open.spotify.com/artist/7zxmgQASpOUVux7JhFHlLK) | [Prende](https://open.spotify.com/album/7sWux5ojK5F7cCzylqmnHk) | 3:06 |
 | 21 | [Party Prendio](https://open.spotify.com/track/7kysxhCfP7fFebn7iZU8Av) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 1:42 |
 | 22 | [Olvidando el pasado](https://open.spotify.com/track/67DMzakKxJSRiambD0Lk9F) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Olvidando el pasado](https://open.spotify.com/album/7gOVVDzY5VVW0Jf5tch32u) | 3:18 |
 | 23 | [El Puto Amo](https://open.spotify.com/track/2hviRulzUw0GzrMUmNsYcx) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [DJ 22](https://open.spotify.com/artist/34awN2WoMVzgNPPjD1UgNT) | [El Puto Amo](https://open.spotify.com/album/4ngKdCMeTk0YiwvN0AF73F) | 2:06 |
@@ -38,6 +38,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0xF9W9.md) - [plain]
 | 28 | [Tan Tan Brazil \- Remix](https://open.spotify.com/track/2AtygP8qRRH2WtaytjzD5n) | [Breykon](https://open.spotify.com/artist/17BJttW3VLqP7DouuymWPk), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Badguychapo](https://open.spotify.com/artist/7Mu2VtGDLbzEvtGbc8i1Pl), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez), [Xoko](https://open.spotify.com/artist/43CUObyWj4cLBMFux5Hk81) | [Tan Tan Brazil \(Remix\)](https://open.spotify.com/album/07yFL0HQGDRBzcRVX29aDh) | 5:37 |
 | 29 | [Loco](https://open.spotify.com/track/6vatfs7t1je6O2rrp5NNBZ) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:22 |
 | 30 | [Ruta](https://open.spotify.com/track/7nSIBXVKbPCStdV3pCkkfy) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Ruta](https://open.spotify.com/album/3k0gIhjXx4wEmDndAl4sAw) | 2:30 |
-| 31 | [Pilita \- Remix](https://open.spotify.com/track/6Hk3cm82arTFxwfooQU1c6) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Paola Houghton](https://open.spotify.com/artist/0flWB3vtKFc8AQ3AzOtVZb), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz) | [Pilita \(feat\. Paola Houghton & DJ Nanow\) \[Remix\]](https://open.spotify.com/album/7JWwcgZWtVS3fdx1RiwTRg) | 3:06 |
 
-Snapshot ID: `ZsZ/gAAAAABgQ9/mrBVyvahO4HsN+7n6`
+Snapshot ID: `ZsfRAAAAAAAfdEGMp+WB5riRHDOqCtSJ`

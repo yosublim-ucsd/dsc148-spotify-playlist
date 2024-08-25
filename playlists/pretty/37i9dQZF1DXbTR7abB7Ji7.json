@@ -1,6 +1,6 @@
 {
   "description": "The perfect instrumental accompaniment to your wedding day or engagement party; elegant background music for seating guests, walking down the aisle or cocktail hour. ",
-  "num_followers": 149843,
+  "num_followers": 149903,
   "original_name": "Classical Wedding",
   "owner": {
     "name": "Spotify",
@@ -400,12 +400,12 @@
       },
       "artists": [
         {
-          "name": "Jean-Philippe Rameau",
-          "url": "https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce"
-        },
-        {
           "name": "V\u00edkingur \u00d3lafsson",
           "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+        },
+        {
+          "name": "Jean-Philippe Rameau",
+          "url": "https://open.spotify.com/artist/4JSWO1Pf2zV991fq64uAce"
         }
       ],
       "duration_ms": 285442,

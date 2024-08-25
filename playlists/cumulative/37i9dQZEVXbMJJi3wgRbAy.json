@@ -13552,7 +13552,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/0RD94y2DlYTzEePb4WuVbU"
@@ -14426,6 +14426,24 @@
       "duration_ms": 277693,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP"
+    },
+    {
+      "album": {
+        "name": "Se Me Olvida",
+        "url": "https://open.spotify.com/album/1sMomNyyIU5xFtYCnPJ7iS"
+      },
+      "artists": [
+        {
+          "name": "La Key",
+          "url": "https://open.spotify.com/artist/1NoPmaUNrgkVKYAdq0K5JB"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128246,
+      "name": "Se Me Olvida",
+      "url": "https://open.spotify.com/track/2WSt1V7uZ3ys1gWGwuZgZn"
     },
     {
       "album": {

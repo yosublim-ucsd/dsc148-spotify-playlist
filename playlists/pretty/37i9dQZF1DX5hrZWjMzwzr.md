@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'\. Posłuchaj zwycięzców oraz wszystkich nominowanych na jednej playliście.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,281 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,279 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 30 | [Lustro](https://open.spotify.com/track/3WX6nwhznaVTD9CazfMV4F) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a), [Hotel Torino](https://open.spotify.com/artist/0JJmkwOSEGhFj7sLL3AYXN) | [Lustro](https://open.spotify.com/album/1vOpHLnuZtKDrAvARaft9Q) | 2:42 |
 | 31 | [TRZEBA MIEĆ](https://open.spotify.com/track/1QYuWVIRrywtQYd3ETeL1Q) | [Young Igi](https://open.spotify.com/artist/1yq2JzsqbzFbJ1B7wGOXLc), [Sergiusz](https://open.spotify.com/artist/3vsRnplSphnC5VPIJgvUl0), [2K](https://open.spotify.com/artist/0awWNjR5qmSZsQVFAo2NsR) | [TRZEBA MIEĆ](https://open.spotify.com/album/2aCk1OHYdQY0EjvQqYOzF2) | 2:31 |
 | 32 | [Guten Tag](https://open.spotify.com/track/6ins5at6n9LlWkOKvTGLBl) | [Kronkel Dom](https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45) | [Guten Tag](https://open.spotify.com/album/5ckBaMTmGanhuftsnLMV2R) | 2:59 |
-| 33 | [ZAZA](https://open.spotify.com/track/7ikCNXfGAaDp0sGCyp1jJj) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [ZAZA](https://open.spotify.com/album/3Ah9Cw7kcEYmCTf7L5iF9M) | 2:48 |
-| 34 | [BLICKY](https://open.spotify.com/track/6BKt47quVkiKSqWnCEpED8) | [Beteo](https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT) | [BLICKY](https://open.spotify.com/album/6jGZtPs9OmW7iy8fRoGjxL) | 2:59 |
+| 33 | [BLICKY](https://open.spotify.com/track/6BKt47quVkiKSqWnCEpED8) | [Beteo](https://open.spotify.com/artist/0kh9Gvy9lGZsq84x7I37DC), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT) | [BLICKY](https://open.spotify.com/album/6jGZtPs9OmW7iy8fRoGjxL) | 2:59 |
+| 34 | [ZAZA](https://open.spotify.com/track/7ikCNXfGAaDp0sGCyp1jJj) | [Aleshen](https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu) | [ZAZA](https://open.spotify.com/album/3Ah9Cw7kcEYmCTf7L5iF9M) | 2:48 |
 | 35 | [nigdy więcej 2022](https://open.spotify.com/track/6BCqzFZ2is57XTs2kSMVWq) | [Solar](https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG) | [nigdy więcej 2022](https://open.spotify.com/album/4Zh0KGSolRFUL55kEnsNJ5) | 3:48 |
 | 36 | [Mam Cię](https://open.spotify.com/track/3moDqdYK90QDw3Lk9q5yDE) | [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [Poly](https://open.spotify.com/artist/1MnE9cGhEaRAX9EzLtU9PS) | [Mam Cię](https://open.spotify.com/album/0wMWyIDW56FjxvAmFrBI0V) | 2:21 |
 | 37 | [Stary Pezet \(klasyczny\)](https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ) | [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Waco](https://open.spotify.com/artist/4fwFJRmea6ksX4ZUM1Hhlu), [Eklektik](https://open.spotify.com/artist/1ArazAocOQKVEMD8VEPcnp) | [Stary Pezet \(klasyczny\)](https://open.spotify.com/album/6RUYNWJ7uAsDKHO6ahhfOO) | 3:27 |

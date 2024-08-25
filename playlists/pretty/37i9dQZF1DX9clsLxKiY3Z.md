@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9clsLxKiY3Z.md) - [plain]
 
 > Early Noise 2019選出アーティスト「ずとまよ」こと、ずっと真夜中でいいのに。のオールタイム・ベスト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,178 likes - 55 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,213 likes - 55 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

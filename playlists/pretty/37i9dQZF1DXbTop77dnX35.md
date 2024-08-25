@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Omah Lay, Oxlade, Coldplay, The Cavemen, Alpha P and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,560 likes - 48 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,775 likes - 48 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 5 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 |
 | 6 | [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 |
 | 7 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
-| 8 | [Touch Me](https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Touch Me](https://open.spotify.com/album/1yA8Hpl2gEc0WgLxuulnoN) | 2:35 |
+| 8 | [Touch Me](https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Touch Me](https://open.spotify.com/album/1yA8Hpl2gEc0WgLxuulnoN) | 2:25 |
 | 9 | [ONE OR TWO \- REMIX](https://open.spotify.com/track/0zy5TnbbEpnt18P5SXoaPC) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [AXAD](https://open.spotify.com/artist/1zfpuNNxBF5qjwbi4LCXig), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [ONE OR TWO \- REMIX](https://open.spotify.com/album/2w40t66x0xawrv7yhpYQkE) | 2:34 |
 | 10 | [Will I?](https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Will I?](https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM) | 2:44 |
 | 11 | [Soul](https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Soul](https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ) | 2:58 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 33 | [Lagos Party](https://open.spotify.com/track/0OadxIBavwZc4IUTDOkhks) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [Lagos Party](https://open.spotify.com/album/0VDau0nt0L1ntfBeMWYv7e) | 2:24 |
 | 34 | [Unblocked](https://open.spotify.com/track/1C6zeJHvKPQ95B9m7LKViQ) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Noon At Noon](https://open.spotify.com/album/6jBIeUJz0QZBIzGUevi0gK) | 2:30 |
 | 35 | [SCATTA](https://open.spotify.com/track/2BkiOJZCZhAmnmnKrX5kxi) | [LXMi](https://open.spotify.com/artist/6vtS6JgTKsGgWd7G6yfHGB) | [LÙMi](https://open.spotify.com/album/1DSrHB5T8uRifcoJO3X0Un) | 2:53 |
-| 36 | [Wait for You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait for You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
+| 36 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
 | 37 | [LOVE](https://open.spotify.com/track/6gfLMSo6QuGofJcCBoVgl2) | [IzyBeats](https://open.spotify.com/artist/1KkjdXDKJ6w8p2XAtTJ5Sn), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Edgehill](https://open.spotify.com/album/03OsIE6vs2md6uqcxhVWwD) | 2:47 |
 | 38 | [Fishy Pumpi](https://open.spotify.com/track/0JEPqOezFzZuFJdpHyYw9C) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Fishy Pumpi](https://open.spotify.com/album/1hgAKLv0gMTvI0qwmXS9Ro) | 2:19 |
 | 39 | [TINGS](https://open.spotify.com/track/4icHR1saSUnb7g5VWpsdew) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [ENERGY IS EVERYTHING](https://open.spotify.com/album/4G02arsAMsEaGFfb2e9Fyf) | 3:15 |

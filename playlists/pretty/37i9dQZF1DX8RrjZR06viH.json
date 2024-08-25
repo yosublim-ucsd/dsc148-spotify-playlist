@@ -1,6 +1,6 @@
 {
   "description": "Sommersola er her <3\n",
-  "num_followers": 89340,
+  "num_followers": 89339,
   "original_name": "Sommersol",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 135480,
+      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
+      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Mad Women",
         "url": "https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 203656,
       "name": "Something Like This (feat. Dagny)",
       "url": "https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-        "url": "https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8"
-      },
-      "artists": [
-        {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
-        }
-      ],
-      "duration_ms": 135480,
-      "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
-      "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Finaste s\u00e5 finns",
-        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 190405,
-      "name": "Finaste s\u00e5 finns",
-      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Syrener (Akustisk)",
         "url": "https://open.spotify.com/album/51LtrpKiGF45SGGBOb8Lr4"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Finaste s\u00e5 finns",
+        "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 190405,
+      "name": "Finaste s\u00e5 finns",
+      "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Hellig",
         "url": "https://open.spotify.com/album/6Z9PlffXEr7io6QJS3NAEv"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Glem meg, men jeg glemmer aldri",
-        "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
-      },
-      "artists": [
-        {
-          "name": "William Gamborg",
-          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
-        }
-      ],
-      "duration_ms": 142263,
-      "name": "Glem meg, men jeg glemmer aldri",
-      "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
         "url": "https://open.spotify.com/album/7EROkbDNF25Kr9Ncnc24CQ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 195607,
       "name": "Sj\u00e5 p\u00e5 oss n\u00e5",
       "url": "https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Glem meg, men jeg glemmer aldri",
+        "url": "https://open.spotify.com/album/3q0aUNH4xv9GOScySjTvfI"
+      },
+      "artists": [
+        {
+          "name": "William Gamborg",
+          "url": "https://open.spotify.com/artist/4ODEL6BNYKlXrfMUsHMK5P"
+        }
+      ],
+      "duration_ms": 142263,
+      "name": "Glem meg, men jeg glemmer aldri",
+      "url": "https://open.spotify.com/track/7qCDeHjYx6gbwoTSVAvoBw"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Thunder in my heart (music from the series)",
+        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "duration_ms": 169241,
+      "name": "Thunder in my heart (music from the series)",
+      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Sommartid",
         "url": "https://open.spotify.com/album/0lndeVsfBcdlWxkDGOvvXs"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 245640,
       "name": "To Be Alright",
       "url": "https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Thunder in my heart (music from the series)",
-        "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 169241,
-      "name": "Thunder in my heart (music from the series)",
-      "url": "https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Keeps Me Going",
-        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Keeps Me Going",
-      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Good Riddance",
         "url": "https://open.spotify.com/album/6jkkWXtKtdAxip4kYJMaJL"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 171235,
       "name": "Good Riddance",
       "url": "https://open.spotify.com/track/0pnmZiwIMLCCkCoOhtLnnh"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Keeps Me Going",
+        "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Keeps Me Going",
+      "url": "https://open.spotify.com/track/14WGGRi84jRQLjwPY2XWIY"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "S\u00e5nn som deg",
-        "url": "https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 204529,
-      "name": "S\u00e5nn som deg",
-      "url": "https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "D\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Langt av sted",
-        "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
+        "name": "S\u00e5nn som deg",
+        "url": "https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
         }
       ],
-      "duration_ms": 160813,
-      "name": "Langt av sted",
-      "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
+      "duration_ms": 204529,
+      "name": "S\u00e5nn som deg",
+      "url": "https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Langt av sted",
+        "url": "https://open.spotify.com/album/2fwuFPvhyPfapHv5Jek01i"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 160813,
+      "name": "Langt av sted",
+      "url": "https://open.spotify.com/track/6DxBlKrmCRklJY40CQXOSF"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Har du glemt meg?",
         "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Ti tusen",
-        "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
-      },
-      "artists": [
-        {
-          "name": "Kapteinen",
-          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Ti tusen",
-      "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "KLIPP MEG I TI OG LIM MEG SAMMEN",
         "url": "https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 195202,
       "name": "Noen som forst\u00e5r",
       "url": "https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Ti tusen",
+        "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
+      },
+      "artists": [
+        {
+          "name": "Kapteinen",
+          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "Ti tusen",
+      "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "la meg ligge",
-        "url": "https://open.spotify.com/album/3YiyfDnirvlF06ibKAa6cI"
-      },
-      "artists": [
-        {
-          "name": "Michelle Ullestad",
-          "url": "https://open.spotify.com/artist/0ftXswGpAsqomAAg0YN1pI"
-        }
-      ],
-      "duration_ms": 210475,
-      "name": "la meg ligge",
-      "url": "https://open.spotify.com/track/1a6G7x79kvHEhOkeJBLXJj"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Never Let Me Go",
         "url": "https://open.spotify.com/album/5K91iGlsM7YxI6JIojSZzm"
       },
@@ -1443,22 +1427,34 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Trodde aldri",
-        "url": "https://open.spotify.com/album/2m4xkVRWuBOmWKInYu60dC"
+        "name": "la meg ligge",
+        "url": "https://open.spotify.com/album/3YiyfDnirvlF06ibKAa6cI"
       },
       "artists": [
         {
-          "name": "Sunna Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/6egqnKljDSm5a8QuLbaF9k"
-        },
-        {
-          "name": "Regnv\u00e6r",
-          "url": "https://open.spotify.com/artist/527pgsBl16NWDwKewwEDki"
+          "name": "Michelle Ullestad",
+          "url": "https://open.spotify.com/artist/0ftXswGpAsqomAAg0YN1pI"
         }
       ],
-      "duration_ms": 134992,
-      "name": "Trodde aldri",
-      "url": "https://open.spotify.com/track/1DRxTny5DbSOfR8ctbUePs"
+      "duration_ms": 210475,
+      "name": "la meg ligge",
+      "url": "https://open.spotify.com/track/1a6G7x79kvHEhOkeJBLXJj"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+      },
+      "artists": [
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        }
+      ],
+      "duration_ms": 263880,
+      "name": "fare thee well",
+      "url": "https://open.spotify.com/track/5HOtLyqKZJElSpZQ9WsXax"
     }
   ],
   "unique_name": "Sommersol",

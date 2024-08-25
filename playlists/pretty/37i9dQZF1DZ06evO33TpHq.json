@@ -1,12 +1,12 @@
 {
-  "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 48018,
+  "description": "This Is Phil Wickham. Sus mejores \u00e9xitos, todos en una playlist.",
+  "num_followers": 48059,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAADNMwCWwROctyUVMqZNeJbl",
+  "snapshot_id": "ZsfRAAAAAACrW9r/PHsPaEC5JTLDAArg",
   "tracks": [
     {
       "added_at": null,
@@ -294,15 +294,11 @@
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 274586,
-      "name": "Psalm 23",
-      "url": "https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl"
+      "duration_ms": 283986,
+      "name": "The Jesus Way",
+      "url": "https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa"
     },
     {
       "added_at": null,
@@ -374,11 +370,15 @@
         {
           "name": "Phil Wickham",
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
         }
       ],
-      "duration_ms": 283986,
-      "name": "The Jesus Way",
-      "url": "https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa"
+      "duration_ms": 274586,
+      "name": "Psalm 23",
+      "url": "https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8wQ1UHaykc.md) - [plain]
 
 > Lagu\-lagu terpopuler dari dekade 2010an\. Cover: Vierra
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,143 likes - 145 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,257 likes - 145 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

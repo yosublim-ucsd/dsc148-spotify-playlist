@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Hariel com Gilberto Gil, Luan Santana, Liniker  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,387 likes - 72 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,508 likes - 72 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 6 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
 | 7 | [Em Busca Da Minha Sorte \- Ao Vivo](https://open.spotify.com/track/5cwtADIfwSm2FDwKqUMwL9) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Billy Sp](https://open.spotify.com/artist/52bK816juaLmMV5LZDVXbm) | [Sorte \- Ao Vivo](https://open.spotify.com/album/0HP2bkYK4dlR7kE4YvZxSG) | 3:17 |
 | 8 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
-| 9 | [4 Enganados](https://open.spotify.com/track/51K1IJUjukRNYOqTqo596Z) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [4 Enganados](https://open.spotify.com/album/09zcQhcgqwXwTaZUmWXNQt) | 2:54 |
+| 9 | [4 Enganados](https://open.spotify.com/track/51K1IJUjukRNYOqTqo596Z) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [4 Enganados](https://open.spotify.com/album/09zcQhcgqwXwTaZUmWXNQt) | 2:50 |
 | 10 | [Se Depender de Mim \- Ao Vivo](https://open.spotify.com/track/2NfAoUHZHODYSxuCZX4qaf) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Ser Tão Eu \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/2ylwPEGWwhfGZoKiPJo2zF) | 3:00 |
 | 11 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 |
 | 12 | [WE PRAY](https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [WE PRAY](https://open.spotify.com/album/3dZE98f3OlxeQlm9qWYekK) | 3:53 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 17 | [Gosta de Caras Assim](https://open.spotify.com/track/1bK1a1ghaYc1IcSfEQPYRs) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Gosta de Caras Assim](https://open.spotify.com/album/6Z1HPVHsaU9qg4rBVoVykm) | 3:25 |
 | 18 | [Playlist Safada](https://open.spotify.com/track/0P1hMTn1y9gs4tzXWzaPYr) | [Luiza Martins](https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43) | [Playlist Safada](https://open.spotify.com/album/7lXu6nbK120MLF85T2nrKC) | 2:46 |
 | 19 | [Espontânea Saudade](https://open.spotify.com/track/73bP7MZY1fwsjC4o3g7kBN) | [Fiorella](https://open.spotify.com/artist/6cX9Qyl1Ug5lli2y2yBm52) | [Meio Cidade / Meio Interior EP\. 1](https://open.spotify.com/album/1Def8valDFweGxVkDHoHpe) | 2:41 |
-| 20 | [É Dia de Vaquejada](https://open.spotify.com/track/3US6bdmR82w4jcqYasKTda) | [Thullio Milionário](https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7) | [É Dia de Vaquejada](https://open.spotify.com/album/1N3LXuUVRhBbidTFytrL49) | 2:21 |
-| 21 | [A Três \- Ao Vivo](https://open.spotify.com/track/5vDSHedLkLx5RkfUGyGjno) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Conectado](https://open.spotify.com/album/1S6BAeNx5Dj98kGs12abiC) | 2:32 |
+| 20 | [É Dia de Vaquejada](https://open.spotify.com/track/3US6bdmR82w4jcqYasKTda) | [Thullio Milionário](https://open.spotify.com/artist/7wfMF7uhijiZuT7QuXySP7) | [É Dia de Vaquejada](https://open.spotify.com/album/1N3LXuUVRhBbidTFytrL49) | 2:22 |
+| 21 | [A Três \- Ao Vivo](https://open.spotify.com/track/5vDSHedLkLx5RkfUGyGjno) | [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Conectado \- Ao Vivo / Volume 01](https://open.spotify.com/album/1S6BAeNx5Dj98kGs12abiC) | 2:32 |
 | 22 | [Próxima Saudade \- Ao Vivo](https://open.spotify.com/track/0YZdbF43DmfvRIstfGD40I) | [Matheusinho](https://open.spotify.com/artist/5fFaxiwdqZlsazN9qMyQMB), [Rony Lucio](https://open.spotify.com/artist/1vTOFf3Fkf6ElO9P1oBuCm) | [Do Jeito Que a Gente Gosta \(Ao Vivo\), Pt\. 1](https://open.spotify.com/album/54gU7mJpuaurpd6d4K126L) | 2:44 |
 | 23 | [Samba É Meu Paraíso \- 20 Anos de História](https://open.spotify.com/track/3lXmocxWvlz8g08gjSbhI0) | [Gabrielzinho Do Irajá](https://open.spotify.com/artist/0SkmRxt8o9RTKms28v15MA) | [Samba É Meu Paraíso \(20 Anos de História\)](https://open.spotify.com/album/2LlHodNIYOOmy1dIQzCYVM) | 4:11 |
 | 24 | [Can You Dig It](https://open.spotify.com/track/45Ns41IGvneODgPAf7RehV) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Dino Warriors](https://open.spotify.com/artist/59d7SdvkSXhrqrPUKF7WYM) | [Can You Dig It](https://open.spotify.com/album/6zu1lakHUH0VdsbTDWsqNf) | 2:56 |

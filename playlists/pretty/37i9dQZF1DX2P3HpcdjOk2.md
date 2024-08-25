@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 
 > The best of 70s Glam Rock\. Cover: David Bowie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,526 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,649 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 37 | [Pinball Wizard \- Remastered 1995](https://open.spotify.com/track/6CJCCb9ookMMDQNz1Rrtii) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 5:09 |
 | 38 | [Perfect Day](https://open.spotify.com/track/4TOMI010Sd4ZAX4aZ5TS85) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:45 |
 | 39 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(Deluxe Remastered Version\)](https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy) | 3:29 |
-| 40 | [The Jean Genie \- 2013 Remaster](https://open.spotify.com/track/6uZtMNTfU5u8w6fsnXeOdb) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \(2013 Remaster\)](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 4:08 |
+| 40 | [The Jean Genie \- 2013 Remaster](https://open.spotify.com/track/6uZtMNTfU5u8w6fsnXeOdb) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \- 2013 Remaster](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 4:08 |
 | 41 | [This Town Ain't Big Enough For Both Of Us](https://open.spotify.com/track/2rgHxOarlO4W35mg0IZ5u8) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Kimono My House](https://open.spotify.com/album/7KOmuu3cbJQEQYGt3XmLmY) | 3:04 |
 | 42 | [Ballrooms Of Mars](https://open.spotify.com/track/0gtQG1Cc6USmwXXsakWbaB) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [The Slider \(Deluxe Edition\)](https://open.spotify.com/album/24QRkhZ3ZYMdtcLn8AFkar) | 4:07 |
 | 43 | [Changes \- 2015 Remaster](https://open.spotify.com/track/0LrwgdLsFaWh9VXIjBRe8t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:37 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3HpcdjOk2.md) - [plain]
 | 65 | [Re\-Make/Re\-Model](https://open.spotify.com/track/55cVFecHw3yUYpNsLkfsbd) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Roxy Music](https://open.spotify.com/album/4uUtkBGEiq357ts7HZYuYF) | 5:15 |
 | 66 | [Trash](https://open.spotify.com/track/2OQS3xvoKKSayJMJT8dVuZ) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:08 |
 | 67 | [Telegram Sam](https://open.spotify.com/track/4C6MrgqXk2bj9zU5QOQtKW) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [The Slider \(Deluxe Edition\)](https://open.spotify.com/album/24QRkhZ3ZYMdtcLn8AFkar) | 3:45 |
-| 68 | [Watch That Man \- 2013 Remaster](https://open.spotify.com/track/1vlcWaJV9hGbiQMbsh2d8t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \(2013 Remaster\)](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 4:30 |
+| 68 | [Watch That Man \- 2013 Remaster](https://open.spotify.com/track/1vlcWaJV9hGbiQMbsh2d8t) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \- 2013 Remaster](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 4:30 |
 | 69 | [Lay Your Love on Me](https://open.spotify.com/track/4ZGzLnjAm5K8fpJca76rvu) | [Racey](https://open.spotify.com/artist/1W4SfNO5hb1tdX0wQ87zxl) | [Smash and Grab](https://open.spotify.com/album/2UntsTXsuN0LidA4xgSgnX) | 3:17 |
 | 70 | [Saturday Night](https://open.spotify.com/track/2Z7FT1lDIAwdAtoQNHNWxB) | [Bay City Rollers](https://open.spotify.com/artist/3r9TXuXfOUxXjgYgAR0fP8) | [Rollin'](https://open.spotify.com/album/5O4kvivfDrNmDAAEig9EPe) | 2:54 |
 | 71 | [Looking For A Kiss](https://open.spotify.com/track/1z9Vxm6Gij3AkTjVUlcnLT) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:18 |

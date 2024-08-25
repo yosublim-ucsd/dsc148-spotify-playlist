@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,561 songs - 2 day 20 hr 10 min
+1,562 songs - 2 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1326,6 +1326,7 @@
 | [Svåra](https://open.spotify.com/track/0f3GXUjYR7D2dQ7QJTdQzi) | [Luc1ano](https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN), [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [Svåra](https://open.spotify.com/album/0qZSfCmCFKb84senBDo8jE) | 2:47 | 2024-06-06 |  |
 | [SVÅRT FÖR DIG](https://open.spotify.com/track/3uMnb1fqxZBX6OsgqAaYdZ) | [ILIACO](https://open.spotify.com/artist/1WzH7gkbxTeqS5cgNvB7o8), [MM](https://open.spotify.com/artist/5eFqWWb4qNXmyd48FPVEff) | [SVÅRT FÖR DIG](https://open.spotify.com/album/6FIDJNuBlWcdLBjagI73qb) | 2:34 | 2023-05-11 | 2023-05-26 |
 | [Svårt För Mej](https://open.spotify.com/track/3EbMKIDr1MPNkP0eCVGyly) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Svårt För Mej](https://open.spotify.com/album/1x39I8w7GuCTrwYiTZGNzO) | 3:39 | 2024-02-15 | 2024-06-07 |
+| [Sweden](https://open.spotify.com/track/2dbBEKjOo3wm6f0CVl3SvY) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Wanderland](https://open.spotify.com/album/46aeuItpjIlt7UFkiJx0JH) | 1:58 | 2024-08-24 |  |
 | [Swervin](https://open.spotify.com/track/52DaVto2mC1WRYvqzv1XUQ) | [GSM GULLY](https://open.spotify.com/artist/1ijkpUlX703OAydlPtNVzP) | [Swervin](https://open.spotify.com/album/28f2jocrQQJvi4HHMdC4pc) | 3:15 | 2023-06-01 | 2023-06-16 |
 | [Switch](https://open.spotify.com/track/2Fe1u3Pk49jXFZBOny4OjY) | [Tado](https://open.spotify.com/artist/4qc3USZURjRYYS8PTyRimP) | [Switch](https://open.spotify.com/album/5YCUvbLHngzkpPj6aWdfWY) | 2:12 | 2023-04-20 | 2023-05-12 |
 | [SWITCH IT UP](https://open.spotify.com/track/02NGImz0Ovl8XhdkSDLRbr) | [Knut](https://open.spotify.com/artist/7lBUy2Bz6FcZ0nEdCWI7it), [Alex Lopesz](https://open.spotify.com/artist/7nJ49RC4Z3AM1cC4hzavDH) | [SWITCH IT UP](https://open.spotify.com/album/0nkCylUfFnNWQ3Sfs2C0Xl) | 2:21 | 2022-04-14 | 2022-04-20 |

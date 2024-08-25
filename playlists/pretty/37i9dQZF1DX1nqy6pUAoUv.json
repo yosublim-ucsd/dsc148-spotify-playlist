@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 179926,
+  "num_followers": 179948,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Raise The Roof",
         "url": "https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Breakin' Ground",
-        "url": "https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Breakin' Ground",
-      "url": "https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "The Moon And Stars: Prescriptions For Dreamers",
         "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 219053,
       "name": "You And I",
       "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Breakin' Ground",
+        "url": "https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Breakin' Ground",
+      "url": "https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "The Fall (Deluxe)",
-        "url": "https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "High and Low (Acoustic)",
-      "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "If I Could Only Fly / True Love's Flame",
         "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "The Fall (Deluxe)",
+        "url": "https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "High and Low (Acoustic)",
+      "url": "https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
+        "name": "Working Man",
+        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
         "name": "Hearts Town",
         "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 219293,
       "name": "Hustlin' [Feat. Jerry Douglas & Chris Eldridge]",
       "url": "https://open.spotify.com/track/69Sgn7yVDF59YyR9xCaTZE"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
-        "name": "Working Man",
-        "url": "https://open.spotify.com/album/75BL5XrMZ7cF1mcIbs4oYA"
-      },
-      "artists": [
-        {
-          "name": "Maya De Vitry",
-          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Prospect Hill: The American Songster Omnibus",
-        "url": "https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 170456,
-      "name": "Georgia Drumbeat",
-      "url": "https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Miracle of Love",
         "url": "https://open.spotify.com/album/5TdiHAoc87RInbeJFwACQx"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 268839,
       "name": "Miracle of Love",
       "url": "https://open.spotify.com/track/7oBGripcuBszD5sL8zYyUp"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Prospect Hill: The American Songster Omnibus",
+        "url": "https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 170456,
+      "name": "Georgia Drumbeat",
+      "url": "https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Spinning Plates",
-        "url": "https://open.spotify.com/album/6txekUbi7XkWmtMVtTrbA0"
-      },
-      "artists": [
-        {
-          "name": "Misty Boyce",
-          "url": "https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN"
-        }
-      ],
-      "duration_ms": 166324,
-      "name": "Spinning Plates",
-      "url": "https://open.spotify.com/track/5vhKsYxmAeS18BaeSMsMR8"
-    },
-    {
-      "added_at": "2024-07-05 21:02:38",
-      "album": {
         "name": "Before I Go",
         "url": "https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP"
       },
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2024-07-05 21:02:38",
       "album": {
-        "name": "Hills of Mexico",
-        "url": "https://open.spotify.com/album/6mk8W1blzNv0y8maWcwjVN"
+        "name": "Spinning Plates",
+        "url": "https://open.spotify.com/album/6txekUbi7XkWmtMVtTrbA0"
       },
       "artists": [
         {
-          "name": "Jake Xerxes Fussell",
-          "url": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33"
+          "name": "Misty Boyce",
+          "url": "https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN"
         }
       ],
-      "duration_ms": 351193,
-      "name": "Hills of Mexico",
-      "url": "https://open.spotify.com/track/2buCvfzLyMEUs04e8IChE2"
+      "duration_ms": 166324,
+      "name": "Spinning Plates",
+      "url": "https://open.spotify.com/track/5vhKsYxmAeS18BaeSMsMR8"
     },
     {
       "added_at": "2024-07-05 21:02:38",
@@ -1567,6 +1551,22 @@
       "duration_ms": 275800,
       "name": "Myth",
       "url": "https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ"
+    },
+    {
+      "added_at": "2024-07-05 21:02:38",
+      "album": {
+        "name": "Hills of Mexico",
+        "url": "https://open.spotify.com/album/6mk8W1blzNv0y8maWcwjVN"
+      },
+      "artists": [
+        {
+          "name": "Jake Xerxes Fussell",
+          "url": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33"
+        }
+      ],
+      "duration_ms": 351193,
+      "name": "Hills of Mexico",
+      "url": "https://open.spotify.com/track/2buCvfzLyMEUs04e8IChE2"
     },
     {
       "added_at": "2024-07-05 21:02:38",

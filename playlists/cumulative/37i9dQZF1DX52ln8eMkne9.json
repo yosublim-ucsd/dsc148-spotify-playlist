@@ -4755,6 +4755,24 @@
     },
     {
       "album": {
+        "name": "Reste un peu (Radio Edit)",
+        "url": "https://open.spotify.com/album/1ZqFs8SHrRTHhbzTFYQrxQ"
+      },
+      "artists": [
+        {
+          "name": "Calo\u00e9",
+          "url": "https://open.spotify.com/artist/5VhECTqYomp7HNwQrzQYNL"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185560,
+      "name": "Reste un peu - Radio Edit",
+      "url": "https://open.spotify.com/track/2JCrxO2zWI1XVV3jp02qdG"
+    },
+    {
+      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -6746,7 +6764,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 258863,
       "name": "You Fascinate Me So",
       "url": "https://open.spotify.com/track/1Y3kXcTWqJLZZ0JzgX4MNQ"

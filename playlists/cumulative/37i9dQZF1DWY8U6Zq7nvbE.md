@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-453 songs - 1 day 0 hr 31 min
+454 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Bigger Picture](https://open.spotify.com/track/20qypeUyWsDwkCfpIx2RUn) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Bigger Picture](https://open.spotify.com/album/1gqDh348uLalOX9wL18pBH) | 3:15 | 2021-03-11 | 2022-07-29 |
 | [Bigger Picture](https://open.spotify.com/track/2ty3xfjlNMJZHYHyloUrxV) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 3:15 | 2021-03-11 | 2022-11-26 |
 | [Bigger Than \- Acoustic](https://open.spotify.com/track/6wi0w8KfsjhWc77CwGGSkq) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Bigger Than \(Acoustic\)](https://open.spotify.com/album/1nLoG3te48Zzj3MkV7qcjZ) | 3:33 | 2021-03-11 | 2023-10-28 |
+| [Birds of a Feather](https://open.spotify.com/track/4lg1LJNoqAP5VDPQR4MIyo) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Birds of a Feather](https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt) | 3:39 | 2024-07-18 |  |
 | [Birthday \- Acoustic](https://open.spotify.com/track/6QdGUZpcyH1JZoVKEmfLQH) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Birthday \(Acoustic\)](https://open.spotify.com/album/2iSzHLWG3apDixiLpOYiOa) | 2:59 | 2021-03-11 | 2022-11-26 |
 | [Black & Blue \- Acoustic Version](https://open.spotify.com/track/64b21IcAEJwtwAgBQH6k83) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Black & Blue \(Acoustic Version\)](https://open.spotify.com/album/1KX6McwupYpQOAS4SfcNvG) | 3:06 | 2021-03-11 | 2023-10-28 |
 | [Black Car \(feat\. ALMA\) \- Acoustic](https://open.spotify.com/track/7dKtLzhDKZ2aKDqoyZYdEw) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Black Car \(feat\. ALMA\) \[Acoustic\]](https://open.spotify.com/album/69sad8MZUsNa9b6F6BGgZe) | 3:36 | 2021-03-11 | 2023-10-28 |
@@ -378,7 +379,7 @@
 | [spark \- acoustic version](https://open.spotify.com/track/1Bf6t21wDuopvxEjEG0Axx) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [spark \(acoustic version\)](https://open.spotify.com/album/6i4Fr88uQpqbLsbhP0i2bo) | 3:35 | 2022-10-26 | 2022-11-14 |
 | [spark \- Acoustic Version](https://open.spotify.com/track/3t9VNPLPtOSHhdDdTx7VFM) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [the love that you want \(Acoustic\)](https://open.spotify.com/album/14hXoTfUY2iXfr65WvMWou) | 3:35 | 2022-08-31 | 2022-11-26 |
 | [spark \- acoustic version](https://open.spotify.com/track/5JEvRUqLBetsMC12nAKlen) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [spark \(acoustic version\)](https://open.spotify.com/album/2t9kgL9bskHkLAR3wESeeF) | 3:35 | 2021-03-11 | 2022-07-29 |
-| [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 | 2023-02-17 |  |
+| [Sparks](https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411) | [Roberta Loki](https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB) | [Sparks](https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx) | 4:16 | 2023-02-17 | 2024-08-25 |
 | [Stack It Up \- Acoustic](https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Stack It Up \(Acoustic\)](https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE) | 2:42 | 2021-03-11 | 2023-10-28 |
 | [STAY](https://open.spotify.com/track/1ejniTp6tQF5xULkomIwrj) | [Isaac Hale](https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4) | [STAY](https://open.spotify.com/album/1sNm6M8h7Rx5vPVcoQzgDG) | 2:12 | 2022-12-02 |  |
 | [STAY](https://open.spotify.com/track/47HAVYDQN5gH38pf9R8VpJ) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [STAY](https://open.spotify.com/album/1Vxqds6fwlew2NKKge1lgn) | 2:34 | 2022-08-31 | 2022-12-02 |

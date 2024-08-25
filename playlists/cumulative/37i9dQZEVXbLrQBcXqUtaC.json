@@ -695,6 +695,32 @@
     },
     {
       "album": {
+        "name": "Ala Feen (Freedom Music)",
+        "url": "https://open.spotify.com/album/6xOe76F4GaeJgZgrkjEMVj"
+      },
+      "artists": [
+        {
+          "name": "Vortex",
+          "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
+        },
+        {
+          "name": "Almas",
+          "url": "https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0"
+        },
+        {
+          "name": "Big Moe",
+          "url": "https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Ala Feen (Freedom Music)",
+      "url": "https://open.spotify.com/track/7GaUN90emr27FBPdf5Jcqb"
+    },
+    {
+      "album": {
         "name": "Alam Aloshag",
         "url": "https://open.spotify.com/album/3j2GXRSfXtgyL2QtQnP32F"
       },
@@ -4284,7 +4310,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 256799,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
@@ -7600,7 +7626,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 149522,
       "name": "GLORY",
       "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
@@ -9006,7 +9032,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
@@ -9282,7 +9308,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 241874,
       "name": "I've Been Waiting - Radio Mix",
       "url": "https://open.spotify.com/track/6hfRfhGxvubOieXwiPL4oA"
@@ -11662,7 +11688,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -21644,7 +21670,7 @@
       ],
       "date_added": "2024-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
@@ -24926,7 +24952,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 220434,
       "name": "\u0639\u0645 \u0627\u0644\u0645\u062c\u0627\u0644",
       "url": "https://open.spotify.com/track/3MzJ2M9PzfCtaGMHAirjIM"

@@ -1,6 +1,6 @@
 {
   "description": "ble det en hvit sommer?",
-  "num_followers": 111430,
+  "num_followers": 111449,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Hej sk\u00e5l!",
+        "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Hej sk\u00e5l!",
+      "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Rull\u00e6r",
         "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 147934,
       "name": "Rull\u00e6r",
       "url": "https://open.spotify.com/track/5VgttQMiU6fOHxUwmJZ5QQ"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Hej sk\u00e5l!",
-        "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Hej sk\u00e5l!",
-      "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "MERE BANJO!",
-        "url": "https://open.spotify.com/album/3KOcsWbjqW1IDCuEUId0q7"
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
       },
       "artists": [
         {
-          "name": "B\u00f8rse",
-          "url": "https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl"
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
         }
       ],
-      "duration_ms": 124824,
-      "name": "MERE BANJO!",
-      "url": "https://open.spotify.com/track/79xNPAeIwCLYDiiqkYb2ve"
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

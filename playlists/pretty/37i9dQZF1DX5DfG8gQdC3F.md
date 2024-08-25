@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Sabrina Carpenter, Jessie Reyez & Lil Wayne, Lainey Wilson,  Luna Li and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,097 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,212 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 15 | [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 |
 | 16 | [Knocking At My Door](https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Knocking At My Door](https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD) | 3:10 |
 | 17 | [Billion Streams Freestyle](https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:06 |
-| 18 | [Wait for You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait for You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
+| 18 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
 | 19 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 |
 | 20 | [Love on the Line](https://open.spotify.com/track/1M95X9GeTRLXczFunvGCn7) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Relapse](https://open.spotify.com/album/6qjHXAoCQWAwOwOCjdSvEN) | 3:24 |
 | 21 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 62 | [Just Do It](https://open.spotify.com/track/5TphPbEENrPWQnvFwBovo9) | [Jaylen Brown](https://open.spotify.com/artist/65pmmi5k1k9xeT8IQ8N9Wi), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [Just Do It](https://open.spotify.com/album/0YD5meK16kZJWlMBaZiP25) | 3:45 |
 | 63 | [I Don't Wanna Go Downtown](https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:13 |
 | 64 | [Idontwannaknowyou!](https://open.spotify.com/track/2S3EZpZPm41tA1qKh9HL7v) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Idontwannaknowyou!](https://open.spotify.com/album/04W5PZVYM0N62MNPLCZlE4) | 2:40 |
-| 65 | [Stratosphere Blues / I Believe in You](https://open.spotify.com/track/4AncNup4cxUqJI2khU1Eq3) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Stratosphere Blues / I Believe In You](https://open.spotify.com/album/6Aebvjv6Si7T8atsk3mxA2) | 5:50 |
+| 65 | [Stratosphere Blues / I Believe in You](https://open.spotify.com/track/4AncNup4cxUqJI2khU1Eq3) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Stratosphere Blues / I Believe in You](https://open.spotify.com/album/6Aebvjv6Si7T8atsk3mxA2) | 5:50 |
 | 66 | [Circle](https://open.spotify.com/track/6XImk1bpodFemC1L0Df4QO) | [Raman Gaba](https://open.spotify.com/artist/6VqK6efohMq1qVtqBn0scg), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Circle](https://open.spotify.com/album/72NFznV37eVBJje8m684J4) | 2:37 |
 | 67 | [That's My Floor](https://open.spotify.com/track/2mJI78wsFOQfLvrrlR0H3H) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [That's My Floor](https://open.spotify.com/album/5dGhpX3W12hDDip1gniXfK) | 3:29 |
 | 68 | [Bittersweet \(Taste of Home\)](https://open.spotify.com/track/3qTxcokKYJPq5OQRC8P5IL) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Bittersweet \(Taste of Home\)](https://open.spotify.com/album/4flGaXVmYA8k9s22Xfr8cZ) | 3:04 |

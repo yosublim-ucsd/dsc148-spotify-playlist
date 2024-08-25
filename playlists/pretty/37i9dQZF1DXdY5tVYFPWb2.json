@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 165525,
+  "num_followers": 165538,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-08-21 01:14:57",
       "album": {
-        "name": "Moonshine",
-        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
-      },
-      "artists": [
-        {
-          "name": "sangdei",
-          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
-        }
-      ],
-      "duration_ms": 192115,
-      "name": "Moonshine",
-      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
-    },
-    {
-      "added_at": "2024-08-21 01:14:57",
-      "album": {
         "name": "\u604b\u6a19",
         "url": "https://open.spotify.com/album/0ESQn0GT1BrZTudVaIhoZ3"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 225000,
       "name": "Glitter Eyes (feat. mindfreakkk)",
       "url": "https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT"
+    },
+    {
+      "added_at": "2024-08-21 01:14:57",
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/0oonwHcCSggzq0fqvU7UJv"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "duration_ms": 192115,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/4TmCIdckv7ikPx596Iafn5"
     },
     {
       "added_at": "2024-08-21 01:14:57",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2024-08-21 01:14:57",
       "album": {
-        "name": "IMAGINE",
-        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 231440,
-      "name": "ENDLESS",
-      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
-    },
-    {
-      "added_at": "2024-08-21 01:14:57",
-      "album": {
         "name": "\u30e9\u30d6\u30fb\u30b9\u30c8\u30fc\u30ea\u30fc\u306f\u7a81\u7136\u306b",
         "url": "https://open.spotify.com/album/7cismSXiY8mALgsUi3DsWv"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 300066,
       "name": "\u30e9\u30d6\u30fb\u30b9\u30c8\u30fc\u30ea\u30fc\u306f\u7a81\u7136\u306b",
       "url": "https://open.spotify.com/track/7LmvWKaxCoq1pDpe2K2hnU"
+    },
+    {
+      "added_at": "2024-08-21 01:14:57",
+      "album": {
+        "name": "IMAGINE",
+        "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 231440,
+      "name": "ENDLESS",
+      "url": "https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1"
     },
     {
       "added_at": "2024-08-21 01:14:57",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-08-21 01:14:57",
       "album": {
-        "name": "Inner Ocean",
-        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
-      },
-      "artists": [
-        {
-          "name": "salasa",
-          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
-        }
-      ],
-      "duration_ms": 223808,
-      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
-      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
-    },
-    {
-      "added_at": "2024-08-21 01:14:57",
-      "album": {
         "name": "Call me back",
         "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2024-08-21 01:14:57",
       "album": {
+        "name": "Inner Ocean",
+        "url": "https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1"
+      },
+      "artists": [
+        {
+          "name": "salasa",
+          "url": "https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc"
+        }
+      ],
+      "duration_ms": 223808,
+      "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
+      "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
+    },
+    {
+      "added_at": "2024-08-21 01:14:57",
+      "album": {
         "name": "STEP IT",
         "url": "https://open.spotify.com/album/182oXWmVv3c7aHefOysRiP"
       },
@@ -1495,6 +1495,22 @@
       "duration_ms": 220000,
       "name": "STEP IT",
       "url": "https://open.spotify.com/track/5yR62lM4XZ726M4ZbWgfeP"
+    },
+    {
+      "added_at": "2024-08-21 01:14:57",
+      "album": {
+        "name": "AURORA TOKIO",
+        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "duration_ms": 215913,
+      "name": "AURORA TOKIO",
+      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
     },
     {
       "added_at": "2024-08-21 01:14:57",
@@ -1531,22 +1547,6 @@
     {
       "added_at": "2024-08-21 01:14:57",
       "album": {
-        "name": "AURORA TOKIO",
-        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
-      },
-      "artists": [
-        {
-          "name": "Aile The Shota",
-          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
-        }
-      ],
-      "duration_ms": 215913,
-      "name": "AURORA TOKIO",
-      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
-    },
-    {
-      "added_at": "2024-08-21 01:14:57",
-      "album": {
         "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONLINESS (feat. \u3072\u304b\u308a)",
         "url": "https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-08-21 01:14:57",
       "album": {
-        "name": "into the wind",
-        "url": "https://open.spotify.com/album/7LrHpRzmWf26GXIJ4uqR6R"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "\u30b7\u30e9\u30d5",
-      "url": "https://open.spotify.com/track/2kmiYDRuLggy8rAsifrybE"
-    },
-    {
-      "added_at": "2024-08-21 01:14:57",
-      "album": {
         "name": "Grow apart",
         "url": "https://open.spotify.com/album/3Hmzh2SCPxuEJdJ7axg73n"
       },
@@ -1599,62 +1583,18 @@
     {
       "added_at": "2024-08-21 01:14:57",
       "album": {
-        "name": "Vacation",
-        "url": "https://open.spotify.com/album/5KuPwRwOKUyfbU15R3psvf"
+        "name": "into the wind",
+        "url": "https://open.spotify.com/album/7LrHpRzmWf26GXIJ4uqR6R"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
         }
       ],
-      "duration_ms": 198586,
-      "name": "City Drive",
-      "url": "https://open.spotify.com/track/24aoDh5VjWUquYEx28Bfpj"
-    },
-    {
-      "added_at": "2024-08-21 01:14:57",
-      "album": {
-        "name": "Rainy Day",
-        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
-      },
-      "artists": [
-        {
-          "name": "Offo tokyo",
-          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
-    },
-    {
-      "added_at": "2024-08-21 01:14:57",
-      "album": {
-        "name": "\u3044\u3048\u306a\u3044",
-        "url": "https://open.spotify.com/album/64CZVcDI0nZSz0HkpRhlcH"
-      },
-      "artists": [
-        {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "\u5802\u6751 \u7483\u7fbd",
-          "url": "https://open.spotify.com/artist/6E4FILsUkNyAGEImXCN1zz"
-        },
-        {
-          "name": "301",
-          "url": "https://open.spotify.com/artist/2NYKFt0lji6afg6POKWPrr"
-        },
-        {
-          "name": "GeG",
-          "url": "https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi"
-        }
-      ],
-      "duration_ms": 216204,
-      "name": "\u3044\u3048\u306a\u3044",
-      "url": "https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm"
+      "duration_ms": 220240,
+      "name": "\u30b7\u30e9\u30d5",
+      "url": "https://open.spotify.com/track/2kmiYDRuLggy8rAsifrybE"
     },
     {
       "added_at": "2024-08-21 01:14:57",
@@ -1687,6 +1627,66 @@
       "duration_ms": 339226,
       "name": "SPARKLE",
       "url": "https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb"
+    },
+    {
+      "added_at": "2024-08-21 01:14:57",
+      "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/5KuPwRwOKUyfbU15R3psvf"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 198586,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/24aoDh5VjWUquYEx28Bfpj"
+    },
+    {
+      "added_at": "2024-08-21 01:14:57",
+      "album": {
+        "name": "\u3044\u3048\u306a\u3044",
+        "url": "https://open.spotify.com/album/64CZVcDI0nZSz0HkpRhlcH"
+      },
+      "artists": [
+        {
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "\u5802\u6751 \u7483\u7fbd",
+          "url": "https://open.spotify.com/artist/6E4FILsUkNyAGEImXCN1zz"
+        },
+        {
+          "name": "301",
+          "url": "https://open.spotify.com/artist/2NYKFt0lji6afg6POKWPrr"
+        },
+        {
+          "name": "GeG",
+          "url": "https://open.spotify.com/artist/4sh0yr2z7vdKqzahUgQ5Oi"
+        }
+      ],
+      "duration_ms": 216204,
+      "name": "\u3044\u3048\u306a\u3044",
+      "url": "https://open.spotify.com/track/5zU11rGz9E06aZRUO8E3rm"
+    },
+    {
+      "added_at": "2024-08-21 01:14:57",
+      "album": {
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/2AFqDaqL6nvDsYRZwXpPWu"
+      },
+      "artists": [
+        {
+          "name": "Offo tokyo",
+          "url": "https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/22f48KIbKzgpOkAtVvyUQW"
     },
     {
       "added_at": "2024-08-21 01:14:57",

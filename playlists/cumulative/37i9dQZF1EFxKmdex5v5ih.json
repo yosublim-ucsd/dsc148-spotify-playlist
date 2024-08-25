@@ -6165,6 +6165,24 @@
     },
     {
       "album": {
+        "name": "Real Good Love",
+        "url": "https://open.spotify.com/album/2CUpYizxYu2o1ULtbM61RF"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172869,
+      "name": "Real Good Love",
+      "url": "https://open.spotify.com/track/13NS1isrYiasCdCt775RL3"
+    },
+    {
+      "album": {
         "name": "Setlist: The Remember This Tour",
         "url": "https://open.spotify.com/album/0HlfQenJHaxL8JiXnqcT7i"
       },

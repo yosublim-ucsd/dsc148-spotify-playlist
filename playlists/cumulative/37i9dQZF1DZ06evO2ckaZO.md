@@ -2,7 +2,7 @@
 
 ### [This Is Ice Spice](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ckaZO)
 
-> This is Ice Spice\. Todos os maiores hits em uma só playlist.
+> This is Ice Spice\. The essential tracks, all in one playlist.
 
 45 songs - 1 hr 42 min
 

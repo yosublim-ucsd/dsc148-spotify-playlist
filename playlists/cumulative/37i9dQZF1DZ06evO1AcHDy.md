@@ -2,7 +2,7 @@
 
 ### [This Is Rina Sawayama](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AcHDy)
 
-> This is Rina Sawayama\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Rina Sawayama\. Los temas esenciales, todos en una lista.
 
 50 songs - 2 hr 47 min
 

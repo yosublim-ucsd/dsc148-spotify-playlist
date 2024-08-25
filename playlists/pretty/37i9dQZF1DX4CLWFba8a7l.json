@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 121336,
+  "num_followers": 121331,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -589,22 +589,6 @@
       "url": "https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb"
     },
     {
-      "added_at": "2024-08-08 14:00:00",
-      "album": {
-        "name": "Field of Vision",
-        "url": "https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 215235,
-      "name": "Field of Vision",
-      "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
-    },
-    {
       "added_at": "2024-05-31 03:34:39",
       "album": {
         "name": "Wake Up",
@@ -623,6 +607,22 @@
       "duration_ms": 124401,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
+    },
+    {
+      "added_at": "2024-08-08 14:00:00",
+      "album": {
+        "name": "Field of Vision",
+        "url": "https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 215235,
+      "name": "Field of Vision",
+      "url": "https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -757,6 +757,22 @@
       "url": "https://open.spotify.com/track/4oeABmOn0nnLSa2UEETqmz"
     },
     {
+      "added_at": "2024-08-15 14:00:00",
+      "album": {
+        "name": "Untangling",
+        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 236575,
+      "name": "Untangling",
+      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
+    },
+    {
       "added_at": "2024-05-31 03:34:39",
       "album": {
         "name": "Believe (triple j Like A Version) [Cover Version]",
@@ -771,26 +787,6 @@
       "duration_ms": 197594,
       "name": "Believe (triple j Like A Version) - Cover Version",
       "url": "https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 183377,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -815,6 +811,26 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 183377,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
         "name": "When We Were Younger",
         "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
       },
@@ -827,38 +843,6 @@
       "duration_ms": 159477,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI"
-    },
-    {
-      "added_at": "2024-08-15 14:00:00",
-      "album": {
-        "name": "Untangling",
-        "url": "https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 236575,
-      "name": "Untangling",
-      "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
-    },
-    {
-      "added_at": "2024-07-25 14:00:00",
-      "album": {
-        "name": "Enough Of The Sweet Talk",
-        "url": "https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 240137,
-      "name": "Enough Of The Sweet Talk",
-      "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -891,6 +875,22 @@
       "duration_ms": 132941,
       "name": "Don't Know",
       "url": "https://open.spotify.com/track/3rCA0HDwoGHTl2SGqq8Pxr"
+    },
+    {
+      "added_at": "2024-07-25 14:00:00",
+      "album": {
+        "name": "Enough Of The Sweet Talk",
+        "url": "https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        }
+      ],
+      "duration_ms": 240137,
+      "name": "Enough Of The Sweet Talk",
+      "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
     },
     {
-      "added_at": "2024-08-15 14:00:00",
-      "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
-      },
-      "artists": [
-        {
-          "name": "Skegss",
-          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
-        }
-      ],
-      "duration_ms": 190533,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
-    },
-    {
       "added_at": "2024-05-31 03:34:39",
       "album": {
         "name": "Like A Girl Does",
@@ -993,6 +977,42 @@
       "url": "https://open.spotify.com/track/46jKlwucqKdKZR0cPLE4QD"
     },
     {
+      "added_at": "2024-08-15 14:00:00",
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
+      },
+      "artists": [
+        {
+          "name": "Skegss",
+          "url": "https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a"
+        }
+      ],
+      "duration_ms": 190533,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
+    },
+    {
+      "added_at": "2024-08-22 14:00:00",
+      "album": {
+        "name": "NOSE BLEED",
+        "url": "https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        },
+        {
+          "name": "Sueco",
+          "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
+        }
+      ],
+      "duration_ms": 195161,
+      "name": "NOSE BLEED",
+      "url": "https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv"
+    },
+    {
       "added_at": "2024-08-01 14:00:00",
       "album": {
         "name": "I Wish I Never Loved You",
@@ -1007,22 +1027,6 @@
       "duration_ms": 223120,
       "name": "I Wish I Never Loved You",
       "url": "https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S"
-    },
-    {
-      "added_at": "2024-08-08 14:00:00",
-      "album": {
-        "name": "REAL",
-        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
-      },
-      "artists": [
-        {
-          "name": "total tommy",
-          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
-        }
-      ],
-      "duration_ms": 203339,
-      "name": "REAL",
-      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1055,6 +1059,22 @@
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
+    },
+    {
+      "added_at": "2024-08-08 14:00:00",
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "duration_ms": 203339,
+      "name": "REAL",
+      "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
     },
     {
       "added_at": "2024-05-31 03:34:39",
@@ -1091,22 +1111,6 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Scary Movies",
-        "url": "https://open.spotify.com/album/5UItYWGjmw86QPdAKdAWur"
-      },
-      "artists": [
-        {
-          "name": "The Rions",
-          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
-        }
-      ],
-      "duration_ms": 195738,
-      "name": "Scary Movies",
-      "url": "https://open.spotify.com/track/4hoEpxUAvw2tn8Octl8812"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
         "name": "Padam Padam",
         "url": "https://open.spotify.com/album/0OHc8STurn45gpk3dyIiw5"
       },
@@ -1139,6 +1143,22 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
+        "name": "Scary Movies",
+        "url": "https://open.spotify.com/album/5UItYWGjmw86QPdAKdAWur"
+      },
+      "artists": [
+        {
+          "name": "The Rions",
+          "url": "https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y"
+        }
+      ],
+      "duration_ms": 195738,
+      "name": "Scary Movies",
+      "url": "https://open.spotify.com/track/4hoEpxUAvw2tn8Octl8812"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
         "name": "Losing You",
         "url": "https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP"
       },
@@ -1151,6 +1171,22 @@
       "duration_ms": 215331,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "I Get High",
+        "url": "https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 260148,
+      "name": "I Get High",
+      "url": "https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9"
     },
     {
       "added_at": "2024-06-06 14:00:00",
@@ -1167,6 +1203,22 @@
       "duration_ms": 180673,
       "name": "24 Hours in Paris",
       "url": "https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK"
+    },
+    {
+      "added_at": "2024-05-31 03:34:39",
+      "album": {
+        "name": "Heading For The Door",
+        "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 227200,
+      "name": "Heading For The Door",
+      "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
     },
     {
       "added_at": "2024-07-25 14:00:00",
@@ -1187,34 +1239,18 @@
     {
       "added_at": "2024-05-31 03:34:39",
       "album": {
-        "name": "Heading For The Door",
-        "url": "https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX"
+        "name": "Speedracer",
+        "url": "https://open.spotify.com/album/1oM2shk0jtfbsmlzrjsfIV"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Heading For The Door",
-      "url": "https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "I Get High",
-        "url": "https://open.spotify.com/album/6kb7iyiFPdPEAJ59c08P8J"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 260148,
-      "name": "I Get High",
-      "url": "https://open.spotify.com/track/3fbmrIE49XTFLEwm5TQUB9"
+      "duration_ms": 178348,
+      "name": "Speedracer",
+      "url": "https://open.spotify.com/track/1RtVGi6id9kOKpGp495hBV"
     },
     {
       "added_at": "2024-07-11 14:00:00",
@@ -1231,22 +1267,6 @@
       "duration_ms": 214346,
       "name": "Discoth\u00e8que Inside My Head",
       "url": "https://open.spotify.com/track/7vytqQKZBdWwpfA3aYPRGJ"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Speedracer",
-        "url": "https://open.spotify.com/album/1oM2shk0jtfbsmlzrjsfIV"
-      },
-      "artists": [
-        {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "Speedracer",
-      "url": "https://open.spotify.com/track/1RtVGi6id9kOKpGp495hBV"
     },
     {
       "added_at": "2024-07-18 14:00:00",
@@ -1267,22 +1287,6 @@
       "duration_ms": 190410,
       "name": "Powertrippn'",
       "url": "https://open.spotify.com/track/3q9hvVcew3qfHhFDoW9UKN"
-    },
-    {
-      "added_at": "2024-05-31 03:34:39",
-      "album": {
-        "name": "Cape Forestier",
-        "url": "https://open.spotify.com/album/2ZZmRXXj1tpTIwHBmS1QXn"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 199682,
-      "name": "Down To The Sea",
-      "url": "https://open.spotify.com/track/7JjSRRblUXHiWLSnmbRLO2"
     }
   ],
   "unique_name": "The Local List",

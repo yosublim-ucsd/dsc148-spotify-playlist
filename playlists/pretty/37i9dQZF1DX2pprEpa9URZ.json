@@ -1,6 +1,6 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 782217,
+  "num_followers": 782383,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,30 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
+        "name": "Lioness - Francis Mercier Remix",
+        "url": "https://open.spotify.com/album/3M4JloqZM4lhiM2TTEaeNf"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
+        },
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        }
+      ],
+      "duration_ms": 193278,
+      "name": "Lioness - Francis Mercier Remix",
+      "url": "https://open.spotify.com/track/6TgpTpkYneftsKfovhWQiq"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
         "name": "Bahar",
         "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
       },
@@ -243,6 +267,30 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/5zYVteutEDX0ThNXHb3vEi"
+      },
+      "artists": [
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Matara",
+          "url": "https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz"
+        },
+        {
+          "name": "SHEERA",
+          "url": "https://open.spotify.com/artist/3ZNDW1BcvQEkdKyvtVvKrq"
+        }
+      ],
+      "duration_ms": 246480,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/7zUMYALeH2Lef0pVMwTZTA"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
         "name": "Secreto",
         "url": "https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT"
       },
@@ -287,30 +335,6 @@
       "duration_ms": 427102,
       "name": "Feather - Iorie & Madmotormiquel Remix",
       "url": "https://open.spotify.com/track/5cPkKWedtNGlXW4sUdAgvz"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/5zYVteutEDX0ThNXHb3vEi"
-      },
-      "artists": [
-        {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
-        },
-        {
-          "name": "Matara",
-          "url": "https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz"
-        },
-        {
-          "name": "SHEERA",
-          "url": "https://open.spotify.com/artist/3ZNDW1BcvQEkdKyvtVvKrq"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/7zUMYALeH2Lef0pVMwTZTA"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -383,26 +407,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Experiencing a Significant Gravitas Shortfall",
-        "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
-      },
-      "artists": [
-        {
-          "name": "Commoner",
-          "url": "https://open.spotify.com/artist/2vtTburfvhbJq9Ypb1NxmB"
-        },
-        {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
-      "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "Aruna Chandra",
         "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
       },
@@ -423,6 +427,26 @@
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Experiencing a Significant Gravitas Shortfall",
+        "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
+      },
+      "artists": [
+        {
+          "name": "Commoner",
+          "url": "https://open.spotify.com/artist/2vtTburfvhbJq9Ypb1NxmB"
+        },
+        {
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
+      "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -463,6 +487,22 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
+        "name": "Forlorn Hope",
+        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 520042,
+      "name": "Forlorn Hope",
+      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
         "name": "Hidden Garden",
         "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
       },
@@ -495,22 +535,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Love And Hate",
-        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 267004,
-      "name": "Love And Hate",
-      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "Astavakra",
         "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
       },
@@ -523,6 +547,22 @@
       "duration_ms": 420215,
       "name": "Astavakra",
       "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -543,22 +583,6 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Forlorn Hope",
-        "url": "https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 520042,
-      "name": "Forlorn Hope",
-      "url": "https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -635,22 +659,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Se Va, Se Va",
-        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 449509,
-      "name": "Se Va, Se Va",
-      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "Magic Workout",
         "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
       },
@@ -663,6 +671,22 @@
       "duration_ms": 335877,
       "name": "Magic Workout",
       "url": "https://open.spotify.com/track/0TnHMErhQe43aDAVWEuS71"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Se Va, Se Va",
+        "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 449509,
+      "name": "Se Va, Se Va",
+      "url": "https://open.spotify.com/track/3xfeZrc1eCICCFahDQFaWO"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -683,6 +707,22 @@
       "duration_ms": 273523,
       "name": "Neko (feat Kotoe)",
       "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Jendayi EP",
+        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
+      },
+      "artists": [
+        {
+          "name": "Anber",
+          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
+        }
+      ],
+      "duration_ms": 391511,
+      "name": "Jendayi",
+      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -723,22 +763,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Jendayi EP",
-        "url": "https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks"
-      },
-      "artists": [
-        {
-          "name": "Anber",
-          "url": "https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc"
-        }
-      ],
-      "duration_ms": 391511,
-      "name": "Jendayi",
-      "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "Fata Morgana",
         "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
       },
@@ -751,6 +775,22 @@
       "duration_ms": 309680,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Movimiento",
+        "url": "https://open.spotify.com/album/7g3IfnI0Y593YDLh39eIvL"
+      },
+      "artists": [
+        {
+          "name": "Amal Nemer",
+          "url": "https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/7fdSynQodvEutcIRLTJh7e"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -771,30 +811,6 @@
       "duration_ms": 433330,
       "name": "Ya Nahar Ya Gamel",
       "url": "https://open.spotify.com/track/4SKb9f6WJrAWaIzabSdUqy"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Sagas of Iziki | Chapter 2",
-        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
-      },
-      "artists": [
-        {
-          "name": "Djuma Soundsystem",
-          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
-        },
-        {
-          "name": "Emok",
-          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
-        },
-        {
-          "name": "Olith",
-          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
-        }
-      ],
-      "duration_ms": 544250,
-      "name": "Osuga",
-      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -823,18 +839,26 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Movimiento",
-        "url": "https://open.spotify.com/album/7g3IfnI0Y593YDLh39eIvL"
+        "name": "Sagas of Iziki | Chapter 2",
+        "url": "https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES"
       },
       "artists": [
         {
-          "name": "Amal Nemer",
-          "url": "https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm"
+          "name": "Djuma Soundsystem",
+          "url": "https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF"
+        },
+        {
+          "name": "Emok",
+          "url": "https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg"
+        },
+        {
+          "name": "Olith",
+          "url": "https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf"
         }
       ],
-      "duration_ms": 330000,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/7fdSynQodvEutcIRLTJh7e"
+      "duration_ms": 544250,
+      "name": "Osuga",
+      "url": "https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -891,26 +915,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Tarlabasi (Be Svendsen Remix)",
-        "url": "https://open.spotify.com/album/4NqDGi1QBIjCfM4oqfb9k5"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        },
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 271813,
-      "name": "Tarlabasi - Be Svendsen Remix - Edit",
-      "url": "https://open.spotify.com/track/5freZHo9V8p2PlayutmhRq"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "La Isla",
         "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
@@ -947,22 +951,22 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "S\u00edsamo",
-        "url": "https://open.spotify.com/album/78o146Ry6KcgCDMGRyAHA3"
+        "name": "Tarlabasi (Be Svendsen Remix)",
+        "url": "https://open.spotify.com/album/4NqDGi1QBIjCfM4oqfb9k5"
       },
       "artists": [
         {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
         },
         {
-          "name": "Ant\u00eda Ameixeiras",
-          "url": "https://open.spotify.com/artist/20l9cWx7i3D25HB47521qh"
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
         }
       ],
-      "duration_ms": 206800,
-      "name": "S\u00edsamo",
-      "url": "https://open.spotify.com/track/0KqAhASPqyxtENdx5cjcZ9"
+      "duration_ms": 271813,
+      "name": "Tarlabasi - Be Svendsen Remix - Edit",
+      "url": "https://open.spotify.com/track/5freZHo9V8p2PlayutmhRq"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -979,6 +983,26 @@
       "duration_ms": 401815,
       "name": "Wawanko",
       "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "S\u00edsamo",
+        "url": "https://open.spotify.com/album/78o146Ry6KcgCDMGRyAHA3"
+      },
+      "artists": [
+        {
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        },
+        {
+          "name": "Ant\u00eda Ameixeiras",
+          "url": "https://open.spotify.com/artist/20l9cWx7i3D25HB47521qh"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "S\u00edsamo",
+      "url": "https://open.spotify.com/track/0KqAhASPqyxtENdx5cjcZ9"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1039,22 +1063,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
       },
@@ -1071,6 +1079,22 @@
       "duration_ms": 427000,
       "name": "Chaghaf",
       "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1131,22 +1155,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Patika",
-        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
-      },
-      "artists": [
-        {
-          "name": "Hezarfen",
-          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
-        }
-      ],
-      "duration_ms": 333818,
-      "name": "Patika",
-      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "Osam",
         "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
@@ -1159,6 +1167,22 @@
       "duration_ms": 482715,
       "name": "Entrecote",
       "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Patika",
+        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
+      },
+      "artists": [
+        {
+          "name": "Hezarfen",
+          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
+        }
+      ],
+      "duration_ms": 333818,
+      "name": "Patika",
+      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1251,22 +1275,22 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Eternal Road",
-        "url": "https://open.spotify.com/album/47ux4aY4iFXBN6XwwNtSkc"
+        "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
+        "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
       },
       "artists": [
         {
-          "name": "Rapossa",
-          "url": "https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM"
+          "name": "David Rausch",
+          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
         },
         {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
         }
       ],
-      "duration_ms": 185739,
-      "name": "Eternal Road - Edit",
-      "url": "https://open.spotify.com/track/0xYVFbpiJ4wl9lGPzvgEie"
+      "duration_ms": 431565,
+      "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
+      "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1287,6 +1311,26 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
+        "name": "Eternal Road",
+        "url": "https://open.spotify.com/album/47ux4aY4iFXBN6XwwNtSkc"
+      },
+      "artists": [
+        {
+          "name": "Rapossa",
+          "url": "https://open.spotify.com/artist/0FtVISUJUZSWPU4LGeovTM"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Eternal Road - Edit",
+      "url": "https://open.spotify.com/track/0xYVFbpiJ4wl9lGPzvgEie"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
         "name": "Unsichtbar (Behrooz Zandi Remix)",
         "url": "https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr"
       },
@@ -1303,26 +1347,6 @@
       "duration_ms": 370196,
       "name": "Unsichtbar - Behrooz Zandi Remix",
       "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
-        "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
-      },
-      "artists": [
-        {
-          "name": "David Rausch",
-          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
-        },
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 431565,
-      "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
-      "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1387,26 +1411,6 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "White Desert",
-        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
-      },
-      "artists": [
-        {
-          "name": "Pysh",
-          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
-        },
-        {
-          "name": "Stephane Salerno",
-          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
-        }
-      ],
-      "duration_ms": 400696,
-      "name": "White Desert",
-      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
         "name": "Doors To Shambhala",
         "url": "https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr"
       },
@@ -1423,22 +1427,22 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Na Lagoa (Remixes)",
-        "url": "https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm"
+        "name": "White Desert",
+        "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
       },
       "artists": [
         {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+          "name": "Pysh",
+          "url": "https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz"
         },
         {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+          "name": "Stephane Salerno",
+          "url": "https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE"
         }
       ],
-      "duration_ms": 264317,
-      "name": "Senhor Carangeju - Dengue Dengue Dengue Remix",
-      "url": "https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt"
+      "duration_ms": 400696,
+      "name": "White Desert",
+      "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
     }
   ],
   "unique_name": "Org\u00e1nica",

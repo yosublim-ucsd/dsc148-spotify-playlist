@@ -1,12 +1,12 @@
 {
-  "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 14629,
+  "description": "This Is BIA. Los temas esenciales, todos en una lista.",
+  "num_followers": 14638,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAAC82P/TemJlbUCp6kPiV+nh",
+  "snapshot_id": "ZsfRAAAAAAC1KIAOLzlH80HHs8wBLZ6S",
   "tracks": [
     {
       "added_at": null,
@@ -191,8 +191,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 243864,
+      "name": "Miami (feat. BIA)",
+      "url": "https://open.spotify.com/track/5oJAaPRS2EzNIc8EWIbucE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Su\u00e9ltate (From Sing 2)",
+        "url": "https://open.spotify.com/album/1XVamMw0XzgCe7SStQTlai"
       },
       "artists": [
         {
@@ -213,28 +233,8 @@
         }
       ],
       "duration_ms": 210631,
-      "name": "Su\u00e9ltate (with Sam i & Jarina De Marco feat. Anitta, BIA) - From Sing 2",
-      "url": "https://open.spotify.com/track/3nUcCMjX6up5Ik95sTpNU0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 243864,
-      "name": "Miami (feat. BIA)",
-      "url": "https://open.spotify.com/track/5oJAaPRS2EzNIc8EWIbucE"
+      "name": "Su\u00e9ltate (From Sing 2) (with Sam i & Jarina De Marco feat. Anitta, BIA)",
+      "url": "https://open.spotify.com/track/5GFcYCn3ciDSFTRYOi4oVY"
     },
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FAST X - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "duration_ms": 43200,
+      "name": "Furious",
+      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Italiano",
         "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 174216,
       "name": "X6 (feat. BIA)",
       "url": "https://open.spotify.com/track/723BtHZOTCxN2xOselHQpG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FAST X - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/04qe48XDdDs4hdurvRDsCF"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 43200,
-      "name": "Furious",
-      "url": "https://open.spotify.com/track/272slxHVqV2k38mxVP2hat"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,545 likes - 62 songs - 3 hr 29 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,545 likes - 71 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 18 | [very little effort](https://open.spotify.com/track/50vCyMaif5TrJDp3cgSO7F) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [very little effort](https://open.spotify.com/album/5gytBTbcIRuIZP7R5spxLn) | 4:16 |
 | 19 | [Sunshine](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Sunshine](https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi) | 3:15 |
 | 20 | [Heaven Has To Happen](https://open.spotify.com/track/4yYLuj2ePdDTkCvmXB6E8y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Heaven Has To Happen / The Opener](https://open.spotify.com/album/3F0abiQJAThM8Y6csoOMrC) | 3:29 |
-| 21 | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
+| 21 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
 | 22 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 |
 | 23 | [Stay With Me \(feat\. Hikaru Utada\)](https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Stay With Me \(feat\. Hikaru Utada\)](https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976) | 2:52 |
 | 24 | [Sleeping In](https://open.spotify.com/track/5t9JiHbOldV8xiFfXERd5J) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [POWER](https://open.spotify.com/album/5YMMVf8CozIqS0IDOoqTAD) | 3:18 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 29 | [Superstar](https://open.spotify.com/track/3sAvnEiWIAEfDnp4bA8pFp) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Superstar](https://open.spotify.com/album/0bOj1vwTS7lPb4L2GYO1CZ) | 3:00 |
 | 30 | [Wretched Trajectory](https://open.spotify.com/track/607oeYyNz1K55WF6foHzus) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Wretched Trajectory](https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y) | 2:46 |
 | 31 | [Light Work](https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Light Work](https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe) | 3:37 |
-| 32 | [Wait for You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait for You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
+| 32 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
 | 33 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 |
 | 34 | [A Country Dance](https://open.spotify.com/track/70STpXvjirFK1ZKL7gTokK) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [A Country Dance](https://open.spotify.com/album/39ZxoCaRZcE8kjs8j9JrZU) | 2:57 |
 | 35 | [Cafuné](https://open.spotify.com/track/2VUx43mmxFTq3aTqB1D4x2) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 4:31 |
@@ -70,5 +70,14 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 60 | [Faded and Golden](https://open.spotify.com/track/5PRaqte3YCXbOUrTC1ljmT) | [Caroline Says](https://open.spotify.com/artist/10U1DbsjhgAqUMcouK267Q) | [Faded and Golden](https://open.spotify.com/album/0uRPSDSldsNPPRQ78Sy6Xl) | 3:13 |
 | 61 | [September Something](https://open.spotify.com/track/1MBWwJGgfqRl9DQI1hSilH) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [September Something](https://open.spotify.com/album/5biuYKeKdN5ExEtwuOTHid) | 7:28 |
 | 62 | [La Culpa](https://open.spotify.com/track/4nrP8mknNQgj3IFuAvNv7t) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [La Culpa](https://open.spotify.com/album/0V3aEW6gYrFSPhhqU8L75j) | 2:35 |
+| 63 | [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 |
+| 64 | [Fake Can't Stay \- ft.JAE5](https://open.spotify.com/track/409pX3u1zVMQr5GG8LUmJ3) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Beyond Rea5onable Doubt](https://open.spotify.com/album/2zrRASXuB791xdPFFGWtTV) | 3:23 |
+| 65 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 |
+| 66 | [I Can't Go There](https://open.spotify.com/track/3X2zPuuOzFAbupE0LOigfn) | [Ruthven](https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz) | [I Can't Go There](https://open.spotify.com/album/2KEDQNs9BLogSL7xI0Iikf) | 3:10 |
+| 67 | [CHILL ON ME](https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [CHILL ON ME](https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242) | 3:35 |
+| 68 | [Tempted](https://open.spotify.com/track/5rL3pBAs8eR8UCIpHfMwSm) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Tempted](https://open.spotify.com/album/65S8ytLMPeKARLQDg4HPE6) | 2:56 |
+| 69 | [Delirium](https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Delirium](https://open.spotify.com/album/0RRGB1JrVg84M72UL19BmT) | 2:46 |
+| 70 | [ALL IN MY HEAD](https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ALL IN MY HEAD / NO FUN](https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T) | 2:42 |
+| 71 | [Middle of Love \(with Dean Lewis\)](https://open.spotify.com/track/7t9kghsVb4ScWGnQGS8pVs) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Middle of Love \(with Dean Lewis\)](https://open.spotify.com/album/47f7gbtZx0UbvPcO5lx6Lu) | 3:08 |
 
-Snapshot ID: `AACdGi1BdPClwpm004WNRXbbCTk+Ty8Z`
+Snapshot ID: `AACdHO10e0jBzwiK2DZGN7iY2JHt8oVc`

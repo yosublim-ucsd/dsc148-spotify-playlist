@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590 likes - 148 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 589 likes - 148 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 147 | [Prima Bara Dubla](https://open.spotify.com/track/5p1fIuJvkzF7Rhdry4IuuT) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [INTEGRAL DUKE ELLINGTON 1958 \- 1959](https://open.spotify.com/album/7hTH7xLVl2iNM00iY3E64J) | 5:41 |
 | 148 | [Intimacy Of The Blues](https://open.spotify.com/track/1FfWQD0d7AVwEJpVpIGf7Y) | [Marian McPartland](https://open.spotify.com/artist/7Ga404k4zEweLxPtX0Ghma) | [Plays The Music Of Billy Strayhorn](https://open.spotify.com/album/7pUdvKb6fLmEjmLIMO9bUo) | 4:23 |
 
-Snapshot ID: `AbaN4gAAAAApxngmGefTXulSJ4lLztfP`
+Snapshot ID: `AbaTwAAAAACelprLGGB/s2vPeznkEETf`

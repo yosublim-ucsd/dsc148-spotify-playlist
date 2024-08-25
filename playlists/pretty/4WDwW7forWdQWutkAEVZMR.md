@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring The Kid LAROI, Miley Cyrus, and more! Cover: Koe Wetzel
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,010 likes - 51 songs - 2 hr 34 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,011 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

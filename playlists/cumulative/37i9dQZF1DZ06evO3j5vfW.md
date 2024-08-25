@@ -4,7 +4,7 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-115 songs - 6 hr 6 min
+116 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 | 2021-12-20 |  |
 | [I See](https://open.spotify.com/track/3IOvs8528ie9laMQO4PLPD) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [I See](https://open.spotify.com/album/7GbPBsYoV0tXFhnXThsVcQ) | 2:34 | 2021-12-20 | 2023-01-26 |
 | [I Wanna Dance](https://open.spotify.com/track/2UMDjpShbeQoON9Dn7ONMK) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [I Wanna Dance](https://open.spotify.com/album/6CxgIkOgE7uIG4p70b8lyl) | 3:18 | 2023-11-10 |  |
+| [I'll Follow You](https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [I'll Follow You](https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp) | 3:39 | 2024-08-25 |  |
 | [Iconic](https://open.spotify.com/track/4sYCPbTRo0AKvFt7RD4ljp) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [John Christian](https://open.spotify.com/artist/4I4ZRmxuOEADKSea0rNq3h) | [Iconic](https://open.spotify.com/album/0gxVaSkfS9gFfqNyOX5H1M) | 2:59 | 2021-12-20 | 2022-10-13 |
 | [In My Head](https://open.spotify.com/track/6vFGJHTdxHzmBy8wD4BeZ0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [In My Head](https://open.spotify.com/album/5SO1KxfsK1skoei8GucD7D) | 3:58 | 2024-04-07 |  |
 | [Into The Light](https://open.spotify.com/track/75xY9IS7nE2da6q4207HsW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Timmo Hendriks](https://open.spotify.com/artist/7rNPTious4qaZVcKH3cmX3), [David Shane](https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV) | [Into The Light](https://open.spotify.com/album/1ATxWnFY5KAry1bKnyP1yi) | 3:11 | 2021-12-20 | 2023-12-14 |

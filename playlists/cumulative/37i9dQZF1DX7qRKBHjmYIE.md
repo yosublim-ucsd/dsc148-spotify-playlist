@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con RIZA & Humbe.
 
-794 songs - 1 day 18 hr 52 min
+795 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [BROOKLYN](https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [BROOKLYN](https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8) | 3:35 | 2023-05-19 | 2023-08-26 |
 | [bruce willisss](https://open.spotify.com/track/3ktkqlpsYxos7nF2CqGPh6) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [blush](https://open.spotify.com/album/6XFmWkqa5i9L4iKQSFZOHK) | 1:46 | 2024-07-12 |  |
 | [BRUTAL \- Spotify Singles](https://open.spotify.com/track/5AC90O0tMO4CWUpvrnDnfw) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [BRUTAL \- Spotify Singles](https://open.spotify.com/album/5wp3pD6boCVYnvin1jIBqW) | 2:46 | 2022-10-24 | 2022-12-31 |
-| [By Your Side / A Tú Lado](https://open.spotify.com/track/5dfMkMSgERmPnpRc8E7wCc) | [Yung Pleit](https://open.spotify.com/artist/3NHGcZ2ALQygG4tdMagUnT) | [By Your Side / A Tú Lado](https://open.spotify.com/album/1rDnhUpyp6uBabWr8JAGzj) | 3:00 | 2024-07-12 |  |
+| [By Your Side / A Tú Lado](https://open.spotify.com/track/5dfMkMSgERmPnpRc8E7wCc) | [Yung Pleit](https://open.spotify.com/artist/3NHGcZ2ALQygG4tdMagUnT) | [By Your Side / A Tú Lado](https://open.spotify.com/album/1rDnhUpyp6uBabWr8JAGzj) | 3:00 | 2024-07-12 | 2024-08-25 |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 | 2022-09-06 | 2022-10-28 |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 | 2021-12-02 | 2022-10-13 |
 | [Caballo De Troya](https://open.spotify.com/track/5pDGdSmydVnl11KBsPmNXs) | [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Chente Ydrach](https://open.spotify.com/artist/2P4GSF64Q5QUJziecEFyUN) | [Caballo De Troya](https://open.spotify.com/album/2ktrvCJRAq4Fb65XXmaQmL) | 2:01 | 2024-01-26 | 2024-04-13 |
@@ -730,6 +730,7 @@
 | [Too Much](https://open.spotify.com/track/4ERovc94EVMUB0UGVgGNdo) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Too Much](https://open.spotify.com/album/2Gpr7GWQnq3CT93NrqiIGh) | 2:11 | 2022-10-27 | 2023-02-03 |
 | [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 | 2021-12-02 | 2023-02-17 |
 | [Tu Camisa](https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y) | [Escarlata](https://open.spotify.com/artist/6eDMcSQvrGt2zoVFSIwmgZ), [Shantty](https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd) | [Tu Camisa](https://open.spotify.com/album/6fYQvDMkyLG4g0WruzRBbV) | 3:08 | 2023-10-20 | 2024-04-13 |
+| [TU FAN](https://open.spotify.com/track/1jHC95Vb9VOV1BwrwSC6Fc) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [TRUFFY](https://open.spotify.com/artist/3LUAXWV3NdHriaR1yDwRsc) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 3:02 | 2024-08-23 |  |
 | [TU SI K TA LOKO](https://open.spotify.com/track/2u9No01x6M0p6DQwDFFZbA) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TU SI K TA LOKO](https://open.spotify.com/album/3wGWu2LA3agP0zM0uejUx0) | 2:50 | 2022-12-30 | 2023-01-11 |
 | [Tuve \(feat\. Gabriel Garzón\-Montano\)](https://open.spotify.com/track/2oDo7wcuPdioyVCCku2ITh) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s), [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Cassette \- Lado A EP](https://open.spotify.com/album/4BzNdNYXsgKajMXd5jmC72) | 3:05 | 2021-12-02 | 2022-02-10 |
 | [two eyes](https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [two eyes](https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV) | 3:30 | 2023-08-25 | 2023-09-30 |

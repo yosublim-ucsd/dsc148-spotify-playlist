@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Blondshell
 
-612 songs - 1 day 10 hr 21 min
+613 songs - 1 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Deep Diving](https://open.spotify.com/track/7mZqRLdsQ9zircq53qyW0z) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Deep Diving](https://open.spotify.com/album/6jtHcOL3d6JKURexonnmRX) | 2:59 | 2023-12-01 | 2024-03-16 |
 | [Deep End \(Paul's in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 | 2023-09-29 |  |
 | [Designated Driver](https://open.spotify.com/track/73u0xUD9Aag0hI1d2d0VU5) | [Motel Marys](https://open.spotify.com/artist/1mLFRG2MVmK7pRIoPTSRcj) | [Designated Driver](https://open.spotify.com/album/0MQ37Z3Hnkd1KhOHAhCkcH) | 2:35 | 2021-03-09 | 2022-01-17 |
+| [Desire](https://open.spotify.com/track/0sM6V5ruZJWKdRGaB7jiXI) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:39 | 2024-08-23 |  |
 | [Devotion](https://open.spotify.com/track/6w6gCLDgv4L5AJtVDJNddn) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Devotion](https://open.spotify.com/album/1HEiOzOCnTP6rWQ8i5FskF) | 2:45 | 2023-05-25 | 2023-10-13 |
 | [Did I Mention I’m Sorry](https://open.spotify.com/track/2IjvWisUntZj8yNT8Uh5uu) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [Did I Mention I'm Sorry](https://open.spotify.com/album/5OJsV7LFoQBXSuGk7vBPac) | 3:17 | 2023-08-11 | 2023-10-14 |
 | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon) | 2:33 | 2024-06-14 |  |
@@ -409,7 +410,7 @@
 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 | 2024-01-12 | 2024-02-07 |
 | [Plaque Protection](https://open.spotify.com/track/2in7DmrPjFsFkkFwZpJd58) | [Sham Family](https://open.spotify.com/artist/35pfnH3vn7DIc0hGC6JdcW) | [Plaque Protection](https://open.spotify.com/album/12gbNMI9j5JVXchpOAfT8s) | 2:47 | 2022-08-18 | 2022-10-14 |
 | [Plastic](https://open.spotify.com/track/3o6fbFFEkiVJ4qRZV31ykw) | [Lucy McWilliams](https://open.spotify.com/artist/41AscmNq0sWTYo4gRCp21k) | [Plastic](https://open.spotify.com/album/4PkIsbWBXnQJSVSa4Y0cx7) | 3:07 | 2023-11-17 | 2024-01-12 |
-| [Poems](https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Nostalgia Death Act 1](https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw) | 3:49 | 2024-07-12 |  |
+| [Poems](https://open.spotify.com/track/3widoECpAaVEUrTrVcFllW) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Nostalgia Death Act 1](https://open.spotify.com/album/0acxAAviwwXk9mHYTmljnw) | 3:49 | 2024-07-12 | 2024-08-25 |
 | [Point of You](https://open.spotify.com/track/39fakXfQYhUVYQuEZn0J2O) | [Kynsy](https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6) | [Point of You](https://open.spotify.com/album/5iAChIFvCjvXfP5XGDMmqa) | 3:46 | 2022-08-18 | 2022-10-13 |
 | [Point of You](https://open.spotify.com/track/4sq6yGk8Njg37wvEdwWOVY) | [Kynsy](https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6) | [Point of You](https://open.spotify.com/album/1WgQkyXp97iyc9SqMcXdml) | 3:46 | 2022-10-06 | 2022-11-18 |
 | [Pools of Colour](https://open.spotify.com/track/4ivOVhC9eZzzK28qQMZdoC) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 3:48 | 2024-01-26 | 2024-02-16 |

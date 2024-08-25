@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2024 \| The latest and greatest of today's best Worship music\. Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,754 likes - 188 songs - 17 hr 51 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,769 likes - 188 songs - 17 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 141 | [Praise You Anywhere \- Live](https://open.spotify.com/track/2GD9NVyL1EoQUA2MVW2HnX) | [Worship Together](https://open.spotify.com/artist/3DMbpVPUYdZnft4OoqHqPc), [Shantrice Laura](https://open.spotify.com/artist/7jsV5ldKtsBr5ifAkmzQyP), [Women Who Worship](https://open.spotify.com/artist/7JHvic6eP3yMrUCrRFtdbp) | [Praise You Anywhere \(Live\)](https://open.spotify.com/album/5MVkF6BeuBjlpWUxW9uWWG) | 4:12 |
 | 142 | [Glory, Honor, Power \- Acoustic](https://open.spotify.com/track/1jaJuzT4iyKOxXO6Dd2EOE) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi) | [Glory, Honor, Power EP](https://open.spotify.com/album/40BpVowLYEaZ4V1OYkDFDO) | 4:48 |
 | 143 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |
-| 144 | [Make Room](https://open.spotify.com/track/1FvYsZXEb6z8rc8DNhFZYo) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe), [Charly Beathard](https://open.spotify.com/artist/6ydUqYa9scVm35DpeO3DtE) | [Make Room](https://open.spotify.com/album/7qG7iGxZm2QYP9CYxVjOLb) | 5:22 |
+| 144 | [Make Room](https://open.spotify.com/track/1FvYsZXEb6z8rc8DNhFZYo) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe), [Charly Perry](https://open.spotify.com/artist/6ydUqYa9scVm35DpeO3DtE) | [Make Room](https://open.spotify.com/album/7qG7iGxZm2QYP9CYxVjOLb) | 5:22 |
 | 145 | [Stories On Stories](https://open.spotify.com/track/5ZHHtf1eZs6d6OcvYuTzk9) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Stories On Stories](https://open.spotify.com/album/11x6snME6Sa5BG8aEIzEBr) | 4:00 |
 | 146 | [Not Even One](https://open.spotify.com/track/6T9up8pShHGQB8VPrjxhh7) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Not Even One](https://open.spotify.com/album/0mdRdydNhN7COiAZLpXG35) | 6:08 |
 | 147 | [Scandal Of Grace \- Live At Red Rocks](https://open.spotify.com/track/2Xa7XYHeb62XLMRJShKr2L) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Matt Crocker](https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec) | [Zion \(X\)](https://open.spotify.com/album/5cuXbASACaEmO4TmrKn5yV) | 4:16 |

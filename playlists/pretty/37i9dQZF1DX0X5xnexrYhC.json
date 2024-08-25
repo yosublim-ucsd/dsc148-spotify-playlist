@@ -1,6 +1,6 @@
 {
   "description": "pop woke up and chose chaos. cover: GAYLE",
-  "num_followers": 83987,
+  "num_followers": 83978,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
-        "name": "Running Out Of Time",
-        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
         "name": "Sobriety",
         "url": "https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 126361,
       "name": "Sobriety",
       "url": "https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
+        "name": "Running Out Of Time",
+        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ"
     },
     {
-      "added_at": "2024-07-23 04:00:00",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT"
-      },
-      "artists": [
-        {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
-        }
-      ],
-      "duration_ms": 137979,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL"
-    },
-    {
       "added_at": "2024-07-15 02:15:37",
       "album": {
         "name": "Aston",
@@ -631,6 +615,22 @@
       "duration_ms": 218660,
       "name": "Middle Fingers",
       "url": "https://open.spotify.com/track/0zMjJjBTngvWZqZ9AAUOpF"
+    },
+    {
+      "added_at": "2024-07-23 04:00:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 137979,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
-        "name": "I Love You But I Love Me More (feat. Beach Bunny)",
-        "url": "https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        },
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 222786,
-      "name": "I Love You But I Love Me More (feat. Beach Bunny)",
-      "url": "https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
         "name": "debbie downer",
         "url": "https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 159617,
       "name": "debbie downer",
       "url": "https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
+        "name": "I Love You But I Love Me More (feat. Beach Bunny)",
+        "url": "https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        },
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 222786,
+      "name": "I Love You But I Love Me More (feat. Beach Bunny)",
+      "url": "https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
+        "name": "overkill",
+        "url": "https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 165916,
+      "name": "hurt less",
+      "url": "https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
         "name": "Bitches These Days",
         "url": "https://open.spotify.com/album/0B3EG9By8Xd8gTcNUYh0Wo"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 221120,
       "name": "Pink Convertible",
       "url": "https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "overkill",
-        "url": "https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 165916,
-      "name": "hurt less",
-      "url": "https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -963,6 +963,22 @@
       "duration_ms": 180626,
       "name": "ugly",
       "url": "https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
+        "name": "u turn me on (but u give me depression)",
+        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "u turn me on (but u give me depression)",
+      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
-        "name": "u turn me on (but u give me depression)",
-        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "u turn me on (but u give me depression)",
-      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
         "name": "Brad Pitt / Goosebumps",
         "url": "https://open.spotify.com/album/6hqILisIRev9wwnscJlwjR"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 181706,
       "name": "Brad Pitt",
       "url": "https://open.spotify.com/track/603NmSpDReeERhC8heOeVB"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "Children In The Dark",
-        "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 178842,
-      "name": "Children In The Dark",
-      "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
-        "name": "Time of my Life",
-        "url": "https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd"
+        "name": "Children In The Dark",
+        "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
       },
       "artists": [
         {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
         }
       ],
-      "duration_ms": 136066,
-      "name": "Time of my Life",
-      "url": "https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW"
+      "duration_ms": 178842,
+      "name": "Children In The Dark",
+      "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -1159,6 +1143,38 @@
       "duration_ms": 152227,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
+        "name": "Time of my Life",
+        "url": "https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 136066,
+      "name": "Time of my Life",
+      "url": "https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
+        "name": "u look stupid",
+        "url": "https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 148897,
+      "name": "u look stupid",
+      "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -1211,38 +1227,6 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
-        "name": "u look stupid",
-        "url": "https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 148897,
-      "name": "u look stupid",
-      "url": "https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "VOLUME II",
-        "url": "https://open.spotify.com/album/2OFJ3B3DyRkIr1zWNnGtBu"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "DEMONS",
-      "url": "https://open.spotify.com/track/3s61rrQ8uFytBdiuIklCUc"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
         "name": "Billion Dollar Bitch",
         "url": "https://open.spotify.com/album/5MiVQWINwHLDiOGTb20f0a"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
+        "name": "VOLUME II",
+        "url": "https://open.spotify.com/album/2OFJ3B3DyRkIr1zWNnGtBu"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "DEMONS",
+      "url": "https://open.spotify.com/track/3s61rrQ8uFytBdiuIklCUc"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
         "name": "now (in space)",
         "url": "https://open.spotify.com/album/727hwSHo15Q0JVFFGh9IBk"
       },
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
-        "name": "BLEED",
-        "url": "https://open.spotify.com/album/6OQwaX0jFbUlUDdrF2dETa"
+        "name": "HOME IS WHERE THE HELL IS",
+        "url": "https://open.spotify.com/album/6LVVlDJttRg0c2e18PzVU2"
       },
       "artists": [
         {
-          "name": "Evie Irie",
-          "url": "https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK"
+          "name": "Sarah Saint James",
+          "url": "https://open.spotify.com/artist/13gxwsg6hXUb3zBGg2qpjH"
         }
       ],
-      "duration_ms": 182398,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/4PQeiGGiaWjaujJWPjZswy"
+      "duration_ms": 174541,
+      "name": "HOME IS WHERE THE HELL IS",
+      "url": "https://open.spotify.com/track/2rePCKPN3N4ZUZeSoF5vCt"
     }
   ],
   "unique_name": "POP EDGE",

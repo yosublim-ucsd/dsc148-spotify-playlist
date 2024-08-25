@@ -4,7 +4,7 @@
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 松原みき◾️松田聖子、デビュー◾️山口百恵、引退　◾️ジョン・レノン死去 ◾️日本の自動車生産数がアメリカを抜いて1位に。◾️「ぶりっこ」「竹の子族」「テクノ」
 
-132 songs - 9 hr 31 min
+133 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Funkytown \- Single Version](https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | ['80s Pop \#1's](https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY) | 4:05 | 2023-06-28 |  |
 | [How many いい顔](https://open.spotify.com/track/3QYPpLc1sAtW2GVBtJHeck) | [Hiromi Go](https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh) | [MAGIC](https://open.spotify.com/album/62Ds4Rtpb6XQxbSjBrKxm7) | 3:03 | 2023-06-28 |  |
 | [Hungry Heart](https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 3:19 | 2023-06-28 |  |
-| [I Can't Stand Up For Falling Down](https://open.spotify.com/track/2Hd2wSNaIujq6CYVp2wLl6) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Get Happy](https://open.spotify.com/album/38sLlYZ4sdfm5SvjmshqcY) | 2:06 | 2023-06-28 |  |
+| [I Can't Stand Up For Falling Down](https://open.spotify.com/track/2Hd2wSNaIujq6CYVp2wLl6) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Get Happy](https://open.spotify.com/album/38sLlYZ4sdfm5SvjmshqcY) | 2:06 | 2023-06-28 | 2024-08-25 |
 | [I Can't Tell You Why \- 2013 Remaster](https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 4:55 | 2023-06-28 |  |
 | [I Wanna Be Your Lover](https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince](https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC) | 5:47 | 2023-06-28 | 2024-04-19 |
 | [I Wanna Be Your Lover](https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince](https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI) | 5:47 | 2023-06-28 |  |
@@ -101,6 +101,7 @@
 | [ランナウェイ](https://open.spotify.com/track/66wmDGxWeh1eJrVQ3kkq1g) | [Shanels](https://open.spotify.com/artist/11B3d9x2J59NnHRsyoo4xA) | [BACK TO THE BASIC](https://open.spotify.com/album/5qoFqpqBs0PggBwiEt98j9) | 3:05 | 2023-06-28 |  |
 | [リンダ](https://open.spotify.com/track/5JoLLzW8gqQLHyQRL5fN5m) | [Ann Lewis](https://open.spotify.com/artist/0FMOVRQ8hFs1COI4IGwQuO) | [アン・ルイス・グレイテスト・ヒッツ](https://open.spotify.com/album/4z9mzACwBrb64qnnR9k9SZ) | 4:11 | 2023-06-28 |  |
 | [ロックンロール・ウィドウ](https://open.spotify.com/track/1x40IPZ9BVkY5cKmCRMJJx) | [Momoe Yamaguchi](https://open.spotify.com/artist/3QyXESPMLvue8SWNSnBwPp) | [GOLDEN☆BEST 山口百恵　コンプリート・シングルコレクション](https://open.spotify.com/album/6BQax7rP9LzOk2oJ2tpC75) | 4:02 | 2023-06-28 |  |
+| [万里の河](https://open.spotify.com/track/2FdxLOvKWjGiknMBwQkl79) | [CHAGE and ASKA](https://open.spotify.com/artist/1jsmqw6pME0Yj47diPFh0C) | [VERY BEST ROLL OVER 20TH](https://open.spotify.com/album/3u9ZFJXLKKZ5ImLzFPtEWW) | 3:58 | 2024-08-25 |  |
 | [不思議なピーチパイ](https://open.spotify.com/track/1himDaZKKd6doMIzv6NBew) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [LOVE SONGS](https://open.spotify.com/album/2oQE0NLKUZq9PiwXUmoB40) | 4:19 | 2023-06-28 |  |
 | [人生の空から](https://open.spotify.com/track/7kcoZs3waH0CiDsMhX9z3E) | [Chiharu Matsuyama](https://open.spotify.com/artist/6IyRW1yZPSZtdH7uYOeqOq) | [起承転結 II](https://open.spotify.com/album/4aRa2FXcVmnDxNvTvfbhuS) | 3:20 | 2023-06-28 |  |
 | [倖せさがして](https://open.spotify.com/track/3aU2wZC9DFXIYcXxSPHAHA) | [Hiroshi Itsuki](https://open.spotify.com/artist/19UvGbujplb8Ra8xV5yeds) | [ベストセレクションⅢ（1971\-1994）～おまえとふたり～](https://open.spotify.com/album/3kzvwLED2Dx7GW9BOCMNqs) | 3:33 | 2023-06-28 |  |

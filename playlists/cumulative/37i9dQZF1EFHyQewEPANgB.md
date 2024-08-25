@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1t4poam1A1i9RT8MUOhfh2">Earlly Mac</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-87 songs - 4 hr 30 min
+88 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [For the Whole Team](https://open.spotify.com/track/0n0HYl3ExiGeY6vUaajKPE) | [MajorLeagueTrvll](https://open.spotify.com/artist/09auIhNscHq5o6RJHlRmw1), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [For the Whole Team](https://open.spotify.com/album/4GBtfezL2WcgXp9S2JLc05) | 2:05 | 2024-06-07 |  |
 | [God Knows Hotline](https://open.spotify.com/track/2kmseSm4niZQu2XDE5UOWz) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [God Knows](https://open.spotify.com/album/72vJnqE5HYdzczuOyQ9acd) | 0:37 | 2024-06-07 |  |
 | [Goin](https://open.spotify.com/track/3TAACPVfSwjwZy3Bc4CwC8) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Lighten Up](https://open.spotify.com/album/2cOUZ5AnAz7dCO2sdIg3Ic) | 2:39 | 2024-06-07 |  |
+| [Good Things \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2i67C80R9ZmCFNYIPPQWtF) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Fortune Favors the Bold](https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0) | 2:46 | 2024-08-24 |  |
 | [Guard Your Heart \(feat\. Anderson .Paak, Earlly Mac, and Wale\)](https://open.spotify.com/track/7LYgVPxRvlN7OavmyrnOGe) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Detroit 2](https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3) | 4:18 | 2024-06-07 |  |
 | [I Do](https://open.spotify.com/track/6ljzmW6pverX0TuNnPXLU2) | [Just Chase](https://open.spotify.com/artist/0UF5mrABjNwzMZ1WoyLCFi) | [Killing Roses](https://open.spotify.com/album/5rQVp2sUroz9V7mfSOfyMU) | 3:29 | 2024-06-07 |  |
 | [I Know](https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Dark Sky Paradise](https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE) | 5:19 | 2024-06-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Argüello &amp; Bacilos
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,581 likes - 42 songs - 2 hr 4 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,578 likes - 42 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 26 | [Feed the Streets](https://open.spotify.com/track/36FtOrFvDau6Anv4Enx8pS) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4) | [Feed the Streets](https://open.spotify.com/album/5ffFglnEmu0DotZzf72jtr) | 2:42 |
 | 27 | [Drifting \(KREAM Remix\)](https://open.spotify.com/track/1EUTDw9E70ewmIi5pDCu4b) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Drifting \(Remixes\)](https://open.spotify.com/album/2rCBDFnr6sMOrei4zh2kvS) | 3:00 |
 | 28 | [I AM A GOD](https://open.spotify.com/track/25v3NCfgs0QGwcZ4cekGhg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [I AM A GOD](https://open.spotify.com/album/6IQ6Bt4HuUqE8MXZS9hwMk) | 2:08 |
-| 29 | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
+| 29 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
 | 30 | [33 Max Verstappen \(TOZA Remix\)](https://open.spotify.com/track/3ni6JGFA4P8ynS93G8aqoO) | [Carte Blanq](https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o), [Maxx Power](https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [33 Max Verstappen \(TOZA Remix\)](https://open.spotify.com/album/4oC3otHoFiACcJz9VwNDWj) | 2:04 |
 | 31 | [AI Fantasy](https://open.spotify.com/track/27JWau2VWMsrcsr53xVTrt) | [Sesco](https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV), [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1) | [AI Fantasy](https://open.spotify.com/album/7lruKU4dqG2Hm92Mj8MoX5) | 2:35 |
 | 32 | [Every Time I Touch You](https://open.spotify.com/track/2aSXJlYd1FPCFNAM4h3v9k) | [Mondello'G](https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Every Time I Touch You](https://open.spotify.com/album/6rvFCkF8mibsbv9LlVv7DF) | 2:44 |

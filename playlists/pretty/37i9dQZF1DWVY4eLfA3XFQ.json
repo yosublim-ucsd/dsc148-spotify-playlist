@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring ESSEL & MERYLL.  50% techno, 50% house",
-  "num_followers": 632280,
+  "num_followers": 632348,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1549,26 +1549,6 @@
       "url": "https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv"
     },
     {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Bring Me Down",
-        "url": "https://open.spotify.com/album/0zNUqbx2KGZxAlvwxTKAvs"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Stanton Warriors",
-          "url": "https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R"
-        }
-      ],
-      "duration_ms": 205492,
-      "name": "Bring Me Down",
-      "url": "https://open.spotify.com/track/2VIZvfKJFT2YHqHqkM2qhs"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "She's In The Club (feat. Asal)",
@@ -1587,6 +1567,26 @@
       "duration_ms": 188011,
       "name": "She's In The Club (feat. Asal)",
       "url": "https://open.spotify.com/track/7BhjlfNllL8h50DLl5Cd4r"
+    },
+    {
+      "added_at": "2024-06-28 04:00:00",
+      "album": {
+        "name": "Bring Me Down",
+        "url": "https://open.spotify.com/album/0zNUqbx2KGZxAlvwxTKAvs"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Stanton Warriors",
+          "url": "https://open.spotify.com/artist/7GeAzBsalYANXTi1ReOm1R"
+        }
+      ],
+      "duration_ms": 205492,
+      "name": "Bring Me Down",
+      "url": "https://open.spotify.com/track/2VIZvfKJFT2YHqHqkM2qhs"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1693,26 +1693,6 @@
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Midnight Train",
-        "url": "https://open.spotify.com/album/5dEmfqNAtmbDmH1op87pEM"
-      },
-      "artists": [
-        {
-          "name": "Ferra Black",
-          "url": "https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD"
-        },
-        {
-          "name": "Warren Blake",
-          "url": "https://open.spotify.com/artist/0sihR5VNpciUKK9vA2ydm1"
-        }
-      ],
-      "duration_ms": 214656,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/5Pjzz6xQTDpKzj68jK9E4M"
-    },
-    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Vibrate / On The Ground",
@@ -1731,6 +1711,26 @@
       "duration_ms": 134170,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
+    },
+    {
+      "added_at": "2024-06-14 04:00:00",
+      "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/5dEmfqNAtmbDmH1op87pEM"
+      },
+      "artists": [
+        {
+          "name": "Ferra Black",
+          "url": "https://open.spotify.com/artist/2M9yha8tr0kCqQj2QqVBxD"
+        },
+        {
+          "name": "Warren Blake",
+          "url": "https://open.spotify.com/artist/0sihR5VNpciUKK9vA2ydm1"
+        }
+      ],
+      "duration_ms": 214656,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/5Pjzz6xQTDpKzj68jK9E4M"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -2085,6 +2085,26 @@
       "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "What You Looking For",
+        "url": "https://open.spotify.com/album/0xpzEqmImstaRCOo64kOta"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 182343,
+      "name": "What You Looking For",
+      "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Weak (Marco Lys Remix)",
@@ -2113,24 +2133,20 @@
       "url": "https://open.spotify.com/track/08Iz2viTMqt57UbVwSQYmc"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
+      "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "What You Looking For",
-        "url": "https://open.spotify.com/album/0xpzEqmImstaRCOo64kOta"
+        "name": "Done",
+        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
       },
       "artists": [
         {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
         }
       ],
-      "duration_ms": 182343,
-      "name": "What You Looking For",
-      "url": "https://open.spotify.com/track/5dxiZJLeZPChBTvAbOfwXT"
+      "duration_ms": 185624,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2147,22 +2163,6 @@
       "duration_ms": 200000,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Done",
-        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2185,26 +2185,6 @@
       "url": "https://open.spotify.com/track/1bq0odxoXVY7pJbwk6uLcD"
     },
     {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Body (feat. Tima Dee)",
-        "url": "https://open.spotify.com/album/2MpvK6jRaDyD4y54OgbX58"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Tima Dee",
-          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
-        }
-      ],
-      "duration_ms": 165468,
-      "name": "Body (feat. Tima Dee)",
-      "url": "https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE"
-    },
-    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Can You Feel It (Martin Ikin Remix)",
@@ -2223,6 +2203,26 @@
       "duration_ms": 190312,
       "name": "Can You Feel It - Martin Ikin Remix",
       "url": "https://open.spotify.com/track/4Uotr9nrVbAYhorPfIbg8o"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Body (feat. Tima Dee)",
+        "url": "https://open.spotify.com/album/2MpvK6jRaDyD4y54OgbX58"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Tima Dee",
+          "url": "https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP"
+        }
+      ],
+      "duration_ms": 165468,
+      "name": "Body (feat. Tima Dee)",
+      "url": "https://open.spotify.com/track/1HUUzEhzjOd26lGtcOvlyE"
     },
     {
       "added_at": "2024-03-01 05:00:00",

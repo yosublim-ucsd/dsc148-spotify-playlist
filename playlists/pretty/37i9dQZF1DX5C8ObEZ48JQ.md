@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/019a0Q0A8WEfLxoWT3Fl7h?si=HRfzclrCT5yHeDWpKHdpgg">Dessireé</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,776 likes - 54 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,799 likes - 54 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

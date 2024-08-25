@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Imanbek, YouNotUs
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,139 likes - 79 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,319 likes - 79 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 8 | [Tears Don’t Fall](https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Tears Don’t Fall](https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj) | 3:34 |
 | 9 | [Let Me Show You](https://open.spotify.com/track/2a7EPJ2PxMr2S4gRmKFmCR) | [Camisra](https://open.spotify.com/artist/1aHPNBPSjYv4vHc2pU37Xf), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Let Me Show You](https://open.spotify.com/album/3roc1FTj57pjPGUPzvO8Gy) | 2:47 |
 | 10 | [Breathe Me In](https://open.spotify.com/track/0KR3pUIeWnK7qwf9QhVBRZ) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Breathe Me In](https://open.spotify.com/album/7n3RPRMQKuTxaEcCYyqnLK) | 2:13 |
-| 11 | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
+| 11 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
 | 12 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 |
 | 13 | [Losing My Head](https://open.spotify.com/track/4LEqrUtwYKPNiIGTsTKJO4) | [BUHOLD](https://open.spotify.com/artist/4aIqAJ9QQoA4dxwigbVB86), [TMW](https://open.spotify.com/artist/2FkO69EvXtiMZfDuq0rN1V), [Maria Gold](https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K) | [Losing My Head](https://open.spotify.com/album/4JqAZ6AqwEayEQpQuCGJNw) | 2:02 |
 | 14 | [Upside Down](https://open.spotify.com/track/67xGM8XQ3U4GCpSTr5XN9s) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [KOPPY](https://open.spotify.com/artist/5SfqIMwBJ7wD419vvb33mO) | [Upside Down](https://open.spotify.com/album/7d9ysVySNJRc1xAYX63ts9) | 2:28 |

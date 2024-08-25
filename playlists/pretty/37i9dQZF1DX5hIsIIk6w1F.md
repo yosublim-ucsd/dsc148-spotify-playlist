@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 
 > Este Flow tiene otro Flow\. Foto: Jere Klein.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407,240 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,382 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hIsIIk6w1F.md) - [plain]
 | 16 | [Demonia](https://open.spotify.com/track/5DKkRzPyqZmc8cpOS4aTcu) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Demonia](https://open.spotify.com/album/0aVp4Hb8PC95F0UZiA2dn8) | 3:03 |
 | 17 | [Chika Tik Tok](https://open.spotify.com/track/0HDfbEmYveimuTqlvTTgkt) | [El Rey](https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx), [Balbi El Chamako](https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt), [Bayriton](https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV) | [Chika Tik Tok](https://open.spotify.com/album/3tFV8TNDJTFTbY0o8rsLuJ) | 3:45 |
 | 18 | [Pendiente 2.0](https://open.spotify.com/track/4tkcTmISMZmCqG8NhsXLMl) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t), [Lexter](https://open.spotify.com/artist/7IFdRlM8n1AUJvKN5Eb7xj) | [Pendiente 2.0](https://open.spotify.com/album/4thHPBcGHgpu3AoFUq4vfY) | 1:45 |
-| 19 | [Amarillaste](https://open.spotify.com/track/0tu8pXY4uKWDvSJGbjh1yu) | [El Joan](https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ) | [Amarillaste](https://open.spotify.com/album/1WySFOSMpSq1UgjecGcMza) | 2:29 |
+| 19 | [Amarillaste](https://open.spotify.com/track/0tu8pXY4uKWDvSJGbjh1yu) | [El Joan](https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ) | [Amarillaste](https://open.spotify.com/album/1WySFOSMpSq1UgjecGcMza) | 2:31 |
 | 20 | [QUE LE DE](https://open.spotify.com/track/604IC2o3T3bxPu6C7Pimd7) | [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [QUE LE DE](https://open.spotify.com/album/2f9UrdMcXrlf6Sw9UOe2bx) | 2:45 |
 | 21 | [El Almacén \#01](https://open.spotify.com/track/40HIxWfdmzATH9D8onjDzC) | [Pablito Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Tommy Boysen](https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO) | [El Almacén \#01](https://open.spotify.com/album/7cDIW6r8MY4DMrOSXF8CK2) | 2:23 |
 | 22 | [Diferentes Poses](https://open.spotify.com/track/4NQm6qRbEYB8KNJeEySCp6) | [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj), [El Real Baby](https://open.spotify.com/artist/2CHrNSNUmToMvzXxigYrKa), [Shondy La Nota Discordante](https://open.spotify.com/artist/32XS38UBLuW8TQqATg8Wxz), [Nysix Music](https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD) | [Diferentes Poses](https://open.spotify.com/album/0S1oE4YqgMVAi483OaX2kR) | 2:44 |

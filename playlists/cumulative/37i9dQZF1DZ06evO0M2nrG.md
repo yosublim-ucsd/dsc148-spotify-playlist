@@ -2,7 +2,7 @@
 
 ### [This Is Mike Bahía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0M2nrG)
 
-> This Is Mike Bahía\. Los temas esenciales, todos en una lista.
+> This is Mike Bahía\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 76 songs - 3 hr 59 min
 

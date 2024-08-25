@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3pXaXS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3pXaXS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3pXaXS)
 
-### [This Is ザ・ポリス](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pXaXS)
+### [This Is The Police](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pXaXS)
 
-> This is ザ・ポリス。アーティストの代表曲をひとつのプレイリストに。
+> This is The Police\. The essential tracks, all in one playlist.
 
 68 songs - 4 hr 16 min
 

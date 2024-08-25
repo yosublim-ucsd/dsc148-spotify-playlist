@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 573856,
+  "num_followers": 573844,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-07-17 09:16:12",
       "album": {
-        "name": "Balse Ng Gabi",
-        "url": "https://open.spotify.com/album/15SrjW5AMw6vF5vw0ZeqSC"
-      },
-      "artists": [
-        {
-          "name": "Cesca",
-          "url": "https://open.spotify.com/artist/1Zt2D33ZveDAuJdFD2Ef10"
-        },
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 212622,
-      "name": "Balse ng Gabi",
-      "url": "https://open.spotify.com/track/1A3AzOfYdnPThsE13DXQBb"
-    },
-    {
-      "added_at": "2024-07-17 09:16:12",
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 273493,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
+    },
+    {
+      "added_at": "2024-07-17 09:16:12",
+      "album": {
+        "name": "Balse Ng Gabi",
+        "url": "https://open.spotify.com/album/15SrjW5AMw6vF5vw0ZeqSC"
+      },
+      "artists": [
+        {
+          "name": "Cesca",
+          "url": "https://open.spotify.com/artist/1Zt2D33ZveDAuJdFD2Ef10"
+        },
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 212622,
+      "name": "Balse ng Gabi",
+      "url": "https://open.spotify.com/track/1A3AzOfYdnPThsE13DXQBb"
     },
     {
       "added_at": "2024-07-17 09:16:12",

@@ -1,6 +1,6 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 732751,
+  "num_followers": 732782,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 215563,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
         "name": "Stop All the World Now (Special Edition)",
         "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 244133,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 215563,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Amos Lee",
-        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "Arms Of A Woman",
-      "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Linger",
         "url": "https://open.spotify.com/album/44rvrZI6NG38wyyoXQMsVx"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 201136,
       "name": "Linger",
       "url": "https://open.spotify.com/track/3rcVJVqhuuKbVppaLXrxD5"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Amos Lee",
+        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "Arms Of A Woman",
+      "url": "https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Can't Buy Happiness",
-        "url": "https://open.spotify.com/album/4GuuoaZx0yAbHdhK5Ju6D3"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 191759,
-      "name": "Can't Buy Happiness",
-      "url": "https://open.spotify.com/track/6Y7Md7FWqDvWxu4jK6pM9K"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Holding On, Holding Out",
         "url": "https://open.spotify.com/album/0BmHDh5DQcdfUUGzvQ3pPR"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 199653,
       "name": "Back to Autumn",
       "url": "https://open.spotify.com/track/3TdZbELsPLWYZAArGSfwyQ"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Can't Buy Happiness",
+        "url": "https://open.spotify.com/album/4GuuoaZx0yAbHdhK5Ju6D3"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 191759,
+      "name": "Can't Buy Happiness",
+      "url": "https://open.spotify.com/track/6Y7Md7FWqDvWxu4jK6pM9K"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Simple Song",
-        "url": "https://open.spotify.com/album/7cIbon1lg6X8cb2dQnNj2u"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/1Ne8Bps9vPxCmmSetoJSBd"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4DyuXP04lvFmYh01L94WH2"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 236493,
       "name": "Running Up That Hill - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/7KIXAzdiG2Pae7spgsklZo"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Simple Song",
+        "url": "https://open.spotify.com/album/7cIbon1lg6X8cb2dQnNj2u"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/1Ne8Bps9vPxCmmSetoJSBd"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Only",
-        "url": "https://open.spotify.com/album/2oMZSDIcBFvhqoVsByTfvb"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 217167,
-      "name": "The Only",
-      "url": "https://open.spotify.com/track/4VrUT6GeeSRz6MB8tWJSHM"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Who Needs You (Special Edition)",
         "url": "https://open.spotify.com/album/0RVpXQpLUYpnfVS3FENm9y"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 197901,
       "name": "Who Needs You - Special Edition",
       "url": "https://open.spotify.com/track/2HyvRCnFAX65gKsxwyPV5O"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Only",
+        "url": "https://open.spotify.com/album/2oMZSDIcBFvhqoVsByTfvb"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 217167,
+      "name": "The Only",
+      "url": "https://open.spotify.com/track/4VrUT6GeeSRz6MB8tWJSHM"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx"
+        "name": "Home Is Just a State of Mind",
+        "url": "https://open.spotify.com/album/3IxzdY5PQlHmxb4oZjEOhG"
       },
       "artists": [
         {
-          "name": "Emmy Meli",
-          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
+          "name": "Rod Ladgrove",
+          "url": "https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H"
         }
       ],
-      "duration_ms": 135105,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
+      "duration_ms": 250403,
+      "name": "Home Is Just a State of Mind",
+      "url": "https://open.spotify.com/track/2DSAJF477Cf5OdKucIiCYG"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1835,34 +1835,18 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Home Is Just a State of Mind",
-        "url": "https://open.spotify.com/album/3IxzdY5PQlHmxb4oZjEOhG"
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx"
       },
       "artists": [
         {
-          "name": "Rod Ladgrove",
-          "url": "https://open.spotify.com/artist/1ZlDo4aHwBuuS3TnPlyt3H"
+          "name": "Emmy Meli",
+          "url": "https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k"
         }
       ],
-      "duration_ms": 250403,
-      "name": "Home Is Just a State of Mind",
-      "url": "https://open.spotify.com/track/2DSAJF477Cf5OdKucIiCYG"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 160097,
-      "name": "Ophelia",
-      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
+      "duration_ms": 135105,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -1879,6 +1863,22 @@
       "duration_ms": 249882,
       "name": "Breakeven",
       "url": "https://open.spotify.com/track/7eD0gs77mhlYRiTRI7IFf6"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 160097,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/5NORWMFC27ywGSZxi8uquP"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "Sinking Ship / Back & Forth",
-        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sinking Ship",
-      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "Darkest Darks, Lightest Lights",
         "url": "https://open.spotify.com/album/5L6XZ2gcBwLv3hkhRncKcQ"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 198226,
       "name": "I Am the Moon",
       "url": "https://open.spotify.com/track/1vaIL3cwp9FpjYrJDbFd9h"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "Sinking Ship / Back & Forth",
+        "url": "https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Sinking Ship",
+      "url": "https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz"
     },
     {
       "added_at": "2024-04-24 06:24:42",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/7qF9HEA57AL9dPGlipcDvF"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Ain't No Reason",
-      "url": "https://open.spotify.com/track/0FSaq4WfIJ8RbG2Li1JD5B"
-    },
-    {
-      "added_at": "2024-04-24 06:24:42",
-      "album": {
         "name": "One Eyed Love",
         "url": "https://open.spotify.com/album/2mhApVdjZQHGvcebR9pdOV"
       },
@@ -2347,7 +2331,7 @@
     {
       "added_at": "2024-04-24 06:24:42",
       "album": {
-        "name": "EPHRATA (Deluxe Edition)",
+        "name": "EPHRATA - Deluxe Edition",
         "url": "https://open.spotify.com/album/6ckh3U2IE879CgHJMSlqZ6"
       },
       "artists": [
@@ -2359,6 +2343,22 @@
       "duration_ms": 234326,
       "name": "Blood Drive",
       "url": "https://open.spotify.com/track/7yTIj99hrHMyF7ZT0dvaO4"
+    },
+    {
+      "added_at": "2024-04-24 06:24:42",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/7qF9HEA57AL9dPGlipcDvF"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Ain't No Reason",
+      "url": "https://open.spotify.com/track/0FSaq4WfIJ8RbG2Li1JD5B"
     },
     {
       "added_at": "2024-04-24 06:24:42",

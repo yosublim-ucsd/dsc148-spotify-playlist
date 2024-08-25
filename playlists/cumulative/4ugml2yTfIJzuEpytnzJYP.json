@@ -5031,6 +5031,32 @@
     },
     {
       "album": {
+        "name": "We Are The Night",
+        "url": "https://open.spotify.com/album/2Ib0Fc7af1LYeRkj60biAG"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        },
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        },
+        {
+          "name": "Shadow Society",
+          "url": "https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "We Are The Night",
+      "url": "https://open.spotify.com/track/6n5oYAuV41vqikhwPyIjJe"
+    },
+    {
+      "album": {
         "name": "Westside",
         "url": "https://open.spotify.com/album/22PIAiNnlJYM6vevTzMbvD"
       },

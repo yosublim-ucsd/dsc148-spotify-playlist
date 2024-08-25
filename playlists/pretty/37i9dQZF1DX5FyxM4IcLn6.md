@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,160 likes - 143 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,156 likes - 143 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 131 | [Inventing The Wheel](https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Inventing The Wheel](https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw) | 4:17 |
 | 132 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 |
 | 133 | [Basquiat](https://open.spotify.com/track/5RJbt6pveM6LjkI7LuBMa6) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul) | [Phoenix](https://open.spotify.com/album/3BDHDrylqDrv6qz11DRrR7) | 5:41 |
-| 134 | [Vulnerable](https://open.spotify.com/track/3A1sYYDisSoPuXZe1ss3in) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 6:21 |
-| 135 | [Love Letter](https://open.spotify.com/track/2qqsWxv1jxmmZxcSwi3LqD) | [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Love Letter](https://open.spotify.com/album/1hezohaDOgcy6FHtnDJBCq) | 4:34 |
+| 134 | [Love Letter](https://open.spotify.com/track/2qqsWxv1jxmmZxcSwi3LqD) | [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Love Letter](https://open.spotify.com/album/1hezohaDOgcy6FHtnDJBCq) | 4:34 |
+| 135 | [Vulnerable](https://open.spotify.com/track/3A1sYYDisSoPuXZe1ss3in) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 6:21 |
 | 136 | [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 |
 | 137 | [Heaven Help Us All](https://open.spotify.com/track/1uZeO2zHjviOrRJURDLbrG) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Heaven Help Us All](https://open.spotify.com/album/2GRmrVUecVMnuxzMWQOR9m) | 3:33 |
 | 138 | [Abundance in Millets](https://open.spotify.com/track/1GgKK2siV6qwZ6dyifH8lY) | [PM Narendra Modi](https://open.spotify.com/artist/1CIor6lMp9tPfy6kWA3H0y), [Falu](https://open.spotify.com/artist/3jk7OJ4HfTtHvmwh0DkAl1), [Gaurav Shah](https://open.spotify.com/artist/4HCC1SB5JtN8BnLTVFfHpG) | [Abundance in Millets](https://open.spotify.com/album/64Q543xillJ1neC5efMMmf) | 4:31 |

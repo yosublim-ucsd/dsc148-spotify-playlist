@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 486263,
+  "num_followers": 486364,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Boiled Frogs",
-      "url": "https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "On Frail Wings Of Vanity And Wax",
         "url": "https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 185333,
       "name": "Ambrosia",
       "url": "https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Boiled Frogs",
+      "url": "https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "30 Seconds To Mars",
-        "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Capricorn (A Brand New Name)",
-      "url": "https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Casually Dressed And Deep In Conversation",
         "url": "https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 216853,
       "name": "Juneau",
       "url": "https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "30 Seconds To Mars",
+        "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Capricorn (A Brand New Name)",
+      "url": "https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Nightmare Anatomy",
-        "url": "https://open.spotify.com/album/2K3Ga1V2OzVtBLemgMDcIB"
-      },
-      "artists": [
-        {
-          "name": "Aiden",
-          "url": "https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G"
-        }
-      ],
-      "duration_ms": 220786,
-      "name": "Die Romantic",
-      "url": "https://open.spotify.com/track/6X6hTTh32bJM24wYY26MTc"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Wires...And The Concept Of Breathing",
         "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 194906,
       "name": "All It Takes For Your Dreams To Come True",
       "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Nightmare Anatomy",
+        "url": "https://open.spotify.com/album/2K3Ga1V2OzVtBLemgMDcIB"
+      },
+      "artists": [
+        {
+          "name": "Aiden",
+          "url": "https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G"
+        }
+      ],
+      "duration_ms": 220786,
+      "name": "Die Romantic",
+      "url": "https://open.spotify.com/track/6X6hTTh32bJM24wYY26MTc"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1151,38 +1151,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "In Search of Solid Ground",
-        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
-        "name": "Vheissu",
-        "url": "https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 254853,
-      "name": "Image Of The Invisible",
-      "url": "https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Wires...And The Concept Of Breathing",
         "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
       },
@@ -1195,6 +1163,22 @@
       "duration_ms": 198693,
       "name": "I'm Not A Thief, I'm A Treasure Hunter",
       "url": "https://open.spotify.com/track/146UE7we0gOcTQ118xmR0A"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
+        "name": "Vheissu",
+        "url": "https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 254853,
+      "name": "Image Of The Invisible",
+      "url": "https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
         "name": "The Big Dirty",
         "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
       },
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "White Lies",
-        "url": "https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs"
-      },
-      "artists": [
-        {
-          "name": "Lovehatehero",
-          "url": "https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq"
-        }
-      ],
-      "duration_ms": 213413,
-      "name": "Goodbye My Love",
-      "url": "https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Orchestra Of Wolves (new version)",
         "url": "https://open.spotify.com/album/6iKEpmbrs3YpXiEo68HHnx"
       },
@@ -1291,6 +1275,38 @@
       "duration_ms": 161866,
       "name": "In the Belly of a Shark",
       "url": "https://open.spotify.com/track/0khj70h8pejNRukEhOn86O"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "In the Wake of Determination",
+        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 247386,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs"
+      },
+      "artists": [
+        {
+          "name": "Lovehatehero",
+          "url": "https://open.spotify.com/artist/7x0UWXyNsNRQJtScbBnrBq"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Goodbye My Love",
+      "url": "https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1327,6 +1343,22 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
+        "name": "Dream to Make Believe",
+        "url": "https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk"
+      },
+      "artists": [
+        {
+          "name": "Armor For Sleep",
+          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Dream to Make Believe",
+      "url": "https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
         "name": "There For Tomorrow (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZRygrECnzHvuOjRXnQtkd"
       },
@@ -1339,22 +1371,6 @@
       "duration_ms": 211933,
       "name": "Pages",
       "url": "https://open.spotify.com/track/1xJULOj0c01wovNn42lOsC"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
-        "name": "In the Wake of Determination",
-        "url": "https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 247386,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/4Y9SvDoZpyuaulD7XAfcUH"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1375,38 +1391,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "I'm Only A Man",
-        "url": "https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq"
-      },
-      "artists": [
-        {
-          "name": "Emery",
-          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "The Party Song",
-      "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
-        "name": "Dream to Make Believe",
-        "url": "https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk"
-      },
-      "artists": [
-        {
-          "name": "Armor For Sleep",
-          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Dream to Make Believe",
-      "url": "https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "Worship And Tribute (U.S. Version)",
         "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 224973,
       "name": "Mu Empire",
       "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "I'm Only A Man",
+        "url": "https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq"
+      },
+      "artists": [
+        {
+          "name": "Emery",
+          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "The Party Song",
+      "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud"
     },
     {
       "added_at": "2024-07-02 15:11:08",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-07-02 15:11:08",
       "album": {
-        "name": "Go West Young Man, Let The Evil Go East",
-        "url": "https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ"
-      },
-      "artists": [
-        {
-          "name": "Greeley Estates",
-          "url": "https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag"
-        }
-      ],
-      "duration_ms": 200680,
-      "name": "Let The Evil Go East",
-      "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg"
-    },
-    {
-      "added_at": "2024-07-02 15:11:08",
-      "album": {
         "name": "From Them, Through Us, To You",
         "url": "https://open.spotify.com/album/1Uw8vdLEIUxvQLYTd0Dk1f"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 216520,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/4orQFDcvhvyaPx8PPf35iI"
+    },
+    {
+      "added_at": "2024-07-02 15:11:08",
+      "album": {
+        "name": "Go West Young Man, Let The Evil Go East",
+        "url": "https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ"
+      },
+      "artists": [
+        {
+          "name": "Greeley Estates",
+          "url": "https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "Let The Evil Go East",
+      "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg"
     },
     {
       "added_at": "2024-07-02 15:11:08",

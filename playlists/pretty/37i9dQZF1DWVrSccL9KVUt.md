@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of worship music!  Cover: <a href="spotify:artist:0XnterAMV09fuPjq4joR0c">Rita Springer<br/></a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,465 likes - 44 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,483 likes - 44 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 35 | [debris](https://open.spotify.com/track/3ZHnJKT76nKyVDGwr1ahoW) | [Courtnie Ramirez](https://open.spotify.com/artist/2nWAWrpwIjcyfaGfeZ13qW) | [debris](https://open.spotify.com/album/6OwAhwMHzbRP70wdO3LEbZ) | 4:19 |
 | 36 | [Paper Thin](https://open.spotify.com/track/4HjHupE2zwoz5GQLWIywhY) | [Dani Miché](https://open.spotify.com/artist/1IAenyCYPeI3B4gpI6I6Cf) | [Hard Truths](https://open.spotify.com/album/34UW86M5riHc8OKtWMJVjd) | 3:21 |
 | 37 | [Fragile \- Reimagined](https://open.spotify.com/track/1xXUBqzkcVqnt26WJLLl5k) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Fragile \(Reimagined\)](https://open.spotify.com/album/4JHezCs3CKgzWUTcaibLlo) | 3:11 |
-| 38 | [Go](https://open.spotify.com/track/30GmfciNhTklAJtIk5GamT) | [Charly Beathard](https://open.spotify.com/artist/6ydUqYa9scVm35DpeO3DtE) | [Go](https://open.spotify.com/album/7e3gG58B2ZjVmCUFliCyKG) | 3:28 |
+| 38 | [Go](https://open.spotify.com/track/30GmfciNhTklAJtIk5GamT) | [Charly Perry](https://open.spotify.com/artist/6ydUqYa9scVm35DpeO3DtE) | [Go](https://open.spotify.com/album/7e3gG58B2ZjVmCUFliCyKG) | 3:28 |
 | 39 | [As I Am](https://open.spotify.com/track/64Z4Mc4eSOasJt7DAmDqaE) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [As I Am](https://open.spotify.com/album/3iEegTIr5qwEP2iQmvUMjY) | 3:42 |
 | 40 | [Hands Of The Healer \- Live](https://open.spotify.com/track/7M3xzmIhe55g7lFjmV4Zja) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Hands Of The Healer \(Live\)](https://open.spotify.com/album/4fKlvixbyi2sWBqaiJvGCf) | 4:32 |
 | 41 | [Little Too Late](https://open.spotify.com/track/5jaPOOhbMhnT9KeGFGC4Nr) | [Adeline Hill](https://open.spotify.com/artist/1PbQULXA8xQ6G8VuGPDaY8) | [Little Too Late](https://open.spotify.com/album/2fE91bwftk6KMgMf6mpKMV) | 3:22 |

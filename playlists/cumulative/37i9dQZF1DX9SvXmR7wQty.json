@@ -5471,6 +5471,28 @@
     },
     {
       "album": {
+        "name": "Bolide Noir",
+        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Bolide Noir",
+      "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
+    },
+    {
+      "album": {
         "name": "Bombarder",
         "url": "https://open.spotify.com/album/19Qf7KmiwfjGG0VqvoMqOU"
       },
@@ -38238,7 +38260,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 208645,
       "name": "Play",
       "url": "https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD"
@@ -40780,7 +40802,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 161377,
       "name": "Rayol",
       "url": "https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2"
@@ -47092,6 +47114,28 @@
       "duration_ms": 207320,
       "name": "Temps perdu",
       "url": "https://open.spotify.com/track/0YFuRRuUdNgpvM3G2a9lQ9"
+    },
+    {
+      "album": {
+        "name": "Tentation (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP"
+      },
+      "artists": [
+        {
+          "name": "Gambi",
+          "url": "https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175787,
+      "name": "Tentation (feat. Hamza)",
+      "url": "https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!/Foto: Marcelo Tofani, Marina Sena",
-  "num_followers": 372176,
+  "num_followers": 372171,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 266737,
+      "name": "CAJU",
+      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 103384,
       "name": "SEQU\u00caNCIA COLOCAD\u00c3O",
       "url": "https://open.spotify.com/track/4zDaVEHAvqPiIQN7jKtmhM"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 266737,
-      "name": "CAJU",
-      "url": "https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "FETICHE",
-        "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        }
-      ],
-      "duration_ms": 186815,
-      "name": "voc\u00ea foi a melhor",
-      "url": "https://open.spotify.com/track/6hd5MpG4Wsw8lzGupFegck"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Pilantra",
         "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
       },
@@ -379,6 +363,38 @@
       "duration_ms": 192708,
       "name": "Pilantra",
       "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "FETICHE",
+        "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "duration_ms": 186815,
+      "name": "voc\u00ea foi a melhor",
+      "url": "https://open.spotify.com/track/6hd5MpG4Wsw8lzGupFegck"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Tudo",
+        "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 216612,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -415,22 +431,6 @@
       "duration_ms": 155805,
       "name": "to bem",
       "url": "https://open.spotify.com/track/4n7GVLsN4FBLyKhi0BySUq"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Tudo",
-        "url": "https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 216612,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -499,6 +499,46 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 306281,
+      "name": "DEIXA ESTAR",
+      "url": "https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 175086,
+      "name": "Me Lambe",
+      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "REVERSA [in]ato",
         "url": "https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7"
       },
@@ -543,46 +583,6 @@
       "duration_ms": 165111,
       "name": "DA BRABA",
       "url": "https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 306281,
-      "name": "DEIXA ESTAR",
-      "url": "https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "SUPER",
-        "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Me Lambe",
-      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/0OlaUpNPhRm8mnEcOwEcfK"
+      },
+      "artists": [
+        {
+          "name": "Any Gabrielly",
+          "url": "https://open.spotify.com/artist/7Exa8X6gyaqkug3tLGVKje"
+        }
+      ],
+      "duration_ms": 162838,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/3Zps8PNjvaapLmUM63mQ3Q"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Vira E Mexe",
         "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
       },
@@ -851,22 +867,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Sintomas de Prazer - Live",
-        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 151103,
-      "name": "Sintomas de Prazer - Live",
-      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Calma, agora vai!",
         "url": "https://open.spotify.com/album/61UTuzn1XmNx2iydg3xTTM"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 165306,
       "name": "Calma, agora vai!",
       "url": "https://open.spotify.com/track/1jJkZt6vUvO4z1YKqwguza"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Sintomas de Prazer - Live",
+        "url": "https://open.spotify.com/album/08eESUu8Nzhm255cuw74X4"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 151103,
+      "name": "Sintomas de Prazer - Live",
+      "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -907,30 +923,6 @@
       "duration_ms": 266581,
       "name": "C\u00c9U",
       "url": "https://open.spotify.com/track/7jBq26IBLcTCppW46tFsXq"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Vibezinha",
-        "url": "https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin"
-      },
-      "artists": [
-        {
-          "name": "MC Kekel",
-          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
-        },
-        {
-          "name": "Marvvila",
-          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
-        },
-        {
-          "name": "Cabrera",
-          "url": "https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2"
-        }
-      ],
-      "duration_ms": 148325,
-      "name": "Vibezinha",
-      "url": "https://open.spotify.com/track/766QpS7OrDPmuEznTD798F"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -967,6 +959,30 @@
       "duration_ms": 137000,
       "name": "Dias de Luta Dias de Gl\u00f3ria",
       "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Vibezinha",
+        "url": "https://open.spotify.com/album/6qqqwD0DURBm8KMbWuJYin"
+      },
+      "artists": [
+        {
+          "name": "MC Kekel",
+          "url": "https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf"
+        },
+        {
+          "name": "Marvvila",
+          "url": "https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz"
+        },
+        {
+          "name": "Cabrera",
+          "url": "https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2"
+        }
+      ],
+      "duration_ms": 148325,
+      "name": "Vibezinha",
+      "url": "https://open.spotify.com/track/766QpS7OrDPmuEznTD798F"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1059,30 +1075,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "PROIBIDO N\u00c3O GOSTAR",
-        "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
-      },
-      "artists": [
-        {
-          "name": "Duda Brack",
-          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        },
-        {
-          "name": "Felipe Cordeiro",
-          "url": "https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Deixe-me Ir",
         "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
       },
@@ -1123,6 +1115,30 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "PROIBIDO N\u00c3O GOSTAR",
+        "url": "https://open.spotify.com/album/69WlCG6kcfEwIinh2asJcu"
+      },
+      "artists": [
+        {
+          "name": "Duda Brack",
+          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+        },
+        {
+          "name": "Felipe Cordeiro",
+          "url": "https://open.spotify.com/artist/5Udg8m6Rj2wefjeKJZRvk4"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/7JqcuxIUQDuLNE8LMoRB7X"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Sad Baile",
         "url": "https://open.spotify.com/album/6e3rY7cZkRB0E9adrrLx9w"
       },
@@ -1155,6 +1171,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Miragem",
+        "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
+      },
+      "artists": [
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 128904,
+      "name": "Miragem",
+      "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Brigas Demais - Live",
         "url": "https://open.spotify.com/album/0vCLrwZTtam4AFmvbNN0fC"
       },
@@ -1175,22 +1207,6 @@
       "duration_ms": 257216,
       "name": "Brigas Demais - Live",
       "url": "https://open.spotify.com/track/0jezAU4LosmnZAYzw0z0hc"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Miragem",
-        "url": "https://open.spotify.com/album/4yfl8iRfVZLaH7xab67n40"
-      },
-      "artists": [
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
-        }
-      ],
-      "duration_ms": 128904,
-      "name": "Miragem",
-      "url": "https://open.spotify.com/track/1fqC1wqKMIhyp2pSpyap0H"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1495,6 +1511,26 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Meus Gostos",
+        "url": "https://open.spotify.com/album/0zmmeosdFMUp97fVS7p9Sb"
+      },
+      "artists": [
+        {
+          "name": "Igor Jansen",
+          "url": "https://open.spotify.com/artist/54Pv9pzUjOxS46LyOsdnyz"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "duration_ms": 168576,
+      "name": "Ariana",
+      "url": "https://open.spotify.com/track/0mDcEQc2cjNbK0BXIunJli"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Calor Dobrado",
         "url": "https://open.spotify.com/album/54HwXoVN8oVkJWQiHhqOHZ"
       },
@@ -1519,26 +1555,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Meus Gostos",
-        "url": "https://open.spotify.com/album/0zmmeosdFMUp97fVS7p9Sb"
-      },
-      "artists": [
-        {
-          "name": "Igor Jansen",
-          "url": "https://open.spotify.com/artist/54Pv9pzUjOxS46LyOsdnyz"
-        },
-        {
-          "name": "Mousik",
-          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
-        }
-      ],
-      "duration_ms": 168576,
-      "name": "Ariana",
-      "url": "https://open.spotify.com/track/0mDcEQc2cjNbK0BXIunJli"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Sossega (Nada Mal)",
         "url": "https://open.spotify.com/album/0eCs8F3tpB4sKdWJ9vHXQt"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 201600,
       "name": "Sossega (Nada mal)",
       "url": "https://open.spotify.com/track/6mvy9xtCF374eRvxeY6C0d"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Noites de Papel",
-        "url": "https://open.spotify.com/album/4wd02ki6dUCKFmy74c80ls"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Noites de Papel",
-      "url": "https://open.spotify.com/track/0gjfUMvW3dT1Vd0EkPokT9"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Noites de Papel",
+        "url": "https://open.spotify.com/album/4wd02ki6dUCKFmy74c80ls"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Noites de Papel",
+      "url": "https://open.spotify.com/track/0gjfUMvW3dT1Vd0EkPokT9"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "7AM",
         "url": "https://open.spotify.com/album/7mPRxm9UIyphSral2SKKYn"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 167076,
       "name": "7AM",
       "url": "https://open.spotify.com/track/3EXbfIkQv77hwSPn1GEhnk"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/0OlaUpNPhRm8mnEcOwEcfK"
-      },
-      "artists": [
-        {
-          "name": "Any Gabrielly",
-          "url": "https://open.spotify.com/artist/7Exa8X6gyaqkug3tLGVKje"
-        }
-      ],
-      "duration_ms": 162838,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/3Zps8PNjvaapLmUM63mQ3Q"
     },
     {
       "added_at": "2024-08-23 03:00:00",

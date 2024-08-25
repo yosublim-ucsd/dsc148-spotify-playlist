@@ -6,8 +6,32 @@
     "name": "An-Ten-Nae",
     "url": "https://open.spotify.com/user/124011761"
   },
-  "snapshot_id": "AAAJPvf05yL/nOHFAJpdPiC7PzsDYHSK",
+  "snapshot_id": "AAAJQ9bDmn9H/7zC8paaIAzGnkxSwc0j",
   "tracks": [
+    {
+      "added_at": "2024-08-24 15:59:17",
+      "album": {
+        "name": "We Are The Night",
+        "url": "https://open.spotify.com/album/2Ib0Fc7af1LYeRkj60biAG"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        },
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        },
+        {
+          "name": "Shadow Society",
+          "url": "https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "We Are The Night",
+      "url": "https://open.spotify.com/track/6n5oYAuV41vqikhwPyIjJe"
+    },
     {
       "added_at": "2024-07-13 17:48:21",
       "album": {
@@ -23,42 +47,6 @@
       "duration_ms": 185142,
       "name": "Shinobi",
       "url": "https://open.spotify.com/track/6nJcz2zNLtrmfiZSI9Mx2a"
-    },
-    {
-      "added_at": "2024-06-28 21:09:08",
-      "album": {
-        "name": "Flame Thrower",
-        "url": "https://open.spotify.com/album/6ysPraVJKRjAj1Sy3N056q"
-      },
-      "artists": [
-        {
-          "name": "An-Ten-Nae",
-          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
-        },
-        {
-          "name": "Shadow Society",
-          "url": "https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Flame Thrower",
-      "url": "https://open.spotify.com/track/5wX03gSxpFtu3DIDGcQzOZ"
-    },
-    {
-      "added_at": "2024-06-22 00:45:02",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2NWFcWy8nsgEoUBGbufr4X"
-      },
-      "artists": [
-        {
-          "name": "Dimond Saints",
-          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/5GJszyjsdTvv8eFWFTR9ir"
     },
     {
       "added_at": "2024-06-14 06:16:35",
@@ -81,6 +69,22 @@
       "url": "https://open.spotify.com/track/2xuHBYNcSfUxWN2icqBA6y"
     },
     {
+      "added_at": "2024-06-22 00:45:02",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2NWFcWy8nsgEoUBGbufr4X"
+      },
+      "artists": [
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/5GJszyjsdTvv8eFWFTR9ir"
+    },
+    {
       "added_at": "2024-06-07 11:07:10",
       "album": {
         "name": "Inori",
@@ -97,10 +101,10 @@
       "url": "https://open.spotify.com/track/2btpbaSMhB1y6Z1FczPY7o"
     },
     {
-      "added_at": "2024-05-31 17:56:43",
+      "added_at": "2024-06-28 21:09:08",
       "album": {
-        "name": "Feel The Sound",
-        "url": "https://open.spotify.com/album/2aNp5bm1Jt3Mkp3Ua3UUv5"
+        "name": "Flame Thrower",
+        "url": "https://open.spotify.com/album/6ysPraVJKRjAj1Sy3N056q"
       },
       "artists": [
         {
@@ -108,17 +112,13 @@
           "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
         },
         {
-          "name": "Substance",
-          "url": "https://open.spotify.com/artist/4mMszTHT28wg1CvK3TBAJg"
-        },
-        {
           "name": "Shadow Society",
           "url": "https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY"
         }
       ],
-      "duration_ms": 223721,
-      "name": "Feel The Sound",
-      "url": "https://open.spotify.com/track/0IDHZMcirW69Z24P52UNHE"
+      "duration_ms": 198857,
+      "name": "Flame Thrower",
+      "url": "https://open.spotify.com/track/5wX03gSxpFtu3DIDGcQzOZ"
     },
     {
       "added_at": "2024-04-03 05:22:13",
@@ -183,6 +183,30 @@
       "duration_ms": 185142,
       "name": "Queens",
       "url": "https://open.spotify.com/track/0kCh1ZKXHekYP0pAXBaCDv"
+    },
+    {
+      "added_at": "2024-05-31 17:56:43",
+      "album": {
+        "name": "Feel The Sound",
+        "url": "https://open.spotify.com/album/2aNp5bm1Jt3Mkp3Ua3UUv5"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        },
+        {
+          "name": "Substance",
+          "url": "https://open.spotify.com/artist/4mMszTHT28wg1CvK3TBAJg"
+        },
+        {
+          "name": "Shadow Society",
+          "url": "https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY"
+        }
+      ],
+      "duration_ms": 223721,
+      "name": "Feel The Sound",
+      "url": "https://open.spotify.com/track/0IDHZMcirW69Z24P52UNHE"
     },
     {
       "added_at": "2024-04-12 14:09:54",

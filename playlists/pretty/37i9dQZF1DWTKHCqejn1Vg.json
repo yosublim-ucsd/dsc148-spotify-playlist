@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 32387,
+  "num_followers": 32390,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-08-15 03:05:24",
       "album": {
+        "name": "HORIZON : THE MIXTAPE",
+        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 81101,
+      "name": "OVERZONE",
+      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
+    },
+    {
+      "added_at": "2024-08-15 03:05:24",
+      "album": {
         "name": "SOULBYSEL Compilation 03",
         "url": "https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 153686,
       "name": "nvrmnd",
       "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
-    },
-    {
-      "added_at": "2024-08-15 03:05:24",
-      "album": {
-        "name": "HORIZON : THE MIXTAPE",
-        "url": "https://open.spotify.com/album/5eptgBCLHDrZ53lbVyXFrj"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 81101,
-      "name": "OVERZONE",
-      "url": "https://open.spotify.com/track/52apyWv5B0JKYZWGC7yuMe"
     },
     {
       "added_at": "2024-08-15 03:05:24",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-08-15 03:05:24",
       "album": {
-        "name": "DEAR A.I",
-        "url": "https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy"
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
       },
       "artists": [
         {
-          "name": "Jung Jin Woo",
-          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
         }
       ],
-      "duration_ms": 149308,
-      "name": "dear a.i",
-      "url": "https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe"
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
     },
     {
       "added_at": "2024-08-15 03:05:24",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-08-15 03:05:24",
       "album": {
+        "name": "DEAR A.I",
+        "url": "https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy"
+      },
+      "artists": [
+        {
+          "name": "Jung Jin Woo",
+          "url": "https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4"
+        }
+      ],
+      "duration_ms": 149308,
+      "name": "dear a.i",
+      "url": "https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe"
+    },
+    {
+      "added_at": "2024-08-15 03:05:24",
+      "album": {
         "name": "MY RIDE",
         "url": "https://open.spotify.com/album/2CeGbSrinsDbNzjsJU0fi2"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 186400,
       "name": "MY RIDE",
       "url": "https://open.spotify.com/track/0cpDaRIGcQOIOORtwQzQ50"
-    },
-    {
-      "added_at": "2024-08-15 03:05:24",
-      "album": {
-        "name": "FRAME",
-        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
-      },
-      "artists": [
-        {
-          "name": "Han Seungwoo",
-          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Dive Into",
-      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
     },
     {
       "added_at": "2024-08-15 03:05:24",

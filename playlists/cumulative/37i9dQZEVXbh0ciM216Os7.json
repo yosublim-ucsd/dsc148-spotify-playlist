@@ -6162,7 +6162,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 198023,
       "name": "Curious - The Neptunes Remix Dirty Version",
       "url": "https://open.spotify.com/track/31fSsPG3xJmWhpBeRKzUFk"
@@ -7660,7 +7660,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 227586,
       "name": "Don't Stop (Live at The Forum, Inglewood, CA, 10/21/82)",
       "url": "https://open.spotify.com/track/3o5utgLYLRp7AqeFEK3l4W"
@@ -10012,7 +10012,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 167213,
       "name": "FIELD TRIP",
       "url": "https://open.spotify.com/track/38yTBBKzhv6vPkMONXXtJx"
@@ -11150,7 +11150,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 338018,
       "name": "FRENCH RAP JAM - Live",
       "url": "https://open.spotify.com/track/06ocEas9zMiYgU6gY3n2x7"
@@ -12564,7 +12564,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -18852,7 +18852,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 298504,
       "name": "Mary On A Cross - Live at the Forum / 2023",
       "url": "https://open.spotify.com/track/130a5toWPujkHGuMFYr0IX"
@@ -20996,6 +20996,24 @@
       "duration_ms": 196025,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk"
+    },
+    {
+      "album": {
+        "name": "Never Going Back Again (Live at The Forum, Inglewood, CA, 10/21/82)",
+        "url": "https://open.spotify.com/album/5lxEOZVIEEoOU65D8TJDzD"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264200,
+      "name": "Never Going Back Again (Live at The Forum, Inglewood, CA, 10/21/82)",
+      "url": "https://open.spotify.com/track/1vWW78pW5sCSEmRMsF29Ri"
     },
     {
       "album": {
@@ -31901,6 +31919,28 @@
     },
     {
       "album": {
+        "name": "Tides (feat. August Burns Red)",
+        "url": "https://open.spotify.com/album/56eDVpAOQGsBGn4p3uPQ2s"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        },
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "Tides (feat. August Burns Red) - Re-Recorded",
+      "url": "https://open.spotify.com/track/2Y34yKpYcws6mWUo7HFkIe"
+    },
+    {
+      "album": {
         "name": "Apologies Are For The Weak (Re-Recorded 15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/756GIIQ9t5QazrrJoXdmAb"
       },
@@ -31916,7 +31956,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 198880,
       "name": "Tides (feat. August Burns Red) - Re-Recorded",
       "url": "https://open.spotify.com/track/3jiOTr9nKyPdcG95QMvqRX"
@@ -31960,7 +32000,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 174000,
       "name": "Time (feat. Oddisee)",
       "url": "https://open.spotify.com/track/1OZfKjBSaWEghXvbc5bLtG"
@@ -32559,6 +32599,24 @@
     },
     {
       "album": {
+        "name": "Truckin' (Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78)",
+        "url": "https://open.spotify.com/album/3YXDTDlbnnIuqIJw0keWCr"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526655,
+      "name": "Truckin' - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
+      "url": "https://open.spotify.com/track/5vRJRc05qCLpCkuyaBFiFA"
+    },
+    {
+      "album": {
         "name": "Trucks Gone Wild",
         "url": "https://open.spotify.com/album/7chIoYwuPc0piRqB2L5YdN"
       },
@@ -32752,7 +32810,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 349150,
       "name": "U.S. Blues - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
       "url": "https://open.spotify.com/track/6LU2I1t7zvaHXTkqJ2MygV"
@@ -33258,7 +33316,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 147760,
       "name": "Variation voyou - Bande originale du film \"Flic ou voyou\"",
       "url": "https://open.spotify.com/track/1IBberkY9L1xOpLH9OOvaQ"
@@ -33542,7 +33600,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 178333,
       "name": "Vultures (feat. PVRIS)",
       "url": "https://open.spotify.com/track/0O1APvs7Bfe7YaQO8ekg1z"

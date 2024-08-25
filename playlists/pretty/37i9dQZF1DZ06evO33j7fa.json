@@ -1,12 +1,12 @@
 {
-  "description": "This is Nick Drake. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 53342,
+  "description": "This is Nick Drake. The essential tracks, all in one playlist.",
+  "num_followers": 53367,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAABwguBBn7AzwDd1H396Y5UY",
+  "snapshot_id": "ZsfRAAAAAACc7XCHp/UsDDaKtO0vxwna",
   "tracks": [
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 234475,
-      "name": "Things Behind The Sun",
-      "url": "https://open.spotify.com/track/2s89qv9maW8RMCoaxtvNtn"
+      "duration_ms": 81850,
+      "name": "Horn",
+      "url": "https://open.spotify.com/track/4A1t2K9lsLZWb5oHAtT9xs"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 60626,
-      "name": "Sketch 1",
-      "url": "https://open.spotify.com/track/6Tb3ZoNRQIAJGG1yXUb8Un"
+      "duration_ms": 179386,
+      "name": "Milk And Honey",
+      "url": "https://open.spotify.com/track/7bsSdjF8UgqleAaBTTiYql"
     }
   ],
   "unique_name": "This Is Nick Drake",

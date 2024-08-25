@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/3fcpT9C5xaM6hBOuR13n2K"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155668,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7K9PMuKlniCS0uHRX0FWlU"
+    },
+    {
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/1TBuzTYSJFTl5HXKDnHcZU"
       },

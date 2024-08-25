@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Dulce y Agraz.",
-  "num_followers": 121729,
+  "num_followers": 121724,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Respirar",
-        "url": "https://open.spotify.com/album/1Fyv3RDkDtxR7UrF7zXQIw"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Mylo B",
-          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
-        }
-      ],
-      "duration_ms": 167457,
-      "name": "Respirar",
-      "url": "https://open.spotify.com/track/3zqFGAAZScGyrsiMuYtMOi"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 192989,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3ESZU7ayz6gxMCt2Q0FQLc"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/1Fyv3RDkDtxR7UrF7zXQIw"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Mylo B",
+          "url": "https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8"
+        }
+      ],
+      "duration_ms": 167457,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/3zqFGAAZScGyrsiMuYtMOi"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "todo lo que tu dejaste",
-        "url": "https://open.spotify.com/album/1N3uySiCMTiA4F9pMOlb0i"
-      },
-      "artists": [
-        {
-          "name": "HAKANNA",
-          "url": "https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO"
-        }
-      ],
-      "duration_ms": 224762,
-      "name": "todo lo que tu dejaste",
-      "url": "https://open.spotify.com/track/1pwlEFFh5DNlfEF1ZM2lC9"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Retazos de Diciembre",
         "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 180500,
       "name": "Retazos de Diciembre",
       "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "todo lo que tu dejaste",
+        "url": "https://open.spotify.com/album/1N3uySiCMTiA4F9pMOlb0i"
+      },
+      "artists": [
+        {
+          "name": "HAKANNA",
+          "url": "https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO"
+        }
+      ],
+      "duration_ms": 224762,
+      "name": "todo lo que tu dejaste",
+      "url": "https://open.spotify.com/track/1pwlEFFh5DNlfEF1ZM2lC9"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
+        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 326961,
+      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Quer\u00eda Olvidarte",
         "url": "https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 166058,
       "name": "Quer\u00eda Olvidarte",
       "url": "https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
-        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 326961,
-      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "AMOR EVITATIVO",
-        "url": "https://open.spotify.com/album/5WAilTili7KDIEibSjpyk8"
-      },
-      "artists": [
-        {
-          "name": "Poder Fantasma",
-          "url": "https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "KAWAII MUY TIERNA",
-      "url": "https://open.spotify.com/track/3OnVUPG7varDTzn8wbyWgT"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "anhelo",
         "url": "https://open.spotify.com/album/0ycnaEHl68CAPA2Y4OC6vZ"
       },
@@ -943,34 +927,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "En Medio De Una Fiesta (En Vivo en Teatro Coliseo, 18 Nov 2023)",
-        "url": "https://open.spotify.com/album/6pILIUvTn0DFHs9Yra4MgV"
+        "name": "AMOR EVITATIVO",
+        "url": "https://open.spotify.com/album/5WAilTili7KDIEibSjpyk8"
       },
       "artists": [
         {
-          "name": "D\u00ebnver",
-          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
+          "name": "Poder Fantasma",
+          "url": "https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w"
         }
       ],
-      "duration_ms": 289814,
-      "name": "En Medio De Una Fiesta - En Vivo en Teatro Coliseo, 18 Nov 2023",
-      "url": "https://open.spotify.com/track/2cVEzCSKigiCigFg6a2PPY"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Besar",
-        "url": "https://open.spotify.com/album/4yi3wXhft1ZSKwjtcPBBn2"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Besar",
-      "url": "https://open.spotify.com/track/6h4TezY1CEQGGJPYyT7RzV"
+      "duration_ms": 202000,
+      "name": "KAWAII MUY TIERNA",
+      "url": "https://open.spotify.com/track/3OnVUPG7varDTzn8wbyWgT"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -987,6 +955,22 @@
       "duration_ms": 168714,
       "name": "Me Hace Bien Amarte",
       "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Besar",
+        "url": "https://open.spotify.com/album/4yi3wXhft1ZSKwjtcPBBn2"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Besar",
+      "url": "https://open.spotify.com/track/6h4TezY1CEQGGJPYyT7RzV"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1011,22 +995,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Ya No Te Quiero",
-        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
+        "name": "En Medio De Una Fiesta (En Vivo en Teatro Coliseo, 18 Nov 2023)",
+        "url": "https://open.spotify.com/album/6pILIUvTn0DFHs9Yra4MgV"
       },
       "artists": [
         {
-          "name": "Hija de Rojo",
-          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
-        },
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+          "name": "D\u00ebnver",
+          "url": "https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo"
         }
       ],
-      "duration_ms": 197566,
-      "name": "Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
+      "duration_ms": 289814,
+      "name": "En Medio De Una Fiesta - En Vivo en Teatro Coliseo, 18 Nov 2023",
+      "url": "https://open.spotify.com/track/2cVEzCSKigiCigFg6a2PPY"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1051,6 +1031,26 @@
       "duration_ms": 221610,
       "name": "ELLA (CAE LA NOCHE)",
       "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Ya No Te Quiero",
+        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
+      },
+      "artists": [
+        {
+          "name": "Hija de Rojo",
+          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
+        },
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        }
+      ],
+      "duration_ms": 197566,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1083,6 +1083,22 @@
       "duration_ms": 201123,
       "name": "Esta vislumbra",
       "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Bailar en la Cuerda Floja",
+        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 221620,
+      "name": "Bailar en la Cuerda Floja",
+      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1143,6 +1159,26 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Confortas Pero Da\u00f1as",
+        "url": "https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Resonancia Et\u00e9rea",
+          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
+        }
+      ],
+      "duration_ms": 249502,
+      "name": "Confortas Pero Da\u00f1as",
+      "url": "https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Riley (S)",
         "url": "https://open.spotify.com/album/3qiAqPoSj9fpCiDLwgENe0"
       },
@@ -1155,22 +1191,6 @@
       "duration_ms": 178040,
       "name": "Riley",
       "url": "https://open.spotify.com/track/3tQpd0YrAwWK8YGP3aRj8D"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Bailar en la Cuerda Floja",
-        "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 221620,
-      "name": "Bailar en la Cuerda Floja",
-      "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1207,26 +1227,6 @@
       "duration_ms": 163885,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Confortas Pero Da\u00f1as",
-        "url": "https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Resonancia Et\u00e9rea",
-          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
-        }
-      ],
-      "duration_ms": 249502,
-      "name": "Confortas Pero Da\u00f1as",
-      "url": "https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Ganas de Verte",
-        "url": "https://open.spotify.com/album/3yKpDLg51b4vor8OiPu35J"
-      },
-      "artists": [
-        {
-          "name": "Reina Luisa",
-          "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
-        },
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Ganas de Verte",
-      "url": "https://open.spotify.com/track/1pZXCADGsAjIlhaCpUlpLz"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/7gNdaydtI1DfL8EB5GJxBn"
       },
@@ -1371,18 +1351,38 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Pangal",
-        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
+        "name": "Barreras de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
       },
       "artists": [
         {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
         }
       ],
-      "duration_ms": 174325,
-      "name": "Pangal",
-      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
+      "duration_ms": 228000,
+      "name": "Barreras de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Ganas de Verte",
+        "url": "https://open.spotify.com/album/3yKpDLg51b4vor8OiPu35J"
+      },
+      "artists": [
+        {
+          "name": "Reina Luisa",
+          "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
+        },
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Ganas de Verte",
+      "url": "https://open.spotify.com/track/1pZXCADGsAjIlhaCpUlpLz"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1403,38 +1403,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Barreras de Cart\u00f3n",
-        "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
+        "name": "Pangal",
+        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
       },
       "artists": [
         {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Barreras de Cart\u00f3n",
-      "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Aves de papel",
-        "url": "https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB"
-      },
-      "artists": [
-        {
-          "name": "Reina Luisa",
-          "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
-        },
-        {
-          "name": "Salares",
-          "url": "https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL"
-        }
-      ],
-      "duration_ms": 233422,
-      "name": "Aves de papel",
-      "url": "https://open.spotify.com/track/3AZHa5QgudzfPcD1KmCwep"
+      "duration_ms": 174325,
+      "name": "Pangal",
+      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1511,6 +1491,26 @@
       "duration_ms": 244085,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/2arqRzisztcxm4EhjESG3D"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Aves de papel",
+        "url": "https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB"
+      },
+      "artists": [
+        {
+          "name": "Reina Luisa",
+          "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
+        },
+        {
+          "name": "Salares",
+          "url": "https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL"
+        }
+      ],
+      "duration_ms": 233422,
+      "name": "Aves de papel",
+      "url": "https://open.spotify.com/track/3AZHa5QgudzfPcD1KmCwep"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Tengo una Herida",
-        "url": "https://open.spotify.com/album/2tI5IYvx62iHwjuXpgfJxs"
-      },
-      "artists": [
-        {
-          "name": "El \u00c1rbol Que Contiene Todos Los Tiempos",
-          "url": "https://open.spotify.com/artist/0pgl5ZmedAKmgrz6JgDZYG"
-        },
-        {
-          "name": "Acuario",
-          "url": "https://open.spotify.com/artist/5aKV7icKkyzyLgZaWKoX7j"
-        }
-      ],
-      "duration_ms": 160712,
-      "name": "Tengo una Herida",
-      "url": "https://open.spotify.com/track/24TDfDfRjOk7yIrP8JQaq5"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "es caprichoso el azar",
         "url": "https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr"
       },
@@ -1635,6 +1615,26 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Tengo una Herida",
+        "url": "https://open.spotify.com/album/2tI5IYvx62iHwjuXpgfJxs"
+      },
+      "artists": [
+        {
+          "name": "El \u00c1rbol Que Contiene Todos Los Tiempos",
+          "url": "https://open.spotify.com/artist/0pgl5ZmedAKmgrz6JgDZYG"
+        },
+        {
+          "name": "Acuario",
+          "url": "https://open.spotify.com/artist/5aKV7icKkyzyLgZaWKoX7j"
+        }
+      ],
+      "duration_ms": 160712,
+      "name": "Tengo una Herida",
+      "url": "https://open.spotify.com/track/24TDfDfRjOk7yIrP8JQaq5"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "T\u00fa, Yo y Otra Dimensi\u00f3n",
         "url": "https://open.spotify.com/album/787WYgcOHnslKVi5jXlX9j"
       },
@@ -1651,22 +1651,6 @@
       "duration_ms": 282060,
       "name": "T\u00fa, Yo y Otra Dimensi\u00f3n",
       "url": "https://open.spotify.com/track/1WTSQryXy1H1DpZ9RgjB2a"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Pianissima",
-        "url": "https://open.spotify.com/album/2Y8JluYDYC2q0R2A5vWMW3"
-      },
-      "artists": [
-        {
-          "name": "Mariana Montenegro",
-          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
-        }
-      ],
-      "duration_ms": 190566,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/3AlBiuHcUjtTACtAKxI0pK"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1699,6 +1683,22 @@
       "duration_ms": 140649,
       "name": "Labios de Miel",
       "url": "https://open.spotify.com/track/56ft2QCJ5ZMXKy8rJ5v5ks"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Pianissima",
+        "url": "https://open.spotify.com/album/2Y8JluYDYC2q0R2A5vWMW3"
+      },
+      "artists": [
+        {
+          "name": "Mariana Montenegro",
+          "url": "https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm"
+        }
+      ],
+      "duration_ms": 190566,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/3AlBiuHcUjtTACtAKxI0pK"
     },
     {
       "added_at": "2024-08-23 03:00:00",

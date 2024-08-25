@@ -1,6 +1,6 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3ABaec4jjl95VqmG1iD4k2\">Green Velvet</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 62805,
+  "num_followers": 62839,
   "original_name": "Green Velvet's track IDs",
   "owner": {
     "name": "Spotify",
@@ -1418,6 +1418,10 @@
         {
           "name": "Kevin Saunderson",
           "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
         }
       ],
       "duration_ms": 196363,

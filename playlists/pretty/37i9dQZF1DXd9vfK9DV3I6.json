@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 331061,
+  "num_followers": 331231,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,26 @@
     {
       "added_at": "2024-08-23 14:28:06",
       "album": {
+        "name": "Bayati Shiraz (feat. Kenan Bayramli)",
+        "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "K\u0259nan Bayraml\u0131",
+          "url": "https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "Bayati Shiraz (feat. Kenan Bayramli)",
+      "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
+    },
+    {
+      "added_at": "2024-08-23 14:28:06",
+      "album": {
         "name": "Overdose (Sait Esmeray Remix)",
         "url": "https://open.spotify.com/album/1IhXKGtdrHwt4hdRh3G3sq"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 158677,
       "name": "Overdose - Sait Esmeray Remix",
       "url": "https://open.spotify.com/track/7v3ARZ3TuBQGFA6fKdyIOW"
-    },
-    {
-      "added_at": "2024-08-23 14:28:06",
-      "album": {
-        "name": "Bayati Shiraz (feat. Kenan Bayramli)",
-        "url": "https://open.spotify.com/album/6huLdD5ZW7dOcrtlTRm1sf"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "K\u0259nan Bayraml\u0131",
-          "url": "https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9"
-        }
-      ],
-      "duration_ms": 214214,
-      "name": "Bayati Shiraz (feat. Kenan Bayramli)",
-      "url": "https://open.spotify.com/track/4T5fdxoMBLOdUBb8CtRuNW"
     },
     {
       "added_at": "2024-08-23 14:28:06",
@@ -727,46 +727,6 @@
     {
       "added_at": "2024-08-23 14:28:06",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
-      },
-      "artists": [
-        {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
-        },
-        {
-          "name": "Dj Iljano",
-          "url": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
-        },
-        {
-          "name": "Kristian Gusho",
-          "url": "https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
-    },
-    {
-      "added_at": "2024-08-23 14:28:06",
-      "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
-    },
-    {
-      "added_at": "2024-08-23 14:28:06",
-      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -787,6 +747,46 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2024-08-23 14:28:06",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
+    },
+    {
+      "added_at": "2024-08-23 14:28:06",
+      "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        },
+        {
+          "name": "Dj Iljano",
+          "url": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
+        },
+        {
+          "name": "Kristian Gusho",
+          "url": "https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
     },
     {
       "added_at": "2024-08-23 14:28:06",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-08-23 14:28:06",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 213737,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
+    },
+    {
+      "added_at": "2024-08-23 14:28:06",
+      "album": {
         "name": "Talk About Us",
         "url": "https://open.spotify.com/album/1lHEakWggs4zrnNNrv6ti0"
       },
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2024-08-23 14:28:06",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 213737,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
-    },
-    {
-      "added_at": "2024-08-23 14:28:06",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 196800,
       "name": "Mosaic",
       "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
+    },
+    {
+      "added_at": "2024-08-23 14:28:06",
+      "album": {
+        "name": "Mektup",
+        "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
+      },
+      "artists": [
+        {
+          "name": "ilkan Muslu",
+          "url": "https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv"
+        }
+      ],
+      "duration_ms": 212615,
+      "name": "Askim",
+      "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
     },
     {
       "added_at": "2024-08-23 14:28:06",
@@ -1179,22 +1195,6 @@
       "duration_ms": 270015,
       "name": "La rose \u00e9ternelle",
       "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
-    },
-    {
-      "added_at": "2024-08-23 14:28:06",
-      "album": {
-        "name": "Mektup",
-        "url": "https://open.spotify.com/album/5UEQORYi2EzSo38FaEzQij"
-      },
-      "artists": [
-        {
-          "name": "ilkan Muslu",
-          "url": "https://open.spotify.com/artist/3tU2vh0n0CMrNvVkvh4Lxv"
-        }
-      ],
-      "duration_ms": 212615,
-      "name": "Askim",
-      "url": "https://open.spotify.com/track/1g1TCruAEc8W77EyhRFF1z"
     },
     {
       "added_at": "2024-08-23 14:28:06",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-08-23 14:28:06",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
-      },
-      "artists": [
-        {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
-        }
-      ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
-    },
-    {
-      "added_at": "2024-08-23 14:28:06",
-      "album": {
         "name": "Watra",
         "url": "https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 141754,
       "name": "Watra",
       "url": "https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2"
+    },
+    {
+      "added_at": "2024-08-23 14:28:06",
+      "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+      },
+      "artists": [
+        {
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2024-08-23 14:28:06",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-08-23 14:28:06",
       "album": {
-        "name": "Escuro",
-        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
-      },
-      "artists": [
-        {
-          "name": "Cut Off",
-          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
-        }
-      ],
-      "duration_ms": 285913,
-      "name": "Escuro",
-      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
-    },
-    {
-      "added_at": "2024-08-23 14:28:06",
-      "album": {
         "name": "La Blanche",
         "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2024-08-23 14:28:06",
       "album": {
+        "name": "Hayati",
+        "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
+      },
+      "artists": [
+        {
+          "name": "Drinche",
+          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
+        }
+      ],
+      "duration_ms": 177261,
+      "name": "Hayati",
+      "url": "https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9"
+    },
+    {
+      "added_at": "2024-08-23 14:28:06",
+      "album": {
         "name": "Roots LP",
         "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-08-23 14:28:06",
       "album": {
-        "name": "Hayati",
-        "url": "https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ"
+        "name": "Escuro",
+        "url": "https://open.spotify.com/album/0ODlGVCwuyljFipaRs13Mx"
       },
       "artists": [
         {
-          "name": "Drinche",
-          "url": "https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI"
+          "name": "Cut Off",
+          "url": "https://open.spotify.com/artist/4u6yL1tRulnmL5LimC64x1"
         }
       ],
-      "duration_ms": 177261,
-      "name": "Hayati",
-      "url": "https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9"
+      "duration_ms": 285913,
+      "name": "Escuro",
+      "url": "https://open.spotify.com/track/7J2JnVWhxySGf48iJgk6pv"
     },
     {
       "added_at": "2024-08-23 14:28:06",
@@ -1527,6 +1527,22 @@
       "duration_ms": 452950,
       "name": "Mosaic - Yohan & David Remix",
       "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
+    },
+    {
+      "added_at": "2024-08-23 14:28:06",
+      "album": {
+        "name": "El Hob",
+        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
+      },
+      "artists": [
+        {
+          "name": "Pharonic Electronic",
+          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
+        }
+      ],
+      "duration_ms": 214634,
+      "name": "El Hob",
+      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
     },
     {
       "added_at": "2024-08-23 14:28:06",
@@ -1575,22 +1591,6 @@
       "duration_ms": 374857,
       "name": "Ilios",
       "url": "https://open.spotify.com/track/2IUWM1lWpUQU6zCxlHx8Kw"
-    },
-    {
-      "added_at": "2024-08-23 14:28:06",
-      "album": {
-        "name": "El Hob",
-        "url": "https://open.spotify.com/album/1V2RgQJtSriNJc5ai9CgPw"
-      },
-      "artists": [
-        {
-          "name": "Pharonic Electronic",
-          "url": "https://open.spotify.com/artist/2gQv5UbFmjuJ6jDIeLG6TA"
-        }
-      ],
-      "duration_ms": 214634,
-      "name": "El Hob",
-      "url": "https://open.spotify.com/track/07fRbyvuAdno6U4NtnlI2c"
     },
     {
       "added_at": "2024-08-23 14:28:06",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2024-08-23 14:28:06",
       "album": {
+        "name": "Arabian Soul",
+        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
+      },
+      "artists": [
+        {
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+        }
+      ],
+      "duration_ms": 312125,
+      "name": "Arabian Soul",
+      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
+    },
+    {
+      "added_at": "2024-08-23 14:28:06",
+      "album": {
         "name": "Mazrub",
         "url": "https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi"
       },
@@ -1887,38 +1903,26 @@
     {
       "added_at": "2024-08-23 14:28:06",
       "album": {
-        "name": "Arabian Soul",
-        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
+        "name": "Yaman",
+        "url": "https://open.spotify.com/album/5xWy7VAU1D1e6RJandRATO"
       },
       "artists": [
         {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
-        }
-      ],
-      "duration_ms": 312125,
-      "name": "Arabian Soul",
-      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
-    },
-    {
-      "added_at": "2024-08-23 14:28:06",
-      "album": {
-        "name": "Descalzo",
-        "url": "https://open.spotify.com/album/0i1fEBRGPphcPQTCzD3EHb"
-      },
-      "artists": [
-        {
-          "name": "Derun",
-          "url": "https://open.spotify.com/artist/7DaUdudIwcfgSzFJX1VEVo"
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
         },
         {
-          "name": "ARKADYAN",
-          "url": "https://open.spotify.com/artist/2ELBfW9Bn2xBAIvWeXeCgI"
+          "name": "Dj Nil",
+          "url": "https://open.spotify.com/artist/6qD8aNIxyqa7SXCJNLDi47"
+        },
+        {
+          "name": "Zara",
+          "url": "https://open.spotify.com/artist/4wMiYZnNDSQGBGLlBT4cAb"
         }
       ],
-      "duration_ms": 447680,
-      "name": "Descalzo",
-      "url": "https://open.spotify.com/track/2jcW2YUOaih8Gywf4hgL4b"
+      "duration_ms": 293694,
+      "name": "Yaman - Radio Edit",
+      "url": "https://open.spotify.com/track/1JomuRkday0y29kjtxJQ0q"
     }
   ],
   "unique_name": "mosaic",

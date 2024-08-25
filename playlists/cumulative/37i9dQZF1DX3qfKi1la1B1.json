@@ -2479,6 +2479,28 @@
     },
     {
       "album": {
+        "name": "grandiose (Japanese Version)",
+        "url": "https://open.spotify.com/album/441LIDd0vhusODlyByR3zP"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217613,
+      "name": "grandiose - Japanese Version",
+      "url": "https://open.spotify.com/track/3CcKmNXMX61R6ABNgyCBhP"
+    },
+    {
+      "album": {
         "name": "Green Jewel",
         "url": "https://open.spotify.com/album/3MGkpENNs3mkpjSj7R2TZ2"
       },
@@ -2944,7 +2966,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 258084,
       "name": "I Let Go",
       "url": "https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt"
@@ -2966,6 +2988,24 @@
       "duration_ms": 223060,
       "name": "I Miss You So",
       "url": "https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul"
+    },
+    {
+      "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
       "album": {
@@ -6252,7 +6292,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 193137,
       "name": "Takes Me Back Home",
       "url": "https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc"
@@ -7084,7 +7124,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 129656,
       "name": "Watermelon Sugar - Spotify Singles",
       "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
@@ -7752,6 +7792,24 @@
       "duration_ms": 235142,
       "name": "\u6ce1\u3068\u6587\u5b78",
       "url": "https://open.spotify.com/track/5bnFfYJoLdQjS44T1UVOK6"
+    },
+    {
+      "album": {
+        "name": "\u6ce1\u306b\u306a\u3063\u3066\u3082",
+        "url": "https://open.spotify.com/album/6jyCTOIpaUUhbLBvpCmwip"
+      },
+      "artists": [
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241773,
+      "name": "\u6ce1\u306b\u306a\u3063\u3066\u3082",
+      "url": "https://open.spotify.com/track/5K8fwWbc0eN97hOeSWdqaA"
     },
     {
       "album": {

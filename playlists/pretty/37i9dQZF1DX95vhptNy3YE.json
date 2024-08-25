@@ -1,6 +1,6 @@
 {
   "description": "Cryzin e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 374710,
+  "num_followers": 374735,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -347,30 +347,38 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Vamo Marolar",
-        "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
+        "name": "Amor e \u00d3dio",
+        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
       "artists": [
         {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
         },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
           "name": "Palma",
           "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
         },
         {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
         }
       ],
-      "duration_ms": 181512,
-      "name": "Vamo Marolar",
-      "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
+      "duration_ms": 179945,
+      "name": "Loucura",
+      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -407,38 +415,30 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Amor e \u00d3dio",
-        "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
+        "name": "Vamo Marolar",
+        "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
       },
       "artists": [
         {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
           "name": "MC Cabelinho",
           "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
           "name": "Palma",
           "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
         },
         {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
         }
       ],
-      "duration_ms": 179945,
-      "name": "Loucura",
-      "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
+      "duration_ms": 181512,
+      "name": "Vamo Marolar",
+      "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 298871,
+      "name": "FEBRE",
+      "url": "https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
         "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
       },
@@ -979,6 +995,70 @@
       "duration_ms": 451284,
       "name": "Cora\u00e7\u00e3o Deserto / Ningu\u00e9m Merece Amar Sozinho / A Primeira Namorada - Ao Vivo",
       "url": "https://open.spotify.com/track/0oWy49SNvFELOHnu4BI5SI"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Vou Querer De Novo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qACzUgUhUifdxuQMkdBPx"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 180964,
+      "name": "Vou Querer De Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
+        }
+      ],
+      "duration_ms": 351496,
+      "name": "Bad Boys",
+      "url": "https://open.spotify.com/track/6IbR0fjohcdQa3Ml3RfSFg"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "TunTunTun (Spotify Singles)",
+        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
+      },
+      "artists": [
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 186501,
+      "name": "TunTunTun - Spotify Singles",
+      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1007,54 +1087,6 @@
       "duration_ms": 324923,
       "name": "HINO DOS D",
       "url": "https://open.spotify.com/track/1kiZwdWT6Laffn4y7eRJXy"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Vou Querer De Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qACzUgUhUifdxuQMkdBPx"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 180964,
-      "name": "Vou Querer De Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "TunTunTun (Spotify Singles)",
-        "url": "https://open.spotify.com/album/4fvmp2unR8rEX9rEAiQgCK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 186501,
-      "name": "TunTunTun - Spotify Singles",
-      "url": "https://open.spotify.com/track/664sTugsU30HsYEwGfmv0C"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 298871,
-      "name": "FEBRE",
-      "url": "https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1183,38 +1215,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
-        }
-      ],
-      "duration_ms": 351496,
-      "name": "Bad Boys",
-      "url": "https://open.spotify.com/track/6IbR0fjohcdQa3Ml3RfSFg"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Para Todos os Garotos que j\u00e1 Mamei",
         "url": "https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK"
       },
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
+        "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
+        "url": "https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm"
+      },
+      "artists": [
+        {
+          "name": "Samba De Dom",
+          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
+        }
+      ],
+      "duration_ms": 320199,
+      "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
+      "url": "https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
         "name": "Rivais",
         "url": "https://open.spotify.com/album/1JQ07ymMHWRIZiM3OUVQdi"
       },
@@ -1319,18 +1335,22 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
-        "url": "https://open.spotify.com/album/6WlReF2IaxJ7SKt4y1YlFm"
+        "name": "Faz Completo, Chefe",
+        "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
       },
       "artists": [
         {
-          "name": "Samba De Dom",
-          "url": "https://open.spotify.com/artist/40wx3ETjJh4eeVACrDaJVm"
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
         }
       ],
-      "duration_ms": 320199,
-      "name": "Problema Emocional / Volta de Vez Pra Mim / Pra Ser Minha Musa",
-      "url": "https://open.spotify.com/track/5RQyJnbaAbwFZuTOCqK80z"
+      "duration_ms": 127228,
+      "name": "Faz Completo, Chefe",
+      "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1379,26 +1399,6 @@
       "duration_ms": 241623,
       "name": "Ferrari Vermelha",
       "url": "https://open.spotify.com/track/7ChzqblIDsCNRBmztg0j2v"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Faz Completo, Chefe",
-        "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ WN",
-          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        }
-      ],
-      "duration_ms": 127228,
-      "name": "Faz Completo, Chefe",
-      "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
     },
     {
       "added_at": "2024-08-23 03:01:00",

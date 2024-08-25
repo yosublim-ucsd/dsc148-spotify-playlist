@@ -1,33 +1,13 @@
 {
-  "description": "This is Ice Spice. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 65914,
+  "description": "This is Ice Spice. The essential tracks, all in one playlist.",
+  "num_followers": 65968,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAABc0r71gZDVI7ElAAMRHbmF",
+  "snapshot_id": "ZsfRAAAAAAADt9/6lnP1rX68wMAd2Ezk",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y2K!",
-        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 161119,
-      "name": "Oh Shhh...(with Travis Scott)",
-      "url": "https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f"
-    },
     {
       "added_at": null,
       "album": {
@@ -186,11 +166,15 @@
         {
           "name": "Ice Spice",
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 159999,
-      "name": "Popa",
-      "url": "https://open.spotify.com/track/5WODIX9TtDrmD9oAFFoxkG"
+      "duration_ms": 161119,
+      "name": "Oh Shhh...(with Travis Scott)",
+      "url": "https://open.spotify.com/track/4hLoReufV6TYnpZWf5e41f"
     },
     {
       "added_at": null,
@@ -256,9 +240,9 @@
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 161032,
-      "name": "Plenty Sun",
-      "url": "https://open.spotify.com/track/64V1QOrbbWGRG3nHpLLeEm"
+      "duration_ms": 159999,
+      "name": "Popa",
+      "url": "https://open.spotify.com/track/5WODIX9TtDrmD9oAFFoxkG"
     },
     {
       "added_at": null,
@@ -326,15 +310,11 @@
         {
           "name": "Ice Spice",
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 162077,
-      "name": "Bitch I'm Packin' (with Gunna)",
-      "url": "https://open.spotify.com/track/2rJZIb1hE25Fp58ayrG7eg"
+      "duration_ms": 161032,
+      "name": "Plenty Sun",
+      "url": "https://open.spotify.com/track/64V1QOrbbWGRG3nHpLLeEm"
     },
     {
       "added_at": null,
@@ -402,11 +382,15 @@
         {
           "name": "Ice Spice",
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 123469,
-      "name": "TTYL",
-      "url": "https://open.spotify.com/track/5kSabw3Dng3SJ0bXdFeer7"
+      "duration_ms": 162077,
+      "name": "Bitch I'm Packin' (with Gunna)",
+      "url": "https://open.spotify.com/track/2rJZIb1hE25Fp58ayrG7eg"
     },
     {
       "added_at": null,
@@ -459,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoric",
-        "url": "https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5"
+        "name": "Y2K!",
+        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
       },
       "artists": [
         {
@@ -468,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 113424,
-      "name": "Euphoric",
-      "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
+      "duration_ms": 123469,
+      "name": "TTYL",
+      "url": "https://open.spotify.com/track/5kSabw3Dng3SJ0bXdFeer7"
     },
     {
       "added_at": null,
@@ -487,6 +471,22 @@
       "duration_ms": 111780,
       "name": "Butterfly Ku",
       "url": "https://open.spotify.com/track/7e8ps3VqglKLsjzwMfFuxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Euphoric",
+        "url": "https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 113424,
+      "name": "Euphoric",
+      "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Actin A Smoochie",
+      "url": "https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Time (feat. Ice Spice, Skillibeng & J.I the Prince of N.Y)",
         "url": "https://open.spotify.com/album/7FX6vTJxAvOSM7DIpFCHRC"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 196884,
       "name": "One Time (feat. Ice Spice, Skillibeng & J.I the Prince of N.Y)",
       "url": "https://open.spotify.com/track/5c1veUUGWMIxFv84E5P9uH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Actin A Smoochie",
-      "url": "https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP"
     },
     {
       "added_at": null,

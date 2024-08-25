@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAAAlTslU0suUtF4EGL2f0Wch",
+  "snapshot_id": "ZsfRAAAAAACrZmci4gUBhPAFIgxbcY/X",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 143960,
-      "name": "Stuck in Between",
-      "url": "https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG"
+      "duration_ms": 181626,
+      "name": "DOCTORS",
+      "url": "https://open.spotify.com/track/4skjbY4ZWLhgMrEq6FNsFN"
     },
     {
       "added_at": null,
@@ -160,9 +160,9 @@
           "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
         }
       ],
-      "duration_ms": 181626,
-      "name": "DOCTORS",
-      "url": "https://open.spotify.com/track/4skjbY4ZWLhgMrEq6FNsFN"
+      "duration_ms": 143960,
+      "name": "Stuck in Between",
+      "url": "https://open.spotify.com/track/0RjweECF6Y4zdR1cixjmiG"
     },
     {
       "added_at": null,
@@ -667,30 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
-        "url": "https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ"
-      },
-      "artists": [
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Lil Pump",
-          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
-        },
-        {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
-        }
-      ],
-      "duration_ms": 170523,
-      "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
-      "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raining",
         "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 222740,
       "name": "Raining (feat. Yung Bleu & Murda Beatz)",
       "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
+        "url": "https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ"
+      },
+      "artists": [
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lil Pump",
+          "url": "https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        }
+      ],
+      "duration_ms": 170523,
+      "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
+      "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
     },
     {
       "added_at": null,

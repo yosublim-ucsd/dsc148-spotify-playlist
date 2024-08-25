@@ -1,13 +1,89 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Aug 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Aug 16:02 UTC.",
   "num_followers": 83,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAKsC7bSBEUb7Ed86B2kVrGn5f9iMBH",
+  "snapshot_id": "AAAKtizeRio85W9ZrS/X9/Eh58FHOIbc",
   "tracks": [
+    {
+      "added_at": "2024-08-24 16:02:49",
+      "album": {
+        "name": "ABSOLUTE (Murder Drones Song)",
+        "url": "https://open.spotify.com/album/2m7TOIvEepAxD8lwjUyqVR"
+      },
+      "artists": [
+        {
+          "name": "Shwabadi",
+          "url": "https://open.spotify.com/artist/7CCLirH6tIf750hgYn1Y4X"
+        },
+        {
+          "name": "LongestSoloEver",
+          "url": "https://open.spotify.com/artist/3wXWn4QQgUFF39bpLzlzca"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "ABSOLUTE (Murder Drones Song)",
+      "url": "https://open.spotify.com/track/5hVTCFrS5yS6U982lBLN4P"
+    },
+    {
+      "added_at": "2024-08-24 16:02:49",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/5dtFERfTQIfkXsji8xBAKI"
+      },
+      "artists": [
+        {
+          "name": "1oneam",
+          "url": "https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv"
+        }
+      ],
+      "duration_ms": 120032,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/3VPvbDjR0UOekMVCYa22iF"
+    },
+    {
+      "added_at": "2024-08-24 16:02:49",
+      "album": {
+        "name": "Flesh Wound",
+        "url": "https://open.spotify.com/album/71Pncoj3v3ABmRjLg4zUKS"
+      },
+      "artists": [
+        {
+          "name": "Pleasantries",
+          "url": "https://open.spotify.com/artist/28gMJfIMF6W4X36NWDabMF"
+        }
+      ],
+      "duration_ms": 165562,
+      "name": "Flesh Wound",
+      "url": "https://open.spotify.com/track/7ql3zdVOGjMEyno1LxyUlv"
+    },
+    {
+      "added_at": "2024-08-24 04:03:13",
+      "album": {
+        "name": "In the Mosh++",
+        "url": "https://open.spotify.com/album/2xKm69mLY1o631KtGriX9F"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        },
+        {
+          "name": "irichan!",
+          "url": "https://open.spotify.com/artist/0hk7xvuMOqeUb0MWDkWwH6"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "In the Mosh++",
+      "url": "https://open.spotify.com/track/3eAhDtktVD0wQ38vl67l5L"
+    },
     {
       "added_at": "2024-08-23 04:03:48",
       "album": {
@@ -87,6 +163,42 @@
       "duration_ms": 237499,
       "name": "Rains in Heaven",
       "url": "https://open.spotify.com/track/2u30g2qcJJo13rES1Us8aW"
+    },
+    {
+      "added_at": "2024-08-24 10:02:34",
+      "album": {
+        "name": "La Baby (feat. La Perversa)",
+        "url": "https://open.spotify.com/album/68AseNYXSHRbk2JyrDx6U7"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        }
+      ],
+      "duration_ms": 111505,
+      "name": "La Baby (feat. La Perversa)",
+      "url": "https://open.spotify.com/track/0RhYeffPI9SJuKgQZ8ptmp"
+    },
+    {
+      "added_at": "2024-08-24 10:02:34",
+      "album": {
+        "name": "Fight For Your Right",
+        "url": "https://open.spotify.com/album/5DQZ2qsWxYZoDBfYflRn8X"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 206200,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/1zmIyaChZZ6vv1wMkiJbo6"
     },
     {
       "added_at": "2024-08-23 04:03:48",
@@ -359,7 +471,7 @@
     {
       "added_at": "2024-08-23 22:02:47",
       "album": {
-        "name": "Wait for You",
+        "name": "Wait For You",
         "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
       },
       "artists": [
@@ -369,7 +481,7 @@
         }
       ],
       "duration_ms": 201533,
-      "name": "Wait for You",
+      "name": "Wait For You",
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
     },
     {
@@ -763,126 +875,6 @@
       "duration_ms": 169096,
       "name": "BOOGIE MAN",
       "url": "https://open.spotify.com/track/0Xs9c3ZHD0Ni4fgIFmtl2f"
-    },
-    {
-      "added_at": "2024-08-23 16:03:08",
-      "album": {
-        "name": "Get Your Shit Together",
-        "url": "https://open.spotify.com/album/5tASzwzWZKyQJM3OgZ1SNw"
-      },
-      "artists": [
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 280980,
-      "name": "Get Your Shit Together",
-      "url": "https://open.spotify.com/track/31RcxIY2Wiwd1U0dOZR2Mr"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "LIKE A CHINK BITCH",
-        "url": "https://open.spotify.com/album/633Dw3yMQ4LxvxKGGaDk5l"
-      },
-      "artists": [
-        {
-          "name": "Eric Reprid",
-          "url": "https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR"
-        }
-      ],
-      "duration_ms": 124645,
-      "name": "LIKE A CHINK BITCH",
-      "url": "https://open.spotify.com/track/0QZbFNtvonYn5niPpK0VZG"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "All 2 of Us",
-        "url": "https://open.spotify.com/album/35slanWlSyjXNIgcRmySV0"
-      },
-      "artists": [
-        {
-          "name": "Black Moth Super Rainbow",
-          "url": "https://open.spotify.com/artist/4UHzJP2iKVf0RhKIv7ZE2l"
-        }
-      ],
-      "duration_ms": 250023,
-      "name": "All 2 of Us",
-      "url": "https://open.spotify.com/track/6Qzh9H5JQhM2t8ReA0Bs3J"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "DA PIT",
-        "url": "https://open.spotify.com/album/2xr3Zy0YRWFvR4c0kGLLpd"
-      },
-      "artists": [
-        {
-          "name": "INFEKT",
-          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
-        },
-        {
-          "name": "HAMRO",
-          "url": "https://open.spotify.com/artist/45tIGuLKx3RA70cm4rnSLH"
-        },
-        {
-          "name": "XAE",
-          "url": "https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT"
-        }
-      ],
-      "duration_ms": 163862,
-      "name": "DA PIT",
-      "url": "https://open.spotify.com/track/0fP60ShPw677cqudSmfzBM"
-    },
-    {
-      "added_at": "2024-08-23 16:03:08",
-      "album": {
-        "name": "Maroon 5",
-        "url": "https://open.spotify.com/album/5fCscgFrLTfmDmo9l82AZI"
-      },
-      "artists": [
-        {
-          "name": "ShittyBoyz",
-          "url": "https://open.spotify.com/artist/0ztFqsZLzjkKU2aRyeqQ9S"
-        },
-        {
-          "name": "BabyTron",
-          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
-        },
-        {
-          "name": "StanWill",
-          "url": "https://open.spotify.com/artist/0fvPHeXr0H4AMsxvO62DdX"
-        },
-        {
-          "name": "Trdee",
-          "url": "https://open.spotify.com/artist/48BxYnkFMs8KAXg23YTWXi"
-        }
-      ],
-      "duration_ms": 150386,
-      "name": "Maroon 5",
-      "url": "https://open.spotify.com/track/0uxQZbeSvfxdNjikhzvPHN"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "taki ma\u0142y ja",
-        "url": "https://open.spotify.com/album/0V9iei7ta8jjktxfpq8GsK"
-      },
-      "artists": [
-        {
-          "name": "kuqe 2115",
-          "url": "https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf"
-        },
-        {
-          "name": "francis",
-          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
-        }
-      ],
-      "duration_ms": 174374,
-      "name": "taki ma\u0142y ja",
-      "url": "https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7"
     }
   ],
   "unique_name": "New Singles Now",

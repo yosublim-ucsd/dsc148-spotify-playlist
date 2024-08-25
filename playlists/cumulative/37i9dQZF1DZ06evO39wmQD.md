@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO39wmQD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO39wmQD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO39wmQD)
 
-### [This Is アウリィ・カルバーリョ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39wmQD)
+### [This Is Auli'i Cravalho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39wmQD)
 
-> This is アウリィ・カルバーリョ。アーティストの代表曲をひとつのプレイリストに。
+> This is Auli'i Cravalho\. The essential tracks, all in one playlist.
 
 28 songs - 1 hr 20 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Toño y Freddy en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,834 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,908 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 34 | [Recordando A Mi Pueblo](https://open.spotify.com/track/1vQJbzRxUhQMbcOtTiApy0) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Recordando A Mi Pueblo](https://open.spotify.com/album/27J8ZgI5nKZ6Qvlfw59y0R) | 4:55 |
 | 35 | [Amor Limosnero](https://open.spotify.com/track/0SLdgfVlFaf0vv9HUFAXgx) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [De Parranda Con Jorge Garcia](https://open.spotify.com/album/2lVwzYj3fyF1VrIZSmSgLa) | 3:39 |
 | 36 | [Caliente Caliente](https://open.spotify.com/track/00KobkfwcyPkxUY73Y2J8T) | [Raza Obrera](https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF) | [Arpacumbiando: Caliente, Caliente](https://open.spotify.com/album/6zOnwXDxxOHik1jT3IIukc) | 3:07 |
-| 37 | [Entre Copa y Copa](https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Quiero Que Seas para Mí](https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv) | 3:48 |
-| 38 | [Todo Por Servir Se Acaba](https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:01 |
+| 37 | [Todo Por Servir Se Acaba](https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:01 |
+| 38 | [Entre Copa y Copa](https://open.spotify.com/track/6nlVWZzuQxJ4jsVH4JeJG4) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Quiero Que Seas para Mí](https://open.spotify.com/album/7bxTdmbur0frxgcb4CoYIv) | 3:48 |
 | 39 | [El Nike](https://open.spotify.com/track/4IFSVko2iMxAVvRAPVSWuu) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [El Nike](https://open.spotify.com/album/3eHn8E3n9ndGI2Zs3qiEWq) | 4:02 |
 | 40 | [No Te Olvidare](https://open.spotify.com/track/0g8IOSkOPv8JUxbTojv6vI) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Guiados por el Cielo](https://open.spotify.com/album/5se7VnLff9owqtOW1usbhN) | 4:01 |
 | 41 | [Flor Hermosa](https://open.spotify.com/track/557jO0VSx5Y0VgeA4BOwdO) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Adicto a Ti](https://open.spotify.com/album/7cJOsVE6qWAviyw5jl350L) | 2:28 |
 | 42 | [Me Va a Extrañar](https://open.spotify.com/track/6EJSQb8fuC9HjZG0IC7KvY) | [La Nobleza De Aguililla](https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg) | [Solo para Ti](https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X) | 2:37 |
 | 43 | [Cuanto Te Quiero](https://open.spotify.com/track/7AluH6DilKrQvTIOyFdcLD) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Cuestión De Tiempo](https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA) | 2:43 |
-| 44 | [Hermosa Tierra Caliente](https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:27 |
-| 45 | [Así Fue](https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Kilos de Polvo](https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk) | 5:29 |
+| 44 | [Así Fue](https://open.spotify.com/track/5LYv9sE58vpWj5vmBT9WsF) | [Grupo Alfa 7](https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ) | [Kilos de Polvo](https://open.spotify.com/album/26qV7yOOuaAe48fNIOl4yk) | 5:29 |
+| 45 | [Hermosa Tierra Caliente](https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [Eres Mi Ángel](https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo) | 3:27 |
 | 46 | [5 Minutos](https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Por Qué Me Gustas](https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP) | 3:41 |
 | 47 | [Lo Que Empieza Acaba](https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Gracias a la Vida](https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW) | 2:24 |
 | 48 | [El Potosino y El Cocho](https://open.spotify.com/track/627QWPTPkNwbOwso8RnBem) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [El Potosino y El Cocho](https://open.spotify.com/album/6Fmej7TWDGwwtQG3fFHYg5) | 3:20 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 81 | [El Padrino](https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2) | [La Imponente Banda Inspiracion de Tierra Caliente](https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd) | [Al Mismo Nivel](https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD) | 2:43 |
 | 82 | [Mis Errores Pagando](https://open.spotify.com/track/5RBst3Kt94kZApvvK2ecuS) | [Banda Roja](https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2) | [Guerra De Corridos](https://open.spotify.com/album/1R8RBzaqLFU7DGSbJwgqOG) | 2:32 |
 | 83 | [Se Termino Lo Nuestro](https://open.spotify.com/track/1ehEgDAKGx25rDixKp6G7T) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Somos Mas Americanos](https://open.spotify.com/album/21HMMgxvURhNvsJiQYX5yT) | 3:30 |
-| 84 | [Mal Amor](https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Mal Amor](https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn) | 2:48 |
-| 85 | [Amor a la Ligera](https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 2:29 |
+| 84 | [Amor a la Ligera](https://open.spotify.com/track/5Bl6vhECx1VXl7sJqcbWV2) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Quisiera Ser Una Lágrima](https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu) | 2:29 |
+| 85 | [Mal Amor](https://open.spotify.com/track/5BmUMTv5l6pIOath6BcMpV) | [Los Huaches De Tierra Caliente](https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum) | [Mal Amor](https://open.spotify.com/album/68SwveWQ8tqtqrPW85wkmn) | 2:48 |
 | 86 | [La Grapa](https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH) | [Severo Benito y Su Banda Cachas de Oro](https://open.spotify.com/artist/6TeppE6IknfNDo3A0oHqDS) | [Para Toda La Vida](https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC) | 2:50 |
 | 87 | [Si No Te Tengo](https://open.spotify.com/track/64YyId0Pl7taaQvEmeeR9A) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Si No Te Tengo](https://open.spotify.com/album/4XSIM7krDX3o7ztE226Ykq) | 3:43 |
 | 88 | [Si Tengo A Mi Madre](https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 3:33 |

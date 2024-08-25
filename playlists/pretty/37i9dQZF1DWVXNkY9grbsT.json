@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. ",
-  "num_followers": 97798,
+  "num_followers": 97838,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "how it ends",
-        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
+        "name": "Castle Song",
+        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
       },
       "artists": [
         {
-          "name": "my head is empty",
-          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 118577,
-      "name": "how it ends",
-      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
+      "duration_ms": 173311,
+      "name": "Castle Song",
+      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -539,34 +539,18 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Castle Song",
-        "url": "https://open.spotify.com/album/1eFh68RxjbBM82DSi7HwSW"
+        "name": "how it ends",
+        "url": "https://open.spotify.com/album/2sLC29d1THfPYlGzY3KsRl"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "my head is empty",
+          "url": "https://open.spotify.com/artist/7pxIYxdkx2675ZGKSAPBAy"
         }
       ],
-      "duration_ms": 173311,
-      "name": "Castle Song",
-      "url": "https://open.spotify.com/track/41Zlw5Mj21428SaCwkxUvy"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Mango Feedback",
-        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 260612,
-      "name": "Watersynth",
-      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
+      "duration_ms": 118577,
+      "name": "how it ends",
+      "url": "https://open.spotify.com/track/3fLMkkGO8FFWmM2WXEnLG7"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -591,6 +575,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "Mango Feedback",
+        "url": "https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 260612,
+      "name": "Watersynth",
+      "url": "https://open.spotify.com/track/05e2T423zwHe7557aNewF4"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "58500 (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8"
       },
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Circle of Eyes",
-        "url": "https://open.spotify.com/album/7KZrDmpcamZhERuiv34WeD"
-      },
-      "artists": [
-        {
-          "name": "Eric Hilton",
-          "url": "https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB"
-        }
-      ],
-      "duration_ms": 420313,
-      "name": "Circle of Eyes",
-      "url": "https://open.spotify.com/track/5Lpb0i8kJxZB76yhdV7ehd"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Penelope Trappes Death Revisited",
         "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 315562,
       "name": "Penelope Trappes meets Silent Rumble",
       "url": "https://open.spotify.com/track/79YtxABJiZyLTsv7ac9JPh"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Circle of Eyes",
+        "url": "https://open.spotify.com/album/7KZrDmpcamZhERuiv34WeD"
+      },
+      "artists": [
+        {
+          "name": "Eric Hilton",
+          "url": "https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB"
+        }
+      ],
+      "duration_ms": 420313,
+      "name": "Circle of Eyes",
+      "url": "https://open.spotify.com/track/5Lpb0i8kJxZB76yhdV7ehd"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Radio Mnemosyne",
-        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
-      },
-      "artists": [
-        {
-          "name": "Snufmumriko",
-          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "L\u00e5ngt under noll",
-      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Worlds Collide (Hannes Kretzer Rework)",
         "url": "https://open.spotify.com/album/4SZSeDgHqioiCuRVHi6zRc"
       },
@@ -791,6 +775,46 @@
       "duration_ms": 231340,
       "name": "Worlds Collide - Hannes Kretzer Rework",
       "url": "https://open.spotify.com/track/4PfKv1E5Jp1DizoOunObbM"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Radio Mnemosyne",
+        "url": "https://open.spotify.com/album/0n7XF4hzFVdZXQcufUcV8Y"
+      },
+      "artists": [
+        {
+          "name": "Snufmumriko",
+          "url": "https://open.spotify.com/artist/4CIFtRfH6DXyP9AUbnbotn"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "L\u00e5ngt under noll",
+      "url": "https://open.spotify.com/track/1dK4zCAejB4XhAJ8eTe3Q0"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Cast Remixes Part III",
+        "url": "https://open.spotify.com/album/2wlWbYB5GDccm5H2BDHZ5t"
+      },
+      "artists": [
+        {
+          "name": "Heathered Pearls",
+          "url": "https://open.spotify.com/artist/1o949goAYc4vD4IqN0zhVV"
+        },
+        {
+          "name": "Kyle McEvoy",
+          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
+        },
+        {
+          "name": "wowflower",
+          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
+      "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -859,30 +883,6 @@
       "duration_ms": 299931,
       "name": "Movie Night Cancelled - Domenique Dumont Ambient Remix",
       "url": "https://open.spotify.com/track/6ZEBJELL4zzOSSAHCYGEV8"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Cast Remixes Part III",
-        "url": "https://open.spotify.com/album/2wlWbYB5GDccm5H2BDHZ5t"
-      },
-      "artists": [
-        {
-          "name": "Heathered Pearls",
-          "url": "https://open.spotify.com/artist/1o949goAYc4vD4IqN0zhVV"
-        },
-        {
-          "name": "Kyle McEvoy",
-          "url": "https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft"
-        },
-        {
-          "name": "wowflower",
-          "url": "https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "Pain Tolerance - Kyle McEvoy & wowflower Remix",
-      "url": "https://open.spotify.com/track/5MNZcXlFKjpw1COq8vvAu9"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "Fighting Modernism EP",
+        "url": "https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ"
+      },
+      "artists": [
+        {
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+        }
+      ],
+      "duration_ms": 231637,
+      "name": "Sony 7IV",
+      "url": "https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "Atlas der Gedanken",
         "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 322857,
       "name": "Tagtraum",
       "url": "https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Fighting Modernism EP",
-        "url": "https://open.spotify.com/album/49wH7bpUwQc5gYpDWgPkUQ"
-      },
-      "artists": [
-        {
-          "name": "The Black Dog",
-          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
-        }
-      ],
-      "duration_ms": 231637,
-      "name": "Sony 7IV",
-      "url": "https://open.spotify.com/track/6N7XoSskzxWaBjrddaSCO1"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Springtime in Croatia",
-        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
-      },
-      "artists": [
-        {
-          "name": "Patricia Wolf",
-          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Springtime in Croatia",
-      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Portico",
         "url": "https://open.spotify.com/album/1hDYGw9QpPDBNHvdAIDVbr"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 402333,
       "name": "Portico",
       "url": "https://open.spotify.com/track/3dCPn65wkIDeUeITYOlofX"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Springtime in Croatia",
+        "url": "https://open.spotify.com/album/7MhIj1DVJBN08P1pxDlB4C"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Springtime in Croatia",
+      "url": "https://open.spotify.com/track/3eUG3uEbzUP3sa8tRE8hda"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 251485,
-      "name": "Cycles",
-      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Natural Wonder Beauty Concept",
         "url": "https://open.spotify.com/album/1yxb5o5htty9e6gw5f07qn"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 184240,
       "name": "Clear",
       "url": "https://open.spotify.com/track/65mYEI6vEjGink0prK6Len"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 251485,
+      "name": "Cycles",
+      "url": "https://open.spotify.com/track/6Ip5LCOyx4735lgAwOZCIn"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Into The Echo",
-        "url": "https://open.spotify.com/album/32yrYlubZsd1wNvU7pWA5f"
-      },
-      "artists": [
-        {
-          "name": "Interstellar Funk",
-          "url": "https://open.spotify.com/artist/33DoW58zhBjyyeCdscBybf"
-        }
-      ],
-      "duration_ms": 421021,
-      "name": "Dreamers (Part I)",
-      "url": "https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/3FoOSS6Pl6CEPSMRTkG2TM"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 238029,
       "name": "Belt & Carpet",
       "url": "https://open.spotify.com/track/6zWTALSkk7UC4BE9Onggje"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Into The Echo",
+        "url": "https://open.spotify.com/album/32yrYlubZsd1wNvU7pWA5f"
+      },
+      "artists": [
+        {
+          "name": "Interstellar Funk",
+          "url": "https://open.spotify.com/artist/33DoW58zhBjyyeCdscBybf"
+        }
+      ],
+      "duration_ms": 421021,
+      "name": "Dreamers (Part I)",
+      "url": "https://open.spotify.com/track/3DoZjFecPlSwoIzLJIXJbx"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Falling but Not Alone",
-        "url": "https://open.spotify.com/album/0blBx0EVnhd9rsAOIDAjFr"
-      },
-      "artists": [
-        {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
-        }
-      ],
-      "duration_ms": 600028,
-      "name": "Hang in There, Baby!",
-      "url": "https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 340974,
       "name": "Tan\u00df",
       "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Falling but Not Alone",
+        "url": "https://open.spotify.com/album/0blBx0EVnhd9rsAOIDAjFr"
+      },
+      "artists": [
+        {
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+        }
+      ],
+      "duration_ms": 600028,
+      "name": "Hang in There, Baby!",
+      "url": "https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "Camina",
+        "url": "https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev"
+      },
+      "artists": [
+        {
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+        }
+      ],
+      "duration_ms": 517307,
+      "name": "Camina",
+      "url": "https://open.spotify.com/track/4c8VB5HRoc6FqXLXXKhtxq"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "Made In Silence",
         "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 154740,
       "name": "One Note",
       "url": "https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Camina",
-        "url": "https://open.spotify.com/album/7rcnZunoM1Fn8HPDKD6Lev"
-      },
-      "artists": [
-        {
-          "name": "Daniel Imhof",
-          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
-        }
-      ],
-      "duration_ms": 517307,
-      "name": "Camina",
-      "url": "https://open.spotify.com/track/4c8VB5HRoc6FqXLXXKhtxq"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
-        "name": "Amos",
-        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Imhof",
-          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
-        }
-      ],
-      "duration_ms": 483790,
-      "name": "Amos",
-      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
         "name": "La Batterie",
         "url": "https://open.spotify.com/album/3djwoCHWzGnsGNVyUuMpf5"
       },
@@ -1667,6 +1651,22 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "Amos",
+        "url": "https://open.spotify.com/album/38ElKQtmslm5HlHsQQsGKG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Imhof",
+          "url": "https://open.spotify.com/artist/1UMczNv7hgmm4buMvT94wS"
+        }
+      ],
+      "duration_ms": 483790,
+      "name": "Amos",
+      "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
@@ -1679,26 +1679,6 @@
       "duration_ms": 249672,
       "name": "Formanta",
       "url": "https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "The Body Keeps Score / I Left My Juul in Monterey",
-        "url": "https://open.spotify.com/album/0zC4RmPmdRzk3WyygOuFOt"
-      },
-      "artists": [
-        {
-          "name": "Niia",
-          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
-        },
-        {
-          "name": "Superposition",
-          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "The Body Keeps Score",
-      "url": "https://open.spotify.com/track/54xn0GmYF08I5Pi5rKMMEj"
     },
     {
       "added_at": "2024-06-28 14:30:27",
@@ -1723,6 +1703,58 @@
     {
       "added_at": "2024-06-28 14:30:27",
       "album": {
+        "name": "The Body Keeps Score / I Left My Juul in Monterey",
+        "url": "https://open.spotify.com/album/0zC4RmPmdRzk3WyygOuFOt"
+      },
+      "artists": [
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        },
+        {
+          "name": "Superposition",
+          "url": "https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "The Body Keeps Score",
+      "url": "https://open.spotify.com/track/54xn0GmYF08I5Pi5rKMMEj"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Balmy Evening",
+        "url": "https://open.spotify.com/album/6TEBNKoBrPB6TSyVeD5jh7"
+      },
+      "artists": [
+        {
+          "name": "Roman Fl\u00fcgel",
+          "url": "https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw"
+        }
+      ],
+      "duration_ms": 183672,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3RWlHCJuoW5m4OFClsNHNH"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
+        "name": "Periphera",
+        "url": "https://open.spotify.com/album/2XajyrsNkVgdsR68pJBDUY"
+      },
+      "artists": [
+        {
+          "name": "Pataphysical",
+          "url": "https://open.spotify.com/artist/4K1gxhkzaKIv8prbKAIIGC"
+        }
+      ],
+      "duration_ms": 279304,
+      "name": "Aun Cyc",
+      "url": "https://open.spotify.com/track/6xOUTeROja1JmSpoiGLpl9"
+    },
+    {
+      "added_at": "2024-06-28 14:30:27",
+      "album": {
         "name": "EA9633",
         "url": "https://open.spotify.com/album/5U3iB0UvUtOCiTErBTi0zB"
       },
@@ -1735,38 +1767,6 @@
       "duration_ms": 192920,
       "name": "EA9633",
       "url": "https://open.spotify.com/track/0WI7L7f0WVNPIzN9UOTm32"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/51bIrOWGkHi450cs2HrWy0"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/2Ol2OMdYRXNkAteRTzbttB"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
-    },
-    {
-      "added_at": "2024-06-28 14:30:27",
-      "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 286283,
-      "name": "Adagio I - Mut",
-      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
     }
   ],
   "unique_name": "Electronic X",

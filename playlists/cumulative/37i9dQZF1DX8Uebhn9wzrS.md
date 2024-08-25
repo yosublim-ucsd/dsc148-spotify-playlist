@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,032 songs - 3 day 5 hr 27 min
+2,033 songs - 3 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Aspire](https://open.spotify.com/track/37MeQL8h7N0Vq35LHfCFGZ) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Aspire](https://open.spotify.com/album/4AGxA5Bq2ezLLIEEtPjLyP) | 2:12 | 2022-07-01 | 2022-11-26 |
 | [Asteroid](https://open.spotify.com/track/5CZQryvxC9fRECH8zovlMj) | [Jimp Dino](https://open.spotify.com/artist/1FWBtnVOD7fmzw3CG2gMUF) | [Asteroid](https://open.spotify.com/album/53hNydsWIhitudX5aKAzPI) | 2:17 | 2024-02-02 |  |
 | [At Night](https://open.spotify.com/track/7qTLHsQlZgkfg6c2Sk4y92) | [Mylo B](https://open.spotify.com/artist/6HA81pnwUy8Hh3XueOsig8) | [At Night](https://open.spotify.com/album/5UqcsNqhXEUGs64BKcZlo5) | 2:12 | 2022-05-27 | 2022-11-19 |
-| [At the Coffe Shop](https://open.spotify.com/track/4qvFr1wmMtFVKNWQf3luUI) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [At the Coffee Shop](https://open.spotify.com/album/01t6ljHGKGIwtCxngi8dqO) | 1:15 | 2022-12-09 | 2024-08-21 |
+| [At the Coffe Shop](https://open.spotify.com/track/4qvFr1wmMtFVKNWQf3luUI) | [Random Dinu](https://open.spotify.com/artist/3mfI1TXFW4tXPQEklMqSsP) | [At the Coffee Shop](https://open.spotify.com/album/01t6ljHGKGIwtCxngi8dqO) | 1:15 | 2022-12-09 |  |
 | [Atlantic Ocean](https://open.spotify.com/track/79ueipIReBsOjdT1nusFnC) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Atlantic Ocean](https://open.spotify.com/album/6JcBrBWZTSLr6xVb7Pb7Hw) | 2:00 | 2023-03-08 |  |
 | [Atlantik](https://open.spotify.com/track/4J4BEFKlDVTsYPNkkPzd9T) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Atlantik](https://open.spotify.com/album/4DESs4vKq8Gb4i8AQwFnR6) | 1:29 | 2023-04-11 | 2024-05-14 |
 | [attaku](https://open.spotify.com/track/2w7KbtmlpNGjF8u9zO5DHy) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [konichiwa](https://open.spotify.com/album/3Z5v6CFjGBfuDw211vp9GI) | 1:46 | 2022-04-15 | 2022-05-27 |
@@ -703,7 +703,7 @@
 | [Ghosting](https://open.spotify.com/track/5vrt91IhW5lQW6fUUFV2hW) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Ghosting](https://open.spotify.com/album/7uqNftaPHWWHpsuikVidsS) | 2:17 | 2022-09-16 | 2023-01-07 |
 | [Giant Emoji](https://open.spotify.com/track/2bbujVEjRsJFvKnzlzhbpQ) | [Gregory David](https://open.spotify.com/artist/3y4uq4TWyejft9xWsofxTp) | [In Due Time](https://open.spotify.com/album/13sb8AYLDP6VK75wwvpPEm) | 3:18 | 2022-04-15 | 2022-05-27 |
 | [Ginger and Lime](https://open.spotify.com/track/0vpCjZxZ03dHk71gT6WdHR) | [spice rack](https://open.spotify.com/artist/4as7eq7Z4RegcT6FJ754Ub) | [the spice is right](https://open.spotify.com/album/1PHAihdUhYxo9dZrN1QOyb) | 2:21 | 2022-04-15 | 2022-12-17 |
-| [give it a whirl](https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [give it a whirl](https://open.spotify.com/album/2rOg9WuVoeNoZhvFLewXv3) | 2:09 | 2022-10-28 |  |
+| [give it a whirl](https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [give it a whirl](https://open.spotify.com/album/2rOg9WuVoeNoZhvFLewXv3) | 2:09 | 2022-10-28 | 2024-08-25 |
 | [Glad There's You](https://open.spotify.com/track/5Fj4UPQQOD09Vs1mge4yzs) | [Alys Good](https://open.spotify.com/artist/1p2RVv2wjq7aDQ6HPsjVgd) | [Glad There's You](https://open.spotify.com/album/4ohIQlFEFXHdY3LLrt1lAK) | 2:03 | 2022-08-05 | 2022-12-03 |
 | [Glamping](https://open.spotify.com/track/3rO1WUrPm16U5GvAD61S0T) | [Aurora 10](https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK) | [Glamping](https://open.spotify.com/album/5l2zmmit5qkdeOZFHStBzl) | 2:15 | 2024-05-31 | 2024-06-27 |
 | [Glass Walls](https://open.spotify.com/track/4pBuxxACkmrNGuqtKr2OcS) | [Raj](https://open.spotify.com/artist/5vlfXqlvWlApabRM1h97jF) | [Glass Walls](https://open.spotify.com/album/1PIImq3VEynt2xVPOUETkW) | 2:16 | 2022-11-25 | 2023-09-16 |
@@ -1022,6 +1022,7 @@
 | [looking back](https://open.spotify.com/track/0dxMj3mOuLH0igqGZQYEPe) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [looking back](https://open.spotify.com/album/1MgY24AwMIAt8E6w89K9Rq) | 2:10 | 2024-03-08 |  |
 | [Loose Changes](https://open.spotify.com/track/2TwnlyZK8MUipdASFzPSPl) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [Loose Changes](https://open.spotify.com/album/6hW0KKfZpxIDwlSQDbE0Zo) | 2:08 | 2023-03-20 |  |
 | [Lost And Found](https://open.spotify.com/track/3FeSqMVjKFDcARrMBz9zvV) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Lost And Found](https://open.spotify.com/album/1wDBfVn0vYBPB93Xsfcl22) | 1:51 | 2022-07-29 | 2022-08-12 |
+| [Lost At Sea](https://open.spotify.com/track/0QtoMbZP4bssxALpUKklh2) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Lost At Sea](https://open.spotify.com/album/3JzGzTh1wjYugYa9OeehnO) | 2:32 | 2024-08-23 |  |
 | [Lost in LA](https://open.spotify.com/track/4dZBeDiuLJ6dKmB3NDqjui) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Lost in LA](https://open.spotify.com/album/1jmrcNqyUhff0IGK1AwxVb) | 2:01 | 2023-01-20 |  |
 | [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 | 2024-03-08 |  |
 | [Lost in the Woods](https://open.spotify.com/track/1EcB1d4312bZha775c7woO) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Solsken](https://open.spotify.com/album/2JzhBFTPswo8Xzv48mSn6G) | 2:30 | 2022-04-15 | 2022-05-27 |
@@ -1297,7 +1298,7 @@
 | [Open Mind](https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Open Mind](https://open.spotify.com/album/21uLlTDKl4plmnUwvuYozh) | 2:32 | 2022-04-15 | 2022-05-27 |
 | [Opulence](https://open.spotify.com/track/5Lau1jCQPlGK5lS2gSW0cu) | [Leonard Hudgens](https://open.spotify.com/artist/6WpmWIpXTW0N63IGUFqIlT) | [Opulence](https://open.spotify.com/album/6aDX3sTyPUTeECzsKDbgt3) | 2:15 | 2024-03-22 | 2024-04-30 |
 | [Opus II](https://open.spotify.com/track/47U6UBCMwwXkf7saw2VAW3) | [Terrence Woods](https://open.spotify.com/artist/68OTfPEEVauMj9rWCFSz1k) | [Opus II](https://open.spotify.com/album/11uGd9Tqjc2tfZJXY8UCx1) | 2:15 | 2022-04-15 | 2022-09-09 |
-| [Orb](https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Orb](https://open.spotify.com/album/0YfkN8XLus9Sj1PKnRvIq6) | 2:15 | 2022-09-02 |  |
+| [Orb](https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Orb](https://open.spotify.com/album/0YfkN8XLus9Sj1PKnRvIq6) | 2:15 | 2022-09-02 | 2024-08-25 |
 | [Orbit](https://open.spotify.com/track/1B2KxrWP52AdVVqbPqr8Za) | [ATD Beats](https://open.spotify.com/artist/2HjWgx3XLvAeEBEP8fN2uy) | [Orbit](https://open.spotify.com/album/1p7sm4gf3BkyQklULsQsel) | 2:28 | 2023-04-03 |  |
 | [orchid](https://open.spotify.com/track/6bUKrVPt01nwmIC543H6fx) | [veryolddog](https://open.spotify.com/artist/5LopculXVSHwOYUcpk3oWl) | [orchid](https://open.spotify.com/album/4u3FvZ6P4kbgR1tFPeFyeP) | 1:25 | 2023-08-03 | 2023-09-09 |
 | [Ortswechsel](https://open.spotify.com/track/3PJ9CERQeU0AaBN0y3rpzW) | [Half Empty](https://open.spotify.com/artist/1KCCx7ZPVGykwC51uU5RZg), [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx) | [Ortswechsel](https://open.spotify.com/album/3m6kJXRWRugO0wkRfvD4mZ) | 2:33 | 2022-05-13 | 2022-11-12 |

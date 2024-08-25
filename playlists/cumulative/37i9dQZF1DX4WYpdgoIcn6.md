@@ -4,7 +4,7 @@
 
 > Kick back to the best new and recent chill hits.
 
-948 songs - 2 day 3 hr 33 min
+949 songs - 2 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,7 +199,7 @@
 | [Daylight](https://open.spotify.com/track/6Ed1q0X8oSKSm4IIhiQbYg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Daylight](https://open.spotify.com/album/1jcNHi5D96aaD0T5f1OjFY) | 2:43 | 2020-08-07 | 2022-04-21 |
 | [Daze Inn](https://open.spotify.com/track/20L6erw0ny2hiwQg8c1Dj4) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Daze Inn](https://open.spotify.com/album/3BFa8OzNBHwnCWEOKts7r8) | 2:38 | 2020-06-12 | 2021-05-13 |
 | [Dead End](https://open.spotify.com/track/4i0blWH3Vc8Zp17urOhltG) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Dead End](https://open.spotify.com/album/3m9Ef1v0ON1z07wetvRlZt) | 2:32 | 2019-05-25\* | 2020-01-09 |
-| [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 | 2021-02-23 |  |
+| [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 | 2021-02-23 | 2024-08-25 |
 | [Dear Diary](https://open.spotify.com/track/5AqPW3fH2H4ORBYTVwfHep) | [Anthony Ramos](https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse) | [Dear Diary](https://open.spotify.com/album/2ceHI75Oy4F7kYkHYX6Jtg) | 3:36 | 2019-09-13 | 2021-05-28 |
 | [Death Of A Hero](https://open.spotify.com/track/3btBmFS3dZ1EEh0pEH9imU) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Death Of A Hero](https://open.spotify.com/album/1oWYUTEjjp2q07bTb7ud9G) | 3:10 | 2019-06-08 | 2019-08-13 |
 | [Dedicated](https://open.spotify.com/track/49qTk1mtH5egKmtxQwwdkG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Dedicated](https://open.spotify.com/album/5iyZF0ue1oW5JnMJfdSiUe) | 3:02 | 2020-06-12 | 2020-08-14 |
@@ -230,6 +230,7 @@
 | [Drunk Enough To](https://open.spotify.com/track/1cgvB6KaL16ibyrJHhZeG0) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say \- EP](https://open.spotify.com/album/05I0k7IIbI8gDc6ONo5E0E) | 3:18 | 2020-06-13 | 2021-01-08 |
 | [drunk text me](https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [drunk text me](https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU) | 3:33 | 2022-02-17 | 2022-04-26 |
 | [drunk text me](https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:33 | 2022-07-07 | 2024-03-26 |
+| [Dumb & Poetic](https://open.spotify.com/track/5VhvD0AKRprEaFtPNKGBQR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:13 | 2024-08-22 |  |
 | [Dumb Love](https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Dumb Love](https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8) | 3:27 | 2021-07-24 | 2022-07-29 |
 | [Dust](https://open.spotify.com/track/7gKB72lW18lE0pfo9GMzMJ) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [After The Landslide](https://open.spotify.com/album/02DGbYqBLeNFuCx7SB200D) | 3:18 | 2019-05-25\* | 2020-04-03 |
 | [Easier](https://open.spotify.com/track/4tNXntkAzQ5A2dfYRYGIIQ) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Easier](https://open.spotify.com/album/0puSqXoH0dMgimvyi5slCt) | 2:37 | 2019-05-31 | 2019-06-08 |

@@ -1,6 +1,6 @@
 {
   "description": "A happy place \ud83e\udea9\ud83e\udea9",
-  "num_followers": 324363,
+  "num_followers": 324397,
   "original_name": "DISCOLAND",
   "owner": {
     "name": "Spotify",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Disco Tool",
-        "url": "https://open.spotify.com/album/3tkIKiqUu0h52cckCm0jJ3"
-      },
-      "artists": [
-        {
-          "name": "Maur",
-          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Disco Tool",
-      "url": "https://open.spotify.com/track/6MXaI09ksTQ0FmMswDjPG6"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Electric Energy",
         "url": "https://open.spotify.com/album/7df0NN9M8PfLEMYarZg8j9"
       },
@@ -1635,22 +1619,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/3VJbditouBXMEdqgsbNyaC"
+        "name": "Disco Tool",
+        "url": "https://open.spotify.com/album/3tkIKiqUu0h52cckCm0jJ3"
       },
       "artists": [
         {
-          "name": "Voost",
-          "url": "https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO"
-        },
-        {
-          "name": "Arlow",
-          "url": "https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ"
+          "name": "Maur",
+          "url": "https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC"
         }
       ],
-      "duration_ms": 149625,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/3XICoeVKdERVx4XwHefjl8"
+      "duration_ms": 184687,
+      "name": "Disco Tool",
+      "url": "https://open.spotify.com/track/6MXaI09ksTQ0FmMswDjPG6"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1675,6 +1655,26 @@
       "duration_ms": 213826,
       "name": "Armaghetton - Aeroplane Remix",
       "url": "https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/3VJbditouBXMEdqgsbNyaC"
+      },
+      "artists": [
+        {
+          "name": "Voost",
+          "url": "https://open.spotify.com/artist/2Xpq8bhn9z3zWo6WUsdvDO"
+        },
+        {
+          "name": "Arlow",
+          "url": "https://open.spotify.com/artist/0UUg4WqiuFaqavE3JSZtHQ"
+        }
+      ],
+      "duration_ms": 149625,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/3XICoeVKdERVx4XwHefjl8"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1971,6 +1971,26 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
+        "name": "Ma quale idea (Myd Remix)",
+        "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 219140,
+      "name": "Ma quale idea - Myd Remix (Radio Edit)",
+      "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -1991,26 +2011,6 @@
       "duration_ms": 296453,
       "name": "Be The One (feat. Yung Bae)",
       "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Ma quale idea (Myd Remix)",
-        "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
-      },
-      "artists": [
-        {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 219140,
-      "name": "Ma quale idea - Myd Remix (Radio Edit)",
-      "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2101,22 +2101,6 @@
       "url": "https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "STARLIGHT",
-        "url": "https://open.spotify.com/album/5gwWdcSkwAwyLQeDinaHx8"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 170357,
-      "name": "CHIKI",
-      "url": "https://open.spotify.com/track/70N3YPPhkg9pFsoV5ZaTlG"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Are They Real",
@@ -2131,6 +2115,22 @@
       "duration_ms": 212903,
       "name": "Are They Real",
       "url": "https://open.spotify.com/track/4DtXOh0BqeLcqowkrt8pCf"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "STARLIGHT",
+        "url": "https://open.spotify.com/album/5gwWdcSkwAwyLQeDinaHx8"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 170357,
+      "name": "CHIKI",
+      "url": "https://open.spotify.com/track/70N3YPPhkg9pFsoV5ZaTlG"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2243,18 +2243,22 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "I DON'T MIND",
-        "url": "https://open.spotify.com/album/2chmCC4pZhBaPwsev516jz"
+        "name": "Finally Ready (feat. Billy Porter)",
+        "url": "https://open.spotify.com/album/2OKpNQTgcbe5kIdMbcuhdA"
       },
       "artists": [
         {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        },
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
         }
       ],
-      "duration_ms": 178211,
-      "name": "I DON'T MIND",
-      "url": "https://open.spotify.com/track/15Wc7dSC7ILzNAENd6GNqN"
+      "duration_ms": 236730,
+      "name": "Finally Ready (feat. Billy Porter)",
+      "url": "https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2279,6 +2283,22 @@
       "duration_ms": 183093,
       "name": "Funky And You Know It - Myd Remix",
       "url": "https://open.spotify.com/track/438wzpID8rPiuTcBDtpfFE"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "I DON'T MIND",
+        "url": "https://open.spotify.com/album/2chmCC4pZhBaPwsev516jz"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 178211,
+      "name": "I DON'T MIND",
+      "url": "https://open.spotify.com/track/15Wc7dSC7ILzNAENd6GNqN"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2315,42 +2335,6 @@
       "duration_ms": 168400,
       "name": "Love Takeover",
       "url": "https://open.spotify.com/track/5dCh4pv5Bmay1CFeRt80YE"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "Finally Ready (feat. Billy Porter)",
-        "url": "https://open.spotify.com/album/2OKpNQTgcbe5kIdMbcuhdA"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        },
-        {
-          "name": "Billy Porter",
-          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
-        }
-      ],
-      "duration_ms": 236730,
-      "name": "Finally Ready (feat. Billy Porter)",
-      "url": "https://open.spotify.com/track/7EqIzbNO2PpGH7GIKvHlf9"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
-        "name": "BONKERS",
-        "url": "https://open.spotify.com/album/4nZWTZl55srdbsah2ijVRj"
-      },
-      "artists": [
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "BONKERS",
-      "url": "https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -2411,6 +2395,22 @@
       "duration_ms": 170078,
       "name": "Disco Slammer",
       "url": "https://open.spotify.com/track/6xYXGRLxgs0yFJIGVDT9gj"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "BONKERS",
+        "url": "https://open.spotify.com/album/4nZWTZl55srdbsah2ijVRj"
+      },
+      "artists": [
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "BONKERS",
+      "url": "https://open.spotify.com/track/0xttlPnsPJBbasq9fzDlzH"
     }
   ],
   "unique_name": "DISCOLAND",

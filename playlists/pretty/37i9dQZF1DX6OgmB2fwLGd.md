@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Dave Blunts\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,057 likes - 100 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,003 likes - 100 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
-  "description": "This is ATARASHII GAKKO!. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 50610,
+  "description": "This Is ATARASHII GAKKO!. Los temas esenciales, todos en una lista.",
+  "num_followers": 50640,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAAAlgxjIfjVjd5+pDo//hxpM",
+  "snapshot_id": "ZsfRAAAAAACg1th9lvMXNAqqHyrdRaFK",
   "tracks": [
     {
       "added_at": null,
@@ -255,22 +255,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "maenarawanai",
-        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
+        "name": "WOO! GO!",
+        "url": "https://open.spotify.com/album/7pmx3ituzMLw4RqbBouUCQ"
       },
       "artists": [
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 255600,
-      "name": "koinosyadanki feat H ZETTRIO",
-      "url": "https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN"
+      "duration_ms": 199413,
+      "name": "WOO! GO!",
+      "url": "https://open.spotify.com/track/2kJ8ITd6fyRrRW6N8xvFtc"
     },
     {
       "added_at": null,
@@ -311,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WOO! GO!",
-        "url": "https://open.spotify.com/album/7pmx3ituzMLw4RqbBouUCQ"
+        "name": "maenarawanai",
+        "url": "https://open.spotify.com/album/3HmOMYSlIlHBPwSHl3POgb"
       },
       "artists": [
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 199413,
-      "name": "WOO! GO!",
-      "url": "https://open.spotify.com/track/2kJ8ITd6fyRrRW6N8xvFtc"
+      "duration_ms": 255600,
+      "name": "koinosyadanki feat H ZETTRIO",
+      "url": "https://open.spotify.com/track/22t28uO1vo5zM2yWCgGJGN"
     },
     {
       "added_at": null,

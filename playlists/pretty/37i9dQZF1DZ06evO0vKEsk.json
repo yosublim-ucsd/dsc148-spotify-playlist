@@ -1,12 +1,12 @@
 {
-  "description": "This is Bruna Karla. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 132803,
+  "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
+  "num_followers": 132807,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAAB7iTcBOqtmf3vjnBeBXJkM",
+  "snapshot_id": "ZsfRAAAAAADVoK+UaNq+ryNFF6W2Qu0+",
   "tracks": [
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Shaday (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 323832,
-      "name": "El Shaday (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pensou em Mim",
         "url": "https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu"
       },
@@ -791,6 +775,42 @@
       "duration_ms": 429290,
       "name": "Pensou em Mim",
       "url": "https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Melhor Amigo",
+        "url": "https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU"
+      },
+      "artists": [
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 335481,
+      "name": "Melhor Amigo",
+      "url": "https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Levantamos Tu Nombre",
+        "url": "https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 350528,
+      "name": "Levantamos Tu Nombre",
+      "url": "https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED"
     },
     {
       "added_at": null,
@@ -815,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Levantamos Tu Nombre",
-        "url": "https://open.spotify.com/album/2wPoovI5GUgIiOkRQETfde"
+        "name": "El Shaday (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB"
       },
       "artists": [
         {
@@ -824,29 +844,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 350528,
-      "name": "Levantamos Tu Nombre",
-      "url": "https://open.spotify.com/track/29xdoA7Qz83rm5D0GOhbED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Melhor Amigo",
-        "url": "https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU"
-      },
-      "artists": [
-        {
-          "name": "Delino Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
-        },
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 335481,
-      "name": "Melhor Amigo",
-      "url": "https://open.spotify.com/track/2Jl0A8XA5n8wXDTzdKYL9D"
+      "duration_ms": 323832,
+      "name": "El Shaday (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu"
     },
     {
       "added_at": null,

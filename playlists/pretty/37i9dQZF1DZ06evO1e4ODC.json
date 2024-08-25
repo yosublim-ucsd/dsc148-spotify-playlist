@@ -1,13 +1,29 @@
 {
-  "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 193486,
+  "description": "This Is Jes\u00fas Adri\u00e1n Romero. Sus mejores \u00e9xitos, todos en una playlist.",
+  "num_followers": 193553,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAAA+wqMDgXvv2bi11AZvf2lq",
+  "snapshot_id": "ZsfRAAAAAAA7Pzq9dIj8KQt12rBIYRGw",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Si Vinieras",
+        "url": "https://open.spotify.com/album/7hgCBoxt14OG0VhvAXtPnX"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 227556,
+      "name": "Por Si Vinieras",
+      "url": "https://open.spotify.com/track/2TnzARiEVGQmKYgkVwsn1y"
+    },
     {
       "added_at": null,
       "album": {
@@ -403,26 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Taller del Maestro",
-        "url": "https://open.spotify.com/album/6yI9apND1qvfAoW3I3olhF"
+        "name": "Origen Y Esencia",
+        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
       },
       "artists": [
         {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "Lilly Goodman",
-          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 324725,
-      "name": "Al Taller del Maestro",
-      "url": "https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA"
+      "duration_ms": 227426,
+      "name": "Olvid\u00e9 Cuidar Mi Huerto",
+      "url": "https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L"
     },
     {
       "added_at": null,
@@ -443,18 +451,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origen Y Esencia",
-        "url": "https://open.spotify.com/album/1M2YOSUuNw8Lf4fSXRJ8FS"
+        "name": "Al Taller del Maestro",
+        "url": "https://open.spotify.com/album/6yI9apND1qvfAoW3I3olhF"
       },
       "artists": [
         {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Lilly Goodman",
+          "url": "https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Olvid\u00e9 Cuidar Mi Huerto",
-      "url": "https://open.spotify.com/track/6gtlcSHmAiNl53YS1Nqa4L"
+      "duration_ms": 324725,
+      "name": "Al Taller del Maestro",
+      "url": "https://open.spotify.com/track/7Eyk7Fpn04yhOYppojynnA"
     },
     {
       "added_at": null,

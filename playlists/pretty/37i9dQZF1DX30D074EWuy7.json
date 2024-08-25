@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Paolo Fresu",
-  "num_followers": 30043,
+  "num_followers": 30053,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -539,54 +539,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Moon Kin",
-        "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
-      },
-      "artists": [
-        {
-          "name": "Emanuele Triglia",
-          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
-        },
-        {
-          "name": "Davide Savarese",
-          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
-        },
-        {
-          "name": "QWALE",
-          "url": "https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh"
-        },
-        {
-          "name": "Francesco Fratini",
-          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
-        },
-        {
-          "name": "Vincenzo Lato",
-          "url": "https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV"
-        }
-      ],
-      "duration_ms": 156838,
-      "name": "Samo",
-      "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "M\u0100Y\u0100",
-        "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
-      },
-      "artists": [
-        {
-          "name": "MACE",
-          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
-        }
-      ],
-      "duration_ms": 487573,
-      "name": "IL VELO DI M\u0100Y\u0100 \u109f",
-      "url": "https://open.spotify.com/track/5eOKasgnQVQzmEdhtArSn6"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Cantare Pieranunzi",
         "url": "https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ"
       },
@@ -615,6 +567,54 @@
       "duration_ms": 251109,
       "name": "You Know",
       "url": "https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "M\u0100Y\u0100",
+        "url": "https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        }
+      ],
+      "duration_ms": 487573,
+      "name": "IL VELO DI M\u0100Y\u0100 \u109f",
+      "url": "https://open.spotify.com/track/5eOKasgnQVQzmEdhtArSn6"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Moon Kin",
+        "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Triglia",
+          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
+        },
+        {
+          "name": "Davide Savarese",
+          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
+        },
+        {
+          "name": "QWALE",
+          "url": "https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh"
+        },
+        {
+          "name": "Francesco Fratini",
+          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
+        },
+        {
+          "name": "Vincenzo Lato",
+          "url": "https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV"
+        }
+      ],
+      "duration_ms": 156838,
+      "name": "Samo",
+      "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Musica Nuda - My Favorite Tunes",
-        "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
-      },
-      "artists": [
-        {
-          "name": "Musica Nuda",
-          "url": "https://open.spotify.com/artist/4SCNBobp8MbdOHco1VRiPc"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Bach Aire",
-      "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 388854,
       "name": "Estate",
       "url": "https://open.spotify.com/track/0cJy6RPy5VZSAmlCUWmRD1"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Musica Nuda - My Favorite Tunes",
+        "url": "https://open.spotify.com/album/4r4EAuG5rF6nzJu2haUQQ2"
+      },
+      "artists": [
+        {
+          "name": "Musica Nuda",
+          "url": "https://open.spotify.com/artist/4SCNBobp8MbdOHco1VRiPc"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Bach Aire",
+      "url": "https://open.spotify.com/track/0wUKunfyR7JY0fyQ9Iq1wW"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "NAXOS",
+        "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
+      },
+      "artists": [
+        {
+          "name": "Francesco Buzzurro",
+          "url": "https://open.spotify.com/artist/7va7RuUDlM00yzRi2nrFX5"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "Song for Django",
+      "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Tempo al Tempo",
         "url": "https://open.spotify.com/album/2Pg5JP20FpZXP3S8aveehk"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "NAXOS",
-        "url": "https://open.spotify.com/album/6S9eVbnJNclJ09sCN3lB3Z"
-      },
-      "artists": [
-        {
-          "name": "Francesco Buzzurro",
-          "url": "https://open.spotify.com/artist/7va7RuUDlM00yzRi2nrFX5"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "Song for Django",
-      "url": "https://open.spotify.com/track/6V6BOGQ5AjGyFnHyayO8aV"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "IRA",
         "url": "https://open.spotify.com/album/4WhBN2WPPxAU5M5Tpw56PL"
       },
@@ -1435,26 +1435,6 @@
       "duration_ms": 662586,
       "name": "hajar",
       "url": "https://open.spotify.com/track/2sy4zmZz3kIxZGL1VYa7sD"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Cosmica Italiana",
-        "url": "https://open.spotify.com/album/6vpTptHhCC583XUoazczZt"
-      },
-      "artists": [
-        {
-          "name": "Lorenzo Morresi",
-          "url": "https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2"
-        },
-        {
-          "name": "Tenderlonious",
-          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
-        }
-      ],
-      "duration_ms": 222391,
-      "name": "Movimento Astratto",
-      "url": "https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1511,6 +1491,26 @@
       "duration_ms": 454173,
       "name": "Canzone di Nausicaa",
       "url": "https://open.spotify.com/track/3NOKIQbCbTnl2808xd2V5B"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Cosmica Italiana",
+        "url": "https://open.spotify.com/album/6vpTptHhCC583XUoazczZt"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Morresi",
+          "url": "https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2"
+        },
+        {
+          "name": "Tenderlonious",
+          "url": "https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo"
+        }
+      ],
+      "duration_ms": 222391,
+      "name": "Movimento Astratto",
+      "url": "https://open.spotify.com/track/6r76msR3jmGKmr9ZjoT6Ez"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1623,34 +1623,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Over and again",
-        "url": "https://open.spotify.com/album/09hQ2xW97PIaEotvrgGfCH"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Tagliabue Yorke",
-          "url": "https://open.spotify.com/artist/5gwZ5aoZkmg5Q3brZ12kD9"
-        },
-        {
-          "name": "Giulio Scaramella",
-          "url": "https://open.spotify.com/artist/0X0ANopk6l3kuEQulQ9neM"
-        },
-        {
-          "name": "Paolo Mappa",
-          "url": "https://open.spotify.com/artist/0lRplDXy27fhzIgndGFmuY"
-        },
-        {
-          "name": "Giulio Corini",
-          "url": "https://open.spotify.com/artist/4JsWRc8s0MOQn6eN61MVSN"
-        }
-      ],
-      "duration_ms": 210494,
-      "name": "Over and again",
-      "url": "https://open.spotify.com/track/5nEX3zvnR4jWfwgjGIJr1j"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Ma Gnossienne",
         "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
       },
@@ -1687,6 +1659,34 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "Over and again",
+        "url": "https://open.spotify.com/album/09hQ2xW97PIaEotvrgGfCH"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Tagliabue Yorke",
+          "url": "https://open.spotify.com/artist/5gwZ5aoZkmg5Q3brZ12kD9"
+        },
+        {
+          "name": "Giulio Scaramella",
+          "url": "https://open.spotify.com/artist/0X0ANopk6l3kuEQulQ9neM"
+        },
+        {
+          "name": "Paolo Mappa",
+          "url": "https://open.spotify.com/artist/0lRplDXy27fhzIgndGFmuY"
+        },
+        {
+          "name": "Giulio Corini",
+          "url": "https://open.spotify.com/artist/4JsWRc8s0MOQn6eN61MVSN"
+        }
+      ],
+      "duration_ms": 210494,
+      "name": "Over and again",
+      "url": "https://open.spotify.com/track/5nEX3zvnR4jWfwgjGIJr1j"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Impulsi",
         "url": "https://open.spotify.com/album/5Yimn2Kv6tcODUaPOsNy6t"
       },
@@ -1699,22 +1699,6 @@
       "duration_ms": 326817,
       "name": "Javier",
       "url": "https://open.spotify.com/track/7lETJyf7RkzZxANVgSdcIZ"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "La Valle Dei Templi",
-        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
-      },
-      "artists": [
-        {
-          "name": "Perigeo",
-          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Looping",
-      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1751,6 +1735,22 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
+        "name": "La Valle Dei Templi",
+        "url": "https://open.spotify.com/album/4DStIxg2IyyYIL2K1y504z"
+      },
+      "artists": [
+        {
+          "name": "Perigeo",
+          "url": "https://open.spotify.com/artist/0UB7tnXqRLUWF9dyktuA6e"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Looping",
+      "url": "https://open.spotify.com/track/5unHInwrVqHtRceQOJ1yIe"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
         "name": "Stefano Di Battista",
         "url": "https://open.spotify.com/album/5132ELCkDRdYcjoZy2zkgP"
       },
@@ -1763,6 +1763,22 @@
       "duration_ms": 310480,
       "name": "Anastasia",
       "url": "https://open.spotify.com/track/5X8CuSkUxEbIHuGyXTFEzn"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Integra",
+        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
+      },
+      "artists": [
+        {
+          "name": "Ivan Segreto",
+          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Vibrare",
+      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1787,22 +1803,6 @@
       "duration_ms": 211093,
       "name": "A veva",
       "url": "https://open.spotify.com/track/5XnwJkqWV65YQq2VvCLkjD"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
-        "name": "Integra",
-        "url": "https://open.spotify.com/album/2nWPV4x5GdYmmqAyzCxQNz"
-      },
-      "artists": [
-        {
-          "name": "Ivan Segreto",
-          "url": "https://open.spotify.com/artist/0S88jeytYPjXsEzMZCgt19"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Vibrare",
-      "url": "https://open.spotify.com/track/1W6JKo8Tmp5sapSLCGq7xC"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
-      },
-      "artists": [
-        {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        }
-      ],
-      "duration_ms": 289634,
-      "name": "Transe Napolitaine",
-      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Ipotesi",
         "url": "https://open.spotify.com/album/4QE0ufj8ESMinJTSR2DRUa"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 197953,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/3M0o19A4Vq5Z0mKctW1j5L"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 289634,
+      "name": "Transe Napolitaine",
+      "url": "https://open.spotify.com/track/2mb0WOhZHdTsIZIEbqLxBd"
     },
     {
       "added_at": "2024-06-28 00:01:00",
@@ -1919,30 +1919,6 @@
     {
       "added_at": "2024-06-28 00:01:00",
       "album": {
-        "name": "Explorare",
-        "url": "https://open.spotify.com/album/2bISlKj86NDaG7oV1HBxFB"
-      },
-      "artists": [
-        {
-          "name": "Tommaso Cappellato",
-          "url": "https://open.spotify.com/artist/5xu6nwws5Wrbd5TayescJ2"
-        },
-        {
-          "name": "Tony Martin",
-          "url": "https://open.spotify.com/artist/5AHm2PdPYw9qsj1q1bhxj2"
-        },
-        {
-          "name": "Diego Gaeta",
-          "url": "https://open.spotify.com/artist/5XFiZHkVQlRc9F1mFKoQuT"
-        }
-      ],
-      "duration_ms": 227204,
-      "name": "April In Parrish",
-      "url": "https://open.spotify.com/track/1oTiRQQ0l7sNOJxNqDjFx0"
-    },
-    {
-      "added_at": "2024-06-28 00:01:00",
-      "album": {
         "name": "Ampia",
         "url": "https://open.spotify.com/album/0W0sZWeJSHiGZqa2ddXEnw"
       },
@@ -1955,6 +1931,26 @@
       "duration_ms": 370080,
       "name": "Traspare",
       "url": "https://open.spotify.com/track/7lmgbTOR6qTQtJXT6Vfqgl"
+    },
+    {
+      "added_at": "2024-06-28 00:01:00",
+      "album": {
+        "name": "Nauplia",
+        "url": "https://open.spotify.com/album/0kOi2BR2cvfhtqBi7e7CqR"
+      },
+      "artists": [
+        {
+          "name": "Maria Pia De Vito",
+          "url": "https://open.spotify.com/artist/2WdJBOMuv70FribaCLT5vE"
+        },
+        {
+          "name": "Rita Marcotulli",
+          "url": "https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "Come un ritratto",
+      "url": "https://open.spotify.com/track/1xD323f4XEBlW1lfOeKtts"
     }
   ],
   "unique_name": "Jazz Italia",

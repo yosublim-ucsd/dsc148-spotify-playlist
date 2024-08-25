@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-119 songs - 6 hr 43 min
+120 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Nunca Existió](https://open.spotify.com/track/41Xea12Hh4dXhJZzk1iGU6) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Perdona \(Estudio\)](https://open.spotify.com/album/1VqXJXP3g6etYfTeBHWWW0) | 2:30 | 2023-12-16 | 2024-03-19 |
 | [O Me Voy O Te Vas \(En Vivo\)](https://open.spotify.com/track/2Jz2lb2VQe3wsGE7Q5jGrP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [O Me Voy O Te Vas \(En Vivo\)](https://open.spotify.com/album/0nuXdDMOIDHxiddTlmBXGF) | 3:57 | 2022-10-05 |  |
 | [Ojalá \(En Vivo\)](https://open.spotify.com/track/1E0SK05wwn7LUqDE0A8YJ9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Renacido Tour 2023 \(En Vivo\)](https://open.spotify.com/album/18zVZ3JfvldtxbdKnDigRd) | 3:58 | 2023-02-27 | 2023-07-19 |
+| [Parece Mentira](https://open.spotify.com/track/67R0d7ZquZWWZcHNoCjdwj) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Mil Motivos](https://open.spotify.com/artist/0NMjT9cLrmTrkoIsKUAFw4) | [Parece Mentira](https://open.spotify.com/album/1tb13lRIUeKpgQbtBgSWtc) | 3:35 | 2024-08-25 |  |
 | [Parrandero \(Remix\)](https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Banda Los Coyulitos](https://open.spotify.com/artist/0CVlSXCgXIMQgojZ2irFYT) | [Parrandero \(Remix\)](https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey) | 2:48 | 2022-06-01 |  |
 | [Perdona](https://open.spotify.com/track/0ZDRj9YCiI7wtYwotcYhBe) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Perdona](https://open.spotify.com/album/5ju7ipDem86j08Sh4vPh0i) | 2:32 | 2023-12-13 | 2024-03-07 |
 | [Popurri Cumbias \- En Vivo](https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo Desde Los Mochis](https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W) | 5:03 | 2022-06-01 |  |

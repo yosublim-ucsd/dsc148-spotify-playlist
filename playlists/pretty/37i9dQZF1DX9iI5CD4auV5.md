@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 
 > Listen to <a href="spotify:artist:3ABaec4jjl95VqmG1iD4k2">Green Velvet</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,805 likes - 73 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,839 likes - 73 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,6 +80,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iI5CD4auV5.md) - [plain]
 | 70 | [The Horn Song \- Cajmere Remake](https://open.spotify.com/track/0RPXHiLI9JBLOcUOeocvqZ) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [The Don](https://open.spotify.com/artist/6MqMlfhYZ6anOzZgA3NuVk), [Cajmere](https://open.spotify.com/artist/7lIBLhQHKay3r1xtO3VtWT) | [Too Underground For The Main Stage](https://open.spotify.com/album/28smuNBpHVM4Ezqg1MB94J) | 5:38 |
 | 71 | [Like This \- House Mix \- Short Edit](https://open.spotify.com/track/1dobNCqp13CpgV7xW6m8o6) | [Chip E.](https://open.spotify.com/artist/1o4OYTXLA2ugfRiHKVE8mh), [K\-Joy](https://open.spotify.com/artist/3zgyroAkeTbN4kjMgZCYn0), [Lidell Townsel](https://open.spotify.com/artist/1dhetTchaoU8xv2bGkKi6s), [Kai Alcé](https://open.spotify.com/artist/28okccoDb505PNOF3LeMTi) | [Like This \(House Mix / Ddd Dub\)](https://open.spotify.com/album/5xC7mvUqeScBXku4RxDDE4) | 5:13 |
 | 72 | [Emperor \- Maceo Plex Last Disco Remix](https://open.spotify.com/track/61mc3Px7vuUyRYbN3ZLPf5) | [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge), [Kali](https://open.spotify.com/artist/3UTQd8eWHGNvMNGIZ578p2), [Maceo Plex](https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj) | [Emperor](https://open.spotify.com/album/2zfMUjNfwV4Q1DbM2tDIji) | 7:35 |
-| 73 | [Good Life \(Remastered\)](https://open.spotify.com/track/1F0uekJ6dni1ywjlSx3nsA) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Good Life \(Remastered\)](https://open.spotify.com/album/2lUlqHTF2ohyou9NKcpa7Z) | 3:16 |
+| 73 | [Good Life \(Remastered\)](https://open.spotify.com/track/1F0uekJ6dni1ywjlSx3nsA) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life \(Remastered\)](https://open.spotify.com/album/2lUlqHTF2ohyou9NKcpa7Z) | 3:16 |
 
 Snapshot ID: `Zpp9IwAAAAClk5gy9xmT1rYSt2oJYTtZ`

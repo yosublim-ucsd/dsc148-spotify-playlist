@@ -604,7 +604,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 182000,
       "name": "A LITTLE LIFE",
       "url": "https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 148333,
       "name": "ABG",
       "url": "https://open.spotify.com/track/6yiGke8liI1tQoZ8tV6dgw"
@@ -3930,7 +3930,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 164600,
       "name": "busy feat. Katannah",
       "url": "https://open.spotify.com/track/6b5Dc785SNrn9DCsrj7yWP"
@@ -5048,6 +5048,24 @@
       "duration_ms": 162151,
       "name": "confidence in me",
       "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/55LPwJ8TYpTkKqFDgDRaOT"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188106,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/0pdoZhLBiQccQ4Lbd8yGzO"
     },
     {
       "album": {
@@ -11107,6 +11125,24 @@
     },
     {
       "album": {
+        "name": "I Can't Go There",
+        "url": "https://open.spotify.com/album/2KEDQNs9BLogSL7xI0Iikf"
+      },
+      "artists": [
+        {
+          "name": "Ruthven",
+          "url": "https://open.spotify.com/artist/2FxdltjRC96gWJ7tMUadnz"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190613,
+      "name": "I Can't Go There",
+      "url": "https://open.spotify.com/track/3X2zPuuOzFAbupE0LOigfn"
+    },
+    {
+      "album": {
         "name": "I Can't Sleep",
         "url": "https://open.spotify.com/album/1OyyCqSwzipnyQn9Xany4Y"
       },
@@ -14409,6 +14445,28 @@
     },
     {
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260927,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9"
+    },
+    {
+      "album": {
         "name": "Losing Us.",
         "url": "https://open.spotify.com/album/16xmYlPdc3CAWwKDihpOzC"
       },
@@ -15282,6 +15340,24 @@
       "duration_ms": 277359,
       "name": "Meant 2 Be",
       "url": "https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4"
+    },
+    {
+      "album": {
+        "name": "Zorb",
+        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148689,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
     },
     {
       "album": {
@@ -17261,6 +17337,24 @@
     },
     {
       "album": {
+        "name": "no llames lo m\u00edo nuestro",
+        "url": "https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "no llames lo m\u00edo nuestro",
+      "url": "https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU"
+    },
+    {
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/4SVFRFKRsJvnIkWeT2Olen"
       },
@@ -18030,6 +18124,24 @@
       "duration_ms": 265181,
       "name": "omokage.",
       "url": "https://open.spotify.com/track/0p3qc7N93wst5tEUBcLvUi"
+    },
+    {
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/1Xw66n9Ec4zGW0IP8S5waa"
+      },
+      "artists": [
+        {
+          "name": "Mergui",
+          "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183713,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/68wzEwfzQB3hc66p4xnN1w"
     },
     {
       "album": {
@@ -19598,7 +19710,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 181603,
       "name": "promenade",
       "url": "https://open.spotify.com/track/4oWNFzfbJgMkq9FUI4GAo0"
@@ -24322,7 +24434,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 252000,
       "name": "Too Soon",
       "url": "https://open.spotify.com/track/0WdQjRX7X6amz0BHRcD887"
@@ -26522,7 +26634,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 209054,
       "name": "Ya Hayati",
       "url": "https://open.spotify.com/track/6JyHqySGJlaDv5RdLMZ9nA"

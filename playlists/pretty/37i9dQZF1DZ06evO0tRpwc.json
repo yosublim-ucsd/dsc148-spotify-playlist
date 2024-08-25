@@ -1,12 +1,12 @@
 {
-  "description": "This Is Daniela Ara\u00fajo. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
   "num_followers": 37991,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAAB84D4i41/OG5dwoDjUmhp8",
+  "snapshot_id": "ZsfRAAAAAADPUNq1kgzBIEMa1xaENP50",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Anos (ao Vivo)",
-        "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 361185,
-      "name": "Desejo do Meu Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/56YKz3uWPr5Pnj1itFWUsP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Party Love",
         "url": "https://open.spotify.com/album/7yiznDGtQNJPDxsiQZVY0X"
       },
@@ -291,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cicatrizes",
-        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 215343,
-      "name": "Cicatrizes",
-      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daniela Ara\u00fajo",
         "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
       },
@@ -319,6 +283,42 @@
       "duration_ms": 261972,
       "name": "Jugo Suave",
       "url": "https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 Anos (ao Vivo)",
+        "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 361185,
+      "name": "Desejo do Meu Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/56YKz3uWPr5Pnj1itFWUsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cicatrizes",
+        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 215343,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
     },
     {
       "added_at": null,
@@ -635,38 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 229565,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/4aBMjZM1g06xrRwlm16rjd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 226293,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turma do Barulho, Vol. 4",
         "url": "https://open.spotify.com/album/03PKatGi4RL00Yo0CAnOQr"
       },
@@ -695,6 +663,38 @@
       "duration_ms": 158706,
       "name": "Salmo 100",
       "url": "https://open.spotify.com/track/1X8R9oRMvFJXDQpEsdCiIG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 226293,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 229565,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/4aBMjZM1g06xrRwlm16rjd"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Catarse: Lado A",
+        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 280521,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doze",
         "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarse: Lado A",
-        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 280521,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Catarse: Lado B",
         "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doze",
-        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 242683,
-      "name": "Junho",
-      "url": "https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daniela Ara\u00fajo: Sessions",
         "url": "https://open.spotify.com/album/3Dzq8QRbp61WJD1d0wjpqS"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 318002,
       "name": "Sala",
       "url": "https://open.spotify.com/track/50ncoSJxBb3wbVGHUcPSwu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 242683,
+      "name": "Junho",
+      "url": "https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A"
     },
     {
       "added_at": null,

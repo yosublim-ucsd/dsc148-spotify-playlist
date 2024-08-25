@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Isac Elliot ja Miriam Bryant.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,999 likes - 108 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,025 likes - 108 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 5 | [Ekaa kertaa](https://open.spotify.com/track/0QDClEFoNZVkSjW6ADTiL2) | [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Ekaa kertaa](https://open.spotify.com/album/4XfVGVY6iTZS0ggYpMc7LF) | 3:13 |
 | 6 | [HARLEY QUINN \(feat\. Sara Bee\)](https://open.spotify.com/track/22uV6ZbECEg11WqMSsFPpe) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [HARLEY QUINN \(feat\. Sara Bee\)](https://open.spotify.com/album/0wA6SBN8dorzEaXvqB3lgl) | 2:21 |
 | 7 | [Ikuinen elokuu](https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Ikuinen elokuu](https://open.spotify.com/album/1HomvM6Akkl0H1uQBulmTZ) | 3:54 |
-| 8 | [Wait for You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait for You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
+| 8 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
 | 9 | [Kielletty puheenaihe](https://open.spotify.com/track/70xT1xflNvvsgkFFMcDyB9) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Kielletty puheenaihe](https://open.spotify.com/album/5cahzQcSOQ5HYruF8LlkBQ) | 3:26 |
 | 10 | [Saat mut syttyy](https://open.spotify.com/track/4rzRKGcbQ5faVnrMX494iS) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Saat mut syttyy](https://open.spotify.com/album/6addjV4pmfiesTAAiksaKo) | 2:59 |
 | 11 | [RIDIN \(with Lil Wayne\)](https://open.spotify.com/track/1a7yPmLN7ntGAi2P6Zbtj9) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [RIDIN](https://open.spotify.com/album/4CeFaAlqyHxaG9i1ZZ0mA5) | 3:24 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 31 | [Mindscape](https://open.spotify.com/track/4L0mNLmlpinVH6m1tjOSyx) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Sielo](https://open.spotify.com/artist/7rBQBBTn511KRvBeWSOJbP), [Nick Strand](https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd) | [Mindscape](https://open.spotify.com/album/4xdtwhroaFhsrJ6tsgQv9E) | 2:24 |
 | 32 | [Feel Your Love \(Rapture\)](https://open.spotify.com/track/71KYvmtTDxWggYdmJP3tTV) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Ganesh Waghela](https://open.spotify.com/artist/4Kac7OHMUGXTbh1nWNXuNw) | [Feel Your Love \(Rapture\)](https://open.spotify.com/album/4EoPxkx9NLL0BmgpLXOL11) | 3:10 |
 | 33 | [S.O.S](https://open.spotify.com/track/2q60C4ppVAMYukwYnLfYFq) | [BALOBOIZ](https://open.spotify.com/artist/08VZsyOGm9AsqIuICGVvdo) | [LIFE OF a BALOBOI](https://open.spotify.com/album/2rXIY2CQwl5VyUNqWztKsx) | 2:38 |
-| 34 | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
+| 34 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
 | 35 | [I Hope It Hurts](https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Hope It Hurts](https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF) | 4:09 |
 | 36 | [Sunnuntai aamuun](https://open.spotify.com/track/2giCy35lwlICeJpiIf2z6f) | [Äänet Käskee](https://open.spotify.com/artist/6tYoCkla26VpGOZcUVCuT3), [Kuningas Pähkinä & Setä Tamu](https://open.spotify.com/artist/5eDDKdMzwO9fODuj6lUEaG) | [Sunnutai aamuun](https://open.spotify.com/album/0uAueTwxLfj3fNOROtTkl1) | 2:35 |
 | 37 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 |

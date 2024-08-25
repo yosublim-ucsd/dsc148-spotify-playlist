@@ -1,12 +1,12 @@
 {
   "description": "This Is Christine D'Clario. Los temas esenciales, todos en una lista.",
-  "num_followers": 39425,
+  "num_followers": 39434,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAADil0udiAdMDeMgLQBHZupo",
+  "snapshot_id": "ZsfRAAAAAAD3hkKjgMbkp49CtCuiahHn",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 632006,
-      "name": "Admirable",
-      "url": "https://open.spotify.com/track/266RImfSG8ZKvpj63JWtIo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lugar Secreto (Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4Q56BcFRQXYiNMDuAYenpV"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 334746,
       "name": "Lugar Secreto - Espa\u00f1ol",
       "url": "https://open.spotify.com/track/2ZtyevyY9zXjSICcCfBdM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 632006,
+      "name": "Admirable",
+      "url": "https://open.spotify.com/track/266RImfSG8ZKvpj63JWtIo"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corriente / Un D\u00eda A La Vez (Medley) [En Vivo]",
-        "url": "https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 271374,
-      "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
-      "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Sal",
         "url": "https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 266253,
       "name": "Por la Eternidad",
       "url": "https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corriente / Un D\u00eda A La Vez (Medley) [En Vivo]",
+        "url": "https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 271374,
+      "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
+      "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
     },
     {
       "added_at": null,

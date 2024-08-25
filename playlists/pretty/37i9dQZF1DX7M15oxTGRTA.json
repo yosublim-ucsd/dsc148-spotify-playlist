@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 137909,
+  "num_followers": 137988,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
+        "name": "Unlimited!",
+        "url": "https://open.spotify.com/album/65aE9zdkm5FkDhrXozvAux"
+      },
+      "artists": [
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "I Want to Be Your Man - Remastered Version",
+      "url": "https://open.spotify.com/track/7lJgjvQRJEXcdu19n3Zn5T"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
         "name": "TP (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 300106,
       "name": "The Lady in My Life",
       "url": "https://open.spotify.com/track/07L1pzoVerhRSSaDGZHrKy"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Unlimited!",
-        "url": "https://open.spotify.com/album/65aE9zdkm5FkDhrXozvAux"
-      },
-      "artists": [
-        {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "I Want to Be Your Man - Remastered Version",
-      "url": "https://open.spotify.com/track/7lJgjvQRJEXcdu19n3Zn5T"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 269333,
       "name": "I Can't Help It",
       "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "Isley, Jasper, Isley",
+          "url": "https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0"
+        }
+      ],
+      "duration_ms": 341973,
+      "name": "Caravan of Love",
+      "url": "https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/44jdxE3S8EX1lOAxV9vQbZ"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "Isley, Jasper, Isley",
-          "url": "https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0"
-        }
-      ],
-      "duration_ms": 341973,
-      "name": "Caravan of Love",
-      "url": "https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1363,22 +1363,18 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/7LzHNQgKpTd9tkiKNcWyLK"
+        "name": "Saci Perer\u00ea",
+        "url": "https://open.spotify.com/album/3GcvpFejoLlbT2YsYHuyxF"
       },
       "artists": [
         {
-          "name": "Rufus & Chaka Khan",
-          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+          "name": "Banda Black Rio",
+          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
         }
       ],
-      "duration_ms": 200840,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM"
+      "duration_ms": 245800,
+      "name": "Amor Natural",
+      "url": "https://open.spotify.com/track/3zI1MxYwvge3bTxdB3LOri"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1399,18 +1395,22 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Saci Perer\u00ea",
-        "url": "https://open.spotify.com/album/3GcvpFejoLlbT2YsYHuyxF"
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/7LzHNQgKpTd9tkiKNcWyLK"
       },
       "artists": [
         {
-          "name": "Banda Black Rio",
-          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
+          "name": "Rufus & Chaka Khan",
+          "url": "https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 245800,
-      "name": "Amor Natural",
-      "url": "https://open.spotify.com/track/3zI1MxYwvge3bTxdB3LOri"
+      "duration_ms": 200840,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM"
     },
     {
       "added_at": "2024-07-09 17:06:54",

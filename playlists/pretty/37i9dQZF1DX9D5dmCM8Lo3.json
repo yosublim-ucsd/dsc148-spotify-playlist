@@ -1,6 +1,6 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 6326,
+  "num_followers": 6441,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
+        "name": "\u304d\u304f\u304a\u30df\u30af6",
+        "url": "https://open.spotify.com/album/3DcOkGnGL9cZgq9G1R75HE"
+      },
+      "artists": [
+        {
+          "name": "Kikuo",
+          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+        }
+      ],
+      "duration_ms": 365235,
+      "name": "\u3042\u306a\u3050\u3089\u3050\u3089\u3057",
+      "url": "https://open.spotify.com/track/3FvzeaesPY35bhhj55u4zJ"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
         "name": "JERK!",
         "url": "https://open.spotify.com/album/2aN5HgEHkTi0DR0g0AkWHc"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 131262,
       "name": "JERK!",
       "url": "https://open.spotify.com/track/6FRiFD0r9Mnv9VFnW4A7wB"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
-        "name": "\u304d\u304f\u304a\u30df\u30af6",
-        "url": "https://open.spotify.com/album/3DcOkGnGL9cZgq9G1R75HE"
-      },
-      "artists": [
-        {
-          "name": "Kikuo",
-          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
-        }
-      ],
-      "duration_ms": 365235,
-      "name": "\u3042\u306a\u3050\u3089\u3050\u3089\u3057",
-      "url": "https://open.spotify.com/track/3FvzeaesPY35bhhj55u4zJ"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Zapper",
-        "url": "https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7"
-      },
-      "artists": [
-        {
-          "name": "NANORAY",
-          "url": "https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1"
-        }
-      ],
-      "duration_ms": 241411,
-      "name": "NEKOMATA'97",
-      "url": "https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "team edward",
         "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 87242,
       "name": "team edward",
       "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Zapper",
+        "url": "https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7"
+      },
+      "artists": [
+        {
+          "name": "NANORAY",
+          "url": "https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1"
+        }
+      ],
+      "duration_ms": 241411,
+      "name": "NEKOMATA'97",
+      "url": "https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": ".Temp",
-        "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
-      },
-      "artists": [
-        {
-          "name": "Graham Kartna",
-          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
-        }
-      ],
-      "duration_ms": 116589,
-      "name": "Chiltonwalk.Temp",
-      "url": "https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": "Do you love me?",
         "url": "https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 122849,
       "name": "A World That's Ending",
       "url": "https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": ".Temp",
+        "url": "https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3"
+      },
+      "artists": [
+        {
+          "name": "Graham Kartna",
+          "url": "https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E"
+        }
+      ],
+      "duration_ms": 116589,
+      "name": "Chiltonwalk.Temp",
+      "url": "https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei"
     },
     {
       "added_at": "2023-07-18 20:06:10",

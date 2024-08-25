@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Paloma Morphy",
-  "num_followers": 50842,
+  "num_followers": 50879,
   "original_name": "dreamy \u2728",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
+        "name": "Idiota",
+        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "duration_ms": 179959,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "Idiota",
-        "url": "https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT"
-      },
-      "artists": [
-        {
-          "name": "Manu Beker",
-          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
-        }
-      ],
-      "duration_ms": 179959,
-      "name": "Idiota",
-      "url": "https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Estudio A",
-        "url": "https://open.spotify.com/album/5DzdNL9tkKzE7zXpbnLzVb"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        },
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 154282,
-      "name": "Acapulco En La Azotea",
-      "url": "https://open.spotify.com/track/2YHGUmTcXCnTe40uwDprsj"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "amor universal",
         "url": "https://open.spotify.com/album/38kKwQfYwjWhqtJ079Z0BJ"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 223887,
       "name": "amor universal",
       "url": "https://open.spotify.com/track/1H1Ktfqk2IFFDWwHhPbCKm"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Estudio A",
+        "url": "https://open.spotify.com/album/5DzdNL9tkKzE7zXpbnLzVb"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "duration_ms": 154282,
+      "name": "Acapulco En La Azotea",
+      "url": "https://open.spotify.com/track/2YHGUmTcXCnTe40uwDprsj"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Confesi\u00f3n",
-        "url": "https://open.spotify.com/album/4JhQbQL3qyhdgYep7YCOeI"
-      },
-      "artists": [
-        {
-          "name": "Wet Baes",
-          "url": "https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner"
-        }
-      ],
-      "duration_ms": 238315,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/1kKEfjhJNE3OKMu0GoqeU3"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Te Puedo Ver",
         "url": "https://open.spotify.com/album/2hAp3M6FmEHsuhntKYAER2"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 220162,
       "name": "Te Puedo Ver",
       "url": "https://open.spotify.com/track/1kzTDgmaFLIQhv50RbO7QS"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Confesi\u00f3n",
+        "url": "https://open.spotify.com/album/4JhQbQL3qyhdgYep7YCOeI"
+      },
+      "artists": [
+        {
+          "name": "Wet Baes",
+          "url": "https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner"
+        }
+      ],
+      "duration_ms": 238315,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/1kKEfjhJNE3OKMu0GoqeU3"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -943,22 +943,18 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Abismo",
-        "url": "https://open.spotify.com/album/31PeflXHidvrIDfVW0ivR1"
+        "name": "Mareas",
+        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
       },
       "artists": [
         {
-          "name": "George Rhoads",
-          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
-        },
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+          "name": "Dawn Avenue",
+          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
         }
       ],
-      "duration_ms": 219166,
-      "name": "Abismo",
-      "url": "https://open.spotify.com/track/0FEayppbKROCxKGyQ78PD8"
+      "duration_ms": 242951,
+      "name": "Antes de Marcharte",
+      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -979,18 +975,38 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Mareas",
-        "url": "https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP"
+        "name": "Abismo",
+        "url": "https://open.spotify.com/album/31PeflXHidvrIDfVW0ivR1"
       },
       "artists": [
         {
-          "name": "Dawn Avenue",
-          "url": "https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P"
+          "name": "George Rhoads",
+          "url": "https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
         }
       ],
-      "duration_ms": 242951,
-      "name": "Antes de Marcharte",
-      "url": "https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR"
+      "duration_ms": 219166,
+      "name": "Abismo",
+      "url": "https://open.spotify.com/track/0FEayppbKROCxKGyQ78PD8"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "100m",
+        "url": "https://open.spotify.com/album/18xOhrxNNHE7MNVj6VNiyY"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "duration_ms": 140547,
+      "name": "100m",
+      "url": "https://open.spotify.com/track/33QEJCjZdLkJEGILcGRndg"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "100m",
-        "url": "https://open.spotify.com/album/18xOhrxNNHE7MNVj6VNiyY"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 140547,
-      "name": "100m",
-      "url": "https://open.spotify.com/track/33QEJCjZdLkJEGILcGRndg"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Stuck in California",
         "url": "https://open.spotify.com/album/5mYJbspcX61gtTI7wrAROt"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
-      },
-      "artists": [
-        {
-          "name": "Montufar",
-          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
-        }
-      ],
-      "duration_ms": 222099,
-      "name": "Ojos",
-      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "VCR",
         "url": "https://open.spotify.com/album/0EXmhh4KMPZ47A9nS6iIyb"
       },
@@ -1079,22 +1063,6 @@
       "duration_ms": 215974,
       "name": "VCR",
       "url": "https://open.spotify.com/track/0NUjrv78ONAHIfL4GKkxE5"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
-        "name": "El Rayo Vallecano",
-        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
-      },
-      "artists": [
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 170864,
-      "name": "El Rayo Vallecano",
-      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1135,26 +1103,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Prendas Nuevas",
-        "url": "https://open.spotify.com/album/0dRuyWtNthFiwfM054JJ10"
-      },
-      "artists": [
-        {
-          "name": "k onda",
-          "url": "https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE"
-        },
-        {
-          "name": "Dromedarios M\u00e1gicos",
-          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Prendas Nuevas",
-      "url": "https://open.spotify.com/track/39e0dif18KfsiW3XI7CLlN"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Amanece Otra Vez",
         "url": "https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo"
       },
@@ -1171,18 +1119,18 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "GARZA",
-        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Montufar",
+          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
         }
       ],
-      "duration_ms": 206018,
-      "name": "GARZA",
-      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+      "duration_ms": 222099,
+      "name": "Ojos",
+      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1203,6 +1151,58 @@
       "duration_ms": 159765,
       "name": "cartulinas de colores",
       "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "El Rayo Vallecano",
+        "url": "https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5"
+      },
+      "artists": [
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 170864,
+      "name": "El Rayo Vallecano",
+      "url": "https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Prendas Nuevas",
+        "url": "https://open.spotify.com/album/0dRuyWtNthFiwfM054JJ10"
+      },
+      "artists": [
+        {
+          "name": "k onda",
+          "url": "https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE"
+        },
+        {
+          "name": "Dromedarios M\u00e1gicos",
+          "url": "https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Prendas Nuevas",
+      "url": "https://open.spotify.com/track/39e0dif18KfsiW3XI7CLlN"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "GARZA",
+        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 206018,
+      "name": "GARZA",
+      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Melancol\u00eda",
-        "url": "https://open.spotify.com/album/51R6Oy0Y67WZswWS4fniWD"
-      },
-      "artists": [
-        {
-          "name": "Ele Suarez",
-          "url": "https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU"
-        }
-      ],
-      "duration_ms": 229615,
-      "name": "Melancol\u00eda",
-      "url": "https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8"
-    },
-    {
-      "added_at": "2024-07-05 06:00:00",
-      "album": {
         "name": "Error 404",
         "url": "https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-07-05 06:00:00",
       "album": {
-        "name": "Una noche que nunca termina",
-        "url": "https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi"
+        "name": "Melancol\u00eda",
+        "url": "https://open.spotify.com/album/51R6Oy0Y67WZswWS4fniWD"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Ele Suarez",
+          "url": "https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU"
         }
       ],
-      "duration_ms": 181987,
-      "name": "Una noche que nunca termina",
-      "url": "https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE"
+      "duration_ms": 229615,
+      "name": "Melancol\u00eda",
+      "url": "https://open.spotify.com/track/4Cp5wY52cN1q1lztopxif8"
     },
     {
       "added_at": "2024-07-05 06:00:00",
@@ -1327,6 +1311,22 @@
       "duration_ms": 235596,
       "name": "Acic\u00e1lame",
       "url": "https://open.spotify.com/track/7pyY0YE7EJQ552qAK4l0mO"
+    },
+    {
+      "added_at": "2024-07-05 06:00:00",
+      "album": {
+        "name": "Una noche que nunca termina",
+        "url": "https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 181987,
+      "name": "Una noche que nunca termina",
+      "url": "https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE"
     }
   ],
   "unique_name": "dreamy \u2728",

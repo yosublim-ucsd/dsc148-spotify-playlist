@@ -1,12 +1,12 @@
 {
-  "description": "This Is Danny Ocean. Los temas esenciales, todos en una lista.",
-  "num_followers": 256572,
-  "original_name": "This Is Danny Ocean",
+  "description": "This is \u30c0\u30cb\u30fc\u30fb\u30aa\u30fc\u30b7\u30e3\u30f3\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 256655,
+  "original_name": "This Is \u30c0\u30cb\u30fc\u30fb\u30aa\u30fc\u30b7\u30e3\u30f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAAD/kICz5tPZSUU0RhgQIbpY",
+  "snapshot_id": "ZsfRAAAAAACU9v+Su6OUbwQzUTVHBYtc",
   "tracks": [
     {
       "added_at": null,
@@ -799,26 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cu\u00e1ntas veces",
-        "url": "https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 157594,
-      "name": "Cu\u00e1ntas veces",
-      "url": "https://open.spotify.com/track/0Vd3oU8EfWdZZO1J0W3dBN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fino",
         "url": "https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 205210,
       "name": "Fino",
       "url": "https://open.spotify.com/track/2aa3zu8JIbWrE92naVcy7H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cu\u00e1ntas veces",
+        "url": "https://open.spotify.com/album/1SkjS616tH0mUti7wGYUGB"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 157594,
+      "name": "Cu\u00e1ntas veces",
+      "url": "https://open.spotify.com/track/0Vd3oU8EfWdZZO1J0W3dBN"
     },
     {
       "added_at": null,
@@ -885,6 +885,6 @@
       "url": "https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF"
     }
   ],
-  "unique_name": "This Is Danny Ocean",
+  "unique_name": "This Is \u30c0\u30cb\u30fc\u30fb\u30aa\u30fc\u30b7\u30e3\u30f3",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lWjLU"
 }

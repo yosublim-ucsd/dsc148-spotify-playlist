@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
-  "num_followers": 11884,
+  "num_followers": 11898,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein"
+        "name": "Ruach Hakodesh",
+        "url": "https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm"
       },
       "artists": [
         {
-          "name": "Nacee",
-          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 256750,
-      "name": "Aseda",
-      "url": "https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1"
+      "duration_ms": 552000,
+      "name": "Ruach Hakodesh",
+      "url": "https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -403,18 +403,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Ruach Hakodesh",
-        "url": "https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm"
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein"
       },
       "artists": [
         {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+          "name": "Nacee",
+          "url": "https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK"
         }
       ],
-      "duration_ms": 552000,
-      "name": "Ruach Hakodesh",
-      "url": "https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz"
+      "duration_ms": 256750,
+      "name": "Aseda",
+      "url": "https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -523,22 +523,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Unconditional Love (feat. Niiella)",
-        "url": "https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM"
+        "name": "Live in Kumasi",
+        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
       },
       "artists": [
         {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        },
-        {
-          "name": "Niiella",
-          "url": "https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou"
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
         }
       ],
-      "duration_ms": 226017,
-      "name": "Unconditional Love (feat. Niiella)",
-      "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
+      "duration_ms": 280000,
+      "name": "Nyame Tumfo (Live)",
+      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -555,22 +551,6 @@
       "duration_ms": 221714,
       "name": "Sometin",
       "url": "https://open.spotify.com/track/0kPyu3XIUbFlyDvz319x8d"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Live in Kumasi",
-        "url": "https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Nyame Tumfo (Live)",
-      "url": "https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -595,6 +575,26 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Unconditional Love (feat. Niiella)",
+        "url": "https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Niiella",
+          "url": "https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou"
+        }
+      ],
+      "duration_ms": 226017,
+      "name": "Unconditional Love (feat. Niiella)",
+      "url": "https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Hosanna (Live)",
         "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 344862,
       "name": "Hossana (Live)",
       "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Matwen 20",
+        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
+      },
+      "artists": [
+        {
+          "name": "KOFI OWUSU PEPRAH",
+          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
+        }
+      ],
+      "duration_ms": 365808,
+      "name": "Matwen 20",
+      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -655,22 +671,6 @@
       "duration_ms": 324440,
       "name": "W' asue Me",
       "url": "https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Matwen 20",
-        "url": "https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6"
-      },
-      "artists": [
-        {
-          "name": "KOFI OWUSU PEPRAH",
-          "url": "https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1"
-        }
-      ],
-      "duration_ms": 365808,
-      "name": "Matwen 20",
-      "url": "https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK"
     },
     {
       "added_at": "2024-08-02 00:01:00",

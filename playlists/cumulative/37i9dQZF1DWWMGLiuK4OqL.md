@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-343 songs - 23 hr 28 min
+344 songs - 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Love Tastes Like Strawberries](https://open.spotify.com/track/61jFe9N3u046ORguFBVAQa) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Love Tastes Like Strawberries](https://open.spotify.com/album/3oOqTn2s7bE9Ye7GTmKO6m) | 3:38 | 2022-02-11 |  |
 | [Lover](https://open.spotify.com/track/1KSyemSUL2kyIzIK1rtOrY) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Lover + Tattoo](https://open.spotify.com/album/6Le1QNBHfDZiDlZocTuuNV) | 4:46 | 2024-05-31 | 2024-06-29 |
 | [Lucky To Be Me](https://open.spotify.com/track/1NeeobDoLiJb8U7X10vw3t) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Over The Years](https://open.spotify.com/album/3XE2b9grofAamuVk72wdn5) | 7:29 | 2022-01-20 |  |
+| [Lucky to Be Me](https://open.spotify.com/track/1Aw7w0E9iqGTqlbIjp2IMJ) | [Anna Gréta](https://open.spotify.com/artist/43v3iVtLSHdfUAYkjB4Geh) | [Lucky to Be Me](https://open.spotify.com/album/0CRxgAIw7pGHk0YGhnfPxT) | 2:59 | 2024-08-23 |  |
 | [Lush Life](https://open.spotify.com/track/2ShXVI9NNJwVnYGBWRd7nd) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Come What May](https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ) | 5:45 | 2022-01-20 |  |
 | [Makin' Whoopee](https://open.spotify.com/track/04rcEAa4UW7Wn8fRwIEWZt) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Meshuga Baby](https://open.spotify.com/album/5z86H0ClvGTNehrhbmqiDx) | 4:24 | 2023-01-17 | 2024-04-19 |
 | [Makin' Whoopee](https://open.spotify.com/track/1CiKFnkOYgJHxTkcOiIJxA) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Makin' Whoopee](https://open.spotify.com/album/3wyxpaIWVZj6DNOU1qgE3S) | 4:24 | 2022-01-20 | 2022-10-08 |
@@ -342,7 +343,7 @@
 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 | 2022-01-20 |  |
 | [You Belong To Me](https://open.spotify.com/track/2NDMLabAjx4oL7ezx2PNxS) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 3:13 | 2022-07-14 | 2024-04-19 |
 | [You Don't Know Me](https://open.spotify.com/track/4h74V26B574hSICB5MZs1c) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Genius Loves Company](https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE) | 3:55 | 2022-07-14 | 2024-04-19 |
-| [You Don't Know Me \(with Diana Krall\)](https://open.spotify.com/track/3NhDsoowimZMc97tDuG1T5) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Genius Loves Company](https://open.spotify.com/album/4QpvUXLTSvZ5JfA8kOyfNk) | 3:55 | 2022-01-20 |  |
+| [You Don't Know Me \(with Diana Krall\)](https://open.spotify.com/track/3NhDsoowimZMc97tDuG1T5) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Genius Loves Company](https://open.spotify.com/album/4QpvUXLTSvZ5JfA8kOyfNk) | 3:55 | 2022-01-20 | 2024-08-25 |
 | [You Don't Know What Love Is](https://open.spotify.com/track/5UPJdlkMWG2G2UwTfGSjOe) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 3:48 | 2022-01-20 | 2023-08-26 |
 | [You Know](https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U) | [Valentina Ranalli](https://open.spotify.com/artist/2ESQP8n7proCRJRgAxzhzK), [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [GIACOMO SERINO](https://open.spotify.com/artist/5P6GASLyZpxTAUHrixh3C3), [Cesare Mangiocavallo](https://open.spotify.com/artist/0bvOqAM4T7bvH2pzfiRx8b), [Giuseppe Romagnoli](https://open.spotify.com/artist/6sF2CAI4RkNd7czhFYRm9L) | [Cantare Pieranunzi](https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ) | 4:11 | 2022-03-31 |  |
 | [You Never Ask \- from 'Madame Sean Connery'](https://open.spotify.com/track/6UZATdF1FiuNheMPu5K14z) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [You Never Ask \(from 'Madame Sean Connery'\)](https://open.spotify.com/album/3L0HHKhSW7fAN0jjqOsOVi) | 4:05 | 2022-10-25 | 2023-08-26 |

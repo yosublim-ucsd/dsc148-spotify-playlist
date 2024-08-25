@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Abida Parveen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,786 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,902 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 37 | [Female Intuition](https://open.spotify.com/track/3irbvUcejyhvW0Zg4wqz9R) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Female Intuition](https://open.spotify.com/album/7wpaCoJbebCK3FeSySNgpE) | 2:14 |
 | 38 | [Yolun Sonu](https://open.spotify.com/track/5bGJ7adYLYCblwyi96it9K) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Yolun Sonu](https://open.spotify.com/album/17lGO9VxKnbhWh9woALoSR) | 2:41 |
 | 39 | [Mírame](https://open.spotify.com/track/0JmPjf44OKneEFD8Xnfogq) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Mírame](https://open.spotify.com/album/7LtN6cHZCPLkA3IPGx0p9Z) | 3:01 |
-| 40 | [Finding You](https://open.spotify.com/track/0g7d8Y9Y2BP8qFZDzngnSz) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Finding You](https://open.spotify.com/album/3SZoj251qJDnDf9heYFepJ) | 3:11 |
-| 41 | [Нітрогліцерин](https://open.spotify.com/track/4qyFdk6K9nY0u1EH4cb60j) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Нітрогліцерин](https://open.spotify.com/album/5nitMTajPTmjkgDb4j8zkR) | 2:33 |
+| 40 | [Нітрогліцерин](https://open.spotify.com/track/4qyFdk6K9nY0u1EH4cb60j) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Нітрогліцерин](https://open.spotify.com/album/5nitMTajPTmjkgDb4j8zkR) | 2:33 |
+| 41 | [Finding You](https://open.spotify.com/track/0g7d8Y9Y2BP8qFZDzngnSz) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Finding You](https://open.spotify.com/album/3SZoj251qJDnDf9heYFepJ) | 3:11 |
 | 42 | [Vũ Trụ Có Anh \(feat\. Pháo\)](https://open.spotify.com/track/6QiOpd1Bx43oEd8s6IL6Lf) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Vũ Trụ Có Anh \(feat\. Pháo\)](https://open.spotify.com/album/4J0uxqk0Xl31lXtTqaERmk) | 3:42 |
 | 43 | [Lost The Breakup](https://open.spotify.com/track/0gUGaSmX3bKGV3zuyT2uXK) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:09 |
 | 44 | [KANORMAL](https://open.spotify.com/track/6m0IN8IwikfsVvA098x0Cw) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [KANORMAL](https://open.spotify.com/album/4uHy7LBc8Iv1wlf18n3K26) | 3:18 |

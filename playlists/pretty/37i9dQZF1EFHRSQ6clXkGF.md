@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,133 likes - 271 songs - 17 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,132 likes - 271 songs - 17 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 48 | [The Same Situation](https://open.spotify.com/track/0jRKHKZhHZpN4Q1GHF7YZt) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:57 |
 | 49 | [Trouble Child](https://open.spotify.com/track/6xnWOh2QmFsggTxGsaPv7X) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 4:00 |
 | 50 | [Sundown](https://open.spotify.com/track/5qcpcU9tEppRObdzkytbm3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Electronic Earth \(Expanded Edition\)](https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI) | 5:06 |
-| 51 | [I Don't Know Where I Stand](https://open.spotify.com/track/4rciOQyIBH3Z4UqtV5DQ7K) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 3:13 |
-| 52 | [Blue Motel Room](https://open.spotify.com/track/0wGyenCHkW7eFO2ZpokF6C) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:04 |
+| 51 | [Blue Motel Room](https://open.spotify.com/track/0wGyenCHkW7eFO2ZpokF6C) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 5:04 |
+| 52 | [I Don't Know Where I Stand](https://open.spotify.com/track/4rciOQyIBH3Z4UqtV5DQ7K) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 3:13 |
 | 53 | [Just Like This Train](https://open.spotify.com/track/5sybv7y6pikPOhTxTgXfvc) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 4:24 |
 | 54 | [The Dawntreader](https://open.spotify.com/track/0KE9YElZqPumrpm9ovtXlN) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Song to a Seagull](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) | 5:04 |
 | 55 | [I Had a King](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Song to a Seagull](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) | 3:37 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 85 | [Marcie](https://open.spotify.com/track/7Jh31JRtXzVP6CZz775n0y) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Song to a Seagull](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) | 4:35 |
 | 86 | [The Boho Dance](https://open.spotify.com/track/7HRmnRfpghEaPsHHqvHhmv) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 3:50 |
 | 87 | [I Think I Understand](https://open.spotify.com/track/4e06l92kS9psWutgLTLhob) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 4:27 |
-| 88 | [This Place](https://open.spotify.com/track/2mrPXcUoXh4fEG1tmnruNZ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 3:54 |
-| 89 | [I'm Still Somehow](https://open.spotify.com/track/4BGQmgTuHxiK6WrYb4dj0z) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Glorious Game](https://open.spotify.com/album/73IZHjXw93CWjWoDpmQ6Vy) | 2:04 |
+| 88 | [I'm Still Somehow](https://open.spotify.com/track/4BGQmgTuHxiK6WrYb4dj0z) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Glorious Game](https://open.spotify.com/album/73IZHjXw93CWjWoDpmQ6Vy) | 2:04 |
+| 89 | [This Place](https://open.spotify.com/track/2mrPXcUoXh4fEG1tmnruNZ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 3:54 |
 | 90 | [Harry's House / Centerpiece](https://open.spotify.com/track/0tYcKClZd7Ks2B2sCscSmI) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 6:48 |
 | 91 | [Shades of Scarlett Conquering](https://open.spotify.com/track/05tkaAU41xlusuF4mz5hOE) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 4:57 |
 | 92 | [Barangrill \- Live At Capitol Studios / 2014](https://open.spotify.com/track/7dXzX9JwskhU6eDc36juZ8) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Covered \(The Robert Glasper Trio Recorded Live At Capitol Studios\)](https://open.spotify.com/album/24G0m5YTTWxqrRvllb9O7v) | 7:06 |
@@ -280,4 +280,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 270 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 271 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AbaN7AAAAADGh5Ri6Lbp3Gp8krAW49R8`
+Snapshot ID: `AbaTyAAAAABhiq47sS2Cd5+0UPxOB8Ep`

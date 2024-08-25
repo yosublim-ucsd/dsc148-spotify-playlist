@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. cover: They Are Gutting A Body Of Water
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,739 likes - 137 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,825 likes - 137 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mourning Haze](https://open.spotify.com/track/6siemd7q5UtGQHMoFDz9l0) | [Glare](https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl) | [Mourning Haze](https://open.spotify.com/album/2S3Wt1x9GTq9POIuyMJTQR) | 3:27 |
-| 2 | [ana orint \(feat\. Sword II\)](https://open.spotify.com/track/41SX6IFX6IJYmL0v9fmm7X) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [ana orint \(feat\. Sword II\)](https://open.spotify.com/album/3Jn1VvMs0LWqrkjYHDhUXB) | 2:58 |
+| 2 | [ana orint \(feat\. Sword II\)](https://open.spotify.com/track/41SX6IFX6IJYmL0v9fmm7X) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [ana orint \(feat\. Sword II\)](https://open.spotify.com/album/3Jn1VvMs0LWqrkjYHDhUXB) | 3:08 |
 | 3 | [A Lot Can Happen](https://open.spotify.com/track/4VILGtiBLGG0SQeiWLW3pW) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Sky Hundred](https://open.spotify.com/album/45rVXGAItPUFuTG9e10ldd) | 4:36 |
 | 4 | [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 |
 | 5 | [It Gets Easier](https://open.spotify.com/track/62ZTzwoCs7AmirXl7BSpni) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [It Gets Easier](https://open.spotify.com/album/0rDIjpyV5oYjnZdRZUtwT3) | 2:35 |

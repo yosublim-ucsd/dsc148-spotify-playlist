@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Mk.gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,675 likes - 181 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,744 likes - 181 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 3 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 |
 | 4 | [That's My Floor](https://open.spotify.com/track/2mJI78wsFOQfLvrrlR0H3H) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [That's My Floor](https://open.spotify.com/album/5dGhpX3W12hDDip1gniXfK) | 3:29 |
 | 5 | [Holy, Holy](https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I) | [Geordie Greep](https://open.spotify.com/artist/65Msz2E34NUtbjEbsrsJlJ) | [Holy, Holy](https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V) | 6:03 |
-| 6 | [ana orint \(feat\. Sword II\)](https://open.spotify.com/track/41SX6IFX6IJYmL0v9fmm7X) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [ana orint \(feat\. Sword II\)](https://open.spotify.com/album/3Jn1VvMs0LWqrkjYHDhUXB) | 2:58 |
+| 6 | [ana orint \(feat\. Sword II\)](https://open.spotify.com/track/41SX6IFX6IJYmL0v9fmm7X) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj), [Sword II](https://open.spotify.com/artist/0JYwNChldP4Ad3OC6U83zi) | [ana orint \(feat\. Sword II\)](https://open.spotify.com/album/3Jn1VvMs0LWqrkjYHDhUXB) | 3:08 |
 | 7 | [What's Fair](https://open.spotify.com/track/0Hn1hbGgYUltMyYGfDnJBL) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [What's Fair](https://open.spotify.com/album/5T7UoQG0DidvCaulre2lKU) | 3:56 |
 | 8 | [Sleeping In](https://open.spotify.com/track/5t9JiHbOldV8xiFfXERd5J) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [POWER](https://open.spotify.com/album/5YMMVf8CozIqS0IDOoqTAD) | 3:18 |
 | 9 | [That's Life](https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:43 |

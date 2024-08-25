@@ -4,10 +4,11 @@
 
 > El nuevo sonido de la canción sudamericana de la mano de Yorka.
 
-153 songs - 8 hr 44 min
+154 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [10 minutos](https://open.spotify.com/track/04KXaLTpgFVDwn0wYcicYL) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [10 minutos](https://open.spotify.com/album/4sjiAFdAtZTBKbYvDr7ypI) | 3:22 | 2024-08-23 |  |
 | [21 DE ENERo](https://open.spotify.com/track/7g65PzaqZSmdvhQwmOwc8i) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [21 DE ENERo](https://open.spotify.com/album/0e7k7AFIpnc0nwD5pBRWwE) | 2:54 | 2024-08-02 |  |
 | [432](https://open.spotify.com/track/52fZHpT6Pqmbx6kUhBod7B) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3), [Falta y Resto](https://open.spotify.com/artist/6zFDZtjHbgsKkmVocRRpen) | [Los Abrazos son Instantes Decisivos Vol\. I](https://open.spotify.com/album/56XbTxt1H7eja3Rlhpp9Ev) | 3:34 | 2024-08-16 | 2024-08-24 |
 | [Abanicos negros](https://open.spotify.com/track/2nZYV4fsJFo9HK8d4uScJf) | [Belén Cuturi](https://open.spotify.com/artist/0IDto1IZOp1qMhBBAhnzVr) | [Abanicos negros](https://open.spotify.com/album/5HooZBR32c9nMCDSMvg6GR) | 2:42 | 2024-06-28 |  |
@@ -25,7 +26,7 @@
 | [Arrancar el Día](https://open.spotify.com/track/2ylkfIWfKXb7mTb17GxVhc) | [Julieta Diaz](https://open.spotify.com/artist/5Rsf5ssoL1u7kInV5NK7qF), [Diego Presa](https://open.spotify.com/artist/3ocrfk5U9Q5V2j6F0T8fjT) | [Arrancar el Día](https://open.spotify.com/album/6zQPVrqbDGJQAwBHFA55Hc) | 3:36 | 2024-06-28 | 2024-08-17 |
 | [Arrullito](https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Arrullito](https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz) | 3:48 | 2024-06-28 |  |
 | [Así Sea](https://open.spotify.com/track/3oz3bcmqhDrESwfzuYTXTo) | [La Bruja Salguero](https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Así Sea](https://open.spotify.com/album/4T9FJTDQanEnBuU9ejrLhB) | 3:36 | 2024-06-28 |  |
-| [Baguala de Salta, Chicoana](https://open.spotify.com/track/3hyT4UMWIgUJv1qCQ311p5) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Baguala de Salta, Chicoana](https://open.spotify.com/album/3C74MQh8Th2meP4fI6Egxn) | 1:43 | 2024-08-23 |  |
+| [Baguala de Salta, Chicoana](https://open.spotify.com/track/3hyT4UMWIgUJv1qCQ311p5) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Baguala de Salta, Chicoana](https://open.spotify.com/album/3C74MQh8Th2meP4fI6Egxn) | 1:43 | 2024-08-23 | 2024-08-25 |
 | [Barquito de Papel](https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj) | [Elizabeth Morris](https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi) | [Los Ojos del Corazón](https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b) | 3:51 | 2024-06-28 |  |
 | [Bañera](https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q) | [Inés Errandonea](https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk), [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT) | [Bañera](https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX) | 2:32 | 2024-08-16 |  |
 | [Candor](https://open.spotify.com/track/7KERYWUNyuDcMhhfGhCbui) | [Sebastian Jantos](https://open.spotify.com/artist/1l0gl82XpbvEYM5JLtasTI), [Laura Chinelli](https://open.spotify.com/artist/7p3GyCsAPDbpnKPhQyC4rq) | [Candor](https://open.spotify.com/album/4MCb4pGkHE5uQmIzSse1fX) | 4:52 | 2024-07-05 |  |

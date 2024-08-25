@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: TAEMIN\(태민\)\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,183 likes - 378 songs - 20 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,259 likes - 378 songs - 20 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 56 | [Roses](https://open.spotify.com/track/3urRYZm3Xws15GeNNoqs7y) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:48 |
 | 57 | [Villain](https://open.spotify.com/track/5k5npy7HGpTbzKHhu958ZJ) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [FROM.](https://open.spotify.com/album/1lKM9Jx2NchU15TTLqTbMt) | 3:51 |
 | 58 | [My Way](https://open.spotify.com/track/3zUxQpCyUrfEjz6Y07yg4b) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [SIS \(Soft Is Strong\)](https://open.spotify.com/album/48t47MKCsynkPx3rRg7EWr) | 2:34 |
-| 59 | [The flowers swayed](https://open.spotify.com/track/6DXI6JoLYLoN1aA4HRrRHv) | [mimiirose](https://open.spotify.com/artist/3699Hh55qWXd0kWWMWRR2o) | [REEBON](https://open.spotify.com/album/5TYHjz6BY0ZVW8PODCdrhn) | 3:05 |
+| 59 | [The flowers swayed](https://open.spotify.com/track/6DXI6JoLYLoN1aA4HRrRHv) | [MIMIIROSE](https://open.spotify.com/artist/3699Hh55qWXd0kWWMWRR2o) | [REEBON](https://open.spotify.com/album/5TYHjz6BY0ZVW8PODCdrhn) | 3:05 |
 | 60 | [Lonely Night](https://open.spotify.com/track/57n1vSsM55Is7Z007RnPuM) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Lonely Night](https://open.spotify.com/album/1jdfeH9b7fZ1YJSbSnHik8) | 3:59 |
 | 61 | [UNCONDITIONAL \(feat\. DON FVBIO\)](https://open.spotify.com/track/3kZDCT9qiss3HGnHGtgGnQ) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey), [DON FVBIO](https://open.spotify.com/artist/0Rd4Jl082gZZ9k74Jr8flD) | [UNCONDITIONAL \(feat\. DON FVBIO\)](https://open.spotify.com/album/4GO7AG1edsZ7lO6KYzg9Oq) | 2:59 |
 | 62 | [WHEN SHE SMOKES](https://open.spotify.com/track/3NClcZjun0q87sBxPjU0Sn) | [A.TRAIN](https://open.spotify.com/artist/7D0HzqgqyXHSl3Vp4EC1EL) | [WHEN SHE SMOKES](https://open.spotify.com/album/0yMz2B7wb4gnLZE8R9VrOo) | 3:48 |

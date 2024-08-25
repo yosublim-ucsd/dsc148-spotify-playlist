@@ -6981,6 +6981,36 @@
     },
     {
       "album": {
+        "name": "Ritournelle",
+        "url": "https://open.spotify.com/album/0yF0mHPg3gwyzM1iN6wsCt"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Bailly",
+          "url": "https://open.spotify.com/artist/2BNpDSWYQYPMkd9qA3L5bS"
+        },
+        {
+          "name": "\u00c9tienne Renard",
+          "url": "https://open.spotify.com/artist/22OYHZMv7lOEXT4iW8sbNR"
+        },
+        {
+          "name": "David Gadea",
+          "url": "https://open.spotify.com/artist/2c54DqAX3lnRXDEtKO6vso"
+        },
+        {
+          "name": "Bodek Janke",
+          "url": "https://open.spotify.com/artist/1vlAFbslUYhnM0F0gfS9YE"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367080,
+      "name": "Ritournelle",
+      "url": "https://open.spotify.com/track/2GV61NkWi4YKFzgvLbZVBX"
+    },
+    {
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/76N4BVMak5BIL1w3HvLZRX"
       },
@@ -9990,7 +10020,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 347146,
       "name": "Wisteria",
       "url": "https://open.spotify.com/track/5QdGSxicWhfhvJCkkVrXoh"

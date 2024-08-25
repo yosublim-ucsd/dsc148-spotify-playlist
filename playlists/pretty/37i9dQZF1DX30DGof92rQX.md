@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Pakistani indie tracks on the rise\. Like this? More fresh discoveries in <a href="https://open.spotify.com/playlist/37i9dQZF1DXd0Rasy4eR1v?si=e68b04cda53a4431">Fresh Finds PK</a>\. Cover \- Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,643 likes - 67 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,655 likes - 67 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 20 | [Talking To My Heart](https://open.spotify.com/track/7pj46Hvk3pZPG3mzEWJ7Nq) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc), [Kabeer Khan](https://open.spotify.com/artist/0IdnVmNY5znWCoM5xM9ibt) | [Talking To My Heart](https://open.spotify.com/album/1O0ve8bN9wyIsJFVUKsNF2) | 2:34 |
 | 21 | [Kehte Raho](https://open.spotify.com/track/5gwwfepdfUXI6D1PQzxB5W) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR), [Rakae Jamil](https://open.spotify.com/artist/68ruZNGwS6xFD7IOJYUZIa) | [Kehte Raho](https://open.spotify.com/album/1Xv4yVxbCNZ234TCtyeZzH) | 2:33 |
 | 22 | [Mansoob](https://open.spotify.com/track/6oU4lJaaBWARtNXDBLjnFb) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9) | [Mansoob](https://open.spotify.com/album/0ru0ZZ8qTufVPvEIB7GbFd) | 2:43 |
-| 23 | [Teri Muskurahat](https://open.spotify.com/track/0D4MK8SHieH1iiyLpHBwoJ) | [Azan](https://open.spotify.com/artist/3ywc0vBPFMERcCjnQpEsTY) | [Teri Muskurahat](https://open.spotify.com/album/14B5WumSIybQGYTrW08EgQ) | 3:12 |
+| 23 | [Teri Muskurahat](https://open.spotify.com/track/0D4MK8SHieH1iiyLpHBwoJ) | [Ch Azan Ahmad](https://open.spotify.com/artist/0Sg9mWWjJEv4btRVUa98FW) | [Teri Muskurahat](https://open.spotify.com/album/14B5WumSIybQGYTrW08EgQ) | 3:12 |
 | 24 | [Silah](https://open.spotify.com/track/5y3Vx1M0lTD5HnJfiSP3EU) | [Ammaz Ali](https://open.spotify.com/artist/5synhhykBpEe8szX5xKScC), [Mahad Sheikh](https://open.spotify.com/artist/2bsO6llLoRgLaJ1HkX7cdS) | [Silah](https://open.spotify.com/album/4gHkDiXPtcYYP6dDOoYqce) | 3:12 |
 | 25 | [All Mine](https://open.spotify.com/track/25pjmh0nor9b1QQ2ZNxCHC) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [All Mine](https://open.spotify.com/album/3s9CoRl3fsz5xm0H0iccNR) | 2:55 |
 | 26 | [Aankhon Mein Aansu](https://open.spotify.com/track/6S9wFxOlnz42LpCKIhlpJR) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Aankhon Mein Aansu](https://open.spotify.com/album/43dYT1CnZXvbA71yk1t7sn) | 3:11 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30b6\u30fb\u30dd\u30ea\u30b9\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 338080,
-  "original_name": "This Is \u30b6\u30fb\u30dd\u30ea\u30b9",
+  "description": "This is The Police. The essential tracks, all in one playlist.",
+  "num_followers": 338132,
+  "original_name": "This Is The Police",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAACDvKACnrYW/tJTrqzJxek/",
+  "snapshot_id": "ZsfRAAAAAAA+mrez7TxDD8/YaJ5A6Aa2",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 240213,
-      "name": "Every Breath You Take - Demo",
-      "url": "https://open.spotify.com/track/5JL3i96BobsDBjPB8oC4jG"
+      "duration_ms": 202106,
+      "name": "Every Bomb You Make",
+      "url": "https://open.spotify.com/track/2k7p1BXc82S8Yj5vKIaTJi"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
         }
       ],
-      "duration_ms": 202106,
-      "name": "Every Bomb You Make",
-      "url": "https://open.spotify.com/track/2k7p1BXc82S8Yj5vKIaTJi"
+      "duration_ms": 240213,
+      "name": "Every Breath You Take - Demo",
+      "url": "https://open.spotify.com/track/5JL3i96BobsDBjPB8oC4jG"
     },
     {
       "added_at": null,
@@ -817,6 +817,6 @@
       "url": "https://open.spotify.com/track/1baFho4VmA5H4nZjYMRxDE"
     }
   ],
-  "unique_name": "This Is \u30b6\u30fb\u30dd\u30ea\u30b9",
+  "unique_name": "This Is The Police",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pXaXS"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Carin León, Carlos Vives, Chimbala
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,362 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,387 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 16 | [Adicto a tu Piel \- En Vivo](https://open.spotify.com/track/7BBxvrpkTCgcmXAiH0GPbf) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Adicto a tu Piel \(En Vivo\)](https://open.spotify.com/album/0BpPxdWB3rLyJMpQvjqx7F) | 2:31 |
 | 17 | [Te Lo Agradezco](https://open.spotify.com/track/5AAAr9ckR54bP5BfvXqILr) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Aneley](https://open.spotify.com/artist/0fwYg36a0rtDscNA60ULVQ) | [Te Lo Agradezco](https://open.spotify.com/album/5BX90KAtpnJg6R2rW9p3jo) | 3:39 |
 | 18 | [Desquite](https://open.spotify.com/track/7LCn8IY0seI4eA9F2F34gT) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Desquite](https://open.spotify.com/album/1jYbWGO7bn2U26LRjlJWey) | 2:28 |
-| 19 | [Te Darán Ganas De Verme](https://open.spotify.com/track/0rDIBPKneK2SzyuudNOMEc) | [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp), [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Te Darán Ganas De Verme](https://open.spotify.com/album/2A8cgaJYQ8imaTapbeW5pJ) | 2:53 |
+| 19 | [Te Darán Ganas De Verme](https://open.spotify.com/track/0rDIBPKneK2SzyuudNOMEc) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Ojos de Luna](https://open.spotify.com/artist/6EPEdRK6WnrlOrUfRF7Jcp) | [Te Darán Ganas De Verme](https://open.spotify.com/album/2A8cgaJYQ8imaTapbeW5pJ) | 2:53 |
 | 20 | [Si es por ti](https://open.spotify.com/track/2ykHSHhvn7HDwxNKOFTYVy) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [Si es por ti](https://open.spotify.com/album/3ZNP6m1hBJk0VH78C757kB) | 2:34 |
 | 21 | [Se Cancela La Depre](https://open.spotify.com/track/4dotkoLHSevllnyRJR1iKN) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Se Cancela La Depre](https://open.spotify.com/album/4jYkbpu8fJZsqgixpjvlri) | 3:08 |
 | 22 | [Doble Vida](https://open.spotify.com/track/4WW5c4ub9quHS7ayeHsrhY) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9), [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Doble Vida](https://open.spotify.com/album/4etDpFcuMikyLHnlLqk0PG) | 3:45 |

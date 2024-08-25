@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: CloZee and LSDREAM
 
-642 songs - 1 day 14 hr 23 min
+643 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,7 @@
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-07-08 | 2023-05-27 |
 | [PART OF ME](https://open.spotify.com/track/1Hn4Yt7ByliodvxeanCQkS) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [BEYOND THE VOID](https://open.spotify.com/album/53ZBt5Wzau79tfbpKAupE6) | 2:32 | 2022-07-29 | 2023-05-17 |
 | [PART OF ME](https://open.spotify.com/track/2wW67KaLBLCaLxeyCNBEjo) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [BEYOND THE VOID](https://open.spotify.com/album/0Bgx5cjJDNSeC7n54K7LPX) | 2:32 | 2022-07-08 | 2022-07-29 |
-| [Phantom Love](https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Phantom Love](https://open.spotify.com/album/1W4WffgX8enc9VwffpDRYi) | 4:19 | 2023-10-06 |  |
+| [Phantom Love](https://open.spotify.com/track/67j3g4eymg1Ev6UbMyMr0m) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Phantom Love](https://open.spotify.com/album/1W4WffgX8enc9VwffpDRYi) | 4:19 | 2023-10-06 | 2024-08-25 |
 | [Phantoms](https://open.spotify.com/track/0WUVe3Nkd1BMuGecBkGGLr) | [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [Allie Crystal](https://open.spotify.com/artist/5cUCYy2DOOdTsCNI2GnLnz) | [Phantoms](https://open.spotify.com/album/5TuRd84g8N14luBq3Jbwkg) | 3:19 | 2023-06-16 | 2023-11-08 |
 | [Phenomenon](https://open.spotify.com/track/3kmsAolICtnEFp5SLLO5Bn) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A), [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [Phenomenon](https://open.spotify.com/album/2DWRJ0Hgdt0krIxiz3Lu2Y) | 3:38 | 2022-07-18 | 2023-10-14 |
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-08 | 2022-09-05 |
@@ -639,6 +639,7 @@
 | [With You](https://open.spotify.com/track/6t2Kj4DEcYmRwAsCGWFs2E) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [With You](https://open.spotify.com/album/7N300AA6yGawrIIzq6n1Hb) | 3:30 | 2022-07-08 | 2022-07-29 |
 | [Without Me](https://open.spotify.com/track/48fvMOyYDflTCbRSNJVglq) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Concrete Castles](https://open.spotify.com/artist/1Cexar57ALO1nZIiKoIUuo) | [Without Me](https://open.spotify.com/album/3UVTbzNQzm5UWhs7Hltghz) | 3:12 | 2024-02-06 | 2024-07-27 |
 | [Without You](https://open.spotify.com/track/6lx0nNHGV82zak7aO2JNWz) | [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [Aloma Steele](https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX) | [Without You](https://open.spotify.com/album/28NpcJHOCvuYdr0c0DDmwF) | 4:22 | 2023-09-15 | 2023-11-11 |
+| [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 | 2024-08-23 |  |
 | [Worlds Away](https://open.spotify.com/track/6BYzwbWg1Z2EB6VUXTYnhm) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Worlds Away](https://open.spotify.com/album/1houBJfStVPhEjlJc1Dndr) | 4:10 | 2023-06-16 | 2024-02-17 |
 | [Worlds Away \- yetep Remix](https://open.spotify.com/track/2FIMqlUhjUpMmuyBIccbwK) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Worlds Away \(yetep Remix\)](https://open.spotify.com/album/6HIILItHPNh4q46jHSXuFy) | 4:51 | 2024-02-16 |  |
 | [Worst Night of My Life](https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Worst Night of My Life](https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY) | 2:55 | 2024-05-24 | 2024-08-17 |

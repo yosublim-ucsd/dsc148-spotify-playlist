@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: MOTHICA
 
-824 songs - 1 day 18 hr 26 min
+825 songs - 1 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Crash and Burn](https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:39 | 2022-03-17 | 2023-03-25 |
 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 | 2023-12-15 |  |
 | [Crazy Devotion](https://open.spotify.com/track/2OODxPE3suTBpTHQbV9kDG) | [Quinton Griggs](https://open.spotify.com/artist/0ZdLS8EfYknjiTEBHbJt9n) | [Crazy Devotion](https://open.spotify.com/album/0gJZBBUadhYyf79kY5pI2y) | 3:03 | 2022-03-17 | 2024-04-20 |
+| [Cruel Intentions](https://open.spotify.com/track/6uvy49KT5k1wgtqF26eIMC) | [Neon Trees](https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy) | [Cruel Intentions](https://open.spotify.com/album/0vPMFpVHNSj9JtxgQWINLN) | 2:46 | 2024-08-23 |  |
 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 | 2024-04-19 |  |
 | [CRYBABY](https://open.spotify.com/track/2xNyRwIlRuYO2eN4enzRPQ) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [CRYBABY](https://open.spotify.com/album/4N1kb8sxL6pVnKgpWMW3s6) | 2:56 | 2024-04-19 |  |
 | [Crybaby \(with phem\)](https://open.spotify.com/track/2zKccghp1bpE6MFsCU9jbz) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [Crybaby \(with phem\)](https://open.spotify.com/album/3NHgfYrWss5PzSo9oG1WXQ) | 2:17 | 2023-07-28 | 2023-08-21 |
@@ -629,7 +630,7 @@
 | [sail away](https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71) | 2:59 | 2023-03-17 |  |
 | [save me from the monster in my head](https://open.spotify.com/track/3eY4I6mtLJMCUmYWXBytqy) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [save me from the monster in my head](https://open.spotify.com/album/2GAjg9w6SLqVrXD1pFHpO3) | 3:12 | 2022-03-24 | 2022-04-15 |
 | [savior](https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [savior](https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp) | 3:00 | 2024-04-19 |  |
-| [Say It \(To My Face\)](https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:39 | 2023-04-07 |  |
+| [Say It \(To My Face\)](https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:39 | 2023-04-07 | 2024-08-25 |
 | [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 | 2024-08-23 |  |
 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/2Srbekd8waUUAr0gIMt5dg) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/album/0IZGnnl5a2wFGLsCYHJyQ6) | 3:30 | 2022-03-24 | 2022-04-17 |
 | [Second Single Bed](https://open.spotify.com/track/3BehfRcWSWPFZNIZfwMu7I) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Second Single Bed](https://open.spotify.com/album/0z2Aga9gZaBVt2eLqIXD29) | 3:40 | 2022-08-09 | 2022-09-29 |

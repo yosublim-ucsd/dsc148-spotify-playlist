@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JcLkkShqRw.md) - [plain]
 
 > Flow sudamericano con AKRIILA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,611 likes - 115 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,586 likes - 115 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [worldw1de \(feat\. Princesa Alba\)](https://open.spotify.com/track/50DRK5ejfBXstCLC2foTXe) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Broke Carrey](https://open.spotify.com/artist/5kuI5G2e4AlUcUA4hJRSOQ), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:37 |
+| 1 | [worldw1de \(feat\. Princesa Alba\)](https://open.spotify.com/track/50DRK5ejfBXstCLC2foTXe) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Broke Carrey](https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:37 |
 | 2 | [3 PECADOS DESPUES…](https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [166](https://open.spotify.com/album/6apkynw8DBUza2600Wm70t) | 1:58 |
 | 3 | [Locura y Maldad](https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Locura y Maldad](https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j) | 3:20 |
 | 4 | [NO TE VAYAS](https://open.spotify.com/track/6VWCiFf85ccZrZps6UpVZK) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [NO TE VAYAS](https://open.spotify.com/album/78Q6LfkT1dmeXXMJTlaRKU) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d0\u05dc\u05d5\u05df \u05e2\u05d3\u05e8",
-  "num_followers": 30086,
+  "num_followers": 30098,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,22 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
+        "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI"
+      },
+      "artists": [
+        {
+          "name": "Gil Bar Hadas",
+          "url": "https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
         "name": "Until The Morning",
         "url": "https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 159679,
       "name": "\u05ea\u05df \u05e1\u05d9\u05de\u05df",
       "url": "https://open.spotify.com/track/51Mk3S1G3YmcF6oHujOyJW"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
-        "url": "https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI"
-      },
-      "artists": [
-        {
-          "name": "Gil Bar Hadas",
-          "url": "https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "\u05e2\u05db\u05e9\u05d9\u05d5 \u05d6\u05d4 \u05d1\u05e8\u05d5\u05e8",
-      "url": "https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
+        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
       },
       "artists": [
         {
-          "name": "Noifeld's Glasses",
-          "url": "https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS"
-        },
-        {
-          "name": "Guy Mazig",
-          "url": "https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R"
+          "name": "Aya Zahavi Feiglin",
+          "url": "https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2"
         }
       ],
-      "duration_ms": 208000,
-      "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
+      "duration_ms": 229000,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -1059,34 +1055,42 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
+        "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
       },
       "artists": [
         {
-          "name": "Aya Zahavi Feiglin",
-          "url": "https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2"
+          "name": "Noifeld's Glasses",
+          "url": "https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS"
+        },
+        {
+          "name": "Guy Mazig",
+          "url": "https://open.spotify.com/artist/2Ky0L9EAz66AEhFfeak23R"
         }
       ],
-      "duration_ms": 229000,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
+      "duration_ms": 208000,
+      "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
     },
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Wild Wonder",
-        "url": "https://open.spotify.com/album/5ye1IukbFGXuGABrWuTMoB"
+        "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
+        "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
       },
       "artists": [
         {
-          "name": "Balkan Beat Box",
-          "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
+          "name": "Ilan Peled",
+          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
         }
       ],
-      "duration_ms": 248158,
-      "name": "Wild Wonder",
-      "url": "https://open.spotify.com/track/6jLzdA8hcaEBYVjtGYfP09"
+      "duration_ms": 235000,
+      "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
+      "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

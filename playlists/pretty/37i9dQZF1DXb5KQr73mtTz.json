@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 17509,
+  "num_followers": 17510,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-08-10 15:54:36",
       "album": {
-        "name": "Don't Leave Me Alone",
-        "url": "https://open.spotify.com/album/2DB12TUZF3gOIFy6Ovqba2"
-      },
-      "artists": [
-        {
-          "name": "RYU JIHYUN",
-          "url": "https://open.spotify.com/artist/2gY4TLGKmjvYHZgL7Zfvt2"
-        }
-      ],
-      "duration_ms": 207760,
-      "name": "Don\u2019t Leave Me Alone",
-      "url": "https://open.spotify.com/track/5ji6bQuR4enoUilaIZyr1V"
-    },
-    {
-      "added_at": "2024-08-10 15:54:36",
-      "album": {
         "name": "Why break up? (My love X Jeon Sang Keun)",
         "url": "https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 271280,
       "name": "Why break up? (My love X Jeon Sang Keun)",
       "url": "https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF"
+    },
+    {
+      "added_at": "2024-08-10 15:54:36",
+      "album": {
+        "name": "Don't Leave Me Alone",
+        "url": "https://open.spotify.com/album/2DB12TUZF3gOIFy6Ovqba2"
+      },
+      "artists": [
+        {
+          "name": "RYU JIHYUN",
+          "url": "https://open.spotify.com/artist/2gY4TLGKmjvYHZgL7Zfvt2"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Don\u2019t Leave Me Alone",
+      "url": "https://open.spotify.com/track/5ji6bQuR4enoUilaIZyr1V"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 
 > <a href="spotify:artist:2xeHjPrS4EnEUIXHV9pkeg">Monika Kruse</a>'s favorite tracks\. Updated regularly\. Curated by Monika Kruse\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,301 likes - 69 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,313 likes - 69 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Qpx391Wkce.md) - [plain]
 | 12 | [Simulator \- Odd Mob Remix](https://open.spotify.com/track/0GiT71RKKiZbmBH4u3VoU1) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Simulator Remixes](https://open.spotify.com/album/3yYs4kAhpSnBsHC1Usadyd) | 4:11 |
 | 13 | [Orbital Overdrive](https://open.spotify.com/track/55nGYZkyqpm6C3uh8koxyT) | [Zafer Atabey](https://open.spotify.com/artist/7FnPG0rhevatoL8aTx9Ag7) | [Orbital Overdrive](https://open.spotify.com/album/56QmnmzAwcHtoYh3keiymi) | 4:14 |
 | 14 | [LIFT ME UP](https://open.spotify.com/track/7LNiEbgn9x43HQGQywRoYC) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Dajae](https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE) | [LIFT ME UP](https://open.spotify.com/album/4P4mMZqsPVTzwAxpdMrHVe) | 3:47 |
-| 15 | [Good Life \(Remastered\)](https://open.spotify.com/track/1F0uekJ6dni1ywjlSx3nsA) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Good Life \(Remastered\)](https://open.spotify.com/album/2lUlqHTF2ohyou9NKcpa7Z) | 3:16 |
+| 15 | [Good Life \(Remastered\)](https://open.spotify.com/track/1F0uekJ6dni1ywjlSx3nsA) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life \(Remastered\)](https://open.spotify.com/album/2lUlqHTF2ohyou9NKcpa7Z) | 3:16 |
 | 16 | [Marionette](https://open.spotify.com/track/0LG0XwV3KdCgHsGrqN1u4u) | [Mathew Jonson](https://open.spotify.com/artist/6PTy8QkZxHr7Thp8SPYE71) | [Marionette](https://open.spotify.com/album/4jB9tDebyvYZHEhfAnYV8E) | 11:22 |
 | 17 | [Pulverturm \- ANNA Rework](https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Pulverturm \(ANNA Rework\)](https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE) | 3:56 |
 | 18 | [I Can Feel That \- Christian Smith & Drunken Kong Remix](https://open.spotify.com/track/3TME3m5KBEU6QmXw2EHiTl) | [Pascal Feos](https://open.spotify.com/artist/5E6aRHK6j8Nj8E1a0jIR8W), [Christian Smith](https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3), [Drunken Kong](https://open.spotify.com/artist/2c8K7cdY2IU2jBacPOxYqk) | [I Can Feel That \(Remixed\)](https://open.spotify.com/album/6cU3UFhWDBlfVtoQ0ugM78) | 6:05 |

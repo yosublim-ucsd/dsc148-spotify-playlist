@@ -2,7 +2,7 @@
 
 ### [This Is Karl Jenkins](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Mursa)
 
-> This is Karl Jenkins\. The essential tracks, all in one playlist.
+> This Is Karl Jenkins\. Los temas esenciales, todos en una lista.
 
 56 songs - 4 hr 4 min
 

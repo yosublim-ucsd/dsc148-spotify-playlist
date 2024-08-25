@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 43,585 likes - 88 songs - 4 hr 37 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 43,603 likes - 88 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 9 | [Anything Goes](https://open.spotify.com/track/0FU8AIBNGxSZ8IdXsSUjWF) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Anything Goes](https://open.spotify.com/album/78o0jD0mpRLazYdUfYiK04) | 2:06 |
 | 10 | [The Meaning](https://open.spotify.com/track/1YdoaaMS7GZQOosDl2hR8K) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [The Meaning](https://open.spotify.com/album/4oMSLkDWDglOE9P2OLV4p3) | 2:47 |
 | 11 | [Kameshika Signal](https://open.spotify.com/track/2rkOX9hNPuf5hK1FhA8dZT) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [Cedo](https://open.spotify.com/artist/4XnL8ClOo3yWrWU4VJWa6q) | [Kameshika Signal](https://open.spotify.com/album/4Lj7fvEOjg0ui9lyL5iiQG) | 2:50 |
-| 12 | [Just Imagine...](https://open.spotify.com/track/26aUhA7DrunXYrfAi8eDYQ) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Just Imagine EP](https://open.spotify.com/album/3jyCJNDNO55EedvjnHCL61) | 2:39 |
+| 12 | [Just Imagine](https://open.spotify.com/track/26aUhA7DrunXYrfAi8eDYQ) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA), [eejebee](https://open.spotify.com/artist/5cFJUBx5psjJrIrLWWfrAu) | [Just Imagine EP](https://open.spotify.com/album/3jyCJNDNO55EedvjnHCL61) | 2:39 |
 | 13 | [Married](https://open.spotify.com/track/52PKHwouqcZxnPcUE0en29) | [The Wet Whistles](https://open.spotify.com/artist/6Fvgm07RssXriVhFg3HTIj) | [KICKONS](https://open.spotify.com/album/6jTtXvHk7B1W4Pqs3jBPK5) | 3:31 |
 | 14 | [kids](https://open.spotify.com/track/5e6VvBJA2u0mYbxpxoEqtx) | [Wesley Black](https://open.spotify.com/artist/1WxFeH38BLLqgOdhtd36Nv) | [kids](https://open.spotify.com/album/5rokqWrXHtNimPTw3NXELX) | 2:30 |
 | 15 | [Good Enough to Give](https://open.spotify.com/track/4pBMfQwUBQ9K2nwGK7YQyO) | [Figuero Jones](https://open.spotify.com/artist/0x07QTPyIoE2xSihIAncYF) | [Good Enough to Give](https://open.spotify.com/album/165TotiFhzBYtfN9j5JfpQ) | 3:31 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 21 | [Gangsters](https://open.spotify.com/track/0px75dZuaD2UmnQzOI37rk) | [Skengdo](https://open.spotify.com/artist/3LmkRGuUav9Un8TDMjwKSg), [AM](https://open.spotify.com/artist/6qYIqnnJM4TkFtVKiqQgmm), [D Proffit](https://open.spotify.com/artist/1yPUttnkZ82L1DQ6dHlk5o) | [Gangsters](https://open.spotify.com/album/6uZ76LzejCL6YOCtoNkw0K) | 4:08 |
 | 22 | [ANY MEANS](https://open.spotify.com/track/6dnofqu1s9HyhiXpBvJ27N) | [Yung Fume](https://open.spotify.com/artist/1h5mZb0u9bcFGeViohj87o) | [No Rules](https://open.spotify.com/album/6aH69eGVHJrHbW4CI9AxHn) | 2:35 |
 | 23 | [JADED](https://open.spotify.com/track/3tNbBW6ngFY6HQ3tri52wI) | [LXO](https://open.spotify.com/artist/29Rr4ndMNXWemfTPksGIdF) | [JADED](https://open.spotify.com/album/23Rp5FKSdYt9wQntZzeU1K) | 2:40 |
-| 24 | [Resilient 13](https://open.spotify.com/track/27hEqmCalAxRqrJRrBGkYG) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9) | [Gotham](https://open.spotify.com/album/1dUiHG3s7dL2qi9w1lv13i) | 2:49 |
+| 24 | [Gotham](https://open.spotify.com/track/27hEqmCalAxRqrJRrBGkYG) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9) | [Gotham](https://open.spotify.com/album/1dUiHG3s7dL2qi9w1lv13i) | 2:49 |
 | 25 | [Tell Me What's In Your Head \- Charlie Shell Remix](https://open.spotify.com/track/51JUabNeL65vI6HiarXsQ5) | [Lollie](https://open.spotify.com/artist/66RJJrYq5095FVx7L0cRY1), [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [Tell Me What's in Your Head \(Charlie Shell Remix\)](https://open.spotify.com/album/6EvrGdMDiIAMlD7SPXAOJt) | 3:10 |
 | 26 | [8 Degree](https://open.spotify.com/track/0QoUTWltcZY2OjFZyuZHS3) | [Tskinz](https://open.spotify.com/artist/0nP9xNUoQMzpNU30wUJPap) | [8 Degree](https://open.spotify.com/album/2lJ5E9Z4Sw47zNBW8eyUPB) | 2:01 |
 | 27 | [Trendy](https://open.spotify.com/track/0cg6sDwrolh4WpPWM8RyD2) | [Jedz](https://open.spotify.com/artist/7GrDIhO2PSEwombCXlX3vh) | [Trendy](https://open.spotify.com/album/6Cga5msQ3xxrcIP8JemKff) | 2:48 |

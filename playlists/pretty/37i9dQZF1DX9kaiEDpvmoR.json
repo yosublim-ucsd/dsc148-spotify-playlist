@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92195,
+  "num_followers": 92198,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Sol, vind och vatten",
-        "url": "https://open.spotify.com/album/6Fz2mcB9LBohD8iKu2uFrg"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 218625,
-      "name": "Sol, vind och vatten",
-      "url": "https://open.spotify.com/track/5s3pTIa2lWnitF6x0pqWDu"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Upp med hakan",
         "url": "https://open.spotify.com/album/3OAWeefFpKwzXX4JOINByi"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 165333,
       "name": "Upp med hakan",
       "url": "https://open.spotify.com/track/2sBeb4kF1dFxiWpjiokbmM"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Sol, vind och vatten",
+        "url": "https://open.spotify.com/album/6Fz2mcB9LBohD8iKu2uFrg"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 218625,
+      "name": "Sol, vind och vatten",
+      "url": "https://open.spotify.com/track/5s3pTIa2lWnitF6x0pqWDu"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "The Player",
+        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 168188,
+      "name": "The Player",
+      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Viker inte ner mig \u00e4n",
         "url": "https://open.spotify.com/album/2mFPWvGbmGbPErZLI1qAl2"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Midsommardansen",
         "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 157240,
       "name": "All Day",
       "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -827,22 +843,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Manic Pixie Dream Girl",
-        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 163984,
-      "name": "Manic Pixie Dream Girl",
-      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Vill ha mer (2024 Version)",
         "url": "https://open.spotify.com/album/6ixoV6ViSH8oxveefb0IFl"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 164880,
       "name": "Vill ha mer - 2024 Version",
       "url": "https://open.spotify.com/track/1GjRVj6OdWmFqRW7Uv8VII"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Manic Pixie Dream Girl",
+        "url": "https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 163984,
+      "name": "Manic Pixie Dream Girl",
+      "url": "https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -991,6 +1007,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "\u00c4nglarna",
+        "url": "https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Lundqvist",
+          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "\u00c4nglarna",
+      "url": "https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0"
       },
@@ -1023,6 +1055,54 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Roll On Buddy",
+        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 203106,
+      "name": "Roll On Buddy",
+      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Pl\u00e5ster",
+        "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
+      },
+      "artists": [
+        {
+          "name": "Stiko Per Larsson",
+          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
+        }
+      ],
+      "duration_ms": 299861,
+      "name": "Pl\u00e5ster",
+      "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "En k\u00e4rlek sj\u00e4lv",
+        "url": "https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum"
+      },
+      "artists": [
+        {
+          "name": "Henning",
+          "url": "https://open.spotify.com/artist/16kHhnNjrKvtN546nBTWxn"
+        }
+      ],
+      "duration_ms": 237706,
+      "name": "En k\u00e4rlek sj\u00e4lv",
+      "url": "https://open.spotify.com/track/3aWcZVk42PEGi5bOzU8dBJ"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "John Denver",
         "url": "https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG"
       },
@@ -1039,6 +1119,22 @@
       "duration_ms": 187333,
       "name": "John Denver",
       "url": "https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Ge En Sol",
+        "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
+      },
+      "artists": [
+        {
+          "name": "Sara Zacharias",
+          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
+        }
+      ],
+      "duration_ms": 172166,
+      "name": "Ge En Sol",
+      "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1063,38 +1159,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "En k\u00e4rlek sj\u00e4lv",
-        "url": "https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum"
-      },
-      "artists": [
-        {
-          "name": "Henning",
-          "url": "https://open.spotify.com/artist/16kHhnNjrKvtN546nBTWxn"
-        }
-      ],
-      "duration_ms": 237706,
-      "name": "En k\u00e4rlek sj\u00e4lv",
-      "url": "https://open.spotify.com/track/3aWcZVk42PEGi5bOzU8dBJ"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Pl\u00e5ster",
-        "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
-      },
-      "artists": [
-        {
-          "name": "Stiko Per Larsson",
-          "url": "https://open.spotify.com/artist/5w78E7ncWx8w99ACGdcqkt"
-        }
-      ],
-      "duration_ms": 299861,
-      "name": "Pl\u00e5ster",
-      "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Sommarens famn",
         "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
       },
@@ -1107,6 +1171,22 @@
       "duration_ms": 174631,
       "name": "Sommarens famn",
       "url": "https://open.spotify.com/track/5xLNxhh0HZ1KrV0fV4A27u"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Flowers at a Funeral",
+        "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Flowers at a Funeral",
+      "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1147,6 +1227,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Two",
+          "url": "https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp"
+        }
+      ],
+      "duration_ms": 176776,
+      "name": "I Had Some Help",
+      "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Are You Ok",
         "url": "https://open.spotify.com/album/2NlDrsaG6JjlxZoS5M8H0H"
       },
@@ -1163,34 +1259,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "\u00c4nglarna",
-        "url": "https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR"
+        "name": "Double Up",
+        "url": "https://open.spotify.com/album/6xV6TtGQLjtdK7MMYruM9Q"
       },
       "artists": [
         {
-          "name": "Jonas Lundqvist",
-          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "\u00c4nglarna",
-      "url": "https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "I Had Some Help",
-        "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
-      },
-      "artists": [
+          "name": "Doug Seegers",
+          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
+        },
         {
-          "name": "Twenty One Two",
-          "url": "https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp"
+          "name": "Eva Eastwood",
+          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
         }
       ],
-      "duration_ms": 176776,
-      "name": "I Had Some Help",
-      "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
+      "duration_ms": 177562,
+      "name": "Double Up",
+      "url": "https://open.spotify.com/track/7dM1Z6C8e9V71d04CS2E5L"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1263,6 +1347,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 181428,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Good Day",
         "url": "https://open.spotify.com/album/0JDAgonYkc6HaZB4RHSCIq"
       },
@@ -1291,22 +1391,6 @@
       "duration_ms": 208153,
       "name": "Not With You",
       "url": "https://open.spotify.com/track/5TVRqKHORb3AhjwaLxOqct"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 181428,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1383,22 +1467,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Jag g\u00f6r allt som man inte f\u00e5r",
-        "url": "https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz"
-      },
-      "artists": [
-        {
-          "name": "Rolf Wikstr\u00f6m",
-          "url": "https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Jag g\u00f6r allt som man inte f\u00e5r",
-      "url": "https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Det \u00c4r Nog K\u00e4rlek \u00c4nd\u00e5",
         "url": "https://open.spotify.com/album/2geXaBfZiPoLcnV8WxMDQ4"
       },
@@ -1411,6 +1479,22 @@
       "duration_ms": 191250,
       "name": "Det \u00c4r Nog K\u00e4rlek \u00c4nd\u00e5",
       "url": "https://open.spotify.com/track/5gI30X0kenwXKCYywp7k3l"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Jag g\u00f6r allt som man inte f\u00e5r",
+        "url": "https://open.spotify.com/album/26AjUi95V3BArfHFPfBcWz"
+      },
+      "artists": [
+        {
+          "name": "Rolf Wikstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6JnHX2U0qF3EcoAHta5V3r"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Jag g\u00f6r allt som man inte f\u00e5r",
+      "url": "https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1435,22 +1519,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "The Player",
-        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "The Player",
-      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Endless Road",
         "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
       },
@@ -1467,70 +1535,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Roll On Buddy",
-        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
+        "name": "You",
+        "url": "https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9"
       },
       "artists": [
         {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+          "name": "Sofi Bonde",
+          "url": "https://open.spotify.com/artist/5bj7t0m3RGAPVDNG7EaOj6"
         }
       ],
-      "duration_ms": 203106,
-      "name": "Roll On Buddy",
-      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Ge En Sol",
-        "url": "https://open.spotify.com/album/1BfjmqtMSgFnvpKKHX56dl"
-      },
-      "artists": [
-        {
-          "name": "Sara Zacharias",
-          "url": "https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg"
-        }
-      ],
-      "duration_ms": 172166,
-      "name": "Ge En Sol",
-      "url": "https://open.spotify.com/track/03JUBMp0vCVHHzu1l8bqoa"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Flowers at a Funeral",
-        "url": "https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg"
-      },
-      "artists": [
-        {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Flowers at a Funeral",
-      "url": "https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Double Up",
-        "url": "https://open.spotify.com/album/6xV6TtGQLjtdK7MMYruM9Q"
-      },
-      "artists": [
-        {
-          "name": "Doug Seegers",
-          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
-        },
-        {
-          "name": "Eva Eastwood",
-          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
-        }
-      ],
-      "duration_ms": 177562,
-      "name": "Double Up",
-      "url": "https://open.spotify.com/track/7dM1Z6C8e9V71d04CS2E5L"
+      "duration_ms": 224402,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1551,22 +1567,6 @@
       "duration_ms": 248319,
       "name": "En \u00f6kenblomma",
       "url": "https://open.spotify.com/track/6S1qBl9aILtZtbsFlp0z7i"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9"
-      },
-      "artists": [
-        {
-          "name": "Sofi Bonde",
-          "url": "https://open.spotify.com/artist/5bj7t0m3RGAPVDNG7EaOj6"
-        }
-      ],
-      "duration_ms": 224402,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX"
     }
   ],
   "unique_name": "Aktuellt",

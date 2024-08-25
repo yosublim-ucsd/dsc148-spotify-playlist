@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Ronnie Boy Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,932 likes - 200 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,019 likes - 200 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

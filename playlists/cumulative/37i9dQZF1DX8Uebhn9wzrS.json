@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 75384,
       "name": "At the Coffe Shop",
       "url": "https://open.spotify.com/track/4qvFr1wmMtFVKNWQf3luUI"
@@ -13178,7 +13178,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 129000,
       "name": "give it a whirl",
       "url": "https://open.spotify.com/track/0PU8NU1ApgBum2xvi2vAzF"
@@ -19169,6 +19169,24 @@
     },
     {
       "album": {
+        "name": "Lost At Sea",
+        "url": "https://open.spotify.com/album/3JzGzTh1wjYugYa9OeehnO"
+      },
+      "artists": [
+        {
+          "name": "Shibo",
+          "url": "https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152238,
+      "name": "Lost At Sea",
+      "url": "https://open.spotify.com/track/0QtoMbZP4bssxALpUKklh2"
+    },
+    {
+      "album": {
         "name": "Lost in LA",
         "url": "https://open.spotify.com/album/1jmrcNqyUhff0IGK1AwxVb"
       },
@@ -24354,7 +24372,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 135000,
       "name": "Orb",
       "url": "https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1"

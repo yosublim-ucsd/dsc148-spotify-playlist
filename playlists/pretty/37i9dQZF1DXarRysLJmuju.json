@@ -1,12 +1,12 @@
 {
   "description": "The latest in pop. Cover: Addison Rae",
-  "num_followers": 567396,
+  "num_followers": 567395,
   "original_name": "Pop All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAAD8Hc+tBo9nRmvQCHza6Qui",
+  "snapshot_id": "ZsnwbgAAAABa9bjgqIi3NLSMYbnVQNaC",
   "tracks": [
     {
       "added_at": "2024-08-23 04:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "coloured concrete",
+        "url": "https://open.spotify.com/album/2bhF8TcYORRGmbgJhbcpPT"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "coloured concrete",
+      "url": "https://open.spotify.com/track/0jV3B8KhjiUrC6jmaBlNnx"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
       },
@@ -303,7 +319,7 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Wait for You",
+        "name": "Wait For You",
         "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
       },
       "artists": [
@@ -313,7 +329,7 @@
         }
       ],
       "duration_ms": 201533,
-      "name": "Wait for You",
+      "name": "Wait For You",
       "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
     },
     {
@@ -479,22 +495,6 @@
       "duration_ms": 185697,
       "name": "ICE",
       "url": "https://open.spotify.com/track/0zqZJ7iBj9Jpoy1pdyPnqV"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "coloured concrete",
-        "url": "https://open.spotify.com/album/2bhF8TcYORRGmbgJhbcpPT"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "coloured concrete",
-      "url": "https://open.spotify.com/track/0jV3B8KhjiUrC6jmaBlNnx"
     },
     {
       "added_at": "2024-08-23 04:00:00",

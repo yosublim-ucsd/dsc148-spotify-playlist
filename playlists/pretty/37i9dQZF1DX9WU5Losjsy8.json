@@ -1,6 +1,6 @@
 {
   "description": "ist nur einmal im Jahr!",
-  "num_followers": 424653,
+  "num_followers": 424849,
   "original_name": "Malle Party 2024",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-08-23 07:50:09",
       "album": {
-        "name": "Ouzo",
-        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
-      },
-      "artists": [
-        {
-          "name": "Vincent Gross",
-          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
-        }
-      ],
-      "duration_ms": 274914,
-      "name": "Ouzo",
-      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
-    },
-    {
-      "added_at": "2024-08-23 07:50:09",
-      "album": {
         "name": "Sternstunden",
         "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 236200,
       "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
       "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+    },
+    {
+      "added_at": "2024-08-23 07:50:09",
+      "album": {
+        "name": "Ouzo",
+        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
+      },
+      "artists": [
+        {
+          "name": "Vincent Gross",
+          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
+        }
+      ],
+      "duration_ms": 274914,
+      "name": "Ouzo",
+      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
     },
     {
       "added_at": "2024-08-23 07:50:09",
@@ -1023,26 +1023,18 @@
     {
       "added_at": "2024-08-23 07:50:09",
       "album": {
-        "name": "Rapunzel (DJ Robin Remix)",
-        "url": "https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX"
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
       },
       "artists": [
         {
-          "name": "Die Draufg\u00e4nger",
-          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
-        },
-        {
-          "name": "Ikke H\u00fcftgold",
-          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
-        },
-        {
-          "name": "DJ Robin",
-          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
         }
       ],
-      "duration_ms": 165045,
-      "name": "Rapunzel - DJ Robin Remix",
-      "url": "https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1"
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
     },
     {
       "added_at": "2024-08-23 07:50:09",
@@ -1067,18 +1059,42 @@
     {
       "added_at": "2024-08-23 07:50:09",
       "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+        "name": "Rapunzel (DJ Robin Remix)",
+        "url": "https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX"
       },
       "artists": [
         {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
+        },
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
         }
       ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+      "duration_ms": 165045,
+      "name": "Rapunzel - DJ Robin Remix",
+      "url": "https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1"
+    },
+    {
+      "added_at": "2024-08-23 07:50:09",
+      "album": {
+        "name": "Sweet Caroline (Party Remix)",
+        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 206613,
+      "name": "Sweet Caroline - Party Remix",
+      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
     },
     {
       "added_at": "2024-08-23 07:50:09",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2024-08-23 07:50:09",
       "album": {
-        "name": "Sweet Caroline (Party Remix)",
-        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Sweet Caroline - Party Remix",
-      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
-    },
-    {
-      "added_at": "2024-08-23 07:50:09",
-      "album": {
         "name": "Freitag, Samstag",
         "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
       },
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-08-23 07:50:09",
       "album": {
+        "name": "Du Bist Mein Gl\u00fcck",
+        "url": "https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Du bist mein Gl\u00fcck",
+      "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
+    },
+    {
+      "added_at": "2024-08-23 07:50:09",
+      "album": {
         "name": "Ich bleib hier",
         "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 162947,
       "name": "Ich bleib hier",
       "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
-    },
-    {
-      "added_at": "2024-08-23 07:50:09",
-      "album": {
-        "name": "Du Bist Mein Gl\u00fcck",
-        "url": "https://open.spotify.com/album/0JMSxzYXXyIVDlm7xSUUbp"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Du bist mein Gl\u00fcck",
-      "url": "https://open.spotify.com/track/1yA8eLTcwmsDlS1bdVAli0"
     },
     {
       "added_at": "2024-08-23 07:50:09",

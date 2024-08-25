@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 53130,
+  "num_followers": 53138,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Jam Jam",
-      "url": "https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "pporappippam",
         "url": "https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 206616,
       "name": "pporappippam",
       "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Jam Jam",
+      "url": "https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "Love visible",
-        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
-      },
-      "artists": [
-        {
-          "name": "aiai",
-          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "Love visible",
-      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "EGO 90'S PART 3",
         "url": "https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 220230,
       "name": "City Night (feat. Jisun)",
       "url": "https://open.spotify.com/track/7rYsqkzEoRAVFLYnOXBw8J"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "Love visible",
+        "url": "https://open.spotify.com/album/3dmMH1i3mcYmt4BJTIr3Dg"
+      },
+      "artists": [
+        {
+          "name": "aiai",
+          "url": "https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl"
+        }
+      ],
+      "duration_ms": 185217,
+      "name": "Love visible",
+      "url": "https://open.spotify.com/track/0Oc6ktffxcdpFKfKYqLfxk"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "Cream Dream",
-        "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
-      },
-      "artists": [
-        {
-          "name": "TrophyCat",
-          "url": "https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK"
-        }
-      ],
-      "duration_ms": 196112,
-      "name": "Cream Dream",
-      "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/4PPuKcHISN1tFnSpWjOp0o"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 208346,
       "name": "Reckless (with TTG)",
       "url": "https://open.spotify.com/track/4AjlkfzjcDBs9dsCRbBmFB"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "Cream Dream",
+        "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
+      },
+      "artists": [
+        {
+          "name": "TrophyCat",
+          "url": "https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK"
+        }
+      ],
+      "duration_ms": 196112,
+      "name": "Cream Dream",
+      "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "Love Note!",
-        "url": "https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 194373,
-      "name": "Love Note!",
-      "url": "https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "I\u2019m not good at",
         "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
+        "name": "Love Note!",
+        "url": "https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 194373,
+      "name": "Love Note!",
+      "url": "https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
         "name": "feelight!",
         "url": "https://open.spotify.com/album/3ydzhTdZD5l7xLGWSDawpj"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 185173,
       "name": "feelight!",
       "url": "https://open.spotify.com/track/2f7WNinHXf9m54ge3FqMkk"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0"
-      },
-      "artists": [
-        {
-          "name": "kursor",
-          "url": "https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR"
-        }
-      ],
-      "duration_ms": 208085,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1167,6 +1151,22 @@
       "duration_ms": 194266,
       "name": "Desire (Feat. \uc815\uc9c4\ud615, Vince)",
       "url": "https://open.spotify.com/track/0sMSGLrwt5KFttn3ksv8CK"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/4j7fShY9MfyKPgq5czbii0"
+      },
+      "artists": [
+        {
+          "name": "kursor",
+          "url": "https://open.spotify.com/artist/1E72qKtO7O98IKj51642TR"
+        }
+      ],
+      "duration_ms": 208085,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/0XwGln1yachgJd8PMrfzZ5"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "<K>",
-        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
-      },
-      "artists": [
-        {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
-        }
-      ],
-      "duration_ms": 188320,
-      "name": "Algorithm",
-      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/60zXXx58lbLisnStPn442S"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 280778,
       "name": "Something",
       "url": "https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "<K>",
+        "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "Algorithm",
+      "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "summer blossom",
-        "url": "https://open.spotify.com/album/2o2I9habr191db2ke30BAx"
-      },
-      "artists": [
-        {
-          "name": "BehindtheMoon",
-          "url": "https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "summer blossom",
-      "url": "https://open.spotify.com/track/3ORowtJPiXrdd42trQVnAH"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/3zr4mIqRlBEh17j5w7hm1t"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 212750,
       "name": "Midnight (feat. SFC.JGR & B JYUN.)",
       "url": "https://open.spotify.com/track/3LYOTfdF9jyJXVcLvhZ8nz"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "summer blossom",
+        "url": "https://open.spotify.com/album/2o2I9habr191db2ke30BAx"
+      },
+      "artists": [
+        {
+          "name": "BehindtheMoon",
+          "url": "https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "summer blossom",
+      "url": "https://open.spotify.com/track/3ORowtJPiXrdd42trQVnAH"
     },
     {
       "added_at": "2024-08-10 15:49:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,212 likes - 92 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,279 likes - 92 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 14 | [Big Container](https://open.spotify.com/track/503ywcs9xScpjglf40YNPZ) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Big Container](https://open.spotify.com/album/6n9PKuzQoj7nm06ufvlL3u) | 3:12 |
 | 15 | [DIE FOR ME](https://open.spotify.com/track/0qKKAOF4kezKlvtyYyv12C) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [DIE FOR ME](https://open.spotify.com/album/1rlrlI6iBRK1WV7KZaEhtA) | 3:26 |
 | 16 | [Woof \(feat\. Kah\-Lo\)](https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:12 |
-| 17 | [Wait for You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait for You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
+| 17 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
 | 18 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 |
 | 19 | [Freckles](https://open.spotify.com/track/4xL8sLKGblXvvIUJb4kEQV) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Freckles](https://open.spotify.com/album/3qBdcWx8e9slG982z16f47) | 2:59 |
 | 20 | [poison](https://open.spotify.com/track/708OIcF8K7xaT8Pj7XqSml) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [poison](https://open.spotify.com/album/1obOKGKtYzlDjO4hyO6LHn) | 2:05 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 23 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 |
 | 24 | [Somethin' 'Bout A Woman](https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 3:30 |
 | 25 | [Receipts \(feat\. Gunna\)](https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Receipts \(feat\. Gunna\)](https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd) | 3:54 |
-| 26 | [Crush](https://open.spotify.com/track/4V7LChILRB41wjxXAoTYtI) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Kyla Imani](https://open.spotify.com/artist/2bo6iIgHOLdXBRHPqco1ed) | [Crush](https://open.spotify.com/album/2TpzrA8WwmRSYYu1v9drok) | 2:52 |
+| 26 | [Crush](https://open.spotify.com/track/4V7LChILRB41wjxXAoTYtI) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [Kyla Imani](https://open.spotify.com/artist/6FKeUu8U16w2fzH1vLxPkg) | [Crush](https://open.spotify.com/album/2TpzrA8WwmRSYYu1v9drok) | 2:52 |
 | 27 | [Ray of Light](https://open.spotify.com/track/2NCivP0yuBfwHuvLf9QNzy) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Ray of Light](https://open.spotify.com/album/47DlMVv64jPLw8DJJ1oqLU) | 3:49 |
 | 28 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 |
 | 29 | [STFAFM](https://open.spotify.com/track/3XsvX9Gzci0A35N08xe1wd) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF), [Arringarri](https://open.spotify.com/artist/1hhytzEX1fvHBNqB1JKfu1) | [NARA](https://open.spotify.com/album/2NcmpiE2xQ91mZww28lpwT) | 4:01 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 37 | [Bothering Me](https://open.spotify.com/track/74St96khEjAVTgMKDze3dr) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [Bothering Me](https://open.spotify.com/album/3cUcV7rXEFJmxxzMia1DHZ) | 4:22 |
 | 38 | [Only One I Want](https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [Only One I Want](https://open.spotify.com/album/499HFPNFK1LPvb0Y6Y0fJr) | 3:23 |
 | 39 | [Glow](https://open.spotify.com/track/2mJB0oqFPqkQwSOrxMOpig) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [TT The Artist](https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr) | [Glow](https://open.spotify.com/album/01Ap98MyowmY0bAKgoKJmJ) | 2:37 |
-| 40 | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
+| 40 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 |
 | 41 | [Reverie](https://open.spotify.com/track/5IBVaaOPUrkOhF9lIFkd5Z) | [Miles Nautu](https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI), [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [ALLUDE](https://open.spotify.com/album/1VsciwZ0oNZeb10mCr8rAX) | 4:12 |
 | 42 | [Fix What You Didn't Break](https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Fix What You Didn't Break](https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr) | 3:21 |
 | 43 | [Gasoline](https://open.spotify.com/track/6IDLNQc4S4GvXssvZz9BVI) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Gasoline](https://open.spotify.com/album/1SZOOXspz9RCwXmYHtAKMx) | 4:05 |

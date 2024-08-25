@@ -377,6 +377,28 @@
     },
     {
       "album": {
+        "name": "B\u00f3rrame el Dolor \u2606",
+        "url": "https://open.spotify.com/album/30eyu4C1vjBzJlMsJ5XBxW"
+      },
+      "artists": [
+        {
+          "name": "DANI RIDE",
+          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+        },
+        {
+          "name": "Supernova",
+          "url": "https://open.spotify.com/artist/4hp1i0d15TWg1YN3lCUWgq"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223110,
+      "name": "B\u00f3rrame el Dolor \u2606",
+      "url": "https://open.spotify.com/track/4hv9p4wMWoBTDgdaWw6fmB"
+    },
+    {
+      "album": {
         "name": "Chicos de la Luz",
         "url": "https://open.spotify.com/album/1JAJem5IxeIq8Rwo6EhIWe"
       },
@@ -1412,7 +1434,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 371735,
       "name": "Lucidez",
       "url": "https://open.spotify.com/track/1d9Y8VhQKy03r996XabxX8"

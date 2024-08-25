@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 253764,
+  "num_followers": 253878,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Pa'lante",
-        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
-      },
-      "artists": [
-        {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Los Campeones De La Salsa",
-      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "Me Dicen Cuba / Rosa la Peligrosa",
         "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 298374,
       "name": "Me Dicen Cuba",
       "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Pa'lante",
+        "url": "https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Los Campeones De La Salsa",
+      "url": "https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
+        "name": "Llego... Van Van",
+        "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
+      },
+      "artists": [
+        {
+          "name": "Los Van Van",
+          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "Temba, Tumba, Timba",
+      "url": "https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
         "name": "La Vuelta al Mundo",
         "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 247226,
       "name": "Venenosa",
       "url": "https://open.spotify.com/track/0BAQ2NB5guuQs5fr1L2elE"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Llego... Van Van",
-        "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
-      },
-      "artists": [
-        {
-          "name": "Los Van Van",
-          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
-        }
-      ],
-      "duration_ms": 288506,
-      "name": "Temba, Tumba, Timba",
-      "url": "https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -431,38 +431,6 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "Llego... Van Van",
-        "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
-      },
-      "artists": [
-        {
-          "name": "Los Van Van",
-          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
-        }
-      ],
-      "duration_ms": 328253,
-      "name": "El Negro Esta Cocinando",
-      "url": "https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Te pone la cabeza mala",
-        "url": "https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v"
-      },
-      "artists": [
-        {
-          "name": "Juan Formell y Los Van Van",
-          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
-        }
-      ],
-      "duration_ms": 248999,
-      "name": "Esto te pone la cabeza mala",
-      "url": "https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
         "name": "Me Dicen Cuba / Rosa la Peligrosa",
         "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
       },
@@ -483,6 +451,38 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
+        "name": "Te pone la cabeza mala",
+        "url": "https://open.spotify.com/album/0LgAYapMJemRXAD75pVs3v"
+      },
+      "artists": [
+        {
+          "name": "Juan Formell y Los Van Van",
+          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
+        }
+      ],
+      "duration_ms": 248999,
+      "name": "Esto te pone la cabeza mala",
+      "url": "https://open.spotify.com/track/1bSiJ7JmdJJP5ycPfqLivI"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Llego... Van Van",
+        "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
+      },
+      "artists": [
+        {
+          "name": "Los Van Van",
+          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
+        }
+      ],
+      "duration_ms": 328253,
+      "name": "El Negro Esta Cocinando",
+      "url": "https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
         "name": "Que Tiene Que Te Mueve",
         "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
       },
@@ -495,38 +495,6 @@
       "duration_ms": 289219,
       "name": "Ya T\u00fa No Coronas",
       "url": "https://open.spotify.com/track/3rhuPie2HVWD1yJ8NASOCV"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
-      },
-      "artists": [
-        {
-          "name": "Formell y los Van Van",
-          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
-        }
-      ],
-      "duration_ms": 380484,
-      "name": "Amiga Mia",
-      "url": "https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "\u00bfDe Qu\u00e9 Estamos Hablando?",
-        "url": "https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy"
-      },
-      "artists": [
-        {
-          "name": "Elio Rev\u00e9 Y Su Charang\u00f3n",
-          "url": "https://open.spotify.com/artist/7uHBq0hEAmxGsqZfyqQAxf"
-        }
-      ],
-      "duration_ms": 323453,
-      "name": "Agua Pa'yemay\u00e1",
-      "url": "https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -547,66 +515,18 @@
     {
       "added_at": "2024-07-12 16:17:30",
       "album": {
-        "name": "The Most From Beny More",
-        "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Formell y los Van Van",
+          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
         }
       ],
-      "duration_ms": 196933,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "La Aplanadora de Cuba",
-        "url": "https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG"
-      },
-      "artists": [
-        {
-          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
-          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
-        }
-      ],
-      "duration_ms": 303880,
-      "name": "Esa Soy Yo",
-      "url": "https://open.spotify.com/track/0M447oJEDm0pE8QDqbQlfi"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Chapeando",
-        "url": "https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78"
-      },
-      "artists": [
-        {
-          "name": "Juan Formell y Los Van Van",
-          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
-        }
-      ],
-      "duration_ms": 368720,
-      "name": "Despu\u00e9s de todo",
-      "url": "https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV"
-    },
-    {
-      "added_at": "2024-07-12 16:17:30",
-      "album": {
-        "name": "Bueno",
-        "url": "https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg"
-      },
-      "artists": [
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
-        }
-      ],
-      "duration_ms": 248586,
-      "name": "Tus Luces Sobre Mi",
-      "url": "https://open.spotify.com/track/7AdPaRTnk63nx1E8J6XMr6"
+      "duration_ms": 380484,
+      "name": "Amiga Mia",
+      "url": "https://open.spotify.com/track/3bpJ7IwjJtyTIf6clZ9GUl"
     },
     {
       "added_at": "2024-07-12 16:17:30",
@@ -627,6 +547,86 @@
       "duration_ms": 185013,
       "name": "Despu\u00e9s de Mil Lunas",
       "url": "https://open.spotify.com/track/73mgh8ZBX7wyEuaqUVaSHy"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "\u00bfDe Qu\u00e9 Estamos Hablando?",
+        "url": "https://open.spotify.com/album/1rxujYMjuCYbaiU3AWFNQy"
+      },
+      "artists": [
+        {
+          "name": "Elio Rev\u00e9 Y Su Charang\u00f3n",
+          "url": "https://open.spotify.com/artist/7uHBq0hEAmxGsqZfyqQAxf"
+        }
+      ],
+      "duration_ms": 323453,
+      "name": "Agua Pa'yemay\u00e1",
+      "url": "https://open.spotify.com/track/5IAyGQsiGj4AkCIjetvVsu"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "The Most From Beny More",
+        "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Que Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Chapeando",
+        "url": "https://open.spotify.com/album/45niWlDdAcXhbXdxaqRD78"
+      },
+      "artists": [
+        {
+          "name": "Juan Formell y Los Van Van",
+          "url": "https://open.spotify.com/artist/1qekCz7F0WsQICLJSVlmpy"
+        }
+      ],
+      "duration_ms": 368720,
+      "name": "Despu\u00e9s de todo",
+      "url": "https://open.spotify.com/track/4IDiFHGCutb8eNZYEBxHOV"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "La Aplanadora de Cuba",
+        "url": "https://open.spotify.com/album/4CnjucLyV7ybkjREEAXpvG"
+      },
+      "artists": [
+        {
+          "name": "Elito Rev\u00e9 y su Charang\u00f3n",
+          "url": "https://open.spotify.com/artist/2hIYHAObXRLZ2WVUJZ499Z"
+        }
+      ],
+      "duration_ms": 303880,
+      "name": "Esa Soy Yo",
+      "url": "https://open.spotify.com/track/0M447oJEDm0pE8QDqbQlfi"
+    },
+    {
+      "added_at": "2024-07-12 16:17:30",
+      "album": {
+        "name": "Bueno",
+        "url": "https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg"
+      },
+      "artists": [
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Tus Luces Sobre Mi",
+      "url": "https://open.spotify.com/track/7AdPaRTnk63nx1E8J6XMr6"
     },
     {
       "added_at": "2024-07-12 16:17:30",

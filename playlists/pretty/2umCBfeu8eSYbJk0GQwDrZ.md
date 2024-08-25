@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wait for You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait for You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
+| 1 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
 | 2 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 |
 | 3 | [METHOD ACTING](https://open.spotify.com/track/5st2rxJDpyUS3IPtn1lxXF) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [METHOD ACTING](https://open.spotify.com/album/49O9fESC2mlA6Ek8K66Uzj) | 2:16 |
 | 4 | [BIG MACHINE](https://open.spotify.com/track/6Aw2wajFXOgAPUHekEgNJd) | [sunsetto](https://open.spotify.com/artist/1qirsMPK9gjYaXmGF4eUmL) | [BIG MACHINE](https://open.spotify.com/album/5tAjQhlYZKn3BcefoI3HW6) | 2:38 |

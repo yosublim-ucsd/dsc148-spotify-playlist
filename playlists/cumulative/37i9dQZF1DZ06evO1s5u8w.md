@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1s5u8w.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1s5u8w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1s5u8w)
 
-### [This Is トーキング・ヘッズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1s5u8w)
+### [This Is Talking Heads](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1s5u8w)
 
-> This is トーキング・ヘッズ。アーティストの代表曲をひとつのプレイリストに。
+> This is Talking Heads\. The essential tracks, all in one playlist.
 
 57 songs - 4 hr 4 min
 

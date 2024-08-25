@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=yqlzM3HlTC\-8KZv6GPoZpA>Spirit of Praise</a>'s "<a href=https://open.spotify.com/artist/3WIUiGUzID22YVq9W8yRbG?si=QaPZcevhQ\_GFbeYwZbF3mg>Mmatema</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,163 likes - 100 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,176 likes - 100 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 58 | [Reign](https://open.spotify.com/track/5Ihx5hpbXnuKyT2O2pmaxw) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Reign](https://open.spotify.com/album/3nXzqLc7IGfMn3QfKbn7gy) | 8:22 |
 | 59 | [All in You \(Revisit\)](https://open.spotify.com/track/3ymO7DgOvzjxN28YoWUcgx) | [DaDDy K DeeDjy](https://open.spotify.com/artist/7Env5w2KhJcMxlDFsrRcR8), [Why01.1](https://open.spotify.com/artist/352csyvsL62SBJSPg2cUOD) | [All in You \(Revisit\)](https://open.spotify.com/album/7i9XZPgWJAOAz8PBE4RrkE) | 4:25 |
 | 60 | [Ain't Bragging \- Live](https://open.spotify.com/track/10oklXEk4wEvuvmmarG4lS) | [Churemi](https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO) | [Ain't Bragging \(Live\)](https://open.spotify.com/album/6G67sJTPZPEosjkooWtain) | 5:26 |
-| 61 | [Nobody](https://open.spotify.com/track/0wrJ78TgcGRQ0jo14XXUE5) | [Photizo](https://open.spotify.com/artist/37SQpQ58OXMe2bsqkan9dV), [Milly J](https://open.spotify.com/artist/1FxrIRG0ap0ioDLIL2IfBW) | [Nobody](https://open.spotify.com/album/0cshTY4OReXMKLdn0bQHAw) | 2:58 |
+| 61 | [Nobody](https://open.spotify.com/track/0wrJ78TgcGRQ0jo14XXUE5) | [Photizo](https://open.spotify.com/artist/37SQpQ58OXMe2bsqkan9dV), [Milly J](https://open.spotify.com/artist/6qiVdS3Z7AgdkA4l01H9ph) | [Nobody](https://open.spotify.com/album/0cshTY4OReXMKLdn0bQHAw) | 2:58 |
 | 62 | [The Way \( Panic\)](https://open.spotify.com/track/2aPrtDKSWtVVCuRRAm0zmY) | [World Famous Abraham](https://open.spotify.com/artist/69h1nC45WQBZumPNRfWh5V) | [The Way \( Panic\)](https://open.spotify.com/album/5FgFAMbZ82M48jq0g3Nx0b) | 2:21 |
 | 63 | [I'm Legendary](https://open.spotify.com/track/3lAbxmMcXxYTfndH16p5f2) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [I'm Legendary](https://open.spotify.com/album/42gD4wnU0aoB78OJhDZPPI) | 2:18 |
 | 64 | [Shine like this II](https://open.spotify.com/track/2GjdUuAK0nGBBdIhr84Cyh) | [Samsedy](https://open.spotify.com/artist/1ESKg96QlCrh4GdaopdVjO), [G\-Clan](https://open.spotify.com/artist/3HUVzSzGtrWgvkMMh0znY8), [DIFFERENTSTONE](https://open.spotify.com/artist/7z3Vn7Dx1O9tverfoH14o2) | [Shine like this II](https://open.spotify.com/album/1bpX17aTW4Bf4XP63KjPDU) | 3:35 |

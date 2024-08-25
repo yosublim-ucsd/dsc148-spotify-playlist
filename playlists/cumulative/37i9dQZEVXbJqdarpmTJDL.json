@@ -1703,6 +1703,32 @@
     },
     {
       "album": {
+        "name": "ALE",
+        "url": "https://open.spotify.com/album/65uAvBGzeb7dYE4IHXuSIM"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        },
+        {
+          "name": "Big Ben",
+          "url": "https://open.spotify.com/artist/2PFQD1oR9BMXdRgiUbPlBy"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "ALE",
+      "url": "https://open.spotify.com/track/3z08xHO2BBjuYqoDXP6MId"
+    },
+    {
+      "album": {
         "name": "ALEMAO",
         "url": "https://open.spotify.com/album/3M3DzzALUvyEnilPiDULCm"
       },
@@ -5538,7 +5564,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 169591,
       "name": "BOSSIDONAS 2",
       "url": "https://open.spotify.com/track/7ynfPeRJrOVXXIbprUOBcA"
@@ -9740,7 +9766,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 149923,
       "name": "EISAI TRELA",
       "url": "https://open.spotify.com/track/0AixjqoY88CqVJFp5x5IXX"
@@ -10906,7 +10932,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"

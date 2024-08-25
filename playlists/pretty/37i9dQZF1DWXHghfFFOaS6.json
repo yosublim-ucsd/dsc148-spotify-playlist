@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 342271,
+  "num_followers": 342328,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Hard Work",
-        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
-      },
-      "artists": [
-        {
-          "name": "John Handy",
-          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
-        }
-      ],
-      "duration_ms": 417960,
-      "name": "Hard Work",
-      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Adrenalin",
         "url": "https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 410319,
       "name": "Feel The Real",
       "url": "https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Hard Work",
+        "url": "https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw"
+      },
+      "artists": [
+        {
+          "name": "John Handy",
+          "url": "https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR"
+        }
+      ],
+      "duration_ms": 417960,
+      "name": "Hard Work",
+      "url": "https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "True Spirit",
-        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
-      },
-      "artists": [
-        {
-          "name": "Carleen Anderson",
-          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Rewind, Vol. 4",
         "url": "https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 333106,
       "name": "Evil Vibrations",
       "url": "https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "True Spirit",
+        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
+      },
+      "artists": [
+        {
+          "name": "Carleen Anderson",
+          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Bon Voyage",
-        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
-      },
-      "artists": [
-        {
-          "name": "United Future Organization",
-          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
-        }
-      ],
-      "duration_ms": 327133,
-      "name": "Good Luck Shore",
-      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Afro-Funk",
         "url": "https://open.spotify.com/album/2Qrd99xe9fSKbErdIeYE8k"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 262893,
       "name": "It's A Vanity",
       "url": "https://open.spotify.com/track/0MiEkTtkvhohBIG2C7NdPh"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/5NFauXmMJwlk20UOtkUWJh"
+      },
+      "artists": [
+        {
+          "name": "United Future Organization",
+          "url": "https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh"
+        }
+      ],
+      "duration_ms": 327133,
+      "name": "Good Luck Shore",
+      "url": "https://open.spotify.com/track/2hrJhwVInTOFaXcCuFzRl9"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
     },
     {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Stratosphere Breakdown",
-        "url": "https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K"
-      },
-      "artists": [
-        {
-          "name": "New Jersey Kings",
-          "url": "https://open.spotify.com/artist/6g81T9O07sCvu1uYzzOVIp"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Dream Waves",
-      "url": "https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD"
-    },
-    {
       "added_at": "2022-07-18 17:17:22",
       "album": {
         "name": "Black Rhythm Happening",
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Stratosphere Breakdown",
+        "url": "https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K"
+      },
+      "artists": [
+        {
+          "name": "New Jersey Kings",
+          "url": "https://open.spotify.com/artist/6g81T9O07sCvu1uYzzOVIp"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Dream Waves",
+      "url": "https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "On The One",
         "url": "https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 332933,
       "name": "Pete's Sake",
       "url": "https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "The Whole Thing",
-        "url": "https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc"
-      },
-      "artists": [
-        {
-          "name": "The Whole Thing",
-          "url": "https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Peer Pressure",
-      "url": "https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o"
     },
     {
       "added_at": "2022-07-18 17:17:22",
@@ -1315,6 +1299,22 @@
       "duration_ms": 381594,
       "name": "Playing my piano",
       "url": "https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The Whole Thing",
+        "url": "https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc"
+      },
+      "artists": [
+        {
+          "name": "The Whole Thing",
+          "url": "https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM"
+        }
+      ],
+      "duration_ms": 228933,
+      "name": "Peer Pressure",
+      "url": "https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o"
     },
     {
       "added_at": "2022-07-14 19:24:43",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6nwj9J2RnE.md) - [plain]
 
 > edgy en met karakter\. cover: Sandor Dayala
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,215 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,216 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cherry Jenna](https://open.spotify.com/track/0h24UrPhMr4JfpedGFYCJ7) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Cherry Jenna](https://open.spotify.com/album/2VHfRNDamToZvkCwOJPJeX) | 2:41 |
 | 2 | [laat me niet los](https://open.spotify.com/track/0ITnIwJPzu6GDXgPnM3gFk) | [Sandor Dayala](https://open.spotify.com/artist/34h516CVwMVPYFkeSLSW69) | [OPEN](https://open.spotify.com/album/6ofyMWnnOfhJ7KiCQxtqvx) | 2:22 |
-| 3 | [PRADA STELEN](https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [IJSLAND](https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB) | 3:11 |
+| 3 | [PRADA STELEN](https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG) | [Abel](https://open.spotify.com/artist/0JRVrJQNnlSl10wEsioxOJ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [IJSLAND](https://open.spotify.com/artist/6qldO9Y7hb0qI9J50uR1zW) | [IJSLAND](https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB) | 3:11 |
 | 4 | [het mag ook eens stil zijn](https://open.spotify.com/track/65ksmDOUjUvSiky8MRpnma) | [ANNE](https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS), [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9) | [het mag ook eens stil zijn](https://open.spotify.com/album/58PcHZcFJS46s1JxKD2iWt) | 2:32 |
 | 5 | [Glimlach](https://open.spotify.com/track/1afTlfRCu5cMYOJWoFoXe1) | [Sammie Sedano](https://open.spotify.com/artist/2Rp1LwYCaBLDB36uurFDYT) | [Glimlach](https://open.spotify.com/album/0sp4L9XfnB46QDVXSK4e0w) | 2:27 |
 | 6 | [Begrijpen](https://open.spotify.com/track/6KQa90WZ8CYiurAmAULQ2A) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Begrijpen](https://open.spotify.com/album/0Uc96KfRENg7XxjYbntHfd) | 3:16 |

@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,243 songs - 2 day 15 hr 54 min
+1,244 songs - 2 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Color Palette](https://open.spotify.com/track/0BD07BDyj2yzdo2TeITJNH) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Color Palette](https://open.spotify.com/album/6Oamn4DFP3vMzADj1ksWAa) | 3:33 | 2021-01-09 | 2021-02-19 |
 | [Colorado](https://open.spotify.com/track/41WtQo9j7WR72VuAgN0LNb) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [The Longest Year: Part One](https://open.spotify.com/album/386y4A9x4YzDEUODlsNix9) | 1:58 | 2020-10-29\* | 2020-11-14 |
 | [COLORS](https://open.spotify.com/track/7vtw03hfTf7tTYwjvjYC5h) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [COLORS](https://open.spotify.com/album/22t7uvZWa4PoPT2lD0DSmG) | 3:18 | 2022-04-08 | 2023-04-01 |
+| [coloured concrete](https://open.spotify.com/track/0jV3B8KhjiUrC6jmaBlNnx) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [coloured concrete](https://open.spotify.com/album/2bhF8TcYORRGmbgJhbcpPT) | 3:10 | 2024-08-24 |  |
 | [Come Around](https://open.spotify.com/track/4UsWjHgX1TBmBv9CiVjcSR) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6tWDOvv8CoaWYBdnP11RBn) | 3:38 | 2022-08-12 | 2023-01-07 |
 | [Come Around](https://open.spotify.com/track/5FhBSeLyAPLGoCWOjQXH6F) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Come Around](https://open.spotify.com/album/6GzwDlQLCtbtXO1F5jpqTi) | 3:38 | 2023-01-06 | 2023-04-15 |
 | [Comfort Edge](https://open.spotify.com/track/2ZsxWqm5XzcUGRJRHKMgui) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/1ixBdfxbLKDnkRLfpNJgir) | 3:43 | 2020-10-29\* | 2020-11-11 |
@@ -1234,7 +1235,7 @@
 | [you were in my dream](https://open.spotify.com/track/0Lg3v086REgQTLexgvfWDE) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [you were in my dream](https://open.spotify.com/album/3Kq9ayCMlcTr6dpm77qNwM) | 3:26 | 2022-05-20 | 2022-07-02 |
 | [You Were in My Dream Last Night](https://open.spotify.com/track/5XdUEaXDQRaSkMT9y2FNvU) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were in My Dream Last Night](https://open.spotify.com/album/0r9Qxn2RLpE6naOr0GXcJq) | 4:01 | 2021-02-19 | 2021-04-17 |
 | [You Won't](https://open.spotify.com/track/3KqTfgqq5Y7LO2MABzz8el) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [You Won't](https://open.spotify.com/album/6JR0yX7Orycek9RVRUFyH2) | 2:55 | 2022-12-23 | 2024-06-01 |
-| [you wore it better](https://open.spotify.com/track/1kXDpU4bGa4NbxHzYQyp0z) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [you wore it better](https://open.spotify.com/album/0xFm8Bo12l57apTa52n2US) | 1:56 | 2024-06-21 |  |
+| [you wore it better](https://open.spotify.com/track/1kXDpU4bGa4NbxHzYQyp0z) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [you wore it better](https://open.spotify.com/album/0xFm8Bo12l57apTa52n2US) | 1:56 | 2024-06-21 | 2024-08-25 |
 | [You're in the Way](https://open.spotify.com/track/3DVhLbfqydZoui3oL8kfti) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [You're in the Way](https://open.spotify.com/album/3M5T4rxlIzbGvlQfToUkKJ) | 2:47 | 2022-11-11 | 2024-04-13 |
 | [Young & Sad](https://open.spotify.com/track/0gySkOOewOdZtHG8stPEB8) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/6ZLlJLTscXUJIMwpwSAcOm) | 3:10 | 2020-10-29\* | 2021-02-13 |
 | [Your Life Your Time](https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Your Life Your Time](https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J) | 2:40 | 2021-01-16 | 2021-02-13 |

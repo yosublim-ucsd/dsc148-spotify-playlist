@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Kairo Keyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388,512 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,388,579 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 35 | [Baddies](https://open.spotify.com/track/66Bup3CXgRRl8z91EDHUIf) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Baddies](https://open.spotify.com/album/5d9hiyIU2IDdzuAL24hjUn) | 2:18 |
 | 36 | [Snakes & Ladders](https://open.spotify.com/track/3W1ithMTcEj32nRh3lQrF0) | [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Snakes & Ladders](https://open.spotify.com/album/0JcYm2EQe5R76qn6vlHlMh) | 2:55 |
 | 37 | [Blessed feat\. Skrapz & Haile](https://open.spotify.com/track/63QxpjMTnWKRcKdBUNEThc) | [Bashy](https://open.spotify.com/artist/2pkcEiIg9zyj8C7Zq5TumZ), [Skrapz](https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY), [Haile](https://open.spotify.com/artist/48Zl8yw6YhIsymNwvNMlnM) | [Blessed feat\. Skrapz & Haile](https://open.spotify.com/album/0FcF1ksmECzYlqA6inxX77) | 3:38 |
-| 38 | [Resilient 13](https://open.spotify.com/track/27hEqmCalAxRqrJRrBGkYG) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9) | [Gotham](https://open.spotify.com/album/1dUiHG3s7dL2qi9w1lv13i) | 2:49 |
+| 38 | [Gotham](https://open.spotify.com/track/27hEqmCalAxRqrJRrBGkYG) | [Mowgs](https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9) | [Gotham](https://open.spotify.com/album/1dUiHG3s7dL2qi9w1lv13i) | 2:49 |
 | 39 | [Miss Independent](https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z) | 3:05 |
 | 40 | [Most Definitely](https://open.spotify.com/track/098rsNELupiqnutsfFUeKt) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y) | [Most Definitely](https://open.spotify.com/album/79BMhiSb5NwMmRhH7etk6y) | 3:26 |
 | 41 | [Bubble Bath](https://open.spotify.com/track/3bYJKHx28JSYDnCXbBXpY5) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Bubble Bath](https://open.spotify.com/album/4Jgkh361Fjh0ScarMZtASS) | 2:11 |

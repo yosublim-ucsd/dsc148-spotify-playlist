@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is Danny Felix. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
+  "description": "This is Danny Felix. The essential tracks, all in one playlist.",
   "name": "This Is Danny Felix",
   "tracks": [
     {
@@ -245,6 +245,28 @@
     },
     {
       "album": {
+        "name": "No Te Awuites Solo Son Unos Dop3kidz$",
+        "url": "https://open.spotify.com/album/4Mmh5kRGsbQPyRBC5B4GHH"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242061,
+      "name": "Culiacan Se Estremecia",
+      "url": "https://open.spotify.com/track/5e3qwCkgUwpxsw70k5N2Xt"
+    },
+    {
+      "album": {
         "name": "Live, Cumbia Style",
         "url": "https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5"
       },
@@ -256,7 +278,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 269000,
       "name": "Cumbia Del Sol (Live)",
       "url": "https://open.spotify.com/track/4fFYHKUjGm1f8xH1XRCLGN"
@@ -478,7 +500,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 268733,
       "name": "EL GAVIL\u00c1N",
       "url": "https://open.spotify.com/track/3DEyKgtG8Z1enjpfGDuETH"
@@ -940,7 +962,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 166500,
       "name": "La Vida Es Un Carnaval (Live)",
       "url": "https://open.spotify.com/track/3qsJZt81pdlzRBN3uT1bRH"
@@ -980,7 +1002,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 145160,
       "name": "Los Botones Azules - En Vivo",
       "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
@@ -1210,7 +1232,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 195533,
       "name": "NO LLORES M\u00c1S",
       "url": "https://open.spotify.com/track/0WBFkBlu7H0l3s7qgEIMqd"
@@ -1370,7 +1392,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 297586,
       "name": "Se Mam\u00f3 El Becerro - Live",
       "url": "https://open.spotify.com/track/0Tub36OHl0gXQ4SfTkWDip"

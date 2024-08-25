@@ -443,6 +443,22 @@
     {
       "added_at": "2023-11-23 11:08:33",
       "album": {
+        "name": "NO GOZO",
+        "url": "https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J"
+      },
+      "artists": [
+        {
+          "name": "La Valentina",
+          "url": "https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq"
+        }
+      ],
+      "duration_ms": 138962,
+      "name": "NO GOZO",
+      "url": "https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq"
+    },
+    {
+      "added_at": "2023-11-23 11:08:33",
+      "album": {
         "name": "Disquette #1 Roots",
         "url": "https://open.spotify.com/album/7bWg14UeWOpwiNNKucnra5"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 143281,
       "name": "Massage Gun",
       "url": "https://open.spotify.com/track/7vI6yGTEqPtZ1qKdF9KVoq"
-    },
-    {
-      "added_at": "2023-11-23 11:08:33",
-      "album": {
-        "name": "NO GOZO",
-        "url": "https://open.spotify.com/album/413tknvi3iTafYnTtrwM5J"
-      },
-      "artists": [
-        {
-          "name": "La Valentina",
-          "url": "https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq"
-        }
-      ],
-      "duration_ms": 138962,
-      "name": "NO GOZO",
-      "url": "https://open.spotify.com/track/4UPV3NxT5ZAGrd8Bv2Ahuq"
     },
     {
       "added_at": "2023-11-23 11:08:33",

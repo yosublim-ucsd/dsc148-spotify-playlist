@@ -2,7 +2,7 @@
 
 ### [This Is Banda Bostik](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q3kVr)
 
-> This is: Banda Bostik\. Alle wichtigen Tracks in einer Playlist.
+> This Is Banda Bostik\. Los temas esenciales, todos en una lista.
 
 63 songs - 4 hr 41 min
 

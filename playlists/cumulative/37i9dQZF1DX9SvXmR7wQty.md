@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lost, Kekra
 
-2,751 songs - 6 day 2 hr 16 min
+2,753 songs - 6 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Bogotà](https://open.spotify.com/track/2j52PuH3H76JaoNeFEwcp6) | [Mitso](https://open.spotify.com/artist/6K1YP5VKK70aE35zG7t3sV) | [Bogotà](https://open.spotify.com/album/3Tdd4b9OZQd9zw4gGSvMAK) | 3:04 | 2022-04-01 | 2022-04-16 |
 | [Boire un coup](https://open.spotify.com/track/7Jl9wKc0k5aeQp7FEMGZ4n) | [Baptiste W\. Hamon](https://open.spotify.com/artist/5H1vQFu0fy55ZNLLMDpM8p) | [Boire un coup](https://open.spotify.com/album/6b1mz1YY8VZ8y4dDRilk3c) | 2:34 | 2022-01-14 | 2022-01-22 |
 | [Bolero](https://open.spotify.com/track/6NqbGiEOws4tpCx3uUhxNb) | [Les Louanges](https://open.spotify.com/artist/57GQLJX1O8guO5PVj46e6l) | [Crash](https://open.spotify.com/album/2YifMIwGXJIIWV5rib1mb2) | 2:49 | 2022-01-21 | 2022-01-29 |
+| [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 | 2024-08-23 |  |
 | [Bombarder](https://open.spotify.com/track/696HK1BwQnRo0VkGEW0F0X) | [Shotto Guapo](https://open.spotify.com/artist/5Gk8TXAgkY02R4PPtVrhvC) | [Bombarder](https://open.spotify.com/album/19Qf7KmiwfjGG0VqvoMqOU) | 3:21 | 2022-12-16 | 2023-01-14 |
 | [Bon Appétit](https://open.spotify.com/track/6WDFHawIT5KH6iBsE48CLQ) | [EL GARRA](https://open.spotify.com/artist/35iGCHzli8Zhn5v4xoB7XA), [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh) | [Bon Appétit](https://open.spotify.com/album/3GcZO8Xxo6KGM1YwDt9fmp) | 2:54 | 2022-09-09 | 2022-09-24 |
 | [Bon voyage](https://open.spotify.com/track/6934xZ6P9VOCybFXgnx7nk) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Bon voyage](https://open.spotify.com/album/6Hy11BQnSBxrsBRekvMiib) | 4:05 | 2022-02-18 | 2022-03-05 |
@@ -1971,7 +1972,7 @@
 | [Planer](https://open.spotify.com/track/1hlXA96A3AyXX8UT0OK7I5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Planer](https://open.spotify.com/album/4b6ns1QBr9YtTEmjyn7HHK) | 2:55 | 2023-07-14 | 2023-07-22 |
 | [Plantes carnivores](https://open.spotify.com/track/5Eq4s36SyGWVTNNyaWkehe) | [Jeannot Bournival](https://open.spotify.com/artist/6CCSaCB9EXGuFBel2dL8Jc) | [Avec vue sur l'amer](https://open.spotify.com/album/6FMxg2XZOxNju0RamLTm9I) | 4:17 | 2023-02-24 | 2023-03-11 |
 | [Plata](https://open.spotify.com/track/2S4GE0dXH8F0G4HZwviRSQ) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [400](https://open.spotify.com/album/1QLh17mGCqestAzRo8VcC0) | 2:57 | 2022-10-14 | 2022-10-29 |
-| [Play](https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Play](https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0) | 3:28 | 2024-07-05 |  |
+| [Play](https://open.spotify.com/track/3aLBTbiSEgxDPn3FvVghCD) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Play](https://open.spotify.com/album/535W2Yy9YCZeKqefhEMyM0) | 3:28 | 2024-07-05 | 2024-08-25 |
 | [Plein d'adresses](https://open.spotify.com/track/0JDUmGFPfeNE3bgev0iZCc) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE) | [Plein d'adresses](https://open.spotify.com/album/5COClDxF8SwIZUVlg1wQf3) | 4:06 | 2024-03-01 | 2024-03-09 |
 | [PLEINE VITESSE](https://open.spotify.com/track/49d3LNyau8VdpttkNFJ8cO) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [PLEINE VITESSE](https://open.spotify.com/album/1kBCtmx5sJ7qX65EKj8Js4) | 2:37 | 2022-10-07 | 2022-10-15 |
 | [Plonge](https://open.spotify.com/track/2KOK8PdSiabVHHCyihsFOJ) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Bazzart](https://open.spotify.com/artist/2MbDF1l08wsQOWjwg54YYa) | [Plonge](https://open.spotify.com/album/5YicDJyhPlaWwoNzVouDR9) | 2:48 | 2022-08-26 | 2022-09-10 |
@@ -2102,7 +2103,7 @@
 | [Rappelle\-moi ton nom](https://open.spotify.com/track/3MtXsHcd0EjV30p8wxh0HW) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Rappelle\-moi ton nom](https://open.spotify.com/album/7DScWywsdMi8hIELiaSk3t) | 3:29 | 2023-09-15 | 2023-09-23 |
 | [Rappelle\-toi](https://open.spotify.com/track/3AXg6pyKrtAeLQicqPGr99) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Rappelle\-toi](https://open.spotify.com/album/37r0lWCrwuYEB5RSw2wVba) | 2:51 | 2023-08-18 | 2023-08-26 |
 | [Rashel](https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Rashel](https://open.spotify.com/album/6R3uElG5fC3jt31MsyLeT2) | 2:56 | 2023-12-15 | 2024-03-09 |
-| [Rayol](https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [Honeymoon](https://open.spotify.com/album/5LtjW9e7zu1KvIGQiuuDo0) | 2:41 | 2024-07-05 |  |
+| [Rayol](https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [Honeymoon](https://open.spotify.com/album/5LtjW9e7zu1KvIGQiuuDo0) | 2:41 | 2024-07-05 | 2024-08-25 |
 | [RDP](https://open.spotify.com/track/553uCqkS9RD2hnhnvxZhan) | [Frenetik](https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21) | [RDP](https://open.spotify.com/album/3UwnArHpmB61a4WDqnktXQ) | 2:41 | 2022-01-14 | 2022-01-29 |
 | [Real & Riche](https://open.spotify.com/track/47vfWmPJrB4sIETbjwbh86) | [M\-Press Live](https://open.spotify.com/artist/5nJC0rvHpmXz7JLNE9kf6v), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Real & Riche](https://open.spotify.com/album/4mFTgcDkx8lOxI2ZmFVcJ1) | 2:24 | 2022-05-27 | 2022-06-11 |
 | [Real Love](https://open.spotify.com/track/3AEJ9PoZEC6ovIv9rZy7aI) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Une semaine à Paris](https://open.spotify.com/album/0bCd5P38zFjnlTYD6j569u) | 3:34 | 2023-11-17 | 2023-12-02 |
@@ -2427,6 +2428,7 @@
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-12 | 2024-03-16 |
 | [Temps Mort](https://open.spotify.com/track/5SjDYaaYpyuNqYgNFrwLJv) | [RIP](https://open.spotify.com/artist/5VyEjYKwnt9lyULWcLJS9f) | [Temps Mort](https://open.spotify.com/album/4pKgXmDrEJL7kKKPftkOYt) | 2:51 | 2022-04-08 | 2022-04-16 |
 | [Temps perdu](https://open.spotify.com/track/0YFuRRuUdNgpvM3G2a9lQ9) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Caméléon](https://open.spotify.com/album/7uUTDl6Q5EXTkC7pF0sGid) | 3:27 | 2022-03-04 | 2022-03-12 |
+| [Tentation \(feat\. Hamza\)](https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Tentation \(feat\. Hamza\)](https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP) | 2:55 | 2024-08-23 |  |
 | [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 | 2024-02-16 | 2024-03-11 |
 | [Terminus](https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J) | [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Terminus](https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT) | 2:38 | 2023-10-20 | 2024-01-24 |
 | [Terre de nos aïeux](https://open.spotify.com/track/41lSwH24Xl5Pc31P3OdYzX) | [Katia Rock](https://open.spotify.com/artist/2pAWfapBk0lzkyTMIJIrcb) | [Terre de nos aïeux](https://open.spotify.com/album/27Wzl8f2PhavvspsLTmaci) | 3:52 | 2022-01-14 | 2022-01-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mon Rovîa
 
-[Spotify](https://open.spotify.com/user/spotify) - 802,645 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,869 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 6 | [Crash](https://open.spotify.com/track/4lks4mEKMApTCgC6NF8enH) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Crash](https://open.spotify.com/album/0mOvApuMW4itdILMv3Cfug) | 2:22 |
 | 7 | [martingale](https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [martingale](https://open.spotify.com/album/61Hkj6ooUZ0SXaHjrkS4R9) | 4:17 |
 | 8 | [No One's Gonna Love You Like I Can](https://open.spotify.com/track/7jLMyy8FS31sTUPd4vNaWZ) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [No One’s Gonna Love You Like I Can](https://open.spotify.com/album/5JoMxxvtDzOfaIW1YOYxSu) | 2:02 |
-| 9 | [Stratosphere Blues / I Believe in You](https://open.spotify.com/track/4AncNup4cxUqJI2khU1Eq3) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Stratosphere Blues / I Believe In You](https://open.spotify.com/album/6Aebvjv6Si7T8atsk3mxA2) | 5:50 |
+| 9 | [Stratosphere Blues / I Believe in You](https://open.spotify.com/track/4AncNup4cxUqJI2khU1Eq3) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Stratosphere Blues / I Believe in You](https://open.spotify.com/album/6Aebvjv6Si7T8atsk3mxA2) | 5:50 |
 | 10 | [Beauty School](https://open.spotify.com/track/2OBkztfXpBHAcanmlvj0JS) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Beauty School](https://open.spotify.com/album/5ECvC9nLKDcgFJZbgEuwbw) | 4:02 |
 | 11 | [Left of Me](https://open.spotify.com/track/1ePMaox31BBUKy5nxwyYyf) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Stained Glass](https://open.spotify.com/album/7j0kfKJFYdDoK5NbQ1Ikv6) | 3:39 |
 | 12 | [The Hard Way](https://open.spotify.com/track/4DPRZwT4XWlZHuj4CpXDZ1) | [Pete Yorn](https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO) | [The Hard Way](https://open.spotify.com/album/4IVyKEuxf8LmxwX0Ltki0N) | 3:56 |

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Cornelius \(Japan\)
 
-1,475 songs - 3 day 16 hr 58 min
+1,476 songs - 3 day 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Eskalasi](https://open.spotify.com/track/6A75fM24jq8AJ8JQeSeuam) | [Normal Eve](https://open.spotify.com/artist/6c7nlW5vkowcTcgspuXUIS) | [Impase](https://open.spotify.com/album/4DPHQQcjJnshhPq8W9nZt2) | 4:26 | 2023-08-03 | 2023-09-08 |
 | [Etalase](https://open.spotify.com/track/4OAi6KATMr1C62OJwganVN) | [Barasuara](https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE) | [Jalaran Sadrah](https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC) | 4:19 | 2024-06-21 | 2024-08-02 |
 | [Eternity As An Instant](https://open.spotify.com/track/6mFIQsnucrn7viS643LUc6) | [Mai Mishio](https://open.spotify.com/artist/0gZyTGbT1RKnpW98SejjoU) | [Wednesday/Eternity As An Instant](https://open.spotify.com/album/0lpsDsYmJ8yzrXNMUuRJSi) | 3:52 | 2022-05-12 | 2022-05-27 |
+| [Euphoria](https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g) | [The Ridleys](https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG) | [All These and More](https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x) | 3:29 | 2024-08-22 |  |
 | [Every Day](https://open.spotify.com/track/3yIw4wffZn9hwPUKLUh25l) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [of us](https://open.spotify.com/album/4x6THVlohmI8deJv3I1kU3) | 4:07 | 2022-10-28 | 2023-01-27 |
 | [Everything](https://open.spotify.com/track/2bhtLYcoRs5Qiid6WouLKe) | [Cliff](https://open.spotify.com/artist/3jjbX9cm5Np3ekAypS71si) | [Everything](https://open.spotify.com/album/4hStN9AunMBTkyfWMJ8Vpd) | 3:33 | 2023-03-16 | 2023-05-12 |
 | [Everytime](https://open.spotify.com/track/43l6cr0F3VdjBLDOWq081Q) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g), [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Everytime](https://open.spotify.com/album/5QYcLdudlnlpQPJ7IzQg9t) | 3:30 | 2023-10-19 | 2023-12-01 |
@@ -876,7 +877,7 @@
 | [Overdreamt](https://open.spotify.com/track/7oKLoDeert3WDIvMtXiLEJ) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Overdreamt](https://open.spotify.com/album/5nEuQzotjpH5hfZMMjvWaz) | 3:56 | 2024-07-25 | 2024-08-02 |
 | [Pager](https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 2:46 | 2022-04-14 | 2022-05-27 |
 | [Pahit Manis](https://open.spotify.com/track/6Bgz0aLA2UuVizhbSw0w1j) | [Bayangan](https://open.spotify.com/artist/6Vf2sAgnMGioPLNUqqBgAI), [Herri Hamid](https://open.spotify.com/artist/0EtE4shOS9M5b0eVQt6KuI) | [Kelana](https://open.spotify.com/album/3l8kJNJHSCPLaxmHgAyqpC) | 3:24 | 2022-07-22 | 2022-09-23 |
-| [Painless](https://open.spotify.com/track/1e8E4kK2o4dl3DosSAx2E9) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Painless](https://open.spotify.com/album/0ZcJ5jY1VVjAzvP9H1X4bk) | 5:15 | 2024-07-12 |  |
+| [Painless](https://open.spotify.com/track/1e8E4kK2o4dl3DosSAx2E9) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Painless](https://open.spotify.com/album/0ZcJ5jY1VVjAzvP9H1X4bk) | 5:15 | 2024-07-12 | 2024-08-25 |
 | [Pair Of You](https://open.spotify.com/track/6ekoBPfdfnWhQ8oJveaZSk) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Pair Of You](https://open.spotify.com/album/67lgGIywB4fMJ0xHsHgUiL) | 2:24 | 2022-09-22 | 2022-10-14 |
 | [Pandora \(Part Deux\)](https://open.spotify.com/track/3MhUnHXh9g2ph3iOBh6KCY) | [Ajie Gergaji](https://open.spotify.com/artist/0K24CkYcxAoXu2YgmdHuIS), [Yustie \(Female\)](https://open.spotify.com/artist/6SOFZaPWM70rktmx1OCwsW) | [Pandora \(Part Deux\)](https://open.spotify.com/album/3zIRn3Q3jdRCSNkQeWQ0mM) | 5:20 | 2024-04-18 | 2024-04-26 |
 | [Papansin](https://open.spotify.com/track/3cdVZ0zqOHl8cS0bR06oKZ) | [Minaw](https://open.spotify.com/artist/3WDWdGrDmyczFUkPPkd8aK) | [Papansin](https://open.spotify.com/album/3p1jcWloxr38uAQKB1AiHf) | 4:17 | 2022-03-24 | 2022-05-27 |

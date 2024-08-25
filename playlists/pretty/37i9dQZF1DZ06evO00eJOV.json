@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 35734,
+  "num_followers": 35740,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAAC2Zjpo73Z7zzLm+SYrW+HJ",
+  "snapshot_id": "ZsfRAAAAAABJ5s44P89CYNYVNIB8Zu5m",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Malibongwe",
+        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 331373,
+      "name": "Mbulali Wami",
+      "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits 1964-2004",
         "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 306933,
       "name": "Mali",
       "url": "https://open.spotify.com/track/1QIayXInAVGwR7ZktE3FLB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Malibongwe",
-        "url": "https://open.spotify.com/album/61hCmpIiqa7Ok76xexTzO6"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 331373,
-      "name": "Mbulali Wami",
-      "url": "https://open.spotify.com/track/4mv628DTPrlRfEbCx8VOjX"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 331497,
-      "name": "Good Black Woman",
-      "url": "https://open.spotify.com/track/0tBcgGtZP7OmfiSG5LiXqX"
+      "duration_ms": 277896,
+      "name": "Don't Follow Me I'm Married",
+      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
     },
     {
       "added_at": null,
@@ -752,25 +752,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 277896,
-      "name": "Don't Follow Me I'm Married",
-      "url": "https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ag Shame Lovey",
-        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "The Lord Is My Shepherd",
-      "url": "https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE"
+      "duration_ms": 331497,
+      "name": "Good Black Woman",
+      "url": "https://open.spotify.com/track/0tBcgGtZP7OmfiSG5LiXqX"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
       "duration_ms": 244333,
       "name": "Ngizobuya",
       "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ag Shame Lovey",
+        "url": "https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 348893,
+      "name": "The Lord Is My Shepherd",
+      "url": "https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE"
     },
     {
       "added_at": null,

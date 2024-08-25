@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 79621,
+  "num_followers": 79648,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -787,18 +787,22 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Rita Ora",
-        "url": "https://open.spotify.com/album/5q9LTtptGJ6gk8Kaf6bUmk"
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/1j9JM0DbhwWEcB9ZrZuz4a"
       },
       "artists": [
         {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
         }
       ],
-      "duration_ms": 122864,
-      "name": "Rita Ora",
-      "url": "https://open.spotify.com/track/2bPbyTiplZXroFIvW8Fjo0"
+      "duration_ms": 178295,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/0DiovsXls6yfe3Jyc9EDH5"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -819,22 +823,18 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Think Twice",
-        "url": "https://open.spotify.com/album/1j9JM0DbhwWEcB9ZrZuz4a"
+        "name": "Rita Ora",
+        "url": "https://open.spotify.com/album/5q9LTtptGJ6gk8Kaf6bUmk"
       },
       "artists": [
         {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
         }
       ],
-      "duration_ms": 178295,
-      "name": "Think Twice",
-      "url": "https://open.spotify.com/track/0DiovsXls6yfe3Jyc9EDH5"
+      "duration_ms": 122864,
+      "name": "Rita Ora",
+      "url": "https://open.spotify.com/track/2bPbyTiplZXroFIvW8Fjo0"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 168369,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "How It Is",
         "url": "https://open.spotify.com/album/2x4kUhphJ4TI0I3KuvqA0o"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 198189,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 168369,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh"
     },
     {
       "added_at": "2024-08-22 23:00:00",

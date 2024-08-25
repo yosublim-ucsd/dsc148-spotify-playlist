@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Seven Lions, Subtronics, and Skylar Grey",
-  "num_followers": 977198,
+  "num_followers": 977203,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1397,22 +1397,6 @@
       "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
     },
     {
-      "added_at": "2024-07-05 04:16:33",
-      "album": {
-        "name": "MANSA MUSA",
-        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "MANSA MUSA",
-      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
-    },
-    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Brain Tickler",
@@ -1427,6 +1411,22 @@
       "duration_ms": 144134,
       "name": "Brain Tickler",
       "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
+    },
+    {
+      "added_at": "2024-07-05 04:16:33",
+      "album": {
+        "name": "MANSA MUSA",
+        "url": "https://open.spotify.com/album/622qjrMnxaaHIky86zkj5K"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "MANSA MUSA",
+      "url": "https://open.spotify.com/track/7M2brbK9zVw52HpmxqjHck"
     },
     {
       "added_at": "2024-04-05 04:00:45",
@@ -1641,22 +1641,6 @@
       "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "EDGE (2024 Version)",
-        "url": "https://open.spotify.com/album/2c9M8aAcUN2hqs7lfNTThk"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "EDGE - 2024 Version",
-      "url": "https://open.spotify.com/track/4sG2mY9YIrqC6zJByChKSN"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "IMY",
@@ -1675,6 +1659,22 @@
       "duration_ms": 180367,
       "name": "IMY",
       "url": "https://open.spotify.com/track/5auqanphtvVmBRMwyiu1a5"
+    },
+    {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "EDGE (2024 Version)",
+        "url": "https://open.spotify.com/album/2c9M8aAcUN2hqs7lfNTThk"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 179612,
+      "name": "EDGE - 2024 Version",
+      "url": "https://open.spotify.com/track/4sG2mY9YIrqC6zJByChKSN"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -1901,6 +1901,22 @@
       "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Get Wompy",
+        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Get Wompy",
+      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Elysian Fields",
@@ -1977,22 +1993,6 @@
       "url": "https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Get Wompy",
-        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Get Wompy",
-      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
-    },
-    {
       "added_at": "2024-05-03 04:00:00",
       "album": {
         "name": "Trippy Land",
@@ -2033,22 +2033,6 @@
       "url": "https://open.spotify.com/track/4kxvbzdrOnxh5xadCD429G"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "S.O.M.F",
-        "url": "https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 150697,
-      "name": "S.O.M.F",
-      "url": "https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW"
-    },
-    {
       "added_at": "2024-06-07 04:01:30",
       "album": {
         "name": "LSZEE",
@@ -2067,6 +2051,22 @@
       "duration_ms": 248000,
       "name": "FRENCH DREAM",
       "url": "https://open.spotify.com/track/48mALuU7mFsXxcSH1uwAll"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "S.O.M.F",
+        "url": "https://open.spotify.com/album/7cw43EzYeT0OOAkNq4NEyb"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 150697,
+      "name": "S.O.M.F",
+      "url": "https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW"
     },
     {
       "added_at": "2024-05-17 04:00:00",

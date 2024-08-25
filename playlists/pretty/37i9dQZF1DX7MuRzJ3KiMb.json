@@ -1,6 +1,6 @@
 {
   "description": "el amor es <3",
-  "num_followers": 92177,
+  "num_followers": 92202,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
@@ -367,18 +367,18 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "FLORES",
-        "url": "https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw"
+        "name": "CHILDSTAR",
+        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
       },
       "artists": [
         {
-          "name": "LATIN MAFIA",
-          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 160000,
-      "name": "FLORES",
-      "url": "https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI"
+      "duration_ms": 161373,
+      "name": "PLATONIK",
+      "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
     },
     {
       "added_at": "2024-07-20 15:28:27",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "CHILDSTAR",
-        "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "PLATONIK",
-      "url": "https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
         "name": "AMOR",
         "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 180857,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
+        "name": "FLORES",
+        "url": "https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "FLORES",
+      "url": "https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "Quer\u00eda Volverte a Ver",
-        "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
-      },
-      "artists": [
-        {
-          "name": "Los Claxons",
-          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
-        },
-        {
-          "name": "Rom\u00e1n Torres",
-          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
-        }
-      ],
-      "duration_ms": 251760,
-      "name": "Quer\u00eda Volverte a Ver",
-      "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
+        "name": "Quer\u00eda Volverte a Ver",
+        "url": "https://open.spotify.com/album/7K9bGfbvaK3k2DRjyWLBPO"
+      },
+      "artists": [
+        {
+          "name": "Los Claxons",
+          "url": "https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf"
+        },
+        {
+          "name": "Rom\u00e1n Torres",
+          "url": "https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "Quer\u00eda Volverte a Ver",
+      "url": "https://open.spotify.com/track/2o5rzkYatnrHVUYrCbRFnE"
     },
     {
       "added_at": "2024-07-11 01:50:59",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2024-07-11 01:50:59",
       "album": {
-        "name": "Quiero Verte Hoy",
-        "url": "https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 215782,
-      "name": "Quiero Verte Hoy",
-      "url": "https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA"
-    },
-    {
-      "added_at": "2024-07-11 01:50:59",
-      "album": {
         "name": "Alguien Como T\u00fa",
         "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 200000,
       "name": "Ir por un Caf\u00e9",
       "url": "https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP"
+    },
+    {
+      "added_at": "2024-07-11 01:50:59",
+      "album": {
+        "name": "Quiero Verte Hoy",
+        "url": "https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 215782,
+      "name": "Quiero Verte Hoy",
+      "url": "https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA"
     },
     {
       "added_at": "2024-07-11 01:50:59",

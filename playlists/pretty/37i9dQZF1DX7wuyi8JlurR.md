@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7wuyi8JlurR.md) - [plain]
 
 > Risk\. Reward\. Repeat\. Listen to the music from Industry, new season coming soon to Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,485 likes - 131 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,566 likes - 131 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

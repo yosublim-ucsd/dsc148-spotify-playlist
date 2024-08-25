@@ -1338,6 +1338,24 @@
     {
       "album": {
         "name": "El Amor en 48 Compases",
+        "url": "https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134601,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/0HIFkKeys4hC9bosmZShQ9"
+    },
+    {
+      "album": {
+        "name": "El Amor en 48 Compases",
         "url": "https://open.spotify.com/album/4IjgGpRs1qLHM0WoBDSPwt"
       },
       "artists": [
@@ -15285,6 +15303,28 @@
     },
     {
       "album": {
+        "name": "FREEBARS #2",
+        "url": "https://open.spotify.com/album/4SXUD1V42E0BO1UjkGBwHn"
+      },
+      "artists": [
+        {
+          "name": "Matias Fisher",
+          "url": "https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd"
+        },
+        {
+          "name": "Santiago Ibarra",
+          "url": "https://open.spotify.com/artist/0GdhrNbXSn4TOvqinRC076"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143501,
+      "name": "FREEBARS #2",
+      "url": "https://open.spotify.com/track/1EpczndW0Lhsst3qhwLpd8"
+    },
+    {
+      "album": {
         "name": "Freestyle 2",
         "url": "https://open.spotify.com/album/1xJkLFwNBBNoKSnXfwJzwV"
       },
@@ -15948,7 +15988,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 153693,
       "name": "gen z luv",
       "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
@@ -19724,7 +19764,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -21424,7 +21464,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-24",
+      "date_removed": null,
       "duration_ms": 163290,
       "name": "LET THE WORLD BURN",
       "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
@@ -24644,7 +24684,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 169090,
       "name": "Mensaje de cumplea\u00f1os",
       "url": "https://open.spotify.com/track/26TEh9taf5N1kpUmPsCuoa"
@@ -30346,6 +30386,24 @@
       "duration_ms": 215156,
       "name": "PARA AMARTE A TI",
       "url": "https://open.spotify.com/track/5ZMucBMCG8iq0KuEZHLwYy"
+    },
+    {
+      "album": {
+        "name": "epistolares",
+        "url": "https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150902,
+      "name": "para siempre(\uff61>\ufe4f<)",
+      "url": "https://open.spotify.com/track/33BJHPx4bGPiHlE5Xo0x8K"
     },
     {
       "album": {
@@ -40056,7 +40114,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 152133,
       "name": "TNT",
       "url": "https://open.spotify.com/track/5pjqVFD6jFwMNM5Le9Bw06"

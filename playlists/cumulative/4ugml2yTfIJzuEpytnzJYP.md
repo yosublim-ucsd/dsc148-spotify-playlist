@@ -4,7 +4,7 @@
 
 > Deep Bass \- Melodic Bass \- Dubstep \- 140 \- Downtempo \- Dance Music \- Tribal Trap \- Grime \- Future Bass
 
-264 songs - 16 hr 41 min
+265 songs - 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [VTRN](https://open.spotify.com/track/3S9ibhJKqpdBfBSDFaCQv4) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z) | [VTRN](https://open.spotify.com/album/3m5zP3S9CyQqJvbjINGvMI) | 5:02 | 2022-04-25 | 2022-08-23 |
 | [War](https://open.spotify.com/track/0oyOinzQMX5h9NTLiVRYxR) | [Widow](https://open.spotify.com/artist/2xZXFkZ3aBGqyuhZrmgvse), [Logan](https://open.spotify.com/artist/7uyQOsktLn9VjGJg5KO9Ek) | [Spooky Stories EP](https://open.spotify.com/album/6lCGiwcpQCPuLqv5k3SDfO) | 4:34 | 2022-09-17 | 2022-10-17 |
 | [Way Of Life](https://open.spotify.com/track/30x0oEG0ZSNGzccTM6FHGT) | [ENiGMA Dubz](https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5) | [Way Of Life EP](https://open.spotify.com/album/1G34rlXSZIIzLo723IiZzi) | 4:42 | 2022-10-14 | 2023-05-27 |
+| [We Are The Night](https://open.spotify.com/track/6n5oYAuV41vqikhwPyIjJe) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Dimond Saints](https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75), [Shadow Society](https://open.spotify.com/artist/6AJ351ghgydcePFPco6zUY) | [We Are The Night](https://open.spotify.com/album/2Ib0Fc7af1LYeRkj60biAG) | 3:17 | 2024-08-24 |  |
 | [Westside](https://open.spotify.com/track/30Cy1PSV9yWfxJvHki4eob) | [Untitld](https://open.spotify.com/artist/1swZwQrIOqGfjpTrFIXEFd) | [Westside](https://open.spotify.com/album/22PIAiNnlJYM6vevTzMbvD) | 2:58 | 2022-09-17 | 2022-10-17 |
 | [What You Do](https://open.spotify.com/track/1OXC2vUcGb0BzbypNnTKNJ) | [tsou](https://open.spotify.com/artist/5JsuFqXsiaCaU3csaUjd3i) | [What You Do](https://open.spotify.com/album/26sdHImt8DmDMrpiLWZzC4) | 3:27 | 2023-06-19 | 2023-08-06 |
 | [Where I'm Going](https://open.spotify.com/track/1Xj0wD1Qhcsycc1W4Y5ifL) | [Zen Selekta](https://open.spotify.com/artist/35U1RcBFdxNezzySMgVVd3) | [Where I'm Going](https://open.spotify.com/album/15sAmxLmFlIHCYl50sPQ6W) | 3:53 | 2023-07-07 | 2023-12-14 |

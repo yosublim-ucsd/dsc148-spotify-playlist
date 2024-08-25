@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 216933,
       "name": "Beni Anla",
       "url": "https://open.spotify.com/track/4hDNZTqjqDrtM07DaOYAei"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 204250,
       "name": "D\u00fcn G\u00f6rd\u00fc\u011f\u00fcm R\u00fcya",
       "url": "https://open.spotify.com/track/5zFkIyNGimqxjPLovBUXas"
@@ -1015,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "o bi' ba\u015fka",
+        "url": "https://open.spotify.com/album/26P0TgguVaq5GqFcfX6xzk"
+      },
+      "artists": [
+        {
+          "name": "\u00d6yk\u00fc D\u00f6rter",
+          "url": "https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "o bi' ba\u015fka",
+      "url": "https://open.spotify.com/track/2b7zktvPnAnWSRKJ3gNB84"
+    },
+    {
+      "album": {
         "name": "olmazsan da olur",
         "url": "https://open.spotify.com/album/4qaSxmAB6YkR0t9U0Bmbrr"
       },
@@ -1424,6 +1442,24 @@
       "duration_ms": 147705,
       "name": "YABANCI",
       "url": "https://open.spotify.com/track/3tkaoklFrXHAlWvdoWhUbY"
+    },
+    {
+      "album": {
+        "name": "YAN",
+        "url": "https://open.spotify.com/album/32uJayR4mYnwptwWu3vl5w"
+      },
+      "artists": [
+        {
+          "name": "Kenan",
+          "url": "https://open.spotify.com/artist/720jWnlmqf0o6UgIAaWArU"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152041,
+      "name": "YAN",
+      "url": "https://open.spotify.com/track/6jGfDlrVGyuiW0JRGZ7gDK"
     },
     {
       "album": {

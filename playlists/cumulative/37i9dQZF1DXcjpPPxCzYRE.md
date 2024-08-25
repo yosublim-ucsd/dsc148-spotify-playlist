@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-289 songs - 16 hr 46 min
+290 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Como Viene Se Va](https://open.spotify.com/track/38k03LCyZORAjGAWg1o18B) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [TANDA](https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq) | 4:00 | 2024-04-11 |  |
 | [Confitados \(feat\. El Kanka\)](https://open.spotify.com/track/7MQsvYlWeJUnMuY84MraBg) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Confitados \(feat\. El Kanka\)](https://open.spotify.com/album/0ol8B8mnMgdkTJCR3ipqQx) | 3:16 | 2023-12-28 | 2024-05-03 |
 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 | 2022-11-11 |  |
-| [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 | 2024-06-06 |  |
+| [Cruzando el Charco](https://open.spotify.com/track/4XPxyC1PRjZzPip0PRRkKO) | [Marilia Monzón](https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93) | [Cruzando el Charco](https://open.spotify.com/album/5i4yms2HXGAn5FW3Up5H3N) | 3:10 | 2024-06-06 | 2024-08-25 |
 | [Delicate](https://open.spotify.com/track/5mb6SzBnxv1ywFSH9V3uxd) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:12 | 2023-10-26 | 2024-04-19 |
 | [Delicate](https://open.spotify.com/track/6MY1xABxoZATrEr4FeUhEM) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La) | 5:12 | 2024-04-11 |  |
 | [Derramar](https://open.spotify.com/track/3LUGhSGsZfa1Xk6LQ8VIcQ) | [Anselmos](https://open.spotify.com/artist/2uUuNmTYEBiQEB5qOWbAHO) | [Derramar](https://open.spotify.com/album/2liWoQ8Iu9AfbRsLI1RRcr) | 3:42 | 2023-06-09 |  |
@@ -181,6 +181,7 @@
 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 | 2024-02-08 | 2024-03-05 |
 | [Naranja Paraíso](https://open.spotify.com/track/2IMlhZ6Sxse3z7ghzRO7qc) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [Naranja Paraíso](https://open.spotify.com/album/60pnmUd6TxVl3cABofrNFI) | 4:18 | 2023-06-09 |  |
 | [Need The Sun To Break](https://open.spotify.com/track/1OwHOfTeJkdRhdqq93y2XV) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 3:44 | 2022-11-11 |  |
+| [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-08-23 |  |
 | [No debería quererte \- Acústico](https://open.spotify.com/track/77oNNJ8T6ZVHbCPhqM9Fry) | [Marina](https://open.spotify.com/artist/5pzsYBjgMTBW6r3B69yK9X) | [No debería quererte EP](https://open.spotify.com/album/7rgrfYTpZObZ6NPHI946PQ) | 2:37 | 2024-04-11 | 2024-06-07 |
 | [No Matter What](https://open.spotify.com/track/1LxlsAn1gECKoqLtOslshm) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [No Matter What](https://open.spotify.com/album/5HYPXY6FQXg2pQkOY2Tygw) | 3:56 | 2022-11-11 | 2023-01-06 |
 | [No me dejes caer](https://open.spotify.com/track/2sPHM5gHzgGT8UrhWxQrjl) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [Las burbujas del cajón](https://open.spotify.com/album/36dpLupe8eMdmdfjPvEcqM) | 3:13 | 2024-08-02 |  |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 34829,
+  "description": "This is Edgardo Nu\u00f1ez. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
+  "num_followers": 34857,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAAAqoQJxewKtAVuqHRh6HkXN",
+  "snapshot_id": "ZsfRAAAAAAD4GdyVaJVAu4b4niOAxAp9",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Envidia Se Dio Cuenta (En Vivo)",
+        "url": "https://open.spotify.com/album/1pivskZf20uDpQV21sjkN3"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 206271,
+      "name": "La Envidia Se Dio Cuenta - En Vivo",
+      "url": "https://open.spotify.com/track/7qpl6cleWADFbhMifTBkPg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Botecitos",
         "url": "https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 174680,
       "name": "Chavo F\u00e9lix",
       "url": "https://open.spotify.com/track/06TSCYrOx9iNPv0TqcQo8W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Envidia Se Dio Cuenta (En Vivo)",
-        "url": "https://open.spotify.com/album/1pivskZf20uDpQV21sjkN3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 206271,
-      "name": "La Envidia Se Dio Cuenta - En Vivo",
-      "url": "https://open.spotify.com/track/7qpl6cleWADFbhMifTBkPg"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "El Piyi",
-      "url": "https://open.spotify.com/track/2H2FRs6FumXmwjkxcOggU4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Le Compre Casa A Mi Ama",
         "url": "https://open.spotify.com/album/755inNisuJlbtx4Q2jNl1D"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 204437,
       "name": "Le Compre Casa A Mi Ama",
       "url": "https://open.spotify.com/track/7JhvxJMvAEuwfVnA64DG7E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "El Piyi",
+      "url": "https://open.spotify.com/track/2H2FRs6FumXmwjkxcOggU4"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191477,
-      "name": "El De La 31",
-      "url": "https://open.spotify.com/track/3HqbCSQ8soSfTLdPeYTs1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Markitos",
         "url": "https://open.spotify.com/album/23ZizR7IzKbnUiSY8SFydc"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 183000,
       "name": "El Markitos",
       "url": "https://open.spotify.com/track/6EFA7pX5OhKgyzoDqfHUrD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191477,
+      "name": "El De La 31",
+      "url": "https://open.spotify.com/track/3HqbCSQ8soSfTLdPeYTs1Q"
     },
     {
       "added_at": null,

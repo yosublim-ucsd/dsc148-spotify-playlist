@@ -1,6 +1,6 @@
 {
   "description": "Music by our 2024 Artists To Watch. Cover: Jasiel Nu\u00f1ez",
-  "num_followers": 5380,
+  "num_followers": 5388,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
@@ -415,18 +415,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Hielo",
-        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
+        "name": "Cumbialicious",
+        "url": "https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG"
       },
       "artists": [
         {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
         }
       ],
-      "duration_ms": 184795,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
+      "duration_ms": 134549,
+      "name": "la cumbia del cucuy",
+      "url": "https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Cumbialicious",
-        "url": "https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG"
+        "name": "Hielo",
+        "url": "https://open.spotify.com/album/7DLt7rMj26WSDUzGDk2B9g"
       },
       "artists": [
         {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
         }
       ],
-      "duration_ms": 134549,
-      "name": "la cumbia del cucuy",
-      "url": "https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui"
+      "duration_ms": 184795,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Salsa y Clase",
-        "url": "https://open.spotify.com/album/1PYbu1cHo958o2vGgZRYYA"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 222480,
-      "name": "Salsa y Clase",
-      "url": "https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Chiki Bomb\u00f3n",
         "url": "https://open.spotify.com/album/32YOvP63wnklptWCwAOZx5"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 122768,
       "name": "Chiki Bomb\u00f3n",
       "url": "https://open.spotify.com/track/1SXwXMVllOY1IHVjtol5VL"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Salsa y Clase",
+        "url": "https://open.spotify.com/album/1PYbu1cHo958o2vGgZRYYA"
+      },
+      "artists": [
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 222480,
+      "name": "Salsa y Clase",
+      "url": "https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e"
     }
   ],
   "unique_name": "Viva Latino Artists To Watch",

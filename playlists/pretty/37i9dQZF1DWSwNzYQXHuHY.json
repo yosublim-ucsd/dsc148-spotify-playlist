@@ -147,22 +147,6 @@
     {
       "added_at": "2024-08-10 15:53:17",
       "album": {
-        "name": "Magnetic (Remixes)",
-        "url": "https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "Magnetic (R&B Remix)",
-      "url": "https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J"
-    },
-    {
-      "added_at": "2024-08-10 15:53:17",
-      "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 217044,
       "name": "Bom",
       "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
+    },
+    {
+      "added_at": "2024-08-10 15:53:17",
+      "album": {
+        "name": "Magnetic (Remixes)",
+        "url": "https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 171818,
+      "name": "Magnetic (R&B Remix)",
+      "url": "https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J"
     },
     {
       "added_at": "2024-08-10 15:53:17",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-08-10 15:53:17",
       "album": {
-        "name": "What about (feat. PENOMECO)",
-        "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        },
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 208690,
-      "name": "What about (feat. PENOMECO)",
-      "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
-    },
-    {
-      "added_at": "2024-08-10 15:53:17",
-      "album": {
         "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
         "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 205050,
       "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
       "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
+    },
+    {
+      "added_at": "2024-08-10 15:53:17",
+      "album": {
+        "name": "What about (feat. PENOMECO)",
+        "url": "https://open.spotify.com/album/1jaeVOAyGKNbE7I3xEL4ig"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 208690,
+      "name": "What about (feat. PENOMECO)",
+      "url": "https://open.spotify.com/track/6WdWUIfP8zAhkzdmknWjTd"
     },
     {
       "added_at": "2024-08-10 15:53:17",

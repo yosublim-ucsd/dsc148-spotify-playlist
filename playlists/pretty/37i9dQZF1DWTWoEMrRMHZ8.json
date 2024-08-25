@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Nando Reis",
-  "num_followers": 346552,
+  "num_followers": 346608,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,26 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Quero Voc\u00ea",
+        "url": "https://open.spotify.com/album/1onNskM0PFFZS0cbZftnYp"
+      },
+      "artists": [
+        {
+          "name": "Alm\u00e9rio",
+          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 149517,
+      "name": "Quero Voc\u00ea",
+      "url": "https://open.spotify.com/track/2DveQSp3QsKN8GfHiuEs83"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
         "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 324529,
       "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
       "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Quero Voc\u00ea",
-        "url": "https://open.spotify.com/album/1onNskM0PFFZS0cbZftnYp"
-      },
-      "artists": [
-        {
-          "name": "Alm\u00e9rio",
-          "url": "https://open.spotify.com/artist/7kF4TDKgWfhbDuBbOOBcHW"
-        },
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 149517,
-      "name": "Quero Voc\u00ea",
-      "url": "https://open.spotify.com/track/2DveQSp3QsKN8GfHiuEs83"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -415,6 +415,26 @@
       "duration_ms": 172329,
       "name": "Vento",
       "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "A Dan\u00e7a - Ao Vivo",
+        "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 243498,
+      "name": "A Dan\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -575,6 +595,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Flecha do dedo / Paix\u00e3o faixa preta",
+        "url": "https://open.spotify.com/album/77vpBr3RbUPpWdRCMUcDEt"
+      },
+      "artists": [
+        {
+          "name": "Curumin",
+          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
+        }
+      ],
+      "duration_ms": 244150,
+      "name": "Flecha do Dedo",
+      "url": "https://open.spotify.com/track/0L8kOZj7LC36d6WNbhprCr"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Even Bossa If I Have To",
         "url": "https://open.spotify.com/album/1Q434rYaSU2Fw7frAXnOfQ"
       },
@@ -603,22 +639,6 @@
       "duration_ms": 172586,
       "name": "\u00c2mbar",
       "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Flecha do dedo / Paix\u00e3o faixa preta",
-        "url": "https://open.spotify.com/album/77vpBr3RbUPpWdRCMUcDEt"
-      },
-      "artists": [
-        {
-          "name": "Curumin",
-          "url": "https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI"
-        }
-      ],
-      "duration_ms": 244150,
-      "name": "Flecha do Dedo",
-      "url": "https://open.spotify.com/track/0L8kOZj7LC36d6WNbhprCr"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -731,30 +751,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Uma nova hist\u00f3ria",
-        "url": "https://open.spotify.com/album/6dmkpr3VWbOluaJ5eyvY5y"
-      },
-      "artists": [
-        {
-          "name": "Dota Kehr",
-          "url": "https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga"
-        },
-        {
-          "name": "Danilo Guilherme",
-          "url": "https://open.spotify.com/artist/2Tdp01f0oQIAkykqdsR0iN"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 159434,
-      "name": "Uma nova hist\u00f3ria",
-      "url": "https://open.spotify.com/track/2KHtLExG4RWkxSa9uzSBmF"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Baianidade Nag\u00f4",
         "url": "https://open.spotify.com/album/0fFgkGL0MXDuHKsIaFY9lj"
       },
@@ -783,6 +779,30 @@
       "duration_ms": 204500,
       "name": "Quando a Gente Existe",
       "url": "https://open.spotify.com/track/5KUtfBqF5JICzTjwkZzi86"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Uma nova hist\u00f3ria",
+        "url": "https://open.spotify.com/album/6dmkpr3VWbOluaJ5eyvY5y"
+      },
+      "artists": [
+        {
+          "name": "Dota Kehr",
+          "url": "https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga"
+        },
+        {
+          "name": "Danilo Guilherme",
+          "url": "https://open.spotify.com/artist/2Tdp01f0oQIAkykqdsR0iN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 159434,
+      "name": "Uma nova hist\u00f3ria",
+      "url": "https://open.spotify.com/track/2KHtLExG4RWkxSa9uzSBmF"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -931,6 +951,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Quero Andar Com Voc\u00ea",
         "url": "https://open.spotify.com/album/0Gze0JKX4Ls4QlSfrLQaqy"
       },
@@ -967,18 +1003,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+        "name": "Talism\u00e3",
+        "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
       },
       "artists": [
         {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
         }
       ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
+      "duration_ms": 229090,
+      "name": "Talism\u00e3",
+      "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1015,22 +1051,6 @@
       "duration_ms": 348000,
       "name": "Macap\u00e1",
       "url": "https://open.spotify.com/track/3tRFdooeDmoYgvodTqYH5I"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Talism\u00e3",
-        "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 229090,
-      "name": "Talism\u00e3",
-      "url": "https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1275,6 +1295,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Oxalatrix",
+        "url": "https://open.spotify.com/album/2yWVVZIHjiIWuJMdOwQy7u"
+      },
+      "artists": [
+        {
+          "name": "Guinu",
+          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+        }
+      ],
+      "duration_ms": 203592,
+      "name": "Medo da Cidade",
+      "url": "https://open.spotify.com/track/5meZ48uSNjxubfP1PgI8Yz"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Tem Barata Voadora Que Se Acha Borboleta",
         "url": "https://open.spotify.com/album/6Swn45UtkLg3tshqguoBqO"
       },
@@ -1335,6 +1371,38 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Universo de Paix\u00e3o",
+        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
+      },
+      "artists": [
+        {
+          "name": "Natascha Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Melhor Assim",
+      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "PERNAMBUCANA",
+        "url": "https://open.spotify.com/album/0HoOXLK65NE1EvegdBlzd2"
+      },
+      "artists": [
+        {
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
+        }
+      ],
+      "duration_ms": 199503,
+      "name": "PERNAMBUCANA",
+      "url": "https://open.spotify.com/track/0Q62TpLE71tDSBbm6pqi9C"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Porvir",
         "url": "https://open.spotify.com/album/70mzEBUxbQrf6HW35c7cac"
       },
@@ -1363,22 +1431,6 @@
       "duration_ms": 232576,
       "name": "Porvir",
       "url": "https://open.spotify.com/track/3kgdKvRXZ9CJg3n1RnIwn1"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Universo de Paix\u00e3o",
-        "url": "https://open.spotify.com/album/51QbgpsAkuZE2ejyE7ht7Y"
-      },
-      "artists": [
-        {
-          "name": "Natascha Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/0UhJSEM5vgkPWXDA6mYuhh"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Melhor Assim",
-      "url": "https://open.spotify.com/track/3kf9cCRHPyDYr93nXWAbav"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1463,38 +1515,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "PERNAMBUCANA",
-        "url": "https://open.spotify.com/album/0HoOXLK65NE1EvegdBlzd2"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        }
-      ],
-      "duration_ms": 199503,
-      "name": "PERNAMBUCANA",
-      "url": "https://open.spotify.com/track/0Q62TpLE71tDSBbm6pqi9C"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Domingo \u00c0 Noite",
-        "url": "https://open.spotify.com/album/0ELW5yaFYwjFcSuS2iIA1m"
-      },
-      "artists": [
-        {
-          "name": "Tom Karabachian",
-          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
-        }
-      ],
-      "duration_ms": 221137,
-      "name": "Domingo \u00c0 Noite",
-      "url": "https://open.spotify.com/track/36G4SFxRe5YFAvBeg04OJ6"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Vento no Canavial",
         "url": "https://open.spotify.com/album/70cOZazORuBs8VoC7ef3c0"
       },
@@ -1515,18 +1535,34 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Oxalatrix",
-        "url": "https://open.spotify.com/album/2yWVVZIHjiIWuJMdOwQy7u"
+        "name": "N\u00c3O ME CHAME DE AMOR",
+        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
       },
       "artists": [
         {
-          "name": "Guinu",
-          "url": "https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl"
+          "name": "LAURO",
+          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
         }
       ],
-      "duration_ms": 203592,
-      "name": "Medo da Cidade",
-      "url": "https://open.spotify.com/track/5meZ48uSNjxubfP1PgI8Yz"
+      "duration_ms": 278033,
+      "name": "N\u00c3O ME CHAME DE AMOR",
+      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Domingo \u00c0 Noite",
+        "url": "https://open.spotify.com/album/0ELW5yaFYwjFcSuS2iIA1m"
+      },
+      "artists": [
+        {
+          "name": "Tom Karabachian",
+          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
+        }
+      ],
+      "duration_ms": 221137,
+      "name": "Domingo \u00c0 Noite",
+      "url": "https://open.spotify.com/track/36G4SFxRe5YFAvBeg04OJ6"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1543,22 +1579,6 @@
       "duration_ms": 210680,
       "name": "O Beijo \u00e0 Flor",
       "url": "https://open.spotify.com/track/4hZufYnbXHWb0FNuNuXy61"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "N\u00c3O ME CHAME DE AMOR",
-        "url": "https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs"
-      },
-      "artists": [
-        {
-          "name": "LAURO",
-          "url": "https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa"
-        }
-      ],
-      "duration_ms": 278033,
-      "name": "N\u00c3O ME CHAME DE AMOR",
-      "url": "https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1627,26 +1647,6 @@
       "duration_ms": 225119,
       "name": "A Loba/Ou Ela ou Eu - Ao Vivo",
       "url": "https://open.spotify.com/track/6DAgaO2rB2MhQPIqzvX6Fy"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "A Dan\u00e7a - Ao Vivo",
-        "url": "https://open.spotify.com/album/2P09EUuvJ4OvfUS1fXR7Rg"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 243498,
-      "name": "A Dan\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3i1JavmShRKVqPKBUja1PG"
     },
     {
       "added_at": "2024-08-23 03:00:00",

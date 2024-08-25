@@ -6663,6 +6663,24 @@
     },
     {
       "album": {
+        "name": "All These and More",
+        "url": "https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x"
+      },
+      "artists": [
+        {
+          "name": "The Ridleys",
+          "url": "https://open.spotify.com/artist/03KZ3tIgA3DSCU4o8PahVG"
+        }
+      ],
+      "date_added": "2024-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209166,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g"
+    },
+    {
+      "album": {
         "name": "of us",
         "url": "https://open.spotify.com/album/4x6THVlohmI8deJv3I1kU3"
       },
@@ -16488,7 +16506,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-25",
       "duration_ms": 315172,
       "name": "Painless",
       "url": "https://open.spotify.com/track/1e8E4kK2o4dl3DosSAx2E9"

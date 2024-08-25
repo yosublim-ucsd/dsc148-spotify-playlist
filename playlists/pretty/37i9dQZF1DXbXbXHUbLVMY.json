@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28287,
+  "num_followers": 28292,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,26 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "V\u00c5GA",
+        "url": "https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ"
+      },
+      "artists": [
+        {
+          "name": "Awave",
+          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
+        },
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 153053,
+      "name": "Uno Dos Tres",
+      "url": "https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Du & Jag",
         "url": "https://open.spotify.com/album/0UJ1RyPtQ9EMQmbBL8ZnUK"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 173714,
       "name": "Ambassador",
       "url": "https://open.spotify.com/track/1J1TrqO93opcc5mx3Xv8DG"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "V\u00c5GA",
-        "url": "https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ"
-      },
-      "artists": [
-        {
-          "name": "Awave",
-          "url": "https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF"
-        },
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 153053,
-      "name": "Uno Dos Tres",
-      "url": "https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi"
     },
     {
       "added_at": "2024-08-22 22:00:00",

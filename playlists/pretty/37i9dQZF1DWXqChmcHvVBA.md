@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: La Joaqui & elaggume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,747 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,028 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 58 | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup) | 2:43 |
 | 59 | [Rkteando \- Remix](https://open.spotify.com/track/0EBblLqWUMgOo0LPLnszAg) | [E.C.V](https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR), [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Mauri Mansilla](https://open.spotify.com/artist/5zdbvniDOPPX4mlmmimzvE) | [Rkteando \(Remix\)](https://open.spotify.com/album/0LoqDW1bluEMJkmbIwIgi2) | 2:50 |
 | 60 | [Tirando Corte](https://open.spotify.com/track/60MM0hgQ8OKkqTDi1qTz8x) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Tirando Corte](https://open.spotify.com/album/0Bvj4fN7e19wbrkmYhvDDY) | 2:32 |
-| 61 | [Castigo](https://open.spotify.com/track/2BDJWePEkczB34ZoDliNSr) | [La Nota El Jefe](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Castigo](https://open.spotify.com/album/1gaCJAKGUtZ4zVPn4dI4KR) | 2:26 |
+| 61 | [Castigo](https://open.spotify.com/track/2BDJWePEkczB34ZoDliNSr) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Castigo](https://open.spotify.com/album/1gaCJAKGUtZ4zVPn4dI4KR) | 2:26 |
 | 62 | [Session en el Barrio \#4](https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Session en el Barrio \#4](https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO) | 2:32 |
 | 63 | [Turro Diferente \(feat\. Omar Varela, Preciau\)](https://open.spotify.com/track/2EZdlAbCWobkRJUj248m4S) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Preciau](https://open.spotify.com/artist/7x1Qa3ZOKaQ1XwSqFkGcC3), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Turro Diferente \(feat\. Omar Varela, Preciau\)](https://open.spotify.com/album/0r2F17LMHbJ53C68PvzsiN) | 2:49 |
 | 64 | [Rubia o Morocha](https://open.spotify.com/track/1ZDC2BKJ64JYZYhW3vGzs2) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Rubia o Morocha](https://open.spotify.com/album/1AwH6SPsNwL0TLojydqu9p) | 2:40 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,595 likes - 544 songs - 1 day 8 hr 44 min
+[LC](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,593 likes - 544 songs - 1 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -338,7 +338,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 328 | [Sugar Boo](https://open.spotify.com/track/3zeV6b2FMFsLHopzHHnS6J) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [MERRY GO ROUND JAILHOUSE](https://open.spotify.com/album/0wrZPBMrENaG2GUTL7LwCX) | 3:33 |
 | 329 | [芽生え](https://open.spotify.com/track/6ftmKGG9rxzjoimdzcx9FX) | [小久保隆](https://open.spotify.com/artist/1yzyqMZjuHLEkX1zVARhu7) | [ウォーター・ヒーリング\~ビューティー・トリートメント・ミュージック](https://open.spotify.com/album/7IIIz33snPkVQQtI4imuqJ) | 6:57 |
 | 330 | [Angel Island Cutscene](https://open.spotify.com/track/74uJsC2jPJDbpn0i11STES) | [Tee Lopes](https://open.spotify.com/artist/5ZOKvzD4GQ7Yg2CS4CVbRb) | [Sonic Mania Original Sound Track \(Selected Edition\)](https://open.spotify.com/album/0WkLss7gRrFrdL7wuicps5) | 0:17 |
-| 331 | [ルーヴル美術館侵入](https://open.spotify.com/track/2TjrM7ixQJRV47YsQsj75A) | [Naofumi Hataya](https://open.spotify.com/artist/16Zt0banJ38CasAMhXAqBm) | [リズム怪盗R 皇帝ナポレオンの遺産 オリジナル サウンドトラック \(Vol\. 1\)](https://open.spotify.com/album/2cjLwgvKJDcXxJD2jjv985) | 1:56 |
+| 331 | [ルーヴル美術館侵入](https://open.spotify.com/track/2TjrM7ixQJRV47YsQsj75A) | [Naofumi Hataya](https://open.spotify.com/artist/16Zt0banJ38CasAMhXAqBm) | [リズム怪盗R 皇帝ナポレオンの遺産 オリジナル サウンドトラック \- Vol\. 1](https://open.spotify.com/album/2cjLwgvKJDcXxJD2jjv985) | 1:56 |
 | 332 | [Treasured Memories](https://open.spotify.com/track/6Cd3T9ovWjntULLs8Cdok8) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS \-HD 1.5 ReMIX\- \- Original Soundtrack](https://open.spotify.com/album/59xa0duBH2doywRKohAqIY) | 1:45 |
 | 333 | [Secret](https://open.spotify.com/track/54VrOVPO59T6fyE5Vx40P5) | [ESPRIT 空想](https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [200% Electronica](https://open.spotify.com/album/6WgSCcRfaXuBVfM2TpV0Kl) | 4:45 |
 | 334 | [Velocity](https://open.spotify.com/track/6yQrIsWAZM5WeX4TKeLOgj) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 8:34 |

@@ -2,7 +2,7 @@
 
 ### [This Is imase](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RWBWx)
 
-> This is imase\. The essential tracks, all in one playlist.
+> This is imase\. Tutti i brani in un'unica playlist.
 
 32 songs - 1 hr 48 min
 

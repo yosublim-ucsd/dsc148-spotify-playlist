@@ -2,7 +2,7 @@
 
 ### [This Is Lauren Aquilina](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19B5f5)
 
-> This is Lauren Aquilina\. The essential tracks, all in one playlist.
+> This is Lauren Aquilina。アーティストの代表曲をひとつのプレイリストに。
 
 36 songs - 2 hr 7 min
 

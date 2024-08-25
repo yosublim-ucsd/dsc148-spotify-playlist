@@ -827,6 +827,24 @@
     },
     {
       "album": {
+        "name": "trust",
+        "url": "https://open.spotify.com/album/7yZQZmlRrarOH22Vkhh5mu"
+      },
+      "artists": [
+        {
+          "name": "Izabel",
+          "url": "https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj"
+        }
+      ],
+      "date_added": "2024-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189085,
+      "name": "trust",
+      "url": "https://open.spotify.com/track/5gAOA4LiOrrt6Rdr2KSCUO"
+    },
+    {
+      "album": {
         "name": "Peace and Offerings",
         "url": "https://open.spotify.com/album/0RXHqLpusmEwqffP21ngRy"
       },

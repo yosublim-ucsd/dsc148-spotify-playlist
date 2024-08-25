@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters ",
-  "num_followers": 53472,
+  "num_followers": 53502,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Don't Worry Be Happy",
-        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 225018,
-      "name": "Don`t Worry Be Happy",
-      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "El \u00c1tico",
         "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 242813,
       "name": "El \u00c1tico",
       "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Don't Worry Be Happy",
+        "url": "https://open.spotify.com/album/5FexSOMJcqzhSt3NFXqbLY"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 225018,
+      "name": "Don`t Worry Be Happy",
+      "url": "https://open.spotify.com/track/6jo4CR3Efx6g2peyiXmzAU"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
+        "name": "The Sound Of Revolution",
+        "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
+      },
+      "artists": [
+        {
+          "name": "Los Fastidios",
+          "url": "https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9"
+        }
+      ],
+      "duration_ms": 205527,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
         "name": "Kalau Bulan Bisa Ngomong",
         "url": "https://open.spotify.com/album/2EJfmC76VxM5dexFl45NZH"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 294666,
       "name": "Kalau Bulan Bisa Ngomong",
       "url": "https://open.spotify.com/track/2W7S21zUjbNwaWNSE4ehr5"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
-        "name": "The Sound Of Revolution",
-        "url": "https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9"
-      },
-      "artists": [
-        {
-          "name": "Los Fastidios",
-          "url": "https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9"
-        }
-      ],
-      "duration_ms": 205527,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "Wir sind wieder wer",
-        "url": "https://open.spotify.com/album/5RvndlPhi6eqt0QxN2hP0q"
-      },
-      "artists": [
-        {
-          "name": "100 Kilo Herz",
-          "url": "https://open.spotify.com/artist/6sKOC3XdcoRZHh70zwnWFg"
-        }
-      ],
-      "duration_ms": 207295,
-      "name": "Wir sind wieder wer",
-      "url": "https://open.spotify.com/track/1jFiU9ubsJmoLY0vXALxKb"
-    },
-    {
-      "added_at": "2024-07-26 06:00:00",
-      "album": {
         "name": "St. Pauli - Einhundert",
         "url": "https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 225880,
       "name": "Forza St. Pauli",
       "url": "https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ"
+    },
+    {
+      "added_at": "2024-07-26 06:00:00",
+      "album": {
+        "name": "Wir sind wieder wer",
+        "url": "https://open.spotify.com/album/5RvndlPhi6eqt0QxN2hP0q"
+      },
+      "artists": [
+        {
+          "name": "100 Kilo Herz",
+          "url": "https://open.spotify.com/artist/6sKOC3XdcoRZHh70zwnWFg"
+        }
+      ],
+      "duration_ms": 207295,
+      "name": "Wir sind wieder wer",
+      "url": "https://open.spotify.com/track/1jFiU9ubsJmoLY0vXALxKb"
     },
     {
       "added_at": "2024-07-26 06:00:00",
@@ -1691,22 +1691,18 @@
     {
       "added_at": "2024-07-26 06:00:00",
       "album": {
-        "name": "40Tone",
-        "url": "https://open.spotify.com/album/1gnxgQefmYaU1A8j5X59BI"
+        "name": "Rebeld\u00eda",
+        "url": "https://open.spotify.com/album/0L2eVylvt7VTyArK33f3Ze"
       },
       "artists": [
         {
-          "name": "Felices Adicciones",
-          "url": "https://open.spotify.com/artist/1pKW7UYKScg5YdR6rGsYma"
-        },
-        {
-          "name": "Alexis Korfiatis",
-          "url": "https://open.spotify.com/artist/4oRksQQyxL9dvR3QwK5pcU"
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 127181,
-      "name": "40Tone",
-      "url": "https://open.spotify.com/track/6YVKjXSrlV3tNAZefiSFWu"
+      "duration_ms": 232903,
+      "name": "Rebeld\u00eda",
+      "url": "https://open.spotify.com/track/2vEX0C5ShNHFvb2eR7FQrh"
     }
   ],
   "unique_name": "Ska Around The Globe",

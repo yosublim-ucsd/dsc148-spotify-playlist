@@ -1,12 +1,12 @@
 {
-  "description": "This is Cassiane. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 34500,
+  "description": "This Is Cassiane. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 34507,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsZ/gAAAAACiO62KPT2uWeFrv2WTscDk",
+  "snapshot_id": "ZsfRAAAAAAALfULbyCIsusE3ih2lpy4V",
   "tracks": [
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 252308,
-      "name": "Uma Flor Gloriosa",
-      "url": "https://open.spotify.com/track/6PGwjMKF0fzzj9EPwTh8Ok"
+      "duration_ms": 260481,
+      "name": "Sobre as Ondas do Mar",
+      "url": "https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 260481,
-      "name": "Sobre as Ondas do Mar",
-      "url": "https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu"
+      "duration_ms": 252308,
+      "name": "Uma Flor Gloriosa",
+      "url": "https://open.spotify.com/track/6PGwjMKF0fzzj9EPwTh8Ok"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.2",
-        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 337803,
-      "name": "A Face Adorada de Jesus",
-      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
+      "duration_ms": 237586,
+      "name": "Ele Tem Poder",
+      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 237586,
-      "name": "Ele Tem Poder",
-      "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
+      "duration_ms": 337803,
+      "name": "A Face Adorada de Jesus",
+      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
     },
     {
       "added_at": null,

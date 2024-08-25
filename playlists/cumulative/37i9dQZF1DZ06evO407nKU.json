@@ -1507,6 +1507,28 @@
     },
     {
       "album": {
+        "name": "Parece Mentira",
+        "url": "https://open.spotify.com/album/1tb13lRIUeKpgQbtBgSWtc"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Mil Motivos",
+          "url": "https://open.spotify.com/artist/0NMjT9cLrmTrkoIsKUAFw4"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215605,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/67R0d7ZquZWWZcHNoCjdwj"
+    },
+    {
+      "album": {
         "name": "Parrandero (Remix)",
         "url": "https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey"
       },

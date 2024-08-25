@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Fernandinho, Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,192 likes - 49 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,266 likes - 49 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 37 | [Tu És Poderoso](https://open.spotify.com/track/5FYhfVl7hkVyQfJdXzxSBR) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh), [Thiago Bernardes](https://open.spotify.com/artist/3sIMgz66gTZWbCsUw2tJK2) | [Tu És Poderoso](https://open.spotify.com/album/746qfQYZKHaPpQd7bTUpZE) | 4:48 |
 | 38 | [Abandono](https://open.spotify.com/track/5FTRBAWjLZkwlC54Hevd0q) | [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Relembrando Canções, Vol\. 01](https://open.spotify.com/album/7dOqoIm4f0OSMY6pkkpGxF) | 3:40 |
 | 39 | [Santo \(Ao Vivo\)](https://open.spotify.com/track/2L7BFL0xzrlCibeINvuyki) | [Marine Friesen](https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/2ZFDMGShjSNZhL0iRBd8vt) | 4:58 |
-| 40 | [Dizemos Sim \- Ao Vivo](https://open.spotify.com/track/4TOaw7l5lbNrjaMIEg0Bz5) | [VITOHRIA SOUNDS](https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN), [Juliana Domingues](https://open.spotify.com/artist/6bapqg8rFSTjsP7kuPI0tj), [Bruno Alves](https://open.spotify.com/artist/4IvS8wAt7VjB6IIPDS6psH) | [Dizemos Sim \(Ao Vivo\)](https://open.spotify.com/album/0voOyKQDS12IaRf1Sahvcv) | 11:23 |
+| 40 | [Dizemos Sim \- Ao Vivo](https://open.spotify.com/track/4TOaw7l5lbNrjaMIEg0Bz5) | [VITOHRIA SOUNDS](https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN), [Juliana Domingues](https://open.spotify.com/artist/6bapqg8rFSTjsP7kuPI0tj), [Bruno Alves](https://open.spotify.com/artist/4IvS8wAt7VjB6IIPDS6psH) | [Dizemos Sim \- Ao Vivo](https://open.spotify.com/album/0voOyKQDS12IaRf1Sahvcv) | 11:23 |
 | 41 | [Santo Pra Sempre](https://open.spotify.com/track/6qiOuHLcWrcBHAGnKUmCok) | [Ministério Atitude](https://open.spotify.com/artist/0pbx4jJ7KkygStvqKplUV4) | [Santo Pra Sempre](https://open.spotify.com/album/7xFirCgHOzweWZaggIIgzj) | 5:09 |
 | 42 | [A Tua Presença \(Ao Vivo\)](https://open.spotify.com/track/0pNtjmYSV97FPxfhnj12Jp) | [Gisele Nascimento](https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m) | [A Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/5FUoEvL5rUuUhwmbT6XS3C) | 4:48 |
 | 43 | [Morar no Céu](https://open.spotify.com/track/3PWT81QLddzsW1eyhSkMgC) | [Dinamite Barros](https://open.spotify.com/artist/6Q8pJ7gNmi8DGEB2u7FNSE) | [Morar no Céu](https://open.spotify.com/album/4AkRuYbJodkS47FEOdaTq3) | 3:38 |

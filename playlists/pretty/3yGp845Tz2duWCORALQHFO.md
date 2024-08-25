@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,767 likes - 72 songs - 3 hr 47 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,766 likes - 72 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 10 | [Cola \(feat\. Elderbrook\) \- Made By Pete Remix](https://open.spotify.com/track/7sj9lrcqVWPM1ormJpijRl) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Made By Pete](https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa) | [Cola \- Made By Pete Remix](https://open.spotify.com/album/1TGlh30m7Jkp54TSTEYCZk) | 3:35 |
 | 11 | [La La La](https://open.spotify.com/track/1kN37qNZLWpmTXOUZI377r) | [PET3RPUNX](https://open.spotify.com/artist/1Z0DRUany5l8E7J6XNRlmC), [Dallax](https://open.spotify.com/artist/2PedVvzZH5HdHSk9P0iDXY) | [La La La](https://open.spotify.com/album/3kwppyVMesE1u6Lo63vpA6) | 2:01 |
 | 12 | [Etherea](https://open.spotify.com/track/5vQDdjHZsDxjpwFWbRsm4j) | [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3), [Codex \(SE\)](https://open.spotify.com/artist/0ed869ffeQUBRGOzY4X6R1), [NYROK](https://open.spotify.com/artist/4mkWUMA2i9eUXRoYaDVU0K) | [Etherea](https://open.spotify.com/album/0Zx7ss8cm1q6YXgfSx48ZQ) | 2:23 |
-| 13 | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/track/1Z0T3BM9SWfFGEMNGVoMfY) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/album/2UhtcB0vspNTC06pqxVSi1) | 2:11 |
+| 13 | [HIGHER](https://open.spotify.com/track/1Z0T3BM9SWfFGEMNGVoMfY) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER \(feat\. SACHA\)](https://open.spotify.com/album/2UhtcB0vspNTC06pqxVSi1) | 2:11 |
 | 14 | [Lately \- Adam Ten & Mita Gami Remix](https://open.spotify.com/track/5HgrvZrpVrxBNoI7ZBrVm6) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [Lately \- Adam Ten & Mita Gami Remix](https://open.spotify.com/album/4ZbiLPBXv5HzUpiatp5Bgc) | 3:36 |
 | 15 | [Love Comes Quickly](https://open.spotify.com/track/6H9gnUM3qLCJHPfdFrqEn2) | [Young Parisians](https://open.spotify.com/artist/4uS2f71goAkBJvA8cgjcQY), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g), [Solarstone](https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90) | [Love Comes Quickly](https://open.spotify.com/album/0yoZIlvWkQX1NXVdn7YnuW) | 3:58 |
 | 16 | [I'll Follow You](https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Joe Jury](https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer) | [I'll Follow You](https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp) | 3:39 |

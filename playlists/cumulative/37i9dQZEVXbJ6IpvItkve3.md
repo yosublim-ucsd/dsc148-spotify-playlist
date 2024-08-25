@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,030 songs - 2 day 10 hr 21 min
+1,031 songs - 2 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,7 +588,7 @@
 | [אקורדים בלילות](https://open.spotify.com/track/6ubV4TOnHggG27ygsPxjvR) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 3:18 | 2023-02-13 | 2023-10-04 |
 | [ארים ראשי](https://open.spotify.com/track/2WqZYfSeozPYN9bX8tWPyT) | [Shay Gabso](https://open.spotify.com/artist/018HTJ9Cu6WXLAHEbUpU6r) | [ארים ראשי](https://open.spotify.com/album/0uLEEb2fwhBk2YfBQD6W3x) | 3:38 | 2022-05-05 | 2023-04-28 |
 | [ארץ ישראל שלי](https://open.spotify.com/track/58gjKhdAyYFvtuw0sGn95e) | [נירה רבינוביץ](https://open.spotify.com/artist/3mBMLsSr0PuSkTmPxtQu5i) | [דתיה בן דור \- עוד שירי משחק](https://open.spotify.com/album/1g5zWDkBTPvnse7CjVCSuJ) | 1:56 | 2023-04-27 | 2024-05-17 |
-| [את חסרה לי](https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 2:49 | 2022-03-26 |  |
+| [את חסרה לי](https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 2:49 | 2022-03-26 | 2024-08-25 |
 | [את חסרה לי & אורות](https://open.spotify.com/track/6Eds9y8ZiQHcIegsEIVcYP) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd), [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [את חסרה לי & אורות](https://open.spotify.com/album/5iw1EWAmGUHfrCNfTi7z14) | 4:28 | 2022-10-09 | 2024-03-22 |
 | [באור גדול](https://open.spotify.com/track/2VlUJabkhkXenAPhdeNtL6) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U), [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [להיות מאושר](https://open.spotify.com/album/793n3eYaBcW0IHs7zHmrnI) | 3:10 | 2021-03-27\* | 2021-07-10 |
 | [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 | 2024-05-31 |  |
@@ -694,6 +694,7 @@
 | [חורף באוטו](https://open.spotify.com/track/5STI4AAzr3uMvdpx4wUSGr) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חורף באוטו](https://open.spotify.com/album/0U8YMNhvvpbDi5G5i8oYz6) | 4:11 | 2021-11-02 | 2022-04-10 |
 | [חורף בחלון](https://open.spotify.com/track/4b5dVRUzTCy0ngxobUX2DG) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [פרק א' נגמר](https://open.spotify.com/album/5yQFGP3SYKAHZp3XlROttw) | 3:32 | 2023-02-06 | 2023-03-30 |
 | [חורף קר](https://open.spotify.com/track/66LtwgGSD7SUoWrsVQPArr) | [אופיר חדד](https://open.spotify.com/artist/1yTNMO8we0z243hIyM6zG4) | [חורף קר](https://open.spotify.com/album/3H6EtJwBPkdCI6l7NEurX1) | 3:41 | 2024-01-25 | 2024-01-27 |
+| [חייזרית](https://open.spotify.com/track/6gDb8gPgdv49sJJ0VpqEMp) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:02 | 2024-08-24 |  |
 | [חיים מאושרים](https://open.spotify.com/track/5bfyO9R6raJctlhVpXzPG4) | [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [חיים מאושרים](https://open.spotify.com/album/2FtWmySJ08u2O3lA6Xbm9C) | 3:23 | 2021-03-27\* | 2021-08-06 |
 | [חיפשתי אותו בנרות](https://open.spotify.com/track/6YQpTZk61Ku0hyutsVLpPe) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [דם שלי](https://open.spotify.com/album/2AupKgY0rxBU9UsJuAlilU) | 3:37 | 2024-05-05 | 2024-07-17 |
 | [חישגוזים](https://open.spotify.com/track/31cPrw1QeS642qgShdFYza) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [חישגוזים](https://open.spotify.com/album/32XFV7Wh93lpTGQnvZ3UoL) | 2:51 | 2023-06-25 | 2023-07-07 |

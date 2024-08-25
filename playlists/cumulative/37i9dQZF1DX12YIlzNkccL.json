@@ -1605,28 +1605,6 @@
     },
     {
       "album": {
-        "name": "Beethoven: Mondschein-Sonate \u2013 Meisterwerke",
-        "url": "https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Daniel Barenboim",
-          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
-        }
-      ],
-      "date_added": "2021-06-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 397773,
-      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": I. Adagio sostenuto",
-      "url": "https://open.spotify.com/track/4KrBQ8fp7EiIsCcdnnXf2A"
-    },
-    {
-      "album": {
         "name": "Beethoven: The Piano Sonatas",
         "url": "https://open.spotify.com/album/1pp9Xql2oo2vmb8jq6dq0U"
       },
@@ -1775,8 +1753,30 @@
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 397773,
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27/2 \"Moonlight Sonata\": I. Adagio sostenuto",
+      "url": "https://open.spotify.com/track/4KrBQ8fp7EiIsCcdnnXf2A"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Mondschein-Sonate \u2013 Meisterwerke",
+        "url": "https://open.spotify.com/album/1vgALKn5laro8ZdTDQDmLF"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2021-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
       "duration_ms": 462533,
-      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 - \"Moonlight\": III. Presto agitato",
+      "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27/2 \"Moonlight Sonata\": III. Presto agitato",
       "url": "https://open.spotify.com/track/1SryZ16iuLbxe6Nv58VgVG"
     },
     {

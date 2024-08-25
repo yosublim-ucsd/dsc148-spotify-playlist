@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 179463,
+  "num_followers": 179454,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
     },
     {
-      "added_at": "2023-12-08 17:43:39",
-      "album": {
-        "name": "Deck The Halls",
-        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
-    },
-    {
       "added_at": "2023-10-16 19:34:42",
       "album": {
         "name": "Home Alone, Too",
@@ -717,20 +701,20 @@
       "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
-      "added_at": "2023-10-16 19:34:42",
+      "added_at": "2023-12-08 17:43:39",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 296673,
-      "name": "Mama It's Christmas",
-      "url": "https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J"
+      "duration_ms": 124000,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
     },
     {
       "added_at": "2023-12-08 17:43:39",
@@ -747,6 +731,22 @@
       "duration_ms": 206798,
       "name": "December '04",
       "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 296673,
+      "name": "Mama It's Christmas",
+      "url": "https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/3acMUF1baafzo6Zi61F1rS"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 161811,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Boxing Day Blues (Revisited)",
-        "url": "https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 167346,
-      "name": "Boxing Day Blues (Revisited)",
-      "url": "https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "LIFE ON EARTH (with Preservation Hall Jazz Band)",
         "url": "https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 380480,
       "name": "LIFE ON EARTH - with Preservation Hall Jazz Band",
       "url": "https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Boxing Day Blues (Revisited)",
+        "url": "https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 167346,
+      "name": "Boxing Day Blues (Revisited)",
+      "url": "https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Christmas Alone",
-        "url": "https://open.spotify.com/album/79hu3uFCBKDcWsHzGVYTim"
-      },
-      "artists": [
-        {
-          "name": "Fenne Lily",
-          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
-        }
-      ],
-      "duration_ms": 215175,
-      "name": "Christmas Alone",
-      "url": "https://open.spotify.com/track/4hJFuXWtyhwqsSUK5jQwgN"
-    },
-    {
       "added_at": "2023-10-16 19:34:42",
       "album": {
         "name": "ugly xmas sweater party",
@@ -1159,6 +1143,22 @@
       "duration_ms": 208000,
       "name": "ugly xmas sweater party",
       "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Christmas Alone",
+        "url": "https://open.spotify.com/album/79hu3uFCBKDcWsHzGVYTim"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 215175,
+      "name": "Christmas Alone",
+      "url": "https://open.spotify.com/track/4hJFuXWtyhwqsSUK5jQwgN"
     },
     {
       "added_at": "2023-12-08 17:43:39",
