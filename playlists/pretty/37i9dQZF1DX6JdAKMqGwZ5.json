@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: rusowsky, LATIN MAFIA.",
-  "num_followers": 194961,
+  "num_followers": 194984,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "mangata",
-        "url": "https://open.spotify.com/album/1DS6sekds9PYqX9M80abUq"
+        "name": "Se siente bien",
+        "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
       },
       "artists": [
         {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
         }
       ],
-      "duration_ms": 183360,
-      "name": "mangata",
-      "url": "https://open.spotify.com/track/6M3BYtzp1WLov2NDM5nsaI"
+      "duration_ms": 126000,
+      "name": "Se siente bien",
+      "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Se siente bien",
-        "url": "https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI"
-      },
-      "artists": [
-        {
-          "name": "stivijoes",
-          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Se siente bien",
-      "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "CON LOQ1 NACE",
         "url": "https://open.spotify.com/album/3PKRHrJ4UgwN6caKvt3mYn"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 186937,
       "name": "CON LOQ1 NACE",
       "url": "https://open.spotify.com/track/5gTcX23cK2d06dbuXBIqcH"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "mangata",
+        "url": "https://open.spotify.com/album/1DS6sekds9PYqX9M80abUq"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 183360,
+      "name": "mangata",
+      "url": "https://open.spotify.com/track/6M3BYtzp1WLov2NDM5nsaI"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "ESTR\u00c9S",
-        "url": "https://open.spotify.com/album/0kixB9HDDctNCeMB8ILDgB"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "ESTR\u00c9S",
-      "url": "https://open.spotify.com/track/4Rg0Ra86pfQa9ZsRtGwrnL"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Lo Contrario",
         "url": "https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 190398,
       "name": "Lo Contrario",
       "url": "https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "ESTR\u00c9S",
+        "url": "https://open.spotify.com/album/0kixB9HDDctNCeMB8ILDgB"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "ESTR\u00c9S",
+      "url": "https://open.spotify.com/track/4Rg0Ra86pfQa9ZsRtGwrnL"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Ressaca a sa platja",
-        "url": "https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ"
-      },
-      "artists": [
-        {
-          "name": "Maria Jaume",
-          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
-        }
-      ],
-      "duration_ms": 176654,
-      "name": "Ressaca a sa platja",
-      "url": "https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Tiemblo",
         "url": "https://open.spotify.com/album/1PSEn4CRyTbik6Q24ItUpb"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 146853,
       "name": "Loros",
       "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Ressaca a sa platja",
+        "url": "https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ"
+      },
+      "artists": [
+        {
+          "name": "Maria Jaume",
+          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+        }
+      ],
+      "duration_ms": 176654,
+      "name": "Ressaca a sa platja",
+      "url": "https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
-      },
-      "artists": [
-        {
-          "name": "Javi Chapela",
-          "url": "https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk"
-        }
-      ],
-      "duration_ms": 233752,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Autom\u00f3viles",
         "url": "https://open.spotify.com/album/3opwVD7QPkliMcVj4iuuMf"
       },
@@ -859,22 +843,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Amargura (Cover para Movistar Plus+)",
-        "url": "https://open.spotify.com/album/27Z1U1bmE7S5COp8N9bLgL"
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
       },
       "artists": [
         {
-          "name": "Maria Rod\u00e9s",
-          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        },
-        {
-          "name": "BRONQUIO",
-          "url": "https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1"
+          "name": "Javi Chapela",
+          "url": "https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk"
         }
       ],
-      "duration_ms": 184666,
-      "name": "Amargura (Cover para Movistar Plus+)",
-      "url": "https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8"
+      "duration_ms": 233752,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -895,6 +875,26 @@
       "duration_ms": 206666,
       "name": "La Ceniza (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/7AGYsCMcwID3CBGnwPUlyj"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Amargura (Cover para Movistar Plus+)",
+        "url": "https://open.spotify.com/album/27Z1U1bmE7S5COp8N9bLgL"
+      },
+      "artists": [
+        {
+          "name": "Maria Rod\u00e9s",
+          "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
+        },
+        {
+          "name": "BRONQUIO",
+          "url": "https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Amargura (Cover para Movistar Plus+)",
+      "url": "https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Volver\u00e9is",
-        "url": "https://open.spotify.com/album/37A5BZoVIV9VfG2yRM0SwD"
-      },
-      "artists": [
-        {
-          "name": "Adi\u00f3s Amores",
-          "url": "https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT"
-        }
-      ],
-      "duration_ms": 189303,
-      "name": "Volver\u00e9is",
-      "url": "https://open.spotify.com/track/1DorbdhQk2qrzucKdxfv1d"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Acostumbrarme",
         "url": "https://open.spotify.com/album/5MyUQPlTNw14prHdnhRKaS"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 143989,
       "name": "Acostumbrarme",
       "url": "https://open.spotify.com/track/38dLVGQiAwEXCHK69UVVbZ"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Volver\u00e9is",
+        "url": "https://open.spotify.com/album/37A5BZoVIV9VfG2yRM0SwD"
+      },
+      "artists": [
+        {
+          "name": "Adi\u00f3s Amores",
+          "url": "https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT"
+        }
+      ],
+      "duration_ms": 189303,
+      "name": "Volver\u00e9is",
+      "url": "https://open.spotify.com/track/1DorbdhQk2qrzucKdxfv1d"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1103,22 +1103,6 @@
       "duration_ms": 163593,
       "name": "Bailar Llorando",
       "url": "https://open.spotify.com/track/7aZor2HjAffKI8PmQxw2oW"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Tiempo",
-        "url": "https://open.spotify.com/album/3lVPSXg4R0UUcQqbzR71W0"
-      },
-      "artists": [
-        {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
-        }
-      ],
-      "duration_ms": 196084,
-      "name": "Tiempo",
-      "url": "https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Tiempo",
+        "url": "https://open.spotify.com/album/3lVPSXg4R0UUcQqbzR71W0"
+      },
+      "artists": [
+        {
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+        }
+      ],
+      "duration_ms": 196084,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/5S35ox9mhLOJHaoBgwyERN"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Reventarme",
         "url": "https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX"
       },
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Todas Las Horas",
-        "url": "https://open.spotify.com/album/6tsfBc1n2IEpxSC5EkCXRE"
-      },
-      "artists": [
-        {
-          "name": "Pipiolas",
-          "url": "https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI"
-        },
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "Todas Las Horas",
-      "url": "https://open.spotify.com/track/4Np3AKvrIqeDiNpfhAoFpt"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "El Porvenir",
         "url": "https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 232157,
       "name": "Famara (feat. Depedro)",
       "url": "https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Todas Las Horas",
+        "url": "https://open.spotify.com/album/6tsfBc1n2IEpxSC5EkCXRE"
+      },
+      "artists": [
+        {
+          "name": "Pipiolas",
+          "url": "https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI"
+        },
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        }
+      ],
+      "duration_ms": 177750,
+      "name": "Todas Las Horas",
+      "url": "https://open.spotify.com/track/4Np3AKvrIqeDiNpfhAoFpt"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "El Momento",
-        "url": "https://open.spotify.com/album/2SLOxCeXdq9A8HQtUcq6IX"
-      },
-      "artists": [
-        {
-          "name": "Vezinos",
-          "url": "https://open.spotify.com/artist/3zDTzz45AQFJEOl3OhH8Xp"
-        }
-      ],
-      "duration_ms": 221959,
-      "name": "Buckingham",
-      "url": "https://open.spotify.com/track/3tnZP7bdapECC5IZT8bwtR"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Braille",
         "url": "https://open.spotify.com/album/7wMwfQcUeM2yPRQRDNV0Ft"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 204421,
       "name": "Braille",
       "url": "https://open.spotify.com/track/0GzcQHr6Ecz0kVjWccfOmY"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "El Momento",
+        "url": "https://open.spotify.com/album/2SLOxCeXdq9A8HQtUcq6IX"
+      },
+      "artists": [
+        {
+          "name": "Vezinos",
+          "url": "https://open.spotify.com/artist/3zDTzz45AQFJEOl3OhH8Xp"
+        }
+      ],
+      "duration_ms": 221959,
+      "name": "Buckingham",
+      "url": "https://open.spotify.com/track/3tnZP7bdapECC5IZT8bwtR"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
-        "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
-      },
-      "artists": [
-        {
-          "name": "Morreo",
-          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
-        }
-      ],
-      "duration_ms": 114799,
-      "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
-      "url": "https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Imparables",
         "url": "https://open.spotify.com/album/54exH2VGexs9RCa8DErqKa"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 187000,
       "name": "Imparables",
       "url": "https://open.spotify.com/track/1lpXBntIB3GILpelgl7hWn"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
+        "url": "https://open.spotify.com/album/1rFSCBdcIs2ji4hNoqyMGX"
+      },
+      "artists": [
+        {
+          "name": "Morreo",
+          "url": "https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d"
+        }
+      ],
+      "duration_ms": 114799,
+      "name": "MATAR\u00cdA A TODOS LOS HOMBRES",
+      "url": "https://open.spotify.com/track/7Dc5ArYUZKm5DFN2SNWK3N"
     },
     {
       "added_at": "2024-08-22 22:00:00",

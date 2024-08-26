@@ -2769,6 +2769,24 @@
     },
     {
       "album": {
+        "name": "PLAYTIME IS OVA.",
+        "url": "https://open.spotify.com/album/3ol32U49hYVhECXg6zAD0Z"
+      },
+      "artists": [
+        {
+          "name": "OBj",
+          "url": "https://open.spotify.com/artist/6mJ0SSDvN5tmGJ9He0aswW"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "DAT MODE.",
+      "url": "https://open.spotify.com/track/5z2Hk6NV60WEEJ6euKbPeD"
+    },
+    {
+      "album": {
         "name": "Date",
         "url": "https://open.spotify.com/album/136kDRfqTfQ3yZy5hYXeBS"
       },
@@ -7428,7 +7446,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 173400,
       "name": "Nana",
       "url": "https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO"
@@ -7486,7 +7504,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 138066,
       "name": "Never Fold",
       "url": "https://open.spotify.com/track/2T8lk96YoVP2FY7aqkDOdU"
@@ -8104,6 +8122,24 @@
       "duration_ms": 184600,
       "name": "Obaa Hemaa",
       "url": "https://open.spotify.com/track/1k9V5yBlYFg0i7BruA6lux"
+    },
+    {
+      "album": {
+        "name": "Obra",
+        "url": "https://open.spotify.com/album/4trVuGEvkvZoawC7pC3xif"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155493,
+      "name": "Obra",
+      "url": "https://open.spotify.com/track/37iYFIiqbsnqH3jRobzhMM"
     },
     {
       "album": {
@@ -11500,7 +11536,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 118372,
       "name": "Too Windy 4 U",
       "url": "https://open.spotify.com/track/7JuLuj4Z4v85apcflxXW5O"
@@ -11636,6 +11672,28 @@
       "duration_ms": 168000,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "album": {
+        "name": "Here Goes Nothing",
+        "url": "https://open.spotify.com/album/3JkRHbQXcn6YSGqNvhBPLR"
+      },
+      "artists": [
+        {
+          "name": "KevTheTopic",
+          "url": "https://open.spotify.com/artist/51k0wZlYnTwXXw3yFv2M9Z"
+        },
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205766,
+      "name": "Tuxedo Music",
+      "url": "https://open.spotify.com/track/2wTLsbplu6Pabg5Dg5rWB9"
     },
     {
       "album": {

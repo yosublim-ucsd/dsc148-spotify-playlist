@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "I Like You",
+        "url": "https://open.spotify.com/album/2iKM8ya2CYQPkVefK8ywvV"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197151,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/6lraE2NC35v7UCYBoq55Jd"
+    },
+    {
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/6JxiApeLVGYcw0vUdCpIrV"
       },

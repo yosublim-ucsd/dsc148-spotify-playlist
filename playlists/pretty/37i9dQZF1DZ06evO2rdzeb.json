@@ -1,12 +1,12 @@
 {
-  "description": "This is Adrianne Lenker. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 8965,
+  "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
+  "num_followers": 8986,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAADyN3BTeBTWZQiunYT14DI3",
+  "snapshot_id": "ZskigAAAAADDIA3VOBFesuGagh7659Mz",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 57679,
-      "name": "To Violet",
-      "url": "https://open.spotify.com/track/3oVNHBpsS6W704YXbIoZaN"
+      "duration_ms": 163666,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 163666,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/45kpjdeuV0YugvErFYRXYl"
+      "duration_ms": 57679,
+      "name": "To Violet",
+      "url": "https://open.spotify.com/track/3oVNHBpsS6W704YXbIoZaN"
     },
     {
       "added_at": null,

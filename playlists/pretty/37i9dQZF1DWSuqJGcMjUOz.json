@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6367,
+  "num_followers": 6374,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Samedi soir sur la terre (Remastered)",
-        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+        "name": "LA COURSE",
+        "url": "https://open.spotify.com/album/4uwweIPWe2AIZknk4aL85E"
       },
       "artists": [
         {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+          "name": "NeS",
+          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
+        },
+        {
+          "name": "Luther",
+          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
         }
       ],
-      "duration_ms": 278253,
-      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
-      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+      "duration_ms": 115067,
+      "name": "KILLCAM",
+      "url": "https://open.spotify.com/track/3MdbKq8mWOW0TB76PbcjnD"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -263,22 +267,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "LA COURSE",
-        "url": "https://open.spotify.com/album/4uwweIPWe2AIZknk4aL85E"
+        "name": "Samedi soir sur la terre (Remastered)",
+        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
       },
       "artists": [
         {
-          "name": "NeS",
-          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
-        },
-        {
-          "name": "Luther",
-          "url": "https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW"
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 115067,
-      "name": "KILLCAM",
-      "url": "https://open.spotify.com/track/3MdbKq8mWOW0TB76PbcjnD"
+      "duration_ms": 278253,
+      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Emmanuelle",
-        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
+        "name": "La nuit s'ach\u00e8ve",
+        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
       },
       "artists": [
         {
-          "name": "Rosie Valland",
-          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
         }
       ],
-      "duration_ms": 146853,
-      "name": "Non merci",
-      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
+      "duration_ms": 190506,
+      "name": "Onze",
+      "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La nuit s'ach\u00e8ve",
-        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
+        "name": "Emmanuelle",
+        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
       },
       "artists": [
         {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
         }
       ],
-      "duration_ms": 190506,
-      "name": "Onze",
-      "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
+      "duration_ms": 146853,
+      "name": "Non merci",
+      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Le monde est fou",
-        "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Rococo",
-          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
-        }
-      ],
-      "duration_ms": 244200,
-      "name": "Le monde est fou",
-      "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c7a s'invente pas",
         "url": "https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 179706,
       "name": "Anomie",
       "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Le monde est fou",
+        "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Rococo",
+          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "Le monde est fou",
+      "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -2079,26 +2079,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo"
-      },
-      "artists": [
-        {
-          "name": "Dylan Dylan",
-          "url": "https://open.spotify.com/artist/2xwod0qobIBd0aaKo4t6BY"
-        },
-        {
-          "name": "Emma Wizz",
-          "url": "https://open.spotify.com/artist/2fAdSDBTsaj7YvTUPHWMTE"
-        }
-      ],
-      "duration_ms": 223454,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/6p84e47BuGYmh282V13y4H"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/2uAzgEvhRjbA9sL9boeVNl"
       },
@@ -2119,6 +2099,26 @@
       "duration_ms": 194400,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/2yM8hnByWMOLVRxuUmOuT5"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Dylan",
+          "url": "https://open.spotify.com/artist/2xwod0qobIBd0aaKo4t6BY"
+        },
+        {
+          "name": "Emma Wizz",
+          "url": "https://open.spotify.com/artist/2fAdSDBTsaj7YvTUPHWMTE"
+        }
+      ],
+      "duration_ms": 223454,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/6p84e47BuGYmh282V13y4H"
     },
     {
       "added_at": "2024-06-19 20:38:05",

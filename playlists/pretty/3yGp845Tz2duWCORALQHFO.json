@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25766,
+  "num_followers": 25768,
   "original_name": "NEW EDM 2024 \u26a1 EDM HITS 2024 \u26a1 MUSICA ELECTRONICA 2024",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABgnuEyceS5zb627sfGdkbVbXEysCgg",
+  "snapshot_id": "AABgorj9ywkyWwjgc53Om+aS7q+jKkR4",
   "tracks": [
     {
       "added_at": "2024-08-23 11:56:17",
@@ -357,6 +357,26 @@
       "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
     },
     {
+      "added_at": "2024-08-25 17:55:53",
+      "album": {
+        "name": "Half There",
+        "url": "https://open.spotify.com/album/2qYiySWtcYs3EiK4KNoXYv"
+      },
+      "artists": [
+        {
+          "name": "LOR",
+          "url": "https://open.spotify.com/artist/489VqAGm1TZQww4pmFMKa4"
+        },
+        {
+          "name": "Dominique",
+          "url": "https://open.spotify.com/artist/7fjxC1mJmxy7IQgtAFHMAc"
+        }
+      ],
+      "duration_ms": 172444,
+      "name": "Half There",
+      "url": "https://open.spotify.com/track/2x1JpdXJQckuFZ41z8Zr5y"
+    },
+    {
       "added_at": "2024-08-23 11:56:17",
       "album": {
         "name": "All Night (with Sophie and the Giants)",
@@ -627,6 +647,26 @@
       "duration_ms": 206250,
       "name": "Get Out Alive",
       "url": "https://open.spotify.com/track/3siC3ceMnodBAmogugkign"
+    },
+    {
+      "added_at": "2024-08-25 17:55:51",
+      "album": {
+        "name": "Rave (Radio Edit)",
+        "url": "https://open.spotify.com/album/3wYOhFl81LxKR8teSbXW7d"
+      },
+      "artists": [
+        {
+          "name": "Levensky",
+          "url": "https://open.spotify.com/artist/1jlfU8SGrJCupzBHOGY7Dd"
+        },
+        {
+          "name": "Matthieu Courant",
+          "url": "https://open.spotify.com/artist/7ajNSGUGs2BhGuTAE9ooS1"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Rave (Radio Edit)",
+      "url": "https://open.spotify.com/track/4ii98pLM4AActv09s5kpM6"
     },
     {
       "added_at": "2024-08-23 11:56:17",
@@ -1391,6 +1431,50 @@
       "duration_ms": 198425,
       "name": "I Only Smoke When I Drink",
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "added_at": "2024-08-25 17:55:52",
+      "album": {
+        "name": "Me And You (Remix)",
+        "url": "https://open.spotify.com/album/3VZiinvgBkXmYPq93s03RJ"
+      },
+      "artists": [
+        {
+          "name": "Mini Sants",
+          "url": "https://open.spotify.com/artist/6v2Jn8Kn4md9A6M7fWYfhl"
+        },
+        {
+          "name": "Total Brutal",
+          "url": "https://open.spotify.com/artist/1SBWmsU7WQJj2hakapCyXD"
+        },
+        {
+          "name": "Zach Atom",
+          "url": "https://open.spotify.com/artist/0IUh8XXwhAqhoaA84yQbnf"
+        }
+      ],
+      "duration_ms": 269835,
+      "name": "Me And You - Remix",
+      "url": "https://open.spotify.com/track/08Bzq9WaXQjuYs9wBAjmIi"
+    },
+    {
+      "added_at": "2024-08-25 17:56:50",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/51ecGWu61gW7Ep206ejuI5"
+      },
+      "artists": [
+        {
+          "name": "Wurme",
+          "url": "https://open.spotify.com/artist/3rOSH7IovBDpCELYQq4gSJ"
+        },
+        {
+          "name": "Marc Rain",
+          "url": "https://open.spotify.com/artist/1acCVrk05rfolkBU3M6b7f"
+        }
+      ],
+      "duration_ms": 176571,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2btYi1wavyTxbYaAIbnUCc"
     },
     {
       "added_at": "2024-08-23 11:56:17",

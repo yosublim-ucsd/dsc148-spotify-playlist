@@ -2,7 +2,7 @@
 
 ### [This Is Edith Márquez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4eQ4e5)
 
-> This Is Edith Márquez\. Los temas esenciales, todos en una lista.
+> This is Edith Márquez。アーティストの代表曲をひとつのプレイリストに。
 
 57 songs - 3 hr 23 min
 

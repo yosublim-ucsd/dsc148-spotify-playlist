@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-943 songs - 1 day 12 hr 38 min
+944 songs - 1 day 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Glowing Firefly Waltz](https://open.spotify.com/track/690nc3o39vROr09u2gpU6Q) | [Age of Departures](https://open.spotify.com/artist/6eLOG5NiDw8it9PbnC6WdF) | [Dusty Attic](https://open.spotify.com/album/3mVvMHn47oco4oIogZUXsA) | 2:36 | 2024-06-05 |  |
 | [Glowing Willow](https://open.spotify.com/track/4oEnDh6kO0qc92pFabcgEV) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [Eunoia](https://open.spotify.com/album/27WKnL7WEeSwdP9K1emPAA) | 2:27 | 2022-11-11 | 2023-10-06 |
 | [Glowing Willow](https://open.spotify.com/track/6ixfQO0RwJFPJl2OsFeaGO) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [Eunoia](https://open.spotify.com/album/284PXQtDie95El3dbLDJya) | 2:27 | 2022-07-01 | 2022-11-21 |
-| [Glutenfree](https://open.spotify.com/track/2Xr7cfU7wSYFK0GNDGRtEU) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Glutenfree](https://open.spotify.com/album/1EGGxOpttUe27Dg7JZEhn9) | 2:28 | 2022-11-25 |  |
+| [Glutenfree](https://open.spotify.com/track/2Xr7cfU7wSYFK0GNDGRtEU) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Glutenfree](https://open.spotify.com/album/1EGGxOpttUe27Dg7JZEhn9) | 2:28 | 2022-11-25 | 2024-08-26 |
 | [Going Solo](https://open.spotify.com/track/7arhlCNc1gTBWGk0crhOq5) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Going Solo](https://open.spotify.com/album/07EdIYhnhe2ZAZb2ugJIR0) | 1:24 | 2022-11-11 | 2024-03-10 |
 | [Golden](https://open.spotify.com/track/04KynVoyrEf4OU48Dw9hgS) | [francesca rose](https://open.spotify.com/artist/47i0uOrWb8XXMYQIa9R9qA) | [Golden](https://open.spotify.com/album/7yK2AwASUtViC4CvC3r7qE) | 2:10 | 2024-02-09 | 2024-07-13 |
 | [golden beans](https://open.spotify.com/track/6QGYAg7tD4abOn885Mc6Sa) | [lokeyz](https://open.spotify.com/artist/5ssZUfuLKV5hyvux8k0VvJ) | [espresso time](https://open.spotify.com/album/3YD6NdMejXUhdTbGTtEbli) | 1:34 | 2022-04-15 | 2022-05-20 |
@@ -893,6 +893,7 @@
 | [Voicemail](https://open.spotify.com/track/5Fsf112EoSCtWLyyJQ6dMz) | [Rhino Beats](https://open.spotify.com/artist/2wpj4fwPIhFXe1uX307PNK) | [Voicemail](https://open.spotify.com/album/64C054NfCwbAP4Z62kKXYd) | 1:51 | 2022-09-02 | 2024-03-12 |
 | [volaplano](https://open.spotify.com/track/3BUng8CnQavbNL9uDbUe4M) | [Atiø](https://open.spotify.com/artist/5KNCtLgN5682p529MZ2N3n) | [volaplano](https://open.spotify.com/album/1glAViCRZ1n24UHHQ7Lk6t) | 1:47 | 2022-07-08 | 2022-12-10 |
 | [Voluptus](https://open.spotify.com/track/5qK78cZFZkgLhJLs8sEnO9) | [Blue Zombie](https://open.spotify.com/artist/0mDo37vCl8CEDEIhuBMr6x) | [Week Line](https://open.spotify.com/album/5SFXZFbi6A8VIFgd6wZror) | 1:49 | 2022-04-15 |  |
+| [Vortex](https://open.spotify.com/track/5gUG9ivCY3V5DRW8301SbS) | [Zeitgeister](https://open.spotify.com/artist/3ANz9DLRBrXQJwvy3NEkvl) | [Vortex](https://open.spotify.com/album/5a9qEcg5nTzr7ZIPVO8FQk) | 2:04 | 2024-08-23 |  |
 | [Vueltas](https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Kebyn Moon](https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV) | [Vueltas](https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK) | 1:55 | 2022-09-23 | 2023-11-17 |
 | [Vulkán](https://open.spotify.com/track/1HmRdmNEXUJtxQ0Sw2Sa1d) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Vulkán](https://open.spotify.com/album/2BAcDgcs2TDG41gXVkpjg9) | 1:33 | 2024-05-29 |  |
 | [Wait For Spring](https://open.spotify.com/track/65RlTv8r06C7Jm5sDMbyu4) | [Fya Playce](https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr) | [Wait For Spring](https://open.spotify.com/album/7hg2K3g4W5nenATGKbzlHx) | 2:09 | 2023-10-06 |  |

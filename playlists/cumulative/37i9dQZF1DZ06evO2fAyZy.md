@@ -2,7 +2,7 @@
 
 ### [This Is Kelsea Ballerini](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fAyZy)
 
-> This Is Kelsea Ballerini\. Todas as faixas essenciais numa única playlist.
+> This is Kelsea Ballerini。アーティストの代表曲をひとつのプレイリストに。
 
 70 songs - 3 hr 37 min
 

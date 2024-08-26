@@ -4,7 +4,7 @@
 
 > From the alternative scene in Ghana\. Cover: Øbed
 
-103 songs - 5 hr 1 min
+104 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [BASSA](https://open.spotify.com/track/1KTXudaZZUN1St7KGUBCIt) | [theSylk](https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH), [Jake Cromwell](https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh) | [BASSA](https://open.spotify.com/album/3jnBopniBSlzdEfL6Y5PhA) | 2:54 | 2024-06-07 |  |
 | [Big Up](https://open.spotify.com/track/342ZgYnj49eWk5CwOFrbhm) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Big Up](https://open.spotify.com/album/1AJ68QSKwUzVLBAgWzH8zb) | 2:55 | 2024-06-07 | 2024-07-12 |
 | [Bigger & Better Than](https://open.spotify.com/track/0ZtxPLtxfhhC774iqK3gB6) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [Bigger & Better Than](https://open.spotify.com/album/4aKJWlQ7JUoqYlMkBYUZl6) | 2:18 | 2024-05-10 |  |
-| [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 | 2024-05-10 |  |
+| [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 | 2024-05-10 | 2024-08-26 |
 | [Blue Jeans](https://open.spotify.com/track/5hDjWc5A1zOonjMrikQpuQ) | [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Blue Jeans](https://open.spotify.com/album/64pRtYkZfuiH9OBqIGJqn0) | 3:21 | 2024-05-10 | 2024-06-01 |
 | [BROTHERMAN](https://open.spotify.com/track/4ICHAmpUnfgltoKFKnkR3M) | [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p), [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg), [Moffy](https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9), [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [SO WE MADE A TAPE](https://open.spotify.com/album/0TvIfSAal3iru3cED1l0ng) | 3:24 | 2024-05-10 | 2024-06-21 |
 | [CALENDAR \(with Moliy\)](https://open.spotify.com/track/604gUD6KPH4SuIPREK1RZD) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CALENDAR \(with Moliy\)](https://open.spotify.com/album/7ELfPgkHFSWuyLCjxlaWCc) | 3:02 | 2024-05-10 |  |
@@ -66,6 +66,7 @@
 | [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-05-10 |  |
 | [My Ones](https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG) | [Kwxd](https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM) | [My Ones](https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC) | 2:42 | 2024-08-16 |  |
 | [Nana](https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [4 DA PAIN](https://open.spotify.com/album/0TM6jciackri09qoY3SV9s) | 2:53 | 2024-08-02 |  |
+| [Necessary](https://open.spotify.com/track/4klNblGgC6vn5CSzDLW3H4) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Necessary](https://open.spotify.com/album/4BiNLm1Du56fIj23cAU6x1) | 2:07 | 2024-08-25 |  |
 | [Never Fold](https://open.spotify.com/track/2T8lk96YoVP2FY7aqkDOdU) | [SagetheRager](https://open.spotify.com/artist/09sWrYn8drtJePXByNNv7j) | [Never Fold](https://open.spotify.com/album/4AAQcNjPR29cFRduUBLG6T) | 2:18 | 2024-07-26 |  |
 | [No Love](https://open.spotify.com/track/60Jmu3k25uJpIstSpiNAfM) | [Auds](https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d) | [NO LOVE](https://open.spotify.com/album/1HzsPYXeUzTBJHz3NAxrbY) | 2:44 | 2024-05-17 | 2024-07-19 |
 | [Nobody](https://open.spotify.com/track/5qecyCoEoIhKUf47iT67qA) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Nobody](https://open.spotify.com/album/4FTBxW8fSHSZwHg69DbWso) | 2:40 | 2024-05-31 |  |

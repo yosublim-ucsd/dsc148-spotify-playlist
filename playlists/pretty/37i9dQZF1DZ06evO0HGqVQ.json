@@ -1,12 +1,12 @@
 {
-  "description": "This is Los inquietos del vallenato. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 27609,
+  "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
+  "num_followers": 27610,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAAAgBSuYnG2L+kIH9TfOsgXM",
+  "snapshot_id": "ZskigAAAAAAbSnP0g8begeire4XpQN0L",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH"
+        "name": "Sue\u00f1os De Colombia",
+        "url": "https://open.spotify.com/album/1vuMn7RizfL3iML7zpD81q"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 288680,
-      "name": "Quisiera Ser Como T\u00fa",
-      "url": "https://open.spotify.com/track/6rjlsRmIKcb6YDNLpoPERj"
+      "duration_ms": 337173,
+      "name": "Chao Contigo",
+      "url": "https://open.spotify.com/track/5P3qMFkwljuv7WzIap2Hdx"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1os De Colombia",
-        "url": "https://open.spotify.com/album/1vuMn7RizfL3iML7zpD81q"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 337173,
-      "name": "Chao Contigo",
-      "url": "https://open.spotify.com/track/5P3qMFkwljuv7WzIap2Hdx"
+      "duration_ms": 288680,
+      "name": "Quisiera Ser Como T\u00fa",
+      "url": "https://open.spotify.com/track/6rjlsRmIKcb6YDNLpoPERj"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 285773,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/66TGTBRnnWmYtIvWIMPfSs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Volver A Triunfar",
         "url": "https://open.spotify.com/album/70Z5OTH97swUCDxPvUC6am"
       },
@@ -507,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi"
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/7d4AUGntqzeyRONGCnKNwH"
       },
       "artists": [
         {
@@ -516,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Mejor No Somos Nada",
-      "url": "https://open.spotify.com/track/7GR5PfiTaDyncp1M1si4gh"
+      "duration_ms": 285773,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/66TGTBRnnWmYtIvWIMPfSs"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 251000,
       "name": "Piel A Piel",
       "url": "https://open.spotify.com/track/6IytGzzeSCfbX1pqGYeVPz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Mejor No Somos Nada",
+      "url": "https://open.spotify.com/track/7GR5PfiTaDyncp1M1si4gh"
     },
     {
       "added_at": null,

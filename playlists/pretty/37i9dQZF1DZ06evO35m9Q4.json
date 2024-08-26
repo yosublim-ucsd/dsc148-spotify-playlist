@@ -1,12 +1,12 @@
 {
-  "description": "This is Stevie Ray Vaughan. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 154146,
+  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
+  "num_followers": 154170,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAADz6XxCijPdPDpLd++wbP0h",
+  "snapshot_id": "ZskigAAAAABV5VN8xpl8fyqrn4lNamfl",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 277306,
-      "name": "Willie The Wimp - Live",
-      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 359266,
       "name": "Pride And Joy",
       "url": "https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 277306,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Beginning",
-        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Live Another Day - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Live Another Day - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Archives",
         "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
       },
@@ -743,6 +743,26 @@
       "duration_ms": 101973,
       "name": "Slip Slidin' Slim",
       "url": "https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born Under A Bad Sign - Remastered 2024",
+        "url": "https://open.spotify.com/album/54XP7RjHT5DNMbuikQ6PWm"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 490006,
+      "name": "Born Under A Bad Sign - Remastered 2024",
+      "url": "https://open.spotify.com/track/6vJboOIXrS84uGnwkK3u7o"
     },
     {
       "added_at": null,
@@ -775,26 +795,6 @@
       "duration_ms": 175000,
       "name": "Slide Thing - Live at Steamboat 1874, Austin, TX - April 1980",
       "url": "https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born Under A Bad Sign - Remastered 2024",
-        "url": "https://open.spotify.com/album/54XP7RjHT5DNMbuikQ6PWm"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 490006,
-      "name": "Born Under A Bad Sign - Remastered 2024",
-      "url": "https://open.spotify.com/track/6vJboOIXrS84uGnwkK3u7o"
     },
     {
       "added_at": null,

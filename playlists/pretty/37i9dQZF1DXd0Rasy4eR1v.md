@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Freshest Pakistani discoveries\. Cover \- Essa Barlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,601 likes - 90 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,602 likes - 90 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 4 | [Andaaz\-e\-Guftagoo \(From "Acoustic Station"\)](https://open.spotify.com/track/6T6EsCyCpXQY7SI74Ly4Vi) | [Chand Tara Orchestra](https://open.spotify.com/artist/4l3l1A9UpJVYOYvZUIUCqs), [Kashan Admani](https://open.spotify.com/artist/2MNgnCdZlDyxEfoTRQNEGE) | [Andaaz\-e\-Guftagoo \(From "Acoustic Station"\)](https://open.spotify.com/album/3L9q0nmmCjvLvttbAlHxUl) | 3:58 |
 | 5 | [Nadiya Kinare](https://open.spotify.com/track/4sWeZcLHgfyNctiIfjvk2u) | [Sibte Hassan](https://open.spotify.com/artist/2ceNVQBIYl2KTQEriQdqTY) | [Nadiya Kinare](https://open.spotify.com/album/0IbTF1efupEODJqZ3uqGbr) | 2:38 |
 | 6 | [CHOKE UPAR](https://open.spotify.com/track/1jYcruDRv7a4y9ZFlRnJNu) | [HMZA](https://open.spotify.com/artist/4LdI2fO9eezNkONfEa6Owi), [superdupersultan](https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN) | [CHOKE UPAR](https://open.spotify.com/album/6ky1x3ydntfTL4W8HumkOd) | 3:11 |
-| 7 | [Chal Diye Tum Kahan](https://open.spotify.com/track/6RRMrws5dVKALzhTvH8GFL) | [Usama Ali](https://open.spotify.com/artist/2Q46xhKhgToVZzqEv5EFD9), [Ahad Khan](https://open.spotify.com/artist/41vrLitcZP6aF5ZPNet0nj) | [Kabhi Main Kabhi Tum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7BDuL4Ca5r5EHnyR8uJ6OY) | 4:35 |
+| 7 | [Chal Diye Tum Kahan](https://open.spotify.com/track/6RRMrws5dVKALzhTvH8GFL) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Kabhi Main Kabhi Tum \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7BDuL4Ca5r5EHnyR8uJ6OY) | 4:35 |
 | 8 | [Teri Yaadein Kyun](https://open.spotify.com/track/19B19Kce5azkj9fsqXjGkQ) | [Sheheryar Rehan](https://open.spotify.com/artist/4uulqSsU6e7BdsYYos6kfS) | [Teri Yaadein Kyun](https://open.spotify.com/album/0yrG1zKsXmKZIj8i8kdxXr) | 3:46 |
 | 9 | [DILPHAINK](https://open.spotify.com/track/7ffrVA1PZsp0utuwRbu9aR) | [ASHIR](https://open.spotify.com/artist/1GRnzlBtgvTJsk4G3gdn9L) | [DILPHAINK](https://open.spotify.com/album/6YTBwqVCySOr8nezmVoLgM) | 3:38 |
 | 10 | [Hania](https://open.spotify.com/track/79feCuMrnY6CA9Lua9r4wy) | [Dani Khan](https://open.spotify.com/artist/7hoN0gZkqGgWqnaCEBKpxe), [Jayyke](https://open.spotify.com/artist/1ARdtExcPBhLoGwsI959Kw) | [Hania](https://open.spotify.com/album/7JEFHby0QNbTbG0Eo5eEiR) | 2:51 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-731 songs - 1 day 13 hr 19 min
+732 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Ghetto Millionnaire](https://open.spotify.com/track/4umILaHHpP1jgkpl6BUK9j) | [Black Mamba](https://open.spotify.com/artist/4jy5Hzh99hVqmyIsPVrjSI) | [Ghetto Millionnaire](https://open.spotify.com/album/5fsU9tJKeWm9gt7ptK1ZJa) | 4:22 | 2024-04-12 | 2024-05-07 |
 | [Gift Horse](https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 4:09 | 2024-02-22 | 2024-02-25 |
 | [Girl's Club](https://open.spotify.com/track/170mkFTG0NPMCxfViQkmRM) | [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI) | [Loop Daddy III](https://open.spotify.com/album/3cC5siI8vVjQzRNhkEd18A) | 1:45 | 2024-07-09 | 2024-07-16 |
+| [Girls](https://open.spotify.com/track/3Hxv2EYJcBjiN96yJi6djY) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/30wCOCKeicLp3ErOHhkBAb) | 1:59 | 2024-08-25 |  |
 | [Give Me Everything \- Stripped Down](https://open.spotify.com/track/1o9JJeBKlVxQ9O4j5Qd4Vh) | [Archer Marsh](https://open.spotify.com/artist/74rnJF4h8ScpbyEhLholBg) | [Sequēns](https://open.spotify.com/album/6w1oQvnsjA0y4x6qhBs2wq) | 2:12 | 2024-05-28 | 2024-06-28 |
 | [GLORY](https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [GLORY](https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf) | 2:29 | 2024-08-08 | 2024-08-21 |
 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 | 2024-07-10 | 2024-07-31 |
@@ -278,7 +279,7 @@
 | [Hell’s Greatest Dad](https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA) | [Hazbin Hotel \(Original Soundtrack\)](https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq) | 2:13 | 2024-02-14 | 2024-03-05 |
 | [Hell’s Greatest Dad](https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Jeremy Jordan](https://open.spotify.com/artist/0vKWxtht5v5MoAu4DID0Ub), [Amir Talai](https://open.spotify.com/artist/1el8TNH6bcVfqnavlh0qZL), [Erika Henningsen](https://open.spotify.com/artist/3hjgA2bJfvsFAbHNM60dvG), [Kimiko Glenn](https://open.spotify.com/artist/6lU0XGyOn94aBZno3H9WpA) | [Hazbin Hotel Original Soundtrack \(Part 2\)](https://open.spotify.com/album/3K57vjiSUMGXoaDJloJmis) | 2:13 | 2024-02-13 | 2024-02-15 |
 | [Het Beste Moet Nog Komen](https://open.spotify.com/track/3asgBPpl4Oeo9GRpFeo8ML) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Het Beste Moet Nog Komen](https://open.spotify.com/album/5Qol9Gz8U7q6VXMvoYUXDI) | 3:05 | 2024-03-12 | 2024-03-25 |
-| [Hi Ren](https://open.spotify.com/track/0FLwYQoXvX8q5iRZnFX59u) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Hi Ren](https://open.spotify.com/album/2wXIwZRV93MS5en0FQuDMA) | 8:35 | 2024-08-20 |  |
+| [Hi Ren](https://open.spotify.com/track/0FLwYQoXvX8q5iRZnFX59u) | [Ren](https://open.spotify.com/artist/0Repe2EiNjaFAFIukrroUM) | [Hi Ren](https://open.spotify.com/album/2wXIwZRV93MS5en0FQuDMA) | 8:35 | 2024-08-20 | 2024-08-26 |
 | [Hide Away](https://open.spotify.com/track/7fPyCCiXVwbzPQ1MtoUChl) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/3NoYyHEGIa8as1c0cisZAt) | 3:11 | 2024-04-30 | 2024-05-14 |
 | [HIND'S HALL](https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [HIND'S HALL](https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB) | 2:48 | 2024-05-28 | 2024-06-08 |
 | [Hit The Floor](https://open.spotify.com/track/5YNlE7p0YICNhoCohD5U4P) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06) | [Hit The Floor](https://open.spotify.com/album/48VN0pEfrdB1vAu5SgRH76) | 2:49 | 2024-07-12 | 2024-07-22 |

@@ -2,7 +2,7 @@
 
 ### [This Is Codiciado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0meNX2)
 
-> This is Codiciado\. Track\-track unggulan, semuanya dalam satu playlist.
+> This Is Codiciado\. Los temas esenciales, todos en una lista.
 
 34 songs - 1 hr 54 min
 

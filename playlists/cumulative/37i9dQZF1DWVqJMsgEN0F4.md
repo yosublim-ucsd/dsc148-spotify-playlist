@@ -2,7 +2,7 @@
 
 ### [ALT NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> blink\-182 long with the hottest alternative songs right now.
+> blink\-182 along with the hottest alternative songs right now.
 
 670 songs - 1 day 13 hr 36 min
 

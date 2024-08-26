@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 350020,
+  "num_followers": 350022,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Need",
+        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 202661,
+      "name": "Need",
+      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Surrendered",
         "url": "https://open.spotify.com/album/2mVQaBTbmdr51vOffiP1Xj"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 559206,
       "name": "Surrendered",
       "url": "https://open.spotify.com/track/1devxqwwmQp9gPKQ5HdwnL"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Need",
-        "url": "https://open.spotify.com/album/4LvD9dnrTbni49Os2ibSPR"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 202661,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/2RfgkRJsO6BllEhl2d9C6s"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Is He Worthy?",
-        "url": "https://open.spotify.com/album/2ZqlzWmGSSipvkGg1TtIKw"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Is He Worthy?",
-      "url": "https://open.spotify.com/track/2NtumDhi4w9gyKocd2ZPGp"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Be Still and Know",
         "url": "https://open.spotify.com/album/653IELo7MeLiwPFGKOmxtF"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 283346,
       "name": "Be Still and Know",
       "url": "https://open.spotify.com/track/6UTBlLVJwOmDPMEnUdi8pS"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Is He Worthy?",
+        "url": "https://open.spotify.com/album/2ZqlzWmGSSipvkGg1TtIKw"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Is He Worthy?",
+      "url": "https://open.spotify.com/track/2NtumDhi4w9gyKocd2ZPGp"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -899,6 +899,30 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Harbor",
+        "url": "https://open.spotify.com/album/7i6kiHBgI4rNYkCAOpkAYy"
+      },
+      "artists": [
+        {
+          "name": "FAITHFUL",
+          "url": "https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW"
+        },
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        },
+        {
+          "name": "Sandra McCracken",
+          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
+        }
+      ],
+      "duration_ms": 263089,
+      "name": "Harbor",
+      "url": "https://open.spotify.com/track/4t1p7WUK2L1TKGfybUkjPA"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Hold Me Jesus (The Songs of Rich Mullins)",
         "url": "https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T"
       },
@@ -923,30 +947,6 @@
       "duration_ms": 231946,
       "name": "Hold Me Jesus",
       "url": "https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Harbor",
-        "url": "https://open.spotify.com/album/7i6kiHBgI4rNYkCAOpkAYy"
-      },
-      "artists": [
-        {
-          "name": "FAITHFUL",
-          "url": "https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW"
-        },
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        },
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        }
-      ],
-      "duration_ms": 263089,
-      "name": "Harbor",
-      "url": "https://open.spotify.com/track/4t1p7WUK2L1TKGfybUkjPA"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Holy, Holy, Holy",
-        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+        "name": "Feel Holy",
+        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
       },
       "artists": [
         {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
         }
       ],
-      "duration_ms": 146400,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+      "duration_ms": 331800,
+      "name": "Feel Holy",
+      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Feel Holy",
-        "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
       },
       "artists": [
         {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Feel Holy",
-      "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Dawn Til Dusk",
+        "url": "https://open.spotify.com/album/4HIx9HnAAa5ZJzSSYYhP7N"
+      },
+      "artists": [
+        {
+          "name": "Jonty Lees",
+          "url": "https://open.spotify.com/artist/16PLnrdItn0Qu9wWLVvfXr"
+        }
+      ],
+      "duration_ms": 212234,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Dawn Til Dusk",
-        "url": "https://open.spotify.com/album/4HIx9HnAAa5ZJzSSYYhP7N"
-      },
-      "artists": [
-        {
-          "name": "Jonty Lees",
-          "url": "https://open.spotify.com/artist/16PLnrdItn0Qu9wWLVvfXr"
-        }
-      ],
-      "duration_ms": 212234,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "All That's Within Me",
-        "url": "https://open.spotify.com/album/0G540OblZR8UExYceYVkJr"
+        "name": "For The Ones We Love",
+        "url": "https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq"
       },
       "artists": [
         {
-          "name": "NIRVA",
-          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
+          "name": "Jonas Myrin",
+          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
         }
       ],
-      "duration_ms": 255468,
-      "name": "All That's Within Me",
-      "url": "https://open.spotify.com/track/3jMS1GtmeRxhNIR6M7VhhR"
+      "duration_ms": 209760,
+      "name": "For The Ones We Love",
+      "url": "https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1319,18 +1319,34 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "For The Ones We Love",
-        "url": "https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq"
+        "name": "All That's Within Me",
+        "url": "https://open.spotify.com/album/0G540OblZR8UExYceYVkJr"
       },
       "artists": [
         {
-          "name": "Jonas Myrin",
-          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
+          "name": "NIRVA",
+          "url": "https://open.spotify.com/artist/23DewEfMpPcVZ9epSTpy1U"
         }
       ],
-      "duration_ms": 209760,
-      "name": "For The Ones We Love",
-      "url": "https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J"
+      "duration_ms": 255468,
+      "name": "All That's Within Me",
+      "url": "https://open.spotify.com/track/3jMS1GtmeRxhNIR6M7VhhR"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Rushing",
+        "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Rushing",
+      "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Rushing",
-        "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
+        "name": "What I Wish For You",
+        "url": "https://open.spotify.com/album/3GGO4M95Dcp1aGxMjUrLIu"
       },
       "artists": [
         {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Rushing",
-      "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
+      "duration_ms": 231402,
+      "name": "What I Wish For You",
+      "url": "https://open.spotify.com/track/1aLe9jNRjc27rOZYUBVY8n"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1391,22 +1407,6 @@
       "duration_ms": 289230,
       "name": "It Is I",
       "url": "https://open.spotify.com/track/6P9UJWpRBxVMdf3MFnUCxy"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "What I Wish For You",
-        "url": "https://open.spotify.com/album/3GGO4M95Dcp1aGxMjUrLIu"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 231402,
-      "name": "What I Wish For You",
-      "url": "https://open.spotify.com/track/1aLe9jNRjc27rOZYUBVY8n"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/2kbI60CAiPN9oFRKqFTaIx"
-      },
-      "artists": [
-        {
-          "name": "Kali Joy",
-          "url": "https://open.spotify.com/artist/2p9Wic9uRDOjLRTzFAXGMe"
-        }
-      ],
-      "duration_ms": 182070,
-      "name": "There Will Be A Light Again",
-      "url": "https://open.spotify.com/track/3hVLhSayyVMhAY5Ren4v1O"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Conquering Eden",
         "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
       },
@@ -1555,18 +1539,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Let It Be So",
-        "url": "https://open.spotify.com/album/6iBkN0coZ7G9wILcvWCi0g"
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/2kbI60CAiPN9oFRKqFTaIx"
       },
       "artists": [
         {
-          "name": "Kirby Kaple",
-          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+          "name": "Kali Joy",
+          "url": "https://open.spotify.com/artist/2p9Wic9uRDOjLRTzFAXGMe"
         }
       ],
-      "duration_ms": 300861,
-      "name": "Let It Be So",
-      "url": "https://open.spotify.com/track/4H5YkflQqqE9sUNy2z90n8"
+      "duration_ms": 182070,
+      "name": "There Will Be A Light Again",
+      "url": "https://open.spotify.com/track/3hVLhSayyVMhAY5Ren4v1O"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1583,6 +1567,22 @@
       "duration_ms": 205333,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/732o97x5cTUkBSGTMkn00R"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Let It Be So",
+        "url": "https://open.spotify.com/album/6iBkN0coZ7G9wILcvWCi0g"
+      },
+      "artists": [
+        {
+          "name": "Kirby Kaple",
+          "url": "https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1"
+        }
+      ],
+      "duration_ms": 300861,
+      "name": "Let It Be So",
+      "url": "https://open.spotify.com/track/4H5YkflQqqE9sUNy2z90n8"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1635,6 +1635,26 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Abide with Me",
+        "url": "https://open.spotify.com/album/2r0AErpMk2EvvqbNCLYl7Q"
+      },
+      "artists": [
+        {
+          "name": "Nathan Pacheco",
+          "url": "https://open.spotify.com/artist/6WfsgevyXjoFI4tT5ghvhV"
+        },
+        {
+          "name": "Simply Three",
+          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
+        }
+      ],
+      "duration_ms": 260894,
+      "name": "Be Still, My Soul",
+      "url": "https://open.spotify.com/track/08qfhtBomaGcFN9KLnbOoW"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Perfect Peace",
         "url": "https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 193148,
       "name": "Perfect Peace",
       "url": "https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Abide with Me",
-        "url": "https://open.spotify.com/album/2r0AErpMk2EvvqbNCLYl7Q"
-      },
-      "artists": [
-        {
-          "name": "Nathan Pacheco",
-          "url": "https://open.spotify.com/artist/6WfsgevyXjoFI4tT5ghvhV"
-        },
-        {
-          "name": "Simply Three",
-          "url": "https://open.spotify.com/artist/4ZZVk8undJqXJqQ1GHCTp2"
-        }
-      ],
-      "duration_ms": 260894,
-      "name": "Be Still, My Soul",
-      "url": "https://open.spotify.com/track/08qfhtBomaGcFN9KLnbOoW"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Hiding Place",
-        "url": "https://open.spotify.com/album/20AwBSy36TAZX8o7BIcTuU"
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1s10ErGVp2HSe8yQqrVUQ4"
       },
       "artists": [
         {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+          "name": "Lynn Marie",
+          "url": "https://open.spotify.com/artist/3kchCQYT10xiyu2OzxK17H"
         }
       ],
-      "duration_ms": 130927,
-      "name": "Hiding Place",
-      "url": "https://open.spotify.com/track/5G9Z6qubWkJwQGU57DykI2"
+      "duration_ms": 236086,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/4b63kPFb3CuPu0GOV2WFgf"
     }
   ],
   "unique_name": "Be Still",

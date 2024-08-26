@@ -2,7 +2,7 @@
 
 ### [Pinas Vibes](https://open.spotify.com/playlist/37i9dQZF1DWY90iCJMKual)
 
-> 🇵🇭 vibin' 🥶 🔥 Cover: Ryannah J
+> 🇵🇭 vibin' 🥶 🔥 Cover: DEMI
 
 279 songs - 15 hr 44 min
 

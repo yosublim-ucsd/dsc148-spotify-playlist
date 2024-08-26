@@ -129,7 +129,7 @@
 | [School Rain](https://open.spotify.com/track/6yAYt0yK49AJl9Q5k39Bqq) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Summer Nap](https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt) | 2:25 | 2022-11-21 | 2022-12-17 |
 | [Sereno](https://open.spotify.com/track/53aCvoBjK4vZDakZ5JyB6e) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Sereno](https://open.spotify.com/album/5KLu6QHGCznPcCB9GJvyMM) | 2:46 | 2022-11-21 |  |
 | [Simple Rain](https://open.spotify.com/track/2TZRsA59xle0Sn2TBFuGAp) | [Natural Sound Escapes](https://open.spotify.com/artist/14BvO4zkMab4WlRfbqv5cM) | [Simple Rain](https://open.spotify.com/album/6zBGIhm0328cDh5anlD82g) | 3:35 | 2023-06-16 |  |
-| [Simply Rain](https://open.spotify.com/track/1t96sZXnoM75fIwhT7nfK8) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Simply Rain](https://open.spotify.com/album/7gyFthOp8gIvbMSBMZUpBg) | 2:30 | 2023-10-11 | 2024-07-23 |
+| [Simply Rain](https://open.spotify.com/track/1t96sZXnoM75fIwhT7nfK8) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Simply Rain](https://open.spotify.com/album/7gyFthOp8gIvbMSBMZUpBg) | 2:30 | 2023-10-11 |  |
 | [Sitting on the Porch During a Thunderstorm](https://open.spotify.com/track/3eauTrySTM6lllpECM7akg) | [Baltic Thunderstorms](https://open.spotify.com/artist/1dzZsyQGGVieMijLOeLZS0) | [Thunderstorms \(Vol\. 3\)](https://open.spotify.com/album/3h8HHX6d4lkgyzNcdGQjAU) | 2:48 | 2022-11-21 |  |
 | [Sleepy Rain Sounds](https://open.spotify.com/track/0bfuV9XkfHaMOJbxX9AUoJ) | [The Beautiful World Around](https://open.spotify.com/artist/1uWldAX5DTfh3ok6HvgkJJ) | [Sleepy Rain Sounds](https://open.spotify.com/album/0JPekW780Lxd4Gz0bR2872) | 2:34 | 2024-03-11 |  |
 | [Soft Rain](https://open.spotify.com/track/3PgYjMLCWnbwaav90tNud0) | [The Rain Guru](https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF) | [Gentle Drops](https://open.spotify.com/album/2sztNnwUafraoRHKHrkWC7) | 3:50 | 2022-11-21 | 2024-03-12 |
@@ -163,6 +163,6 @@
 | [Window Siesta](https://open.spotify.com/track/3HGocuIF3wICVSbN3WC0NM) | [Raindog](https://open.spotify.com/artist/51pC69EE18vJkW3g4FrUiu) | [Peaceful Weekend](https://open.spotify.com/album/4FGn0wRLgoqt4OXPkvMywa) | 2:42 | 2023-06-16 |  |
 | [Wisby Way Rain](https://open.spotify.com/track/1Zf7zOrFr0HC0pbcAvxqbj) | [Atlantic Thunders](https://open.spotify.com/artist/4QR9di5dbNCSEyqyOOGRDL) | [Rain And Thunder \(Vol\. 3\)](https://open.spotify.com/album/2N0PHHdDBfmagAiEGMmpzl) | 2:33 | 2022-11-21 |  |
 | [Woodshed Rain](https://open.spotify.com/track/6kfiOzzsv9bPBsuh1Abl32) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [Woodshed Rain](https://open.spotify.com/album/7n08BfUqHKJWYe6w5TzkdL) | 3:23 | 2024-03-11 |  |
-| [Zen Drops](https://open.spotify.com/track/7mq9wDIgw3sjJvCd89BSPU) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Zen Drops](https://open.spotify.com/album/1qMAKKaFFshtUgg43sYNwn) | 2:49 | 2023-10-11 |  |
+| [Zen Drops](https://open.spotify.com/track/7mq9wDIgw3sjJvCd89BSPU) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [Zen Drops](https://open.spotify.com/album/1qMAKKaFFshtUgg43sYNwn) | 2:49 | 2023-10-11 | 2024-08-26 |
 
 \*This playlist was first scraped on 2022-12-08. Prior content cannot be recovered.

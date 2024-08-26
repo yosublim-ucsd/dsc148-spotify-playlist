@@ -9051,6 +9051,24 @@
     },
     {
       "album": {
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/4BiNLm1Du56fIj23cAU6x1"
+      },
+      "artists": [
+        {
+          "name": "BiQo",
+          "url": "https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127741,
+      "name": "Necessary",
+      "url": "https://open.spotify.com/track/4klNblGgC6vn5CSzDLW3H4"
+    },
+    {
+      "album": {
         "name": "Smoke Break Vol.2",
         "url": "https://open.spotify.com/album/3hcpu050xbDERmszMMfmF6"
       },
@@ -12319,6 +12337,24 @@
     },
     {
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1Khrq0VrvwzxhY5gZlsQLT"
+      },
+      "artists": [
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134172,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/77jS1yL8OuZjXP2omoc7Bf"
+    },
+    {
+      "album": {
         "name": "Spend It",
         "url": "https://open.spotify.com/album/4czHjPo9grGfdg7H3gkNIy"
       },
@@ -13014,6 +13050,28 @@
       "duration_ms": 207750,
       "name": "Table for Two",
       "url": "https://open.spotify.com/track/2ztim2Wblnr9vsbATzyMg2"
+    },
+    {
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/2PPR8xDRwWykDeNBogEtMo"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Frescool",
+          "url": "https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195976,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/1iYUdgn6p7dAMKLLVCBGeh"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is bludnymph](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yfE9e)
 
-> This Is bludnymph\. Sus mejores éxitos, todos en una playlist.
+> This is bludnymph\. The essential tracks, all in one playlist.
 
 26 songs - 1 hr 6 min
 

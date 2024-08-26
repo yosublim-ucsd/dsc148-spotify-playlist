@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 
 > True blue poetry\. Let these Bollywood Ghazals take over your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,432 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,478 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BezBRspddh.md) - [plain]
 | 43 | [Ab Mujhe Koi](https://open.spotify.com/track/4iKFqeIaHr3KifNF0kmkib) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Ishqiya](https://open.spotify.com/album/6w5XtnPBTeOUFvwGi93lgB) | 5:40 |
 | 44 | [Ek Ghadi](https://open.spotify.com/track/4ogeckkWMWFGpp3mHirbQY) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [D\-Day](https://open.spotify.com/album/4AVqCoyAu8AZpZfgp1wvLO) | 6:43 |
 | 45 | [Is Nadi Ko Mera](https://open.spotify.com/track/0Trv1xleAXKiLBd9H9daiE) | [Shailendra Singh](https://open.spotify.com/artist/2lgp536k08u3n6rgIW0lNf), [Haimanti Sukla](https://open.spotify.com/artist/2BY2Ube13Eo5u7xu20QApy) | [Chashme Buddoor](https://open.spotify.com/album/2tChCr8EXBpDHBNN6iUdlI) | 5:50 |
-| 46 | [Khata Toh Jab Ho](https://open.spotify.com/track/6gb1yJlVK7YjDUu9iKdAHF) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Dil Ka Kya Kasoor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ONg9pcYSvmMb7U8TCbhFi) | 6:08 |
+| 46 | [Khata Toh Jab Ho](https://open.spotify.com/track/6gb1yJlVK7YjDUu9iKdAHF) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Dil Ka Kya Kasoor \- Original Motion Picture Soundtrack](https://open.spotify.com/album/5ONg9pcYSvmMb7U8TCbhFi) | 6:08 |
 | 47 | [Muskurahat](https://open.spotify.com/track/5d6p3I7nymnvVYvCm7hlQM) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Gangubai Kathiawadi](https://open.spotify.com/album/1ewtD7ykSg3j31ARf0VN0b) | 4:37 |
 | 48 | [Phir Kisi Shakh Ne](https://open.spotify.com/track/0ANwS1SmjMoFtlyt6XhuRy) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g) | [Libaas](https://open.spotify.com/album/6HEe7Cxgzaflbtc43YunKJ) | 4:43 |
 | 49 | [Aankhon Se Khwab Rooth Kar](https://open.spotify.com/track/5vr2S5WX7N1zbXAHWsuXFH) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Super Star](https://open.spotify.com/album/0wswgvh5SqzIbPPimeNuTu) | 8:05 |

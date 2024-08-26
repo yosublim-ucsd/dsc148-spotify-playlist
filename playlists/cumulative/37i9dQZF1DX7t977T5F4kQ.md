@@ -2,9 +2,9 @@
 
 ### [Ghana Party](https://open.spotify.com/playlist/37i9dQZF1DX7t977T5F4kQ)
 
-> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Jay Bahd, O'Kenneth
+> The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Wendy Shay
 
-395 songs - 20 hr 42 min
+397 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Beautiful](https://open.spotify.com/track/4ccPHOzBCiCoBxilT5b00V) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [Beautiful](https://open.spotify.com/album/3CkYnVyY3U8ALa3aBUtNST) | 3:07 | 2023-03-02 | 2023-06-03 |
 | [Because of Money](https://open.spotify.com/track/5kHiZGMCGtNFYOzHNXALcU) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Because of Money](https://open.spotify.com/album/3crewNeNq67trTPOYc4bPw) | 2:54 | 2023-08-17 | 2023-09-01 |
 | [Been A Fool For You](https://open.spotify.com/track/0KL0cCn54gGCggbKFtT3Sb) | [Amakye Dede](https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Been A Fool For You](https://open.spotify.com/album/22abtC7wk76NHDS3fdhopN) | 4:28 | 2023-12-08 | 2023-12-15 |
+| [Bend Your Knees \(Igbo\)](https://open.spotify.com/track/2IPlPMYHB9EKXbbnXEvZBx) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Bend Your Knees \(Igbo\)](https://open.spotify.com/album/5lesINCDo6wYpEbxyS7AiJ) | 3:47 | 2024-08-25 |  |
 | [Berima Nsu](https://open.spotify.com/track/40mekD2MNFTdijf7T7loG3) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Berima Nsu](https://open.spotify.com/album/1qdpKiWu9xvhzVPWmo6F76) | 2:44 | 2024-06-14 |  |
 | [Billionaire](https://open.spotify.com/track/67BVAiOqovJtuKUMpqfFXM) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Billionaire](https://open.spotify.com/album/4u2kjSO5FlYAp2GC8MzWaH) | 3:11 | 2022-11-18 | 2023-02-24 |
 | [Blacklist \(feat\. Olivetheboy & M.I.K\)](https://open.spotify.com/track/7pArOCRhx7l9CkNvXO9Kuc) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [M.I.K](https://open.spotify.com/artist/1uAm8XfBMonEp2ooZYibyW) | [Blacklist \(feat\. Olivetheboy & M.I.K\)](https://open.spotify.com/album/0xKDGwQxWNiqozrxiZ2HjC) | 2:10 | 2024-07-19 |  |
@@ -146,7 +147,7 @@
 | [Flashy](https://open.spotify.com/track/0PaE3Z35AkWdVFOcOaEVEg) | [DJ Mic Smith](https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Flashy](https://open.spotify.com/album/5zDpecVut4H25OjHy0CesR) | 3:03 | 2024-06-28 | 2024-08-02 |
 | [Fly Away](https://open.spotify.com/track/4BaTfcuxdxQwTeqJjqcvRV) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Fly Away](https://open.spotify.com/album/5xvOTBhe4gb5ffsthihrKJ) | 2:30 | 2024-05-24 | 2024-08-02 |
 | [For You](https://open.spotify.com/track/1tlXtYaeSI5S9HV6KQ8F4h) | [Lois Mae](https://open.spotify.com/artist/2vgFTLuEZtAiSGcAOb5cfQ) | [For You](https://open.spotify.com/album/7tJEnqHqnGK0JZDXyP4Lf5) | 3:30 | 2023-05-04 | 2023-05-13 |
-| [Foriwah](https://open.spotify.com/track/4CNIY2CNIpy9thQrc4b0l2) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi), [Ogunskele](https://open.spotify.com/artist/62aZaZy0pmoii33RWxriLA) | [Foriwah](https://open.spotify.com/album/65oOTA8beykC7r2J979aQt) | 5:05 | 2024-07-05 |  |
+| [Foriwah](https://open.spotify.com/track/4CNIY2CNIpy9thQrc4b0l2) | [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi), [Ogunskele](https://open.spotify.com/artist/62aZaZy0pmoii33RWxriLA) | [Foriwah](https://open.spotify.com/album/65oOTA8beykC7r2J979aQt) | 5:05 | 2024-07-05 | 2024-08-26 |
 | [Freaky & Naughty](https://open.spotify.com/track/3pegFML6cZ9rgDuvLHm7Wj) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Freaky & Naughty](https://open.spotify.com/album/4vjPY3edDk05mtDoQO41oo) | 2:46 | 2023-08-03 | 2023-09-09 |
 | [Free My Mind](https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Free My Mind](https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp) | 2:40 | 2024-05-03 |  |
 | [Friday Night](https://open.spotify.com/track/4lFOrIFSya1i1cBHMUFve8) | [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Friday Night](https://open.spotify.com/album/1ZWld3Y1lv9rvkEivSpXMO) | 2:51 | 2022-11-04 | 2024-03-15 |
@@ -206,7 +207,7 @@
 | [Kwaku Ananse](https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Kwaku Ananse](https://open.spotify.com/album/67z5ZW6Se4NBjtP4ju4sOw) | 3:26 | 2023-09-08 | 2024-06-01 |
 | [Kwaku Ananse \- Remix](https://open.spotify.com/track/12XqD9NVwBiIYoKs6fDi2Y) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Kwaku Ananse \(Remix\)](https://open.spotify.com/album/264PQN5SiI2VGU4Bas6jSE) | 3:23 | 2023-11-10 |  |
 | [Kwaku the Traveller](https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Kwaku the Traveller](https://open.spotify.com/album/4ftrG1ro4ObsbNDKkYaZBR) | 3:05 | 2022-11-04 | 2024-03-01 |
-| [Kyelensa](https://open.spotify.com/track/2I8sAeOtAAOHgM0nhmPYY1) | [Avit](https://open.spotify.com/artist/1pWNPxR4s1pbNP9bouFeqO), [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV) | [Kyelensa](https://open.spotify.com/album/2N9DdwbIf0xdXhIcEFc6HY) | 2:08 | 2024-06-28 |  |
+| [Kyelensa](https://open.spotify.com/track/2I8sAeOtAAOHgM0nhmPYY1) | [Avit](https://open.spotify.com/artist/1pWNPxR4s1pbNP9bouFeqO), [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV) | [Kyelensa](https://open.spotify.com/album/2N9DdwbIf0xdXhIcEFc6HY) | 2:08 | 2024-06-28 | 2024-08-26 |
 | [Labadi \(feat\. King Promise\)](https://open.spotify.com/track/25SWsMxuKg62xEMx7zb4iO) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Labadi \(feat\. King Promise\)](https://open.spotify.com/album/2JoRJuNZhren1c4hi5L8a4) | 3:18 | 2022-11-04 | 2024-03-01 |
 | [License](https://open.spotify.com/track/5ZyPiaFTDOX68KYU5zFMqz) | [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G) | [License](https://open.spotify.com/album/31TyYecWH5bkMTLkyWKYPU) | 2:30 | 2023-03-24 | 2023-04-21 |
 | [Like Electricity](https://open.spotify.com/track/1rcAOj1TyavWMnfMGwRbMX) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Like Electricity](https://open.spotify.com/album/58vZNlvKOQDhsAgkwSYVvq) | 3:02 | 2023-05-12 | 2023-05-27 |
@@ -335,6 +336,7 @@
 | [Sober \(Soo Bad\)](https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sober \(Soo Bad\)](https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU) | 3:40 | 2024-03-29 |  |
 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 | 2022-11-04 | 2024-03-15 |
 | [Sophia](https://open.spotify.com/track/60836fFuqabzSTVWykb2YC) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Sophia](https://open.spotify.com/album/33MnqYooSC2VMMQrL6S0Au) | 3:07 | 2022-11-04 | 2023-02-24 |
+| [Special Love](https://open.spotify.com/track/3tDxbwxI0ekIlubIuqvH97) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Special Love](https://open.spotify.com/album/1szceHagQSVd8xb31fOoPo) | 2:46 | 2024-08-25 |  |
 | [Stay with Me](https://open.spotify.com/track/3bUPd3asMBo6vSCgCcbDjv) | [Yaw Darling](https://open.spotify.com/artist/5Evs57zwRolR6QHb2qeYwv) | [Stay with Me](https://open.spotify.com/album/21AMrY6iEhov73JUYXDVO1) | 2:38 | 2024-02-09 | 2024-03-01 |
 | [Su Mo Mi](https://open.spotify.com/track/2VP9RsnRRp1UX8BagWcZkY) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Su Mo Mi](https://open.spotify.com/album/4UYe6cZPLs6rTSl6F8ZNI4) | 3:24 | 2022-12-08 | 2023-04-09 |
 | [Suffer Suffer](https://open.spotify.com/track/1FEwkFQFOxdJLngkH7Jgao) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Suffer Suffer](https://open.spotify.com/album/3ZmxhUBvoUgzHbDh4xfmDq) | 2:50 | 2023-02-23 | 2023-03-11 |

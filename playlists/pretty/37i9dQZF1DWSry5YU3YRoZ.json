@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 5524,
+  "num_followers": 5528,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-08-13 05:59:06",
       "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
-    },
-    {
-      "added_at": "2024-08-13 05:59:06",
-      "album": {
         "name": "A flower bookmark",
         "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 240718,
       "name": "When love passes by",
       "url": "https://open.spotify.com/track/2e9GsDKqjTGRbv6lI3mK9E"
+    },
+    {
+      "added_at": "2024-08-13 05:59:06",
+      "album": {
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2024-08-13 05:59:06",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-08-13 05:59:06",
       "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 237035,
+      "name": "Dreams in summer night",
+      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
+    },
+    {
+      "added_at": "2024-08-13 05:59:06",
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 250453,
       "name": "Stay",
       "url": "https://open.spotify.com/track/07DtMQtRiP5vEAFWzKq82g"
-    },
-    {
-      "added_at": "2024-08-13 05:59:06",
-      "album": {
-        "name": "&10",
-        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 254693,
-      "name": "Just the two of us",
-      "url": "https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37"
     },
     {
       "added_at": "2024-08-13 05:59:06",
@@ -303,34 +303,18 @@
     {
       "added_at": "2024-08-13 05:59:06",
       "album": {
-        "name": "A flower bookmark",
-        "url": "https://open.spotify.com/album/460uGpon2JwPfRgDohV2bP"
+        "name": "&10",
+        "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 237035,
-      "name": "Dreams in summer night",
-      "url": "https://open.spotify.com/track/08IZihEWj0fhBgF19DeZBj"
-    },
-    {
-      "added_at": "2024-08-13 05:59:06",
-      "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 257862,
-      "name": "\uc785\ub9de\ucda4",
-      "url": "https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt"
+      "duration_ms": 254693,
+      "name": "Just the two of us",
+      "url": "https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37"
     },
     {
       "added_at": "2024-08-13 05:59:06",
@@ -347,6 +331,22 @@
       "duration_ms": 301500,
       "name": "a colored pencil",
       "url": "https://open.spotify.com/track/1NjI04swvcr8FoRG4zUMEO"
+    },
+    {
+      "added_at": "2024-08-13 05:59:06",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 257862,
+      "name": "\uc785\ub9de\ucda4",
+      "url": "https://open.spotify.com/track/34g679Tij4q8Cf6p0YGNXt"
     },
     {
       "added_at": "2024-08-13 05:59:06",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-08-13 05:59:06",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
-    },
-    {
-      "added_at": "2024-08-13 05:59:06",
-      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 171500,
       "name": "a story to tell (Original Ver.)",
       "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
+    },
+    {
+      "added_at": "2024-08-13 05:59:06",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm"
     },
     {
       "added_at": "2024-08-13 05:59:06",
@@ -463,22 +463,6 @@
       "duration_ms": 217400,
       "name": "\u110b\u1169\u1102\u1173\u11af\u1103\u1169 \u1100\u116e\u11ba\u1102\u1161\u110b\u1175\u11ba Good Night",
       "url": "https://open.spotify.com/track/7fgm1Ac7n9OoU9dMAUP5Ke"
-    },
-    {
-      "added_at": "2024-08-13 05:59:06",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "In Other Words",
-      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
     },
     {
       "added_at": "2024-08-13 05:59:06",
@@ -535,6 +519,22 @@
     {
       "added_at": "2024-08-13 05:59:06",
       "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "In Other Words",
+      "url": "https://open.spotify.com/track/3noMEhhJUAGM28V6yJApgU"
+    },
+    {
+      "added_at": "2024-08-13 05:59:06",
+      "album": {
         "name": "Absence",
         "url": "https://open.spotify.com/album/4j1X1n3KTXW5Umj4tbVMu9"
       },
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-08-13 05:59:06",
       "album": {
-        "name": "Don't Move Away (WEBTOON 'Good Doctor' X KIM JAE HYUNG)",
-        "url": "https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr"
-      },
-      "artists": [
-        {
-          "name": "KIM JAE HYUNG",
-          "url": "https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "Don\u2032t Move Away",
-      "url": "https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y"
-    },
-    {
-      "added_at": "2024-08-13 05:59:06",
-      "album": {
         "name": "Call me now",
         "url": "https://open.spotify.com/album/31a95WflUiSabbWq0RAchF"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 233520,
       "name": "Call me now",
       "url": "https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU"
+    },
+    {
+      "added_at": "2024-08-13 05:59:06",
+      "album": {
+        "name": "Don't Move Away (WEBTOON 'Good Doctor' X KIM JAE HYUNG)",
+        "url": "https://open.spotify.com/album/5s24w8XpEYFb34kaIhZymr"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HYUNG",
+          "url": "https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Don\u2032t Move Away",
+      "url": "https://open.spotify.com/track/24P7QAGjSohYUki76zBm4y"
     },
     {
       "added_at": "2024-08-13 05:59:06",
@@ -615,18 +615,18 @@
     {
       "added_at": "2024-08-13 05:59:06",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+        "name": "My",
+        "url": "https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw"
       },
       "artists": [
         {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "Baek Sun",
+          "url": "https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Storing Nights",
-      "url": "https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9"
+      "duration_ms": 166961,
+      "name": "My (Prod. Norwegian Wood)",
+      "url": "https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh"
     },
     {
       "added_at": "2024-08-13 05:59:06",
@@ -647,18 +647,18 @@
     {
       "added_at": "2024-08-13 05:59:06",
       "album": {
-        "name": "My",
-        "url": "https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw"
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
       "artists": [
         {
-          "name": "Baek Sun",
-          "url": "https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 166961,
-      "name": "My (Prod. Norwegian Wood)",
-      "url": "https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh"
+      "duration_ms": 239000,
+      "name": "Storing Nights",
+      "url": "https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9"
     },
     {
       "added_at": "2024-08-13 05:59:06",
@@ -707,22 +707,6 @@
       "duration_ms": 224693,
       "name": "Zero gravity",
       "url": "https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5"
-    },
-    {
-      "added_at": "2024-08-13 05:59:06",
-      "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/63ZyS4MPjh4tHYQeq11fEE"
     },
     {
       "added_at": "2024-08-13 05:59:06",
@@ -779,6 +763,22 @@
     {
       "added_at": "2024-08-13 05:59:06",
       "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/63ZyS4MPjh4tHYQeq11fEE"
+    },
+    {
+      "added_at": "2024-08-13 05:59:06",
+      "album": {
         "name": "Haze",
         "url": "https://open.spotify.com/album/0bVrSEcNXWFIVtmy9qhZAm"
       },
@@ -795,18 +795,22 @@
     {
       "added_at": "2024-08-13 05:59:06",
       "album": {
-        "name": "I can't sleep",
-        "url": "https://open.spotify.com/album/3HjdDamqmT4w93YOYYZadJ"
+        "name": "dearmybaby",
+        "url": "https://open.spotify.com/album/63sAdYCnKjCI5GcGKBPvoW"
       },
       "artists": [
         {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+          "name": "saevom",
+          "url": "https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca"
+        },
+        {
+          "name": "Kim Boo Kyung",
+          "url": "https://open.spotify.com/artist/6S3TceBtRpTrwT15bQZjYd"
         }
       ],
-      "duration_ms": 202733,
-      "name": "I can't sleep",
-      "url": "https://open.spotify.com/track/5ydSTEHJyPzk6NyJMqaIge"
+      "duration_ms": 249000,
+      "name": "dearmybaby (with Kim Boo Kyung)",
+      "url": "https://open.spotify.com/track/0fI28Yupfm9UuUPUZ7UdF3"
     },
     {
       "added_at": "2024-08-13 05:59:06",

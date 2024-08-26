@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: NEXZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,762 likes - 93 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,735 likes - 93 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

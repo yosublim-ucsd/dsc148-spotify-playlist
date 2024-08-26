@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,779 likes - 98 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,814 likes - 97 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 94 | [まるで天使さ](https://open.spotify.com/track/1YYInRlBrekYkUMGvbUy8l) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [まるで天使さ](https://open.spotify.com/album/4xNtqUMXNLId41aWBZDgnV) | 3:55 |
 | 95 | [ヘビー](https://open.spotify.com/track/2zonAMygHIUK6CfdxHVfFK) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 4:01 |
 | 96 | [Tarik Tali](https://open.spotify.com/track/4kWt2wcXa52bq2uEwt4TjI) | [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP), [Avolia](https://open.spotify.com/artist/1kDkwvzm2Zsn4GFVbS3egE) | [Tarik Tali](https://open.spotify.com/album/5o3E3DufeNhZVlXRUCz2to) | 3:37 |
-| 97 | [Sambut \- Imran Ajmain Remix](https://open.spotify.com/track/6icIwZ2yydCmnxOfz5hdpi) | [Banni Basyishar](https://open.spotify.com/artist/4hLm00Kcx2JHgxa1sdAdxG), [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV) | [Sambut \(Imran Ajmain Remix\)](https://open.spotify.com/album/0x0VCxBHP7qvko0B2Qsf1R) | 3:18 |
-| 98 | [Sesal Tak Bermakna](https://open.spotify.com/track/21QziOU4cWjn1CWavEeSmZ) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Sesal Tak Bermakna](https://open.spotify.com/album/2RfYAJP8TlLV5TIN5Rr60I) | 3:54 |
+| 97 | [Sesal Tak Bermakna](https://open.spotify.com/track/21QziOU4cWjn1CWavEeSmZ) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Sesal Tak Bermakna](https://open.spotify.com/album/2RfYAJP8TlLV5TIN5Rr60I) | 3:54 |
 
-Snapshot ID: `ZsqAywAAAAAQb2JPKMxcuuq25qg6+mXa`
+Snapshot ID: `ZsvEOgAAAABzgMSBARYpaoaZ8U5KRzI0`

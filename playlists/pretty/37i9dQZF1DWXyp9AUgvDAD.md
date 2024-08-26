@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 
 > À deux, c'est mieux ! Photo : Julien Doré et Joseph Kamel
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,438 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,452 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyp9AUgvDAD.md) - [plain]
 | 31 | [On partira \(Tout ce qu'on laisse\)](https://open.spotify.com/track/69NtdK05LB61KJSxsfVmX0) | [Tibz](https://open.spotify.com/artist/2fAaFNSG0aQucjQigOtHZF), [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Tout ce qu'on laisse](https://open.spotify.com/album/32ZDZMp4jGQqhAsWXSynV0) | 3:30 |
 | 32 | [CP\_009\_ Évidemment](https://open.spotify.com/track/6btgTbK2UslfSu0qjTEXQm) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Civilisation Edition Ultime](https://open.spotify.com/album/68YP0pEgwhnfRqQAzu71gP) | 3:26 |
 | 33 | [y'a rien](https://open.spotify.com/track/0Kr8yRrpi7hLfUQQsmxt73) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [y'a rien](https://open.spotify.com/album/3gxCCYdDHreHy8Ats3nBLq) | 3:36 |
-| 34 | [Parc fermé](https://open.spotify.com/track/6OH3FwtqKBD6TRdPhplQuz) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A), [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Grand Prix \(Edition Deluxe\)](https://open.spotify.com/album/08uATplQsVKhbj2WUatHti) | 3:56 |
+| 34 | [Parc fermé](https://open.spotify.com/track/6OH3FwtqKBD6TRdPhplQuz) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A), [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Grand Prix \- Edition Deluxe](https://open.spotify.com/album/08uATplQsVKhbj2WUatHti) | 3:56 |
 | 35 | [Grandir](https://open.spotify.com/track/0ruriS7oaQE0j1NE0AAW3o) | [Black M](https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw), [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Grandir](https://open.spotify.com/album/61Kjs8CGtVFQAP1qt5sSuf) | 3:22 |
 | 36 | [Prends ma main](https://open.spotify.com/track/5DtNh54TnwaJ8anX1FW1Ct) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Prends ma main](https://open.spotify.com/album/4uq8Gd3cjxWq90buJoQs2U) | 3:16 |
 | 37 | [Chocolat \(feat\. Awa Imani\)](https://open.spotify.com/track/4fwtP5khM1iEoa6BP1QQsX) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i) | [Clandestino](https://open.spotify.com/album/6j0ZbLhJ0uyREyXoz0KtON) | 3:55 |

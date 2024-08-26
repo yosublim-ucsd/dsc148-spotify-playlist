@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The latest in AUS & NZ Rap\. Cover: Yung Maynie
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,386 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,389 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 43 | [Too Late](https://open.spotify.com/track/3scdaB6xQNdfw2fdJsdezs) | [Allday](https://open.spotify.com/artist/2Ltr0s15RyvsjqWzSmiSRs) | [The Necklace](https://open.spotify.com/album/0w96ZdXPsPmTjHgJ1t9dQQ) | 2:23 |
 | 44 | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB) | 2:39 |
 | 45 | [FIND THAT OUT](https://open.spotify.com/track/4sJeq1ugqcvV37y8Jr7v02) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [FIND THAT OUT](https://open.spotify.com/album/5JDlQqaZI47GNU3S0fVTQX) | 2:11 |
-| 46 | [7 SEATER](https://open.spotify.com/track/4J1DnRKHVCbCUH5zrQ0ZMu) | [Lavez](https://open.spotify.com/artist/34XFmmLOHraER0bnb7APK2), [Burd Brain](https://open.spotify.com/artist/26rs1ihEXjjLggHE9abqBG), [Castro](https://open.spotify.com/artist/7fmYjYhnT8J7ThoEd7sNgG), [Slothy](https://open.spotify.com/artist/2f4tQM1yksSy5GBltolY4l) | [7 SEATER](https://open.spotify.com/album/40XQK4asCHZHhJAbF2dokZ) | 3:11 |
+| 46 | [7 SEATER](https://open.spotify.com/track/4J1DnRKHVCbCUH5zrQ0ZMu) | [Lavez](https://open.spotify.com/artist/34XFmmLOHraER0bnb7APK2), [Burd Brain](https://open.spotify.com/artist/26rs1ihEXjjLggHE9abqBG), [Castro](https://open.spotify.com/artist/7fmYjYhnT8J7ThoEd7sNgG) | [7 SEATER](https://open.spotify.com/album/40XQK4asCHZHhJAbF2dokZ) | 3:11 |
 | 47 | [Divinely Guided](https://open.spotify.com/track/0ywbc1relGaJpl43jX8ILg) | [Jaden Wakefield](https://open.spotify.com/artist/5qYON9aycMnuJ8FabAgoyf), [Busty](https://open.spotify.com/artist/3Qm7e7t9J4v9tRIQkcmuUZ) | [Divinely Guided](https://open.spotify.com/album/0S2qNiiDvTmrstbJZC6bft) | 2:43 |
 | 48 | [Wobble Out \(feat\. Kings\)](https://open.spotify.com/track/5KEBuUXw6U7NQOpdmDPphP) | [Penny Black](https://open.spotify.com/artist/1cBG4EwfCyJnZCsKxvIZ4h), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Wobble Out \(feat\. Kings\)](https://open.spotify.com/album/4NSj7L3io09LE0klyVzzAS) | 3:00 |
 | 49 | [Mood](https://open.spotify.com/track/5XJkbX6HjNPC5LHZE3tprb) | [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [Mood](https://open.spotify.com/album/7KYB3YP9cImMbgl5bMHHsH) | 2:14 |

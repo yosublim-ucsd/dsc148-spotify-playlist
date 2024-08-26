@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: ",
+  "description": "New and emerging R&B, afropop and Alternative tracks. Cover: Anabel Rose",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 146685,
       "name": "1942 (feat. Milar)",
       "url": "https://open.spotify.com/track/69v07HAZ1Gk5pICKGaaATc"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 157160,
       "name": "Align (Sorry)",
       "url": "https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua"
@@ -2028,7 +2028,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 183238,
       "name": "Bella",
       "url": "https://open.spotify.com/track/1hjOzrQgPbWWCO8jfLzJbO"
@@ -2812,6 +2812,24 @@
       "duration_ms": 195140,
       "name": "Buruma Buruma",
       "url": "https://open.spotify.com/track/13k03K0WLxhgv3C7uheCEn"
+    },
+    {
+      "album": {
+        "name": "Bus Stop",
+        "url": "https://open.spotify.com/album/3z9nmiwuNFWn1EvNz1yTtw"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182361,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/4PN0poDUo4kMwpjs903yhA"
     },
     {
       "album": {
@@ -7908,7 +7926,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 165000,
       "name": "I Regret",
       "url": "https://open.spotify.com/track/6LWzPiraT4yeHet4RvPICJ"
@@ -11779,6 +11797,24 @@
     },
     {
       "album": {
+        "name": "Necessary",
+        "url": "https://open.spotify.com/album/4BiNLm1Du56fIj23cAU6x1"
+      },
+      "artists": [
+        {
+          "name": "BiQo",
+          "url": "https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127741,
+      "name": "Necessary",
+      "url": "https://open.spotify.com/track/4klNblGgC6vn5CSzDLW3H4"
+    },
+    {
+      "album": {
         "name": "Never",
         "url": "https://open.spotify.com/album/14MkyuwREHoVLjJpC8yvNF"
       },
@@ -12046,7 +12082,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 166200,
       "name": "NO GO LIE",
       "url": "https://open.spotify.com/track/4g9Ir7rXdtFNvdTC2tUikT"
@@ -12983,6 +13019,24 @@
     },
     {
       "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/5Vn70shB3Ff0nxOszcICqp"
+      },
+      "artists": [
+        {
+          "name": "Cznbaby",
+          "url": "https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170736,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/7zjsQXJbCqZUJJgC2M0Bv3"
+    },
+    {
+      "album": {
         "name": "One Sided",
         "url": "https://open.spotify.com/album/5V6lZIrznQGv9oEyPlMkhE"
       },
@@ -13398,6 +13452,28 @@
       "duration_ms": 154285,
       "name": "Pain and Pleasure",
       "url": "https://open.spotify.com/track/1YNcsikMzn7VnhVQCXhx2o"
+    },
+    {
+      "album": {
+        "name": "Palmwine",
+        "url": "https://open.spotify.com/album/7ucOuSBBNW7mE9C8H7lusS"
+      },
+      "artists": [
+        {
+          "name": "Marvio",
+          "url": "https://open.spotify.com/artist/49tNNMK3Ts85ALZG2Q6cch"
+        },
+        {
+          "name": "Riicc",
+          "url": "https://open.spotify.com/artist/4InytWcSL9a1YPLeFNkCMa"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Palmwine",
+      "url": "https://open.spotify.com/track/22IW4sSH1iPDXgliuhJWfO"
     },
     {
       "album": {
@@ -13834,6 +13910,24 @@
       "duration_ms": 166244,
       "name": "PILOLO",
       "url": "https://open.spotify.com/track/5CDy5HTPY2NgSkkR2xrnZ2"
+    },
+    {
+      "album": {
+        "name": "Fire and Flow",
+        "url": "https://open.spotify.com/album/6wp6F8HaHkIplTueDrr3Cm"
+      },
+      "artists": [
+        {
+          "name": "Lali X Lola",
+          "url": "https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142997,
+      "name": "Pim",
+      "url": "https://open.spotify.com/track/7qLk2zXIhpF2IjZQyj1KBk"
     },
     {
       "album": {
@@ -15196,7 +15290,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 164651,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/4IxL4tYOGf6Q7jsv20DBgZ"
@@ -16134,6 +16228,24 @@
       "duration_ms": 261048,
       "name": "Soft Vibez - Acoustic",
       "url": "https://open.spotify.com/track/6K5qsa0Jy4kre321ya2kaz"
+    },
+    {
+      "album": {
+        "name": "90s Bad Boy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3FBJ7rxIR93P3D1RhmpnPv"
+      },
+      "artists": [
+        {
+          "name": "Ghetto Boy",
+          "url": "https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179579,
+      "name": "Soji",
+      "url": "https://open.spotify.com/track/0Ah9XKxodz0w5opwg87lVG"
     },
     {
       "album": {
@@ -19277,6 +19389,24 @@
     },
     {
       "album": {
+        "name": "Will I?",
+        "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164081,
+      "name": "Will I?",
+      "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
+    },
+    {
+      "album": {
         "name": "Win",
         "url": "https://open.spotify.com/album/1BeuNe7I7ZYilE0ZKWUsaP"
       },
@@ -19816,7 +19946,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 148663,
       "name": "Your Place",
       "url": "https://open.spotify.com/track/4rHU2rwt29kZ4jrIWl4vPa"

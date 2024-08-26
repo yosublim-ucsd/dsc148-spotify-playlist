@@ -2,7 +2,7 @@
 
 ### [This Is Elevation Worship](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2jUWJ2)
 
-> This Is Elevation Worship\. Sus mejores éxitos, todos en una playlist.
+> This is Elevation Worship\. The essential tracks, all in one playlist.
 
 66 songs - 7 hr 18 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💚 Shawn Mendes på coveret
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,858 likes - 118 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,854 likes - 118 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

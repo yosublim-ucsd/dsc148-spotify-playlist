@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3lWjLU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3lWjLU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3lWjLU)
 
-### [This Is ダニー・オーシャン](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lWjLU)
+### [This Is Danny Ocean](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lWjLU)
 
-> This is ダニー・オーシャン。アーティストの代表曲をひとつのプレイリストに。
+> This is Danny Ocean\. The essential tracks, all in one playlist.
 
 77 songs - 3 hr 58 min
 

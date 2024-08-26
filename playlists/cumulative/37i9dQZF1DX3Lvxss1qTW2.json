@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover: Ayo Maff",
+  "description": "The future hits of today. \nCover: Alpha P & Olamide",
   "name": "Bubblin'",
   "tracks": [
     {
@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 174358,
       "name": "Alright",
       "url": "https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f"
@@ -104,7 +104,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 212500,
       "name": "AMERICA",
       "url": "https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 352215,
       "name": "Asambe Remix",
       "url": "https://open.spotify.com/track/5dYHbXEbaMMdR4A4OWSa6N"
@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Bus Stop",
+        "url": "https://open.spotify.com/album/3z9nmiwuNFWn1EvNz1yTtw"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182361,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/4PN0poDUo4kMwpjs903yhA"
+    },
+    {
+      "album": {
         "name": "Busy & Broke",
         "url": "https://open.spotify.com/album/2beprFW3yOohVHvReH74ei"
       },
@@ -352,7 +370,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 169411,
       "name": "Champagne Boi",
       "url": "https://open.spotify.com/track/0cFx3LQOHY5dDIxGAFBdBq"
@@ -392,7 +410,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 148781,
       "name": "Controlla",
       "url": "https://open.spotify.com/track/1K4DhSCptGVbSq30IHTJ69"
@@ -578,6 +596,24 @@
       "duration_ms": 166963,
       "name": "EWE",
       "url": "https://open.spotify.com/track/5pdmg7p3LIyU07vlLFI7w4"
+    },
+    {
+      "album": {
+        "name": "FaceCard (Only Me)",
+        "url": "https://open.spotify.com/album/1UDFtcP2BNJRORKx2pXAHJ"
+      },
+      "artists": [
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "FaceCard (Only Me)",
+      "url": "https://open.spotify.com/track/1oVqMHVxQNyHqZk9Kf2APO"
     },
     {
       "album": {
@@ -812,7 +848,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 180918,
       "name": "For You",
       "url": "https://open.spotify.com/track/0IwVRl9I5cFROL1K1Mf77A"
@@ -1006,7 +1042,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 157821,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/1VUUgMgnpxFLdFYcReuNE8"
@@ -1104,6 +1140,28 @@
       "duration_ms": 136719,
       "name": "If I Be You",
       "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
+    },
+    {
+      "album": {
+        "name": "In The Beginning",
+        "url": "https://open.spotify.com/album/4nCsoi5Obnn9f6aId8fP1K"
+      },
+      "artists": [
+        {
+          "name": "Konstance",
+          "url": "https://open.spotify.com/artist/4FCCd7RRPKt52KzC30Fp9I"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152999,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/4WVEG9eW2FnxHvnaRAdFwa"
     },
     {
       "album": {
@@ -1440,7 +1498,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 216980,
       "name": "Low Key (feat. Humby)",
       "url": "https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2"
@@ -1458,7 +1516,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 156238,
       "name": "L\u00e8t\u00f3",
       "url": "https://open.spotify.com/track/2ubBk71A4eKuKEiMB7Hwa6"
@@ -1604,7 +1662,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 148297,
       "name": "My Dealer",
       "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
@@ -1655,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "No Touching",
+        "url": "https://open.spotify.com/album/2FQ31NoLa34SCId9LpYTso"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161443,
+      "name": "No Touching",
+      "url": "https://open.spotify.com/track/44z2DxLiXMXUz8MVNM5V8u"
+    },
+    {
+      "album": {
         "name": "O.U.A.T",
         "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
       },
@@ -1692,7 +1768,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 152133,
       "name": "Ogechi",
       "url": "https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun"
@@ -1744,7 +1820,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 198545,
       "name": "ONOME",
       "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
@@ -1894,7 +1970,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 163271,
       "name": "Reset (feat. Crayon & Bella Shmurda)",
       "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
@@ -1992,6 +2068,24 @@
       "duration_ms": 184552,
       "name": "Soh-Soh",
       "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
+    },
+    {
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/126AOyWGBV3M6m85LhRLSZ"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178144,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/0vgwRl8tsq9nVaXWuT8Sws"
     },
     {
       "album": {
@@ -2155,6 +2249,32 @@
     },
     {
       "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/1yA8Hpl2gEc0WgLxuulnoN"
+      },
+      "artists": [
+        {
+          "name": "Krizbeatz",
+          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        },
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi"
+    },
+    {
+      "album": {
         "name": "Trabaye",
         "url": "https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5"
       },
@@ -2269,6 +2389,32 @@
     },
     {
       "album": {
+        "name": "W",
+        "url": "https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn"
+      },
+      "artists": [
+        {
+          "name": "Alpha P",
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/28Z7pwhYRsiI6FCjtLUn4p"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153684,
+      "name": "W",
+      "url": "https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O"
+    },
+    {
+      "album": {
         "name": "roses are red, tears are blue \u2014 A Fountain Baby Extended Play",
         "url": "https://open.spotify.com/album/7zgIcnbeNavZHeaTuVd6Po"
       },
@@ -2324,10 +2470,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 156763,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
+    },
+    {
+      "album": {
+        "name": "Will I?",
+        "url": "https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164081,
+      "name": "Will I?",
+      "url": "https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT"
     },
     {
       "album": {
@@ -2422,7 +2586,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 93099,
       "name": "X",
       "url": "https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf"

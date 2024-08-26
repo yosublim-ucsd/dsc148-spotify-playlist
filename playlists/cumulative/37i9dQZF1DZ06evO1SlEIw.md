@@ -2,7 +2,7 @@
 
 ### [This Is Linked Horizon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1SlEIw)
 
-> This is Linked Horizon\. The essential tracks, all in one playlist.
+> This Is Linked Horizon\. Les titres incontournables, réunis dans une seule et même playlist.
 
 41 songs - 3 hr 24 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Øbed
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,040 likes - 70 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,044 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,17 +18,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 8 | [What Do They Know](https://open.spotify.com/track/1gaAyp2j9ymWjnNnSc9hJ2) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Dilemma](https://open.spotify.com/album/0rUMdn1M67eLJ11sQHt3iR) | 2:57 |
 | 9 | [ACT A FOOL](https://open.spotify.com/track/7DR5U9CtjI9CTFXSAmD0Am) | [ALL MY COUSINS](https://open.spotify.com/artist/0sFj0XrhYtB62oLzheZ8Bm) | [ACT A FOOL](https://open.spotify.com/album/6wag0cQoAza8BuLTLkfPbI) | 2:35 |
 | 10 | [227](https://open.spotify.com/track/7uaRn34hfMmwzDTNdTNvsY) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Okay Baby, Lets Do This](https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp) | 4:13 |
-| 11 | [CURIOUS CAESAR](https://open.spotify.com/track/5tLgV8r3KBnB31C8r2M73M) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [CURIOUS CAESAR](https://open.spotify.com/album/2MfM7YpoqsitNi9PAT3cCt) | 3:06 |
-| 12 | [My Ones](https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG) | [Kwxd](https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM) | [My Ones](https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC) | 2:42 |
-| 13 | [Nana](https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [4 DA PAIN](https://open.spotify.com/album/0TM6jciackri09qoY3SV9s) | 2:53 |
-| 14 | [Sunshine](https://open.spotify.com/track/5ApfOFw9J5DZ2XLKQFL8Hm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Sunshine](https://open.spotify.com/album/4OdvBnXcegSXUJmw3Vewhl) | 2:51 |
-| 15 | [Love Me](https://open.spotify.com/track/3MSuBkZsG0AadmK3zv1laN) | [Kwame O](https://open.spotify.com/artist/2wTlbPw0IBeIlBU4EtygJo), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t), [Yu K](https://open.spotify.com/artist/35FzuoWZbS3jewNlG7mCcU) | [Love Me](https://open.spotify.com/album/7D0JDtrNn8qhH816DhCpp1) | 2:40 |
-| 16 | [Cruise Control](https://open.spotify.com/track/5pM4L717J3qIMysY51BX0P) | [Kojo Trip](https://open.spotify.com/artist/30YL6ZmUsHXN07Z6Y9SrHT) | [Ride Along](https://open.spotify.com/album/19NnnqmjYpkpPidgGzdNLE) | 2:37 |
-| 17 | [Pasa \- Remix](https://open.spotify.com/track/5cp6IukocVZv2nfuC0IzIG) | [Korshi T](https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc), [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [Pasa \(Remix\)](https://open.spotify.com/album/7IpuhVSAmSbo77kGi3vzhm) | 2:51 |
-| 18 | [Hearted](https://open.spotify.com/track/1RKOvN96zUyfaSNgU307F6) | [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d) | [Hearted](https://open.spotify.com/album/7pASSzJEyzmpt0x5Ev9AIq) | 3:19 |
-| 19 | [Fallin For U](https://open.spotify.com/track/4CcEhit7ABrZaIzLSnuSmS) | [Her Revenge](https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC) | [Fallin For U](https://open.spotify.com/album/0pw52kEiu0azBzhd7CdpB5) | 2:05 |
-| 20 | [Lemuella \(feat\. $pacely, KwakuBs, RJZ, Kwesi Arthur\)](https://open.spotify.com/track/33YJBuPUw5QN0YANYbY5LU) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [KwakuBs](https://open.spotify.com/artist/4WIDKbsLcrvVVwUrzihgxo), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb) | [La Même Tape](https://open.spotify.com/album/6rTmz2G8NKu9GkrAA5Yumv) | 3:58 |
-| 21 | [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 |
+| 11 | [Necessary](https://open.spotify.com/track/4klNblGgC6vn5CSzDLW3H4) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Necessary](https://open.spotify.com/album/4BiNLm1Du56fIj23cAU6x1) | 2:07 |
+| 12 | [CURIOUS CAESAR](https://open.spotify.com/track/5tLgV8r3KBnB31C8r2M73M) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [CURIOUS CAESAR](https://open.spotify.com/album/2MfM7YpoqsitNi9PAT3cCt) | 3:06 |
+| 13 | [My Ones](https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG) | [Kwxd](https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM) | [My Ones](https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC) | 2:42 |
+| 14 | [Nana](https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [4 DA PAIN](https://open.spotify.com/album/0TM6jciackri09qoY3SV9s) | 2:53 |
+| 15 | [Sunshine](https://open.spotify.com/track/5ApfOFw9J5DZ2XLKQFL8Hm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Sunshine](https://open.spotify.com/album/4OdvBnXcegSXUJmw3Vewhl) | 2:51 |
+| 16 | [Love Me](https://open.spotify.com/track/3MSuBkZsG0AadmK3zv1laN) | [Kwame O](https://open.spotify.com/artist/2wTlbPw0IBeIlBU4EtygJo), [Valentino Rose](https://open.spotify.com/artist/0qIB4W2DllGjdIdeDK4l8t), [Yu K](https://open.spotify.com/artist/35FzuoWZbS3jewNlG7mCcU) | [Love Me](https://open.spotify.com/album/7D0JDtrNn8qhH816DhCpp1) | 2:40 |
+| 17 | [Cruise Control](https://open.spotify.com/track/5pM4L717J3qIMysY51BX0P) | [Kojo Trip](https://open.spotify.com/artist/30YL6ZmUsHXN07Z6Y9SrHT) | [Ride Along](https://open.spotify.com/album/19NnnqmjYpkpPidgGzdNLE) | 2:37 |
+| 18 | [Pasa \- Remix](https://open.spotify.com/track/5cp6IukocVZv2nfuC0IzIG) | [Korshi T](https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc), [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [Pasa \(Remix\)](https://open.spotify.com/album/7IpuhVSAmSbo77kGi3vzhm) | 2:51 |
+| 19 | [Hearted](https://open.spotify.com/track/1RKOvN96zUyfaSNgU307F6) | [Yhaw hero](https://open.spotify.com/artist/0TVRUVsUqxHTsgRSBk3i8d) | [Hearted](https://open.spotify.com/album/7pASSzJEyzmpt0x5Ev9AIq) | 3:19 |
+| 20 | [Fallin For U](https://open.spotify.com/track/4CcEhit7ABrZaIzLSnuSmS) | [Her Revenge](https://open.spotify.com/artist/5SrjPqmZawRld9MZNRpmvC) | [Fallin For U](https://open.spotify.com/album/0pw52kEiu0azBzhd7CdpB5) | 2:05 |
+| 21 | [Lemuella \(feat\. $pacely, KwakuBs, RJZ, Kwesi Arthur\)](https://open.spotify.com/track/33YJBuPUw5QN0YANYbY5LU) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [KwakuBs](https://open.spotify.com/artist/4WIDKbsLcrvVVwUrzihgxo), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb) | [La Même Tape](https://open.spotify.com/album/6rTmz2G8NKu9GkrAA5Yumv) | 3:58 |
 | 22 | [Work](https://open.spotify.com/track/3c0apNttNexOLb7QIliIdq) | [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [Work](https://open.spotify.com/album/1nWVhBEmIBJiNN5vyuDmow) | 2:45 |
 | 23 | [Pretty Skin](https://open.spotify.com/track/14bnrZmjiq53rCk9yFfYLR) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Pretty Skin](https://open.spotify.com/album/4lbdxmlhINAIpkt144gzgQ) | 3:19 |
 | 24 | [Weird Space](https://open.spotify.com/track/0ZahurG13submevaayPoLL) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Weird Space](https://open.spotify.com/album/3OoNywIFSlXdYHDwANiVHk) | 2:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 69 | [Nobody](https://open.spotify.com/track/5qecyCoEoIhKUf47iT67qA) | [Titi Owusu](https://open.spotify.com/artist/1zFAZYHVVh6hgb0q6dVaVV) | [Nobody](https://open.spotify.com/album/4FTBxW8fSHSZwHg69DbWso) | 2:40 |
 | 70 | [How Dare You](https://open.spotify.com/track/3zx16CX0uPhOxNvpYq6d64) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [How Dare You](https://open.spotify.com/album/5r1Xarkef6UT6W3jcT2h1t) | 2:27 |
 
-Snapshot ID: `Zr8STQAAAACLN9UrzW0G8zQ+DR5MpQgg`
+Snapshot ID: `ZstwLAAAAACJJ8R9D7slibp3PpCmY9Rn`

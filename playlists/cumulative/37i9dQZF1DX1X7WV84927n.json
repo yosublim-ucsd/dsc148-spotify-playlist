@@ -1653,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Heart of Thorns",
+        "url": "https://open.spotify.com/album/4WxEFzNhrbfQYCT9wshwSV"
+      },
+      "artists": [
+        {
+          "name": "Jager Henry",
+          "url": "https://open.spotify.com/artist/6ruldbo2ccvWfvFckCO2Mn"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149327,
+      "name": "Bite Down",
+      "url": "https://open.spotify.com/track/0bd2IBJCwqemeDmmpylmAV"
+    },
+    {
+      "album": {
         "name": "Finding Peace Through All The Noise",
         "url": "https://open.spotify.com/album/5awto74nwYfMdJCA0gzUOY"
       },
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 201000,
       "name": "Break The Rules",
       "url": "https://open.spotify.com/track/1EvMSw0fUb3mlcIBqwQvLI"

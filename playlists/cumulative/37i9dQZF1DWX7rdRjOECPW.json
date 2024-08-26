@@ -451,6 +451,28 @@
     },
     {
       "album": {
+        "name": "Better Days (feat. Declan J Donovan)",
+        "url": "https://open.spotify.com/album/04S3Gc7Co4Vsq6xLc9jzIR"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179954,
+      "name": "Better Days (feat. Declan J Donovan)",
+      "url": "https://open.spotify.com/track/4ZuBUWUnehdOkRaukmVErf"
+    },
+    {
+      "album": {
         "name": "Big Jet Plane",
         "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
       },
@@ -3842,7 +3864,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 202000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/70H0AMIuTm0brh3hznKvFu"

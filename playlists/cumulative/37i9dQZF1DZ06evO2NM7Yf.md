@@ -2,7 +2,7 @@
 
 ### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> This Is Meg Smith\. Sus mejores éxitos, todos en una playlist.
+> This Is Meg Smith\. Todas as faixas essenciais numa única playlist.
 
 25 songs - 1 hr 14 min
 

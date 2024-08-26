@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Alegres De Teran. The essential tracks, all in one playlist.",
+  "description": "This Is Los Alegres De Teran. Los temas esenciales, todos en una lista.",
   "num_followers": 11494,
   "original_name": "This Is Los Alegres De Teran",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAAD9e24LgNFtDZ7ZY18NBA8d",
+  "snapshot_id": "ZskigAAAAACLp6tbByTccfhAi7Ykmdf9",
   "tracks": [
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 151400,
-      "name": "Cuando Salgo A Los Campos",
-      "url": "https://open.spotify.com/track/0u0N27nvxh5ClF4sMgYMpV"
+      "duration_ms": 168640,
+      "name": "Por El Amor A Mi Madre",
+      "url": "https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
         }
       ],
-      "duration_ms": 168640,
-      "name": "Por El Amor A Mi Madre",
-      "url": "https://open.spotify.com/track/2mZDnPwVfV3nQ7LhplzMsd"
+      "duration_ms": 151400,
+      "name": "Cuando Salgo A Los Campos",
+      "url": "https://open.spotify.com/track/0u0N27nvxh5ClF4sMgYMpV"
     },
     {
       "added_at": null,

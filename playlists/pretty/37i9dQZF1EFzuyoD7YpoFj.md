@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318 likes - 402 songs - 21 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 319 likes - 402 songs - 21 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,15 +167,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 157 | [Swingin' The Samba \- Rudy Van Gelder Edition / Remastered](https://open.spotify.com/track/0DUtvrzMPw3IswNQgZPIHR) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Finger Poppin' \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on) | 5:17 |
 | 158 | [Ev'rything I Love](https://open.spotify.com/track/4F0TmsCSkvGjDjRRl4QHXR) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [How My Heart Sings! \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/5nb7M6Ymcrj5CfxuYUPhJP) | 4:16 |
 | 159 | [Cake Walking Babies from Home](https://open.spotify.com/track/0Aw0WcbLPkl44e9lz4wRNU) | [Young Sidney Bechet](https://open.spotify.com/artist/4kbB6ZBrfZaNZqFkjmGAPF) | [Young Sidney Bechet 1923\-1925](https://open.spotify.com/album/73WPlXuZNWeDu49lSAoVke) | 2:57 |
-| 160 | [Finale and End Title March](https://open.spotify.com/track/7g3UgZVHeO3pG7npW6UUbl) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Superman: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO) | 5:42 |
-| 161 | [Little Cabin In The Wood](https://open.spotify.com/track/7oRMrcfMvsxIbL0gye0KIp) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Toddler Action Songs](https://open.spotify.com/album/4LOfihzuxh5L2NqaMN02yj) | 1:06 |
+| 160 | [Little Cabin In The Wood](https://open.spotify.com/track/7oRMrcfMvsxIbL0gye0KIp) | [Cedarmont Kids](https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt) | [Toddler Action Songs](https://open.spotify.com/album/4LOfihzuxh5L2NqaMN02yj) | 1:06 |
+| 161 | [Finale and End Title March](https://open.spotify.com/track/7g3UgZVHeO3pG7npW6UUbl) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Superman: The Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Hlfql6zSPcQGyZZ6TY5jO) | 5:42 |
 | 162 | [To You](https://open.spotify.com/track/2PgNsFmKHk63j13lhm4WFf) | [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [Alex Hackett](https://open.spotify.com/artist/6Pl6blrLZuvByS5oXyOzYG) | [To You](https://open.spotify.com/album/3Csgtkqqx4PgruS16l5kQO) | 2:43 |
 | 163 | [Don't Fence Me In / Strollin'](https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Plays Well With Others](https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv) | 3:55 |
 | 164 | [Finale](https://open.spotify.com/track/0Q7Mtha6suv3ENtJFQRHrR) | [Micaela Diamond](https://open.spotify.com/artist/4cwza2NZPQtmTcXotvpwWq), [Jake Pedersen](https://open.spotify.com/artist/6yeA3a9u0X5GhJ14l75D3h), [Parade Cast](https://open.spotify.com/artist/6H7JrflghHIKhXPkKNfKq7) | [Parade \(2023 Broadway Cast Recording\)](https://open.spotify.com/album/1Q4VxidzNyBpzIZ11qnCP3) | 3:17 |
 | 165 | [After You](https://open.spotify.com/track/7sIw0bLbI9sJuKVR5HojFE) | [Jeri Southern](https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK) | [Jeri Southern Meets Cole Porter](https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O) | 2:50 |
 | 166 | [But in the Movie Baby](https://open.spotify.com/track/3EvZ1juNUyel0ys1NtnaHX) | [Band of Gold](https://open.spotify.com/artist/0RnvWQ8qWXI7oM3PAno7lB) | [Band of Gold](https://open.spotify.com/album/45sljXHWgtmgHtDofS0WcD) | 3:59 |
-| 167 | [Tante Saar](https://open.spotify.com/track/0ceYUvpmZeUmvmsI01SLQj) | [Manke Nelis](https://open.spotify.com/artist/7jGonUtfSFZgtQ6hKbqyBr) | [Blijven Lachen In Het Leven](https://open.spotify.com/album/4shLcC3AtPlGvEaeYvomzN) | 2:59 |
-| 168 | [I've Got You On My Mind](https://open.spotify.com/track/5FK62sSVZItz8ihh0D01RX) | [White Plains](https://open.spotify.com/artist/0xWTQw2TL6j7mHGOTltsEW) | [My Baby Loves Lovin'](https://open.spotify.com/album/7scn5zWo1h0U1np5FVekWU) | 2:42 |
+| 167 | [I've Got You On My Mind](https://open.spotify.com/track/5FK62sSVZItz8ihh0D01RX) | [White Plains](https://open.spotify.com/artist/0xWTQw2TL6j7mHGOTltsEW) | [My Baby Loves Lovin'](https://open.spotify.com/album/7scn5zWo1h0U1np5FVekWU) | 2:42 |
+| 168 | [Tante Saar](https://open.spotify.com/track/0ceYUvpmZeUmvmsI01SLQj) | [Manke Nelis](https://open.spotify.com/artist/7jGonUtfSFZgtQ6hKbqyBr) | [Blijven Lachen In Het Leven](https://open.spotify.com/album/4shLcC3AtPlGvEaeYvomzN) | 2:59 |
 | 169 | [Far From Samantha](https://open.spotify.com/track/67cWdHcvQEDO4KLeaqX6an) | [Jazzaphonics](https://open.spotify.com/artist/15ym9PwjjS35v5qYyxqJXb) | [The Midnight Swing Collection](https://open.spotify.com/album/5TQ2TBEXU3uwYUCkfxm2GE) | 2:08 |
 | 170 | [Scrapple from the Apple](https://open.spotify.com/track/2KtwqStCUhL4zh7VEW8hx7) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Bird of Paradise](https://open.spotify.com/album/3oTKy93aoEqdz8nMWPj5x6) | 2:59 |
 | 171 | [The Ritz Roll and Rock](https://open.spotify.com/track/1gu0OMIllqEM8ozrzyJ6Ty) | [Fred Astaire \(performer\), The MGM Studio Chorus](https://open.spotify.com/artist/5WJ0grrC4TlglvEZQoZaFJ) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 3:35 |
@@ -411,4 +411,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 401 | [Fish](https://open.spotify.com/track/31XMjn25vt3WReCJLzJvas) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 3:10 |
 | 402 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbaTuAAAAADfvrANVVescbRZxvOgwo18`
+Snapshot ID: `AbaZWAAAAADKVRkKWZOLle0J7YJzRzus`

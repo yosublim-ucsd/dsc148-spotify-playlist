@@ -2,7 +2,7 @@
 
 ### [This Is Madison Cunningham](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1TLEmS)
 
-> This Is Madison Cunningham\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Madison Cunningham\. The essential tracks, all in one playlist.
 
 75 songs - 4 hr 55 min
 

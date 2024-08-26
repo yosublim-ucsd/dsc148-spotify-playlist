@@ -4,7 +4,7 @@
 
 > puros morrxs haciendo música chida\. Petite Amie en portada.
 
-180 songs - 9 hr 28 min
+180 songs - 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Tormento](https://open.spotify.com/track/7luTItMWT5N84eLmo9une9) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Tormento](https://open.spotify.com/album/70h7L4J38OMRLpkxM5aK7B) | 2:50 | 2024-06-28 |  |
 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 | 2023-07-21 | 2023-10-21 |
 | [Tú me quieres más](https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Tú me quieres más](https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW) | 3:22 | 2024-08-16 |  |
-| [Un Desastre Que Te Encanta](https://open.spotify.com/track/0xTNSKybxlNJ53Jv6R3IXr) | [Marchi](https://open.spotify.com/artist/7CRrMfdafxOwlRt2lX8XZG) | [Un Desastre Que Te Encanta](https://open.spotify.com/album/1dgITywuFZgqfNji4OcxtE) | 2:34 | 2024-08-23 |  |
+| [Un Desastre Que Te Encanta](https://open.spotify.com/track/0xTNSKybxlNJ53Jv6R3IXr) | [Marchi](https://open.spotify.com/artist/7CRrMfdafxOwlRt2lX8XZG) | [Un Desastre Que Te Encanta](https://open.spotify.com/album/1dgITywuFZgqfNji4OcxtE) | 2:17 | 2024-08-23 |  |
 | [Un día nos vamos a morir](https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Un día nos vamos a morir](https://open.spotify.com/album/6P91XazaPjqZRpRBldlNRy) | 4:02 | 2024-05-10 | 2024-07-06 |
 | [Un día nos vamos a morir](https://open.spotify.com/track/6mL6h0E5bxPdWcfe91fI8y) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 4:02 | 2024-06-21 |  |
 | [Un Largo Viaje](https://open.spotify.com/track/5ZlHWvyt2oSKEvEYPvXDvP) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Un Largo Viaje](https://open.spotify.com/album/1YU69lHJMWl1r6pGE6gr7X) | 2:38 | 2024-06-28 |  |

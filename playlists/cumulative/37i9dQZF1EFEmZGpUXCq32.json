@@ -147,6 +147,28 @@
     },
     {
       "album": {
+        "name": "Eternal Echoes",
+        "url": "https://open.spotify.com/album/6EM63wmKINZdwud5zUiOmb"
+      },
+      "artists": [
+        {
+          "name": "Sadhguru",
+          "url": "https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173559,
+      "name": "Be Or Busy (Mukthi)",
+      "url": "https://open.spotify.com/track/2WMQeI39yiHAy97t8V9IEo"
+    },
+    {
+      "album": {
         "name": "Best of Me",
         "url": "https://open.spotify.com/album/0SFLxkiRkdKuldGjLvlW7P"
       },
@@ -198,6 +220,24 @@
       "duration_ms": 203109,
       "name": "Black Man",
       "url": "https://open.spotify.com/track/5YeEoDVrHAMxkr415ZIGMx"
+    },
+    {
+      "album": {
+        "name": "Eternal Echoes",
+        "url": "https://open.spotify.com/album/6EM63wmKINZdwud5zUiOmb"
+      },
+      "artists": [
+        {
+          "name": "Sadhguru",
+          "url": "https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72509,
+      "name": "Blossoming",
+      "url": "https://open.spotify.com/track/5qLfXhIURYTGvXi0R3X65J"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,975 likes - 100 songs - 15 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,983 likes - 100 songs - 15 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 72 | [Eighthundred Streets by Feet \(Live in Hamburg\)](https://open.spotify.com/track/0JTGz6NuHb7cuLM5GEbMZw) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [e.s.t\. Live in Hamburg](https://open.spotify.com/album/3PU1b3aDrbMKucRulElluF) | 9:35 |
 | 73 | [Softly as in a Morning Sunrise \- Live at Lincoln Center](https://open.spotify.com/track/3UkNjYoO81SVJFNkrkkjgX) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [The Complete Last Concert](https://open.spotify.com/album/4SQ03iwnOPvzgClDLWS5oZ) | 6:26 |
 | 74 | [Deed I Do \- Live](https://open.spotify.com/track/1nyoQ2EEn4NifkFWGpYqwN) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Live In Paris](https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV) | 5:17 |
-| 75 | [After Hours \- Live At Smalls' Paradise, Harlem, NYC, 1957 / Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/1zCsqCHvdc1uLFNO10Onsz) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Groovin' At Small's Paradise \(Remastered 1999 / Rudy Van Gelder Edition\)](https://open.spotify.com/album/2TbQOjAog0PlzTM20EmK1k) | 10:58 |
+| 75 | [After Hours \- Live At Smalls' Paradise, Harlem, NYC, 1957 / Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/1zCsqCHvdc1uLFNO10Onsz) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Groovin' At Small's Paradise \- Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/album/2TbQOjAog0PlzTM20EmK1k) | 10:58 |
 | 76 | [But Not For Me \- Live](https://open.spotify.com/track/2YgzzUngwKJ193BuITI15o) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Up At Minton's](https://open.spotify.com/album/1G8ODQXuTjHPc0JXNHnT0m) | 11:29 |
 | 77 | [Take The A Train](https://open.spotify.com/track/10cg96POewnGipBTe4oM0j) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H), [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Cornell 1964](https://open.spotify.com/album/1x41adRv7tw6tr9LpbikRY) | 17:26 |
 | 78 | [Snowflakes And Sunshine \- Live At The Golden Circle, Stockholm/1965 / Remastered 1999](https://open.spotify.com/track/0vIj8yavF8QCq17FcidSZV) | [Ornette Coleman Trio](https://open.spotify.com/artist/0NRvpjoS4w3WdVSmkqSXgV) | [At The "Golden Circle" Stockholm Vol\. 2 \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/48SGjYTh92QLwPHngKf3Bs) | 10:42 |

@@ -2,7 +2,7 @@
 
 ### [This Is LEGADO 7](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tuRIA)
 
-> This is LEGADO 7\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is LEGADO 7\. The essential tracks, all in one playlist.
 
 68 songs - 3 hr 20 min
 

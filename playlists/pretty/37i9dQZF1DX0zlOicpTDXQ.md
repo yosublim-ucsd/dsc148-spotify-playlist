@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 
 > Listen to the official Netflix playlist featuring music from our holiday features and festive favorites from Netflix talent\. Cover: Brandy in Best\. Christmas\. Ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,256 likes - 27 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,254 likes - 27 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zlOicpTDXQ.md) - [plain]
 | 3 | [Everyday Will Be Like A Holiday \(from the Netflix Film "Good Grief"\)](https://open.spotify.com/track/5t9EKPIKia2UR1ciBPYycX) | [Good Grief \- Cast](https://open.spotify.com/artist/2PUfebyrUUsHeitajBQwrN) | [Everyday Will Be Like A Holiday \(from the Netflix Film "Good Grief"\)](https://open.spotify.com/album/2zbulrDfqdANNmQzqaO4tk) | 3:02 |
 | 4 | [Jingle Bell Rock \(from the Netflix Film "Falling For Christmas"\)](https://open.spotify.com/track/4KAPXkeYjookHj1SQzXkRE) | [Lindsay Lohan](https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF), [Ali Tomineek](https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM) | [Falling For Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI) | 2:56 |
 | 5 | [Jingle Bells](https://open.spotify.com/track/5BqPZ2JaPic94cybdSmh9h) | [Aliana Lohan](https://open.spotify.com/artist/1wPfaXhiaOzhtpCa52LRux) | [Falling For Christmas \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI) | 2:52 |
-| 6 | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/track/3pnmwhfvDzJtCVVpGug5Wo) | [Everly](https://open.spotify.com/artist/5QMHsP8RVHiuoiqhgOI6ud) | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/album/40XUWEzP3lS4i9jQzpAOOk) | 4:13 |
+| 6 | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/track/3pnmwhfvDzJtCVVpGug5Wo) | [Katelyn Epperly](https://open.spotify.com/artist/7oQ8kEmmPQd4wPMI6f7Hed) | [O Holy Night \(From the Netflix Original "A California Christmas"\)](https://open.spotify.com/album/40XUWEzP3lS4i9jQzpAOOk) | 4:13 |
 | 7 | [Christmas Without You](https://open.spotify.com/track/5dTaAzAttwilDZNwJuf6yN) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:54 |
 | 8 | [Sweet and Spicy](https://open.spotify.com/track/40ECVmoHRW55BEaf748aBk) | [Aimee Garcia](https://open.spotify.com/artist/44POz8zc5vKd1BlNQR7hs8) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:14 |
 | 9 | [Feliz Navidad Mi Amor](https://open.spotify.com/track/2R9qvrvVCmjbDWJt20W7XR) | [Jasmine Lopez](https://open.spotify.com/artist/0UciHsr8qC3FQYNswRPLmd) | [Christmas With You \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/2vV6PuFDaxyJaibJVVnXBB) | 2:41 |

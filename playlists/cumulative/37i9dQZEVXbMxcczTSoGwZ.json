@@ -10008,7 +10008,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -10554,7 +10554,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 141994,
       "name": "HARLEY QUINN (feat. Sara Bee)",
       "url": "https://open.spotify.com/track/22uV6ZbECEg11WqMSsFPpe"
@@ -14145,6 +14145,24 @@
     },
     {
       "album": {
+        "name": "Leski\u00e4idin Tytt\u00e4ret",
+        "url": "https://open.spotify.com/album/7l1F0i4LbAJue0fFcg9m0x"
+      },
+      "artists": [
+        {
+          "name": "PMMP",
+          "url": "https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295453,
+      "name": "Joku raja",
+      "url": "https://open.spotify.com/track/7meQV8OcOf9ZWYpK01JOqk"
+    },
+    {
+      "album": {
         "name": "Jolene (Vain el\u00e4m\u00e4\u00e4 kausi 14)",
         "url": "https://open.spotify.com/album/5ECoVo35ip0qhFXD72sxPZ"
       },
@@ -14446,6 +14464,24 @@
       "duration_ms": 187767,
       "name": "Jouluy\u00f6, juhlay\u00f6",
       "url": "https://open.spotify.com/track/3P1AC6uRKIrvCKQRYdlWS1"
+    },
+    {
+      "album": {
+        "name": "Kuulkaas Enot!",
+        "url": "https://open.spotify.com/album/0td98OkILwPLsqzC95k642"
+      },
+      "artists": [
+        {
+          "name": "PMMP",
+          "url": "https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250693,
+      "name": "Joutsenet",
+      "url": "https://open.spotify.com/track/0B6W9Dztl02TtvTYIhbcOs"
     },
     {
       "album": {
@@ -17094,7 +17130,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 159024,
       "name": "Kokonainen",
       "url": "https://open.spotify.com/track/2NAxJ9C0aUPsGTEwUfD8lN"
@@ -18830,7 +18866,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-14",
+      "date_removed": null,
       "duration_ms": 244973,
       "name": "Lautturi",
       "url": "https://open.spotify.com/track/0KYVxbgqJ3jLvBadFt4V97"
@@ -23222,7 +23258,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 193908,
       "name": "Momentti (feat. Costi)",
       "url": "https://open.spotify.com/track/2x4DoxpcqEUsfmEIKMd5hP"
@@ -26415,6 +26451,24 @@
     },
     {
       "album": {
+        "name": "Kovemmat K\u00e4det - Kumiversio",
+        "url": "https://open.spotify.com/album/2m4N0V7cTJZuqaMsNRbZej"
+      },
+      "artists": [
+        {
+          "name": "PMMP",
+          "url": "https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198653,
+      "name": "Oo siell\u00e4 jossain mun",
+      "url": "https://open.spotify.com/track/1LnIYqWfeWlDE78xA7yhBP"
+    },
+    {
+      "album": {
         "name": "Oo viel\u00e4 sekunnin mun",
         "url": "https://open.spotify.com/album/61ps2jEZg70QkxqoE0eTZO"
       },
@@ -27308,6 +27362,24 @@
       "duration_ms": 243419,
       "name": "Parisuhdehautausmaa",
       "url": "https://open.spotify.com/track/3pQzhjQKES7qGfAW1ROT4a"
+    },
+    {
+      "album": {
+        "name": "Veden varaan",
+        "url": "https://open.spotify.com/album/4YXxujpdWMUPdJJ7p7ejaS"
+      },
+      "artists": [
+        {
+          "name": "PMMP",
+          "url": "https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "Pariterapiaa",
+      "url": "https://open.spotify.com/track/33YLYgvtvj2RTab6aOUNpb"
     },
     {
       "album": {
@@ -30274,6 +30346,24 @@
       "duration_ms": 210911,
       "name": "Ruotsinlaiva",
       "url": "https://open.spotify.com/track/1TJZBnGcTwM89FoOBxuM87"
+    },
+    {
+      "album": {
+        "name": "Kuulkaas Enot!",
+        "url": "https://open.spotify.com/album/0td98OkILwPLsqzC95k642"
+      },
+      "artists": [
+        {
+          "name": "PMMP",
+          "url": "https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187173,
+      "name": "Rusketusraidat",
+      "url": "https://open.spotify.com/track/1CWByPTazwEnqfeC9FfdxA"
     },
     {
       "album": {
@@ -34656,7 +34746,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 178274,
       "name": "S\u00e4 voitit jo",
       "url": "https://open.spotify.com/track/47mdOZQXp6X0Pym3zKe4bR"
@@ -37358,7 +37448,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 148546,
       "name": "T\u00e4ydellinen",
       "url": "https://open.spotify.com/track/19mKgvz3lPyUJBXvnXXuvv"

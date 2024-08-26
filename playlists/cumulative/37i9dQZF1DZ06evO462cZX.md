@@ -2,7 +2,7 @@
 
 ### [This Is Deorro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO462cZX)
 
-> This Is Deorro\. Todas as faixas essenciais numa única playlist.
+> This Is Deorro\. Los temas esenciales, todos en una lista.
 
 53 songs - 2 hr 53 min
 

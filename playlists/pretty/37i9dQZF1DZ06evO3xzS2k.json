@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAADV0QeTjXO8HWEBAth8xJPS",
+  "snapshot_id": "ZskigAAAAABvn+vMzhUfxsVKCzNp7tiH",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 250096,
-      "name": "Famine Asylum",
-      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirr & Nothing",
         "url": "https://open.spotify.com/album/6pDNWot4SaDPtMLerJ3AFZ"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 280810,
       "name": "Chloroform",
       "url": "https://open.spotify.com/track/5zSoxwQtbUxyXegLpjttHV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 250096,
+      "name": "Famine Asylum",
+      "url": "https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 260458,
-      "name": "April Ha Ha",
-      "url": "https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirr & Nothing",
         "url": "https://open.spotify.com/album/6pDNWot4SaDPtMLerJ3AFZ"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 220245,
       "name": "July the Fourth",
       "url": "https://open.spotify.com/track/5jQMGmXgqIszqknvBA65fn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 260458,
+      "name": "April Ha Ha",
+      "url": "https://open.spotify.com/track/12XcQtzILF9FG7sMXLwcDb"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 230437,
-      "name": "Catch a Fade",
-      "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "When No Birds Sang",
         "url": "https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 324053,
       "name": "Like Stars In The Firmament",
       "url": "https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 230437,
+      "name": "Catch a Fade",
+      "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Dismal",
-        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 255274,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/1TG4piLlwdCJOQWpsnpLWm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 270565,
       "name": "Somersault",
       "url": "https://open.spotify.com/track/1X3RzfQtAcsj3K6QE9l9IO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Great Dismal",
+        "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 255274,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/1TG4piLlwdCJOQWpsnpLWm"
     },
     {
       "added_at": null,
@@ -291,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 242759,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Great Dismal",
         "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 247231,
       "name": "Bernie Sanders",
       "url": "https://open.spotify.com/track/5SQkUFHUn2Gsj5tfvNKoa0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guilty of Everything",
-        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 281004,
-      "name": "Hymn to the Pillory",
-      "url": "https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guilty of Everything",
+        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 281004,
+      "name": "Hymn to the Pillory",
+      "url": "https://open.spotify.com/track/5mR1Clx2pnR6RNSS0U3wq9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Great Dismal",
         "url": "https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 318709,
       "name": "In Blueberry Memories",
       "url": "https://open.spotify.com/track/3wjWNCX6ADU9NaOSoRZhSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guilty of Everything",
-        "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 242759,
-      "name": "Dig",
-      "url": "https://open.spotify.com/track/2jUvEnpLXGQh94Qoymx4P8"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Downward Years to Come",
-        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 284351,
-      "name": "Suns and Lovers",
-      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 177216,
       "name": "Bent Nail",
       "url": "https://open.spotify.com/track/7l3ccltGPIkcICT4u3Cko6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 284351,
+      "name": "Suns and Lovers",
+      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Downward Years to Come",
-        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 375933,
-      "name": "Mine Is Clouds",
-      "url": "https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 253664,
       "name": "Endlessly",
       "url": "https://open.spotify.com/track/7EzKrIF3T2XqUZfhnHw5CE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Downward Years to Come",
+        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
+      },
+      "artists": [
+        {
+          "name": "Nothing",
+          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
+        }
+      ],
+      "duration_ms": 375933,
+      "name": "Mine Is Clouds",
+      "url": "https://open.spotify.com/track/4yCLoPgF4fv3GRvwKOflMO"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Downward Years to Come",
-        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 308600,
-      "name": "Downward Years to Come",
-      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guilty of Everything",
         "url": "https://open.spotify.com/album/2bBtD1q0hKNztuOLGcToL6"
       },
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 158013,
-      "name": "The Dives (Lazarus in Ashes)",
-      "url": "https://open.spotify.com/track/2sEGs6OadzAdCKJV5GOzvD"
+      "duration_ms": 308600,
+      "name": "Downward Years to Come",
+      "url": "https://open.spotify.com/track/32UJl7FXThutfVf3QtBCwS"
     }
   ],
   "unique_name": "This Is Nothing",

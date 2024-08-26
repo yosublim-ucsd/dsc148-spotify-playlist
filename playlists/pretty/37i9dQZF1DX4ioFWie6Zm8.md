@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > Celebrating Ethiopian artistry with Samra Origins\. Crafted for your coffee moments by The Weeknd & Melaku Belay
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,566 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,636 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAADMQuuXrZVpX36+ttXNT09J",
+  "snapshot_id": "ZskigAAAAADVIajMCzLrPts6ElG3pNBb",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Redimido (Ao Vivo)",
         "url": "https://open.spotify.com/album/2LxF3P6SnsYgfyNdtWnIAt"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 347413,
       "name": "Redimido - Ao Vivo",
       "url": "https://open.spotify.com/track/5tQ86KVRFbsQp26LmDK5Yo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
     },
     {
       "added_at": null,
@@ -643,22 +643,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu \u00c9s Rei",
-        "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
+        "name": "Pai de Amor (Heavenly Father I Appreciate You) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4"
       },
       "artists": [
-        {
-          "name": "Arthur Callazans",
-          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
-        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 421395,
-      "name": "Tu \u00c9s Rei",
-      "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
+      "duration_ms": 245133,
+      "name": "Pai de Amor (Heavenly Father I Appreciate You) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N"
     },
     {
       "added_at": null,
@@ -679,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pai de Amor (Heavenly Father I Appreciate You) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1xHsDUSESGzPXKsxYOQUe4"
+        "name": "Tu \u00c9s Rei",
+        "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
       },
       "artists": [
+        {
+          "name": "Arthur Callazans",
+          "url": "https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS"
+        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 245133,
-      "name": "Pai de Amor (Heavenly Father I Appreciate You) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4y0lpqcs5nauOwJdP5Is9N"
+      "duration_ms": 421395,
+      "name": "Tu \u00c9s Rei",
+      "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
+        "url": "https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 366814,
+      "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
+      "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para as Na\u00e7\u00f5es (Ao Vivo)",
         "url": "https://open.spotify.com/album/45xFTnGfO5v7JcivCxUS9v"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 637600,
       "name": "Manto de Cristo",
       "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
-        "url": "https://open.spotify.com/album/2wQQRNr2M5AkXMTPK6nQ2h"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 366814,
-      "name": "Vem Quebra As Barreiras / Come And Tear Down The Walls",
-      "url": "https://open.spotify.com/track/1x1svONmCr8vlNnp3vwE2e"
     },
     {
       "added_at": null,

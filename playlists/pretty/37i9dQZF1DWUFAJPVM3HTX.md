@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35?si=rmUzRaJKSLOkd1etKCY7MA">CARI</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,591 likes - 253 songs - 12 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,668 likes - 253 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 160420,
+  "num_followers": 160442,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -1415,38 +1415,6 @@
     {
       "added_at": "2024-08-18 16:00:00",
       "album": {
-        "name": "1995",
-        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
-      },
-      "artists": [
-        {
-          "name": "Kruder & Dorfmeister",
-          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
-        }
-      ],
-      "duration_ms": 281730,
-      "name": "Love Hope Change",
-      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
-    },
-    {
-      "added_at": "2024-08-18 16:00:00",
-      "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "If You Think It's Love",
-      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
-    },
-    {
-      "added_at": "2024-08-18 16:00:00",
-      "album": {
         "name": "Easy (feat. 6LACK)",
         "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
       },
@@ -1467,6 +1435,22 @@
     {
       "added_at": "2024-08-18 16:00:00",
       "album": {
+        "name": "1995",
+        "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
+      },
+      "artists": [
+        {
+          "name": "Kruder & Dorfmeister",
+          "url": "https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L"
+        }
+      ],
+      "duration_ms": 281730,
+      "name": "Love Hope Change",
+      "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+    },
+    {
+      "added_at": "2024-08-18 16:00:00",
+      "album": {
         "name": "Don't Trust Myself",
         "url": "https://open.spotify.com/album/2VOZerWeIVjsvO68fJAZ65"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 169434,
       "name": "Don't Trust Myself",
       "url": "https://open.spotify.com/track/1eiDjkNOwX9LeSkSAGCA5a"
+    },
+    {
+      "added_at": "2024-08-18 16:00:00",
+      "album": {
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "If You Think It's Love",
+      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
     },
     {
       "added_at": "2024-08-18 16:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-08-18 16:00:00",
       "album": {
-        "name": "Temporary",
-        "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
-      },
-      "artists": [
-        {
-          "name": "Tim Schaufert",
-          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
-        }
-      ],
-      "duration_ms": 124811,
-      "name": "Temporary",
-      "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
-    },
-    {
-      "added_at": "2024-08-18 16:00:00",
-      "album": {
         "name": "NOT TOO DEEP (feat. 6LACK)",
         "url": "https://open.spotify.com/album/7vunoY8kfwitFWcNaPzqNj"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 288412,
       "name": "NOT TOO DEEP (feat. 6LACK)",
       "url": "https://open.spotify.com/track/2u925ft5mxwxYLhMQ7Sr72"
+    },
+    {
+      "added_at": "2024-08-18 16:00:00",
+      "album": {
+        "name": "Temporary",
+        "url": "https://open.spotify.com/album/7yrx1Kt6FdZXw7CBuj24TF"
+      },
+      "artists": [
+        {
+          "name": "Tim Schaufert",
+          "url": "https://open.spotify.com/artist/3PThWtcE0CEi5IUmfgTvrC"
+        }
+      ],
+      "duration_ms": 124811,
+      "name": "Temporary",
+      "url": "https://open.spotify.com/track/2cRahCZ2Zg5J8AM49CsEv6"
     },
     {
       "added_at": "2024-08-18 16:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-08-18 16:00:00",
       "album": {
-        "name": "seek",
-        "url": "https://open.spotify.com/album/64qXCWlGOwWxciqEPr3M2a"
-      },
-      "artists": [
-        {
-          "name": "53 Thieves",
-          "url": "https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K"
-        }
-      ],
-      "duration_ms": 170496,
-      "name": "seek",
-      "url": "https://open.spotify.com/track/493vav5k6NZa9Alre82l7z"
-    },
-    {
-      "added_at": "2024-08-18 16:00:00",
-      "album": {
         "name": "I WILL BE THE CAUSE OF OUR DEATH",
         "url": "https://open.spotify.com/album/2Es4yinpnkszumajLeesGb"
       },
@@ -1639,18 +1623,18 @@
     {
       "added_at": "2024-08-18 16:00:00",
       "album": {
-        "name": "Broken",
-        "url": "https://open.spotify.com/album/7gwLwpXQ7r8EJO8SCwyqlC"
+        "name": "seek",
+        "url": "https://open.spotify.com/album/64qXCWlGOwWxciqEPr3M2a"
       },
       "artists": [
         {
-          "name": "Lund",
-          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+          "name": "53 Thieves",
+          "url": "https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K"
         }
       ],
-      "duration_ms": 200597,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/1bfYB96c5U7eoCT5O9lVLN"
+      "duration_ms": 170496,
+      "name": "seek",
+      "url": "https://open.spotify.com/track/493vav5k6NZa9Alre82l7z"
     },
     {
       "added_at": "2024-08-18 16:00:00",
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2024-08-18 16:00:00",
       "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/7gwLwpXQ7r8EJO8SCwyqlC"
+      },
+      "artists": [
+        {
+          "name": "Lund",
+          "url": "https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR"
+        }
+      ],
+      "duration_ms": 200597,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/1bfYB96c5U7eoCT5O9lVLN"
+    },
+    {
+      "added_at": "2024-08-18 16:00:00",
+      "album": {
         "name": "Ambivalence",
         "url": "https://open.spotify.com/album/4llC8Vtw8LtJ5HWzVpb1fd"
       },
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-08-18 16:00:00",
       "album": {
-        "name": "Old Fashion Love",
-        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+        "name": "leave before u do",
+        "url": "https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh"
       },
       "artists": [
         {
-          "name": "Krista Monica",
-          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+          "name": "\u7fc1\u9756\u582fyao",
+          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
         }
       ],
-      "duration_ms": 209117,
-      "name": "Old Fashion Love",
-      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
+      "duration_ms": 182115,
+      "name": "leave before u do",
+      "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
     },
     {
       "added_at": "2024-08-18 16:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-08-18 16:00:00",
       "album": {
+        "name": "Old Fashion Love",
+        "url": "https://open.spotify.com/album/0dGTETDU3SsDY3iIrXqGG0"
+      },
+      "artists": [
+        {
+          "name": "Krista Monica",
+          "url": "https://open.spotify.com/artist/0PC42l4h2xINrF0wCqX6zz"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Old Fashion Love",
+      "url": "https://open.spotify.com/track/67XsleTtIj0qN1LcNfb9Jj"
+    },
+    {
+      "added_at": "2024-08-18 16:00:00",
+      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/0T57uRN9WnBm3J5V0qA4M9"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 179523,
       "name": "Cinema",
       "url": "https://open.spotify.com/track/6ejBx2l9eJr5n1V7t0WpCC"
-    },
-    {
-      "added_at": "2024-08-18 16:00:00",
-      "album": {
-        "name": "leave before u do",
-        "url": "https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh"
-      },
-      "artists": [
-        {
-          "name": "\u7fc1\u9756\u582fyao",
-          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
-        }
-      ],
-      "duration_ms": 182115,
-      "name": "leave before u do",
-      "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

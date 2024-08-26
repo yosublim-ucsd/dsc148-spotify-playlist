@@ -1,12 +1,12 @@
 {
   "description": "This Is Vilma Palma e Vampiros. Los temas esenciales, todos en una lista.",
-  "num_followers": 68814,
+  "num_followers": 68825,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAADSSE4ew2MXPCyBVMyJKuGl",
+  "snapshot_id": "ZskigAAAAADoumEv2+eQhIN1jm2AytME",
   "tracks": [
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Histeria",
+        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 257021,
+      "name": "La Noche Que Yo Te Vi",
+      "url": "https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psic\u00f3tico",
         "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 201596,
       "name": "Psic\u00f3tico",
       "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Histeria",
-        "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 257021,
-      "name": "La Noche Que Yo Te Vi",
-      "url": "https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9"
     },
     {
       "added_at": null,
@@ -731,42 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos en el Ascensor",
-        "url": "https://open.spotify.com/album/1YEs3YvLSfcVPXAaf7oo03"
-      },
-      "artists": [
-        {
-          "name": "Manu Pir\u00f3",
-          "url": "https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA"
-        },
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Besos en el Ascensor",
-      "url": "https://open.spotify.com/track/6VKNpxs7kYpDuynDozMj2a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Carcaman",
-      "url": "https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carm\u00edn",
         "url": "https://open.spotify.com/album/3prrhABxqvWUQ0WG80Fqyh"
       },
@@ -787,6 +751,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Carcaman",
+      "url": "https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Besos en el Ascensor",
+        "url": "https://open.spotify.com/album/1YEs3YvLSfcVPXAaf7oo03"
+      },
+      "artists": [
+        {
+          "name": "Manu Pir\u00f3",
+          "url": "https://open.spotify.com/artist/1RfOn1jpPuM4THF3zHKrJA"
+        },
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Besos en el Ascensor",
+      "url": "https://open.spotify.com/track/6VKNpxs7kYpDuynDozMj2a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA"
       },
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 257438,
-      "name": "Si Eso Te Pone Mejor",
-      "url": "https://open.spotify.com/track/1qVTpnGqccuRquqfGyvvBo"
+      "duration_ms": 203080,
+      "name": "Voy a Seguir Bailando",
+      "url": "https://open.spotify.com/track/6fOAa742Fu17tI39hrtnDN"
     },
     {
       "added_at": null,

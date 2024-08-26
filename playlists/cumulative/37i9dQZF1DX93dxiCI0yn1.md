@@ -4,7 +4,7 @@
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組「RAPSTAR 2024」歴代出場者、審査員の楽曲を特集。 Cover: Kohjiya
 
-286 songs - 13 hr 48 min
+288 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Motivation](https://open.spotify.com/track/5k6nZ4WsWPmWoCcp4UZHCk) | [Sadajyo](https://open.spotify.com/artist/0fDYQNROoU8HcirDMA1s4L), [Jeff Loik](https://open.spotify.com/artist/0U7hPN2sXJhXoQYR9nYeLd) | [Motivation](https://open.spotify.com/album/07H0yACN62c1QGEmJFbyzC) | 2:32 | 2023-10-24 | 2024-04-19 |
 | [My Resort](https://open.spotify.com/track/3qd8u4YSnr6RPkllSzG0O7) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Jungle](https://open.spotify.com/album/0kSvP9odX4TIVxVkVRgYjA) | 2:12 | 2023-10-24 | 2024-04-19 |
 | [My Resort](https://open.spotify.com/track/7p21ty59l7gtfhDX7rifLa) | [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Jungle](https://open.spotify.com/album/5qr3R4M52bfZ3PrgRiDjmM) | 2:12 | 2024-02-27 |  |
+| [My Verse](https://open.spotify.com/track/4mmV9ZNZY9SyaiSXmeutNK) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [My Verse](https://open.spotify.com/album/0ObZ3hwZsVI51HFMAxSkqI) | 2:55 | 2024-08-25 |  |
 | [NARI\-A\-GARI](https://open.spotify.com/track/1qu08a7i7udyKuzl1vN8tY) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [NARI\-A\-GARI](https://open.spotify.com/album/62chPPgbtNWbyCoaU4AsyR) | 2:45 | 2024-01-09 | 2024-04-19 |
 | [NARI\-A\-GARI](https://open.spotify.com/track/4tfnYfNlYOeezt5To5Sac4) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [NARI\-A\-GARI](https://open.spotify.com/album/01jfXrheSDcI0xByvwDusl) | 2:45 | 2024-02-27 | 2024-07-04 |
 | [NERI CHAGI](https://open.spotify.com/track/0vrN2s7LUuY7TG5FPws5k3) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [NERI CHAGI](https://open.spotify.com/album/0OvJuSW3hQL255V59TpOZA) | 2:42 | 2024-02-27 | 2024-07-04 |
@@ -280,6 +281,7 @@
 | [ブチ上げ戦隊](https://open.spotify.com/track/4rhmrNfQ3OvcIRqpEtMDo1) | [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R), [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [ブチ上げ戦隊](https://open.spotify.com/album/0yut5m07xsoOC8OlM9yBTg) | 4:01 | 2024-02-27 | 2024-07-04 |
 | [ラップスタアCYPHER](https://open.spotify.com/track/6tyrKXMRwlMgnysMZQLmUB) | [ニートtokyo](https://open.spotify.com/artist/5GCIYIRFmchxqFAIwaKF4r), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [Seann Bowe](https://open.spotify.com/artist/4hgt99SPkxLoBYMVHs88uz), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [Myghty Tommy](https://open.spotify.com/artist/4jqLZ8fErX4bAamCiKngKk), [999dobby](https://open.spotify.com/artist/1JUeTjci5VPfOW2myLu8Tc), [Spada](https://open.spotify.com/artist/2bkUNcBS4bP8AIodraQqz7), [Whoopee Bomb](https://open.spotify.com/artist/6RKtwqOBWohO7mOrmSA6g3) | [ラップスタアCYPHER](https://open.spotify.com/album/309wMEYXeBdFAHpJM5xrM4) | 3:59 | 2024-02-27 |  |
 | [初雪](https://open.spotify.com/track/0KFi63mLAZSrnUFF3owZmZ) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [Tade Dust](https://open.spotify.com/artist/2pxHWQNVmLCr3HnSqFk5IH) | [初雪](https://open.spotify.com/album/180pc7HqajMlBVYzFm9QYm) | 2:57 | 2024-02-27 | 2024-07-04 |
+| [右に回すKey](https://open.spotify.com/track/3J5QUv57nXeHPvS7bF7NTb) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C) | [右に回すKey](https://open.spotify.com/album/0pgbsmwK3HeO6cWK0zaHlg) | 1:40 | 2024-08-25 |  |
 | [夜間飛行](https://open.spotify.com/track/6046kL1COPAEedSTvKe3T3) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB), [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [28](https://open.spotify.com/album/1D3RwnWjS0DE3l5HPG7qBG) | 3:23 | 2024-07-04 |  |
 | [愛](https://open.spotify.com/track/3tkkfBfQUvxRGJl2DFtBzb) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY) | [愛](https://open.spotify.com/album/6RGn3r2EhbosMPYYkTqKcT) | 4:08 | 2024-02-27 | 2024-07-04 |
 | [正夢](https://open.spotify.com/track/75oFQY95GilHqIMQYAWItl) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [正夢](https://open.spotify.com/album/5KM1cPxjzMu9WRP4skATa7) | 2:45 | 2024-07-04 |  |

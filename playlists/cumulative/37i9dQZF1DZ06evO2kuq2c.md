@@ -2,7 +2,7 @@
 
 ### [This Is Architects](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kuq2c)
 
-> This Is Architects\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Architects\. The essential tracks, all in one playlist.
 
 66 songs - 4 hr 13 min
 

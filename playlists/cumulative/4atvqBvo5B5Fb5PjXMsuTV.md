@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 24 Aug 16:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 26 Aug 22:02 UTC.
 
-1,891 songs - 4 day 9 hr 9 min
+1,893 songs - 4 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Anhedonia II](https://open.spotify.com/track/68wV6l0woKlHHGiZ9hdhxz) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh), [Dirty Art Club](https://open.spotify.com/artist/2DcAdoxP41GECOfZt2MhQL) | [Anhedonia II b/w Ecstasy Cowgirl](https://open.spotify.com/album/2Y0HcZRxb8s0GRXa8EeQCg) | 2:39 | 2024-08-12 | 2024-08-16 |
 | [ANIMETAL](https://open.spotify.com/track/0ZooLmoCBKZEhNDeefFz3G) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [ANIMETAL](https://open.spotify.com/album/6tJO6gje8IIuMdy3bSOfsT) | 3:53 | 2024-05-23 | 2024-05-25 |
 | [Ankaran](https://open.spotify.com/track/6oXl3uSpSodmkClmCP16Nt) | [Hiljson Mandela](https://open.spotify.com/artist/05RXYlsCKzkb418GEvYCip), [Biba](https://open.spotify.com/artist/2AVWBp9fVh1GOCQflKM7wo) | [Ankaran](https://open.spotify.com/album/08n7jrfr0xzBjE7PvpgY1S) | 2:08 | 2024-05-16 | 2024-05-18 |
+| [ANOINTING \(FALL ON ME\)](https://open.spotify.com/track/2MYh0CcF8dGciG2JoZtAX7) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Ivory Nwigwe](https://open.spotify.com/artist/3rqdCc8vGRGq7RUwHRCOBJ), [Yael Hilton](https://open.spotify.com/artist/3Gl0EmGURWi1cO7N9GXIwF) | [ANOINTING \(FALL ON ME\)](https://open.spotify.com/album/7jxkQioIJb8LrVQZpe3u4w) | 1:39 | 2024-08-25 |  |
 | [Anti\-Spirit Machine](https://open.spotify.com/track/0RwqJdZbJJu2lb11aqOtjv) | [Umbra Vitae](https://open.spotify.com/artist/340Q4BNeDs4ePSpBii4yRa) | [Anti\-Spirit Machine](https://open.spotify.com/album/05CgxQlWiDMyNufNLzeD9q) | 3:40 | 2024-05-21 | 2024-05-23 |
 | [Antimatter Animals](https://open.spotify.com/track/4iY1wt0PEBkRCiaYpIVi1a) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Antimatter Animals](https://open.spotify.com/album/721cTEZTqrcXWaASTmGpr9) | 5:04 | 2024-07-17 | 2024-07-19 |
 | [Anxiety](https://open.spotify.com/track/1lZkGr8MRb1tTsSbpV7zO5) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Anxiety](https://open.spotify.com/album/4CzCtsPM1jOgMW2grZHah6) | 3:28 | 2024-06-06 | 2024-06-09 |
@@ -224,7 +225,7 @@
 | [BongoFeet](https://open.spotify.com/track/2uPXNt81wLgxPSSEmM8U7E) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Bonus Traxxx Pt\. 1](https://open.spotify.com/album/2EgfITIBIu8rYxT1ry2bwx) | 1:24 | 2024-06-19 | 2024-06-21 |
 | [Boo Hoo no Ice Cream for You](https://open.spotify.com/track/3VzIRpW0Q1DtYTc33VtYK0) | [Richard Lindesay](https://open.spotify.com/artist/3FgdgjgpM1qY1UQeUY4UEu) | [Boo Hoo no Ice Cream for You](https://open.spotify.com/album/4YtufkXHY2yzY14FYaVXVZ) | 1:50 | 2024-05-09 | 2024-05-11 |
 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 | 2024-08-21 | 2024-08-24 |
-| [BOOGIE MAN](https://open.spotify.com/track/0Xs9c3ZHD0Ni4fgIFmtl2f) | [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [BOOGIE MAN](https://open.spotify.com/album/1hrsJ0DZJPGnOdWhnuVacj) | 2:49 | 2024-08-23 |  |
+| [BOOGIE MAN](https://open.spotify.com/track/0Xs9c3ZHD0Ni4fgIFmtl2f) | [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [BOOGIE MAN](https://open.spotify.com/album/1hrsJ0DZJPGnOdWhnuVacj) | 2:49 | 2024-08-23 | 2024-08-26 |
 | [BOOM BAP](https://open.spotify.com/track/2CpQjdYa6NunbPzGUteF4i) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/6kQ44jxgMNT1Rn8o1kuIB1) | 2:14 | 2024-08-23 |  |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-07 | 2024-05-10 |
 | [BOOOOOORING](https://open.spotify.com/track/70o4Z35wOgtzQEAxLZuPtc) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2) | [BOOOOOORING](https://open.spotify.com/album/6VXCZBD2Hn005pri5hmwKg) | 2:56 | 2024-08-20 | 2024-08-23 |
@@ -692,6 +693,7 @@
 | [Hallelujah!](https://open.spotify.com/track/7lbPVYxNxuQMdDpC4lwv5n) | [Haich Ber Na](https://open.spotify.com/artist/5W4B7OYk43jiH6qLcZ66Qd), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [Hallelujah!](https://open.spotify.com/album/5X6t1Y5kuS47gJSwfrAEH0) | 2:37 | 2024-08-07 | 2024-08-09 |
 | [Hallways Engraved in Aether](https://open.spotify.com/track/7e5g84gNIAqmsVhn3aXWmR) | [Cosmic Putrefaction](https://open.spotify.com/artist/7w2cQkraSNaYeHe5nHgvA8) | [Hallways Engraved in Aether](https://open.spotify.com/album/2qzhdnUdu7sFzQuR7YKO5G) | 5:02 | 2024-08-08 | 2024-08-10 |
 | [Hands of Sin](https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Hands of Sin](https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW) | 3:56 | 2024-06-11 | 2024-06-13 |
+| [Hands On Me](https://open.spotify.com/track/2fH5XIWwKGRp5cX0K7JHsW) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Hands On Me](https://open.spotify.com/album/5NOZLcuyGbB7YSD19hYiR9) | 2:21 | 2024-08-25 |  |
 | [Hanging from the Ceiling](https://open.spotify.com/track/66DDx6xdVC0SqHFCardl5a) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [irichan!](https://open.spotify.com/artist/0hk7xvuMOqeUb0MWDkWwH6) | [Hanging from the Ceiling](https://open.spotify.com/album/7f8TqbOhjME7h1EZtjxSc9) | 2:22 | 2024-07-29 | 2024-08-01 |
 | [Happy](https://open.spotify.com/track/6ztjccAfxl3jVmvujjSUyI) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD), [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Happy](https://open.spotify.com/album/0W0yP0NOGxtwi2UEeWhk2K) | 2:59 | 2024-07-26 | 2024-07-29 |
 | [Happy End](https://open.spotify.com/track/17uySRQWwAywJUkolHcfmB) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Happy End](https://open.spotify.com/album/1eoT7Sxn9TWjCNOOja8dss) | 3:52 | 2024-06-24 | 2024-06-26 |
@@ -1164,7 +1166,7 @@
 | [Omg Im so Sexy, I Might Come..](https://open.spotify.com/track/3cDdwrxJQVArqvDUH6WCjg) | [Acidgvrl](https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f), [Yûmi](https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni) | [Omg Im so Sexy, I Might Come..](https://open.spotify.com/album/2XheIgYzSigdFekFhP8I0N) | 3:00 | 2024-05-15 | 2024-05-17 |
 | [On My Scars \(feat.Lil Cherry, Dbo\)](https://open.spotify.com/track/2nRXFF4FE6NhUo0Sy6uCBS) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [On My Scars \(feat.Lil Cherry, Dbo\)](https://open.spotify.com/album/5ffj6G6sXr3NXtlQFnUybz) | 3:18 | 2024-06-26 | 2024-06-29 |
 | [On The Other Side \(FNAF: Into The Pit Song\)](https://open.spotify.com/track/0gcyVffFXCdlOm5IYbMk3z) | [LongestSoloEver](https://open.spotify.com/artist/3wXWn4QQgUFF39bpLzlzca), [KryFuZe](https://open.spotify.com/artist/3Lh4732M2pvWBoMljgh0P2), [McGwire](https://open.spotify.com/artist/411VUMJLq5DVLoU7OaBwk7) | [On The Other Side \(FNAF: Into The Pit Song\)](https://open.spotify.com/album/2viGcebaGs6zDUmPQ43407) | 3:28 | 2024-08-11 | 2024-08-15 |
-| [ON THE RADAR FREESTYLE](https://open.spotify.com/track/3mgGp6fvyUyL8HG134Q5gs) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [ON THE RADAR](https://open.spotify.com/album/1cB0DhvXleoiFTr1NCb1yP) | 2:15 | 2024-08-23 |  |
+| [ON THE RADAR FREESTYLE](https://open.spotify.com/track/3mgGp6fvyUyL8HG134Q5gs) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [ON THE RADAR](https://open.spotify.com/album/1cB0DhvXleoiFTr1NCb1yP) | 2:15 | 2024-08-23 | 2024-08-26 |
 | [On This Hill](https://open.spotify.com/track/1Ai4EnJN4sywxcj8KOmIgb) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [On This Hill](https://open.spotify.com/album/5StpVKqlHLWZwdlivpSMpo) | 4:26 | 2024-05-18 | 2024-05-22 |
 | [ON TOP](https://open.spotify.com/track/5KepvXFGbPWh8lg3UgYz8K) | [Мэйби Бэйби](https://open.spotify.com/artist/2u3ZpvdeLOLg3mIvQg0jZh) | [ON TOP](https://open.spotify.com/album/6IjOPaLc7SCH2xsHiN0jzq) | 2:44 | 2024-08-23 |  |
 | [On Up](https://open.spotify.com/track/6TMw0HVbDdoS6yhr8x9Ajt) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [On Up](https://open.spotify.com/album/1YsRbyBRGuZ3lxSThBpiLk) | 2:30 | 2024-08-02 | 2024-08-08 |

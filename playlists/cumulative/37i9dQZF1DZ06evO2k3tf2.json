@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-06-01",
-  "description": "This Is Twenty One Pilots. Los temas esenciales, todos en una lista.",
+  "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
   "name": "This Is Twenty One Pilots",
   "tracks": [
     {
@@ -952,7 +952,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 213200,
       "name": "The Pantaloon",
       "url": "https://open.spotify.com/track/6QOZWUCG5vq4xtU3mW2ZA2"

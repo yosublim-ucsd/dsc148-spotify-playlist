@@ -1,12 +1,12 @@
 {
   "description": "This Is Ken Carson. Los temas esenciales, todos en una lista.",
-  "num_followers": 27472,
+  "num_followers": 27543,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAACUhe9VQmh9wloCckZpxWTx",
+  "snapshot_id": "ZskigAAAAAAvTjF48aKLkPm0aHV0rRWY",
   "tracks": [
     {
       "added_at": null,
@@ -510,15 +510,11 @@
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
         }
       ],
-      "duration_ms": 165411,
-      "name": "Delinquent (feat. Homixide Gang)",
-      "url": "https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE"
+      "duration_ms": 169889,
+      "name": "New",
+      "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
     },
     {
       "added_at": null,
@@ -578,11 +574,15 @@
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Homixide Gang",
+          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
         }
       ],
-      "duration_ms": 169889,
-      "name": "New",
-      "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
+      "duration_ms": 165411,
+      "name": "Delinquent (feat. Homixide Gang)",
+      "url": "https://open.spotify.com/track/1PUwCOtQUOZrjAp8ljxGhE"
     },
     {
       "added_at": null,

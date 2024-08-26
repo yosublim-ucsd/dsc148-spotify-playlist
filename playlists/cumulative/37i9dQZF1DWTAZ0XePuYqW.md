@@ -2,7 +2,7 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> That's that big energy\. Cover: DijahSB
+> That's that big energy\. Cover: LION BABE
 
 371 songs - 18 hr 17 min
 

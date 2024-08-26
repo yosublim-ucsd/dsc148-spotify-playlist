@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-975 songs - 2 day 21 hr 56 min
+976 songs - 2 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [20211130](https://open.spotify.com/track/47LxyN0FVTAxSemYRpGFYr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4) | 5:22 | 2023-04-14 |  |
 | [2089](https://open.spotify.com/track/1GRCByxCunaOyOVJhvaZZ6) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [2089](https://open.spotify.com/album/5tPSYbr95QufQfHA28E2gF) | 2:34 | 2020-08-26 | 2020-10-22 |
 | [21](https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [In The Sweetness of You](https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq) | 3:53 | 2021-11-12 | 2022-07-29 |
+| [222](https://open.spotify.com/track/5lISsyJA9NvFiLLxybX41C) | [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [222](https://open.spotify.com/album/7aPp4vsVjxDOjMzGR1gizf) | 2:22 | 2024-08-23 |  |
 | [2:16](https://open.spotify.com/track/3OCqCbQUhcol3nYAbVhAfV) | [HVOB](https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa) | [2:16](https://open.spotify.com/album/1xwLDnmx4ABFLT9tv2LucN) | 7:54 | 2022-01-14 | 2024-05-10 |
 | [3.15](https://open.spotify.com/track/2LeFDM4wihSc81SgkwwIdQ) | [Yushh](https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew) | [Shouts 2021](https://open.spotify.com/album/2diCd6qJq3O0u29AWfPeJW) | 5:07 | 2021-10-01 | 2022-04-19 |
 | [31 Bloom](https://open.spotify.com/track/6oTshmafPagXMEZeLBzc6Y) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 5:52 | 2024-03-15 | 2024-04-19 |
@@ -472,7 +473,7 @@
 | [Leaves Against The Sky](https://open.spotify.com/track/0ZVzN7tnseNSxtnAhTNK39) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 4:38 | 2020-10-23 | 2022-11-17 |
 | [Leaving](https://open.spotify.com/track/67zRyxMsahqZKFBZ65Dbje) | [Murtagh](https://open.spotify.com/artist/4cpTlyZCR7ed2g4WG8gUDf) | [Rush / Leaving](https://open.spotify.com/album/5mChkbJAUSBmR9eep9TWV0) | 4:25 | 2020-01-18 |  |
 | [Leaving Earth](https://open.spotify.com/track/5TiJIieCsjUMFbQJiYUOwH) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp) | [Creation](https://open.spotify.com/album/759sclnD3ycdQqfjMpmnl4) | 7:06 | 2019-05-26\* | 2020-06-12 |
-| [Leaving Earth 2](https://open.spotify.com/track/0u74chsSgmcIyhhOqTrEyV) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:13 | 2019-06-19\* |  |
+| [Leaving Earth 2](https://open.spotify.com/track/0u74chsSgmcIyhhOqTrEyV) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:13 | 2019-06-19\* | 2024-08-26 |
 | [Left Behind](https://open.spotify.com/track/0mkR9v0jfXU7uf7sednDbm) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Left Behind](https://open.spotify.com/album/0YIXc0vszubi1lt09JKRZb) | 2:31 | 2024-04-19 |  |
 | [Leftovers](https://open.spotify.com/track/5KDcDThWtlOOcEncBmseAw) | [Akın Sevgör](https://open.spotify.com/artist/586eJg9tmYDLSahAhozZBo) | [Reveries](https://open.spotify.com/album/3lcsRejIVqC2ZzgohbS9X1) | 3:01 | 2024-04-19 |  |
 | [Let You](https://open.spotify.com/track/3mZUPucA0LcSKoZbLHRhyY) | [Autumn Glow](https://open.spotify.com/artist/4VlqUkFSCfcGj6CpDMPd0b) | [Let You](https://open.spotify.com/album/2KupnIXyKS0Mprddu9on23) | 3:26 | 2021-09-10 | 2024-06-03 |

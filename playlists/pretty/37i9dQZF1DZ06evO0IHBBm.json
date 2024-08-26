@@ -1,12 +1,12 @@
 {
-  "description": "This is Damares. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 29721,
+  "description": "This is Damares. The essential tracks, all in one playlist.",
+  "num_followers": 29726,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAAACyHzAzaODueKgWdLluI71",
+  "snapshot_id": "ZskigAAAAAAG1PYZZMiAhyR2ACS9IbpN",
   "tracks": [
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 267264,
-      "name": "\u00c9s Maior",
-      "url": "https://open.spotify.com/track/0cPy3Yr05gh3G8dTpzMGDR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Isso Vai Passar (Ao Vivo)",
         "url": "https://open.spotify.com/album/45U92rIVHr0cmdz8G422VS"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 278000,
       "name": "Tudo Isso Vai Passar - Ao Vivo",
       "url": "https://open.spotify.com/track/5EJIAQL7BEMaznS7xlCEyH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 267264,
+      "name": "\u00c9s Maior",
+      "url": "https://open.spotify.com/track/0cPy3Yr05gh3G8dTpzMGDR"
     }
   ],
   "unique_name": "This Is Damares",

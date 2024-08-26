@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Qu\u00e9 rico el mambo! Cover: Machito",
-  "num_followers": 108182,
+  "num_followers": 108224,
   "original_name": "Mambo Classics",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
+        "name": "Mambo No 5",
+        "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Mambo Jambo",
+      "url": "https://open.spotify.com/track/5RZ0Y8ae2DuIBPRNjVGkch"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
         "name": "El Manisero",
         "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 169546,
       "name": "Sasauma - Mambo",
       "url": "https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
-        "name": "Mambo No 5",
-        "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Mambo Jambo",
-      "url": "https://open.spotify.com/track/5RZ0Y8ae2DuIBPRNjVGkch"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
-        "name": "Two Brothers Two Legends",
-        "url": "https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh"
-      },
-      "artists": [
-        {
-          "name": "Charlie Palmieri",
-          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
-        }
-      ],
-      "duration_ms": 326560,
-      "name": "Buchipluma Na' Ma'",
-      "url": "https://open.spotify.com/track/66eyTpvxV8aMlyR1gN6XHt"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
         "name": "Dance Mania Vol.1",
         "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 155693,
       "name": "El Cayuco",
       "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
+        "name": "Two Brothers Two Legends",
+        "url": "https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh"
+      },
+      "artists": [
+        {
+          "name": "Charlie Palmieri",
+          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
+        }
+      ],
+      "duration_ms": 326560,
+      "name": "Buchipluma Na' Ma'",
+      "url": "https://open.spotify.com/track/66eyTpvxV8aMlyR1gN6XHt"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
-        "name": "Mi Amigo, Machito",
-        "url": "https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA"
       },
       "artists": [
         {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+          "name": "Joe Cuba",
+          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
         }
       ],
-      "duration_ms": 196920,
-      "name": "Si Si No No",
-      "url": "https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ"
+      "duration_ms": 334813,
+      "name": "El Pito (I'll Never Go Back to Georgia)",
+      "url": "https://open.spotify.com/track/3PDGbCcg4vX8Jb2upTWkCJ"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7oA3AvSErky8lkeckVMazA"
+        "name": "Mi Amigo, Machito",
+        "url": "https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap"
       },
       "artists": [
         {
-          "name": "Joe Cuba",
-          "url": "https://open.spotify.com/artist/5MlfccEEOw6kihsT8eQtbh"
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
         }
       ],
-      "duration_ms": 334813,
-      "name": "El Pito (I'll Never Go Back to Georgia)",
-      "url": "https://open.spotify.com/track/3PDGbCcg4vX8Jb2upTWkCJ"
+      "duration_ms": 196920,
+      "name": "Si Si No No",
+      "url": "https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
+        "name": "Latin Cool Classics: Orlando Marin",
+        "url": "https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C"
+      },
+      "artists": [
+        {
+          "name": "Orlando Marin",
+          "url": "https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID"
+        }
+      ],
+      "duration_ms": 275373,
+      "name": "Mi Jebita",
+      "url": "https://open.spotify.com/track/4F61RgPzonj7SbUWNNU2zy"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
         "name": "Dance Mania Vol.1",
         "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 204666,
       "name": "Bochinchosa",
       "url": "https://open.spotify.com/track/1OTMZw6yLNNbhTYVHiuRCu"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
-        "name": "Latin Cool Classics: Orlando Marin",
-        "url": "https://open.spotify.com/album/6fVhJKYknI5k9TZAWSDe8C"
-      },
-      "artists": [
-        {
-          "name": "Orlando Marin",
-          "url": "https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Mi Jebita",
-      "url": "https://open.spotify.com/track/4F61RgPzonj7SbUWNNU2zy"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
+        "name": "Tito Rodriguez - El Inolvidable",
+        "url": "https://open.spotify.com/album/2zD0H7q9bIaNpV13cMOSUg"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "La Toalla",
+      "url": "https://open.spotify.com/track/1WEmO61PSlFO9JsdQDPJ9Z"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
         "name": "Tremendo Cumban",
         "url": "https://open.spotify.com/album/23wAEElHdElCQP9UWIMSKF"
       },
@@ -663,6 +679,22 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
+        "name": "Latin Lounge Jazz Harlem",
+        "url": "https://open.spotify.com/album/0KA4fXFk0zfJOUDfSWCgke"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "Asia Minor",
+      "url": "https://open.spotify.com/track/5BgI3nVJIKr5iXaSbNkDal"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
         "name": "Separala Tambien! Cantando Tito Rodriguez",
         "url": "https://open.spotify.com/album/76MKCcPx39MzFBXoBDygQa"
       },
@@ -675,22 +707,6 @@
       "duration_ms": 161174,
       "name": "Separala Tambien",
       "url": "https://open.spotify.com/track/5eok99TWxCCskPsK9p3jI9"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
-        "name": "Tito Rodriguez - El Inolvidable",
-        "url": "https://open.spotify.com/album/2zD0H7q9bIaNpV13cMOSUg"
-      },
-      "artists": [
-        {
-          "name": "Tito Rodriguez",
-          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
-        }
-      ],
-      "duration_ms": 172200,
-      "name": "La Toalla",
-      "url": "https://open.spotify.com/track/1WEmO61PSlFO9JsdQDPJ9Z"
     },
     {
       "added_at": "2024-07-12 19:25:11",
@@ -711,38 +727,6 @@
     {
       "added_at": "2024-07-12 19:25:11",
       "album": {
-        "name": "Latin Lounge Jazz Harlem",
-        "url": "https://open.spotify.com/album/0KA4fXFk0zfJOUDfSWCgke"
-      },
-      "artists": [
-        {
-          "name": "Machito",
-          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "Asia Minor",
-      "url": "https://open.spotify.com/track/5BgI3nVJIKr5iXaSbNkDal"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
-        "name": "El Virtuoso",
-        "url": "https://open.spotify.com/album/0dXASdxVKVkeHjrAnVgDdX"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 574933,
-      "name": "Azucar",
-      "url": "https://open.spotify.com/track/1t7RAMd4UTk7ZV6d2bsht8"
-    },
-    {
-      "added_at": "2024-07-12 19:25:11",
-      "album": {
         "name": "Fania Classics",
         "url": "https://open.spotify.com/album/5ZWa8mkn4xiKkF2iVDbWX9"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 164986,
       "name": "La Guarachera",
       "url": "https://open.spotify.com/track/3cSDem58zQegVmYCBEQgnL"
+    },
+    {
+      "added_at": "2024-07-12 19:25:11",
+      "album": {
+        "name": "El Virtuoso",
+        "url": "https://open.spotify.com/album/0dXASdxVKVkeHjrAnVgDdX"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 574933,
+      "name": "Azucar",
+      "url": "https://open.spotify.com/track/1t7RAMd4UTk7ZV6d2bsht8"
     },
     {
       "added_at": "2024-07-12 19:25:11",

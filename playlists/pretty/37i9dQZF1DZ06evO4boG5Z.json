@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 27961,
+  "num_followers": 27963,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAACCxJAFL7P+OrPHPERqAUOa",
+  "snapshot_id": "ZskigAAAAADJDSjUslSjMP9266qErUR2",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life On A Plate",
-        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 176493,
-      "name": "Olympic",
-      "url": "https://open.spotify.com/track/6xbmKbE9Z2Xot1oTyTxaYm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Brew",
         "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 147493,
       "name": "Bring Me Home",
       "url": "https://open.spotify.com/track/3LZEfNShP0RjbHyd9vXQ2m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life On A Plate",
+        "url": "https://open.spotify.com/album/0tQ718umTjsCREI5wRXUhY"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 176493,
+      "name": "Olympic",
+      "url": "https://open.spotify.com/track/6xbmKbE9Z2Xot1oTyTxaYm"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingwood",
         "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 132333,
       "name": "Mooseman's Jukebox",
       "url": "https://open.spotify.com/track/2NyFl9B9hhWdQ2IcLjo2VT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Melancholy Collection",
-        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 109693,
-      "name": "Vixen",
-      "url": "https://open.spotify.com/track/5EBKNotjiE8N7pkOCvPjrk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kingwood",
         "url": "https://open.spotify.com/album/0GBinFgv2QoF7O2Pjm6GuV"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 138002,
       "name": "Biftek Supernova",
       "url": "https://open.spotify.com/track/5Le0pa8qEQSFFQn1H3sLLK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Melancholy Collection",
+        "url": "https://open.spotify.com/album/067QwBKRZ6DoF2X4ZT4S2V"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 109693,
+      "name": "Vixen",
+      "url": "https://open.spotify.com/track/5EBKNotjiE8N7pkOCvPjrk"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:3zDRCqOhJXJfS2YWOEwGMC">Christopher</a>: It could have been us 🥲 kender følelsen ❤️‍🩹
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,058 likes - 93 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,061 likes - 93 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

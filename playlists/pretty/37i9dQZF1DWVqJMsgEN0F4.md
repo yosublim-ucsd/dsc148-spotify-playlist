@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 ### [ALT NOW](https://open.spotify.com/playlist/37i9dQZF1DWVqJMsgEN0F4)
 
-> blink\-182 long with the hottest alternative songs right now.
+> blink\-182 along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,844 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,962 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 74 | [Bad Luck](https://open.spotify.com/track/1Ln6nNE0NKKCEmxSkBNGsT) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Bad Luck](https://open.spotify.com/album/1nX5ipB1JDiptJyxwt4gTO) | 3:22 |
 | 75 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 |
 
-Snapshot ID: `ZsgJQAAAAADenhrHgNLspCu0cHMVITG1`
+Snapshot ID: `ZsuSDAAAAAARpNOrJR7KpWa/Mbu3Tp22`

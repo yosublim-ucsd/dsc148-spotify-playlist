@@ -2,7 +2,7 @@
 
 ### [This Is mxmtoon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0lGcr7)
 
-> This is mxmtoon\. The essential tracks, all in one playlist.
+> This is: mxmtoon\. Alle wichtigen Tracks in einer Playlist.
 
 83 songs - 4 hr 24 min
 

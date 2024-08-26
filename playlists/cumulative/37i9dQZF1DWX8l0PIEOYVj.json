@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 206390,
       "name": "A Mere Blip In Your Timeline",
       "url": "https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG"
@@ -13790,6 +13790,28 @@
       "duration_ms": 211862,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/493ydMYkpqzzn69ztUszv3"
+    },
+    {
+      "album": {
+        "name": "Where We Begin",
+        "url": "https://open.spotify.com/album/1oZ9rIZfHUYdUN4Gcyz731"
+      },
+      "artists": [
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        },
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254781,
+      "name": "Where We Begin",
+      "url": "https://open.spotify.com/track/6rf680mAgiGns6trRbEJ3g"
     },
     {
       "album": {

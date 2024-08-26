@@ -1,6 +1,6 @@
 {
   "description": "Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'. Pos\u0142uchaj zwyci\u0119zc\u00f3w oraz wszystkich nominowanych na jednej playli\u015bcie. ",
-  "num_followers": 10279,
+  "num_followers": 10276,
   "original_name": "Popkillery 2024: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -759,46 +759,6 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
-        "name": "ZAZA",
-        "url": "https://open.spotify.com/album/3Ah9Cw7kcEYmCTf7L5iF9M"
-      },
-      "artists": [
-        {
-          "name": "Aleshen",
-          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "ZAZA",
-      "url": "https://open.spotify.com/track/7ikCNXfGAaDp0sGCyp1jJj"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
-        "name": "nigdy wi\u0119cej 2022",
-        "url": "https://open.spotify.com/album/4Zh0KGSolRFUL55kEnsNJ5"
-      },
-      "artists": [
-        {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb"
-        },
-        {
-          "name": "Bia\u0142as",
-          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
-        },
-        {
-          "name": "SB Maffija",
-          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "nigdy wi\u0119cej 2022",
-      "url": "https://open.spotify.com/track/6BCqzFZ2is57XTs2kSMVWq"
-    },
-    {
-      "added_at": "2024-02-27 08:21:33",
-      "album": {
         "name": "Mam Ci\u0119",
         "url": "https://open.spotify.com/album/0wMWyIDW56FjxvAmFrBI0V"
       },
@@ -823,6 +783,22 @@
     {
       "added_at": "2024-02-27 08:21:33",
       "album": {
+        "name": "ZAZA",
+        "url": "https://open.spotify.com/album/3Ah9Cw7kcEYmCTf7L5iF9M"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "ZAZA",
+      "url": "https://open.spotify.com/track/7ikCNXfGAaDp0sGCyp1jJj"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
         "name": "Stary Pezet (klasyczny)",
         "url": "https://open.spotify.com/album/6RUYNWJ7uAsDKHO6ahhfOO"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 207032,
       "name": "Stary Pezet (klasyczny)",
       "url": "https://open.spotify.com/track/0o7zgQODoJbMsaYMvCFviQ"
+    },
+    {
+      "added_at": "2024-02-27 08:21:33",
+      "album": {
+        "name": "nigdy wi\u0119cej 2022",
+        "url": "https://open.spotify.com/album/4Zh0KGSolRFUL55kEnsNJ5"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb"
+        },
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        },
+        {
+          "name": "SB Maffija",
+          "url": "https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "nigdy wi\u0119cej 2022",
+      "url": "https://open.spotify.com/track/6BCqzFZ2is57XTs2kSMVWq"
     },
     {
       "added_at": "2024-02-27 08:21:33",

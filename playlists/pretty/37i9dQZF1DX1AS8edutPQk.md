@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AS8edutPQk.md) - [plain]
 
 > Sit back and relax by listening to piano renditions of your favorite Disney songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,946 likes - 151 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,958 likes - 151 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AS8edutPQk.md) - [plain]
 | 83 | [Loyal Brave True](https://open.spotify.com/track/7sDBRbD8dY3mmTa39QON2M) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Balance](https://open.spotify.com/album/4CuPnITlVU9RjgLNchKEEW) | 4:23 |
 | 84 | [Show Yourself](https://open.spotify.com/track/4IUazrVEupgZ1QCg8X97cx) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Soothing](https://open.spotify.com/album/1GOlhEiRHg9Y6eL2CKCa5Y) | 4:52 |
 | 85 | [All Of You \- Instrumental](https://open.spotify.com/track/3bKY8qGrxlhZojriFo3Svh) | [Lin\-Manuel Miranda](https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 4:53 |
-| 86 | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [We Don’t Talk About Bruno \(From "Encanto"\)](https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB) | 4:04 |
+| 86 | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB) | 4:04 |
 | 87 | [Colors of the Wind](https://open.spotify.com/track/2QvigPejxD02hOHKzSvRL3) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Chill](https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP) | 4:32 |
 | 88 | [Mickey Mouse Club March](https://open.spotify.com/track/4obXtNMjaPtI1on3oDPiTT) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Happy](https://open.spotify.com/album/2AuDIqmMrSkbWL22vgsMpm) | 2:28 |
 | 89 | [Love Is a Song](https://open.spotify.com/track/0IkV2YqLBVsLrsm4ycVn2w) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Tranquility](https://open.spotify.com/album/1IcgiPVFTOe5B2ICMzNwuT) | 2:54 |

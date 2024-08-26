@@ -2,7 +2,7 @@
 
 ### [This Is Hayley Kiyoko](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2bUkoM)
 
-> This is Hayley Kiyoko\. The essential tracks, all in one playlist.
+> This Is Hayley Kiyoko\. Los temas esenciales, todos en una lista.
 
 50 songs - 2 hr 44 min
 

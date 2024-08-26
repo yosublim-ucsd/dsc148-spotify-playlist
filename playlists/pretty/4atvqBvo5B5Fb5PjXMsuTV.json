@@ -1,13 +1,53 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Aug 16:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Aug 22:02 UTC.",
   "num_followers": 83,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAKtizeRio85W9ZrS/X9/Eh58FHOIbc",
+  "snapshot_id": "AAAKusCZlfB02a4LBjnE5Yinq9khlkis",
   "tracks": [
+    {
+      "added_at": "2024-08-25 22:02:46",
+      "album": {
+        "name": "ANOINTING (FALL ON ME)",
+        "url": "https://open.spotify.com/album/7jxkQioIJb8LrVQZpe3u4w"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Ivory Nwigwe",
+          "url": "https://open.spotify.com/artist/3rqdCc8vGRGq7RUwHRCOBJ"
+        },
+        {
+          "name": "Yael Hilton",
+          "url": "https://open.spotify.com/artist/3Gl0EmGURWi1cO7N9GXIwF"
+        }
+      ],
+      "duration_ms": 99500,
+      "name": "ANOINTING (FALL ON ME)",
+      "url": "https://open.spotify.com/track/2MYh0CcF8dGciG2JoZtAX7"
+    },
+    {
+      "added_at": "2024-08-25 04:02:58",
+      "album": {
+        "name": "Hands On Me",
+        "url": "https://open.spotify.com/album/5NOZLcuyGbB7YSD19hYiR9"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "duration_ms": 141639,
+      "name": "Hands On Me",
+      "url": "https://open.spotify.com/track/2fH5XIWwKGRp5cX0K7JHsW"
+    },
     {
       "added_at": "2024-08-24 16:02:49",
       "album": {
@@ -745,22 +785,6 @@
       "url": "https://open.spotify.com/track/6PXnz34sERoo33jtNjBabm"
     },
     {
-      "added_at": "2024-08-23 16:03:08",
-      "album": {
-        "name": "PowerNerd",
-        "url": "https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY"
-      },
-      "artists": [
-        {
-          "name": "Devin Townsend",
-          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
-        }
-      ],
-      "duration_ms": 208431,
-      "name": "PowerNerd",
-      "url": "https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV"
-    },
-    {
       "added_at": "2024-08-23 10:03:24",
       "album": {
         "name": "Il Tempo Cura",
@@ -775,6 +799,22 @@
       "duration_ms": 152904,
       "name": "Il Tempo Cura",
       "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
+    },
+    {
+      "added_at": "2024-08-23 16:03:08",
+      "album": {
+        "name": "PowerNerd",
+        "url": "https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY"
+      },
+      "artists": [
+        {
+          "name": "Devin Townsend",
+          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+        }
+      ],
+      "duration_ms": 208431,
+      "name": "PowerNerd",
+      "url": "https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV"
     },
     {
       "added_at": "2024-08-23 22:02:47",
@@ -843,38 +883,6 @@
       "duration_ms": 169000,
       "name": "\u041b\u0430\u0433\u0435\u0440\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/0hBkQ3Dtxoql2YSnQA2o4g"
-    },
-    {
-      "added_at": "2024-08-23 10:03:24",
-      "album": {
-        "name": "ON THE RADAR",
-        "url": "https://open.spotify.com/album/1cB0DhvXleoiFTr1NCb1yP"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 135145,
-      "name": "ON THE RADAR FREESTYLE",
-      "url": "https://open.spotify.com/track/3mgGp6fvyUyL8HG134Q5gs"
-    },
-    {
-      "added_at": "2024-08-23 10:03:24",
-      "album": {
-        "name": "BOOGIE MAN",
-        "url": "https://open.spotify.com/album/1hrsJ0DZJPGnOdWhnuVacj"
-      },
-      "artists": [
-        {
-          "name": "SosMula",
-          "url": "https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc"
-        }
-      ],
-      "duration_ms": 169096,
-      "name": "BOOGIE MAN",
-      "url": "https://open.spotify.com/track/0Xs9c3ZHD0Ni4fgIFmtl2f"
     }
   ],
   "unique_name": "New Singles Now",

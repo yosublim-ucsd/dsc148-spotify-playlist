@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Barry B, Carolina Durante.",
-  "num_followers": 19653,
+  "num_followers": 19658,
   "original_name": "Rock 2024",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "El Final",
-        "url": "https://open.spotify.com/album/09Ea8QMbl8c88ddxsaN0dd"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 196629,
-      "name": "El Final",
-      "url": "https://open.spotify.com/track/3qcDuXsK4lYgRMm8yK7Y8F"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Loros",
         "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 191617,
       "name": "Al Amanecer",
       "url": "https://open.spotify.com/track/5FMnqUbLGqWi0Y12MCVYSN"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "El Final",
+        "url": "https://open.spotify.com/album/09Ea8QMbl8c88ddxsaN0dd"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 196629,
+      "name": "El Final",
+      "url": "https://open.spotify.com/track/3qcDuXsK4lYgRMm8yK7Y8F"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Fantasma",
-        "url": "https://open.spotify.com/album/5GVjWzf8rgSXBafLaqavPl"
-      },
-      "artists": [
-        {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
-        }
-      ],
-      "duration_ms": 192885,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/6xVAullhAbBSiZVFpqJBne"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Martes 13",
         "url": "https://open.spotify.com/album/7cBxE1Jmy4Xb6YdWze1plb"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/5GVjWzf8rgSXBafLaqavPl"
+      },
+      "artists": [
+        {
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+        }
+      ],
+      "duration_ms": 192885,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/6xVAullhAbBSiZVFpqJBne"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Por si te pierdes",
         "url": "https://open.spotify.com/album/28HsLIkRmdYm1C0sW1kgoE"
       },
@@ -811,6 +811,26 @@
       "duration_ms": 171740,
       "name": "Y no lo ves",
       "url": "https://open.spotify.com/track/5ds91qYmtz0fSPwQgUBIJi"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Azul Oscuro Casi Negro",
+        "url": "https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj"
+      },
+      "artists": [
+        {
+          "name": "Cora Yako",
+          "url": "https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm"
+        },
+        {
+          "name": "Diamante Negro",
+          "url": "https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v"
+        }
+      ],
+      "duration_ms": 160301,
+      "name": "Azul Oscuro Casi Negro",
+      "url": "https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -883,26 +903,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Azul Oscuro Casi Negro",
-        "url": "https://open.spotify.com/album/6wRuSSafJuAgVM61XEStGj"
-      },
-      "artists": [
-        {
-          "name": "Cora Yako",
-          "url": "https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm"
-        },
-        {
-          "name": "Diamante Negro",
-          "url": "https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v"
-        }
-      ],
-      "duration_ms": 160301,
-      "name": "Azul Oscuro Casi Negro",
-      "url": "https://open.spotify.com/track/5WkLIlcbax45uOOoNqFacQ"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Pu\u00f1ales",
         "url": "https://open.spotify.com/album/5rQunDenYk2OKE9Fuzxa0O"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 104443,
       "name": "Pu\u00f1ales",
       "url": "https://open.spotify.com/track/7fYvRL7RWPduTzrEcOgKlS"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Tu nombre es una puerta por cerrar",
+        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
+      },
+      "artists": [
+        {
+          "name": "Parquesvr",
+          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
+        }
+      ],
+      "duration_ms": 244164,
+      "name": "Tu nombre es una puerta por cerrar",
+      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -951,6 +967,42 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Ganas de verte",
+        "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
+      },
+      "artists": [
+        {
+          "name": "Pagafantas",
+          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
+        },
+        {
+          "name": "Luc\u00eda Moreno",
+          "url": "https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V"
+        }
+      ],
+      "duration_ms": 174613,
+      "name": "Ganas de verte",
+      "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Repion",
+        "url": "https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R"
+      },
+      "artists": [
+        {
+          "name": "Repion",
+          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
+        }
+      ],
+      "duration_ms": 205957,
+      "name": "Sin Hablar",
+      "url": "https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Desde Flores y Entra\u00f1as",
         "url": "https://open.spotify.com/album/7wXKA4oPHORyBu6jTE2oQm"
       },
@@ -967,22 +1019,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Tu nombre es una puerta por cerrar",
-        "url": "https://open.spotify.com/album/0eaZ0bCEMRU1WmduCGiyKH"
-      },
-      "artists": [
-        {
-          "name": "Parquesvr",
-          "url": "https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy"
-        }
-      ],
-      "duration_ms": 244164,
-      "name": "Tu nombre es una puerta por cerrar",
-      "url": "https://open.spotify.com/track/7fnlGpqyZ8KPATE5HXHrke"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Demasiada Mujer",
         "url": "https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF"
       },
@@ -995,6 +1031,22 @@
       "duration_ms": 155250,
       "name": "Demasiada Mujer",
       "url": "https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Salgo A La Calle",
+        "url": "https://open.spotify.com/album/3aDNLr7buEFPuiYsh4YEbd"
+      },
+      "artists": [
+        {
+          "name": "Lisasinson",
+          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
+        }
+      ],
+      "duration_ms": 193478,
+      "name": "Salgo A La Calle",
+      "url": "https://open.spotify.com/track/6MP1xqm69oNPvIHWaX6Pd8"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1019,38 +1071,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Repion",
-        "url": "https://open.spotify.com/album/5o72CTv41E3lh2h7yNEm1R"
-      },
-      "artists": [
-        {
-          "name": "Repion",
-          "url": "https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24"
-        }
-      ],
-      "duration_ms": 205957,
-      "name": "Sin Hablar",
-      "url": "https://open.spotify.com/track/4xGAVaRPvewFxX3RGLR433"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Salgo A La Calle",
-        "url": "https://open.spotify.com/album/3aDNLr7buEFPuiYsh4YEbd"
-      },
-      "artists": [
-        {
-          "name": "Lisasinson",
-          "url": "https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32"
-        }
-      ],
-      "duration_ms": 193478,
-      "name": "Salgo A La Calle",
-      "url": "https://open.spotify.com/track/6MP1xqm69oNPvIHWaX6Pd8"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "La Excusa Perfecta",
         "url": "https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5"
       },
@@ -1063,58 +1083,6 @@
       "duration_ms": 180705,
       "name": "La Excusa Perfecta",
       "url": "https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Ganas de verte",
-        "url": "https://open.spotify.com/album/4Ai4xJrsBo8EvvWYl4BcVM"
-      },
-      "artists": [
-        {
-          "name": "Pagafantas",
-          "url": "https://open.spotify.com/artist/3tK9yOouaJ56vcGh4uEooV"
-        },
-        {
-          "name": "Luc\u00eda Moreno",
-          "url": "https://open.spotify.com/artist/5Vbi6yLxxnQcO6k0tuZV7V"
-        }
-      ],
-      "duration_ms": 174613,
-      "name": "Ganas de verte",
-      "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Esta historia ya no est\u00e1 disponible",
-        "url": "https://open.spotify.com/album/1nzm7XdIQU2Tg5XBWHew1O"
-      },
-      "artists": [
-        {
-          "name": "Venturi",
-          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
-        }
-      ],
-      "duration_ms": 156510,
-      "name": "Vino el Amor",
-      "url": "https://open.spotify.com/track/7LWvckYxoIoPb1QW6OnrEb"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "No Puedo M\u00e1s",
-        "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
-      },
-      "artists": [
-        {
-          "name": "Mujeres",
-          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
-        }
-      ],
-      "duration_ms": 184984,
-      "name": "No Puedo M\u00e1s",
-      "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1135,6 +1103,38 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/0Kw47uyjzuktMpz6OKZMpj"
+      },
+      "artists": [
+        {
+          "name": "Mujeres",
+          "url": "https://open.spotify.com/artist/5vnfKgHNYLnKeuFA6c2jJO"
+        }
+      ],
+      "duration_ms": 184984,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/7fdUvlp2k3PFxu9FwxxH9q"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Esta historia ya no est\u00e1 disponible",
+        "url": "https://open.spotify.com/album/1nzm7XdIQU2Tg5XBWHew1O"
+      },
+      "artists": [
+        {
+          "name": "Venturi",
+          "url": "https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE"
+        }
+      ],
+      "duration_ms": 156510,
+      "name": "Vino el Amor",
+      "url": "https://open.spotify.com/track/7LWvckYxoIoPb1QW6OnrEb"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Fuera De Lugar",
         "url": "https://open.spotify.com/album/00yW3R9E734W48i9Umcz1t"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 242529,
       "name": "Fuera De Lugar",
       "url": "https://open.spotify.com/track/5ep0F3gWVy96PVpp4hf8SA"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "No va a doler",
-        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
-      },
-      "artists": [
-        {
-          "name": "Tenda",
-          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
-        }
-      ],
-      "duration_ms": 160048,
-      "name": "No va a doler",
-      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1195,6 +1179,22 @@
       "duration_ms": 119767,
       "name": "T\u00fa y Yo y Todos Los Dem\u00e1s",
       "url": "https://open.spotify.com/track/7t9c6SRwCC0ezuAsz9PDNQ"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "No va a doler",
+        "url": "https://open.spotify.com/album/0asxteYw7dLQLBq82NEEi1"
+      },
+      "artists": [
+        {
+          "name": "Tenda",
+          "url": "https://open.spotify.com/artist/6q67yxb78jnAUnVXrbZBHS"
+        }
+      ],
+      "duration_ms": 160048,
+      "name": "No va a doler",
+      "url": "https://open.spotify.com/track/3Y31LkJGeTg3unzxsnojRW"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Dos Galaxias",
-        "url": "https://open.spotify.com/album/1NES8cPssseE2OU3WwiXTH"
-      },
-      "artists": [
-        {
-          "name": "Selvajes",
-          "url": "https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu"
-        }
-      ],
-      "duration_ms": 211529,
-      "name": "Dos Galaxias",
-      "url": "https://open.spotify.com/track/3zIJcW9XnaZDUsS3qyu0Bt"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "El Campe\u00f3n en tus ojos",
         "url": "https://open.spotify.com/album/0D0LLeJuxDzwCRolaazjRC"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 163280,
       "name": "El Campe\u00f3n en tus ojos",
       "url": "https://open.spotify.com/track/6Y1Y3z4Uwv2oTzpEbA0q4j"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Dos Galaxias",
+        "url": "https://open.spotify.com/album/1NES8cPssseE2OU3WwiXTH"
+      },
+      "artists": [
+        {
+          "name": "Selvajes",
+          "url": "https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu"
+        }
+      ],
+      "duration_ms": 211529,
+      "name": "Dos Galaxias",
+      "url": "https://open.spotify.com/track/3zIJcW9XnaZDUsS3qyu0Bt"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Patr\u00f3n de las causas imposibles",
-        "url": "https://open.spotify.com/album/2fiz7SgjkMp3JNVDCV0tVN"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jes\u00fas Y Su Hijo",
-          "url": "https://open.spotify.com/artist/6u6tjnHJ5CGecNVi2Wfwx9"
-        }
-      ],
-      "duration_ms": 329408,
-      "name": "Patr\u00f3n de las causas imposibles",
-      "url": "https://open.spotify.com/track/6opK17p2ZFqidUkLqlsCl4"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Sin M\u00e1s",
         "url": "https://open.spotify.com/album/04ShDzsnkGsUKq76JSCSpQ"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 198958,
       "name": "Sin M\u00e1s",
       "url": "https://open.spotify.com/track/1ScPq9lDin5UfkJnbOd0M4"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Patr\u00f3n de las causas imposibles",
+        "url": "https://open.spotify.com/album/2fiz7SgjkMp3JNVDCV0tVN"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jes\u00fas Y Su Hijo",
+          "url": "https://open.spotify.com/artist/6u6tjnHJ5CGecNVi2Wfwx9"
+        }
+      ],
+      "duration_ms": 329408,
+      "name": "Patr\u00f3n de las causas imposibles",
+      "url": "https://open.spotify.com/track/6opK17p2ZFqidUkLqlsCl4"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1423,22 +1423,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Finales Alternativos",
-        "url": "https://open.spotify.com/album/3MMD6gPBZiceeybqsTPUOj"
+        "name": "Adelante",
+        "url": "https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/5N5JYIR5eyLrUcwutGZdal"
-        },
-        {
-          "name": "J (Los Planetas)",
-          "url": "https://open.spotify.com/artist/4rZQYggyATv0COs3Ku167l"
+          "name": "levitants",
+          "url": "https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV"
         }
       ],
-      "duration_ms": 144846,
-      "name": "Finales Alternativos",
-      "url": "https://open.spotify.com/track/5Iz3b8J09zstCwndwYPaOJ"
+      "duration_ms": 240031,
+      "name": "Adelante",
+      "url": "https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1459,18 +1455,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Adelante",
-        "url": "https://open.spotify.com/album/4TGfWV8k3nPN3DFbjNplCJ"
+        "name": "Finales Alternativos",
+        "url": "https://open.spotify.com/album/3MMD6gPBZiceeybqsTPUOj"
       },
       "artists": [
         {
-          "name": "levitants",
-          "url": "https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/5N5JYIR5eyLrUcwutGZdal"
+        },
+        {
+          "name": "J (Los Planetas)",
+          "url": "https://open.spotify.com/artist/4rZQYggyATv0COs3Ku167l"
         }
       ],
-      "duration_ms": 240031,
-      "name": "Adelante",
-      "url": "https://open.spotify.com/track/5NvqDMHAL38UTfNQFizEWm"
+      "duration_ms": 144846,
+      "name": "Finales Alternativos",
+      "url": "https://open.spotify.com/track/5Iz3b8J09zstCwndwYPaOJ"
     },
     {
       "added_at": "2024-08-22 22:00:00",

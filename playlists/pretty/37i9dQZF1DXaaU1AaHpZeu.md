@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. rusowsky con LATIN MAFIA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,241 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,237 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 27 | [Me Cago En Tus Muertos](https://open.spotify.com/track/7FNZ22EPTcr0wySdMiHAUX) | [Venga, Bea](https://open.spotify.com/artist/1FV2X3n9fruTFxyjLJA6cM) | [Me Cago En Tus Muertos](https://open.spotify.com/album/7f0cqUGXKaudOdPyMYe2M5) | 2:49 |
 | 28 | [El Milagro](https://open.spotify.com/track/3sTepmx0rFHf0Qvk9BxL2r) | [Vaho](https://open.spotify.com/artist/6JmWO5NtRuHGpSI2HfFIA9) | [El Milagro](https://open.spotify.com/album/0uVE5HaiW33RviIIDUe29c) | 2:56 |
 | 29 | [tiré](https://open.spotify.com/track/61d5KCdm4c7Y7MMNbH0jnl) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [tiré](https://open.spotify.com/album/43HRzAOVSUL0HnpXBBdhyx) | 2:30 |
-| 30 | [Un Desastre Que Te Encanta](https://open.spotify.com/track/0xTNSKybxlNJ53Jv6R3IXr) | [Marchi](https://open.spotify.com/artist/7CRrMfdafxOwlRt2lX8XZG) | [Un Desastre Que Te Encanta](https://open.spotify.com/album/1dgITywuFZgqfNji4OcxtE) | 2:34 |
+| 30 | [Un Desastre Que Te Encanta](https://open.spotify.com/track/0xTNSKybxlNJ53Jv6R3IXr) | [Marchi](https://open.spotify.com/artist/7CRrMfdafxOwlRt2lX8XZG) | [Un Desastre Que Te Encanta](https://open.spotify.com/album/1dgITywuFZgqfNji4OcxtE) | 2:17 |
 | 31 | [Talking To Myself](https://open.spotify.com/track/1GTvFd0k6PjtagTAVI6UEu) | [Tall Juan](https://open.spotify.com/artist/2G5x56il2fMdpAo2l2J2xB) | [Talking To Myself](https://open.spotify.com/album/5ALKTXOIAaoRXFcumRz3ob) | 2:32 |
 | 32 | [Déjate Llevar](https://open.spotify.com/track/5cazDgrbirLCATLAz1PJON) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7) | [Déjate Llevar](https://open.spotify.com/album/4tZoZ27opjp1mHZ3Q1mqWP) | 3:57 |
 | 33 | [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,253 likes - 66 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,384 likes - 66 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJd52AtCSiR.md) - [plain]
 | 34 | [Surface Pressure](https://open.spotify.com/track/08ud84GRgyaXbfAW1WxuVD) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Relax](https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW) | 3:20 |
 | 35 | [Define Dancing](https://open.spotify.com/track/4wZdal5NzPtwKcjLMt7vJj) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Wall\-E](https://open.spotify.com/album/7IH5SRyEVemZWfhjYmWtT1) | 2:23 |
 | 36 | [Farewell](https://open.spotify.com/track/2ooCD26N7uKXqhkc6iUvMW) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ) | [Pocahontas Original Soundtrack \(English Version\)](https://open.spotify.com/album/4ddvFk8agFfRkkcVwR8sJH) | 4:48 |
-| 37 | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [We Don’t Talk About Bruno \(From "Encanto"\)](https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB) | 4:04 |
+| 37 | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB) | 4:04 |
 | 38 | [Honor to Us All](https://open.spotify.com/track/3F9HXdijdjghQ8rlnZ4fqR) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 1:54 |
 | 39 | [Carnival Of The Animals, Finale](https://open.spotify.com/track/1Jy8ux5jagFEKPSY42pLvB) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Chicago Symphony Orchestra](https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E) | [Fantasia 2000](https://open.spotify.com/album/2whukRzuzg6VUBKkcEKfJp) | 1:57 |
 | 40 | [Do You Want to Build a Snowman?](https://open.spotify.com/track/2OnoTCzLS2aHo6nX969wBW) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Relax](https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW) | 3:35 |

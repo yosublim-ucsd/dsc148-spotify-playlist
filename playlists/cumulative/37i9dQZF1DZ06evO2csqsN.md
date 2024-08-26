@@ -2,7 +2,7 @@
 
 ### [This Is Latto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2csqsN)
 
-> This Is Latto\. Los temas esenciales, todos en una lista.
+> This is Latto。アーティストの代表曲をひとつのプレイリストに。
 
 99 songs - 4 hr 49 min
 

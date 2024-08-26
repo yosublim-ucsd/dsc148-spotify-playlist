@@ -2449,6 +2449,28 @@
     },
     {
       "album": {
+        "name": "Essential (Instrumentals)",
+        "url": "https://open.spotify.com/album/5CBZ0ohjQBjF2dyuOfJrG9"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Instrument-O",
+          "url": "https://open.spotify.com/artist/1h3tSgnbLCAhvkZGPrzpCH"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202788,
+      "name": "Run Up - Instrumental",
+      "url": "https://open.spotify.com/track/772zTFyxqTW72gXck3q9G8"
+    },
+    {
+      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },

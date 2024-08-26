@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Los Turros.
 
-287 songs - 16 hr 14 min
+288 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Auto Al Piso](https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Auto Al Piso](https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy) | 2:54 | 2023-12-08 |  |
 | [Baila Sola](https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:32 | 2023-05-26 |  |
 | [Bailan Rochas y Chetas](https://open.spotify.com/track/3lC4mM6NiSLttfYTv1HTNQ) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:58 | 2023-05-26 |  |
-| [Bajen del Patrullero](https://open.spotify.com/track/4MVFGuUTWwFxyicLuQKV9b) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [La Humildad Es Sinónimo de Grandeza](https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk) | 3:47 | 2024-08-21 |  |
+| [Bajen del Patrullero](https://open.spotify.com/track/4MVFGuUTWwFxyicLuQKV9b) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [La Humildad Es Sinónimo de Grandeza](https://open.spotify.com/album/4iba2EK9nj04oQkb8G3Cfk) | 3:47 | 2024-08-21 | 2024-08-26 |
 | [BANDIDO](https://open.spotify.com/track/3ZoXOqtpkBEa2iZsDAgyWy) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [BANDIDO](https://open.spotify.com/album/0LbgNzSK1MOUhcoqrZlIpK) | 3:16 | 2024-03-15 | 2024-04-28 |
 | [Barra Libre](https://open.spotify.com/track/61nprE5601F6rxnEcTR5Dl) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Gonzalo Nawel](https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5) | [Barra Libre](https://open.spotify.com/album/4BxwFfRR2mzpzvHXbeipOW) | 3:58 | 2023-05-26 | 2023-08-21 |
 | [Barrio Prendido](https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Nestor En Bloque](https://open.spotify.com/artist/3RBwlm5DeZ9ywEknLEqIzr), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [MOMO](https://open.spotify.com/artist/6Oa7dtz85WbPv9pYDcRSDN), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Barrio Prendido](https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J) | 4:00 | 2023-05-26 |  |
@@ -260,6 +260,7 @@
 | [TENGO SED](https://open.spotify.com/track/0cMfTZUz7ifs8J2iB5iAPs) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [TENGO SED](https://open.spotify.com/album/5aOflrqr7UamTVWOuTLykX) | 3:29 | 2024-02-09 | 2024-03-06 |
 | [The la Planta: Rkt Session \#6](https://open.spotify.com/track/3Zk3bA4hcGR49c0k9Fh7Nu) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [The la Planta: Rkt Session \#6](https://open.spotify.com/album/1M8kHH3oB1r7oKPah2Yy3Q) | 1:55 | 2023-05-26 | 2023-06-06 |
 | [Toto Pago](https://open.spotify.com/track/7lDiqbdr75lTntS5MMyr8X) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [Colny Flow](https://open.spotify.com/artist/5CKHozemkVTKIF8kg1v08C) | [Toto Pago](https://open.spotify.com/album/6oDx3WEDFC2lJs7Y6OPuRb) | 2:35 | 2023-10-20 | 2023-11-18 |
+| [Traición](https://open.spotify.com/track/4840hcKBX1a8z2eg7pfojy) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [El Retutu](https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG) | [Traición](https://open.spotify.com/album/5Z76TwoDj3nTQ2NBN6vaNx) | 2:49 | 2024-08-21 |  |
 | [Traigo Una Rosa](https://open.spotify.com/track/4CVezbl39jn7YIDcid9eXI) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [KaKa Nene](https://open.spotify.com/album/02LewP3z5YibPTMFArcXmF) | 4:06 | 2024-03-05 |  |
 | [Tranka](https://open.spotify.com/track/2pgRcDDZacxRdkPHxQy4ea) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Tranka](https://open.spotify.com/album/6Bi393XdWKfAdxKDcHJqKU) | 2:44 | 2023-05-26 |  |
 | [Triste palomita](https://open.spotify.com/track/1SX37vPJPxTVA9HLAw0Gm2) | [Escucha!](https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp) | [Triste Palomita](https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7) | 3:54 | 2024-03-15 |  |

@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Sessions",
+        "url": "https://open.spotify.com/album/4Y4ntagypPMlqa71YLaDsA"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170302,
+      "name": "You Are So Beautiful - Live Acoustic",
+      "url": "https://open.spotify.com/track/7i6DvJgOTuVV1nOP7FfT5u"
+    },
+    {
+      "album": {
         "name": "Come Alive: Live from the CentricWorship Retreat",
         "url": "https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12"
       },

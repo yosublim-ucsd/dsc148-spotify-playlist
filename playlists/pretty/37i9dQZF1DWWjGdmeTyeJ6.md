@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Jessica Doolan, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,696 likes - 199 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,732 likes - 199 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [This Is The Jones Girls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4f6gXS)
 
-> This is The Jones Girls。アーティストの代表曲をひとつのプレイリストに。
+> This is The Jones Girls\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 70 songs - 4 hr 58 min
 

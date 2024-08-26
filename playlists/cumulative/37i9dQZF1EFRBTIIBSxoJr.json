@@ -569,6 +569,28 @@
     },
     {
       "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Social Club",
+          "url": "https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147594,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML"
+    },
+    {
+      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -678,7 +700,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 185973,
       "name": "Freedom (feat. Jussie Smollett)",
       "url": "https://open.spotify.com/track/3K21eqPSN8Fb4SxEnKfEOo"

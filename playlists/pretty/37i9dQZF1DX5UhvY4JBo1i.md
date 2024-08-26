@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。キャンペーン特設ページは<a href="https://movie.byspotify.com/conan\-2024">こちら</a>。©2024 青山剛昌／名探偵コナン製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,800 likes - 48 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,838 likes - 48 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UhvY4JBo1i.md) - [plain]
 | 12 | [零 \-ZERO\-](https://open.spotify.com/track/04pyEgfLGPt3YUjZ9wQpOB) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [零 \-ZERO\-](https://open.spotify.com/album/6kNsz8bh9y5PTEm27hPXnp) | 4:14 |
 | 13 | [渡月橋 \~君 想ふ\~](https://open.spotify.com/track/1060Rq2jA1jKckSZV67y7H) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [倉木麻衣×名探偵コナン COLLABORATION BEST 21 \-真実はいつも歌にある!\-](https://open.spotify.com/album/5iR9vsmguPIjTun6cJVb0Q) | 4:05 |
 | 14 | [世界はあなたの色になる](https://open.spotify.com/track/7ynpWZgax9H43b9dWPU9wt) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [声明 / Still Alive](https://open.spotify.com/album/7edMjpLvwAPeYL2SxwyfkS) | 5:00 |
-| 15 | [オー!リバル](https://open.spotify.com/track/19gsA9gZuo8wJQ86vX8zyg) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [RHINOCEROS](https://open.spotify.com/album/0vF3e3eqX8VCosVfyV5CoN) | 4:55 |
+| 15 | [オー！リバル](https://open.spotify.com/track/19gsA9gZuo8wJQ86vX8zyg) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [RHINOCEROS](https://open.spotify.com/album/0vF3e3eqX8VCosVfyV5CoN) | 4:55 |
 | 16 | [ラブサーチライト](https://open.spotify.com/track/0b2xi61z1aBbmV60jQYigW) | [Ko Shibasaki](https://open.spotify.com/artist/5YixSA79eNkVmTq8xzRYF7) | [ラブサーチライト](https://open.spotify.com/album/5K2ywOgkx4bCxzmdtL5kgk) | 2:58 |
 | 17 | [ワンモアタイム](https://open.spotify.com/track/3m3SXm4uokQxDiUM7mmADL) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [ワンモアタイム](https://open.spotify.com/album/5wyCGVpHzwtgUBJMIDmtDt) | 5:03 |
 | 18 | [ハルウタ](https://open.spotify.com/track/3oicOknczVtpv7ZW6HLQrc) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [I](https://open.spotify.com/album/5js8fcSefJJNy9r9cE5B2n) | 4:53 |

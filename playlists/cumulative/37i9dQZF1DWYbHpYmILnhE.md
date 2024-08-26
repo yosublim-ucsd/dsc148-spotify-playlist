@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Psycho YP
 
-68 songs - 3 hr 6 min
+69 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Lekki Epe](https://open.spotify.com/track/5VlSv8D8JRgfI520fkh546) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Drillionaire](https://open.spotify.com/album/0fShBKWgKfk9uA3Xcjm0bm) | 3:53 | 2024-06-28 |  |
 | [MC OLUOMO](https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MC OLUOMO](https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE) | 1:47 | 2024-06-28 |  |
 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 | 2024-06-28 |  |
-| [My Type](https://open.spotify.com/track/2e6jU4n6jiANBlCyfXqL5r) | [Mod3st](https://open.spotify.com/artist/0MATxe4eJMjAUhOUuWwVPM) | [Candy Dreams](https://open.spotify.com/album/5AIOv0KVJFTgKZ55oRkHUL) | 2:49 | 2024-07-19 |  |
+| [My Time](https://open.spotify.com/track/56IzMNcIHJnVvIR4DEMPqj) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd) | [My Time](https://open.spotify.com/album/31IkWfeidxB3KkzVDFHqM7) | 2:28 | 2024-08-25 |  |
+| [My Type](https://open.spotify.com/track/2e6jU4n6jiANBlCyfXqL5r) | [Mod3st](https://open.spotify.com/artist/0MATxe4eJMjAUhOUuWwVPM) | [Candy Dreams](https://open.spotify.com/album/5AIOv0KVJFTgKZ55oRkHUL) | 2:49 | 2024-07-19 | 2024-08-26 |
 | [Naira to Pounds](https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Naira to Pounds](https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr) | 2:51 | 2024-06-28 |  |
 | [NO APOLOGIES](https://open.spotify.com/track/7LxjavMU1YVyYPPBsjs3Zc) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MILITANT MINDSET](https://open.spotify.com/album/6ieLnbH2PWN2DPyLHWJPbk) | 3:14 | 2024-06-28 |  |
 | [Normal Day](https://open.spotify.com/track/3RmdZ0LlVvTF0zI3aCSVcL) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [N6](https://open.spotify.com/artist/7FFQabcYovGITece3mUXZM), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Normal Day](https://open.spotify.com/album/1dlQtLIYsBaeHGi0djemHE) | 3:20 | 2024-06-28 |  |

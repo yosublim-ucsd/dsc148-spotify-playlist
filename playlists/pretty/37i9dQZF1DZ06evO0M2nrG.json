@@ -1,12 +1,12 @@
 {
-  "description": "This is Mike Bah\u00eda. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
-  "num_followers": 66419,
+  "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
+  "num_followers": 66420,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAACAxKd9HL1WYzS9j2ivtBLl",
+  "snapshot_id": "ZskigAAAAACE0y4lhZ44F3fU+wFBDrlY",
   "tracks": [
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Siente Bien",
-        "url": "https://open.spotify.com/album/1X6o8ez2QXYtRIEM8CsfEU"
-      },
-      "artists": [
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Se Siente Bien",
-      "url": "https://open.spotify.com/track/1mYdNVCnwFu67nOeFnSM1f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 191395,
       "name": "Vine a Buscarte",
       "url": "https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Siente Bien",
+        "url": "https://open.spotify.com/album/1X6o8ez2QXYtRIEM8CsfEU"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 237880,
+      "name": "Se Siente Bien",
+      "url": "https://open.spotify.com/track/1mYdNVCnwFu67nOeFnSM1f"
     },
     {
       "added_at": null,
@@ -1011,26 +1011,6 @@
       "duration_ms": 170838,
       "name": "Sola (feat. Stanley Jackson)",
       "url": "https://open.spotify.com/track/2fFEvoOii2fviIeAbfBj4t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa Tienes Raz\u00f3n - EP",
-        "url": "https://open.spotify.com/album/0C0BMCxF9Xc4Dz5k7cSIWd"
-      },
-      "artists": [
-        {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "T\u00fa Tienes Raz\u00f3n (feat. Mike Bah\u00eda) - Versi\u00f3n Urbana",
-      "url": "https://open.spotify.com/track/22ZDZQspD6nmT9krDjb8zO"
     }
   ],
   "unique_name": "This Is Mike Bah\u00eda",

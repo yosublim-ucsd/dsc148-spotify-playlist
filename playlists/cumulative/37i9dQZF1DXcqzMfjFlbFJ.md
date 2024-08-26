@@ -4,7 +4,7 @@
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 広瀬香美 ■小沢健二の「LIFE」がヒット ■「すったもんだがありました」（宮沢りえ）、「イチロー \(効果\)」、「同情するならカネをくれ」（安達祐実）が新語・流行語大賞の年間大賞 ■ ジュリアナ東京閉店。 ■「プレイステーション」発売。■ 映画「ショーシャンクの空に」が世界的ヒット
 
-132 songs - 10 hr 33 min
+134 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Endless Love \(with Mariah Carey\)](https://open.spotify.com/track/7IljDTNkQEyy77CcaRbiAj) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:19 | 2023-07-22 |  |
 | [GET UP AND DANCE](https://open.spotify.com/track/7HR1hjphFpSQuVngJ18bc8) | [SCHA DARA PARR](https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X) | [スチャダラ外伝](https://open.spotify.com/album/3uu6Mfy4PZel6X7y9DimvL) | 8:49 | 2023-07-22 |  |
 | [Girls & Boys \- 2012 Remaster](https://open.spotify.com/track/5OS6hw3tFeWUiT3NPQyUM8) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife](https://open.spotify.com/album/0YS25Dr3hMtMFlVTfuvzl4) | 4:51 | 2023-07-22 |  |
+| [HEART](https://open.spotify.com/track/1WS6H0GH564OXZaJEgHCAf) | [CHAGE and ASKA](https://open.spotify.com/artist/1jsmqw6pME0Yj47diPFh0C) | [VERY BEST ROLL OVER 20TH](https://open.spotify.com/album/3u9ZFJXLKKZ5ImLzFPtEWW) | 6:09 | 2024-08-25 |  |
 | [Hello, my friend](https://open.spotify.com/track/41NIQxcwqfE4M4iJ6UQHFX) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [THE DANCING SUN](https://open.spotify.com/album/4TEBvuxfzOhHYE1rY0iJXX) | 4:33 | 2023-07-22 |  |
 | [Hero](https://open.spotify.com/track/4FCb4CUbFCMNRkI6lYc1zI) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 4:17 | 2024-03-10 |  |
 | [Hero](https://open.spotify.com/track/5mgCMlxQW7fmHbrdJuowbB) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:17 | 2023-07-22 | 2024-04-19 |
@@ -64,11 +65,12 @@
 | [Now And Forever](https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Paid Vacation](https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx) | 3:34 | 2023-07-22 |  |
 | [OH MY LITTLE GIRL](https://open.spotify.com/track/5Qfw76KLvvMgrq6xtajJIO) | [Yutaka Ozaki](https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl) | [十七歳の地図](https://open.spotify.com/album/447ltjeI3RPOV6aP9RdTJ6) | 4:35 | 2024-03-10 |  |
 | [OH MY LITTLE GIRL](https://open.spotify.com/track/4w8BWDyfDxlNLWKQaiUhmd) | [Yutaka Ozaki](https://open.spotify.com/artist/7Mo0nFEU6E8fGI0P2u7MOl) | [愛すべきものすべてに \-YUTAKA OZAKI BEST](https://open.spotify.com/album/5KYFjInulb9juOaJSDJtme) | 4:35 | 2023-07-22 | 2024-04-19 |
+| [On Your Mark](https://open.spotify.com/track/7ebykVQsXaI52H0Zz2LruE) | [CHAGE and ASKA](https://open.spotify.com/artist/1jsmqw6pME0Yj47diPFh0C) | [VERY BEST ROLL OVER 20TH](https://open.spotify.com/album/3u9ZFJXLKKZ5ImLzFPtEWW) | 6:39 | 2024-08-25 |  |
 | [OVER THE TROUBLE](https://open.spotify.com/track/3HLkg0Onc6EsB7JdW9fR1i) | [Yuji Oda](https://open.spotify.com/artist/6W9gf3YMU58hAlbcnGPKbJ) | [SCREEN PLAY](https://open.spotify.com/album/4he7uaSB2wXv4SO4gKxElL) | 5:31 | 2023-07-22 |  |
 | [Please Forgive Me](https://open.spotify.com/track/03EnOL1O9EKi9CFNmPyrCm) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Anthology](https://open.spotify.com/album/4vWdSsgQzazxS7ndj9VcnO) | 5:55 | 2024-03-10 |  |
 | [Please Forgive Me](https://open.spotify.com/track/1HDaENkQhUMm16pjdxZvHn) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Anthology](https://open.spotify.com/album/6XkXta8AXNmXkZAxM0CYqW) | 5:55 | 2023-07-22 | 2024-04-19 |
 | [Regulate](https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 4:08 | 2023-07-22 |  |
-| [Rock 'N' Roll Star](https://open.spotify.com/track/6q9H9JcGZYKkOcwSn3kjRW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [DEFINITELY MAYBE](https://open.spotify.com/album/2zs3HNN9Mng4xTBZ6qqt1U) | 5:23 | 2024-03-10 |  |
+| [Rock 'N' Roll Star](https://open.spotify.com/track/6q9H9JcGZYKkOcwSn3kjRW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe](https://open.spotify.com/album/2zs3HNN9Mng4xTBZ6qqt1U) | 5:23 | 2024-03-10 |  |
 | [Rock 'n' Roll Star \- Remastered](https://open.spotify.com/track/4bQHPFjRT6O1KdMCd4cD9u) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 5:22 | 2023-07-22 | 2024-04-19 |
 | [Rocks](https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Give Out But Don't Give Up](https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8) | 3:37 | 2023-07-22 | 2024-04-19 |
 | [Rocks](https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze), [George Drakoulias](https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG), [David Bianco](https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6) | [Give Out But Don't Give Up](https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ) | 3:35 | 2024-03-10 |  |

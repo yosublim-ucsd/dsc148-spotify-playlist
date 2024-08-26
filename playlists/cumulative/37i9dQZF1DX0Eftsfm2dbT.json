@@ -11639,6 +11639,24 @@
     },
     {
       "album": {
+        "name": "My Verse",
+        "url": "https://open.spotify.com/album/0ObZ3hwZsVI51HFMAxSkqI"
+      },
+      "artists": [
+        {
+          "name": "Charlu",
+          "url": "https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175601,
+      "name": "My Verse",
+      "url": "https://open.spotify.com/track/4mmV9ZNZY9SyaiSXmeutNK"
+    },
+    {
+      "album": {
         "name": "Nail Sounds",
         "url": "https://open.spotify.com/album/34KZGV0Hdx8WFbwI6RqgHI"
       },

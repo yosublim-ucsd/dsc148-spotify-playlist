@@ -1,12 +1,12 @@
 {
-  "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 53367,
+  "description": "This is Nick Drake. Tutti i brani in un'unica playlist.",
+  "num_followers": 53389,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAACc7XCHp/UsDDaKtO0vxwna",
+  "snapshot_id": "ZskigAAAAADVcEM+lOJTZMXP+D9JVZmz",
   "tracks": [
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 203986,
-      "name": "Hanging On A Star",
-      "url": "https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb"
+      "duration_ms": 131680,
+      "name": "Mayfair - Cambridge Version",
+      "url": "https://open.spotify.com/track/6istaDvCXRRswqM4tJRzmE"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 131680,
-      "name": "Mayfair - Cambridge Version",
-      "url": "https://open.spotify.com/track/6istaDvCXRRswqM4tJRzmE"
+      "duration_ms": 203986,
+      "name": "Hanging On A Star",
+      "url": "https://open.spotify.com/track/3lpkLZfD2RJltSaAGgmoxb"
     },
     {
       "added_at": null,

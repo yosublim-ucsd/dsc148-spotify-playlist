@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover:  Kobe Bryant
+> Fourth quarter, two minutes left .\. get locked in\. Cover:  Floyd Mayweather Jr.
 
 670 songs - 1 day 9 hr 59 min
 

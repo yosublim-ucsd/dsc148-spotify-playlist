@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 79648,
+  "num_followers": 79660,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,26 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
+        "name": "FRESH AND NEW",
+        "url": "https://open.spotify.com/album/6y5eGkaWm3HPeuMi8P7fiy"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "FRESH AND NEW",
+      "url": "https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
         "name": "One Sixty",
         "url": "https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG"
       },
@@ -747,26 +767,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "FRESH AND NEW",
-        "url": "https://open.spotify.com/album/6y5eGkaWm3HPeuMi8P7fiy"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        },
-        {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "FRESH AND NEW",
-      "url": "https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "Bringing Me Joy",
         "url": "https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m"
       },
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "Rita Ora",
         "url": "https://open.spotify.com/album/5q9LTtptGJ6gk8Kaf6bUmk"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
         "name": "Don't Leave",
         "url": "https://open.spotify.com/album/1023h6LdMEZq4bN9Iwu8dt"
       },
@@ -871,6 +871,26 @@
       "duration_ms": 196363,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 168369,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -935,6 +955,22 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 211714,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
         "name": "How It Is",
         "url": "https://open.spotify.com/album/2x4kUhphJ4TI0I3KuvqA0o"
       },
@@ -967,42 +1003,6 @@
       "duration_ms": 198189,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 168369,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 211714,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
     },
     {
       "added_at": "2024-08-22 23:00:00",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-08-22 23:00:00",
       "album": {
-        "name": "Wild (bullet tooth Remix)",
-        "url": "https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Wild - bullet tooth Remix",
-      "url": "https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE"
-    },
-    {
-      "added_at": "2024-08-22 23:00:00",
-      "album": {
         "name": "Higher (Prozak Remix)",
         "url": "https://open.spotify.com/album/3fJ3Gf8ERWsUBL0H9NBZUp"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 269999,
       "name": "Higher - Prozak Remix",
       "url": "https://open.spotify.com/track/4IE8Z3TFLU4K0rL7YsO5ER"
+    },
+    {
+      "added_at": "2024-08-22 23:00:00",
+      "album": {
+        "name": "Wild (bullet tooth Remix)",
+        "url": "https://open.spotify.com/album/6zq84gcL04a7PG5z9XVctR"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Wild - bullet tooth Remix",
+      "url": "https://open.spotify.com/track/69fKLi2YhI5C6MmFQegAwE"
     }
   ],
   "unique_name": "New UK Garage",

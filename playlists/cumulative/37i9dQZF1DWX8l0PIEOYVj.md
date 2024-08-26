@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: CloZee and LSDREAM
 
-643 songs - 1 day 14 hr 25 min
+644 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [222† ∂∆ §§§](https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [222† ∂∆ §§§](https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar) | 4:52 | 2023-06-09 | 2023-11-18 |
 | [7\-DS](https://open.spotify.com/track/3KAHkivOxoBLPeWMiPwYjO) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij) | [7\-DS](https://open.spotify.com/album/4zyyVHaWLaQw0vyYTKV77E) | 2:31 | 2023-08-25 |  |
 | [A Better World](https://open.spotify.com/track/7MARy6sJ24UhLfbEsVs7a0) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [A Better World](https://open.spotify.com/album/5WfRc0e7iFhENKMyD8jOxO) | 3:50 | 2024-03-15 |  |
-| [A Mere Blip In Your Timeline](https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [A Mere Blip In Your Timeline](https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb) | 3:26 | 2023-03-10 |  |
+| [A Mere Blip In Your Timeline](https://open.spotify.com/track/6MSNsf4mGsh1vvoRgQu3zG) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [A Mere Blip In Your Timeline](https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb) | 3:26 | 2023-03-10 | 2024-08-26 |
 | [A Million Miles](https://open.spotify.com/track/701AA4jldjmxUjOvP5sh1R) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [A Million Miles](https://open.spotify.com/album/4ltKsW9EWbYFkVCRfsvXl2) | 4:57 | 2022-07-08 | 2022-08-06 |
 | [Afraid To Love](https://open.spotify.com/track/0p1cSoBK2iGy3NRCUDCgYs) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Afraid To Love](https://open.spotify.com/album/4oTyTcvgXWAceOKX9LtspZ) | 3:56 | 2022-07-08 | 2023-04-09 |
 | [Afraid To Love](https://open.spotify.com/track/0jNC36dKx4iqoOZ0fb49aJ) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [Afraid To Love](https://open.spotify.com/album/7wE5tNPadKXX5C1SG9kuIS) | 3:56 | 2022-08-26 | 2023-06-01 |
@@ -624,6 +624,7 @@
 | [When I'm Gone](https://open.spotify.com/track/6upXAlN0tlTavXMenVWna9) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [XAELO](https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV) | [When I'm Gone](https://open.spotify.com/album/3ATE1QVGkAwClC83f3YeBG) | 4:22 | 2022-08-19 | 2024-07-13 |
 | [When I'm Gone \- NGHTMRE Remix](https://open.spotify.com/track/3wO31bU00RPlGXrZVxSnrz) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [XAELO](https://open.spotify.com/artist/4jz58WEDWGF8fy6s58F2nV), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [When I'm Gone \(NGHTMRE Remix\)](https://open.spotify.com/album/7izHE9ywehTSlhRcTZKopg) | 3:42 | 2023-03-10 | 2024-05-04 |
 | [When You Were Mine](https://open.spotify.com/track/493ydMYkpqzzn69ztUszv3) | [STAR SEED](https://open.spotify.com/artist/5xR2U3IJuuJP89isSMnxtd), [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [When You Were Mine](https://open.spotify.com/album/4qH0ODF72DZORJwJU698p7) | 3:31 | 2023-09-29 | 2023-12-17 |
+| [Where We Begin](https://open.spotify.com/track/6rf680mAgiGns6trRbEJ3g) | [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Where We Begin](https://open.spotify.com/album/1oZ9rIZfHUYdUN4Gcyz731) | 4:14 | 2024-08-23 |  |
 | [Where You Are](https://open.spotify.com/track/5oTeS54T2KErbIe5XwJbjW) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Where You Are](https://open.spotify.com/album/11ZzN3XPH3M2DuLLAthWxR) | 3:52 | 2024-05-03 |  |
 | [Wherever You Go](https://open.spotify.com/track/2NolG4iiuoPfBtofjRdctc) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [Distance](https://open.spotify.com/album/3CBJdbiqPhdBSUuPpn2YdF) | 2:44 | 2022-08-26 | 2023-03-01 |
 | [Wherever You Go](https://open.spotify.com/track/7eGesoKVNP8jJig7xgmk3t) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf), [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko) | [Distance](https://open.spotify.com/album/4LoqJkatX8j9Xtrj3moCE1) | 2:44 | 2023-01-13 | 2023-09-30 |

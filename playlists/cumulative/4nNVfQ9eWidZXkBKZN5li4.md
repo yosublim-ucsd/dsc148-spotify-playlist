@@ -4,7 +4,7 @@
 
 > Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon\. Follow now!
 
-298 songs - 18 hr 4 min
+299 songs - 18 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Kuch Bhi Ho Jaye](https://open.spotify.com/track/2uzEDXVEAjLhGynxLu1dd9) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Kuch Bhi Ho Jaye](https://open.spotify.com/album/17t9HFufT9JMKI2kAzMkfH) | 4:34 | 2020-09-21 | 2022-01-14 |
 | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK) | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9) | 3:15 | 2022-01-13 | 2022-09-06 |
 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 | 2018-09-25 |  |
+| [kya chahiye](https://open.spotify.com/track/7pLfiHFblxTwjI81HMjwpE) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [kya chahiye](https://open.spotify.com/album/4UTgiprdsux6NLym90UVJM) | 4:43 | 2024-08-25 |  |
 | [Kyaa Baat Haii 2.0 \(From "Govinda Naam Mera"\)](https://open.spotify.com/track/3SxOgJihDKlbZ9C1OvLgNs) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kyaa Baat Haii 2.0 \(From "Govinda Naam Mera"\)](https://open.spotify.com/album/2WGf3hNRhDAbcI29cAFolO) | 2:56 | 2022-12-06 |  |
 | [Kyun? \(feat\. Mridul Anil\)](https://open.spotify.com/track/4DLlVmOXvpFfvfyI0roVmZ) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Mridul Anil](https://open.spotify.com/artist/3uVGKUu4pjlBUJdV879eb3) | [Kyun? \(feat\. Mridul Anil\)](https://open.spotify.com/album/1QUUpXpT2TGByXDISyK9W6) | 3:39 | 2021-11-02 | 2021-11-09 |
 | [Lagdi Lahore Di \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5I2wbDvSI98HLVB42YO9sU) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vee](https://open.spotify.com/artist/5aLCSARkIADqbSrMOrunOH) | [Lagdi Lahore Di \(From "Street Dancer 3D"\)](https://open.spotify.com/album/1PQ8K9syD1KiKORuiRWF1w) | 3:35 | 2020-01-20 | 2022-04-19 |

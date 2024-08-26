@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Afro diaspora cuts from around the globe\. Cover: Omah Lay
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,587 likes - 107 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,590 likes - 107 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
-  "description": "This is J\u00e3o. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 198859,
+  "description": "This Is J\u00e3o. Los temas esenciales, todos en una lista.",
+  "num_followers": 198896,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAACOme6KlVe/tndJh9aSDfJS",
+  "snapshot_id": "ZskigAAAAADFBahBvdzP4Sns0x/BLK6L",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 181234,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
+      "duration_ms": 100665,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/48hK09fSQ98TncY4VaPvnX"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 100665,
-      "name": "Carnaval",
-      "url": "https://open.spotify.com/track/48hK09fSQ98TncY4VaPvnX"
+      "duration_ms": 181234,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6LVzmx8BF8BFsqnpYKx3C5"
     },
     {
       "added_at": null,

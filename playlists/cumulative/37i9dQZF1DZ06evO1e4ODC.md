@@ -2,7 +2,7 @@
 
 ### [This Is Jesús Adrián Romero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1e4ODC)
 
-> This Is Jesús Adrián Romero\. Sus mejores éxitos, todos en una playlist.
+> This Is Jesús Adrián Romero\. Los temas esenciales, todos en una lista.
 
 51 songs - 3 hr 38 min
 

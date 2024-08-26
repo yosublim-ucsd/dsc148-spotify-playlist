@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AbaTyAAAAADxTMt8gMjYl6I+GBMBHGqO",
+  "snapshot_id": "AbaZLAAAAAATNJ0pn6F3RBjUaQZIafA3",
   "tracks": [
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1sgDyuLooyvEML4oHspNza"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5uflYpTmuK0np3jxcQC85M"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Rolling Up the Welcome Mat",
         "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/65eeFF3JE3YytATkV5Ga1Y"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Better Than You're Used To",
         "url": "https://open.spotify.com/album/37GJGzAddc4qHBq4UySNLS"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/7stizS5H8h8ABU390mkhZC"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "One Night in Nashville",
         "url": "https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep"
@@ -113,23 +113,7 @@
       "url": "https://open.spotify.com/track/2kUBH7S2TKGx5qgn1X2yUe"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
-      "album": {
-        "name": "GOOD TIME",
-        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        }
-      ],
-      "duration_ms": 172693,
-      "name": "NO SAD SONGS",
-      "url": "https://open.spotify.com/track/7bL7jrv7ZOlSotkWa7UNuR"
-    },
-    {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Sorry Mom",
         "url": "https://open.spotify.com/album/0rxM61BYIAoyY2KvMOUwjo"
@@ -149,7 +133,23 @@
       "url": "https://open.spotify.com/track/0ITWLlbQ01CXHmh5j7XD5k"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
+      "album": {
+        "name": "GOOD TIME",
+        "url": "https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        }
+      ],
+      "duration_ms": 172693,
+      "name": "NO SAD SONGS",
+      "url": "https://open.spotify.com/track/7bL7jrv7ZOlSotkWa7UNuR"
+    },
+    {
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/6NQRyB65XYawngq6Cq1uKm"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/6D5Rtbk33c876AkZJWxmbm"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Rolling Up the Welcome Mat",
         "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/0nkOSp2DLhgrElR8lPPteZ"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Tabasco & Sweet Tea",
         "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Mr. Sun",
         "url": "https://open.spotify.com/album/1zb7kVc7JA7ew7OIdj0wOB"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/0RREmioXzocBQXxZOep4Rf"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/2JEWiDPkSPFc28NWLZoI9t"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Come Get Your Memory",
         "url": "https://open.spotify.com/album/5p1dDu2h83DMOPi9ULbqts"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/4RPjAv4rV1xypsuBd7EiMi"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Dallas Smith",
         "url": "https://open.spotify.com/album/3Fesk0ynWRBHEj7qk22r3B"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/7AQhTq4M6yXNX6inQC1op5"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Rolling Up the Welcome Mat (For Good)",
         "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/0CWzAubKh2XcmGVdGZfJTV"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/2XZ2iNsKb70iobqOYqcnpw"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Win Anyway",
         "url": "https://open.spotify.com/album/4JreOb3v50NkRrGyZxNRXC"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/3ybYCEZBzVasEAHpix0ihF"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/498mz1TlZyPbyEEbF0YScP"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Fake Names",
         "url": "https://open.spotify.com/album/6HR8wY3bzZWNoU3sJZY2bX"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/2ClUu1kEWAGb6KZroRkkUq"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/0BhWiby1vUZaFUzmKvk9YK"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "SUBJECT TO CHANGE",
         "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/2ioPOUIEdDPabQsQly3tWX"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Blue Dream Baby",
         "url": "https://open.spotify.com/album/2uTVxVa04MmJ9afai3a9cc"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/2cHjdUBcdnnCGdubhCmLbM"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "shot in the dark",
         "url": "https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/5Gz4MqUn5CcgDWK0ES4650"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "One Night in Nashville",
         "url": "https://open.spotify.com/album/2xBdaZLyGFkEgyScXSwZep"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/6kFOpKw4eA6efL9nNbokOy"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Along The Way",
         "url": "https://open.spotify.com/album/1xfdHLXMtp4hAhRLoMdiRJ"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/4AkhBwuqQZQidZFkJICQsd"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Not Afraid to Say Goodbye",
         "url": "https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "TWENTY SOMETHING",
         "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/6Cx68IbqamOsYnfxLh1WLX"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "FLOWER SHOPS (THE ALBUM): Two Dozen Roses",
         "url": "https://open.spotify.com/album/5BtYFs4SDVtDNnFFeXgEjw"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/0b6P2V709915uSGLK9QHdW"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Grow Young With You",
         "url": "https://open.spotify.com/album/6JJRmHFa9NvHxa6vm6NU93"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/40BMOboIh9QMSRQfiagS3w"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "What A Song Can Do",
         "url": "https://open.spotify.com/album/6WFBqvXyejttGfBbyJllyd"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/4Z75erzbrzuJ3tSPRZDcdO"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "butterfly (feat. Karen Fairchild)",
         "url": "https://open.spotify.com/album/4MV40qreGLrt6Tsb1a4U0y"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/05aF35gAGVmmvsZp7wlgwf"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Killed The Cowboy",
         "url": "https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/3SZ94PA3dLogWLvBEPD2dv"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Tulip Drive",
         "url": "https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/2kZINzKJ48m68G97jlDm89"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "shot in the dark",
         "url": "https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/3Lv5kxgINqLLGM3ZoIHgRL"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "less than three",
         "url": "https://open.spotify.com/album/3yHXeIqPAFAFEAoxeErVZX"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/6mvZMZaPix0TNCRYObsLI0"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/1LmlKG7YUCj5lB7Ren2eOE"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/2In2EZDnS9jPScxdgx8axv"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Choosing You",
         "url": "https://open.spotify.com/album/3ic1j88D0kLfyBKotz1RFP"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/0jMDxeokB86Gp3SHMZQUVO"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "Don't Give Away The Ending",
         "url": "https://open.spotify.com/album/44zy1dzJbG7A0HMlrk4PZa"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/53EbKGWXglVTpMZbYC165K"
     },
     {
-      "added_at": "2024-08-24 03:20:05",
+      "added_at": "2024-08-25 02:20:19",
       "album": {
         "name": "1",
         "url": "https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx"

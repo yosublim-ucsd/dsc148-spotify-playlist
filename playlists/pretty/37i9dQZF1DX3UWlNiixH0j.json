@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30b9\u30ab\u30fc\u30c8 Skirt",
-  "num_followers": 58904,
+  "num_followers": 58910,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
+        "name": "\u91d1\u661f",
+        "url": "https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 217657,
+      "name": "\u91d1\u661f",
+      "url": "https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ"
+    },
+    {
+      "added_at": "2024-08-22 16:36:10",
+      "album": {
         "name": "\u611b\u306e\u8f4d",
         "url": "https://open.spotify.com/album/55NZ1KkUPQlWBQyCfDJaSA"
       },
@@ -667,6 +683,22 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
+        "name": "escaper",
+        "url": "https://open.spotify.com/album/1N6dcviDSU9kWkqHOizc1Z"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 199264,
+      "name": "escaper",
+      "url": "https://open.spotify.com/track/2Mm4RrOBvZe7tWEeWk4R6i"
+    },
+    {
+      "added_at": "2024-08-22 16:36:10",
+      "album": {
         "name": "\u306a\u3093\u3066\u306d",
         "url": "https://open.spotify.com/album/3sGUJFiOE1W7QFuPwI4sAu"
       },
@@ -683,6 +715,22 @@
       "duration_ms": 152259,
       "name": "\u306a\u3093\u3066\u306d",
       "url": "https://open.spotify.com/track/71TekkQ6MUZf8wsUKhuxhx"
+    },
+    {
+      "added_at": "2024-08-22 16:36:10",
+      "album": {
+        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 203011,
+      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
+      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
     },
     {
       "added_at": "2024-08-22 16:36:10",
@@ -719,34 +767,18 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
-        "name": "\u91d1\u661f",
-        "url": "https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0"
+        "name": "about me",
+        "url": "https://open.spotify.com/album/5AFqjtAnnkW0yAjMvg7hW2"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "swetty",
+          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
         }
       ],
-      "duration_ms": 217657,
-      "name": "\u91d1\u661f",
-      "url": "https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ"
-    },
-    {
-      "added_at": "2024-08-22 16:36:10",
-      "album": {
-        "name": "escaper",
-        "url": "https://open.spotify.com/album/1N6dcviDSU9kWkqHOizc1Z"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 199264,
-      "name": "escaper",
-      "url": "https://open.spotify.com/track/2Mm4RrOBvZe7tWEeWk4R6i"
+      "duration_ms": 199549,
+      "name": "gloom",
+      "url": "https://open.spotify.com/track/1YfSPVzvMbVvnsL1Q2tUKR"
     },
     {
       "added_at": "2024-08-22 16:36:10",
@@ -767,22 +799,6 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
-        "name": "about me",
-        "url": "https://open.spotify.com/album/5AFqjtAnnkW0yAjMvg7hW2"
-      },
-      "artists": [
-        {
-          "name": "swetty",
-          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
-        }
-      ],
-      "duration_ms": 199549,
-      "name": "gloom",
-      "url": "https://open.spotify.com/track/1YfSPVzvMbVvnsL1Q2tUKR"
-    },
-    {
-      "added_at": "2024-08-22 16:36:10",
-      "album": {
         "name": "SPIN!",
         "url": "https://open.spotify.com/album/0tTKD0HDyTOjaXtbqsRXUY"
       },
@@ -795,6 +811,22 @@
       "duration_ms": 188630,
       "name": "SPIN!",
       "url": "https://open.spotify.com/track/0TRhOhFv8rLQlB7VEGfzxd"
+    },
+    {
+      "added_at": "2024-08-22 16:36:10",
+      "album": {
+        "name": "475",
+        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 197942,
+      "name": "\u4e0d\u5c48\u306b\u82b1",
+      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
     },
     {
       "added_at": "2024-08-22 16:36:10",
@@ -831,22 +863,6 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
-        "name": "475",
-        "url": "https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn"
-      },
-      "artists": [
-        {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
-        }
-      ],
-      "duration_ms": 197942,
-      "name": "\u4e0d\u5c48\u306b\u82b1",
-      "url": "https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM"
-    },
-    {
-      "added_at": "2024-08-22 16:36:10",
-      "album": {
         "name": "Unlucky!!",
         "url": "https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 94400,
       "name": "\u4ffa\u306b\u771f\u5b9f\u3092\u6559\u3048\u3066\u304f\u308c!!",
       "url": "https://open.spotify.com/track/1K9T9R5EgS4TThkDzjvx1W"
-    },
-    {
-      "added_at": "2024-08-22 16:36:10",
-      "album": {
-        "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-        "url": "https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw"
-      },
-      "artists": [
-        {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
-        }
-      ],
-      "duration_ms": 203011,
-      "name": "\u30db\u30e0\u30f3\u30af\u30eb\u30b9",
-      "url": "https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU"
     },
     {
       "added_at": "2024-08-22 16:36:10",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
-        "name": "\u30e9\u30f3\u30bf\u30f3",
-        "url": "https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe"
+        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
+        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
       },
       "artists": [
         {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
         }
       ],
-      "duration_ms": 206133,
-      "name": "\u30e9\u30f3\u30bf\u30f3",
-      "url": "https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU"
+      "duration_ms": 154918,
+      "name": "\u30b8\u30e3\u30fc\u30b8 - 2024 ver.",
+      "url": "https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS"
     },
     {
       "added_at": "2024-08-22 16:36:10",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
-        "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
-        "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "duration_ms": 154918,
-      "name": "\u30b8\u30e3\u30fc\u30b8 - 2024 ver.",
-      "url": "https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS"
-    },
-    {
-      "added_at": "2024-08-22 16:36:10",
-      "album": {
         "name": "\u30a6\u30a7\u30eb\u30c6\u30eb",
         "url": "https://open.spotify.com/album/7I2pdc2wjO9J0jmZ2ldDYS"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 229553,
       "name": "\u30a6\u30a7\u30eb\u30c6\u30eb",
       "url": "https://open.spotify.com/track/4iYvEBKfRIKQLv39EEZeLi"
+    },
+    {
+      "added_at": "2024-08-22 16:36:10",
+      "album": {
+        "name": "\u30e9\u30f3\u30bf\u30f3",
+        "url": "https://open.spotify.com/album/0SW1ThYU7yZwF0FQi4u7qe"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 206133,
+      "name": "\u30e9\u30f3\u30bf\u30f3",
+      "url": "https://open.spotify.com/track/4osMB4WygimYX7kKCx8OxU"
     },
     {
       "added_at": "2024-08-22 16:36:10",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
+        "name": "18\u624d\u306e\u590f\u4f11\u307f",
+        "url": "https://open.spotify.com/album/7HjvNgMZN1YHWOFNbu36Ob"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
         }
       ],
-      "duration_ms": 242836,
-      "name": "Twenty-Twenty",
-      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
+      "duration_ms": 221530,
+      "name": "18\u624d\u306e\u590f\u4f11\u307f",
+      "url": "https://open.spotify.com/track/4SKUc66FMz0BXpqaF2G94u"
     },
     {
       "added_at": "2024-08-22 16:36:10",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
-        "name": "18\u624d\u306e\u590f\u4f11\u307f",
-        "url": "https://open.spotify.com/album/7HjvNgMZN1YHWOFNbu36Ob"
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
       },
       "artists": [
         {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 221530,
-      "name": "18\u624d\u306e\u590f\u4f11\u307f",
-      "url": "https://open.spotify.com/track/4SKUc66FMz0BXpqaF2G94u"
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
     },
     {
       "added_at": "2024-08-22 16:36:10",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
-        "name": "Mah\u014dgakk\u014d",
-        "url": "https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 284817,
-      "name": "Forbidden Thing (Kimmotsu)",
-      "url": "https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks"
-    },
-    {
-      "added_at": "2024-08-22 16:36:10",
-      "album": {
         "name": "OKACHIMACHI FRIDAY NIGHT",
         "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 198088,
       "name": "OKACHIMACHI FRIDAY NIGHT",
       "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
+    },
+    {
+      "added_at": "2024-08-22 16:36:10",
+      "album": {
+        "name": "Mah\u014dgakk\u014d",
+        "url": "https://open.spotify.com/album/4pNJ4qCheT1fQASProMDrj"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 284817,
+      "name": "Forbidden Thing (Kimmotsu)",
+      "url": "https://open.spotify.com/track/0a5EKnEXfZHtKATfNcmnks"
     },
     {
       "added_at": "2024-08-22 16:36:10",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
-        "name": "\u307e\u3060\u65e9\u3044\u679c\u7269",
-        "url": "https://open.spotify.com/album/20nMIY4kVjmrehAzij4ed0"
-      },
-      "artists": [
-        {
-          "name": "mei ehara",
-          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
-        }
-      ],
-      "duration_ms": 289648,
-      "name": "\u307e\u3060\u65e9\u3044\u679c\u7269",
-      "url": "https://open.spotify.com/track/3TdQ9gzUlb8xLs6tBBMzEW"
-    },
-    {
-      "added_at": "2024-08-22 16:36:10",
-      "album": {
         "name": "\u30e9\u30c3\u30ad\u30fc/\u3055\u3073\u3057\u304f\u306a\u3044",
         "url": "https://open.spotify.com/album/0l2nlCoKeohFcI3vnF23Sq"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
-        "name": "Daydreams",
-        "url": "https://open.spotify.com/album/4njWvo2B5vDghHpShpiWF8"
+        "name": "\u307e\u3060\u65e9\u3044\u679c\u7269",
+        "url": "https://open.spotify.com/album/20nMIY4kVjmrehAzij4ed0"
       },
       "artists": [
         {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
         }
       ],
-      "duration_ms": 216221,
-      "name": "Daydreams",
-      "url": "https://open.spotify.com/track/51lACgMujfk4XYOgQ7iNc5"
+      "duration_ms": 289648,
+      "name": "\u307e\u3060\u65e9\u3044\u679c\u7269",
+      "url": "https://open.spotify.com/track/3TdQ9gzUlb8xLs6tBBMzEW"
     },
     {
       "added_at": "2024-08-22 16:36:10",
@@ -1407,6 +1391,22 @@
       "duration_ms": 74451,
       "name": "\u30b0\u30ea\u30f3\u30fb\u30b0\u30ea\u30fc\u30f3\u30ec\u30c3\u30c9",
       "url": "https://open.spotify.com/track/1TkMAu5WSBvxcM7WcG7x0K"
+    },
+    {
+      "added_at": "2024-08-22 16:36:10",
+      "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/4njWvo2B5vDghHpShpiWF8"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 216221,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/51lACgMujfk4XYOgQ7iNc5"
     },
     {
       "added_at": "2024-08-22 16:36:10",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
+        "name": "\u6e1a\u3067\u4f1a\u3044\u307e\u3057\u3087\u3046",
+        "url": "https://open.spotify.com/album/1tR10RiFgLv50ZWl6EjF4T"
+      },
+      "artists": [
+        {
+          "name": "Laura day romance",
+          "url": "https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1"
+        }
+      ],
+      "duration_ms": 319336,
+      "name": "\u6e1a\u3067\u4f1a\u3044\u307e\u3057\u3087\u3046",
+      "url": "https://open.spotify.com/track/07y4uMenyskCjDuxfdXuGB"
+    },
+    {
+      "added_at": "2024-08-22 16:36:10",
+      "album": {
         "name": "LAZY",
         "url": "https://open.spotify.com/album/0OCm5RpB0BYQhrYpH3unft"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 225263,
       "name": "LAZY",
       "url": "https://open.spotify.com/track/4hOX56ThfbrHQyNfBisB92"
-    },
-    {
-      "added_at": "2024-08-22 16:36:10",
-      "album": {
-        "name": "\u900f\u660e / \u30ea\u30b0\u30ec\u30c3\u30c8\u30d9\u30a4\u30d3\u30fc\u30ba",
-        "url": "https://open.spotify.com/album/7wL6j59eR6K2JL3kF8VhFU"
-      },
-      "artists": [
-        {
-          "name": "Laura day romance",
-          "url": "https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1"
-        }
-      ],
-      "duration_ms": 285022,
-      "name": "\u900f\u660e",
-      "url": "https://open.spotify.com/track/2eJcQPq8NIdPw0ijl1lZRu"
     },
     {
       "added_at": "2024-08-22 16:36:10",
@@ -1587,6 +1587,38 @@
     {
       "added_at": "2024-08-22 16:36:10",
       "album": {
+        "name": "\u900f\u660e / \u30ea\u30b0\u30ec\u30c3\u30c8\u30d9\u30a4\u30d3\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/7wL6j59eR6K2JL3kF8VhFU"
+      },
+      "artists": [
+        {
+          "name": "Laura day romance",
+          "url": "https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1"
+        }
+      ],
+      "duration_ms": 285022,
+      "name": "\u900f\u660e",
+      "url": "https://open.spotify.com/track/2eJcQPq8NIdPw0ijl1lZRu"
+    },
+    {
+      "added_at": "2024-08-22 16:36:10",
+      "album": {
+        "name": "Your Favorite Things",
+        "url": "https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        }
+      ],
+      "duration_ms": 208714,
+      "name": "Side Step",
+      "url": "https://open.spotify.com/track/386pH7tdgWOUkvAEija9eK"
+    },
+    {
+      "added_at": "2024-08-22 16:36:10",
+      "album": {
         "name": "\u8594\u8587\u3068\u91ce\u7363",
         "url": "https://open.spotify.com/album/03LTzBXPYqTGhyL72BYVm1"
       },
@@ -1619,38 +1651,6 @@
       "duration_ms": 177259,
       "name": "trank",
       "url": "https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu"
-    },
-    {
-      "added_at": "2024-08-22 16:36:10",
-      "album": {
-        "name": "Your Favorite Things",
-        "url": "https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e"
-      },
-      "artists": [
-        {
-          "name": "Satoko Shibata",
-          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
-        }
-      ],
-      "duration_ms": 208714,
-      "name": "Side Step",
-      "url": "https://open.spotify.com/track/386pH7tdgWOUkvAEija9eK"
-    },
-    {
-      "added_at": "2024-08-22 16:36:10",
-      "album": {
-        "name": "\u6e1a\u3067\u4f1a\u3044\u307e\u3057\u3087\u3046",
-        "url": "https://open.spotify.com/album/1tR10RiFgLv50ZWl6EjF4T"
-      },
-      "artists": [
-        {
-          "name": "Laura day romance",
-          "url": "https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1"
-        }
-      ],
-      "duration_ms": 319336,
-      "name": "\u6e1a\u3067\u4f1a\u3044\u307e\u3057\u3087\u3046",
-      "url": "https://open.spotify.com/track/07y4uMenyskCjDuxfdXuGB"
     },
     {
       "added_at": "2024-08-22 16:36:10",

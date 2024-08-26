@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: NENE
 
-996 songs - 2 day 3 hr 27 min
+997 songs - 2 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,6 +519,7 @@
 | [My own opinion](https://open.spotify.com/track/49VBNGUKygNZ8A8gBVcWsh) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS) | [My own opinion](https://open.spotify.com/album/6sCVPlwWJEoxBsp8Ek4eVW) | 2:46 | 2023-10-24 | 2023-11-17 |
 | [MY STYLE](https://open.spotify.com/track/6yfv5VFsmjbxIf89IGMeWa) | [DJ BEERT](https://open.spotify.com/artist/00QkMi79pVpCzmT7F8iwui), [GOICHI](https://open.spotify.com/artist/0tcBoPOfDPwKoAIsEhQHiK), [Ashley](https://open.spotify.com/artist/3YIgqLtuGwaKjXRyFRflWh), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [MY STYLE](https://open.spotify.com/album/5kIs6047lXF8coiGvCQMFX) | 3:25 | 2023-11-29 | 2024-01-26 |
 | [MY TURN](https://open.spotify.com/track/3Wlh7leleaZiPcBa551xKU) | [FTL SHINKI](https://open.spotify.com/artist/6AU9u7PHcTl8eTUAiFQ7YI), [Thlive](https://open.spotify.com/artist/6DaGmFvPW9EEpyLA3uBtzg), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [MY TURN](https://open.spotify.com/album/50WLCXtvcT4RAnjA6mZhBh) | 2:55 | 2023-11-22 | 2024-01-05 |
+| [My Verse](https://open.spotify.com/track/4mmV9ZNZY9SyaiSXmeutNK) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [My Verse](https://open.spotify.com/album/0ObZ3hwZsVI51HFMAxSkqI) | 2:55 | 2024-08-26 |  |
 | [Nail Sounds](https://open.spotify.com/track/216ATzMjBAufHAcRpifWvW) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Nail Sounds](https://open.spotify.com/album/34KZGV0Hdx8WFbwI6RqgHI) | 2:44 | 2023-10-31 | 2023-11-22 |
 | [NAIMONOHANAI](https://open.spotify.com/track/63E6Sgi0JjSgCG3m4Z7soL) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [KID PENSEUR](https://open.spotify.com/artist/68ea2WqkkypaKoakuoNbbl) | [NAIMONOHANAI](https://open.spotify.com/album/761B5JmrYQpURbmcAlyJjX) | 2:54 | 2024-04-24 | 2024-05-01 |
 | [Naiya](https://open.spotify.com/track/1wcJpJWF1aK1WHyl7vjTR2) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Naiya](https://open.spotify.com/album/3ifbPgar0fxH4qyznObkn9) | 2:16 | 2023-09-21 | 2023-11-01 |

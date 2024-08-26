@@ -2939,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "all up in my head",
+        "url": "https://open.spotify.com/album/6bsa95yJnlTKUyJE95lkvU"
+      },
+      "artists": [
+        {
+          "name": "Sara Diana",
+          "url": "https://open.spotify.com/artist/5ChJvrPvd0oJoxv67xlT2v"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227532,
+      "name": "all up in my head",
+      "url": "https://open.spotify.com/track/5SttUdcAZEdDbJRr4Sjyrl"
+    },
+    {
+      "album": {
         "name": "All You",
         "url": "https://open.spotify.com/album/3rEGnywOTVGifGC4HayzYe"
       },
@@ -7068,7 +7086,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 116845,
       "name": "BIG BATTY GYAL",
       "url": "https://open.spotify.com/track/1iaR2XAs4iIAhR9cTjDWjX"
@@ -9076,6 +9094,24 @@
       "duration_ms": 161666,
       "name": "Bump and Grind",
       "url": "https://open.spotify.com/track/1uD32FV0ym0JOUgN4GqeAE"
+    },
+    {
+      "album": {
+        "name": "Della Chase",
+        "url": "https://open.spotify.com/album/5jJXu1mM1GovRqxufpKacC"
+      },
+      "artists": [
+        {
+          "name": "Della Chase",
+          "url": "https://open.spotify.com/artist/3SILSsY2vwHo7DT2g7YO5U"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214465,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3JAYHcnclTb4oabgQdEMgy"
     },
     {
       "album": {
@@ -22189,7 +22225,7 @@
     },
     {
       "album": {
-        "name": "Follow Me To The Bathroom - 2.0",
+        "name": "Follow Me To The Bathroom",
         "url": "https://open.spotify.com/album/4NYcNjz2kMhq6OBrtGPG9V"
       },
       "artists": [
@@ -22202,7 +22238,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156053,
-      "name": "Follow Me To The Bathroom - 2.0",
+      "name": "Follow Me To The Bathroom",
       "url": "https://open.spotify.com/track/5K9uKDr9FoFqX256NO1Spo"
     },
     {
@@ -30388,7 +30424,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 145058,
       "name": "i would die 4 u (demo)",
       "url": "https://open.spotify.com/track/3u7ZcCG9JGZOeDnSroLcGO"
@@ -45094,7 +45130,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 192381,
       "name": "Nostalgic",
       "url": "https://open.spotify.com/track/4wI0gvDI6ZMcfMIXLcAcsV"

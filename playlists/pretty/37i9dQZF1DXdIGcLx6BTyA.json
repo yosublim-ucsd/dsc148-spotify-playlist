@@ -1,6 +1,6 @@
 {
   "description": "Roll the windows down and take a few risks out on the open, country roads.",
-  "num_followers": 32307,
+  "num_followers": 32305,
   "original_name": "The Road Less Traveled",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+        "name": "Tell Me When It\u2019s Over",
+        "url": "https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 224946,
-      "name": "Feathered Indians",
-      "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
+      "duration_ms": 296933,
+      "name": "Tell Me When It\u2019s Over",
+      "url": "https://open.spotify.com/track/0E5qWMuPzjkPuZ0OdJZBDk"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -187,6 +191,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Feathered Indians",
+      "url": "https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "From A Room: Volume 2",
         "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
@@ -199,26 +219,6 @@
       "duration_ms": 179226,
       "name": "Hard Livin'",
       "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Tell Me When It\u2019s Over",
-        "url": "https://open.spotify.com/album/5bxdVStUF65zKHF4WrFNho"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 296933,
-      "name": "Tell Me When It\u2019s Over",
-      "url": "https://open.spotify.com/track/0E5qWMuPzjkPuZ0OdJZBDk"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "The SteelDrivers",
-        "url": "https://open.spotify.com/album/4OIcFaouZZHOK6HDQNPRYV"
-      },
-      "artists": [
-        {
-          "name": "The Steeldrivers",
-          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
-        }
-      ],
-      "duration_ms": 174906,
-      "name": "Drinkin' Dark Whiskey",
-      "url": "https://open.spotify.com/track/2Kh2C5PbekvEilbCOTzTt1"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Same Trailer Different Park",
         "url": "https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6"
       },
@@ -271,18 +255,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "The SteelDrivers",
+        "url": "https://open.spotify.com/album/4OIcFaouZZHOK6HDQNPRYV"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
         }
       ],
-      "duration_ms": 222653,
-      "name": "Midnight Train To Memphis",
-      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
+      "duration_ms": 174906,
+      "name": "Drinkin' Dark Whiskey",
+      "url": "https://open.spotify.com/track/2Kh2C5PbekvEilbCOTzTt1"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -303,22 +287,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Highway Queen",
-      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Port Saint Joe",
         "url": "https://open.spotify.com/album/5V6FVW8sc8yyhmDZwaNm5T"
       },
@@ -335,6 +303,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Highway Queen",
+        "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
+      },
+      "artists": [
+        {
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Highway Queen",
+      "url": "https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Here We Rest",
         "url": "https://open.spotify.com/album/2jJzPAzHCzSJAxrN3jNJmJ"
       },
@@ -347,38 +331,6 @@
       "duration_ms": 231883,
       "name": "Alabama Pines",
       "url": "https://open.spotify.com/track/4mBYupeEa1e5Ep2HU7xToZ"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 183533,
-      "name": "Lady May",
-      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions)",
-        "url": "https://open.spotify.com/album/1S6sk9yusYQoadSAbx3ZB8"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 269663,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/0NkiEX9bdIm7a06pJBbOYs"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -415,18 +367,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Find a Light",
-        "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
       "artists": [
         {
-          "name": "Blackberry Smoke",
-          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 225165,
-      "name": "Till the Wheels Fall Off",
-      "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
+      "duration_ms": 222653,
+      "name": "Midnight Train To Memphis",
+      "url": "https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -440,25 +392,41 @@
           "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 280786,
-      "name": "Whitehouse Road",
-      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
+      "duration_ms": 183533,
+      "name": "Lady May",
+      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
     },
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Reunions",
-        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
+        "name": "Cuttin' Grass - Vol. 1 (Butcher Shoppe Sessions)",
+        "url": "https://open.spotify.com/album/1S6sk9yusYQoadSAbx3ZB8"
       },
       "artists": [
         {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
         }
       ],
-      "duration_ms": 224034,
-      "name": "Dreamsicle",
-      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
+      "duration_ms": 269663,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/0NkiEX9bdIm7a06pJBbOYs"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Find a Light",
+        "url": "https://open.spotify.com/album/3l5leCt5ddRcUmcQvx1KG7"
+      },
+      "artists": [
+        {
+          "name": "Blackberry Smoke",
+          "url": "https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8"
+        }
+      ],
+      "duration_ms": 225165,
+      "name": "Till the Wheels Fall Off",
+      "url": "https://open.spotify.com/track/5jsFP9UeOXngDEslmUVozc"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -515,6 +483,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Reunions",
+        "url": "https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 224034,
+      "name": "Dreamsicle",
+      "url": "https://open.spotify.com/track/68wI8QNqMeIraj7Ix16hS3"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Old News",
         "url": "https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 280786,
+      "name": "Whitehouse Road",
+      "url": "https://open.spotify.com/track/0fbR95FEaJUxiQYaqZZukv"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0OA03FrXlln4FvE30LaEXR"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 205973,
       "name": "Make It A Good One",
       "url": "https://open.spotify.com/track/0DchT2mXret5T9JQ8D6CLE"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 183164,
-      "name": "Hope the High Road",
-      "url": "https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -623,6 +607,22 @@
       "duration_ms": 242005,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 183164,
+      "name": "Hope the High Road",
+      "url": "https://open.spotify.com/track/7r5X8KL8y0CpZZErtmOmNo"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Rollin' On",
-        "url": "https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5"
-      },
-      "artists": [
-        {
-          "name": "Jesse Daniel",
-          "url": "https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY"
-        }
-      ],
-      "duration_ms": 249706,
-      "name": "Rollin' On",
-      "url": "https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Dying Star",
         "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
       },
@@ -807,6 +791,22 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
+        "name": "Rollin' On",
+        "url": "https://open.spotify.com/album/5ZMsoF7uGHmEHDGW92QGZ5"
+      },
+      "artists": [
+        {
+          "name": "Jesse Daniel",
+          "url": "https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY"
+        }
+      ],
+      "duration_ms": 249706,
+      "name": "Rollin' On",
+      "url": "https://open.spotify.com/track/0HVNChZ47EoD5xKmXJmkOX"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/1eXKj3JRnhZB0OQ7fDRvgn"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 200386,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/55Z5eGNkXedn1N2mHwJ2hz"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Over Drinking",
+      "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -851,22 +867,6 @@
       "duration_ms": 240386,
       "name": "You Look Good in Neon",
       "url": "https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Over Drinking",
-      "url": "https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Terlingua Girl",
-        "url": "https://open.spotify.com/album/1sie66Xsn9KhVGseBhdNeF"
-      },
-      "artists": [
-        {
-          "name": "Lillie Mae",
-          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
-        }
-      ],
-      "duration_ms": 254192,
-      "name": "Terlingua Girl",
-      "url": "https://open.spotify.com/track/0YqdhC1eKW6zuAodDlhTZ8"
-    },
-    {
-      "added_at": "2024-03-25 16:53:27",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 168780,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV"
+    },
+    {
+      "added_at": "2024-03-25 16:53:27",
+      "album": {
+        "name": "Terlingua Girl",
+        "url": "https://open.spotify.com/album/1sie66Xsn9KhVGseBhdNeF"
+      },
+      "artists": [
+        {
+          "name": "Lillie Mae",
+          "url": "https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF"
+        }
+      ],
+      "duration_ms": 254192,
+      "name": "Terlingua Girl",
+      "url": "https://open.spotify.com/track/0YqdhC1eKW6zuAodDlhTZ8"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "What It Is",
-        "url": "https://open.spotify.com/album/440AzTicFLovCInQhORffL"
+        "name": "Somebody's Daughter",
+        "url": "https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
         }
       ],
-      "duration_ms": 186639,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/25fvTbY7ZwGM8l9NMucYn4"
+      "duration_ms": 226666,
+      "name": "Somebody's Daughter",
+      "url": "https://open.spotify.com/track/7GW2dqJ13S3UutqzSuvzlR"
     },
     {
       "added_at": "2024-03-25 16:53:27",
@@ -1291,50 +1291,50 @@
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Somebody's Daughter",
-        "url": "https://open.spotify.com/album/5JANosOg20QAjkayyPeb2I"
+        "name": "What It Is",
+        "url": "https://open.spotify.com/album/440AzTicFLovCInQhORffL"
       },
       "artists": [
         {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Somebody's Daughter",
-      "url": "https://open.spotify.com/track/7GW2dqJ13S3UutqzSuvzlR"
+      "duration_ms": 186639,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/25fvTbY7ZwGM8l9NMucYn4"
     },
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "Colder Than You",
-        "url": "https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R"
+        "name": "Watch the World Die",
+        "url": "https://open.spotify.com/album/57YKS5oKGEx92bZD7cLAuw"
       },
       "artists": [
         {
-          "name": "Canaan Smith",
-          "url": "https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 201618,
-      "name": "Colder Than You",
-      "url": "https://open.spotify.com/track/2blxo5iZckUK1UraX8B1nq"
+      "duration_ms": 234984,
+      "name": "Watch the World Die",
+      "url": "https://open.spotify.com/track/3xl0ZmnAng7becPu31kmOg"
     },
     {
       "added_at": "2024-03-25 16:53:27",
       "album": {
-        "name": "San Isabel",
-        "url": "https://open.spotify.com/album/0sqerD9BSgS3tuD7tEPD3M"
+        "name": "DeAnn",
+        "url": "https://open.spotify.com/album/3YYZIztXVAGgWTnoNsK1XA"
       },
       "artists": [
         {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 280813,
-      "name": "Crazy World (Judgement Day)",
-      "url": "https://open.spotify.com/track/24rXTPooQ6LoF0o3djEdYj"
+      "duration_ms": 253359,
+      "name": "God Speed",
+      "url": "https://open.spotify.com/track/2NkPawxG0L9hSrB1wU2D3z"
     }
   ],
   "unique_name": "The Road Less Traveled",

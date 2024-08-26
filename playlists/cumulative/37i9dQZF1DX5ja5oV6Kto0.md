@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Boj
 
-720 songs - 1 day 11 hr 36 min
+723 songs - 1 day 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Nang](https://open.spotify.com/track/4LAvLOhj0yCotjzB8xxmQc) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Jackuum](https://open.spotify.com/album/1WnI70R6AOPF4BdDJ6looG) | 3:05 | 2024-03-21 | 2024-03-25 |
 | [Nasa](https://open.spotify.com/track/5gcL42OzbwTHmP3aaDAo9v) | [Rvdical the Kid](https://open.spotify.com/artist/4eu9GW8WwzF6n6fb34COES), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Nasa](https://open.spotify.com/album/6PysNGAvSd0sTWoDY9eMeM) | 4:04 | 2021-02-26 | 2022-04-01 |
 | [National Anthem](https://open.spotify.com/track/3ZLMCJJnkpiHUN3XddMLd7) | [Kida Kudz](https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw) | [National Anthem](https://open.spotify.com/album/6T9xMNizbAiouk8CZlVwHy) | 3:16 | 2023-08-17 | 2024-03-08 |
+| [Necessary](https://open.spotify.com/track/4klNblGgC6vn5CSzDLW3H4) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Necessary](https://open.spotify.com/album/4BiNLm1Du56fIj23cAU6x1) | 2:07 | 2024-08-25 |  |
 | [Need You](https://open.spotify.com/track/1LuBz3QaRPSXBdIwtcjdqY) | [Dusten Truce fka D\-Truce](https://open.spotify.com/artist/4RVAC7ldsfgOf2lybypHdv), [Emmeno](https://open.spotify.com/artist/1O3XebVqhYtCfgRFJV8jxF), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y) | [Smoke Break Vol.2](https://open.spotify.com/album/3hcpu050xbDERmszMMfmF6) | 3:27 | 2023-09-14 | 2024-03-01 |
 | [New Emotions](https://open.spotify.com/track/092Owc3EItJ95apRAI8Jyr) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [New Emotions](https://open.spotify.com/album/2dJojtafQIHqOt11o0r6zY) | 2:10 | 2023-07-20 | 2023-09-22 |
 | [NEW GOVERNMENT](https://open.spotify.com/track/1Hwf5Lbx7hQjAvcl3D3CJb) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [NEW GOVERNMENT](https://open.spotify.com/album/6u9hX1uP6LpOUGhPfWAAGv) | 3:57 | 2021-12-16 | 2022-04-15 |
@@ -603,6 +604,7 @@
 | [Space Roof](https://open.spotify.com/track/4ngIqWBpc55oP0F0h0Im9X) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Papa Atey](https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB) | [Space Roof](https://open.spotify.com/album/7oCvqhcoi5BuXuVZSukM9R) | 3:49 | 2023-11-24 | 2024-06-07 |
 | [Spaces](https://open.spotify.com/track/39OoLE3Sme5QomMYe4PfoU) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [Iver Rivers](https://open.spotify.com/artist/2wlIW5379OPhXjPVdEl061) | [Run Boy, Run](https://open.spotify.com/album/1wDia3xzNcoGtQofuxPCD0) | 1:58 | 2022-05-26 | 2022-07-08 |
 | [Sparky](https://open.spotify.com/track/19FcrKMpCp4bZOxcPkTMsZ) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Mandy & The Jungle](https://open.spotify.com/album/4IMFZY59ree679oXQS36xM) | 2:24 | 2024-03-21 | 2024-03-25 |
+| [Special](https://open.spotify.com/track/77jS1yL8OuZjXP2omoc7Bf) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [Special](https://open.spotify.com/album/1Khrq0VrvwzxhY5gZlsQLT) | 2:14 | 2024-08-25 |  |
 | [Spend It](https://open.spotify.com/track/1hJBvJ2d2F9ipxKNKO1nVx) | [Pope Beats](https://open.spotify.com/artist/4odj9ozGAbq74iAxHlhmnL), [Quappi](https://open.spotify.com/artist/5Dr8JfkvTjmnoqcaOMuVif) | [Spend It](https://open.spotify.com/album/4czHjPo9grGfdg7H3gkNIy) | 2:06 | 2024-06-28 |  |
 | [Spicy](https://open.spotify.com/track/7cMWtLwxWs08ckWJFSFpZ0) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Spicy](https://open.spotify.com/album/5L9LZdUqlU9xccbynFA7Vf) | 2:49 | 2022-10-13 | 2022-10-29 |
 | [SpottieOttieDopaliscious](https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Aquemini](https://open.spotify.com/album/5ceB3rxgXqIRpsOvVzTG28) | 7:06 | 2024-03-21 | 2024-03-25 |
@@ -636,6 +638,7 @@
 | [Swing](https://open.spotify.com/track/1Ok6aF4jh2Ij3dCD33ARkG) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Shorae Moore](https://open.spotify.com/artist/7oa259fCCMN3S80h0Vmxtp) | [Swing](https://open.spotify.com/album/6dL8SxYZ6TwI0ATlUDEq2F) | 2:54 | 2023-11-24 | 2024-06-21 |
 | [Symbiosis](https://open.spotify.com/track/1xNAMQydjXH9LalZxVt4dN) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU) | [Symbiosis](https://open.spotify.com/album/4kW20Wc6qVcrBWfvVATqpN) | 4:09 | 2021-02-26 | 2022-04-29 |
 | [Table for Two](https://open.spotify.com/track/2ztim2Wblnr9vsbATzyMg2) | [Boyd](https://open.spotify.com/artist/0cNLx90Z8YDY4hPxLrHESJ) | [Table for Two](https://open.spotify.com/album/3aoMBKJZG8CDYecBihJsBp) | 3:27 | 2022-10-28 | 2023-03-18 |
+| [Take Control](https://open.spotify.com/track/1iYUdgn6p7dAMKLLVCBGeh) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [Take Control](https://open.spotify.com/album/2PPR8xDRwWykDeNBogEtMo) | 3:15 | 2024-08-25 |  |
 | [Talk To Me](https://open.spotify.com/track/1w1GgfCxvk9gE9XGpeeVEp) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R), [Nala Ayieta](https://open.spotify.com/artist/7xGpddF3zGul2T2RSUMVlF) | [Talk To Me](https://open.spotify.com/album/0oQnFQEWTHTkL4n515ZkF0) | 2:37 | 2022-08-05 | 2022-08-19 |
 | [Tamagotchi](https://open.spotify.com/track/1rlF4Fn0BIyvEiO059lng1) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Tamagotchi](https://open.spotify.com/album/46usJ9NwStBHV10Z6GSf6R) | 2:55 | 2024-07-12 |  |
 | [TDK \(feat\. SirBastien\)](https://open.spotify.com/track/3615rdkHPXPOOs1PFWd2ec) | [DAP The Contract](https://open.spotify.com/artist/12OwAxjoznv1QOdIGR9R73), [SirBastien](https://open.spotify.com/artist/4J3AoVEbI3WEaR8LHVAwRC) | [Powers Vol\. 2](https://open.spotify.com/album/4ujY9crqPurKAbu3ryYQJD) | 2:43 | 2021-07-02 | 2022-06-17 |

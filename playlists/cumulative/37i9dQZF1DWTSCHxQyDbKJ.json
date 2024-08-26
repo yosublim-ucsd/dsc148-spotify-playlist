@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 237773,
       "name": "Big Machine",
       "url": "https://open.spotify.com/track/75TJ9jx0geVtyjfHx8b6mO"
@@ -352,6 +352,24 @@
       "duration_ms": 341124,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/4kfj4X52ALk29tz32GxyJq"
+    },
+    {
+      "album": {
+        "name": "Closing The Doors",
+        "url": "https://open.spotify.com/album/3VNK4aXIHIRfZ7gIeJOprB"
+      },
+      "artists": [
+        {
+          "name": "Kelly Maxwell",
+          "url": "https://open.spotify.com/artist/3rQFEyc1F8XXRLNg66wBWz"
+        }
+      ],
+      "date_added": "2024-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182500,
+      "name": "Closing The Doors",
+      "url": "https://open.spotify.com/track/5KUyfDw6u3sf5eJLIMXgTS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: CFN MALIK
 
-597 songs - 1 day 3 hr 33 min
+598 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [MY NICHI](https://open.spotify.com/track/3WiZzfTsRBJnc6J0hFeYXg) | [lonelow](https://open.spotify.com/artist/0xkIfCndwknyPtwIYXaDMs) | [MY NICHI](https://open.spotify.com/album/44FlnlJKjrPXBcgPW2yxoz) | 2:58 | 2024-05-28 | 2024-08-24 |
 | [MY TURN](https://open.spotify.com/track/3Wlh7leleaZiPcBa551xKU) | [FTL SHINKI](https://open.spotify.com/artist/6AU9u7PHcTl8eTUAiFQ7YI), [Thlive](https://open.spotify.com/artist/6DaGmFvPW9EEpyLA3uBtzg), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [MY TURN](https://open.spotify.com/album/50WLCXtvcT4RAnjA6mZhBh) | 2:55 | 2023-12-07 | 2023-12-27 |
 | [MY TURN](https://open.spotify.com/track/0YyOEuhRTahtsiGuEjlZpI) | [R i H](https://open.spotify.com/artist/0jLLNW0NF2qLxz3rqyNwDi), [Gacha Medz](https://open.spotify.com/artist/1mMmfvPrJ5jgySxBybYtKM) | [MY TURN](https://open.spotify.com/album/4WyZIXtTZKTzOgG9VlCvoJ) | 2:12 | 2023-12-07 | 2024-01-10 |
+| [My Verse](https://open.spotify.com/track/4mmV9ZNZY9SyaiSXmeutNK) | [Charlu](https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77) | [My Verse](https://open.spotify.com/album/0ObZ3hwZsVI51HFMAxSkqI) | 2:55 | 2024-08-26 |  |
 | [Nakanai](https://open.spotify.com/track/4YWBb75tx4KvxjyUcT624l) | [RY0N4](https://open.spotify.com/artist/3krxQ7NwEXM0Ba8Dzsln2g) | [n0is3](https://open.spotify.com/album/7nnzLrPxqTHMLlMcaczQ8Z) | 2:26 | 2023-12-22 | 2024-02-23 |
 | [Naked Eyes](https://open.spotify.com/track/0uBwF9lYSc294ToMHECJc2) | [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Naked Eyes / Seven](https://open.spotify.com/album/7u8U70CLe63fPQyrh8Nv1o) | 2:35 | 2024-05-15 | 2024-08-07 |
 | [Namae](https://open.spotify.com/track/64UiUU1vl7HkagyYh0J15Z) | [AON](https://open.spotify.com/artist/1WiAw4ZvV8crQEVAy8AQhO) | [Namae](https://open.spotify.com/album/4SOCuBCkRAX8T19XCJEtub) | 3:06 | 2023-12-07 | 2024-01-24 |

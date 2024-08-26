@@ -733,6 +733,24 @@
     },
     {
       "album": {
+        "name": "My Time",
+        "url": "https://open.spotify.com/album/31IkWfeidxB3KkzVDFHqM7"
+      },
+      "artists": [
+        {
+          "name": "Chibuzor",
+          "url": "https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/56IzMNcIHJnVvIR4DEMPqj"
+    },
+    {
+      "album": {
         "name": "Candy Dreams",
         "url": "https://open.spotify.com/album/5AIOv0KVJFTgKZ55oRkHUL"
       },
@@ -744,7 +762,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 169600,
       "name": "My Type",
       "url": "https://open.spotify.com/track/2e6jU4n6jiANBlCyfXqL5r"

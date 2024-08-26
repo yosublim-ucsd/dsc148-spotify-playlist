@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJLiusIFBdb.md) - [plain]
 
 > Music From "Fate/Grand Order"! 音楽で辿る「Fate/Grand Order」の世界!<br/>©TYPE\-MOON / FGO PROJECT
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,629 likes - 71 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,653 likes - 71 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO4kEIFJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4kEIFJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4kEIFJ)
 
-### [This Is Lil Nas X](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kEIFJ)
+### [This Is リル・ナズ・X](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kEIFJ)
 
-> This Is Lil Nas X\. Los temas esenciales, todos en una lista.
+> This is リル・ナズ・X。アーティストの代表曲をひとつのプレイリストに。
 
 30 songs - 1 hr 20 min
 

@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-26",
       "duration_ms": 207760,
       "name": "Don\u2019t Leave Me Alone",
       "url": "https://open.spotify.com/track/5ji6bQuR4enoUilaIZyr1V"
@@ -4446,6 +4446,24 @@
       "duration_ms": 302500,
       "name": "You, you",
       "url": "https://open.spotify.com/track/1zqVFI0tM6SHXGRtf5nzV4"
+    },
+    {
+      "album": {
+        "name": "Dear.",
+        "url": "https://open.spotify.com/album/6VAiBqirKlthgxPQUgP7Tb"
+      },
+      "artists": [
+        {
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "date_added": "2024-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281493,
+      "name": "Your name",
+      "url": "https://open.spotify.com/track/5dJg9eVbselFdPqF1MJBwl"
     },
     {
       "album": {

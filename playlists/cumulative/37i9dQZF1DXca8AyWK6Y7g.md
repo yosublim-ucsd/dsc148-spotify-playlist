@@ -4,7 +4,7 @@
 
 > ♡ meant to be ♡ Sycco!
 
-2,159 songs - 4 day 12 hr 34 min
+2,160 songs - 4 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -851,7 +851,7 @@
 | [hey! \- Spotify Singles](https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! \- Spotify Singles](https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ) | 2:13 | 2021-06-24 | 2022-01-07 |
 | [Hey! I Don't Want That Anyway](https://open.spotify.com/track/2Orge4IMIiIgvOQfNg33WA) | [AKA Lui](https://open.spotify.com/artist/4ZCvesZqn6v6oJRBtvR5xx) | [Hey! I Don't Want That Anyway](https://open.spotify.com/album/4b5MDKHsb9cAn3lqYymxnp) | 2:45 | 2019-05-26\* | 2020-01-16 |
 | [hi neighbor](https://open.spotify.com/track/0FC8odRnrItl5YIfM0JELY) | [contradash](https://open.spotify.com/artist/1pVa1yITCEfqfAvQaaHvAt) | [all\-star](https://open.spotify.com/album/3ONpDbEZkBVMGl8B5dRmVk) | 2:21 | 2021-02-23 | 2021-05-26 |
-| [Hide](https://open.spotify.com/track/3yIM5GDH3UYpYMi0fWRmx3) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Hide](https://open.spotify.com/album/1AP4YpJXsNnCXvP4EAOE6P) | 3:38 | 2024-08-09 |  |
+| [Hide](https://open.spotify.com/track/3yIM5GDH3UYpYMi0fWRmx3) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc) | [Hide](https://open.spotify.com/album/1AP4YpJXsNnCXvP4EAOE6P) | 3:38 | 2024-08-09 | 2024-08-26 |
 | [Hide Away](https://open.spotify.com/track/0wCMJ0s4wTZhLREbqz8i5N) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Hide Away](https://open.spotify.com/album/0SRANkHALQf6UsEnhetYnQ) | 3:24 | 2022-05-20 | 2022-05-28 |
 | [high & dry](https://open.spotify.com/track/7o96u1spqcNwctcM43jrUx) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [the masquerade \(high & dry / prom dress\)](https://open.spotify.com/album/14Ml9A5HvmrdpTSu0tIEz7) | 3:39 | 2019-06-29 | 2020-02-19 |
 | [High For This](https://open.spotify.com/track/5Lv2XtP4R1Nw8IstAhm8dS) | [New World Sound](https://open.spotify.com/artist/4RQQEu24E1oQAQXvkxsLxE) | [High For This](https://open.spotify.com/album/1LIvgfJdxRRyNqHKyqxWpt) | 2:52 | 2019-09-27 | 2021-03-19 |
@@ -1087,6 +1087,7 @@
 | [last few months](https://open.spotify.com/track/6qD7p6bu17jLdxgJpS9t6o) | [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [last few months](https://open.spotify.com/album/7tDLg1TVv3m005vLGFAqA6) | 3:22 | 2020-12-12 | 2021-11-05 |
 | [Late in the Evening](https://open.spotify.com/track/3Itz6Ki6IPtLDuKvqSbREv) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Late in the Evening](https://open.spotify.com/album/7ErU9FqlFNDm9neZSk3KlP) | 3:33 | 2022-11-11 | 2022-12-24 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-08-26 | 2022-10-29 |
+| [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 | 2024-08-23 |  |
 | [Late To The Party](https://open.spotify.com/track/1rbpKQH9Ln0ySrOV3wtWV7) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/3DzDXbB7Zp4rOiXkLmKKhX) | 2:57 | 2021-10-25 | 2023-01-13 |
 | [Late to the Party](https://open.spotify.com/track/2eQsKNvDuggHAaiGRSd64S) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late to the Party](https://open.spotify.com/album/0gFXVvBJnACHRy1A3CXBEE) | 2:57 | 2023-05-05 | 2023-07-07 |
 | [Late To The Party](https://open.spotify.com/track/5ba1vQ2mcbnCQXZJ9ignLn) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Late To The Party](https://open.spotify.com/album/7LZiBuhH14TgZxjRyc6aok) | 2:57 | 2022-12-23 | 2023-06-02 |

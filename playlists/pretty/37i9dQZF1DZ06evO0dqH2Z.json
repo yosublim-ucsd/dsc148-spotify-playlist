@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 3799,
+  "num_followers": 3800,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsfRAAAAAAApLPEXS5Was9qj4b355sl3",
+  "snapshot_id": "ZskigAAAAAAPyQAtGE1y+xUbtWc/RDcD",
   "tracks": [
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 164569,
-      "name": "New Detroit",
-      "url": "https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx"
+      "duration_ms": 156173,
+      "name": "Can't Wait Forever",
+      "url": "https://open.spotify.com/track/70IPNiaQXZPNPJPkXLsZuX"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 156173,
-      "name": "Can't Wait Forever",
-      "url": "https://open.spotify.com/track/70IPNiaQXZPNPJPkXLsZuX"
+      "duration_ms": 164569,
+      "name": "New Detroit",
+      "url": "https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
       "duration_ms": 140426,
       "name": "Test Pattern",
       "url": "https://open.spotify.com/track/3Jg47BnPUcqwXnjvgOnnTL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Studio 4 Acoustic Session",
-        "url": "https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 184594,
-      "name": "Jimmy Piersall",
-      "url": "https://open.spotify.com/track/2n0RFqmOzmwmpG2z9EYg8z"
     },
     {
       "added_at": null,

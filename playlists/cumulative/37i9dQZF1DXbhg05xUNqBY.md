@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-186 songs - 12 hr 54 min
+187 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Heaven's Eyes](https://open.spotify.com/track/5NT4xU0yoihXlVFK5UqXP9) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Heaven's Eyes](https://open.spotify.com/album/17togDwr6kxfxkVJZupMJt) | 4:33 | 2021-10-31 | 2024-07-27 |
 | [Help Is on the Way](https://open.spotify.com/track/6XKKR2EK2L6MV6zRQQuVxe) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Help Is on the Way](https://open.spotify.com/album/7dAapYfDJBwmlF7ZWsLTXV) | 3:40 | 2021-10-31 | 2024-07-27 |
 | [Helpless One](https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Helpless One](https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN) | 3:15 | 2021-10-31 | 2024-07-27 |
-| [Hiding Place](https://open.spotify.com/track/5G9Z6qubWkJwQGU57DykI2) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Hiding Place](https://open.spotify.com/album/20AwBSy36TAZX8o7BIcTuU) | 2:10 | 2024-07-26 |  |
+| [Hiding Place](https://open.spotify.com/track/5G9Z6qubWkJwQGU57DykI2) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Hiding Place](https://open.spotify.com/album/20AwBSy36TAZX8o7BIcTuU) | 2:10 | 2024-07-26 | 2024-08-26 |
 | [Hold Me Jesus](https://open.spotify.com/track/56j4KrfJfJaFQAcDAW1O9c) | [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Sara Groves](https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7), [Andrew Greer](https://open.spotify.com/artist/3gAG5zquZV8QJXqq3Tbj0z), [Bonnie Keen](https://open.spotify.com/artist/4c6YjNzvGYOqNkomC0giwl) | [Hold Me Jesus \(The Songs of Rich Mullins\)](https://open.spotify.com/album/3zj1fOaRt18LQz8HxAAX2T) | 3:51 | 2024-06-23 |  |
 | [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 | 2021-10-31 | 2023-12-11 |
 | [Holy](https://open.spotify.com/track/13vCQ1N7N0tqRH1d5jnNQA) | [Jonty Lees](https://open.spotify.com/artist/16PLnrdItn0Qu9wWLVvfXr) | [Dawn Til Dusk](https://open.spotify.com/album/4HIx9HnAAa5ZJzSSYYhP7N) | 3:32 | 2024-07-26 |  |
@@ -91,6 +91,7 @@
 | [Learning to Let You Go](https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Learning to Let You Go](https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy) | 3:31 | 2021-10-31 | 2024-06-23 |
 | [LEAVE ME \(feat\. J Moss\)](https://open.spotify.com/track/1xgopTdaK6RUJ63vidUhz9) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [LEAVE ME](https://open.spotify.com/album/6hQEvFNvqBfzIViaE3HUL2) | 3:30 | 2023-02-07 | 2024-06-23 |
 | [LEAVE ME \(feat\. J Moss\)](https://open.spotify.com/track/7riV735cTp56roHAg7fN1v) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [J Moss](https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP) | [TWO UP TWO DOWN](https://open.spotify.com/album/4QBF6oj1A5pccBniyjPwsJ) | 3:30 | 2021-10-31 | 2024-04-19 |
+| [Let Go](https://open.spotify.com/track/4b63kPFb3CuPu0GOV2WFgf) | [Lynn Marie](https://open.spotify.com/artist/3kchCQYT10xiyu2OzxK17H) | [Let Go](https://open.spotify.com/album/1s10ErGVp2HSe8yQqrVUQ4) | 3:56 | 2024-07-26 |  |
 | [Let It Be So](https://open.spotify.com/track/4H5YkflQqqE9sUNy2z90n8) | [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Let It Be So](https://open.spotify.com/album/6iBkN0coZ7G9wILcvWCi0g) | 5:00 | 2024-07-26 |  |
 | [Let Not Your Heart Be Troubled](https://open.spotify.com/track/4Aq8BAQomYfUVcxTxc4FCA) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Let Not Your Heart Be Troubled](https://open.spotify.com/album/2Hn6rWDnHgKpPOUR8J6g1k) | 4:16 | 2023-02-07 | 2024-06-23 |
 | [Life Again](https://open.spotify.com/track/4cQinb06F9cqVy4fWqqd1Z) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Life Again](https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u) | 4:24 | 2024-07-26 |  |

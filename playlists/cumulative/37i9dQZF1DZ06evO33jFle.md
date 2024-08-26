@@ -2,7 +2,7 @@
 
 ### [This Is Jenni Rivera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33jFle)
 
-> This Is Jenni Rivera\. Todas as faixas essenciais numa única playlist.
+> This is: Jenni Rivera\. Alle wichtigen Tracks in einer Playlist.
 
 58 songs - 3 hr 29 min
 

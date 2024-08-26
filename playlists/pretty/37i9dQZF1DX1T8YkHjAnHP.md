@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,535 likes - 78 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,568 likes - 78 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 33 | [Na Tafuta \(I'm Looking\)](https://open.spotify.com/track/211fpWeWzJnUyYE2LQKEAv) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7) | [Na Tafuta \(I'm Looking\)](https://open.spotify.com/album/7gvw5VLbicgf37a7SEqggH) | 3:12 |
 | 34 | [Toast](https://open.spotify.com/track/2lYCu6CGbUcJpcOixVUX4y) | [Ivan Lopez](https://open.spotify.com/artist/5fF8wWYA1BLDide5sXO4tx) | [La Mafia Vol.5](https://open.spotify.com/album/3stpk4cS5aTGMBdcAVSQII) | 6:09 |
 | 35 | [The Fall](https://open.spotify.com/track/5SGxyinOC5xopxJXS0DsUq) | [Raxon](https://open.spotify.com/artist/6gp9WP1OleU89x2gF9w2ID) | [The Fall / My Place](https://open.spotify.com/album/5dlkQeTQ5VR8lXfCzqdGhl) | 7:10 |
-| 36 | [Rhyme Dust \- Nic Fanciulli Remix](https://open.spotify.com/track/70v4yUr8Gv9192zZVclZiL) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Rhyme Dust \(Nic Fanciulli Remix\)](https://open.spotify.com/album/04lwFl9FZ6yIDVcSKabWFN) | 3:01 |
+| 36 | [Rhyme Dust \- Nic Fanciulli Remix](https://open.spotify.com/track/70v4yUr8Gv9192zZVclZiL) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nic Fanciulli](https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk) | [Rhyme Dust \- Nic Fanciulli Remix](https://open.spotify.com/album/04lwFl9FZ6yIDVcSKabWFN) | 3:01 |
 | 37 | [Voices In My Head \- Damian Lazarus Re\-Shape](https://open.spotify.com/track/1ekzPoFjCnIUejIPNhjaRc) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv) | [Temple Of Dreams \(Remixes Part 1\)](https://open.spotify.com/album/7GBwLnpUMuXeQe1phHikWC) | 3:31 |
 | 38 | [Make a Show \(Malandra Jr\. Remix\)](https://open.spotify.com/track/3TkQa2WiMWt1vRpoHCz0m2) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN), [Rafael Cerato](https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2), [Hadar](https://open.spotify.com/artist/0WfN8Xr80cGPyNQ3yOk6lt), [Malandra Jr.](https://open.spotify.com/artist/7KgVyMfGnLuYLLbftkfVNQ) | [Make a Show](https://open.spotify.com/album/4jhB0sGVcd49pT7yTBGasx) | 8:17 |
 | 39 | [You Can Dance Now](https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR) | [Liva K](https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj) | [You Can Dance Now](https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2) | 4:04 |
