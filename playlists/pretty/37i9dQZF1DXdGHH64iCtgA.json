@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 78973,
+  "num_followers": 78995,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-08-02 17:33:39",
       "album": {
+        "name": "LOOK AT ME RIGHT NOW",
+        "url": "https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn"
+      },
+      "artists": [
+        {
+          "name": "GRANT KNOCHE",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "duration_ms": 128358,
+      "name": "LOOK AT ME RIGHT NOW",
+      "url": "https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG"
+    },
+    {
+      "added_at": "2024-08-02 17:33:39",
+      "album": {
         "name": "Helix",
         "url": "https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 276960,
       "name": "Helix - Gesaffelstein Vision Remix",
       "url": "https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe"
-    },
-    {
-      "added_at": "2024-08-02 17:33:39",
-      "album": {
-        "name": "LOOK AT ME RIGHT NOW",
-        "url": "https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn"
-      },
-      "artists": [
-        {
-          "name": "GRANT KNOCHE",
-          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
-        }
-      ],
-      "duration_ms": 128358,
-      "name": "LOOK AT ME RIGHT NOW",
-      "url": "https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG"
     },
     {
       "added_at": "2024-08-02 17:33:39",

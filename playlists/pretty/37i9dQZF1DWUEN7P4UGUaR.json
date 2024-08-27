@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
-  "num_followers": 11919,
+  "num_followers": 11928,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Hosanna (Live)",
+        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 344862,
+      "name": "Hossana (Live)",
+      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Ote Me Mu",
         "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 275551,
       "name": "Ote Me Mu",
       "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Hosanna (Live)",
-        "url": "https://open.spotify.com/album/6L5UqzUyUe0oATYWcH0Ig8"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 344862,
-      "name": "Hossana (Live)",
-      "url": "https://open.spotify.com/track/0jxNjSnkH44UZZ5vWe0wVG"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Wave on Wave",
-        "url": "https://open.spotify.com/album/5c5L5aWBD5XRmq82nR2RP6"
+        "name": "Agbadza Gospel Medley II (Live)",
+        "url": "https://open.spotify.com/album/0a1CiR5KeyKrb3Zwh7Fp3I"
       },
       "artists": [
         {
-          "name": "Leslie Skye",
-          "url": "https://open.spotify.com/artist/5AZX66LDF11JZi7fGkGzun"
+          "name": "Bethel Revival Choir",
+          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Wave on Wave",
-      "url": "https://open.spotify.com/track/7tAxugE49EdNSzMM4DZtBa"
+      "duration_ms": 513044,
+      "name": "Agbadza Gospel Medley II (Live)",
+      "url": "https://open.spotify.com/track/6OOIvZJh0qNUM56BFWx4VT"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Borborbor Gospel Medley",
-        "url": "https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189"
+        "name": "Wave on Wave",
+        "url": "https://open.spotify.com/album/5c5L5aWBD5XRmq82nR2RP6"
       },
       "artists": [
         {
-          "name": "Bethel Revival Choir",
-          "url": "https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz"
+          "name": "Leslie Skye",
+          "url": "https://open.spotify.com/artist/5AZX66LDF11JZi7fGkGzun"
         }
       ],
-      "duration_ms": 517432,
-      "name": "Borborbor Gospel Medley",
-      "url": "https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3"
+      "duration_ms": 221800,
+      "name": "Wave on Wave",
+      "url": "https://open.spotify.com/track/7tAxugE49EdNSzMM4DZtBa"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -879,22 +879,26 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Ghana Local Praise Medley",
-        "url": "https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw"
+        "name": "DaaDaa",
+        "url": "https://open.spotify.com/album/5aqjEIvIk8S3bsX2cIUeur"
       },
       "artists": [
         {
-          "name": "DOXA WAVE GH",
-          "url": "https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6"
+          "name": "richieo",
+          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
         },
         {
-          "name": "Shadrach Mensah Kwesi",
-          "url": "https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e"
+          "name": "Emmanuel Smith",
+          "url": "https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b"
+        },
+        {
+          "name": "Omari Kissi Jnr",
+          "url": "https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd"
         }
       ],
-      "duration_ms": 566414,
-      "name": "Ghana Local Praise Medley",
-      "url": "https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV"
+      "duration_ms": 193306,
+      "name": "DaaDaa",
+      "url": "https://open.spotify.com/track/1jiwwDBOufD9TgWimVJOXb"
     }
   ],
   "unique_name": "Aseda",

@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-494 songs - 1 day 16 hr 47 min
+495 songs - 1 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Above All](https://open.spotify.com/track/4UKkXhpY3knx2S4KDrsRSP) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr) | [The Writer's Collection](https://open.spotify.com/album/1ztavDrZMEGJubkYFKcmZv) | 5:23 | 2021-04-04 | 2022-07-29 |
 | [Afraid To Say \(feat\. Lauren Walters\)](https://open.spotify.com/track/3cDrWGsgXj6fZd33Iwp4Lh) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Lauren Walters](https://open.spotify.com/artist/7q4d6AQkUPNfmZzBhzfnNt) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 4:22 | 2022-04-02 |  |
 | [Agnus Dei](https://open.spotify.com/track/1N9SysNAP8j4wbAIHzlM9m) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Decades of Worship](https://open.spotify.com/album/6svPaewhKWrqIRW3DgbrOC) | 6:57 | 2022-04-02 |  |
+| [Agnus Dei \- Live](https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Worship Forever \(Live\)](https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0) | 5:29 | 2024-07-02 |  |
 | [Agnus Dei / King Of Kings](https://open.spotify.com/track/0ar77SmMUtj04pFWKSHFSt) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chidima](https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [At Easter](https://open.spotify.com/album/6XzwtfJOB0jf9FQDUw4cnN) | 6:42 | 2021-04-04 | 2024-04-19 |
 | [Alive](https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Alive](https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i) | 3:25 | 2021-04-04 |  |
 | [Alive \(from The Story\)](https://open.spotify.com/track/2G8g23AYWGJnxZgwpEa9lE) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Love Revolution](https://open.spotify.com/album/7lxvGTdwoLfkQ48E1wT2HG) | 5:06 | 2021-04-04 | 2022-07-23 |
@@ -136,7 +137,7 @@
 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 | 2021-04-04 |  |
 | [Forever Reign \- Live](https://open.spotify.com/track/3Z3mh8aMW1vGBhsSkKT8yR) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [A Beautiful Exchange](https://open.spotify.com/album/060wTUMWUW8HDuMkWddjci) | 5:43 | 2021-04-04 | 2022-07-14 |
 | [Forgiven](https://open.spotify.com/track/0d2svMT7Gaisn7RY4cJRDN) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [American Prodigal \- Deluxe Edition](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 3:56 | 2021-04-04 |  |
-| [Forgiven](https://open.spotify.com/track/0X3p3O1XD1RbwuVA6On0Tu) | [Josh White](https://open.spotify.com/artist/4KTkQA8GYHDdnF85o70VoO), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Josh White & Josh Garrels](https://open.spotify.com/album/5kayrzna2TfsoTeVcjk1kx) | 4:34 | 2021-04-04 |  |
+| [Forgiven](https://open.spotify.com/track/0X3p3O1XD1RbwuVA6On0Tu) | [Josh White](https://open.spotify.com/artist/4KTkQA8GYHDdnF85o70VoO), [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Josh White & Josh Garrels](https://open.spotify.com/album/5kayrzna2TfsoTeVcjk1kx) | 4:34 | 2021-04-04 | 2024-08-27 |
 | [Four Days](https://open.spotify.com/track/34S7ScDFxGD2U6pcBoCV8w) | [Graham Kendrick](https://open.spotify.com/artist/1srLlKy0yVmQorLl9PhXbS), [Lucy Grimble](https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq) | [Where It Began](https://open.spotify.com/album/0F5Zw4KgiN4v0Xh7wXtlDb) | 3:58 | 2022-04-17 | 2022-07-28 |
 | [Freedom \(with BEAM\)](https://open.spotify.com/track/63HbQY6pMHcBlE9LIyIuOG) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ) | 2:45 | 2021-04-04 |  |
 | [Gethsemane \(Heavy Load to Carry\)](https://open.spotify.com/track/2yOWOpRw3QON44v9L6JCUV) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM) | [The Blood + the Breath: Songs That Tell the Story of Redemption](https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON) | 3:00 | 2021-04-04 | 2022-07-27 |

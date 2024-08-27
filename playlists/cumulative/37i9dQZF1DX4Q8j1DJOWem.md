@@ -4,7 +4,7 @@
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: BUS
 
-194 songs - 12 hr 13 min
+197 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,10 @@
 | [9MM](https://open.spotify.com/track/5rqTRj4ZB2Nv3watYPlIYb) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [ESKIIMO](https://open.spotify.com/artist/3XtbVyd1BMPc4vIwCengvA) | [9MM](https://open.spotify.com/album/3NvxmDyHLzXU73v6eRDXS2) | 2:39 | 2023-08-25 | 2023-09-02 |
 | [ALICE](https://open.spotify.com/track/4nimbIVI2u2XUD70c1dOBu) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ALICE](https://open.spotify.com/album/51qkvedWZpnjihzV2WqrqX) | 3:42 | 2023-07-21 | 2024-03-29 |
 | [April](https://open.spotify.com/track/1HcNxQxyvT4Jg2c1A9FxjS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [April \- Single](https://open.spotify.com/album/2zittikcejcyLsFIk5mSik) | 4:58 | 2023-09-29 | 2024-03-29 |
+| [Barbie](https://open.spotify.com/track/7vMTgmx2xtN0yUWf47fjEI) | [2Ectasy](https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m) | [Barbie](https://open.spotify.com/album/1LLHRg01Vb5my1oq6FCQVc) | 2:03 | 2024-08-26 |  |
 | [Beautiful](https://open.spotify.com/track/3eCPoj189vDT8ltJvoOvHK) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [PERSES FIRST EP MY TIME](https://open.spotify.com/album/0XNIQbcMBIXSIal5BeBcoK) | 3:21 | 2024-03-28 |  |
 | [Because of You, I Shine](https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [Because of You, I Shine](https://open.spotify.com/album/6P3OmaQZLb1uJ052ol2424) | 3:48 | 2024-03-28 |  |
+| [beginner](https://open.spotify.com/track/4bcfiaTv3id9jpqhyDv2uV) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [Love & Limerence](https://open.spotify.com/album/3QI3Yxmiebv6OWPw2wU2Nh) | 3:52 | 2024-08-26 |  |
 | [BONG](https://open.spotify.com/track/7BalknaAGYtzUjIGOSkGBr) | [OG BOBBY](https://open.spotify.com/artist/43dGDLrsposfk1tD7omTDe), [VannDa](https://open.spotify.com/artist/6XYPDozxzEi0iu380aAYnL) | [BONG](https://open.spotify.com/album/20fOOAZJGEDymwuWrImgL7) | 4:01 | 2023-04-13 | 2024-03-29 |
 | [BTS](https://open.spotify.com/track/5ny2fV7iSKCRWzLRhUO0CJ) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [BTS](https://open.spotify.com/album/7bmozsYfL8Yh0UNun8onhO) | 2:43 | 2023-01-10 | 2024-01-12 |
 | [Dancing with my phone](https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Dancing with my phone](https://open.spotify.com/album/3IHG7xkPLLgsm1hSeMlxLH) | 3:23 | 2022-09-15 | 2023-07-22 |
@@ -131,6 +133,7 @@
 | [พบพา](https://open.spotify.com/track/5MIAP06QVqn3qUN8Xg3Hqy) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [พบพา...ลาก่อน](https://open.spotify.com/album/46mSO7qWdGRPNSUChIzKQl) | 2:55 | 2024-01-11 | 2024-02-19 |
 | [พะจัน](https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [พะจัน](https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4) | 3:03 | 2022-09-15 | 2022-09-24 |
 | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/track/330spX93u5K5XINCCJzko3) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ฟีลลิ่งแบบว่าอู้วว!](https://open.spotify.com/album/3WGthfl2NKI9tuX4z4R7CP) | 4:22 | 2024-03-28 |  |
+| [ภาพเรา \(Good Quality Picture\) \- From บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/track/7gdRZLMXECnJ8HnZYm5N23) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ภาพเรา \(Good Quality Picture\) \- From บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/album/6NdafPrIJrOaBxyaytrqQ6) | 4:55 | 2024-08-26 |  |
 | [มันจะไม่มีอีกครั้ง](https://open.spotify.com/track/7jXFHwmcUVn62SdHkatPk7) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [มันจะไม่มีอีกครั้ง](https://open.spotify.com/album/0ya2sMCdsVp5FrnTr0agDF) | 2:56 | 2022-09-15 | 2023-03-25 |
 | [มาๆหายๆ feat.Karn The Parkinson](https://open.spotify.com/track/4DvOHc5Tguj6RN8o677cWC) | [LOSTBOYS](https://open.spotify.com/artist/35Ion6GBXviFXe5AzHduxb) | [I GOT LOST BUT LOOK WHAT I FOUND](https://open.spotify.com/album/4P76Ypg17RLMlwr17EPWL6) | 3:10 | 2022-09-15 | 2023-04-14 |
 | [มีผีเสื้อบินอยู่ในท้อง](https://open.spotify.com/track/4Jld23F1idfTmcSqClD0re) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [มีผีเสื้อบินอยู่ในท้อง](https://open.spotify.com/album/1fh1aCaZkBWUtCpjQSvkAq) | 3:35 | 2024-01-11 | 2024-02-19 |
@@ -173,7 +176,7 @@
 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 | 2022-09-15 | 2023-04-14 |
 | [เพื่อนคนโปรด \(Crush\)](https://open.spotify.com/track/2576NYcj8CX3LupLcdNDVI) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [เพื่อนคนโปรด \(Crush\)](https://open.spotify.com/album/51qPtMul8AGoRI9aFkxHqz) | 3:26 | 2024-01-11 | 2024-03-29 |
 | [เพื่อนที่ดี \(good old days\)](https://open.spotify.com/track/6qfpY6fSeF8X25XaEEmBHm) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [เพื่อนที่ดี \(good old days\)](https://open.spotify.com/album/11wS9KhiTUXdZhOAtBXn14) | 3:21 | 2022-09-15 | 2023-04-14 |
-| [เฟี้ยว \- Ost\. บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/track/0H1rhRyBH1reSi3Qac8Y2j) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [เฟี้ยว \(Ost\. บัส ซิ่ง ไทยแลนด์\)](https://open.spotify.com/album/0qVPQ3HfsbAkdKyiakDBkr) | 4:20 | 2024-06-28 | 2024-07-06 |
+| [เฟี้ยว \- From บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/track/0H1rhRyBH1reSi3Qac8Y2j) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [เฟี้ยว \- From บัส ซิ่ง ไทยแลนด์](https://open.spotify.com/album/0qVPQ3HfsbAkdKyiakDBkr) | 4:20 | 2024-06-28 |  |
 | [เลิกกันแล้ว\(แล้วยังไง\)](https://open.spotify.com/track/2L12dZiM8puWFJBVg7R0wn) | [I HATE MONDAY](https://open.spotify.com/artist/4bZFk69BTd1y2IsxIjO35M) | [เลิกกันแล้ว\(แล้วยังไง\)](https://open.spotify.com/album/5wlDk0JcNyQnJmfLWMWa2v) | 3:13 | 2022-09-15 | 2022-11-24 |
 | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/track/7jLdjsFuLefnYSkDYxfDu9) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เสื้อตัวเล็ก \(Chob Kub Khun\)](https://open.spotify.com/album/24KFghzsx4qWrq6B9U9ZOI) | 3:15 | 2022-09-15 | 2023-06-23 |
 | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/track/1WJ5tWjTdfywqMANcu7jXi) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เอาความเสียใจมาไว้ที่ฉัน \(Vasopressin\)](https://open.spotify.com/album/4eGLMhfvQ4qCHFZ1XqDTnC) | 4:34 | 2023-11-21 | 2024-03-29 |

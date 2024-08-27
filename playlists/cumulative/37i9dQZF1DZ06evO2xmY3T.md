@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2xmY3T.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2xmY3T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2xmY3T)
 
-### [This Is カーディ・B](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2xmY3T)
+### [This Is Cardi B](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2xmY3T)
 
-> This is カーディ・B。アーティストの代表曲をひとつのプレイリストに。
+> This is Cardi B\. Todos os maiores hits em uma só playlist.
 
 66 songs - 3 hr 43 min
 

@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "Baba",
       "url": "https://open.spotify.com/track/2LwLdMMTnZgDggYoUxXn8d"
@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 200400,
       "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
@@ -8364,7 +8364,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -11860,7 +11860,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 155228,
       "name": "F\u0102R\u0102 FILTRU",
       "url": "https://open.spotify.com/track/6m1I1hQ9ZFV7sD3FX9nJWX"
@@ -16813,6 +16813,28 @@
     },
     {
       "album": {
+        "name": "Lamborghini",
+        "url": "https://open.spotify.com/album/5bW7HtCbJ6bNSwoJYRBGXF"
+      },
+      "artists": [
+        {
+          "name": "YNY Sebi",
+          "url": "https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM"
+        },
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172105,
+      "name": "Lamborghini",
+      "url": "https://open.spotify.com/track/4KzxeD91DwTgMu0uArD6tg"
+    },
+    {
+      "album": {
         "name": "Lasa-ma Sa Te...",
         "url": "https://open.spotify.com/album/7hkvHHn7sqggPIEln4QHak"
       },
@@ -18702,7 +18724,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 146552,
       "name": "MAMMA MIA",
       "url": "https://open.spotify.com/track/1xOSiLWKlyvULTKAb4szrt"
@@ -19098,7 +19120,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 128127,
       "name": "MASTERCHEF",
       "url": "https://open.spotify.com/track/326WAAqZfhdDza4uB94SI4"
@@ -26126,7 +26148,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 202564,
       "name": "RONDO",
       "url": "https://open.spotify.com/track/58l89vuWBnfQzLR8lAi50J"
@@ -30515,6 +30537,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "album": {
         "name": "Tati, vreau",
         "url": "https://open.spotify.com/album/7ec0ZSupalm3wKhkRg3f4X"
       },
@@ -30778,7 +30818,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 149169,
       "name": "TELEKOM",
       "url": "https://open.spotify.com/track/0r5Yn0ncQ8p2HRzq0mHJjT"

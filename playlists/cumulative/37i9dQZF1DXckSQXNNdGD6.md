@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Lua de Santana.
 
-76 songs - 3 hr 39 min
+77 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [33](https://open.spotify.com/track/5JBtPAHeH3p2q7w0p14TJ3) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [33](https://open.spotify.com/album/0MrBdxJiBDtIPyujW0nGzT) | 3:39 | 2024-06-05 | 2024-08-07 |
 | [A QUIÉN LE IMPORTA](https://open.spotify.com/track/4pLgFeI4hteh9DsJ1TncM7) | [Ana Farelo](https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm), [Marta Melle](https://open.spotify.com/artist/0Db1dQofqP6OWjXzrv7PPk), [GALICIAN](https://open.spotify.com/artist/5suQqERMjWkkZlcYxzJxcr) | [A QUIÉN LE IMPORTA](https://open.spotify.com/album/5jKiXQcmCtIsxB6K2vaYcB) | 2:49 | 2024-06-05 | 2024-07-03 |
 | [ADICCIÓN](https://open.spotify.com/track/5iG9KI3KT20unk2NwfToWi) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [ADICCIÓN](https://open.spotify.com/album/3Gl9bJ1Q1w7vzQIfoL6qiU) | 2:57 | 2024-06-05 | 2024-08-07 |
-| [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 | 2024-06-05 |  |
+| [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 | 2024-06-05 | 2024-08-27 |
 | [Al Gimnasio en Tacones](https://open.spotify.com/track/0iuELyy8xVOcTrkjOik3J3) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST) | [Al Gimnasio en Tacones](https://open.spotify.com/album/54X85mt7PkHbR66bvx7YO2) | 2:33 | 2024-06-05 | 2024-07-04 |
 | [ALLÁ ARRIBITA](https://open.spotify.com/track/1C5K3rwkMi81uq2maBIAfm) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Manual de Romería](https://open.spotify.com/album/74g36yb3N2FdsGIoUf4CH0) | 3:21 | 2024-06-05 |  |
 | [AMOR MALDITO](https://open.spotify.com/track/0TS5CAQIJwww9g29AFHvXP) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6), [JEDET](https://open.spotify.com/artist/47sfJLBodmgIFXtpY3fork) | [AMOR MALDITO](https://open.spotify.com/album/0cFVXOmtqkTd51GPBLIcAl) | 2:34 | 2024-08-06 |  |
@@ -25,6 +25,7 @@
 | [Con Altura](https://open.spotify.com/track/4Hz4ZddemX2Ij985XRxC2q) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Dame 10:36 Minutos](https://open.spotify.com/album/66LtYztZIgTOn5XQ9h54HO) | 2:11 | 2024-06-05 |  |
 | [Conexión](https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe) | [Conexión](https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e) | 2:33 | 2024-07-02 |  |
 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 | 2024-06-05 |  |
+| [Cuatro Bodas](https://open.spotify.com/track/0Ktk8t0AuvCI5iBYA3F2nM) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Generación de Cristal](https://open.spotify.com/album/6Ypvyl8kqqTy3SMDZweZ8Y) | 2:46 | 2024-08-06 |  |
 | [Culpable O No \(Miénteme Como Siempre\)](https://open.spotify.com/track/4GoHPcy4Nre6w9KjE1t2Zc) | [Rocío Saiz](https://open.spotify.com/artist/6J7Piqvg9Y5aIOFq6DuJtm) | [Culpable o No \(Miénteme Como Siempre\)](https://open.spotify.com/album/6rpnaDugPy1wKi2LeUKcQh) | 3:18 | 2024-07-02 |  |
 | [Demasiada Mujer](https://open.spotify.com/track/7HquvibqnlfIM0s0tg4IG7) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Demasiada Mujer](https://open.spotify.com/album/5gfklqSJCw2qHpWHmHQgTF) | 2:35 | 2024-06-05 | 2024-07-25 |
 | [DIFERENTE](https://open.spotify.com/track/5jvUkBsdkQNL27VDYSjPzU) | [BRÜNNE ROMEO](https://open.spotify.com/artist/3dDNNqsdrGpFlD1yGXLWRF) | [DIFERENTE](https://open.spotify.com/album/6cw324kDm9qT2TzAZdxC1R) | 2:43 | 2024-06-05 |  |

@@ -63,6 +63,32 @@
     },
     {
       "album": {
+        "name": "Air (feat. Kodak Black, Future)",
+        "url": "https://open.spotify.com/album/0hQb42GMRbOqhWhYYGzg6G"
+      },
+      "artists": [
+        {
+          "name": "Jflexxx",
+          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210144,
+      "name": "Air (feat. Kodak Black, Future)",
+      "url": "https://open.spotify.com/track/5HTz5BNGKK78RuEK6QkFFj"
+    },
+    {
+      "album": {
         "name": "Survivor's Remorse: A Side & B Side",
         "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
       },
@@ -624,7 +650,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 213028,
       "name": "Gave It All I Got",
       "url": "https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy"

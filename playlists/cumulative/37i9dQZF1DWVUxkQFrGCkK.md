@@ -4,7 +4,7 @@
 
 > moooooooooove
 
-646 songs - 1 day 23 hr 9 min
+649 songs - 1 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [ATK](https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [ATK](https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH) | 4:05 | 2023-04-13 | 2023-08-25 |
 | [Aura](https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Dusk](https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5) | 3:49 | 2023-04-13 | 2023-08-25 |
 | [Back Home](https://open.spotify.com/track/6wWouMSlkr8DgSKqEgB58j) | [Machweo](https://open.spotify.com/artist/5Mr3g9Iu3I1jnGYi2ATlH3) | [Back Home](https://open.spotify.com/album/37PTukww7KYurZI9H6agcd) | 4:06 | 2023-08-03 | 2023-08-25 |
+| [Back On 74 \- Rework](https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT) | [Betical](https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z), [Arper](https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq) | [Back On 74 \- Rework](https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W) | 5:40 | 2024-08-26 |  |
 | [Backward Clocks](https://open.spotify.com/track/4h0uEHjhDLrjmDmZvELXIG) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Backward Clocks](https://open.spotify.com/album/37YsF99XGuMxPDloWQWL7m) | 6:27 | 2023-06-29 | 2023-08-02 |
 | [Bad Decisions](https://open.spotify.com/track/7Dfuaz3aDJR5cSIm39duc2) | [jackLNDN](https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso) | [Bad Decisions](https://open.spotify.com/album/3oSEYtS73IvBGWGFLpnGol) | 3:02 | 2023-06-29 |  |
 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 | 2024-04-18 |  |
@@ -502,6 +503,7 @@
 | [Save My Life \- Folamour Remix](https://open.spotify.com/track/4IbfSkANxDLlaqDptTZ5hE) | [Benny Mussa](https://open.spotify.com/artist/3JNbl0jPjCNLrZrCbqku6f), [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Save My Life \(Folamour Remix\)](https://open.spotify.com/album/7emMblwJ7MZ1ejnuBhJ9X7) | 4:53 | 2023-12-08 |  |
 | [Save Our Ship \(SOS\)](https://open.spotify.com/track/0SuFM875msKXWm8E3x34DA) | [Bless You](https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9) | [Save Our Ship \(SOS\)](https://open.spotify.com/album/62CmBWPso8MZGNl3S47YdA) | 3:17 | 2023-12-14 |  |
 | [Saving Up](https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Saving Up](https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF) | 3:27 | 2023-10-05 | 2023-10-13 |
+| [Searching for God](https://open.spotify.com/track/4SZWmVyhFYzpYt0NYmsVFR) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF), [David Satori](https://open.spotify.com/artist/7B0gYSjdSuAYoQB0REnkhF) | [Searching for God](https://open.spotify.com/album/10O5gRr7y9K9F9JGB8CH7Y) | 3:12 | 2024-08-26 |  |
 | [See The Light](https://open.spotify.com/track/6zdyB0j8UBb1cvNiRLHaJW) | [jackLNDN](https://open.spotify.com/artist/6ZPZXXnq3PbxZSR9vu9fso) | [See The Light](https://open.spotify.com/album/2EtUYKgjdWs9dxp9GVeFVI) | 3:06 | 2024-07-25 | 2024-08-16 |
 | [See This Through \- George Fitzgerald Remix](https://open.spotify.com/track/6lGy5cphcbocAN4X4gVVjr) | [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD), [Dot Major](https://open.spotify.com/artist/02KPkbCJoF0txgF3MN7KIh), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [See This Through \(George FitzGerald Remix\)](https://open.spotify.com/album/23EZlHdMqPutEYNt7uTguV) | 4:42 | 2023-08-01 | 2023-08-25 |
 | [See You There](https://open.spotify.com/track/4S0F00VeLl8ykdb9CRaESp) | [Castelle](https://open.spotify.com/artist/4EDL1aHoT46jRLUjubeVNM), [Keiynan](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [See You There](https://open.spotify.com/album/6eoY9OsT3DnT4AGjONbjog) | 3:43 | 2023-06-29 | 2024-01-05 |
@@ -554,6 +556,7 @@
 | [Take My Time](https://open.spotify.com/track/4vYuZjqIxGsRzyqjV15dWk) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Change / Take My Time](https://open.spotify.com/album/6keiNGWzWUxhvHf0LcDlXT) | 4:52 | 2023-05-11 | 2023-08-21 |
 | [Talk On The Phone](https://open.spotify.com/track/2nohMn7cW43qSt69glqwXj) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:26 | 2023-08-01 | 2023-08-25 |
 | [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 | 2023-08-10 | 2024-06-21 |
+| [Tata](https://open.spotify.com/track/74Kz7XuRfectOJXgThvXNf) | [Tiago Cruz](https://open.spotify.com/artist/4zbIh1AUUi68OWYtdoO6I9) | [Tata](https://open.spotify.com/album/084TlZpaKKpfPPVWOQa2Y3) | 6:04 | 2024-08-26 |  |
 | [Taxi Talk](https://open.spotify.com/track/4Q9EoR4GuLpyroLw1bUjLY) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Taxi Talk](https://open.spotify.com/album/6qKTAYmMXztOE9ARettVSw) | 3:44 | 2023-08-01 | 2024-01-05 |
 | [Tell You What It Is \- Shermanology SoulTec Mix](https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is \(Shermanology SoulTec Mix\)](https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV) | 3:39 | 2023-06-29 |  |
 | [Temperatura](https://open.spotify.com/track/6NAvV0Ckzf27Z2txhvuDDH) | [Andor Gabriel](https://open.spotify.com/artist/6tMBXq9rjwmGENxvoFSvzc), [Jerome Sydor](https://open.spotify.com/artist/2pkf9r1fZ6BBgmoYhbVuFX) | [Temperatura](https://open.spotify.com/album/4m5ZmkdolKY6oH5R1s4gjS) | 3:48 | 2024-04-18 |  |

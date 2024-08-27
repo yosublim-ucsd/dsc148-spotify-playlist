@@ -1,12 +1,12 @@
 {
-  "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 1965705,
+  "description": "This Is Metallica. Los temas esenciales, todos en una lista.",
+  "num_followers": 1966076,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZskigAAAAADptBBSJ9uiAjaDcm6qC09x",
+  "snapshot_id": "Zsp0AAAAAACrlpwj8tk8I6d55WU4izE7",
   "tracks": [
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill 'Em All (Deluxe / Remastered)",
-        "url": "https://open.spotify.com/album/3m69LQokz6DaKB3yw4BH6n"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 432546,
-      "name": "The Four Horsemen - Remastered",
-      "url": "https://open.spotify.com/track/2YTwVDQOSGclX2N3AKetOP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 86906,
       "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
       "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill 'Em All (Deluxe / Remastered)",
+        "url": "https://open.spotify.com/album/3m69LQokz6DaKB3yw4BH6n"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 432546,
+      "name": "The Four Horsemen - Remastered",
+      "url": "https://open.spotify.com/track/2YTwVDQOSGclX2N3AKetOP"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 396106,
-      "name": "The Thing That Should Not Be",
-      "url": "https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx"
+      "duration_ms": 496626,
+      "name": "Disposable Heroes",
+      "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 496626,
-      "name": "Disposable Heroes",
-      "url": "https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj"
+      "duration_ms": 396106,
+      "name": "The Thing That Should Not Be",
+      "url": "https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx"
     }
   ],
   "unique_name": "This Is Metallica",

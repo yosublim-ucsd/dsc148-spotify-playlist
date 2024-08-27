@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Fernanda Brum",
-  "num_followers": 142393,
+  "num_followers": 142523,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
+        "name": "Eu Sou Mist\u00e9rio",
+        "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 268510,
+      "name": "Eu Sou Mist\u00e9rio",
+      "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
         "name": "Te Adorar \u00e9 S\u00f3 o Come\u00e7o (Ao Vivo)",
         "url": "https://open.spotify.com/album/4rRm5M9L3BAkeeaLXVauHG"
       },
@@ -139,18 +155,18 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Eu Sou Mist\u00e9rio",
-        "url": "https://open.spotify.com/album/4SpmYh0CjxUxtXzxXE32Is"
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi"
       },
       "artists": [
         {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+          "name": "Eliane Fernandes",
+          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
         }
       ],
-      "duration_ms": 268510,
-      "name": "Eu Sou Mist\u00e9rio",
-      "url": "https://open.spotify.com/track/2rcELfYmKTFtit6Gv1ZEqF"
+      "duration_ms": 298143,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -175,22 +191,6 @@
       "duration_ms": 294347,
       "name": "Dias de Guerra",
       "url": "https://open.spotify.com/track/3p82xqXALhgwEc7Jt84nE1"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/6UaxqMu4afpNyU81hk9kfi"
-      },
-      "artists": [
-        {
-          "name": "Eliane Fernandes",
-          "url": "https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH"
-        }
-      ],
-      "duration_ms": 298143,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4jLM5rqH7f4sLDgUEB32nW"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "\u00c9 Adorar",
-        "url": "https://open.spotify.com/album/5LzA57wiw7joZIj47NiIWC"
-      },
-      "artists": [
-        {
-          "name": "Gerson Rufino",
-          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
-        }
-      ],
-      "duration_ms": 237254,
-      "name": "\u00c9 Adorar",
-      "url": "https://open.spotify.com/track/15hYPI1c4MMRRpWrvbhJ72"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Minha B\u00ean\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 266936,
       "name": "Minha B\u00ean\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0DhO7IbkaGsz7MbvqA28a3"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "\u00c9 Adorar",
+        "url": "https://open.spotify.com/album/5LzA57wiw7joZIj47NiIWC"
+      },
+      "artists": [
+        {
+          "name": "Gerson Rufino",
+          "url": "https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR"
+        }
+      ],
+      "duration_ms": 237254,
+      "name": "\u00c9 Adorar",
+      "url": "https://open.spotify.com/track/15hYPI1c4MMRRpWrvbhJ72"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1055,38 +1055,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Deus Realiza Sonhos",
-        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 345416,
-      "name": "Deus Realiza Sonhos",
-      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 388196,
-      "name": "Terceiro C\u00e9u",
-      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Digno \u00c9 o Cordeiro - Ao Vivo",
         "url": "https://open.spotify.com/album/0WxRxi8OXotE4gyNKBfTqo"
       },
@@ -1107,6 +1075,38 @@
       "duration_ms": 572814,
       "name": "Digno \u00c9 o Cordeiro - Ao Vivo",
       "url": "https://open.spotify.com/track/3sCeJIZ0xpg1XoEGL2s4Eg"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 388196,
+      "name": "Terceiro C\u00e9u",
+      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Deus Realiza Sonhos",
+        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 345416,
+      "name": "Deus Realiza Sonhos",
+      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 234520,
-      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Foi Livramento",
         "url": "https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 219000,
       "name": "Foi Livramento",
       "url": "https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 234520,
+      "name": "Eu N\u00e3o Mere\u00e7o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3bFvAUuMlEVVztV4yZ4zK0"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
+        "name": "N\u00e3o Abrimos M\u00e3o do Teu Fogo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1pyGzBL2YK1rrJlo5cCmQD"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        },
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        }
+      ],
+      "duration_ms": 647185,
+      "name": "N\u00e3o Abrimos M\u00e3o do Teu Fogo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ZmJFfwGA6x21o09Vvuv8X"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
         "name": "Yeshua (Ao Vivo)",
         "url": "https://open.spotify.com/album/3mZr0BHVsU0Pbcwu985m2M"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 304938,
       "name": "Basta uma Palavra",
       "url": "https://open.spotify.com/track/0GaxofDWGJ4Gg8gbEMgn3R"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "N\u00e3o Abrimos M\u00e3o do Teu Fogo - Ao Vivo",
-        "url": "https://open.spotify.com/album/1pyGzBL2YK1rrJlo5cCmQD"
-      },
-      "artists": [
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        },
-        {
-          "name": "Gabi Sampaio",
-          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
-        }
-      ],
-      "duration_ms": 647185,
-      "name": "N\u00e3o Abrimos M\u00e3o do Teu Fogo - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ZmJFfwGA6x21o09Vvuv8X"
     },
     {
       "added_at": "2024-08-23 03:01:00",

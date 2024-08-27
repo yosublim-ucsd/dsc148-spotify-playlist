@@ -1,12 +1,12 @@
 {
   "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Jordy Waelauruw",
-  "num_followers": 105624,
+  "num_followers": 105638,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr40EAAAAACcguoVuPUrIRlu0Uguwkir",
+  "snapshot_id": "Zsv1qAAAAABwMcTHkF9u8pwZPZwlABje",
   "tracks": [
     {
       "added_at": "2024-08-15 17:00:00",
@@ -23,6 +23,22 @@
       "duration_ms": 229000,
       "name": "Catch The Love",
       "url": "https://open.spotify.com/track/44ZyBSW5vgy83SN7BGBPIn"
+    },
+    {
+      "added_at": "2024-08-08 17:00:00",
+      "album": {
+        "name": "Fly Me To The Moon (From \"Fly Me To The Moon\" Movie)",
+        "url": "https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 170700,
+      "name": "Fly Me To The Moon (From \"Fly Me To The Moon\" Movie)",
+      "url": "https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf"
     },
     {
       "added_at": "2024-08-08 17:00:00",
@@ -47,22 +63,6 @@
     {
       "added_at": "2024-08-08 17:00:00",
       "album": {
-        "name": "Fly Me To The Moon (From \"Fly Me To The Moon\" Movie)",
-        "url": "https://open.spotify.com/album/3B5Fj6LFbydv4FoEx48w80"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 170700,
-      "name": "Fly Me To The Moon (From \"Fly Me To The Moon\" Movie)",
-      "url": "https://open.spotify.com/track/7IoVDHWIUmRhzihnBNlVpf"
-    },
-    {
-      "added_at": "2024-08-08 17:00:00",
-      "album": {
         "name": "Koji",
         "url": "https://open.spotify.com/album/5oEMwd01BroAyojnSFAaqG"
       },
@@ -75,6 +75,22 @@
       "duration_ms": 228720,
       "name": "Koji",
       "url": "https://open.spotify.com/track/3gLJyeqR4Rwu3xJPlI5ylW"
+    },
+    {
+      "added_at": "2024-08-08 17:00:00",
+      "album": {
+        "name": "Dengarkanlah Radio",
+        "url": "https://open.spotify.com/album/23lPxeNP80h9f8ZC0jZ3o4"
+      },
+      "artists": [
+        {
+          "name": "NonaRia",
+          "url": "https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Donny",
+      "url": "https://open.spotify.com/track/0fIy9P9Sts9F4aAMDGjgty"
     },
     {
       "added_at": "2024-08-08 17:00:00",
@@ -99,34 +115,18 @@
     {
       "added_at": "2024-08-08 17:00:00",
       "album": {
-        "name": "Sandman",
-        "url": "https://open.spotify.com/album/1W3ikg59vMZmXLnhGCMlnh"
+        "name": "Asmara",
+        "url": "https://open.spotify.com/album/061Mg16yhNGO78Sf1PVBHI"
       },
       "artists": [
         {
-          "name": "Valentine",
-          "url": "https://open.spotify.com/artist/0b7yUYbKbidPYkoLNAN56k"
+          "name": "Sliver",
+          "url": "https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W"
         }
       ],
-      "duration_ms": 103165,
-      "name": "Sandman",
-      "url": "https://open.spotify.com/track/2nR5RuOatuTHHZeXKtw22O"
-    },
-    {
-      "added_at": "2024-08-08 17:00:00",
-      "album": {
-        "name": "Dengarkanlah Radio",
-        "url": "https://open.spotify.com/album/23lPxeNP80h9f8ZC0jZ3o4"
-      },
-      "artists": [
-        {
-          "name": "NonaRia",
-          "url": "https://open.spotify.com/artist/4nDYMMICeh9slbUCBTnmM2"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Donny",
-      "url": "https://open.spotify.com/track/0fIy9P9Sts9F4aAMDGjgty"
+      "duration_ms": 177981,
+      "name": "Asmara",
+      "url": "https://open.spotify.com/track/7a3eTduVogqs3nBnMJ41es"
     },
     {
       "added_at": "2024-08-08 17:00:00",
@@ -151,18 +151,38 @@
     {
       "added_at": "2024-08-08 17:00:00",
       "album": {
-        "name": "Asmara",
-        "url": "https://open.spotify.com/album/061Mg16yhNGO78Sf1PVBHI"
+        "name": "Sembilan",
+        "url": "https://open.spotify.com/album/38iZSG6AUGr2zqvAPC7za6"
       },
       "artists": [
         {
-          "name": "Sliver",
-          "url": "https://open.spotify.com/artist/1H205Qygv9rL8hwVlS1i8W"
+          "name": "Natasya Elvira",
+          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
+        },
+        {
+          "name": "Societeit de Harmonie",
+          "url": "https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9"
         }
       ],
-      "duration_ms": 177981,
-      "name": "Asmara",
-      "url": "https://open.spotify.com/track/7a3eTduVogqs3nBnMJ41es"
+      "duration_ms": 173289,
+      "name": "Sembilan",
+      "url": "https://open.spotify.com/track/2h53cB2OyARIKR0QcY5VE4"
+    },
+    {
+      "added_at": "2024-08-08 17:00:00",
+      "album": {
+        "name": "Sandman",
+        "url": "https://open.spotify.com/album/1W3ikg59vMZmXLnhGCMlnh"
+      },
+      "artists": [
+        {
+          "name": "Valentine",
+          "url": "https://open.spotify.com/artist/0b7yUYbKbidPYkoLNAN56k"
+        }
+      ],
+      "duration_ms": 103165,
+      "name": "Sandman",
+      "url": "https://open.spotify.com/track/2nR5RuOatuTHHZeXKtw22O"
     },
     {
       "added_at": "2024-08-08 17:00:00",
@@ -215,26 +235,6 @@
       "duration_ms": 354413,
       "name": "Nyomennyoh",
       "url": "https://open.spotify.com/track/3vbjE0uKesNplB2q37pLqr"
-    },
-    {
-      "added_at": "2024-08-08 17:00:00",
-      "album": {
-        "name": "Sembilan",
-        "url": "https://open.spotify.com/album/38iZSG6AUGr2zqvAPC7za6"
-      },
-      "artists": [
-        {
-          "name": "Natasya Elvira",
-          "url": "https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw"
-        },
-        {
-          "name": "Societeit de Harmonie",
-          "url": "https://open.spotify.com/artist/1KH1jCwChcxJG9GKUUfCt9"
-        }
-      ],
-      "duration_ms": 173289,
-      "name": "Sembilan",
-      "url": "https://open.spotify.com/track/2h53cB2OyARIKR0QcY5VE4"
     },
     {
       "added_at": "2024-08-08 17:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-08-08 17:00:00",
       "album": {
-        "name": "Unreleased Tracks from 1985",
-        "url": "https://open.spotify.com/album/26rn9d3WodFSvOVSsd8N8S"
-      },
-      "artists": [
-        {
-          "name": "January Christy",
-          "url": "https://open.spotify.com/artist/6r6dOSjeTf5AjwywbRqSIX"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Christy",
-      "url": "https://open.spotify.com/track/0M3l9QtKkL4QJpJUmXxEGc"
-    },
-    {
-      "added_at": "2024-08-08 17:00:00",
-      "album": {
         "name": "Tune for Lovely Souls",
         "url": "https://open.spotify.com/album/3VsWmqZ6JHs4Enq0vdtePx"
       },
@@ -1827,22 +1811,6 @@
       "duration_ms": 199000,
       "name": "Di Pusat Jakarta",
       "url": "https://open.spotify.com/track/4tPQOHV8XjjWWAs3h2rvmf"
-    },
-    {
-      "added_at": "2024-08-08 17:00:00",
-      "album": {
-        "name": "Pengungkapan Hatimu",
-        "url": "https://open.spotify.com/album/4QsOHvGDtaXUXvn8uHv8yf"
-      },
-      "artists": [
-        {
-          "name": "Candra Darusman",
-          "url": "https://open.spotify.com/artist/27w64nGa7wM8hN7oz7INCt"
-        }
-      ],
-      "duration_ms": 236286,
-      "name": "Pengungkapan Hatimu Feat. Andien",
-      "url": "https://open.spotify.com/track/1U2HfAJLJp6TXt60qPh34d"
     }
   ],
   "unique_name": "Jazz Anak Negeri",

@@ -492,7 +492,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 256551,
       "name": "BAD-DUA",
       "url": "https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N"
@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Crazily Madly Deeply",
+        "url": "https://open.spotify.com/album/2HinCCd58BSYDzim12EEtg"
+      },
+      "artists": [
+        {
+          "name": "Gurdeep Singh Garry",
+          "url": "https://open.spotify.com/artist/4o7TyECXFcrJlwZCrbZIrk"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115193,
+      "name": "Deeply",
+      "url": "https://open.spotify.com/track/5JXr0sWJbEqxuRojwLQaNl"
+    },
+    {
+      "album": {
         "name": "Defend",
         "url": "https://open.spotify.com/album/0MM2pqDPIMijqUHeZeukc1"
       },
@@ -1365,6 +1383,28 @@
     },
     {
       "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Leo Grewal",
+          "url": "https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230111,
+      "name": "Fuck Them",
+      "url": "https://open.spotify.com/track/6iF1UgWYMiDzlBfvamTNdP"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -1486,7 +1526,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 210580,
       "name": "GOOD LIFE GOOD THOUGHTS",
       "url": "https://open.spotify.com/track/6YqphIqkJHHd0dVBJRnNHN"
@@ -1548,7 +1588,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 276279,
       "name": "Hathyar - From \"Sikander 2\"",
       "url": "https://open.spotify.com/track/1iKqYeWSuNtpiv1L9IGAbB"
@@ -1989,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "LC",
+        "url": "https://open.spotify.com/album/6RCaDL2k6YIf7nsPpnwYZf"
+      },
+      "artists": [
+        {
+          "name": "DJ Flow",
+          "url": "https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8"
+        },
+        {
+          "name": "Sultaan",
+          "url": "https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "LC",
+      "url": "https://open.spotify.com/track/72Knl6oBSAmZ7C4SFNsPd2"
+    },
+    {
+      "album": {
         "name": "Levels",
         "url": "https://open.spotify.com/album/3UhoziCnYqcgxFpzYSx233"
       },
@@ -2401,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/3YZdTntXbeL8J3BczHkVso"
+      },
+      "artists": [
+        {
+          "name": "AAB",
+          "url": "https://open.spotify.com/artist/4o9CfyV6130rmK2V4TjMhP"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124800,
+      "name": "No Doubt",
+      "url": "https://open.spotify.com/track/7CujCYXw1ZpeQWFlCtOxZb"
+    },
+    {
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/07SG5x4D5BLlrPcg0xBSZf"
       },
@@ -2700,7 +2780,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 173195,
       "name": "OG",
       "url": "https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF"
@@ -2900,6 +2980,32 @@
       "duration_ms": 84857,
       "name": "Puppy Eyes Freestyle",
       "url": "https://open.spotify.com/track/2HbB9fOd7J4NalwFAVAT6M"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Handles Tdnb",
+          "url": "https://open.spotify.com/artist/4MgIiRaYRGgOEpz8DUut6Q"
+        },
+        {
+          "name": "Marvi-Sahiban",
+          "url": "https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203253,
+      "name": "Rap God",
+      "url": "https://open.spotify.com/track/7E7Qr1dkP0tZytL0EjLD6e"
     },
     {
       "album": {
@@ -3356,7 +3462,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 168743,
       "name": "Taur",
       "url": "https://open.spotify.com/track/3Zkd2rqCq0MuJXoVTMmg08"

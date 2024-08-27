@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Reinier Zonneveld
 
-1,137 songs - 2 day 12 hr 56 min
+1,138 songs - 2 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1023,6 +1023,7 @@
 | [Too Cee](https://open.spotify.com/track/2JEyk2eB4wX12jAfmSvPTn) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [El Blaack](https://open.spotify.com/artist/0aZttgWBVSqOsek6AL56xC) | [Sola presents South America](https://open.spotify.com/album/7I7OhybLvijPsAkiJSBeTS) | 2:47 | 2024-07-26 |  |
 | [Too Close](https://open.spotify.com/track/54m4uPOVyjzxgh81Dr4rxS) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Too Close](https://open.spotify.com/album/0AV0Iov13auiWBGxyGQuXZ) | 2:29 | 2023-09-21 | 2024-06-08 |
 | [Too Fuego](https://open.spotify.com/track/7AcaEuCzD6Us9jO1xVqNrC) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [NO GUEST LIST](https://open.spotify.com/album/6bIbXBJvayhVzwRiCYDgSx) | 2:56 | 2023-05-04 | 2023-09-01 |
+| [Toracci](https://open.spotify.com/track/12JAUOexvABZpOtsA0MNzQ) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Toracci](https://open.spotify.com/album/0bYVkxvqlHddrWj4Pu6oio) | 3:30 | 2024-08-26 |  |
 | [Touching Skin](https://open.spotify.com/track/29d2gllqCl2S0wAPfNBgJO) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Touching Skin](https://open.spotify.com/album/7qYvZjtiQ9Ujia0i3KvqcX) | 2:55 | 2022-09-01 | 2022-11-11 |
 | [Tourmaline](https://open.spotify.com/track/1FX96ji8jMK7js17HzJToR) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [STORME](https://open.spotify.com/artist/2dtyicVOUMo8EoEEvCTytp) | [Tourmaline](https://open.spotify.com/album/1EgTkcj6l7LbKhDOSHvUFi) | 3:24 | 2022-07-21 | 2022-12-02 |
 | [Transmission \- Armin van Buuren Remix](https://open.spotify.com/track/53QLyfbHqEtXK0ys7YW2Q4) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Transmission \(Armin van Buuren Remix\)](https://open.spotify.com/album/7k3gNgTTuM0f9cIRdW8FTP) | 2:32 | 2023-03-16 | 2023-07-14 |

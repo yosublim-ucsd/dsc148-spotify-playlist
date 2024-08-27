@@ -549,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Copenhagen",
+        "url": "https://open.spotify.com/album/2rk2djcLVkyWKIcD3CZ7QW"
+      },
+      "artists": [
+        {
+          "name": "Black Door Band",
+          "url": "https://open.spotify.com/artist/5HwT1pXVlbHMRiuOWJhcni"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241174,
+      "name": "Copenhagen",
+      "url": "https://open.spotify.com/track/0VVVbPZGjOrOAsc2NCj1kC"
+    },
+    {
+      "album": {
         "name": "Manh\u00e3 de Carnaval",
         "url": "https://open.spotify.com/album/6PmJeevy0quqp79eYVeVXb"
       },
@@ -1382,7 +1400,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 235466,
       "name": "Girl From Ipanema",
       "url": "https://open.spotify.com/track/04n2zZCoMIw7r0NNTN1hMg"
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 214798,
       "name": "It's You Or No One",
       "url": "https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2"
@@ -3630,6 +3648,24 @@
       "duration_ms": 205750,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD"
+    },
+    {
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/3WI8Ix0CZWg5BxLD8ilzif"
+      },
+      "artists": [
+        {
+          "name": "Erik V\u00e5rdstedt",
+          "url": "https://open.spotify.com/artist/4PTKCoxmZgZigpelRdhQgY"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185344,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/7E4vT2YkHsZ5Jwr0lgTqmq"
     },
     {
       "album": {

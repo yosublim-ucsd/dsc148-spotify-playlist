@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Romance in the House\. \(가족X멜로의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-33 songs - 1 hr 50 min
+35 songs - 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,8 @@
 | [Back At One](https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:23 | 2024-08-14 |  |
 | [Balloons](https://open.spotify.com/track/4Q8XZAsvHH5wCPisKMisH5) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [O\-正.反.合\. \- The 3rd Album](https://open.spotify.com/album/2adPdNYrrTt2tIkthQN5ee) | 3:49 | 2024-08-14 |  |
 | [Blue Whale \- 2016 Version](https://open.spotify.com/track/1WFj1P1TUJJXH1R41PP9Vg) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [REMIND](https://open.spotify.com/album/2wA8OXIv1JXX9kTY2ddfR4) | 3:21 | 2024-08-14 |  |
+| [By Your Side](https://open.spotify.com/track/7nycbeEEeLvF1CcUKC3NaV) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Romance in the House \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/3gBfJhcaevqcsmz2zsGG07) | 2:59 | 2024-08-26 |  |
+| [By Your Side \- Instrumental](https://open.spotify.com/track/3kr0A2KrVPcWekaZtazNMy) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Romance in the House \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/3gBfJhcaevqcsmz2zsGG07) | 2:59 | 2024-08-26 |  |
 | [CHEER UP](https://open.spotify.com/track/7lB4rxNVc7vm33ZSZXVRAQ) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Page Two](https://open.spotify.com/album/6q2oUEqL9uzVXHCeKoA8JV) | 3:28 | 2024-08-14 |  |
 | [Curated by Choi Minho](https://open.spotify.com/track/2FCGNWDRgWCIgH3f9uBUPd) | [Romance in the House](https://open.spotify.com/artist/4k4yNbU3qq9dcWjrYuZZfq) | [Romance in the House Audio liners](https://open.spotify.com/album/4TpmSaNGesf7k7pU0pmMQ4) | 0:37 | 2024-08-21 |  |
 | [Curated by Ji Jin\-hee](https://open.spotify.com/track/6q2jnr7n0ZhoeSbFxLx0aY) | [Romance in the House](https://open.spotify.com/artist/4k4yNbU3qq9dcWjrYuZZfq) | [Romance in the House Audio liners](https://open.spotify.com/album/4TpmSaNGesf7k7pU0pmMQ4) | 0:36 | 2024-08-21 |  |

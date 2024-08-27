@@ -2,7 +2,7 @@
 
 ### [This Is Gunna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iznkj)
 
-> This Is Gunna\. Los temas esenciales, todos en una lista.
+> This is Gunna\. The essential tracks, all in one playlist.
 
 75 songs - 3 hr 37 min
 

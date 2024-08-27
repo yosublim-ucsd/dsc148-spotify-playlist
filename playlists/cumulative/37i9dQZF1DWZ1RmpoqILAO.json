@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "I'm Green",
+        "url": "https://open.spotify.com/album/1upKvbsQau0k852Ol079dD"
+      },
+      "artists": [
+        {
+          "name": "Mali Velasquez",
+          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255048,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/41AzwDX7tWHHKI0zvK4YpW"
+    },
+    {
+      "album": {
         "name": "Boys Of Faith (feat. Bon Iver)",
         "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
       },
@@ -1470,6 +1488,24 @@
       "duration_ms": 124070,
       "name": "El Paso",
       "url": "https://open.spotify.com/track/19um4IgOQ8eV3XUTjYZlCJ"
+    },
+    {
+      "album": {
+        "name": "Electric Lizard",
+        "url": "https://open.spotify.com/album/4xKoeHAtvk4C6MZnKB9RDQ"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206464,
+      "name": "Electric Lizard",
+      "url": "https://open.spotify.com/track/6hyj1V6yxz3VhGuZ1lkoJv"
     },
     {
       "album": {
@@ -4316,7 +4352,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 236057,
       "name": "Turn Red",
       "url": "https://open.spotify.com/track/0rayVRqTtVHVkFiYdI8QW2"

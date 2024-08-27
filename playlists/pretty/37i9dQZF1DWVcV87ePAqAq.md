@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,287 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,259 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 59 | [Leva/Dö](https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Leva/Dö](https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X) | 2:32 |
 | 60 | [Soffa från IKEA](https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL), [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [Soffa från IKEA](https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa) | 2:29 |
 | 61 | [ALLA FÅR KOMMA](https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Akin Jensen](https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [ALLA FÅR KOMMA](https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8) | 2:24 |
-| 62 | [FULLT ÖS ARBETSLÖS](https://open.spotify.com/track/1ZBN3siAVwEXlsJfhMPuCz) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Banditerna](https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ) | [FULLT ÖS ARBETSLÖS](https://open.spotify.com/album/7dJX08YeBnaF9Ri3r8LTFR) | 2:30 |
-| 63 | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [Skurk3n](https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW) | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3) | 2:12 |
+| 62 | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [Skurk3n](https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW) | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3) | 2:12 |
+| 63 | [FULLT ÖS ARBETSLÖS](https://open.spotify.com/track/1ZBN3siAVwEXlsJfhMPuCz) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE), [Banditerna](https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ) | [FULLT ÖS ARBETSLÖS](https://open.spotify.com/album/7dJX08YeBnaF9Ri3r8LTFR) | 2:30 |
 | 64 | [MEDVETSLÖS](https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [MEDVETSLÖS](https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH) | 3:04 |
 | 65 | [Vad bänkar du?](https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW) | [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE) | [Vad bänkar du?](https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv) | 2:47 |
 | 66 | [SUPA \(Studentlåten\)](https://open.spotify.com/track/4wWihgtVue0ILcKsXAQsEN) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [SUPA \(Studentlåten\)](https://open.spotify.com/album/6FmEqvZ3GQUATK71XlIxak) | 2:40 |

@@ -4,7 +4,7 @@
 
 > Experience the world of STEINS;GATE from video game to TV anime series./ 待望の公式プレイリスト登場！音楽と共に振り返る、果てなき<a href="http://steinsgate.jp/">シュタゲ</a>の世界。\(C\)2009 MAGES./5pb./Nitroplus
 
-41 songs - 3 hr 14 min
+44 songs - 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,11 +17,13 @@
 | [GATE OF STEINER \-Piano\-](https://open.spotify.com/track/1EyeHLX96JGGiF2l4tRvJR) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [STEINS;GATE Original Soundtrack](https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C) | 3:56 | 2021-05-26 |  |
 | [Hacking to the Gate](https://open.spotify.com/track/78dl9lfz8vogpSxpdpWQdl) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [TVアニメ『シュタインズ・ゲート』OPテーママキシシングル「Hacking to the Gate」](https://open.spotify.com/album/3dQ3C0NOeMqQT3mwWVivM2) | 4:16 | 2021-05-26 |  |
 | [Hacking to the Gate \- symphonic ver.](https://open.spotify.com/track/7mMshfkGDVQTjn03tvSlwI) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [STEINS;GATE SYMPHONIC REUNION](https://open.spotify.com/album/7fv7frh9eQ3RWFdrX62InX) | 4:18 | 2021-05-26 |  |
+| [IF](https://open.spotify.com/track/1APLIq8Q54s9uJ4QUytiB1) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [IF\(「想定科学パチスロ シュタインズゲート 廻転世界のインダクタンス」オリジナルソング\)](https://open.spotify.com/album/76joFXwGG9sO4hFnDxgEws) | 4:23 | 2024-08-26 |  |
 | [La\*La\*Laラボリューション](https://open.spotify.com/track/0vtkZ2Ac7ekZreVIa8BXBk) | [アフィリア・サーガ](https://open.spotify.com/artist/4Ip0Amlvr3OqSJFDLxRGBB) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 5:10 | 2021-05-26 |  |
 | [LAST GAME](https://open.spotify.com/track/3rc1WzRiLAdIth63pyr1SI) | [Zwei](https://open.spotify.com/artist/3x6stWfT8fw52uEG0fihmb) | [LAST GAME\(TVアニメ「シュタインズ・ゲート ゼロ」EDテーマ\)](https://open.spotify.com/album/2HPnTXnhkkAcO7DuBT1vBQ) | 4:44 | 2021-05-26 |  |
 | [Nyan☆Nyan☆Galaxy!](https://open.spotify.com/track/0XYEQof1rnDtGVEuClGnuv) | [フェイリス・ニャンニャン\(cv.桃井はるこ\)](https://open.spotify.com/artist/0icRk5dQuBLeo5VAZhtxei) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:33 | 2021-05-26 |  |
 | [To Be Loved](https://open.spotify.com/track/1g0KnKz5IWlb7FZQlJJp27) | [桐生萌郁\(cv.後藤沙緒里\)](https://open.spotify.com/artist/7kemJM6KHENQw13rLWB9rY) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:47 | 2021-05-26 |  |
 | [World\-Line](https://open.spotify.com/track/0gwwbyGuBZGSx4YYBFY0HU) | [今井麻美](https://open.spotify.com/artist/6Yy5HRdcdZR1r2A2YnEefb) | [World\-Line\(TVアニメ「シュタインズ・ゲート ゼロ」エンディングテーマ\)](https://open.spotify.com/album/1o7c244f5LyfGY9EKrdGDi) | 4:42 | 2021-05-26 |  |
+| [あなたの選んだこの時を](https://open.spotify.com/track/1re8Akpjx9FipWCXgaF7TV) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [劇場版「STEINS;GATE 負荷領域のデジャヴ」主題歌 「あなたの選んだこの時を」](https://open.spotify.com/album/4ZnU4rnMW5gJnCa8RwWQl5) | 5:08 | 2024-08-26 |  |
 | [あの夏の日の想い出](https://open.spotify.com/track/1BcPvMqU1LSKwXNZMFX0vo) | [Zwei](https://open.spotify.com/artist/3x6stWfT8fw52uEG0fihmb) | [Re:Set](https://open.spotify.com/album/0Mm4LluxBjhwxumOQl7ZRf) | 5:30 | 2021-05-26 |  |
 | [いつもこの場所で \- symphonic ver.](https://open.spotify.com/track/2nD6bkPxRNieZcEA5PvKe9) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [STEINS;GATE SYMPHONIC REUNION](https://open.spotify.com/album/7fv7frh9eQ3RWFdrX62InX) | 6:24 | 2021-05-26 |  |
 | [アニーの指輪](https://open.spotify.com/track/1Qtoq02RTZ4alrR7vJ4Lai) | [ファンタズム\(FES cv.榊原ゆい\)](https://open.spotify.com/artist/1kDTyOIQA33Xi1F7Q1Ox6y) | [アニーの指輪\(ゲーム「STEINS;GATE ELITE」EDテーマ\)](https://open.spotify.com/album/58bcyTNf5JZhUDfqFmExKS) | 5:41 | 2021-05-26 |  |
@@ -43,6 +45,7 @@
 | [永遠のベクトル](https://open.spotify.com/track/70i10zN8Souc3Ch63o4flz) | [いとうかなこ](https://open.spotify.com/artist/2d12dVIZQZk9CKhEsezaoN) | [VECTOR](https://open.spotify.com/album/1QbEAPMKjLG8ZbHCymoSiS) | 4:49 | 2021-05-26 |  |
 | [禁断無敵のだーりん](https://open.spotify.com/track/5pCGCQs8qWYiZih4oGpnSx) | [アフィリア・サーガ](https://open.spotify.com/artist/4Ip0Amlvr3OqSJFDLxRGBB) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:18 | 2021-05-26 |  |
 | [約束のパラダイム](https://open.spotify.com/track/4EAunyU27wCE9z14Ju2FX3) | [牧瀬紅莉栖\(cv.今井麻美\)](https://open.spotify.com/artist/5hnyNM7zoMcsQ8tdXdXpra) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:38 | 2021-05-26 |  |
+| [萌える世界の幻想譚](https://open.spotify.com/track/6cNj8d9bP7otNUQjQ5Znbj) | [橋田 至（cv.関智一）](https://open.spotify.com/artist/2MVVY12TKfpKBwWnRPKJXt) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:38 | 2024-08-26 |  |
 | [虹色の光りの中で](https://open.spotify.com/track/5s4oSyrd72VVGHEGTzAdMB) | [阿万音鈴羽\(cv.田村ゆかり\)](https://open.spotify.com/artist/2mWoN39inRTkWg6NseP7Xo) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 4:01 | 2021-05-26 |  |
 | [運命のファルファッラ](https://open.spotify.com/track/0G84H1lInqw458K1pwUkLJ) | [ファンタズム \(FES cv.榊原ゆい\)](https://open.spotify.com/artist/4hAeN5BaDLgkHClNPW6JZw) | [STEINS;GATE VOCAL BEST](https://open.spotify.com/album/0zEC6XaKbvqLqpphWjj4cR) | 5:14 | 2021-05-26 |  |
 | [邂逅のフェタリテート](https://open.spotify.com/track/36wgXlvAsueJyAWS87IpFy) | [彩音](https://open.spotify.com/artist/18ept9gCH3chL1S16u5CSQ) | [邂逅のフェタリテート \(PS Vitaソフト「STEINS;GATE 線形拘束のフェノグラム」オープングテーマ\)](https://open.spotify.com/album/4QfA1aUwAthuSaPPlbArt1) | 4:11 | 2021-05-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: The Blessed Madonna x Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,907 likes - 78 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,030 likes - 78 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

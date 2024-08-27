@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Chubby and the Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,871 likes - 127 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,892 likes - 127 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

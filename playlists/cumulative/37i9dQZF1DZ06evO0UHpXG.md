@@ -2,7 +2,7 @@
 
 ### [This Is Motörhead](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0UHpXG)
 
-> This Is Motörhead\. Los temas esenciales, todos en una lista.
+> This is Motörhead\. Todos os maiores hits em uma só playlist.
 
 114 songs - 6 hr 49 min
 

@@ -2,7 +2,7 @@
 
 ### [La Crème](https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM)
 
-> La playlist au\-delà des genres\. Photo : Jean Dawson
+> La playlist au\-delà des genres\. Photo : Glass Beams
 
 174 songs - 10 hr 6 min
 

@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-350 songs - 19 hr 9 min
+351 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Jolene](https://open.spotify.com/track/6B1si3DuUOmVaWQ53GijZh) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH), [Dwala](https://open.spotify.com/artist/2Bk5mmhrQfB0kws2HZbpmT) | [Jolene](https://open.spotify.com/album/3S8m8x31vQLl4I4R4gqA88) | 3:15 | 2022-02-24 | 2022-08-19 |
 | [Jub Jub](https://open.spotify.com/track/5tGohHP8EDvVPMPWBs06hM) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1) | [Jub Jub](https://open.spotify.com/album/1A2fNybUwoHM6zkbUH2mTV) | 3:11 | 2023-05-15 | 2024-07-25 |
 | [Juggernaut](https://open.spotify.com/track/7jR7pbhP6SyRCPlodPoGsJ) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ), [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78), [A7](https://open.spotify.com/artist/1ay1LWJalgPpZdyXImX3kR) | [Car Love Riddim](https://open.spotify.com/album/0jEaSfQGwhRF56voRed194) | 2:42 | 2023-07-11 | 2023-08-12 |
+| [Jumbo Jet](https://open.spotify.com/track/6DI66fsIkq3gHmcIcM88Rg) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Turn Up](https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo) | 2:53 | 2024-08-05 |  |
 | [Jump](https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [1 On 1](https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy) | 3:34 | 2023-02-21 |  |
 | [Just a Little Bit](https://open.spotify.com/track/4swKkhCf3hmiXEFYFnUs5w) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Queen of Bacchanal](https://open.spotify.com/album/44QIIHlkSUVu4ytLjXIrH3) | 3:54 | 2023-02-21 |  |
 | [Kasandra](https://open.spotify.com/track/465uwaHwIbasa0Q4EcK3YM) | [Stadic](https://open.spotify.com/artist/4mk1ScvOUkuQzzCZpT6bc0), [Freetown Collective](https://open.spotify.com/artist/4OD7vSNDpVB2VxTbifT8fG) | [Kasandra](https://open.spotify.com/album/2qxti8VFUyX4aQXIKohedA) | 2:37 | 2022-02-26 | 2022-08-19 |
@@ -198,7 +199,7 @@
 | [Mash Up](https://open.spotify.com/track/3mjcA6BYyvTgieoaoEtJxn) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Mash Up](https://open.spotify.com/album/5zz01v5QiZmweXPy0ctPmV) | 3:04 | 2022-02-24 | 2022-12-20 |
 | [Mash Up](https://open.spotify.com/track/7gERxWoMY5cCFJ4Oyy8qnC) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Mash Up](https://open.spotify.com/album/4DngCnXAuryTNHVFR1kGtp) | 3:04 | 2022-08-18 | 2023-07-12 |
 | [Mash Up](https://open.spotify.com/track/4aoNC3tF8z1wxhJ0ysQGFR) | [Erphaan Alves](https://open.spotify.com/artist/7JCisiTi3MGNkDHIXuEf0w), [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Mash Up](https://open.spotify.com/album/3oKIMBVHVEB6O62tRjR2rQ) | 3:10 | 2022-02-26 | 2022-08-19 |
-| [Mechanic](https://open.spotify.com/track/0KpSnoj6JDwaDoESTCmc15) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Rocket Fuel Riddim](https://open.spotify.com/album/5PeYzJOmVq0ZAo7s8FcUWz) | 2:57 | 2023-07-11 |  |
+| [Mechanic](https://open.spotify.com/track/0KpSnoj6JDwaDoESTCmc15) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Rocket Fuel Riddim](https://open.spotify.com/album/5PeYzJOmVq0ZAo7s8FcUWz) | 2:57 | 2023-07-11 | 2024-08-27 |
 | [Mental Day](https://open.spotify.com/track/1IqgGVyINMhLLVBEgQYhW1) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Spirit Of Carnival Project](https://open.spotify.com/album/70k0gxInLY1FKI2x9H2uSu) | 3:04 | 2023-05-15 | 2024-08-04 |
 | [Mi Shell](https://open.spotify.com/track/7b0R5v7Fdzx6BuiwCU41Nh) | [Tallpree](https://open.spotify.com/artist/26XGjOXHl9VOiPtxXakyLE) | [Drums by the River Riddim](https://open.spotify.com/album/6rK4ta4BOvpkl06PXD5rdK) | 2:39 | 2022-02-24 | 2022-08-19 |
 | [Midnight Cruise](https://open.spotify.com/track/22awu0GezGlAbQPqhYsnDR) | [System32](https://open.spotify.com/artist/7otiKgm5qrgugGPiW4by20), [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Midnight Cruise](https://open.spotify.com/album/01aLKJjUhez1j6vgg2kWgh) | 3:25 | 2021-08-26 | 2022-02-25 |

@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,952 songs - 4 day 14 hr 27 min
+1,953 songs - 4 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,6 +536,7 @@
 | [Fake Friends \- Original Mix](https://open.spotify.com/track/0MWG5fcxHHAYYQ8TEXmkqL) | [MYMA](https://open.spotify.com/artist/4ulrSQwgXFXA7JcEKG1TkK) | [Fake Friends EP](https://open.spotify.com/album/4WoOY9sfnMLRGnkUrpuodZ) | 4:51 | 2023-12-06 | 2023-12-17 |
 | [Fake ID](https://open.spotify.com/track/2gjTyHvloL1xDDA2vAMiqn) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Fake ID](https://open.spotify.com/album/6JVsvw6mrOOD6fgJZmRb0A) | 2:20 | 2023-06-09 | 2023-06-25 |
 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 | 2023-09-22 | 2023-09-30 |
+| [Fall](https://open.spotify.com/track/2QNXbKeLQWsSJkPiyfmL3d) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb), [Ell Jordan](https://open.spotify.com/artist/3ZfwdqNPzevAjnBlRCkBKl) | [Fall EP](https://open.spotify.com/album/6mtRWEWZ6lJZkkD3yPMbes) | 2:57 | 2024-08-26 |  |
 | [Fall In](https://open.spotify.com/track/2aU7kLyDNnkW2aWVL71w3s) | [alltalk](https://open.spotify.com/artist/3zSuUp3NsJBFL21yiLj7VE) | [Fall In](https://open.spotify.com/album/240IN9MbCvhua3lkVo2wYL) | 3:20 | 2022-10-07 | 2022-10-15 |
 | [Fall In \- Original Mix](https://open.spotify.com/track/5pHx49j3E57grMbXXRi0xz) | [Z A K](https://open.spotify.com/artist/7BF3vz2rJ9RnK0j1mYOxYf) | [UV Protection Vol\. 4](https://open.spotify.com/album/15jNctglkeLWnilz8bbAvW) | 4:30 | 2022-09-10 | 2022-09-18 |
 | [Fallen Leaf](https://open.spotify.com/track/3n7JiehINioOhgjaGpdSOu) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Be No Rain](https://open.spotify.com/artist/0ToTNYPspLv4FWbcpXgOUt) | [Fallen Leaf](https://open.spotify.com/album/5S3LayPQLS2A9tCGxQDKgd) | 3:33 | 2023-06-30 | 2023-07-16 |

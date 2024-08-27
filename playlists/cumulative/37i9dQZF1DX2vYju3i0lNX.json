@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "A Silent Place",
+        "url": "https://open.spotify.com/album/3N1vEv9Nnwcm76KePlour5"
+      },
+      "artists": [
+        {
+          "name": "Irvin Smith Group",
+          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269402,
+      "name": "A Silent Place",
+      "url": "https://open.spotify.com/track/1LarksQOfjXTKovfdYa6pd"
+    },
+    {
+      "album": {
         "name": "A Sleepin' Bee",
         "url": "https://open.spotify.com/album/5kNzBcZqlr7x4hLt1ugC1p"
       },
@@ -784,6 +802,24 @@
       "duration_ms": 177231,
       "name": "Accidently On Purpose",
       "url": "https://open.spotify.com/track/6Iph7VLWk26M9A1URCSSur"
+    },
+    {
+      "album": {
+        "name": "Aching",
+        "url": "https://open.spotify.com/album/03CKsiZ9vuhJHwJA3tH8Td"
+      },
+      "artists": [
+        {
+          "name": "Mandy",
+          "url": "https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Aching",
+      "url": "https://open.spotify.com/track/5Rpluoa61bJVMGMCFFE7O1"
     },
     {
       "album": {
@@ -5243,6 +5279,24 @@
     },
     {
       "album": {
+        "name": "Floor 18",
+        "url": "https://open.spotify.com/album/3QdNgyLt02btKdRTvupQRd"
+      },
+      "artists": [
+        {
+          "name": "Eight Bar Band",
+          "url": "https://open.spotify.com/artist/367gr33lVFc1VegXQjwfFa"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223957,
+      "name": "Floor 18",
+      "url": "https://open.spotify.com/track/0qlr4e6h4cpWSu4CWqOMgh"
+    },
+    {
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/3qG4dYKIbloOrYOGRPJKil"
       },
@@ -6176,6 +6230,24 @@
       "duration_ms": 162708,
       "name": "Graceful Rhapsody",
       "url": "https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r"
+    },
+    {
+      "album": {
+        "name": "Grapevine",
+        "url": "https://open.spotify.com/album/5EiQtjU5FInnw350jD3Sxh"
+      },
+      "artists": [
+        {
+          "name": "Joanna Mason",
+          "url": "https://open.spotify.com/artist/4S1m9Gvs6oH0gHRnpkoAUT"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215277,
+      "name": "Grapevine",
+      "url": "https://open.spotify.com/track/4JpraZLxroaD9GW68v0hnr"
     },
     {
       "album": {
@@ -7828,7 +7900,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 193895,
       "name": "In Our Garden",
       "url": "https://open.spotify.com/track/2XGgHEJiDP7qkH8LZOmMNG"
@@ -10931,6 +11003,24 @@
     },
     {
       "album": {
+        "name": "Monica",
+        "url": "https://open.spotify.com/album/79SnG6MLViQI6TX2v8ZKHZ"
+      },
+      "artists": [
+        {
+          "name": "The Groove Trio",
+          "url": "https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178930,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/63BOtS2JTJ6WQcLVbcVf3n"
+    },
+    {
+      "album": {
         "name": "Monk's Mood",
         "url": "https://open.spotify.com/album/67IUq1LOpEnPXlJfyvnY4C"
       },
@@ -10960,7 +11050,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 177447,
       "name": "Moody Promenade",
       "url": "https://open.spotify.com/track/3QDUpdIPgL1NSpCY9aPpbf"
@@ -11594,6 +11684,24 @@
       "duration_ms": 211079,
       "name": "Mystic Moonlight Groove",
       "url": "https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi"
+    },
+    {
+      "album": {
+        "name": "Nancy (With the Laughing Face)",
+        "url": "https://open.spotify.com/album/5aEKHw0knbFC8Sqh6VJP6j"
+      },
+      "artists": [
+        {
+          "name": "Mayfare Trio",
+          "url": "https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Nancy (With the Laughing Face)",
+      "url": "https://open.spotify.com/track/0qkrzoR4FdEBe0kEjppl0o"
     },
     {
       "album": {
@@ -13618,6 +13726,24 @@
     {
       "album": {
         "name": "Serenity",
+        "url": "https://open.spotify.com/album/3WI8Ix0CZWg5BxLD8ilzif"
+      },
+      "artists": [
+        {
+          "name": "Erik V\u00e5rdstedt",
+          "url": "https://open.spotify.com/artist/4PTKCoxmZgZigpelRdhQgY"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185344,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/7E4vT2YkHsZ5Jwr0lgTqmq"
+    },
+    {
+      "album": {
+        "name": "Serenity",
         "url": "https://open.spotify.com/album/7zqtkLCoo4YXpf0zTtkBQG"
       },
       "artists": [
@@ -14690,7 +14816,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 262902,
       "name": "Spring Can Really Hang You Up The Most",
       "url": "https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he"
@@ -16588,6 +16714,24 @@
       "duration_ms": 231901,
       "name": "Think of refusing",
       "url": "https://open.spotify.com/track/0xczcAK509NavYmwkard4Q"
+    },
+    {
+      "album": {
+        "name": "Thinking About Your Smile",
+        "url": "https://open.spotify.com/album/79GcQDczzpvaYL6Ibx2GeT"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222167,
+      "name": "Thinking About Your Smile",
+      "url": "https://open.spotify.com/track/2Ou3LQxtrah2CKhkZWN3R8"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: CFN MALIK
 
-598 songs - 1 day 3 hr 36 min
+599 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Roar system](https://open.spotify.com/track/69ELkRb5OY5eIOrLqkQQWn) | [L.O.S.T](https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV) | [Youth After The Loss I](https://open.spotify.com/album/5HZQ3QkoyiroMYeWxYXpoy) | 2:39 | 2024-01-25 | 2024-04-19 |
 | [Rock Music](https://open.spotify.com/track/0JpobtLUaKkLVB0x51JxCM) | [LIL SOFT TENNIS](https://open.spotify.com/artist/4W0x6vtaXBRGr5hPMYcrmQ) | [BIG HARD TENNIS](https://open.spotify.com/album/6XjaTzMevEL4i9mWFvM3nh) | 1:58 | 2024-08-07 |  |
 | [ROX](https://open.spotify.com/track/1hBmU1RZjeXn4KWCOrmpaB) | [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo) | [x](https://open.spotify.com/album/1C2yFyLZbX8d4SmLNzuXFx) | 2:08 | 2024-04-16 | 2024-06-12 |
+| [RTTB Freestyle](https://open.spotify.com/track/0unxgpb5GGdx1y8ahOIYG3) | [L.O.S.T](https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV), [M3R](https://open.spotify.com/artist/0YjscyVinO9rRbTTRSHIUm), [ROBBIN](https://open.spotify.com/artist/1KGG30JmCcnQ1OiqhbxIbB) | [RTTB Freestyle](https://open.spotify.com/album/6YqH9Oa6IHq0BREeImxOei) | 1:59 | 2024-08-26 |  |
 | [Run Forrest Run](https://open.spotify.com/track/0fJmDRV3mLqWORL7GtCeXJ) | [R.I.O.](https://open.spotify.com/artist/3cvjILHaL3n1YxZgZm8uBZ), [Fisong](https://open.spotify.com/artist/2qIegodrHjmTpuAsJ6vbcW) | [Run Forrest Run](https://open.spotify.com/album/5FcHleOO26pds90njNcF0d) | 3:16 | 2024-08-09 |  |
 | [s2000](https://open.spotify.com/track/4o5e4C8yItyb107bggqWfe) | [Amo](https://open.spotify.com/artist/3eyhpuysSG6pj8ilwNpUhA) | [s2000](https://open.spotify.com/album/3HZopZsgwsotS6jhQeNsUa) | 2:42 | 2024-04-24 | 2024-06-19 |
 | [SABOLOW](https://open.spotify.com/track/3iD7ipMkpxFYHUsECdcCYf) | [STICKY BUDS](https://open.spotify.com/artist/606E8dfYTpa1QY1MLJxN8J) | [Get Dream Story](https://open.spotify.com/album/4DOWq9dCkrfoAtKn80d1lO) | 2:52 | 2023-12-07 | 2024-01-17 |

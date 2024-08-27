@@ -2205,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Waking Up Together With You",
+        "url": "https://open.spotify.com/album/6n4YU8iRm07O7lR1zQZypN"
+      },
+      "artists": [
+        {
+          "name": "Ardhito Pramono",
+          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178890,
+      "name": "Waking Up Together With You",
+      "url": "https://open.spotify.com/track/6WsG550j67Aj29z0iel7lo"
+    },
+    {
+      "album": {
         "name": "WILL YOU?",
         "url": "https://open.spotify.com/album/16e8wwkPqs52FwNEyD0wV5"
       },

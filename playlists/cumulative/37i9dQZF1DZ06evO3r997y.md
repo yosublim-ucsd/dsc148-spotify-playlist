@@ -2,7 +2,7 @@
 
 ### [This Is 鬼頭明里](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
 
-> This is 鬼頭明里。アーティストの代表曲をひとつのプレイリストに。
+> This is 鬼頭明里\. The essential tracks, all in one playlist.
 
 71 songs - 4 hr 44 min
 

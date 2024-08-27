@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Argüello &amp; Bacilos
 
-256 songs - 12 hr 52 min
+257 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,8 @@
 | [Gonna Kill My Way](https://open.spotify.com/track/3IpWLISMLR0JMuLgXtm8nG) | [Eddy Black](https://open.spotify.com/artist/5XCoXE7RaDvuyMCghkdmxK) | [Gonna Kill My Way](https://open.spotify.com/album/0ZUeNzry9q22SNXQ88xIgD) | 3:50 | 2024-08-02 | 2024-08-09 |
 | [Hangin' On](https://open.spotify.com/track/2QBYwDbhKUjOPNylueh8ti) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Hangin' On](https://open.spotify.com/album/1QFag1soFAXSOXGoRQHp5G) | 3:15 | 2024-07-26 | 2024-08-02 |
 | [Hello](https://open.spotify.com/track/3jQhfY54CWkDy4Pqt2ozAG) | [Robaer](https://open.spotify.com/artist/6W9GI0QPqUZkyhTxBMUAi5) | [Hello](https://open.spotify.com/album/43NXCMAQNNXt81v2UwsRRF) | 3:01 | 2024-07-08 | 2024-07-13 |
-| [Hey Now \(feat\. CLO\)](https://open.spotify.com/track/1QxnZGGh4Wx7laKkfVW6vF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP), [CLO](https://open.spotify.com/artist/5RRbbXTuyvhE4oqhWbATGK) | [Hey Now \(feat\. CLO\)](https://open.spotify.com/album/1mdO7UeEj5WuZRX4kATBCq) | 2:53 | 2024-08-19 |  |
+| [Hey Now \(feat\. CLO\)](https://open.spotify.com/track/1QxnZGGh4Wx7laKkfVW6vF) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP), [CLO](https://open.spotify.com/artist/5RRbbXTuyvhE4oqhWbATGK) | [Hey Now \(feat\. CLO\)](https://open.spotify.com/album/1mdO7UeEj5WuZRX4kATBCq) | 2:53 | 2024-08-19 | 2024-08-27 |
+| [Hey Now \(feat\. CLO\)](https://open.spotify.com/track/2EKTFaBv4bBFWWa4MnZ6zP) | [Kryder](https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O), [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP), [CLO](https://open.spotify.com/artist/5RRbbXTuyvhE4oqhWbATGK) | [Hey Now \(feat\. CLO\)](https://open.spotify.com/album/3rGpJArNUELjz9QoozyokD) | 2:53 | 2024-08-26 |  |
 | [High For This](https://open.spotify.com/track/3EVdjxPeVxFBMcVVnwJhQv) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [High For This](https://open.spotify.com/album/0D5083Azr6y2h23yoccdxC) | 4:01 | 2024-07-12 | 2024-07-19 |
 | [HIGHER](https://open.spotify.com/track/7a82N5DrxDyrLMaP3tq9NM) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [HIGHER](https://open.spotify.com/album/0VaYBiCTEsEKPTrezUpwla) | 2:11 | 2024-08-23 |  |
 | [Hit It Pump It](https://open.spotify.com/track/30qd0xN0XqELqCR4afZZTh) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK) | [Hit It Pump It](https://open.spotify.com/album/4peV30tMifVhtWh1Zpwndd) | 2:36 | 2024-07-26 | 2024-08-02 |

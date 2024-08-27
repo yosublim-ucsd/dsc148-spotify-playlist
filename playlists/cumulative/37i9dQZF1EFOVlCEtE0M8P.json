@@ -3587,6 +3587,24 @@
     },
     {
       "album": {
+        "name": "songs for rosie",
+        "url": "https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137080,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/0XIcnB5ioyvvc4VWZHrRsB"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/4mKGz8LpzNFzhXHxeadZfi"
       },

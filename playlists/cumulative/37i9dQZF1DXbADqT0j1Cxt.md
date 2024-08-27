@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-642 songs - 19 hr 25 min
+646 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,11 +289,13 @@
 | [Karen The Kangaroo](https://open.spotify.com/track/4uvQn1mLKqkGlrVNmd4Sd8) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [Karen The Kangaroo](https://open.spotify.com/album/29DLEV261Y1nETEOwtiuHb) | 1:21 | 2023-09-08 |  |
 | [KC's Lullaby](https://open.spotify.com/track/75L7t3fLTJbi0RHIuebO5n) | [Allison Spinney](https://open.spotify.com/artist/6nvdVuecT4Fi8qUCc4x8xH) | [Bringing This Baby Home](https://open.spotify.com/album/4dlJWmeRu4i5uymna8CxAp) | 1:31 | 2021-10-07 | 2022-02-11 |
 | [Kiro's Bedtime](https://open.spotify.com/track/3YVCitcIC16xvzxnvnToxf) | [Chiola](https://open.spotify.com/artist/5u6XN8l3ekVBP7c3PB0Jop) | [Kiro's Bedtime](https://open.spotify.com/album/1JaUDCJ1umbzBFpaNo4DN7) | 1:25 | 2021-10-07 | 2022-09-03 |
+| [Kiss My World Good Night](https://open.spotify.com/track/609r3TFl5aWqyRS8dKSnyH) | [Phoenix Hills](https://open.spotify.com/artist/4OPRPc19uzfOuVUb2Y9njY) | [Kiss My World Good Night](https://open.spotify.com/album/6CW1usbweHQoQnqvZcTHs7) | 1:38 | 2024-08-26 |  |
 | [Knackle Back](https://open.spotify.com/track/7kjnyXWlhQdlrtFX1a39K8) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Knackle Back](https://open.spotify.com/album/2wOW8e8QozWcb89PDhVlaw) | 1:42 | 2024-02-09 |  |
 | [Kumbayah](https://open.spotify.com/track/5wWAjBYLHEy8FwteKQqok0) | [Adelmar Borrego](https://open.spotify.com/artist/5bdLiUDd0rIMAkT1y6zLaE) | [Frère Jacques](https://open.spotify.com/album/0eG8Pkyoc91BZ7s7bsBtNi) | 1:36 | 2021-10-07 | 2022-10-29 |
 | [La Cucaracha](https://open.spotify.com/track/3KtsEkq4GQSO80dcXmC8iS) | [Hannah Hill](https://open.spotify.com/artist/6OE5cqMEpVemAzsvpPKJuV) | [La Cucaracha](https://open.spotify.com/album/4XCAJuuV4XkzFgHZSo2ebo) | 1:40 | 2022-01-21 | 2022-11-26 |
 | [Ladybird](https://open.spotify.com/track/29m9bqkYtMvxDEO6QQYLJ3) | [Bobbi Rafferty](https://open.spotify.com/artist/0m9pUjmNedBWPtNVf0ZVlt) | [Ladybird](https://open.spotify.com/album/4LTG85GVjf5C17cdMaWGsh) | 1:35 | 2022-02-10 | 2024-05-04 |
 | [Lapprika](https://open.spotify.com/track/3uzZub2fRRFP402ZXO7NDI) | [Gretchen Andersen](https://open.spotify.com/artist/6JA3BkprYUjs2sL4u7FBpZ) | [Lapprika](https://open.spotify.com/album/2x2lvMLg9ExFjSKa1FOPH6) | 1:10 | 2022-08-10 | 2023-06-16 |
+| [Lavender Lullabies](https://open.spotify.com/track/6qP9buV4EOg2ePilB6PbU2) | [Zoe Wells](https://open.spotify.com/artist/6EVfwbkg64ZjVmGuNefhoj) | [Lavender Lullabies](https://open.spotify.com/album/3bvKZGshd7QZERxNMrvstG) | 2:25 | 2024-08-26 |  |
 | [Le Fiacre](https://open.spotify.com/track/6gADa9cE5XwpVQQLH5HqG6) | [Ani Ander](https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W) | [Le Fiacre](https://open.spotify.com/album/4H3qwhO3Oqg54bBxNt8jQF) | 2:07 | 2022-12-09 |  |
 | [Left And Right](https://open.spotify.com/track/0H9uhbL0BrrV7iMnNovlIr) | [Francine Miller](https://open.spotify.com/artist/5vxAOWWWvD46wo9rxyELlv) | [Left And Right](https://open.spotify.com/album/6TsQmkqi4FGV7umaH5v7c1) | 1:56 | 2024-03-01 |  |
 | [Lemon sky](https://open.spotify.com/track/3UvDZep35uVvjQs2C1kLLW) | [Aiden Kendal](https://open.spotify.com/artist/4sYmi0xVWyHLgYA0ur7NYt) | [Lemon sky](https://open.spotify.com/album/4GXco887kb4osKRxt2Ia8r) | 1:21 | 2021-10-07 |  |
@@ -385,6 +387,7 @@
 | [My soft Pillow](https://open.spotify.com/track/48eYBs43e6clWY8PPOazMA) | [Kolton Kirby](https://open.spotify.com/artist/3FIhEwJntBEpDBS3QjuL1L) | [My soft Pillow](https://open.spotify.com/album/5OmLzmBH0dxdHdZupwZXAV) | 1:37 | 2021-10-07 | 2023-05-12 |
 | [My Sunshine](https://open.spotify.com/track/1ikXHodxfzZNYZXSzv0UST) | [Laya Amon](https://open.spotify.com/artist/0oICzQe4s0CgUAuocB6eN9) | [Sailing to Dreamland](https://open.spotify.com/album/4QBCCLJWRJNH8N1VIf2gZn) | 2:04 | 2023-02-10 |  |
 | [Napping Bell](https://open.spotify.com/track/1BYxm8eVidk1UG1eS5Afc0) | [Patch Paul](https://open.spotify.com/artist/2saxtnCsT6CCtNUEGRgWNe) | [Napping Bell](https://open.spotify.com/album/772eGWfT9xUWzp6j7R00bQ) | 2:27 | 2021-10-07 | 2022-11-26 |
+| [Naptime](https://open.spotify.com/track/6Tbvu4mMCggytKba7slRcg) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [Naptime](https://open.spotify.com/album/54r2pHYyLBR4p7L7BZge2C) | 1:36 | 2024-08-26 |  |
 | [Nashville Nights](https://open.spotify.com/track/6wPznzcN6oN4ZcJAkdM3TD) | [Anna Ramirez](https://open.spotify.com/artist/4WtmDnBN2uns73pavhp6mB) | [Camilla's Lullabye](https://open.spotify.com/album/6JdYVIwiBzeNSCo0E2wJgW) | 2:16 | 2021-10-07 | 2024-03-29 |
 | [Nattasang](https://open.spotify.com/track/5V7Cna2whRlJKPRDhWDqWE) | [Love Haugen](https://open.spotify.com/artist/4NsGWqS4NvkK8fWRW3d6GL) | [Nattasang](https://open.spotify.com/album/2Ky8VQ9jejKsB4fy0fogVf) | 1:23 | 2021-10-07 | 2023-05-12 |
 | [Natti natt lillesøster](https://open.spotify.com/track/4VKYZ0NAMHkbd7tfnzvXkL) | [Saga Solheim](https://open.spotify.com/artist/7uy9xQDLs9vJXNotUs2eVQ) | [Natti natt lillesøster](https://open.spotify.com/album/2atqQpSUrSz0ozD9tSKDaN) | 2:10 | 2021-10-07 | 2024-03-29 |
@@ -514,6 +517,7 @@
 | [Starry Wishes](https://open.spotify.com/track/3Oro7O5Yy4VwcBeqLMZQQP) | [Georgia Faingold](https://open.spotify.com/artist/2OynITaK8BC9oXr5Q7vd7V) | [Starry Wishes](https://open.spotify.com/album/17cW5V1SMwhYkcNU5c1GoU) | 1:54 | 2021-10-07 | 2022-12-24 |
 | [Stay Awake](https://open.spotify.com/track/3TlnOqKkYPNDl4bxvS5RaB) | [Callum Waterford](https://open.spotify.com/artist/6TdZZLY5iTYyvZfPbGkame) | [Stay Awake](https://open.spotify.com/album/4dQLCxKNuqYDaFaXbYtDE1) | 1:48 | 2021-10-07 | 2022-09-03 |
 | [Strawberry Days](https://open.spotify.com/track/2InxnDzuNTvai55lqZTB8e) | [Sienna Hewitt](https://open.spotify.com/artist/6PjnavWTln3VeGwsHZgWPL) | [Danny the Duckling](https://open.spotify.com/album/6xoiLYPz3A4na8YP9Vhpat) | 1:22 | 2022-06-30 | 2023-05-12 |
+| [Summer Rain Lullaby](https://open.spotify.com/track/1tqpXIIpSt37fwvTnd0eaD) | [Moa Schooner](https://open.spotify.com/artist/0bVphTIhvj7rQlDw7z6v2R) | [Summer Rain Lullaby](https://open.spotify.com/album/5kr9AhpIeh3IThdTKwRzXR) | 1:52 | 2024-08-26 |  |
 | [Sunset Song](https://open.spotify.com/track/5vG03EoxdAwjX6l7ldcR0E) | [Jascha van Neunen](https://open.spotify.com/artist/0YI0x9PPrDM4xAWLztMSTR) | [Sunset Song](https://open.spotify.com/album/0MrisJkX5DMenp4DeMSbLt) | 1:42 | 2022-11-25 |  |
 | [Sunshine jewel](https://open.spotify.com/track/1ABF9IBS1FTSuuF5uKpPr3) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Sunshine jewel](https://open.spotify.com/album/0T00z2Ao8lwFTvYkMQPInj) | 1:38 | 2023-11-17 | 2024-07-19 |
 | [Sunshine Song](https://open.spotify.com/track/6hicKBEJhWxv7QYQMyU7Mr) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Sunshine Song](https://open.spotify.com/album/5EcAYi9tzvt2ZkrZXvJNnd) | 1:20 | 2024-01-05 |  |

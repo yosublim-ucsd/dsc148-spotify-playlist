@@ -2,7 +2,7 @@
 
 ### [Throwback Thursday](https://open.spotify.com/playlist/37i9dQZF1DWWwaxRea1LWS)
 
-> \#SpotifyTBT celebrates the 25th anniversary of Christina Aguilera's debut album\. Cover: Ramones
+> \#SpotifyTBT celebrates the 25th anniversary of Christina Aguilera's debut album\. Cover: Christina Aguilera
 
 4,757 songs - 13 day 0 hr 34 min
 

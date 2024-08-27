@@ -2206,7 +2206,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 277600,
       "name": "Come Rest Your Head (On My Pillow)",
       "url": "https://open.spotify.com/track/4wNsAbCvwN5syfU06Yd7ec"
@@ -4005,6 +4005,24 @@
     },
     {
       "album": {
+        "name": "Green in Colorado",
+        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196833,
+      "name": "Green in Colorado",
+      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
+    },
+    {
+      "album": {
         "name": "Growing Up",
         "url": "https://open.spotify.com/album/5RKdHUALvM0KCNPwsHRO1V"
       },
@@ -4876,7 +4894,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 213605,
       "name": "Hungover Again",
       "url": "https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH"
@@ -7220,6 +7238,24 @@
       "duration_ms": 158690,
       "name": "One of 'Em",
       "url": "https://open.spotify.com/track/44p9CEsVVIlKpBj8FF1QFe"
+    },
+    {
+      "album": {
+        "name": "One of Those Things",
+        "url": "https://open.spotify.com/album/4DWLXRplK1fPQ0kv1vfSPj"
+      },
+      "artists": [
+        {
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218232,
+      "name": "One of Those Things",
+      "url": "https://open.spotify.com/track/1CDfvsnNnGEk5gbB9PKPN9"
     },
     {
       "album": {

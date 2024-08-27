@@ -1,12 +1,12 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: Joe Hunt. Artwork by Rewina Beshue.",
-  "num_followers": 183082,
+  "num_followers": 183119,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAACRISu/o4udPhP92OaAZ4Fb",
+  "snapshot_id": "Zsy5+QAAAAAHxuD8n0oYUGcg3TnqkWpg",
   "tracks": [
     {
       "added_at": "2024-08-07 16:28:20",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/3He6HI89il6RwEEY3CV5JY"
     },
     {
+      "added_at": "2024-08-14 18:04:42",
+      "album": {
+        "name": "Alene",
+        "url": "https://open.spotify.com/album/5YUGCZfwX8KGs6yVopD5tB"
+      },
+      "artists": [
+        {
+          "name": "Holdo",
+          "url": "https://open.spotify.com/artist/6KGJwNmZhtZIIcDkMLAfDC"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "Alene",
+      "url": "https://open.spotify.com/track/6plYmlqJjrKvmDVTsy1jtr"
+    },
+    {
       "added_at": "2024-08-07 16:28:20",
       "album": {
         "name": "On Deck",
@@ -71,22 +87,6 @@
       "duration_ms": 198187,
       "name": "On Deck",
       "url": "https://open.spotify.com/track/3vcCpCYifVieMX7RpCiZSn"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Pu!se",
-        "url": "https://open.spotify.com/album/0Ylubbochq7atUpbaxCsZR"
-      },
-      "artists": [
-        {
-          "name": "SKYTOPIA",
-          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Pu!se",
-      "url": "https://open.spotify.com/track/0korDVis4AoQIH1ICWvmLB"
     },
     {
       "added_at": "2024-05-08 19:36:43",
@@ -137,20 +137,20 @@
       "url": "https://open.spotify.com/track/0mGSVNlVdbFaZNMy5jKLmC"
     },
     {
-      "added_at": "2024-08-21 17:29:31",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Everyone in McKinney is Dead",
-        "url": "https://open.spotify.com/album/6f33N6jZj6GhNrksJPEJRA"
+        "name": "Bring The Beat",
+        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
       },
       "artists": [
         {
-          "name": "private browsing",
-          "url": "https://open.spotify.com/artist/0OzLl6oWO5vIHKPTqVLF8O"
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
         }
       ],
-      "duration_ms": 258470,
-      "name": "okay picasso",
-      "url": "https://open.spotify.com/track/07bD32Nw101qUUjEgjxuWS"
+      "duration_ms": 150468,
+      "name": "Bring The Beat",
+      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -189,68 +189,36 @@
       "url": "https://open.spotify.com/track/4tVzD0cG2p0pq8Ls7GoVAq"
     },
     {
-      "added_at": "2024-08-14 18:04:42",
-      "album": {
-        "name": "When I'm With U",
-        "url": "https://open.spotify.com/album/3LMxqFuIqxjoWg0ExtlnMe"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 287818,
-      "name": "When I'm With You",
-      "url": "https://open.spotify.com/track/6nux0bFQdzwaV7JE7eR0G5"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Bring The Beat",
-        "url": "https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy"
-      },
-      "artists": [
-        {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN"
-        }
-      ],
-      "duration_ms": 150468,
-      "name": "Bring The Beat",
-      "url": "https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt"
-    },
-    {
-      "added_at": "2024-08-14 18:04:42",
-      "album": {
-        "name": "Alene",
-        "url": "https://open.spotify.com/album/5YUGCZfwX8KGs6yVopD5tB"
-      },
-      "artists": [
-        {
-          "name": "Holdo",
-          "url": "https://open.spotify.com/artist/6KGJwNmZhtZIIcDkMLAfDC"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Alene",
-      "url": "https://open.spotify.com/track/6plYmlqJjrKvmDVTsy1jtr"
-    },
-    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7h0fbzPKd5ms8jYrcf2dnU"
+        "name": "Pu!se",
+        "url": "https://open.spotify.com/album/0Ylubbochq7atUpbaxCsZR"
       },
       "artists": [
         {
-          "name": "dom nice",
-          "url": "https://open.spotify.com/artist/4GATgJWrCgpT3eglDMnkxO"
+          "name": "SKYTOPIA",
+          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
         }
       ],
-      "duration_ms": 209763,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/3cpZfaWc3IA9HhF9jozK21"
+      "duration_ms": 195000,
+      "name": "Pu!se",
+      "url": "https://open.spotify.com/track/0korDVis4AoQIH1ICWvmLB"
+    },
+    {
+      "added_at": "2024-08-21 17:29:31",
+      "album": {
+        "name": "Bossa",
+        "url": "https://open.spotify.com/album/6SiNyPAzNJASnWYaz0ZrgO"
+      },
+      "artists": [
+        {
+          "name": "Ohmfield",
+          "url": "https://open.spotify.com/artist/49YjxCdOqqRtPByQatxh4z"
+        }
+      ],
+      "duration_ms": 151565,
+      "name": "Bossa",
+      "url": "https://open.spotify.com/track/3h6u0KpvMO0pJ7PtjAvfbe"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -267,6 +235,38 @@
       "duration_ms": 205278,
       "name": "Push That",
       "url": "https://open.spotify.com/track/1xOYdelTPr55KdHr3iiojn"
+    },
+    {
+      "added_at": "2024-08-21 17:29:31",
+      "album": {
+        "name": "Everyone in McKinney is Dead",
+        "url": "https://open.spotify.com/album/6f33N6jZj6GhNrksJPEJRA"
+      },
+      "artists": [
+        {
+          "name": "private browsing",
+          "url": "https://open.spotify.com/artist/0OzLl6oWO5vIHKPTqVLF8O"
+        }
+      ],
+      "duration_ms": 258470,
+      "name": "okay picasso",
+      "url": "https://open.spotify.com/track/07bD32Nw101qUUjEgjxuWS"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7h0fbzPKd5ms8jYrcf2dnU"
+      },
+      "artists": [
+        {
+          "name": "dom nice",
+          "url": "https://open.spotify.com/artist/4GATgJWrCgpT3eglDMnkxO"
+        }
+      ],
+      "duration_ms": 209763,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/3cpZfaWc3IA9HhF9jozK21"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -333,6 +333,22 @@
       "url": "https://open.spotify.com/track/5cjP5yIadEwHcm5FBrSOw6"
     },
     {
+      "added_at": "2024-08-14 18:04:42",
+      "album": {
+        "name": "When I'm With U",
+        "url": "https://open.spotify.com/album/3LMxqFuIqxjoWg0ExtlnMe"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 287818,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/6nux0bFQdzwaV7JE7eR0G5"
+    },
+    {
       "added_at": "2024-08-07 16:28:20",
       "album": {
         "name": "How You Mad at Me?",
@@ -353,22 +369,6 @@
       "url": "https://open.spotify.com/track/5lKT4cEHOaQCSU5mlig3hJ"
     },
     {
-      "added_at": "2024-08-21 17:29:31",
-      "album": {
-        "name": "Bossa",
-        "url": "https://open.spotify.com/album/6SiNyPAzNJASnWYaz0ZrgO"
-      },
-      "artists": [
-        {
-          "name": "Ohmfield",
-          "url": "https://open.spotify.com/artist/49YjxCdOqqRtPByQatxh4z"
-        }
-      ],
-      "duration_ms": 151565,
-      "name": "Bossa",
-      "url": "https://open.spotify.com/track/3h6u0KpvMO0pJ7PtjAvfbe"
-    },
-    {
       "added_at": "2024-07-24 17:53:28",
       "album": {
         "name": "Come To My House",
@@ -383,6 +383,22 @@
       "duration_ms": 200744,
       "name": "Come To My House",
       "url": "https://open.spotify.com/track/7aTYdP588hjgw1s0VBDkfB"
+    },
+    {
+      "added_at": "2024-05-08 19:36:43",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "added_at": "2024-07-03 22:16:33",
@@ -503,22 +519,6 @@
       "duration_ms": 232319,
       "name": "Affection",
       "url": "https://open.spotify.com/track/2LXmCjncKHHcNxXBorMxEV"
-    },
-    {
-      "added_at": "2024-05-08 19:36:43",
-      "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6"
     },
     {
       "added_at": "2024-08-07 16:28:20",

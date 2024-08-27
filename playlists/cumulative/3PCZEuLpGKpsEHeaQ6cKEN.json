@@ -22275,6 +22275,24 @@
     },
     {
       "album": {
+        "name": "Toracci",
+        "url": "https://open.spotify.com/album/0bYVkxvqlHddrWj4Pu6oio"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210482,
+      "name": "Toracci",
+      "url": "https://open.spotify.com/track/12JAUOexvABZpOtsA0MNzQ"
+    },
+    {
+      "album": {
         "name": "Touching Skin",
         "url": "https://open.spotify.com/album/7qYvZjtiQ9Ujia0i3KvqcX"
       },

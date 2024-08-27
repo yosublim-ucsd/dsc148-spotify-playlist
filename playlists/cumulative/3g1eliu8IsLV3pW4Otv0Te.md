@@ -4,7 +4,7 @@
 
 > 
 
-220 songs - 14 hr 59 min
+221 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Be Glad](https://open.spotify.com/track/2my06yxonFutGmnRlfTgwY) | [Rollz](https://open.spotify.com/artist/4sLliVPsqoCVSMcTVi0aXD) | [The Music EP](https://open.spotify.com/album/240pCiHmLDN3123UnttQBg) | 4:03 | 2016-12-02 |  |
 | [Beautiful Lies](https://open.spotify.com/track/7jZyQWoAmpJI37saaOazd5) | [B\-complex](https://open.spotify.com/artist/46oL0QioEQMSSvkxxifCok) | [Hospital Mix 8](https://open.spotify.com/album/6S5cfzow4ZQkGSAzrwxC6q) | 6:45 | 2016-01-14 |  |
 | [Below Us \- Smooth Remix](https://open.spotify.com/track/6vlQYEyyuT9aF4Bc0GJFeR) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Shaz Sparks](https://open.spotify.com/artist/3vpOtbQO2ue0zifLcgj58S), [Smooth](https://open.spotify.com/artist/7yRkgZyRXaO7oh1hTEyKNo) | [Polarize EP](https://open.spotify.com/album/5vvHfcPYmgqtMPAoRBZGEp) | 5:25 | 2016-10-04 |  |
+| [Better](https://open.spotify.com/track/6zeeWid2sgw4lap2jV61PZ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Suncity](https://open.spotify.com/album/2Qxc2NJ7yPKVFRWi3llRr2) | 3:49 | 2024-08-27 |  |
 | [bitches broken hearts](https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [bitches broken hearts](https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx) | 2:56 | 2018-11-12 |  |
 | [BLEED](https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:49 | 2024-01-12 |  |
 | [Blinding \- Hybrid Minds Remix](https://open.spotify.com/track/2Dy8cTUIP0rf1WZUIWoN8w) | [Jakwob](https://open.spotify.com/artist/4S5yXnFzWvHu16wfuDjjfM) | [Blinding](https://open.spotify.com/album/5UIoVFQSTRve8tHCkdKCT1) | 5:14 | 2016-10-05 |  |

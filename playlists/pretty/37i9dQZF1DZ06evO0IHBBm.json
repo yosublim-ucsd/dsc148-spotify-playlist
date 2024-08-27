@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 29726,
+  "num_followers": 29729,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZskigAAAAAAG1PYZZMiAhyR2ACS9IbpN",
+  "snapshot_id": "Zsp0AAAAAAA2dqp6WcHsNCOWnRiAVWpp",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 287640,
-      "name": "Consolador",
-      "url": "https://open.spotify.com/track/3Eyy7G8uhoZJ1xq5d2wBnZ"
+      "duration_ms": 370520,
+      "name": "Um novo Vencedor",
+      "url": "https://open.spotify.com/track/5HKjGzpALqUicGjD0vzS1G"
     },
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 370520,
-      "name": "Um novo Vencedor",
-      "url": "https://open.spotify.com/track/5HKjGzpALqUicGjD0vzS1G"
+      "duration_ms": 287640,
+      "name": "Consolador",
+      "url": "https://open.spotify.com/track/3Eyy7G8uhoZJ1xq5d2wBnZ"
     },
     {
       "added_at": null,

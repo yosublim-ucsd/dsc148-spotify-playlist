@@ -2690,7 +2690,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 151739,
       "name": "Apple",
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
@@ -13312,7 +13312,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 174830,
       "name": "Floki lost soul / \u0412\u043e\u0440\u0443\u044e \u0410\u043b\u043a\u043e\u0433\u043e\u043b\u044c",
       "url": "https://open.spotify.com/track/0C4vK4oY3Z4t3rcwrwLtVw"
@@ -19846,7 +19846,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 199512,
       "name": "ITALODISCO",
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
@@ -20956,7 +20956,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
@@ -34405,6 +34405,24 @@
     },
     {
       "album": {
+        "name": "rdy?!",
+        "url": "https://open.spotify.com/album/7leAalwgA5rX3xZBznSb9H"
+      },
+      "artists": [
+        {
+          "name": "ahojniki",
+          "url": "https://open.spotify.com/artist/6UQN5JJbBjRtfwueQLUjJc"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135758,
+      "name": "rdy?!",
+      "url": "https://open.spotify.com/track/07wEVlGJYF1G4CtZQegQbd"
+    },
+    {
+      "album": {
         "name": "Ready To Fly",
         "url": "https://open.spotify.com/album/0Gt9NV2s7pSvP7g2F1nXGc"
       },
@@ -46118,7 +46136,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 193515,
       "name": "wutiwant",
       "url": "https://open.spotify.com/track/7IA9HiB4aJLelO0W9jd3Oo"

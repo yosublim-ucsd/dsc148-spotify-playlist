@@ -1,12 +1,12 @@
 {
   "description": "This Is Valent\u00edn Elizalde. Los temas esenciales, todos en una lista.",
-  "num_followers": 428053,
+  "num_followers": 428100,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZskigAAAAABX3qGteHDhnemyDaDw+44L",
+  "snapshot_id": "Zsp0AAAAAABCwi5yFCq2X4LvnBASObc4",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "17 Exitos en Honor a Mi Padre",
+        "url": "https://open.spotify.com/album/2BzMoa1U74hHKVgLlzKVoU"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "La Suavecita",
+      "url": "https://open.spotify.com/track/2hHIB7iJW9Pj7sDNqZ2S3g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
         "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 187062,
       "name": "El Hijo Del Pueblo",
       "url": "https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "17 Exitos en Honor a Mi Padre",
-        "url": "https://open.spotify.com/album/2BzMoa1U74hHKVgLlzKVoU"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "La Suavecita",
-      "url": "https://open.spotify.com/track/2hHIB7iJW9Pj7sDNqZ2S3g"
     },
     {
       "added_at": null,

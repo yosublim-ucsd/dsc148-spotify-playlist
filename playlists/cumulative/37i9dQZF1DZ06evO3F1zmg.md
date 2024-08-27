@@ -2,7 +2,7 @@
 
 ### [This Is Saweetie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg)
 
-> This is Saweetie。アーティストの代表曲をひとつのプレイリストに。
+> This is Saweetie\. Todos os maiores hits em uma só playlist.
 
 91 songs - 4 hr 13 min
 

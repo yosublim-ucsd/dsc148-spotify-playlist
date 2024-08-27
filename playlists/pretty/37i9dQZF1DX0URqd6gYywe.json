@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: El Plan De La Mariposa",
-  "num_followers": 136891,
+  "num_followers": 136973,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
+        "name": "Garc\u00eda, el M\u00e1s Grande",
+        "url": "https://open.spotify.com/album/72r2s0nbZeSmPMK30eNrua"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 186266,
+      "name": "De M\u00ed",
+      "url": "https://open.spotify.com/track/3A27UpBJPh26eC1qhi90FO"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
         "name": "El Pozo Brillante",
         "url": "https://open.spotify.com/album/7ADsdI56Jau9vJmmvNWGX1"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Garc\u00eda, el M\u00e1s Grande",
-        "url": "https://open.spotify.com/album/72r2s0nbZeSmPMK30eNrua"
+        "name": "La Partida",
+        "url": "https://open.spotify.com/album/2o6LMhakBENYkTspLtQHnR"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Parientes",
+          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
         }
       ],
-      "duration_ms": 186266,
-      "name": "De M\u00ed",
-      "url": "https://open.spotify.com/track/3A27UpBJPh26eC1qhi90FO"
+      "duration_ms": 207707,
+      "name": "La Partida",
+      "url": "https://open.spotify.com/track/4xtItebw9T2izlrySJSdjD"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1459,22 +1475,6 @@
       "duration_ms": 297934,
       "name": "La Culebra",
       "url": "https://open.spotify.com/track/6mE3MWroSgNl3kaCHB72DP"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "La Partida",
-        "url": "https://open.spotify.com/album/2o6LMhakBENYkTspLtQHnR"
-      },
-      "artists": [
-        {
-          "name": "Parientes",
-          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
-        }
-      ],
-      "duration_ms": 207707,
-      "name": "La Partida",
-      "url": "https://open.spotify.com/track/4xtItebw9T2izlrySJSdjD"
     },
     {
       "added_at": "2024-08-16 03:00:00",

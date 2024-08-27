@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,041 songs - 1 day 6 hr 54 min
+1,044 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Calm Dreams](https://open.spotify.com/track/4WmcT9stH27GRJG2rmtfih) | [Leon Arms](https://open.spotify.com/artist/6k3VpzOQdieancZ2fYYhRj) | [Calm Dreams](https://open.spotify.com/album/1hKwkcZMb8NP9vzAaU0SvB) | 1:41 | 2023-06-08 |  |
 | [Calm Story](https://open.spotify.com/track/2JfSBZNtR4RlzoTtuASeO7) | [Jannah Zoey](https://open.spotify.com/artist/0aTx7Dr1FQMw3BNWISMmA1) | [Calm Story](https://open.spotify.com/album/7qg5bHIbYVLCbwPSQ34I6Y) | 1:28 | 2022-02-10 | 2022-10-29 |
 | [Can You Count The Sheep On The Hill](https://open.spotify.com/track/2SNJjNJhrl6pcEKY9eEDnZ) | [Lucy Sothersby](https://open.spotify.com/artist/3aRSuhmJ2XZzN6ycsMJ9uH) | [When You Sleep I'm Close](https://open.spotify.com/album/1zu2s0djuBWMdytoE9uS8B) | 2:40 | 2021-11-08 | 2023-01-06 |
-| [Caprice](https://open.spotify.com/track/4v1fFOBm1wFFwHPgDjn8pS) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Caprice](https://open.spotify.com/album/5hUCXVvnNkX9A3bPkoHGP6) | 2:29 | 2023-01-27 |  |
+| [Caprice](https://open.spotify.com/track/4v1fFOBm1wFFwHPgDjn8pS) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Caprice](https://open.spotify.com/album/5hUCXVvnNkX9A3bPkoHGP6) | 2:29 | 2023-01-27 | 2024-08-27 |
 | [Captain Adventure](https://open.spotify.com/track/7MpoAKqBEqzUYlCUKseSZq) | [Candy Pirates](https://open.spotify.com/artist/5t0D8K9ZJUzi0tNnuwZTjn) | [Captain Adventure](https://open.spotify.com/album/73UN2PPCs3a0JbPFbN1XTO) | 1:34 | 2022-10-07 | 2023-04-09 |
 | [Chanson De Berceau](https://open.spotify.com/track/5ZedeEHldpqdi4sJrQsGQ2) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Chanson De Berceau](https://open.spotify.com/album/3ksCDiVFTXCwVKxTRV6qh7) | 1:41 | 2023-01-27 | 2024-06-29 |
 | [Charlies Lullaby](https://open.spotify.com/track/1z1Rc9QEs8BZoE889WdaIv) | [Tisharu Ralokrana](https://open.spotify.com/artist/2OXsfUT6WLbGnqeXVmG7Hn) | [Charlies Lullaby](https://open.spotify.com/album/7s41COd3IkV0akH9fGqXkL) | 1:47 | 2023-06-02 | 2024-05-24 |
@@ -185,7 +185,7 @@
 | [Cover Me In Sunshine](https://open.spotify.com/track/2mHrHpt27sgpNUsU99PvyJ) | [Lana Jax](https://open.spotify.com/artist/099eQJfZHFRrXejOGPzGY3) | [Cover Me In Sunshine](https://open.spotify.com/album/425Ukjw4bvzkamUWmuck8t) | 2:40 | 2021-11-08 | 2022-10-29 |
 | [Cradle Canon](https://open.spotify.com/track/4qXPGMSxCdvgawanBV6Jcg) | [Nat Mee Ho](https://open.spotify.com/artist/2oqTteFbcLuEnhiXnkvJPk) | [Cradle Canon](https://open.spotify.com/album/6TFPdf6Qa2Y1nLxzWf8PTB) | 1:41 | 2021-11-08 | 2022-10-08 |
 | [Cradle on a Cloud](https://open.spotify.com/track/0jvItpH5ytYGRhrg6Yvbmb) | [Misha Leonard](https://open.spotify.com/artist/034npS5AaTTSoye5Nzqtnt) | [Stroll Through the Zoo](https://open.spotify.com/album/5FFjkXB5XFymxwubDOExf6) | 2:36 | 2021-11-08 | 2022-09-24 |
-| [Cradled Coos](https://open.spotify.com/track/0cGEO98SoW7H7d1vFx3TOc) | [Blossom Fischer](https://open.spotify.com/artist/54aAZVUQRxUU4thvslyFjz) | [Cradled Coos](https://open.spotify.com/album/2Qlnpyn04wR7R6BKZaXAdg) | 2:06 | 2023-01-27 |  |
+| [Cradled Coos](https://open.spotify.com/track/0cGEO98SoW7H7d1vFx3TOc) | [Blossom Fischer](https://open.spotify.com/artist/54aAZVUQRxUU4thvslyFjz) | [Cradled Coos](https://open.spotify.com/album/2Qlnpyn04wR7R6BKZaXAdg) | 2:06 | 2023-01-27 | 2024-08-27 |
 | [Cradlesong](https://open.spotify.com/track/1SYnAA0aoUGTUO7fRYXu3l) | [Velvet Teddy](https://open.spotify.com/artist/0PdixtInYYRTmDZ8vqDZoW) | [Cradlesong](https://open.spotify.com/album/0tQpUia72g8wZDpQLbFy02) | 2:21 | 2023-05-12 |  |
 | [Creature Comforts](https://open.spotify.com/track/4YCnbgl9lcIb4OiP5n2Joe) | [Tristan Hertzog](https://open.spotify.com/artist/1Ht23O9cVMdYKdJFXZ6RDb) | [Creature Comforts](https://open.spotify.com/album/3w7vN69EdzTkpaKvvWYJ0l) | 2:03 | 2021-11-08 | 2022-10-08 |
 | [Cuando Duermes](https://open.spotify.com/track/22QBOozZLzuYSshTOefP4Q) | [Ivanna Alvear](https://open.spotify.com/artist/7pvajAY2nsMXGyrJ07Vzp3) | [Cuando Duermes](https://open.spotify.com/album/2HoB1MOxFmSMiQZ5N7OQyN) | 1:23 | 2021-11-08 | 2023-01-06 |
@@ -621,6 +621,7 @@
 | [Nap with the Cat](https://open.spotify.com/track/3cT1kNbc0IY7eN5IdUksHf) | [Phyllis Lytle](https://open.spotify.com/artist/4fSyMpWH2rW4NQeQNkq2Oy) | [Nap with the Cat](https://open.spotify.com/album/1duP7vfBqf2dsYdcFBy0vm) | 1:55 | 2021-11-08 | 2022-10-29 |
 | [Napping](https://open.spotify.com/track/2PEXz8uoWHj10DEABSs8rF) | [Reeva Spencer](https://open.spotify.com/artist/0InsHMFbnYoKKa9aWRKwJo) | [Napping](https://open.spotify.com/album/0GoVUtqmHjTL7jyMFPoYKI) | 1:24 | 2021-11-08 | 2022-10-29 |
 | [Napping Rabbit](https://open.spotify.com/track/67kuEnFkonVepzIAxrmuZ8) | [Tranter Norwood](https://open.spotify.com/artist/5GMyVZQE3EN49IHewe0Y9z) | [Napping Rabbit](https://open.spotify.com/album/3Kv3bNC9sFdCbyeG78uZ0v) | 1:15 | 2022-12-16 | 2024-05-24 |
+| [Naptime](https://open.spotify.com/track/6Tbvu4mMCggytKba7slRcg) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [Naptime](https://open.spotify.com/album/54r2pHYyLBR4p7L7BZge2C) | 1:36 | 2024-08-26 |  |
 | [Naptime Stories](https://open.spotify.com/track/43yXKs6RrN9RIIQMOHCwPq) | [Linnea Dawn](https://open.spotify.com/artist/2vi6HihliiIlLN5TKgiXdf) | [Naptime Stories](https://open.spotify.com/album/0uoNWBN38GWO9ZqoojdjPc) | 1:01 | 2021-11-08 | 2022-07-30 |
 | [Nashville Nights](https://open.spotify.com/track/6wPznzcN6oN4ZcJAkdM3TD) | [Anna Ramirez](https://open.spotify.com/artist/4WtmDnBN2uns73pavhp6mB) | [Camilla's Lullabye](https://open.spotify.com/album/6JdYVIwiBzeNSCo0E2wJgW) | 2:16 | 2021-11-08 | 2022-10-29 |
 | [Natti natt lillesøster](https://open.spotify.com/track/4VKYZ0NAMHkbd7tfnzvXkL) | [Saga Solheim](https://open.spotify.com/artist/7uy9xQDLs9vJXNotUs2eVQ) | [Natti natt lillesøster](https://open.spotify.com/album/2atqQpSUrSz0ozD9tSKDaN) | 2:10 | 2021-11-08 | 2022-10-29 |
@@ -725,6 +726,7 @@
 | [Sing a Song of Sixpence](https://open.spotify.com/track/37Yw40i0ThiAQSil5KHTaC) | [Little Otis](https://open.spotify.com/artist/6q2kdnpSw8kD7BzG2X6gxF) | [Sing a Song of Sixpence](https://open.spotify.com/album/0DoPJNpqyVkF5YgJApeYow) | 1:41 | 2023-10-06 |  |
 | [Singing for You](https://open.spotify.com/track/3rQgsHrtcKW3rf9Cnx9dBn) | [Kayden Roydon](https://open.spotify.com/artist/33lopRkxhpLfc268jbtTxS) | [Singing for You](https://open.spotify.com/album/0niS3RXrOE4Go5ChPsJpLG) | 1:43 | 2021-11-08 | 2024-04-05 |
 | [Singing for You](https://open.spotify.com/track/0B3k2ftvKnPEwK6F0Wc0Pa) | [Willy Cotterill](https://open.spotify.com/artist/3nGSuqJpKUO7hQA0DFXJ5i) | [Singing for You](https://open.spotify.com/album/7s4mt8kbI8rNKnPasfOvca) | 1:43 | 2021-11-08 | 2023-08-18 |
+| [Singing In The Night](https://open.spotify.com/track/05kzccIWg1fJq8Di4ovmW7) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [Singing In The Night](https://open.spotify.com/album/1T927SAMZWoE1Eu3ClMeGA) | 2:02 | 2024-08-26 |  |
 | [Sisters](https://open.spotify.com/track/327ydynonFKIBVoW9e5wXO) | [Cosy Pillows](https://open.spotify.com/artist/08x9OqSYuvqdN6K60DHIj7) | [Sisters](https://open.spotify.com/album/0nvdJRcQBlwoMwiOmLXEqU) | 1:04 | 2021-11-08 | 2022-11-12 |
 | [Six Little Ducks](https://open.spotify.com/track/6sUZBaPMhSdDikzjxSVFJw) | [Emily McQueen](https://open.spotify.com/artist/0khalqPDXKHMDan1ntiuiw) | [Six Little Ducks](https://open.spotify.com/album/3kVaPTQBYhuwsUpwlhWiLf) | 2:11 | 2023-10-06 |  |
 | [Skidamarink](https://open.spotify.com/track/4WKj1FwMz5Y5dNSHnzgiQO) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Skidamarink](https://open.spotify.com/album/5879evWEXNX6qW2PEVdif0) | 2:01 | 2023-01-27 |  |
@@ -826,6 +828,7 @@
 | [Strawberry Days](https://open.spotify.com/track/2InxnDzuNTvai55lqZTB8e) | [Sienna Hewitt](https://open.spotify.com/artist/6PjnavWTln3VeGwsHZgWPL) | [Danny the Duckling](https://open.spotify.com/album/6xoiLYPz3A4na8YP9Vhpat) | 1:22 | 2022-06-30 | 2024-05-24 |
 | [Strawberry Milkshake](https://open.spotify.com/track/0cABvxXyln85hw4BiZm8H9) | [Brandie Herbert](https://open.spotify.com/artist/5oWkadBD5uzxKs3Es5XeZ2) | [Strawberry Milkshake](https://open.spotify.com/album/05Lm2GVM9Bv36k9pzTo5w0) | 1:40 | 2021-11-08 | 2023-01-06 |
 | [Summer Breeze](https://open.spotify.com/track/7wnDE54KPPU2orw1S3rIAP) | [Jasper Rose](https://open.spotify.com/artist/0BPUcozC2MjvitrABNOLId) | [Summer Breeze](https://open.spotify.com/album/6ynhDnqP1WVdmPzpaTQ1GV) | 1:40 | 2023-12-08 |  |
+| [Summer Rain Lullaby](https://open.spotify.com/track/1tqpXIIpSt37fwvTnd0eaD) | [Moa Schooner](https://open.spotify.com/artist/0bVphTIhvj7rQlDw7z6v2R) | [Summer Rain Lullaby](https://open.spotify.com/album/5kr9AhpIeh3IThdTKwRzXR) | 1:52 | 2024-08-26 |  |
 | [Summer Sleep](https://open.spotify.com/track/2dtBBSs0DJSkXwexGXzxxN) | [Derick Lindon](https://open.spotify.com/artist/18lZHnAOjKYp2fE4UNbqnA) | [Summer Sleep](https://open.spotify.com/album/4kT4NcvsQKiPSOtCZhn6ft) | 2:00 | 2021-11-08 | 2023-08-25 |
 | [Summer Sleep](https://open.spotify.com/track/54zBtM141AyCBeUZJPZX32) | [Jaycob Atkinson](https://open.spotify.com/artist/1HrALd6zpArxcxBjCgCtDG) | [Summer Sleep](https://open.spotify.com/album/7xnQpUnppdMzDsuoGlEdvY) | 2:00 | 2021-11-08 | 2024-04-05 |
 | [Summer Winds](https://open.spotify.com/track/1bCaV6MsSjEgeubfT7eKXz) | [My Karlsson](https://open.spotify.com/artist/17OxDKRw1phb7w0BuwOJsa) | [Summer Winds](https://open.spotify.com/album/758fZCThDVmBnISA5Cdwk6) | 1:08 | 2023-10-06 | 2024-05-04 |
@@ -969,7 +972,7 @@
 | [Under The Moonlight](https://open.spotify.com/track/02C0r74IluFkqqu5FTMGmq) | [Green Dino](https://open.spotify.com/artist/7MVCEO6QGAHj3KIIQplBpl) | [Under The Moonlight](https://open.spotify.com/album/6MO1hpFOPCS5hYyC4yFXGC) | 1:45 | 2023-12-08 |  |
 | [Under the Shining Stars](https://open.spotify.com/track/1tuHBmHspiWtcHisFJQo2Y) | [Skymningen](https://open.spotify.com/artist/2BEBC0wjP3GU2dH0hMilUs) | [Under the Shining Stars](https://open.spotify.com/album/7afLw1fNKNLJaCvvrVdun0) | 2:15 | 2024-04-19 |  |
 | [Under The Stars](https://open.spotify.com/track/0UrLq7AAYYmqPV2E1pvivm) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Under The Stars](https://open.spotify.com/album/0fVdJEnEH3YXxuhUW44FMH) | 2:06 | 2023-08-10 |  |
-| [Underneath My Bed](https://open.spotify.com/track/6JHCZw34Fv0aRWDz34F0A1) | [Ronan Ivers](https://open.spotify.com/artist/7Exr5K2SKnd1fzEOqbXUNI) | [Underneath My Bed](https://open.spotify.com/album/12lUt0jm0n9MFRAKcgiAhx) | 1:35 | 2022-10-28 |  |
+| [Underneath My Bed](https://open.spotify.com/track/6JHCZw34Fv0aRWDz34F0A1) | [Ronan Ivers](https://open.spotify.com/artist/7Exr5K2SKnd1fzEOqbXUNI) | [Underneath My Bed](https://open.spotify.com/album/12lUt0jm0n9MFRAKcgiAhx) | 1:35 | 2022-10-28 | 2024-08-27 |
 | [Unicorns](https://open.spotify.com/track/5eUi6uioV6i7zSwhEhL4pf) | [Choo Choo Baby](https://open.spotify.com/artist/0vDdNNkBuWh1lJhAREEFce) | [Unicorns](https://open.spotify.com/album/6K8LetL1T75t1ETwbPDAU7) | 2:15 | 2023-06-08 |  |
 | [Up Above](https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4) | [Dorothy Baughman](https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL) | [Up Above](https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg) | 2:03 | 2021-11-08 | 2024-04-05 |
 | [Up and Down](https://open.spotify.com/track/2V3xO4cPkBosi5UUWKWHjU) | [Merrick Booth](https://open.spotify.com/artist/5X5hsKKHBbLmQ8nQPnZb9j) | [Up and Down](https://open.spotify.com/album/4US8x4pcLEGu111WGL151n) | 1:28 | 2021-11-08 | 2023-01-06 |

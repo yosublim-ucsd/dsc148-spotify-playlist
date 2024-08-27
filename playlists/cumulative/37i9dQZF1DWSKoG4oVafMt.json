@@ -7339,6 +7339,24 @@
     },
     {
       "album": {
+        "name": "Kachi Neend (\"Haye Bibbye Kithe Fas Gaye\")",
+        "url": "https://open.spotify.com/album/7hNTwQSjv4EVtGXPXrhtOt"
+      },
+      "artists": [
+        {
+          "name": "Dhira Gill",
+          "url": "https://open.spotify.com/artist/2FQhpGbpOq4z3dz4oHmB7G"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203091,
+      "name": "Kachi Pakki Neend (Haye Bibbye Kithe Fas Gaye)",
+      "url": "https://open.spotify.com/track/3Vl2tpB9tofxxc59eFzVMN"
+    },
+    {
+      "album": {
         "name": "Kachi Umar",
         "url": "https://open.spotify.com/album/19RO9vz5tKBnXPO9wFSdOt"
       },
@@ -9398,6 +9416,24 @@
       "duration_ms": 176268,
       "name": "Magic",
       "url": "https://open.spotify.com/track/2c1QWruUy84qPY8R2rJubV"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/33BXqG8gIOkzpbHZDBoGU8"
+      },
+      "artists": [
+        {
+          "name": "Karan Sehmbi",
+          "url": "https://open.spotify.com/artist/0wmFEqpoc2FgAv8IPtCLBW"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155625,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/1q7qqT8tgdZqdYU3Ut5hqR"
     },
     {
       "album": {
@@ -13564,7 +13600,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 404170,
       "name": "Rutba",
       "url": "https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP"
@@ -13666,7 +13702,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 182348,
       "name": "Saari Duniya Jalaa Denge",
       "url": "https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB"

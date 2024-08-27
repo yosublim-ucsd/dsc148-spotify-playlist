@@ -2,7 +2,7 @@
 
 ### [This Is Los Primos del Este](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3pk81i)
 
-> This is Los Primos del Este\. Усі улюблені треки в одному плейлісті.
+> This Is Los Primos del Este\. Los temas esenciales, todos en una lista.
 
 52 songs - 2 hr 41 min
 

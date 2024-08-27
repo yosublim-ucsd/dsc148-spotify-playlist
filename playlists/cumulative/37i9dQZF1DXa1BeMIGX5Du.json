@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Bothering Me",
+        "url": "https://open.spotify.com/album/3cUcV7rXEFJmxxzMia1DHZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Blasko",
+          "url": "https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262266,
+      "name": "Bothering Me",
+      "url": "https://open.spotify.com/track/74St96khEjAVTgMKDze3dr"
+    },
+    {
+      "album": {
         "name": "Brains [HOME DEMO]",
         "url": "https://open.spotify.com/album/4FjzKTjbDobhNlfzFyHElN"
       },
@@ -997,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/36RQqB3irEHa5F3QbEgSfZ"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239080,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1WeO1NDt17SfrRW1WhsRJ8"
+    },
+    {
+      "album": {
         "name": "Me Again",
         "url": "https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o"
       },
@@ -1196,6 +1232,24 @@
       "duration_ms": 250226,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/6jh10WQnBRJ0SCwEXLxgY2"
+    },
+    {
+      "album": {
+        "name": "Do You Haunt Me",
+        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193155,
+      "name": "Do You Haunt Me",
+      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
     },
     {
       "album": {
@@ -2344,6 +2398,24 @@
       "duration_ms": 193242,
       "name": "hold me, never let go",
       "url": "https://open.spotify.com/track/6QC5Dtp38M05T536UONe6J"
+    },
+    {
+      "album": {
+        "name": "Hold Your Hair",
+        "url": "https://open.spotify.com/album/1VcTJTrnbPrDnEFQfqOoer"
+      },
+      "artists": [
+        {
+          "name": "Timothy Nelson",
+          "url": "https://open.spotify.com/artist/4TpiiLJXJUpNjdBYvZB3vq"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182535,
+      "name": "Hold Your Hair",
+      "url": "https://open.spotify.com/track/3JPvjupgTUmtJiNL5WJrQw"
     },
     {
       "album": {
@@ -4055,6 +4127,24 @@
     },
     {
       "album": {
+        "name": "Please Slow Down",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163324,
+      "name": "Please Slow Down",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
+    },
+    {
+      "album": {
         "name": "pocket protector",
         "url": "https://open.spotify.com/album/7liiUvBztzf5TrSHwXIVxo"
       },
@@ -4272,7 +4362,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 214808,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y"
@@ -4406,6 +4496,24 @@
       "duration_ms": 266709,
       "name": "Smile At The Party",
       "url": "https://open.spotify.com/track/6fwipwQY4OF3qGbvUtByiy"
+    },
+    {
+      "album": {
+        "name": "Smokescreen (Shadow King)",
+        "url": "https://open.spotify.com/album/7o9byyS21lszKBYZ3X0h4U"
+      },
+      "artists": [
+        {
+          "name": "Hein Cooper",
+          "url": "https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209035,
+      "name": "Smokescreen (Shadow King)",
+      "url": "https://open.spotify.com/track/5fzy0HA5eA78owy1Tk0Fo7"
     },
     {
       "album": {
@@ -4995,6 +5103,24 @@
     },
     {
       "album": {
+        "name": "That's Not Free",
+        "url": "https://open.spotify.com/album/7JaLUa2fos9aydd2dxYZOM"
+      },
+      "artists": [
+        {
+          "name": "Emma Russack",
+          "url": "https://open.spotify.com/artist/1Uk2WvbKqPrA19SbAO9miy"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232420,
+      "name": "That's Not Free",
+      "url": "https://open.spotify.com/track/7dmAB54LAj0hA7LX6Y44TB"
+    },
+    {
+      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },
@@ -5194,7 +5320,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 221933,
       "name": "The Way",
       "url": "https://open.spotify.com/track/0kdBtdB2kw9088Wvmo5cbb"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover:  Jirapah)",
+  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f (Cover: Arches)",
   "name": "Haze ",
   "tracks": [
     {
@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/2Z8oDij6RrOQgoMLyTNKF4"
+      },
+      "artists": [
+        {
+          "name": "Arches",
+          "url": "https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214672,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/38fEg5g0CYvxxm1m4sp1q9"
+    },
+    {
+      "album": {
         "name": "Heavenor",
         "url": "https://open.spotify.com/album/2VW8BV2LYKInUbtzyZC0pU"
       },
@@ -966,6 +984,24 @@
       "duration_ms": 331010,
       "name": "Malaise",
       "url": "https://open.spotify.com/track/68d70gUAWGHroKOssw94kj"
+    },
+    {
+      "album": {
+        "name": "Sky Hundred",
+        "url": "https://open.spotify.com/album/45rVXGAItPUFuTG9e10ldd"
+      },
+      "artists": [
+        {
+          "name": "Parannoul",
+          "url": "https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316106,
+      "name": "Maybe Somewhere",
+      "url": "https://open.spotify.com/track/1MMQVrSaKBllpbepX3zCho"
     },
     {
       "album": {

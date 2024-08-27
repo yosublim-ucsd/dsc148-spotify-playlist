@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: The Po' Ramblin' Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,158 likes - 127 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,170 likes - 127 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

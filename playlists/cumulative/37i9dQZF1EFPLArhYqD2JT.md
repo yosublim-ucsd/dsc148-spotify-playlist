@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-387 songs - 19 hr 41 min
+388 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,8 @@
 | [Send a Lot of Jazzbands over There](https://open.spotify.com/track/0iJPOzU4l5hCRjsi8zRYAH) | [Jerry Dixon](https://open.spotify.com/artist/3xA83ekBDkCQRt9WiNGe3x) | [Chip Deffaa's Irving Berlin: Sweet and Hot](https://open.spotify.com/album/5uzr4VbJR04zFvWgoK3Zc2) | 2:37 | 2024-07-26 |  |
 | [Settle Down in a One\-Horse Town](https://open.spotify.com/track/0mXIuyRnqRJnkHMIWr3zo5) | [Clark Kinkade](https://open.spotify.com/artist/6AYvsa57rciOcUJhOjU2IP), [Luka Fric](https://open.spotify.com/artist/5o6JLVHMqxuryMHup2Jqe4) | [Chip Deffaa's I Must Have That Man](https://open.spotify.com/album/2yG87TVjczED9crWpBb8ay) | 3:17 | 2024-07-26 |  |
 | [Sex Marches On](https://open.spotify.com/track/0Wa5WUKaM8J7eByJ33zf40) | [Soundtrack/Cast Album](https://open.spotify.com/artist/56E5XajgEQr7pQNK4C10RF) | [Louisiana Purchase \- Music & Lyrics By Irving Berlin](https://open.spotify.com/album/2mCC7Kn6xHReDCxeurS6bt) | 3:15 | 2024-07-26 |  |
-| [Shaking the Blues Away \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5UQB8BMAvG8kFhFY3znlxf) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [With A Smile And A Song](https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS) | 3:30 | 2024-07-26 |  |
+| [Shaking the Blues Away \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/4r6xwq5p4Zv6qjJdmnvCZg) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 3:30 | 2024-08-26 |  |
+| [Shaking the Blues Away \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/5UQB8BMAvG8kFhFY3znlxf) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [With A Smile And A Song](https://open.spotify.com/album/6Ltxm93iOwkB1rw6nBdLNS) | 3:30 | 2024-07-26 | 2024-08-27 |
 | [Since They Turn Loch Lomond Into Swing](https://open.spotify.com/track/08BSsLQRCYy9C4GMfnoMtK) | [Ginger Rogers and Fred Astaire](https://open.spotify.com/artist/47sMVzsgSHNatdsgfc8RG4) | [Ginger Rodgers & Fred Astaire](https://open.spotify.com/album/6sdadofq19ht7bDXvs45km) | 2:42 | 2024-07-26 |  |
 | [Sisters \(with Betty Clooney & Paul Weston & His Orchestra\)](https://open.spotify.com/track/7ulfzXGryvQwmpaiuaAkVC) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK), [Betty Clooney](https://open.spotify.com/artist/0WIT6HzDRIvRSgiBkvkyml), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Irving Berlin's "White Christmas"](https://open.spotify.com/album/6dl9kzPEA7STWrEAZqbAFZ) | 2:44 | 2024-07-26 |  |
 | [Sittin' In The Sun](https://open.spotify.com/track/4GJsxSWqJYlhyezWye88sV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Ain't That Good News](https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP) | 3:17 | 2024-07-26 | 2024-08-04 |

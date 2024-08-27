@@ -1,12 +1,12 @@
 {
   "description": "This is Anuhea. The essential tracks, all in one playlist.",
-  "num_followers": 2673,
+  "num_followers": 2675,
   "original_name": "This Is Anuhea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZskigAAAAACGNj0YnThuTUWUofJcJUfF",
+  "snapshot_id": "Zsp0AAAAAACYqn0Yv9Sp8Fq/nfrpa5eC",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "We Make It Look Easy",
-      "url": "https://open.spotify.com/track/5LuaP36EadcPyFKEhlW08e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maui Rain",
         "url": "https://open.spotify.com/album/7HvCD6nzNXG7Rc19nNdq30"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 217077,
       "name": "Maui Rain",
       "url": "https://open.spotify.com/track/5FOYr6pgoZnnm2Yr05QeUN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "We Make It Look Easy",
+      "url": "https://open.spotify.com/track/5LuaP36EadcPyFKEhlW08e"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow Me (Deluxe Hawai'i Edition)",
-        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 187376,
-      "name": "Riddles",
-      "url": "https://open.spotify.com/track/4R4UunGPUhjkokEUiQ8iCA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spam Musubi Song",
         "url": "https://open.spotify.com/album/4EZ6yx1LeF2J6vMMVWrIXk"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Follow Me (Deluxe Hawai'i Edition)",
+        "url": "https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 187376,
+      "name": "Riddles",
+      "url": "https://open.spotify.com/track/4R4UunGPUhjkokEUiQ8iCA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shoulders",
         "url": "https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg"
       },
@@ -563,6 +563,34 @@
       "duration_ms": 233877,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/5QQfNAQSjsHYbbswx8VYrY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haters (Remix) [feat. Anuhea, Irie Love & Eli-Mac]",
+        "url": "https://open.spotify.com/album/3JUg8y6VzopVigBBBKPk2Z"
+      },
+      "artists": [
+        {
+          "name": "Kimie Miner",
+          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
+        },
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        },
+        {
+          "name": "Irie Love",
+          "url": "https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn"
+        },
+        {
+          "name": "Eli-Mac",
+          "url": "https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK"
+        }
+      ],
+      "duration_ms": 238441,
+      "name": "Haters (Remix) [feat. Anuhea, Irie Love & Eli-Mac]",
+      "url": "https://open.spotify.com/track/03ctMIAm8PgCl1NaPowSgL"
     },
     {
       "added_at": null,
@@ -595,34 +623,6 @@
       "duration_ms": 234004,
       "name": "I Won't Settle",
       "url": "https://open.spotify.com/track/4xoN1xIoNeSY77gSA9pk0X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Haters (Remix) [feat. Anuhea, Irie Love & Eli-Mac]",
-        "url": "https://open.spotify.com/album/3JUg8y6VzopVigBBBKPk2Z"
-      },
-      "artists": [
-        {
-          "name": "Kimie Miner",
-          "url": "https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61"
-        },
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        },
-        {
-          "name": "Irie Love",
-          "url": "https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn"
-        },
-        {
-          "name": "Eli-Mac",
-          "url": "https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK"
-        }
-      ],
-      "duration_ms": 238441,
-      "name": "Haters (Remix) [feat. Anuhea, Irie Love & Eli-Mac]",
-      "url": "https://open.spotify.com/track/03ctMIAm8PgCl1NaPowSgL"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoulders",
-        "url": "https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg"
-      },
-      "artists": [
-        {
-          "name": "Anuhea",
-          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
-        }
-      ],
-      "duration_ms": 286645,
-      "name": "Love Child",
-      "url": "https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Follow Me (Remix)",
         "url": "https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 195789,
       "name": "Follow Me (Remix)",
       "url": "https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoulders",
+        "url": "https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "duration_ms": 286645,
+      "name": "Love Child",
+      "url": "https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5"
     },
     {
       "added_at": null,

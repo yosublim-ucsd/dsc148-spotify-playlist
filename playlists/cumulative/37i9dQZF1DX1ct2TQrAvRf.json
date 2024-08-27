@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "India's Rap Scene. Cover- Hanumankind",
+  "description": "India's Rap Scene. Cover- Yo Yo Honey Singh",
   "name": "RAP 91",
   "tracks": [
     {
@@ -474,7 +474,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 148188,
       "name": "Baller",
       "url": "https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ"
@@ -678,7 +678,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 160851,
       "name": "Bt Ho Gayi",
       "url": "https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 202001,
       "name": "Chhore NCR Aale",
       "url": "https://open.spotify.com/track/6L6irlPBbXb0Wsgn3qXAvX"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 146301,
       "name": "Dil Lena Khel",
       "url": "https://open.spotify.com/track/0rikQXyHCK7fpkrCjO0FDz"
@@ -1380,6 +1380,28 @@
       "duration_ms": 162206,
       "name": "Free Smoke",
       "url": "https://open.spotify.com/track/3b1Gq1KcPR45uepbK0N8tA"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Leo Grewal",
+          "url": "https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230111,
+      "name": "Fuck Them",
+      "url": "https://open.spotify.com/track/6iF1UgWYMiDzlBfvamTNdP"
     },
     {
       "album": {
@@ -1698,6 +1720,28 @@
       "duration_ms": 174897,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175178,
+      "name": "High On Me",
+      "url": "https://open.spotify.com/track/3HoyK88FbiUoYF6DSZZ4MJ"
     },
     {
       "album": {
@@ -2028,7 +2072,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 213809,
       "name": "Kaha Tak",
       "url": "https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV"
@@ -2457,6 +2501,28 @@
     },
     {
       "album": {
+        "name": "Maan Ja Chhori",
+        "url": "https://open.spotify.com/album/0uInM6EbRS3Y3Yp8SbiFYJ"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Harjas Harjaayi",
+          "url": "https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "Maan Ja Chhori",
+      "url": "https://open.spotify.com/track/0mnYFf6BUw3AL2rXKaZ9yJ"
+    },
+    {
+      "album": {
         "name": "Machayenge 4",
         "url": "https://open.spotify.com/album/75500cJSqQKQafI8VAKxO2"
       },
@@ -2701,6 +2767,24 @@
     },
     {
       "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199114,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF"
+    },
+    {
+      "album": {
         "name": "Mirchi",
         "url": "https://open.spotify.com/album/7veJEEW836HtKZG9Admr3z"
       },
@@ -2750,6 +2834,24 @@
       "duration_ms": 232173,
       "name": "Moosedrilla (feat. DIVINE)",
       "url": "https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV"
+    },
+    {
+      "album": {
+        "name": "SHAKTI",
+        "url": "https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Naksha",
+      "url": "https://open.spotify.com/track/3syqe1nnZ4eHjhsc0qM5UW"
     },
     {
       "album": {
@@ -2921,6 +3023,28 @@
     },
     {
       "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226751,
+      "name": "Payal",
+      "url": "https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9"
+    },
+    {
+      "album": {
         "name": "Pinnak",
         "url": "https://open.spotify.com/album/2hcpAGNIH7eVABgcSWc0Lw"
       },
@@ -3023,6 +3147,24 @@
     },
     {
       "album": {
+        "name": "SHAKTI",
+        "url": "https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3"
+      },
+      "artists": [
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Raat Ki Raani",
+      "url": "https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K"
+    },
+    {
+      "album": {
         "name": "Mtv Hustle 2.0",
         "url": "https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R"
       },
@@ -3056,6 +3198,32 @@
       "duration_ms": 213600,
       "name": "Ram Ram",
       "url": "https://open.spotify.com/track/06EgOhKj59Jk0AUSzly2Jn"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Handles Tdnb",
+          "url": "https://open.spotify.com/artist/4MgIiRaYRGgOEpz8DUut6Q"
+        },
+        {
+          "name": "Marvi-Sahiban",
+          "url": "https://open.spotify.com/artist/7pxPWe5e97S33DsFfdyz7R"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203253,
+      "name": "Rap God",
+      "url": "https://open.spotify.com/track/7E7Qr1dkP0tZytL0EjLD6e"
     },
     {
       "album": {
@@ -3154,7 +3322,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 243870,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/1kwDiS9TToZtBG6nwNOZwD"
@@ -3416,7 +3584,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 174730,
       "name": "Still Rollin",
       "url": "https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan"
@@ -3726,7 +3894,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 216062,
       "name": "Urvashi",
       "url": "https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS"

@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover:  Jirapah\)
+> Noise distortion amongst the hazy clouds ☁️ \(Cover: Arches\)
 
-113 songs - 8 hr 9 min
+115 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Flow](https://open.spotify.com/track/6gwNlcFoSNnDBNOyE8qcSk) | [Themilo](https://open.spotify.com/artist/59sKn5XeA4AI4WdrlW25aS) | [Flow](https://open.spotify.com/album/3Ypi6FylEdAkvOUOfwpmIs) | 4:25 | 2024-06-27 |  |
 | [Fuzzy Mt\. / 絨毛山線](https://open.spotify.com/track/6YbBjAINBcFbeVlekMV53c) | [DoZzz](https://open.spotify.com/artist/7hnCXuiDbLZYAxgVyMbjgB) | [Passage](https://open.spotify.com/album/1dFa01UouZKtNsOKp3m6Rm) | 7:03 | 2024-06-27 |  |
 | [Gravits](https://open.spotify.com/track/4iVJZk5t7t3E8wYRKW9xhT) | [Crayon Case](https://open.spotify.com/artist/5vjmcREJLxyDVkcb0KjNz9) | [Catch Twenty\-three!!](https://open.spotify.com/album/25SKpGKrZE2E4gAEsLORED) | 4:39 | 2024-06-27 |  |
+| [Hate](https://open.spotify.com/track/38fEg5g0CYvxxm1m4sp1q9) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Hate](https://open.spotify.com/album/2Z8oDij6RrOQgoMLyTNKF4) | 3:34 | 2024-08-26 |  |
 | [Heavenor](https://open.spotify.com/track/3NN8f1yC1YCNEXAhntvqG1) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [Heavenor](https://open.spotify.com/album/2VW8BV2LYKInUbtzyZC0pU) | 3:01 | 2024-06-27 |  |
 | [Here I Stand](https://open.spotify.com/track/36v2DCsj4nP3KFsKlBdB5H) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/2yqdCAB3sTekwkJ3mmHjLh) | 6:50 | 2024-06-27 |  |
 | [Hollow](https://open.spotify.com/track/7ePcJlMECsg1E8shavyNBO) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ), [Raissa Faranda](https://open.spotify.com/artist/1UepCtrKXPvnkqbanWnw5R) | [Hollow / Buried](https://open.spotify.com/album/73RGFNSjy0xXEycwgIpwo4) | 5:46 | 2024-06-27 |  |
@@ -60,6 +61,7 @@
 | [Loving You \(Isn't So Hard\)](https://open.spotify.com/track/4p4yq2tUiF5GBGhjxwE80t) | [Betre](https://open.spotify.com/artist/0LFjqFsBRILZ1usRkfwa6l) | [Loving You \(Isn't So Hard\)](https://open.spotify.com/album/2LpBEqfnEMjHRc9Laxems8) | 2:59 | 2024-06-27 |  |
 | [Mad](https://open.spotify.com/track/12bFyPA8NKbNKrK6jjCoW6) | [aunt robert](https://open.spotify.com/artist/4FCZToYRNlXiC9nAxnnix9) | [Mad](https://open.spotify.com/album/7xr4n4xmcaLFEhlc76fjn4) | 2:34 | 2024-08-08 |  |
 | [Malaise](https://open.spotify.com/track/68d70gUAWGHroKOssw94kj) | [Rebecca Theodora](https://open.spotify.com/artist/3gOsk0RYhnK0G4rhaCmvef) | [Malaise](https://open.spotify.com/album/6eKkUNG5HF10UtnSqN5oyt) | 5:31 | 2024-06-27 |  |
+| [Maybe Somewhere](https://open.spotify.com/track/1MMQVrSaKBllpbepX3zCho) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Sky Hundred](https://open.spotify.com/album/45rVXGAItPUFuTG9e10ldd) | 5:16 | 2024-08-26 |  |
 | [Mei](https://open.spotify.com/track/6lBAU9mz4G9Gt8CQCzudnO) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Hope Hope Hope](https://open.spotify.com/album/5C0ZgBk5cZxBrwetX6Xgz2) | 3:42 | 2024-06-27 |  |
 | [mlb](https://open.spotify.com/track/6uXSZazWjvwsPVEDngFfQs) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [mlb](https://open.spotify.com/album/5kONlQGQnbfCPybdJQhbry) | 3:52 | 2024-06-27 |  |
 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 | 2024-06-27 |  |

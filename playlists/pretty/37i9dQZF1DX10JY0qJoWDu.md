@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 
 > Holiday cheer from your Disney favorites!
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,226 likes - 121 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,234 likes - 121 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10JY0qJoWDu.md) - [plain]
 | 72 | [This Christmas \(Hang All the Mistletoe\)](https://open.spotify.com/track/1DJG5QEDHGMnVeOeBRKPTG) | [Sofia Wylie](https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 2:40 |
 | 73 | [Radiator Rockin' Holiday](https://open.spotify.com/track/74aAZfdIT4EFgB9rAF1tuD) | [Larry The Cable Guy](https://open.spotify.com/artist/2iVKGetYUZQElKZKWECyF4) | [Season's Speedings from Cars Land: Holiday Songs from Mater & Luigi](https://open.spotify.com/album/3lfUQ49g7aDndmiJ4sCvv4) | 1:35 |
 | 74 | [The Night Before Christmas](https://open.spotify.com/track/24VHmDy2EXjToniDzCutbn) | [Snow White](https://open.spotify.com/artist/6BAIFK6o6egITr3K8JysWa), [Grumpy](https://open.spotify.com/artist/4PNxaLK53sf9AebS32lwsB), [The Bashful](https://open.spotify.com/artist/5XYl7tpQiqm8xFFLzX4pjL), [Doc](https://open.spotify.com/artist/0yCFOUK2sXwZhpWQ20rNV4) | [Princess Christmas](https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY) | 2:47 |
-| 75 | [Main Title \- From "Father Of The Bride"](https://open.spotify.com/track/0i30bPPakybjqfAkxApcLM) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Father Of The Bride \(Music From The Motion Picture\)](https://open.spotify.com/album/3cXfo1Qhssl2vgPaSzoJxa) | 2:29 |
+| 75 | [Main Title \- From "Father Of The Bride"](https://open.spotify.com/track/0i30bPPakybjqfAkxApcLM) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Father Of The Bride \- Music From The Motion Picture](https://open.spotify.com/album/3cXfo1Qhssl2vgPaSzoJxa) | 2:29 |
 | 76 | [My Song For You \(from "Good Luck Charlie"\)](https://open.spotify.com/track/5sCFhZksQS7YZjG5nl1fyP) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb), [Shane Harper](https://open.spotify.com/artist/1zKD316iTPlm0I1EUk8x6j) | [Disney Channel Holiday Playlist](https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE) | 3:21 |
 | 77 | [Put the Happy in the Holidays](https://open.spotify.com/track/4xYTkjQuWnG15P2vBoWoL4) | [Issac Ryan Brown](https://open.spotify.com/artist/5aOMbv75CfxervJbTpcGXO), [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6), [Sky Katz](https://open.spotify.com/artist/05U4J0pOT7paL8rMJ679Jz), [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Ruth Righi](https://open.spotify.com/artist/7wXmoaPGvuUUGedB6D52ku), [Navia Robinson](https://open.spotify.com/artist/6eT9WXYVb5CR9sbru8xfOf), [Trevor Tordjman](https://open.spotify.com/artist/4cCKeV2O9AE36tLDYlyVZt) | [Put the Happy in the Holidays](https://open.spotify.com/album/1Pjl8ZqtiS4Eo4zmx77HP3) | 3:00 |
 | 78 | [Greatest Time Of Year](https://open.spotify.com/track/7yrqJUfnjteV1FLe9dXcVa) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Acoustic Hearts Of Winter](https://open.spotify.com/album/4B5cO6NvbMw9c8rjBmMd6h) | 3:38 |

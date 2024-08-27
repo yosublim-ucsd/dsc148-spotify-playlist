@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Gasellit ja Ellinoora.
 
-133 songs - 6 hr 28 min
+134 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Mowgli](https://open.spotify.com/track/44i0pQGFw0hq3YzBYvYZaC) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Mowgli](https://open.spotify.com/album/017Q2cv3auxsQmWWQj2mlO) | 2:16 | 2024-07-25 | 2024-08-10 |
 | [Mustangi II](https://open.spotify.com/track/1aVlmKGaUZz489HuSoPJgL) | [YOUNGHEARTED](https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX) | [Mustangi II](https://open.spotify.com/album/16zFci2pCEsVfQdqH5D0Ch) | 3:10 | 2024-08-22 |  |
 | [My Type](https://open.spotify.com/track/01ObZaXP84IzVsPezAOaCM) | [Yeboyah](https://open.spotify.com/artist/1XyP3n6D0QLoslo4SAQ6JB) | [My Type](https://open.spotify.com/album/76xn8VPNXTOoB1Q1x7QcIj) | 2:39 | 2024-07-02 | 2024-07-05 |
+| [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 | 2024-08-26 |  |
 | [Norjalaista puuta](https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Norjalaista puuta](https://open.spotify.com/album/36yFPOq7YIsFpIodxohXzu) | 2:45 | 2024-08-09 |  |
 | [Norppa kivellä](https://open.spotify.com/track/2zFDRptDDg9FC5ZFM0UINl) | [Juhana Haukkala](https://open.spotify.com/artist/0JtYpxkop6SX7L5trzsmp7) | [Norppa kivellä](https://open.spotify.com/album/6zmw2zvlJilM3McRXvmIgg) | 2:46 | 2024-07-02 | 2024-07-12 |
 | [Nouse kyytiin](https://open.spotify.com/track/0zeycjLOtQNcinmx7uH5jg) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Nouse kyytiin](https://open.spotify.com/album/1tTRRFjAtEcpPM0ngmn1JW) | 3:57 | 2024-08-22 |  |

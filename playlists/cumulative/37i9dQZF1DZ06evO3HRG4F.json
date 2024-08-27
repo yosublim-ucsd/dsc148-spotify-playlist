@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "This Is Charlie Monttana. Los temas esenciales, todos en una lista.",
+  "description": "This is Charlie Monttana. The essential tracks, all in one playlist.",
   "name": "This Is Charlie Monttana",
   "tracks": [
     {
@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 203173,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0"
@@ -494,7 +494,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 206239,
       "name": "Las Encueradas",
       "url": "https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg"
@@ -552,6 +552,24 @@
       "duration_ms": 261688,
       "name": "Me Vuelves Loco",
       "url": "https://open.spotify.com/track/4hwNgohVFTNCvXUdWLVmOM"
+    },
+    {
+      "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186502,
+      "name": "Menor de Edad",
+      "url": "https://open.spotify.com/track/1grfsGcGQq3Unosd0KIvDY"
     },
     {
       "album": {
@@ -956,7 +974,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-07",
+      "date_removed": null,
       "duration_ms": 353973,
       "name": "Todas Estas L\u00e1grimas",
       "url": "https://open.spotify.com/track/1Z0QjjwTN7ekP9sKkLdFJq"

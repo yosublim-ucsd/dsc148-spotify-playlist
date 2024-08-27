@@ -1271,6 +1271,40 @@
     },
     {
       "album": {
+        "name": "De Baixo Pra Cima",
+        "url": "https://open.spotify.com/album/4UWAYxlZLr6ZUV2ttMoN0g"
+      },
+      "artists": [
+        {
+          "name": "Dj Caio Vieira",
+          "url": "https://open.spotify.com/artist/4Kv35Xnw1ODjO2nIHLhdBY"
+        },
+        {
+          "name": "DJ WG DO SS",
+          "url": "https://open.spotify.com/artist/32qJz58OMpD1QBX1qVMGcL"
+        },
+        {
+          "name": "Dj Alan Melo",
+          "url": "https://open.spotify.com/artist/05kM6bfPvwG2DRwR8o5aGp"
+        },
+        {
+          "name": "MC FG",
+          "url": "https://open.spotify.com/artist/1kAJwKG8RJwXdA7qWNWwKI"
+        },
+        {
+          "name": "Mc Neguinho do ITR",
+          "url": "https://open.spotify.com/artist/3NKKT2K9K9EXatgGgqY4YF"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111692,
+      "name": "De Baixo Pra Cima",
+      "url": "https://open.spotify.com/track/0DREUdw6H7SxQoaUBhvD2D"
+    },
+    {
+      "album": {
         "name": "Deixa Eu Botar",
         "url": "https://open.spotify.com/album/6qrfUroN8CeYDn87ORpFcc"
       },
@@ -1368,7 +1402,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 127730,
       "name": "DEPOIS DO BAILE",
       "url": "https://open.spotify.com/track/3zUAYG4ofPDOha8guzOrBv"
@@ -3634,7 +3668,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 134769,
       "name": "MTG Xote das Meninas",
       "url": "https://open.spotify.com/track/1CAVKFwmyMZuSPwBWSKb6A"
@@ -4624,6 +4658,40 @@
       "duration_ms": 177191,
       "name": "Ritmada da Laura",
       "url": "https://open.spotify.com/track/4MFGqdbmN23Doa9cHATo4V"
+    },
+    {
+      "album": {
+        "name": "Ritmada Interestelar",
+        "url": "https://open.spotify.com/album/4yGwZSJLoBPCKQNn5zMjWR"
+      },
+      "artists": [
+        {
+          "name": "DJ DUARTE",
+          "url": "https://open.spotify.com/artist/76JV5kzmRyAtP4cmMgjMZi"
+        },
+        {
+          "name": "MC Lipivox",
+          "url": "https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY"
+        },
+        {
+          "name": "DJ Kayo Original",
+          "url": "https://open.spotify.com/artist/3XbTjpdGElxdiHzbCGn8G7"
+        },
+        {
+          "name": "MC Rondom",
+          "url": "https://open.spotify.com/artist/2QfGTGoOWDlLmRxUvHllCc"
+        },
+        {
+          "name": "Prime Funk",
+          "url": "https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192461,
+      "name": "Ritmada Interestelar",
+      "url": "https://open.spotify.com/track/2i3HnfXvFT371Hbk4oZsfA"
     },
     {
       "album": {

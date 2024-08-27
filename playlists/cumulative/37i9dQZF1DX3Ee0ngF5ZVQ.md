@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Silverada
 
-643 songs - 1 day 14 hr 23 min
+645 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Cold Shoulder](https://open.spotify.com/track/282YiPLSxibbQvGCQ05bkF) | [Mary Heather Hickman](https://open.spotify.com/artist/7HCxS7azUAuU5SyWIY5fDl) | [Cold Shoulder](https://open.spotify.com/album/7rRa6fVsCQPLQPfQlyE8TS) | 2:51 | 2023-08-18 |  |
 | [Come and Take It](https://open.spotify.com/track/6P3ZoKaDNffsEoutjbFbgF) | [Cannon Brand](https://open.spotify.com/artist/02inix3QCxIUGODnJxm02K) | [Come and Take It](https://open.spotify.com/album/6cwdWlBUgSWGVRho3ZqWx3) | 4:00 | 2022-04-08 | 2022-07-20 |
 | [Come Back Down](https://open.spotify.com/track/5rOaX636W0AaVdVMFO59cp) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Come Back Down](https://open.spotify.com/album/5JrajF3ctdyubuRCrNeTrf) | 4:33 | 2021-12-17 | 2022-01-08 |
-| [Come Rest Your Head \(On My Pillow\)](https://open.spotify.com/track/4wNsAbCvwN5syfU06Yd7ec) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Come Rest Your Head \(On My Pillow\)](https://open.spotify.com/album/3Sh65R9MY2FdyKdhiyW9Uo) | 4:37 | 2024-06-14 |  |
+| [Come Rest Your Head \(On My Pillow\)](https://open.spotify.com/track/4wNsAbCvwN5syfU06Yd7ec) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Come Rest Your Head \(On My Pillow\)](https://open.spotify.com/album/3Sh65R9MY2FdyKdhiyW9Uo) | 4:37 | 2024-06-14 | 2024-08-27 |
 | [Cool To Be Country](https://open.spotify.com/track/24vldRj2TiD05ZQ3Som7vi) | [McBride & The Ride](https://open.spotify.com/artist/5frbtLmwyULdCkg8VqcEvV) | [Marlboros & Avon](https://open.spotify.com/album/0LYHmC9s4Xx1LSAKsTWOco) | 2:21 | 2023-07-28 | 2023-08-26 |
 | [Cotton Candy Sky](https://open.spotify.com/track/05AxzTMO583gtJiga8c2GK) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Cotton Candy Sky](https://open.spotify.com/album/6TYFWZO2oLIa8cY3hBSh5t) | 2:28 | 2022-05-20 | 2022-07-09 |
 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 | 2024-01-05 |  |
@@ -224,6 +224,7 @@
 | [Goodbye Horses](https://open.spotify.com/track/4dM6n7StQUjohoWk0JFLw4) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [What Is It Even?](https://open.spotify.com/album/7pOByvaZQPALod9AwZJi3j) | 3:41 | 2023-08-04 | 2023-10-21 |
 | [Grain of Salt](https://open.spotify.com/track/0Kv4Y5oOn41W93IFXsvcpY) | [Kin Faux](https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu) | [Grain of Salt](https://open.spotify.com/album/11fYmLaOYK0KKoj77tliqj) | 3:49 | 2022-07-15 | 2022-07-18 |
 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 | 2023-03-24 |  |
+| [Green in Colorado](https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Green in Colorado](https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2) | 3:16 | 2024-08-23 |  |
 | [Growing Up](https://open.spotify.com/track/0OQBDgDbMM9eJITeGwZusI) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41) | [Growing Up](https://open.spotify.com/album/5RKdHUALvM0KCNPwsHRO1V) | 3:44 | 2022-07-08 | 2022-07-30 |
 | [Guess Some Dreams Come True](https://open.spotify.com/track/3huD0tFdSCq5NZ6rM5G1Ug) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Guess Some Dreams Come True](https://open.spotify.com/album/26WPzOLfAPiBfTd3NLI0l8) | 4:19 | 2022-02-25 | 2022-07-19 |
 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 | 2022-08-05 |  |
@@ -270,7 +271,7 @@
 | [How To Love You](https://open.spotify.com/track/4FJT0U4ecuD6l53YtKCeEI) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Burn The Ground](https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X) | 3:23 | 2024-07-12 | 2024-08-11 |
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2021-12-17 |  |
 | [Hummingbird](https://open.spotify.com/track/1mLZIGyDYLUtQ3HYhyYnJy) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Hummingbird](https://open.spotify.com/album/13P3sBbbxn9kVJp5vR3v60) | 4:45 | 2022-06-03 | 2023-09-02 |
-| [Hungover Again](https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Hungover Again](https://open.spotify.com/album/6vrhY31BWrTCBS7xzaXLRs) | 3:33 | 2024-07-12 |  |
+| [Hungover Again](https://open.spotify.com/track/2Fav608uXaDE1F5sTtBKSH) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Hungover Again](https://open.spotify.com/album/6vrhY31BWrTCBS7xzaXLRs) | 3:33 | 2024-07-12 | 2024-08-27 |
 | [Hunt You Down](https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Hunt You Down](https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7) | 3:24 | 2024-05-03 |  |
 | [Hurt No More](https://open.spotify.com/track/3qJ5OBunIPNIvU4WAI6RYh) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hurt No More](https://open.spotify.com/album/2XYMwjnmcRzpGAPmJQrQyG) | 3:34 | 2022-10-28 | 2023-06-28 |
 | [Hurt No More](https://open.spotify.com/track/4vdMdvjrwdm3CR5oobcBIS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Pecos & the Rooftops](https://open.spotify.com/album/16iK92ILyZrvxH3HuDDgtH) | 3:34 | 2023-06-23 | 2024-04-19 |
@@ -397,6 +398,7 @@
 | [Once in a Blue Moon](https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Once in a Blue Moon](https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk) | 3:07 | 2022-04-01 | 2023-02-12 |
 | [One Honky Tonk Town](https://open.spotify.com/track/1j3aYPaCzk1ENO4dL9nxw5) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [One Honky Tonk Town](https://open.spotify.com/album/1ZtExQ6KB7P60h9QyyC1VO) | 3:20 | 2022-04-29 | 2022-07-10 |
 | [One of 'Em](https://open.spotify.com/track/44p9CEsVVIlKpBj8FF1QFe) | [Creed Fisher](https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu) | [One of 'Em](https://open.spotify.com/album/04wH6X2aDxsxp5dLeDp8eM) | 2:38 | 2023-03-24 | 2023-04-22 |
+| [One of Those Things](https://open.spotify.com/track/1CDfvsnNnGEk5gbB9PKPN9) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [One of Those Things](https://open.spotify.com/album/4DWLXRplK1fPQ0kv1vfSPj) | 3:38 | 2024-08-23 |  |
 | [One Two Step Away](https://open.spotify.com/track/6MzgcxRl6y4x11DMg8K750) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [One Two Step Away](https://open.spotify.com/album/75M65qiiyw2tCGDIij7kZs) | 3:14 | 2023-01-06 | 2023-03-18 |
 | [Only Need One](https://open.spotify.com/track/6xjVFA6jmSIuQEH108s6V2) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Only Need One](https://open.spotify.com/album/2LAc0RjCJ2qynoCRN6tUil) | 3:33 | 2022-02-04 | 2022-07-27 |
 | [Open Book](https://open.spotify.com/track/71F8QUX0UiqmoSZKgjCnP6) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [Open Book](https://open.spotify.com/album/5ivrCd6Y6Z1BGr6GwROBwp) | 3:47 | 2022-04-29 | 2022-07-15 |

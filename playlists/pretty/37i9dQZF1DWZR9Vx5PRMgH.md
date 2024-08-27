@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZR9Vx5PRMgH.md) - [plain]
 
 > Un espacio dedicado a podcasts presentados o producidos por mujeres\. ¡Aquí el micrófono es de ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,690 likes - 25 songs - 1 day 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,688 likes - 25 songs - 1 day 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ep\. 25: Palabras sin miedo \- con Vivir Quintana](https://open.spotify.com/episode/0UbSCyzPzIkUTmjXNLuHkp) | [Señoras Punk ](https://open.spotify.com/show/4hS2jWFOWhyQlYgmJsXdSq) | [Señoras Punk ](https://open.spotify.com/album/4hS2jWFOWhyQlYgmJsXdSq) | 1:12:10 |
 | 2 | [SER MUJER \| 6 DE COPAS \- EPISODIO 1 \- T2](https://open.spotify.com/episode/2xHnJw1knMzUdcWawDGyk1) | [Seis de Copas](https://open.spotify.com/show/0rcejj6eHA5u2Z3geS2inO) | [Seis de Copas](https://open.spotify.com/album/0rcejj6eHA5u2Z3geS2inO) | 1:33:53 |
 | 3 | [¡El empaque seduce, pero el contenido conquista!](https://open.spotify.com/episode/6JmN7lQRobTj30EwEXVvir) | [Somos Aliadas](https://open.spotify.com/show/1YpcfPEFUNvFHc8fkiQiZh) | [Somos Aliadas](https://open.spotify.com/album/1YpcfPEFUNvFHc8fkiQiZh) | 36:58 |
-| 4 | [EP 115: EL PODER \| MARTHA DEBAYLE](https://open.spotify.com/episode/7uezIqoPqz2rygZJgh4yhi) | [La Burra Arisca ](https://open.spotify.com/show/4cKDfZDmxt0dRzYvs8EJBv) | [La Burra Arisca ](https://open.spotify.com/album/4cKDfZDmxt0dRzYvs8EJBv) | 1:04:25 |
+| 4 | [EP 115: EL PODER \| MARTHA DEBAYLE](https://open.spotify.com/episode/7uezIqoPqz2rygZJgh4yhi) | [La Burra Arisca](https://open.spotify.com/show/4cKDfZDmxt0dRzYvs8EJBv) | [La Burra Arisca](https://open.spotify.com/album/4cKDfZDmxt0dRzYvs8EJBv) | 1:04:25 |
 | 5 | [Episodio 44 \- Cosas que te daban pena de tu ex y nunca le dijiste](https://open.spotify.com/episode/0sKXyJcnCLaYwIGdp2Jj4Q) | [Las Damitas Histeria](https://open.spotify.com/show/0ob7mZuMUpwT0tMHMLXfoc) | [Las Damitas Histeria](https://open.spotify.com/album/0ob7mZuMUpwT0tMHMLXfoc) | 57:40 |
 | 6 | [438\. ¿A dónde nos ha llevado el corazón y cómo cuidarte a ti? \| Denise Dresser](https://open.spotify.com/episode/3iERfsqpznpjJFUhGcW979) | [Se Regalan Dudas](https://open.spotify.com/show/0KUjSzqMyxrTyXuw15j4e8) | [Se Regalan Dudas](https://open.spotify.com/album/0KUjSzqMyxrTyXuw15j4e8) | 1:04:42 |
 | 7 | [¿quién es “la persona correcta”?](https://open.spotify.com/episode/6jvqLlCAsopV5efvtODovY) | [te compré flores](https://open.spotify.com/show/62JAy3Tk03fdbwUxf4VTYk) | [te compré flores](https://open.spotify.com/album/62JAy3Tk03fdbwUxf4VTYk) | 10:27 |

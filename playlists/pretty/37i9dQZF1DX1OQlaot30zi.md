@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Tony Boy, Cosang, Kassimi e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,103 likes - 84 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,102 likes - 84 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

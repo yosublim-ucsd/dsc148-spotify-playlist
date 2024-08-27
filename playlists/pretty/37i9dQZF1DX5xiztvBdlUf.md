@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,369 likes - 80 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,555 likes - 80 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 34 | [No One Like You \- Edit](https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn) | [Marten Lou](https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK) | [No One Like You \- EP](https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK) | 4:16 |
 | 35 | [R U 4REAL \(feat\. Marina Maximilian\)](https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [R U 4REAL \(feat\. Marina Maximilian\)](https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa) | 3:09 |
 | 36 | [Be Here and Now](https://open.spotify.com/track/3uvfxpOixHqWdwpFfJb48F) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Be Here and Now](https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7) | 3:29 |
-| 37 | [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 |
-| 38 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
-| 39 | [Laufen](https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf) | [MonoJack](https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9), [Fritz Kölner](https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh) | [Laufen](https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT) | 4:17 |
+| 37 | [Laufen](https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf) | [MonoJack](https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9), [Fritz Kölner](https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh) | [Laufen](https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT) | 4:17 |
+| 38 | [These Things Will Come To Be](https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [These Things Will Come To Be](https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7) | 4:56 |
+| 39 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
 | 40 | [Sign of the Times](https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Sign of the Times](https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB) | 3:13 |
 | 41 | [Mama Thula](https://open.spotify.com/track/5lyU83MdLTyJpnmCl3NjOi) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1), [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Suffocate SA](https://open.spotify.com/artist/424Tqq4kwbnQ4197BuEdTS) | [Mama Thula](https://open.spotify.com/album/6YMpRJfQ3fnI2v0NPJVwEJ) | 6:01 |
 | 42 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |

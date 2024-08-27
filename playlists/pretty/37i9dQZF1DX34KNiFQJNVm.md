@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Mc Hariel com Gilberto Gil, Luan Santana, Liniker  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,573 likes - 72 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,931,620 likes - 72 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 4 | [Pula Fora \- Ao Vivo](https://open.spotify.com/track/7f1tZNtc1t456ybBsl5sfK) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Fortaleza \- Ao Vivo](https://open.spotify.com/album/0Lo0mXzAAVAjuxyuYHWVZ1) | 2:29 |
 | 5 | [\(Não\) Quero Me Apaixonar](https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro,](https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt) | 2:49 |
 | 6 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
-| 7 | [Em Busca Da Minha Sorte \- Ao Vivo](https://open.spotify.com/track/5cwtADIfwSm2FDwKqUMwL9) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Billy Sp](https://open.spotify.com/artist/52bK816juaLmMV5LZDVXbm) | [Sorte \- Ao Vivo](https://open.spotify.com/album/0HP2bkYK4dlR7kE4YvZxSG) | 3:17 |
+| 7 | [Em Busca Da Minha Sorte \- Ao Vivo](https://open.spotify.com/track/5cwtADIfwSm2FDwKqUMwL9) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Billy SP](https://open.spotify.com/artist/4GH92X1Uuv583KVfSiQBxJ) | [Sorte \- Ao Vivo](https://open.spotify.com/album/0HP2bkYK4dlR7kE4YvZxSG) | 3:17 |
 | 8 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
 | 9 | [4 Enganados](https://open.spotify.com/track/51K1IJUjukRNYOqTqo596Z) | [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [4 Enganados](https://open.spotify.com/album/09zcQhcgqwXwTaZUmWXNQt) | 2:50 |
 | 10 | [Se Depender de Mim \- Ao Vivo](https://open.spotify.com/track/2NfAoUHZHODYSxuCZX4qaf) | [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Ser Tão Eu \- Parte 2 \(Ao Vivo\)](https://open.spotify.com/album/2ylwPEGWwhfGZoKiPJo2zF) | 3:00 |

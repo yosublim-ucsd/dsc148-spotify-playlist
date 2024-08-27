@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Aug 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Aug 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -2644,6 +2644,24 @@
       "duration_ms": 155400,
       "name": "Basics",
       "url": "https://open.spotify.com/track/07tIqGwLyg2fVvypNhNML3"
+    },
+    {
+      "album": {
+        "name": "Battle For Dream Island Song (BFDI)",
+        "url": "https://open.spotify.com/album/5sq3PB7mCYw7P0mv6SdHqO"
+      },
+      "artists": [
+        {
+          "name": "BENJIxScarlett",
+          "url": "https://open.spotify.com/artist/64kVSb4dkLnVtYAKnXCgP9"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78960,
+      "name": "Battle For Dream Island Song (BFDI)",
+      "url": "https://open.spotify.com/track/6hyde78fE7RVbkyAbjYmk9"
     },
     {
       "album": {
@@ -6423,6 +6441,28 @@
     },
     {
       "album": {
+        "name": "Comets (with Petra Sihombing)",
+        "url": "https://open.spotify.com/album/4iba7OSissrRZrmO4awBzC"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        },
+        {
+          "name": "Petra Sihombing",
+          "url": "https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235026,
+      "name": "Comets (with Petra Sihombing)",
+      "url": "https://open.spotify.com/track/4DORdPh0YOYXrOlPi1qRG5"
+    },
+    {
+      "album": {
         "name": "Common Loon",
         "url": "https://open.spotify.com/album/3Hb4hoxKdekny2pmRamnT7"
       },
@@ -6706,7 +6746,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 175609,
       "name": "crooked the road.",
       "url": "https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk"
@@ -10325,6 +10365,24 @@
     },
     {
       "album": {
+        "name": "Feeling A Way",
+        "url": "https://open.spotify.com/album/5NZheHHybnGWymired1xYi"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "Feeling A Way",
+      "url": "https://open.spotify.com/track/6h5ZddL24wXcFDj6DVbk4W"
+    },
+    {
+      "album": {
         "name": "Feeling Fine",
         "url": "https://open.spotify.com/album/0CvKXsBvNPwj6xE1NV68Xf"
       },
@@ -12675,6 +12733,24 @@
     },
     {
       "album": {
+        "name": "GOOME",
+        "url": "https://open.spotify.com/album/4kmRKz6oAadBMXckMwJYse"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "GOOME",
+      "url": "https://open.spotify.com/track/2xlkd2uQW8yfbh9r4eEhpb"
+    },
+    {
+      "album": {
         "name": "Goyard Torba",
         "url": "https://open.spotify.com/album/4lBM9KBGFCM0GEK5BE7GWT"
       },
@@ -14381,6 +14457,24 @@
     },
     {
       "album": {
+        "name": "HOTEL EN HOTEL",
+        "url": "https://open.spotify.com/album/0RmPX6LnQOD10bpCDIFma8"
+      },
+      "artists": [
+        {
+          "name": "AgusFortnite2008",
+          "url": "https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101884,
+      "name": "HOTEL EN HOTEL",
+      "url": "https://open.spotify.com/track/1ZqdE2idBVhHLv7JasDrAu"
+    },
+    {
+      "album": {
         "name": "Hottest Summer on Record",
         "url": "https://open.spotify.com/album/1JJXOjU7KbjXLcyVWoUrxp"
       },
@@ -15830,7 +15924,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 152904,
       "name": "Il Tempo Cura",
       "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
@@ -18276,7 +18370,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 229169,
       "name": "Lonely Fight",
       "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
@@ -18522,7 +18616,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 267000,
       "name": "Lost Stars",
       "url": "https://open.spotify.com/track/6Btd8jhtyDi8fTw36fU59V"
@@ -21769,6 +21863,24 @@
     },
     {
       "album": {
+        "name": "Not Linear",
+        "url": "https://open.spotify.com/album/2x7CDxnBDVenYcLBUeCiwA"
+      },
+      "artists": [
+        {
+          "name": "Subsonic Eye",
+          "url": "https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268190,
+      "name": "Not Linear",
+      "url": "https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo"
+    },
+    {
+      "album": {
         "name": "Not Your Angel",
         "url": "https://open.spotify.com/album/3tmyrJbOloJPuuvtvIh51X"
       },
@@ -22947,6 +23059,24 @@
     },
     {
       "album": {
+        "name": "Paint this love",
+        "url": "https://open.spotify.com/album/0p1dpS5MWo8ICRgfrStKym"
+      },
+      "artists": [
+        {
+          "name": "JUN. K",
+          "url": "https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213176,
+      "name": "Paint this love",
+      "url": "https://open.spotify.com/track/5ZUjkot1jE8nXbq4obaXPm"
+    },
+    {
+      "album": {
         "name": "attraction",
         "url": "https://open.spotify.com/album/0CB43CgpadF312vDqTXcGk"
       },
@@ -23048,7 +23178,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 196181,
       "name": "Paper Cup",
       "url": "https://open.spotify.com/track/6qYIxqCTc7JSpLrJEOMyML"
@@ -23174,7 +23304,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 172501,
       "name": "Party In Bali (PIB)",
       "url": "https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O"
@@ -24070,7 +24200,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 208431,
       "name": "PowerNerd",
       "url": "https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV"
@@ -25528,6 +25658,24 @@
       "duration_ms": 355488,
       "name": "Ritual (palace)",
       "url": "https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8"
+    },
+    {
+      "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/639X1kE2s1ZD2dmhihOWLr"
+      },
+      "artists": [
+        {
+          "name": "ADYA",
+          "url": "https://open.spotify.com/artist/4J4tJMuTHFBLuNE93GGvDW"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181120,
+      "name": "RIZZ",
+      "url": "https://open.spotify.com/track/5SpQxEL0mJV5r5hS1a5G3J"
     },
     {
       "album": {
@@ -33854,7 +34002,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 176355,
       "name": "We All Meet Up In The End",
       "url": "https://open.spotify.com/track/6PXnz34sERoo33jtNjBabm"
@@ -34370,6 +34518,28 @@
       "duration_ms": 148240,
       "name": "Whatsapp (Wassam)",
       "url": "https://open.spotify.com/track/4dBoAE3FBnVQa9zBqWLMjQ"
+    },
+    {
+      "album": {
+        "name": "When He\u2019s Not There (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/4wbY1m1O17LJx00KoN6oQN"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268401,
+      "name": "When He\u2019s Not There (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10"
     },
     {
       "album": {
@@ -35940,7 +36110,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 169000,
       "name": "\u041b\u0430\u0433\u0435\u0440\u043d\u0430\u044f",
       "url": "https://open.spotify.com/track/0hBkQ3Dtxoql2YSnQA2o4g"

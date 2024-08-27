@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Yo Hai Haryanvi Hip-Hop! Cover: Dhanda Nyoliwala",
+  "description": "Yo Hai Haryanvi Hip-Hop! Cover: MC Square x Harjas Harjaai",
   "name": "Hip-Hop Haryanvi",
   "tracks": [
     {
@@ -1042,6 +1042,28 @@
       "duration_ms": 237014,
       "name": "Chhore Zeher",
       "url": "https://open.spotify.com/track/5QHilIkFyeL28OmNQbEtnu"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148051,
+      "name": "Chhori",
+      "url": "https://open.spotify.com/track/27hVZDBYlz2haxDACt1tGT"
     },
     {
       "album": {
@@ -2784,7 +2806,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 144422,
       "name": "Jaatan Ka Khoon",
       "url": "https://open.spotify.com/track/5HDjg1dQlSyZxZRHBeyfMk"
@@ -3389,6 +3411,28 @@
     },
     {
       "album": {
+        "name": "Maan Ja Chhori",
+        "url": "https://open.spotify.com/album/0uInM6EbRS3Y3Yp8SbiFYJ"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Harjas Harjaayi",
+          "url": "https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "Maan Ja Chhori",
+      "url": "https://open.spotify.com/track/0mnYFf6BUw3AL2rXKaZ9yJ"
+    },
+    {
+      "album": {
         "name": "MAHAKAAL",
         "url": "https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0"
       },
@@ -3830,7 +3874,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 196900,
       "name": "No Escape",
       "url": "https://open.spotify.com/track/0BEitiMLJyddZ7yY2LyD7x"
@@ -4909,6 +4953,28 @@
     },
     {
       "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Girik Aman",
+          "url": "https://open.spotify.com/artist/0wEpmOl5l4V1PijK15QuDj"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189031,
+      "name": "Sheeshe Wali Chunni",
+      "url": "https://open.spotify.com/track/6GS4oa5YTYzDLEvzcZGm4i"
+    },
+    {
+      "album": {
         "name": "Shok Albaadi",
         "url": "https://open.spotify.com/album/3qXAk8FMwN1oY4y4QQeUFw"
       },
@@ -5280,7 +5346,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 196816,
       "name": "Tedhe Chaalak",
       "url": "https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL"

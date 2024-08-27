@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover:   Sabrina Cheung 張蔓莎
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,205 likes - 358 songs - 21 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,216 likes - 358 songs - 21 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

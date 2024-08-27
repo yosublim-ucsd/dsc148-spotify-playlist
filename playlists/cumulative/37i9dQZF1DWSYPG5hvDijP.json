@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175169,
+      "name": "6 Am",
+      "url": "https://open.spotify.com/track/2WbJHbbw9iWWbVPC4qt17t"
+    },
+    {
+      "album": {
         "name": "7 May",
         "url": "https://open.spotify.com/album/027yRLY4A2lxMCkWcpnGO7"
       },
@@ -1311,6 +1329,28 @@
     },
     {
       "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "THE SHAMS",
+          "url": "https://open.spotify.com/artist/0Vepfi0XJ1hdBOu5WlMlXn"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178143,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7r8DFPBOkohRGX6Taq93Kv"
+    },
+    {
+      "album": {
         "name": "THE BRIDGE",
         "url": "https://open.spotify.com/album/1R3EK42SOA9RcbgugF3BBN"
       },
@@ -1538,6 +1578,24 @@
       "duration_ms": 209147,
       "name": "Cadillac",
       "url": "https://open.spotify.com/track/4xCFv3QBK1dgEaSBdv3oSQ"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195107,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/3jW6x7dyYFUr5LNfWC2TFU"
     },
     {
       "album": {
@@ -3160,7 +3218,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 202666,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/2HO5BnQD8wwPBGsd3qoRhz"
@@ -3428,6 +3486,24 @@
       "duration_ms": 237201,
       "name": "Here to Rule",
       "url": "https://open.spotify.com/track/59UjVsciK1MazaY2r8jDfK"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184213,
+      "name": "Hide It",
+      "url": "https://open.spotify.com/track/1YEqs3pLKemaxAd7Tyr5eP"
     },
     {
       "album": {
@@ -5065,6 +5141,28 @@
     },
     {
       "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Yina Menez",
+          "url": "https://open.spotify.com/artist/54xi4V65IxIY05XzkrltAM"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188245,
+      "name": "Malamaal",
+      "url": "https://open.spotify.com/track/3GPvDPNmVek5FSp8IsK5AC"
+    },
+    {
+      "album": {
         "name": "Mallika",
         "url": "https://open.spotify.com/album/42jjlqtU48ozL5wCaRVDJW"
       },
@@ -5990,7 +6088,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 161600,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/1njcubTXVVeyLJCPgLG6yS"
@@ -6234,7 +6332,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 147000,
       "name": "OUTSHINE",
       "url": "https://open.spotify.com/track/0GDE8CWUrcWFdBQOQIaXyX"
@@ -6844,7 +6942,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 174461,
       "name": "Sadakchaap",
       "url": "https://open.spotify.com/track/4ErvgXbwLEgDpEjskfuUBe"
@@ -8140,7 +8238,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 179393,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/1w5MqHdvV2tXw8gh1B7Z9N"

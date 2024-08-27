@@ -991,6 +991,28 @@
     },
     {
       "album": {
+        "name": "Distant Hearts",
+        "url": "https://open.spotify.com/album/66Usj77sp7rqjjN75lfYcr"
+      },
+      "artists": [
+        {
+          "name": "Stv Andrew",
+          "url": "https://open.spotify.com/artist/1tQ8HrJNZhEiLIxDlvd2Bd"
+        },
+        {
+          "name": "Ramprasad Nachimuthu",
+          "url": "https://open.spotify.com/artist/4BGo0AEhutUT0nJdEUvU9y"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233999,
+      "name": "Distant Hearts",
+      "url": "https://open.spotify.com/track/7jaTzZavHZgzcqcAH4dvfA"
+    },
+    {
+      "album": {
         "name": "Doctors' Anthem",
         "url": "https://open.spotify.com/album/5Z3jZzAx52YeGuCyjtiHDy"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Malurid\u00e9, Mark Zentai",
-  "num_followers": 13508,
+  "num_followers": 13511,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
+        "name": "Back",
+        "url": "https://open.spotify.com/album/61ljJW8g9oFqswlY5m1quR"
+      },
+      "artists": [
+        {
+          "name": "Puzzls",
+          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/7K0eLRSeHe9Y3b2x5VtDuS"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
         "name": "Ugyanitt v\u00e1rlak",
         "url": "https://open.spotify.com/album/3K0RrtPlf7DttkxvCrrVKj"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 197500,
       "name": "Ugyanitt v\u00e1rlak",
       "url": "https://open.spotify.com/track/1b6DV0wJ8YWBzFINSUNRFO"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "S\u00f6t\u00e9t vill\u00e1m",
-        "url": "https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Nem volt \u00fagy m\u00e9g",
-      "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -651,34 +651,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Back",
-        "url": "https://open.spotify.com/album/61ljJW8g9oFqswlY5m1quR"
+        "name": "S\u00f6t\u00e9t vill\u00e1m",
+        "url": "https://open.spotify.com/album/2mPqC3mjQDITg2jTkpw34T"
       },
       "artists": [
         {
-          "name": "Puzzls",
-          "url": "https://open.spotify.com/artist/0p4n095CPa0aR6OirCbVD9"
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Back",
-      "url": "https://open.spotify.com/track/7K0eLRSeHe9Y3b2x5VtDuS"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Legszebb Hib\u00e1nk",
-        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Legszebb Hib\u00e1nk",
-      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
+      "duration_ms": 219000,
+      "name": "Nem volt \u00fagy m\u00e9g",
+      "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -703,18 +687,18 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "pontnem",
-        "url": "https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX"
+        "name": "Legszebb Hib\u00e1nk",
+        "url": "https://open.spotify.com/album/3m9VNJ9qZMXhBHwmJ2ldi9"
       },
       "artists": [
         {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
         }
       ],
-      "duration_ms": 205980,
-      "name": "pontnem",
-      "url": "https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa"
+      "duration_ms": 164705,
+      "name": "Legszebb Hib\u00e1nk",
+      "url": "https://open.spotify.com/track/1aDekm12qg6Eu7cOwlAOBw"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -731,6 +715,22 @@
       "duration_ms": 155278,
       "name": "Diszkomfort",
       "url": "https://open.spotify.com/track/0KycjsM9rZi1Ys6z15xKxu"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "pontnem",
+        "url": "https://open.spotify.com/album/5LNjddXarNCmejSaFGb7MX"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 205980,
+      "name": "pontnem",
+      "url": "https://open.spotify.com/track/3us0UL4UZth3vWa8WOvwOa"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Egy popzen\u00e9sz nyara",
-        "url": "https://open.spotify.com/album/4OXvRvtNI7iw9nj47ykx5R"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Egy popzen\u00e9sz nyara",
-      "url": "https://open.spotify.com/track/0RmI4rRWEUiXfci07vejD0"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "hov\u00e1sz\u00f6kt\u00e9l?",
         "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 132000,
       "name": "hov\u00e1sz\u00f6kt\u00e9l?",
       "url": "https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Egy popzen\u00e9sz nyara",
+        "url": "https://open.spotify.com/album/4OXvRvtNI7iw9nj47ykx5R"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Egy popzen\u00e9sz nyara",
+      "url": "https://open.spotify.com/track/0RmI4rRWEUiXfci07vejD0"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Szob\u00e1k felett",
-        "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
-      },
-      "artists": [
-        {
-          "name": "Fi\u00fak",
-          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "Alb\u00e9rlet",
-      "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Egym\u00e1shoz r\u00f6vid az \u00fat",
         "url": "https://open.spotify.com/album/4Iz2McUkaRCAR6uLbpuutA"
       },
@@ -867,18 +851,34 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Szeressetek",
-        "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
+        "name": "Szob\u00e1k felett",
+        "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
       "artists": [
         {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+          "name": "Fi\u00fak",
+          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Szeressetek",
-      "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
+      "duration_ms": 232293,
+      "name": "Alb\u00e9rlet",
+      "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "BOLDOGOK VAGYUNK-E",
+        "url": "https://open.spotify.com/album/0Rr5JPQ3lYDLRXMszZGmmp"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00e9re",
+          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+        }
+      ],
+      "duration_ms": 181840,
+      "name": "Boldogok vagyunk-e",
+      "url": "https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "BOLDOGOK VAGYUNK-E",
-        "url": "https://open.spotify.com/album/0Rr5JPQ3lYDLRXMszZGmmp"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00e9re",
-          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
-        }
-      ],
-      "duration_ms": 181840,
-      "name": "Boldogok vagyunk-e",
-      "url": "https://open.spotify.com/track/7y1CtYDtYwAI8phNE05MZ3"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "N\u00e9gyes-Hatos",
         "url": "https://open.spotify.com/album/5xywbU931889LMT6JaCcWw"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 284368,
       "name": "Elment\u00e9l",
       "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Szeressetek",
+        "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Szeressetek",
+      "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "LUMBAGO",
-        "url": "https://open.spotify.com/album/0FGJdGuvfObLfuALzlc7Id"
-      },
-      "artists": [
-        {
-          "name": "Ress",
-          "url": "https://open.spotify.com/artist/3vh8N8IcJnKYUCq2gdqewc"
-        }
-      ],
-      "duration_ms": 178010,
-      "name": "LUMBAGO",
-      "url": "https://open.spotify.com/track/1jTyV4NlALiGV8w7KZlO2k"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "KEIKO",
         "url": "https://open.spotify.com/album/2lqWEkcOD6lJpGtRIwNa8E"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 198665,
       "name": "Megbolond\u00edtott\u00e1l",
       "url": "https://open.spotify.com/track/4GvYeS4CDBsWzuOaNloPp8"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "LUMBAGO",
+        "url": "https://open.spotify.com/album/0FGJdGuvfObLfuALzlc7Id"
+      },
+      "artists": [
+        {
+          "name": "Ress",
+          "url": "https://open.spotify.com/artist/3vh8N8IcJnKYUCq2gdqewc"
+        }
+      ],
+      "duration_ms": 178010,
+      "name": "LUMBAGO",
+      "url": "https://open.spotify.com/track/1jTyV4NlALiGV8w7KZlO2k"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Ez vagyok \u00e9n",
-        "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
-      },
-      "artists": [
-        {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
-        }
-      ],
-      "duration_ms": 97263,
-      "name": "Ez vagyok \u00e9n",
-      "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Megyek ut\u00e1nad",
         "url": "https://open.spotify.com/album/4OfqKnxBfuu372UHrve3oS"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 131986,
       "name": "Megyek ut\u00e1nad",
       "url": "https://open.spotify.com/track/7zFTSuwz7CAHhWByjBhmB4"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Ez vagyok \u00e9n",
+        "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
+      },
+      "artists": [
+        {
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+        }
+      ],
+      "duration_ms": 97263,
+      "name": "Ez vagyok \u00e9n",
+      "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
-        "url": "https://open.spotify.com/album/49awHTFD5CufV8OlYDpRGW"
-      },
-      "artists": [
-        {
-          "name": "majordorci",
-          "url": "https://open.spotify.com/artist/4TMWjR2nMN8YJwwGa1pmOJ"
-        },
-        {
-          "name": "toldyuuso",
-          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
-      "url": "https://open.spotify.com/track/69uDRZ64aDn32VPcnPjWjv"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
         "name": "Az \u00c9n Sz\u00edvem",
         "url": "https://open.spotify.com/album/4z7BEJamlzxLYNspWI4gVa"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 174545,
       "name": "Az \u00c9n Sz\u00edvem",
       "url": "https://open.spotify.com/track/4Bak4uTIbG7mpILvpbdYEi"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
+        "url": "https://open.spotify.com/album/49awHTFD5CufV8OlYDpRGW"
+      },
+      "artists": [
+        {
+          "name": "majordorci",
+          "url": "https://open.spotify.com/artist/4TMWjR2nMN8YJwwGa1pmOJ"
+        },
+        {
+          "name": "toldyuuso",
+          "url": "https://open.spotify.com/artist/7Ia2WU8pEwFytpR7mqwHHA"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "sziv\u00e1rv\u00e1ny v\u00e9g\u00e9n",
+      "url": "https://open.spotify.com/track/69uDRZ64aDn32VPcnPjWjv"
     },
     {
       "added_at": "2024-08-15 22:00:00",

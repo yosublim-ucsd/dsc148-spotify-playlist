@@ -2,7 +2,7 @@
 
 ### [This Is City Girls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NPjOD)
 
-> This is City Girls\. Az összes kihagyhatatlan szám egyetlen műsorlistában.
+> This is City Girls\. Todos os maiores hits em uma só playlist.
 
 80 songs - 3 hr 49 min
 

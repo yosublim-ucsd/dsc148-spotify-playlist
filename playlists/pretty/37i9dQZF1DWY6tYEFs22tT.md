@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Drake, Cash Cobain, Lithe, YG and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 815,423 likes - 59 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 815,386 likes - 59 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

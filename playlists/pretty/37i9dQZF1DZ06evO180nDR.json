@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Dareyes De La Sierra. Los temas esenciales, todos en una lista.",
-  "num_followers": 29979,
+  "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
+  "num_followers": 29999,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZskigAAAAADof6ITROkPQ8HUxnMNzB8N",
+  "snapshot_id": "Zsp0AAAAAAAu4dOSRbaDJKJHdK/ozzqt",
   "tracks": [
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Arrinc\u00f3namela",
-      "url": "https://open.spotify.com/track/2ndTyIF8jtCcwFzRhdxvaw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T.H.C. (En Vivo)",
         "url": "https://open.spotify.com/album/4CUBg0rluTaV0pOooMoXsv"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 192906,
       "name": "T.H.C. - En Vivo",
       "url": "https://open.spotify.com/track/3VfePRz4mz0pAjRsQsVcrC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Due\u00f1a De Mi Vida",
+        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Arrinc\u00f3namela",
+      "url": "https://open.spotify.com/track/2ndTyIF8jtCcwFzRhdxvaw"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Najlepsze polskie piosenki na czasie\. Cover: Smolasty, Sylwia Grzeszczak
 
-143 songs - 6 hr 47 min
+144 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Szczęśliwa Wina](https://open.spotify.com/track/5mpaSyASd5ev6RMfSqW4cR) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Szczęśliwa Wina](https://open.spotify.com/album/00MIiun6wtpS1KScwHB7aV) | 2:33 | 2024-07-01 | 2024-07-19 |
 | [Szum](https://open.spotify.com/track/4dbp2q4IPbDvmDlECn3Xii) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Szum](https://open.spotify.com/album/2S6yeWf41bXsVaVnQ8AskE) | 3:53 | 2024-07-01 |  |
 | [SZYBKIEGO GRUBEGO ŻYCIA](https://open.spotify.com/track/5KEYvmPDI5i8cPFyAHzusX) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [PATOPOP \(Vol\. 1\)](https://open.spotify.com/album/1vn8JolZTeJDIzD0Dbrhxv) | 3:02 | 2024-07-01 | 2024-07-27 |
+| [taki mały ja](https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [taki mały ja](https://open.spotify.com/album/0V9iei7ta8jjktxfpq8GsK) | 2:54 | 2024-08-26 |  |
 | [Tam słońce, gdzie my](https://open.spotify.com/track/1Wh2SwNbe3OQCoskPc3fD8) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Tam słońce, gdzie my](https://open.spotify.com/album/73wEkOKWj6NZqOLRj0EhH0) | 3:15 | 2024-07-01 |  |
 | [TATUSIU](https://open.spotify.com/track/1kYiSaFo2hccIqtE2PvEV6) | [RUSKIEFAJKI](https://open.spotify.com/artist/5YRNJ1S5R6pJIeb7PHkyna) | [TATUSIU](https://open.spotify.com/album/7pmpwLX3JgXaifXz5S0dJP) | 3:14 | 2024-07-01 | 2024-08-02 |
 | [Tchórz](https://open.spotify.com/track/1FGdEpj33Y8oEdfP2O3D9P) | [Paweł Domagała](https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2) | [Tchórz](https://open.spotify.com/album/24TTozO7gSegSOqdsgHcgH) | 3:08 | 2024-07-01 | 2024-07-12 |
@@ -140,7 +141,7 @@
 | [Z nikim aż tak](https://open.spotify.com/track/2tD084cxyXfM8rTrR7vpZU) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm) | [Z nikim aż tak](https://open.spotify.com/album/1vnoOYABdND4kBBFXlE7jH) | 3:12 | 2024-07-01 | 2024-08-02 |
 | [zabierz mnie nad morze](https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [zabierz mnie nad morze](https://open.spotify.com/album/59UiYzMBzRGieC5egH19Ck) | 2:51 | 2024-07-01 | 2024-07-05 |
 | [Zagrajmy](https://open.spotify.com/track/6jKciZGLm1zKWP3DrVYfzr) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Zagrajmy](https://open.spotify.com/album/4sXX520fF0HGwgSxOfyE0y) | 3:16 | 2024-07-01 | 2024-07-05 |
-| [Zapominam Cię](https://open.spotify.com/track/4QUBv1VQXuI70ZUcRGVu9E) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Zapominam Cię](https://open.spotify.com/album/0nhoihKHimrRLMddo2BJ3l) | 3:08 | 2024-07-18 |  |
+| [Zapominam Cię](https://open.spotify.com/track/4QUBv1VQXuI70ZUcRGVu9E) | [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Zapominam Cię](https://open.spotify.com/album/0nhoihKHimrRLMddo2BJ3l) | 3:08 | 2024-07-18 | 2024-08-27 |
 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 | 2024-07-01 | 2024-08-02 |
 | [Zaufaj Mi](https://open.spotify.com/track/1sNuaeqLxISt725osuWHf2) | [Kubańczyk](https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan), [Dizzma](https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1) | [Zaufaj Mi](https://open.spotify.com/album/4Iss8MVHucvl89dzpBfHQZ) | 2:24 | 2024-08-01 | 2024-08-23 |
 | [Zdjęcia](https://open.spotify.com/track/4VWFlfcj5LYRKZHper4kHU) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Zdjęcia](https://open.spotify.com/album/0806pozS2h7r8yVwoKazfV) | 3:07 | 2024-08-22 |  |

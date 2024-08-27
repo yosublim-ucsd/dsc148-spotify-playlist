@@ -100,7 +100,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 172378,
       "name": "Aitana O'Ca\u00f1a",
       "url": "https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU"
@@ -340,6 +340,24 @@
       "duration_ms": 180481,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe"
+    },
+    {
+      "album": {
+        "name": "Generaci\u00f3n de Cristal",
+        "url": "https://open.spotify.com/album/6Ypvyl8kqqTy3SMDZweZ8Y"
+      },
+      "artists": [
+        {
+          "name": "LUNA KI",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "date_added": "2024-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166431,
+      "name": "Cuatro Bodas",
+      "url": "https://open.spotify.com/track/0Ktk8t0AuvCI5iBYA3F2nM"
     },
     {
       "album": {

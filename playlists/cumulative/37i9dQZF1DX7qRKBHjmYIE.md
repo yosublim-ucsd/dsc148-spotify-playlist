@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con RIZA & Humbe.
 
-795 songs - 1 day 18 hr 55 min
+796 songs - 1 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [BOMBAY](https://open.spotify.com/track/38YVgO1TvyosaSZ7Kd8AIA) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/6l6smfQXJMgSCPpsWkUiLi) | 3:06 | 2022-04-29 | 2022-07-29 |
 | [BOMBAY](https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:06 | 2022-07-22 | 2023-02-17 |
 | [Boom](https://open.spotify.com/track/4mzr0P76cqsnrh5vMJi5Mv) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Boom](https://open.spotify.com/album/7BhZZ5myjj6z8m4ozlbBfO) | 2:50 | 2022-10-28 | 2022-12-31 |
-| [BOOM CLAP](https://open.spotify.com/track/35gwuPry1Ef1UUV6scAT7M) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [BOOM CLAP](https://open.spotify.com/album/2pFBmIjXSdFHJPWcvY7WsT) | 2:48 | 2024-07-26 |  |
+| [BOOM CLAP](https://open.spotify.com/track/35gwuPry1Ef1UUV6scAT7M) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [BOOM CLAP](https://open.spotify.com/album/2pFBmIjXSdFHJPWcvY7WsT) | 2:48 | 2024-07-26 | 2024-08-27 |
 | [Borracha](https://open.spotify.com/track/6IAw1ilp429h9Gkkf0YjQl) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg) | [WOMAN](https://open.spotify.com/album/56bu8iqYK4WQeefvlPtkBj) | 2:43 | 2021-12-02 | 2022-01-25 |
 | [bossa nova](https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [bossa nova](https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN) | 3:08 | 2023-06-23 | 2023-08-26 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-03-18 | 2022-05-26 |
@@ -119,6 +119,7 @@
 | [Caramelo](https://open.spotify.com/track/1Ug6XFyqQE9nSE8ycck18M) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Caramelo](https://open.spotify.com/album/7qqJ54Yi4bI3OTqMiJ6ghi) | 3:18 | 2021-12-02 | 2022-01-29 |
 | [Cariñito](https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Cariñito](https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ) | 3:41 | 2021-12-02 | 2023-02-17 |
 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 | 2024-01-19 | 2024-07-27 |
+| [Caster y Roxy](https://open.spotify.com/track/5pNvENxRsxYLYXS23JL6xt) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [Caster y Roxy](https://open.spotify.com/album/0J2rAAqOV88hnIPBda79m7) | 4:10 | 2024-08-23 |  |
 | [Caution](https://open.spotify.com/track/5aU5htHGCvb5ZGUvMm6nAF) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Caution](https://open.spotify.com/album/69809nxVVagxVz0YBOnCIX) | 2:57 | 2022-05-06 | 2022-07-21 |
 | [CELL](https://open.spotify.com/track/5syGVoLzDjXCvPt1OpdKtc) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [CELL](https://open.spotify.com/album/2r3inkJAGBtP7ZxTdrXGoH) | 2:18 | 2024-01-19 | 2024-07-27 |
 | [CHEAP WINE](https://open.spotify.com/track/3Vr93h1O6gt3eacdDvNld5) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [CHEAP WINE](https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI) | 2:16 | 2023-02-02 | 2023-02-17 |

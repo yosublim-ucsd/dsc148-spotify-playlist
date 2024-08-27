@@ -1,12 +1,12 @@
 {
   "description": "The perfectly brewed cup, the perfect songs to match. Your happy place is right here.",
-  "num_followers": 561699,
+  "num_followers": 561812,
   "original_name": "Coffee + Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqZO4AAAAAA+rpugZuBZpJtIq9/ww8/z",
+  "snapshot_id": "ZsyKYAAAAAA38GutqAO1E93/RDgtcxNV",
   "tracks": [
     {
       "added_at": "2024-07-12 04:38:56",
@@ -29,6 +29,38 @@
       "url": "https://open.spotify.com/track/3a2DCHz2kOnxqmaoXiRZ4o"
     },
     {
+      "added_at": "2024-08-26 14:00:00",
+      "album": {
+        "name": "Bothering Me",
+        "url": "https://open.spotify.com/album/3cUcV7rXEFJmxxzMia1DHZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Blasko",
+          "url": "https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV"
+        }
+      ],
+      "duration_ms": 262266,
+      "name": "Bothering Me",
+      "url": "https://open.spotify.com/track/74St96khEjAVTgMKDze3dr"
+    },
+    {
+      "added_at": "2024-08-26 14:00:00",
+      "album": {
+        "name": "Please Slow Down",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 163324,
+      "name": "Please Slow Down",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
+    },
+    {
       "added_at": "2024-07-12 04:38:56",
       "album": {
         "name": "Bewitched: The Goddess Edition",
@@ -43,38 +75,6 @@
       "duration_ms": 213213,
       "name": "Bored",
       "url": "https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5"
-    },
-    {
-      "added_at": "2024-07-12 04:38:56",
-      "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
-    },
-    {
-      "added_at": "2024-07-28 14:00:00",
-      "album": {
-        "name": "Just Like North",
-        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 184334,
-      "name": "Just Like North",
-      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
     },
     {
       "added_at": "2024-07-12 04:38:56",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-07-12 04:38:56",
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
+    },
+    {
+      "added_at": "2024-07-12 04:38:56",
+      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/0l6JdZ5eJDbtwDmo6EUEsR"
       },
@@ -109,20 +125,36 @@
       "url": "https://open.spotify.com/track/2Lo5Eejn8Ohectg9z5GipX"
     },
     {
-      "added_at": "2024-07-21 14:00:00",
+      "added_at": "2024-07-28 14:00:00",
       "album": {
-        "name": "Forgive My Deceit",
-        "url": "https://open.spotify.com/album/6PFN1RigCbz3GNRslMVPoY"
+        "name": "Just Like North",
+        "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
       },
       "artists": [
         {
-          "name": "Tomo",
-          "url": "https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM"
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
         }
       ],
-      "duration_ms": 187846,
-      "name": "Forgive My Deceit",
-      "url": "https://open.spotify.com/track/2eeT0tEJFhrL3yiMLf09Po"
+      "duration_ms": 184334,
+      "name": "Just Like North",
+      "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
+    },
+    {
+      "added_at": "2024-07-12 04:38:56",
+      "album": {
+        "name": "Take My Hand",
+        "url": "https://open.spotify.com/album/5Xk0fve5ECSNzYatXArftB"
+      },
+      "artists": [
+        {
+          "name": "Salt Tree",
+          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+        }
+      ],
+      "duration_ms": 197632,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/0v3aVGaDgOPICLHEewERiy"
     },
     {
       "added_at": "2024-07-12 04:38:56",
@@ -157,20 +189,88 @@
       "url": "https://open.spotify.com/track/4WD2uWSnU5NmwrfZRM0Vpo"
     },
     {
-      "added_at": "2024-07-12 04:38:56",
+      "added_at": "2024-08-26 14:00:00",
       "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/5Xk0fve5ECSNzYatXArftB"
+        "name": "That's Not Free",
+        "url": "https://open.spotify.com/album/7JaLUa2fos9aydd2dxYZOM"
       },
       "artists": [
         {
-          "name": "Salt Tree",
-          "url": "https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU"
+          "name": "Emma Russack",
+          "url": "https://open.spotify.com/artist/1Uk2WvbKqPrA19SbAO9miy"
         }
       ],
-      "duration_ms": 197632,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/0v3aVGaDgOPICLHEewERiy"
+      "duration_ms": 232420,
+      "name": "That's Not Free",
+      "url": "https://open.spotify.com/track/7dmAB54LAj0hA7LX6Y44TB"
+    },
+    {
+      "added_at": "2024-07-21 14:00:00",
+      "album": {
+        "name": "Forgive My Deceit",
+        "url": "https://open.spotify.com/album/6PFN1RigCbz3GNRslMVPoY"
+      },
+      "artists": [
+        {
+          "name": "Tomo",
+          "url": "https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM"
+        }
+      ],
+      "duration_ms": 187846,
+      "name": "Forgive My Deceit",
+      "url": "https://open.spotify.com/track/2eeT0tEJFhrL3yiMLf09Po"
+    },
+    {
+      "added_at": "2024-08-26 14:00:00",
+      "album": {
+        "name": "Colours",
+        "url": "https://open.spotify.com/album/36RQqB3irEHa5F3QbEgSfZ"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 239080,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1WeO1NDt17SfrRW1WhsRJ8"
+    },
+    {
+      "added_at": "2024-07-12 04:38:56",
+      "album": {
+        "name": "Fortnight (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 228965,
+      "name": "Fortnight (feat. Post Malone) - Acoustic Version",
+      "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
+    },
+    {
+      "added_at": "2024-08-26 14:00:00",
+      "album": {
+        "name": "Do You Haunt Me",
+        "url": "https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 193155,
+      "name": "Do You Haunt Me",
+      "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
     },
     {
       "added_at": "2024-07-12 04:38:56",
@@ -187,6 +287,22 @@
       "duration_ms": 268653,
       "name": "Blue Dreams",
       "url": "https://open.spotify.com/track/6fGbtfReK8VgAsXrrUHJxg"
+    },
+    {
+      "added_at": "2024-08-26 14:00:00",
+      "album": {
+        "name": "Smokescreen (Shadow King)",
+        "url": "https://open.spotify.com/album/7o9byyS21lszKBYZ3X0h4U"
+      },
+      "artists": [
+        {
+          "name": "Hein Cooper",
+          "url": "https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0"
+        }
+      ],
+      "duration_ms": 209035,
+      "name": "Smokescreen (Shadow King)",
+      "url": "https://open.spotify.com/track/5fzy0HA5eA78owy1Tk0Fo7"
     },
     {
       "added_at": "2024-07-12 04:38:56",
@@ -219,6 +335,22 @@
       "duration_ms": 208750,
       "name": "Bookmark",
       "url": "https://open.spotify.com/track/68127p4Qjg1wk0Iuq3BSaD"
+    },
+    {
+      "added_at": "2024-08-26 14:00:00",
+      "album": {
+        "name": "Hold Your Hair",
+        "url": "https://open.spotify.com/album/1VcTJTrnbPrDnEFQfqOoer"
+      },
+      "artists": [
+        {
+          "name": "Timothy Nelson",
+          "url": "https://open.spotify.com/artist/4TpiiLJXJUpNjdBYvZB3vq"
+        }
+      ],
+      "duration_ms": 182535,
+      "name": "Hold Your Hair",
+      "url": "https://open.spotify.com/track/3JPvjupgTUmtJiNL5WJrQw"
     },
     {
       "added_at": "2024-07-12 04:38:56",
@@ -283,26 +415,6 @@
       "duration_ms": 285791,
       "name": "I Figured We'd Go Dancin'",
       "url": "https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D"
-    },
-    {
-      "added_at": "2024-07-12 04:38:56",
-      "album": {
-        "name": "Fortnight (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5IYMYmX28qpI6OEnQhdazX"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 228965,
-      "name": "Fortnight (feat. Post Malone) - Acoustic Version",
-      "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
     },
     {
       "added_at": "2024-07-12 04:38:56",
@@ -463,22 +575,6 @@
       "duration_ms": 226740,
       "name": "All I Have",
       "url": "https://open.spotify.com/track/5v6Jj76nTkyTTvZ70NSUVJ"
-    },
-    {
-      "added_at": "2024-07-12 04:38:56",
-      "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/1ThbqRQv0ltgxxI5Hsp7qm"
-      },
-      "artists": [
-        {
-          "name": "Sarah Blasko",
-          "url": "https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/0kdBtdB2kw9088Wvmo5cbb"
     },
     {
       "added_at": "2024-07-12 04:38:56",
@@ -671,22 +767,6 @@
       "duration_ms": 252454,
       "name": "Good Thing",
       "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
-    },
-    {
-      "added_at": "2024-07-12 04:38:56",
-      "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 214808,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y"
     },
     {
       "added_at": "2024-07-12 04:38:56",

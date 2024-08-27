@@ -4,7 +4,7 @@
 
 > 
 
-1,640 songs - 3 day 16 hr 24 min
+1,641 songs - 3 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,6 +769,7 @@
 | [Jump In](https://open.spotify.com/track/6h7qlHyUMxkvkw6OfLGs5A) | [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k), [Magnuz](https://open.spotify.com/artist/5nkErQYVcrItD46hHKLSaZ) | [Jump In](https://open.spotify.com/album/3b3BSsEaSTJXLXz0HQk8vF) | 3:12 | 2022-10-03 |  |
 | [Jump when the bass dumbs](https://open.spotify.com/track/0PG2zw5SBMeTSoO2Jfac69) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Jump when the bass dumbs](https://open.spotify.com/album/4IDPhl65cogEy8Fp5maaqj) | 3:30 | 2024-05-28 |  |
 | [Just Begun](https://open.spotify.com/track/1kvrrTtbb3U77BFg0hpiOw) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Just Begun](https://open.spotify.com/album/4w9uEvrIwQWWwmVq28jlxi) | 3:29 | 2023-03-25 |  |
+| [Just Can't Get Enough \- Techno Version](https://open.spotify.com/track/6hQR2EAhTRrbfnKM8Z9j5O) | [Hypermorph](https://open.spotify.com/artist/0IeEzvWGCDF6N4sBtzJ2o2), [Snoblack](https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX) | [Just Can't Get Enough \(Techno Version\)](https://open.spotify.com/album/4PMDurQCx0T7QuuUHFKTS8) | 2:06 | 2024-08-26 |  |
 | [JUST DANCE HARDSTYLE \(Sped Up\)](https://open.spotify.com/track/2CsxWxjpqmZNWR92w2eS0a) | [Mr\. Glass](https://open.spotify.com/artist/0nPct0D3UUbek6rrrcFrva) | [JUST DANCE HARDSTYLE \(Sped Up\)](https://open.spotify.com/album/4nAvpUNKleQsOhvhmesOip) | 2:51 | 2024-01-25 |  |
 | [Just For You \- Inverse & Evolution Remix](https://open.spotify.com/track/0UnpuVk5vN4Os2pv90skRN) | [Himbo](https://open.spotify.com/artist/48O7KkVmhtdYm0sc6ID2MQ), [MC Enemy](https://open.spotify.com/artist/6EitfYQtoUGXKGCxdKyuZw) | [Hardcore Addiction 2](https://open.spotify.com/album/2fUl1dd4EuuxBVCeRxzPeF) | 2:28 | 2022-12-19 |  |
 | [Kajiva](https://open.spotify.com/track/3vTKbCuIRd1QIISHPdHDSz) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [Kajiva](https://open.spotify.com/album/26MR8jMS8aRViwsuOr23Lr) | 3:46 | 2024-03-29 |  |

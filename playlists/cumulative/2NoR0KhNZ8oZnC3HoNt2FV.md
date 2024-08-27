@@ -4,7 +4,7 @@
 
 > 
 
-943 songs - 2 day 6 hr 49 min
+944 songs - 2 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1800 Degrees](https://open.spotify.com/track/0EShjURNsCxbi5JpZjqCNG) | [Vulture Love](https://open.spotify.com/artist/021z3GxpIYc4ykwfHY5G5O), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Vulture Love Presents: The Last Zombies on Earth](https://open.spotify.com/album/1f0CTYUfYgfehhyKnR4noN) | 2:35 | 2024-06-14 |  |
 | [1998 TRUMAN](https://open.spotify.com/track/0ToC28lLiwEKyQdN4FXypS) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [1998 TRUMAN](https://open.spotify.com/album/6tTJbJAS6kJpKRz0gZIWMU) | 4:05 | 2024-01-25 |  |
 | [2 Live Is What We Are…\(Word\)](https://open.spotify.com/track/5lRbePw1ikJN844Ulz6nZ0) | [2 LIVE CREW](https://open.spotify.com/artist/58Dx4HPzeOO3dbpD9YYEes) | [Is What We Are](https://open.spotify.com/album/6rK5TfFyeFAHzGTbv19JhA) | 4:17 | 2023-11-30 | 2024-08-08 |
+| [2 Slippery \(feat\. BossMan Dlow\)](https://open.spotify.com/track/62oLxos6R04SVYL1lXidvu) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr\. Skii](https://open.spotify.com/album/4XqpSvwcjnoR5YP5lBLuTi) | 2:39 | 2024-08-26 |  |
 | [20 Joints](https://open.spotify.com/track/6vSmfVyxYCm6D1VVXp2knn) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI) | [20 Joints \- Single](https://open.spotify.com/album/3foc9z8KL9D4DmIuE5IWEM) | 3:10 | 2024-01-25 |  |
 | [21 Guns](https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:21 | 2024-01-25 | 2024-02-07 |
 | [2100 \(feat\. BOOTS\)](https://open.spotify.com/track/4uYjftijP9EvgjoVPAaxuX) | [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C), [BOOTS](https://open.spotify.com/artist/5ZavV2znwg6dd6jxD94Pw3) | [2100 \(feat\. BOOTS\)](https://open.spotify.com/album/3GCeKN7n4hV9ET7lQVUqRH) | 4:01 | 2024-01-25 |  |
@@ -25,7 +26,7 @@
 | [5 TO 10](https://open.spotify.com/track/1zTGRPGqfZP0cfyTmoQP0V) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:13 | 2024-06-14 | 2024-07-13 |
 | [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 | 2024-01-25 |  |
 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2024-01-25 |  |
-| [7 AM in Munich \(feat\. Kodak Black\)](https://open.spotify.com/track/3t8MGSsf0IpjpIt1XyLOBP) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 3:03 | 2024-08-23 |  |
+| [7 AM in Munich \(feat\. Kodak Black\)](https://open.spotify.com/track/3t8MGSsf0IpjpIt1XyLOBP) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 3:03 | 2024-08-23 | 2024-08-27 |
 | [712PM](https://open.spotify.com/track/1YWE7cMqo4iVNdPTpH4Khj) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 2:53 | 2024-01-25 |  |
 | [712PM](https://open.spotify.com/track/3FSwpQ9dBZBeBV6UdYHI2R) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:53 | 2024-01-25 |  |
 | [A Day Without A Rhyme \- Original](https://open.spotify.com/track/29QscX4i9O7WMr8mwPjBsW) | [Mersiless Amir](https://open.spotify.com/artist/6t3BtE4TzMae7xXgdyp6oG) | [A Day Without A Rhyme](https://open.spotify.com/album/0mpzu4mRONYYcGWm4jt5Ad) | 4:47 | 2023-11-30 | 2024-08-08 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Humbe. The essential tracks, all in one playlist.",
-  "num_followers": 201239,
+  "description": "This Is Humbe. Los temas esenciales, todos en una lista.",
+  "num_followers": 201507,
   "original_name": "This Is Humbe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZskigAAAAACFSW3ZDywzDS8uveaFgmG6",
+  "snapshot_id": "Zsp0AAAAAAB/aimULw3MfZM71UUHfN30",
   "tracks": [
     {
       "added_at": null,
@@ -495,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "yo x3",
-        "url": "https://open.spotify.com/album/4sVjp0ucdVB0H7mGex3J4A"
+        "name": "ella brilla",
+        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
       },
       "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        },
         {
           "name": "Humbe",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 222638,
-      "name": "yo x3",
-      "url": "https://open.spotify.com/track/4RGpNXCSbRSKjvctTXmppw"
+      "duration_ms": 263600,
+      "name": "ella brilla",
+      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
     },
     {
       "added_at": null,
@@ -527,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ADULTOS",
-        "url": "https://open.spotify.com/album/6WMkdMFLq0M0ihfrClTqCv"
+        "name": "yo x3",
+        "url": "https://open.spotify.com/album/4sVjp0ucdVB0H7mGex3J4A"
       },
       "artists": [
         {
@@ -536,9 +540,9 @@
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 183078,
-      "name": "ADULTOS",
-      "url": "https://open.spotify.com/track/4FImnjFPw8WAa9KUBNDCWw"
+      "duration_ms": 222638,
+      "name": "yo x3",
+      "url": "https://open.spotify.com/track/4RGpNXCSbRSKjvctTXmppw"
     },
     {
       "added_at": null,
@@ -559,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ella brilla",
-        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
+        "name": "ADULTOS",
+        "url": "https://open.spotify.com/album/6WMkdMFLq0M0ihfrClTqCv"
       },
       "artists": [
-        {
-          "name": "RIZA",
-          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
-        },
         {
           "name": "Humbe",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 263600,
-      "name": "ella brilla",
-      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
+      "duration_ms": 183078,
+      "name": "ADULTOS",
+      "url": "https://open.spotify.com/track/4FImnjFPw8WAa9KUBNDCWw"
     },
     {
       "added_at": null,

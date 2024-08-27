@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Lua de Santana.",
-  "num_followers": 18561,
+  "num_followers": 18568,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrKc4AAAAABV6pjZx9tFU+TRcHsvILiV",
+  "snapshot_id": "ZsyKzwAAAADCt+gDbX1vPJR5sfgKGdRs",
   "tracks": [
     {
       "added_at": "2024-08-06 22:00:00",
@@ -47,30 +47,6 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Lip Combo",
-        "url": "https://open.spotify.com/album/277TqVAcStMNXa1Tta9cXT"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "D.Basto",
-          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
-        },
-        {
-          "name": "l0rna",
-          "url": "https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Lip Combo",
-      "url": "https://open.spotify.com/track/2XBPRlrllcXr790bNLJwjS"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
         "name": "Cuatricrom\u00eda",
         "url": "https://open.spotify.com/album/18UM58huO9mAZwvKDPhOvw"
       },
@@ -83,22 +59,6 @@
       "duration_ms": 243773,
       "name": "Dramas y comedias",
       "url": "https://open.spotify.com/track/0XxJX5RIwUkX37UIdGZu9C"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
-        "name": "ENGATUSAO =^.^=",
-        "url": "https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S"
-      },
-      "artists": [
-        {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
-        }
-      ],
-      "duration_ms": 148383,
-      "name": "ENGATUSAO =^.^=",
-      "url": "https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -119,18 +79,18 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Culpable o No (Mi\u00e9nteme Como Siempre)",
-        "url": "https://open.spotify.com/album/6rpnaDugPy1wKi2LeUKcQh"
+        "name": "ENGATUSAO =^.^=",
+        "url": "https://open.spotify.com/album/6VAQrU9cMD2HbLEg6lkw8S"
       },
       "artists": [
         {
-          "name": "Roc\u00edo Saiz",
-          "url": "https://open.spotify.com/artist/6J7Piqvg9Y5aIOFq6DuJtm"
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Culpable O No (Mi\u00e9nteme Como Siempre)",
-      "url": "https://open.spotify.com/track/4GoHPcy4Nre6w9KjE1t2Zc"
+      "duration_ms": 148383,
+      "name": "ENGATUSAO =^.^=",
+      "url": "https://open.spotify.com/track/00MEN35cUoB4rp00iZuiFV"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -147,6 +107,46 @@
       "duration_ms": 179946,
       "name": "Nada Importa Tanto",
       "url": "https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "Culpable o No (Mi\u00e9nteme Como Siempre)",
+        "url": "https://open.spotify.com/album/6rpnaDugPy1wKi2LeUKcQh"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo Saiz",
+          "url": "https://open.spotify.com/artist/6J7Piqvg9Y5aIOFq6DuJtm"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Culpable O No (Mi\u00e9nteme Como Siempre)",
+      "url": "https://open.spotify.com/track/4GoHPcy4Nre6w9KjE1t2Zc"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "Lip Combo",
+        "url": "https://open.spotify.com/album/277TqVAcStMNXa1Tta9cXT"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "D.Basto",
+          "url": "https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF"
+        },
+        {
+          "name": "l0rna",
+          "url": "https://open.spotify.com/artist/2kFBKRwutklbaGSKBpc6TS"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Lip Combo",
+      "url": "https://open.spotify.com/track/2XBPRlrllcXr790bNLJwjS"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -415,6 +415,42 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
+        "name": "Generaci\u00f3n de Cristal",
+        "url": "https://open.spotify.com/album/6Ypvyl8kqqTy3SMDZweZ8Y"
+      },
+      "artists": [
+        {
+          "name": "LUNA KI",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "duration_ms": 166431,
+      "name": "Cuatro Bodas",
+      "url": "https://open.spotify.com/track/0Ktk8t0AuvCI5iBYA3F2nM"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "La Magia de Tu Melena",
+        "url": "https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Cuevas",
+          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
+        },
+        {
+          "name": "ORTIGA",
+          "url": "https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6"
+        }
+      ],
+      "duration_ms": 186500,
+      "name": "La Magia de Tu Melena",
+      "url": "https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
         "name": "Special K",
         "url": "https://open.spotify.com/album/3IlmoET8hmw33UHeZFyscK"
       },
@@ -443,22 +479,18 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "La Magia de Tu Melena",
-        "url": "https://open.spotify.com/album/5skve00VQ4XaOUQqqD3XRw"
+        "name": "Morreo (feat. The Calorettes)",
+        "url": "https://open.spotify.com/album/38ESuk2hs3XlGRWfat9CRI"
       },
       "artists": [
         {
-          "name": "Rodrigo Cuevas",
-          "url": "https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO"
-        },
-        {
-          "name": "ORTIGA",
-          "url": "https://open.spotify.com/artist/1lUJB2u64xeYmvpGeoIuR6"
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
         }
       ],
-      "duration_ms": 186500,
-      "name": "La Magia de Tu Melena",
-      "url": "https://open.spotify.com/track/2pfgvbJXsmSGXdR98Aemvv"
+      "duration_ms": 193100,
+      "name": "Morreo (feat. The Calorettes)",
+      "url": "https://open.spotify.com/track/1RhBu9BaN4GAUZbAPbuKhP"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -475,22 +507,6 @@
       "duration_ms": 159056,
       "name": "Nunca Llega 05",
       "url": "https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
-        "name": "Morreo (feat. The Calorettes)",
-        "url": "https://open.spotify.com/album/38ESuk2hs3XlGRWfat9CRI"
-      },
-      "artists": [
-        {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
-        }
-      ],
-      "duration_ms": 193100,
-      "name": "Morreo (feat. The Calorettes)",
-      "url": "https://open.spotify.com/track/1RhBu9BaN4GAUZbAPbuKhP"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -631,6 +647,22 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
+        "name": "Si es contigo si",
+        "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        }
+      ],
+      "duration_ms": 146784,
+      "name": "Si es contigo si",
+      "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
         "name": "AMOR MALDITO",
         "url": "https://open.spotify.com/album/0cFVXOmtqkTd51GPBLIcAl"
       },
@@ -651,38 +683,6 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Si es contigo si",
-        "url": "https://open.spotify.com/album/3GzUwScv8d3UskxWWj6480"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        }
-      ],
-      "duration_ms": 146784,
-      "name": "Si es contigo si",
-      "url": "https://open.spotify.com/track/3e4v184cFsZZdy9gEk9S6f"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e"
-      },
-      "artists": [
-        {
-          "name": "AXHE",
-          "url": "https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
         "name": "LAS 12",
         "url": "https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 147895,
       "name": "LAS 12",
       "url": "https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi"
+    },
+    {
+      "added_at": "2024-08-06 22:00:00",
+      "album": {
+        "name": "Collar Fular",
+        "url": "https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP"
+      },
+      "artists": [
+        {
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+        }
+      ],
+      "duration_ms": 132680,
+      "name": "Collar Fular",
+      "url": "https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -715,18 +731,18 @@
     {
       "added_at": "2024-08-06 22:00:00",
       "album": {
-        "name": "Collar Fular",
-        "url": "https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP"
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e"
       },
       "artists": [
         {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+          "name": "AXHE",
+          "url": "https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe"
         }
       ],
-      "duration_ms": 132680,
-      "name": "Collar Fular",
-      "url": "https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ"
+      "duration_ms": 153600,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN"
     },
     {
       "added_at": "2024-08-06 22:00:00",
@@ -903,22 +919,6 @@
       "duration_ms": 225000,
       "name": "Disfraz de tigre",
       "url": "https://open.spotify.com/track/5cME04YK44GYaVeVHMTbdL"
-    },
-    {
-      "added_at": "2024-08-06 22:00:00",
-      "album": {
-        "name": "Aitana O'Ca\u00f1a",
-        "url": "https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u"
-      },
-      "artists": [
-        {
-          "name": "Turista Sueca",
-          "url": "https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7"
-        }
-      ],
-      "duration_ms": 172378,
-      "name": "Aitana O'Ca\u00f1a",
-      "url": "https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU"
     },
     {
       "added_at": "2024-08-06 22:00:00",

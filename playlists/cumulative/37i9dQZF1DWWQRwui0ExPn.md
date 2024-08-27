@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,925 songs - 10 day 22 hr 32 min
+6,926 songs - 10 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1260,7 +1260,7 @@
 | [Comfort Zone](https://open.spotify.com/track/05OLav4TT1ys02hEq6UKLW) | [Nick Mosh](https://open.spotify.com/artist/5ZprAKTt6mHV0qSdABSUPx), [MAFFYN](https://open.spotify.com/artist/7i6UGI2zH0k1SsPgfFCB1S), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Comfort Zone](https://open.spotify.com/album/6LYZy00TD5OHpcOPZuk9Ij) | 2:00 | 2022-12-02 | 2023-12-01 |
 | [Comfortable Issues](https://open.spotify.com/track/7rC7qu57qKC7c7r0KJ7DVk) | [Giorgio Robertini](https://open.spotify.com/artist/3CfYXa3IM5nDW2rzaVRQRV) | [Dusk till Dawn](https://open.spotify.com/album/1dKsRlj4Znuyz6NfCer4mk) | 2:00 | 2023-10-06 | 2024-03-15 |
 | [comin 4 ya](https://open.spotify.com/track/6ld2KFMZCkKtf3PBCJDqaH) | [Analog Sunset](https://open.spotify.com/artist/1b5zsebDdBntav2svPU0TZ) | [comin 4 ya](https://open.spotify.com/album/02owCKt9bWzEiftAGO02lh) | 2:24 | 2021-10-20 | 2022-04-15 |
-| [Coming Home](https://open.spotify.com/track/5YTpeipC04dmLuWgP6lVVo) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Coming Home](https://open.spotify.com/album/3vdfBMFxJsU8mORPKwIlIA) | 2:32 | 2024-02-16 |  |
+| [Coming Home](https://open.spotify.com/track/5YTpeipC04dmLuWgP6lVVo) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Coming Home](https://open.spotify.com/album/3vdfBMFxJsU8mORPKwIlIA) | 2:32 | 2024-02-16 | 2024-08-27 |
 | [Committed To The Beat](https://open.spotify.com/track/0W9OwdBkPx3wY1ObtDKbmc) | [Spiral Groove](https://open.spotify.com/artist/1gWC6rCLFzEeh7k62E1Ah0) | [Committed To The Beat](https://open.spotify.com/album/15daiezQeFXSABiDMKOFHg) | 1:47 | 2022-10-28 |  |
 | [Community](https://open.spotify.com/track/49L13iy30mE0SJ8WnThTTX) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Community](https://open.spotify.com/album/1PyeIA6UAqtpYAF8nDUaTy) | 1:44 | 2022-08-12 | 2022-11-25 |
 | [Compass](https://open.spotify.com/track/1h5xl9Dylis2CE8DFboUdH) | [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx), [Cloud Break](https://open.spotify.com/artist/5tcXTOoVIDRSfvwgOAy3OE) | [Compass](https://open.spotify.com/album/54fsmuCTC6EFIU4L8ioBoO) | 2:51 | 2022-11-25 | 2023-09-16 |
@@ -4934,6 +4934,7 @@
 | [Retrospect](https://open.spotify.com/track/7GrnkPxmpbi5frSNhvf9hC) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [Retrospect](https://open.spotify.com/album/0xECqF1m5hzCy9t5Pqqbtt) | 2:29 | 2021-12-17 | 2022-06-24 |
 | [Return Of The Bug](https://open.spotify.com/track/1rcimlP0q8mZjz1oNly2MT) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Return Of The Bug](https://open.spotify.com/album/0UbTCWZu8JsCE67BsiUcyZ) | 2:12 | 2023-01-13 | 2023-11-11 |
 | [Return Of The Cake](https://open.spotify.com/track/7hncde8jjBRQJvv4stz6QT) | [Cutecake](https://open.spotify.com/artist/4siWS58eyzzQFTp3XJYKin) | [Return Of The Cake](https://open.spotify.com/album/7HhDlRiipcHrjQdRCnqCbI) | 1:54 | 2023-12-01 |  |
+| [Reverie](https://open.spotify.com/track/0tKIh3OneNtKW30mI4yUOE) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Reverie](https://open.spotify.com/album/2kZElyS24jXBzQZ51fVT45) | 3:00 | 2024-08-23 |  |
 | [Reverie](https://open.spotify.com/track/6uwQ8WuHyJ4OgmQrrM9f4m) | [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7) | [Reverie](https://open.spotify.com/album/26kYzDDE0R8JjovmxKns7L) | 2:25 | 2024-03-15 |  |
 | [Reverie](https://open.spotify.com/track/7t72V2dKD4Fkcyk2IIGoVy) | [lofi geek](https://open.spotify.com/artist/1hqeRW1EQZ1flf02acnGVU) | [Shining Sun \(Lofi Hip Hop\)](https://open.spotify.com/album/6evgvWrQQ10gDjDMwQSjnU) | 3:10 | 2022-01-04 | 2022-07-08 |
 | [Reverie](https://open.spotify.com/track/7IOjCUl7RBwXDHSmheWbvK) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP) | [Reverie](https://open.spotify.com/album/6TCyI0UIhnvQp4snaZ1gbd) | 2:26 | 2023-07-27 | 2023-09-30 |

@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59205,
+  "num_followers": 59201,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Maskinen \u00e4r tillbaka",
-        "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
-      },
-      "artists": [
-        {
-          "name": "Maskinen",
-          "url": "https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf"
-        }
-      ],
-      "duration_ms": 139836,
-      "name": "Maskinen \u00e4r tillbaka",
-      "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "When she holds me",
         "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 243440,
       "name": "When she holds me",
       "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Maskinen \u00e4r tillbaka",
+        "url": "https://open.spotify.com/album/77XVwKfKdyawzhtiiU3ljm"
+      },
+      "artists": [
+        {
+          "name": "Maskinen",
+          "url": "https://open.spotify.com/artist/6nDcZd5c9z3OS5hWvCsWBf"
+        }
+      ],
+      "duration_ms": 139836,
+      "name": "Maskinen \u00e4r tillbaka",
+      "url": "https://open.spotify.com/track/2qvgrcWLxkvdZCXJVzh7Yw"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl"
-      },
-      "artists": [
-        {
-          "name": "Goldielocks",
-          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Empty the Bags",
         "url": "https://open.spotify.com/album/6MP8gKSOp9vKmAHkic3lse"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 153559,
       "name": "Empty the Bags",
       "url": "https://open.spotify.com/track/4gVIuiS7OxA8DjabaINZR0"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/3CXIT7GzHOuW0pQRYYYCdl"
+      },
+      "artists": [
+        {
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/5uFJXfZjZULwfZpxhKGbhT"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Might Destroy You",
-        "url": "https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe"
-      },
-      "artists": [
-        {
-          "name": "Hanne Mj\u00f8en",
-          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Might Destroy You",
-      "url": "https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Black Lake",
         "url": "https://open.spotify.com/album/7e4KbLhXLMtAISnyc9mSQJ"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 175555,
       "name": "Black Lake",
       "url": "https://open.spotify.com/track/4jQsY9gkKNevXHvdXS16aI"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Might Destroy You",
+        "url": "https://open.spotify.com/album/6wreWP88Dq9htpmXBz0qQe"
+      },
+      "artists": [
+        {
+          "name": "Hanne Mj\u00f8en",
+          "url": "https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Might Destroy You",
+      "url": "https://open.spotify.com/track/58tteWR7XWQwM7sfH6hDaP"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "22 (feat. Nadja Evelina)",
+        "url": "https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak"
+      },
+      "artists": [
+        {
+          "name": "Tjejdikter",
+          "url": "https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc"
+        },
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "duration_ms": 173675,
+      "name": "22 (feat. Nadja Evelina)",
+      "url": "https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Sandy Karlo",
         "url": "https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 167479,
       "name": "HON SA",
       "url": "https://open.spotify.com/track/7Fm1A727O2wgbWcGyp15p8"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "22 (feat. Nadja Evelina)",
-        "url": "https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak"
-      },
-      "artists": [
-        {
-          "name": "Tjejdikter",
-          "url": "https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc"
-        },
-        {
-          "name": "Nadja Evelina",
-          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
-        }
-      ],
-      "duration_ms": 173675,
-      "name": "22 (feat. Nadja Evelina)",
-      "url": "https://open.spotify.com/track/0scqi9Ay3rmAV2gm8di8VA"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Sjung om (lyxversion)",
-        "url": "https://open.spotify.com/album/0ncTdDynh14mkzhC6KHfJ2"
-      },
-      "artists": [
-        {
-          "name": "Strobaek",
-          "url": "https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp"
-        }
-      ],
-      "duration_ms": 159963,
-      "name": "Ditt hj\u00e4rta bor",
-      "url": "https://open.spotify.com/track/61HiBDc2oUSHectbGwr7GU"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Days Like These",
         "url": "https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 191073,
       "name": "P\u00e5 sommaren",
       "url": "https://open.spotify.com/track/4zcVspiimgdU7VOGCNBLLB"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Sjung om (lyxversion)",
+        "url": "https://open.spotify.com/album/0ncTdDynh14mkzhC6KHfJ2"
+      },
+      "artists": [
+        {
+          "name": "Strobaek",
+          "url": "https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp"
+        }
+      ],
+      "duration_ms": 159963,
+      "name": "Ditt hj\u00e4rta bor",
+      "url": "https://open.spotify.com/track/61HiBDc2oUSHectbGwr7GU"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Pussycat.",
-        "url": "https://open.spotify.com/album/3SkhxORgSxmzQ4t9d4vrQs"
+        "name": "Ce Soir?",
+        "url": "https://open.spotify.com/album/5kqT56WuYXU7Tc5TAsrOB1"
       },
       "artists": [
         {
           "name": "\u00c4ngie",
           "url": "https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw"
-        },
-        {
-          "name": "Skoj",
-          "url": "https://open.spotify.com/artist/4uzSrpMGBFoDhRzprCuP5E"
         }
       ],
-      "duration_ms": 236842,
-      "name": "Pussycat.",
-      "url": "https://open.spotify.com/track/3hYukOigwKrMYWsBdsbLR2"
+      "duration_ms": 198005,
+      "name": "Ce Soir?",
+      "url": "https://open.spotify.com/track/7GoTVYMzXGwdFZBOwKlKga"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1191,6 +1187,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "No Fun",
+        "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 199683,
+      "name": "No Fun",
+      "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/2k3xxJO6AKW6xfIsfu4kGH"
       },
@@ -1207,18 +1219,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "No Fun",
-        "url": "https://open.spotify.com/album/0EsVZT9jNfgQNkKcAXqNYb"
+        "name": "Sjuk i Huvudet \u2013 Paul Gascoigne",
+        "url": "https://open.spotify.com/album/1cBXxeObgl62kfqZOH8oDq"
       },
       "artists": [
         {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+          "name": "Avantgardet",
+          "url": "https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ"
         }
       ],
-      "duration_ms": 199683,
-      "name": "No Fun",
-      "url": "https://open.spotify.com/track/1AdgVWMgeSZNj59u16F0gV"
+      "duration_ms": 270250,
+      "name": "Sjuk i Huvudet",
+      "url": "https://open.spotify.com/track/74mqrObPeUlI7eOO1ZM9UE"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1259,6 +1271,42 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Pussycat.",
+        "url": "https://open.spotify.com/album/3SkhxORgSxmzQ4t9d4vrQs"
+      },
+      "artists": [
+        {
+          "name": "\u00c4ngie",
+          "url": "https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw"
+        },
+        {
+          "name": "Skoj",
+          "url": "https://open.spotify.com/artist/4uzSrpMGBFoDhRzprCuP5E"
+        }
+      ],
+      "duration_ms": 236842,
+      "name": "Pussycat.",
+      "url": "https://open.spotify.com/track/3hYukOigwKrMYWsBdsbLR2"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "B\u00f6rjan p\u00e5 ingenting",
+        "url": "https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD"
+      },
+      "artists": [
+        {
+          "name": "Anna J\u00e4rvinen",
+          "url": "https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR"
+        }
+      ],
+      "duration_ms": 210141,
+      "name": "B\u00f6rjan p\u00e5 ingenting",
+      "url": "https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Se p\u00e5 oss",
         "url": "https://open.spotify.com/album/4X3XRBILtUAjOvUbjXqcyY"
       },
@@ -1271,22 +1319,6 @@
       "duration_ms": 209327,
       "name": "Se p\u00e5 oss",
       "url": "https://open.spotify.com/track/2M6lbPDPhQeJD8Pf23snPP"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Ce Soir?",
-        "url": "https://open.spotify.com/album/5kqT56WuYXU7Tc5TAsrOB1"
-      },
-      "artists": [
-        {
-          "name": "\u00c4ngie",
-          "url": "https://open.spotify.com/artist/3pgtze01npIBY3DCDD5flw"
-        }
-      ],
-      "duration_ms": 198005,
-      "name": "Ce Soir?",
-      "url": "https://open.spotify.com/track/7GoTVYMzXGwdFZBOwKlKga"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1339,22 +1371,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Sjuk i Huvudet \u2013 Paul Gascoigne",
-        "url": "https://open.spotify.com/album/1cBXxeObgl62kfqZOH8oDq"
-      },
-      "artists": [
-        {
-          "name": "Avantgardet",
-          "url": "https://open.spotify.com/artist/7eX1F6FIRszrebMLdM1BpQ"
-        }
-      ],
-      "duration_ms": 270250,
-      "name": "Sjuk i Huvudet",
-      "url": "https://open.spotify.com/track/74mqrObPeUlI7eOO1ZM9UE"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Hey Little Love",
         "url": "https://open.spotify.com/album/6xTYdiLnMPxflJl2NeJOF9"
       },
@@ -1387,18 +1403,38 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "B\u00f6rjan p\u00e5 ingenting",
-        "url": "https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD"
+        "name": "Utan Dig (oh nej)",
+        "url": "https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv"
       },
       "artists": [
         {
-          "name": "Anna J\u00e4rvinen",
-          "url": "https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR"
+          "name": "Laura Toth",
+          "url": "https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22"
+        },
+        {
+          "name": "Albin Lo\u00e1n",
+          "url": "https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga"
         }
       ],
-      "duration_ms": 210141,
-      "name": "B\u00f6rjan p\u00e5 ingenting",
-      "url": "https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK"
+      "duration_ms": 157031,
+      "name": "Utan Dig (oh nej)",
+      "url": "https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "phonetic",
+        "url": "https://open.spotify.com/album/3TSmKJKQneZCgLhLOJ3iTf"
+      },
+      "artists": [
+        {
+          "name": "Haley Bridge",
+          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "phonetic",
+      "url": "https://open.spotify.com/track/58xtrlvib5PVvshQ4u3oPC"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1431,26 +1467,6 @@
       "duration_ms": 159764,
       "name": "Born a Riot",
       "url": "https://open.spotify.com/track/6bdTCyQozk9a7mBfNHzSYb"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Utan Dig (oh nej)",
-        "url": "https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv"
-      },
-      "artists": [
-        {
-          "name": "Laura Toth",
-          "url": "https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22"
-        },
-        {
-          "name": "Albin Lo\u00e1n",
-          "url": "https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga"
-        }
-      ],
-      "duration_ms": 157031,
-      "name": "Utan Dig (oh nej)",
-      "url": "https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "phonetic",
-        "url": "https://open.spotify.com/album/3TSmKJKQneZCgLhLOJ3iTf"
-      },
-      "artists": [
-        {
-          "name": "Haley Bridge",
-          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "phonetic",
-      "url": "https://open.spotify.com/track/58xtrlvib5PVvshQ4u3oPC"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/4BUh2zPQLBmXid1WIGx1YP"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 153165,
       "name": "Closer To You",
       "url": "https://open.spotify.com/track/3KKJs4wcsgwapvvtG9VKjV"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Trouble in Paradise",
+        "url": "https://open.spotify.com/album/3k2wn8fQ47FSKZVLibgFiY"
+      },
+      "artists": [
+        {
+          "name": "XOV",
+          "url": "https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv"
+        }
+      ],
+      "duration_ms": 204489,
+      "name": "Trouble in Paradise",
+      "url": "https://open.spotify.com/track/0YFPpk8QJCKIoLrhqBOj0y"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1583,22 +1599,6 @@
       "duration_ms": 159250,
       "name": "Jackrabbit",
       "url": "https://open.spotify.com/track/4YJwViRMJjbnCmBCtBAaZM"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Trouble in Paradise",
-        "url": "https://open.spotify.com/album/3k2wn8fQ47FSKZVLibgFiY"
-      },
-      "artists": [
-        {
-          "name": "XOV",
-          "url": "https://open.spotify.com/artist/58jXqrbY8mAk006MNu3NCv"
-        }
-      ],
-      "duration_ms": 204489,
-      "name": "Trouble in Paradise",
-      "url": "https://open.spotify.com/track/0YFPpk8QJCKIoLrhqBOj0y"
     },
     {
       "added_at": "2024-08-22 22:00:00",

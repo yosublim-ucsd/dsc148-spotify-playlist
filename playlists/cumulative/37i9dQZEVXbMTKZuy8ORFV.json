@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 223255,
       "name": "Bla, Bla, Bla",
       "url": "https://open.spotify.com/track/7LObVUWVLHGG3iSrVUarmu"
@@ -2603,6 +2603,24 @@
     },
     {
       "album": {
+        "name": "Como Yo Sufr\u00ed",
+        "url": "https://open.spotify.com/album/6VwKKtk3Hhb3bAJNkS0z7r"
+      },
+      "artists": [
+        {
+          "name": "Las Conquistadoras de Potos\u00ed",
+          "url": "https://open.spotify.com/artist/7y73O77yTy9SiKNVOJFCGl"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199811,
+      "name": "Como Yo Sufr\u00ed",
+      "url": "https://open.spotify.com/track/3Zr7uoiVfw5HVjsdAI4R9t"
+    },
+    {
+      "album": {
         "name": "Berl\u00edn (Soundtrack de la serie de Netflix)",
         "url": "https://open.spotify.com/album/6SmaGloomWUWNlpCWJCUzU"
       },
@@ -3232,7 +3250,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 115921,
       "name": "did i tell u that i miss u",
       "url": "https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt"
@@ -7498,7 +7516,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 80754,
       "name": "Montagem Bi\u00f4n\u00edca Espectral 2",
       "url": "https://open.spotify.com/track/2IrBwLPRPWoqVjWPJ9qkUN"
@@ -8002,7 +8020,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 258413,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j"
@@ -11112,7 +11130,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-14",
+      "date_removed": null,
       "duration_ms": 157593,
       "name": "S\u00f3lida",
       "url": "https://open.spotify.com/track/7eTTWunsR2Z1z5plDYKk6C"
@@ -12716,7 +12734,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 486840,
       "name": "Weightless Part 1",
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"
@@ -13402,7 +13420,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 169951,
       "name": "You Will Never Know It",
       "url": "https://open.spotify.com/track/75GhyGaBPZnFnCHIYo3mvQ"

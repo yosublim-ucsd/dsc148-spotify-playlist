@@ -1181,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "Dicks & Drugs",
+        "url": "https://open.spotify.com/album/5OFfK0XP6XjjPjaMIc5NGz"
+      },
+      "artists": [
+        {
+          "name": "Only Fire",
+          "url": "https://open.spotify.com/artist/4Cp42FwqEytHeaudurPKiN"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Dicks & Drugs",
+      "url": "https://open.spotify.com/track/4EExOQDRSvYKVadQ7Eg7LF"
+    },
+    {
+      "album": {
         "name": "Do Dat Baby",
         "url": "https://open.spotify.com/album/2qvRboRK59jvKqYS0MMyi0"
       },
@@ -3682,7 +3700,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 200624,
       "name": "On Your Face",
       "url": "https://open.spotify.com/track/57KwSEAm0ac9yiM0KZUo98"
@@ -3812,6 +3830,24 @@
       "duration_ms": 225940,
       "name": "PERSONALIDAD CONTROL (A Tribute to Leiomy)",
       "url": "https://open.spotify.com/track/1DXhcFfChBHkwcaVsb15ih"
+    },
+    {
+      "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/4ubV3S1cCFNl1bD3V0wpkp"
+      },
+      "artists": [
+        {
+          "name": "Comanavago",
+          "url": "https://open.spotify.com/artist/2UC2VMVP6wuURHTgns8OoP"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204723,
+      "name": "Pleasure",
+      "url": "https://open.spotify.com/track/1kLDRsnkreQD4UTf8kHg51"
     },
     {
       "album": {
@@ -4286,7 +4322,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 138461,
       "name": "SAVE ME",
       "url": "https://open.spotify.com/track/7xhFzIWVrWjfbPumBXVSvh"

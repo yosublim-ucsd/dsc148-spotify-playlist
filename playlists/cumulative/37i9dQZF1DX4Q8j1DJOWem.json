@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/1LLHRg01Vb5my1oq6FCQVc"
+      },
+      "artists": [
+        {
+          "name": "2Ectasy",
+          "url": "https://open.spotify.com/artist/4WXkCBHyUCfIPPZrZFcP5m"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123680,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/7vMTgmx2xtN0yUWf47fjEI"
+    },
+    {
+      "album": {
         "name": "PERSES FIRST EP MY TIME",
         "url": "https://open.spotify.com/album/0XNIQbcMBIXSIal5BeBcoK"
       },
@@ -114,6 +132,24 @@
       "duration_ms": 228000,
       "name": "Because of You, I Shine",
       "url": "https://open.spotify.com/track/4Apva8F7YKYyqwOCGfCnK6"
+    },
+    {
+      "album": {
+        "name": "Love & Limerence",
+        "url": "https://open.spotify.com/album/3QI3Yxmiebv6OWPw2wU2Nh"
+      },
+      "artists": [
+        {
+          "name": "Newery",
+          "url": "https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "beginner",
+      "url": "https://open.spotify.com/track/4bcfiaTv3id9jpqhyDv2uV"
     },
     {
       "album": {
@@ -2303,6 +2339,24 @@
     },
     {
       "album": {
+        "name": "\u0e20\u0e32\u0e1e\u0e40\u0e23\u0e32 (Good Quality Picture) - From \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c",
+        "url": "https://open.spotify.com/album/6NdafPrIJrOaBxyaytrqQ6"
+      },
+      "artists": [
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295205,
+      "name": "\u0e20\u0e32\u0e1e\u0e40\u0e23\u0e32 (Good Quality Picture) - From \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c",
+      "url": "https://open.spotify.com/track/7gdRZLMXECnJ8HnZYm5N23"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e31\u0e19\u0e08\u0e30\u0e44\u0e21\u0e48\u0e21\u0e35\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e49\u0e07",
         "url": "https://open.spotify.com/album/0ya2sMCdsVp5FrnTr0agDF"
       },
@@ -3099,7 +3153,7 @@
     },
     {
       "album": {
-        "name": "\u0e40\u0e1f\u0e35\u0e49\u0e22\u0e27 (Ost. \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c)",
+        "name": "\u0e40\u0e1f\u0e35\u0e49\u0e22\u0e27 - From \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c",
         "url": "https://open.spotify.com/album/0qVPQ3HfsbAkdKyiakDBkr"
       },
       "artists": [
@@ -3110,9 +3164,9 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 260250,
-      "name": "\u0e40\u0e1f\u0e35\u0e49\u0e22\u0e27 - Ost. \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c",
+      "name": "\u0e40\u0e1f\u0e35\u0e49\u0e22\u0e27 - From \u0e1a\u0e31\u0e2a \u0e0b\u0e34\u0e48\u0e07 \u0e44\u0e17\u0e22\u0e41\u0e25\u0e19\u0e14\u0e4c",
       "url": "https://open.spotify.com/track/0H1rhRyBH1reSi3Qac8Y2j"
     },
     {

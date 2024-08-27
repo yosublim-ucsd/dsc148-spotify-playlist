@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VI DRICKER CAVA APERÅÅÅL!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,467 likes - 101 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,459 likes - 101 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sunnanvind – Spotify Singles](https://open.spotify.com/track/2wWa1fgvYOKr8GpD17hWKD) | [LBSB](https://open.spotify.com/artist/2iUVnGKQclQfYjdHGSZcX0), [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Sunnanvind – Spotify Singles](https://open.spotify.com/album/3mSCGK6BTUkpmQZDol3GWE) | 2:49 |
-| 2 | [SALUT](https://open.spotify.com/track/0Jab14UOkQmoEI3TD3dLoT) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [SALUT](https://open.spotify.com/album/5THfAWozZCbmmp85YTw6Zg) | 2:21 |
+| 2 | [Salut \- Sped Up Remix](https://open.spotify.com/track/3WBuGQ1ZQi72TY8HXrcK7V) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Salut \- Sped Up Remix](https://open.spotify.com/album/5x9vEH7SOMu1l1xUyfAGpP) | 2:16 |
 | 3 | [Sommaren i City \- J.O.X Remix](https://open.spotify.com/track/3mhObEHNGu5U3HbqhXbxJ1) | [Angel](https://open.spotify.com/artist/7FjElQ2FxgAbDGSrcE7K6O), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Sommaren i City \(J.O.X Remix\)](https://open.spotify.com/album/1ZyFzt5WRBP91HukhcpxYI) | 3:01 |
 | 4 | [STAD I LJUS](https://open.spotify.com/track/4EHf5UbCLV32VDlOADJhhP) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ) | [STAD I LJUS](https://open.spotify.com/album/46BMYtskic5x0EyIGb6uBW) | 2:14 |
 | 5 | [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 16 | [TUSEN NÅLAR](https://open.spotify.com/track/5z0UllNPT2swlvfxB3r5S5) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj) | [TUSEN NÅLAR](https://open.spotify.com/album/3WBOF10HYehEySNURAQAVu) | 2:41 |
 | 17 | [LOLLIPOP damp \- Remix](https://open.spotify.com/track/0kLRSE9ExKGOHrRXr9zBHj) | [STRÖGPATRULLEN](https://open.spotify.com/artist/1m78ax5pMX3SdETnUbWVTt), [DJ Pøssycat](https://open.spotify.com/artist/66ntWKCgzPLbNgoZ5lTUmq) | [LOLLIPOP damp \(Remix\)](https://open.spotify.com/album/7dIJJICp0lpLmbcmB97vdb) | 1:54 |
 | 18 | [HELA HUSET \- REMIX](https://open.spotify.com/track/11tf269cUjx9F8qDY9QCY9) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH), [demz](https://open.spotify.com/artist/0V65obbIm4ysdmv3C3HcYj), [Kattastrof](https://open.spotify.com/artist/3n82Yo7bU7Bj2yHBScFuKJ) | [HELA HUSET \(REMIX\)](https://open.spotify.com/album/1S2bA7rY8Kk7S8lGKIGbnk) | 2:15 |
-| 19 | [VILD REMIX](https://open.spotify.com/track/1JqS278L4nNTut3zOTeZI4) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [VILD REMIX](https://open.spotify.com/album/15YiwnIqBppC4yVypPf9GV) | 1:43 |
-| 20 | [Salut \- Sped Up Remix](https://open.spotify.com/track/3WBuGQ1ZQi72TY8HXrcK7V) | [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Salut \- Sped Up Remix](https://open.spotify.com/album/5x9vEH7SOMu1l1xUyfAGpP) | 2:16 |
+| 19 | [SALUT](https://open.spotify.com/track/0Jab14UOkQmoEI3TD3dLoT) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6) | [SALUT](https://open.spotify.com/album/5THfAWozZCbmmp85YTw6Zg) | 2:21 |
+| 20 | [VILD REMIX](https://open.spotify.com/track/1JqS278L4nNTut3zOTeZI4) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [VILD REMIX](https://open.spotify.com/album/15YiwnIqBppC4yVypPf9GV) | 1:43 |
 | 21 | [SÅNG OM INGENTING](https://open.spotify.com/track/4e97L7ZuaBbOnhpTPo8RGU) | [Perra & Berra](https://open.spotify.com/artist/6YWMML4Yz4GNbHprht9tud) | [SÅNG OM INGENTING](https://open.spotify.com/album/16715YItb4f098HSzmjkmN) | 1:50 |
 | 22 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
 | 23 | [Kalle Teodor](https://open.spotify.com/track/2gHJ9W1tnqD6W9KvqSGJg8) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [Emma Blyfors](https://open.spotify.com/artist/5V364OVjvwYxKrPKjyrxp3) | [Kalle Teodor](https://open.spotify.com/album/5R9eRWwDxa9x34P5jjCawD) | 2:06 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 100 | [GAMMAL I GEMET](https://open.spotify.com/track/2EbK8nlyOYm6MHvkALytMW) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GAMMAL I GEMET](https://open.spotify.com/album/1EqJfYrvI9T3FbvKWyPWkz) | 2:39 |
 | 101 | [EN GÅNG TILL](https://open.spotify.com/track/2Yx3zbKVkim7W19MWm06Up) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [EN GÅNG TILL](https://open.spotify.com/album/3yu6mnpWIbRyYmddifko1A) | 2:21 |
 
-Snapshot ID: `Zse04AAAAAAnltDHCTh2EjzpUSorN2Gd`
+Snapshot ID: `ZswuQAAAAAD3xpqrwzTWTvzSO5yRXV9Z`

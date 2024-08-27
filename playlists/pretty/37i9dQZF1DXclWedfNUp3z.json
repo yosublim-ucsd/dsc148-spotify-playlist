@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 225084,
+  "num_followers": 225142,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/3kv41hhvbb2lM2yNnR7MCw"
     },
     {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Rothko Chapel",
+        "url": "https://open.spotify.com/album/63WHCdmhhPgOHiRrSRQ0NO"
+      },
+      "artists": [
+        {
+          "name": "Morton Feldman",
+          "url": "https://open.spotify.com/artist/3Vmj59eAzsbiISxcCBHRCM"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Rothko Chapel 5",
+      "url": "https://open.spotify.com/track/3ci95cJaK7fYZN3o9YBTXf"
+    },
+    {
       "added_at": "2024-03-21 23:36:43",
       "album": {
         "name": "I\u2019ll Do Whatever You Want",
@@ -739,22 +755,6 @@
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/7tv000vU2ikgKNUNmGDeKV"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Rothko Chapel",
-        "url": "https://open.spotify.com/album/63WHCdmhhPgOHiRrSRQ0NO"
-      },
-      "artists": [
-        {
-          "name": "Morton Feldman",
-          "url": "https://open.spotify.com/artist/3Vmj59eAzsbiISxcCBHRCM"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Rothko Chapel 5",
-      "url": "https://open.spotify.com/track/3ci95cJaK7fYZN3o9YBTXf"
     },
     {
       "added_at": "2022-05-18 01:37:47",
@@ -815,22 +815,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Music for Growing Plants",
-        "url": "https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM"
-      },
-      "artists": [
-        {
-          "name": "Christopher Stracey",
-          "url": "https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa"
-        }
-      ],
-      "duration_ms": 364133,
-      "name": "Beginning, Becoming",
-      "url": "https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Annual Flowers in Color",
         "url": "https://open.spotify.com/album/2lKc2An4mbMhJvlGqCmHYX"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 64000,
       "name": "The Geranium Room",
       "url": "https://open.spotify.com/track/6DJTf1VV8uDbjxSHbsdX3v"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Music for Growing Plants",
+        "url": "https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM"
+      },
+      "artists": [
+        {
+          "name": "Christopher Stracey",
+          "url": "https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa"
+        }
+      ],
+      "duration_ms": 364133,
+      "name": "Beginning, Becoming",
+      "url": "https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9"
     },
     {
       "added_at": "2022-07-15 05:32:15",
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/2XQxJLSTxO2YTmDyMl6qyG"
-      },
-      "artists": [
-        {
-          "name": "Marc Van Mourik",
-          "url": "https://open.spotify.com/artist/7s9gWdUK3IXsvkQP58Es4H"
-        }
-      ],
-      "duration_ms": 259042,
-      "name": "Pure",
-      "url": "https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Healing Collection: Quiet Comfort",
         "url": "https://open.spotify.com/album/4MFXS23gbKuJnROJ6RfS8b"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 964666,
       "name": "Dawn of the Forest",
       "url": "https://open.spotify.com/track/4adA7Fwkg19s4ajU7Nj7Ua"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/2XQxJLSTxO2YTmDyMl6qyG"
+      },
+      "artists": [
+        {
+          "name": "Marc Van Mourik",
+          "url": "https://open.spotify.com/artist/7s9gWdUK3IXsvkQP58Es4H"
+        }
+      ],
+      "duration_ms": 259042,
+      "name": "Pure",
+      "url": "https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
-      "added_at": "2022-11-09 01:04:49",
-      "album": {
-        "name": "#3 (Rhubarb)",
-        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 437138,
-      "name": "#3 (Rhubarb)",
-      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
-    },
-    {
       "added_at": "2024-01-11 21:49:59",
       "album": {
         "name": "Claro de Luna",
@@ -1057,6 +1041,22 @@
       "url": "https://open.spotify.com/track/7FIi8xh0J96N60yN1oE36r"
     },
     {
+      "added_at": "2022-11-09 01:04:49",
+      "album": {
+        "name": "#3 (Rhubarb)",
+        "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 437138,
+      "name": "#3 (Rhubarb)",
+      "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
+    },
+    {
       "added_at": "2022-03-11 05:36:29",
       "album": {
         "name": "Breeze",
@@ -1071,22 +1071,6 @@
       "duration_ms": 130666,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/6cwTa2hYzNX9N1adl81H08"
-    },
-    {
-      "added_at": "2022-05-18 01:57:21",
-      "album": {
-        "name": "Yo Soy",
-        "url": "https://open.spotify.com/album/747s4RXgjofySu3dDtvfdn"
-      },
-      "artists": [
-        {
-          "name": "Carope",
-          "url": "https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs"
-        }
-      ],
-      "duration_ms": 444800,
-      "name": "Yo Soy - (Versi\u00f3n Instrumental)",
-      "url": "https://open.spotify.com/track/6ysjsGCJYUsGSXN6F47jbV"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1107,6 +1091,22 @@
       "duration_ms": 235973,
       "name": "For Seconds at a Time",
       "url": "https://open.spotify.com/track/6dSo66w4jxsSL7d8bWHR33"
+    },
+    {
+      "added_at": "2022-05-18 01:57:21",
+      "album": {
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/747s4RXgjofySu3dDtvfdn"
+      },
+      "artists": [
+        {
+          "name": "Carope",
+          "url": "https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs"
+        }
+      ],
+      "duration_ms": 444800,
+      "name": "Yo Soy - (Versi\u00f3n Instrumental)",
+      "url": "https://open.spotify.com/track/6ysjsGCJYUsGSXN6F47jbV"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Pantano Lontano",
-        "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
-      },
-      "artists": [
-        {
-          "name": "Nodes",
-          "url": "https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv"
-        }
-      ],
-      "duration_ms": 341621,
-      "name": "Sin\u00fa",
-      "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
-    },
-    {
       "added_at": "2022-09-30 02:46:10",
       "album": {
         "name": "Music For Growing Flowers",
@@ -1223,6 +1207,22 @@
       "duration_ms": 368703,
       "name": "Music For Growing Flowers - Edit",
       "url": "https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Pantano Lontano",
+        "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
+      },
+      "artists": [
+        {
+          "name": "Nodes",
+          "url": "https://open.spotify.com/artist/7wr6W82k7PmCoyYgKKxmPv"
+        }
+      ],
+      "duration_ms": 341621,
+      "name": "Sin\u00fa",
+      "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
     },
     {
       "added_at": "2022-07-15 05:17:48",
@@ -1345,6 +1345,22 @@
       "url": "https://open.spotify.com/track/6PMvrdEgVKh5kzLaFmDMQt"
     },
     {
+      "added_at": "2022-01-11 00:18:40",
+      "album": {
+        "name": "Good Places",
+        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 266526,
+      "name": "Good Places",
+      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
+    },
+    {
       "added_at": "2023-05-16 04:54:42",
       "album": {
         "name": "OFFAIR: from the forest floor",
@@ -1369,22 +1385,6 @@
       "url": "https://open.spotify.com/track/0XHWlJxP9q5AfYnSyUeiM9"
     },
     {
-      "added_at": "2022-01-11 00:18:40",
-      "album": {
-        "name": "Good Places",
-        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 266526,
-      "name": "Good Places",
-      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
-    },
-    {
       "added_at": "2022-03-30 05:22:33",
       "album": {
         "name": "Moon",
@@ -1405,20 +1405,20 @@
       "url": "https://open.spotify.com/track/36buqw0d9Vb8LEtCSLOALu"
     },
     {
-      "added_at": "2024-02-26 21:43:29",
+      "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Mudita",
-        "url": "https://open.spotify.com/album/54Zk9JASCc4kYAnJHlOX2K"
+        "name": "Sova",
+        "url": "https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY"
       },
       "artists": [
         {
-          "name": "Marko Ivic",
-          "url": "https://open.spotify.com/artist/5LqMTuz0Lw3pN29tpmDE5C"
+          "name": "Guustavv",
+          "url": "https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX"
         }
       ],
-      "duration_ms": 377560,
-      "name": "Mudita",
-      "url": "https://open.spotify.com/track/7CYsCrteAXeSEADg1KyNvI"
+      "duration_ms": 132958,
+      "name": "Yawn Machine",
+      "url": "https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE"
     },
     {
       "added_at": "2022-01-14 15:16:39",
@@ -1437,20 +1437,20 @@
       "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
+      "added_at": "2024-02-26 21:43:29",
       "album": {
-        "name": "Sova",
-        "url": "https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY"
+        "name": "Mudita",
+        "url": "https://open.spotify.com/album/54Zk9JASCc4kYAnJHlOX2K"
       },
       "artists": [
         {
-          "name": "Guustavv",
-          "url": "https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX"
+          "name": "Marko Ivic",
+          "url": "https://open.spotify.com/artist/5LqMTuz0Lw3pN29tpmDE5C"
         }
       ],
-      "duration_ms": 132958,
-      "name": "Yawn Machine",
-      "url": "https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE"
+      "duration_ms": 377560,
+      "name": "Mudita",
+      "url": "https://open.spotify.com/track/7CYsCrteAXeSEADg1KyNvI"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1485,26 +1485,6 @@
       "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
     },
     {
-      "added_at": "2021-11-24 00:15:13",
-      "album": {
-        "name": "@0",
-        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
-      },
-      "artists": [
-        {
-          "name": "Daniel Pemberton",
-          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
-        },
-        {
-          "name": "FSOL",
-          "url": "https://open.spotify.com/artist/3jOeWmwth0yR5cuXLWXNme"
-        }
-      ],
-      "duration_ms": 386158,
-      "name": "Behind the Eyes",
-      "url": "https://open.spotify.com/track/7oFocF6NHEyASI4A8y0aCS"
-    },
-    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "Jardin au fou",
@@ -1535,6 +1515,26 @@
       "duration_ms": 435070,
       "name": "Parallel 9",
       "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
+    },
+    {
+      "added_at": "2021-11-24 00:15:13",
+      "album": {
+        "name": "@0",
+        "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
+      },
+      "artists": [
+        {
+          "name": "Daniel Pemberton",
+          "url": "https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR"
+        },
+        {
+          "name": "FSOL",
+          "url": "https://open.spotify.com/artist/3jOeWmwth0yR5cuXLWXNme"
+        }
+      ],
+      "duration_ms": 386158,
+      "name": "Behind the Eyes",
+      "url": "https://open.spotify.com/track/7oFocF6NHEyASI4A8y0aCS"
     },
     {
       "added_at": "2024-02-02 05:36:53",
@@ -1573,22 +1573,6 @@
       "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ"
-      },
-      "artists": [
-        {
-          "name": "INFINITY",
-          "url": "https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg"
-        }
-      ],
-      "duration_ms": 644500,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4"
-    },
-    {
       "added_at": "2023-10-23 19:46:19",
       "album": {
         "name": "Switched-On",
@@ -1603,6 +1587,22 @@
       "duration_ms": 142828,
       "name": "Mi Sala",
       "url": "https://open.spotify.com/track/3uxawr8XI4xzC8MyJbttBN"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ"
+      },
+      "artists": [
+        {
+          "name": "INFINITY",
+          "url": "https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg"
+        }
+      ],
+      "duration_ms": 644500,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4"
     },
     {
       "added_at": "2021-11-12 05:10:06",
@@ -1657,20 +1657,24 @@
       "url": "https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ"
     },
     {
-      "added_at": "2022-09-15 12:29:37",
+      "added_at": "2021-12-28 01:10:43",
       "album": {
-        "name": "caso de estudio",
-        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
+        "name": "Fantastic Farewell (2021 Remastered)",
+        "url": "https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts"
       },
       "artists": [
         {
-          "name": "s e r \u00e9 n a t e",
-          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        },
+        {
+          "name": "TiMT",
+          "url": "https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb"
         }
       ],
-      "duration_ms": 225822,
-      "name": "to all the plants i loved",
-      "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
+      "duration_ms": 179570,
+      "name": "Dream In - TiMT Remix",
+      "url": "https://open.spotify.com/track/7yA5bPUdlZnsEdVqhBqJFs"
     },
     {
       "added_at": "2023-10-23 19:48:53",
@@ -1689,20 +1693,20 @@
       "url": "https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
+      "added_at": "2022-09-15 12:29:37",
       "album": {
-        "name": "Cape Cira",
-        "url": "https://open.spotify.com/album/3u3jFYNTOIEyc5mqB6txFv"
+        "name": "caso de estudio",
+        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
       },
       "artists": [
         {
-          "name": "K-Lone",
-          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+          "name": "s e r \u00e9 n a t e",
+          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
         }
       ],
-      "duration_ms": 377200,
-      "name": "Cape Cira",
-      "url": "https://open.spotify.com/track/0nFjW7EVhopM2mfMDJjcOq"
+      "duration_ms": 225822,
+      "name": "to all the plants i loved",
+      "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
     }
   ],
   "unique_name": "Music for Plants",

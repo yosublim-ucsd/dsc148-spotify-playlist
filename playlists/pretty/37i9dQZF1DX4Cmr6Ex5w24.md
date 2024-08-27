@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 
 > Revisit the retro Rahman
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,264 likes - 72 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,353 likes - 72 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Cmr6Ex5w24.md) - [plain]
 | 26 | [Malargaley \(From "Love Birds"\)](https://open.spotify.com/track/08h7noiVJ51fou2fVNIVC4) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu) | [Love Songs of Ilaiyaraja & A\. R\. Rahman](https://open.spotify.com/album/2pTLn5ypUdGINKImS1iHyr) | 7:15 |
 | 27 | [Narumugaiyeh Narumugaiyeh](https://open.spotify.com/track/0TzbduxzsPOf3Ar7lErQF6) | [Unnikrishnan](https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX), [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [Iruvar](https://open.spotify.com/album/5ztXu69YTnoVGJixlOcmBD) | 6:27 |
 | 28 | [Jumballakka](https://open.spotify.com/track/2P1wERinlW4BdTFzFVXXVR) | [Rafee](https://open.spotify.com/artist/5K3q2zudwdnRiPzbNEm0dc) | [En Swasa Kaatre](https://open.spotify.com/album/1AShgi69eqjHbr34SFaves) | 6:19 |
-| 29 | [Chikkubukku Chikkubukku Railea](https://open.spotify.com/track/6ic3BzpUA3dsMOsTXvPfTe) | [Suresh Peters](https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45), [Nil](https://open.spotify.com/artist/1BrnrJA9euFivUWs59wDbF) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 5:21 |
-| 30 | [Nee Kattum Selai](https://open.spotify.com/track/3XQBlwW2QE8i9ykGctVMbm) | [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR), [T\. L\. Maharajan](https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD) | [Pudhiya Mannargal](https://open.spotify.com/album/4ikOUhRd1eGnmCDNBGpMJL) | 5:24 |
-| 31 | [Usilambatti Pen Kutti Muthu](https://open.spotify.com/track/3CwY6XeqO7vQ21U70RDjLz) | [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:40 |
+| 29 | [Usilambatti Pen Kutti Muthu](https://open.spotify.com/track/3CwY6XeqO7vQ21U70RDjLz) | [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP), [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 4:40 |
+| 30 | [Chikkubukku Chikkubukku Railea](https://open.spotify.com/track/6ic3BzpUA3dsMOsTXvPfTe) | [Suresh Peters](https://open.spotify.com/artist/1EvTAKGpcJx8wtvppR7p45), [Nil](https://open.spotify.com/artist/1BrnrJA9euFivUWs59wDbF) | [Gentleman](https://open.spotify.com/album/6e97t01pmASFo2XJFkJtOC) | 5:21 |
+| 31 | [Nee Kattum Selai](https://open.spotify.com/track/3XQBlwW2QE8i9ykGctVMbm) | [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR), [T\. L\. Maharajan](https://open.spotify.com/artist/07pfRuQX86iRuYx3gPCtXD) | [Pudhiya Mannargal](https://open.spotify.com/album/4ikOUhRd1eGnmCDNBGpMJL) | 5:24 |
 | 32 | [Poralea Ponnu Thai\-Happy](https://open.spotify.com/track/1nMnhtBGhdwu04naNw2mbf) | [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Sujatha](https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR) | [Karuthamma](https://open.spotify.com/album/5YJelfY5sPdfUNzgka0yOW) | 5:42 |
 | 33 | [Rasathi](https://open.spotify.com/track/7LG0J6KNnrqvmrCKgZ6nIt) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Shahul Hameed](https://open.spotify.com/artist/4AMv8pVDwovphHQONz6eKP) | [Thiruda Thiruda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZainykpWQep1A7T7YHhK6) | 4:35 |
 | 34 | [Mettuppodu Mettuppodu](https://open.spotify.com/track/01iiqDKJPQpfCOgG4rfjid) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [P\. Susheela](https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK) | [Duet](https://open.spotify.com/album/5Xccg5vUtHdibb1eXEc1MU) | 8:15 |

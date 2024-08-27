@@ -2,7 +2,7 @@
 
 ### [This Is PARTYNEXTDOOR](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yvnUc)
 
-> This is PARTYNEXTDOOR\. The essential tracks, all in one playlist.
+> This is PARTYNEXTDOOR\. Les chansons essentielles, toutes regroupées dans une seule liste de lecture.
 
 73 songs - 4 hr 21 min
 

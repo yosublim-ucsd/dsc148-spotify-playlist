@@ -4,7 +4,7 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Charles Ans en portada.
 
-191 songs - 10 hr 39 min
+192 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Enculado](https://open.spotify.com/track/07lthWzkSdlmEI435DtCcf) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [RIKO](https://open.spotify.com/artist/3bX0TAwah1a1TNlsJgOgP7) | [Enculado](https://open.spotify.com/album/4LuGDwl9vmidZ1T1PxpJEm) | 3:46 | 2023-05-26 | 2024-07-06 |
 | [Enrolemos uno](https://open.spotify.com/track/51SfvQm8QcPAyW4yBfPv1L) | [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Chenguedengue](https://open.spotify.com/artist/2BbaWbkYiUZw3MRpiZYFdi) | [Enrolemos uno](https://open.spotify.com/album/5gaExTOw8xJLQdZkDwEqRE) | 3:06 | 2023-09-15 |  |
 | [Entendí](https://open.spotify.com/track/1Irew14HVrUqhLJFt31NYr) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Entendí](https://open.spotify.com/album/60fBhH5X0kY5d8moClLTZg) | 2:56 | 2023-05-26 | 2023-11-10 |
+| [Entre Cales](https://open.spotify.com/track/6zLuA7apELI9k5N0mu86bR) | [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3), [Kimmø](https://open.spotify.com/artist/7pLeJaOcw4TbtZk42asvOu), [PUGSPUGSPUGS](https://open.spotify.com/artist/41aYvVvQYDfM6sn2zhlQHY) | [Políticamente Correcto](https://open.spotify.com/album/1vWMjjsWllqrLtmaLA9X1U) | 2:45 | 2024-08-26 |  |
 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 | 2023-05-26 |  |
 | [Estúpido](https://open.spotify.com/track/6dhHzdNdhDota4Yb1s7o0g) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Estúpido](https://open.spotify.com/album/6GZyMWAmUe5XjtLG79jVnG) | 3:16 | 2023-05-26 | 2023-07-01 |
 | [EVEREST](https://open.spotify.com/track/497xqIv6ndofwfQ65sfXPP) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [EVEREST](https://open.spotify.com/album/426nP0DkAy4SyJEO3UPgV3) | 2:12 | 2023-05-26 | 2023-09-02 |
@@ -149,7 +150,7 @@
 | [PULPARI](https://open.spotify.com/track/3aAvHk9XY2ApYCIaiJMU9l) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [PULPARI](https://open.spotify.com/album/7wPzMX9iOg5DNkJmxR23mH) | 4:13 | 2023-05-26 | 2024-06-15 |
 | [Q Bonito Es Lo Bonito](https://open.spotify.com/track/6uDeWA5PC4HFjPqRZumPRi) | [Sadráck](https://open.spotify.com/artist/6nVrBvc6HT6J8ye8EGybz1), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Q Bonito Es Lo Bonito](https://open.spotify.com/album/5q80IiZfP0H6xLirNXfDxt) | 4:07 | 2023-05-26 | 2023-12-16 |
 | [QUE SE ACABE EL MUNDO POR FAVOR](https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [QUE SE ACABE EL MUNDO POR FAVOR](https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln) | 2:55 | 2023-05-26 | 2024-06-15 |
-| [Que Te Parece](https://open.spotify.com/track/0Uyo3tsKFD735CfP3UmOsP) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf), [Trapzongo](https://open.spotify.com/artist/2z2643JYOEICXjihraM16g) | [Que Te Parece](https://open.spotify.com/album/18j8Z3zWIibYQe0vwEeiQA) | 3:03 | 2023-05-26 |  |
+| [Que Te Parece](https://open.spotify.com/track/0Uyo3tsKFD735CfP3UmOsP) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf), [Trapzongo](https://open.spotify.com/artist/2z2643JYOEICXjihraM16g) | [Que Te Parece](https://open.spotify.com/album/18j8Z3zWIibYQe0vwEeiQA) | 3:03 | 2023-05-26 | 2024-08-27 |
 | [Que Te Vaya Bien](https://open.spotify.com/track/13r9dCONzcfyRkw3IPPMnf) | [Franco Escamilla](https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Que Te Vaya Bien](https://open.spotify.com/album/6FcXPSUHNtXUaP4PY9PDg6) | 3:44 | 2023-11-17 | 2024-04-13 |
 | [Quemar la ciudad](https://open.spotify.com/track/78nOjGqYGO2cCobzUKRoMQ) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Quemar la ciudad](https://open.spotify.com/album/0oHqp73CpGHRmObKmOEx5W) | 3:18 | 2024-06-14 |  |
 | [Quiero Volar](https://open.spotify.com/track/2bM6FYZ98SZovujg3p3XtP) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6) | [Quiero Volar](https://open.spotify.com/album/3WVvtrgeUU3WUC6sbA0MlQ) | 3:16 | 2023-12-15 | 2024-04-13 |

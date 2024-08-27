@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of DNA Lover\. \(DNA 러버의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-42 songs - 2 hr 53 min
+48 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,15 @@
 | [And I Miss You](https://open.spotify.com/track/2XZxuJTgI40SU0lNzvhIhD) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR) | [And I Miss You](https://open.spotify.com/album/26RXtlukiZs8FsX7A7f8Sd) | 4:10 | 2024-08-23 |  |
 | [Autumn In New York](https://open.spotify.com/track/0f2489MzoisF9pKduawvce) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:56 | 2024-08-23 |  |
 | [Boys Boys Boys](https://open.spotify.com/track/3SuUKzHOo6PRuyoYMuez5S) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [FMA](https://open.spotify.com/album/2AUhyBQANk5FKHD6WCbxja) | 3:53 | 2024-08-23 |  |
+| [By your side](https://open.spotify.com/track/2FtJGsJVNjrJOPFG3GpUNE) | [Park Ji Hyeon](https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q) | [DNA Lover \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/51giMhzx1jRw6DEpMSIVIC) | 4:12 | 2024-08-26 |  |
+| [By your side \- Instrumental](https://open.spotify.com/track/4tqhAIE3GG8cEuyhQw8b4d) | [Park Ji Hyeon](https://open.spotify.com/artist/2CFHyUZhzBjMd5w0CPzP1Q) | [DNA Lover \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/51giMhzx1jRw6DEpMSIVIC) | 4:12 | 2024-08-26 |  |
 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Can I Love ?](https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5) | 3:49 | 2024-08-23 |  |
 | [Candlelight \(feat\. OHHYUK\)](https://open.spotify.com/track/70DYNbGc6SWqkUvhchYBo9) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [SOFT STORM](https://open.spotify.com/album/2G7WLFGIIcR1T3uRglH4cN) | 3:17 | 2024-08-23 |  |
 | [Cayman Islands](https://open.spotify.com/track/6R8agdKCfA4Poo0vnRKQKo) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7) | [Riot On An Empty Street](https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI) | 3:02 | 2024-08-23 |  |
+| [Curated by Jeong Yujin](https://open.spotify.com/track/6GIsfEk2hBADxlj0BjQ7dp) | [DNA Lover](https://open.spotify.com/artist/46fFVW50xVSECsskCq7kVd) | [DNA Lover Audio Liners](https://open.spotify.com/album/1ol76P14foNcLiTphOO06s) | 0:27 | 2024-08-26 |  |
+| [Curated by Jung In Sun](https://open.spotify.com/track/1qir1rWp1UauXyVVnCwVRa) | [DNA Lover](https://open.spotify.com/artist/46fFVW50xVSECsskCq7kVd) | [DNA Lover Audio Liners](https://open.spotify.com/album/1ol76P14foNcLiTphOO06s) | 0:34 | 2024-08-26 |  |
+| [Curated by Lee Tae Hwan](https://open.spotify.com/track/7JPbN5wnY6uBGWDGkXrvwk) | [DNA Lover](https://open.spotify.com/artist/46fFVW50xVSECsskCq7kVd) | [DNA Lover Audio Liners](https://open.spotify.com/album/1ol76P14foNcLiTphOO06s) | 0:29 | 2024-08-26 |  |
+| [Curated by Siwon Choi](https://open.spotify.com/track/3T1YxXLCj45iphPI3D1ThK) | [DNA Lover](https://open.spotify.com/artist/46fFVW50xVSECsskCq7kVd) | [DNA Lover Audio Liners](https://open.spotify.com/album/1ol76P14foNcLiTphOO06s) | 0:27 | 2024-08-26 |  |
 | [Dandelion \- single ver.](https://open.spotify.com/track/3eOXiUUfz9OhyVqoREsJYe) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Dandelion](https://open.spotify.com/album/3Jshf9ojwr5KPw0WznX3uk) | 4:12 | 2024-08-23 |  |
 | [Dream](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) | 3:42 | 2024-08-23 |  |
 | [First Love](https://open.spotify.com/track/4qBva9xOk82fhCFPc52GjI) | [Jurrivh](https://open.spotify.com/artist/4xzXnYAMKDc0rY1CN0plep) | [First Love](https://open.spotify.com/album/2kr8HG09btDIh8vPyEJjWh) | 3:16 | 2024-08-23 |  |

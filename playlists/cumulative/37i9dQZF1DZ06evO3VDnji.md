@@ -2,7 +2,7 @@
 
 ### [This Is DannyLux](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VDnji)
 
-> This is DannyLux\. Усі улюблені треки в одному плейлісті.
+> This Is DannyLux\. Los temas esenciales, todos en una lista.
 
 52 songs - 3 hr 3 min
 

@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: NENE
 
-997 songs - 2 day 3 hr 30 min
+998 songs - 2 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -689,6 +689,7 @@
 | [Romantic](https://open.spotify.com/track/1LMsFxKdOOiJbGP64IcTwg) | [$MOKE OG](https://open.spotify.com/artist/4mdCLBVUWqX7l01s8Olnjx), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [Romantic](https://open.spotify.com/album/060thYABRjR6YBadUQI28D) | 3:42 | 2024-07-30 |  |
 | [Rooftop](https://open.spotify.com/track/37xUdqAJaPrV9FVLzvTrdF) | [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [098RADIO vol.2 Hosted by Awich](https://open.spotify.com/album/2YdkFJCSlo8DvXXFFdRb1i) | 2:43 | 2024-08-07 |  |
 | [rose](https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [rose](https://open.spotify.com/album/2lUNF3Bekt51s8qRWBCelL) | 2:16 | 2023-09-21 | 2023-11-09 |
+| [RTTB Freestyle](https://open.spotify.com/track/0unxgpb5GGdx1y8ahOIYG3) | [L.O.S.T](https://open.spotify.com/artist/1myOg2DWby1xHMKHDKRFPV), [M3R](https://open.spotify.com/artist/0YjscyVinO9rRbTTRSHIUm), [ROBBIN](https://open.spotify.com/artist/1KGG30JmCcnQ1OiqhbxIbB) | [RTTB Freestyle](https://open.spotify.com/album/6YqH9Oa6IHq0BREeImxOei) | 1:59 | 2024-08-26 |  |
 | [Run From My Pain](https://open.spotify.com/track/5rHG1sGaBJoewM5DqRQvKT) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB), [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F) | [Run From My Pain](https://open.spotify.com/album/1q5ZFnLdqKd8kzKd46KvwW) | 3:02 | 2023-12-26 | 2023-12-30 |
 | [Run From My Pain](https://open.spotify.com/track/6Jj0C8PFJoTzcfIo4GW4my) | [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB), [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F) | [Run From My Pain](https://open.spotify.com/album/6yP4FqzPk8cnLzToGv8Kza) | 3:02 | 2023-12-28 | 2024-01-12 |
 | [RUN IT UP](https://open.spotify.com/track/7z1nxB95OsfevP73arPtiV) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Maddy Soma](https://open.spotify.com/artist/1wFTlSSnvzNxs7FpbTyEuO) | [THE PURGE](https://open.spotify.com/album/5vkHFTY4IRsuFrQvDKFTqv) | 2:21 | 2024-08-13 | 2024-08-21 |

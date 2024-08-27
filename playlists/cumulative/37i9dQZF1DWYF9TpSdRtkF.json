@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 324240,
       "name": "dans l'obscurit\u00e9",
       "url": "https://open.spotify.com/track/04TVbpupBXYP6MJZHj9ahD"
@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 222106,
       "name": "Happy Darling",
       "url": "https://open.spotify.com/track/2XtJmTYix03kYitaCa4DCZ"
@@ -2978,7 +2978,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 301546,
       "name": "My Evolution",
       "url": "https://open.spotify.com/track/52W2gcVMlMz5sTQPo1XxQK"
@@ -4534,6 +4534,24 @@
       "duration_ms": 221106,
       "name": "Vacation VS Summer: Natsu to Yasumi no Ambivalent!",
       "url": "https://open.spotify.com/track/360hNXXYd0yk0qj0NXVB2w"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 09",
+        "url": "https://open.spotify.com/album/0cJMcwShlAMyP5ooWPxWwQ"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281280,
+      "name": "vivid color",
+      "url": "https://open.spotify.com/track/0Weg3cVfWMAYLmaOwjpy7Q"
     },
     {
       "album": {
@@ -6702,7 +6720,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 231133,
       "name": "\u771f\u590f\u306e\u30c0\u30a4\u30e4",
       "url": "https://open.spotify.com/track/6u83CfbTsE2iecKXxKeLOG"
@@ -6920,7 +6938,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 249268,
       "name": "\u8ffd\u61b6\u306e\u30b5\u30f3\u30c9\u30b0\u30e9\u30b9",
       "url": "https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9"

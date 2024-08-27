@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
+  "description": "This Is Banda Vallarta Show. Los temas esenciales, todos en una lista.",
   "name": "This Is Banda Vallarta Show",
   "tracks": [
     {
@@ -724,7 +724,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 217133,
       "name": "El Pobre Caminante",
       "url": "https://open.spotify.com/track/2vqfVIK1VuEGVwoRxnGDWM"
@@ -1074,6 +1074,24 @@
       "duration_ms": 145293,
       "name": "La Primera Caricia",
       "url": "https://open.spotify.com/track/2aLJvoRq7TvOqw02j3yfZ2"
+    },
+    {
+      "album": {
+        "name": "Prov\u00f3came",
+        "url": "https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145973,
+      "name": "La Primera Caricia",
+      "url": "https://open.spotify.com/track/5UVrUzx3P58h5bOqEluApd"
     },
     {
       "album": {

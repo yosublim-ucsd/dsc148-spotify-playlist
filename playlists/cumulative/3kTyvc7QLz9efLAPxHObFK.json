@@ -15679,6 +15679,28 @@
     },
     {
       "album": {
+        "name": "Just Can't Get Enough (Techno Version)",
+        "url": "https://open.spotify.com/album/4PMDurQCx0T7QuuUHFKTS8"
+      },
+      "artists": [
+        {
+          "name": "Hypermorph",
+          "url": "https://open.spotify.com/artist/0IeEzvWGCDF6N4sBtzJ2o2"
+        },
+        {
+          "name": "Snoblack",
+          "url": "https://open.spotify.com/artist/03ED5pKDk5KVVlCEtxH2bX"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126499,
+      "name": "Just Can't Get Enough - Techno Version",
+      "url": "https://open.spotify.com/track/6hQR2EAhTRrbfnKM8Z9j5O"
+    },
+    {
+      "album": {
         "name": "JUST DANCE HARDSTYLE (Sped Up)",
         "url": "https://open.spotify.com/album/4nAvpUNKleQsOhvhmesOip"
       },

@@ -1,15 +1,47 @@
 {
-  "description": "La playlist au-del\u00e0 des genres. Photo : Jean Dawson",
-  "num_followers": 82449,
+  "description": "La playlist au-del\u00e0 des genres. Photo : Glass Beams",
+  "num_followers": 82473,
   "original_name": "La Cr\u00e8me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr73JQAAAABLIHvDwBXESnXGJbSbr3S0",
+  "snapshot_id": "Zszf3gAAAACZ6LLNF1fzHC9fJ0z/QoA3",
   "tracks": [
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
+      "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 201339,
+      "name": "Mahal",
+      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-08-26 20:04:46",
+      "album": {
+        "name": "Thank Goodness",
+        "url": "https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 200061,
+      "name": "Thank Goodness",
+      "url": "https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh"
+    },
+    {
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Die For Me (feat. Lil Yachty)",
         "url": "https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb"
@@ -29,7 +61,7 @@
       "url": "https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "graou",
         "url": "https://open.spotify.com/album/0PDmJd61cK6jh15jsaBfb4"
@@ -45,7 +77,7 @@
       "url": "https://open.spotify.com/track/0G6lvIMuVEteFdNmndnU7w"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "In The Night (feat. Jorja Smith & Amaarae)",
         "url": "https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe"
@@ -69,7 +101,7 @@
       "url": "https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
@@ -85,7 +117,7 @@
       "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Favourite",
         "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
@@ -101,39 +133,7 @@
       "url": "https://open.spotify.com/track/7zv7VSwVTSWAqpESCnd6pg"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
-      "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 201339,
-      "name": "Mahal",
-      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
-    },
-    {
-      "added_at": "2024-08-16 06:52:21",
-      "album": {
-        "name": "Thank Goodness",
-        "url": "https://open.spotify.com/album/5cpLhqq5HlPdLPhrN8tgbh"
-      },
-      "artists": [
-        {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "Thank Goodness",
-      "url": "https://open.spotify.com/track/0MCmDFSRKTeuitiuzlyaDh"
-    },
-    {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "\u00c0 la Hauteur",
         "url": "https://open.spotify.com/album/5uvkYiiMMRpFE5DjoJC41t"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/5m5CDDkDfHWSKdYnFUN5LR"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Garmonbozia",
         "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Not Waving, But Drowning",
         "url": "https://open.spotify.com/album/1kokRXXxrJzhxdMo0vsVDV"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "ORQU\u00cdDEAS PARTE 2 - Deluxe",
         "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "The Message (Majid Jordan Remix)",
         "url": "https://open.spotify.com/album/2XFeeHCCqtklVfPuFysGTB"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/5nRNx6Gs12LDlLWbl8dVRq"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Posse EP Volume 2",
         "url": "https://open.spotify.com/album/5b8itMHqCiOnN8lN4REU5Y"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/6aghmokpyn0soDHkTgaonm"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Embarrassed Dog",
         "url": "https://open.spotify.com/album/4WQJQbKm9POFMDat9js98A"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/5rsMJbGg6IqniuGPaCFXd9"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Sexy to Someone",
         "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Satellite Business 2.0",
         "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "M\u00e1dib\u00e1 Ni Mbondi",
         "url": "https://open.spotify.com/album/0oVmAp4WYpsXFvmR7I8v6n"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/7r9mtzhwnN1sUDx0BeBFch"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Bad Cameo",
         "url": "https://open.spotify.com/album/3YSkrcq8N00jwqcBRjAFB5"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/3EeKihPbo2fPDlgKdLM2Bx"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Intercession Before Charlotte",
         "url": "https://open.spotify.com/album/5eT8m1zk15Bbb0FeyAZB49"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/6HW2JkmIH0XbAdG2hrQY2n"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "YOUPHORIA (feat. HIGH H\u00d8\u00d8PS)",
         "url": "https://open.spotify.com/album/7KqJmfsqYNlKsYB8bvXSRs"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/1OzyADEbW3Y7uQvOiyc08L"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Once in a Lifetime",
         "url": "https://open.spotify.com/album/1VbH8tiDjMmSwELNSowMif"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/2u7SG14j5vzSwxttBoGO2A"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Could I Stay",
         "url": "https://open.spotify.com/album/2OCBppEHFQV2lP8yNGFA1e"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/1vSAziaAR7YvpjGVw8Lu1p"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Slow Burn",
         "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "There Goes My Baby",
         "url": "https://open.spotify.com/album/0e5qoGUqcAHyLUepuJHYvN"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/0nn1kMhCkhQqqZdnKL7Ext"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "If I Were To Paint It",
         "url": "https://open.spotify.com/album/5Q88UdBbRQwNot4nY0Utdf"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/1vHHFR9nx6wbvEFfI5ncjq"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "High Notes",
         "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
@@ -573,7 +573,7 @@
       "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "tentacle, but different",
         "url": "https://open.spotify.com/album/0WS8N1njDA3TevHPHMygpB"
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/60eQ5ChqHwxwAyqutxXB0H"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Who Did You Touch?",
         "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "My Soft Machine (Deluxe)",
         "url": "https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "SNL",
         "url": "https://open.spotify.com/album/63BBbmGgghjnlOQs4SwoCn"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Pixie Dust",
         "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "QWERTY II",
         "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/2T9XG0dOWvJw23EUC8YIn5"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Pluto",
         "url": "https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Pinball",
         "url": "https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/6dm4Ip02h98f6eko5A647f"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Endless Night",
         "url": "https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Ciao Satan",
         "url": "https://open.spotify.com/album/2OF82sjlfdjxTf9SdDDAjq"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/7CO8WNdQaCT9crqPGdyMKo"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Nulle",
         "url": "https://open.spotify.com/album/5EqwOYVB4vIhB6pZSuCtBe"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/5iJXTnWiW4JUOZwJjVbWAw"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Gaza is Calling",
         "url": "https://open.spotify.com/album/5VVL5bs1loPBnJc826gQGl"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/3J60sGMryOdR9iFriazOzm"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Grey Scale",
         "url": "https://open.spotify.com/album/2PcTdFPrOWM28ffy1e8cY6"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/33zlW22yOTjdRB1X7SRdzU"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Big Brown Eyes (feat. Orion Sun)",
         "url": "https://open.spotify.com/album/0gsgJuKn4UyUWmResKGKWu"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/0Bo4PwDaG1wBfV4Syj14Xe"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "Afraid Of Losing",
         "url": "https://open.spotify.com/album/1scTzyIy0xjMjDTzCwko7b"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/5qnvxphQjJ8YKLihhMZnJx"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "TANGK",
         "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/7f4azWcTVEDHZ7DSc5eh5a"
     },
     {
-      "added_at": "2024-08-16 06:52:21",
+      "added_at": "2024-08-26 20:04:46",
       "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4DocDEGzuG9MzMzRUY6Fuy"

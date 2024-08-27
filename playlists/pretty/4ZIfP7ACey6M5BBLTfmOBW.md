@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: Central Cee.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,474 likes - 60 songs - 2 hr 37 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 29,471 likes - 60 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Billion Streams Freestyle](https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:06 |
-| 2 | [Skyfall \(feat\. Young Thug\)](https://open.spotify.com/track/3QYCCpfbnQ52NOUIVWVF2w) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/0XwVkzDyxfDSiWzBtVKn0K) | 5:14 |
+| 1 | [Skyfall \(feat\. Young Thug\)](https://open.spotify.com/track/3QYCCpfbnQ52NOUIVWVF2w) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DAYS BEFORE RODEO](https://open.spotify.com/album/0XwVkzDyxfDSiWzBtVKn0K) | 5:14 |
+| 2 | [Billion Streams Freestyle](https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:06 |
 | 3 | [METHOD ACTING](https://open.spotify.com/track/5st2rxJDpyUS3IPtn1lxXF) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [METHOD ACTING](https://open.spotify.com/album/49O9fESC2mlA6Ek8K66Uzj) | 2:16 |
 | 4 | [HIGHJACK](https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [HIGHJACK](https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL) | 3:10 |
 | 5 | [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 59 | [Angels In The Sky](https://open.spotify.com/track/5quU0IUtPut7sZZlQ2kK54) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Angels In The Sky](https://open.spotify.com/album/41VlriZ3G48XNHYmoWqYSW) | 2:42 |
 | 60 | [Masked](https://open.spotify.com/track/4bW7g0BV62I55XnwS22hRk) | [Resentvul](https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH) | [Masked](https://open.spotify.com/album/3Jf53fAKASv2A8g8XCKLro) | 1:22 |
 
-Snapshot ID: `AAAf3E/UajHwd0ojkhGcyNa6/D4yb+sQ`
+Snapshot ID: `AAAf3U5hIjnHXEbcHLtg7fZeocMj8QGN`

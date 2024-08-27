@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 89474,
+  "num_followers": 89492,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
-        "url": "https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO"
+        "name": "Excuse the Beauty",
+        "url": "https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS"
       },
       "artists": [
         {
-          "name": "Willam",
-          "url": "https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8"
+          "name": "Latrice Royale",
+          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
         },
         {
-          "name": "Detox",
-          "url": "https://open.spotify.com/artist/51Y484bYxxydKWYy8MDhqC"
-        },
-        {
-          "name": "Vicky Vox",
-          "url": "https://open.spotify.com/artist/2PPQKCcQ2HDYrP41OSlh91"
+          "name": "Epiphany Mattel",
+          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
         }
       ],
-      "duration_ms": 248973,
-      "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
-      "url": "https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS"
+      "duration_ms": 189440,
+      "name": "Excuse the Beauty",
+      "url": "https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -503,22 +499,26 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Excuse the Beauty",
-        "url": "https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS"
+        "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
+        "url": "https://open.spotify.com/album/6AydMrSrRmwfbd2Xj4lJkO"
       },
       "artists": [
         {
-          "name": "Latrice Royale",
-          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
+          "name": "Willam",
+          "url": "https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8"
         },
         {
-          "name": "Epiphany Mattel",
-          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
+          "name": "Detox",
+          "url": "https://open.spotify.com/artist/51Y484bYxxydKWYy8MDhqC"
+        },
+        {
+          "name": "Vicky Vox",
+          "url": "https://open.spotify.com/artist/2PPQKCcQ2HDYrP41OSlh91"
         }
       ],
-      "duration_ms": 189440,
-      "name": "Excuse the Beauty",
-      "url": "https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI"
+      "duration_ms": 248973,
+      "name": "Blurred Bynes (feat. Detox & Vicky Vox)",
+      "url": "https://open.spotify.com/track/4AjE5hWnTyLVoZkTO0nVCS"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Everybody Hates Linux",
-        "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
-      },
-      "artists": [
-        {
-          "name": "Linux",
-          "url": "https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6"
-        },
-        {
-          "name": "Aquaria",
-          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
-        }
-      ],
-      "duration_ms": 254111,
-      "name": "Looks (feat. Aquaria)",
-      "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Weight (feat. Epiphany Mattel)",
         "url": "https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 205217,
       "name": "Weight (feat. Epiphany Mattel)",
       "url": "https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Everybody Hates Linux",
+        "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
+      },
+      "artists": [
+        {
+          "name": "Linux",
+          "url": "https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6"
+        },
+        {
+          "name": "Aquaria",
+          "url": "https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL"
+        }
+      ],
+      "duration_ms": 254111,
+      "name": "Looks (feat. Aquaria)",
+      "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Sweet T",
+        "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
+      },
+      "artists": [
+        {
+          "name": "Ginger Minj",
+          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
+        }
+      ],
+      "duration_ms": 275175,
+      "name": "Ohh Lala Lala",
+      "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Access All Areas",
         "url": "https://open.spotify.com/album/4K8CUDdTzgmhtlVPTpGIS9"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 193320,
       "name": "AAA (feat. Alaska Thunderfuck, Courtney Act & Willam )",
       "url": "https://open.spotify.com/track/4aCczCIMedqUdGUcUqVb1N"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Sweet T",
-        "url": "https://open.spotify.com/album/6zCFc5e0UljWQKIO5T371V"
-      },
-      "artists": [
-        {
-          "name": "Ginger Minj",
-          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
-        }
-      ],
-      "duration_ms": 275175,
-      "name": "Ohh Lala Lala",
-      "url": "https://open.spotify.com/track/3z02EeRFTXux2iD8hvKrLh"
     },
     {
       "added_at": "2024-05-31 17:55:47",

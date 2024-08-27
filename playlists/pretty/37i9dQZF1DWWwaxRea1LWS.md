@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 ### [Throwback Thursday](https://open.spotify.com/playlist/37i9dQZF1DWWwaxRea1LWS)
 
-> \#SpotifyTBT celebrates the 25th anniversary of Christina Aguilera's debut album\. Cover: Ramones
+> \#SpotifyTBT celebrates the 25th anniversary of Christina Aguilera's debut album\. Cover: Christina Aguilera
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,285,692 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,285,638 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [The Kiss\-Off \- Goodbye](https://open.spotify.com/track/0bXwZIKzcbvJYpglq2rrgg) | [Brooke Allison](https://open.spotify.com/artist/5FOB19mJ1wx229TMjhDJ1M) | [Brooke Allison](https://open.spotify.com/album/2dkxkhEtPRN4tMUZRGXvSN) | 3:33 |
 | 50 | [Cinderella](https://open.spotify.com/track/686qTNEeLgS9rX31Yr5D0y) | [I5](https://open.spotify.com/artist/1y42blYclozk6feDv5kVHa) | [I5](https://open.spotify.com/album/4pjb9aRbPSxkKfyK2z5J75) | 3:36 |
 
-Snapshot ID: `Zsa3wAAAAAAMsG0kXEQGt4vUb7A5aZ87`
+Snapshot ID: `Zsx2tAAAAABwwSS+zpm2HwSYiLuKJrQP`

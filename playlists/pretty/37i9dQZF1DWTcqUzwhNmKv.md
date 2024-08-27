@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Halestorm on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,511,946 likes - 76 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,512,022 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,19 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 60 | [The Cleansing](https://open.spotify.com/track/5iODmMKclILMRCQZcuZz0C) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [The Cleansing](https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO) | 8:00 |
 | 61 | [Lubricant Like Kerosene](https://open.spotify.com/track/1YKw45N7mTTsuyZPxe4Klz) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Coup de Grâce](https://open.spotify.com/album/3tp7UvthYQGlACoVpzJaAF) | 3:17 |
 | 62 | [The Riddle](https://open.spotify.com/track/4tv15LLpV5i4DSJdbrkY7o) | [Stray View](https://open.spotify.com/artist/0SJeQrJGYWv6uHeWbhILVu) | [The Riddle](https://open.spotify.com/album/6vhKGLD9LyeAFeoj1PHHPd) | 3:43 |
-| 63 | [Paralyzed](https://open.spotify.com/track/4IZqSAp69gs1gaRREITNmr) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Paralyzed](https://open.spotify.com/album/3blpmJHSbVyMkFAw42nVkD) | 3:15 |
-| 64 | [Okapi](https://open.spotify.com/track/50KjEgqnSXYfNGSbtV4zjq) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Okapi](https://open.spotify.com/album/0muZU0P4pqvdusdCMoBriy) | 4:18 |
-| 65 | [Invisible Rain](https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Invisible Rain](https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx) | 2:39 |
-| 66 | [PLAYING FAVORITES](https://open.spotify.com/track/5tX2K6XrciEGZeMPEyNA0t) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Playing Favorites](https://open.spotify.com/album/4CNimXIiD2DvMpHHUxPepY) | 3:39 |
-| 67 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 |
-| 68 | [Villain Arc](https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Villain Arc](https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8) | 3:39 |
-| 69 | [Saturn Coming Down](https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Saturn Coming Down](https://open.spotify.com/album/5VgKnBiputFStCvTUPlYge) | 5:58 |
-| 70 | [A White Horse Covered In Blood](https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [A White Horse Covered In Blood](https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY) | 3:18 |
-| 71 | [§1 \- Radio Edit](https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§1 \(Radio Edit\)](https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k) | 4:46 |
-| 72 | [Hands of Eternity](https://open.spotify.com/track/0XxW9T7qRJkAT6wENRI6kw) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Hands of Eternity](https://open.spotify.com/album/4BP1DYYnxy83DJ6xR5ShRs) | 4:43 |
-| 73 | [eXistenZ](https://open.spotify.com/track/2JXeFGQ3WzDBZqctS9EYte) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [eXistenZ](https://open.spotify.com/album/3DDqG0NaZHQShb9fakhipB) | 1:21 |
-| 74 | [Améthyste](https://open.spotify.com/track/5i7bzDgRehQfktqxu7xHqV) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les Chants de l'Aurore](https://open.spotify.com/album/24nGcIMJdnThRbgxpovlpy) | 8:30 |
-| 75 | [Oblivion](https://open.spotify.com/track/6Bs4bgfIsNZOuREbHdjmyW) | [Gatecreeper](https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N) | [Dark Superstition](https://open.spotify.com/album/7BhpoTy951vKzT7xeQJg9e) | 3:11 |
-| 76 | [Turbulence](https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Turbulence](https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8) | 3:20 |
+| 63 | [Okapi](https://open.spotify.com/track/50KjEgqnSXYfNGSbtV4zjq) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Okapi](https://open.spotify.com/album/0muZU0P4pqvdusdCMoBriy) | 4:18 |
+| 64 | [Invisible Rain](https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Invisible Rain](https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx) | 2:39 |
+| 65 | [PLAYING FAVORITES](https://open.spotify.com/track/5tX2K6XrciEGZeMPEyNA0t) | [UnityTX](https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9) | [Playing Favorites](https://open.spotify.com/album/4CNimXIiD2DvMpHHUxPepY) | 3:39 |
+| 66 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 |
+| 67 | [Villain Arc](https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Villain Arc](https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8) | 3:39 |
+| 68 | [Saturn Coming Down](https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Saturn Coming Down](https://open.spotify.com/album/5VgKnBiputFStCvTUPlYge) | 5:58 |
+| 69 | [A White Horse Covered In Blood](https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [A White Horse Covered In Blood](https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY) | 3:18 |
+| 70 | [§1 \- Radio Edit](https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§1 \(Radio Edit\)](https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k) | 4:46 |
+| 71 | [Hands of Eternity](https://open.spotify.com/track/0XxW9T7qRJkAT6wENRI6kw) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Hands of Eternity](https://open.spotify.com/album/4BP1DYYnxy83DJ6xR5ShRs) | 4:43 |
+| 72 | [eXistenZ](https://open.spotify.com/track/2JXeFGQ3WzDBZqctS9EYte) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [eXistenZ](https://open.spotify.com/album/3DDqG0NaZHQShb9fakhipB) | 1:21 |
+| 73 | [Améthyste](https://open.spotify.com/track/5i7bzDgRehQfktqxu7xHqV) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les Chants de l'Aurore](https://open.spotify.com/album/24nGcIMJdnThRbgxpovlpy) | 8:30 |
+| 74 | [Oblivion](https://open.spotify.com/track/6Bs4bgfIsNZOuREbHdjmyW) | [Gatecreeper](https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N) | [Dark Superstition](https://open.spotify.com/album/7BhpoTy951vKzT7xeQJg9e) | 3:11 |
+| 75 | [Turbulence](https://open.spotify.com/track/5GHvpuEjReFEL2lVeOiKxC) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Turbulence](https://open.spotify.com/album/6B0rX3xoZawMWKTTDm5zR8) | 3:20 |
 
-Snapshot ID: `ZsgJQAAAAACMNONMbd6pwE8cMGS/QQIk`
+Snapshot ID: `ZsvxkgAAAAAN+G2hLooCDBBlWF4f7Y0t`

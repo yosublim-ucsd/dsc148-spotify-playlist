@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106560,
+  "num_followers": 106556,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZseT9wAAAAAKNXV95n0wEllzD2XbZ7B5",
+  "snapshot_id": "ZszF2gAAAADbqTnPvoYD3eGiqfguLIOs",
   "tracks": [
     {
       "added_at": "2024-08-22 19:39:35",
@@ -341,6 +341,22 @@
       "url": "https://open.spotify.com/track/6o2txs2fVptvzLjvlhbTjH"
     },
     {
+      "added_at": "2024-08-26 18:13:46",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/6oT7TQdQ9UIMSlIq1628lT"
+      },
+      "artists": [
+        {
+          "name": "Nat\u00e1le",
+          "url": "https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy"
+    },
+    {
       "added_at": "2024-08-22 19:39:35",
       "album": {
         "name": "Cristal",
@@ -607,6 +623,22 @@
     {
       "added_at": "2024-08-22 19:39:35",
       "album": {
+        "name": "Im\u00e1n",
+        "url": "https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v"
+      },
+      "artists": [
+        {
+          "name": "Rayos L\u00e1ser",
+          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
+        }
+      ],
+      "duration_ms": 194905,
+      "name": "Im\u00e1n",
+      "url": "https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7"
+    },
+    {
+      "added_at": "2024-08-22 19:39:35",
+      "album": {
         "name": "Donde Vas?",
         "url": "https://open.spotify.com/album/1dtTQUfgnrHi7nrPbyfzEf"
       },
@@ -695,42 +727,6 @@
     {
       "added_at": "2024-08-22 19:39:35",
       "album": {
-        "name": "Pediste flores (con Loli Molina)",
-        "url": "https://open.spotify.com/album/5UtVQ6f3Xh2ZWU9t6nngu5"
-      },
-      "artists": [
-        {
-          "name": "Zenon Pereyra",
-          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
-        },
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        }
-      ],
-      "duration_ms": 193643,
-      "name": "Pediste flores (con Loli Molina)",
-      "url": "https://open.spotify.com/track/0gJlv1xPvkktOoWlnjnQ3b"
-    },
-    {
-      "added_at": "2024-08-22 19:39:35",
-      "album": {
-        "name": "Im\u00e1n",
-        "url": "https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v"
-      },
-      "artists": [
-        {
-          "name": "Rayos L\u00e1ser",
-          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
-        }
-      ],
-      "duration_ms": 194905,
-      "name": "Im\u00e1n",
-      "url": "https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7"
-    },
-    {
-      "added_at": "2024-08-22 19:39:35",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw"
       },
@@ -795,6 +791,26 @@
       "duration_ms": 198676,
       "name": "GUIAME",
       "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
+    },
+    {
+      "added_at": "2024-08-22 19:39:35",
+      "album": {
+        "name": "Pediste flores (con Loli Molina)",
+        "url": "https://open.spotify.com/album/5UtVQ6f3Xh2ZWU9t6nngu5"
+      },
+      "artists": [
+        {
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+        },
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        }
+      ],
+      "duration_ms": 193643,
+      "name": "Pediste flores (con Loli Molina)",
+      "url": "https://open.spotify.com/track/0gJlv1xPvkktOoWlnjnQ3b"
     },
     {
       "added_at": "2024-08-22 19:39:35",
@@ -1223,6 +1239,22 @@
     {
       "added_at": "2024-08-22 19:39:35",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
+    },
+    {
+      "added_at": "2024-08-22 19:39:35",
+      "album": {
         "name": "Tuna",
         "url": "https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq"
       },
@@ -1259,38 +1291,6 @@
     {
       "added_at": "2024-08-22 19:39:35",
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
-      },
-      "artists": [
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        }
-      ],
-      "duration_ms": 135942,
-      "name": "C\u00f3mo olvidar",
-      "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
-    },
-    {
-      "added_at": "2024-08-22 19:39:35",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        }
-      ],
-      "duration_ms": 170866,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
-    },
-    {
-      "added_at": "2024-08-22 19:39:35",
-      "album": {
         "name": "X AMOR",
         "url": "https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1"
       },
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2024-08-22 19:39:35",
       "album": {
-        "name": "TODO LO QUE HICIMOS.",
-        "url": "https://open.spotify.com/album/6tK7ZnVuqJMKX8qXKwwwJK"
+        "name": "3D",
+        "url": "https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz"
       },
       "artists": [
         {
-          "name": "Valdes",
-          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
         }
       ],
-      "duration_ms": 217888,
-      "name": "TODO LO QUE HICIMOS.",
-      "url": "https://open.spotify.com/track/4yREnAodtCMnXrOspdO6QR"
+      "duration_ms": 135942,
+      "name": "C\u00f3mo olvidar",
+      "url": "https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP"
     },
     {
       "added_at": "2024-08-22 19:39:35",
@@ -1339,6 +1339,22 @@
       "duration_ms": 195604,
       "name": "Ojos de Planeta",
       "url": "https://open.spotify.com/track/7ehX81xpki8FXQBO94KCF0"
+    },
+    {
+      "added_at": "2024-08-22 19:39:35",
+      "album": {
+        "name": "TODO LO QUE HICIMOS.",
+        "url": "https://open.spotify.com/album/6tK7ZnVuqJMKX8qXKwwwJK"
+      },
+      "artists": [
+        {
+          "name": "Valdes",
+          "url": "https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc"
+        }
+      ],
+      "duration_ms": 217888,
+      "name": "TODO LO QUE HICIMOS.",
+      "url": "https://open.spotify.com/track/4yREnAodtCMnXrOspdO6QR"
     },
     {
       "added_at": "2024-08-22 19:39:35",
@@ -1487,6 +1503,22 @@
     {
       "added_at": "2024-08-22 19:39:35",
       "album": {
+        "name": "Pangal",
+        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
+      },
+      "artists": [
+        {
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
+        }
+      ],
+      "duration_ms": 174325,
+      "name": "Pangal",
+      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
+    },
+    {
+      "added_at": "2024-08-22 19:39:35",
+      "album": {
         "name": "C\u00f3mo y Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku"
       },
@@ -1507,22 +1539,6 @@
     {
       "added_at": "2024-08-22 19:39:35",
       "album": {
-        "name": "Pangal",
-        "url": "https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp"
-      },
-      "artists": [
-        {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 174325,
-      "name": "Pangal",
-      "url": "https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z"
-    },
-    {
-      "added_at": "2024-08-22 19:39:35",
-      "album": {
         "name": "AYER",
         "url": "https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ"
       },
@@ -1535,6 +1551,22 @@
       "duration_ms": 235909,
       "name": "AYER",
       "url": "https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0"
+    },
+    {
+      "added_at": "2024-08-22 19:39:35",
+      "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 162288,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23"
     },
     {
       "added_at": "2024-08-22 19:39:35",
@@ -1575,22 +1607,6 @@
       "duration_ms": 234466,
       "name": "Departamento",
       "url": "https://open.spotify.com/track/2RGk67GArzQcQa3AWSulJb"
-    },
-    {
-      "added_at": "2024-08-22 19:39:35",
-      "album": {
-        "name": "Radar",
-        "url": "https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 162288,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23"
     },
     {
       "added_at": "2024-08-22 19:39:35",
@@ -1747,26 +1763,6 @@
       "duration_ms": 169067,
       "name": "Poema de Amor",
       "url": "https://open.spotify.com/track/6RtVpaLGLjcbsqKbO6QS7Z"
-    },
-    {
-      "added_at": "2024-08-22 19:39:35",
-      "album": {
-        "name": "Piel",
-        "url": "https://open.spotify.com/album/29OY30x1zP4a0zKSfCvu9f"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efa Valdez",
-          "url": "https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA"
-        },
-        {
-          "name": "Franco Banda",
-          "url": "https://open.spotify.com/artist/2bhMtu8Fua2BNTvwbjtJjH"
-        }
-      ],
-      "duration_ms": 200394,
-      "name": "Piel",
-      "url": "https://open.spotify.com/track/4fCRaUeln3PPUGAqWuCY7A"
     }
   ],
   "unique_name": "Amor Indie",

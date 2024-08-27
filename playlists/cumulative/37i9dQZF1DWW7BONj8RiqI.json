@@ -3269,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "Turn Up",
+        "url": "https://open.spotify.com/album/5sVwvzUuoIESKU5uOBlNZo"
+      },
+      "artists": [
+        {
+          "name": "Bunji Garlin",
+          "url": "https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173186,
+      "name": "Jumbo Jet",
+      "url": "https://open.spotify.com/track/6DI66fsIkq3gHmcIcM88Rg"
+    },
+    {
+      "album": {
         "name": "1 On 1",
         "url": "https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy"
       },
@@ -3804,7 +3822,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 177741,
       "name": "Mechanic",
       "url": "https://open.spotify.com/track/0KpSnoj6JDwaDoESTCmc15"

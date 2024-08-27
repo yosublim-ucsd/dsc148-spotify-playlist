@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Sea Of Green Noise",
+        "url": "https://open.spotify.com/album/4rIv9KBmNXWnA3Liup9OAR"
+      },
+      "artists": [
+        {
+          "name": "Nature Trudge",
+          "url": "https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Green Noise - Gentle Waves",
+      "url": "https://open.spotify.com/track/0IHASP181EcNox0ewsoybS"
+    },
+    {
+      "album": {
         "name": "Calming Green Noise",
         "url": "https://open.spotify.com/album/1t2tklsezdnFpxj80K1b3C"
       },
@@ -1886,6 +1904,24 @@
       "duration_ms": 151582,
       "name": "Natural Green Noise",
       "url": "https://open.spotify.com/track/6EodoSR2tA2MHHCoGTFpGV"
+    },
+    {
+      "album": {
+        "name": "Neptune Green Noise",
+        "url": "https://open.spotify.com/album/4zDUyXUPswCA8WDjf5f0VJ"
+      },
+      "artists": [
+        {
+          "name": "Ocean Roar",
+          "url": "https://open.spotify.com/artist/0o0rFNhdMAzctv0rVhzDlP"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Neptune Green Noise",
+      "url": "https://open.spotify.com/track/5CDwR0HOPH0WXgYnr2Sixd"
     },
     {
       "album": {

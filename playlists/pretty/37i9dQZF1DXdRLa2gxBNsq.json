@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla Records.",
-  "num_followers": 106375,
+  "num_followers": 106398,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-08-16 11:51:03",
       "album": {
+        "name": "Inadaptados",
+        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
+      },
+      "artists": [
+        {
+          "name": "Cicatriz",
+          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
+        }
+      ],
+      "duration_ms": 147653,
+      "name": "Escupe",
+      "url": "https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3"
+    },
+    {
+      "added_at": "2024-08-16 11:51:03",
+      "album": {
         "name": "No Sabemos Perder",
         "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 240800,
       "name": "No Sabemos Perder",
       "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
-    },
-    {
-      "added_at": "2024-08-16 11:51:03",
-      "album": {
-        "name": "Inadaptados",
-        "url": "https://open.spotify.com/album/27KSLddcDyno8Wm3kYweQV"
-      },
-      "artists": [
-        {
-          "name": "Cicatriz",
-          "url": "https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz"
-        }
-      ],
-      "duration_ms": 147653,
-      "name": "Escupe",
-      "url": "https://open.spotify.com/track/0OJWKkFRxkWYU8Ml5e7DA3"
     },
     {
       "added_at": "2024-08-16 11:51:03",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-08-16 11:51:03",
       "album": {
-        "name": "Confrontaci\u00f3n",
-        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 195049,
-      "name": "Enemigo a las Puertas",
-      "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
-    },
-    {
-      "added_at": "2024-08-16 11:51:03",
-      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 130632,
       "name": "La Historia se Repite",
       "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
+    },
+    {
+      "added_at": "2024-08-16 11:51:03",
+      "album": {
+        "name": "Confrontaci\u00f3n",
+        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "duration_ms": 195049,
+      "name": "Enemigo a las Puertas",
+      "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
     },
     {
       "added_at": "2024-08-16 11:51:03",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-08-16 11:51:03",
       "album": {
-        "name": "Su Acierto",
-        "url": "https://open.spotify.com/album/5ttntv8iVQSKCHBpAhRRqr"
-      },
-      "artists": [
-        {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
-        }
-      ],
-      "duration_ms": 165739,
-      "name": "Su Acierto",
-      "url": "https://open.spotify.com/track/2M3WZ5z8yjKpD59NtRMUCO"
-    },
-    {
-      "added_at": "2024-08-16 11:51:03",
-      "album": {
         "name": "Ser Libre",
         "url": "https://open.spotify.com/album/6pSCu7cIDEYDgfEnNV5PXH"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 216250,
       "name": "Ser Libre",
       "url": "https://open.spotify.com/track/1MyuImQY7hqjOMNs9MOf7N"
+    },
+    {
+      "added_at": "2024-08-16 11:51:03",
+      "album": {
+        "name": "Su Acierto",
+        "url": "https://open.spotify.com/album/5ttntv8iVQSKCHBpAhRRqr"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        }
+      ],
+      "duration_ms": 165739,
+      "name": "Su Acierto",
+      "url": "https://open.spotify.com/track/2M3WZ5z8yjKpD59NtRMUCO"
     },
     {
       "added_at": "2024-08-16 11:51:03",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-16 11:51:03",
       "album": {
-        "name": "Arder\u00e1n",
-        "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
-      },
-      "artists": [
-        {
-          "name": "\u00daltimo Rekurso",
-          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
-        }
-      ],
-      "duration_ms": 182335,
-      "name": "Arder\u00e1n",
-      "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
-    },
-    {
-      "added_at": "2024-08-16 11:51:03",
-      "album": {
         "name": "No tengas miedo",
         "url": "https://open.spotify.com/album/3CB3ovIgQUIzHDgceDsCIa"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 188738,
       "name": "No tengas miedo",
       "url": "https://open.spotify.com/track/3y58bmBOOQeEUnU7wg5VsV"
+    },
+    {
+      "added_at": "2024-08-16 11:51:03",
+      "album": {
+        "name": "Arder\u00e1n",
+        "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
+      },
+      "artists": [
+        {
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+        }
+      ],
+      "duration_ms": 182335,
+      "name": "Arder\u00e1n",
+      "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
     },
     {
       "added_at": "2024-08-16 11:51:03",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-08-16 11:51:03",
       "album": {
+        "name": "Generaci\u00f3n Enferma",
+        "url": "https://open.spotify.com/album/2QGVrZCY9kiwebp5hYP2xb"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        }
+      ],
+      "duration_ms": 166886,
+      "name": "Generaci\u00f3n Enferma",
+      "url": "https://open.spotify.com/track/1kkDnsuAqg3t9aS8fhMATd"
+    },
+    {
+      "added_at": "2024-08-16 11:51:03",
+      "album": {
         "name": "Y el Que Sea Feo Que Haga los Recaos de Noche",
         "url": "https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne"
       },
@@ -1319,18 +1335,50 @@
     {
       "added_at": "2024-08-16 11:51:03",
       "album": {
-        "name": "Generaci\u00f3n Enferma",
-        "url": "https://open.spotify.com/album/2QGVrZCY9kiwebp5hYP2xb"
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/7DXcd7kx5qZ5Ig7G3YW5XG"
       },
       "artists": [
         {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+          "name": "Botijo",
+          "url": "https://open.spotify.com/artist/3z2FFbYE0YeU7FddwT3iBu"
         }
       ],
-      "duration_ms": 166886,
-      "name": "Generaci\u00f3n Enferma",
-      "url": "https://open.spotify.com/track/1kkDnsuAqg3t9aS8fhMATd"
+      "duration_ms": 221189,
+      "name": "Fuera de Lugar",
+      "url": "https://open.spotify.com/track/1F6Twsu2NXTj63796f98k9"
+    },
+    {
+      "added_at": "2024-08-16 11:51:03",
+      "album": {
+        "name": "A Quien Pueda Interesar (Remasterizado 2024)",
+        "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
+      },
+      "artists": [
+        {
+          "name": "Salvate Si Puedes",
+          "url": "https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac"
+        }
+      ],
+      "duration_ms": 165786,
+      "name": "S\u00e1lvate Si Puedes - Remasterizado 2024",
+      "url": "https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9"
+    },
+    {
+      "added_at": "2024-08-16 11:51:03",
+      "album": {
+        "name": "Nada que me haga resurgir",
+        "url": "https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI"
+      },
+      "artists": [
+        {
+          "name": "A Cuchillo",
+          "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Nada que me haga resurgir",
+      "url": "https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt"
     },
     {
       "added_at": "2024-08-16 11:51:03",
@@ -1355,54 +1403,6 @@
     {
       "added_at": "2024-08-16 11:51:03",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/7DXcd7kx5qZ5Ig7G3YW5XG"
-      },
-      "artists": [
-        {
-          "name": "Botijo",
-          "url": "https://open.spotify.com/artist/3z2FFbYE0YeU7FddwT3iBu"
-        }
-      ],
-      "duration_ms": 221189,
-      "name": "Fuera de Lugar",
-      "url": "https://open.spotify.com/track/1F6Twsu2NXTj63796f98k9"
-    },
-    {
-      "added_at": "2024-08-16 11:51:03",
-      "album": {
-        "name": "Nada que me haga resurgir",
-        "url": "https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI"
-      },
-      "artists": [
-        {
-          "name": "A Cuchillo",
-          "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Nada que me haga resurgir",
-      "url": "https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt"
-    },
-    {
-      "added_at": "2024-08-16 11:51:03",
-      "album": {
-        "name": "A Quien Pueda Interesar (Remasterizado 2024)",
-        "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
-      },
-      "artists": [
-        {
-          "name": "Salvate Si Puedes",
-          "url": "https://open.spotify.com/artist/67ewRE9t9RsKG7pOWZtaac"
-        }
-      ],
-      "duration_ms": 165786,
-      "name": "S\u00e1lvate Si Puedes - Remasterizado 2024",
-      "url": "https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9"
-    },
-    {
-      "added_at": "2024-08-16 11:51:03",
-      "album": {
         "name": "Humanos",
         "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-08-16 11:51:03",
       "album": {
-        "name": "Lev\u00e1ntate",
-        "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
-      },
-      "artists": [
-        {
-          "name": "Demenzia Sozial",
-          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
-        }
-      ],
-      "duration_ms": 232307,
-      "name": "Lev\u00e1ntate",
-      "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
-    },
-    {
-      "added_at": "2024-08-16 11:51:03",
-      "album": {
         "name": "Una Noche M\u00e1s",
         "url": "https://open.spotify.com/album/4ejbet0sT4xw2xs4IAmxE7"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 212785,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/4nUVcqvsg0jq4Z0KEfttXw"
+    },
+    {
+      "added_at": "2024-08-16 11:51:03",
+      "album": {
+        "name": "Lev\u00e1ntate",
+        "url": "https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5"
+      },
+      "artists": [
+        {
+          "name": "Demenzia Sozial",
+          "url": "https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O"
+        }
+      ],
+      "duration_ms": 232307,
+      "name": "Lev\u00e1ntate",
+      "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
     },
     {
       "added_at": "2024-08-16 11:51:03",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-08-16 11:51:03",
       "album": {
-        "name": "Influencers",
-        "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
-      },
-      "artists": [
-        {
-          "name": "\u00daltimo Rekurso",
-          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
-        }
-      ],
-      "duration_ms": 246493,
-      "name": "Influencers",
-      "url": "https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG"
-    },
-    {
-      "added_at": "2024-08-16 11:51:03",
-      "album": {
         "name": "Mundo Muerto",
         "url": "https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 157482,
       "name": "Mundo Muerto",
       "url": "https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1"
+    },
+    {
+      "added_at": "2024-08-16 11:51:03",
+      "album": {
+        "name": "Influencers",
+        "url": "https://open.spotify.com/album/0aLb1OseJN1zVxtXTS84r2"
+      },
+      "artists": [
+        {
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+        }
+      ],
+      "duration_ms": 246493,
+      "name": "Influencers",
+      "url": "https://open.spotify.com/track/3QeyHS6OYXDuoNXeePq2TG"
     },
     {
       "added_at": "2024-08-16 11:51:03",

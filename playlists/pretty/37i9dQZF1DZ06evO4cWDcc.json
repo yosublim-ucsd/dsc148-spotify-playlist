@@ -1,12 +1,12 @@
 {
   "description": "This is Jimi Hendrix. The essential tracks, all in one playlist.",
-  "num_followers": 309299,
+  "num_followers": 309349,
   "original_name": "This Is Jimi Hendrix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZskigAAAAACw/wR0aEYvp27F5c8+yTs3",
+  "snapshot_id": "Zsp0AAAAAACpY6lkOz1aEpI6DOUqZ6Hc",
   "tracks": [
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Valleys Of Neptune",
-        "url": "https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg"
+        "name": "Rainbow Bridge",
+        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 242493,
-      "name": "Valleys of Neptune",
-      "url": "https://open.spotify.com/track/6ooxzFS76CKSy4eVF5jiSM"
+      "duration_ms": 364626,
+      "name": "Hey Baby (New Rising Sun)",
+      "url": "https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rainbow Bridge",
-        "url": "https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz"
+        "name": "Valleys Of Neptune",
+        "url": "https://open.spotify.com/album/7eUNTNfvaUpe0SjsoyzsCg"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 364626,
-      "name": "Hey Baby (New Rising Sun)",
-      "url": "https://open.spotify.com/track/5IAQMk5kTyapufseqmvwjm"
+      "duration_ms": 242493,
+      "name": "Valleys of Neptune",
+      "url": "https://open.spotify.com/track/6ooxzFS76CKSy4eVF5jiSM"
     },
     {
       "added_at": null,

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > 
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 228,911 likes - 716 songs - 1 day 16 hr 11 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 228,917 likes - 716 songs - 1 day 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mr\. Skii](https://open.spotify.com/track/2PwWZ6NySkxwGBx9A2x5Ke) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 2:09 |
-| 2 | [Open The Door \(feat\. Veeze\)](https://open.spotify.com/track/0YfkXaX6m716DaIIf0G3bm) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 2:09 |
-| 3 | [Met Gala](https://open.spotify.com/track/6M2LoHQotHbp3Jh7A59ITN) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 2:38 |
-| 4 | [Stick 2 The Code](https://open.spotify.com/track/51CDse3o4IE3pti80zidjl) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 2:54 |
-| 5 | [7 AM in Munich \(feat\. Kodak Black\)](https://open.spotify.com/track/3t8MGSsf0IpjpIt1XyLOBP) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 3:03 |
+| 1 | [2 Slippery \(feat\. BossMan Dlow\)](https://open.spotify.com/track/62oLxos6R04SVYL1lXidvu) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr\. Skii](https://open.spotify.com/album/4XqpSvwcjnoR5YP5lBLuTi) | 2:39 |
+| 2 | [Mr\. Skii](https://open.spotify.com/track/2PwWZ6NySkxwGBx9A2x5Ke) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 2:09 |
+| 3 | [Open The Door \(feat\. Veeze\)](https://open.spotify.com/track/0YfkXaX6m716DaIIf0G3bm) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 2:09 |
+| 4 | [Met Gala](https://open.spotify.com/track/6M2LoHQotHbp3Jh7A59ITN) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 2:38 |
+| 5 | [Stick 2 The Code](https://open.spotify.com/track/51CDse3o4IE3pti80zidjl) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Mr\. Skii](https://open.spotify.com/album/16m0Bonzn2KIGJv83V6Dvk) | 2:54 |
 | 6 | [Die For Me \(feat\. SoFaygo\)](https://open.spotify.com/track/71wFqlDVzfD0W7N1zkNxdC) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Die For Me \(feat\. SoFaygo\)](https://open.spotify.com/album/2y9PiTvhucDSzRMJCeekGJ) | 3:05 |
 | 7 | [How Tf I'm Rookie](https://open.spotify.com/track/38fGTyAZobvt65pxJHFpOE) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Navy Wavy](https://open.spotify.com/album/2Y0sVUECK4Ss3G2QYYLk2w) | 2:27 |
 | 8 | [TRAPPER HITTER SCAMMER](https://open.spotify.com/track/1fYRPx1Cy9IC4e43PhSnhc) | [HMT TRAY](https://open.spotify.com/artist/5PI3T8xABdYHl8b0NvHTxH) | [PUBLIC ENEMY](https://open.spotify.com/album/19ntHZwVQhNsrgFSferRuU) | 1:33 |
@@ -725,4 +725,4 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 | 715 | [She Knows This](https://open.spotify.com/track/1xzUQMiCoY5pdego0pHMeV) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 3:36 |
 | 716 | [I'm Popular](https://open.spotify.com/track/5M52IdGX44PZJYjUkw5gQ0) | [Test](https://open.spotify.com/artist/6O1CuDVI7hqFCbLzCJHZsd) | [I'm Popular](https://open.spotify.com/album/3YR9mudLgDfaV6vlmlTBxU) | 3:17 |
 
-Snapshot ID: `AAAKRoA3uPQDAnhK9RK+4NWQ9p3UfLff`
+Snapshot ID: `AAAKSFkvGD+YHWA+4JGz3eQHkXcB7CWp`

@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 
 ### [ฮิปฮอป R.E.A.L\. ](https://open.spotify.com/playlist/37i9dQZF1DX7ccGNvU862z)
 
-> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: 1MILL
+> Rhyme Elite Artist League เพลย์ลิสต์ฮิปฮอปของจริง ฮิปฮอป R.E.A.L\. ศิลปิน: DIAMOND MQT
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,254 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,275 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ตัวพ่อจะรอไร](https://open.spotify.com/track/2f5fn1DLiocCdgJ86BvfhL) | [MQT Squad](https://open.spotify.com/artist/7MhFtit9ul3ufsMwtUwiif), [1st](https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E) | [ตัวพ่อจะรอไร](https://open.spotify.com/album/3e93pTBMC2t2QcB4qwYbpk) | 3:18 |
+| 1 | [คนเฮงซวย](https://open.spotify.com/track/5ZhjKE6NddnFN1bQsLItwb) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c) | [คนเฮงซวย](https://open.spotify.com/album/1FlrC0edsnLYWk9n9JVUyd) | 2:23 |
 | 2 | [G.T.B \(Get That Bag\)](https://open.spotify.com/track/1Zx106eaVyCPAg3QuTBtD7) | [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [G.T.B \(Get That Bag\)](https://open.spotify.com/album/33on9ie2MBik0Urmud60my) | 1:59 |
-| 3 | [คนเฮงซวย](https://open.spotify.com/track/5ZhjKE6NddnFN1bQsLItwb) | [DIAMOND MQT](https://open.spotify.com/artist/0O6y1pr1YIKq65c6N3sI9c) | [คนเฮงซวย](https://open.spotify.com/album/1FlrC0edsnLYWk9n9JVUyd) | 2:23 |
+| 3 | [ตัวพ่อจะรอไร](https://open.spotify.com/track/2f5fn1DLiocCdgJ86BvfhL) | [MQT Squad](https://open.spotify.com/artist/7MhFtit9ul3ufsMwtUwiif), [1st](https://open.spotify.com/artist/5p5YOMEbKadO6P7e4YxwKC), [P6ICK](https://open.spotify.com/artist/52IxFzldfmZmsLcF078dnY), [2K](https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E) | [ตัวพ่อจะรอไร](https://open.spotify.com/album/3e93pTBMC2t2QcB4qwYbpk) | 3:18 |
 | 4 | [SORRY](https://open.spotify.com/track/2ayGJpuQFrTlIYVQ8iNPY8) | [MILLI](https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [DREAMGALS](https://open.spotify.com/album/1wO0DoelfsTdP5v858tgEB) | 3:17 |
 | 5 | [02100](https://open.spotify.com/track/1EXw7rqJcFIvMtj4Q8fhKw) | [T!NE](https://open.spotify.com/artist/325C5PNmvA8luRIOYy1dmQ) | [02100](https://open.spotify.com/album/12oOyuofnmOMAOQxV1cyhB) | 4:40 |
 | 6 | [Kiss for luv](https://open.spotify.com/track/4N0LiJT8lMajHnLv5F5Iho) | [Kennocha](https://open.spotify.com/artist/4x2ikRZkZoyUukv8H39nCP), [Jungji](https://open.spotify.com/artist/6mAPxjjlPXBT4PCcrfRxJX), [Migbizzy](https://open.spotify.com/artist/4y6TH6aD9FvcKrWfwEmEUM) | [Kiss for luv](https://open.spotify.com/album/0e7bxXmH5DbN8PzCZJnHkV) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ccGNvU862z.md) - [plain]
 | 49 | [MUSE](https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [MUSE](https://open.spotify.com/album/0JApBQ8xuOnFPw32RnoGrS) | 3:27 |
 | 50 | [ฉบับท้ายสุด](https://open.spotify.com/track/6OTlqL40FtkkwBEjiQSiDT) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [ฉบับท้ายสุด](https://open.spotify.com/album/1mBxtzaoEjfBJrKoiDe8xi) | 2:31 |
 
-Snapshot ID: `Zsj46wAAAAC9Jxa2JjxVrbw8E/IYLdk/`
+Snapshot ID: `ZswmbAAAAABKdyPpoOdIBhcjem+FkFi2`

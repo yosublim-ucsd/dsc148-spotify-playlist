@@ -4,7 +4,7 @@
 
 > Dream away with sleep sounds of nature and green noise frequencies \- water, ocean sounds and breaking waves.
 
-140 songs - 6 hr 26 min
+142 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Green Noise \- Busy Waves](https://open.spotify.com/track/45kPJRDQzTrD1yzXFlp9iz) | [Sleep Recorders](https://open.spotify.com/artist/7h5XfS9TXa3VZEoiVHRheY) | [Green Sleep Noise](https://open.spotify.com/album/1Ye7g943rA8l6Rkv99RCtz) | 2:05 | 2023-10-05 |  |
 | [Green Noise \- Calm Waves](https://open.spotify.com/track/6nGG05J1C33eYMvf5WXixT) | [The Noise Generator](https://open.spotify.com/artist/3GIwszk9gdJUbYk6LnuNOj) | [Soft Green Noise](https://open.spotify.com/album/5FH8F4EH75oKcua1Lp4e6w) | 2:08 | 2023-10-05 |  |
 | [Green Noise \- Cascade](https://open.spotify.com/track/3ivb6w3eGniig9ICfKmQA0) | [HQ\-10](https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5) | [The Sound of Nature](https://open.spotify.com/album/4rx0xAvGRQlQ2ailLzflJS) | 2:08 | 2023-10-05 |  |
+| [Green Noise \- Gentle Waves](https://open.spotify.com/track/0IHASP181EcNox0ewsoybS) | [Nature Trudge](https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK) | [Sea Of Green Noise](https://open.spotify.com/album/4rIv9KBmNXWnA3Liup9OAR) | 2:44 | 2024-08-26 |  |
 | [Green Noise \- Ocean Breeze](https://open.spotify.com/track/5h6Br3pJj6BTabvRZ4x61i) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Calming Green Noise](https://open.spotify.com/album/1t2tklsezdnFpxj80K1b3C) | 2:14 | 2023-10-05 |  |
 | [Green Noise \- Rough Waters](https://open.spotify.com/track/3pJw6F5CnU2LipNWmLC9Gr) | [Emotion Noise](https://open.spotify.com/artist/0XTezy73pxparkt03R0nWw) | [Green Noise Focus](https://open.spotify.com/album/08zuQcwCQID4xMV5lPTQvJ) | 2:13 | 2023-10-05 |  |
 | [Green Noise \- Sleep Well](https://open.spotify.com/track/4cDUY4YR4c7WulvUm8aiMu) | [Noise Sleep Machine](https://open.spotify.com/artist/5p8Dy1K1Bvp7HnCGxpY7FI) | [Fall Asleep Green Noise](https://open.spotify.com/album/3e5IgyFI6fr04GbUnptvFO) | 2:22 | 2023-10-05 |  |
@@ -110,6 +111,7 @@
 | [Mossy Meditation \- Green Noise](https://open.spotify.com/track/34SUEroznWC8R56VYSGKx1) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Mossy Meditation Green Noise Soundscapes](https://open.spotify.com/album/2EWdGfEhmnO4uiG2zhz56k) | 3:36 | 2023-10-05 |  |
 | [Movements \(500 Hz LP, 100 Hz HP\)](https://open.spotify.com/track/0SRqKEj7uiXP1FSCycYXUz) | [NC2 LABORATORIES](https://open.spotify.com/artist/4GuuCagyjrhs4IeWuIkkqH) | [Green Noise For Sleep](https://open.spotify.com/album/1sZdqcTAisbduusYXNk9LK) | 3:20 | 2023-10-05 |  |
 | [Natural Green Noise](https://open.spotify.com/track/6EodoSR2tA2MHHCoGTFpGV) | [Proper Noises](https://open.spotify.com/artist/5SVSuYcrKCVhrNSeXHF0qr) | [Nature Green Noise](https://open.spotify.com/album/0zS5JyqQnUWy8JQRBcqPsv) | 2:31 | 2023-10-05 |  |
+| [Neptune Green Noise](https://open.spotify.com/track/5CDwR0HOPH0WXgYnr2Sixd) | [Ocean Roar](https://open.spotify.com/artist/0o0rFNhdMAzctv0rVhzDlP) | [Neptune Green Noise](https://open.spotify.com/album/4zDUyXUPswCA8WDjf5f0VJ) | 2:40 | 2024-08-26 |  |
 | [Ocean & Green Noise](https://open.spotify.com/track/2LnDnnmccy05sFQnUHynO6) | [Focus Green Noise](https://open.spotify.com/artist/5n6QDUuszyPrGnSU1XSA5q) | [Green Noise Therapy](https://open.spotify.com/album/0AtCnIpFfdrfImeERGg6g4) | 3:10 | 2024-02-13 |  |
 | [Ocean Green Noise](https://open.spotify.com/track/4Dbawrmc5nJfSJNyQWUCnf) | [Auplaudios](https://open.spotify.com/artist/60ij1zmMyrIFCA09Md4xk4) | [Relaxing Green Noise](https://open.spotify.com/album/2mzdebneyQf4dEJWuI07ZF) | 2:15 | 2023-10-05 |  |
 | [Ocean Sound & Green Noise](https://open.spotify.com/track/1WUclaGCtNyrwQwwKLNAOU) | [Proper Noises](https://open.spotify.com/artist/5SVSuYcrKCVhrNSeXHF0qr) | [Nature Green Noise](https://open.spotify.com/album/0zS5JyqQnUWy8JQRBcqPsv) | 2:14 | 2023-10-05 |  |

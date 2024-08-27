@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 176098,
+  "num_followers": 176192,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Shadow (I'm Breaking Down)",
-        "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 218121,
-      "name": "Shadow (I'm Breaking Down)",
-      "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "The Teaches of Peaches",
         "url": "https://open.spotify.com/album/6gFOrIOM2TwzoRvobkpn1a"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 250693,
       "name": "Fuck the Pain Away",
       "url": "https://open.spotify.com/track/0NWWDumjD2TCrR6iV6ZFgR"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Shadow (I'm Breaking Down)",
+        "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 218121,
+      "name": "Shadow (I'm Breaking Down)",
+      "url": "https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Beg For The Torture",
-        "url": "https://open.spotify.com/album/3xyCcmV6rCwlkn25PSFudQ"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 85476,
-      "name": "Beg For The Torture",
-      "url": "https://open.spotify.com/track/0DOiFrVWt9hfhF1JWgzKiN"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Clear Hearts Grey Flowers",
         "url": "https://open.spotify.com/album/7GmU3mfzXDwS68kpuFMczP"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 223631,
       "name": "Strawberry Gashes",
       "url": "https://open.spotify.com/track/6BbUeBm35cYoGUy70rqsG8"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Beg For The Torture",
+        "url": "https://open.spotify.com/album/3xyCcmV6rCwlkn25PSFudQ"
+      },
+      "artists": [
+        {
+          "name": "Destroy Boys",
+          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
+        }
+      ],
+      "duration_ms": 85476,
+      "name": "Beg For The Torture",
+      "url": "https://open.spotify.com/track/0DOiFrVWt9hfhF1JWgzKiN"
     },
     {
       "added_at": "2024-07-22 20:24:37",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-07-22 20:24:37",
       "album": {
-        "name": "Bostin' Steve Austin (Splendiferous Edition)",
-        "url": "https://open.spotify.com/album/0nnWj1MAGSXUhyO9A5RsLZ"
-      },
-      "artists": [
-        {
-          "name": "Fuzzbox",
-          "url": "https://open.spotify.com/artist/6iKe6ON2rZrdXbuuhI3Gat"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Love Is the Slug - Bargainous Longerer Mix",
-      "url": "https://open.spotify.com/track/7pZiRYuRekNV92Qfl1iXDK"
-    },
-    {
-      "added_at": "2024-07-22 20:24:37",
-      "album": {
         "name": "Such Friends Are Dangerous",
         "url": "https://open.spotify.com/album/64pXp0YdAZQdvhEcoBSd3B"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 188226,
       "name": "Watchmaker",
       "url": "https://open.spotify.com/track/5IatbAKD0k9sObgXS6RyQC"
+    },
+    {
+      "added_at": "2024-07-22 20:24:37",
+      "album": {
+        "name": "Bostin' Steve Austin (Splendiferous Edition)",
+        "url": "https://open.spotify.com/album/0nnWj1MAGSXUhyO9A5RsLZ"
+      },
+      "artists": [
+        {
+          "name": "Fuzzbox",
+          "url": "https://open.spotify.com/artist/6iKe6ON2rZrdXbuuhI3Gat"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Love Is the Slug - Bargainous Longerer Mix",
+      "url": "https://open.spotify.com/track/7pZiRYuRekNV92Qfl1iXDK"
     },
     {
       "added_at": "2024-07-22 20:24:37",

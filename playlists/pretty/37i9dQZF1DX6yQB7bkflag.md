@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Pamungkas
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,174 likes - 112 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,166 likes - 112 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

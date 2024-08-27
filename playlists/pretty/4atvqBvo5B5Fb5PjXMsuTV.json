@@ -1,13 +1,133 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Aug 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Aug 22:03 UTC.",
   "num_followers": 83,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAKusCZlfB02a4LBjnE5Yinq9khlkis",
+  "snapshot_id": "AAAKwOfczKi4ARLLaaW8cz4RKpuCqI1x",
   "tracks": [
+    {
+      "added_at": "2024-08-26 22:03:05",
+      "album": {
+        "name": "Not Linear",
+        "url": "https://open.spotify.com/album/2x7CDxnBDVenYcLBUeCiwA"
+      },
+      "artists": [
+        {
+          "name": "Subsonic Eye",
+          "url": "https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie"
+        }
+      ],
+      "duration_ms": 268190,
+      "name": "Not Linear",
+      "url": "https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo"
+    },
+    {
+      "added_at": "2024-08-26 10:03:28",
+      "album": {
+        "name": "Comets (with Petra Sihombing)",
+        "url": "https://open.spotify.com/album/4iba7OSissrRZrmO4awBzC"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        },
+        {
+          "name": "Petra Sihombing",
+          "url": "https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW"
+        }
+      ],
+      "duration_ms": 235026,
+      "name": "Comets (with Petra Sihombing)",
+      "url": "https://open.spotify.com/track/4DORdPh0YOYXrOlPi1qRG5"
+    },
+    {
+      "added_at": "2024-08-26 22:03:05",
+      "album": {
+        "name": "When He\u2019s Not There (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/4wbY1m1O17LJx00KoN6oQN"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 268401,
+      "name": "When He\u2019s Not There (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10"
+    },
+    {
+      "added_at": "2024-08-26 10:03:28",
+      "album": {
+        "name": "Feeling A Way",
+        "url": "https://open.spotify.com/album/5NZheHHybnGWymired1xYi"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "Feeling A Way",
+      "url": "https://open.spotify.com/track/6h5ZddL24wXcFDj6DVbk4W"
+    },
+    {
+      "added_at": "2024-08-26 04:03:29",
+      "album": {
+        "name": "GOOME",
+        "url": "https://open.spotify.com/album/4kmRKz6oAadBMXckMwJYse"
+      },
+      "artists": [
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "GOOME",
+      "url": "https://open.spotify.com/track/2xlkd2uQW8yfbh9r4eEhpb"
+    },
+    {
+      "added_at": "2024-08-26 22:03:05",
+      "album": {
+        "name": "Paint this love",
+        "url": "https://open.spotify.com/album/0p1dpS5MWo8ICRgfrStKym"
+      },
+      "artists": [
+        {
+          "name": "JUN. K",
+          "url": "https://open.spotify.com/artist/4m69UKabjuuaoayREZud9h"
+        }
+      ],
+      "duration_ms": 213176,
+      "name": "Paint this love",
+      "url": "https://open.spotify.com/track/5ZUjkot1jE8nXbq4obaXPm"
+    },
+    {
+      "added_at": "2024-08-26 04:03:29",
+      "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/639X1kE2s1ZD2dmhihOWLr"
+      },
+      "artists": [
+        {
+          "name": "ADYA",
+          "url": "https://open.spotify.com/artist/4J4tJMuTHFBLuNE93GGvDW"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "RIZZ",
+      "url": "https://open.spotify.com/track/5SpQxEL0mJV5r5hS1a5G3J"
+    },
     {
       "added_at": "2024-08-25 22:02:46",
       "album": {
@@ -31,6 +151,38 @@
       "duration_ms": 99500,
       "name": "ANOINTING (FALL ON ME)",
       "url": "https://open.spotify.com/track/2MYh0CcF8dGciG2JoZtAX7"
+    },
+    {
+      "added_at": "2024-08-26 04:03:29",
+      "album": {
+        "name": "HOTEL EN HOTEL",
+        "url": "https://open.spotify.com/album/0RmPX6LnQOD10bpCDIFma8"
+      },
+      "artists": [
+        {
+          "name": "AgusFortnite2008",
+          "url": "https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe"
+        }
+      ],
+      "duration_ms": 101884,
+      "name": "HOTEL EN HOTEL",
+      "url": "https://open.spotify.com/track/1ZqdE2idBVhHLv7JasDrAu"
+    },
+    {
+      "added_at": "2024-08-26 22:03:05",
+      "album": {
+        "name": "Battle For Dream Island Song (BFDI)",
+        "url": "https://open.spotify.com/album/5sq3PB7mCYw7P0mv6SdHqO"
+      },
+      "artists": [
+        {
+          "name": "BENJIxScarlett",
+          "url": "https://open.spotify.com/artist/64kVSb4dkLnVtYAKnXCgP9"
+        }
+      ],
+      "duration_ms": 78960,
+      "name": "Battle For Dream Island Song (BFDI)",
+      "url": "https://open.spotify.com/track/6hyde78fE7RVbkyAbjYmk9"
     },
     {
       "added_at": "2024-08-25 04:02:58",
@@ -735,154 +887,6 @@
       "duration_ms": 141443,
       "name": "RABBITHOLE",
       "url": "https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR"
-    },
-    {
-      "added_at": "2024-08-23 22:02:47",
-      "album": {
-        "name": "crooked the road.",
-        "url": "https://open.spotify.com/album/43A0VxIP0ZZ39LRB3AKrCL"
-      },
-      "artists": [
-        {
-          "name": "Mon Rov\u00eea",
-          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "crooked the road.",
-      "url": "https://open.spotify.com/track/4OjdtASj8p9hTwS3D555wk"
-    },
-    {
-      "added_at": "2024-08-23 16:03:08",
-      "album": {
-        "name": "Lost Stars",
-        "url": "https://open.spotify.com/album/0QGnLwCbONkzCct605l0XJ"
-      },
-      "artists": [
-        {
-          "name": "New Radicals",
-          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
-        }
-      ],
-      "duration_ms": 267000,
-      "name": "Lost Stars",
-      "url": "https://open.spotify.com/track/6Btd8jhtyDi8fTw36fU59V"
-    },
-    {
-      "added_at": "2024-08-23 16:03:08",
-      "album": {
-        "name": "We All Meet Up In The End",
-        "url": "https://open.spotify.com/album/607lnh8iZa9ycSunepT3MT"
-      },
-      "artists": [
-        {
-          "name": "Attack Attack!",
-          "url": "https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb"
-        }
-      ],
-      "duration_ms": 176355,
-      "name": "We All Meet Up In The End",
-      "url": "https://open.spotify.com/track/6PXnz34sERoo33jtNjBabm"
-    },
-    {
-      "added_at": "2024-08-23 10:03:24",
-      "album": {
-        "name": "Il Tempo Cura",
-        "url": "https://open.spotify.com/album/16t4humL85l0QvihcPSYRN"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 152904,
-      "name": "Il Tempo Cura",
-      "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
-    },
-    {
-      "added_at": "2024-08-23 16:03:08",
-      "album": {
-        "name": "PowerNerd",
-        "url": "https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY"
-      },
-      "artists": [
-        {
-          "name": "Devin Townsend",
-          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
-        }
-      ],
-      "duration_ms": 208431,
-      "name": "PowerNerd",
-      "url": "https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV"
-    },
-    {
-      "added_at": "2024-08-23 22:02:47",
-      "album": {
-        "name": "Paper Cup",
-        "url": "https://open.spotify.com/album/0NQmRiFIkoGduRJ8Prnggn"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 196181,
-      "name": "Paper Cup",
-      "url": "https://open.spotify.com/track/6qYIxqCTc7JSpLrJEOMyML"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "Lonely Fight",
-        "url": "https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 229169,
-      "name": "Lonely Fight",
-      "url": "https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "Party In Bali (PIB)",
-        "url": "https://open.spotify.com/album/1H5xLltL7JBn10Ce9XZfTk"
-      },
-      "artists": [
-        {
-          "name": "AGNEZ MO",
-          "url": "https://open.spotify.com/artist/6pMR8Zgot664613rAiLC2Z"
-        }
-      ],
-      "duration_ms": 172501,
-      "name": "Party In Bali (PIB)",
-      "url": "https://open.spotify.com/track/0spo1IvT6CrCLDTVT7ue0O"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "\u041b\u0430\u0433\u0435\u0440\u043d\u0430\u044f",
-        "url": "https://open.spotify.com/album/4wToVBMqvsSp8rJnrRgvdJ"
-      },
-      "artists": [
-        {
-          "name": "FRIENDLY THUG 52 NGG",
-          "url": "https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV"
-        },
-        {
-          "name": "SALUKI",
-          "url": "https://open.spotify.com/artist/07tFgedhta5b5WaF0Yj4bH"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "\u041b\u0430\u0433\u0435\u0440\u043d\u0430\u044f",
-      "url": "https://open.spotify.com/track/0hBkQ3Dtxoql2YSnQA2o4g"
     }
   ],
   "unique_name": "New Singles Now",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Vangelis. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 106091,
+  "description": "This Is Vangelis. Los temas esenciales, todos en una lista.",
+  "num_followers": 106096,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZskigAAAAADoLoqubo1XvSKpWNKMBXsB",
+  "snapshot_id": "Zsp0AAAAAACgJj2zhnwg8Ou/b0Yqo3rz",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 463773,
+      "name": "Fields of Coral",
+      "url": "https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariangela",
         "url": "https://open.spotify.com/album/6ax0VRKI8Maf6OyNIKUX4J"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 221622,
       "name": "My Dear Life",
       "url": "https://open.spotify.com/track/52Wvl8ZDJKrmLYpnr9aT4C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 463773,
-      "name": "Fields of Coral",
-      "url": "https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8"
     }
   ],
   "unique_name": "This Is Vangelis",

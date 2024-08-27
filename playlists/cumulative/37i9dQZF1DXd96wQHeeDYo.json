@@ -31,6 +31,32 @@
     },
     {
       "album": {
+        "name": "NFTL",
+        "url": "https://open.spotify.com/album/6r8DDVdAuLC1UzfG0s981X"
+      },
+      "artists": [
+        {
+          "name": "DIAZZ TM",
+          "url": "https://open.spotify.com/artist/0RcY4NqjmxH9C3fxmV896d"
+        },
+        {
+          "name": "Balaguer",
+          "url": "https://open.spotify.com/artist/2DQpVJxY8N8dHBXEztTYyz"
+        },
+        {
+          "name": "Jord\u00e1n",
+          "url": "https://open.spotify.com/artist/5lysF0N87Tl3AXSeAdAhLx"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "23",
+      "url": "https://open.spotify.com/track/2dYTN3zGnJR8BGORUL8P2N"
+    },
+    {
+      "album": {
         "name": "EL AFTER DEL AFTER",
         "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
       },
@@ -286,7 +312,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 134212,
       "name": "Bad Manners",
       "url": "https://open.spotify.com/track/6HK0zQ7P9pqBW5yZLB82JS"
@@ -528,7 +554,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 131330,
       "name": "callaito",
       "url": "https://open.spotify.com/track/4MzA8Gx7dhGNUXQUbGkTEa"
@@ -572,7 +598,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 157006,
       "name": "CEO",
       "url": "https://open.spotify.com/track/5kJI1wP6SITe0gcufpTB69"
@@ -620,7 +646,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 184615,
       "name": "Chula",
       "url": "https://open.spotify.com/track/7COjo6auwuJGkb5xy61lQU"
@@ -1045,6 +1071,28 @@
     },
     {
       "album": {
+        "name": "Flash\u00e9 Amor",
+        "url": "https://open.spotify.com/album/1BNDh7X6zKwWVOLGIpUwuk"
+      },
+      "artists": [
+        {
+          "name": "Rayder",
+          "url": "https://open.spotify.com/artist/33PpkcHB2eCvphzqqqDAmC"
+        },
+        {
+          "name": "Marti Urdiroz",
+          "url": "https://open.spotify.com/artist/1rgAWYvj3cMUrwfdsSemDI"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147216,
+      "name": "Flash\u00e9 Amor",
+      "url": "https://open.spotify.com/track/4VIkepYtGK05XzFyrG5HN4"
+    },
+    {
+      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/44wIL1Jn3pPFN4dw6Rk14D"
       },
@@ -1148,6 +1196,28 @@
       "duration_ms": 147201,
       "name": "Funk Rave",
       "url": "https://open.spotify.com/track/0DouMZxp99d0AVDQPz6shx"
+    },
+    {
+      "album": {
+        "name": "Salvadora",
+        "url": "https://open.spotify.com/album/6zU4EmRM6uuVfUUZkLZoBr"
+      },
+      "artists": [
+        {
+          "name": "Baskiat",
+          "url": "https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU"
+        },
+        {
+          "name": "RK wavy",
+          "url": "https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "funkoh",
+      "url": "https://open.spotify.com/track/19THXlsjKNMLxyIspMppkf"
     },
     {
       "album": {
@@ -1312,6 +1382,24 @@
       "duration_ms": 168556,
       "name": "Innuendo",
       "url": "https://open.spotify.com/track/5pGFEsSUP5O3J8HMz3gfc6"
+    },
+    {
+      "album": {
+        "name": "I LAY DOWN MY LIFE FOR YOU",
+        "url": "https://open.spotify.com/album/1ezs1QD5SYQ6LtxpC9y5I2"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150280,
+      "name": "it's dark and hell is hot",
+      "url": "https://open.spotify.com/track/74qqnKs6sfAbSwlFECJjOR"
     },
     {
       "album": {
@@ -1785,6 +1873,28 @@
     },
     {
       "album": {
+        "name": "misteriosa (xulinho)",
+        "url": "https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "misteriosa (xulinho)",
+      "url": "https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK"
+    },
+    {
+      "album": {
         "name": "MONTAGEM - PR FUNK",
         "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
       },
@@ -1918,6 +2028,28 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "album": {
+        "name": "Nova Gera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6TpyB4LaTkl6JiIgw5ES3O"
+      },
+      "artists": [
+        {
+          "name": "Menino Gutto",
+          "url": "https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws"
+        },
+        {
+          "name": "Loli Trash",
+          "url": "https://open.spotify.com/artist/1I9lmqBlB35A9nIdJfA1XX"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208413,
+      "name": "Nova Gera\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1PstJBLhKtRWS08hb9UVXX"
     },
     {
       "album": {
@@ -2241,6 +2373,32 @@
     },
     {
       "album": {
+        "name": "Se Arm\u00f3 La Peda",
+        "url": "https://open.spotify.com/album/5sLjhIYq6Fl3HdbR976mwZ"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146076,
+      "name": "Se Arm\u00f3 La Peda",
+      "url": "https://open.spotify.com/track/48eey3rJEMC2eQvVn6Cd6k"
+    },
+    {
+      "album": {
         "name": "Ba\u00fal 2",
         "url": "https://open.spotify.com/album/1euVCsaWFIYeWwbXfZUSHh"
       },
@@ -2282,6 +2440,24 @@
       "duration_ms": 153636,
       "name": "SENTAKIKI",
       "url": "https://open.spotify.com/track/1ALPr1f6IDJRvvA5ToVe69"
+    },
+    {
+      "album": {
+        "name": "SHADAE FREESHTYLE",
+        "url": "https://open.spotify.com/album/4NWni0gR5LWQ8r3oHoDbz2"
+      },
+      "artists": [
+        {
+          "name": "Shanae",
+          "url": "https://open.spotify.com/artist/4hHwz6dfb9rarQOUGf9ajx"
+        }
+      ],
+      "date_added": "2024-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130671,
+      "name": "SHADAE FREESHTYLE",
+      "url": "https://open.spotify.com/track/1Ry2dktxmj2Wamoq0ZBEnV"
     },
     {
       "album": {
@@ -2374,7 +2550,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 157582,
       "name": "SIN PATENTE (feat. Croniko)",
       "url": "https://open.spotify.com/track/4BW8CjPqTC2kmVdV12DLWl"
@@ -2434,7 +2610,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 145912,
       "name": "Solterosky",
       "url": "https://open.spotify.com/track/6AS7iD8o56oa2p7TH8COnd"
@@ -2588,7 +2764,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 110909,
       "name": "Thief",
       "url": "https://open.spotify.com/track/712F0I8gcS7Bzl6fIiHd8J"
@@ -2862,7 +3038,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-27",
       "duration_ms": 171721,
       "name": "Vida Bakana",
       "url": "https://open.spotify.com/track/1fGCLVsdnv9kuUrpBAj7Vg"
