@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Kaśka Sochacka
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,158 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,163 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 46 | [Fearless](https://open.spotify.com/track/38c4yTxQFXBUPzbm63wDKA) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga) | [LIPSTICK ON THE GLASS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qQrPXtwP2IlcYsS2f1I6A) | 2:32 |
 | 47 | [Pali się](https://open.spotify.com/track/1i12hVu5PadQQ2DvZIFi5i) | [Winogradzki Lew](https://open.spotify.com/artist/3x0dWLbZj9iSuIdXFDY3dy) | [Pali się](https://open.spotify.com/album/1GDjcVXqNg0C1igMEnEbeD) | 2:52 |
 | 48 | [Rdza](https://open.spotify.com/track/2BMzX2WrAvltatKAwojiER) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX), [Zespół Pieśni i Tańca Śląsk](https://open.spotify.com/artist/73L5GZ2KVgguSth6DnNNpU), [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Rdza](https://open.spotify.com/album/4DUBDIc7OrLEdSi6OcdJ2T) | 5:21 |
-| 49 | [Płomyk](https://open.spotify.com/track/4s2ZXzrVeuj8WwbMEaOtdu) | [KOLORY](https://open.spotify.com/artist/1P95gCESH2kyAAUOl1GWsd), [Sebastian Dawid Szuła](https://open.spotify.com/artist/4aNXwtmY7MT6mo6DhaqfWL), [Igor Dawid Talarczyk](https://open.spotify.com/artist/0DmZuehQBqxeLDfxyOVwaj), [Olaf Rykała](https://open.spotify.com/artist/1rDdAKAi712H8I0NHn4Kge) | [Płomyk](https://open.spotify.com/album/54utpxuZYwNtmIs4d4IXiN) | 3:21 |
+| 49 | [Płomyk](https://open.spotify.com/track/4s2ZXzrVeuj8WwbMEaOtdu) | [KOLORY](https://open.spotify.com/artist/1P95gCESH2kyAAUOl1GWsd) | [Płomyk](https://open.spotify.com/album/54utpxuZYwNtmIs4d4IXiN) | 3:21 |
 | 50 | [Ktoś](https://open.spotify.com/track/6JSzod8y7ovVlCENj7V0WV) | [the small town kids](https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk), [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [Ktoś](https://open.spotify.com/album/52tOlA2N5YrzOPbwyO12QE) | 2:36 |
 | 51 | [Zapach bzu](https://open.spotify.com/track/3cc8DmFFG7Ue9gDHPfdgQV) | [Drowsy Fawn](https://open.spotify.com/artist/4t3gqL8XGUEocHql23HlGy) | [Zapach bzu](https://open.spotify.com/album/3D01gQwNB6fZmLlSponBRI) | 4:06 |
 | 52 | [Być Obok](https://open.spotify.com/track/2OguWT50SuF1SQwJDtkBzy) | [zieliński](https://open.spotify.com/artist/75u3vQCTDHOWmYmby80Rs5), [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Być Obok](https://open.spotify.com/album/20apIiHUArncuHNpSF7j7p) | 3:07 |

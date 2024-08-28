@@ -1642,7 +1642,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 374413,
       "name": "No More Parties In LA",
       "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
@@ -1940,6 +1940,32 @@
     {
       "album": {
         "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247272,
+      "name": "RIVER",
+      "url": "https://open.spotify.com/track/5RzSnxqTx4vYEp9re5E0ud"
+    },
+    {
+      "album": {
+        "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
       },
       "artists": [
@@ -1958,7 +1984,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 247291,
       "name": "RIVER",
       "url": "https://open.spotify.com/track/27N2bd3ait2QOnprc4seCK"
@@ -2050,7 +2076,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 198060,
       "name": "SLIDE",
       "url": "https://open.spotify.com/track/1AIbZL0CDlzTJ1Bv4kBP4G"

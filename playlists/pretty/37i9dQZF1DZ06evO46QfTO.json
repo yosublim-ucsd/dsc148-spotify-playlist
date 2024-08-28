@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 73022,
+  "num_followers": 73030,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAADBTapR67ABAzfZZrMurq9u",
+  "snapshot_id": "ZsvFgAAAAAAhPG6NtROcbqHCYj1u08Zz",
   "tracks": [
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Line By Line (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Line By Line (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 174933,
       "name": "Redesigning Women",
       "url": "https://open.spotify.com/track/7IgYxRCJtp36BlDUEoLEg7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Line By Line (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Line By Line (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black",
-        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
-      },
-      "artists": [
-        {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "I'll Be The Moon",
-      "url": "https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black",
+        "url": "https://open.spotify.com/album/2GIrLP0PWskhZAJaHQtDux"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "I'll Be The Moon",
+      "url": "https://open.spotify.com/track/0kIlh2nOwIxx4SgoDrRWDG"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Restoration: The Songs Of Elton John And Bernie Taupin",
-        "url": "https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 304026,
-      "name": "Mona Lisas And Mad Hatters",
-      "url": "https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+        "name": "Restoration: The Songs Of Elton John And Bernie Taupin",
+        "url": "https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 186560,
-      "name": "Bummin' Cigarettes",
-      "url": "https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4"
+      "duration_ms": 304026,
+      "name": "Mona Lisas And Mad Hatters",
+      "url": "https://open.spotify.com/track/3sZpfLcumDW0henSU6wbie"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 187640,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 186560,
+      "name": "Bummin' Cigarettes",
+      "url": "https://open.spotify.com/track/1C9Pf4MPHdv0FtEGkHz8F4"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 240061,
-      "name": "I Wish I Was",
-      "url": "https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GIRL",
         "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 136546,
       "name": "Make Out With Me",
       "url": "https://open.spotify.com/track/1XfDYxQ8o7yZN7lbKECwHE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 240061,
+      "name": "I Wish I Was",
+      "url": "https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv"
     },
     {
       "added_at": null,
@@ -1023,26 +1023,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7"
+        "name": "Humble Quest",
+        "url": "https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw"
       },
       "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 221054,
-      "name": "Prove You Wrong",
-      "url": "https://open.spotify.com/track/4mWc6pp9qeSoQEZ2jYd7a0"
+      "duration_ms": 247400,
+      "name": "Detour",
+      "url": "https://open.spotify.com/track/2nijz65bLAu51eZLFQ0naN"
     }
   ],
   "unique_name": "This Is Maren Morris",

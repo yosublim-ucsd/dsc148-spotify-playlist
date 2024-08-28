@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,576,649 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,576,802 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 82 | [A Little Bit Yours](https://open.spotify.com/track/00cBcYOlnHoXX9ver3cmdE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Little Bit Yours](https://open.spotify.com/album/4s3G7RcXGNmjZeqVnqwhLM) | 3:45 |
 | 83 | [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 |
 | 84 | [Favourite Ex](https://open.spotify.com/track/1a1SQeSqUKzH5OUVTEx4ae) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Favourite Ex](https://open.spotify.com/album/0hIIlNhG6PZoQxCmSA24Uz) | 3:21 |
-| 85 | [Higher Love](https://open.spotify.com/track/7apw8m9lHQjvuUVfMAm4kZ) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Special Edition\)](https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i) | 3:35 |
-| 86 | [Nothing Like Us](https://open.spotify.com/track/30Co9eN7JHPf1i2wEyVSMJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7) | 3:19 |
-| 87 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 |
+| 85 | [Nothing Like Us](https://open.spotify.com/track/30Co9eN7JHPf1i2wEyVSMJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7) | 3:19 |
+| 86 | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/track/6GH4tLwGW6HliKbZBdt6hD) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Unlearn \(with Gracie Abrams\)](https://open.spotify.com/album/4uJ6MjXT079RciBfHyecTy) | 2:35 |
+| 87 | [Higher Love](https://open.spotify.com/track/7apw8m9lHQjvuUVfMAm4kZ) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Special Edition\)](https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i) | 3:35 |
 | 88 | [Wherever You Will Go](https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g) | [Charlene Soraia](https://open.spotify.com/artist/0qk8MxMzgnfFECvDO3cc0X) | [Wherever You Will Go](https://open.spotify.com/album/3cp5RYHZb5KUyglxaHd3Lh) | 3:17 |
 | 89 | [Heart Like Yours](https://open.spotify.com/track/3JOF9NzQVkUXtCcJbEQuAb) | [Willamette Stone](https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS) | [If I Stay \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2cpfXsbsHVNweQ4USbO6wu) | 3:19 |
 | 90 | [Yours](https://open.spotify.com/track/0Mq0reDcNpgmQkjHfzpJrp) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Chapter One \(Deluxe Version\)](https://open.spotify.com/album/6FM2zi33hm46NY9mk5jIV8) | 2:48 |

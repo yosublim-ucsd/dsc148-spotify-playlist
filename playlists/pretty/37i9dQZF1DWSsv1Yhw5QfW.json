@@ -1,6 +1,6 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 128843,
+  "num_followers": 128880,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Waking Up The Neighbours",
-        "url": "https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 393640,
-      "name": "(Everything I Do) I Do It For You",
-      "url": "https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Waking Up The Neighbours",
+        "url": "https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 393640,
+      "name": "(Everything I Do) I Do It For You",
+      "url": "https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P"
     },
     {
       "added_at": "2024-06-14 18:07:20",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "Soul Provider",
         "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 255666,
       "name": "How Am I Supposed to Live Without You",
       "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2024-06-14 18:07:20",

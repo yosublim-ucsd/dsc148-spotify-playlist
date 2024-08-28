@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 172920,
+  "num_followers": 172939,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAADcmy0cnZws4i1tPPajD3hU",
+  "snapshot_id": "ZsvFgAAAAABBluKc264uyQAdEv7PX9Mq",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Panic: It's Longer Now!",
-        "url": "https://open.spotify.com/album/7b3JowMC8FK0nToMlD4H1d"
+        "name": "The Forever Sessions - Vol. 1",
+        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
       },
       "artists": [
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Vic Fuentes",
-          "url": "https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx"
         }
       ],
-      "duration_ms": 213740,
-      "name": "A Love Like War (feat. Vic Fuentes)",
-      "url": "https://open.spotify.com/track/0TPF6uW7fhMXJPoBERqTy5"
+      "duration_ms": 176491,
+      "name": "Coffee Shop Soundtrack - ATL's Version",
+      "url": "https://open.spotify.com/track/2aC1jd0ehB0Zh8WYxwFZQ4"
     },
     {
       "added_at": null,
@@ -163,18 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Forever Sessions - Vol. 1",
-        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
+        "name": "Don't Panic: It's Longer Now!",
+        "url": "https://open.spotify.com/album/7b3JowMC8FK0nToMlD4H1d"
       },
       "artists": [
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Vic Fuentes",
+          "url": "https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx"
         }
       ],
-      "duration_ms": 176491,
-      "name": "Coffee Shop Soundtrack - ATL's Version",
-      "url": "https://open.spotify.com/track/2aC1jd0ehB0Zh8WYxwFZQ4"
+      "duration_ms": 213740,
+      "name": "A Love Like War (feat. Vic Fuentes)",
+      "url": "https://open.spotify.com/track/0TPF6uW7fhMXJPoBERqTy5"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
       "duration_ms": 187344,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/06v0btRazrSHDX4s1mXSex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Forever Sessions - Vol. 1",
+        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 195754,
+      "name": "Poppin' Champagne - ATL's Version",
+      "url": "https://open.spotify.com/track/0KnLqGI8QwIGDhf5HUvuNH"
     },
     {
       "added_at": null,
@@ -256,9 +272,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 195754,
-      "name": "Poppin' Champagne - ATL's Version",
-      "url": "https://open.spotify.com/track/0KnLqGI8QwIGDhf5HUvuNH"
+      "duration_ms": 222290,
+      "name": "Jasey Rae - ATL's Version",
+      "url": "https://open.spotify.com/track/29VPBSFEHubcBQneEStyDt"
     },
     {
       "added_at": null,
@@ -311,38 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Forever Sessions - Vol. 1",
-        "url": "https://open.spotify.com/album/2qlSxSXbP9cTjTfxDqQXXE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 222290,
-      "name": "Jasey Rae - ATL's Version",
-      "url": "https://open.spotify.com/track/29VPBSFEHubcBQneEStyDt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Damned If I Do Ya (Damned If I Don't)",
-      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PMA (feat. Pale Waves)",
         "url": "https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 191757,
       "name": "PMA (feat. Pale Waves)",
       "url": "https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Damned If I Do Ya (Damned If I Don't)",
+      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 227466,
-      "name": "Lost In Stereo",
-      "url": "https://open.spotify.com/track/2WO1QXoR1o0R1rYKAxF7Ya"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Wrong, It's Right",
         "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 216546,
       "name": "Six Feet Under The Stars",
       "url": "https://open.spotify.com/track/3MfRql0HwuxEZzGpoIC832"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 227466,
+      "name": "Lost In Stereo",
+      "url": "https://open.spotify.com/track/2WO1QXoR1o0R1rYKAxF7Ya"
     },
     {
       "added_at": null,

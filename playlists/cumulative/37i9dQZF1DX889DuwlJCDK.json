@@ -7937,6 +7937,24 @@
     },
     {
       "album": {
+        "name": "\u30cd\u30c3\u30c8\u30eb\u30fc\u30b6\u30fc",
+        "url": "https://open.spotify.com/album/6VnuHv0ekAZIIwuYWVXejC"
+      },
+      "artists": [
+        {
+          "name": "Ryukku to Soine Gohan",
+          "url": "https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "\u30cd\u30c3\u30c8\u30eb\u30fc\u30b6\u30fc",
+      "url": "https://open.spotify.com/track/2CZmZ95P9ZD28BKynvSeIf"
+    },
+    {
+      "album": {
         "name": "\u30ce\u30a4\u30ba\u30e9\u30b8\u30aa",
         "url": "https://open.spotify.com/album/64CnkI3V5AIKgz1i3p75a2"
       },
@@ -8254,7 +8272,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 240373,
       "name": "\u30d2\u30ab\u30ea\u30a2\u30a6",
       "url": "https://open.spotify.com/track/6AODTKAEuNgTfMpLTWEYXa"
@@ -9867,6 +9885,28 @@
     },
     {
       "album": {
+        "name": "\u5287\u60c5",
+        "url": "https://open.spotify.com/album/4hGjzGQASbMgJZkL1Mk1ly"
+      },
+      "artists": [
+        {
+          "name": "Qujila Yoluno Machi",
+          "url": "https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq"
+        },
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234830,
+      "name": "\u5287\u60c5",
+      "url": "https://open.spotify.com/track/0fCjIIB8HbVsxI1G5Fi3qo"
+    },
+    {
+      "album": {
         "name": "\u534a\u900f\u660e",
         "url": "https://open.spotify.com/album/4ODkYL1TGiTK9K11EqfHHG"
       },
@@ -10962,7 +11002,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 218884,
       "name": "\u611b\u9b54\u6027\u306e\u5973",
       "url": "https://open.spotify.com/track/4XJnJPf5meBZ3IrQCtE3Yy"
@@ -11812,7 +11852,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 245145,
       "name": "\u7126\u52d5",
       "url": "https://open.spotify.com/track/5jMhr5mbqgytUnPZBcHNmr"
@@ -12014,6 +12054,24 @@
       "duration_ms": 233882,
       "name": "\u76f8\u5909\u308f\u3089\u305a\u3001\u611b\u5909\u308f\u3089\u305a",
       "url": "https://open.spotify.com/track/6JZW68X5BcyBBpAepA3VM6"
+    },
+    {
+      "album": {
+        "name": "\u793e\u4f1a\u306e\u7a93",
+        "url": "https://open.spotify.com/album/7F5svuiFOfQk9nbukmemfV"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166538,
+      "name": "\u793e\u4f1a\u306e\u7a93",
+      "url": "https://open.spotify.com/track/6lUBiOrB0ilG4wQ0y86oOf"
     },
     {
       "album": {

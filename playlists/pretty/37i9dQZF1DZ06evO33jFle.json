@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 474665,
+  "num_followers": 474741,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABoiYoZbn5RAwk5NDmNPYVG",
+  "snapshot_id": "ZsvFgAAAAAAHJ38aCejitLV3xltvKfBI",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joyas Prestadas - Banda",
-        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+        "name": "La Misma Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 242226,
-      "name": "A Que No Le Cuentas - Banda",
-      "url": "https://open.spotify.com/track/6JcN0pwRcegqH1hyZcID15"
+      "duration_ms": 172013,
+      "name": "Ovarios",
+      "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Misma Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 172013,
-      "name": "Ovarios",
-      "url": "https://open.spotify.com/track/5M0xCMnbD2gDUfhRo5pvlT"
+      "duration_ms": 242226,
+      "name": "A Que No Le Cuentas - Banda",
+      "url": "https://open.spotify.com/track/6JcN0pwRcegqH1hyZcID15"
     },
     {
       "added_at": null,
@@ -635,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Patr\u00f3n - La Victoria",
+        "url": "https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "El Amor (feat. Jenni Rivera)",
+      "url": "https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -667,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Vida Loca",
-        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Dama Divina",
-      "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jenni",
         "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
       },
@@ -699,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Patr\u00f3n - La Victoria",
-        "url": "https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU"
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
       "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        },
         {
           "name": "Jenni Rivera",
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 248000,
-      "name": "El Amor (feat. Jenni Rivera)",
-      "url": "https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0"
+      "duration_ms": 156866,
+      "name": "Dama Divina",
+      "url": "https://open.spotify.com/track/4mznGgE31Oj2vDlrPNZLqx"
     },
     {
       "added_at": null,

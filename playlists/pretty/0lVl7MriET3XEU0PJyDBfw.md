@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 > House music therapy for the dance floor \- Submit: houseiumpromo@gmail.com
 
-[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,027 likes - 65 songs - 3 hr 23 min
+[Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,026 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

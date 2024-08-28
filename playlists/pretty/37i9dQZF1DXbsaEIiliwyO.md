@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: 結束バンド Kessoku Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,854 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,897 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 3 | [シルエット](https://open.spotify.com/track/3vWRsBKvOpj8iITRh8ERlZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/3MFXQmlK8U6Zwe3GjNSoxN) | 4:00 |
 | 4 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 5 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
-| 6 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
+| 6 | [蝶に結いた赤い糸](https://open.spotify.com/track/2FIuKRBk8ypEKUnrstY34j) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 3:29 |
 | 7 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
 | 8 | [夢幻](https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd), [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [夢幻](https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ) | 4:01 |
 | 9 | [LOVE 2000](https://open.spotify.com/track/3SgrOFXKKNcffg5jFvU5Cf) | [八奈見杏菜（CV: 遠野ひかる）](https://open.spotify.com/artist/6qWFyHAhTQF0wLIR4f2fcs) | [LOVE 2000](https://open.spotify.com/album/79O4DwN7zgXMwB29Ci3wOI) | 4:23 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 35 | [ミックスナッツ](https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ミックスナッツ](https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz) | 3:33 |
 | 36 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 37 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 |
-| 38 | [運命](https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [運命](https://open.spotify.com/album/2Y81L90yDhnCKmoPsxjh7e) | 3:43 |
-| 39 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 |
+| 38 | [リライト](https://open.spotify.com/track/3txqYlzoDZGLoW8MGll9tQ) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [ソルファ](https://open.spotify.com/album/56xQzwz8VKC3LOtvrI4g04) | 3:45 |
+| 39 | [運命](https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [運命](https://open.spotify.com/album/2Y81L90yDhnCKmoPsxjh7e) | 3:43 |
 | 40 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
 | 41 | [前前前世 \- movie ver.](https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 4:44 |
 | 42 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
 | 43 | [裸の勇者](https://open.spotify.com/track/5zdyuqPOZ6oR6a4ZtqI1vl) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:22 |
 | 44 | [第六感](https://open.spotify.com/track/22sQUmLhT8umlEhQzDrzfJ) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [第六感](https://open.spotify.com/album/6CTOnVKQhpsL1NeJQ3XyXF) | 3:11 |
 | 45 | [スターマーカー \(Album Mix\)](https://open.spotify.com/track/6NAtVhZ5LrvoKy2Gijr5gj) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [Honey & Darling](https://open.spotify.com/album/3IuxHkC9II53tjmZCIRwsL) | 3:33 |
-| 46 | [IGNITE](https://open.spotify.com/track/5ivhfpfnoHhD8rUI2t3aJG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:04 |
-| 47 | [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 |
+| 46 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
+| 47 | [IGNITE](https://open.spotify.com/track/5ivhfpfnoHhD8rUI2t3aJG) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 4:04 |
 | 48 | [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 |
-| 49 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 |
-| 50 | [unravel](https://open.spotify.com/track/3uyiyeKrVPjbMdFGe9sGas) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [unravel](https://open.spotify.com/album/3EvVwxsQkXYSuItQMbTshK) | 3:59 |
+| 49 | [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 |
+| 50 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 |
 
-Snapshot ID: `ZsdScAAAAAAZ2viwfZ+Dc33oix6IUHcJ`
+Snapshot ID: `Zs3p8AAAAADYrUVp+Mi2Vhdlp/XVqlPt`

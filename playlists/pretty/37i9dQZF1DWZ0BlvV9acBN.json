@@ -247,22 +247,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Deus Me Livre",
-        "url": "https://open.spotify.com/album/4Jrber98XBRx0un047U9Wv"
-      },
-      "artists": [
-        {
-          "name": "Igor Pinheiro de Lima",
-          "url": "https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Deus Me Livre",
-      "url": "https://open.spotify.com/track/3xahBuYxkf8xDKOghKDri6"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Jardim Dos Inocentes",
         "url": "https://open.spotify.com/album/6WBt57jyBlxr9F4kuWQL5s"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 370520,
       "name": "Jardim Dos Inocentes",
       "url": "https://open.spotify.com/track/6Jxs0BSse305oGyLW6aDKF"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Deus Me Livre",
+        "url": "https://open.spotify.com/album/4Jrber98XBRx0un047U9Wv"
+      },
+      "artists": [
+        {
+          "name": "Igor Pinheiro de Lima",
+          "url": "https://open.spotify.com/artist/1HG2T9YTGz6sreCoAVRfku"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Deus Me Livre",
+      "url": "https://open.spotify.com/track/3xahBuYxkf8xDKOghKDri6"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
+        "name": "Medley Corinhos de Fogo - Ao Vivo",
+        "url": "https://open.spotify.com/album/3E46QWTq6mddhz4o67GAjH"
+      },
+      "artists": [
+        {
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+        },
+        {
+          "name": "Jedson Aguiar",
+          "url": "https://open.spotify.com/artist/0CPfWYNtRHXEU2SnIZKNDg"
+        }
+      ],
+      "duration_ms": 164247,
+      "name": "Medley Corinhos de Fogo - Ao Vivo",
+      "url": "https://open.spotify.com/track/6f4FTnfOe8EJjbskXRnBHj"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
         "name": "Agora Eu Vivo Teu Amor",
         "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 208695,
       "name": "Grito de Katsbarnea",
       "url": "https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Medley Corinhos de Fogo - Ao Vivo",
-        "url": "https://open.spotify.com/album/3E46QWTq6mddhz4o67GAjH"
-      },
-      "artists": [
-        {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
-        },
-        {
-          "name": "Jedson Aguiar",
-          "url": "https://open.spotify.com/artist/0CPfWYNtRHXEU2SnIZKNDg"
-        }
-      ],
-      "duration_ms": 164247,
-      "name": "Medley Corinhos de Fogo - Ao Vivo",
-      "url": "https://open.spotify.com/track/6f4FTnfOe8EJjbskXRnBHj"
     },
     {
       "added_at": "2024-08-23 03:01:00",

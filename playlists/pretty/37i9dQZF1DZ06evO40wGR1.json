@@ -1,12 +1,12 @@
 {
-  "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 32974,
+  "description": "This Is Liran' Roll. Los temas esenciales, todos en una lista.",
+  "num_followers": 32987,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAA1uN5Y1j6TptT1U/9oBweS",
+  "snapshot_id": "ZsvFgAAAAAA8LuXweYj6ManEiZJl3WCq",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 302323,
-      "name": "Pensaba en Ti",
-      "url": "https://open.spotify.com/track/6aGKGvcWMiQOwvlnxAb9ho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disco de Aniversario",
         "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 195326,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/3cxoJ9W0VD9FJLHlPYcLQg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 302323,
+      "name": "Pensaba en Ti",
+      "url": "https://open.spotify.com/track/6aGKGvcWMiQOwvlnxAb9ho"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+        "name": "25 A\u00f1os De Resistencia (En Vivo)",
+        "url": "https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj"
       },
       "artists": [
         {
@@ -212,25 +212,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 224040,
-      "name": "La Flaca",
-      "url": "https://open.spotify.com/track/5PXTMJYqWNRdSD3pYWTzol"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 215527,
-      "name": "Memorias",
-      "url": "https://open.spotify.com/track/3XY2U7BaIaMtcJt8Z6V1Ta"
+      "duration_ms": 219271,
+      "name": "As\u00ed Es Mi Vida (En Vivo)",
+      "url": "https://open.spotify.com/track/5N5r3huZlmt9wBgBN5YUMR"
     },
     {
       "added_at": null,
@@ -251,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 215527,
+      "name": "Memorias",
+      "url": "https://open.spotify.com/track/3XY2U7BaIaMtcJt8Z6V1Ta"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quiero Cambiar (Remastered 2000)",
         "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
       },
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 A\u00f1os De Resistencia (En Vivo)",
-        "url": "https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj"
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 219271,
-      "name": "As\u00ed Es Mi Vida (En Vivo)",
-      "url": "https://open.spotify.com/track/5N5r3huZlmt9wBgBN5YUMR"
+      "duration_ms": 224040,
+      "name": "La Flaca",
+      "url": "https://open.spotify.com/track/5PXTMJYqWNRdSD3pYWTzol"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Aniversario",
-        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 266611,
-      "name": "D\u00e9jame",
-      "url": "https://open.spotify.com/track/4st4LrNbI9DKOFwBEZ1W3R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 132506,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/2Npx6hoMEEBiJDPXrZ3KOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 266611,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/4st4LrNbI9DKOFwBEZ1W3R"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Aniversario",
-        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 200388,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 243880,
       "name": "Diez Cuarenta y Siete",
       "url": "https://open.spotify.com/track/3imJOXUD815t4kSwrY8HwA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 200388,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Aniversario",
-        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 234057,
-      "name": "Ni\u00f1os de la Calle",
-      "url": "https://open.spotify.com/track/5BqUNhd6Ok2SxZsgCzaCsT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 242800,
       "name": "Josefina",
       "url": "https://open.spotify.com/track/3hI44ZnraKYADDH5tKo71q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Disco de Aniversario",
+        "url": "https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 234057,
+      "name": "Ni\u00f1os de la Calle",
+      "url": "https://open.spotify.com/track/5BqUNhd6Ok2SxZsgCzaCsT"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 A\u00f1os De Resistencia (En Vivo)",
-        "url": "https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 344633,
-      "name": "El \u00daltimo Viaje (En Vivo)",
-      "url": "https://open.spotify.com/track/3JWoomq9M2TL413JyaFojn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recuerdos",
         "url": "https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 258438,
       "name": "No Puedo So\u00f1ar",
       "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 A\u00f1os De Resistencia (En Vivo)",
+        "url": "https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 344633,
+      "name": "El \u00daltimo Viaje (En Vivo)",
+      "url": "https://open.spotify.com/track/3JWoomq9M2TL413JyaFojn"
     },
     {
       "added_at": null,

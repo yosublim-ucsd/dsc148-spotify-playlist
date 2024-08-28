@@ -123,22 +123,6 @@
     {
       "added_at": "2024-08-16 10:13:07",
       "album": {
-        "name": "RMCM",
-        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
-    },
-    {
-      "added_at": "2024-08-16 10:13:07",
-      "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex"
+    },
+    {
+      "added_at": "2024-08-16 10:13:07",
+      "album": {
+        "name": "RMCM",
+        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 87000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "added_at": "2024-08-16 10:13:07",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-08-16 10:13:07",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 225973,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
-    },
-    {
-      "added_at": "2024-08-16 10:13:07",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 176632,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
+    },
+    {
+      "added_at": "2024-08-16 10:13:07",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 225973,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx"
     },
     {
       "added_at": "2024-08-16 10:13:07",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-08-16 10:13:07",
       "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "There It Goes",
+      "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
+    },
+    {
+      "added_at": "2024-08-16 10:13:07",
+      "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
@@ -1247,6 +1263,26 @@
     {
       "added_at": "2024-08-16 10:13:07",
       "album": {
+        "name": "nie wieder normal",
+        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
+      },
+      "artists": [
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
+        }
+      ],
+      "duration_ms": 197618,
+      "name": "nie wieder normal",
+      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
+    },
+    {
+      "added_at": "2024-08-16 10:13:07",
+      "album": {
         "name": "Miss Me Too",
         "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
       },
@@ -1259,22 +1295,6 @@
       "duration_ms": 182064,
       "name": "Miss Me Too",
       "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
-    },
-    {
-      "added_at": "2024-08-16 10:13:07",
-      "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "There It Goes",
-      "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
     },
     {
       "added_at": "2024-08-16 10:13:07",
@@ -1295,26 +1315,6 @@
       "duration_ms": 163043,
       "name": "How Far Is Your Love (with Los Lonely Boys)",
       "url": "https://open.spotify.com/track/2ZrioVBvBpKZXOd8tWcmzR"
-    },
-    {
-      "added_at": "2024-08-16 10:13:07",
-      "album": {
-        "name": "nie wieder normal",
-        "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
-      },
-      "artists": [
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        },
-        {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        }
-      ],
-      "duration_ms": 197618,
-      "name": "nie wieder normal",
-      "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
     },
     {
       "added_at": "2024-08-16 10:13:07",

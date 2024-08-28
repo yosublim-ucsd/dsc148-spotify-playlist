@@ -4,7 +4,7 @@
 
 > < insert emo glitter gif here >
 
-117 songs - 7 hr 9 min
+118 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Hello Fascination](https://open.spotify.com/track/1y8lFR39LJlYEdmxyUsXbA) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Hello Fascination](https://open.spotify.com/album/04mqej2VPYCufws8yIFWEy) | 3:22 | 2023-10-20 |  |
 | [Hello Seattle](https://open.spotify.com/track/6kIpxmFQ35wgI3cK77LKbx) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Ocean Eyes \(Deluxe Version\)](https://open.spotify.com/album/1KQIB9AYz2TWTxYoDW2A35) | 2:47 | 2023-10-20 |  |
 | [Here \(In Your Arms\)](https://open.spotify.com/track/1GV98LUEVk1U3LWAkX2Apw) | [Hellogoodbye](https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde) | [Zombies! Aliens! Vampires! Dinosaurs!](https://open.spotify.com/album/6caG763FP5oUCdxklebHh6) | 4:00 | 2022-08-18 | 2024-04-19 |
+| [Here \(In Your Arms\)](https://open.spotify.com/track/4z1gmF4S1YsTj1pxiU47Qx) | [Hellogoodbye](https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde) | [Zombies! Aliens! Vampires! Dinosaurs! And More!](https://open.spotify.com/album/4xS0NB3U8IOAobyyJy09Yk) | 4:00 | 2023-10-20 |  |
 | [Heregoesnothin](https://open.spotify.com/track/4eaLY5pOPsgKzs37woeTRz) | [Never Shout Never](https://open.spotify.com/artist/5pUmXBIQtqpvdV1HAy2xYC) | [The Yippee EP](https://open.spotify.com/album/1oFeg6t9ToYo6DgGwb47Fm) | 3:26 | 2023-10-20 |  |
 | [Hot Mess](https://open.spotify.com/track/18eoNBn1L1li2TvPa2DupB) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY) | [Hot Mess](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) | 2:52 | 2023-10-20 |  |
 | [How You Love Me Now](https://open.spotify.com/track/4hIY051enSBBJ5fzZUzTSU) | [Hey Monday](https://open.spotify.com/artist/6we2CCxymhh4v30lZRhhpa) | [Hold On Tight](https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln) | 3:17 | 2023-10-20 |  |
@@ -95,7 +96,7 @@
 | [Screaming Infidelities](https://open.spotify.com/track/1VViTGNqiNV8zwe3b3tE09) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [The Places You Have Come to Fear the Most](https://open.spotify.com/album/2b6f60fUMb0wSWWyFXBLfv) | 3:46 | 2023-10-20 | 2024-04-19 |
 | [Shake It](https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe) | [Metro Station](https://open.spotify.com/artist/7vXwfZyDp3spzIVNXDaTPN) | [Metro Station](https://open.spotify.com/album/2tZnyjZ6Orm55gE8bqJ3UG) | 2:59 | 2022-08-18 |  |
 | [Silver And Cold](https://open.spotify.com/track/6RGV97HIkgZJjme2dzilfg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 4:10 | 2022-08-18 |  |
-| [Since U Been Gone](https://open.spotify.com/track/1HykUKaVU0CEUvv1vLKkXj) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [For Those Who Have Heart Re\-Issue](https://open.spotify.com/album/1tVzHnNzqvnpUgeThbHJF7) | 3:18 | 2023-10-20 |  |
+| [Since U Been Gone](https://open.spotify.com/track/1HykUKaVU0CEUvv1vLKkXj) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [For Those Who Have Heart Re\-Issue](https://open.spotify.com/album/1tVzHnNzqvnpUgeThbHJF7) | 3:18 | 2023-10-20 | 2024-08-28 |
 | [Since U Been Gone](https://open.spotify.com/track/45oBSaWml0fU1S6qcHcpxF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [For Those Who Have Heart \(Deluxe Edition\)](https://open.spotify.com/album/4HEUcIsYZNkvMWQkIIEJYq) | 3:18 | 2022-08-18 | 2024-04-19 |
 | [Somebody Told Me](https://open.spotify.com/track/7HGTkn2aX7MNdKs7nV2xBt) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4undIeGmofnAYKhnDclN1w) | 3:17 | 2023-10-20 |  |
 | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:17 | 2022-08-18 | 2024-04-19 |

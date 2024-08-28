@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,139 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,427 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 63 | [Isla Virgen](https://open.spotify.com/track/64H6jtyJEzjXV1hqN1w3B1) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Enamorado De Ti](https://open.spotify.com/album/0Rt8zwYRxLwfhLqvmQZdzR) | 3:00 |
 | 64 | [Vuelve Por Favor](https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 3:29 |
 | 65 | [El Ranchero Chido](https://open.spotify.com/track/12wG2c9gS7pwSndBZTB4XI) | [Vaquero's Musical](https://open.spotify.com/artist/0OOdJ5wjxXrPKGtLhxRVa1) | [Super Exitos](https://open.spotify.com/album/3FgnbvpmigNrgsaJAeCZL0) | 2:43 |
-| 66 | [Tri Triki Tri Traka](https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [A Bailar Quebradita Y De Caballito](https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie) | 2:38 |
-| 67 | [El Papalotito](https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv) | [Banda El Pueblito](https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm) | [Los 20 para Coleccionar](https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF) | 2:37 |
-| 68 | [Al Mismo Nivel](https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 2:22 |
+| 66 | [El Papalotito](https://open.spotify.com/track/39TNrfFgNsQlSaVkMCW3Uv) | [Banda El Pueblito](https://open.spotify.com/artist/15myS3NDS2iwVo2gyCl2rm) | [Los 20 para Coleccionar](https://open.spotify.com/album/61L7qffqpjWVCTbxjFS9QF) | 2:37 |
+| 67 | [Al Mismo Nivel](https://open.spotify.com/track/3j4JOeXU20JrrYGHXCr1EY) | [Banda Arkangel R\-15](https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE) | [Tesoros De Coleccion](https://open.spotify.com/album/3COLgk4Sk5EwFVXm4P6Mo3) | 2:22 |
+| 68 | [Tri Triki Tri Traka](https://open.spotify.com/track/3LecG08dRUwo8RY8VvvG3X) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [A Bailar Quebradita Y De Caballito](https://open.spotify.com/album/0aAEJ91XDFx3MpfVZcE9Ie) | 2:38 |
 | 69 | [El Baile de la Cachucha](https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Baile de la Cachucha](https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl) | 2:55 |
 | 70 | [Hablando Claro](https://open.spotify.com/track/0gqoQHLcWzZcls7KzYd6xT) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Hablando Claro](https://open.spotify.com/album/6RsUI2bxtHfbGTV5EnCILh) | 2:17 |
 | 71 | [Y Nos Dieron Las Diez](https://open.spotify.com/track/5VkxZvqAG7uJNWB9ZuP2ok) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 3:51 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 78 | [Nieves De Enero](https://open.spotify.com/track/1s0Jzgg7S6yR4PAvmJOSfB) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chalino Sánchez con Banda Brava](https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK) | 3:32 |
 | 79 | [El Penal De La Loma](https://open.spotify.com/track/3umpEnkOEPTdbCELamakQF) | [La Numero 1 Banda Jerez De Marco A\. Flores](https://open.spotify.com/artist/5KMVb0Y20BTIrobzI2YZUi) | [Me Gustan Las Viejas Buenas](https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD) | 2:51 |
 | 80 | [Son Las Dos De La Mañana](https://open.spotify.com/track/3K5sjhg9VMOH5jSw58DHmH) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar con Tambora](https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM) | 2:37 |
-| 81 | [El Baile Nuevo](https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 2:55 |
+| 81 | [Chiquitita](https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 3:47 |
 | 82 | [Que Bonita Te Vez](https://open.spotify.com/track/0WPcxm4Q68rjTnljKv7tzh) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 3:30 |
 | 83 | [Llévame Rosas Y Olvida](https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Africanos Al Ataque](https://open.spotify.com/album/05W649wdes7jKusqma34Gn) | 3:25 |
 | 84 | [Juro Por Dios](https://open.spotify.com/track/6osud8uV5xJV9eODR6del5) | [Banda Tierra Blanca](https://open.spotify.com/artist/1Y8dOnSKslODbDNr5DmTuB) | [Cosas De La Vida](https://open.spotify.com/album/1w5pqUdSrGOMgUbVVfb8Ri) | 3:20 |
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 87 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/355sdIGsNoFpGz5hqLL6EA) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Cuando Los Hombres Lloran](https://open.spotify.com/album/0wL6K5Tee6JIF3rxBv9GH2) | 2:16 |
 | 88 | [Esta Tristeza Mía](https://open.spotify.com/track/0LyxlSgDPmm9nCstkWgZmp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar con Tambora](https://open.spotify.com/album/3Kx7iLgoKnlwsd2D4TapvM) | 3:29 |
 | 89 | [Hasta La Miel Amarga](https://open.spotify.com/track/0FpI0nJLp0xE9rSf2VE7PD) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 3:09 |
-| 90 | [Chiquitita](https://open.spotify.com/track/5yyuwY8ql8iiivBGWhsVow) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 3:47 |
+| 90 | [El Baile Nuevo](https://open.spotify.com/track/7cG8NhUwc1NhxxcmIIiWbJ) | [Banda Brava](https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk) | [Chiquitita](https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5) | 2:55 |
 | 91 | [Luna Llena](https://open.spotify.com/track/3fcZhUdSkz9VNRVx7Hu69v) | [Banda M\-1](https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT) | [Exitos De Banda M\-1](https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ) | 2:18 |
 | 92 | [Estrellita Marinera](https://open.spotify.com/track/0NatF9wNvUjWVOVGaYKDuf) | [Jorge Luis Cabrera con Banda Tierra Blanca](https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr) | [Música Romántica](https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD) | 2:14 |
 | 93 | [Para Morir Iguales](https://open.spotify.com/track/37tG6I3qhaYuXQrmb65O7c) | [Nico Flores Y Su Banda Puro Mazatlán](https://open.spotify.com/artist/6WcMKSNQdcj4BlR52fhsrF) | [Voy Navegando](https://open.spotify.com/album/6e8UxG17eo7xQ6zDyzIDAg) | 3:41 |

@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-326 songs - 1 day 7 hr 14 min
+327 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Grande É O Senhor \- Ao Vivo](https://open.spotify.com/track/0DR8OCMH9Vv966ZOdWykGp) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Memórias 2 \(Ao Vivo\)](https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO) | 4:06 | 2023-06-23 | 2024-04-20 |
 | [Grandes Coisas \- Ao Vivo](https://open.spotify.com/track/6oUMdwHNYiBcf8oWrx2hj1) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Uma Nova História \(ao Vivo\)](https://open.spotify.com/album/6fEAuJNkuAFCUJms25Konq) | 4:57 | 2022-09-09 |  |
 | [Gratidão \(Gratitude\)](https://open.spotify.com/track/3sR3rQ3iBgTEDpZQ8fgrxv) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Gratidão \(Gratitude\)](https://open.spotify.com/album/0mP7as70Wcc6A7ZoOGZx9q) | 4:35 | 2024-04-26 |  |
-| [Gratidão \- Ao Vivo](https://open.spotify.com/track/405k0ytvCjYtN7MgW21Ob4) | [Guilherme Baptista](https://open.spotify.com/artist/5x4Y87AzN2ejeUh0Z76T49), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Gratidão \(Ao Vivo\)](https://open.spotify.com/album/1WxfWMxabVcVyDvMWXYhVm) | 6:10 | 2024-08-16 |  |
+| [Gratidão \- Ao Vivo](https://open.spotify.com/track/405k0ytvCjYtN7MgW21Ob4) | [Guilherme Baptista](https://open.spotify.com/artist/5x4Y87AzN2ejeUh0Z76T49), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS) | [Gratidão \(Ao Vivo\)](https://open.spotify.com/album/1WxfWMxabVcVyDvMWXYhVm) | 6:10 | 2024-08-16 | 2024-08-28 |
 | [Grato Sou](https://open.spotify.com/track/66Z9NK2ydHCRf8nzVTkdiE) | [Israel Soares](https://open.spotify.com/artist/0qK2qFPXIi5KKpOVQSFfA5), [Bob Jonathan](https://open.spotify.com/artist/1YzJ5MfR1MifWecgW9KG5s) | [Grato Sou](https://open.spotify.com/album/3liy8YW701jQR0tCWZIjwC) | 4:26 | 2024-04-19 | 2024-06-21 |
 | [Graves Into Gardens \(Live\)](https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Graves Into Gardens \(Live\)](https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh) | 7:32 | 2022-09-09 | 2023-01-14 |
 | [Grita! \(Shout!\) \- Ao Vivo](https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Deixa Vir \- Vol II \(Ao Vivo\)](https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE) | 4:41 | 2024-01-05 | 2024-04-20 |
@@ -332,6 +332,7 @@
 | [É Jesus \(Ao Vivo\)](https://open.spotify.com/track/7nHPvZM13ckEpxauxF505o) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [É Jesus \(Ao Vivo\)](https://open.spotify.com/album/4UWpM2Rhi9trDC9jevaMl9) | 7:31 | 2024-04-19 | 2024-08-17 |
 | [É Tudo Sobre Você \- Ao Vivo](https://open.spotify.com/track/7HMdbgEuBQHTcitMmhfmB9) | [MORADA](https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN) | [É Tudo Sobre Você \(Ao Vivo\)](https://open.spotify.com/album/6dYnB33nT7G2RhhfOQr6ok) | 6:12 | 2023-06-23 | 2024-08-17 |
 | [És Fiel \- Ao Vivo](https://open.spotify.com/track/4m0Nt1EV6rAKTkWCylIzO9) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade e Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/5j0f8bR03wez6tjrHpiKUN) | 7:58 | 2023-11-24 | 2023-12-16 |
+| [Único \- Acústico](https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Único \- Acústico](https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb) | 8:26 | 2024-08-27 |  |
 | [Único \- Ao Vivo](https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Marco Telles](https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ) | [Único \(Ao Vivo\)](https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT) | 7:36 | 2023-02-17 | 2023-07-08 |
 | [Único \- Live](https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 6:59 | 2023-04-15 |  |
 

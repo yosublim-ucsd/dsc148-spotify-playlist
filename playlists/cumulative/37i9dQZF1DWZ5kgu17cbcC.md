@@ -2,7 +2,7 @@
 
 ### [Hulu Hits](https://open.spotify.com/playlist/37i9dQZF1DWZ5kgu17cbcC)
 
-> Music from shows and movies you love including The Greatest Hits, now streaming on Hulu.
+> Music from shows and movies you love including Only Murders In The Building, now streaming on Hulu.
 
 104 songs - 4 hr 52 min
 

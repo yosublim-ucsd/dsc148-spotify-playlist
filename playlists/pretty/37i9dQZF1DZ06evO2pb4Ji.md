@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This Is League of Legends\. Los temas esenciales, todos en una lista.
+> This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,024 likes - 51 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,015 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 36 | [Shine On](https://open.spotify.com/track/4NL6HJer1ViiI2BEWO1d3c) | [Legends of Runeterra](https://open.spotify.com/artist/3rZDp6jeBal6cdTyi50EYb), [Brain Tan](https://open.spotify.com/artist/3K9UVvuVwQZbO35b8uBsdb), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Shine On](https://open.spotify.com/album/0TATIDURuDWbpmq54rOzFn) | 3:52 |
 | 37 | [Rise \(Redux\)](https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Rise \(Redux\)](https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC) | 3:14 |
 | 38 | [Mi Clan](https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Clan](https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo) | 2:18 |
-| 39 | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab) | 4:01 |
-| 40 | [Aurora, the Witch Between Worlds](https://open.spotify.com/track/6ilIDnxRnLam92QARefoc3) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aurora, the Witch Between Worlds](https://open.spotify.com/album/2Cm34CjKMF3N25ag6M728j) | 3:24 |
+| 39 | [Aurora, the Witch Between Worlds](https://open.spotify.com/track/6ilIDnxRnLam92QARefoc3) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aurora, the Witch Between Worlds](https://open.spotify.com/album/2Cm34CjKMF3N25ag6M728j) | 3:24 |
+| 40 | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab) | 4:01 |
 | 41 | [REMIX RUMBLE](https://open.spotify.com/track/1AG7YrtmqKDQTe3wpBXKhp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [REMIX RUMBLE \(Steve Aoki Remix\)](https://open.spotify.com/album/1Dk05oKAHWIFyN5kIWlTQ5) | 3:37 |
 | 42 | [Burning Bright](https://open.spotify.com/track/6d2cQyhS2E4ai0VuNCorFC) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Burning Bright](https://open.spotify.com/album/25DYEijVSAPC4w9R1BxtsS) | 3:07 |
 | 43 | [Coming Alive](https://open.spotify.com/track/6BeqTTy15ExY8rFFY6aQRk) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Vo Williams](https://open.spotify.com/artist/18KIg6ST1nUjVUvAlEB6ak), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Soul Fighter \(Original Soundtrack\)](https://open.spotify.com/album/6WtdFxF33VJGO1gy3Gl1Ga) | 3:27 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 48 | [Volibear, the Relentless Storm](https://open.spotify.com/track/6wMKi4VyXoxUHAOOJIJ1by) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Volibear, the Relentless Storm](https://open.spotify.com/album/76VWvyYXtwPv3gX2gVOR8z) | 3:18 |
 | 49 | [Set It Off](https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [JIMMYCLINE](https://open.spotify.com/artist/4Z6fYh9ANGOfOSylYE5gZz) | [Set It Off](https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W) | 2:30 |
 | 50 | [I'll Find a Way](https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Echoes of Light](https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC) | 3:25 |
-| 51 | [No Chill \(Heartsteel\)](https://open.spotify.com/track/1emAJEM01rwnLpd0dL4OaO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [REMIX RUMBLE \(Original Soundtrack from Teamfight Tactics Set 10\)](https://open.spotify.com/album/0MH5waArFmz3ipOISR7ViT) | 3:14 |
+| 51 | [Seraphine, the Starry\-Eyed Songstress](https://open.spotify.com/track/29kJz9cOUnTVOKwQWbQCsh) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Seraphine](https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv), [Jasmine Clarke](https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc) | [Seraphine, the Starry\-Eyed Songstress](https://open.spotify.com/album/4C4R2RGv446YfoWhIz3i8O) | 4:37 |
 
-Snapshot ID: `Zsp0AAAAAADg/gP+3vQb0b55HRco49Ix`
+Snapshot ID: `ZsvFgAAAAADhNnV7BynN+GeGFpGErR5R`

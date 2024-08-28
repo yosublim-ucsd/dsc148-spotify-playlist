@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,416 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,429 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 42 | [My Adidas](https://open.spotify.com/track/5qC0fuGzssqHvNQsHmOdnh) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Greatest Hits](https://open.spotify.com/album/6pJciZv8HMs7imWW9s9J6P) | 2:48 |
 | 43 | [Yer Country](https://open.spotify.com/track/18Jvfw20hhne8pnV9nqGC2) | [U.S\. Bombs](https://open.spotify.com/artist/2yu3SWTzbVW04uIxegRzkP) | [Back At The Laundromat](https://open.spotify.com/album/1lYqc1zvv4qQWrt7NbRVEH) | 2:15 |
 | 44 | [Subculture \- Dieselboy + Kaos VIP](https://open.spotify.com/track/7rWZVdKcbIJ0MHWNou7h7Y) | [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX), [Dieselboy + Kaos](https://open.spotify.com/artist/5rUbUsiHSY0ZLZ9CRNpb5V) | [Subculture](https://open.spotify.com/album/4v5LKF5xITSZ6rjKnV1c84) | 7:09 |
-| 45 | [Blitzkrieg Bop \- 2001 Remaster](https://open.spotify.com/track/2hrF1aiAFGa7bWgt2qhyrc) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Greatest Hits](https://open.spotify.com/album/7g7SbdTnbvrA1hGYHwLEn8) | 2:12 |
+| 45 | [Blitzkrieg Bop \- 1999 Remaster](https://open.spotify.com/track/2hrF1aiAFGa7bWgt2qhyrc) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Greatest Hits](https://open.spotify.com/album/7g7SbdTnbvrA1hGYHwLEn8) | 2:12 |
 | 46 | [By The Time I Get To Arizona](https://open.spotify.com/track/7MAy72e8quAzhfesU4MMY5) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [25th Anniversary Collection](https://open.spotify.com/album/62dTgSntFHwhx34YFEzJMd) | 4:48 |
 | 47 | [Bloodstains](https://open.spotify.com/track/3fj5W7oDAv8RzGdidy4nfn) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Punk & Nasty](https://open.spotify.com/album/2JXzfEi3LIPTlGnZmAVMYh) | 2:09 |
 | 48 | [Afraid of Heights](https://open.spotify.com/track/0P44AUPRzaIAHNWquN0fGR) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Afraid of Heights](https://open.spotify.com/album/6frG0tN5DQbV26LFKbjYTu) | 3:45 |

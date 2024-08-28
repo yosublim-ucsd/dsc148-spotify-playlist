@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 
 > This is Alfredo Olivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,170 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,563 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 34 | [Autorízame](https://open.spotify.com/track/73ru3QGQcVC3Az72bSaP0C) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [THE BEST OF](https://open.spotify.com/album/6AGQnGYk0tZZs0RJxHHTyi) | 3:04 |
 | 35 | [La Mejor De Las Historias](https://open.spotify.com/track/7B5W4cddzkBppgnbcu4syz) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:35 |
 | 36 | [Tres Tiros](https://open.spotify.com/track/2emeqNzdm71GXY2aADYGHJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:29 |
-| 37 | [Cobijas Ajenas](https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Cobijas Ajenas](https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M) | 2:40 |
-| 38 | [A Estas Horas](https://open.spotify.com/track/7hiFcSUWRVotWd2pxhRIDJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [A Estas Horas](https://open.spotify.com/album/0n49nTkrVzzZY6hv6cfJCv) | 4:15 |
+| 37 | [A Estas Horas](https://open.spotify.com/track/7hiFcSUWRVotWd2pxhRIDJ) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [A Estas Horas](https://open.spotify.com/album/0n49nTkrVzzZY6hv6cfJCv) | 4:15 |
+| 38 | [Cobijas Ajenas](https://open.spotify.com/track/2P06ws9H4jQNJm3Lbo3tZ4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Cobijas Ajenas](https://open.spotify.com/album/7t5fOkOrOvWdg2DUbkyD8M) | 2:40 |
 | 39 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 |
 | 40 | [Villana De Cuento](https://open.spotify.com/track/0HK1L6iSv2x6xtDvnJuwLf) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 2:59 |
 | 41 | [Los Lujos Del R.](https://open.spotify.com/track/1QZrQnjIMS9yVFVYRoqnaX) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Que Siga La Fiesta](https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf) | 3:55 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3guUH6.md) - [plain]
 | 47 | [Otro Perdedor](https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 4:10 |
 | 48 | [Así Es Esto](https://open.spotify.com/track/2VEGCGMsMoPIqnocO2pE0q) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:41 |
 
-Snapshot ID: `Zsp0AAAAAAD5s3xB1i0E1E4O0BObhaY2`
+Snapshot ID: `ZsvFgAAAAAA0j++tDSutkfSAgjQZqwcf`

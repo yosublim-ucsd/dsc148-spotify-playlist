@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,165 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,196 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 41 | [雨のケンネル通り](https://open.spotify.com/track/34fPafuMThpNjUuJ3DW8dj) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [GOODIES](https://open.spotify.com/album/60OpUEpnNiPjvMM8ibV3Ur) | 4:34 |
 | 42 | [SUNDAY BRUNCH](https://open.spotify.com/track/4wC9F4ykpyYjOLJpVhqfvo) | [Kanako Wada](https://open.spotify.com/artist/1YincourPAP98F71R1rglp) | [KANA](https://open.spotify.com/album/5KnNJ4FRoVFyGvlMZDciwE) | 3:55 |
 | 43 | [フロントガラス越しに](https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh) | [Kaoru Sudo](https://open.spotify.com/artist/5TSmLuqTfjcvcZVWMtomI3) | [PLANETARIUM](https://open.spotify.com/album/78tEeRZHI4y3RqdhtqGgoh) | 4:49 |
-| 44 | [L.A.NIGHT](https://open.spotify.com/track/49s3vsplHRM2TOOrhnanub) | [Yasuko Agawa](https://open.spotify.com/artist/5kk6wMgDfumWGwd0GDvvk2) | [GRAVY](https://open.spotify.com/album/7cS1kMkHB5U5O2xXethG7s) | 5:33 |
-| 45 | [今夜はドラマティック](https://open.spotify.com/track/79kbjlrWZSQQGrXBobzUw7) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [ROMANTIC VIEW](https://open.spotify.com/album/26E9XSySWWbBLPjEvKvYzy) | 4:18 |
+| 44 | [今夜はドラマティック](https://open.spotify.com/track/79kbjlrWZSQQGrXBobzUw7) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [ROMANTIC VIEW](https://open.spotify.com/album/26E9XSySWWbBLPjEvKvYzy) | 4:18 |
+| 45 | [L.A.NIGHT](https://open.spotify.com/track/49s3vsplHRM2TOOrhnanub) | [Yasuko Agawa](https://open.spotify.com/artist/5kk6wMgDfumWGwd0GDvvk2) | [GRAVY](https://open.spotify.com/album/7cS1kMkHB5U5O2xXethG7s) | 5:33 |
 | 46 | [ようこそ輝く時間へ](https://open.spotify.com/track/359IiO08eIz2kcwoS74EkD) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 4:39 |
 | 47 | [誤解](https://open.spotify.com/track/6t4SiWWFR5lDakMBkTlwG6) | [加藤有紀](https://open.spotify.com/artist/6dp5zARUDqalwLO3UXNGoB) | [コンプリート・コレクション 謎はと・か・な・い・で](https://open.spotify.com/album/0Z1nCmI0QETsUMCpgVpU2W) | 3:58 |
 | 48 | [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y qu\u00e9 retumbe la bandona, pariente! Banda MS en portada. ",
-  "num_followers": 1891665,
+  "num_followers": 1891748,
   "original_name": "Cl\u00e1sicas de Banda",
   "owner": {
     "name": "Spotify",
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Acu\u00e9rdate de Mi",
-        "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 184743,
-      "name": "Ya No Me Mires As\u00ed",
-      "url": "https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp"
+      "duration_ms": 221387,
+      "name": "Para Impresionarte",
+      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
+        "name": "Acu\u00e9rdate de Mi",
+        "url": "https://open.spotify.com/album/0PcL1sQMunNBJB1hCbj1zY"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 221387,
-      "name": "Para Impresionarte",
-      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
+      "duration_ms": 184743,
+      "name": "Ya No Me Mires As\u00ed",
+      "url": "https://open.spotify.com/track/300QUH7Q7FncaEo8Fcvwgp"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Mil Heridas",
-        "url": "https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk"
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
       },
       "artists": [
         {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 227840,
-      "name": "Mil Heridas",
-      "url": "https://open.spotify.com/track/42QrQFst462IHFXR19hxZQ"
+      "duration_ms": 183960,
+      "name": "Mi Buen Amante",
+      "url": "https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -743,34 +743,18 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+        "name": "Mil Heridas",
+        "url": "https://open.spotify.com/album/1d6M5lgMTJfgwQCReGSWGk"
       },
       "artists": [
         {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
         }
       ],
-      "duration_ms": 183960,
-      "name": "Mi Buen Amante",
-      "url": "https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Tu Yo Y La Luna",
-        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Recostada En La Cama",
-      "url": "https://open.spotify.com/track/50tmOF513elS7K3HrwYq29"
+      "duration_ms": 227840,
+      "name": "Mil Heridas",
+      "url": "https://open.spotify.com/track/42QrQFst462IHFXR19hxZQ"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -787,6 +771,22 @@
       "duration_ms": 192853,
       "name": "Un loco solitario",
       "url": "https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "Tu Yo Y La Luna",
+        "url": "https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Recostada En La Cama",
+      "url": "https://open.spotify.com/track/50tmOF513elS7K3HrwYq29"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Hecho a Mano",
+        "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "Cuando Fuimos Nada",
+      "url": "https://open.spotify.com/track/4V3oSMh34oj9SP4KX9do3Y"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 226815,
       "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Hecho a Mano",
-        "url": "https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "Cuando Fuimos Nada",
-      "url": "https://open.spotify.com/track/4V3oSMh34oj9SP4KX9do3Y"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 176169,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/48bf7pvc1nlsSjnHkoz0VY"
+      "duration_ms": 225573,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1423,8 +1423,8 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
       },
       "artists": [
         {
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 225573,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu"
+      "duration_ms": 176169,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/48bf7pvc1nlsSjnHkoz0VY"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Exitos De Banda M-1",
+        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
+      },
+      "artists": [
+        {
+          "name": "Banda M-1",
+          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
+        }
+      ],
+      "duration_ms": 175403,
+      "name": "No Se\u00f1or Apache",
+      "url": "https://open.spotify.com/track/4ePWxpZWJeV5ODMNiIFi1C"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "Juro por Dios (En Vivo)",
         "url": "https://open.spotify.com/album/2RaLM3MaoI25mqOSsixXTF"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 202005,
       "name": "Juro por Dios - En Vivo",
       "url": "https://open.spotify.com/track/6ya4Hq3twTffkM15X389KY"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Exitos De Banda M-1",
-        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
-      },
-      "artists": [
-        {
-          "name": "Banda M-1",
-          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
-        }
-      ],
-      "duration_ms": 175403,
-      "name": "No Se\u00f1or Apache",
-      "url": "https://open.spotify.com/track/4ePWxpZWJeV5ODMNiIFi1C"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
+        "name": "Exitos De Banda M-1",
+        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
+      },
+      "artists": [
+        {
+          "name": "Banda M-1",
+          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
+        }
+      ],
+      "duration_ms": 205055,
+      "name": "No Podras",
+      "url": "https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
         "name": "La Historia De Mis Manos",
         "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
       },
@@ -1731,22 +1747,6 @@
     {
       "added_at": "2024-07-03 20:35:58",
       "album": {
-        "name": "La Autentica de Jerez Zacatecas - 15 Exitos",
-        "url": "https://open.spotify.com/album/5fkYzCrX5WjQxivctHQ2wt"
-      },
-      "artists": [
-        {
-          "name": "Banda Autentica de Jerez",
-          "url": "https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "24 Horas del Dia",
-      "url": "https://open.spotify.com/track/69RBhbgVjnfVzzUvFokYRC"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
         "name": "S\u00f3lo Contigo",
         "url": "https://open.spotify.com/album/5RlcPIc7Q2hmuVXaGTM6St"
       },
@@ -1759,6 +1759,22 @@
       "duration_ms": 228973,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/435MKCIggV4jMouMwEuBC8"
+    },
+    {
+      "added_at": "2024-07-03 20:35:58",
+      "album": {
+        "name": "La Autentica de Jerez Zacatecas - 15 Exitos",
+        "url": "https://open.spotify.com/album/5fkYzCrX5WjQxivctHQ2wt"
+      },
+      "artists": [
+        {
+          "name": "Banda Autentica de Jerez",
+          "url": "https://open.spotify.com/artist/29SQzMRQAidCYw2l9vIGE1"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "24 Horas del Dia",
+      "url": "https://open.spotify.com/track/69RBhbgVjnfVzzUvFokYRC"
     },
     {
       "added_at": "2024-07-03 20:35:58",
@@ -1791,22 +1807,6 @@
       "duration_ms": 133987,
       "name": "De Puntitas",
       "url": "https://open.spotify.com/track/5NtHWfGsl97MXHrT8NaRZK"
-    },
-    {
-      "added_at": "2024-07-03 20:35:58",
-      "album": {
-        "name": "Exitos De Banda M-1",
-        "url": "https://open.spotify.com/album/57Zhx2ZJv8easioH23qnAZ"
-      },
-      "artists": [
-        {
-          "name": "Banda M-1",
-          "url": "https://open.spotify.com/artist/6OpYbyvig6UrpACbDGSfsT"
-        }
-      ],
-      "duration_ms": 205055,
-      "name": "No Podras",
-      "url": "https://open.spotify.com/track/2MUeIzWFJAkgVGrKVtWKzf"
     },
     {
       "added_at": "2024-07-03 20:35:58",

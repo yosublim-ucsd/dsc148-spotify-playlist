@@ -4,7 +4,7 @@
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: 結束バンド Kessoku Band
 
-150 songs - 9 hr 28 min
+151 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 | 2023-08-03 | 2024-03-19 |
 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5B9gDlmcZZZamZ53hUeMlf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 4:31 | 2023-09-26 | 2024-04-17 |
 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 4:31 | 2023-09-26 | 2023-09-28 |
-| [unravel](https://open.spotify.com/track/3uyiyeKrVPjbMdFGe9sGas) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [unravel](https://open.spotify.com/album/3EvVwxsQkXYSuItQMbTshK) | 3:59 | 2023-11-14 |  |
+| [unravel](https://open.spotify.com/track/3uyiyeKrVPjbMdFGe9sGas) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [unravel](https://open.spotify.com/album/3EvVwxsQkXYSuItQMbTshK) | 3:59 | 2023-11-14 | 2024-08-28 |
 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 | 2023-08-03 | 2024-04-19 |
 | [unravel](https://open.spotify.com/track/5orAKrVdrk1kPtTa7zNvYL) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/7GJspOwIWdFfzJfxN8oVTF) | 3:58 | 2024-04-16 |  |
 | [Vengeance](https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Vengeance](https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU) | 3:58 | 2024-02-13 | 2024-07-08 |
@@ -146,6 +146,7 @@
 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-08-03 |  |
 | [花になって \- Be a flower](https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [花になって \- Be a flower](https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc) | 3:19 | 2023-11-07 |  |
 | [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 | 2024-07-02 |  |
+| [蝶に結いた赤い糸](https://open.spotify.com/track/2FIuKRBk8ypEKUnrstY34j) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 3:29 | 2024-08-27 |  |
 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 | 2023-08-03 | 2023-11-18 |
 | [裸の勇者](https://open.spotify.com/track/5zdyuqPOZ6oR6a4ZtqI1vl) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:22 | 2024-04-16 |  |
 | [誰にもなれない私だから](https://open.spotify.com/track/3qUhSNwka3dPwf2Q667y7K) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [誰にもなれない私だから](https://open.spotify.com/album/36v0bfC1o6qrt4YDoZb03s) | 3:09 | 2024-04-16 | 2024-07-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,333 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,400 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 29 | [All Star \- Ao Vivo](https://open.spotify.com/track/3g5FrnRdbmDQyWNiDIprts) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Nando Reis \- Voz e Violão \- No Recreio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/5w3LIWPOW8U9QNkBBF3ViX) | 3:53 |
 | 30 | [Felicidade](https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx) | [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Musica para Churrasco, Vol\. 2](https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3) | 4:27 |
 | 31 | [Mais Ninguém](https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 2:48 |
-| 32 | [Você me faz tão bem](https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas Acústico](https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3) | 4:14 |
-| 33 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
+| 32 | [Toda Forma de Amor](https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Toda Forma De Amor](https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ) | 3:45 |
+| 33 | [Você me faz tão bem](https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas Acústico](https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3) | 4:14 |
 | 34 | [Devolva\-Me \(Ao Vivo\)](https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Público](https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR) | 2:11 |
 | 35 | [Oração](https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR) | [A Banda Mais Bonita da Cidade](https://open.spotify.com/album/7pJk45OMEobBhaAWVaF3sO) | 5:01 |
 | 36 | [Amei Te Ver](https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 4:17 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 52 | [Quando A Chuva Passar](https://open.spotify.com/track/5GBa8ib7raAkOKjwbMKPZJ) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [As Super Novas](https://open.spotify.com/album/5Ve2bB7bnxnr0kbwz7ygcF) | 4:06 |
 | 53 | [Sem Nome, Mas Com Endereço](https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C), [Caramelows](https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi) | [Remonta](https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH) | 4:29 |
 | 54 | [Beija Eu](https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Silva Canta Marisa](https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz) | 3:15 |
-| 55 | [Efeito Você](https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Efeito Você](https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp) | 2:48 |
-| 56 | [Um certo alguém](https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 3:33 |
+| 55 | [Um certo alguém](https://open.spotify.com/track/7i4L8iHbgZRGXxkcsEobH3) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [O Último Romântico](https://open.spotify.com/album/404H4FNKYVOGzzXCT9GLD7) | 3:33 |
+| 56 | [Efeito Você](https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Efeito Você](https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp) | 2:48 |
 | 57 | [Azul](https://open.spotify.com/track/1kLIaT39bF27PX2xGEhjMx) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Azul](https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu) | 3:27 |
 | 58 | [Até o Topo do Mundo](https://open.spotify.com/track/6aZYYu7X7Bp7BcnQ17DenF) | [Gabriela](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM) | [Gabriela](https://open.spotify.com/album/43uB6pjppKLyha8XOYxnK9) | 2:45 |
 | 59 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 62 | [O Leãozinho \- Live](https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Multishow Ao Vivo Caetano e Maria Gadú](https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH) | 2:34 |
 | 63 | [Massagem nas Costas](https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [Massagem nas Costas](https://open.spotify.com/album/19tU95QBl4RTYwM28LW9Dq) | 2:39 |
 | 64 | [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 |
-| 65 | [Rio Dentro do Mar](https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Rosa](https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng) | 3:56 |
-| 66 | [Ô Sorte](https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Urbano](https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A) | 2:09 |
+| 65 | [Ô Sorte](https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Urbano](https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A) | 2:09 |
+| 66 | [Rio Dentro do Mar](https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Rosa](https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng) | 3:56 |
 | 67 | [Proibida Pra Mim](https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 3:15 |
 | 68 | [Aliança](https://open.spotify.com/track/1eFlkymohjGtRnnYGabg8s) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Aliança](https://open.spotify.com/album/7HuXR9KhA5SRybSQoTYLnM) | 3:56 |
 | 69 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 |

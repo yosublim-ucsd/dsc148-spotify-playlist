@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 
 > Revive aquellas grandes canciones desenchufadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,073,460 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,073,469 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 37 | [Hit Me \- MTV Unplugged](https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [MTV Unplugged: El Desconecte](https://open.spotify.com/album/5ceBnTwI1hUewZEwYnTc7z) | 5:13 |
 | 38 | [Vivir Sin Aire \- Unplugged](https://open.spotify.com/track/6ccgxTZ8boW6g80rXPplS6) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 5:44 |
 | 39 | [Los Malaventurados No Lloran \- MTV Unplugged](https://open.spotify.com/track/1Qm69nuJeRLCmu4c5MnplS) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [Panda MTV Unplugged \(Live\)](https://open.spotify.com/album/1vtmvP6HpYWljDR2vplT3b) | 3:58 |
-| 40 | [Inevitable \- En Vivo](https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 3:39 |
-| 41 | [Magic \- Live at the Enmore Theatre, Sydney](https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories Live 2014](https://open.spotify.com/album/1hNS0RsxPTFjmKXCgmjSLS) | 4:52 |
+| 40 | [Magic \- Live at the Enmore Theatre, Sydney](https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories Live 2014](https://open.spotify.com/album/1hNS0RsxPTFjmKXCgmjSLS) | 4:52 |
+| 41 | [Inevitable \- En Vivo](https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 3:39 |
 | 42 | [La chispa adecuada \- Live](https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Tour 2007](https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6) | 5:24 |
 | 43 | [He Barrido el Sol \- Unplugged Version](https://open.spotify.com/track/4kEC1SCVFZkAccbN3NyjQz) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres MTV Unplugged](https://open.spotify.com/album/5gbgCfKWGatY7WWDKcoGnW) | 4:38 |
 | 44 | [Pasos de cero \- Live from Spotify NYC](https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alborán Spotify Sessions](https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe) | 4:26 |

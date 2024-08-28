@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,673 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,180,772 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 46 | [When the Children Cry](https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:18 |
 | 47 | [I Can't Hold Back](https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Vital Signs](https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD) | 3:58 |
 | 48 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:54 |
-| 49 | [I Won't Forget You \- 2003 Remaster](https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:34 |
-| 50 | [House of Pain](https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw) | [Faster Pussycat](https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7) | [Wake Me When It's Over](https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys) | 5:44 |
+| 49 | [House of Pain](https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw) | [Faster Pussycat](https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7) | [Wake Me When It's Over](https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys) | 5:44 |
+| 50 | [I Won't Forget You \- 2003 Remaster](https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:34 |
 | 51 | [Til Death Do Us Part](https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 5:26 |
 | 52 | [Edge Of A Broken Heart](https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 4:25 |
 | 53 | [Honestly](https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN) | [Harem Scarem](https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va) | [Harem Scarem](https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c) | 4:02 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 70 | [Wait](https://open.spotify.com/track/63IItP7504rQwYgZqmsznL) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:00 |
 | 71 | [If You Needed Somebody](https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Holy Water](https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE) | 4:21 |
 | 72 | [WE ALL DIE YOUNG](https://open.spotify.com/track/0QTITeLFPONXy8qzJQk4Kt) | [STEELHEART](https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD) | [WAIT](https://open.spotify.com/album/6p3T3xQw03nDDBTt6TbLpx) | 5:09 |
-| 73 | [Before the Dawn](https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 3:23 |
-| 74 | [Heaven in Your Eyes](https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Big Ones](https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV) | 4:03 |
+| 73 | [Heaven in Your Eyes](https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Big Ones](https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV) | 4:03 |
+| 74 | [Before the Dawn](https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 3:23 |
 | 75 | [Show Me The Way](https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Edge Of The Century](https://open.spotify.com/album/6dLlnu5TPxD74g7w8SfnqF) | 4:37 |
 | 76 | [Burning Heart \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/2hjQWuAy9fsSykGerWU8Wi) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [The Essential Survivor](https://open.spotify.com/album/0SPJ2DOCEtX6l3MkLA2fbQ) | 3:50 |
 | 77 | [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 |

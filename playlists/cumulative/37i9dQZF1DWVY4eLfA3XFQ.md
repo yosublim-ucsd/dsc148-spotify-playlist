@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring ESSEL & MERYLL\.  50% techno, 50% house
 
-1,722 songs - 4 day 0 hr 20 min
+1,723 songs - 4 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1176,7 +1176,7 @@
 | [Pressure](https://open.spotify.com/track/5huS8x54n95lI4LLeSTvQE) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [Pressure](https://open.spotify.com/album/7jL72BV0WcPzwO25aPiDTB) | 3:06 | 2023-02-03 | 2023-04-19 |
 | [Pretty Girls Walk](https://open.spotify.com/track/5y4xnd8kIGyyLxSPOAOjRb) | [Vandal On Da Track](https://open.spotify.com/artist/6zb6xqgiBKpbHWU8Xje7CF), [Jen Payne](https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq) | [Pretty Girls Walk](https://open.spotify.com/album/60R5lt4rYDmioRT2U01zDR) | 2:02 | 2024-05-10 | 2024-06-29 |
 | [Program](https://open.spotify.com/track/5RzgHp25FmEO0nYNMynuHE) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Program](https://open.spotify.com/album/6eT6RcSzhljn3kPoD3El1k) | 2:34 | 2023-03-17 | 2023-05-28 |
-| [Promise](https://open.spotify.com/track/7kk58laXqwR3sRkQ4RSrMp) | [CLUB 909](https://open.spotify.com/artist/7yDHfEncnDFpNWaWKvXD1o) | [Promise](https://open.spotify.com/album/4LklevRoH5Cc78bfI9iNdh) | 3:04 | 2024-06-28 |  |
+| [Promise](https://open.spotify.com/track/7kk58laXqwR3sRkQ4RSrMp) | [CLUB 909](https://open.spotify.com/artist/7yDHfEncnDFpNWaWKvXD1o) | [Promise](https://open.spotify.com/album/4LklevRoH5Cc78bfI9iNdh) | 3:04 | 2024-06-28 | 2024-08-28 |
 | [Puerto Rico](https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn) | [Puerto Rico](https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G) | 2:24 | 2021-11-26 | 2022-05-07 |
 | [Pull Me Up](https://open.spotify.com/track/183Q4HdEcyHnp4Q81cJj8a) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Pull Me Up](https://open.spotify.com/album/1Y4HyCbdcLjFDFcqgu0A82) | 2:58 | 2023-06-30 | 2023-10-28 |
 | [Pump It](https://open.spotify.com/track/7K0bmMQyro8sd5NEpEqq6n) | [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Pump It](https://open.spotify.com/album/31nJohTPaHhZcfzthYgbRb) | 2:22 | 2023-02-03 | 2023-04-01 |
@@ -1218,6 +1218,7 @@
 | [Real Nu Rave](https://open.spotify.com/track/78tfQxr0HGWVlHFkR5lBK8) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Real Nu Rave](https://open.spotify.com/album/25sT5VKHzmvLH7tkWG4dBY) | 3:31 | 2022-07-08 | 2022-08-13 |
 | [Reality](https://open.spotify.com/track/3jHBkqi2OpXa1RRucdNZDt) | [Eurostep](https://open.spotify.com/artist/4ktOphHEqpukEfFOhCAfjZ), [Elternhouse](https://open.spotify.com/artist/2T0Pjvt0kNuyw1nE3s56wj) | [Reality](https://open.spotify.com/album/6V07VvqZNB59fNtW38Cbqo) | 3:20 | 2021-11-26 | 2022-01-06 |
 | [Really Really Hot](https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Really Really Hot](https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD) | 3:52 | 2022-01-05 | 2022-04-23 |
+| [Receipts \(feat\. Gunna\)](https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Receipts \(feat\. Gunna\)](https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd) | 3:54 | 2024-08-27 |  |
 | [Records U Play](https://open.spotify.com/track/5VkNcbo3JDsUw25CLP6FZh) | [LO'99](https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Records U Play](https://open.spotify.com/album/01KBC88qZIv2iIEVodMQe6) | 3:06 | 2022-04-15 | 2022-08-06 |
 | [Release Me \- CID Remix](https://open.spotify.com/track/6ATXWjpQo0MZfQPhMOT7G6) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Release Me \(CID Remix\)](https://open.spotify.com/album/2YZfuumyamhue8qP9CL7IW) | 3:02 | 2024-04-19 | 2024-06-10 |
 | [Remember](https://open.spotify.com/track/1VUIiTRtcGwADarxWyyA1a) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Remember](https://open.spotify.com/album/71g7ryhSTDxeAMvBpmC5of) | 2:42 | 2021-11-26 | 2022-02-26 |

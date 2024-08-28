@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 
 > 💃🏽🕺🏼🪇🎺🪘
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,967 likes - 45 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,971 likes - 45 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 | 8 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 |
 | 9 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 |
 | 10 | [Parranda](https://open.spotify.com/track/3FTTWrzmEtJusM9Fh64Xqb) | [La Sonora De Tommy Rey](https://open.spotify.com/artist/0gOdu2BvlfycjQlrtk0CQv), [Carlitos Junior](https://open.spotify.com/artist/0fTQ3jEDT1eDQG3URLTwEo), [El Calle Latina](https://open.spotify.com/artist/4RnZy46gvx737Wi1vMpyCk) | [Parranda](https://open.spotify.com/album/2fyr5OdeJgPH8FeUvpKNl8) | 3:14 |
-| 11 | [Ni Una Ni Dos](https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Ni Una Ni Dos](https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey) | 2:38 |
+| 11 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
 | 12 | [OJITOS ROJOS](https://open.spotify.com/track/11PV8CaPqlto9Uejx92C35) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:41 |
-| 13 | [La Morocha](https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [La Morocha](https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61) | 2:14 |
+| 13 | [Ni Una Ni Dos](https://open.spotify.com/track/0H9WU0OIXPpbOVgzzOanXb) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Ni Una Ni Dos](https://open.spotify.com/album/2BrbrEMfRYAMmNPprw4Jey) | 2:38 |
 | 14 | [Entre Beso y Beso](https://open.spotify.com/track/6abr2lKyMZTy21gSPWm7aG) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Entre Beso y Beso](https://open.spotify.com/album/1tTfu4nQ2JUavleM8xoq5a) | 2:33 |
 | 15 | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Mentiras \| CROSSOVER \#3](https://open.spotify.com/album/1adrM169dtUitpsQomXsX3) | 2:48 |
 | 16 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdjfHgKBfMid.md) - [plain]
 | 33 | [Corazon Mentiroso](https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Sin Vergüenza](https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT) | 2:59 |
 | 34 | [Con Él No Soportas](https://open.spotify.com/track/0qgR6e8ot4sJ9RTIyKg3d8) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 4:00 |
 | 35 | [No Se Va](https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [No Se Va](https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ) | 3:40 |
-| 36 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 |
-| 37 | [Te Perdoné Tantas Veces](https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [La Diosa \- Los 20 Éxitos Más Pedidos](https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq) | 2:23 |
+| 36 | [Te Perdoné Tantas Veces](https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [La Diosa \- Los 20 Éxitos Más Pedidos](https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq) | 2:23 |
+| 37 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 |
 | 38 | [SIN TI](https://open.spotify.com/track/5AcyixjIMjWfLUphthR46B) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [SIN TI](https://open.spotify.com/album/5fWYCPqDrOopoTPAPbyzDK) | 3:02 |
 | 39 | [Muchacha Sola](https://open.spotify.com/track/2aJTAFg1QZ4o7ftICW3Zcu) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8) | 3:27 |
 | 40 | [Por lo que yo te quiero](https://open.spotify.com/track/6q8IfvTRGvi2IZUmkavsr9) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 4:04 |

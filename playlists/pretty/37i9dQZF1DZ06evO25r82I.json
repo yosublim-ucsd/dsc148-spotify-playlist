@@ -1,12 +1,12 @@
 {
-  "description": "This is Jimmy Eat World. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 44191,
+  "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
+  "num_followers": 44203,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAByrN37zftj6Ged631B4AQD",
+  "snapshot_id": "ZsvFgAAAAABKSpAo9cbAza8apMGHC2Nw",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 206373,
-      "name": "Just Tonight",
-      "url": "https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn"
+      "duration_ms": 203506,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/7jOmU5z5lgwTL5meoapbMf"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/7jOmU5z5lgwTL5meoapbMf"
+      "duration_ms": 206373,
+      "name": "Just Tonight",
+      "url": "https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
+        "name": "Bleed American (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 187800,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
+      "duration_ms": 221800,
+      "name": "No Sensitivity",
+      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed American (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8"
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 221800,
-      "name": "No Sensitivity",
-      "url": "https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU"
+      "duration_ms": 187800,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G"
     },
     {
       "added_at": null,

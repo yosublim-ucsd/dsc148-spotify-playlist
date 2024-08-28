@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 168000,
       "name": "american midsummer",
       "url": "https://open.spotify.com/track/1gfdvlMyagmkXVnnVn1o0q"
@@ -2012,7 +2012,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 169301,
       "name": "arrival",
       "url": "https://open.spotify.com/track/7J1e0LTIZRjdz7i6WWdWcF"
@@ -5649,6 +5649,28 @@
     },
     {
       "album": {
+        "name": "chamomile",
+        "url": "https://open.spotify.com/album/7vRfGQokmeheUuPluiRmuE"
+      },
+      "artists": [
+        {
+          "name": "halberd",
+          "url": "https://open.spotify.com/artist/7ow7nXWCZuMoU09aRki7GB"
+        },
+        {
+          "name": "botaniist",
+          "url": "https://open.spotify.com/artist/3Xa1468e8rkfjUmbUtdg3B"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145394,
+      "name": "chamomile",
+      "url": "https://open.spotify.com/track/4n8PIPGIm5s0E9J4adZLiA"
+    },
+    {
+      "album": {
         "name": "Chang",
         "url": "https://open.spotify.com/album/7ckxYovGXDYUTtGfgzkKbU"
       },
@@ -7296,7 +7318,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 135809,
       "name": "Cori",
       "url": "https://open.spotify.com/track/5LuIRsHiCp81kisjIs1JXh"
@@ -12046,7 +12068,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 102000,
       "name": "For My Pet",
       "url": "https://open.spotify.com/track/4LzJRk3q2gHWtlvZn4XbbQ"
@@ -20740,7 +20762,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 116770,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/5OUp8kF4z1oxwWcYFKg2qW"
@@ -23370,6 +23392,24 @@
       "duration_ms": 139849,
       "name": "not okay",
       "url": "https://open.spotify.com/track/2B2F8NHqKwCeJIv7oVrm22"
+    },
+    {
+      "album": {
+        "name": "nothing to lose",
+        "url": "https://open.spotify.com/album/5MnN94EeAMkc0DeOMeSYwm"
+      },
+      "artists": [
+        {
+          "name": "softclouds",
+          "url": "https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152812,
+      "name": "nothing to lose",
+      "url": "https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH"
     },
     {
       "album": {
@@ -34636,6 +34676,24 @@
       "duration_ms": 135531,
       "name": "To The Fullest",
       "url": "https://open.spotify.com/track/1jnobX7mD3UdZQE5UtMRRi"
+    },
+    {
+      "album": {
+        "name": "To The Moon",
+        "url": "https://open.spotify.com/album/2NPDCbWyUgKCIVfwnx0C2e"
+      },
+      "artists": [
+        {
+          "name": "wyn wyn",
+          "url": "https://open.spotify.com/artist/6kwzDhgCKDRoXRmS4eO1QT"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140224,
+      "name": "To The Moon",
+      "url": "https://open.spotify.com/track/68HvRKLpQNKsLCe0PwlvMH"
     },
     {
       "album": {

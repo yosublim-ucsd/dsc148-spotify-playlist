@@ -4,7 +4,7 @@
 
 > Buen indie rock para contar historietas...
 
-131 songs - 7 hr 41 min
+132 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Lucky](https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Water](https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX) | 2:33 | 2023-10-23 | 2024-04-19 |
 | [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 | 2023-10-23 |  |
 | [Maçka Yolları](https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yol](https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l) | 3:40 | 2023-10-23 |  |
-| [Me Olvido / Te Sigo](https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Me Olvido / Te Sigo](https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP) | 3:38 | 2023-10-23 |  |
+| [Me Olvido / Te Sigo](https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Me Olvido / Te Sigo](https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP) | 3:38 | 2023-10-23 | 2024-08-28 |
 | [Metaverse](https://open.spotify.com/track/56awJyqhhuQW0p0bu1yTCo) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Metaverse](https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up) | 2:14 | 2024-07-12 |  |
 | [Model Village](https://open.spotify.com/track/5Xr8dO5ALeh0r2LQv9kL8H) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Ultra Mono](https://open.spotify.com/album/20O6GKv8VfyvL4Gy0TAJs7) | 3:54 | 2023-10-23 | 2024-04-17 |
 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Hugo Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 | 2023-10-23 |  |
@@ -106,6 +106,7 @@
 | [Sagittarius Superstar](https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL) | 2:53 | 2023-10-23 | 2024-04-19 |
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-10-23 |  |
 | [San Francisco](https://open.spotify.com/track/0J7Zv3nJki2SBTvidhMDZy) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/7FfiN9ztbjLNPWhuhFHaWf) | 3:47 | 2023-10-23 | 2024-04-19 |
+| [Sand On The Beach](https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Sand On The Beach](https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC) | 2:16 | 2024-07-12 |  |
 | [Severed](https://open.spotify.com/track/38psZM2gA6UWA7rqqgOjGL) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [I'll Be Your Girl](https://open.spotify.com/album/2aCFve5jvcVkJ9JFcNeHc6) | 4:03 | 2023-10-23 |  |
 | [Shark Smile \- Edit](https://open.spotify.com/track/6exdwZ3EOSCjb11bd6k6Np) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Shark Smile \(Edit\)](https://open.spotify.com/album/4WHzjGd7yvPxXzn2ERXkEb) | 3:14 | 2023-10-23 | 2024-04-19 |
 | [Sing](https://open.spotify.com/track/0kqSGKnMo3JDbzaW0QrXmA) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Meet Glen Campbell](https://open.spotify.com/album/3DmfyjtfDRxMUCdoTgEWoz) | 3:45 | 2023-10-23 |  |

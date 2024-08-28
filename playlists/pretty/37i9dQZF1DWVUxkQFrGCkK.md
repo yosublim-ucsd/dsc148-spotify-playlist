@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > moooooooooove
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,311 likes - 276 songs - 19 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,449 likes - 276 songs - 19 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 71 | [Karibu](https://open.spotify.com/track/01BjQ7kJDzs7JEVSF1ZHHL) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [Karibu](https://open.spotify.com/album/3bffYGq3XpK2TMgoe0itJV) | 4:02 |
 | 72 | [You're Not Alone \- James Carter Remix](https://open.spotify.com/track/7C2LB0054Jbb6KRZ9jKyDt) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq) | [You're Not Alone \(James Carter Remix\)](https://open.spotify.com/album/1O2nii6bJsYkgIYhndMeFl) | 3:01 |
 | 73 | [Embawe](https://open.spotify.com/track/7Intk4aQEztM8OQ14anpyg) | [Vidojean X Oliver Loenn](https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH), [José Lucas](https://open.spotify.com/artist/0ZQQqPE9AqroY6kmjfqoRP) | [Embawe](https://open.spotify.com/album/2qPAdfsMZFRD4xTx9AsoX2) | 3:01 |
-| 74 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 |
+| 74 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ), [Dawn Patrol](https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 |
 | 75 | [Prayer in C \- Nitefreak Remix](https://open.spotify.com/track/7n7Ng4zFYfjNsOiDrczya5) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Prayer in C \(Nitefreak Remix\)](https://open.spotify.com/album/4GzWWbEa17E35cQoXly2I9) | 3:14 |
 | 76 | [Close My Eyes](https://open.spotify.com/track/2eZ45fidFMAlUHH7wAWrRv) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Close My Eyes](https://open.spotify.com/album/0IHC3YcUDA504Cy4s5KFLr) | 3:00 |
 | 77 | [Side Of Me \- Original Mix](https://open.spotify.com/track/28jy6BqxRUzHqUySv5DLYG) | [Mr\. ID](https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp) | [Side Of Me](https://open.spotify.com/album/3aaQaKAZnbyAT0Ak3DrbbW) | 5:34 |

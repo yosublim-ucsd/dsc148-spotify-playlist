@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 25010,
+  "num_followers": 25022,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACIEfOZNJWEvsA/6vCDT2dP",
+  "snapshot_id": "ZsvFgAAAAAAb2DSFkps3w994fKAKC2ZH",
   "tracks": [
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Messenger 4: Independents Day",
-        "url": "https://open.spotify.com/album/0mi8gsJuVUlshWtP5yaq3U"
-      },
-      "artists": [
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 259615,
-      "name": "Smoke Free",
-      "url": "https://open.spotify.com/track/4N0kn2312eWP0ufX6O6lkZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Today We Rebel",
         "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 197480,
       "name": "Monster",
       "url": "https://open.spotify.com/track/6Rbk8g1VWn2aXZXyNqP7Xb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Messenger 4: Independents Day",
+        "url": "https://open.spotify.com/album/0mi8gsJuVUlshWtP5yaq3U"
+      },
+      "artists": [
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 259615,
+      "name": "Smoke Free",
+      "url": "https://open.spotify.com/track/4N0kn2312eWP0ufX6O6lkZ"
     },
     {
       "added_at": null,

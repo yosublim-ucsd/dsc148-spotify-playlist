@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-326 songs - 20 hr 37 min
+327 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [If Only They Could](https://open.spotify.com/track/2TJdettbWrIvxsUsTki1S4) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Advertisement](https://open.spotify.com/album/230xxMa21n51rU8HT8e9OK) | 3:51 | 2021-12-15 | 2022-07-29 |
 | [If Only They Could](https://open.spotify.com/track/7kjPwK6v801H3f0L8FckWG) | [MNNQNS](https://open.spotify.com/artist/1xv8LIJ3qAL2EioqhUjqtY) | [Advertisement](https://open.spotify.com/album/5VNOEsedkdQRCq1HtQuVPa) | 3:51 | 2022-11-28 | 2024-04-19 |
 | [In Friends We Trust](https://open.spotify.com/track/3yJbGoyLue9B5R6guLIVjI) | [Chunk! No, Captain Chunk!](https://open.spotify.com/artist/03jrbNTeSKP9m161juhm0h) | [Something For Nothing](https://open.spotify.com/album/2pMtWnQ1jQH6sfsh5tBLzl) | 3:27 | 2021-12-30 | 2022-01-01 |
+| [Inner Life](https://open.spotify.com/track/7zClaF5pABRQTns4NaKZYA) | [Avee Mana](https://open.spotify.com/artist/4x2DScjhDMpX83Xhwb1Q9L) | [Inner Life](https://open.spotify.com/album/6jVfiIP1jSK0EHHNyzRRes) | 3:46 | 2024-07-15 |  |
 | [Isolation](https://open.spotify.com/track/49Mg47fyRNRHP1pt8EIw9B) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Vacuum Sealed](https://open.spotify.com/album/1h6Mngi160e472DTepN8qD) | 3:54 | 2021-12-15 | 2022-07-29 |
 | [It's About Time !](https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F) | [Iron Lizards](https://open.spotify.com/artist/5M3OioPh7JR2rfVOCFyDRY) | [Hungry for Action](https://open.spotify.com/album/6joG9m7o9GNL1cePZEn3YC) | 2:44 | 2021-12-15 |  |
 | [It's Gone](https://open.spotify.com/track/26cUvSqatbmZQ4hlp75E4M) | [The Psychotic Monks](https://open.spotify.com/artist/7GB1a2GjXTCbTtdSv3NTPy) | [Silence Slowly And Madly Shines](https://open.spotify.com/album/6z5nHHrbow0HdyZLcBqWfA) | 5:43 | 2021-12-15 |  |
@@ -258,7 +259,7 @@
 | [Shitshow](https://open.spotify.com/track/5N4Oa7FMWUw8K8xlCSfzlt) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Shitshow](https://open.spotify.com/album/1Tng3bnbtmmnoYCbafxwdK) | 2:57 | 2021-12-15 | 2022-07-28 |
 | [Siamese Love](https://open.spotify.com/track/5lWRpXUGs9EMHIOGN10CT6) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie](https://open.spotify.com/album/1gi8Av5p21lkIrzab6ZA0k) | 3:34 | 2021-12-15 | 2023-06-29 |
 | [Sick As A Dog](https://open.spotify.com/track/24NqGm1KJGDTxEFWkktnbM) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Dissociation](https://open.spotify.com/album/5mrEOLgzxr60AWu4jCofcG) | 4:17 | 2023-01-26 | 2024-02-29 |
-| [Sink](https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN) | [PURRS](https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx) | [Rhythm + Ethics](https://open.spotify.com/album/4EM1ezTjVXDTL6p8TaAIRG) | 3:25 | 2021-12-15 |  |
+| [Sink](https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN) | [PURRS](https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx) | [Rhythm + Ethics](https://open.spotify.com/album/4EM1ezTjVXDTL6p8TaAIRG) | 3:25 | 2021-12-15 | 2024-08-28 |
 | [Skyless](https://open.spotify.com/track/7jh3IHdHMcm9oJBSP9IJJW) | [Affidavit](https://open.spotify.com/artist/2pLCPj16MdarXf0lwPBMN8) | [Skyless](https://open.spotify.com/album/0pSViR11jW0BxCoJBbnkuS) | 4:06 | 2021-12-31 | 2022-07-23 |
 | [SNAKES](https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [SNAKES](https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk) | 3:11 | 2023-08-24 | 2024-07-16 |
 | [So Quarrelsome](https://open.spotify.com/track/0LQpEbMVphRO59Ag6pjjYE) | [Can't Bear This Party!](https://open.spotify.com/artist/44aEYDMMKlw3aUhxXmRg1f) | [Ain't No Princess](https://open.spotify.com/album/3sDeZ1GrOO8KfK4fYbRnNN) | 3:17 | 2022-03-24 | 2022-04-21 |

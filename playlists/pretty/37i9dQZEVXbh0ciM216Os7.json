@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADvGZyCpUcuHcKJzSdG47YD",
+  "snapshot_id": "AAAAAAAAAAC7zqA/wzfvkrrEidrE1wqZ",
   "tracks": [
     {
       "added_at": "2024-08-23 04:00:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Rogue",
-        "url": "https://open.spotify.com/album/5Dbrr4nyx1xAamAHvUJBed"
-      },
-      "artists": [
-        {
-          "name": "The Cost",
-          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
-        }
-      ],
-      "duration_ms": 229777,
-      "name": "Rogue",
-      "url": "https://open.spotify.com/track/416sAu56Q47IIqK0i8b6ss"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Fantastic Grace",
         "url": "https://open.spotify.com/album/0Hk7rWTjfLmWDusivXLhH3"
       },
@@ -83,6 +67,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Rogue",
+        "url": "https://open.spotify.com/album/5Dbrr4nyx1xAamAHvUJBed"
+      },
+      "artists": [
+        {
+          "name": "The Cost",
+          "url": "https://open.spotify.com/artist/2ri95nI6rqJLWhn6VifREp"
+        }
+      ],
+      "duration_ms": 229777,
+      "name": "Rogue",
+      "url": "https://open.spotify.com/track/416sAu56Q47IIqK0i8b6ss"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Mid Spiral",
         "url": "https://open.spotify.com/album/6WNZ6fUOzpuKKDdPR8E1vO"
       },
@@ -95,26 +95,6 @@
       "duration_ms": 326240,
       "name": "Best Left Unsolved - Bonus Track",
       "url": "https://open.spotify.com/track/7ptQ7GZUadcKrcY1NosHtw"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Be Or Busy (Mukthi)",
-        "url": "https://open.spotify.com/album/5TX0Es6rmWnhfGb5p0ayUT"
-      },
-      "artists": [
-        {
-          "name": "Sadhguru",
-          "url": "https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 173559,
-      "name": "Be Or Busy (Mukthi)",
-      "url": "https://open.spotify.com/track/0CtW4SUSn8IGZMuP7TMFUy"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -163,22 +143,34 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Always There / Wir Sind Zur\u00fcck",
-        "url": "https://open.spotify.com/album/7r6K1N9Fnnl1NdObachhs7"
+        "name": "Ocotillo",
+        "url": "https://open.spotify.com/album/6nhojCNg9ggxmaEXrVxLCH"
       },
       "artists": [
         {
-          "name": "Flex Barker",
-          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
         }
       ],
-      "duration_ms": 221936,
-      "name": "Always There / Wir Sind Zur\u00fcck",
-      "url": "https://open.spotify.com/track/7Gj9UlYtmoMgEdupPLRev4"
+      "duration_ms": 523556,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/0VmJyEuoZ3nIzpHgahM05I"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Truckin' (Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78)",
+        "url": "https://open.spotify.com/album/3YXDTDlbnnIuqIJw0keWCr"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 526655,
+      "name": "Truckin' - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
+      "url": "https://open.spotify.com/track/5vRJRc05qCLpCkuyaBFiFA"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -207,34 +199,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Truckin' (Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78)",
-        "url": "https://open.spotify.com/album/3YXDTDlbnnIuqIJw0keWCr"
+        "name": "Always There / Wir Sind Zur\u00fcck",
+        "url": "https://open.spotify.com/album/7r6K1N9Fnnl1NdObachhs7"
       },
       "artists": [
         {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
-        }
-      ],
-      "duration_ms": 526655,
-      "name": "Truckin' - Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78",
-      "url": "https://open.spotify.com/track/5vRJRc05qCLpCkuyaBFiFA"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Ocotillo",
-        "url": "https://open.spotify.com/album/6nhojCNg9ggxmaEXrVxLCH"
-      },
-      "artists": [
+          "name": "Flex Barker",
+          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
+        },
         {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 523556,
-      "name": "Ocotillo",
-      "url": "https://open.spotify.com/track/0VmJyEuoZ3nIzpHgahM05I"
+      "duration_ms": 221936,
+      "name": "Always There / Wir Sind Zur\u00fcck",
+      "url": "https://open.spotify.com/track/7Gj9UlYtmoMgEdupPLRev4"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -263,6 +243,26 @@
       "duration_ms": 379490,
       "name": "Shorthand REDUX",
       "url": "https://open.spotify.com/track/3Ow6Wyc2BRDuYB4OP2uiYH"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Be Or Busy (Mukthi)",
+        "url": "https://open.spotify.com/album/5TX0Es6rmWnhfGb5p0ayUT"
+      },
+      "artists": [
+        {
+          "name": "Sadhguru",
+          "url": "https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 173559,
+      "name": "Be Or Busy (Mukthi)",
+      "url": "https://open.spotify.com/track/0CtW4SUSn8IGZMuP7TMFUy"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -387,22 +387,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Wrong Thing (with Kash'd Out)",
-        "url": "https://open.spotify.com/album/0WSqUBxNebDF9ZzHygt3wT"
+        "name": "A Ballet Through Mud",
+        "url": "https://open.spotify.com/album/1V7GCRkLVk2xDAxUmzKypT"
       },
       "artists": [
         {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
         },
         {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+          "name": "Christopher Dragon",
+          "url": "https://open.spotify.com/artist/0ck1NU2gyQGMRrRQn11lCj"
         }
       ],
-      "duration_ms": 222840,
-      "name": "Wrong Thing (with Kash'd Out)",
-      "url": "https://open.spotify.com/track/129t075CqNbOCpsCcwiwJg"
+      "duration_ms": 269964,
+      "name": "A Ballet Through Mud",
+      "url": "https://open.spotify.com/track/2w83nzlrKk9GdLV83GClU1"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -435,22 +435,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "sweet moon",
-        "url": "https://open.spotify.com/album/4oo4lnWp9hZUkgOdko5WUo"
+        "name": "Wrong Thing (with Kash'd Out)",
+        "url": "https://open.spotify.com/album/0WSqUBxNebDF9ZzHygt3wT"
       },
       "artists": [
         {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
         },
         {
-          "name": "Choklate",
-          "url": "https://open.spotify.com/artist/5LdWEVbA1btfMyR7FMEjO3"
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
         }
       ],
-      "duration_ms": 255054,
-      "name": "sweet moon (jung remix)",
-      "url": "https://open.spotify.com/track/6ndjcseUk9mDLBKHZ8rmT6"
+      "duration_ms": 222840,
+      "name": "Wrong Thing (with Kash'd Out)",
+      "url": "https://open.spotify.com/track/129t075CqNbOCpsCcwiwJg"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -475,46 +475,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "A Ballet Through Mud",
-        "url": "https://open.spotify.com/album/1V7GCRkLVk2xDAxUmzKypT"
+        "name": "sweet moon",
+        "url": "https://open.spotify.com/album/4oo4lnWp9hZUkgOdko5WUo"
       },
       "artists": [
         {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         },
         {
-          "name": "Christopher Dragon",
-          "url": "https://open.spotify.com/artist/0ck1NU2gyQGMRrRQn11lCj"
+          "name": "Choklate",
+          "url": "https://open.spotify.com/artist/5LdWEVbA1btfMyR7FMEjO3"
         }
       ],
-      "duration_ms": 269964,
-      "name": "A Ballet Through Mud",
-      "url": "https://open.spotify.com/track/2w83nzlrKk9GdLV83GClU1"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "The Original Motion Picture Soundtrack of The (Unproduced) Film...The Jazz Daredevil",
-        "url": "https://open.spotify.com/album/28uD41lc1rmBSRi2EGNvLJ"
-      },
-      "artists": [
-        {
-          "name": "Jon Benjamin - Jazz Daredevil",
-          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
-        },
-        {
-          "name": "H. Jon Benjamin",
-          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
-        },
-        {
-          "name": "Alexis Kesselman",
-          "url": "https://open.spotify.com/artist/64pBEJCD09fiXxehbmeoTs"
-        }
-      ],
-      "duration_ms": 126932,
-      "name": "I Shoplift Even Though I\u2019m Rich",
-      "url": "https://open.spotify.com/track/0yv7xiif14NiYxoTUBsBK2"
+      "duration_ms": 255054,
+      "name": "sweet moon (jung remix)",
+      "url": "https://open.spotify.com/track/6ndjcseUk9mDLBKHZ8rmT6"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -547,6 +523,30 @@
       "duration_ms": 203256,
       "name": "Freezing (Arr. D'Angelo for Voice, Piano, Guitar and Bass)",
       "url": "https://open.spotify.com/track/6xx5ilZQtqQlg13FaUgMTI"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "The Original Motion Picture Soundtrack of The (Unproduced) Film...The Jazz Daredevil",
+        "url": "https://open.spotify.com/album/28uD41lc1rmBSRi2EGNvLJ"
+      },
+      "artists": [
+        {
+          "name": "Jon Benjamin - Jazz Daredevil",
+          "url": "https://open.spotify.com/artist/5WO3LIBJV228qxNB6VGXmr"
+        },
+        {
+          "name": "H. Jon Benjamin",
+          "url": "https://open.spotify.com/artist/2MUMW6GAg8mQeHJV9YeZHM"
+        },
+        {
+          "name": "Alexis Kesselman",
+          "url": "https://open.spotify.com/artist/64pBEJCD09fiXxehbmeoTs"
+        }
+      ],
+      "duration_ms": 126932,
+      "name": "I Shoplift Even Though I\u2019m Rich",
+      "url": "https://open.spotify.com/track/0yv7xiif14NiYxoTUBsBK2"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "The Punishment (Lockdown)",
+        "url": "https://open.spotify.com/album/6mAr4fsqyHYn5fzF26TOpl"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        }
+      ],
+      "duration_ms": 195220,
+      "name": "The Punishment (Lockdown)",
+      "url": "https://open.spotify.com/track/5in6IhZHVwfTyvsvjXJYUG"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Michael & The Mighty Midnight Revival, Songs For Sinners And Saints",
         "url": "https://open.spotify.com/album/4uusjgOWMeitjvIrSA1HXO"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 185103,
       "name": "NOBODY KNOWS",
       "url": "https://open.spotify.com/track/33Vhm96V7UkegsXlfhMgXq"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "The Punishment (Lockdown)",
-        "url": "https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB"
-      },
-      "artists": [
-        {
-          "name": "Tech N9ne",
-          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
-        }
-      ],
-      "duration_ms": 195220,
-      "name": "The Punishment (Lockdown)",
-      "url": "https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ"
     },
     {
       "added_at": "2024-08-23 04:00:00",

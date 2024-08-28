@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > T&T like dynamite 🧨  aka the hottest trance & techno tunes of the moment!
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,971 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,103 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

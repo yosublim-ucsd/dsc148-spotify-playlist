@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,827 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,867 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 35 | [Tudo Que Voce Podia Ser](https://open.spotify.com/track/4iVpZVKaPUnMhEagBOIIuI) | [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Quarteto Em Cy](https://open.spotify.com/album/3SklHlQWmxoeFj2k0q99HI) | 2:41 |
 | 36 | [Chase The Devil](https://open.spotify.com/track/6KGggJ08SRmMuJojRYM4Lv) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon \(Expanded Edition\)](https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6) | 3:26 |
 | 37 | [Que Beleza](https://open.spotify.com/track/73TTpGtSDdXRP8J7loLifZ) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/59NOU4R72nphHRtwQlGfjJ) | 3:28 |
-| 38 | [Figa De Guiné](https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sabiá Marrom \- O Samba Raro De Alcione](https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H) | 2:19 |
+| 38 | [Oba, Lá Vem Ela](https://open.spotify.com/track/6MCaOLDl0epJPRN76H5S4N) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit), [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Força Bruta](https://open.spotify.com/album/12G0eYu3u8ZwdstT1flUXw) | 4:12 |
 | 39 | [Fleur Tropical](https://open.spotify.com/track/4vmsZZiNGG9SnXPQXPgl1f) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music 1975 \- 1982](https://open.spotify.com/album/0tfoSJVUJaLlua6IEJZJjz) | 3:53 |
-| 40 | [Oba, Lá Vem Ela](https://open.spotify.com/track/6MCaOLDl0epJPRN76H5S4N) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit), [Trio Mocoto](https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP) | [Força Bruta](https://open.spotify.com/album/12G0eYu3u8ZwdstT1flUXw) | 4:12 |
+| 40 | [Figa De Guiné](https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Sabiá Marrom \- O Samba Raro De Alcione](https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H) | 2:19 |
 | 41 | [Cherry Oh Baby \- Remastered](https://open.spotify.com/track/53PIJiUe4MeUitcD4QyiTu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Black And Blue \(Remastered 2009\)](https://open.spotify.com/album/2jtHqgzKfoF8uVvEosb6Jl) | 3:54 |
-| 42 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:00 |
-| 43 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 |
-| 44 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 |
+| 42 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 |
+| 43 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5) | 3:00 |
+| 44 | [T.I.B.W.F.](https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd) | 2:40 |
 | 45 | [My Jamaican Dub](https://open.spotify.com/track/4xdNkLvjTpGYjZ3yxSoGD0) | [Bacao Rhythm & Steel Band](https://open.spotify.com/artist/0sjhSgEkyVa8QRmkkuckJ0) | [Expansions](https://open.spotify.com/album/1tMUBZE5cSHtJCn0HT9FaW) | 2:39 |
-| 46 | [T.I.B.W.F.](https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Budos Band](https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd) | 2:40 |
+| 46 | [Ché Ché Colé](https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 3:31 |
 | 47 | [Sonido Amazónico](https://open.spotify.com/track/4TlDq3jEpOfDl6Sdx8y4ru) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Los Charapas de Oro](https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY) | 2:42 |
 | 48 | [Cotidiano](https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Construção](https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5) | 2:48 |
 | 49 | [Gole Yakh](https://open.spotify.com/track/1C8RHwk3q455M7hpihnzJJ) | [Kourosh Yaghmaei](https://open.spotify.com/artist/6hKJvRsiSIyjIBv9usxkhh) | [Back From The Brink: Pre\-Revolution Psychedelic Rock From Iran: 1973\-1979](https://open.spotify.com/album/03Ewp6nI2gEGIwPzIWDlj4) | 5:06 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 97 | [Maracatu Atômico](https://open.spotify.com/track/2kZDs0Cuo9utZEAdwvmzNf) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Nightingale](https://open.spotify.com/album/1VsheN04RbBbGTdjESl6w4) | 4:24 |
 | 98 | [Thinking Of You](https://open.spotify.com/track/5uWLuFDmMs1r44KFfUwWiA) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5), [Lisa Tomlins](https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR) | [Melodies](https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU) | 7:00 |
 | 99 | [Qui C'Est Celui\-La \- Partido Alto](https://open.spotify.com/track/2ssvhHib70zuzp3PBWoNnL) | [Pierre Vassiliu](https://open.spotify.com/artist/49NlklXdh2UFIW4VUu4fPx) | [Qui C'Est Celui\-La](https://open.spotify.com/album/0lOjw1NmPKzLz8on5WnU65) | 4:35 |
-| 100 | [Only You](https://open.spotify.com/track/3d7lH2ppf2aIELQXY4nagn) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/5WSHxP5AtfzdVdZrLC8LjP) | 6:21 |
+| 100 | [Black Sand](https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy) | 4:38 |
 
 Snapshot ID: `Zr9QHgAAAAAIvIOns8DCSa4kpGffBORw`

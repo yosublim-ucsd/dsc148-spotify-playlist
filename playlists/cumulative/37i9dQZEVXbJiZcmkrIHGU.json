@@ -3859,6 +3859,28 @@
     },
     {
       "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Ren\u00e9 Miller",
+          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140986,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
+    },
+    {
+      "album": {
         "name": "AQUA",
         "url": "https://open.spotify.com/album/5F98AKKJf6xc9cpVQhyU8G"
       },
@@ -21220,7 +21242,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 172065,
       "name": "Haare trocknen",
       "url": "https://open.spotify.com/track/3pumsMT8WGMx4ddvzKmAPf"
@@ -23186,7 +23208,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -28024,6 +28046,28 @@
       "duration_ms": 172000,
       "name": "Lamborghini Doors",
       "url": "https://open.spotify.com/track/3RcMZdAgZmG645LyMKFH3I"
+    },
+    {
+      "album": {
+        "name": "Folge 2 - GHETTO HOUSE",
+        "url": "https://open.spotify.com/album/28yC4bs0AjDRMiHcrIPSN8"
+      },
+      "artists": [
+        {
+          "name": "Rap La Rue",
+          "url": "https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos"
+        },
+        {
+          "name": "Der Yavuz",
+          "url": "https://open.spotify.com/artist/59qNA3x8KEFnzFWINGlkyt"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Lamine Yamal",
+      "url": "https://open.spotify.com/track/5CeN3nUDe06TeC8TdZ62EY"
     },
     {
       "album": {
@@ -50030,7 +50074,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
@@ -50048,7 +50092,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"

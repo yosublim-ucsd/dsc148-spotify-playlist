@@ -707,6 +707,24 @@
     },
     {
       "album": {
+        "name": "Zombies! Aliens! Vampires! Dinosaurs! And More!",
+        "url": "https://open.spotify.com/album/4xS0NB3U8IOAobyyJy09Yk"
+      },
+      "artists": [
+        {
+          "name": "Hellogoodbye",
+          "url": "https://open.spotify.com/artist/6GH0NzpthMGxu1mcfAkOde"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240546,
+      "name": "Here (In Your Arms)",
+      "url": "https://open.spotify.com/track/4z1gmF4S1YsTj1pxiU47Qx"
+    },
+    {
+      "album": {
         "name": "The Yippee EP",
         "url": "https://open.spotify.com/album/1oFeg6t9ToYo6DgGwb47Fm"
       },
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 198266,
       "name": "Since U Been Gone",
       "url": "https://open.spotify.com/track/1HykUKaVU0CEUvv1vLKkXj"

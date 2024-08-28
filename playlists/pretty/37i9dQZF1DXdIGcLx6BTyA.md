@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,307 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,302 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 68 | [Goddamn Lonely Love](https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 4:59 |
 | 69 | [Drunken Poet's Dream \[feat\. Ray Wylie Hubbard\] \(Alone Together Sessions\)](https://open.spotify.com/track/6k7HGFpPdXf1mMz1VvdFdo) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV), [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Alone Together Sessions](https://open.spotify.com/album/0Sw1qWpwK8FANIuvvKTYLE) | 4:53 |
 | 70 | [Sleeping on the Blacktop](https://open.spotify.com/track/3Ozx6IrGdoQyAworJzvBDE) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Imaginary Appalachia](https://open.spotify.com/album/1widYgH6RNVOxnLOiVeihU) | 3:12 |
-| 71 | [Neon Cross](https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Neon Cross](https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ) | 4:24 |
-| 72 | [Champagne Corolla](https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 3:35 |
+| 71 | [Champagne Corolla](https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 3:35 |
+| 72 | [Neon Cross](https://open.spotify.com/track/5ayliDKP3otgKuYCfSiySg) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Neon Cross](https://open.spotify.com/album/2ENwnvyAD2AzUP2Z46l8bQ) | 4:24 |
 | 73 | [Loud and Heavy](https://open.spotify.com/track/0SF38KDlXNLJAxbYyOMnCy) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions](https://open.spotify.com/album/1tzRfpfSIo3RWhCMCZnO19) | 3:49 |
 | 74 | [Heading South](https://open.spotify.com/track/2c8WbESPtql9rRE2lB9Wwl) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/7Awf9BeZKWESAP9w5qarWp) | 2:51 |
 | 75 | [Tuesday I'll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/track/6QN8DLxJ1Vvib4JaLOw0O2) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Tuesday I'll Be Gone \(feat\. Blake Shelton\)](https://open.spotify.com/album/5Cfm8cQjzRQGEoIv2XkAbr) | 3:44 |

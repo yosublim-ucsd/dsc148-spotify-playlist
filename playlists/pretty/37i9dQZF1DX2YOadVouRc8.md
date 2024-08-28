@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,877 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,902 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 60 | [Loner \(Alone\)](https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Loner \(Alone\)](https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl) | 2:31 |
 | 61 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
 | 62 | [Dis Kain Luv](https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Dis Kain Luv](https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1) | 2:32 |
-| 63 | [X](https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [X](https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt) | 1:33 |
-| 64 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 |
+| 63 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 |
+| 64 | [X](https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [X](https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt) | 1:33 |
 | 65 | [December](https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [December](https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX) | 2:35 |
 | 66 | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA) | 2:43 |
 | 67 | [Celine Dion](https://open.spotify.com/track/4ktaaCJqhdNwD7tKdbD6iv) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Celine Dion](https://open.spotify.com/album/5QfedG17HAYDMB5UhDtoE4) | 3:09 |

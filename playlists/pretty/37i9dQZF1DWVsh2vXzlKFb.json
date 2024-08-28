@@ -1,6 +1,6 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 561151,
+  "num_followers": 561759,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
         "name": "Wasted Summers",
         "url": "https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 130384,
       "name": "Wasted Summers",
       "url": "https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "New Flesh",
-      "url": "https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
         "name": "Cyclones and Hey Lover",
         "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 162560,
       "name": "Hey Lover!",
       "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/3vYaHUkO7laqYdwUQbnsIP"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "New Flesh",
+      "url": "https://open.spotify.com/track/6HJxxqHWMdidwTVZmZWeHU"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Year of the Caprese",
-        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
-      },
-      "artists": [
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 323253,
-      "name": "Doses & Mimosas",
-      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/2DrGEaqoruCSn0FffWCf5O"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
+        "name": "Year of the Caprese",
+        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
+      },
+      "artists": [
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 323253,
+      "name": "Doses & Mimosas",
+      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -947,22 +947,6 @@
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 147350,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1015,6 +999,22 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 147350,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
         "name": "How Will You Know If You Never Try",
         "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Chiaroscuro",
-        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 253076,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 192144,
       "name": "May Ninth",
       "url": "https://open.spotify.com/track/5yVGW2o9LXaiiS4I3HUM3k"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
+        "name": "Chiaroscuro",
+        "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 253076,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
         "name": "Backyard Boy (Stripped)",
         "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
       },
@@ -1191,34 +1175,18 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
       },
       "artists": [
         {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
         }
       ],
-      "duration_ms": 230773,
-      "name": "Cold Cold Man",
-      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
-        "name": "Calling After Me",
-        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Calling After Me",
-      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+      "duration_ms": 203506,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1243,6 +1211,38 @@
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
+        "name": "Calling After Me",
+        "url": "https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Calling After Me",
+      "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "Cold Cold Man",
+      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
         "name": "Hush (Still Woozy Remix)",
         "url": "https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 182346,
       "name": "Hush - Still Woozy Remix",
       "url": "https://open.spotify.com/track/4dGuRldChjvboZktprNJFM"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+    },
+    {
+      "added_at": "2024-08-26 23:13:11",
+      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1467,18 +1483,22 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+        "name": "Summer 2000 Baby / Take a Trip",
+        "url": "https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
         }
       ],
-      "duration_ms": 251600,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+      "duration_ms": 242410,
+      "name": "Summer 2000 Baby",
+      "url": "https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1519,22 +1539,18 @@
     {
       "added_at": "2024-08-26 23:13:11",
       "album": {
-        "name": "Summer 2000 Baby / Take a Trip",
-        "url": "https://open.spotify.com/album/6n25jgU7JCTYlCpI4abuT4"
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
       },
       "artists": [
         {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
         }
       ],
-      "duration_ms": 242410,
-      "name": "Summer 2000 Baby",
-      "url": "https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9"
+      "duration_ms": 166179,
+      "name": "Are You Looking Up",
+      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
     },
     {
       "added_at": "2024-08-26 23:13:11",
@@ -1551,22 +1567,6 @@
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2024-08-26 23:13:11",
-      "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 166179,
-      "name": "Are You Looking Up",
-      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
     },
     {
       "added_at": "2024-08-26 23:13:11",

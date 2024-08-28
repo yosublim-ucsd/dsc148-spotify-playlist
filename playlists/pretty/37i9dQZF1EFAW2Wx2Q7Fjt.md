@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,285 likes - 128 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,293 likes - 128 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 35 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
 | 36 | [Losing It Over You \(feat\. Ayme\)](https://open.spotify.com/track/6TfbZ9vy5zqBEDLmqwH9sp) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Ayme](https://open.spotify.com/artist/3ij1FcXAaIkz7ulZ8Ud4kd) | [One in a Million](https://open.spotify.com/album/4GDE5FdlgBD3FE4A454YNz) | 3:27 |
 | 37 | [cut my hair](https://open.spotify.com/track/3YUHxgPuHedoZGt9KfGlqB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:55 |
-| 38 | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\) \- “ From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack ”](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 |
-| 39 | [scared of my guitar](https://open.spotify.com/track/7JqH46zlr7XV7vMBt4slE6) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 4:23 |
+| 38 | [scared of my guitar](https://open.spotify.com/track/7JqH46zlr7XV7vMBt4slE6) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 4:23 |
+| 39 | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\) \- “ From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack ”](https://open.spotify.com/track/1gACe11pZiy8Xv3SY0ocyz) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heartbeat \(From the “Lyle, Lyle, Crocodile” Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ydhMijrPqgwuIxX4z90AT) | 2:20 |
 | 40 | [Forever](https://open.spotify.com/track/3zzrKCO0OA85eemnlQnQ7c) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Forever](https://open.spotify.com/album/0jrUPXjfWwHPD943Bwwm0o) | 2:49 |
 | 41 | [Talk About Love \(feat\. Young Thug\)](https://open.spotify.com/track/5UkMXb3IfK9fTCCrMr0v9A) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:19 |
 | 42 | [guilty conscience](https://open.spotify.com/track/2wIcebwzceIwgonsDICx6P) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:32 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 127 | [Staircase](https://open.spotify.com/track/5TsO44gSxSL2s6ksqZChoR) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 2:37 |
 | 128 | [Unsatisfied](https://open.spotify.com/track/51lD9CXjQZlG3GwRRw1MLl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:39 |
 
-Snapshot ID: `Abae/gAAAACvSg+GNsLNEmYoxzX97woi`
+Snapshot ID: `AbakngAAAACLYSPY00wzSF+Ya4LHoN0D`

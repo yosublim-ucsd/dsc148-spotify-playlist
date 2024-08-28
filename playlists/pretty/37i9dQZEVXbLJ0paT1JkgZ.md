@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,088 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,092 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 21 | [Piel](https://open.spotify.com/track/6kPCcIAGoTeRrh8qrmKa90) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [GOTTI A](https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS) | 2:22 |
 | 22 | [Gitana \(feat\. Bryartz\)](https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 3:41 |
 | 23 | [Enrolar \- Fantastic Four Remix](https://open.spotify.com/track/4Br7zuCL1Jetik8COatafL) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb), [LOS 4F](https://open.spotify.com/artist/7vdDWCqSTK2O100wDjYvh5) | [Enrolar \- Fantastic Four Remix](https://open.spotify.com/album/0BDsr0tgX3IivsPIW69kTO) | 5:03 |
-| 24 | [Es Un Secreto](https://open.spotify.com/track/1AddbBdKFz8wdqatGVSsYS) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Cipote Carnaval 2011](https://open.spotify.com/album/14zQ8tAtR4VKcFjIvxop3l) | 3:12 |
+| 24 | [Es un Secreto](https://open.spotify.com/track/7JwdbqIpiuWvGbRryKSuBz) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:10 |
 | 25 | [misteriosa \(xulinho\)](https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [misteriosa \(xulinho\)](https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1) | 3:15 |
 | 26 | [Solida](https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Solida](https://open.spotify.com/album/76Vgm0kKAsH7kkapKsPudr) | 2:33 |
 | 27 | [Avísame](https://open.spotify.com/track/55eG1F2xukyOGAkaNAG4MQ) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Nes](https://open.spotify.com/artist/3dC19P4w1BbDuwCailjybv) | [Avísame](https://open.spotify.com/album/0DDsewH4eZDjasZLoPgWkn) | 2:43 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 41 | [UWAIE](https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [UWAIE](https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN) | 2:52 |
 | 42 | [miau](https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [miau](https://open.spotify.com/album/71I1bBOFoP9ootc5n4LPjg) | 3:05 |
 | 43 | [PRINCESITA DE ...](https://open.spotify.com/track/7pNzulQGBP6v2g4A2KnAJ6) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa) | [ÉNFASIS](https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B) | 2:42 |
-| 44 | [Solos \(feat\. Plan B\)](https://open.spotify.com/track/0I1mau5VjFZGDmLCpMfTyP) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Cipote Carnaval 2011](https://open.spotify.com/album/14zQ8tAtR4VKcFjIvxop3l) | 3:09 |
+| 44 | [Solos \(feat\. Plan B\)](https://open.spotify.com/track/2ItA7kOg5NH6AygzU30sEv) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [La Melodia de la Calle \(Remastered\)](https://open.spotify.com/album/3gvDroaxVajs2EDUABP3C7) | 3:08 |
 | 45 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 46 | [SOLO DIME](https://open.spotify.com/track/76NtZCaYVQHxEkB6mrm1DQ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [El BAI](https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa), [Dj Osar](https://open.spotify.com/artist/1QfMokd89daz2p3JvQFrSB), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [PROYECTO A\-KLEIN](https://open.spotify.com/album/4XVIEmQkAh94hMVod4yh3k) | 3:19 |
 | 47 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
 | 50 | [Que Brille Sola Mami](https://open.spotify.com/track/5MQ4q4Cjb7Bmwx8goqyRob) | [Tobal Mj](https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Kail BRL](https://open.spotify.com/artist/1F5KgWs6pawyDs5px23UIQ) | [Que Brille Sola Mami](https://open.spotify.com/album/4ga6C0sQM4PdBwwpJfvJGC) | 3:15 |
 
-Snapshot ID: `Ll/q8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`

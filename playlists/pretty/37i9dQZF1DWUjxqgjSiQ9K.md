@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:6slyJwua5e5GuhuP82sTHR">Alex Campos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 607,590 likes - 98 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 607,632 likes - 98 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This Is Dharius. Los temas esenciales, todos en una lista.",
-  "num_followers": 109707,
+  "num_followers": 109773,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAADW6Db3++V1VJb3MSAc1h0V",
+  "snapshot_id": "ZsvFgAAAAAD4m0+Z1gyHu8j/1OcztMyv",
   "tracks": [
     {
       "added_at": null,
@@ -451,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
+        "name": "Recia",
+        "url": "https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p"
       },
       "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 251416,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z"
+      "duration_ms": 237419,
+      "name": "Recia",
+      "url": "https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC"
     },
     {
       "added_at": null,
@@ -483,22 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recia",
-        "url": "https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p"
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
       },
       "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        },
         {
           "name": "Dharius",
           "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 237419,
-      "name": "Recia",
-      "url": "https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC"
+      "duration_ms": 251416,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z"
     },
     {
       "added_at": null,

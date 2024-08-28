@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,818 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,879 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 52 | [Muchacha Encantadora](https://open.spotify.com/track/4M3WYnhqRxRSoWTGjhrUtr) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Grandes Éxitos de los Chiches Vallenatos](https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB) | 4:17 |
 | 53 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
 | 54 | [Sombra Perdida](https://open.spotify.com/track/6CfZqZsIyWKrYGebzivkV6) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:24 |
-| 55 | [Como duele el frio](https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:57 |
-| 56 | [Las Razones Del Amor](https://open.spotify.com/track/220sNWEEnJnX2J8vnwuM1W) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Mas Vallenato](https://open.spotify.com/album/2OVrfcdiMV7N1FGVQhpR9o) | 5:07 |
+| 55 | [Me Tiraste Al Mar](https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Versión Original](https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw) | 4:26 |
+| 56 | [Como duele el frio](https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx) | [Jose Luis Carrascal](https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 4:57 |
 | 57 | [Olvídala](https://open.spotify.com/track/0QUnzLeB2USzFv8OqJe8S8) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 5:04 |
 | 58 | [Quiéreme](https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [Historia Musical](https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o) | 5:06 |
 | 59 | [Volver](https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6) | 4:52 |

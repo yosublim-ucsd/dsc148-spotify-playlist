@@ -4,7 +4,7 @@
 
 > Jadi lebih produktif ditemani musik terkini
 
-211 songs - 12 hr 44 min
+212 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Darkest Hour \- Keisya Levronka Version](https://open.spotify.com/track/2GG2bljq1Nem0qNxWuuUfS) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Darkest Hour \(Keisya Levronka Version\)](https://open.spotify.com/album/4d88SjXgVm9pBiKs0JIFzY) | 2:11 | 2023-05-05 | 2024-06-25 |
 | [Daylight](https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:53 | 2023-05-05 |  |
 | [Dewi](https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0) | [Alexa](https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W) | [Alexa](https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog) | 4:17 | 2023-03-22 | 2024-01-18 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-28 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2023-03-22 |  |
 | [drunk text](https://open.spotify.com/track/6EIMUjQ7Q8Zr2VtIUik4He) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [in all of my lonely nights](https://open.spotify.com/album/19zU4YKQ8Gdn8QYQvXumhO) | 3:07 | 2024-05-06 |  |
 | [Dunia Tipu\-Tipu](https://open.spotify.com/track/0mMqopQJOWADJSPRMYkvTF) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:38 | 2023-03-22 | 2024-01-18 |

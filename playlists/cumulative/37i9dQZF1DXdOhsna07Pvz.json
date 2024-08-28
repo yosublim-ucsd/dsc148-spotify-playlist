@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Extra",
+        "url": "https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354813,
+      "name": "Extra",
+      "url": "https://open.spotify.com/track/3GS0CICQvKGCQcI7lNalcT"
+    },
+    {
+      "album": {
         "name": "Rosa Neon",
         "url": "https://open.spotify.com/album/3Cp8fCtFU6VIi9lqwsgobL"
       },
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 256053,
       "name": "P\u00e9 do Meu Samba - Ao Vivo",
       "url": "https://open.spotify.com/track/5kkAoaOSUTEsyN44XOk17I"

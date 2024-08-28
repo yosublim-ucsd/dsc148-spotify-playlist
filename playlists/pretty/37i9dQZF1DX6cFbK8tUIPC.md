@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,532 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,709 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 22 | [ur so pretty](https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [how can i pretend?](https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0) | 2:12 |
 | 23 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 |
 | 24 | [The Alcott \(feat\. Taylor Swift\)](https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:27 |
-| 25 | [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 |
-| 26 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 |
+| 25 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 |
+| 26 | [Red Eyes](https://open.spotify.com/track/0rUIff1QHd5zlOBtlHVqd9) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 4:58 |
 | 27 | [Is What It Is](https://open.spotify.com/track/2wUvQE1VLMw0jRJVYn7qbt) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Is What It Is](https://open.spotify.com/album/4DJnKYeQB8fSFaRTjXD7rB) | 3:23 |
 | 28 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
 | 29 | [August](https://open.spotify.com/track/0elCmyfISzkP5tAYTVuYjS) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Citrona](https://open.spotify.com/album/7iTm9yZznLHb1GBOVm5IB1) | 4:21 |
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 38 | [Irish Goodbye](https://open.spotify.com/track/4o5pcDRVUdkMeyq5l5dWh7) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 2:19 |
 | 39 | [Found](https://open.spotify.com/track/4IeGLYWTUvuqaLjBWGxix2) | [Zach Webb](https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke) | [Found](https://open.spotify.com/album/1mx8fRTJbyrN8MUZu8Zlg1) | 5:11 |
 | 40 | [Autumn Town Leaves](https://open.spotify.com/track/6HbxpoChDH9ThadFOSAnma) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/7HsQnwEa1RXoPanfrRPbb3) | 3:15 |
-| 41 | [I Guess](https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |
-| 42 | [Georgia](https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 4:07 |
+| 41 | [Georgia](https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 4:07 |
+| 42 | [I Guess](https://open.spotify.com/track/2V6xyW0KBDHzyQ4Q0ZSq1W) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:44 |
 | 43 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
-| 44 | [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 |
-| 45 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 |
+| 44 | [Right Back to It](https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 4:33 |
+| 45 | [Sleep On The Floor](https://open.spotify.com/track/5MMZJtHOiH1RmQSSe3DJdg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:31 |
 | 46 | [the warmth](https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [the warmth](https://open.spotify.com/album/40oxSP2IdI8XHlE3bJCxJy) | 4:30 |
 | 47 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |
 | 48 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 87 | [Pull](https://open.spotify.com/track/6G2h2rRW81Bc7y2KNCmPiZ) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Pull](https://open.spotify.com/album/0DlOrKbGDCl6Z20bvUyzVv) | 3:16 |
 | 88 | [Everlasting](https://open.spotify.com/track/4AZ0sJsofN1fu52BaYDfQX) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Anywhere from Here](https://open.spotify.com/album/4ySzF5KyOtlBFWmqrVGvxy) | 3:42 |
 | 89 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
-| 90 | [In Plain Sight](https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [In Plain Sight](https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0) | 2:36 |
-| 91 | [Wild Winds](https://open.spotify.com/track/1RV6KELv1ZX4BoO2RxF5NS) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Wild Winds](https://open.spotify.com/album/2G58RVCdP81L0t60yjJfXN) | 3:33 |
+| 90 | [Wild Winds](https://open.spotify.com/track/1RV6KELv1ZX4BoO2RxF5NS) | [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Wild Winds](https://open.spotify.com/album/2G58RVCdP81L0t60yjJfXN) | 3:33 |
+| 91 | [In Plain Sight](https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [In Plain Sight](https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0) | 2:36 |
 | 92 | [evelyn](https://open.spotify.com/track/45M2p6aBW3RuLYV2SLUn0G) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [evelyn](https://open.spotify.com/album/77F9gcTKvqjBvhIR8t0DJY) | 3:50 |
 | 93 | [Necklace](https://open.spotify.com/track/2uW2mr7xyFXwxG0cHNq87B) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Necklace](https://open.spotify.com/album/1YaEANXHSIKzuHEcClw2eY) | 3:31 |
 | 94 | [Luna Moth](https://open.spotify.com/track/2UqdJ97NrOsUgbEzeiyAlL) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Luna Moth](https://open.spotify.com/album/6CVNKZmRRunfdXutT9TTw8) | 3:24 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 97 | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE) | 5:26 |
 | 98 | [Temple Fair](https://open.spotify.com/track/65IQJhKCLw0yHLL6OSiyvG) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Temple Fair](https://open.spotify.com/album/3sPEorgDnsLIHkEhWyQaZO) | 5:03 |
 | 99 | [I'm Ready](https://open.spotify.com/track/1RPmeICY33v1lLiq6Gqj1r) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Here Goes Nothing!](https://open.spotify.com/album/5GAuXiCpLD3PL7KLKT5AAt) | 3:14 |
-| 100 | [Towers](https://open.spotify.com/track/5TGv36v9A0AsLq1xJrNs5V) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 3:08 |
+| 100 | [Why Not?](https://open.spotify.com/track/4CZrDrP8pmwHkUl2eqwPeG) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Why Not?](https://open.spotify.com/album/1B3Vg4apTV7ods0nVQmuNF) | 2:29 |
 
 Snapshot ID: `ZsJR/wAAAADoS2QDxMK58EN4OdxVBrIg`

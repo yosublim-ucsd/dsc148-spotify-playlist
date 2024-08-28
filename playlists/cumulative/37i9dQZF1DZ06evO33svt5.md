@@ -2,7 +2,7 @@
 
 ### [This Is Doja Cat](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33svt5)
 
-> This Is Doja Cat\. Los temas esenciales, todos en una lista.
+> This is Doja Cat\. The essential tracks, all in one playlist.
 
 70 songs - 3 hr 47 min
 
@@ -22,7 +22,7 @@
 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4) | 2:35 | 2023-11-10 | 2024-04-19 |
 | [Better Than Me](https://open.spotify.com/track/1ZiJGdjNtvgngdT3wRKVqS) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:22 | 2024-04-20 | 2024-07-18 |
 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 | 2023-11-10 |  |
-| [Can't Wait](https://open.spotify.com/track/5ZyQqAgrPr0cVm0VfM69Np) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:55 | 2023-11-10 | 2024-07-23 |
+| [Can't Wait](https://open.spotify.com/track/5ZyQqAgrPr0cVm0VfM69Np) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:55 | 2023-11-10 |  |
 | [Candy](https://open.spotify.com/track/1VJwtWR6z7SpZRwipI12be) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:10 | 2023-11-10 |  |
 | [Casual](https://open.spotify.com/track/2tT9weSQUFDWsVgHBYz3G6) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 4:00 | 2024-02-26 |  |
 | [Cyber Sex](https://open.spotify.com/track/1ghvzmzpx2nnrbx7wtpMgo) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 2:45 | 2023-11-10 |  |
@@ -76,7 +76,7 @@
 | [Wine Pon You \(feat\. Konshens\)](https://open.spotify.com/track/2s4AcE9n80mSHl87lp4gIm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:39 | 2023-11-10 |  |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2023-11-10 |  |
 | [Won't Bite \(feat\. Smino\)](https://open.spotify.com/track/7k51pIqTGEHHZOnpI11Qq2) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:15 | 2023-12-16 | 2024-07-24 |
-| [WYM Freestyle](https://open.spotify.com/track/1qimDZEBflJE25RXkF24Yg) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:04 | 2024-01-09 |  |
+| [WYM Freestyle](https://open.spotify.com/track/1qimDZEBflJE25RXkF24Yg) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:04 | 2024-01-09 | 2024-08-28 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2023-11-10 |  |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

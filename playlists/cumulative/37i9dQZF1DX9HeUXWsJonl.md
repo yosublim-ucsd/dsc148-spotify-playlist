@@ -4,7 +4,7 @@
 
 > Samara en tête de la playlist numéro un en Tunisie.
 
-228 songs - 13 hr 49 min
+229 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [AIINA](https://open.spotify.com/track/4X168iMrm9b87RamMluLB9) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [AIINA](https://open.spotify.com/album/0QyCU2T4aN86JIywRt25mp) | 3:11 | 2024-05-03 |  |
 | [Aini Fi Ainik](https://open.spotify.com/track/5uMzLIfazXkkR4Y4vDJDwH) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Aini Fi Ainik](https://open.spotify.com/album/3Sx1Q724f8iVGOZ3jggG5V) | 2:47 | 2021-12-10 | 2022-04-01 |
 | [Allo \- الو](https://open.spotify.com/track/1mYKk7dWVDcfn8lTJ6CKJV) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Allo \(الو\)](https://open.spotify.com/album/5sw19c2WnCbMacw9OzubzT) | 4:19 | 2022-05-30 | 2024-04-05 |
-| [Alone](https://open.spotify.com/track/7bGpaDRAfA8dDuH2aykPLq) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [Alone](https://open.spotify.com/album/2d3ukGlwC5Ey777xjYEEXD) | 4:04 | 2023-08-19 |  |
+| [Alone](https://open.spotify.com/track/7bGpaDRAfA8dDuH2aykPLq) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Ily](https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa) | [Alone](https://open.spotify.com/album/2d3ukGlwC5Ey777xjYEEXD) | 4:04 | 2023-08-19 | 2024-08-28 |
 | [Amane](https://open.spotify.com/track/5hE7CooonBvT1EhAawMCqp) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Comme avant](https://open.spotify.com/album/5kwEOC8Ua2255QdWR2TqAX) | 3:52 | 2021-12-10 | 2022-12-24 |
 | [Amane Amane](https://open.spotify.com/track/32rgLBz7yrG7yBLI6BCNjQ) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Amane Amane](https://open.spotify.com/album/52qCnEXbx1KN0TZuX8oC9C) | 3:34 | 2021-12-10 | 2022-02-08 |
 | [Amazone](https://open.spotify.com/track/2MYKMHhMFIlmYKn05C9cV2) | [Kafon](https://open.spotify.com/artist/1g7CL458gLNv8UY3W2IFBw), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [Amazone](https://open.spotify.com/album/42rj17QXfTKr8YjAhUKZ28) | 3:20 | 2021-12-10 | 2023-03-23 |
@@ -160,6 +160,7 @@
 | [Nour Einya](https://open.spotify.com/track/4I2RsbFM6kjO0CrNsSG3CD) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Nour Einya](https://open.spotify.com/album/7olrz330h5TSKVwhjyP9BR) | 4:33 | 2021-12-10 | 2022-07-12 |
 | [Nseni](https://open.spotify.com/track/739EgkC4WjNGjdD2yfQb7X) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Nseni](https://open.spotify.com/album/1AsdnLVopB6qlFST8yzkkd) | 3:34 | 2022-11-26 | 2023-02-02 |
 | [Nsit](https://open.spotify.com/track/0hllEJMWmrUkJYhih8HFXU) | [Hamouda](https://open.spotify.com/artist/7ep436ioXw7ZOJjpe1tDoN) | [Nsit](https://open.spotify.com/album/5LVw0x40TTidYtwOiNy673) | 3:17 | 2022-12-22 | 2023-02-28 |
+| [Nwassik](https://open.spotify.com/track/3qyDA70RsM0zN2ECsBLvcB) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Nwassik](https://open.spotify.com/album/7JOkEZ2vHN9wWJpN84SvRL) | 2:46 | 2024-08-27 |  |
 | [Omri T3ada](https://open.spotify.com/track/7rMmuMmb37vB0f4oq9INiq) | [NumbXiller](https://open.spotify.com/artist/15ZlX7JBb0xJ5rFxGAC6KZ) | [Omri T3ada](https://open.spotify.com/album/5R4xtMp7Tu4tNwn9CvdkpB) | 2:23 | 2023-12-20 |  |
 | [One Love](https://open.spotify.com/track/5oHN7syQOktjfuFzg12UBl) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [One Love](https://open.spotify.com/album/6BCjHmj1zFwLeAF2La2jKY) | 3:10 | 2023-02-28 | 2023-11-22 |
 | [Paradise](https://open.spotify.com/track/0dgxSqMys4w9qPvGSyyWHY) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Paradise](https://open.spotify.com/album/3m0HTUkwIf64MyLbCfi3dR) | 2:57 | 2022-09-12 | 2022-11-27 |

@@ -1,6 +1,6 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 577381,
+  "num_followers": 577456,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Antolog\u00eda... Emilio Tuero",
-        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
-      },
-      "artists": [
-        {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
-        }
-      ],
-      "duration_ms": 175480,
-      "name": "Quinto patio",
-      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Serenatas",
         "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 160853,
       "name": "Luna de octubre",
       "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Antolog\u00eda... Emilio Tuero",
+        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
+      },
+      "artists": [
+        {
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+        }
+      ],
+      "duration_ms": 175480,
+      "name": "Quinto patio",
+      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
-      },
-      "artists": [
-        {
-          "name": "Sonia Lopez",
-          "url": "https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Voy Gritando por la Calle",
-      "url": "https://open.spotify.com/track/0q8qmkWirShRjnOB2Nc2Ae"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Dame Que Te Doy",
         "url": "https://open.spotify.com/album/61TnSCAvXeFGjVF5TVSjJs"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 191120,
       "name": "Cuidadito, Cuidadito",
       "url": "https://open.spotify.com/track/2eNyia284twoi86yKlDFxV"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/5dTJ5OQ4fMlMXVyxXwIVpA"
+      },
+      "artists": [
+        {
+          "name": "Sonia Lopez",
+          "url": "https://open.spotify.com/artist/412SQ2pwIYKv7NgaOg1uty"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Voy Gritando por la Calle",
+      "url": "https://open.spotify.com/track/0q8qmkWirShRjnOB2Nc2Ae"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Luis Arcar\u00e1z y Gabriel Ru\u00edz",
-        "url": "https://open.spotify.com/album/0tzk5gxyBoOlp14Id6TtnB"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 174306,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/1eldeMIMAWefISKWWQLSGg"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "No",
         "url": "https://open.spotify.com/album/453mZhcGBHRgoJeLfirF6k"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 161250,
       "name": "No",
       "url": "https://open.spotify.com/track/0C69couVwXQPhHPq2f2gSa"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Luis Arcar\u00e1z y Gabriel Ru\u00edz",
+        "url": "https://open.spotify.com/album/0tzk5gxyBoOlp14Id6TtnB"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 174306,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/1eldeMIMAWefISKWWQLSGg"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Voy A Apagar La Luz",
+        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 143848,
+      "name": "Voy A Apagar La Luz",
+      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 134113,
       "name": "Querida Amiga",
       "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Voy A Apagar La Luz",
-        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 143848,
-      "name": "Voy A Apagar La Luz",
-      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1255,26 +1255,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+        "name": "Cuando Te Duermas",
+        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
       },
       "artists": [
         {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
         }
       ],
-      "duration_ms": 201021,
-      "name": "Luna Orgullosa",
-      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+      "duration_ms": 162927,
+      "name": "Cuando Te Duermas",
+      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1295,18 +1287,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Cuando Te Duermas",
-        "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
+        "name": "Toda Esta Gente",
+        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
       },
       "artists": [
         {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 162927,
-      "name": "Cuando Te Duermas",
-      "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
+      "duration_ms": 151250,
+      "name": "Toda Esta Gente",
+      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1327,22 +1319,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Toda Esta Gente",
-        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Toda Esta Gente",
-      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Los Grandes Exitos De Virginia Lopez - A Peticion Del Publici",
         "url": "https://open.spotify.com/album/5xaioAiN5WbONqb56BhWHe"
       },
@@ -1355,6 +1331,30 @@
       "duration_ms": 153253,
       "name": "Cari\u00f1ito Azucarado",
       "url": "https://open.spotify.com/track/0jI1SHJ4P9m5T3w4hSy8Kd"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 201021,
+      "name": "Luna Orgullosa",
+      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 152874,
+      "name": "Te Extran\u0303o",
+      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Esperare",
         "url": "https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX"
       },
@@ -1411,6 +1427,26 @@
       "duration_ms": 130500,
       "name": "Esperare",
       "url": "https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Noche criolla",
+        "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        },
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 180035,
+      "name": "Ven aca (Bolero)",
+      "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1439,42 +1475,6 @@
       "duration_ms": 191794,
       "name": "Ven",
       "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Noche criolla",
-        "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 180035,
-      "name": "Ven aca (Bolero)",
-      "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Te Extra\u00f1o",
-        "url": "https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 152874,
-      "name": "Te Extran\u0303o",
-      "url": "https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6"
     },
     {
       "added_at": "2024-07-11 00:56:29",

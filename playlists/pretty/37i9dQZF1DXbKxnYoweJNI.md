@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 吾橋有水 \(FloodingBridge\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,636 likes - 119 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,650 likes - 119 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

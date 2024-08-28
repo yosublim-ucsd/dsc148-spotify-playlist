@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Semicenk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,568,512 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,570,740 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,20 +26,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 16 | [Kömür](https://open.spotify.com/track/3TbZb6udQT4iqyQXmwBe7T) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Kömür](https://open.spotify.com/album/1Cbcf1YvsNrMZs3pxYLHoD) | 5:04 |
 | 17 | [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 |
 | 18 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 |
-| 19 | [Tek Başıma](https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Tek Başıma](https://open.spotify.com/album/06zEvBcaeNyNsXLm73OIqx) | 3:29 |
-| 20 | [İNTİHAR](https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7) | 2:08 |
-| 21 | [Yetmedi](https://open.spotify.com/track/5TxqI3DLEbMVJkyVgentxd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [Yetmedi](https://open.spotify.com/album/3V0ymncsPOu1uK4ufGV2zt) | 1:55 |
-| 22 | [OF OF OF](https://open.spotify.com/track/1RI3YE0BqwN2Fd6Ej0gTqW) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [OF OF OF](https://open.spotify.com/album/0WEq08VBCgEfPh3Hw6dlav) | 2:24 |
-| 23 | [Hayırlı Günler](https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt) | [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Pişman](https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg) | 3:16 |
-| 24 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:26 |
-| 25 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 |
-| 26 | [nE !?](https://open.spotify.com/track/1Ma4fLShd0hpZSNH37mEkR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 1:54 |
-| 27 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 |
-| 28 | [ARABA](https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARABA](https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH) | 2:13 |
-| 29 | [Batık Gemi](https://open.spotify.com/track/3Gpffv3gaD1UxQPeElIjCp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg) | 4:20 |
-| 30 | [Sopa \- Clup Remix](https://open.spotify.com/track/2rkDwpmqASO9ZmUFjqwrR3) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Hande'ye Neler Oluyor](https://open.spotify.com/album/7v4Xeh4UPvV717DF7I6czt) | 4:03 |
-| 31 | [behzat ç](https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [behzat ç](https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW) | 2:06 |
-| 32 | [Düşer O](https://open.spotify.com/track/7cCreOFQhqqhCm82twJg0u) | [İzel](https://open.spotify.com/artist/0QSrUuv6y5Woazd3LAjbSH) | [Aşk En Büyüktür Her Zaman](https://open.spotify.com/album/0eRqafbQDWjvYjcmOykgrd) | 4:59 |
+| 19 | [Kabul Olan Tek Duamsın](https://open.spotify.com/track/36oBlwSPNtA48TLYqk4SNp) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn) | [Kabul Olan Tek Duamsın](https://open.spotify.com/album/711zVBGg9kjmtHfcHZIZZE) | 3:30 |
+| 20 | [Tek Başıma](https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Tek Başıma](https://open.spotify.com/album/06zEvBcaeNyNsXLm73OIqx) | 3:29 |
+| 21 | [İNTİHAR](https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7) | 2:08 |
+| 22 | [Yetmedi](https://open.spotify.com/track/5TxqI3DLEbMVJkyVgentxd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [Yetmedi](https://open.spotify.com/album/3V0ymncsPOu1uK4ufGV2zt) | 1:55 |
+| 23 | [OF OF OF](https://open.spotify.com/track/1RI3YE0BqwN2Fd6Ej0gTqW) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [OF OF OF](https://open.spotify.com/album/0WEq08VBCgEfPh3Hw6dlav) | 2:24 |
+| 24 | [Hayırlı Günler](https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt) | [Aydın Kurtoğlu](https://open.spotify.com/artist/7ymCV8co6nSwmYFEyGmVvJ) | [Pişman](https://open.spotify.com/album/2d36jqTxkiuvdoHCBefUNg) | 3:16 |
+| 25 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:26 |
+| 26 | [Kadehimi Boş Bırakma](https://open.spotify.com/track/7zrEhhtVuB0JpOeCgL5Tsr) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Kadehimi Boş Bırakma](https://open.spotify.com/album/2wPU4kY5iynxmyqEC1sKZH) | 2:26 |
+| 27 | [nE !?](https://open.spotify.com/track/1Ma4fLShd0hpZSNH37mEkR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 1:54 |
+| 28 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 |
+| 29 | [ARABA](https://open.spotify.com/track/5tjWDHOCqsbKPuiivil0BM) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ARABA](https://open.spotify.com/album/6qk5ajwfXB8QplASyF7lXH) | 2:13 |
+| 30 | [Batık Gemi](https://open.spotify.com/track/3Gpffv3gaD1UxQPeElIjCp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg) | 4:20 |
+| 31 | [Sopa \- Clup Remix](https://open.spotify.com/track/2rkDwpmqASO9ZmUFjqwrR3) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Hande'ye Neler Oluyor](https://open.spotify.com/album/7v4Xeh4UPvV717DF7I6czt) | 4:03 |
+| 32 | [behzat ç](https://open.spotify.com/track/5OSGbpKvvi0iAJg6XHUois) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [behzat ç](https://open.spotify.com/album/0eW0R6w0rIoP3B0kJE1HDW) | 2:06 |
 | 33 | [Tiryakinim](https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Tiryakinim](https://open.spotify.com/album/5RBSDuy54EfefItjc5Mfcl) | 3:19 |
 | 34 | [Bir İmkansız Var](https://open.spotify.com/track/6dcYNJRora79VEpUj5S2w4) | [Emrah Karaduman](https://open.spotify.com/artist/7FvMAbdiffitFmbuJN3Vsk), [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Bir İmkansız Var](https://open.spotify.com/album/2nVfIifuijOR2SLCrZecIZ) | 2:32 |
 | 35 | [Habibi](https://open.spotify.com/track/4I29KUtM6IwZyxqAiHZ6RH) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Habibi](https://open.spotify.com/album/0Sy076cJj3zNhy6nEr1PwZ) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 49 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 |
 | 50 | [Cehennemin Dibi](https://open.spotify.com/track/408CB6C3xSUJJJpMopjJ1y) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Cehennemin Dibi](https://open.spotify.com/album/5d0khevKWVD2hMghDEKpaR) | 2:50 |
 
-Snapshot ID: `Zsem0AAAAAAoPO9J3KhmvtBbuCC4fG+R`
+Snapshot ID: `Zs2JWgAAAAC1+YGvOzczhuc1LowP2u1G`

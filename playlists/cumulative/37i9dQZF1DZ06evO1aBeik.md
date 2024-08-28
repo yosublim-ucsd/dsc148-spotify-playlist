@@ -2,7 +2,7 @@
 
 ### [This Is Post Malone](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aBeik)
 
-> This is Post Malone\. The essential tracks, all in one playlist.
+> This Is Post Malone\. Sus mejores éxitos, todos en una playlist.
 
 92 songs - 5 hr 5 min
 

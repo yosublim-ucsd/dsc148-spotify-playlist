@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: TOPS
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,175 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,196 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

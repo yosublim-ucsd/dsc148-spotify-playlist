@@ -1,6 +1,6 @@
 {
   "description": "what are we?",
-  "num_followers": 479851,
+  "num_followers": 480215,
   "original_name": "situationship",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-08-12 07:23:27",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
-    },
-    {
-      "added_at": "2024-08-12 07:23:27",
-      "album": {
         "name": "Wiped Out!",
         "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
+    },
+    {
+      "added_at": "2024-08-12 07:23:27",
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
     },
     {
       "added_at": "2024-08-12 07:23:27",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-08-12 07:23:27",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2024-08-12 07:23:27",
-      "album": {
         "name": "808s & Heartbreak",
         "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 211000,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "added_at": "2024-08-12 07:23:27",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "added_at": "2024-08-12 07:23:27",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-08-12 07:23:27",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2024-08-12 07:23:27",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
+    },
+    {
+      "added_at": "2024-08-12 07:23:27",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "added_at": "2024-08-12 07:23:27",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-08-12 07:23:27",
       "album": {
+        "name": "Pineapple Sunrise",
+        "url": "https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj"
+      },
+      "artists": [
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 196784,
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq"
+    },
+    {
+      "added_at": "2024-08-12 07:23:27",
+      "album": {
         "name": "One Kiss (with Dua Lipa)",
         "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2024-08-12 07:23:27",
-      "album": {
-        "name": "Pineapple Sunrise",
-        "url": "https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj"
-      },
-      "artists": [
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 196784,
-      "name": "Sex, Drugs, Etc.",
-      "url": "https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq"
     },
     {
       "added_at": "2024-08-12 07:23:27",
@@ -763,18 +763,22 @@
     {
       "added_at": "2024-08-12 07:23:27",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+      "duration_ms": 153312,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
     },
     {
       "added_at": "2024-08-12 07:23:27",
@@ -795,6 +799,22 @@
     {
       "added_at": "2024-08-12 07:23:27",
       "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": "2024-08-12 07:23:27",
+      "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 213400,
       "name": "LOVE. FEAT. ZACARI.",
       "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
-    },
-    {
-      "added_at": "2024-08-12 07:23:27",
-      "album": {
-        "name": "Mulholland Drive",
-        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
-        }
-      ],
-      "duration_ms": 153312,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
     },
     {
       "added_at": "2024-08-12 07:23:27",

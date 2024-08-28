@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Ruthven
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,240 likes - 201 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,234 likes - 201 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

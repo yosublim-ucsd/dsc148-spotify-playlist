@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-aug 2024 \(previous playlists archived on my profile\)
 
-263 songs - 13 hr 45 min
+264 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [The European Female \(In Celebration Of\)](https://open.spotify.com/track/5OCtkcIWYCJ8OTCixDREZh) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [Feline](https://open.spotify.com/album/7zLCiI9gWYWyn9E0SNWVki) | 4:00 | 2024-08-01 |  |
 | [The Farmer](https://open.spotify.com/track/540dXWvRAQjXmg4gvhjxET) | [The Good Ones](https://open.spotify.com/artist/7rIF4gQrWPRDL020SG2eKD) | [RWANDA, you should be loved](https://open.spotify.com/album/35TaKsgwSCeVEH7Zq8fsfG) | 2:43 | 2024-02-27 | 2024-03-10 |
 | [The Fashion Focus](https://open.spotify.com/track/26Aw0QpMFdxghsuyRsPwGA) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [The Fashion Focus](https://open.spotify.com/album/76Rz3IYqdw3QXTagF14gB6) | 3:16 | 2024-06-03 | 2024-07-12 |
+| [The Joy Of Living](https://open.spotify.com/track/3HLB0NiX67dDjDCM84rv8Q) | [Blueboy](https://open.spotify.com/artist/0arZTC10n2y1hVMZfRV6Xn) | [Unisex](https://open.spotify.com/album/4SxP15xAMiqz0W4kOKFdS0) | 4:30 | 2024-08-27 |  |
 | [The Kindness of Strangers](https://open.spotify.com/track/3oKX2xnyyWbkXFPWkL7ncF) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know by Heart](https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S) | 3:26 | 2024-04-04 | 2024-05-16 |
 | [The Only One](https://open.spotify.com/track/2XItbN0HfeLpDamJzeQLqQ) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:15 | 2024-06-24 | 2024-07-12 |
 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 | 2024-06-02 | 2024-06-03 |

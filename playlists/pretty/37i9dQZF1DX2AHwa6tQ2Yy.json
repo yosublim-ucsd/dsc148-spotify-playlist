@@ -1,6 +1,6 @@
 {
   "description": "Let the music flow through you...",
-  "num_followers": 48405,
+  "num_followers": 48414,
   "original_name": "Soulful",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Finding Peace",
+      "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "Free (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 234771,
       "name": "Free (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "CLEAR 2: SOFT LIFE EP",
-        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Finding Peace",
-      "url": "https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG"
     },
     {
       "added_at": "2024-03-14 20:40:35",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-03-14 20:40:35",
       "album": {
+        "name": "Soul Lament",
+        "url": "https://open.spotify.com/album/1mIhoA0E2M4ELYWX49XzPM"
+      },
+      "artists": [
+        {
+          "name": "GC OConnor",
+          "url": "https://open.spotify.com/artist/25ra0El5kIfD8vrJVTtTf2"
+        }
+      ],
+      "duration_ms": 271919,
+      "name": "Rollin Dice",
+      "url": "https://open.spotify.com/track/7Jc4S1B2UdEupO5xJdEQAc"
+    },
+    {
+      "added_at": "2024-03-14 20:40:35",
+      "album": {
         "name": "catch the night",
         "url": "https://open.spotify.com/album/5l2k8k5EZeC1qcRKz0wzIs"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 180841,
       "name": "Unapologetically",
       "url": "https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ"
-    },
-    {
-      "added_at": "2024-03-14 20:40:35",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ"
-      },
-      "artists": [
-        {
-          "name": "Elle Eliades",
-          "url": "https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9"
     }
   ],
   "unique_name": "Soulful",

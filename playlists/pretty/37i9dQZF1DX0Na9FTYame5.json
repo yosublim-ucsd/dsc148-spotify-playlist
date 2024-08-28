@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Montez",
-  "num_followers": 583906,
+  "num_followers": 583915,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-08-26 11:01:30",
       "album": {
+        "name": "trauen",
+        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "duration_ms": 164011,
+      "name": "trauen",
+      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
+    },
+    {
+      "added_at": "2024-08-26 11:01:30",
+      "album": {
         "name": "nie wieder normal",
         "url": "https://open.spotify.com/album/6VUg6frxqTVbVlIn4oFoav"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 197618,
       "name": "nie wieder normal",
       "url": "https://open.spotify.com/track/5exlcLrnyW9DEmLCjke1Wv"
-    },
-    {
-      "added_at": "2024-08-26 11:01:30",
-      "album": {
-        "name": "trauen",
-        "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
-      },
-      "artists": [
-        {
-          "name": "Levin Liam",
-          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
-        }
-      ],
-      "duration_ms": 164011,
-      "name": "trauen",
-      "url": "https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh"
     },
     {
       "added_at": "2024-08-26 11:01:30",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2024-08-26 11:01:30",
       "album": {
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "Paula Hartmann",
+          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "Passion (feat. Paula Hartmann)",
+      "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
+    },
+    {
+      "added_at": "2024-08-26 11:01:30",
+      "album": {
         "name": "winterlove2.0",
         "url": "https://open.spotify.com/album/6FVvZwks2Bz8xpYFUSbQrb"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 188750,
       "name": "winterlove2.0",
       "url": "https://open.spotify.com/track/1szS7JF64tEmQke86QpFDV"
-    },
-    {
-      "added_at": "2024-08-26 11:01:30",
-      "album": {
-        "name": "Majestic",
-        "url": "https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
-        }
-      ],
-      "duration_ms": 160226,
-      "name": "Passion (feat. Paula Hartmann)",
-      "url": "https://open.spotify.com/track/0npHflJzLWZ6svbq5Abnfo"
     },
     {
       "added_at": "2024-08-26 11:01:30",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2024-08-26 11:01:30",
       "album": {
-        "name": "Du liebst mich nicht",
-        "url": "https://open.spotify.com/album/3Llp59mzQ0M7GBLHhnNXsC"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 160119,
-      "name": "Du liebst mich nicht",
-      "url": "https://open.spotify.com/track/53AW1bkIjzdlwt4bE7w1UA"
-    },
-    {
-      "added_at": "2024-08-26 11:01:30",
-      "album": {
         "name": "Sommer",
         "url": "https://open.spotify.com/album/5cfSg0UfE2Ch07MkqRHOYW"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 180146,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
+    },
+    {
+      "added_at": "2024-08-26 11:01:30",
+      "album": {
+        "name": "Du liebst mich nicht",
+        "url": "https://open.spotify.com/album/3Llp59mzQ0M7GBLHhnNXsC"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 160119,
+      "name": "Du liebst mich nicht",
+      "url": "https://open.spotify.com/track/53AW1bkIjzdlwt4bE7w1UA"
     },
     {
       "added_at": "2024-08-26 11:01:30",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2024-08-26 11:01:30",
       "album": {
+        "name": "PAUL",
+        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Estikay",
+          "url": "https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6"
+        }
+      ],
+      "duration_ms": 165390,
+      "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
+      "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
+    },
+    {
+      "added_at": "2024-08-26 11:01:30",
+      "album": {
         "name": "REGEN AUF DER FAHRBAHN",
         "url": "https://open.spotify.com/album/0NWG5I7mEejIf0qHDq3Okv"
       },
@@ -1723,26 +1743,6 @@
     {
       "added_at": "2024-08-26 11:01:30",
       "album": {
-        "name": "PAUL",
-        "url": "https://open.spotify.com/album/1JCHmY9QyhalyUBjHHbg3D"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        },
-        {
-          "name": "Estikay",
-          "url": "https://open.spotify.com/artist/4DMzvwya65eu1LsYZ3BLV6"
-        }
-      ],
-      "duration_ms": 165390,
-      "name": "Gar nicht mal so gl\u00fccklich (feat. Estikay)",
-      "url": "https://open.spotify.com/track/0KujySjvlPZiC4itOukxDM"
-    },
-    {
-      "added_at": "2024-08-26 11:01:30",
-      "album": {
         "name": "Verlieren/Gefunden",
         "url": "https://open.spotify.com/album/5sHrdD7S86kT85JsOtxOgi"
       },
@@ -1779,22 +1779,18 @@
     {
       "added_at": "2024-08-26 11:01:30",
       "album": {
-        "name": "Ein Jahr (feat. Montez)",
-        "url": "https://open.spotify.com/album/3LjJ01pSUYqUCqHf2ahgJD"
+        "name": "Liebst du mich",
+        "url": "https://open.spotify.com/album/2OCFALs4BTWP2Xdhdyu9pd"
       },
       "artists": [
         {
-          "name": "Capital Bra",
-          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
-        },
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 176077,
-      "name": "Ein Jahr (feat. Montez)",
-      "url": "https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4"
+      "duration_ms": 177123,
+      "name": "Liebst du mich",
+      "url": "https://open.spotify.com/track/1AmHFe9qiR4ydvHRMQgMnY"
     },
     {
       "added_at": "2024-08-26 11:01:30",
@@ -1815,18 +1811,22 @@
     {
       "added_at": "2024-08-26 11:01:30",
       "album": {
-        "name": "SUPERHERO Pt. II",
-        "url": "https://open.spotify.com/album/1p6GawomVK5DiIi2WLHW69"
+        "name": "Ein Jahr (feat. Montez)",
+        "url": "https://open.spotify.com/album/3LjJ01pSUYqUCqHf2ahgJD"
       },
       "artists": [
         {
-          "name": "Farid Bang",
-          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
         }
       ],
-      "duration_ms": 179226,
-      "name": "SUPERHERO Pt. II",
-      "url": "https://open.spotify.com/track/1si5jQY9oRUPh8jGrsX3B8"
+      "duration_ms": 176077,
+      "name": "Ein Jahr (feat. Montez)",
+      "url": "https://open.spotify.com/track/1umWYzhtxWxlVvnvfWLbT4"
     },
     {
       "added_at": "2024-08-26 11:01:30",
@@ -1911,18 +1911,22 @@
     {
       "added_at": "2024-08-26 11:01:30",
       "album": {
-        "name": "Liebst du mich",
-        "url": "https://open.spotify.com/album/2OCFALs4BTWP2Xdhdyu9pd"
+        "name": "KAPUTTE NIKES",
+        "url": "https://open.spotify.com/album/57tkUG6UbznOuHYz4GukL2"
       },
       "artists": [
         {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
         }
       ],
-      "duration_ms": 177123,
-      "name": "Liebst du mich",
-      "url": "https://open.spotify.com/track/1AmHFe9qiR4ydvHRMQgMnY"
+      "duration_ms": 168500,
+      "name": "KAPUTTE NIKES",
+      "url": "https://open.spotify.com/track/0PRn0wppJozInSVkjEpK8Z"
     }
   ],
   "unique_name": "Rap in deep",

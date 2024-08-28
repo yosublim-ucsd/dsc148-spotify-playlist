@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,006 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,035 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 44 | [Como Tu Mujer](https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:23 |
 | 45 | [Mi Destino Fué Quererte](https://open.spotify.com/track/2e1CmyyYO8RbQCvKy8eA1R) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 4:03 |
 | 46 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 |
-| 47 | [Popurri de Caballos: El Alazán y el Rosillo / Caballo Prieto Azabache / El Moro de Cumpas](https://open.spotify.com/track/5kJrIx2ekOb70tsc6KZHqJ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 4:42 |
-| 48 | [En Toda La Chapa](https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [En Toda La Chapa](https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL) | 2:57 |
+| 47 | [En Toda La Chapa](https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [En Toda La Chapa](https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL) | 2:57 |
+| 48 | [Popurri de Caballos: El Alazán y el Rosillo / Caballo Prieto Azabache / El Moro de Cumpas](https://open.spotify.com/track/5kJrIx2ekOb70tsc6KZHqJ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 4:42 |
 | 49 | [Ya Viene Amaneciendo](https://open.spotify.com/track/6HNMTtdO6BdT79V1IobQ64) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 2:58 |
 | 50 | [Echame a Mi la Culpa](https://open.spotify.com/track/4JIadtApDJKn7gRea0pgeT) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Con Orgullo Por Herencia](https://open.spotify.com/album/4JPvkSze0xAd4IFUxQSIxZ) | 3:02 |
 

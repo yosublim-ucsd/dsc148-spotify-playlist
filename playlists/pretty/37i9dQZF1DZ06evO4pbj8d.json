@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 7698,
+  "num_followers": 7708,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAC2C+p+H/UGrjAZyKpKAKPx",
+  "snapshot_id": "ZsvFgAAAAABOqj0oUY5SCKupUxUU4GcN",
   "tracks": [
     {
       "added_at": null,
@@ -364,17 +364,21 @@
       "added_at": null,
       "album": {
         "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
       "artists": [
         {
           "name": "Joy Oladokun",
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 236291,
-      "name": "Somebody Like Me",
-      "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
+      "duration_ms": 230744,
+      "name": "You At The Table (with Manchester Orchestra)",
+      "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
     },
     {
       "added_at": null,
@@ -432,27 +436,7 @@
       "added_at": null,
       "album": {
         "name": "Proof Of Life",
-        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
-        }
-      ],
-      "duration_ms": 230744,
-      "name": "You At The Table (with Manchester Orchestra)",
-      "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blink Twice",
-        "url": "https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT"
+        "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
       },
       "artists": [
         {
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 197767,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
+      "duration_ms": 236291,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
     },
     {
       "added_at": null,
@@ -483,6 +467,22 @@
       "duration_ms": 197474,
       "name": "It\u2019s a good day (to fight the system) (feat. Joy Oladokun)",
       "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 197767,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "in defense of my own happiness - complete",
+        "url": "https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 161706,
+      "name": "judas",
+      "url": "https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "in defense of my own happiness (the beginnings)",
         "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 214346,
       "name": "younger days",
       "url": "https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 161706,
-      "name": "judas",
-      "url": "https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI"
     },
     {
       "added_at": null,

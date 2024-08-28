@@ -4,7 +4,7 @@
 
 > A positive Solfeggio Frequency, used by many for meditation, manifestation and healing.
 
-231 songs - 11 hr 17 min
+234 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [A Day In The Forest \(432 Hz\)](https://open.spotify.com/track/6OmujPajr8gGl5sJGsW49b) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [A Day In The Forest \(432 Hz\)](https://open.spotify.com/album/2I50UMRDcFmJt7wJAkK0tQ) | 3:29 | 2023-02-21 |  |
 | [Aashchary \- 432 Hz](https://open.spotify.com/track/67sBcSZZPjxaKrHl4YDfrp) | [Aasmi Jayavant](https://open.spotify.com/artist/0zbmKsf2YJoS2aT0uDEmaS) | [Aashchary \- 432 Hz](https://open.spotify.com/album/7b5wPTQcX2P8oVrFCdnGMY) | 2:29 | 2023-09-21 |  |
 | [Aephoris 432Hz](https://open.spotify.com/track/4qJHZujab4bvUNKJqhllby) | [Droneq](https://open.spotify.com/artist/190NqI0gt1k58C0bAwWkDH) | [Aephoris 432Hz](https://open.spotify.com/album/3fNp2IIAHermvjl3Cw4lXH) | 3:01 | 2023-02-21 |  |
+| [Afirmaciones \(432 Hz\)](https://open.spotify.com/track/0W9KOIPd8D8JA4R7nZ7VUH) | [Invocaciones](https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ) | [Afirmaciones \(432 Hz\)](https://open.spotify.com/album/3viFa1Zoe5AdsowHthfVSZ) | 2:19 | 2024-08-27 |  |
 | [Agneris 432Hz](https://open.spotify.com/track/0Xwh7qBtvmJB2yYM5npd5j) | [Transcendent Solfeggio Frequencies](https://open.spotify.com/artist/4GUZWtXoW9tKcogKvdspjK) | [Agneris 432Hz](https://open.spotify.com/album/2356EU38MXjcXQHnYubsT1) | 3:19 | 2024-04-07 |  |
 | [All Love 432 Hz](https://open.spotify.com/track/4F3vEHACpu26azg1x8TDJX) | [Emeli Saga](https://open.spotify.com/artist/3J5btrvXNSchP5VZiE3vcj) | [All Love 432 Hz](https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa) | 3:07 | 2023-10-20 |  |
 | [Amanece 432Hz](https://open.spotify.com/track/1clUQJ4PDHAZSJCoRlxk8y) | [Nebula Stellaris](https://open.spotify.com/artist/4lycbupcWv7zJ4DNIWeK9o) | [Amanece 432Hz](https://open.spotify.com/album/0t0zEDBXMMsmCUdK1obFxd) | 2:19 | 2024-07-13 |  |
@@ -110,6 +111,7 @@
 | [Beyond 432Hz](https://open.spotify.com/track/0KDgtDH7Bt3SmcZ5Qjofpj) | [Fluvius Monte](https://open.spotify.com/artist/5Amz3ZHMqUSqoWYI5UvQ16) | [Frost](https://open.spotify.com/album/5CjYKWB8zn76miR1cZ10mA) | 3:29 | 2023-02-07 |  |
 | [Binaural Alpha Sinus 432 Hz \- 442 Hz](https://open.spotify.com/track/07ff5m4AvMMpTAPu29K7Xy) | [Le Volte Che](https://open.spotify.com/artist/5VAcOAmAKkpO0urQ8sNa7E) | [Binaural Alpha Sinus 300 Hz \- 308 Hz](https://open.spotify.com/album/0EhXGLibIbpT9WvoGa3uwp) | 2:30 | 2023-02-07 | 2023-09-22 |
 | [Borobudur](https://open.spotify.com/track/01tPWVf2QA5lchGfVtHvFI) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Borobudur](https://open.spotify.com/album/4TSZkThalBsuGfabncOxtY) | 2:21 | 2023-02-07 |  |
+| [Brisa \(432 Hz\)](https://open.spotify.com/track/5uEoiPYWBRxb4Q6mo9amOz) | [Solfeggio Verdi](https://open.spotify.com/artist/0vI1CD156Rnzc4zyit5gNI) | [Brisa \(432 Hz\)](https://open.spotify.com/album/45KSCAUJfGYFikRBWk3BX2) | 2:49 | 2024-08-27 |  |
 | [Cacophony A432](https://open.spotify.com/track/4UUY9ZUYBzZiFsYbfxXeki) | [Natural Tuning](https://open.spotify.com/artist/0db3whzEc8o8hAIp7Q9wp5) | [Cacophony A432](https://open.spotify.com/album/2sict1ksexBHINmD0zIL5T) | 3:40 | 2023-02-07 | 2023-02-22 |
 | [Cepheus 432 Hz](https://open.spotify.com/track/5Cnc14r3jr2qWNxwni5ICt) | [Wes Gold](https://open.spotify.com/artist/3uZ9l95kMSViN318zjUZlH) | [Cepheus 432 Hz](https://open.spotify.com/album/4S9IKQDmDC2a3JJGlj164y) | 3:22 | 2023-11-18 |  |
 | [Clarity \(432 Hz\)](https://open.spotify.com/track/06uD5Sz3krvkT638PSCBdw) | [Chura Rin](https://open.spotify.com/artist/3ND8SIfnQTaM7QulRp8RwN) | [Clarity \(432 Hz\)](https://open.spotify.com/album/62cDfDUYpuiecGYByzD1Yl) | 2:52 | 2023-10-20 |  |
@@ -207,6 +209,7 @@
 | [Reflections \(432Hz\)](https://open.spotify.com/track/4qUIjfJRVnzZkE5f7wRZBo) | [Inzolu](https://open.spotify.com/artist/1K4ByT6JzmeInicgTnl4E9) | [Reflections \(432Hz\)](https://open.spotify.com/album/6lYG1xR0mgQdhQXcdJa5zh) | 2:52 | 2023-10-20 |  |
 | [Remend \(432 Hz\)](https://open.spotify.com/track/3vBUiddLohHOXs5Pgokeh0) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Remend](https://open.spotify.com/album/0Qk3Dm6L90ZAbdEurz2Dd9) | 2:32 | 2023-10-20 |  |
 | [Restful ambitions 432Hz](https://open.spotify.com/track/4YhXdUS0jr6oDM2Qd9j3oe) | [Introspective Release](https://open.spotify.com/artist/0lOSiJ1BplaLxVIEEw3CHS) | [Restful ambitions 432Hz](https://open.spotify.com/album/3z5GKYmaiQdZCzeypaNp2z) | 3:13 | 2024-06-11 |  |
+| [Sacred Resonance \- 432Hz](https://open.spotify.com/track/1br0iDLwWID5X0PJzuKKAH) | [Celestros](https://open.spotify.com/artist/67aZiwEIyJelBQiBjcvZ6V) | [Sacred Resonance \- 432Hz](https://open.spotify.com/album/5wwjYcAfqdDxo1t5ndMvvE) | 2:31 | 2024-08-27 |  |
 | [Sacred Space 432](https://open.spotify.com/track/4mBeebqJQqV6A2sy1HSH5u) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [Sacred Space 432](https://open.spotify.com/album/4VBwFCNqCPDsW8GMpGa2z2) | 3:03 | 2024-05-11 |  |
 | [Sage 432Hz](https://open.spotify.com/track/3mGB0VJRVVswnJHSM1q1iT) | [Jenna Talenti](https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo) | [Sage 432Hz](https://open.spotify.com/album/3JKRlE07Zcr0dJLAo5Bv0C) | 3:45 | 2024-07-13 |  |
 | [Schumann 432\-2 Navel Chakra](https://open.spotify.com/track/1DjJxoHz4NUf3nIa5YFFce) | [369](https://open.spotify.com/artist/2GwKduchNwbFP10LgIV7y4) | [The Schumann 432Hz Chakra Drones](https://open.spotify.com/album/3qgFPuBePyuCxj2ZxK0Qk0) | 3:51 | 2023-02-07 | 2023-08-09 |

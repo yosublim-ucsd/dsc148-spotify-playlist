@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,080 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,087 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 25 | [Soon as I Get Home](https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:09 |
 | 26 | [Sweat](https://open.spotify.com/track/1eRp0Gyiv7UY7an1VWYGi6) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:27 |
 | 27 | [Always Be My Sunshine](https://open.spotify.com/track/1EkteNRr1GNnrjRZ5zRXWy) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [In My Lifetime, Vol.1](https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB) | 4:43 |
-| 28 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 |
-| 29 | [As a matter of fact](https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [As a matter of fact](https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh) | 2:24 |
-| 30 | [Fire](https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [HAV PLENTY Music From The Motion Picture](https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc) | 4:45 |
-| 31 | [Where Will You Go](https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:09 |
+| 28 | [As a matter of fact](https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [As a matter of fact](https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh) | 2:24 |
+| 29 | [Stressed Out](https://open.spotify.com/track/4ES2gMcCQshE8EWU0FY8vW) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Face 2 Face](https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB) | 3:35 |
+| 30 | [Where Will You Go](https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:09 |
+| 31 | [Fire](https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Des'ree](https://open.spotify.com/artist/73ZPfpfg1LBVvDEArK4l5B) | [HAV PLENTY Music From The Motion Picture](https://open.spotify.com/album/7wxX5fskiw7VnGKw5PWwZc) | 4:45 |
 | 32 | [Simple \(with Coco Jones\)](https://open.spotify.com/track/7uCtRKlnqNET1ohX7xzU7j) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 2:31 |
 | 33 | [Reason for Breathing \- Album Edit](https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Reason For Breathing](https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q) | 5:42 |
 | 34 | [Give U My Heart \(feat\. Toni Braxton\)](https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Boomerang](https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh) | 5:01 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 47 | [Two Occasions \(Live\) \- Live Version](https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Closer Look](https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT) | 5:52 |
 | 48 | [Evergreen \(with Babyface\)](https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Partners \(Deluxe\)](https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG) | 3:14 |
 | 49 | [Our Love](https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:38 |
-| 50 | [Sometimes \(with Jenevieve\)](https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Girls Night Out \(Extended\)](https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb) | 3:15 |
+| 50 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
 
-Snapshot ID: `Zsp0AAAAAACLhE46H+uJtwvHQ2F7Q1ll`
+Snapshot ID: `ZsvFgAAAAAAKe1+Dd5+mEaiBIxo6JBiV`

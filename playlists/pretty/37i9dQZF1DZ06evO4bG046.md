@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,348 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,350 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 49 | [Vamos por Ancho Camino](https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW) | 3:12 |
 | 50 | [Como Tus Ríos Te Recorren \(En Vivo\) \- 2024 Remasterizado](https://open.spotify.com/track/6bmUW30tjqsBbWJAVaezuH) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas En Vivo: Gira Chile '88 \(2024 Remasterizado\)](https://open.spotify.com/album/2nEUAKd34r9jyE4HPj0Le9) | 5:37 |
 
-Snapshot ID: `Zsp0AAAAAACXay5fP09F8aQLJrjMjxCD`
+Snapshot ID: `ZsvFgAAAAADudKgKBcMH2yh1TtXVFtY8`

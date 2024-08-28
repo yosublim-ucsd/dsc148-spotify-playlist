@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz\. Cover: Blue Lab Beats
 
-222 songs - 11 hr 45 min
+224 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,10 +84,10 @@
 | [FRAGILE](https://open.spotify.com/track/6s5yV1VjNxtuMZZbxPIWDS) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [OCEAN](https://open.spotify.com/album/6xLTeSHt4h9gj0VDNXnoL4) | 4:47 | 2023-12-01 | 2024-04-19 |
 | [Fresh Pots](https://open.spotify.com/track/3juEMd8URzkwbNFS3FiSG2) | [aronsmith](https://open.spotify.com/artist/009g6snuAvcjh2QJHcmQCu) | [Fresh Pots](https://open.spotify.com/album/6RmP1A0GDtekJU1Kn6ohTS) | 2:32 | 2024-01-26 |  |
 | [fugla](https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [fugla](https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO) | 2:10 | 2023-08-22 |  |
-| [Futuristic Earth](https://open.spotify.com/track/53crbk8yg8EblYm5WVtp9t) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Futuristic Earth](https://open.spotify.com/album/65B4vUhJSJ8ZqVpszxFJ2h) | 3:29 | 2023-10-13 |  |
+| [Futuristic Earth](https://open.spotify.com/track/53crbk8yg8EblYm5WVtp9t) | [The Stance Brothers](https://open.spotify.com/artist/1AEh6OX55KCjPJX0Lzkjy1) | [Futuristic Earth](https://open.spotify.com/album/65B4vUhJSJ8ZqVpszxFJ2h) | 3:29 | 2023-10-13 | 2024-08-28 |
 | [Geshem Bejuni](https://open.spotify.com/track/5cNwyrLTHLRN983VHYm7DR) | [Soul Supreme](https://open.spotify.com/artist/3EIBaQfCxQvOXkNh4rywTy) | [Geshem Bejuni](https://open.spotify.com/album/0oM4ceLwHRcQox2J6rY0LP) | 3:07 | 2024-01-26 |  |
 | [Goldfoil](https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Goldfoil](https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC) | 2:34 | 2023-08-25 |  |
-| [Half Drunk](https://open.spotify.com/track/09TZnkjjydQH8eTmbhYVAS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Half Drunk](https://open.spotify.com/album/6k7AaUKAZ67FSDgThrteq0) | 2:14 | 2024-08-23 |  |
+| [Half Drunk](https://open.spotify.com/track/09TZnkjjydQH8eTmbhYVAS) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Half Drunk](https://open.spotify.com/album/6k7AaUKAZ67FSDgThrteq0) | 2:14 | 2024-08-23 | 2024-08-28 |
 | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/track/1cwoOEudM1r9nPtPIcZ6Hg) | [Svaneborg Kardyb](https://open.spotify.com/artist/2aGCFk3Mvhs9Am7JHwoyRr) | [Haven \- An NPR Tiny Desk Concert](https://open.spotify.com/album/3d18VTjVy0M7B5VBZg4TuY) | 4:10 | 2023-11-10 |  |
 | [Hejdå Kalvsnäs](https://open.spotify.com/track/1w3sKSxr3tYfapEOijOMkp) | [Ivan Blomqvist](https://open.spotify.com/artist/2oUbOThqfFheldf9E8JXqm) | [Bror](https://open.spotify.com/album/6DWVse4ijyv7htxjpnGiU9) | 6:59 | 2023-08-22 |  |
 | [Heyoka](https://open.spotify.com/track/3NCnbcbwC9mO8DnHGFMShE) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo](https://open.spotify.com/album/3VG63zwDBrNHX52aWzDxFA) | 3:09 | 2023-08-22 |  |
@@ -130,6 +130,7 @@
 | [Love Will Make You](https://open.spotify.com/track/2YzbIcOKUherdl9EdNweQL) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/1SORBAXHLKmapfgSoT1C7y) | 2:54 | 2024-01-26 | 2024-04-19 |
 | [Love Will Make You](https://open.spotify.com/track/4Vfi86zKcabroKWW4OSE6j) | [doidoi](https://open.spotify.com/artist/7LhVwc5lJtji19CvRA3z6i) | [Love Will Make You](https://open.spotify.com/album/2tXZIxCz7pqrGuiXl1xf0g) | 2:54 | 2023-10-27 | 2024-08-24 |
 | [Machete](https://open.spotify.com/track/4zvnyytJN2uLj0poWhVMZb) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Mendeville](https://open.spotify.com/artist/3oul9NF2i2QuhpMzxEWoHD) | [Machete](https://open.spotify.com/album/0YYgsm9xC9bKeg7BmNCOuO) | 2:45 | 2023-08-22 |  |
+| [Madrugada](https://open.spotify.com/track/3ub8PrQqfYvPyLbzACDoGB) | [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Madrugada](https://open.spotify.com/album/0f8hU4BFgSR8pxjF6TfCs2) | 2:24 | 2024-08-23 |  |
 | [Mamba Nova](https://open.spotify.com/track/0BCf4fAcPfqstZ6SwsOWa8) | [TWYN](https://open.spotify.com/artist/0HDWVwgRhsuFXpFq1m1HXm) | [Mamba Nova](https://open.spotify.com/album/7uFblvP8914EgohyDVGfcv) | 3:55 | 2024-06-04 | 2024-08-24 |
 | [Midnight Tokyo](https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ) | [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF) | [Midnight Tokyo](https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0) | 2:09 | 2023-08-22 |  |
 | [Minding My Business](https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Realm of Ideas](https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1) | 3:45 | 2023-08-22 |  |
@@ -192,6 +193,7 @@
 | [Sunflowers \- Instrumental](https://open.spotify.com/track/4TavIXGtNkJTvHFvulvrC4) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Instrumentals JID009](https://open.spotify.com/album/6bQDhnnJqR0QZlYy2dMh09) | 3:01 | 2024-02-23 | 2024-04-19 |
 | [Sunset](https://open.spotify.com/track/5PAQ2JpAOHW8q7u17qqh58) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:48 | 2023-10-13 | 2024-08-24 |
 | [Superglue](https://open.spotify.com/track/71o5d6HO6CdRW899OkB0e1) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Tool Box](https://open.spotify.com/album/60foAlPlTrG424X5Agh7Yh) | 2:32 | 2023-08-22 |  |
+| [Surf](https://open.spotify.com/track/4UfwdU3IjjV3rLJwp2jMUz) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Waves](https://open.spotify.com/album/2cJ2yIgwJe6RdHsnfWHRqc) | 1:57 | 2024-08-23 |  |
 | [Sweet Nothings](https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Sweet Nothings](https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo) | 2:20 | 2023-08-25 |  |
 | [synco](https://open.spotify.com/track/3WfRUaBTwzKaROr346NNmk) | [Julio Estrada](https://open.spotify.com/artist/1IQjJilW4UrRjuZaZtF63b), [bread stinson](https://open.spotify.com/artist/4vwxEQpUoKDS4pvDTbQtiJ) | [synco](https://open.spotify.com/album/2TdnRV8hdjEQUjTukWgdT0) | 4:20 | 2023-08-22 |  |
 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 | 2023-08-22 |  |

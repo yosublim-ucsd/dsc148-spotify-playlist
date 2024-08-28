@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-171 songs - 7 hr 51 min
+172 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-03-03 |  |
 | [By The Window](https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [By The Window](https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ) | 2:30 | 2023-03-03 |  |
 | [Calm in Green](https://open.spotify.com/track/1yU3j0wuVKhtkAZGCDxs9e) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Calm in Green](https://open.spotify.com/album/5Zz4wDs1WFNY6DYBN9xfSo) | 3:17 | 2023-09-01 | 2023-09-29 |
+| [Calm Moments](https://open.spotify.com/track/5dnkSxcgzgsVdUgsFNfpGB) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Calm Moments](https://open.spotify.com/album/1BHKyjHNueZeBCFeAmCsRj) | 2:41 | 2024-08-23 |  |
 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 | 2023-03-03 |  |
 | [Calming Birds](https://open.spotify.com/track/6Er9bq9dt39Xmv8heRUxUO) | [Aziz Kirkin](https://open.spotify.com/artist/7BPMsxBuGDkaKlsYWR38kS) | [Calming Birds](https://open.spotify.com/album/3gQmWlR1BiBnVl1xmGxQIm) | 2:04 | 2023-09-01 | 2023-09-09 |
 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 | 2023-03-03 |  |
@@ -178,6 +179,6 @@
 | [Wave](https://open.spotify.com/track/3WTAaJFI1oGbw0sCBgnjWF) | [The Lagoon](https://open.spotify.com/artist/2LwSk9Tvc0RlIKnLaXtFJA) | [Wave](https://open.spotify.com/album/16S959NluCJSWVpybU2jb8) | 3:51 | 2023-03-03 | 2024-04-14 |
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-03 | 2024-03-02 |
 | [Willow](https://open.spotify.com/track/6ddY8fgnSHxHtgKB3BUjbp) | [Moonweaver](https://open.spotify.com/artist/14KfIfabF3QwyvJCIXZOHU) | [Willow](https://open.spotify.com/album/3fuCKYpyum8p0gliwfJhkC) | 2:38 | 2024-03-01 |  |
-| [Winter Lake](https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Winter Lake](https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb) | 4:25 | 2023-03-03 |  |
+| [Winter Lake](https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Winter Lake](https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb) | 4:25 | 2023-03-03 | 2024-08-28 |
 
 \*This playlist was first scraped on 2023-04-03. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Los Cafres
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202,437 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,452 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 66 | [Todo vuelve a su lugar](https://open.spotify.com/track/3DOOQAScRTa3oTszGN3XZg) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [I Nesta](https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0) | [Forever Together !](https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht) | 4:59 |
 | 67 | [The Heaven](https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:52 |
 | 68 | [CAHUITA](https://open.spotify.com/track/732CZbCmAqOO7OkSTCyiNt) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [CAHUITA](https://open.spotify.com/album/6wZlcqCJd3bX4gDQjloUtQ) | 3:35 |
-| 69 | [Veneno](https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Sho\-Hai](https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK) | [Veneno](https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp) | 3:19 |
-| 70 | [Juego a Muerte](https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Un Lustro Inyectando Ruido Positivo](https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N) | 6:30 |
+| 69 | [Juego a Muerte](https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [Un Lustro Inyectando Ruido Positivo](https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N) | 6:30 |
+| 70 | [Veneno](https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Sho\-Hai](https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK) | [Veneno](https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp) | 3:19 |
 | 71 | [La Distancia](https://open.spotify.com/track/5Mnyex5ZKe30IiaHXJ1562) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [La Distancia](https://open.spotify.com/album/0zw2MOywrEqrMOVXxWwHgi) | 3:47 |
 | 72 | [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 |
 | 73 | [Emocionado](https://open.spotify.com/track/60hOEfoUTcFgStA5zRptSz) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Emocionado](https://open.spotify.com/album/7q8ymdQDmmTyEtDicLUL4b) | 3:24 |

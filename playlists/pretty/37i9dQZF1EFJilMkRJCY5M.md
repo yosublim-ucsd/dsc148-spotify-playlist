@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 18 | [Wish You Wouldn’t](https://open.spotify.com/track/1FFiFJaKHSJ6w3ucont3Br) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Real To Me: The Way I Feel \(Deluxe Edition\)](https://open.spotify.com/album/6SEog5NExgkEGFiUZw7AYF) | 3:15 |
 | 19 | [Firehazard](https://open.spotify.com/track/53Or0YarAZQT7RfEsI8Qw2) | [Syence](https://open.spotify.com/artist/4VfTgWhy9PKLJN3xKJcDqf), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Firehazard](https://open.spotify.com/album/5IDO7CyhkJCxHAzSVvmsLE) | 3:09 |
 | 20 | [Happy Anymore](https://open.spotify.com/track/2t9ZK3i4cxA9WZkpvf5up2) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Phobia](https://open.spotify.com/album/1aRThupMAXji2AuQIlsIM1) | 3:18 |
-| 21 | [Someone Else's Heartbreak](https://open.spotify.com/track/35Asbjj2UV7m6LpCT3EOqA) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [That Girl](https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ) | 3:35 |
-| 22 | [Thought You Were](https://open.spotify.com/track/4WZ87h5SBuHRWiRg5wLLr9) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Thought You Were](https://open.spotify.com/album/1AQDa6Iua2M8t8lT1j3Yc4) | 3:06 |
+| 21 | [Thought You Were](https://open.spotify.com/track/4WZ87h5SBuHRWiRg5wLLr9) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Thought You Were](https://open.spotify.com/album/1AQDa6Iua2M8t8lT1j3Yc4) | 3:06 |
+| 22 | [Someone Else's Heartbreak](https://open.spotify.com/track/35Asbjj2UV7m6LpCT3EOqA) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [That Girl](https://open.spotify.com/album/20VFtdzqlm176kKeWEDDSQ) | 3:35 |
 | 23 | [Girl Wonder](https://open.spotify.com/track/3hNFCHrMfOpjwE6p517XX4) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July \(The Album\)](https://open.spotify.com/album/6Xz5OPkS6RCcmQ1hA7JUaO) | 3:02 |
 | 24 | [Decisions](https://open.spotify.com/track/2jInFMeZjGNvKwEJrEx4B1) | [Jay Dixie](https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Decisions](https://open.spotify.com/album/22Kmwh0kZhMnnJn2AnSiSF) | 2:21 |
 | 25 | [Oh Emma](https://open.spotify.com/track/1QN3b7hY39xs4Gr2Szai5f) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Joyride](https://open.spotify.com/album/381H6bOpR27wcH5lqGv5FA) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 99 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 100 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `AbaezAAAAAAr8s+vbfmNotJeNncsze9Z`
+Snapshot ID: `AbakqAAAAACG9K8dCjPQmKfghyIOZgfs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,625 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,384 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 31 | [Wayeh](https://open.spotify.com/track/037wIgLisUOMSRfLRrB38O) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Wayeh](https://open.spotify.com/album/4DvrgdEh0hGPDxR02sNkUV) | 2:30 |
 | 32 | [Maudit](https://open.spotify.com/track/1pA6YWfmMgbKHk36LtlcUP) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:17 |
 | 33 | [Ride](https://open.spotify.com/track/2CBymCr3yvqbxyZpLyZRbW) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Fleur froide](https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU) | 3:20 |
-| 34 | [GARS DU ZOO](https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \(Phase 2\)](https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C) | 2:45 |
+| 34 | [GARS DU ZOO](https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \- Phase 2](https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C) | 2:45 |
 | 35 | [Lunettes](https://open.spotify.com/track/30LVi0mmgUA6ktJZ8mYu1z) | [TRIANGLE DES BERMUDES](https://open.spotify.com/artist/3HmSuQk0VaGhv9hX22h10J), [MC YOSHI](https://open.spotify.com/artist/33zatJq0MdffoK8tEpWVFu), [Kokosvoice](https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Lunettes](https://open.spotify.com/album/73GErABXDhhCGzGcf2xT9F) | 3:09 |
 | 36 | [Un Petit](https://open.spotify.com/track/768cduZH8Vv4lYnM4lkEt9) | [B.O Wunna](https://open.spotify.com/artist/2WfCynvKp4DlJVsZ2E4yNg) | [Un Petit](https://open.spotify.com/album/2x7WvHHWdN2S9wUPu0t3lg) | 3:20 |
 | 37 | [Jeu De Jambes](https://open.spotify.com/track/4eC7Y0t6l6TyQnQAD3aNL6) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz), [Patson](https://open.spotify.com/artist/1fhKApXTs6yTNnItlQ0Vo0) | [Jeu De Jambes](https://open.spotify.com/album/5xQTwahw6idIgUImvZJ7Om) | 2:11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 33693,
+  "num_followers": 33703,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABf9uxolzNSsdZaW2r/hxsm",
+  "snapshot_id": "ZsvFgAAAAAAW85jRT1N2oT7anCHIcimi",
   "tracks": [
     {
       "added_at": null,
@@ -648,53 +648,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Sean Curran",
-          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+          "name": "Melodie Malone",
+          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
         }
       ],
-      "duration_ms": 309413,
-      "name": "Heaven - Live",
-      "url": "https://open.spotify.com/track/28z598q2VWCSTdTT1opliw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn Bright",
-        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 340572,
-      "name": "Yesterday, Today And Forever - Live From Passion 2022",
-      "url": "https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Call on Heaven (Live)",
-        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        }
-      ],
-      "duration_ms": 629368,
-      "name": "Holy Forever - Live From Passion 2024",
-      "url": "https://open.spotify.com/track/6uRlceBRlqaxgqlt1DUcIV"
+      "duration_ms": 343320,
+      "name": "Reckless Love - Live",
+      "url": "https://open.spotify.com/track/0Yb8wF1HLvel0RYqHHeAUi"
     },
     {
       "added_at": null,
@@ -719,42 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whole Heart (Live)",
-        "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
+        "name": "Call on Heaven (Live)",
+        "url": "https://open.spotify.com/album/3HigBXr1abN9Qhirdi3WGP"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         },
-        {
-          "name": "Melodie Malone",
-          "url": "https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3"
-        }
-      ],
-      "duration_ms": 343320,
-      "name": "Reckless Love - Live",
-      "url": "https://open.spotify.com/track/0Yb8wF1HLvel0RYqHHeAUi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Even So Come (Deluxe Edition/Live)",
-        "url": "https://open.spotify.com/album/4tC75ntB2W3ORGGVhvFVmg"
-      },
-      "artists": [
         {
           "name": "Passion",
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
         }
       ],
-      "duration_ms": 283293,
-      "name": "How He Loves - Live",
-      "url": "https://open.spotify.com/track/5z24Hr3TKxeyeLRKFRHuzB"
+      "duration_ms": 629368,
+      "name": "Holy Forever - Live From Passion 2024",
+      "url": "https://open.spotify.com/track/6uRlceBRlqaxgqlt1DUcIV"
     },
     {
       "added_at": null,
@@ -775,6 +715,66 @@
       "duration_ms": 310409,
       "name": "A Thousand Hallelujahs - Live From Passion 2022",
       "url": "https://open.spotify.com/track/2CZnmq9N9q6dqI478nXdae"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burn Bright",
+        "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 340572,
+      "name": "Yesterday, Today And Forever - Live From Passion 2022",
+      "url": "https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whole Heart (Live)",
+        "url": "https://open.spotify.com/album/6pB6iYIiowe4OHN9wP6kky"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "duration_ms": 309413,
+      "name": "Heaven - Live",
+      "url": "https://open.spotify.com/track/28z598q2VWCSTdTT1opliw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Even So Come (Deluxe Edition/Live)",
+        "url": "https://open.spotify.com/album/4tC75ntB2W3ORGGVhvFVmg"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        }
+      ],
+      "duration_ms": 283293,
+      "name": "How He Loves - Live",
+      "url": "https://open.spotify.com/track/5z24Hr3TKxeyeLRKFRHuzB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,883 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,921 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 33 | [Fried Neck Bones And Some Home Fries](https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Uno Dos Tres 1\-2\-3](https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k) | 3:03 |
 | 34 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
 | 35 | [Márcame](https://open.spotify.com/track/6I0PMHpGM4RBatsYuZ8n6T) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN) | [Márcame](https://open.spotify.com/album/4dLm6zAn7b79biOFkO8dOW) | 3:37 |
-| 36 | [Alegria](https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [The Original Recordings](https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W) | 4:03 |
+| 36 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 |
 | 37 | [Esperanza](https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Esperanza](https://open.spotify.com/album/4PtPHfnj1DZZIkVNlVjpyq) | 5:28 |
-| 38 | [Me Voy Contigo](https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lluvia Y Sol](https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8) | 3:42 |
+| 38 | [Alegria](https://open.spotify.com/track/4mNU7ddD6fRyjMRBOOfj28) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [The Original Recordings](https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W) | 4:03 |
 | 39 | [Se Me Ocurre](https://open.spotify.com/track/4fZJ1PRKY0cWC8PRWnRZQa) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Abrazo](https://open.spotify.com/album/1xTvgXfSOLFGvtnTbfNZ4N) | 4:02 |
 | 40 | [Baja a la Tierra \(feat\. Lila Downs\)](https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Bi](https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483) | 3:22 |
 | 41 | [La Vida](https://open.spotify.com/track/7rIMBY4ANvxLDJS1m1TzmH) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 2:37 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 56 | [Arriba](https://open.spotify.com/track/33aGNyx04gkQseZ4hsTGxt) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Perlas & Conchas](https://open.spotify.com/album/2KQaaRXoshRbFQXuaVAoFo) | 2:57 |
 | 57 | [Tú Ve](https://open.spotify.com/track/2rJnYvUiEstXyk5nSvbLpI) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Tú Ve](https://open.spotify.com/album/2KTXvlbVXi7rxEHWi0ePv4) | 3:58 |
 | 58 | [Supersticioso](https://open.spotify.com/track/3cCQBokVCnGWbwasKeQ9n6) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Instantes Decisivos Edición Deluxe](https://open.spotify.com/album/1UhsU0waoToMeZcaG5W13w) | 2:46 |
-| 59 | [La Bruja](https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Ten Spins Round the Sun \(10 Year Anniversary Album\)](https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi) | 3:39 |
-| 60 | [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 |
+| 59 | [Wish You Were Gay \- Versión en Español \- Spotify Singles](https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Spotify Singles](https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI) | 3:35 |
+| 60 | [La Bruja](https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET) | [Jenny And The Mexicats](https://open.spotify.com/artist/2faVKByk0IA651ICKyYYOa) | [Ten Spins Round the Sun \(10 Year Anniversary Album\)](https://open.spotify.com/album/6S64UMOLWRLhuUwdi7S0qi) | 3:39 |
 
 Snapshot ID: `Zsd5BQAAAABJEpKoLaCd7WLaAA+9r0Pi`

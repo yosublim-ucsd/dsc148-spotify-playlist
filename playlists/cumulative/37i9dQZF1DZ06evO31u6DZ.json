@@ -770,7 +770,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 229106,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT"
@@ -1132,6 +1132,24 @@
       "duration_ms": 191000,
       "name": "Miles to Go",
       "url": "https://open.spotify.com/track/4a7Atfhoc5GUiHLY228vd1"
+    },
+    {
+      "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81973,
+      "name": "Negative Space",
+      "url": "https://open.spotify.com/track/4PPK137xAYDvZuHLbZ3XKh"
     },
     {
       "album": {

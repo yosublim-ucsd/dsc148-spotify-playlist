@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 23260,
+  "num_followers": 23271,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Artificial",
-        "url": "https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 191437,
-      "name": "Intacto",
-      "url": "https://open.spotify.com/track/7IxOMOwN3FFUvwsa1mgDsH"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "La Monta\u00f1a",
         "url": "https://open.spotify.com/album/1kJEPy20AkL9lccVH8oTpC"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 303583,
       "name": "La Monta\u00f1a",
       "url": "https://open.spotify.com/track/2exvnYffejv4xKrafboFq1"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Artificial",
+        "url": "https://open.spotify.com/album/2RuOgjec3N5frlq6O5MgUI"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 191437,
+      "name": "Intacto",
+      "url": "https://open.spotify.com/track/7IxOMOwN3FFUvwsa1mgDsH"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Entre Sombras",
-        "url": "https://open.spotify.com/album/1yADlmajIBrwhTQ51CqW8q"
+        "name": "Vamos a Destruir",
+        "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
       },
       "artists": [
         {
-          "name": "Buenos Vampiros",
-          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
         }
       ],
-      "duration_ms": 220350,
-      "name": "La calma del cementerio",
-      "url": "https://open.spotify.com/track/6SRGt0viZAd4poDhikoAPj"
+      "duration_ms": 250621,
+      "name": "Cangrejal",
+      "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Vamos a Destruir",
-        "url": "https://open.spotify.com/album/0D04Gwef4aeN5bEGzsvenm"
+        "name": "Entre Sombras",
+        "url": "https://open.spotify.com/album/1yADlmajIBrwhTQ51CqW8q"
       },
       "artists": [
         {
-          "name": "Bestia Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
         }
       ],
-      "duration_ms": 250621,
-      "name": "Cangrejal",
-      "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
+      "duration_ms": 220350,
+      "name": "La calma del cementerio",
+      "url": "https://open.spotify.com/track/6SRGt0viZAd4poDhikoAPj"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "NEFERTITI",
-        "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "duration_ms": 156198,
-      "name": "NEFERTITI",
-      "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Otra Galaxia",
         "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
       },
@@ -467,18 +451,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "No Mor\u00ed",
-        "url": "https://open.spotify.com/album/5Wf6Min2kFIKeRpSnj0B0E"
+        "name": "NEFERTITI",
+        "url": "https://open.spotify.com/album/2rzX7Khx99btvr94q2aXNE"
       },
       "artists": [
         {
-          "name": "Mostruo!",
-          "url": "https://open.spotify.com/artist/5Q3EFP1RdiY8cF6S4QktgE"
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
         }
       ],
-      "duration_ms": 183203,
-      "name": "No Mor\u00ed",
-      "url": "https://open.spotify.com/track/2hQmLzDJP2D4iPVseYJixK"
+      "duration_ms": 156198,
+      "name": "NEFERTITI",
+      "url": "https://open.spotify.com/track/7lzPfB1olio7eZQrWzwiao"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -503,6 +487,22 @@
       "duration_ms": 186352,
       "name": "Turbo",
       "url": "https://open.spotify.com/track/3gKDYEoRzHmeIL8B5yuILr"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "No Mor\u00ed",
+        "url": "https://open.spotify.com/album/5Wf6Min2kFIKeRpSnj0B0E"
+      },
+      "artists": [
+        {
+          "name": "Mostruo!",
+          "url": "https://open.spotify.com/artist/5Q3EFP1RdiY8cF6S4QktgE"
+        }
+      ],
+      "duration_ms": 183203,
+      "name": "No Mor\u00ed",
+      "url": "https://open.spotify.com/track/2hQmLzDJP2D4iPVseYJixK"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -535,6 +535,22 @@
       "duration_ms": 196751,
       "name": "Olas Negras",
       "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Botella",
+        "url": "https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi"
+      },
+      "artists": [
+        {
+          "name": "Hojas por el Barrio",
+          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
+        }
+      ],
+      "duration_ms": 132221,
+      "name": "Botella",
+      "url": "https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -575,22 +591,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Lpm",
-        "url": "https://open.spotify.com/album/5075qDaJzBwk4IcxhrR5Tf"
-      },
-      "artists": [
-        {
-          "name": "Babeblade",
-          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
-        }
-      ],
-      "duration_ms": 219881,
-      "name": "Lpm",
-      "url": "https://open.spotify.com/track/0rtzPxprZcyDhDz9SP3N25"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Creo que necesito ir a dar una vuelta",
         "url": "https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee"
       },
@@ -611,6 +611,38 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Volver a cero",
+        "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
+      },
+      "artists": [
+        {
+          "name": "Dante Ouvi\u00f1a",
+          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Volver a cero",
+      "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Lpm",
+        "url": "https://open.spotify.com/album/5075qDaJzBwk4IcxhrR5Tf"
+      },
+      "artists": [
+        {
+          "name": "Babeblade",
+          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
+        }
+      ],
+      "duration_ms": 219881,
+      "name": "Lpm",
+      "url": "https://open.spotify.com/track/0rtzPxprZcyDhDz9SP3N25"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "D\u00eda del Trabajador",
         "url": "https://open.spotify.com/album/2Zl1OvzHWSaztfZlLlEgNI"
       },
@@ -623,22 +655,6 @@
       "duration_ms": 285176,
       "name": "Eso no es Amor",
       "url": "https://open.spotify.com/track/3fG3Ds1rzPt5kScGIlocTH"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Botella",
-        "url": "https://open.spotify.com/album/3ny7mjtM1nQp9WiOtqYPHi"
-      },
-      "artists": [
-        {
-          "name": "Hojas por el Barrio",
-          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
-        }
-      ],
-      "duration_ms": 132221,
-      "name": "Botella",
-      "url": "https://open.spotify.com/track/1vINgAHcEj9PQCI18LhHIH"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -671,22 +687,6 @@
       "duration_ms": 381577,
       "name": "Botas encontradas",
       "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Volver a cero",
-        "url": "https://open.spotify.com/album/0RYkXZaDl8Ts08iSuP9GmA"
-      },
-      "artists": [
-        {
-          "name": "Dante Ouvi\u00f1a",
-          "url": "https://open.spotify.com/artist/44gFucnvbxs6HCA6a7GDJ7"
-        }
-      ],
-      "duration_ms": 186250,
-      "name": "Volver a cero",
-      "url": "https://open.spotify.com/track/7qbWxkPj2QexzkWIGz9sxs"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -759,6 +759,26 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Malambo de Acero",
+        "url": "https://open.spotify.com/album/7a0A5urmtaPIF3uHTuhClP"
+      },
+      "artists": [
+        {
+          "name": "Hojas por el Barrio",
+          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
+        },
+        {
+          "name": "Tom Quintans",
+          "url": "https://open.spotify.com/artist/2aO59eRQnXY18brq14hmkn"
+        }
+      ],
+      "duration_ms": 164236,
+      "name": "Malambo de Acero",
+      "url": "https://open.spotify.com/track/4EPXBJ33pPf3o8y4tpZe2N"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Corriendo",
         "url": "https://open.spotify.com/album/5U18YE0iw5uEiTB8OorYLb"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 183242,
       "name": "Humo y Menta",
       "url": "https://open.spotify.com/track/7EMBexYQA1lrH1DhoQSnrP"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Malambo de Acero",
-        "url": "https://open.spotify.com/album/7a0A5urmtaPIF3uHTuhClP"
-      },
-      "artists": [
-        {
-          "name": "Hojas por el Barrio",
-          "url": "https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6"
-        },
-        {
-          "name": "Tom Quintans",
-          "url": "https://open.spotify.com/artist/2aO59eRQnXY18brq14hmkn"
-        }
-      ],
-      "duration_ms": 164236,
-      "name": "Malambo de Acero",
-      "url": "https://open.spotify.com/track/4EPXBJ33pPf3o8y4tpZe2N"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Pol\u00edtico o Rolling Stone",
         "url": "https://open.spotify.com/album/1tVa6RRL4alQsyRpw21gR1"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 246001,
       "name": "Pol\u00edtico o Rolling Stone",
       "url": "https://open.spotify.com/track/4c30sAt9qwApsKflh7aKcO"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1023,6 +1023,34 @@
       "duration_ms": 200487,
       "name": "El Invierno",
       "url": "https://open.spotify.com/track/1woOd60HeP3wtjZywXQjhp"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "Karma Dron",
+        "url": "https://open.spotify.com/album/08nCJLqKbQUZOnMtbEuUCl"
+      },
+      "artists": [
+        {
+          "name": "Nico Sorin",
+          "url": "https://open.spotify.com/artist/1tXOIb9gcNlk9fWbFNabdL"
+        },
+        {
+          "name": "Proyecto Gomez Casa",
+          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
+        },
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        },
+        {
+          "name": "Karma Dron",
+          "url": "https://open.spotify.com/artist/4M2ZeBbCdmpDpj8pew42wl"
+        }
+      ],
+      "duration_ms": 205186,
+      "name": "Karma Dron",
+      "url": "https://open.spotify.com/track/0QtgpUZ9iSGCnlcUtjgEpZ"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1111,34 +1139,6 @@
       "duration_ms": 153418,
       "name": "Adi\u00f3s Mundo Cruel",
       "url": "https://open.spotify.com/track/0xR8MLrA5Eb0XW4wA8Nvzm"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Karma Dron",
-        "url": "https://open.spotify.com/album/08nCJLqKbQUZOnMtbEuUCl"
-      },
-      "artists": [
-        {
-          "name": "Nico Sorin",
-          "url": "https://open.spotify.com/artist/1tXOIb9gcNlk9fWbFNabdL"
-        },
-        {
-          "name": "Proyecto Gomez Casa",
-          "url": "https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe"
-        },
-        {
-          "name": "Lucy Patan\u00e9",
-          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
-        },
-        {
-          "name": "Karma Dron",
-          "url": "https://open.spotify.com/artist/4M2ZeBbCdmpDpj8pew42wl"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Karma Dron",
-      "url": "https://open.spotify.com/track/0QtgpUZ9iSGCnlcUtjgEpZ"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Exquisito como el Disgusto",
+        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
+      },
+      "artists": [
+        {
+          "name": "Socorro",
+          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "Boca de Dama",
+      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "\u00bfEs Cierto Que La Vida Se Escribe Sola?",
         "url": "https://open.spotify.com/album/0PnriiCEp6ekPu6twNZ0SD"
       },
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Distintas Frecuencias",
-        "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
-      },
-      "artists": [
-        {
-          "name": "Fantasmagoria",
-          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
-        }
-      ],
-      "duration_ms": 242547,
-      "name": "Distintas Frecuencias",
-      "url": "https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Si No Hubiera Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
       },
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Distintas Frecuencias",
+        "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
+      },
+      "artists": [
+        {
+          "name": "Fantasmagoria",
+          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
+        }
+      ],
+      "duration_ms": 242547,
+      "name": "Distintas Frecuencias",
+      "url": "https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Lago Eterno",
         "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 128802,
       "name": "Lago Eterno",
       "url": "https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Exquisito como el Disgusto",
-        "url": "https://open.spotify.com/album/1pLNDIEklJcbcE4fbbuihP"
-      },
-      "artists": [
-        {
-          "name": "Socorro",
-          "url": "https://open.spotify.com/artist/6jlqA6csTISYfkoznueMaA"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "Boca de Dama",
-      "url": "https://open.spotify.com/track/1h748vZtNsAfYFsH8iJPBi"
     },
     {
       "added_at": "2024-08-23 03:00:00",

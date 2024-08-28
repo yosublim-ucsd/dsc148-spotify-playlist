@@ -1,6 +1,6 @@
 {
   "description": "El mejor Dance.",
-  "num_followers": 422104,
+  "num_followers": 422121,
   "original_name": "Dance 2024",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-08-22 07:43:49",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2024-08-22 07:43:49",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "added_at": "2024-08-22 07:43:49",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2024-08-22 07:43:49",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-08-22 07:43:49",
       "album": {
-        "name": "Prayer in C",
-        "url": "https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa"
-      },
-      "artists": [
-        {
-          "name": "Lilly Wood and The Prick",
-          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 189413,
-      "name": "Prayer in C - Robin Schulz Radio Edit",
-      "url": "https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck"
-    },
-    {
-      "added_at": "2024-08-22 07:43:49",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
+    },
+    {
+      "added_at": "2024-08-22 07:43:49",
+      "album": {
+        "name": "Prayer in C",
+        "url": "https://open.spotify.com/album/6Ps0kbvAjuz75uK0uuZzWa"
+      },
+      "artists": [
+        {
+          "name": "Lilly Wood and The Prick",
+          "url": "https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 189413,
+      "name": "Prayer in C - Robin Schulz Radio Edit",
+      "url": "https://open.spotify.com/track/5fnA9mkIfScSqHIpeDyvck"
     },
     {
       "added_at": "2024-08-22 07:43:49",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2024-08-22 07:43:49",
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 138819,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "added_at": "2024-08-22 07:43:49",
+      "album": {
         "name": "Summertime Blues (feat. Nathan Nicholson)",
         "url": "https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 251201,
       "name": "Summertime Blues (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp"
-    },
-    {
-      "added_at": "2024-08-22 07:43:49",
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 138819,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
     },
     {
       "added_at": "2024-08-22 07:43:49",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-08-22 07:43:49",
       "album": {
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/56Wdv50B0BK8z3PhOIz7WE"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Silhouettes - Original Radio Edit",
+      "url": "https://open.spotify.com/track/06h3McKzmxS8Bx58USHiMq"
+    },
+    {
+      "added_at": "2024-08-22 07:43:49",
+      "album": {
         "name": "By Your Side (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 189671,
       "name": "By Your Side (feat. Tom Grennan)",
       "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
-    },
-    {
-      "added_at": "2024-08-22 07:43:49",
-      "album": {
-        "name": "Silhouettes",
-        "url": "https://open.spotify.com/album/56Wdv50B0BK8z3PhOIz7WE"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Silhouettes - Original Radio Edit",
-      "url": "https://open.spotify.com/track/06h3McKzmxS8Bx58USHiMq"
     },
     {
       "added_at": "2024-08-22 07:43:49",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2024-08-22 07:43:49",
       "album": {
+        "name": "TIM",
+        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "duration_ms": 277261,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
+    },
+    {
+      "added_at": "2024-08-22 07:43:49",
+      "album": {
         "name": "Lasting Lover",
         "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
-    },
-    {
-      "added_at": "2024-08-22 07:43:49",
-      "album": {
-        "name": "TIM",
-        "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        }
-      ],
-      "duration_ms": 277261,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/0vrmHPfoBadXVr2n0m1aqZ"
     },
     {
       "added_at": "2024-08-22 07:43:49",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2024-08-22 07:43:49",
       "album": {
-        "name": "I Could Be The One [Avicii vs Nicky Romero]",
-        "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 208320,
-      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
-      "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
-    },
-    {
-      "added_at": "2024-08-22 07:43:49",
-      "album": {
         "name": "Drinkin'",
         "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
+    },
+    {
+      "added_at": "2024-08-22 07:43:49",
+      "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero]",
+        "url": "https://open.spotify.com/album/292ltz2MxXuFZw9FaEbaZ3"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+      "url": "https://open.spotify.com/track/591nHHHzZl1NLt9PMKpinM"
     },
     {
       "added_at": "2024-08-22 07:43:49",
@@ -2039,18 +2039,22 @@
     {
       "added_at": "2024-08-22 07:43:49",
       "album": {
-        "name": "One (Your Name)",
-        "url": "https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd"
+        "name": "Me Provocas",
+        "url": "https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Fumaratto",
+          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
         }
       ],
-      "duration_ms": 169920,
-      "name": "One - Radio Edit",
-      "url": "https://open.spotify.com/track/41KPpw0EZCytxNkmEMJVgr"
+      "duration_ms": 147255,
+      "name": "Me Provocas",
+      "url": "https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu"
     }
   ],
   "unique_name": "Dance 2024",

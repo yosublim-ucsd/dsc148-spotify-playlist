@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,262 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,308 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 52 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 |
 | 53 | [Innocent](https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Innocent](https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u) | 2:36 |
 | 54 | [I Live After I Died](https://open.spotify.com/track/3U07sD3nUajfqjZp5p629l) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [I Live After I Died](https://open.spotify.com/album/5DWxhZD9yeRu7OOEXO1B6i) | 2:44 |
-| 55 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR) | 5:28 |
+| 55 | [homebound](https://open.spotify.com/track/2390QtVcsiBd50QbKd2s6x) | [SATRE](https://open.spotify.com/artist/0KMIpYnQZYg0rEYMgDd4Hm) | [homebound](https://open.spotify.com/album/2pwEWAxrNUJ9xWqVifLw4C) | 3:24 |
 | 56 | [blómi](https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [blómi](https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE) | 4:59 |
-| 57 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
-| 58 | [funeral](https://open.spotify.com/track/51jglJSZSF5lIK0akIf8kq) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [hiding mountains in the palm of my hand](https://open.spotify.com/album/6bmz99IOVuf9EuaISHm20Z) | 3:32 |
-| 59 | [homebound](https://open.spotify.com/track/2390QtVcsiBd50QbKd2s6x) | [SATRE](https://open.spotify.com/artist/0KMIpYnQZYg0rEYMgDd4Hm) | [homebound](https://open.spotify.com/album/2pwEWAxrNUJ9xWqVifLw4C) | 3:24 |
-| 60 | [Waiting For \(Demo\)](https://open.spotify.com/track/1Kh2LQRtX9fHnWAFJoBHab) | [Farida](https://open.spotify.com/artist/1TBqlc2KwgI8pEkTdkTwGH), [Rasmus Thall](https://open.spotify.com/artist/2Brc3k9Io6Cb1gUMUocN31) | [Waiting For \(Demo\)](https://open.spotify.com/album/2zdSSXwvguG24MkhGoag9Y) | 2:50 |
+| 57 | [Fehu \- First Flight of the White Raven LIVE](https://open.spotify.com/track/4JEFld1zyKtbLaKMwdRmTh) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Fehu \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/23ghp02cykc1CY2BWn74RR) | 5:28 |
+| 58 | [Ei ny tid](https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP) | 2:26 |
+| 59 | [Waiting For \(Demo\)](https://open.spotify.com/track/1Kh2LQRtX9fHnWAFJoBHab) | [Farida](https://open.spotify.com/artist/1TBqlc2KwgI8pEkTdkTwGH), [Rasmus Thall](https://open.spotify.com/artist/2Brc3k9Io6Cb1gUMUocN31) | [Waiting For \(Demo\)](https://open.spotify.com/album/2zdSSXwvguG24MkhGoag9Y) | 2:50 |
+| 60 | [funeral](https://open.spotify.com/track/51jglJSZSF5lIK0akIf8kq) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [hiding mountains in the palm of my hand](https://open.spotify.com/album/6bmz99IOVuf9EuaISHm20Z) | 3:32 |
 
 Snapshot ID: `Zse04AAAAAB9YOE5EJmQx/2AB8ZkpAnT`

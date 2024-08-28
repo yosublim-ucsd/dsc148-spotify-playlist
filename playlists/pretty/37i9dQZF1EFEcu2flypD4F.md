@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,867 likes - 326 songs - 20 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,868 likes - 326 songs - 20 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 132 | [Kill And Run](https://open.spotify.com/track/3o1plg7nwWCgZK5b9sNIDr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music From Baz Luhrmann's Film The Great Gatsby](https://open.spotify.com/album/6JCgdZOAX8K6SgBw3Oanwd) | 3:35 |
 | 133 | [Freeze You Out](https://open.spotify.com/track/36FL3mxfAupY7iA8b6K9BS) | [Marina Kaye](https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid) | [Fearless](https://open.spotify.com/album/4JSxcVM4fUnaluGVtKRBo7) | 4:07 |
 | 134 | [Incredible \(feat\. Labrinth\)](https://open.spotify.com/track/4LxFwiwMwfXFvuOksJXlzc) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:33 |
-| 135 | [My Old Santa Claus](https://open.spotify.com/track/3lhTIJepO4zHFK7sllezGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:24 |
-| 136 | [Wild Ones \(Club Mix\)](https://open.spotify.com/track/3D2Oe2TxIUqP8FFm1yKaXF) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones \(Club Mix\)](https://open.spotify.com/album/7FntTAsGpLUJl0eSZkXh6E) | 3:26 |
+| 135 | [Wild Ones \(Club Mix\)](https://open.spotify.com/track/3D2Oe2TxIUqP8FFm1yKaXF) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones \(Club Mix\)](https://open.spotify.com/album/7FntTAsGpLUJl0eSZkXh6E) | 3:26 |
+| 136 | [My Old Santa Claus](https://open.spotify.com/track/3lhTIJepO4zHFK7sllezGz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:24 |
 | 137 | [Voodoo](https://open.spotify.com/track/135SEcW19xWXM3WghwdUBa) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Last Year Was Complicated](https://open.spotify.com/album/4Yww2EYetseL1eL2YuvLna) | 3:10 |
 | 138 | [Running To The Edge Of The World](https://open.spotify.com/track/4ap6nHIEnGcl6tkYku3fRx) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [The High End of Low \(International Version\)](https://open.spotify.com/album/2Ko8Fi9kR8iiuzygvqDXER) | 6:25 |
 | 139 | [Battlefield](https://open.spotify.com/track/1zV93NN3k0QWSi4EmvDmAa) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Louder](https://open.spotify.com/album/7k4nnfwAaujt4e3OWtJPqn) | 4:18 |
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 144 | [Who Am I?](https://open.spotify.com/track/732QOzrBUFi0gGWNU9gB7d) | [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w), [Cameron Diaz](https://open.spotify.com/artist/1lrL3Lwyoyij9dFwSayDsV), [Quvenzhané Wallis](https://open.spotify.com/artist/0xcfJSVb1IoxDnkFFWpEXz) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 3:20 |
 | 145 | [Buttons](https://open.spotify.com/track/37dnmQMEQ8ceZr9tKzaY3K) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Some People Have REAL Problems](https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt) | 3:14 |
 | 146 | [Sing for My Life](https://open.spotify.com/track/3msZWSvVMIybnhN29nK2KM) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:44 |
-| 147 | [Santa Visits Everyone](https://open.spotify.com/track/42NDZG3B5hGoU6YIrJB8dK) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 3:08 |
-| 148 | [I Forgive You](https://open.spotify.com/track/735axlkSRsqMIYwci9pQ9Y) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 4:19 |
+| 147 | [I Forgive You](https://open.spotify.com/track/735axlkSRsqMIYwci9pQ9Y) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 4:19 |
+| 148 | [Santa Visits Everyone](https://open.spotify.com/track/42NDZG3B5hGoU6YIrJB8dK) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/49kFmuCyxzpbtVfnpLcOP1) | 3:08 |
 | 149 | [Free Me](https://open.spotify.com/track/07tsxA3VTCCs35M17sBs88) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Free Me](https://open.spotify.com/album/4FFE30tFDFOFeSCHeR49C0) | 4:46 |
 | 150 | [Light Headed](https://open.spotify.com/track/1od4qobuLFJFBijdUcEsvt) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [7: Anniversary Edition](https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7) | 2:58 |
 | 151 | [Jesus Wept](https://open.spotify.com/track/5DET60fn3RK36r6qc934tb) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 5:29 |
@@ -335,4 +335,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 325 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 326 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `Abae/gAAAAAlAJR+j0x7S7apPQnOTXCR`
+Snapshot ID: `AbakpQAAAACvr+evpBYWmhJlEDSoW7D8`

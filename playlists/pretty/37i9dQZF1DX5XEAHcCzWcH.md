@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,038 likes - 66 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,071 likes - 66 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,19 +19,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5XEAHcCzWcH.md) - [plain]
 | 9 | [Hey, Bartender](https://open.spotify.com/track/0eIvaD41ZuT8Eg5uDvfSKs) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Wake Up And Live!](https://open.spotify.com/album/4wlMMYcqmpUXzf5TmpZ1rQ) | 3:25 |
 | 10 | [Tanqueray](https://open.spotify.com/track/7eGAVjUPCA6sQ0vR3xenwf) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 4:54 |
 | 11 | [Evil Woman](https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 4:21 |
-| 12 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
-| 13 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
+| 12 | [Boogie In "G"](https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [Rock Me Daddy, Vol\. 1](https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD) | 2:34 |
+| 13 | [Louella](https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 4:27 |
 | 14 | [Milk And Water](https://open.spotify.com/track/4Bo2E1DybKQL2radivMQFA) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 3:10 |
 | 15 | [One For The Highway](https://open.spotify.com/track/6EK73RgpCsoGYv4MkUD38d) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Classified \(Remixed & Expanded Edition\)](https://open.spotify.com/album/7av0l8SRbUEWleH5v9eV7K) | 2:34 |
 | 16 | [Feel So Blue](https://open.spotify.com/track/6e17J4IMLiJ58JWxkisxPi) | [Lafayette Leake](https://open.spotify.com/artist/2lMEe12j43Se24Jrfk3pyl) | [Easy Blues \(France, 1978\) \[Blues Reference\]](https://open.spotify.com/album/5z3QkaWm3wh0yMYwRqnZdP) | 5:21 |
 | 17 | [If I Hadn't Been High](https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 4:06 |
 | 18 | [Ooh La La](https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [La cave saravah, vol.1](https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa) | 6:09 |
 | 19 | [Ain't Times Hard](https://open.spotify.com/track/7L5U6eRJEFQbjqUUTwDVPu) | [Nick Moss & The Flip Tops](https://open.spotify.com/artist/41z6z2F1HddUUSPOtOhhuk), [Barrelhouse Chuck](https://open.spotify.com/artist/5xdyzBf4bTgRC13sG3dShO), [Kate Moss](https://open.spotify.com/artist/3IP1UVkxCwvyb5wdQVn269) | [Count Your Blessings](https://open.spotify.com/album/0wXMoxr5erc9iBIkzuwzYl) | 4:01 |
-| 20 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
-| 21 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
+| 20 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 |
+| 21 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 |
 | 22 | [Junco Partner](https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [Junco Partner](https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV) | 5:10 |
 | 23 | [Somebody To Shack](https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN) | [Detroit Junior](https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:22 |
-| 24 | [Fluff Boogie](https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9) | [Camille Howard](https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX) | [X\-Temporaneous Boogie](https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp) | 2:19 |
+| 24 | [Big Town Playboy](https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [The Chess Story 1947\-1956](https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf) | 2:55 |
 | 25 | [None of My Jelly Roll](https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk) | [Sweet Emma Barrett](https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk) | [Her New Orleans Music](https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE) | 3:45 |
 | 26 | [It Hurts Me Too](https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W) | [Bruce Katz Band](https://open.spotify.com/artist/7cvmkkkAA2mTfwhhMSfrEi) | [Solo Ride](https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29) | 3:45 |
 | 27 | [Key to the Highway](https://open.spotify.com/track/0KmVzmqMXi24EusC3MwlBB) | [Johnnie Johnson](https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY) | [Johnnie B\. Bad](https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD) | 3:22 |

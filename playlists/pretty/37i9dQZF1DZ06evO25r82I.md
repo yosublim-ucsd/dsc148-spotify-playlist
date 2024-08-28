@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 
 ### [This Is Jimmy Eat World](https://open.spotify.com/playlist/37i9dQZF1DZ06evO25r82I)
 
-> This is Jimmy Eat World\. Todos os maiores hits em uma só playlist.
+> This is Jimmy Eat World\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,191 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,203 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 3 | [Let It Happen](https://open.spotify.com/track/2Vm9PdvlNkCDqInLdOVkAN) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 3:25 |
 | 4 | [Something Loud](https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud](https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1) | 3:16 |
 | 5 | [Sweetness](https://open.spotify.com/track/429IbFR4yp2J81CeTwF5iY) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:40 |
-| 6 | [Just Tonight](https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u) | 3:26 |
+| 6 | [Work](https://open.spotify.com/track/7jOmU5z5lgwTL5meoapbMf) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u) | 3:23 |
 | 7 | [Big Casino](https://open.spotify.com/track/463wBlCYhDPuOVvAU8bS1h) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 3:40 |
 | 8 | [My Best Theory](https://open.spotify.com/track/62vYBYt9dJgI1Wn31iTdgC) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 3:23 |
 | 9 | [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:01 |
-| 10 | [Work](https://open.spotify.com/track/7jOmU5z5lgwTL5meoapbMf) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u) | 3:23 |
+| 10 | [Just Tonight](https://open.spotify.com/track/5ZLwbxq5jydIxksfX6ezAn) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Futures \(Deluxe Edition\)](https://open.spotify.com/album/58EcHXCjDzwqHiXDo9523u) | 3:26 |
 | 11 | [Always Be](https://open.spotify.com/track/7LyZKnITD52R7SLxoh2VFq) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Chase This Light](https://open.spotify.com/album/4Xu33ctS2pLQX9FicNS5IY) | 3:04 |
 | 12 | [555](https://open.spotify.com/track/2TJkd845G0ocbd0m5jLroC) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:41 |
 | 13 | [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25r82I.md) - [plain]
 | 40 | [Surviving](https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 3:04 |
 | 41 | [You With Me](https://open.spotify.com/track/2LjA5UUnyUKTMZ3qdBI8De) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 5:18 |
 | 42 | [Heart Is Hard To Find](https://open.spotify.com/track/11rnrqU9FYA5Wrgey0wBm6) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Invented \(Deluxe Edition\)](https://open.spotify.com/album/1TxRb6Hl940xyXG4eL8Tlo) | 3:18 |
-| 43 | [Damage](https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Damage](https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo) | 3:07 |
+| 43 | [No Sensitivity](https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8) | 3:41 |
 | 44 | [Love Never](https://open.spotify.com/track/2lfp6K5WOQ44IhxD2Wkhr2) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Surviving](https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI) | 2:54 |
 | 45 | [Through](https://open.spotify.com/track/4Iydh0QUgxeOB1o5oKAzAr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 2:51 |
-| 46 | [No Sensitivity](https://open.spotify.com/track/0kOWnNQzEwFv5G5FEal3MU) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8) | 3:41 |
+| 46 | [Damage](https://open.spotify.com/track/3T1mwQ0XLG4WhF8jO9FQ7G) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Damage](https://open.spotify.com/album/3cTKLglWH2XfDfbwqXvaGo) | 3:07 |
 | 47 | [Telepath](https://open.spotify.com/track/48GMsxSOjgEWir9PWEGhf8) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Telepath](https://open.spotify.com/album/7lunBNydlVI6vDiFQygt6s) | 3:38 |
 | 48 | [Call It In The Air](https://open.spotify.com/track/3j6nYQC9jVtIOBXFNOOu9A) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Static Prevails \(Bonus Track Version\)](https://open.spotify.com/album/08EiadO7jxgjbJJdzX8mem) | 3:00 |
 | 49 | [You Are Free](https://open.spotify.com/track/1V0F9RsyNMbbcBPNEVk0Jm) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Integrity Blues](https://open.spotify.com/album/03hVtUfmQW3fhMbYoliIod) | 4:14 |
 | 50 | [Place Your Debts](https://open.spotify.com/track/29f4cPjqBi9n5lS8XQlKa3) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Place Your Debts](https://open.spotify.com/album/3I3kMVNvm0kT9RZGjeyNDl) | 5:10 |
 
-Snapshot ID: `Zsp0AAAAAAByrN37zftj6Ged631B4AQD`
+Snapshot ID: `ZsvFgAAAAABKSpAo9cbAza8apMGHC2Nw`

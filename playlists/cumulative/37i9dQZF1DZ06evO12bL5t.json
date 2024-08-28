@@ -511,6 +511,28 @@
     },
     {
       "album": {
+        "name": "EL KARMA",
+        "url": "https://open.spotify.com/album/2Zyfh2tswaGFIieQopi557"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171749,
+      "name": "EL KARMA",
+      "url": "https://open.spotify.com/track/3qMR5oiGKLfZZeVJmOiUKx"
+    },
+    {
+      "album": {
         "name": "Para Los Que Conocen El Rollo",
         "url": "https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH"
       },
@@ -1254,7 +1276,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 169629,
       "name": "Ric Flair",
       "url": "https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm"

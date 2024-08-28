@@ -1,6 +1,6 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 320738,
+  "num_followers": 320827,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-06-22 23:17:20",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 389897,
-      "name": "Hosanna - Live",
-      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
-    },
-    {
-      "added_at": "2024-06-22 23:17:20",
-      "album": {
         "name": "Canvas And Clay (Live)",
         "url": "https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 400000,
       "name": "Canvas And Clay - Live",
       "url": "https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4"
+    },
+    {
+      "added_at": "2024-06-22 23:17:20",
+      "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 389897,
+      "name": "Hosanna - Live",
+      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
     },
     {
       "added_at": "2024-06-22 23:17:20",

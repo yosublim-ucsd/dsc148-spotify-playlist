@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 4514,
+  "num_followers": 4518,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Sounds from the Ancestors",
-        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 313720,
-      "name": "Hargrove",
-      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Atoll",
         "url": "https://open.spotify.com/album/6bKU3wLRzHglWkkywfE257"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Sounds from the Ancestors",
+        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 313720,
+      "name": "Hargrove",
+      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "XO SKELETON",
         "url": "https://open.spotify.com/album/4Uiq57boKVYu31j88BeLm9"
       },
@@ -1371,26 +1371,6 @@
       "duration_ms": 272093,
       "name": "october",
       "url": "https://open.spotify.com/track/2YzKFDX9wtE3ijKzk01jjF"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "where are we",
-        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 293973,
-      "name": "Chicago Blues",
-      "url": "https://open.spotify.com/track/03GB3BpOhd8PiIug8UKQQy"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1419,18 +1399,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "I Killed Your Dog",
-        "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
       "artists": [
         {
-          "name": "L'Rain",
-          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
         }
       ],
-      "duration_ms": 165413,
-      "name": "Pet Rock",
-      "url": "https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3"
+      "duration_ms": 293973,
+      "name": "Chicago Blues",
+      "url": "https://open.spotify.com/track/03GB3BpOhd8PiIug8UKQQy"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1447,6 +1431,22 @@
       "duration_ms": 277283,
       "name": "why my love?",
       "url": "https://open.spotify.com/track/4qKQGEus6IEWqZYSqqhBqZ"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "I Killed Your Dog",
+        "url": "https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "duration_ms": 165413,
+      "name": "Pet Rock",
+      "url": "https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Afrikan Culture",
-        "url": "https://open.spotify.com/album/5fFftOUCiSbNfofIj8vXx0"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Black meditation",
-      "url": "https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 403933,
       "name": "Foreword",
       "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Afrikan Culture",
+        "url": "https://open.spotify.com/album/5fFftOUCiSbNfofIj8vXx0"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Black meditation",
+      "url": "https://open.spotify.com/track/0OK7oUUtjtUAVNxgXFtqsw"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Find Me A Cloud",
-        "url": "https://open.spotify.com/album/2NCFSe9Fl6kaso0babK0BS"
-      },
-      "artists": [
-        {
-          "name": "The Grogans",
-          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
-        }
-      ],
-      "duration_ms": 146812,
-      "name": "I'm Not Sure",
-      "url": "https://open.spotify.com/track/33hzHkyoWuIdk8x7cdiTJx"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Chimborazo",
         "url": "https://open.spotify.com/album/5SoVWdOnGrsehICGyHs9IB"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 225250,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/3UxA34eO5Ueii16F9FklMY"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Find Me A Cloud",
+        "url": "https://open.spotify.com/album/2NCFSe9Fl6kaso0babK0BS"
+      },
+      "artists": [
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "duration_ms": 146812,
+      "name": "I'm Not Sure",
+      "url": "https://open.spotify.com/track/33hzHkyoWuIdk8x7cdiTJx"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "The Neighborhood",
-        "url": "https://open.spotify.com/album/5p1furq3olcZbnXe51liZh"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 193654,
-      "name": "The Neighborhood",
-      "url": "https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "The Fatalist",
         "url": "https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 152586,
       "name": "The Fatalist Blues",
       "url": "https://open.spotify.com/track/37kYCbuyOEbLMOIs59FWfe"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "The Neighborhood",
+        "url": "https://open.spotify.com/album/5p1furq3olcZbnXe51liZh"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 193654,
+      "name": "The Neighborhood",
+      "url": "https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2011,6 +2011,26 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Train Coming",
+        "url": "https://open.spotify.com/album/74X9PXhDtKBmJO0aaO0oMG"
+      },
+      "artists": [
+        {
+          "name": "Angelique Francis",
+          "url": "https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene"
+        },
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        }
+      ],
+      "duration_ms": 244404,
+      "name": "Train Coming",
+      "url": "https://open.spotify.com/track/0yaFx1VHsMM4qNRg3Sv21t"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Jazz Futon",
         "url": "https://open.spotify.com/album/6immvU3yDIO7RCtT0wjiPY"
       },
@@ -2047,26 +2067,6 @@
       "duration_ms": 460254,
       "name": "Blood Calls Blood",
       "url": "https://open.spotify.com/track/2pzDdbJ5S7jQ4BS0GyVlfP"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Train Coming",
-        "url": "https://open.spotify.com/album/74X9PXhDtKBmJO0aaO0oMG"
-      },
-      "artists": [
-        {
-          "name": "Angelique Francis",
-          "url": "https://open.spotify.com/artist/3AoZtg3XjzbONsDfAXCene"
-        },
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        }
-      ],
-      "duration_ms": 244404,
-      "name": "Train Coming",
-      "url": "https://open.spotify.com/track/0yaFx1VHsMM4qNRg3Sv21t"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Because You Loved Me",
+        "url": "https://open.spotify.com/album/1Dw40NInWsdiaeMExxBhuS"
+      },
+      "artists": [
+        {
+          "name": "Ranee Lee",
+          "url": "https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G"
+        }
+      ],
+      "duration_ms": 311423,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/7BAgzRvbqv6GxOdqZCuYXu"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "RW:AK",
         "url": "https://open.spotify.com/album/5qITLQJh31disNrMxaVnp5"
       },
@@ -2315,22 +2331,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Because You Loved Me",
-        "url": "https://open.spotify.com/album/1Dw40NInWsdiaeMExxBhuS"
-      },
-      "artists": [
-        {
-          "name": "Ranee Lee",
-          "url": "https://open.spotify.com/artist/3G8y9C5n1gfzBzha69Ca1G"
-        }
-      ],
-      "duration_ms": 311423,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/7BAgzRvbqv6GxOdqZCuYXu"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Hagata",
         "url": "https://open.spotify.com/album/7rFuvWny73XPHtJ5qaglW8"
       },
@@ -2363,22 +2363,6 @@
       "duration_ms": 290725,
       "name": "Bucket of F's",
       "url": "https://open.spotify.com/track/0EE8m2mrTZpM2WbieU2QTp"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Sunday In The Park",
-        "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
-      },
-      "artists": [
-        {
-          "name": "Sammy Jackson",
-          "url": "https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y"
-        }
-      ],
-      "duration_ms": 265239,
-      "name": "Sunday In The Park",
-      "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2431,18 +2415,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+        "name": "Sunday In The Park",
+        "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
       },
       "artists": [
         {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+          "name": "Sammy Jackson",
+          "url": "https://open.spotify.com/artist/76N35MYZrrMLTfbBADPM1y"
         }
       ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+      "duration_ms": 265239,
+      "name": "Sunday In The Park",
+      "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2459,6 +2443,38 @@
       "duration_ms": 208522,
       "name": "Big Bad Wolf",
       "url": "https://open.spotify.com/track/24gsxG89W5JkgZQFh4B1mM"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "ACTE III",
+        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
+      },
+      "artists": [
+        {
+          "name": "Simon Leoza",
+          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
+        }
+      ],
+      "duration_ms": 95866,
+      "name": "III {serenade}",
+      "url": "https://open.spotify.com/track/1Hv6iMEG4aijKn8MAMtWWl"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2499,22 +2515,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "ACTE III",
-        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
-      },
-      "artists": [
-        {
-          "name": "Simon Leoza",
-          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
-        }
-      ],
-      "duration_ms": 95866,
-      "name": "III {serenade}",
-      "url": "https://open.spotify.com/track/1Hv6iMEG4aijKn8MAMtWWl"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "The Best of Jack De Keyzer",
         "url": "https://open.spotify.com/album/718dMd32OI5CQI3vEq0lrS"
       },
@@ -2527,22 +2527,6 @@
       "duration_ms": 264586,
       "name": "Soul Lover",
       "url": "https://open.spotify.com/track/19Bm2oWJnNHEqDEgMdbzmo"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Creatures of the Late Afternoon",
-        "url": "https://open.spotify.com/album/1KsEcHA0CT8fLcQiT4qaMw"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 144760,
-      "name": "1000 Towns",
-      "url": "https://open.spotify.com/track/1CVqnk1ilxgitab7JONA81"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2563,34 +2547,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Prevent the Future",
-        "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
+        "name": "Creatures of the Late Afternoon",
+        "url": "https://open.spotify.com/album/1KsEcHA0CT8fLcQiT4qaMw"
       },
       "artists": [
         {
-          "name": "Lex French Quartet with James Muller",
-          "url": "https://open.spotify.com/artist/5p69xASoGbtnZiq5TfYvrI"
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
         }
       ],
-      "duration_ms": 266900,
-      "name": "Austerity",
-      "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Patche",
-        "url": "https://open.spotify.com/album/6tIv6FfXjJiAwTt6X07pAr"
-      },
-      "artists": [
-        {
-          "name": "Patche",
-          "url": "https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1"
-        }
-      ],
-      "duration_ms": 342040,
-      "name": "Motorik",
-      "url": "https://open.spotify.com/track/5kUVK0faZee9yLpM3WNDYB"
+      "duration_ms": 144760,
+      "name": "1000 Towns",
+      "url": "https://open.spotify.com/track/1CVqnk1ilxgitab7JONA81"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2611,22 +2579,50 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Don't Bring Me Down",
-        "url": "https://open.spotify.com/album/6ELp2EzOuHgucNjKUvJfsO"
+        "name": "Patche",
+        "url": "https://open.spotify.com/album/6tIv6FfXjJiAwTt6X07pAr"
       },
       "artists": [
         {
-          "name": "The Heavyweights Brass Band",
-          "url": "https://open.spotify.com/artist/1DuvTCwRQqiKrLEd2L489L"
-        },
-        {
-          "name": "Ogguere",
-          "url": "https://open.spotify.com/artist/1Z2twXH5DCuPw7fxb5nJ4X"
+          "name": "Patche",
+          "url": "https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1"
         }
       ],
-      "duration_ms": 176600,
-      "name": "Nueva Orleans",
-      "url": "https://open.spotify.com/track/2qx1y5GncqaTgcDBl5kjKV"
+      "duration_ms": 342040,
+      "name": "Motorik",
+      "url": "https://open.spotify.com/track/5kUVK0faZee9yLpM3WNDYB"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Prevent the Future",
+        "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
+      },
+      "artists": [
+        {
+          "name": "Lex French Quartet with James Muller",
+          "url": "https://open.spotify.com/artist/5p69xASoGbtnZiq5TfYvrI"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "Austerity",
+      "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "ACTE III",
+        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
+      },
+      "artists": [
+        {
+          "name": "Simon Leoza",
+          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
+        }
+      ],
+      "duration_ms": 105893,
+      "name": "III {dolce}",
+      "url": "https://open.spotify.com/track/2Rgc2E61hEVJ2YEAbzFMgL"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2655,18 +2651,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "ACTE III",
-        "url": "https://open.spotify.com/album/322nOQQkLQtXv7PhmFZaiC"
+        "name": "Don't Bring Me Down",
+        "url": "https://open.spotify.com/album/6ELp2EzOuHgucNjKUvJfsO"
       },
       "artists": [
         {
-          "name": "Simon Leoza",
-          "url": "https://open.spotify.com/artist/6mDN9Qm8ObTHDNdg2DNkCd"
+          "name": "The Heavyweights Brass Band",
+          "url": "https://open.spotify.com/artist/1DuvTCwRQqiKrLEd2L489L"
+        },
+        {
+          "name": "Ogguere",
+          "url": "https://open.spotify.com/artist/1Z2twXH5DCuPw7fxb5nJ4X"
         }
       ],
-      "duration_ms": 105893,
-      "name": "III {dolce}",
-      "url": "https://open.spotify.com/track/2Rgc2E61hEVJ2YEAbzFMgL"
+      "duration_ms": 176600,
+      "name": "Nueva Orleans",
+      "url": "https://open.spotify.com/track/2qx1y5GncqaTgcDBl5kjKV"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2747,6 +2747,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Piece of Mind",
+        "url": "https://open.spotify.com/album/7tuIHvQNLrzizQXlh34KPq"
+      },
+      "artists": [
+        {
+          "name": "Simon Denizart",
+          "url": "https://open.spotify.com/artist/1dFQ2v1uSzlTVLwfHQWgJk"
+        }
+      ],
+      "duration_ms": 338727,
+      "name": "Speedball",
+      "url": "https://open.spotify.com/track/17D4y6Elf2qSMU0SLhnbh2"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Latiendo la tierra",
         "url": "https://open.spotify.com/album/2VIPMRFRCsZNH5diTJQ86G"
       },
@@ -2763,18 +2779,34 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Piece of Mind",
-        "url": "https://open.spotify.com/album/7tuIHvQNLrzizQXlh34KPq"
+        "name": "The Essential Stanley Clarke",
+        "url": "https://open.spotify.com/album/4658fdGxRPiSvcWb464SyS"
       },
       "artists": [
         {
-          "name": "Simon Denizart",
-          "url": "https://open.spotify.com/artist/1dFQ2v1uSzlTVLwfHQWgJk"
+          "name": "Stanley Clarke",
+          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
         }
       ],
-      "duration_ms": 338727,
-      "name": "Speedball",
-      "url": "https://open.spotify.com/track/17D4y6Elf2qSMU0SLhnbh2"
+      "duration_ms": 468906,
+      "name": "School Days",
+      "url": "https://open.spotify.com/track/3bD0v2Jhj7pyXTiOqrJZ4c"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Alzar la voz sin reclamar",
+        "url": "https://open.spotify.com/album/2PMFEh0hSuPY82IGKEVeF9"
+      },
+      "artists": [
+        {
+          "name": "Papish",
+          "url": "https://open.spotify.com/artist/41hp1MlVWwW3LcITV0m8uK"
+        }
+      ],
+      "duration_ms": 179464,
+      "name": "Alzar la voz sin reclamar",
+      "url": "https://open.spotify.com/track/7eu4tKJUEnH1HHlbpTSV2N"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2799,22 +2831,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "The Essential Stanley Clarke",
-        "url": "https://open.spotify.com/album/4658fdGxRPiSvcWb464SyS"
-      },
-      "artists": [
-        {
-          "name": "Stanley Clarke",
-          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
-        }
-      ],
-      "duration_ms": 468906,
-      "name": "School Days",
-      "url": "https://open.spotify.com/track/3bD0v2Jhj7pyXTiOqrJZ4c"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Girl In The Yard",
         "url": "https://open.spotify.com/album/1DDAedhGIVnmmxwRn5jXD9"
       },
@@ -2827,38 +2843,6 @@
       "duration_ms": 415666,
       "name": "Lulu's Dream",
       "url": "https://open.spotify.com/track/7qqhY60uJZZZPHFkh74sKV"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Alzar la voz sin reclamar",
-        "url": "https://open.spotify.com/album/2PMFEh0hSuPY82IGKEVeF9"
-      },
-      "artists": [
-        {
-          "name": "Papish",
-          "url": "https://open.spotify.com/artist/41hp1MlVWwW3LcITV0m8uK"
-        }
-      ],
-      "duration_ms": 179464,
-      "name": "Alzar la voz sin reclamar",
-      "url": "https://open.spotify.com/track/7eu4tKJUEnH1HHlbpTSV2N"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Nou La",
-        "url": "https://open.spotify.com/album/1X4uiKHEUWzqbAd6kg9As9"
-      },
-      "artists": [
-        {
-          "name": "Rara Soley",
-          "url": "https://open.spotify.com/artist/6Q22qyiwJzmynZxkjXur1b"
-        }
-      ],
-      "duration_ms": 222648,
-      "name": "Tanboum Sa La",
-      "url": "https://open.spotify.com/track/399kaQPiQ5Z1iKSqHQNCmM"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2883,6 +2867,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Nou La",
+        "url": "https://open.spotify.com/album/1X4uiKHEUWzqbAd6kg9As9"
+      },
+      "artists": [
+        {
+          "name": "Rara Soley",
+          "url": "https://open.spotify.com/artist/6Q22qyiwJzmynZxkjXur1b"
+        }
+      ],
+      "duration_ms": 222648,
+      "name": "Tanboum Sa La",
+      "url": "https://open.spotify.com/track/399kaQPiQ5Z1iKSqHQNCmM"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Rives",
         "url": "https://open.spotify.com/album/5waQgDcdn50VBZ805L8IPx"
       },
@@ -2895,22 +2895,6 @@
       "duration_ms": 438478,
       "name": "Haru no Umi",
       "url": "https://open.spotify.com/track/08NBqOQfIGzzE4nVJVx0mW"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Rez-de-chauss\u00e9e",
-        "url": "https://open.spotify.com/album/70mCGq6gSILnx4mJDbBh8p"
-      },
-      "artists": [
-        {
-          "name": "Greenhouse Ensemble",
-          "url": "https://open.spotify.com/artist/0538qCQ6cuMTAmQAZULE3i"
-        }
-      ],
-      "duration_ms": 340002,
-      "name": "Beyond Me",
-      "url": "https://open.spotify.com/track/1EQFWNkY6Mkoeztv85kr2C"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2947,18 +2931,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "MDR",
-        "url": "https://open.spotify.com/album/1DqZGqTwMfs1NP6rPfYRYW"
+        "name": "Rez-de-chauss\u00e9e",
+        "url": "https://open.spotify.com/album/70mCGq6gSILnx4mJDbBh8p"
       },
       "artists": [
         {
-          "name": "Jonathan Michel",
-          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+          "name": "Greenhouse Ensemble",
+          "url": "https://open.spotify.com/artist/0538qCQ6cuMTAmQAZULE3i"
         }
       ],
-      "duration_ms": 216533,
-      "name": "L\u00f3t B\u00f3",
-      "url": "https://open.spotify.com/track/7HBQHG3g9hbJEaIbuonDXj"
+      "duration_ms": 340002,
+      "name": "Beyond Me",
+      "url": "https://open.spotify.com/track/1EQFWNkY6Mkoeztv85kr2C"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2975,6 +2959,22 @@
       "duration_ms": 230649,
       "name": "HANGING WITH YOU",
       "url": "https://open.spotify.com/track/5kWQ5PENkfsF4C2MEFmiY7"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "MDR",
+        "url": "https://open.spotify.com/album/1DqZGqTwMfs1NP6rPfYRYW"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "L\u00f3t B\u00f3",
+      "url": "https://open.spotify.com/track/7HBQHG3g9hbJEaIbuonDXj"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3011,6 +3011,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Qui qu'en grogne (G\u00e9n\u00e9ration quartet)",
+        "url": "https://open.spotify.com/album/2IN0OyikeZIMZun32ZO3pk"
+      },
+      "artists": [
+        {
+          "name": "Yannick Rieu",
+          "url": "https://open.spotify.com/artist/5IOIq5SDF7ti0W7lrGztb4"
+        }
+      ],
+      "duration_ms": 365640,
+      "name": "Time Is, Life Was",
+      "url": "https://open.spotify.com/track/6Uwk4Z13nYVkSaci4Nn9xA"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Gaz bar blues (Bande originale du film)",
         "url": "https://open.spotify.com/album/14LnKoa1vVnUTSZCOSrsJS"
       },
@@ -3027,22 +3043,6 @@
       "duration_ms": 190573,
       "name": "Sad Hours",
       "url": "https://open.spotify.com/track/3fh33AHxRc8XcpSL3Tjea4"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Qui qu'en grogne (G\u00e9n\u00e9ration quartet)",
-        "url": "https://open.spotify.com/album/2IN0OyikeZIMZun32ZO3pk"
-      },
-      "artists": [
-        {
-          "name": "Yannick Rieu",
-          "url": "https://open.spotify.com/artist/5IOIq5SDF7ti0W7lrGztb4"
-        }
-      ],
-      "duration_ms": 365640,
-      "name": "Time Is, Life Was",
-      "url": "https://open.spotify.com/track/6Uwk4Z13nYVkSaci4Nn9xA"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3231,22 +3231,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Lisa Turtle",
-        "url": "https://open.spotify.com/album/700oqbNT6ku1X3lKI3ueTg"
-      },
-      "artists": [
-        {
-          "name": "Tara Kannangara",
-          "url": "https://open.spotify.com/artist/4dQ7vKKgkKUWWXM99gR00A"
-        }
-      ],
-      "duration_ms": 253837,
-      "name": "Lisa Turtle",
-      "url": "https://open.spotify.com/track/48HaDMAff4XySk5PxLSkVp"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Kindred",
         "url": "https://open.spotify.com/album/5iYjnlKbCGefrh8rQbqXTx"
       },
@@ -3259,6 +3243,22 @@
       "duration_ms": 353002,
       "name": "Two's a Crowd",
       "url": "https://open.spotify.com/track/0hCKmGQWdYhGSumibIuusV"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Lisa Turtle",
+        "url": "https://open.spotify.com/album/700oqbNT6ku1X3lKI3ueTg"
+      },
+      "artists": [
+        {
+          "name": "Tara Kannangara",
+          "url": "https://open.spotify.com/artist/4dQ7vKKgkKUWWXM99gR00A"
+        }
+      ],
+      "duration_ms": 253837,
+      "name": "Lisa Turtle",
+      "url": "https://open.spotify.com/track/48HaDMAff4XySk5PxLSkVp"
     },
     {
       "added_at": "2024-06-28 14:45:02",

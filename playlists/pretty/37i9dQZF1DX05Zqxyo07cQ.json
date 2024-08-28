@@ -1,6 +1,6 @@
 {
   "description": "A trilha perfeita pra embalar seu sono / M\u00fasica perfecta para dormir",
-  "num_followers": 790935,
+  "num_followers": 790908,
   "original_name": "Hora de Dormir",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "The Morning Star",
-        "url": "https://open.spotify.com/album/099dNi0f8CBPlICkiw04Cf"
-      },
-      "artists": [
-        {
-          "name": "Author S",
-          "url": "https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm"
-        }
-      ],
-      "duration_ms": 154074,
-      "name": "The Morning Star",
-      "url": "https://open.spotify.com/track/5K004QUVvXMTWD97bS8GuF"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Acknowledge",
         "url": "https://open.spotify.com/album/7qZbzUnRPRPSWGpgOYt2ud"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 179324,
       "name": "Acknowledge",
       "url": "https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "The Morning Star",
+        "url": "https://open.spotify.com/album/099dNi0f8CBPlICkiw04Cf"
+      },
+      "artists": [
+        {
+          "name": "Author S",
+          "url": "https://open.spotify.com/artist/7velK5j4c1vTfJLItteMBm"
+        }
+      ],
+      "duration_ms": 154074,
+      "name": "The Morning Star",
+      "url": "https://open.spotify.com/track/5K004QUVvXMTWD97bS8GuF"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Sensibility",
-        "url": "https://open.spotify.com/album/58EFgaGnzP9Xwxq1VN9jZ9"
-      },
-      "artists": [
-        {
-          "name": "Kaiser Hulenstadt",
-          "url": "https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS"
-        }
-      ],
-      "duration_ms": 156374,
-      "name": "Sensibility",
-      "url": "https://open.spotify.com/track/6i1rajo3ylTTlD3DCITSTo"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Soon",
         "url": "https://open.spotify.com/album/043sNASGtzNFLsGkbzhYQu"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 162866,
       "name": "Soon",
       "url": "https://open.spotify.com/track/59s8YAJpSLUMRGzys8B7K4"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Sensibility",
+        "url": "https://open.spotify.com/album/58EFgaGnzP9Xwxq1VN9jZ9"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Hulenstadt",
+          "url": "https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS"
+        }
+      ],
+      "duration_ms": 156374,
+      "name": "Sensibility",
+      "url": "https://open.spotify.com/track/6i1rajo3ylTTlD3DCITSTo"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Silken Shades",
-        "url": "https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX"
-      },
-      "artists": [
-        {
-          "name": "Spatia Sonica",
-          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Silken Shades",
-      "url": "https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Infinitya",
         "url": "https://open.spotify.com/album/0LiNszwKSivaoA3eTQibKn"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Adagioria",
-        "url": "https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5"
+        "name": "Silken Shades",
+        "url": "https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX"
       },
       "artists": [
         {
-          "name": "Somnum Magnam",
-          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
+          "name": "Spatia Sonica",
+          "url": "https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk"
         }
       ],
-      "duration_ms": 189624,
-      "name": "Adagioria",
-      "url": "https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM"
+      "duration_ms": 180750,
+      "name": "Silken Shades",
+      "url": "https://open.spotify.com/track/3gaKlnfQPnP5vyCmYmmeWv"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -587,6 +571,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Adagioria",
+        "url": "https://open.spotify.com/album/7ACYrenALvAYakJjHWsSL5"
+      },
+      "artists": [
+        {
+          "name": "Somnum Magnam",
+          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
+        }
+      ],
+      "duration_ms": 189624,
+      "name": "Adagioria",
+      "url": "https://open.spotify.com/track/0jZ3SFl1XOHBX7cppGE8YM"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/02JGBZ587xZoEGRkttOfM4"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Resort To Nature",
-        "url": "https://open.spotify.com/album/3cfeMFlrZhj48l1V1kpr3c"
-      },
-      "artists": [
-        {
-          "name": "Relaxatron",
-          "url": "https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d"
-        }
-      ],
-      "duration_ms": 178968,
-      "name": "Resort To Nature",
-      "url": "https://open.spotify.com/track/7x5R8CCs2hpUWdReDxsQYZ"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Balance Of Life",
         "url": "https://open.spotify.com/album/79n1gHtnuCU27pmq5wNHNw"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 182077,
       "name": "Balance Of Life",
       "url": "https://open.spotify.com/track/1Hue36yxMqCh9xX6TQ39pP"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Resort To Nature",
+        "url": "https://open.spotify.com/album/3cfeMFlrZhj48l1V1kpr3c"
+      },
+      "artists": [
+        {
+          "name": "Relaxatron",
+          "url": "https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d"
+        }
+      ],
+      "duration_ms": 178968,
+      "name": "Resort To Nature",
+      "url": "https://open.spotify.com/track/7x5R8CCs2hpUWdReDxsQYZ"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Magical Calmness",
+        "url": "https://open.spotify.com/album/7yMh6pTahqKNiidicZaVwz"
+      },
+      "artists": [
+        {
+          "name": "Bedtime Muse",
+          "url": "https://open.spotify.com/artist/15AGQlNX9Ej332pHcSTUjO"
+        }
+      ],
+      "duration_ms": 157658,
+      "name": "Magical Calmness",
+      "url": "https://open.spotify.com/track/20hO8nLj0SFWfC2b2d0Czs"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Repose",
         "url": "https://open.spotify.com/album/4SoElGs3LwzLZK4s7kuy5A"
       },
@@ -679,6 +695,22 @@
       "duration_ms": 175901,
       "name": "Repose",
       "url": "https://open.spotify.com/track/6s5TgRuS940qXdSCR2Lyos"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "A Special Place",
+        "url": "https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB"
+      },
+      "artists": [
+        {
+          "name": "Celestial Aura",
+          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
+        }
+      ],
+      "duration_ms": 146625,
+      "name": "A Special Place",
+      "url": "https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -699,34 +731,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Magical Calmness",
-        "url": "https://open.spotify.com/album/7yMh6pTahqKNiidicZaVwz"
+        "name": "Along",
+        "url": "https://open.spotify.com/album/0XnvcUfXbUREtjiDc1l0m1"
       },
       "artists": [
         {
-          "name": "Bedtime Muse",
-          "url": "https://open.spotify.com/artist/15AGQlNX9Ej332pHcSTUjO"
+          "name": "Decan\u00f5e",
+          "url": "https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA"
         }
       ],
-      "duration_ms": 157658,
-      "name": "Magical Calmness",
-      "url": "https://open.spotify.com/track/20hO8nLj0SFWfC2b2d0Czs"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "A Special Place",
-        "url": "https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB"
-      },
-      "artists": [
-        {
-          "name": "Celestial Aura",
-          "url": "https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV"
-        }
-      ],
-      "duration_ms": 146625,
-      "name": "A Special Place",
-      "url": "https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9"
+      "duration_ms": 165023,
+      "name": "Along",
+      "url": "https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -763,22 +779,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Along",
-        "url": "https://open.spotify.com/album/0XnvcUfXbUREtjiDc1l0m1"
-      },
-      "artists": [
-        {
-          "name": "Decan\u00f5e",
-          "url": "https://open.spotify.com/artist/2FxaxQDNIRiMuwqqgDZuqA"
-        }
-      ],
-      "duration_ms": 165023,
-      "name": "Along",
-      "url": "https://open.spotify.com/track/6BClTbOxNLsOR3BdQQEahj"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Les dormeurs",
         "url": "https://open.spotify.com/album/5EJzEhMPzGxDBIrpsK9Rwt"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 141581,
       "name": "Les dormeurs",
       "url": "https://open.spotify.com/track/7ygS19lO68LzUmz355qp3S"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Theremant",
+        "url": "https://open.spotify.com/album/1d3rpThvIXaEM6KQIFZKZs"
+      },
+      "artists": [
+        {
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
+        }
+      ],
+      "duration_ms": 170483,
+      "name": "Theremant",
+      "url": "https://open.spotify.com/track/44RKtm5CchIPJKwVikNbVB"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -811,22 +827,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Benevolent",
-        "url": "https://open.spotify.com/album/5iMRxKGIIbRv8OxwEpj8JP"
-      },
-      "artists": [
-        {
-          "name": "Miriam van Steeg",
-          "url": "https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu"
-        }
-      ],
-      "duration_ms": 140750,
-      "name": "Benevolent",
-      "url": "https://open.spotify.com/track/3qv6UdZerLnFiGkWBynjGv"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Verdensrommet",
         "url": "https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0"
       },
@@ -839,6 +839,22 @@
       "duration_ms": 182000,
       "name": "Verdensrommet",
       "url": "https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Benevolent",
+        "url": "https://open.spotify.com/album/5iMRxKGIIbRv8OxwEpj8JP"
+      },
+      "artists": [
+        {
+          "name": "Miriam van Steeg",
+          "url": "https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu"
+        }
+      ],
+      "duration_ms": 140750,
+      "name": "Benevolent",
+      "url": "https://open.spotify.com/track/3qv6UdZerLnFiGkWBynjGv"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -887,22 +903,6 @@
       "duration_ms": 174000,
       "name": "Ideal",
       "url": "https://open.spotify.com/track/4u8gHl3MrLMeQN0JDhDJvr"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Theremant",
-        "url": "https://open.spotify.com/album/1d3rpThvIXaEM6KQIFZKZs"
-      },
-      "artists": [
-        {
-          "name": "Zephyrical",
-          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
-        }
-      ],
-      "duration_ms": 170483,
-      "name": "Theremant",
-      "url": "https://open.spotify.com/track/44RKtm5CchIPJKwVikNbVB"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Lunar Dreamscape",
-        "url": "https://open.spotify.com/album/0osy0lravryxj4wRzC6kFU"
-      },
-      "artists": [
-        {
-          "name": "Terra Armoniosa",
-          "url": "https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT"
-        }
-      ],
-      "duration_ms": 178264,
-      "name": "Lunar Dreamscape",
-      "url": "https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Overcome",
         "url": "https://open.spotify.com/album/1iA61n9CWRIdgDa8ZFx6XZ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 183090,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/754SxJuLBc50w8O5lc1VqQ"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Lunar Dreamscape",
+        "url": "https://open.spotify.com/album/0osy0lravryxj4wRzC6kFU"
+      },
+      "artists": [
+        {
+          "name": "Terra Armoniosa",
+          "url": "https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT"
+        }
+      ],
+      "duration_ms": 178264,
+      "name": "Lunar Dreamscape",
+      "url": "https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Elevation",
-        "url": "https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP"
+        "name": "Come Wander",
+        "url": "https://open.spotify.com/album/25ESaoBZ0Owj3a0wNNrFd6"
       },
       "artists": [
         {
-          "name": "Eldrelder",
-          "url": "https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z"
+          "name": "Wicker Whales",
+          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
         }
       ],
-      "duration_ms": 170176,
-      "name": "Elevation",
-      "url": "https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy"
+      "duration_ms": 150500,
+      "name": "Come Wander",
+      "url": "https://open.spotify.com/track/1d0sc4npZeCAxX4YRuaCNG"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Simulacrum",
-        "url": "https://open.spotify.com/album/6h05jReEpu0Cri0gZkV7N4"
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP"
       },
       "artists": [
         {
-          "name": "Richter Gravitas",
-          "url": "https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG"
+          "name": "Eldrelder",
+          "url": "https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z"
         }
       ],
-      "duration_ms": 185779,
-      "name": "Simulacrum",
-      "url": "https://open.spotify.com/track/4wEbipetGjPZ1YFGT2v34O"
+      "duration_ms": 170176,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Come Wander",
-        "url": "https://open.spotify.com/album/25ESaoBZ0Owj3a0wNNrFd6"
+        "name": "Simulacrum",
+        "url": "https://open.spotify.com/album/6h05jReEpu0Cri0gZkV7N4"
       },
       "artists": [
         {
-          "name": "Wicker Whales",
-          "url": "https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou"
+          "name": "Richter Gravitas",
+          "url": "https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG"
         }
       ],
-      "duration_ms": 150500,
-      "name": "Come Wander",
-      "url": "https://open.spotify.com/track/1d0sc4npZeCAxX4YRuaCNG"
+      "duration_ms": 185779,
+      "name": "Simulacrum",
+      "url": "https://open.spotify.com/track/4wEbipetGjPZ1YFGT2v34O"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1159,6 +1159,22 @@
       "duration_ms": 159600,
       "name": "For a moment",
       "url": "https://open.spotify.com/track/3jpblyEuLgkdrhGm6nKJz5"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Endicino",
+        "url": "https://open.spotify.com/album/0D3FLFw97MUgnSA6VL7slA"
+      },
+      "artists": [
+        {
+          "name": "Amphose",
+          "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
+        }
+      ],
+      "duration_ms": 171637,
+      "name": "Endicino",
+      "url": "https://open.spotify.com/track/6sCBSdY0rB7pwS8kosA2Md"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1195,6 +1211,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Relatively",
+        "url": "https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t"
+      },
+      "artists": [
+        {
+          "name": "Latehours",
+          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
+        }
+      ],
+      "duration_ms": 167187,
+      "name": "Relatively",
+      "url": "https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Love and Light",
         "url": "https://open.spotify.com/album/0BEXzf1T4SsA7dwfY1gLRz"
       },
@@ -1223,38 +1255,6 @@
       "duration_ms": 178181,
       "name": "Vrang\u00f8",
       "url": "https://open.spotify.com/track/1GQZvfanSWqKStXmGVQb18"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Relatively",
-        "url": "https://open.spotify.com/album/4Icb2MhCCuyEQpOeSZKw6t"
-      },
-      "artists": [
-        {
-          "name": "Latehours",
-          "url": "https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM"
-        }
-      ],
-      "duration_ms": 167187,
-      "name": "Relatively",
-      "url": "https://open.spotify.com/track/5Xmp3b4vLeOFSf4DEudOqv"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Endicino",
-        "url": "https://open.spotify.com/album/0D3FLFw97MUgnSA6VL7slA"
-      },
-      "artists": [
-        {
-          "name": "Amphose",
-          "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
-        }
-      ],
-      "duration_ms": 171637,
-      "name": "Endicino",
-      "url": "https://open.spotify.com/track/6sCBSdY0rB7pwS8kosA2Md"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Seeking Solace",
-        "url": "https://open.spotify.com/album/6Y13gSWy6ajX4IZRQleN9E"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Mounfield",
-          "url": "https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Seeking Solace",
-      "url": "https://open.spotify.com/track/4P3rf7bwHPHVl6w35aE7Ej"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Twine",
         "url": "https://open.spotify.com/album/6P86gHi3Y3lmIOCnaN7xMX"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Cassiopeia",
-        "url": "https://open.spotify.com/album/4xKob5ecRK9TpBDvgVFMv6"
+        "name": "Seeking Solace",
+        "url": "https://open.spotify.com/album/6Y13gSWy6ajX4IZRQleN9E"
       },
       "artists": [
         {
-          "name": "Elysian Lotus",
-          "url": "https://open.spotify.com/artist/2z6LTH5p08Td6jE7G9X93w"
+          "name": "Benjamin Mounfield",
+          "url": "https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Cassiopeia",
-      "url": "https://open.spotify.com/track/46KDAvVtuSx7tm7FPIN7Vh"
+      "duration_ms": 132000,
+      "name": "Seeking Solace",
+      "url": "https://open.spotify.com/track/4P3rf7bwHPHVl6w35aE7Ej"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1355,6 +1339,38 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Cassiopeia",
+        "url": "https://open.spotify.com/album/4xKob5ecRK9TpBDvgVFMv6"
+      },
+      "artists": [
+        {
+          "name": "Elysian Lotus",
+          "url": "https://open.spotify.com/artist/2z6LTH5p08Td6jE7G9X93w"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Cassiopeia",
+      "url": "https://open.spotify.com/track/46KDAvVtuSx7tm7FPIN7Vh"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/2k8hJ2BSRrexuCqlDBGIMX"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "duration_ms": 151486,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Something Free",
         "url": "https://open.spotify.com/album/5TEJChNgO0SChgX5qX5O4P"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 209846,
       "name": "Something Free",
       "url": "https://open.spotify.com/track/1uOIozoCIupXmj0dlIOSW5"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Blind Tune",
-        "url": "https://open.spotify.com/album/0uiDhffUcPAkdIczseRhv8"
-      },
-      "artists": [
-        {
-          "name": "Relax Pod",
-          "url": "https://open.spotify.com/artist/6jCMK9NdirCmIkjZRRfsJg"
-        }
-      ],
-      "duration_ms": 201034,
-      "name": "Blind Tune",
-      "url": "https://open.spotify.com/track/5SPTC386a3gUGz333b4S8X"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/2k8hJ2BSRrexuCqlDBGIMX"
+        "name": "Blind Tune",
+        "url": "https://open.spotify.com/album/0uiDhffUcPAkdIczseRhv8"
       },
       "artists": [
         {
-          "name": "Sol Reya",
-          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+          "name": "Relax Pod",
+          "url": "https://open.spotify.com/artist/6jCMK9NdirCmIkjZRRfsJg"
         }
       ],
-      "duration_ms": 151486,
-      "name": "Serendipity",
-      "url": "https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N"
+      "duration_ms": 201034,
+      "name": "Blind Tune",
+      "url": "https://open.spotify.com/track/5SPTC386a3gUGz333b4S8X"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Harvest Moon",
+        "url": "https://open.spotify.com/album/0QU5tC1BhoRXa9vbe88QQd"
+      },
+      "artists": [
+        {
+          "name": "Ursae Minoris",
+          "url": "https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo"
+        }
+      ],
+      "duration_ms": 188710,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/1rJg3BtPS7AuK2oKJKS0Ds"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "In another lifetime",
         "url": "https://open.spotify.com/album/7eEQmpxpPdfiI3AmP9x3Xe"
       },
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Harvest Moon",
-        "url": "https://open.spotify.com/album/0QU5tC1BhoRXa9vbe88QQd"
+        "name": "Signs In The Sky",
+        "url": "https://open.spotify.com/album/2Cq2OiOUqiw9S3epxTKrFf"
       },
       "artists": [
         {
-          "name": "Ursae Minoris",
-          "url": "https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo"
+          "name": "Riseran",
+          "url": "https://open.spotify.com/artist/5Nxj0jnslmO6SYW2ikO1Ho"
         }
       ],
-      "duration_ms": 188710,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/1rJg3BtPS7AuK2oKJKS0Ds"
+      "duration_ms": 159392,
+      "name": "Signs In The Sky",
+      "url": "https://open.spotify.com/track/1ayIzU9MXiMUd1MWAJP2Y7"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1687,6 +1703,22 @@
       "duration_ms": 173966,
       "name": "Qadar",
       "url": "https://open.spotify.com/track/74RJytYYsMkbWTBPjzgZre"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Perfume",
+        "url": "https://open.spotify.com/album/4D8Uhm4HmQXFMZLPh4vQMI"
+      },
+      "artists": [
+        {
+          "name": "Sleepwear",
+          "url": "https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph"
+        }
+      ],
+      "duration_ms": 216107,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/3sunZ2cuWiRtcijRukE8kJ"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1739,22 +1771,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Perfume",
-        "url": "https://open.spotify.com/album/4D8Uhm4HmQXFMZLPh4vQMI"
-      },
-      "artists": [
-        {
-          "name": "Sleepwear",
-          "url": "https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph"
-        }
-      ],
-      "duration_ms": 216107,
-      "name": "Perfume",
-      "url": "https://open.spotify.com/track/3sunZ2cuWiRtcijRukE8kJ"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Star Sapphire",
         "url": "https://open.spotify.com/album/0QfpBOzWW1pSX3rxU35BFy"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 141250,
       "name": "Star Sapphire",
       "url": "https://open.spotify.com/track/4PEaexNSqrYBG2oGVyVhgt"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Signs In The Sky",
-        "url": "https://open.spotify.com/album/2Cq2OiOUqiw9S3epxTKrFf"
-      },
-      "artists": [
-        {
-          "name": "Riseran",
-          "url": "https://open.spotify.com/artist/5Nxj0jnslmO6SYW2ikO1Ho"
-        }
-      ],
-      "duration_ms": 159392,
-      "name": "Signs In The Sky",
-      "url": "https://open.spotify.com/track/1ayIzU9MXiMUd1MWAJP2Y7"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -2027,6 +2027,38 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Capacity",
+        "url": "https://open.spotify.com/album/48ebJa2xs8686uZd5P1J1c"
+      },
+      "artists": [
+        {
+          "name": "Arietis",
+          "url": "https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH"
+        }
+      ],
+      "duration_ms": 180043,
+      "name": "Capacity",
+      "url": "https://open.spotify.com/track/2WSIbAQC6TGAJY9V2hMret"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Bridge",
+        "url": "https://open.spotify.com/album/6rJQvV71A2xTO22BCjnw7h"
+      },
+      "artists": [
+        {
+          "name": "Awake or Asleep",
+          "url": "https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4"
+        }
+      ],
+      "duration_ms": 175860,
+      "name": "Bridge",
+      "url": "https://open.spotify.com/track/766KT37qZwAW4xqybRdZtX"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Aere Perrenius",
         "url": "https://open.spotify.com/album/71N2GiUGrdCg4PfoEO4b6Y"
       },
@@ -2059,22 +2091,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Capacity",
-        "url": "https://open.spotify.com/album/48ebJa2xs8686uZd5P1J1c"
-      },
-      "artists": [
-        {
-          "name": "Arietis",
-          "url": "https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH"
-        }
-      ],
-      "duration_ms": 180043,
-      "name": "Capacity",
-      "url": "https://open.spotify.com/track/2WSIbAQC6TGAJY9V2hMret"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Omegagigia",
         "url": "https://open.spotify.com/album/64vtZ76endgd7UTXcuOmOU"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 179166,
       "name": "Fulfilled",
       "url": "https://open.spotify.com/track/6MyMsRVJSk0lplNc2S1ib1"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Bridge",
-        "url": "https://open.spotify.com/album/6rJQvV71A2xTO22BCjnw7h"
-      },
-      "artists": [
-        {
-          "name": "Awake or Asleep",
-          "url": "https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4"
-        }
-      ],
-      "duration_ms": 175860,
-      "name": "Bridge",
-      "url": "https://open.spotify.com/track/766KT37qZwAW4xqybRdZtX"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Four Leaves",
-        "url": "https://open.spotify.com/album/3MQNzbsWxRYHyhy9NiBKWQ"
-      },
-      "artists": [
-        {
-          "name": "Infinite Field",
-          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Four Leaves",
-      "url": "https://open.spotify.com/track/5Zx7niunyVM8pq7p3SNR5L"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Eclipsar",
         "url": "https://open.spotify.com/album/4LaQ5ISifbwQorG1TL253l"
       },
@@ -2283,18 +2267,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "432 Hz Dulces Sue\u00f1o",
-        "url": "https://open.spotify.com/album/7hjprXef1Dplj8abEmbI0U"
+        "name": "Four Leaves",
+        "url": "https://open.spotify.com/album/3MQNzbsWxRYHyhy9NiBKWQ"
       },
       "artists": [
         {
-          "name": "Ecos del Reposo",
-          "url": "https://open.spotify.com/artist/1JMxQ95ZvQ3wjwN5Rv2QNP"
+          "name": "Infinite Field",
+          "url": "https://open.spotify.com/artist/4k5wUzbeVt1nviNANoqMI2"
         }
       ],
-      "duration_ms": 184800,
-      "name": "432 Hz Dulces Sue\u00f1o",
-      "url": "https://open.spotify.com/track/7zKQgqTg2BbfLhvFmfYMyM"
+      "duration_ms": 174000,
+      "name": "Four Leaves",
+      "url": "https://open.spotify.com/track/5Zx7niunyVM8pq7p3SNR5L"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -2311,6 +2295,22 @@
       "duration_ms": 171543,
       "name": "Gateway",
       "url": "https://open.spotify.com/track/6Js6EnpszmefcsVLQpai8R"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "432 Hz Dulces Sue\u00f1o",
+        "url": "https://open.spotify.com/album/7hjprXef1Dplj8abEmbI0U"
+      },
+      "artists": [
+        {
+          "name": "Ecos del Reposo",
+          "url": "https://open.spotify.com/artist/1JMxQ95ZvQ3wjwN5Rv2QNP"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "432 Hz Dulces Sue\u00f1o",
+      "url": "https://open.spotify.com/track/7zKQgqTg2BbfLhvFmfYMyM"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Nisi",
-        "url": "https://open.spotify.com/album/06BYSQb5Bm40zuA0qJkNkh"
-      },
-      "artists": [
-        {
-          "name": "Systema Solaris",
-          "url": "https://open.spotify.com/artist/2uEkBvMxZC3hHkcF3Azzqz"
-        }
-      ],
-      "duration_ms": 154655,
-      "name": "Nisi",
-      "url": "https://open.spotify.com/track/36ezjwtjovgqyeadOJmhZH"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Sidereal",
         "url": "https://open.spotify.com/album/2Tz4In6IQJxvribOsDEnVN"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 132096,
       "name": "Sidereal",
       "url": "https://open.spotify.com/track/6l2dsZpGNmYsWmr7HxqLiB"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Nisi",
+        "url": "https://open.spotify.com/album/06BYSQb5Bm40zuA0qJkNkh"
+      },
+      "artists": [
+        {
+          "name": "Systema Solaris",
+          "url": "https://open.spotify.com/artist/2uEkBvMxZC3hHkcF3Azzqz"
+        }
+      ],
+      "duration_ms": 154655,
+      "name": "Nisi",
+      "url": "https://open.spotify.com/track/36ezjwtjovgqyeadOJmhZH"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Path",
-        "url": "https://open.spotify.com/album/0Y4JIMczzUrYYa3xIb5F53"
-      },
-      "artists": [
-        {
-          "name": "Zeejo Report",
-          "url": "https://open.spotify.com/artist/5bv9vgOeu93qvIFWgDBf9h"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Path",
-      "url": "https://open.spotify.com/track/59L4ILD0qkCBq7m3s6t5AY"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Star Nebula",
         "url": "https://open.spotify.com/album/1sovGNMgI8ii8qiNxGthjp"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 186000,
       "name": "Star Nebula",
       "url": "https://open.spotify.com/track/2Xf3Bgs0YghPmBITagkKyz"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Path",
+        "url": "https://open.spotify.com/album/0Y4JIMczzUrYYa3xIb5F53"
+      },
+      "artists": [
+        {
+          "name": "Zeejo Report",
+          "url": "https://open.spotify.com/artist/5bv9vgOeu93qvIFWgDBf9h"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Path",
+      "url": "https://open.spotify.com/track/59L4ILD0qkCBq7m3s6t5AY"
     }
   ],
   "unique_name": "Hora de Dormir",

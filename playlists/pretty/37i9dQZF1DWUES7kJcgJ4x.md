@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 
 > Modernas, rebeldes y divertidas, ¡Así son ellas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,887 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,892 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,16 +45,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUES7kJcgJ4x.md) - [plain]
 | 35 | [Datemi Un Martello](https://open.spotify.com/track/7c8pZpotK38DHT5M7zu2xR) | [Rita Pavone](https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7) | [Rita Pavone](https://open.spotify.com/album/5WTAc7on7wkTCB9RAUJLcC) | 2:49 |
 | 36 | [These Boots Are Made For Walkin'](https://open.spotify.com/track/2nwCO1PqpvyoFIvq3Vrj8N) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2) | [Boots](https://open.spotify.com/album/62FTy4WqUxi3paBlxOhh4M) | 2:46 |
 | 37 | [Pata Pata \- Stereo Version](https://open.spotify.com/track/7d3cKDG22Ig9kZOS1qsq3S) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Pata Pata](https://open.spotify.com/album/1y0oTN8oxJPyY06ypQBDFv) | 3:00 |
-| 38 | [To Sir With Love](https://open.spotify.com/track/5ox7YOS0Tovw2OIp1T4Ste) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Greatest Hits](https://open.spotify.com/album/7aFxNDhGJl5Jy0wUyydqSI) | 2:43 |
-| 39 | [Downtown](https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 3:05 |
+| 38 | [Downtown](https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 3:05 |
+| 39 | [To Sir With Love](https://open.spotify.com/track/5ox7YOS0Tovw2OIp1T4Ste) | [Lulu](https://open.spotify.com/artist/0jYKX08u1XxmHrl5TdM2QZ) | [Greatest Hits](https://open.spotify.com/album/7aFxNDhGJl5Jy0wUyydqSI) | 2:43 |
 | 40 | [Comme un garçon](https://open.spotify.com/track/7lhFTUreHC51OsFHTGdy6c) | [Sylvie Vartan](https://open.spotify.com/artist/3Zi9cVUyWeAFjxEHn3bCqZ) | [Comme un garçon](https://open.spotify.com/album/65XVPzsge42MC6cOVXqo1q) | 3:16 |
 | 41 | [Ne Me Laisse Pas L'Aimer](https://open.spotify.com/track/4D2nYW0lvUSkkaQsD9B21F) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Bubble Gum \(Vol\. 2\)](https://open.spotify.com/album/2OMk77L7S7Fprc3LFmx3l0) | 1:57 |
 | 42 | [Let's Spend The Night Together](https://open.spotify.com/track/46KY6zEdoMnjSh2DJqs20K) | [Claudine Longet](https://open.spotify.com/artist/7kQFwkR1mTWfGdtZfcvrZP) | [Let's Spend The Night Together](https://open.spotify.com/album/6soxHHJE1GM0BjqOv1N8lV) | 3:52 |
-| 43 | [Boogaloo Smith](https://open.spotify.com/track/1CYfqpy4TmfTBSZSll6Vhq) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Blow Up presents Exclusive Blend Volume 1](https://open.spotify.com/album/4cZe6XeALxQjhc2Mh778Sg) | 1:36 |
-| 44 | [Ponte Bajo el Sol](https://open.spotify.com/track/5wXoMLwfBQiUrz5lRLFv6X) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [Elia y Elizabeth](https://open.spotify.com/album/2KhUgSOmxMXBwzh0qBEEBq) | 2:05 |
-| 45 | [The Cat](https://open.spotify.com/track/3accySZJEWnG4okxKazrFe) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Walk On The Wild Side: Best Of The Verve Years](https://open.spotify.com/album/3oRxz25doj2HKXUjoNO2ti) | 3:26 |
-| 46 | [Superpitagorico](https://open.spotify.com/track/0XQPlcLH3L2KqY1mSSLDND) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Abrazame Fuerte](https://open.spotify.com/album/1K734Om38JYLMwRSycrMkp) | 1:36 |
-| 47 | [Ya Ya Twist \- Ya Ya](https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 2:12 |
+| 43 | [Ya Ya Twist \- Ya Ya](https://open.spotify.com/track/6CBPkkXeYqTyngmRfdQR4C) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 2:12 |
+| 44 | [Boogaloo Smith](https://open.spotify.com/track/1CYfqpy4TmfTBSZSll6Vhq) | [James Clarke](https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG) | [Blow Up presents Exclusive Blend Volume 1](https://open.spotify.com/album/4cZe6XeALxQjhc2Mh778Sg) | 1:36 |
+| 45 | [Ponte Bajo el Sol](https://open.spotify.com/track/5wXoMLwfBQiUrz5lRLFv6X) | [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf) | [Elia y Elizabeth](https://open.spotify.com/album/2KhUgSOmxMXBwzh0qBEEBq) | 2:05 |
+| 46 | [The Cat](https://open.spotify.com/track/3accySZJEWnG4okxKazrFe) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Lalo Schifrin](https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1) | [Walk On The Wild Side: Best Of The Verve Years](https://open.spotify.com/album/3oRxz25doj2HKXUjoNO2ti) | 3:26 |
+| 47 | [Superpitagorico](https://open.spotify.com/track/0XQPlcLH3L2KqY1mSSLDND) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Abrazame Fuerte](https://open.spotify.com/album/1K734Om38JYLMwRSycrMkp) | 1:36 |
 | 48 | [Nous tous](https://open.spotify.com/track/6lTNBo7bOR5gH2JPH1TnWZ) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Françoise hardy](https://open.spotify.com/album/40uyk9JHoTD2P5IpPBomsI) | 1:42 |
 | 49 | [Fallin'](https://open.spotify.com/track/3ZDcQjE8kM4Sj4a2Svgktp) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/55tp3YLqWTfSbXe4CPgJQR) | 2:13 |
 | 50 | [Je Me Sens Bien Auprès De Toi](https://open.spotify.com/track/5vzRM8egqzJlRNe5U1cS09) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [C'est Ma Chanson](https://open.spotify.com/album/2IaUpJITUIyHRebMM2ANy1) | 2:24 |

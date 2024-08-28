@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,123 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,163 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 23 | [Corra e Olhe o Céu](https://open.spotify.com/track/41xNiLF0fk3EZuhfkK99F4) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE) | [Canta Cartola](https://open.spotify.com/album/3JetnGaI0LSpY0HtoM2Ci5) | 2:26 |
 | 24 | [Cara valente](https://open.spotify.com/track/0JmNkza8Oax92TF7lJV8GZ) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita \- Portugal](https://open.spotify.com/album/3uditAAn9mrSsl7ZW7a9ks) | 4:42 |
 | 25 | [Samba](https://open.spotify.com/track/3j1OvxNI3bH9tV1e49K17R) | [Lucas Mamede](https://open.spotify.com/artist/6pbg3DywWNPejXsXkx3iKD) | [Já ouviu falar de amor?](https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov) | 3:04 |
-| 26 | [Lua de São Jorge](https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Xande Canta Caetano](https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV) | 3:01 |
-| 27 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 |
+| 26 | [Alvorada](https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:38 |
+| 27 | [Lua de São Jorge](https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA) | [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Xande Canta Caetano](https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV) | 3:01 |
 | 28 | [Desde Que O Samba É Samba](https://open.spotify.com/track/628hP5ZZjXTz4AnIyDfDZ0) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Bossa De Caetano](https://open.spotify.com/album/2YE1G8rqX7FPwixLn3N5sv) | 5:08 |
 | 29 | [Pago Pra Ver](https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Pago Pra Ver](https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD) | 4:32 |
 | 30 | [Zé Do Caroço](https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Kavita 1](https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO) | 6:32 |

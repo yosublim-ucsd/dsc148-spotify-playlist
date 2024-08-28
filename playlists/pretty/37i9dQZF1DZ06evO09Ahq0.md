@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 
 > This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,233 likes - 48 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 481,322 likes - 48 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 47 | [Set Me Free](https://open.spotify.com/track/2IrdmiRatVE5s3l2YRcIXH) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Set Me Free](https://open.spotify.com/album/0QKfHcNAjUqQo6PyQrGPk9) | 6:21 |
 | 48 | [Crossroads](https://open.spotify.com/track/4Oq241mV2LEcQsfXQPOfZe) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:30 |
 
-Snapshot ID: `Zsp0AAAAAAA0YyYC8EV9k5+CPAZD6z6z`
+Snapshot ID: `ZsvFgAAAAAAlrCDbEOPjNmGvJurQywCt`

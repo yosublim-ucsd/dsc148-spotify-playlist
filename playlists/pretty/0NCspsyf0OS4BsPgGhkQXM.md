@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 
 > The Official Trap Nation Playlist
 
-[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,031,013 likes - 143 songs - 7 hr 19 min
+[Trap Nation](https://open.spotify.com/user/alltrapnation) - 2,031,239 likes - 144 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,5 +151,6 @@ pretty - [cumulative](/playlists/cumulative/0NCspsyf0OS4BsPgGhkQXM.md) - [plain]
 | 141 | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF) | [Limelight \(NGHTMRE Remix\)](https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y) | 4:14 |
 | 142 | [SAXO FUNK](https://open.spotify.com/track/3mX7vRytOrduB8IysTVvhO) | [808iuli](https://open.spotify.com/artist/4jM6R2LK78dVTqHVUoA4li), [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [SAXO FUNK](https://open.spotify.com/album/0ROadDFBk9rZyvNRMcLNuP) | 1:45 |
 | 143 | [Embers](https://open.spotify.com/track/67lyxsvzzzHKSKfh0rSSMo) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Spiritual Milk](https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW) | 3:33 |
+| 144 | [Holding On](https://open.spotify.com/track/6BGZU873n3qSXXTKXBtlNR) | [Alexis B](https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec) | [Holding On](https://open.spotify.com/album/6Zk1V7559eJbW2GfJE2Y8p) | 2:58 |
 
-Snapshot ID: `AAA5nwJab3sbtBD28Bm8QApqKn77nEZ1`
+Snapshot ID: `AAA5oGrnvIOiyBs9xpNcP79KlEc/aesh`

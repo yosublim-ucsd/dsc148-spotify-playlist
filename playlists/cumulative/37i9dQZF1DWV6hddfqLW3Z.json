@@ -49,6 +49,40 @@
     },
     {
       "album": {
+        "name": "Mundo Paralelo",
+        "url": "https://open.spotify.com/album/649WobbVrvIqogFIUmV3Hw"
+      },
+      "artists": [
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Zeca Veloso",
+          "url": "https://open.spotify.com/artist/6gSq4WUwOwojid2PSdq46Z"
+        },
+        {
+          "name": "Tom Veloso",
+          "url": "https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191166,
+      "name": "A Donzela Se Casou",
+      "url": "https://open.spotify.com/track/0Br1JyBTmuO49RlNuwujjG"
+    },
+    {
+      "album": {
         "name": "Mais Uma Hist\u00f3ria de Amor",
         "url": "https://open.spotify.com/album/4XXu5ordSf46OyKWo9hCqi"
       },
@@ -510,7 +544,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 205640,
       "name": "BOSSA (feat. P\u00e9ricles)",
       "url": "https://open.spotify.com/track/1ueVf1rPWSALnfLdenJZUq"

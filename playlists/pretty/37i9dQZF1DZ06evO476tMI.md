@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 
 ### [This Is Whitney Houston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO476tMI)
 
-> This is Whitney Houston\. Todos os maiores hits em uma só playlist.
+> This is Whitney Houston\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,644 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,709 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 30 | [Miracle](https://open.spotify.com/track/6LuRPg5tHDwcyXvEvrtVxP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 5:42 |
 | 31 | [Queen of the Night \- Radio Edit](https://open.spotify.com/track/7lARcL3Gu0wKcPcQ3t9xiF) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 3:08 |
 | 32 | [I Didn't Know My Own Strength](https://open.spotify.com/track/2d8012yMxNQF0jS3zxo4nU) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Look To You](https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A) | 3:39 |
-| 33 | [I Believe In You And Me \- Film Version](https://open.spotify.com/track/1kwNHkKXJ4c4MchgATAOBJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:01 |
-| 34 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 |
+| 33 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 |
+| 34 | [I Believe In You And Me \- Film Version](https://open.spotify.com/track/1kwNHkKXJ4c4MchgATAOBJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Preacher's Wife](https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK) | 4:01 |
 | 35 | [For the Love of You](https://open.spotify.com/track/2MJQbnpAPKR83FFk19Bq3p) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 5:31 |
 | 36 | [I Learned from the Best](https://open.spotify.com/track/3wACjmQo7ZkRNMLfZXndFB) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:19 |
 | 37 | [If I Told You That \(feat\. George Michael\) \- Radio Edit](https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Ultimate Collection](https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO476tMI.md) - [plain]
 | 49 | [The Prince Of Egypt \(When You Believe\)](https://open.spotify.com/track/2eGxZNPQVTWjXSKazFQOMg) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 5:01 |
 | 50 | [Why Does It Hurt So Bad \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/5DgNGI95SbwM64C4apE6Or) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney The Greatest Hits](https://open.spotify.com/album/3HIvslQ2pY9AgR3jDmmJkg) | 4:41 |
 
-Snapshot ID: `Zsp0AAAAAAAWu2780vRsaTs1t6Bpak/p`
+Snapshot ID: `ZsvFgAAAAADIzGPmisFJNVbkoQO9bKYR`

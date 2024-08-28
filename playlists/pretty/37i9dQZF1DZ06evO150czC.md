@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,097 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,106 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 38 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 |
 | 39 | [Lugar Seguro \(Ao Vivo\)](https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 4:34 |
 | 40 | [500 Graus \- Drive In](https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [500 Graus \- Drive In](https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t) | 7:09 |
-| 41 | [Entre Para o Templo](https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Entre Para o Templo](https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u) | 4:22 |
-| 42 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 |
+| 41 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 |
+| 42 | [Entre Para o Templo](https://open.spotify.com/track/4YnvssiwhpmJBrNtEAcAvM) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Entre Para o Templo](https://open.spotify.com/album/5tuFsjabCiRNOawhwZSG4u) | 4:22 |
 | 43 | [Mais Um Dia](https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Mais Um Dia](https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil) | 5:17 |
 | 44 | [Sinto o Teu Poder \(Ao Vivo\)](https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sinto o Teu Poder \(Ao Vivo\)](https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y) | 4:31 |
 | 45 | [Tá Chorando Por Quê? \(Ao Vivo\)](https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Rayssa Barros](https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 49 | [Você Não Imagina \(Ao Vivo\)](https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:14 |
 | 50 | [Desperta](https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Desperta](https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1) | 3:48 |
 
-Snapshot ID: `Zsp0AAAAAAAiSU/h774f3ongP5VseqlT`
+Snapshot ID: `ZsvFgAAAAAAeoE9cLD/lltdw6f2KW8lz`

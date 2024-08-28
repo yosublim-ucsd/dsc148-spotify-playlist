@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 
 > Las canciones esenciales de la escena alternativa en español\. Con Diamante Eléctrico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,619 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,618 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 36 | [Loco en el Desierto](https://open.spotify.com/track/392fECmnYZTQjL97hqEElg) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Conociendo Rusia](https://open.spotify.com/album/1xP7EDeNa518tfq8vxT4cT) | 4:17 |
 | 37 | [La Noche Eterna](https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 5:27 |
 | 38 | [Fuego](https://open.spotify.com/track/4MvZ76WfNDmkVeQKmqzkah) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Estalla](https://open.spotify.com/album/7ffQTpHNmVmjwnU6c6Dpga) | 4:36 |
-| 39 | [Inteligencia Dormida](https://open.spotify.com/track/1mMIvrn5k8K6hsjbFgH6fM) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Pedropiedra \(Reedición\)](https://open.spotify.com/album/40Bnb22mry8e8MklWefAFN) | 3:51 |
-| 40 | [Allí donde solíamos gritar](https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [1999 \(o como generar incendios de nieve con una lupa enfocando la luna\)](https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF) | 5:37 |
+| 39 | [Allí donde solíamos gritar](https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF) | [1999 \(o como generar incendios de nieve con una lupa enfocando la luna\)](https://open.spotify.com/album/1vvfLVVcU1o8sPMq25CxpF) | 5:37 |
+| 40 | [Inteligencia Dormida](https://open.spotify.com/track/1mMIvrn5k8K6hsjbFgH6fM) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Pedropiedra \(Reedición\)](https://open.spotify.com/album/40Bnb22mry8e8MklWefAFN) | 3:51 |
 | 41 | [A la Vez](https://open.spotify.com/track/5C9IeDOtfwkDUGd9aF2ELI) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [A la Vez](https://open.spotify.com/album/7MUsxK6X6NkL21K3yrjuQs) | 3:02 |
 | 42 | [Sincericidio](https://open.spotify.com/track/3Q8avvsQE7mtTXT2TrDx3I) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Monstruos](https://open.spotify.com/album/4urAt6KrPJuOUjVmdrPC2B) | 4:11 |
 | 43 | [Las Flores](https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 2:38 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 64 | [De las Dudas Infinitas](https://open.spotify.com/track/2lfwPw1lQ2ITeneLe7xm22) | [Supersubmarina](https://open.spotify.com/artist/61C3cEhdoJ9YiQSQSwYB4K) | [Santacruz](https://open.spotify.com/album/6F0M6o2oFl8pf52SbckNWf) | 4:46 |
 | 65 | [Amiga \- Bonus Track](https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Tiempos Mejores](https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9) | 3:23 |
 | 66 | [Si Quieres](https://open.spotify.com/track/4eus2M68qtL8u8MWHHaxGG) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Si Quieres](https://open.spotify.com/album/4elppYh2Ev29JTfiTa4NEl) | 2:47 |
-| 67 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
-| 68 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
+| 67 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
+| 68 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
 | 69 | [ADIÓS](https://open.spotify.com/track/1r4MzQIQ30YGlNaqUbZuvX) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [TE QUIERO](https://open.spotify.com/album/0wEYSJWNHI1blWJmwCRRfo) | 3:57 |
 | 70 | [La Típica Canción](https://open.spotify.com/track/6yGP9c0OkKZgdqBjec9HMu) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [La Típica Canción](https://open.spotify.com/album/0ryHHMD4YYIG14d9qeyKGo) | 2:57 |
 | 71 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ICTqceOnSJ.md) - [plain]
 | 94 | [Amor Sin Fin](https://open.spotify.com/track/5wPsMPU6dTGckf8VLW2fsg) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Amador](https://open.spotify.com/album/2IsJL5SdD7FnplHSrlS6A0) | 3:13 |
 | 95 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 |
 | 96 | [Cuestión De Suerte](https://open.spotify.com/track/6TRRirUyyil4IbMcZLFQff) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Cuestión De Suerte](https://open.spotify.com/album/7J8jJvOHBMGDHeOT7Lc15t) | 3:13 |
-| 97 | [Los Chicos Hoy Saltarán A La Pista](https://open.spotify.com/track/04wL0E4tBCOYDTj09wPCzS) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [La Polinesia Meridional](https://open.spotify.com/album/232LpqTsWlBTyslwqu1CCG) | 3:22 |
+| 97 | [México](https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Político](https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt) | 3:46 |
 | 98 | [Adelante](https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 4:28 |
 | 99 | [Yo No Te Pido la Luna](https://open.spotify.com/track/4SFnGr7vly55T2PBLYtZ6c) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Esquemas Juveniles](https://open.spotify.com/album/0lrzI1FqUbC9BQH5MgKDNF) | 3:43 |
-| 100 | [México](https://open.spotify.com/track/7p4VHeroqCBJJL0RbCf8yx) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Político](https://open.spotify.com/album/7vkBraQBpz7zEjbtjUR9Zt) | 3:46 |
+| 100 | [Los Chicos Hoy Saltarán A La Pista](https://open.spotify.com/track/04wL0E4tBCOYDTj09wPCzS) | [La Casa Azul](https://open.spotify.com/artist/2Ynst7DZrEJnlaMM41ZCxd) | [La Polinesia Meridional](https://open.spotify.com/album/232LpqTsWlBTyslwqu1CCG) | 3:22 |
 
 Snapshot ID: `Zn3yOwAAAADKJ6uSeJoRSPJ2k2jvyKZz`

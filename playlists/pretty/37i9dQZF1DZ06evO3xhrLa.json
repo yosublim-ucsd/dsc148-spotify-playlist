@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 233034,
+  "num_followers": 233100,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAByzfhcf7qEgFnN26lhvSTl",
+  "snapshot_id": "ZsvFgAAAAADZeweVD1BcR3AdsFGlQfls",
   "tracks": [
     {
       "added_at": null,
@@ -455,34 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Girls Like Trap Music",
-        "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        },
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "It's A Vibe",
-      "url": "https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Souled Out - Deluxe",
         "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
       },
@@ -519,6 +491,34 @@
       "duration_ms": 297493,
       "name": "Promises",
       "url": "https://open.spotify.com/track/4ThyHM57HG7pnLudis9b0M"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pretty Girls Like Trap Music",
+        "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "It's A Vibe",
+      "url": "https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6"
     },
     {
       "added_at": null,

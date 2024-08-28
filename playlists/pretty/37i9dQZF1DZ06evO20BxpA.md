@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,294 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,295 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO20BxpA.md) - [plain]
 | 43 | [A Sparrowhawk's Tale](https://open.spotify.com/track/3c8wPL11gonPOt2Ht4dY5W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:56 |
 | 44 | [Katrina](https://open.spotify.com/track/7JX0mO2TxdRphLAS6cRBud) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [American Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/71nx6a8VGUK8DYjnnXLc5d) | 4:33 |
 | 45 | [Who Are You Greeting My Love?](https://open.spotify.com/track/0lriDhntmhaNxJyHC8ji4Q) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:42 |
-| 46 | [Nothing To Stop Us](https://open.spotify.com/track/6OBrG19AuVOmrFonog79re) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:12 |
+| 46 | [A Rich Community Of Life](https://open.spotify.com/track/5Ph3XsyuZi2UEl39r17pAq) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coastal Seas \(Episode 4 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h) | 1:06 |
 | 47 | [All at Sea](https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:49 |
-| 48 | [A Rich Community Of Life](https://open.spotify.com/track/5Ph3XsyuZi2UEl39r17pAq) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Coastal Seas \(Episode 4 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4pYjqXbSvwfKQ8l04afE5h) | 1:06 |
+| 48 | [Nothing To Stop Us](https://open.spotify.com/track/6OBrG19AuVOmrFonog79re) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:12 |
 | 49 | [You're My World \- Soho Version](https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW) | [Anya Taylor\-Joy](https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Last Night In Soho \(Original Motion Picture Score\)](https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL) | 2:18 |
-| 50 | [To Have Adventures](https://open.spotify.com/track/0r4qZ9FMUuzn7D2fv9IPDp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:22 |
+| 50 | [Redwoods](https://open.spotify.com/track/5K9oe9w0aNLoQebWVBR8vt) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Forests \(Episode 8 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/4tR3mJ1sBhvn2SvSOuQ3fW) | 1:22 |
 
-Snapshot ID: `Zsp0AAAAAACYtKZnSyZnuh2Jt9fTICoX`
+Snapshot ID: `ZsvFgAAAAABWg6NUi0N6LO9rr1/6peuV`

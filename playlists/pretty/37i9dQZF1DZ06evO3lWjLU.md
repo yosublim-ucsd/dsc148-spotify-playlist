@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 
 > This Is Danny Ocean\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,804 likes - 48 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,897 likes - 48 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 10 | [Swing](https://open.spotify.com/track/4DbhxwlkhTbCTqlZptxmI6) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 2:35 |
 | 11 | [AMOR](https://open.spotify.com/track/58UCQZoSDprVXVLgcCVBHt) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 3:00 |
 | 12 | [escala en Panamá](https://open.spotify.com/track/7KhdmSkSsouQhiSCFad0Ou) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 2:12 |
-| 13 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 |
+| 13 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 |
 | 14 | [Vuelve](https://open.spotify.com/track/30zRVzH3FUvbtqYwLvd5fc) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:14 |
-| 15 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 |
+| 15 | [CARACAS EN EL 2000](https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [CARACAS EN EL 2000](https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV) | 3:47 |
 | 16 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 | 17 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 |
 | 18 | [Cuando Me Acerco A Ti](https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 3:13 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lWjLU.md) - [plain]
 | 47 | [báilame en los besos \(with Danny Ocean & Daramola\)](https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [báilame en los besos \(with Danny Ocean & Daramola\)](https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX) | 3:27 |
 | 48 | [No Me Controles](https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [No Me Controles](https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC) | 2:42 |
 
-Snapshot ID: `Zsp0AAAAAACUzx4Ookv1HYK48CyaU1D2`
+Snapshot ID: `ZsvFgAAAAACBq49QE/6+bcjiewKYizwC`

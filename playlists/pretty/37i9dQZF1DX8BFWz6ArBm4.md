@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Andreas Habibi, Panos Kiamos
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,228 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,238 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 19 | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/track/4SQtq5RdjIvlyixVTthKqf) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0) | [S' Agapao Kai Den Pao Kala](https://open.spotify.com/album/66w9kLqtU9vOLEGllkaROT) | 3:10 |
 | 20 | [Lekes](https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Lekes](https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF) | 4:15 |
 | 21 | [Efyge?](https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Efyge?](https://open.spotify.com/album/0AlIY3vTLJTYRGNTFevp94) | 3:21 |
-| 22 | [Tetoia Ora Tetoia Logia](https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Tetoia Ora Tetoia Logia](https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS) | 3:12 |
+| 22 | [Siko Kardia Mou](https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Siko Kardia Mou](https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY) | 2:57 |
 | 23 | [An Ikseres](https://open.spotify.com/track/5gzfPm5fNesR6080H18zBW) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [An Ikseres](https://open.spotify.com/album/2ekZxLSD9qz2AjEAMirKBc) | 3:09 |
 | 24 | [Floga](https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Efhi](https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB) | 3:00 |
 | 25 | [Na Pernas](https://open.spotify.com/track/26NCpU53AnjX6J148Xdsis) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Na Pernas](https://open.spotify.com/album/3HRF6TnVay0JANK4sWGABI) | 4:21 |
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 29 | [Omorfi](https://open.spotify.com/track/6Tg7PeHmUQZTZB4G3sb7zR) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [O,ti M' Aresei](https://open.spotify.com/album/2cK9ucMA41Z5BhhDiNkPqp) | 2:25 |
 | 30 | [24 Ores](https://open.spotify.com/track/0RBmHE4f7BaUuYEFDSWgHX) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [24 Ores](https://open.spotify.com/album/1s2vwzk7gVBssZNHJR8844) | 3:17 |
 | 31 | [Eimai Gunaika](https://open.spotify.com/track/0UUvTGK23QN4qBvypAziwQ) | [Despina Vandi](https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [Eimai Gunaika](https://open.spotify.com/album/6GrpUFuJGnoA2T9SQhENUu) | 2:42 |
-| 32 | [Siko Kardia Mou](https://open.spotify.com/track/1p7kfXL2ny9cQrRiAXeIAC) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Siko Kardia Mou](https://open.spotify.com/album/5ajdrgdF5xCgO2GMLo5ecY) | 2:57 |
+| 32 | [Tetoia Ora Tetoia Logia](https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Tetoia Ora Tetoia Logia](https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS) | 3:12 |
 | 33 | [Xilia Spirta](https://open.spotify.com/track/2oROjBec2WOa4vMIUfFgj6) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Xilia Spirta](https://open.spotify.com/album/6TdaBD325HwRRt5ULUJ4uC) | 3:42 |
 | 34 | [Pes Mou Kati](https://open.spotify.com/track/6LDc0SG4DGhowqwjBvaMnG) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Pes Mou Kati](https://open.spotify.com/album/3R0Wv0GGXq3XEHrO1T33sN) | 4:00 |
 | 35 | [maZW Akoma \(Ola Mou Ta Thelo\)](https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [maZW Akoma \(Ola Mou Ta Thelo\)](https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS) | 3:28 |

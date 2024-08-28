@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 
 ### [This Is Kirk Franklin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qXTri)
 
-> This is Kirk Franklin\. The essential tracks, all in one playlist.
+> This is Kirk Franklin\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,042 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,058 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 30 | [OK](https://open.spotify.com/track/5KC5XsV0BwYyHJkNqx2C7n) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 3:56 |
 | 31 | [My World Needs You \(feat\. Sarah Reeves, Tasha Cobbs & Tamela Mann\)](https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Losing My Religion](https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM) | 7:03 |
 | 32 | [Show Me the Way \(feat\. Kirk Franklin\)](https://open.spotify.com/track/7n92HF4Kw6Bs0Hmm3FM7xC) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 1:43 |
-| 33 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
+| 33 | [Try Love](https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 4:32 |
 | 34 | [Just for Me](https://open.spotify.com/track/37llIA4HTMvM3IvZUVbbC0) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:35 |
 | 35 | [123 Victory](https://open.spotify.com/track/0hDTfFE4QECNZAuVTkcGLH) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Losing My Religion](https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA) | 3:57 |
-| 36 | [Try Love](https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 4:32 |
+| 36 | [Mercy](https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 4:36 |
 | 37 | [The Storm Is Over Now](https://open.spotify.com/track/6blSODzePwJZwG8VS3i5nt) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [God's Property from Kirk Franklin's Nu Nation](https://open.spotify.com/album/2MCmQvsAE0S5UYI413OC1E) | 5:46 |
 | 38 | [Silver and Gold \- Live](https://open.spotify.com/track/49BWLtQKtyz1kYhe148mWj) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kirk Franklin and the Family](https://open.spotify.com/album/4b1c7FWhyhIZ6OYINCx107) | 4:52 |
 | 39 | [Melodies From Heaven \(feat\. Maryanne J\. George\)](https://open.spotify.com/track/1KSglHwhyo430sz8eJy7yh) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 3:22 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qXTri.md) - [plain]
 | 47 | [Something About The Name Jesus Pt\. 2 \(feat\. Rance Allen, Marvin Winans, John P\. Kee & Isaac Carree\)](https://open.spotify.com/track/3JELE0SCT2f9Wfg31OkhOG) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Rance Allen](https://open.spotify.com/artist/6kSjbNXcS3bNyP3WSli67X), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH) | [Hello Fear](https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N) | 5:36 |
 | 48 | [Why We Sing \(feat\. Brandon Lake\)](https://open.spotify.com/track/1gB4zVWkHjoimGdyNhOmXv) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 3:45 |
 | 49 | [You Still Love Us](https://open.spotify.com/track/3dlU9kLdhOL2dwEFQYJuHI) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 3:24 |
-| 50 | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Hold on Me \(feat\. Kirk Franklin & John P\. Kee\)](https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg) | 3:30 |
+| 50 | [Revolution](https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Boycott](https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf) | 5:39 |
 
-Snapshot ID: `Zsp0AAAAAABGN4uOw6K01UxLqva+OQnX`
+Snapshot ID: `ZsvFgAAAAADxlip0zvv1HVx5U4mzFyc5`

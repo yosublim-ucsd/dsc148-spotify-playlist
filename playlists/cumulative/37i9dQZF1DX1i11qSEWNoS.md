@@ -4,7 +4,7 @@
 
 > und macht laune
 
-218 songs - 10 hr 22 min
+219 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-07-21 |  |
 | [Cooler Than Me](https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR) | [Cooler Than Me](https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP) | 2:59 | 2023-07-21 |  |
 | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/track/4I1cbxHQdui27mPGHPXXMO) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz) | [Couldn't Care Less \(feat\. Gia Koka\)](https://open.spotify.com/album/5uALiucSFQTU1ZG1Z8pRwQ) | 2:25 | 2024-06-17 |  |
-| [Crying at the Discoteque \- Radio Edit](https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Casino](https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5) | 3:51 | 2023-12-28 |  |
+| [Crying at the Discoteque \- Radio Edit](https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Casino](https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5) | 3:51 | 2023-12-28 | 2024-08-28 |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/7F7N0yugLFgKXoEACgtzD8) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K) | 2:27 | 2023-10-28 | 2024-04-19 |
 | [Dein ist mein ganzes Herz](https://open.spotify.com/track/0xcjCd9FoMNaYjPK7R8I1L) | [BIG TIM](https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF), [Heinz Rudolf Kunze](https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ) | [Dein ist mein ganzes Herz](https://open.spotify.com/album/3m3gNWXJYp8KeoYuZVpN97) | 2:09 | 2024-03-28 | 2024-08-23 |
 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 | 2024-02-01 |  |
@@ -80,6 +80,7 @@
 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 | 2023-12-28 | 2024-02-10 |
 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2023-07-21 |  |
 | [Friesenjung](https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [Friesenjung](https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn) | 2:26 | 2023-07-21 |  |
+| [GESPENSTER](https://open.spotify.com/track/0IFHokanzfRH4Jlxq127fO) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [GESPENSTER](https://open.spotify.com/album/3DHMTc37qNDdA1KEtP5YWM) | 2:48 | 2024-08-26 |  |
 | [Get Shaky](https://open.spotify.com/track/267DliVFe67u89luc9v6UD) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/11Xrum0ysuitc8vtBrlmQM) | 3:57 | 2023-09-08 | 2024-04-19 |
 | [Get Shaky](https://open.spotify.com/track/5ZNa6S7agmCmaEnxIHE73m) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/2cBSMHLqs6Zaj3IIUrGTnD) | 3:57 | 2023-07-21 | 2023-08-23 |
 | [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 | 2023-07-21 | 2024-05-10 |

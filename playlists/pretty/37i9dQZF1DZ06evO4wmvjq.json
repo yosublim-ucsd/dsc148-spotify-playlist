@@ -1,12 +1,12 @@
 {
   "description": "This is Terry Riley. The essential tracks, all in one playlist.",
-  "num_followers": 2132,
+  "num_followers": 2133,
   "original_name": "This Is Terry Riley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABXidDe8AItp+VBKXwHNC25",
+  "snapshot_id": "ZsvFgAAAAABYqMEfFMPNNitEl1ZLClnh",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 196066,
-      "name": "Slow Melody In Bhairavi",
-      "url": "https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp"
+      "duration_ms": 187120,
+      "name": "G Song",
+      "url": "https://open.spotify.com/track/1WvX1J8vS5Jt9AXBnDtC3e"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 187120,
-      "name": "G Song",
-      "url": "https://open.spotify.com/track/1WvX1J8vS5Jt9AXBnDtC3e"
+      "duration_ms": 196066,
+      "name": "Slow Melody In Bhairavi",
+      "url": "https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
+        "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1344000,
+      "name": "Embroidery",
+      "url": "https://open.spotify.com/track/7JfzN0hGy9zY2ixV9Q7f3M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Terry Riley: Shri Camel",
         "url": "https://open.spotify.com/album/4TwkvQCs6tCmhivdM6prT6"
       },
@@ -419,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
-        "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
+        "name": "Church of Anthrax",
+        "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
       },
       "artists": [
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 1344000,
-      "name": "Embroidery",
-      "url": "https://open.spotify.com/track/7JfzN0hGy9zY2ixV9Q7f3M"
+      "duration_ms": 663253,
+      "name": "Ides of March",
+      "url": "https://open.spotify.com/track/27X9O6v1wej9EIRmHgwVwB"
     },
     {
       "added_at": null,
@@ -459,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Church of Anthrax",
-        "url": "https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9"
+        "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
+        "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
       },
       "artists": [
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        },
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 663253,
-      "name": "Ides of March",
-      "url": "https://open.spotify.com/track/27X9O6v1wej9EIRmHgwVwB"
+      "duration_ms": 688000,
+      "name": "Eastern Man",
+      "url": "https://open.spotify.com/track/1MUOZKmLdxptTVYcRRehBC"
     },
     {
       "added_at": null,
@@ -491,38 +507,6 @@
       "duration_ms": 400306,
       "name": "In The Summer",
       "url": "https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Late Night Tales: Four Tet",
-        "url": "https://open.spotify.com/album/1LlsBkjNOqksaOFL053zS3"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 108826,
-      "name": "Music for the Gift, Pt. 2",
-      "url": "https://open.spotify.com/track/6ELrIEqqy8y0TVrbuwUxSx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
-        "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 688000,
-      "name": "Eastern Man",
-      "url": "https://open.spotify.com/track/1MUOZKmLdxptTVYcRRehBC"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Late Night Tales: Four Tet",
+        "url": "https://open.spotify.com/album/1LlsBkjNOqksaOFL053zS3"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 108826,
+      "name": "Music for the Gift, Pt. 2",
+      "url": "https://open.spotify.com/track/6ELrIEqqy8y0TVrbuwUxSx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Riley: In C",
         "url": "https://open.spotify.com/album/1IqXMVlNM4NBTA4otUziOr"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 2516986,
       "name": "In C - 2009 Remastered",
       "url": "https://open.spotify.com/track/4IIt36M11AQ5bHdzFQLEny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
+        "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 686400,
+      "name": "Chorale of the Blessed Day",
+      "url": "https://open.spotify.com/track/71h21JUZxC8oO2WDpRvv5b"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
       "duration_ms": 1190306,
       "name": "Terry Riley: Keyboard Study #1",
       "url": "https://open.spotify.com/track/1w9GGVy7WJAUvxVQAv47o2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Riley: Descending Moonshine Dervishes / Songs for the 10 Voices of the 2 Prophets",
-        "url": "https://open.spotify.com/album/6kCgBOS9D3UOlTtk15Xyt8"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 686400,
-      "name": "Chorale of the Blessed Day",
-      "url": "https://open.spotify.com/track/71h21JUZxC8oO2WDpRvv5b"
     },
     {
       "added_at": null,
@@ -696,17 +696,13 @@
           "url": "https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH"
         },
         {
-          "name": "NOVUS NY Cellists",
-          "url": "https://open.spotify.com/artist/6wYwsqWrtdk2CI1jYBSp0g"
-        },
-        {
           "name": "Choir of Trinity Wall Street",
           "url": "https://open.spotify.com/artist/1KBoKfkaxjSKZsmD9XCg3B"
         }
       ],
-      "duration_ms": 589255,
-      "name": "Remember This, O Mind: III. Even Your Beloved Wife",
-      "url": "https://open.spotify.com/track/3CGMRbacgbkn25eaMak2oP"
+      "duration_ms": 544411,
+      "name": "Madrigal",
+      "url": "https://open.spotify.com/track/1E9IYK88nHDOAo4HlyBlgl"
     },
     {
       "added_at": null,
@@ -739,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The book Of Abbeyozzud",
-        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
+        "name": "For the Birds: The Birdsong Project, Vol. I",
+        "url": "https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv"
       },
       "artists": [
         {
@@ -748,9 +744,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 273746,
-      "name": "Quijote",
-      "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
+      "duration_ms": 289346,
+      "name": "St. Francis and the Birds",
+      "url": "https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY"
     },
     {
       "added_at": null,
@@ -775,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Birds: The Birdsong Project, Vol. I",
-        "url": "https://open.spotify.com/album/6jYoMV6ujTCI55q6eV2isv"
-      },
-      "artists": [
-        {
-          "name": "Terry Riley",
-          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
-        }
-      ],
-      "duration_ms": 289346,
-      "name": "St. Francis and the Birds",
-      "url": "https://open.spotify.com/track/3zelHrzl4p7ieDXsvkNpAY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archangels",
         "url": "https://open.spotify.com/album/1lSLVobRXUgHQsrZD0xobC"
       },
@@ -804,19 +784,23 @@
           "url": "https://open.spotify.com/artist/6oDNIDquJobyWKLDZ9rYEH"
         },
         {
+          "name": "NOVUS NY Cellists",
+          "url": "https://open.spotify.com/artist/6wYwsqWrtdk2CI1jYBSp0g"
+        },
+        {
           "name": "Choir of Trinity Wall Street",
           "url": "https://open.spotify.com/artist/1KBoKfkaxjSKZsmD9XCg3B"
         }
       ],
-      "duration_ms": 544411,
-      "name": "Madrigal",
-      "url": "https://open.spotify.com/track/1E9IYK88nHDOAo4HlyBlgl"
+      "duration_ms": 589255,
+      "name": "Remember This, O Mind: III. Even Your Beloved Wife",
+      "url": "https://open.spotify.com/track/3CGMRbacgbkn25eaMak2oP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "An Introduction To Amiata's New Music Series Vol1",
-        "url": "https://open.spotify.com/album/7xYZP2kzAXxUGEWueXBSw3"
+        "name": "The book Of Abbeyozzud",
+        "url": "https://open.spotify.com/album/6XyBTdtH5Ml2LBbXdRT5iE"
       },
       "artists": [
         {
@@ -824,9 +808,25 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 258026,
-      "name": "Land's End",
-      "url": "https://open.spotify.com/track/1yYwD8sKQy9ZKz3lgZ0pDk"
+      "duration_ms": 273746,
+      "name": "Quijote",
+      "url": "https://open.spotify.com/track/52wOLvktzmhJQACPJbdoxE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riley: The Harp of New Albion",
+        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "duration_ms": 1293666,
+      "name": "The Harp of New Albion: I. The New Abion Chorale / The Discovery",
+      "url": "https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p"
     },
     {
       "added_at": null,
@@ -851,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riley: The Harp of New Albion",
-        "url": "https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj"
+        "name": "An Introduction To Amiata's New Music Series Vol1",
+        "url": "https://open.spotify.com/album/7xYZP2kzAXxUGEWueXBSw3"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
         }
       ],
-      "duration_ms": 1293666,
-      "name": "The Harp of New Albion: I. The New Abion Chorale / The Discovery",
-      "url": "https://open.spotify.com/track/4ogqkktjuP4OhBlkNVug9p"
+      "duration_ms": 258026,
+      "name": "Land's End",
+      "url": "https://open.spotify.com/track/1yYwD8sKQy9ZKz3lgZ0pDk"
     },
     {
       "added_at": null,
@@ -919,18 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Padova Concert",
-        "url": "https://open.spotify.com/album/2K65cUKmsCVlMJJTuGPipW"
+        "name": "Way Out Yonder",
+        "url": "https://open.spotify.com/album/2ln3J4rzNtWmGnpCBDfZ7m"
       },
       "artists": [
         {
           "name": "Terry Riley",
           "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Gyan Riley",
+          "url": "https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf"
         }
       ],
-      "duration_ms": 520293,
-      "name": "Mongolian Winds",
-      "url": "https://open.spotify.com/track/4OoC4jry1EgM5M7jMmRto1"
+      "duration_ms": 267093,
+      "name": "Folk Song",
+      "url": "https://open.spotify.com/track/7kzKvLlHUUFOSczPUE1LMk"
     }
   ],
   "unique_name": "This Is Terry Riley",

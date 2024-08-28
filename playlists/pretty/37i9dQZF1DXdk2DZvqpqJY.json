@@ -1,6 +1,6 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 81733,
+  "num_followers": 81793,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "I Get Along Without You Very Well",
-        "url": "https://open.spotify.com/album/5vuJzfoymsh3VnwGiN09X7"
-      },
-      "artists": [
-        {
-          "name": "Eric Rowland",
-          "url": "https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0"
-        }
-      ],
-      "duration_ms": 325428,
-      "name": "I Get Along Without You Very Well",
-      "url": "https://open.spotify.com/track/4ohcFjpEZL4puF3N1VLDBS"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
         "name": "You\u2019re Always Waiting",
         "url": "https://open.spotify.com/album/1YNaoKQbG6i4xKUB7YQ2yQ"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 159720,
       "name": "You\u2019re Always Waiting",
       "url": "https://open.spotify.com/track/6zDxfk0SAZnMVX4fvQ4Z2c"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "I Get Along Without You Very Well",
+        "url": "https://open.spotify.com/album/5vuJzfoymsh3VnwGiN09X7"
+      },
+      "artists": [
+        {
+          "name": "Eric Rowland",
+          "url": "https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0"
+        }
+      ],
+      "duration_ms": 325428,
+      "name": "I Get Along Without You Very Well",
+      "url": "https://open.spotify.com/track/4ohcFjpEZL4puF3N1VLDBS"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6"
-      },
-      "artists": [
-        {
-          "name": "Urban Jazz Junction",
-          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
         "name": "Passing Time",
         "url": "https://open.spotify.com/album/48s0tTqeqhWSHA24zIv1pL"
       },
@@ -555,50 +539,18 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "Serendipity",
-        "url": "https://open.spotify.com/album/5TvTwOMVlaOmHcHvInGlXg"
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/3PllPoR4LIRfIBqzyKbcv6"
       },
       "artists": [
         {
-          "name": "Arthur Taylor Trio",
-          "url": "https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n"
+          "name": "Urban Jazz Junction",
+          "url": "https://open.spotify.com/artist/1YGmr0ApbYEQW52awe1VSd"
         }
       ],
-      "duration_ms": 205750,
-      "name": "Serendipity",
-      "url": "https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
-        "name": "Early Spring",
-        "url": "https://open.spotify.com/album/4k0FkqzLrEgDovXfESljSk"
-      },
-      "artists": [
-        {
-          "name": "Tom Francis",
-          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Early Spring",
-      "url": "https://open.spotify.com/track/1g9DjsrhhqP4crNrYsS1TY"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
-        "name": "This Lullaby",
-        "url": "https://open.spotify.com/album/0qqrXJ63GT7I1PKoVVpQY4"
-      },
-      "artists": [
-        {
-          "name": "Grace Carey",
-          "url": "https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd"
-        }
-      ],
-      "duration_ms": 147815,
-      "name": "This Lullaby",
-      "url": "https://open.spotify.com/track/0XvOa8OJrBwVXG77AMkzN6"
+      "duration_ms": 200000,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3GQ6FWgL0Sfr2JH085HAQt"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -619,18 +571,50 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "Worry and Gossip",
-        "url": "https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV"
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/5TvTwOMVlaOmHcHvInGlXg"
       },
       "artists": [
         {
-          "name": "Courtney Salas Group",
-          "url": "https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7"
+          "name": "Arthur Taylor Trio",
+          "url": "https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n"
         }
       ],
-      "duration_ms": 221392,
-      "name": "Worry and Gossip",
-      "url": "https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc"
+      "duration_ms": 205750,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "This Lullaby",
+        "url": "https://open.spotify.com/album/0qqrXJ63GT7I1PKoVVpQY4"
+      },
+      "artists": [
+        {
+          "name": "Grace Carey",
+          "url": "https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd"
+        }
+      ],
+      "duration_ms": 147815,
+      "name": "This Lullaby",
+      "url": "https://open.spotify.com/track/0XvOa8OJrBwVXG77AMkzN6"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "Early Spring",
+        "url": "https://open.spotify.com/album/4k0FkqzLrEgDovXfESljSk"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/6uaneVpX351id57reqAEff"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Early Spring",
+      "url": "https://open.spotify.com/track/1g9DjsrhhqP4crNrYsS1TY"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -647,6 +631,22 @@
       "duration_ms": 267688,
       "name": "Nocturnal Whispers",
       "url": "https://open.spotify.com/track/5fhMizFsBXmXcSeJKVNvrt"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "Worry and Gossip",
+        "url": "https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV"
+      },
+      "artists": [
+        {
+          "name": "Courtney Salas Group",
+          "url": "https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7"
+        }
+      ],
+      "duration_ms": 221392,
+      "name": "Worry and Gossip",
+      "url": "https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -843,34 +843,18 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "There Will Be Better Days",
-        "url": "https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli"
+        "name": "Fleet Street",
+        "url": "https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD"
       },
       "artists": [
         {
-          "name": "Midnight Trio",
-          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+          "name": "Marc Henley Trio",
+          "url": "https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD"
         }
       ],
-      "duration_ms": 299349,
-      "name": "There Will Be Better Days",
-      "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
-        "name": "Moved by Performance",
-        "url": "https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn"
-      },
-      "artists": [
-        {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
-        }
-      ],
-      "duration_ms": 158698,
-      "name": "Moved by Performance",
-      "url": "https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n"
+      "duration_ms": 164093,
+      "name": "Fleet Street",
+      "url": "https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -891,6 +875,38 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
+        "name": "Moved by Performance",
+        "url": "https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "duration_ms": 158698,
+      "name": "Moved by Performance",
+      "url": "https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "There Will Be Better Days",
+        "url": "https://open.spotify.com/album/5ELhztVWr2IO1958kMWLli"
+      },
+      "artists": [
+        {
+          "name": "Midnight Trio",
+          "url": "https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv"
+        }
+      ],
+      "duration_ms": 299349,
+      "name": "There Will Be Better Days",
+      "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
         "name": "Solitaire",
         "url": "https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 211053,
       "name": "Solitaire",
       "url": "https://open.spotify.com/track/0loeb8Q4ErFkJWqr2wmNeq"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
-        "name": "Fleet Street",
-        "url": "https://open.spotify.com/album/1jsiPezXWc0nr3B4ca96kD"
-      },
-      "artists": [
-        {
-          "name": "Marc Henley Trio",
-          "url": "https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD"
-        }
-      ],
-      "duration_ms": 164093,
-      "name": "Fleet Street",
-      "url": "https://open.spotify.com/track/57fCbbjLiWUYa0TS8oMIDq"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
+        "name": "Every Time (You Say You Love Me)",
+        "url": "https://open.spotify.com/album/7nl7l03LHtzreCrMl7NRFX"
+      },
+      "artists": [
+        {
+          "name": "The Grace Smith Gang",
+          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
+        }
+      ],
+      "duration_ms": 180482,
+      "name": "Every Time (You Say You Love Me)",
+      "url": "https://open.spotify.com/track/3hrcctCLZhOnSdIYZzbVUS"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
         "name": "I Waited For You",
         "url": "https://open.spotify.com/album/4gtku4tyuo8XFZC72MPAS8"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
-      },
-      "artists": [
-        {
-          "name": "Cara Myers Trio",
-          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
-        }
-      ],
-      "duration_ms": 219069,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
         "name": "Can't Help Loving That Man",
         "url": "https://open.spotify.com/album/463eGmDEvjmNiQKuyHPa9U"
       },
@@ -1079,6 +1079,22 @@
       "duration_ms": 269030,
       "name": "Can't Help Loving That Man",
       "url": "https://open.spotify.com/track/7xTuJi4PK5ujPuf0g19oII"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2l8FcbyvaEO4Z6PWnJE5Fo"
+      },
+      "artists": [
+        {
+          "name": "Cara Myers Trio",
+          "url": "https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV"
+        }
+      ],
+      "duration_ms": 219069,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/48jwFktr6tdnaArJjhwyhO"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -1147,6 +1163,22 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
+        "name": "The Flow of Your Way",
+        "url": "https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq"
+      },
+      "artists": [
+        {
+          "name": "Lachlan Wright Trio",
+          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
+        }
+      ],
+      "duration_ms": 206784,
+      "name": "The Flow of Your Way",
+      "url": "https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
         "name": "Du & Jag",
         "url": "https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN"
       },
@@ -1179,22 +1211,6 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "The Flow of Your Way",
-        "url": "https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq"
-      },
-      "artists": [
-        {
-          "name": "Lachlan Wright Trio",
-          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
-        }
-      ],
-      "duration_ms": 206784,
-      "name": "The Flow of Your Way",
-      "url": "https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
         "name": "Traveling Day",
         "url": "https://open.spotify.com/album/51eqBfg9k9GAh40Rq12vHH"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 341907,
       "name": "Traveling Day",
       "url": "https://open.spotify.com/track/527VRJrXGblLbAHcHSdAr6"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
-        "name": "At Least I Know",
-        "url": "https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN"
-      },
-      "artists": [
-        {
-          "name": "Trio Del Norte",
-          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
-        }
-      ],
-      "duration_ms": 368388,
-      "name": "Lonely Streets",
-      "url": "https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
+        "name": "At Least I Know",
+        "url": "https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "duration_ms": 368388,
+      "name": "Lonely Streets",
+      "url": "https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
         "name": "Soft Lad",
         "url": "https://open.spotify.com/album/4y9M38huG2kr1sOGZnqzYw"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "Every Time (You Say You Love Me)",
-        "url": "https://open.spotify.com/album/7nl7l03LHtzreCrMl7NRFX"
+        "name": "Story of My Dream",
+        "url": "https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79"
       },
       "artists": [
         {
-          "name": "The Grace Smith Gang",
-          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
+          "name": "Almost Here",
+          "url": "https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs"
         }
       ],
-      "duration_ms": 180482,
-      "name": "Every Time (You Say You Love Me)",
-      "url": "https://open.spotify.com/track/3hrcctCLZhOnSdIYZzbVUS"
+      "duration_ms": 177431,
+      "name": "Story of My Dream",
+      "url": "https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "Story of My Dream",
-        "url": "https://open.spotify.com/album/6HuFY7tw5HA5ZMnurekM79"
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1"
       },
       "artists": [
         {
-          "name": "Almost Here",
-          "url": "https://open.spotify.com/artist/5o7GNcXboXqTegTrAYHERs"
+          "name": "Irvin Smith Group",
+          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
         }
       ],
-      "duration_ms": 177431,
-      "name": "Story of My Dream",
-      "url": "https://open.spotify.com/track/3DgwDOJOfDGM6pdIWkkXA1"
+      "duration_ms": 204083,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1"
-      },
-      "artists": [
-        {
-          "name": "Irvin Smith Group",
-          "url": "https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ"
-        }
-      ],
-      "duration_ms": 204083,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
         "name": "Memories Of Her Music",
         "url": "https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV"
       },
@@ -1399,6 +1399,22 @@
       "duration_ms": 213037,
       "name": "Memories Of Her Music",
       "url": "https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "Silky Smooth",
+        "url": "https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C"
+      },
+      "artists": [
+        {
+          "name": "Eira Eld",
+          "url": "https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Silky Smooth",
+      "url": "https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -1431,22 +1447,6 @@
       "duration_ms": 176263,
       "name": "Solace",
       "url": "https://open.spotify.com/track/1NzYzUEStQAj2i819bn0zk"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
-        "name": "Silky Smooth",
-        "url": "https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C"
-      },
-      "artists": [
-        {
-          "name": "Eira Eld",
-          "url": "https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Silky Smooth",
-      "url": "https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "Chances Are",
-        "url": "https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk"
-      },
-      "artists": [
-        {
-          "name": "Bruce Willmington & Co",
-          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
-        }
-      ],
-      "duration_ms": 282391,
-      "name": "Chances Are",
-      "url": "https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
         "name": "Things To Look Forward To",
         "url": "https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 245681,
       "name": "Things To Look Forward To",
       "url": "https://open.spotify.com/track/6pGvG8RMWD19UTLDPf5Gei"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "Chances Are",
+        "url": "https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "duration_ms": 282391,
+      "name": "Chances Are",
+      "url": "https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "Forever and Always",
-        "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
-      },
-      "artists": [
-        {
-          "name": "The Dox Band",
-          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
-        }
-      ],
-      "duration_ms": 238970,
-      "name": "Forever and Always",
-      "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
         "name": "Please, Stay",
         "url": "https://open.spotify.com/album/72CMXbNMdJhNIGRPsnYxBK"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 188875,
       "name": "Please, Stay",
       "url": "https://open.spotify.com/track/0uZvM7xsIRbh6WaLybZ32w"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "Forever and Always",
+        "url": "https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU"
+      },
+      "artists": [
+        {
+          "name": "The Dox Band",
+          "url": "https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL"
+        }
+      ],
+      "duration_ms": 238970,
+      "name": "Forever and Always",
+      "url": "https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "Good Night",
-        "url": "https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS"
-      },
-      "artists": [
-        {
-          "name": "Charlie James-Walker",
-          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
-        }
-      ],
-      "duration_ms": 236937,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
         "name": "Blue Room",
         "url": "https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 158481,
       "name": "Blue Room",
       "url": "https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS"
+      },
+      "artists": [
+        {
+          "name": "Charlie James-Walker",
+          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
+        }
+      ],
+      "duration_ms": 236937,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "A Sunday Kind Of Love",
-        "url": "https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW"
-      },
-      "artists": [
-        {
-          "name": "High North Trio",
-          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
-        }
-      ],
-      "duration_ms": 174867,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
         "name": "Hometown Again",
         "url": "https://open.spotify.com/album/2eN9SpfwZpcRW8MYvptqKG"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 193188,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "A Sunday Kind Of Love",
+        "url": "https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW"
+      },
+      "artists": [
+        {
+          "name": "High North Trio",
+          "url": "https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY"
+        }
+      ],
+      "duration_ms": 174867,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "Street Of Dreams",
-        "url": "https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U"
-      },
-      "artists": [
-        {
-          "name": "Elvine Harley",
-          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
-        }
-      ],
-      "duration_ms": 201932,
-      "name": "Street Of Dreams",
-      "url": "https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
         "name": "Through The Years",
         "url": "https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 236931,
       "name": "Through The Years",
       "url": "https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U"
+      },
+      "artists": [
+        {
+          "name": "Elvine Harley",
+          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
+        }
+      ],
+      "duration_ms": 201932,
+      "name": "Street Of Dreams",
+      "url": "https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -2203,6 +2203,22 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
+        "name": "All in Good Time",
+        "url": "https://open.spotify.com/album/0ZEifMVwUtKF5Xx5rv5Otc"
+      },
+      "artists": [
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "All in Good Time",
+      "url": "https://open.spotify.com/track/1vd8Xpnrgq8jZSJr0lJy2O"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
         "name": "My Lonely Days Are Over",
         "url": "https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9"
       },
@@ -2215,22 +2231,6 @@
       "duration_ms": 230681,
       "name": "My Lonely Days Are Over",
       "url": "https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
-        "name": "Love In Your Arms",
-        "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
-      },
-      "artists": [
-        {
-          "name": "Paul Moretti Trio",
-          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
-        }
-      ],
-      "duration_ms": 255143,
-      "name": "You're A Rainbow",
-      "url": "https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -2251,18 +2251,18 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "City Lights and Midnight Blues",
-        "url": "https://open.spotify.com/album/2mVtNuGjtZRdVQcd0nBurF"
+        "name": "Love In Your Arms",
+        "url": "https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o"
       },
       "artists": [
         {
-          "name": "Sodermalm Strand",
-          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
+          "name": "Paul Moretti Trio",
+          "url": "https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b"
         }
       ],
-      "duration_ms": 236291,
-      "name": "City Lights and Midnight Blues",
-      "url": "https://open.spotify.com/track/39HUxb7DxlOSXAGxENoYXg"
+      "duration_ms": 255143,
+      "name": "You're A Rainbow",
+      "url": "https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -2283,18 +2283,18 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "New York City Dreamin'",
-        "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
+        "name": "City Lights and Midnight Blues",
+        "url": "https://open.spotify.com/album/2mVtNuGjtZRdVQcd0nBurF"
       },
       "artists": [
         {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+          "name": "Sodermalm Strand",
+          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
         }
       ],
-      "duration_ms": 220960,
-      "name": "A Window to Your Soul",
-      "url": "https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT"
+      "duration_ms": 236291,
+      "name": "City Lights and Midnight Blues",
+      "url": "https://open.spotify.com/track/39HUxb7DxlOSXAGxENoYXg"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -2311,6 +2311,38 @@
       "duration_ms": 204405,
       "name": "Make good better",
       "url": "https://open.spotify.com/track/75tYxIVIyTRQmCJeg68z84"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "New York City Dreamin'",
+        "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "A Window to Your Soul",
+      "url": "https://open.spotify.com/track/1geBlthEVZzW8RKCBY9eJT"
+    },
+    {
+      "added_at": "2024-08-20 08:53:37",
+      "album": {
+        "name": "Winter in New York",
+        "url": "https://open.spotify.com/album/1bZWiXD71om6CskjaZWcpF"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 167621,
+      "name": "Coffee with My Baby",
+      "url": "https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF"
     },
     {
       "added_at": "2024-08-20 08:53:37",
@@ -2347,22 +2379,6 @@
     {
       "added_at": "2024-08-20 08:53:37",
       "album": {
-        "name": "Winter in New York",
-        "url": "https://open.spotify.com/album/1bZWiXD71om6CskjaZWcpF"
-      },
-      "artists": [
-        {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
-        }
-      ],
-      "duration_ms": 167621,
-      "name": "Coffee with My Baby",
-      "url": "https://open.spotify.com/track/6Bp14zQZMHbZGOSuTIHkyF"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
         "name": "Odd Duck",
         "url": "https://open.spotify.com/album/506EOu4vBoIkR1D8Kw7rSG"
       },
@@ -2375,22 +2391,6 @@
       "duration_ms": 203328,
       "name": "Odd Duck",
       "url": "https://open.spotify.com/track/4ag4ypxQnkSVuZHvfwyzo1"
-    },
-    {
-      "added_at": "2024-08-20 08:53:37",
-      "album": {
-        "name": "Blue Midnight",
-        "url": "https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp"
-      },
-      "artists": [
-        {
-          "name": "James Leeluck",
-          "url": "https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ"
-        }
-      ],
-      "duration_ms": 189134,
-      "name": "Blue Midnight",
-      "url": "https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ"
     },
     {
       "added_at": "2024-08-20 08:53:37",

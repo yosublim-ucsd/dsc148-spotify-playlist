@@ -4,7 +4,7 @@
 
 > This is Eladio Carrion\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 42 min
+71 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Hp Freestyle](https://open.spotify.com/track/0ea9jt0vWPgR5Jm2P4q70z) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:03 | 2024-01-19 | 2024-01-21 |
 | [Hugo](https://open.spotify.com/track/3oCSBlJniNwxVQfq1R2ROt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:58 | 2024-01-19 |  |
 | [Jóvenes Millonarios](https://open.spotify.com/track/0MJ9rq9zMOe0G7eL3j5w8G) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Jóvenes Millonarios](https://open.spotify.com/album/3ilfq7b1QorqjU5qSCLD3y) | 3:02 | 2024-01-19 | 2024-08-27 |
+| [Jóvenes Millonarios](https://open.spotify.com/track/4EbNxZ6ei9q1imUf2Hyo90) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:02 | 2024-08-28 |  |
 | [Kemba Walker](https://open.spotify.com/track/4jhHaLksdP8DJZzxYAjOSz) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 2:32 | 2024-01-19 |  |
 | [La Canción Feliz Del Disco](https://open.spotify.com/track/3vP62cjz1b4QvUS5vSyEVY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:53 | 2024-01-20 |  |
 | [Mala Mia](https://open.spotify.com/track/6MKxukLfTyhLpk94EgvHHv) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:33 | 2024-01-19 | 2024-01-21 |
@@ -67,7 +68,7 @@
 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 | 2024-01-20 |  |
 | [Sigue Bailandome](https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp) | [Yannc](https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Sigue Bailandome](https://open.spotify.com/album/7v95vtyP4yh88N5fx5rYdB) | 5:52 | 2024-01-19 |  |
 | [Sin Frenos](https://open.spotify.com/track/1b62AO1IzcVr5SOgoguc9o) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:31 | 2024-01-19 |  |
-| [Socio](https://open.spotify.com/track/2H4SvdfK9ret8B4cjNvrum) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 4:13 | 2024-01-19 |  |
+| [Socio](https://open.spotify.com/track/2H4SvdfK9ret8B4cjNvrum) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 4:13 | 2024-01-19 | 2024-08-28 |
 | [Sonrisa](https://open.spotify.com/track/3MbbbpxLOnWUCpzS6hRN4e) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:32 | 2024-01-20 | 2024-01-28 |
 | [Susanoo](https://open.spotify.com/track/7JzXQByRyTjgtYzDaymfvk) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:37 | 2024-05-08 | 2024-07-09 |
 | [Tanta Droga](https://open.spotify.com/track/39wiPEmqQ4J3vS16j6X9Ki) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 4:08 | 2024-01-20 | 2024-01-22 |

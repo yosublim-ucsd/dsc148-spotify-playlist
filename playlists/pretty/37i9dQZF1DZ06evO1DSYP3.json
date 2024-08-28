@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5428,
+  "num_followers": 5429,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACcdJVIvOZbVK44yViIMLQz",
+  "snapshot_id": "ZsvFgAAAAAAOTPfaeiFhhkHbqkgWd2m8",
   "tracks": [
     {
       "added_at": null,
@@ -775,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before Anything - EP",
-        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Jay Anthony",
-          "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Light This Bitch Up",
-      "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before Anything - EP",
+        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Jay Anthony",
+          "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Light This Bitch Up",
+      "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
     },
     {
       "added_at": null,
@@ -854,11 +854,19 @@
         {
           "name": "Kool John",
           "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "Nef The Pharaoh",
+          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
         }
       ],
-      "duration_ms": 121765,
-      "name": "HIP-HOP",
-      "url": "https://open.spotify.com/track/3AzaLnoEWrvD5VMHlG8i09"
+      "duration_ms": 176634,
+      "name": "THUMB (feat. Nef The Pharaoh & ALLBLACK)",
+      "url": "https://open.spotify.com/track/5GZQYTcFNDkmtAmnCD8tn7"
     },
     {
       "added_at": null,
@@ -899,54 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 218453,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moovie! 2: The Yeequel",
-        "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "Nef The Pharaoh",
-          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
-        },
-        {
-          "name": "ALLBLACK",
-          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
-        }
-      ],
-      "duration_ms": 176634,
-      "name": "THUMB (feat. Nef The Pharaoh & ALLBLACK)",
-      "url": "https://open.spotify.com/track/5GZQYTcFNDkmtAmnCD8tn7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Foreal Tape",
         "url": "https://open.spotify.com/album/1Vy65JOMv18Aix6cjTNnrn"
       },
@@ -971,6 +931,46 @@
       "duration_ms": 188235,
       "name": "The Loot",
       "url": "https://open.spotify.com/track/5sNA1F4eCOh3mWKlFqRKJ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moovie! 2: The Yeequel",
+        "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        }
+      ],
+      "duration_ms": 121765,
+      "name": "HIP-HOP",
+      "url": "https://open.spotify.com/track/3AzaLnoEWrvD5VMHlG8i09"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
     },
     {
       "added_at": null,

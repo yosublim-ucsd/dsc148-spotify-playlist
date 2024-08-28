@@ -1,12 +1,12 @@
 {
-  "description": "This is NOFX. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
-  "num_followers": 88885,
+  "description": "This is NOFX. The essential tracks, all in one playlist.",
+  "num_followers": 88905,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAC2M5+3TzXKHrb0f1WIhXmn",
+  "snapshot_id": "ZsvFgAAAAAD67Wgxzq0WFzpguNlQE16x",
   "tracks": [
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 78271,
-      "name": "The Quass",
-      "url": "https://open.spotify.com/track/56Cpy3VcGAzjxDqtdB3adO"
+      "duration_ms": 97973,
+      "name": "The Cause",
+      "url": "https://open.spotify.com/track/5b2RQDbNlMt7DE8cuv0hsC"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 97973,
-      "name": "The Cause",
-      "url": "https://open.spotify.com/track/5b2RQDbNlMt7DE8cuv0hsC"
+      "duration_ms": 78271,
+      "name": "The Quass",
+      "url": "https://open.spotify.com/track/56Cpy3VcGAzjxDqtdB3adO"
     },
     {
       "added_at": null,

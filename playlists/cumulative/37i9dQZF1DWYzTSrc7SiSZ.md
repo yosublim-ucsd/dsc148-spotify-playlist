@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-276 songs - 14 hr 52 min
+277 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Heart Full of Love](https://open.spotify.com/track/3WADEPHbjrfN0qYrtlACiq) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [Heart Full of Love](https://open.spotify.com/album/6Ive0sN5PnmohGaAGiP0tM) | 4:10 | 2022-05-20 | 2023-01-07 |
 | [Hola \- Acústico En Vivo](https://open.spotify.com/track/5wbaHIztJH908HEGTEZUh0) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Rich Music Sessions \(Acústico En Vivo\)](https://open.spotify.com/album/6jU5obP9snCcR57UjL9byA) | 3:41 | 2022-05-20 | 2022-10-28 |
 | [Hoy](https://open.spotify.com/track/1pvwboMTkqES8ExXx5JBag) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Hoy](https://open.spotify.com/album/5rHEepmaS9qXal1O1uLfrz) | 3:55 | 2022-05-20 |  |
-| [Hurricane Season](https://open.spotify.com/track/4SSCjm47y2uA41sEy60Niv) | [JCZR](https://open.spotify.com/artist/5H5QptnwdQ3RNGpzftlR7D) | [Hurricane Season](https://open.spotify.com/album/6TUBj8dnlXvtmL0i5gWG7j) | 2:47 | 2022-05-20 |  |
+| [Hurricane Season](https://open.spotify.com/track/4SSCjm47y2uA41sEy60Niv) | [JCZR](https://open.spotify.com/artist/5H5QptnwdQ3RNGpzftlR7D) | [Hurricane Season](https://open.spotify.com/album/6TUBj8dnlXvtmL0i5gWG7j) | 2:47 | 2022-05-20 | 2024-08-28 |
 | [I Fell in Love](https://open.spotify.com/track/39hJ5R7L6AvL4DyApOPRmH) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [I Fell In Love](https://open.spotify.com/album/4rT4HtEqudtBqg1tqa25Vw) | 4:20 | 2022-07-11 | 2024-04-19 |
 | [I Fell In Love](https://open.spotify.com/track/51y9N9jm8ykm0UrpaJ6J3s) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [I Fell In Love](https://open.spotify.com/album/7tNjHSLioVJsgily2nkn7z) | 4:20 | 2022-05-20 | 2022-07-29 |
 | [if you let me](https://open.spotify.com/track/0R7XVSEzG89NLlwxhiNTPL) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [if you let me](https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK) | 2:40 | 2022-05-20 | 2024-08-13 |
@@ -139,6 +139,7 @@
 | [lovin kind](https://open.spotify.com/track/1KvcOHuYfTIUhe1bYBR4pY) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [the better half of me](https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj) | 3:00 | 2022-05-20 | 2022-10-28 |
 | [Lucecita](https://open.spotify.com/track/1IRjqq6J32F79HUwYvwYHH) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Lucecita](https://open.spotify.com/album/77X5kJMyiM5s1djOOXd2pX) | 2:45 | 2024-05-31 | 2024-07-19 |
 | [Luna](https://open.spotify.com/track/0f2DEUij8dwnb0tRvQDPwM) | [JAY MAX](https://open.spotify.com/artist/5F3YqWoW1LxM0Hf1b9zocr) | [ULTRA MAX](https://open.spotify.com/album/6Uf8IXBieYnJpZkOOIipdK) | 3:38 | 2023-02-10 | 2023-03-27 |
+| [Luna Nueva](https://open.spotify.com/track/0SvxXdM7sXZkG2Kf4eolcO) | [Limón Blue](https://open.spotify.com/artist/0YeHlqFonWybi5ErjP8wV0) | [Luna Nueva](https://open.spotify.com/album/2a3UaDCE1QsdZQJQpZhORL) | 3:43 | 2024-08-09 |  |
 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 | 2024-02-02 | 2024-05-11 |
 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 | 2022-05-20 | 2022-10-28 |
 | [malapami](https://open.spotify.com/track/1aWRzqsBsAXrw2SQwWzG6O) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [malapami](https://open.spotify.com/album/1tnRRNp1RHvmVUoZXtFIn5) | 2:58 | 2022-05-20 | 2023-01-07 |

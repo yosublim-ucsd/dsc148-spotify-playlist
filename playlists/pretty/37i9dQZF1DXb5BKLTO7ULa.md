@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,704 likes - 99 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,709 likes - 99 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

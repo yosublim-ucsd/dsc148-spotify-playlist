@@ -1,6 +1,6 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3479730,
+  "num_followers": 3479675,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
         "name": "Rain On Me (with Ariana Grande)",
         "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
-        "name": "Before You Go",
-        "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Dream Your Life Away - Special Edition",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 281066,
       "name": "I'll Never Love Again - Film Version",
       "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Dream Your Life Away - Special Edition",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -801,22 +801,6 @@
       "url": "https://open.spotify.com/track/3SawmGBjjq8EOYZJV11cJm"
     },
     {
-      "added_at": "2024-03-18 14:09:49",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
-    },
-    {
       "added_at": "2022-12-08 16:33:34",
       "album": {
         "name": "Back to Bedlam",
@@ -831,6 +815,22 @@
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t"
+    },
+    {
+      "added_at": "2024-03-18 14:09:49",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Let Me Move You (From the Netflix film Work It)",
-        "url": "https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 147070,
-      "name": "Let Me Move You - From the Netflix film \"Work It\"",
-      "url": "https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Birdy (Deluxe Version)",
         "url": "https://open.spotify.com/album/3sGzkurA1fvEFqh73sWCVA"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/0HRshWRNAwQBROvxXqG3i9"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Let Me Move You (From the Netflix film Work It)",
+        "url": "https://open.spotify.com/album/3Ytt3q5EhvSCbvCTrVkz11"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 147070,
+      "name": "Let Me Move You - From the Netflix film \"Work It\"",
+      "url": "https://open.spotify.com/track/0roOLcll6SSTYZwsQFmXqP"
     },
     {
       "added_at": "2022-12-08 16:33:34",

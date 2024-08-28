@@ -1,6 +1,6 @@
 {
   "description": "Music by our 2024 Artists To Watch. Cover: Jasiel Nu\u00f1ez",
-  "num_followers": 5394,
+  "num_followers": 5395,
   "original_name": "Viva Latino Artists To Watch",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Kittyponeo",
         "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 159170,
       "name": "Reggaeton Champagne",
       "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -239,18 +239,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Como Pancho Villa",
-        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
+        "name": "YO KIERO",
+        "url": "https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R"
       },
       "artists": [
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Alan Dazmel",
+          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
         }
       ],
-      "duration_ms": 143661,
-      "name": "Como Pancho Villa",
-      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
+      "duration_ms": 152021,
+      "name": "YO KIERO",
+      "url": "https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -271,18 +275,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "SAKURA",
-        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
+        "name": "Como Pancho Villa",
+        "url": "https://open.spotify.com/album/7tTzvgXlpz8SjQMe89ZEob"
       },
       "artists": [
         {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
         }
       ],
-      "duration_ms": 138677,
-      "name": "COMO SUENAN LAS ESTRELLAS",
-      "url": "https://open.spotify.com/track/29MAYnmNwruONslO4E1iZD"
+      "duration_ms": 143661,
+      "name": "Como Pancho Villa",
+      "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -307,22 +311,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "YO KIERO",
-        "url": "https://open.spotify.com/album/2xV0w1VjhgbjUoZzUMUN0R"
+        "name": "SAKURA",
+        "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Alan Dazmel",
-          "url": "https://open.spotify.com/artist/3C1SUHXW7THF8hkOP7Rekm"
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
-      "duration_ms": 152021,
-      "name": "YO KIERO",
-      "url": "https://open.spotify.com/track/6r8mkvOm0kK5ACFOuvCezk"
+      "duration_ms": 138677,
+      "name": "COMO SUENAN LAS ESTRELLAS",
+      "url": "https://open.spotify.com/track/29MAYnmNwruONslO4E1iZD"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -343,6 +343,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "SANDUNGUEA",
+        "url": "https://open.spotify.com/album/4NEEk4i3IvRIoUKsYDM1Lf"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Ruzzo Doblezz",
+          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+        }
+      ],
+      "duration_ms": 154634,
+      "name": "SANDUNGUEA",
+      "url": "https://open.spotify.com/track/3GbLOCHhuhdGhuKm5zkQjz"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "la manera que me ves",
         "url": "https://open.spotify.com/album/5gZF8qpBbCqS3wFM5auROr"
       },
@@ -355,22 +375,6 @@
       "duration_ms": 229549,
       "name": "la manera que me ves",
       "url": "https://open.spotify.com/track/52uZksxrYq597nsAn7LDxt"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Nos Entendemos",
-        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 176016,
-      "name": "Nos Entendemos",
-      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -411,38 +415,18 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "SANDUNGUEA",
-        "url": "https://open.spotify.com/album/4NEEk4i3IvRIoUKsYDM1Lf"
+        "name": "Nos Entendemos",
+        "url": "https://open.spotify.com/album/3x1rh4Ykhv3LvPeFAeV9fa"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Ruzzo Doblezz",
-          "url": "https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D"
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 154634,
-      "name": "SANDUNGUEA",
-      "url": "https://open.spotify.com/track/3GbLOCHhuhdGhuKm5zkQjz"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Cumbialicious",
-        "url": "https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 134549,
-      "name": "la cumbia del cucuy",
-      "url": "https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui"
+      "duration_ms": 176016,
+      "name": "Nos Entendemos",
+      "url": "https://open.spotify.com/track/6MnSiGUMRf2UYnKez1zeqG"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -459,6 +443,22 @@
       "duration_ms": 184795,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/1buOWQg3BhMC5SNp1eeTPq"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Cumbialicious",
+        "url": "https://open.spotify.com/album/0nbjdwPL1EjjNmVZr8hTnG"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 134549,
+      "name": "la cumbia del cucuy",
+      "url": "https://open.spotify.com/track/4KpXzvH7Gtqc8BVnkov3Ui"
     },
     {
       "added_at": "2024-07-12 04:00:00",

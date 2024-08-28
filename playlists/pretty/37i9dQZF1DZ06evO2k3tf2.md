@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 
 ### [This Is Twenty One Pilots](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2k3tf2)
 
-> This is Twenty One Pilots\. The essential tracks, all in one playlist.
+> This Is Twenty One Pilots\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,362,470 likes - 40 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,362,661 likes - 40 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2k3tf2.md) - [plain]
 | 39 | [Johnny Boy](https://open.spotify.com/track/2hUFjIbpKaRqs97OjUAmXb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/1Fexc96V24RL17Ko9VXUOM) | 4:39 |
 | 40 | [Friend, Please](https://open.spotify.com/track/6gDTyTnFxpvQtkgGuNWGbE) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Twenty One Pilots](https://open.spotify.com/album/1Fexc96V24RL17Ko9VXUOM) | 4:12 |
 
-Snapshot ID: `Zsp0AAAAAACqiCnxWn954fLVs9LFYEjC`
+Snapshot ID: `ZsvFgAAAAAAIBZ6rdLFuMp4Ijo4VotEQ`

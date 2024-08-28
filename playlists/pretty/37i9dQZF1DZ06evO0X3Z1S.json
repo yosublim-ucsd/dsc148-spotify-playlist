@@ -1,12 +1,12 @@
 {
-  "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 85908,
+  "description": "This Is Jonas Blue. Los temas esenciales, todos en una lista.",
+  "num_followers": 85916,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAADdb6jO/xjbHx1hM90CtSnU",
+  "snapshot_id": "ZsvFgAAAAAC7wTUhWwMYGgH1hEovilwS",
   "tracks": [
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billboard",
-        "url": "https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Tifa Chen",
-          "url": "https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW"
-        }
-      ],
-      "duration_ms": 172728,
-      "name": "Billboard",
-      "url": "https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 185453,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billboard",
+        "url": "https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Tifa Chen",
+          "url": "https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW"
+        }
+      ],
+      "duration_ms": 172728,
+      "name": "Billboard",
+      "url": "https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX"
     },
     {
       "added_at": null,

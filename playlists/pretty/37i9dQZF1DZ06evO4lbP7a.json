@@ -1,12 +1,12 @@
 {
   "description": "This is yama. The essential tracks, all in one playlist.",
-  "num_followers": 48212,
+  "num_followers": 48214,
   "original_name": "This Is yama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAADBRsjUTF2BfUwyvtBj4MJZ",
+  "snapshot_id": "ZsvFgAAAAABjTe373hx9MfALGAxG6LLg",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u4e00\u5bf8\u306e\u8d64",
-        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 231673,
-      "name": "\u4e00\u5bf8\u306e\u8d64",
-      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hello/Hello",
         "url": "https://open.spotify.com/album/7kHYrY6mzroR0kQ7bktint"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 245214,
       "name": "Hello/Hello",
       "url": "https://open.spotify.com/track/5M13MqCBVJykhVUXgjjYcX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u4e00\u5bf8\u306e\u8d64",
+        "url": "https://open.spotify.com/album/3AZiSmcQY2ci47AneOFYhj"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 231673,
+      "name": "\u4e00\u5bf8\u306e\u8d64",
+      "url": "https://open.spotify.com/track/6gLIdsq5niNohbCT3LFT1Z"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8fd4\u5149(Movie Edition)",
-        "url": "https://open.spotify.com/album/0QNXYlm9zDHKXZA8UFa3DQ"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "\u8fd4\u5149(Movie Edition)",
-      "url": "https://open.spotify.com/track/1lLsIUCAXc8U7QuS3J87Fu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005\u3078",
         "url": "https://open.spotify.com/album/3JdoGesd5RkeiraCoNgroP"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 216600,
       "name": "\u540d\u524d\u306e\u306a\u3044\u65e5\u3005\u3078",
       "url": "https://open.spotify.com/track/50Bpk00qoU0kibpHNWgPjP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u8fd4\u5149(Movie Edition)",
+        "url": "https://open.spotify.com/album/0QNXYlm9zDHKXZA8UFa3DQ"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "\u8fd4\u5149(Movie Edition)",
+      "url": "https://open.spotify.com/track/1lLsIUCAXc8U7QuS3J87Fu"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30e9\u30f3\u30cb\u30f3\u30b0\u30a2\u30a6\u30c8",
-        "url": "https://open.spotify.com/album/0Dku1OpQxwAbV7SJFeSn0w"
-      },
-      "artists": [
-        {
-          "name": "yama",
-          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "\u30e9\u30f3\u30cb\u30f3\u30b0\u30a2\u30a6\u30c8",
-      "url": "https://open.spotify.com/track/2O69Nb7qeYxaJFtZNuTZsR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the meaning of life",
         "url": "https://open.spotify.com/album/0d6nIBB385TVBIcsa5x4ZD"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 240133,
       "name": "\u5929\u8272",
       "url": "https://open.spotify.com/track/2ug8mDoQnwu4EaU7wVSd6W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30e9\u30f3\u30cb\u30f3\u30b0\u30a2\u30a6\u30c8",
+        "url": "https://open.spotify.com/album/0Dku1OpQxwAbV7SJFeSn0w"
+      },
+      "artists": [
+        {
+          "name": "yama",
+          "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
+        }
+      ],
+      "duration_ms": 243866,
+      "name": "\u30e9\u30f3\u30cb\u30f3\u30b0\u30a2\u30a6\u30c8",
+      "url": "https://open.spotify.com/track/2O69Nb7qeYxaJFtZNuTZsR"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u8272\u5f69",
-        "url": "https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9"
+        "name": "Versus the night",
+        "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 196986,
-      "name": "\u65b0\u661f",
-      "url": "https://open.spotify.com/track/4dwRjaD0ttkelpv5eoE6RT"
+      "duration_ms": 205066,
+      "name": "\u30e9\u30a4\u30ab",
+      "url": "https://open.spotify.com/track/5uUB3W0R5M3dh3iXLPsiK7"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Versus the night",
-        "url": "https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq"
+        "name": "\u8272\u5f69",
+        "url": "https://open.spotify.com/album/4PKAlSU3CWtWeTsPwo9wQ9"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv"
         }
       ],
-      "duration_ms": 205066,
-      "name": "\u30e9\u30a4\u30ab",
-      "url": "https://open.spotify.com/track/5uUB3W0R5M3dh3iXLPsiK7"
+      "duration_ms": 196986,
+      "name": "\u65b0\u661f",
+      "url": "https://open.spotify.com/track/4dwRjaD0ttkelpv5eoE6RT"
     },
     {
       "added_at": null,

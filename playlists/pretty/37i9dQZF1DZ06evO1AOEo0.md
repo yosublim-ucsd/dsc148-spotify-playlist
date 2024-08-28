@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,601 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,614 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 27 | [Great Is Thy Faithfulness](https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 6](https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw) | 4:31 |
 | 28 | [Sovereign Over Us](https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 11](https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3) | 5:48 |
 | 29 | [Psalm 91 \(On Eagles' Wings\)](https://open.spotify.com/track/572afBiucwePeZgB1BBRfC) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 4:04 |
-| 30 | [In the Light](https://open.spotify.com/track/3dR0YZCbDb5uNnStHXd7hU) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [In the Light](https://open.spotify.com/album/0T5QnMmqA3DVncqoyu9hpT) | 4:43 |
-| 31 | [Jesus Paid It All](https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 5](https://open.spotify.com/album/7sR0mdV33yuZymVBo0y7aF) | 3:48 |
+| 30 | [Jesus Paid It All](https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 5](https://open.spotify.com/album/7sR0mdV33yuZymVBo0y7aF) | 3:48 |
+| 31 | [In the Light](https://open.spotify.com/track/3dR0YZCbDb5uNnStHXd7hU) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [In the Light](https://open.spotify.com/album/0T5QnMmqA3DVncqoyu9hpT) | 4:43 |
 | 32 | [Breathe](https://open.spotify.com/track/3GrMFCWoIh0YHULGsAuHj0) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 5:38 |
 | 33 | [Yahweh \(Psalm 84\)](https://open.spotify.com/track/5T12pdka57KQjG6kfIlNrk) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Writers Well](https://open.spotify.com/artist/1pmi6rarpOlFn6aWPXBRqi), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Max Dasher](https://open.spotify.com/artist/3wq2iqRqMHZm9KQ8GybUCE) | [Psalms from the Well](https://open.spotify.com/album/4c4cEn07dXS7q9l4mwk5Ic) | 4:58 |
 | 34 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/1zk44kfCF3DBdyrdtQg7wf) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 20](https://open.spotify.com/album/2cuCnA14duuyj2jhlIyG1p) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 49 | [Psalm 84 \(I'm Home\)](https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:02 |
 | 50 | [God of Every Grace](https://open.spotify.com/track/3TzQR2O6RsyOIF1HvO2EuL) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc) | [God of Every Grace](https://open.spotify.com/album/0LYtQdY5VCU5LPhtFIXV4X) | 5:17 |
 
-Snapshot ID: `Zsp0AAAAAABNu3EojsyRweDiQV1Q9x18`
+Snapshot ID: `ZsvFgAAAAACCoka7uG6AqOV95Of0vRdn`

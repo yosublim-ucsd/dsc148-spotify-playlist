@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,691 likes - 270 songs - 12 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,747 likes - 270 songs - 12 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 94 | [Selling Montage](https://open.spotify.com/track/7y8zvpcVtc3VQXE2V0fyR6) | [Michael Dean Parsons](https://open.spotify.com/artist/0PtgERFoiSK8egVLiNkure) | [Pain Hustlers \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/03WFtOTe7GVyKgzTLxUDny) | 1:57 |
 | 95 | [The Age of Giants](https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 4:00 |
 | 96 | [I Loved You First](https://open.spotify.com/track/3oKK4OBgOs0WSvpaQZ9Fdy) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [The Flash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Iwcke5WByZdDlIv0WucmX) | 1:34 |
-| 97 | [Missile Launch](https://open.spotify.com/track/2s5clj5ey4v257HOAxBIPD) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Creator \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/69GMDH8pkopRkQRwdff0Jp) | 3:01 |
+| 97 | [Missile Launch](https://open.spotify.com/track/2s5clj5ey4v257HOAxBIPD) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Creator \- Original Motion Picture Soundtrack](https://open.spotify.com/album/69GMDH8pkopRkQRwdff0Jp) | 3:01 |
 | 98 | [The Marsh King’s Daughter](https://open.spotify.com/track/64SAYGQVEECMSRH0wHU1fX) | [Adam Janota Bzowski](https://open.spotify.com/artist/4OOAQZUeppYieyN7Wnh2tf) | [The Marsh King's Daughter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0e9at8GNC3PQAZU6eeQiEo) | 2:29 |
 | 99 | [Stephen Trains Alessia](https://open.spotify.com/track/1E3nN6LhvpqizoguRFfVhs) | [Nainita Desai](https://open.spotify.com/artist/6yyzlTFjuZqptozK4Q9wHO) | [The Deepest Breath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/68fL0XFt0lru115Ro4TGwD) | 3:55 |
 | 100 | [Main Titles \- from "Monarch: Legacy of Monsters" soundtrack](https://open.spotify.com/track/4AweW73dPPeXc58af8ONFU) | [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS) | [Main Titles \(from "Monarch: Legacy of Monsters" soundtrack\)](https://open.spotify.com/album/5a8zbNL32jQqp43u4Biz7B) | 1:30 |

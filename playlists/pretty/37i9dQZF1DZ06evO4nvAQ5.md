@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 
 > This is J Boog\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,495 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,498 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 20 | [Hear Me Roar](https://open.spotify.com/track/5GV0IvqS6OYhSFSWfIY3GP) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 3:12 |
 | 21 | [Uma](https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Uma](https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg) | 3:22 |
 | 22 | [Never Give Up](https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Never Give Up](https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9) | 3:08 |
-| 23 | [Bounce \(with Fiji & J Boog\)](https://open.spotify.com/track/1fwYVoPw8jGyXdVOIki3Hu) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Bounce](https://open.spotify.com/album/4clKfwRioYOyrjaui710um) | 3:30 |
+| 23 | [Smoking Bomb Bud](https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Smoking Bomb Bud](https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh) | 3:36 |
 | 24 | [Aye Ok](https://open.spotify.com/track/5Wj4FRmIXX9CNksnmRVcXo) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Hear Me Roar](https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo) | 4:28 |
-| 25 | [Smoking Bomb Bud](https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Smoking Bomb Bud](https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh) | 3:36 |
+| 25 | [Bounce \(with Fiji & J Boog\)](https://open.spotify.com/track/1fwYVoPw8jGyXdVOIki3Hu) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Bounce](https://open.spotify.com/album/4clKfwRioYOyrjaui710um) | 3:30 |
 | 26 | [Always Been You](https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Always Been You](https://open.spotify.com/album/7KX733L0zdhiHZ7hcUfrUJ) | 3:23 |
 | 27 | [Let's Get It On \(with J Boog\)](https://open.spotify.com/track/1u3mBuYFjvWOu0VQ9x9kF2) | [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Indigenous Life](https://open.spotify.com/album/3UDKThTuWf6wbVCITpd8K2) | 3:47 |
 | 28 | [Waiting On The Rain](https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:27 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 35 | [Ain't No Love Like](https://open.spotify.com/track/7nuwek79ffqWbe5AtsAuAA) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Ain't No Love Like](https://open.spotify.com/album/17d9ZUcHb8xLP6se8seQSZ) | 4:03 |
 | 36 | [So Far Gone](https://open.spotify.com/track/6xBKN3i1QxWm8HytXaEHek) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:25 |
 | 37 | [Replay](https://open.spotify.com/track/5HoQXfTZSnjoXsyJ2HU6Qp) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 3:17 |
-| 38 | [Pennies From Heaven](https://open.spotify.com/track/4HVqLcIwCcmSCprLVPYrqW) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Pennies From Heaven](https://open.spotify.com/album/52UFnh2PI1ZvexfhUu4m9W) | 2:43 |
-| 39 | [Rose Petals](https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:02 |
+| 38 | [Rose Petals](https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:02 |
+| 39 | [Pennies From Heaven](https://open.spotify.com/track/4HVqLcIwCcmSCprLVPYrqW) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Pennies From Heaven](https://open.spotify.com/album/52UFnh2PI1ZvexfhUu4m9W) | 2:43 |
 | 40 | [Coldest Zone](https://open.spotify.com/track/3m5kR0GClMpR7gLc1ZZC2S) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog \- EP](https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d) | 3:12 |
 | 41 | [She Give Me Lovin'](https://open.spotify.com/track/4cQiaV2jiEELjjP588itBe) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Backyard Boogie](https://open.spotify.com/album/7oyBRhMZuVDSdDk7uQOGzI) | 4:08 |
 | 42 | [No Pressure \(feat\. Snoop Dogg\) \- Bonus Track](https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Rose Petals](https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nvAQ5.md) - [plain]
 | 49 | [Danger](https://open.spotify.com/track/3XT9HuM3PYlkGOLKTyeStN) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Tyrone's Jacket](https://open.spotify.com/artist/5dxrfWzDmhPO4LJ3ESS70U) | [Iration](https://open.spotify.com/album/6XBN7JbqWczCIST7mmdkAx) | 3:59 |
 | 50 | [Blaze It for Days \(feat\. Lion Fiyah & Gappy Ranks\)](https://open.spotify.com/track/48Lsxsxa8Z6XIxFK9uImA7) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Lion Fiyah](https://open.spotify.com/artist/4os8LHgkbQYhV5pvJeytcq), [Gappy Ranks](https://open.spotify.com/artist/4rkmaLySgI7sl9cKfJ3tT8) | [Wash House Ting](https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK) | 4:07 |
 
-Snapshot ID: `Zsp0AAAAAAC413H2zu2S+2TVZjdKCywM`
+Snapshot ID: `ZsvFgAAAAACnY85xd/+T+FvIjqZeSJVF`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 
 ### [This Is Bring Me The Horizon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0VDZny)
 
-> This Is Bring Me The Horizon\. Los temas esenciales, todos en una lista.
+> This is Bring Me The Horizon\. Track\-track unggulan, semuanya dalam satu playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,761 likes - 39 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,874 likes - 39 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 | 25 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/6MD6xpFK4cfquxRqXxqwjq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 |
 | 26 | [sugar honey ice & tea](https://open.spotify.com/track/3Ddgh4ZwVIkLx0f4WeDFmo) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:21 |
 | 27 | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/7vrKEP66NdiQDPryPG6olO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Habits \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/6YaoDGq5SqvjU4D9oMFj2d) | 4:10 |
-| 28 | [Empire \(Let Them Sing\)](https://open.spotify.com/track/1DbdQp5dwuawBGmxSHw6Fr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:45 |
+| 28 | [Go to Hell, for Heaven's Sake](https://open.spotify.com/track/0Koh9yED8UuaXvg9p5lQdB) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 4:03 |
 | 29 | [Dear Diary,](https://open.spotify.com/track/3DW6GVr7RVyfvo4NBRvZIZ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 2:44 |
 | 30 | [medicine](https://open.spotify.com/track/3GHtEaicELsTViK08EXEQQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:47 |
 | 31 | [Let’s Get The Party Started \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/0vFzdbPUKZKZ9Xn9GfvIS7) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [The Atlas Underground Fire](https://open.spotify.com/album/7kAxJWvGXcU2zebMMvaxFp) | 3:32 |
-| 32 | [Go to Hell, for Heaven's Sake](https://open.spotify.com/track/0Koh9yED8UuaXvg9p5lQdB) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 4:03 |
+| 32 | [Empire \(Let Them Sing\)](https://open.spotify.com/track/1DbdQp5dwuawBGmxSHw6Fr) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:45 |
 | 33 | [Bad Life](https://open.spotify.com/track/1eEK8eQETi8q8bU0lxRMlq) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Bad Life](https://open.spotify.com/album/7tcd0KU4YjcAT9jaP8ebs6) | 3:46 |
 | 34 | [in the dark](https://open.spotify.com/track/4swVflM7KtMxzfHBWqPv9S) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:31 |
 | 35 | [It Never Ends](https://open.spotify.com/track/1ubPOjDpZ5GtGOW8dR4NOh) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [There is a Hell Believe Me I've Seen It\. There is a Heaven Let's Keep it a Secret](https://open.spotify.com/album/6JTBo69T5tEByZEEb4KZYl) | 4:34 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VDZny.md) - [plain]
 | 38 | [mother tongue](https://open.spotify.com/track/5IwUFTiNkarb5HEtNRtRtc) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 3:37 |
 | 39 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/0ceW5TkemJUEmJERavfqQq) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [amo](https://open.spotify.com/album/04mkS7FooK8fRbB626T9NR) | 4:34 |
 
-Snapshot ID: `Zsp0AAAAAAAf5t1dbs6NC3mGKF4t36DY`
+Snapshot ID: `ZsvFgAAAAADyPpnpbMKxge8LGGvLdQcU`

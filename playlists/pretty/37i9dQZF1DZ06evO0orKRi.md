@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 
 ### [This Is Slim Dusty](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0orKRi)
 
-> This is Slim Dusty\. The essential tracks, all in one playlist.
+> This is: Slim Dusty\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,312 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,318 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 44 | [I'm Married To My Bulldog Mack \- 2009 Digital Remaster](https://open.spotify.com/track/0wQNp6E0dtrERTq2Jqy3sA) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 3:18 |
 | 45 | [Star Trucker](https://open.spotify.com/track/5COZ5BrN5waKTpOw6wXQEB) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 4:13 |
 | 46 | [Some Things Never Change Out Here](https://open.spotify.com/track/3HTcXIE7RmBzYP5DrqfZ9h) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Natural High](https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf) | 2:58 |
-| 47 | [The Man From Iron Bark](https://open.spotify.com/track/1AkIXW4jrrD7LXf6dAyc5Y) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 4:09 |
-| 48 | [The Road To Gundagai \- 2004 Remaster](https://open.spotify.com/track/7vKyWcioaiGKFVGQ4ymOSI) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Classic Albums \- 1960's](https://open.spotify.com/album/6YJQPvhGypKpc9gEKwQBPS) | 1:54 |
+| 47 | [The Road To Gundagai \- 2004 Remaster](https://open.spotify.com/track/7vKyWcioaiGKFVGQ4ymOSI) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Classic Albums \- 1960's](https://open.spotify.com/album/6YJQPvhGypKpc9gEKwQBPS) | 1:54 |
+| 48 | [The Man From Iron Bark](https://open.spotify.com/track/1AkIXW4jrrD7LXf6dAyc5Y) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 4:09 |
 | 49 | [Gotta Keep Moving](https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 3:11 |
 | 50 | [Something In The Pilliga](https://open.spotify.com/track/42fl1eHeTq8xsSvNZKoJ9u) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 4:00 |
 
-Snapshot ID: `Zsp0AAAAAADlyQ9LJdgGSyDj8roZnUm4`
+Snapshot ID: `ZsvFgAAAAAAOxmP0wuZLj/2CWVVaKG0o`

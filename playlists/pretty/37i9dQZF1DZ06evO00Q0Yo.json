@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 17677,
+  "num_followers": 17685,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAAvHwDl/E8HK5Rlf3Rw2QWR",
+  "snapshot_id": "ZsvFgAAAAAByi+is3m1kLjPdbzGDJ/9J",
   "tracks": [
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 203043,
-      "name": "Like That Bitch",
-      "url": "https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1"
+      "duration_ms": 106763,
+      "name": "Pockets Bigger",
+      "url": "https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC"
     },
     {
       "added_at": null,
@@ -628,33 +628,29 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 138240,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
+      "duration_ms": 147525,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Snatched (Remix)",
-        "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
+        "name": "swag it! (Remix)",
+        "url": "https://open.spotify.com/album/7KjmXSpjjhHctk0eyQNNEB"
       },
       "artists": [
         {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
         },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        },
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
         }
       ],
-      "duration_ms": 159820,
-      "name": "Snatched (with Flo Milli & Saucy Santana) - Remix",
-      "url": "https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT"
+      "duration_ms": 191526,
+      "name": "swag it! - Remix",
+      "url": "https://open.spotify.com/track/5TH16toxd8LXyTKr35zQja"
     },
     {
       "added_at": null,
@@ -668,9 +664,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 106763,
-      "name": "Pockets Bigger",
-      "url": "https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC"
+      "duration_ms": 203043,
+      "name": "Like That Bitch",
+      "url": "https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1"
     },
     {
       "added_at": null,
@@ -704,9 +700,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 147525,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
+      "duration_ms": 138240,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
     },
     {
       "added_at": null,
@@ -727,38 +723,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "swag it! (Remix)",
-        "url": "https://open.spotify.com/album/7KjmXSpjjhHctk0eyQNNEB"
+        "name": "Snatched (Remix)",
+        "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
       },
       "artists": [
         {
-          "name": "Chow Lee",
-          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
         },
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 191526,
-      "name": "swag it! - Remix",
-      "url": "https://open.spotify.com/track/5TH16toxd8LXyTKr35zQja"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chocolate Rain",
-        "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
-      },
-      "artists": [
+        },
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Chocolate Rain",
-      "url": "https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4"
+      "duration_ms": 159820,
+      "name": "Snatched (with Flo Milli & Saucy Santana) - Remix",
+      "url": "https://open.spotify.com/track/214gn7n7rA6KbRIYpznXJT"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 181875,
       "name": "Expensive (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/6J5arrQW3qOEccgueXbKn0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chocolate Rain",
+        "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Chocolate Rain",
+      "url": "https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Einstein",
-        "url": "https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 135744,
-      "name": "Einstein",
-      "url": "https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whole Family (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 146086,
       "name": "Whole Family (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Einstein",
+        "url": "https://open.spotify.com/album/0UpTiCfVOb3k3tUwMWB6uF"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 135744,
+      "name": "Einstein",
+      "url": "https://open.spotify.com/track/33HNQd77Qvq7luKaQSmuYJ"
     },
     {
       "added_at": null,

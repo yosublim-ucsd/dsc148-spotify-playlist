@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,543 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,648 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 42 | [This Is Not Utopia](https://open.spotify.com/track/7JmbtvmRa0ujQc7HXesX5G) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 2:38 |
 | 43 | [Days Go By](https://open.spotify.com/track/0wDgnPr6qmNH3I9EGsIRu2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 4:01 |
 | 44 | [Session \- 2008 Remaster](https://open.spotify.com/track/5eDT0xin7cj0Ec1pNsxMdU) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ignition \(2008 Remaster\)](https://open.spotify.com/album/5AT58tLypuZu3nVlFQObyF) | 2:32 |
-| 45 | [Takes Me Nowhere](https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:59 |
+| 45 | [Kristy, Are You Doing Okay?](https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:42 |
 | 46 | [The Noose](https://open.spotify.com/track/0ir4rLQH0Ye3yCpWDFL1J7) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Splinter](https://open.spotify.com/album/6mVLRZmHfO3CQIk5e1WXBL) | 3:18 |
 | 47 | [Dirty Magic](https://open.spotify.com/track/0iRJc27fHvcDd7D3mUlZZX) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Days Go By](https://open.spotify.com/album/43NzXURI2kqUYBxWyV6Ep9) | 4:00 |
 | 48 | [Way Down The Line](https://open.spotify.com/track/6hyZliAlUzUmU3sAeWLDwp) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 2:36 |
-| 49 | [Kristy, Are You Doing Okay?](https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 3:42 |
+| 49 | [Takes Me Nowhere](https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:59 |
 | 50 | [Army Of One](https://open.spotify.com/track/5HCgbSD9EPArLlyW7goKIt) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bad Times Roll \(Deluxe Edition\)](https://open.spotify.com/album/7CiSh3Wv5DrOmoxIZhzBYm) | 3:11 |
 | 51 | [Kick Him When He's Down](https://open.spotify.com/track/5r5pPZLoablansl2iYPohk) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ignition](https://open.spotify.com/album/1obNbVrcFQ00nbmC1ZsJT3) | 3:16 |
 
-Snapshot ID: `Zsp0AAAAAABeuMulxnkpEkYMhpZXpleV`
+Snapshot ID: `ZsvFgAAAAACStNQbTndmueWdfzRI1Ty5`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Norah Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,612 likes - 85 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,611 likes - 85 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1x86q4ESOVmMpdoK0FMbya) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 4:16 |
+| 1 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1x86q4ESOVmMpdoK0FMbya) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \- Deluxe](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 4:16 |
 | 2 | [Night Before Christmas](https://open.spotify.com/track/3i2qrGDUbSqCEhMemtbS3x) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Night Before Christmas](https://open.spotify.com/album/6YYiblw7X1CmTZykp5NejW) | 3:36 |
 | 3 | [I'll Be Home For Christmas \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4G0YpYB1Ullb5rgJeJoMcP) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Spotify Singles \- Holiday](https://open.spotify.com/album/2kpdorrZmanV015tDKqZY1) | 3:26 |
 | 4 | [Silver Bells \(feat\. Naturally 7\)](https://open.spotify.com/track/2dnNCViz7wU5FclmN5KcT2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Naturally 7](https://open.spotify.com/artist/769D3IwCDrdPospAd3Hlpi) | [Christmas \- Deluxe 10th Anniversary Edition](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 3:09 |

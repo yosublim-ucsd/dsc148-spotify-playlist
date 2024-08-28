@@ -879,6 +879,28 @@
     },
     {
       "album": {
+        "name": "Barf",
+        "url": "https://open.spotify.com/album/4RTmstfIDxfHpKjnEjbscI"
+      },
+      "artists": [
+        {
+          "name": "Ana Rehman",
+          "url": "https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH"
+        },
+        {
+          "name": "Shubham Shirule",
+          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192328,
+      "name": "Barf",
+      "url": "https://open.spotify.com/track/4RjsIBmaoenrJ3SX4k5b9i"
+    },
+    {
+      "album": {
         "name": "Barsa Hai",
         "url": "https://open.spotify.com/album/1ZUkEiW26xpKQsfHzy8Fwf"
       },
@@ -6416,7 +6438,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 194307,
       "name": "Tasveer",
       "url": "https://open.spotify.com/track/1yXjnMoQ0efLuS9ITfLIJ1"

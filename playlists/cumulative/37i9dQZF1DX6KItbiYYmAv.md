@@ -4,7 +4,7 @@
 
 > Hol dir dein Lieblingscafé nach Hause.
 
-323 songs - 20 hr 38 min
+324 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Georgia](https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:50 | 2022-08-18 | 2024-04-19 |
 | [Georgia](https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:50 | 2024-03-15 |  |
 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 | 2022-08-18 |  |
-| [Girl at Coachella](https://open.spotify.com/track/7DHIgW9qEMP6qkz5PytLM6) | [Tore](https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk) | [Girl at Coachella](https://open.spotify.com/album/2I53wBxUAO4sawuAnUpGX3) | 2:47 | 2024-04-24 |  |
+| [Girl at Coachella](https://open.spotify.com/track/7DHIgW9qEMP6qkz5PytLM6) | [Tore](https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk) | [Girl at Coachella](https://open.spotify.com/album/2I53wBxUAO4sawuAnUpGX3) | 2:47 | 2024-04-24 | 2024-08-28 |
 | [Go Rilla \- Acoustic Version](https://open.spotify.com/track/4LhMshtzPFbPxT0qTucmdF) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Go Rilla \(Acoustic Version\)](https://open.spotify.com/album/2Zg2RPymjzpXOnprsg9e9y) | 4:43 | 2024-03-15 |  |
 | [Gold](https://open.spotify.com/track/3iTi975Q6qnoRKrBL1FNsl) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz), [Maggie Peake](https://open.spotify.com/artist/6NCA2AVIHGles0udtwuoqN) | [Gold](https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE) | 4:16 | 2022-08-18 |  |
 | [Grapevine](https://open.spotify.com/track/5BwfV9vNhDfIysUTyuTbuQ) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 5:25 | 2022-10-27 | 2023-05-10 |
@@ -212,6 +212,7 @@
 | [Paint](https://open.spotify.com/track/6uHvbKL0Yi37AuvNRmUfMw) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Young North](https://open.spotify.com/album/5ERrBoi8CAlmG0pNLjLtsn) | 3:11 | 2022-08-18 | 2024-04-19 |
 | [Pallid Eyes](https://open.spotify.com/track/4mzYFb0DBTFNgyBtdbzznK) | [Emily Jane White](https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh) | [They Moved in Shadow All Together](https://open.spotify.com/album/4olhf0eR1NU9Kin2cNEk1m) | 3:54 | 2024-03-15 |  |
 | [Pancakes and M&M's](https://open.spotify.com/track/0yHhh772JCw4tIZHyfwYj2) | [RILEY MOORE](https://open.spotify.com/artist/4Cj5zXNiBErBVIOFFtWz86) | [Vagrant](https://open.spotify.com/album/0mmyG4fcLY3jwMyTxc2R54) | 4:05 | 2024-03-15 |  |
+| [Persephone](https://open.spotify.com/track/4U6TcZhrqEXYcgbf4TOi5i) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Persephone](https://open.spotify.com/album/3jBE6QNYaSdHfymbE4RBip) | 5:05 | 2024-04-24 |  |
 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 | 2022-08-18 | 2024-04-19 |
 | [Play Me Something Nice](https://open.spotify.com/track/0dABwa1MAM9ABbZjNBpWSb) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Play Me Something Nice](https://open.spotify.com/album/0HRXUt8FaXqFfzvYbH36Ho) | 3:21 | 2022-08-18 | 2023-09-22 |
 | [Play Me Something Nice](https://open.spotify.com/track/4YEoimxmDNIwTDaG6jZmcg) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Play Me Something Nice](https://open.spotify.com/album/2noMzRAfv6SQUWON9GfM5d) | 3:21 | 2022-08-18 | 2022-10-13 |

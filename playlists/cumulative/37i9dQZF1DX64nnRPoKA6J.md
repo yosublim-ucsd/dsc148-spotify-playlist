@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 90s
 
-206 songs - 13 hr 51 min
+207 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Baby, Baby](https://open.spotify.com/track/3IDsegNBHC4pjGCOMTQYlU) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Heart In Motion](https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H) | 3:56 | 2020-11-24 | 2022-07-29 |
 | [Baby, I Love Your Way](https://open.spotify.com/track/6cMeddQ4MtJcsBIQ9B4e6K) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Reality Bites](https://open.spotify.com/album/5SRINK0YUVEOEDMpIl57qA) | 4:24 | 2020-11-24 | 2022-07-29 |
 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 | 2020-11-24 | 2024-04-19 |
+| [Beautiful Life](https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Bridge](https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3) | 3:41 | 2020-11-24 |  |
 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 | 2020-11-24 |  |
 | [Better the Devil You Know](https://open.spotify.com/track/3csEg4Vv1mIBjC6yqdhGif) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Rhythm of Love](https://open.spotify.com/album/6aVWFTl6OIByxHnmQvsM7f) | 3:53 | 2020-11-24 | 2022-07-29 |
 | [Beverly Hills](https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:16 | 2020-11-24 |  |
@@ -126,7 +127,7 @@
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/0IF0vGwaJQ8ZCh0QxhW6OV) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:53 | 2020-11-24 | 2022-07-29 |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/2mqaYmF0XmV8egZB6jQOtN) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:53 | 2020-11-24 | 2024-04-19 |
 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 | 2020-11-24 | 2023-08-29 |
-| [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 | 2020-11-24 |  |
+| [MMMBop](https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:28 | 2020-11-24 | 2024-08-28 |
 | [Mouth](https://open.spotify.com/track/11Ki2bHWXTEug0DAfKcDDD) | [Merril Bainbridge](https://open.spotify.com/artist/0lSDlT2Z5EvUGNIl7WQ7k0) | [The Garden](https://open.spotify.com/album/3p5TJ1ksja0twSGpqPUU19) | 3:25 | 2020-11-24 | 2022-06-17 |
 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 | 2020-11-24 |  |
 | [Mr\. Vain \- Original Radio Edit](https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI) | [Culture Beat](https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8) | [Mr\. Vain](https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj) | 4:17 | 2020-11-24 |  |

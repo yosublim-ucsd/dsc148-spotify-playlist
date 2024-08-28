@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Aug 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 Aug 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 200172,
       "name": "10 Boyfriends",
       "url": "https://open.spotify.com/track/3qySQmUQFaRBdANtETfHca"
+    },
+    {
+      "album": {
+        "name": "100 bux",
+        "url": "https://open.spotify.com/album/732DkEJVj0w1phBu5KJerz"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195093,
+      "name": "100 bux",
+      "url": "https://open.spotify.com/track/25zxKayL0KzDPwPMPuerAh"
     },
     {
       "album": {
@@ -426,6 +444,28 @@
       "duration_ms": 222145,
       "name": "70% Dead (with Corey Taylor)",
       "url": "https://open.spotify.com/track/4gFhDuhoCailJyDV99V0Ww"
+    },
+    {
+      "album": {
+        "name": "808mafia",
+        "url": "https://open.spotify.com/album/3yTpZT6DEFeXcCN8FsKntd"
+      },
+      "artists": [
+        {
+          "name": "Mlody Korden",
+          "url": "https://open.spotify.com/artist/7pSrnhnLz5gKS5LZ9WvhlG"
+        },
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177744,
+      "name": "808mafia",
+      "url": "https://open.spotify.com/track/7k5pY9KttW463wLTUosWKN"
     },
     {
       "album": {
@@ -1182,6 +1222,24 @@
       "duration_ms": 226733,
       "name": "All At Once",
       "url": "https://open.spotify.com/track/1c2rSCRUIh3oXuVCdIBqZR"
+    },
+    {
+      "album": {
+        "name": "ALL EYES ON KIDS",
+        "url": "https://open.spotify.com/album/3tWufi9zYoFWsZKCzFvK0T"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157376,
+      "name": "All eyes on kids",
+      "url": "https://open.spotify.com/track/6UAxAHMb6z2U7St2ylVSgm"
     },
     {
       "album": {
@@ -2604,7 +2662,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 177208,
       "name": "BARMAN",
       "url": "https://open.spotify.com/track/2trw3sZEVbHxqzGX5mvgJI"
@@ -3915,6 +3973,28 @@
     },
     {
       "album": {
+        "name": "Blue Devils - Remix",
+        "url": "https://open.spotify.com/album/77ch85lOWjgikd9GhdcJfy"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148388,
+      "name": "Blue Devils (feat. DaBaby) - Remix",
+      "url": "https://open.spotify.com/track/6ebmbqXoEJxy3v94RuvqFj"
+    },
+    {
+      "album": {
         "name": "Blue Eclipse",
         "url": "https://open.spotify.com/album/27i7l9AUvHWeyNOjahuiFS"
       },
@@ -4186,7 +4266,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 134522,
       "name": "BOOM BAP",
       "url": "https://open.spotify.com/track/2CpQjdYa6NunbPzGUteF4i"
@@ -10358,7 +10438,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 190070,
       "name": "Feel Your Love (Rapture)",
       "url": "https://open.spotify.com/track/71KYvmtTDxWggYdmJP3tTV"
@@ -11328,6 +11408,24 @@
       "duration_ms": 179534,
       "name": "Free as a Bird",
       "url": "https://open.spotify.com/track/6zJ3rWNyg6brHOi1C38nmj"
+    },
+    {
+      "album": {
+        "name": "Free Bank",
+        "url": "https://open.spotify.com/album/2SaexL6qQjrnP7ErIgAk9u"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157569,
+      "name": "Free Bank",
+      "url": "https://open.spotify.com/track/5td5AC7QeQWvM3loFtfZQt"
     },
     {
       "album": {
@@ -15624,7 +15722,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 205241,
       "name": "I'll Wait For You",
       "url": "https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI"
@@ -15790,7 +15888,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 91533,
       "name": "ICU FREESTYLE",
       "url": "https://open.spotify.com/track/0EukcHRuiwUh95jkxhvf6Y"
@@ -17214,7 +17312,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 190433,
       "name": "Knocking At My Door",
       "url": "https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE"
@@ -21917,6 +22015,24 @@
     },
     {
       "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/7GFk4CqSsmdLSXUqMt7qeo"
+      },
+      "artists": [
+        {
+          "name": "The Airborne Toxic Event",
+          "url": "https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195289,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/47SV283bRGDz95w4G9UErl"
+    },
+    {
+      "album": {
         "name": "nothing like uuu",
         "url": "https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33"
       },
@@ -22226,6 +22342,24 @@
       "duration_ms": 350506,
       "name": "Old Dutch",
       "url": "https://open.spotify.com/track/6xzukjDwYDApBimL17JEA8"
+    },
+    {
+      "album": {
+        "name": "Old Life",
+        "url": "https://open.spotify.com/album/2NOsAyyRvKwWgWWHEPGc4N"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180720,
+      "name": "Old Life",
+      "url": "https://open.spotify.com/track/3Sw3JIOSE6E7InuGDZdaC0"
     },
     {
       "album": {
@@ -22962,7 +23096,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 188031,
       "name": "Overstimulated",
       "url": "https://open.spotify.com/track/1AhcxIxXrVw4GlOPOjgOvn"
@@ -24696,7 +24830,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 141443,
       "name": "RABBITHOLE",
       "url": "https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR"
@@ -26456,6 +26590,24 @@
       "duration_ms": 194526,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/37pvFua1WWa0a8eLHLgWKj"
+    },
+    {
+      "album": {
+        "name": "Savior Of None / Ashes Of All",
+        "url": "https://open.spotify.com/album/6q9hP08s2GGMeNferg4POA"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254026,
+      "name": "Savior Of None / Ashes Of All",
+      "url": "https://open.spotify.com/track/4rkjQlKpCN4LO8oK6du9tR"
     },
     {
       "album": {
@@ -30316,7 +30468,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 173515,
       "name": "Tears on the dancefloor",
       "url": "https://open.spotify.com/track/0OXC7IGzv3OmxZBXhtC522"
@@ -33203,6 +33355,24 @@
     },
     {
       "album": {
+        "name": "Untruth",
+        "url": "https://open.spotify.com/album/1y0OmHEMAbh1SuPEsqa5ok"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279250,
+      "name": "Untruth",
+      "url": "https://open.spotify.com/track/3BoYZLAdGWJNq4RRRkDsh7"
+    },
+    {
+      "album": {
         "name": "Up In The Sky (Monnow Valley Version)",
         "url": "https://open.spotify.com/album/0aLybeSnxTwUCI1AB2pA9E"
       },
@@ -34768,6 +34938,24 @@
       "duration_ms": 206937,
       "name": "Why Aren't You Dancing?",
       "url": "https://open.spotify.com/track/7xNQbooHAWyxVcS2yfq3JL"
+    },
+    {
+      "album": {
+        "name": "NOWHERE",
+        "url": "https://open.spotify.com/album/0hDvvDtml8vWlyrTbVjpPw"
+      },
+      "artists": [
+        {
+          "name": "NOWADAYS",
+          "url": "https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "Why Not?",
+      "url": "https://open.spotify.com/track/1wp4gFHcCTxn9vLddtFIiI"
     },
     {
       "album": {
@@ -36432,7 +36620,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 224498,
       "name": "\u624d\u4e8c\u5341\u4e09",
       "url": "https://open.spotify.com/track/6n3qQHQbECGcP0n6vlw2kF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,670 likes - 90 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,701 likes - 90 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 40 | [La Paloma](https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Paloma](https://open.spotify.com/album/6DgVAve7m06lb2ubFqp3J3) | 3:44 |
 | 41 | [No Te Rindas](https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf) | [Destino San Javier](https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW) | [No Te Rindas](https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6) | 3:39 |
 | 42 | [No Quisiera Quererte](https://open.spotify.com/track/0HTIPqLDGZn7EPcyzBsulh) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Origen](https://open.spotify.com/album/2fRkKUdqsuAibqPjvxUBoK) | 3:47 |
-| 43 | [Quisiera](https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 4:09 |
-| 44 | [Eterno Amor](https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Eterno Amor](https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg) | 4:08 |
+| 43 | [Eterno Amor](https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts) | [Los Tabaleros](https://open.spotify.com/artist/6aGMO33ETXuACXj9KfoyQg) | [Eterno Amor](https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg) | 4:08 |
+| 44 | [Quisiera](https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f) | [Los Puesteros](https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY) | [Repechando la Senda](https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW) | 4:09 |
 | 45 | [Ella](https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr) | [Canto Del Alma](https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa) | [Ella](https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J) | 3:05 |
-| 46 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 |
-| 47 | [Ya No Juegues Conmigo](https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:45 |
+| 46 | [Ya No Juegues Conmigo](https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Tierra Mia](https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK) | 2:45 |
+| 47 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 |
 | 48 | [La del Olvido](https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 4:09 |
 | 49 | [No me quiero ir](https://open.spotify.com/track/3f1PnODNw1ZNxtywrhtgJr) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [No me quiero ir](https://open.spotify.com/album/27IWbwdFn9XVoVdFpbtutD) | 4:10 |
 | 50 | [Nada](https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Nada](https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB) | 3:33 |
-| 51 | [Vidala del Amor Sincero \(feat\. Fernando Barrientos\)](https://open.spotify.com/track/4Y6BTOTNAA0rcjmyHsotnZ) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Fernando Barrientos](https://open.spotify.com/artist/6cQZ4elRhcBlcxWuw1Ypus) | [Retrato de Familia](https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT) | 3:11 |
-| 52 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 |
+| 51 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 |
+| 52 | [Vidala del Amor Sincero \(feat\. Fernando Barrientos\)](https://open.spotify.com/track/4Y6BTOTNAA0rcjmyHsotnZ) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Fernando Barrientos](https://open.spotify.com/artist/6cQZ4elRhcBlcxWuw1Ypus) | [Retrato de Familia](https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT) | 3:11 |
 | 53 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 |
 | 54 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 |
 | 55 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 |

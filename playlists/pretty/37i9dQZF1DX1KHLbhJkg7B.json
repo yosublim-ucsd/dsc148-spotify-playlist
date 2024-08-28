@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Kane Brown",
-  "num_followers": 116153,
+  "num_followers": 116196,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-08-01 16:18:31",
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
+        "name": "You're Still The One",
+        "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
       },
       "artists": [
         {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+          "name": "Ryan Waters Band",
+          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
         }
       ],
-      "duration_ms": 162411,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
+      "duration_ms": 195455,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
     },
     {
       "added_at": "2024-08-01 16:18:31",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-08-01 16:18:31",
       "album": {
-        "name": "You're Still The One",
-        "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
       },
       "artists": [
         {
-          "name": "Ryan Waters Band",
-          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
         }
       ],
-      "duration_ms": 195455,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
+      "duration_ms": 162411,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
     },
     {
       "added_at": "2024-08-01 16:18:31",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-08-01 16:18:31",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
-      },
-      "artists": [
-        {
-          "name": "Sam Donald",
-          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
-        }
-      ],
-      "duration_ms": 312666,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
-    },
-    {
-      "added_at": "2024-08-01 16:18:31",
-      "album": {
         "name": "Carrying Your Love With Me (Spotify Singles)",
         "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 243920,
       "name": "Carrying Your Love With Me - Spotify Singles",
       "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
+    },
+    {
+      "added_at": "2024-08-01 16:18:31",
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
+      },
+      "artists": [
+        {
+          "name": "Sam Donald",
+          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
+        }
+      ],
+      "duration_ms": 312666,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
     },
     {
       "added_at": "2024-08-01 16:18:31",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-08-01 16:18:31",
       "album": {
-        "name": "Georgia on My Mind",
-        "url": "https://open.spotify.com/album/1DoGf1omIVvFOHrVOOAAMa"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 253642,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/6HiFnWODv0Cn8CkNpYpAoL"
-    },
-    {
-      "added_at": "2024-08-01 16:18:31",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 371448,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
+    },
+    {
+      "added_at": "2024-08-01 16:18:31",
+      "album": {
+        "name": "Georgia on My Mind",
+        "url": "https://open.spotify.com/album/1DoGf1omIVvFOHrVOOAAMa"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 253642,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/6HiFnWODv0Cn8CkNpYpAoL"
     },
     {
       "added_at": "2024-08-01 16:18:31",

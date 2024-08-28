@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1032417,
+  "num_followers": 1032346,
   "original_name": "perrear y llorar \ud83e\udd72",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,26 @@
     {
       "added_at": "2024-06-07 09:33:04",
       "album": {
+        "name": "Mis Ojos Lloran Por Ti",
+        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
+      },
+      "artists": [
+        {
+          "name": "Big Boy",
+          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
+        },
+        {
+          "name": "Angel Lopez",
+          "url": "https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Mis Ojos Lloran Por Ti",
+      "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
+    },
+    {
+      "added_at": "2024-06-07 09:33:04",
+      "album": {
         "name": "Error 93",
         "url": "https://open.spotify.com/album/5zbO01D6uIqC2ejQSQEN2O"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 305113,
       "name": "Nada",
       "url": "https://open.spotify.com/track/7DOh0tBGnyMt6C5OO7o8Yq"
-    },
-    {
-      "added_at": "2024-06-07 09:33:04",
-      "album": {
-        "name": "Mis Ojos Lloran Por Ti",
-        "url": "https://open.spotify.com/album/5o36XrjVl3YdBYqt0p57Gc"
-      },
-      "artists": [
-        {
-          "name": "Big Boy",
-          "url": "https://open.spotify.com/artist/5bVQN1TENxjVjWXNHHpflG"
-        },
-        {
-          "name": "Angel Lopez",
-          "url": "https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "Mis Ojos Lloran Por Ti",
-      "url": "https://open.spotify.com/track/4fFgpzgSkmn3wajioLBPOr"
     },
     {
       "added_at": "2024-06-07 09:33:04",

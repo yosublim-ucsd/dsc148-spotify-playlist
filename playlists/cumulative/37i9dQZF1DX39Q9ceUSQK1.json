@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Anywhere but Here",
+        "url": "https://open.spotify.com/album/2gHdcrdUx7GwCavOrDnXTC"
+      },
+      "artists": [
+        {
+          "name": "Naive Set",
+          "url": "https://open.spotify.com/artist/1SPS81Jo8TCGUCiQIEfLYh"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193386,
+      "name": "Anywhere but Here",
+      "url": "https://open.spotify.com/track/26atzyt7k7kQhFojC9gB1k"
+    },
+    {
+      "album": {
         "name": "BADMAN",
         "url": "https://open.spotify.com/album/2PAbdMKsxkev1Xt8E2xmLt"
       },
@@ -204,6 +222,24 @@
       "duration_ms": 187692,
       "name": "Calling After Me",
       "url": "https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL"
+    },
+    {
+      "album": {
+        "name": "Cat 5 (Cyclone)",
+        "url": "https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222154,
+      "name": "Cat 5 (Cyclone)",
+      "url": "https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg"
     },
     {
       "album": {
@@ -506,7 +542,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 248648,
       "name": "Goldy",
       "url": "https://open.spotify.com/track/1wZ5OdmhssZf89vdd1ipWR"
@@ -528,6 +564,24 @@
       "duration_ms": 190828,
       "name": "High In Low Places",
       "url": "https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq"
+    },
+    {
+      "album": {
+        "name": "Still Willing",
+        "url": "https://open.spotify.com/album/1xcnndeaNzEVp5DC97ka1o"
+      },
+      "artists": [
+        {
+          "name": "Personal Trainer",
+          "url": "https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177867,
+      "name": "I Can Be Your Personal Trainer",
+      "url": "https://open.spotify.com/track/5BUXRb2mj07Jhglst2dUpz"
     },
     {
       "album": {
@@ -1313,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Sick Of The Blues",
+        "url": "https://open.spotify.com/album/300fGC25ykyxbLrazATeMP"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203769,
+      "name": "Sick Of The Blues",
+      "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
+    },
+    {
+      "album": {
         "name": "Society's Fixation Seeker",
         "url": "https://open.spotify.com/album/0RuIqeRNLcpZJ2JtfZsPeo"
       },
@@ -1328,6 +1400,24 @@
       "duration_ms": 186253,
       "name": "Society's Fixation Seeker",
       "url": "https://open.spotify.com/track/5qQwPmOwM1yIHadiimVqjW"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221450,
+      "name": "Starburster",
+      "url": "https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0"
     },
     {
       "album": {

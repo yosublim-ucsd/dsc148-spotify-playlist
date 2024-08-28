@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 
 > Feeling like summer in 03'
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,784 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,815 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ULBOpkEmiz.md) - [plain]
 | 47 | [Between Me & You](https://open.spotify.com/track/4xwRtK6tfMp4yZwcDvY0gT) | [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6), [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Rule 3:36](https://open.spotify.com/album/2PIXzzS8WEzv8Ws92qspEH) | 4:10 |
 | 48 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 |
 | 49 | [Excuse Me Miss](https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 4:41 |
-| 50 | [U Already Know](https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Pleasure & Pain](https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72) | 3:18 |
+| 50 | [Some Cut \(feat\. Cutty\)](https://open.spotify.com/track/07u02f6biDHx5VexfAs41b) | [Trillville](https://open.spotify.com/artist/3jahzTuztFVegfKXChatkY), [Cutty](https://open.spotify.com/artist/3jhkLfgJKRu9Lb0AQd7fkB) | [The King Of Crunk & BME Recordings Present: Welcome to Trillville USA](https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu) | 4:43 |
 
 Snapshot ID: `ZI+0zAAAAAC0CfLactMmE/9UHQBVkwg3`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 ### [This Is Deorro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO462cZX)
 
-> This Is Deorro\. Los temas esenciales, todos en una lista.
+> This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,305 likes - 52 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,310 likes - 52 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 48 | [Se Vuelve Loca](https://open.spotify.com/track/3bh4Tf5754uY0UeqiACbvP) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 2:52 |
 | 49 | [Esta Vida \- Deorro Remix](https://open.spotify.com/track/2HRa9MR7Sqy3T6WbdpF3Rj) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Esta Vida \(Deorro Remix\)](https://open.spotify.com/album/44YcxUjkh3CAQlTJAFtIAl) | 3:59 |
 | 50 | [Freak \(feat\. Steve Bays\)](https://open.spotify.com/track/0GATmBanwPiHQBfl2mDq3o) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Steve Bays](https://open.spotify.com/artist/6vomg8FUuwmHqjYSQXL6SO) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 4:41 |
-| 51 | [Knockout](https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Knockout](https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2) | 2:23 |
-| 52 | [Left Right](https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Left Right](https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ) | 2:35 |
+| 51 | [Left Right](https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Left Right](https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ) | 2:35 |
+| 52 | [Knockout](https://open.spotify.com/track/7MGCdXA9hghopcTiSmYFus) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Knockout](https://open.spotify.com/album/3VKjluDP1GV9gFTYEBh2V2) | 2:23 |
 
-Snapshot ID: `Zsp0AAAAAAAyoP81MKaxzTuhqYB7ilmx`
+Snapshot ID: `ZsvFgAAAAADelK/0qAEwfVT/i12qqHZR`

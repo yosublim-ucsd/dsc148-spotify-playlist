@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,447 likes - 253 songs - 16 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,451 likes - 253 songs - 16 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 76 | [Mistaken for Strangers](https://open.spotify.com/track/3ZzqHdvCdoeOhVnhRiUn8f) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:30 |
 | 77 | [Dark Side of the Gym](https://open.spotify.com/track/5nKH6bOVogJdgfH031s1P1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 4:50 |
 | 78 | [Tough Love](https://open.spotify.com/track/6WEXy56jM0Nl3bZHY9l7aH) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:49 |
-| 79 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 |
-| 80 | [I should hate you](https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 |
+| 79 | [I should hate you](https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:18 |
+| 80 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 |
 | 81 | [Camden](https://open.spotify.com/track/1NAWiOec7X7xTa24nXQFCG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 4:06 |
 | 82 | [Start a War](https://open.spotify.com/track/2Tk7IZ4XHXCGRFxSaP40qB) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:16 |
 | 83 | [You Had Your Soul With You](https://open.spotify.com/track/5cBrqDgmdbgH6ncuy1hGDs) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:26 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 90 | [Let It Happen](https://open.spotify.com/track/7mFhyM0k5ZKG8jxcwmPVYl) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:20 |
 | 91 | [I Won't Run From It](https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 3:38 |
 | 92 | [Afraid of Everyone](https://open.spotify.com/track/2tke0O2wnNKYAZieWuG1ET) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/4vBvnlmaiyoEf04hLe5SLo) | 4:19 |
-| 93 | [Mr\. November](https://open.spotify.com/track/6GmoLmBISzLomNjM18dFgz) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Alligator](https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs) | 4:00 |
-| 94 | [Free Now](https://open.spotify.com/track/1aThn8Pk8zRzGGPClZe9Oq) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 3:34 |
+| 93 | [Free Now](https://open.spotify.com/track/1aThn8Pk8zRzGGPClZe9Oq) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 3:34 |
+| 94 | [Mr\. November](https://open.spotify.com/track/6GmoLmBISzLomNjM18dFgz) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Alligator](https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs) | 4:00 |
 | 95 | [Spark](https://open.spotify.com/track/26J3f0d3ZuN7g66xBdey8o) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:34 |
 | 96 | [Sycamore](https://open.spotify.com/track/3qwxZ8ygOYSWE790KcfgU1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:50 |
 | 97 | [Borderline](https://open.spotify.com/track/0bCnvkP7PYCJV64sQLl5mm) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:57 |
@@ -127,15 +127,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 117 | [Born to Beg](https://open.spotify.com/track/5oMorrhWYwqvcBEFsT2Pkx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 4:22 |
 | 118 | [The blue](https://open.spotify.com/track/7jkelF6xQ9oM8BEZRARhhC) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 5:00 |
 | 119 | [Moving \- Bonus Track](https://open.spotify.com/track/0Himk13I9FPFVwSyPhU3WD) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:35 |
-| 120 | [Hard to Sleep](https://open.spotify.com/track/3ofi5ZcJjLuRgS3FX4U6yG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 4:15 |
-| 121 | [Gave You I Gave You I](https://open.spotify.com/track/0SKJtq3JoXs7A3UjaNLKWJ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:29 |
+| 120 | [Gave You I Gave You I](https://open.spotify.com/track/0SKJtq3JoXs7A3UjaNLKWJ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:29 |
+| 121 | [Hard to Sleep](https://open.spotify.com/track/3ofi5ZcJjLuRgS3FX4U6yG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 4:15 |
 | 122 | [Plastic Bag](https://open.spotify.com/track/1qvqgg3r67ayzIfuBMTJSV) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:49 |
 | 123 | [Amazing](https://open.spotify.com/track/4fUMgL19kixzHhrttFZXsD) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 4:05 |
 | 124 | [Ada](https://open.spotify.com/track/3ec6fb3DxyGkjGFP3MnVsg) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 4:03 |
 | 125 | [Where Is Her Head](https://open.spotify.com/track/7feLRaxYCAznOMuFVgJluq) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 4:41 |
 | 126 | [Lucky You](https://open.spotify.com/track/19GDzR3zE3TekzL8FwmPUy) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers](https://open.spotify.com/album/2GXoU6gpOlx1oZ0DkNgrUM) | 4:22 |
-| 127 | [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 |
-| 128 | [Normal Thing](https://open.spotify.com/track/1MPulKrmSK9EW5IrawhdRs) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 |
+| 127 | [Normal Thing](https://open.spotify.com/track/1MPulKrmSK9EW5IrawhdRs) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 |
+| 128 | [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 |
 | 129 | [Augusta](https://open.spotify.com/track/35h0oVv5uf0WPNMaFAmNXS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:57 |
 | 130 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/0hMqlU7TLbX2HaYmwHPquP) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 4:24 |
 | 131 | [Abel](https://open.spotify.com/track/0XKXeiNCDf9jlK1YmkM1cX) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Alligator](https://open.spotify.com/album/3Dyqes0WX7jN0kSVwoOhKs) | 3:37 |
@@ -262,4 +262,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 252 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 253 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `Abae/AAAAADJpuxUfxMFCWwdVGYKmcqg`
+Snapshot ID: `AbaknAAAAABcJ61PVx8cfBYbmKDHUXPd`

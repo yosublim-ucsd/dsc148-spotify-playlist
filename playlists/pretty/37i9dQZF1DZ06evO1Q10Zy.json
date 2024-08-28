@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 35080,
+  "num_followers": 35087,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACLhE46H+uJtwvHQ2F7Q1ll",
+  "snapshot_id": "ZsvFgAAAAAAKe1+Dd5+mEaiBIxo6JBiV",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "As a matter of fact",
+        "url": "https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 144581,
+      "name": "As a matter of fact",
+      "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
       },
@@ -555,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "As a matter of fact",
-        "url": "https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh"
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
       "artists": [
         {
@@ -564,9 +580,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 144581,
-      "name": "As a matter of fact",
-      "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
+      "duration_ms": 309333,
+      "name": "Where Will You Go",
+      "url": "https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
       "duration_ms": 285333,
       "name": "Fire",
       "url": "https://open.spotify.com/track/3CQvoSewlRebIqDKjWQGig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 309333,
-      "name": "Where Will You Go",
-      "url": "https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9"
     },
     {
       "added_at": null,
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Night Out (Extended)",
-        "url": "https://open.spotify.com/album/4PXpm2KQF7XLi1ngOhkdNb"
+        "name": "Seamless (with Kehlani)",
+        "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
       },
       "artists": [
         {
@@ -940,13 +940,13 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         },
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 195579,
-      "name": "Sometimes (with Jenevieve)",
-      "url": "https://open.spotify.com/track/6PKUK8e414fvSvVDGTdirr"
+      "duration_ms": 195265,
+      "name": "Seamless (with Kehlani)",
+      "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
     }
   ],
   "unique_name": "This Is Babyface",

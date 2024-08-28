@@ -2,7 +2,7 @@
 
 ### [This Is Ma Rainey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RsbvN)
 
-> This is Ma Rainey\. Todos os maiores hits em uma só playlist.
+> This is Ma Rainey\. The essential tracks, all in one playlist.
 
 201 songs - 10 hr 6 min
 
@@ -166,7 +166,7 @@
 | [Slave To The Blues](https://open.spotify.com/track/0tGs8feVlnuw2HiEITqVZI) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:37 | 2022-09-29 |  |
 | [Slave To The Blues](https://open.spotify.com/track/5iQ61QDLvSjq2TJMp3KIiC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 3 \(1925\-1926\)](https://open.spotify.com/album/4LJpa2SOh2MO6eoZJpA8ht) | 2:42 | 2022-08-05 | 2022-09-29 |
 | [Sleep Talking Blue](https://open.spotify.com/track/4MmXwbThRxeUJQGSVA83ZX) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/0PbCqRfg9MogkpnDtEf69H) | 3:12 | 2024-03-06 | 2024-05-29 |
-| [Sleep Talking Blues](https://open.spotify.com/track/4zQn7mT2nAG9CNzor0FX4n) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:11 | 2024-06-04 | 2024-07-24 |
+| [Sleep Talking Blues](https://open.spotify.com/track/4zQn7mT2nAG9CNzor0FX4n) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:11 | 2024-06-04 |  |
 | [Sleep Talking Blues \(Take 1\)](https://open.spotify.com/track/7GNYi4PQU0MW6DFO28vTe2) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey's Black Bottom](https://open.spotify.com/album/661JpV4HLgxk1McL8qMc43) | 3:13 | 2022-08-05 | 2024-03-05 |
 | [Sleep Talking Blues: 1](https://open.spotify.com/track/3m0sFNMdJEFUsbBWZc0lex) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD E](https://open.spotify.com/album/78tNbKD0U0z7jyxPdu82in) | 3:13 | 2022-08-05 |  |
 | [Slow Driving Moan](https://open.spotify.com/track/5wzTmistw3k9xKzEnCgeyv) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/1AAdNiv2uXmr9S7kAay7n9) | 2:59 | 2022-08-05 | 2024-08-27 |
@@ -191,7 +191,7 @@
 | [Tough Luck Blues](https://open.spotify.com/track/3aJkuDXd1zwqhzaj9mxkFM) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey \(1928\)](https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2) | 3:08 | 2022-09-14 | 2024-08-10 |
 | [Traveling Blues](https://open.spotify.com/track/4Pcxzk9sLRQ6gAd6RuTV3t) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey \(1928\)](https://open.spotify.com/album/3AoDzrx5ta41lXlEY8nZg2) | 2:47 | 2022-08-05 |  |
 | [Travelling Blues: 2](https://open.spotify.com/track/3Dzmsx87ArkZ8nz66EXzgM) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD E](https://open.spotify.com/album/78tNbKD0U0z7jyxPdu82in) | 2:54 | 2023-05-31 | 2024-06-25 |
-| [Trust No Man](https://open.spotify.com/track/3PAulJT2bsBGknIQ9BvYCU) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:07 | 2022-08-05 |  |
+| [Trust No Man](https://open.spotify.com/track/3PAulJT2bsBGknIQ9BvYCU) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 3:07 | 2022-08-05 | 2024-08-28 |
 | [Victim Of The Blues](https://open.spotify.com/track/32NumLaEcf0Om30yt0P3JG) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey](https://open.spotify.com/album/62spmsoOdWsaM8Q9itsM1j) | 2:32 | 2022-09-08 | 2024-07-30 |
 | [Walking Blues](https://open.spotify.com/track/4t11GnsI5rKefqujmy1Vie) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Moonshine Blues](https://open.spotify.com/album/1CeuJJb99wlONrv0GcHiGy) | 3:11 | 2024-06-01 | 2024-06-02 |
 | [Walking Blues](https://open.spotify.com/track/5sQKy53SE8Vj1noM9tRa0g) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 3:11 | 2022-11-11 |  |

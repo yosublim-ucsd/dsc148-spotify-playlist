@@ -4,7 +4,7 @@
 
 > metalcore at its best\. Cover: Fit For A King
 
-989 songs - 2 day 13 hr 22 min
+991 songs - 2 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Call It Home](https://open.spotify.com/track/1jdcRfcIYZuorAcGDmHapO) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Call It Home](https://open.spotify.com/album/65cX0qLgpscBtANqVWZs0Z) | 3:30 | 2022-05-13 | 2022-11-24 |
 | [Calling You](https://open.spotify.com/track/68j6RDtKgoN4Ei8eoDOSjO) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Calling You](https://open.spotify.com/album/2IgooFSzVdwB8BXKzoy1lz) | 3:37 | 2022-01-14 | 2022-07-23 |
 | [Careless Offering](https://open.spotify.com/track/1Z9hcTK8kolIJz2387Qi48) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [Heavy Pendulum](https://open.spotify.com/album/7tsD5NnZCCk1RxnIIYwY7t) | 4:55 | 2022-05-20 | 2022-08-20 |
-| [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 | 2023-09-15 |  |
+| [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 | 2023-09-15 | 2024-08-28 |
 | [Castle In The Sky](https://open.spotify.com/track/3G6HSTP5Y63jis4xaOCmNT) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Castle In The Sky](https://open.spotify.com/album/0kDBMVEXfjZu41hYyzJ9Bl) | 5:04 | 2024-07-12 | 2024-08-26 |
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-07-13 | 2022-07-18 |
 | [Cave](https://open.spotify.com/track/5eoPFyNeOVBCqjKjVVcv6o) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Secrets of the Future](https://open.spotify.com/album/0GfPp0gIk1lHC5CFLFkECW) | 3:43 | 2024-06-10 | 2024-07-19 |
@@ -255,6 +255,7 @@
 | [Dedication To Flesh](https://open.spotify.com/track/2YriJLI67y3fYH3KHX29jM) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [Dedication To Flesh](https://open.spotify.com/album/2hmLg7OKMRe5XRInb1si67) | 3:26 | 2022-08-19 | 2022-12-17 |
 | [Defeating Gravity](https://open.spotify.com/track/2tWY9liu4YQs4WM3hOLdnP) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Defeating Gravity](https://open.spotify.com/album/3ScSXOlja6qwDv2Knrkd2c) | 3:06 | 2022-04-22 | 2022-07-08 |
 | [Defiance](https://open.spotify.com/track/3ABwHp5CgD7lIbLYuVbCUY) | [ENOX](https://open.spotify.com/artist/29giH6njkq3yqb6lIf4dou) | [Euphoria](https://open.spotify.com/album/5YEVvBgnmWsTbzxtLjSBNM) | 3:57 | 2022-01-14 | 2022-04-29 |
+| [Demon Killer](https://open.spotify.com/track/491Y81WE8NvyqRdHGMODPu) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Phenomena II](https://open.spotify.com/album/3f9kyaXtbKIFuSh85ZBHQo) | 5:18 | 2024-08-25 |  |
 | [Demon King](https://open.spotify.com/track/3k7V2I8tZRausER37oVADQ) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Demon King](https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC) | 3:55 | 2022-07-13 | 2022-07-22 |
 | [Demon King](https://open.spotify.com/track/7ynraW89Jj7tPYLaNihl6v) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod), [Ryo Kinoshita](https://open.spotify.com/artist/0hFOSb4sdsDLsAhwwSheWH) | [Demon King](https://open.spotify.com/album/7mQTEBCTYqQL58cJwGQBbn) | 3:57 | 2022-07-13 | 2022-07-23 |
 | [Demons](https://open.spotify.com/track/2HCTiLjTqadpandq5oS3zW) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Demons](https://open.spotify.com/album/0fKZsfwewHCK4rbFg0MDOA) | 3:55 | 2022-01-21 | 2022-04-29 |
@@ -296,7 +297,7 @@
 | [DRAG ME UNDER](https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [DRAG ME UNDER](https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe) | 3:31 | 2024-08-25 |  |
 | [Drag Me Under](https://open.spotify.com/track/2CwBf7BQoztOsPNUszOOv8) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Drag Me Under](https://open.spotify.com/album/05KgX2I0e6LKvBWlUmRW0H) | 3:45 | 2023-02-10 | 2024-01-13 |
 | [Dreaming Desecration](https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Absolvere](https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx) | 3:41 | 2022-07-13 | 2022-07-22 |
-| [Dreamlike](https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike](https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW) | 3:28 | 2023-05-05 |  |
+| [Dreamlike](https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike](https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW) | 3:28 | 2023-05-05 | 2024-08-28 |
 | [Dreamstate](https://open.spotify.com/track/53SIguo0ftQQXu9pXJENSo) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Dreamstate](https://open.spotify.com/album/72FaMZE6GlaPHXKm5DvTof) | 4:00 | 2024-07-12 |  |
 | [Drone Corpse Aviator](https://open.spotify.com/track/0dV79XvxIl9godBsFty67L) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Drone Corpse Aviator](https://open.spotify.com/album/01yB2i7kzFVpD8naiAfUSs) | 3:46 | 2022-07-13 | 2022-07-15 |
 | [Drown](https://open.spotify.com/track/5T7MwiVZR9HCW1TBPJR0gP) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Drown](https://open.spotify.com/album/1d0POcigL7sG85X4KpwZzg) | 3:28 | 2023-05-22 | 2024-02-24 |
@@ -949,6 +950,7 @@
 | [W.a.R](https://open.spotify.com/track/75ipV1ycKTZuy6CYb6wa0j) | [Main\-De\-Gloire](https://open.spotify.com/artist/1YcOnsBEycC9X5OY6kUzmV) | [W.A.R](https://open.spotify.com/album/5K1VQBpd6392NncfwKl6kG) | 3:27 | 2023-02-03 | 2023-05-06 |
 | [Wake The Dead](https://open.spotify.com/track/2DayUFU47R0WQQsvB3KPk3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/7JfMevv73honn9mW7ZenHs) | 3:07 | 2023-10-27 | 2024-04-19 |
 | [Wake The Dead](https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu) | 3:07 | 2023-05-26 | 2024-05-11 |
+| [Walk Away](https://open.spotify.com/track/1TK3lggm7HZ00nQp01uUTu) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Walk Away](https://open.spotify.com/album/0kQCM0BNxFbSxPs0EFtwvN) | 3:29 | 2024-08-25 |  |
 | [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 | 2022-09-10 |
 | [Walking Blind](https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f) | [No Bragging Rights](https://open.spotify.com/artist/6b0TUydvuFHiCMET4SZ0L2) | [Walking Blind](https://open.spotify.com/album/46cPXcE6C6aquvvABKjLfU) | 3:17 | 2021-12-17 | 2022-02-11 |
 | [Wants I Need](https://open.spotify.com/track/1NLm08vnkwjxz1WfxsrXUs) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Craig Owens](https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv) | [Wants I Need](https://open.spotify.com/album/2pvZFLMtLJZL5HzSRWndPA) | 4:19 | 2024-08-12 | 2024-08-27 |

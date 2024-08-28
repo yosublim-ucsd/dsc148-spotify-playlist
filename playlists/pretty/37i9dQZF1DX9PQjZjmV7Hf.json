@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 51742,
+  "num_followers": 51753,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Wrong or Right",
+      "url": "https://open.spotify.com/track/6qY4SYsByMNcrhVjSMd0Ow"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 240895,
       "name": "None of This",
       "url": "https://open.spotify.com/track/3sG8wVhIbQjJfPWICb4TVk"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Wrong or Right",
-      "url": "https://open.spotify.com/track/6qY4SYsByMNcrhVjSMd0Ow"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -731,6 +731,26 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
+      },
+      "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 185155,
+      "name": "Effortless",
+      "url": "https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
@@ -763,26 +783,6 @@
       "duration_ms": 151980,
       "name": "Special",
       "url": "https://open.spotify.com/track/6skKn3fQ37z7m5hfl9jAr3"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/1r7w42IgRTrBtFG5atqDud"
-      },
-      "artists": [
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        },
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 185155,
-      "name": "Effortless",
-      "url": "https://open.spotify.com/track/0Zx7njsXzVa0rTX1h2K9qd"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "OUTSIDE",
+        "url": "https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL"
+      },
+      "artists": [
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        }
+      ],
+      "duration_ms": 104803,
+      "name": "BET",
+      "url": "https://open.spotify.com/track/7mKJak60o7cmixVEfggraL"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Young And Turnt",
         "url": "https://open.spotify.com/album/6ghfhTnYBG1W5Ky22OhJzD"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 200000,
       "name": "Backdoor",
       "url": "https://open.spotify.com/track/1MUsTqcuOaBeMnEL73K4fS"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "OUTSIDE",
-        "url": "https://open.spotify.com/album/3gn74laPFNRL9OO9GHLxZL"
-      },
-      "artists": [
-        {
-          "name": "Bino Rideaux",
-          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
-        }
-      ],
-      "duration_ms": 104803,
-      "name": "BET",
-      "url": "https://open.spotify.com/track/7mKJak60o7cmixVEfggraL"
     },
     {
       "added_at": "2022-10-01 20:14:07",

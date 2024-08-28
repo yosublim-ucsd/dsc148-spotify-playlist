@@ -1,15 +1,63 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1769148,
+  "num_followers": 1769162,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ll/q8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
+        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
+      },
+      "artists": [
+        {
+          "name": "I'll Take You There Choir",
+          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
+      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 214033,
+      "name": "TUDO",
+      "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "\u00c9 o Grelo",
         "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
@@ -25,7 +73,7 @@
       "url": "https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -45,39 +93,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
-      },
-      "artists": [
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 214033,
-      "name": "TUDO",
-      "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/30wCOCKeicLp3ErOHhkBAb"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 119558,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/3Hxv2EYJcBjiN96yJi6djY"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
@@ -93,23 +109,39 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/30wCOCKeicLp3ErOHhkBAb"
       },
       "artists": [
         {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
         }
       ],
-      "duration_ms": 196702,
-      "name": "De Gra\u00e7a ou Pagando",
-      "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/3Hxv2EYJcBjiN96yJi6djY"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Kabul Olan Tek Duams\u0131n",
+        "url": "https://open.spotify.com/album/711zVBGg9kjmtHfcHZIZZE"
+      },
+      "artists": [
+        {
+          "name": "Shawty",
+          "url": "https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn"
+        }
+      ],
+      "duration_ms": 210137,
+      "name": "Kabul Olan Tek Duams\u0131n",
+      "url": "https://open.spotify.com/track/36oBlwSPNtA48TLYqk4SNp"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
@@ -125,27 +157,7 @@
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Guess featuring Billie Eilish",
-        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 143330,
-      "name": "Guess featuring Billie Eilish",
-      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Pensa Que \u00c9 Dois",
         "url": "https://open.spotify.com/album/1yCiQjjUx0YdoQ4EJTk6JS"
@@ -169,43 +181,7 @@
       "url": "https://open.spotify.com/track/396PHB0q5c3JVE3DyJlFHW"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "VANITY",
-        "url": "https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g"
-      },
-      "artists": [
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "I'd Rather Pretend",
-      "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Dil Tu Jaan Tu",
-        "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
-      },
-      "artists": [
-        {
-          "name": "Gurnazar",
-          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
-        },
-        {
-          "name": "Chet Singh",
-          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Dil Tu Jaan Tu",
-      "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "DAYS BEFORE RODEO",
         "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
@@ -221,7 +197,23 @@
       "url": "https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "\u00c9 o Grelo",
+        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        }
+      ],
+      "duration_ms": 196702,
+      "name": "De Gra\u00e7a ou Pagando",
+      "url": "https://open.spotify.com/track/6m51sam9gIqRMbJEKW4ADe"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Chuttamalle (From \"Devara Part 1\")",
         "url": "https://open.spotify.com/album/77bk7awXNSGEQkZTcTp2Gj"
@@ -245,7 +237,83 @@
       "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "BACKBONE",
+        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 166448,
+      "name": "BACKBONE",
+      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Jo Tum Mere Ho",
+        "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 251813,
+      "name": "Jo Tum Mere Ho",
+      "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Dil Tu Jaan Tu",
+        "url": "https://open.spotify.com/album/4UPEfC1TJNAlObvA9a5Fkx"
+      },
+      "artists": [
+        {
+          "name": "Gurnazar",
+          "url": "https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Dil Tu Jaan Tu",
+      "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
@@ -277,7 +345,7 @@
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Zaroor",
         "url": "https://open.spotify.com/album/62yJN1YiKoDvXSrSdiXC13"
@@ -297,23 +365,39 @@
       "url": "https://open.spotify.com/track/5thVzD79BxlDTYy0LfHzvu"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
-        "name": "Jo Tum Mere Ho",
-        "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
+        "name": "VANITY",
+        "url": "https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g"
       },
       "artists": [
         {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
         }
       ],
-      "duration_ms": 251813,
-      "name": "Jo Tum Mere Ho",
-      "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
+      "duration_ms": 184560,
+      "name": "I'd Rather Pretend",
+      "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Sialnya, Hidup Harus Tetap Berjalan",
+        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 182903,
+      "name": "Untungnya, Hidup Harus Tetap Berjalan",
+      "url": "https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
         "url": "https://open.spotify.com/album/2Hcqkag1iqVc1wAuoIC4gG"
@@ -341,59 +425,7 @@
       "url": "https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
-        "url": "https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp"
-      },
-      "artists": [
-        {
-          "name": "TUL8TE",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        }
-      ],
-      "duration_ms": 120145,
-      "name": "\u062d\u0628\u064a\u0628\u064a \u0644\u064a\u0647",
-      "url": "https://open.spotify.com/track/3vX1qpjqKTmuESvmvwMBHR"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Milaa",
-          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
-        }
-      ],
-      "duration_ms": 214214,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
-        "url": "https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp"
-      },
-      "artists": [
-        {
-          "name": "TUL8TE",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "\u0645\u0627\u062a\u064a\u062c\u064a \u0627\u0639\u062f\u064a \u0639\u0644\u064a\u0643\u064a",
-      "url": "https://open.spotify.com/track/4Tfdzh30bYmSPsWhAnUhYG"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Terlintas",
         "url": "https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe"
@@ -409,71 +441,7 @@
       "url": "https://open.spotify.com/track/7zOVh5fGpEwSbZd0g9z80B"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Sialnya, Hidup Harus Tetap Berjalan",
-        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 182903,
-      "name": "Untungnya, Hidup Harus Tetap Berjalan",
-      "url": "https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Bauch Beine Po",
-        "url": "https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW"
-      },
-      "artists": [
-        {
-          "name": "Shirin David",
-          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
-        }
-      ],
-      "duration_ms": 133932,
-      "name": "Bauch Beine Po",
-      "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Sialnya, Hidup Harus Tetap Berjalan",
-        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 184670,
-      "name": "Lama-Lama",
-      "url": "https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 277942,
-      "name": "Vida Loka - Pt 1",
-      "url": "https://open.spotify.com/track/4qR2qFXGphq6VW5IJIoHI1"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Maharaj",
         "url": "https://open.spotify.com/album/2R2iYcw81Fjfup0kUZtlf6"
@@ -497,7 +465,107 @@
       "url": "https://open.spotify.com/track/1WxzZoWBTmB68AtyA6ejBB"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
+        "url": "https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "duration_ms": 120145,
+      "name": "\u062d\u0628\u064a\u0628\u064a \u0644\u064a\u0647",
+      "url": "https://open.spotify.com/track/3vX1qpjqKTmuESvmvwMBHR"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Sialnya, Hidup Harus Tetap Berjalan",
+        "url": "https://open.spotify.com/album/5agEAxt8vks5Xk0NfEbI5D"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 184670,
+      "name": "Lama-Lama",
+      "url": "https://open.spotify.com/track/0pmyq5KBXP3agRdxl1SZXx"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 137222,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Stree 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Rkpg1IvjxuGhvcfceIfVW"
+      },
+      "artists": [
+        {
+          "name": "Varun Jain",
+          "url": "https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 230086,
+      "name": "Tumhare Hi Rahenge Hum",
+      "url": "https://open.spotify.com/track/6BGZePfo75ysi4IR2jlFR0"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Milaa",
+          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "La Rizos [Dime Si Le Comento a la Pura]",
         "url": "https://open.spotify.com/album/1Kz5RhfbaMniwhbfJAiXzl"
@@ -521,55 +589,7 @@
       "url": "https://open.spotify.com/track/7pvqkMcGzRTWU0YpZoJj6U"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Cold Beer & Country Music",
-        "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
-      },
-      "artists": [
-        {
-          "name": "Zach Top",
-          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "I Never Lie",
-      "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Chief Boot Knocka",
         "url": "https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP"
@@ -585,39 +605,127 @@
       "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+        "name": "Ge\u00e7iyor Zaman",
+        "url": "https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
         }
       ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+      "duration_ms": 167523,
+      "name": "Kader Sa\u011f Olsun",
+      "url": "https://open.spotify.com/track/2crO2eSwgjOoAanagD2sFc"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
-        "name": "That's Who I Praise",
-        "url": "https://open.spotify.com/album/4xgkNyFFCIWLi8RC6dTlCR"
+        "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
+        "url": "https://open.spotify.com/album/3DNubUSWkHKBcDMdBtiLHp"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
         }
       ],
-      "duration_ms": 228285,
-      "name": "That's Who I Praise",
-      "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
+      "duration_ms": 145454,
+      "name": "\u0645\u0627\u062a\u064a\u062c\u064a \u0627\u0639\u062f\u064a \u0639\u0644\u064a\u0643\u064a",
+      "url": "https://open.spotify.com/track/4Tfdzh30bYmSPsWhAnUhYG"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Soltera - W Sound 01",
+        "url": "https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 142022,
+      "name": "Soltera - W Sound 01",
+      "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Cold Beer & Country Music",
+        "url": "https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "duration_ms": 224906,
+      "name": "I Never Lie",
+      "url": "https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Bauch Beine Po",
+        "url": "https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW"
+      },
+      "artists": [
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "duration_ms": 133932,
+      "name": "Bauch Beine Po",
+      "url": "https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Laila Majnu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO"
@@ -637,39 +745,7 @@
       "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Rossetto e caff\u00e8",
-        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
-      },
-      "artists": [
-        {
-          "name": "Sal Da Vinci",
-          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Rossetto e caff\u00e8",
-      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "\u00c9 o Grelo",
-        "url": "https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        }
-      ],
-      "duration_ms": 172721,
-      "name": "Dias De Luta",
-      "url": "https://open.spotify.com/track/3BBh5EWaOi8L6qqXJu9Gdf"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
@@ -685,55 +761,95 @@
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
-        "name": "Hasta Aqu\u00ed Llegu\u00e9",
-        "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
+        "name": "NISSAN ALTIMA",
+        "url": "https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 188887,
-      "name": "Hasta Aqu\u00ed Llegu\u00e9",
-      "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
+      "duration_ms": 128132,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
-        "name": "I Adore You (feat. Daecolm)",
-        "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
+        "name": "Ge\u00e7iyor Zaman",
+        "url": "https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Arash",
-          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
         }
       ],
-      "duration_ms": 214000,
-      "name": "I Adore You (feat. Daecolm)",
-      "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+      "duration_ms": 158571,
+      "name": "Ge\u00e7iyor Zaman",
+      "url": "https://open.spotify.com/track/3ma4Ef3Bnl3UBOV4ShiMLX"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
+      "album": {
+        "name": "Khoobsurat (From \"Stree 2\")",
+        "url": "https://open.spotify.com/album/6YuaX9U59YS0P7Jcel6BA6"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 244583,
+      "name": "Khoobsurat (From \"Stree 2\")",
+      "url": "https://open.spotify.com/track/4Zx4I7eX7vuq7pHleVcINy"
+    },
+    {
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
@@ -753,147 +869,55 @@
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "Ge\u00e7iyor Zaman",
+        "url": "https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 174000,
+      "name": "Onlar Anlamaz Halden",
+      "url": "https://open.spotify.com/track/38d47UiHhyu4wdbPYz0ZUB"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
-        "name": "MONTAGEM VOZES PROFUNDAS (Remixes)",
-        "url": "https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS"
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi"
       },
       "artists": [
         {
-          "name": "DJ MAXZZ",
-          "url": "https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T"
-        },
-        {
-          "name": "DJ JL3 DA ZN",
-          "url": "https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu"
-        },
-        {
-          "name": "DJ CD 011",
-          "url": "https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2"
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
         }
       ],
-      "duration_ms": 144359,
-      "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
-      "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
+      "duration_ms": 174146,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
-        "name": "The Secret of Us",
-        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+        "name": "Ortak",
+        "url": "https://open.spotify.com/album/1fbwxXov1LpDIFzSdRfIPI"
       },
       "artists": [
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Melike \u015eahin",
+          "url": "https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B"
         }
       ],
-      "duration_ms": 157146,
-      "name": "I Love You, I'm Sorry",
-      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+      "duration_ms": 205224,
+      "name": "Ortak",
+      "url": "https://open.spotify.com/track/3GD8Zc8MByLbeLrLVWBzPz"
     },
     {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Alibi (with Pabllo Vittar & Yseult)",
-        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 161655,
-      "name": "Alibi (with Pabllo Vittar & Yseult)",
-      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Kaathu Mela - From \"Think Indie\"",
-        "url": "https://open.spotify.com/album/1QDGfYi6ok12IxZJ6Rf52H"
-      },
-      "artists": [
-        {
-          "name": "Paal Dabba",
-          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
-        },
-        {
-          "name": "ofRO",
-          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
-        },
-        {
-          "name": "Deva",
-          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
-        }
-      ],
-      "duration_ms": 123252,
-      "name": "Kaathu Mela - From \"Think Indie\"",
-      "url": "https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "O Melhor no Que Faz 3.0 [Slowed]",
-        "url": "https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN"
-      },
-      "artists": [
-        {
-          "name": "DJ BRYAN 7",
-          "url": "https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m"
-        },
-        {
-          "name": "Dj Fenix",
-          "url": "https://open.spotify.com/artist/2i1LrKFvlDNbvZi0wd5bhS"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "O Melhor no Que Faz 3.0 [Slowed]",
-      "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
+      "added_at": "2024-08-27 14:07:51",
       "album": {
         "name": "Lost;Found",
         "url": "https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH"
@@ -911,54 +935,6 @@
       "duration_ms": 224842,
       "name": "Ishq",
       "url": "https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
-      },
-      "artists": [
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        },
-        {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
-        },
-        {
-          "name": "Keinemusik",
-          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
-        },
-        {
-          "name": "Orso",
-          "url": "https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC"
-        },
-        {
-          "name": "Malachiii",
-          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
-        }
-      ],
-      "duration_ms": 177598,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
-    },
-    {
-      "added_at": "2024-08-26 13:16:10",
-      "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 195109,
-      "name": "Juna",
-      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
     }
   ],
   "unique_name": "Viral 50 - Global",

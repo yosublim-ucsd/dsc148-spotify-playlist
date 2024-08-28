@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230 likes - 131 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 131 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 71 | [White Noise](https://open.spotify.com/track/67q6hY7zzDqgFtBGd4SWZB) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [White Noise](https://open.spotify.com/album/5OCYn7QlVlbhTR85jsLb1R) | 2:51 |
 | 72 | [DILF](https://open.spotify.com/track/2Q8Ky0A9wVrjIiQIcUfYz4) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Why Can’t I Have Two? \(2468\) / DILF](https://open.spotify.com/album/5R06NvE2q2iQm8akxCC3F5) | 2:19 |
 | 73 | [Back To You](https://open.spotify.com/track/2tyuENyThWUw9kQ4TZpgsK) | [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Take Me Somewhere](https://open.spotify.com/album/6ThORuBvLXZAHyvjThpiR7) | 3:03 |
-| 74 | [Hummingbird \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/track/4XrpyLKVB7uR1yKE0BxQkc) | [LCAW](https://open.spotify.com/artist/7FOb8fwCcjHjKlIlEZk6go), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Hummingbird \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/album/4mmqfJbRk0NG7OG7cHdGbf) | 2:48 |
-| 75 | [Find Love Now](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Find Love Now](https://open.spotify.com/album/3fHQQAcbPXEMXPZuMCbapF) | 2:42 |
+| 74 | [Find Love Now](https://open.spotify.com/track/6qfIHUX77YpCahrVCdhewt) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Find Love Now](https://open.spotify.com/album/3fHQQAcbPXEMXPZuMCbapF) | 2:42 |
+| 75 | [Hummingbird \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/track/4XrpyLKVB7uR1yKE0BxQkc) | [LCAW](https://open.spotify.com/artist/7FOb8fwCcjHjKlIlEZk6go), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Hummingbird \(feat\. Sophie Ellis\-Bextor\)](https://open.spotify.com/album/4mmqfJbRk0NG7OG7cHdGbf) | 2:48 |
 | 76 | [Halo](https://open.spotify.com/track/7p6WxyR20rMHGj4wLeeaRJ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Boxes EP](https://open.spotify.com/album/0aGzGgL9df7M8YQS9rcBjJ) | 3:02 |
 | 77 | [Ready To Love](https://open.spotify.com/track/1ykuWEU6xlSoR6EtjKH7WW) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Let's Say For Instance](https://open.spotify.com/album/5Z6szusddxn6ySgFMzd837) | 3:06 |
 | 78 | [Cool](https://open.spotify.com/track/6GG1su1AVOh39Na8QPqI2B) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [And Now, We're Shining](https://open.spotify.com/album/6hsl8s8m3Le812hnQfrNAv) | 2:57 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 104 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
 | 105 | [You Were Never My Boyfriend](https://open.spotify.com/track/0HF7qznaTH3qe9cJv7rMsw) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [You Were Never My Boyfriend](https://open.spotify.com/album/4wj1fiaQDXK4IT3vZ1ZKoS) | 2:48 |
 | 106 | [Who's Gonna Love You More](https://open.spotify.com/track/1tKgSDKLiGecDcbxm4kOIG) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [Bitter](https://open.spotify.com/album/4RSwF4HXGFzdtxnV3xuxjT) | 2:57 |
-| 107 | [No Life](https://open.spotify.com/track/03URrJS1ItDUJELGMuDW2T) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [JCOY](https://open.spotify.com/album/6BgcY6wNgindhEnSeCmJ5i) | 3:33 |
-| 108 | [Loved Somebody Else](https://open.spotify.com/track/5zWjUmp1laBahCxtmKnO7o) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Loved Somebody Else](https://open.spotify.com/album/5ithKxVdpmbeGSTzAg8wU0) | 3:12 |
+| 107 | [Loved Somebody Else](https://open.spotify.com/track/5zWjUmp1laBahCxtmKnO7o) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Loved Somebody Else](https://open.spotify.com/album/5ithKxVdpmbeGSTzAg8wU0) | 3:12 |
+| 108 | [No Life](https://open.spotify.com/track/03URrJS1ItDUJELGMuDW2T) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [JCOY](https://open.spotify.com/album/6BgcY6wNgindhEnSeCmJ5i) | 3:33 |
 | 109 | [Cigarette \- Acoustic](https://open.spotify.com/track/0G5pSMytYwa5Ep7VzqB8Ab) | [MICHAELA](https://open.spotify.com/artist/0QxBW01qmpM8InQcVa1x9V) | [Cigarette \(Acoustic\)](https://open.spotify.com/album/4jRskEEfU18eb9nxCgBLYa) | 2:59 |
 | 110 | [Paradise](https://open.spotify.com/track/02QcMeK6YrwvOWQ9XWpyYp) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Cautionary Tales of Youth](https://open.spotify.com/album/7oZTFBcPmwuv0L2AQI1yO9) | 3:05 |
 | 111 | [All Around The World](https://open.spotify.com/track/68O6kIl42XxQBltMi3g8mZ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:31 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 130 | [Before You Let Me Down](https://open.spotify.com/track/778HnQTXflDcZVMWnCwrIf) | [Ryan Ennis](https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2) | [Before You Let Me Down](https://open.spotify.com/album/5cUVqdVm9a0Ahuw1VPUnEA) | 3:03 |
 | 131 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AbafAwAAAABQSmxlpl7wmDaR5axx/W5T`
+Snapshot ID: `AbakowAAAAAqMFEkVC3GQYEju2AJuoQ9`

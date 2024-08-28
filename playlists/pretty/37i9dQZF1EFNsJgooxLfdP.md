@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4K6JUGERv1pUGgxWwuwj06">Victoria Monét</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,652 likes - 101 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,657 likes - 101 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 45 | [Not Just On Christmas](https://open.spotify.com/track/09VVVW2VxsmXE5Pyo3T0ah) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill \(Japan Version\)](https://open.spotify.com/album/2A1KyqHu1DmLtjXpIMNoQq) | 2:03 |
 | 46 | [No Way](https://open.spotify.com/track/22kXvw7mAvMvyZxPnhYzaa) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 2:57 |
 | 47 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Zej3ztnuVElDfYGYBBhJP) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 3:07 |
-| 48 | [Big Boss \(Interlude\)](https://open.spotify.com/track/7EuktT4CgA637ci366IrYW) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 1:31 |
-| 49 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
+| 48 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 |
+| 49 | [Big Boss \(Interlude\)](https://open.spotify.com/track/7EuktT4CgA637ci366IrYW) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 1:31 |
 | 50 | [Intro](https://open.spotify.com/track/4QgH3GXHnHuxMJu3RG69Hg) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill \(Japan Version\)](https://open.spotify.com/album/2A1KyqHu1DmLtjXpIMNoQq) | 1:05 |
 | 51 | [Them Girls Be Like](https://open.spotify.com/track/5L5zJyglhpR0iHKoMLNaBJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:42 |
 | 52 | [Dive](https://open.spotify.com/track/0X0MCiE18F0xztZ6G6lQuz) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 3:45 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFNsJgooxLfdP.md) - [plain]
 | 100 | [Déjà Vu](https://open.spotify.com/track/1cXStSHado9926qLHI2J61) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Made Of](https://open.spotify.com/album/42GK52roNA9gAe8aLvC5zt) | 2:57 |
 | 101 | [Juke Joint Love](https://open.spotify.com/track/2O7uT2VtjHhV0EvKYSxI5Y) | [Sonny](https://open.spotify.com/artist/7M32CCGFBfGnTWfQuLngrb) | [International](https://open.spotify.com/album/1Zp6KLtrpzJwyB5zMzg5H1) | 3:03 |
 
-Snapshot ID: `AbafAQAAAABPywsQvKnR3M583I1y+DNt`
+Snapshot ID: `AbakoQAAAAA5wUEWsttq54dlrId2ldRB`

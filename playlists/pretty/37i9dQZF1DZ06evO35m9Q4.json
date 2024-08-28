@@ -1,12 +1,12 @@
 {
-  "description": "This is Stevie Ray Vaughan. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 154212,
+  "description": "This is: Stevie Ray Vaughan. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 154257,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABOA5S7vDFDinvSHL3hEngg",
+  "snapshot_id": "ZsvFgAAAAADg2GK6Cl5RTl3qJE3rWoBx",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archives",
-        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 101973,
-      "name": "Slip Slidin' Slim",
-      "url": "https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born Under A Bad Sign - Remastered 2024",
         "url": "https://open.spotify.com/album/54XP7RjHT5DNMbuikQ6PWm"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 490006,
       "name": "Born Under A Bad Sign - Remastered 2024",
       "url": "https://open.spotify.com/track/6vJboOIXrS84uGnwkK3u7o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Archives",
+        "url": "https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 101973,
+      "name": "Slip Slidin' Slim",
+      "url": "https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Favoritlåtar för lugna och sköna stunder.
 
-116 songs - 6 hr 13 min
+117 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [All My Friends](https://open.spotify.com/track/4boC9TKU3vRL6l4L5taK81) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [All My Friends](https://open.spotify.com/album/1FfYUzhhheFAlQIw1oAosG) | 3:00 | 2024-06-27 |  |
 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 | 2024-06-27 |  |
 | [Alonica](https://open.spotify.com/track/1T2gpycmBlJ0RkTcIe7f26) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Alonica](https://open.spotify.com/album/4CeQZSPYxRCFhibNMSXdwu) | 3:58 | 2024-06-27 |  |
-| [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 | 2024-06-27 |  |
+| [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 | 2024-06-27 | 2024-08-28 |
 | [Awful Liar](https://open.spotify.com/track/4UXJYpHAyh1Y7tXvhKWyc2) | [Lisa Ajax](https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ) | [Awful Liar](https://open.spotify.com/album/1hormOqpdmUva6N31RPeDg) | 3:02 | 2024-06-27 |  |
 | [Back To My Roots \- Acoustic Version](https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Back To My Roots](https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz) | 3:22 | 2024-08-15 |  |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2024-06-27 |  |
@@ -31,6 +31,7 @@
 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 | 2024-06-27 |  |
 | [BLACKBIIRD](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3), [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1), [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 2:11 | 2024-06-27 |  |
 | [Bones Shake](https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Bones Shake](https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk) | 3:46 | 2024-06-27 |  |
+| [Bästa var du](https://open.spotify.com/track/544i2kupbLppslcGI1PhlL) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Bästa var du](https://open.spotify.com/album/6S6WCiLAWuTOT1gBWOvm7m) | 3:18 | 2024-08-22 |  |
 | [Börja Om](https://open.spotify.com/track/1voYsDwEAjE2bwTRuGAl9Y) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Börja Om](https://open.spotify.com/album/1lCZ0uYsLyMlV7gdcwQstQ) | 2:56 | 2024-06-27 | 2024-08-13 |
 | [Cult to A Saint](https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU), [AKA lisa](https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1) | [Cult to A Saint](https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf) | 3:38 | 2024-06-27 | 2024-08-17 |
 | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/track/12e80YV3Nhkbfymj0SiSz0) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd), [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Dansa Med Mig \(Stripped Version\) \[feat\. Julia Lov\]](https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl) | 2:49 | 2024-06-27 |  |

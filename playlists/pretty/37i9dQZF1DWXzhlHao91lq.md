@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,468 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,476 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 34 | [Backseat Driver](https://open.spotify.com/track/6thKUE9N3TORLzYr74V9y5) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Backseat Driver](https://open.spotify.com/album/0pG2PLMMgxqjNDVnjITHrz) | 3:16 |
 | 35 | [Chasing Cars](https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Chasing Cars](https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td) | 4:00 |
 | 36 | [Don't You Worry](https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw) | 3:39 |
-| 37 | [How to Say I Love You](https://open.spotify.com/track/3zU0TFR29rZGoJIkaoRS84) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [How to Say I Love You](https://open.spotify.com/album/3xPPfPfqh4gTeQJCxWeK7s) | 3:26 |
-| 38 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
-| 39 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
+| 37 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 |
+| 38 | [Hard To Be Human](https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Hard To Be Human](https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71) | 2:50 |
+| 39 | [How to Say I Love You](https://open.spotify.com/track/3zU0TFR29rZGoJIkaoRS84) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [How to Say I Love You](https://open.spotify.com/album/3xPPfPfqh4gTeQJCxWeK7s) | 3:26 |
 | 40 | [I Make Sparks](https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Make Sparks](https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm) | 3:38 |
 | 41 | [You Can't Make Old Friends \- Duet with Dolly Parton](https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [You Can't Make Old Friends](https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr) | 4:02 |
 | 42 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 53 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
 | 54 | [hungover sunday](https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [hungover sunday](https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a) | 3:00 |
 | 55 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
-| 56 | [Moments](https://open.spotify.com/track/1uBFnk2iTrgjnEejK9PKq7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Moments](https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp) | 2:42 |
-| 57 | [Two Punks In Love](https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Two Punks In Love](https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U) | 3:15 |
+| 56 | [Two Punks In Love](https://open.spotify.com/track/4dIPtEnmudhZPD8MsAtzSK) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Two Punks In Love](https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U) | 3:15 |
+| 57 | [Moments](https://open.spotify.com/track/1uBFnk2iTrgjnEejK9PKq7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Moments](https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp) | 2:42 |
 | 58 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
 | 59 | [Stargazing](https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Stargazing](https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky) | 3:06 |
 | 60 | [Rosie](https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sometimes It's Something, Sometimes It's Nothing at All](https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR) | 1:58 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXzhlHao91lq.md) - [plain]
 | 68 | [Stars](https://open.spotify.com/track/6Syec1m9xRRdto08izXrY0) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Deluxe\)](https://open.spotify.com/album/6e0aaabWyyiqxjSvbafGCd) | 2:52 |
 | 69 | [Lose You To Love Me \- Acoustic](https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Lose You To Love Me \(Acoustic\)](https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd) | 4:14 |
 | 70 | [Stranger](https://open.spotify.com/track/1yoiLtaODum3lNm7NjG1zs) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Stranger](https://open.spotify.com/album/6bG0Hug4UHRMvKapaqsslZ) | 5:46 |
-| 71 | [Honest Man](https://open.spotify.com/track/725idQDxyOq1atgCsutMrS) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Honest Man](https://open.spotify.com/album/40JBrBKlMu5ENJPnCGflAP) | 3:49 |
-| 72 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 |
-| 73 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 |
-| 74 | [the boy](https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [the boy](https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz) | 3:36 |
-| 75 | [Sweet Love of Mine \(Acoustic\)](https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Venus \(Acoustic\)](https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj) | 2:55 |
+| 71 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 |
+| 72 | [Honest Man](https://open.spotify.com/track/725idQDxyOq1atgCsutMrS) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Honest Man](https://open.spotify.com/album/40JBrBKlMu5ENJPnCGflAP) | 3:49 |
+| 73 | [the boy](https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [the boy](https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz) | 3:36 |
+| 74 | [Give Me Everything](https://open.spotify.com/track/5AZWf9rIKcTBGsHfRDOb3M) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [Give Me Everything](https://open.spotify.com/album/0A28FCqEuG6uiAHIPQcLwe) | 3:12 |
+| 75 | [confidence](https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [to be honest](https://open.spotify.com/album/0qRlwYQIRtsqmQsRFYqOVi) | 2:25 |
 
 Snapshot ID: `ZsvTkAAAAAC4MwINbYO0V/dK7ZgjI0Ox`

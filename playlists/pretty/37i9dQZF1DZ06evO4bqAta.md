@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 ### [This Is Bob Dylan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bqAta)
 
-> This is Bob Dylan\. Todos os maiores hits em uma só playlist.
+> This is Bob Dylan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 521,620 likes - 51 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 521,687 likes - 51 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 34 | [Jokerman](https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Infidels](https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy) | 6:16 |
 | 35 | [She Belongs to Me](https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:46 |
 | 36 | [It Ain't Me Babe](https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Another Side Of Bob Dylan](https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0) | 3:34 |
-| 37 | [Masters of War](https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 4:31 |
-| 38 | [Boots of Spanish Leather](https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 4:37 |
+| 37 | [Boots of Spanish Leather](https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 4:37 |
+| 38 | [Masters of War](https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 4:31 |
 | 39 | [To Be Alone with You](https://open.spotify.com/track/7CuCP5OoLH77hJTibZQE4r) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 2:07 |
 | 40 | [Forever Young \- Live at Seattle Center Coliseum, Seattle, WA \- February 9, 1974 \(Afternoon\)](https://open.spotify.com/track/3d8wAwAgFQn2oEIw8HI6Jb) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Forever Young \[Live at Seattle Center Coliseum, Seattle, WA \- February 9, 1974 \(Afternoon\)\]](https://open.spotify.com/album/6FDX3LJoKuDKaM7clzvuDZ) | 5:07 |
 | 41 | [Big River \- Take 1](https://open.spotify.com/track/0CS4pwHml8LCSdVJ1gIKU3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Travelin' Thru, 1967 \- 1969: The Bootleg Series, Vol\. 15 \(Sampler\)](https://open.spotify.com/album/1euXUeJobzra05wyBIrdtH) | 2:03 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 50 | [Peggy Day](https://open.spotify.com/track/2P1jghKUruf3SDVNj910KC) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 1:59 |
 | 51 | [Corrina, Corrina](https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:41 |
 
-Snapshot ID: `Zsp0AAAAAABCnHY3zFRAdwoIWT9uRTw9`
+Snapshot ID: `ZsvFgAAAAABPeCbnkvoPcx8T1fnJVupd`

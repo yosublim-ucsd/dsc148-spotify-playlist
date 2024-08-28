@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\. Cover: <a href="spotify:artist:0SVd0yQpJ6xcZ3vTKXUaro">Chxrry22</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,141 likes - 60 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,247 likes - 60 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

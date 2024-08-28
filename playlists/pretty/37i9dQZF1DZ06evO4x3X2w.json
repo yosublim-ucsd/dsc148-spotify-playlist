@@ -1,12 +1,12 @@
 {
-  "description": "This Is Aerosmith. Los temas esenciales, todos en una lista.",
-  "num_followers": 690643,
+  "description": "This is Aerosmith. The essential tracks, all in one playlist.",
+  "num_followers": 690725,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAADN4rY3QqeGbzNr5b3Wyz3O",
+  "snapshot_id": "ZsvFgAAAAAAO3aFyC4AmGKKkIOrAErSR",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 273902,
-      "name": "Adam's Apple",
-      "url": "https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K"
+      "duration_ms": 325610,
+      "name": "Ain't That A Bitch",
+      "url": "https://open.spotify.com/track/2XFyFJtkbks4OKDE0dxBqK"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 325610,
-      "name": "Ain't That A Bitch",
-      "url": "https://open.spotify.com/track/2XFyFJtkbks4OKDE0dxBqK"
+      "duration_ms": 273902,
+      "name": "Adam's Apple",
+      "url": "https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Ryan Gards",
     "url": "https://open.spotify.com/user/1230953186"
   },
-  "snapshot_id": "AAADfRB4W+AZe1DwzBvIv08kGSI1gTqU",
+  "snapshot_id": "AAADgbppi6RM171HyKptNaXvff1L+P+b",
   "tracks": [
     {
       "added_at": "2020-11-30 17:26:34",
@@ -10754,6 +10754,10 @@
         {
           "name": "The Kahil El'Zabar Quartet",
           "url": "https://open.spotify.com/artist/3JcDUAPSxt5xvyaXbU4Tdh"
+        },
+        {
+          "name": "Kahil El'Zabar",
+          "url": "https://open.spotify.com/artist/2DObXDWCKLRvSisbmYjeyV"
         }
       ],
       "duration_ms": 789054,
@@ -13159,6 +13163,70 @@
       "duration_ms": 291851,
       "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30afNIGHT",
       "url": "https://open.spotify.com/track/0kGcw9BC4b99bm0r3ne7i4"
+    },
+    {
+      "added_at": "2024-08-27 18:51:15",
+      "album": {
+        "name": "Makiyaj",
+        "url": "https://open.spotify.com/album/2UFo1SSLCCCWmpfbyCULNp"
+      },
+      "artists": [
+        {
+          "name": "Jules-Henry Malaki",
+          "url": "https://open.spotify.com/artist/70lZoqm8bQmomgLlPH9nAB"
+        }
+      ],
+      "duration_ms": 269558,
+      "name": "Makiyaj",
+      "url": "https://open.spotify.com/track/64zkMDZGsUBsqBaogoSRDS"
+    },
+    {
+      "added_at": "2024-08-27 20:24:19",
+      "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Sato",
+          "url": "https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj"
+        }
+      ],
+      "duration_ms": 206320,
+      "name": "SAY GOODBYE",
+      "url": "https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V"
+    },
+    {
+      "added_at": "2024-08-27 20:24:28",
+      "album": {
+        "name": "COLLECTION",
+        "url": "https://open.spotify.com/album/2jlyowwrLvyN28JGsu4or2"
+      },
+      "artists": [
+        {
+          "name": "Makoto Matsushita",
+          "url": "https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG"
+        }
+      ],
+      "duration_ms": 271950,
+      "name": "September Rain - 2020 Remaster",
+      "url": "https://open.spotify.com/track/6A9YFkei6zWfPSxWxlBecY"
+    },
+    {
+      "added_at": "2024-08-27 20:47:51",
+      "album": {
+        "name": "Makiyaj",
+        "url": "https://open.spotify.com/album/6bGDkhhkbgk7BNJQ70f9oq"
+      },
+      "artists": [
+        {
+          "name": "Jules-Henry Malaki",
+          "url": "https://open.spotify.com/artist/70lZoqm8bQmomgLlPH9nAB"
+        }
+      ],
+      "duration_ms": 215188,
+      "name": "Tes id\u00e9es",
+      "url": "https://open.spotify.com/track/2oR6toJpUt1WpIKPPAioNI"
     }
   ],
   "unique_name": "Worldly",

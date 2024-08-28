@@ -1,12 +1,12 @@
 {
   "description": "She's your favorite artist's favorite artist for real \ud83d\udc97",
-  "num_followers": 2159292,
+  "num_followers": 2159261,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZszSjQAAAACRzuEbX/PwZ19PyFovosrN",
+  "snapshot_id": "Zs4vhQAAAAC63iH56FLhU1MhaTutmAlh",
   "tracks": [
     {
       "added_at": "2024-08-26 19:02:13",
@@ -241,6 +241,70 @@
       "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
     },
     {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Beaches",
+        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "Beaches",
+      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
+    },
+    {
+      "added_at": "2024-07-01 17:54:09",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151739,
+      "name": "Apple",
+      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Pretty Boy",
+        "url": "https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 123088,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM"
+    },
+    {
+      "added_at": "2024-08-27 19:56:53",
+      "album": {
+        "name": "Slip Away",
+        "url": "https://open.spotify.com/album/6MRM0YSnjasP0id43HP6wn"
+      },
+      "artists": [
+        {
+          "name": "Johnny Valentine",
+          "url": "https://open.spotify.com/artist/2Gl2a6WfXvDy8TTsHPFOaI"
+        }
+      ],
+      "duration_ms": 191935,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/5fzCeWuSAtgA9gmoQl3E8e"
+    },
+    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Paper Cup",
@@ -319,22 +383,6 @@
       "duration_ms": 141443,
       "name": "RABBITHOLE",
       "url": "https://open.spotify.com/track/6l5sqTPOD2UdzEb2RlwtSI"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Pretty Boy",
-        "url": "https://open.spotify.com/album/7DZxGKYlsKVnYPCOkLURat"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 123088,
-      "name": "Pretty Boy",
-      "url": "https://open.spotify.com/track/0gc3meo5sZtNnv19oI0vRM"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -421,22 +469,6 @@
       "url": "https://open.spotify.com/track/2llI8hROBLYRXhH89nfqJW"
     },
     {
-      "added_at": "2024-07-01 17:54:09",
-      "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151739,
-      "name": "Apple",
-      "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
-    },
-    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Again (feat. XXXTENTACION)",
@@ -475,22 +507,6 @@
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Beaches",
-        "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "Beaches",
-      "url": "https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj"
     },
     {
       "added_at": "2024-08-06 16:06:05",

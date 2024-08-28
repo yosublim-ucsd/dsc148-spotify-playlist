@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 794 songs - 2 day 14 hr 18 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 42 likes - 798 songs - 2 day 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -653,7 +653,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 643 | [Yama Yama](https://open.spotify.com/track/1Ueipu96NNSJattolXZ7K7) | [Yamasuki](https://open.spotify.com/artist/3xLz7xXbJ4thF9a0sU81Ir) | [Le monde fabuleux des Yamasuki](https://open.spotify.com/album/5V6JYVUtlZYVRFvdKPxpqt) | 2:33 |
 | 644 | [Wede Harer Guzo](https://open.spotify.com/track/7Ihi6UcJKndJKlsm0A4hjZ) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [Dahlak Band](https://open.spotify.com/artist/1JZiZjpnchiZ4mqs5nJggA) | [Wede Harer Guzo](https://open.spotify.com/album/5i6yMY4F7UoOuJD6wRV6NN) | 6:35 |
 | 645 | [Mombasa Love Song](https://open.spotify.com/track/70bgvrJNzrbnyQB2wrENl3) | [Tak Shindo](https://open.spotify.com/artist/5UQlFN6A5bUNcuGnG4d9aR) | [Presenting Tak Shindo](https://open.spotify.com/album/2txpY9kRtiwl3Qqb9b6O40) | 2:40 |
-| 646 | [A Time for Healing](https://open.spotify.com/track/3HZsUhzOr9gn24nJKHKEs8) | [The Kahil El'Zabar Quartet](https://open.spotify.com/artist/3JcDUAPSxt5xvyaXbU4Tdh) | [A Time for Healing](https://open.spotify.com/album/4SjSZfSNn7q2UyrzsfAJKj) | 13:09 |
+| 646 | [A Time for Healing](https://open.spotify.com/track/3HZsUhzOr9gn24nJKHKEs8) | [The Kahil El'Zabar Quartet](https://open.spotify.com/artist/3JcDUAPSxt5xvyaXbU4Tdh), [Kahil El'Zabar](https://open.spotify.com/artist/2DObXDWCKLRvSisbmYjeyV) | [A Time for Healing](https://open.spotify.com/album/4SjSZfSNn7q2UyrzsfAJKj) | 13:09 |
 | 647 | [ウインド・ウェイブ・アンド・ワイングラス](https://open.spotify.com/track/2YkgywDlSwa9mt4z6E0791) | [Akira Inoue](https://open.spotify.com/artist/2mt2D1ra41kPxlQpbCkfY0) | [SEASIDE LOVERS](https://open.spotify.com/album/3VJMlnxxRA9XApRpwtqghb) | 5:22 |
 | 648 | [DOWN TOWN](https://open.spotify.com/track/1ieDsFmQ8UOXyB0ewolkXH) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [DOWN TOWN](https://open.spotify.com/album/1N1eSro0gsmLBiQgVS7QBc) | 4:14 |
 | 649 | [Só Quero](https://open.spotify.com/track/6toW2W7KjT9BKTEmN4zDJj) | [Evinha](https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3) | [Cartão Postal](https://open.spotify.com/album/7lskQR32sv0sV9zwkdRkKN) | 2:08 |
@@ -802,5 +802,9 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 792 | [Tet Chajé](https://open.spotify.com/track/6tpxV3D3WKEdcIwyFy4kEV) | [Kajou](https://open.spotify.com/artist/7JmwiNjyR7b7EnkXXE7RAS) | [Tet Chajé](https://open.spotify.com/album/4SmqWQNUHPw1IUQd0EC0ZT) | 6:10 |
 | 793 | [バイブレイション](https://open.spotify.com/track/3pV989KB6C0hAnRFb4Qcsg) | [笠井 紀美子](https://open.spotify.com/artist/4UgoOhsP6AlN1SIkFRBCit) | [トーキョー・スペシャル](https://open.spotify.com/album/46xhGBdollRAui0FdpJVJy) | 4:18 |
 | 794 | [プラスティックNIGHT](https://open.spotify.com/track/0kGcw9BC4b99bm0r3ne7i4) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [SMILE](https://open.spotify.com/album/0SWkx3Mhw5VfsruSF9jTZY) | 4:51 |
+| 795 | [Makiyaj](https://open.spotify.com/track/64zkMDZGsUBsqBaogoSRDS) | [Jules\-Henry Malaki](https://open.spotify.com/artist/70lZoqm8bQmomgLlPH9nAB) | [Makiyaj](https://open.spotify.com/album/2UFo1SSLCCCWmpfbyCULNp) | 4:29 |
+| 796 | [SAY GOODBYE](https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd) | 3:26 |
+| 797 | [September Rain \- 2020 Remaster](https://open.spotify.com/track/6A9YFkei6zWfPSxWxlBecY) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [COLLECTION](https://open.spotify.com/album/2jlyowwrLvyN28JGsu4or2) | 4:31 |
+| 798 | [Tes idées](https://open.spotify.com/track/2oR6toJpUt1WpIKPPAioNI) | [Jules\-Henry Malaki](https://open.spotify.com/artist/70lZoqm8bQmomgLlPH9nAB) | [Makiyaj](https://open.spotify.com/album/6bGDkhhkbgk7BNJQ70f9oq) | 3:35 |
 
-Snapshot ID: `AAADfRB4W+AZe1DwzBvIv08kGSI1gTqU`
+Snapshot ID: `AAADgbppi6RM171HyKptNaXvff1L+P+b`

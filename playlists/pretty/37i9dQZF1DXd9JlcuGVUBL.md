@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 
 > Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC?si=BjUwS8\-zSLWRVaqV74qFrw">Lainey Wilson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,804 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,868 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 29 | [Leaving at Midnight \- Radio Edit](https://open.spotify.com/track/5mpuf0qLx3l19E1l6FoYYs) | [Jack Atlantic](https://open.spotify.com/artist/3qoOXrkZpDUYj8uhVkaFFB) | [Leaving at Midnight \(Radio Edit\)](https://open.spotify.com/album/79127mkkGmDXdhm3umZAB5) | 2:56 |
 | 30 | [28](https://open.spotify.com/track/5iJKGpnFfvbjZJeAtwXfCj) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:53 |
 | 31 | [Remember Him That Way](https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Fathers & Sons](https://open.spotify.com/album/02GDaShX8vOw5tcak3OXow) | 3:56 |
-| 32 | [Sweet Dreams](https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sweet Dreams](https://open.spotify.com/album/733zbDkHarKvnvoJkouK34) | 2:53 |
-| 33 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
+| 32 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
+| 33 | [Sweet Dreams](https://open.spotify.com/track/2PgjJ90q1zETqCX68dxgyd) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Sweet Dreams](https://open.spotify.com/album/733zbDkHarKvnvoJkouK34) | 2:53 |
 | 34 | [Indifferent](https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Indifferent](https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM) | 2:56 |
 | 35 | [Hell Of A View](https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Soul](https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz) | 2:55 |
 | 36 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9JlcuGVUBL.md) - [plain]
 | 39 | [4×4×U](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4×4×U](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 |
 | 40 | [Wranglers](https://open.spotify.com/track/5Ix11gWVeOnU2EKeP35AOO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wranglers](https://open.spotify.com/album/3JR7M4KGnmG9GdJYJfzIEN) | 2:58 |
 | 41 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 |
-| 42 | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8) | 3:39 |
-| 43 | [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 |
+| 42 | [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 |
+| 43 | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8) | 3:39 |
 | 44 | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/track/6Zz5S1Qz5QIS1XX33vJMxv) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Feelin' Country \(From Twisters: The Album\)](https://open.spotify.com/album/5aLutN8p5McM5jLqfPXM38) | 2:44 |
 | 45 | [Closing Time In California](https://open.spotify.com/track/2w4ZM8WjsIyGpmWQ8ZgWhw) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Closing Time In California](https://open.spotify.com/album/77s1WZEMDVRT2mENUEJBzl) | 3:29 |
 | 46 | [New Me](https://open.spotify.com/track/5ZSbOZAsbOWi7DNfpO1vqG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [New Me](https://open.spotify.com/album/6iGj13T3EKBX8OSMrHBd5x) | 2:53 |

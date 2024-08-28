@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35?si=rmUzRaJKSLOkd1etKCY7MA">CARI</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,717 likes - 253 songs - 12 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,763 likes - 253 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 50 | [I’m Your’s](https://open.spotify.com/track/4RmCAyWjPOxlJHG5HUhqmI) | [Caleb Taylor](https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH) | [I’m Your’s](https://open.spotify.com/album/4nrp2nTknhdCGwbMOZVaTC) | 3:16 |
 | 51 | [Brave](https://open.spotify.com/track/5Or5fUArNnHP0SvpPkTuLq) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc), [Alok Vaid\-Menon](https://open.spotify.com/artist/1NTZtdTQJnfKxbbTY22KQR) | [Brave](https://open.spotify.com/album/2zzc1K8vcDa5OrPVvrUstF) | 4:44 |
 | 52 | [Good Wine \(feat\. Rapsody\)](https://open.spotify.com/track/1D3S2IqlSujtnMgFFmIC4R) | [LARA'](https://open.spotify.com/artist/0WNTADu0FukWXgtEF8V7yu), [Harry Edohoukwa](https://open.spotify.com/artist/2ugmrMhuc5JJjQFFwACJYa), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Good Wine \(feat\. Rapsody\)](https://open.spotify.com/album/6CssieYWo7uDREKCtaixLe) | 3:22 |
-| 53 | [PUSSY POWA](https://open.spotify.com/track/430c3r7LmzjbYVPdqGARlK) | [LARIICA](https://open.spotify.com/artist/4ToRGHPORYxQMdyn7nKm9h), [Artie J](https://open.spotify.com/artist/1DUdW31m7wIqrcSYTaT4zp), [JLLY](https://open.spotify.com/artist/6TtCAKrgTaBRw50XkvTY54) | [PUSSY POWA](https://open.spotify.com/album/3B8hibcQpk1s5lTz00yPHD) | 2:33 |
+| 53 | [P POWA](https://open.spotify.com/track/430c3r7LmzjbYVPdqGARlK) | [LARIICA](https://open.spotify.com/artist/4ToRGHPORYxQMdyn7nKm9h), [Artie J](https://open.spotify.com/artist/1DUdW31m7wIqrcSYTaT4zp), [JLLY](https://open.spotify.com/artist/6TtCAKrgTaBRw50XkvTY54) | [P POWA](https://open.spotify.com/album/3B8hibcQpk1s5lTz00yPHD) | 2:33 |
 | 54 | [SUPER CALIFORNIA GIRLS](https://open.spotify.com/track/4y2eEk8LdvN7neCh7SdNEK) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc) | [SUPER CALIFORNIA GIRLS](https://open.spotify.com/album/5kkEJIHCnbVY6bhJhHI77z) | 2:56 |
 | 55 | [barbie and ken](https://open.spotify.com/track/5Cprm2gTWUcFy87dFKG1VL) | [Nafeesisboujee](https://open.spotify.com/artist/59oBQlP5xoa5cfPkonNNnT) | [barbie and ken](https://open.spotify.com/album/0suuwh2SAggpprp9PKKYNk) | 1:33 |
 | 56 | [GoCrazy](https://open.spotify.com/track/0NVCRdUETavHCMawAWVyQA) | [NYA](https://open.spotify.com/artist/0JkKPtdoOFdrZDPswFPQku) | [GoCrazy](https://open.spotify.com/album/4E3mzji98FX9bpcAzbKBol) | 1:59 |

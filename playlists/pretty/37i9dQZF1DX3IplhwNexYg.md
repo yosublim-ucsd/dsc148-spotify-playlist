@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Blondshell
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,144 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,151 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 46 | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/track/2Oy5czpSv3bQ6AfD2gl8VI) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Didn't \(feat\. Cavetown\)](https://open.spotify.com/album/00r2WdTybcemQTrVEwFeon) | 2:33 |
 | 47 | [Right Here, for Now](https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Right Here, For Now](https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi) | 3:00 |
 | 48 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
-| 49 | [Deep End \(Paul's in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 |
-| 50 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
+| 49 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
+| 50 | [Deep End \(Paul's in Pieces\)](https://open.spotify.com/track/5QD7OqeRVdpFys4QZ3UxeS) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:29 |
 | 51 | [Itch](https://open.spotify.com/track/0V2HSaP1Ggp3QJfkEziLAH) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Itch](https://open.spotify.com/album/0KE59HJHyCa6otEhuSLtOt) | 2:24 |
 | 52 | [Voice Of The Voiceless](https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt) | [JAMIE WEBSTER](https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS) | [Voice Of The Voiceless](https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU) | 3:13 |
 | 53 | [Daisy \- Spotify Singles](https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Spotify Singles](https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y) | 2:29 |
@@ -65,17 +65,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 55 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
 | 56 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
 | 57 | [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 |
-| 58 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 |
+| 58 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 |
 | 59 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
-| 60 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 |
-| 61 | [New Used Car \(feat\. Jamie T\)](https://open.spotify.com/track/6shC3fkv6A46ZM6fR8UA9V) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [86TVs](https://open.spotify.com/album/5XpLHF74WCwQdWGao3ahjh) | 2:55 |
-| 62 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
-| 63 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
-| 64 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
+| 60 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 |
+| 61 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
+| 62 | [New Used Car \(feat\. Jamie T\)](https://open.spotify.com/track/6shC3fkv6A46ZM6fR8UA9V) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx), [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [86TVs](https://open.spotify.com/album/5XpLHF74WCwQdWGao3ahjh) | 2:55 |
+| 63 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
+| 64 | [MUD](https://open.spotify.com/track/4TaDzzRy2PUQn8wAG6Fvpw) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:06 |
 | 65 | [Run Run Run](https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Run Run Run](https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K) | 2:53 |
 | 66 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
-| 67 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 |
-| 68 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
+| 67 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
+| 68 | [Airplane](https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Romanticism](https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8) | 3:54 |
 | 69 | [Ahead of Myself](https://open.spotify.com/track/0iSppEday3KI8mmLSM5IUo) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/2YhIWlLm5732Oz1Spon1ss) | 3:44 |
 | 70 | [Pedestal](https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Pedestal](https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj) | 4:21 |
 | 71 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 73 | [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 |
 | 74 | [Struggle \- Single Version](https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Struggle](https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0) | 3:24 |
 | 75 | [Lie 95](https://open.spotify.com/track/0QsyCIEVXMXMfh8h5DHwZy) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Lie 95](https://open.spotify.com/album/7bgvD3tFUHpcDk8m2l932P) | 2:41 |
-| 76 | [Spaceman](https://open.spotify.com/track/5pU3DvhvDQLZ8RyAy5ShSt) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Spaceman](https://open.spotify.com/album/7DwNN6vPMPnWaYkNPFI7Ie) | 3:52 |
-| 77 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 |
-| 78 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 |
+| 76 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 |
+| 77 | [Spaceman](https://open.spotify.com/track/5pU3DvhvDQLZ8RyAy5ShSt) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Spaceman](https://open.spotify.com/album/7DwNN6vPMPnWaYkNPFI7Ie) | 3:52 |
+| 78 | [Grace](https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Grace](https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY) | 3:53 |
 | 79 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
 | 80 | [Nothing Works](https://open.spotify.com/track/2xRJuPKg85jMzqPxjKlMgG) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Nothing Works](https://open.spotify.com/album/1sCqnv4MOA14uruTb88BFq) | 4:12 |
 

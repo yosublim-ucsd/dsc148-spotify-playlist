@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: The Synaptik
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,219 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,216 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 | 21 | [3AMEL EH](https://open.spotify.com/track/7lS0ajP9duQK04bPRyV0Mg) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3AMEL EH](https://open.spotify.com/album/1jnqcD53BnP6o6gHco7UXC) | 2:57 |
 | 22 | [Garee2](https://open.spotify.com/track/6XKzZqXcUVVq8uqpT30WtB) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Garee2](https://open.spotify.com/album/1xlYKH8POCbba3dWrA7Ruv) | 1:09 |
 | 23 | [San Siro](https://open.spotify.com/track/0WuTPXry9d1aV446dafoO1) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [San Siro](https://open.spotify.com/album/5QOytCFrVEvxxeR3zGsjfP) | 3:24 |
-| 24 | [We9tna](https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:20 |
-| 25 | [3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [K.O](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 |
+| 24 | [3L Abyad](https://open.spotify.com/track/70mx55jeb49jYJkjVbNR6W) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Sulisizer](https://open.spotify.com/artist/5bih06rDRtnqB7v5S8MTSE) | [K.O](https://open.spotify.com/album/6E0BK1AIxnuZ24E8bOrhkg) | 3:32 |
+| 25 | [We9tna](https://open.spotify.com/track/4zClnp7msFtNrOgYO9SSd7) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [YAKINE](https://open.spotify.com/album/7nRerBl4lUXufNvLS3OjTX) | 3:20 |
 | 26 | [WELAD ELMAGANEN](https://open.spotify.com/track/5BLk1nq9Z0Fj9hIFA4FYOx) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 2:18 |
 | 27 | [BERKA \(feat\. TUL8TE, R3 رع & Tayeb Santo\)](https://open.spotify.com/track/0O1mIPgvTHHsrwauEf8htm) | [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf), [R3](https://open.spotify.com/artist/5rm4Qg2CNX57RjHgePA4E4), [Tayeb Santo](https://open.spotify.com/artist/2aYaylPPW2iNQvlwFgO6hD) | [BERKA \(feat\. TUL8TE, R3 رع & Tayeb Santo\)](https://open.spotify.com/album/7Hhjjf6ZxGHKk6j32p4Nsl) | 3:50 |
 | 28 | [Zagalo](https://open.spotify.com/track/7JhSP9fNLGM6l8XEpQIUBH) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:23 |
 | 29 | [London](https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk) | [Deja Vu](https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q) | 2:40 |
-| 30 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 |
+| 30 | [Lojy](https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [OK.](https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ) | 2:30 |
 | 31 | [Hakeem](https://open.spotify.com/track/04BkxAeJge8nrb0VC3McuK) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Hakeem](https://open.spotify.com/album/2lEL8PvHsF1uPGX4TNOAQP) | 2:26 |
-| 32 | [Lojy](https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [OK.](https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ) | 2:30 |
+| 32 | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/track/3NCimqhH0nbUEFGpExhsTM) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ostaz Mahmoud Bezzawy](https://open.spotify.com/album/7gSkacuneqgcG3HFLQkCbS) | 2:42 |
 | 33 | [Ayamy Betfoot](https://open.spotify.com/track/0A1S5v9iqx8VcAr9EXJyYN) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Ayamy Betfoot](https://open.spotify.com/album/5vjadUmDs4MBIsKzqjupE3) | 3:02 |
 | 34 | [Matghebsh](https://open.spotify.com/track/74k8GuiS5ltwWJUKzS0bx5) | [Ramez Naguib](https://open.spotify.com/artist/54XAVu3LEKVMsAzzavMyQ2), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Yemken](https://open.spotify.com/album/6euNJp1rtcIhPK3LleR9Ri) | 2:27 |
 | 35 | [Lang](https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Lang](https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm) | 2:26 |

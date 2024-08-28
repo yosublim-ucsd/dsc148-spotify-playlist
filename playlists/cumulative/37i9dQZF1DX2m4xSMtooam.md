@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-269 songs - 17 hr 7 min
+270 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [O Pato \- Ultimate Mix](https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [O Amor, O Sorriso e a Flor \(Ultimate Mix\)](https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it) | 1:58 | 2022-06-28 | 2022-10-26 |
 | [O Que Sera?](https://open.spotify.com/track/1bAnTqAtb5SZc9N58do9nU) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8), [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Rio \(Exclusive International Version\)](https://open.spotify.com/album/3xeSQlUbj1czlmHmRduCFI) | 5:24 | 2022-05-13 |  |
 | [O Qué e Amar](https://open.spotify.com/track/23yWKIqw0l0oYRYWE2wJpe) | [Xavier Mendoza](https://open.spotify.com/artist/7nhIjZfce2dcORg7gWGp73) | [O Qué e Amar](https://open.spotify.com/album/5aQw0jC4z1hDAqlb5Tcngu) | 2:53 | 2023-02-23 |  |
-| [Olivença](https://open.spotify.com/track/0CjpaIrrl0rEs2Y6kyncyq) | [Leo Rio Trio](https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik) | [Olivença](https://open.spotify.com/album/5J1IgxrFq7MOoEYA03bQxy) | 4:12 | 2024-08-07 |  |
+| [Olivença](https://open.spotify.com/track/0CjpaIrrl0rEs2Y6kyncyq) | [Leo Rio Trio](https://open.spotify.com/artist/1R0qL8WmvLHEu1EUrp94Ik) | [Olivença](https://open.spotify.com/album/5J1IgxrFq7MOoEYA03bQxy) | 4:12 | 2024-08-07 | 2024-08-28 |
 | [On My Mind](https://open.spotify.com/track/1Lp9cOpGyHm02KXRt4nr9G) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Letters in the Sand](https://open.spotify.com/album/1OPc6UzxatVaPBoTgzqJlv) | 4:19 | 2023-08-24 |  |
 | [Once Again \(feat\. Laurindo Almeida\)](https://open.spotify.com/track/61nUmoV7ffSJNjxIt1Uqsg) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Laurindo Almeida](https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk) | [Stan Getz With Guest Artist Laurindo Almeida](https://open.spotify.com/album/7MpkC6j49masfrHLQlXrB9) | 6:42 | 2022-05-13 | 2022-11-13 |
 | [Once Forgotten](https://open.spotify.com/track/2aPO4B3PM4hPhNsUdITCWr) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [Once Forgotten](https://open.spotify.com/album/5X2xPJhl0fOdxCvjFp0i7v) | 4:07 | 2022-11-11 |  |
@@ -252,6 +252,7 @@
 | [Un Petit Bossanova](https://open.spotify.com/track/52Ncl5sgFtBDBTHdN8wC3T) | [Leon Noel](https://open.spotify.com/artist/33HL5KjSpPc12d2m01u6qB), [Roy Altice](https://open.spotify.com/artist/4WbBlvI0I3igsnRaNFzjBb) | [Leon Noel & Roy Altice](https://open.spotify.com/album/1pSdcWvO67Ey07XOjUiuV2) | 3:13 | 2023-06-13 |  |
 | [Unhappy Remark \(Palpite Infeliz\)](https://open.spotify.com/track/0dfj6j9cYQYGmZej4WvMHL) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/0u32q4Evsx4fHtpkUUwodh) | 3:55 | 2022-05-13 | 2022-07-29 |
 | [Valle, M / Valle, P: So nice](https://open.spotify.com/track/4evGIySLSVBJD90LrDkTcO) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [Paulo Valle](https://open.spotify.com/artist/3aFqquhdDAG1uNtkTVdNKI), [Quatuor Ébène](https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Philippe Faurie](https://open.spotify.com/artist/4lA949N00pkYsq3xsvCd5f), [Richard Héry](https://open.spotify.com/artist/5fIfXCE9bblEKjtyo40NEm), [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Brazil](https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs) | 4:24 | 2022-05-13 |  |
+| [Vamos lá](https://open.spotify.com/track/1eKV8P2IzVa3ISSvbYHIKX) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Vamos lá](https://open.spotify.com/album/3vHSQw8zTsTt6OTuixhgr1) | 2:32 | 2024-08-26 |  |
 | [Verano](https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Verano](https://open.spotify.com/album/3dLSXvdHsZjBxYfeeZDeHX) | 2:52 | 2023-03-23 |  |
 | [Vespertine](https://open.spotify.com/track/33VG7YhLJLh3VEOtUFDH34) | [Hiro Suzuki](https://open.spotify.com/artist/0s1xwFKAEEALaWl3DRizth) | [Vespertine](https://open.spotify.com/album/72c9jSI0MR0rtF6JG3w1sR) | 7:00 | 2023-03-15 |  |
 | [Vivendo](https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9) | [Moreno Jazz Band](https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr) | [Vivendo](https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl) | 3:19 | 2022-11-11 |  |

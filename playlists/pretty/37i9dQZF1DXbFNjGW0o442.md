@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Zöelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,572 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,586 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 47 | [En Toneles](https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 4:06 |
 | 48 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 |
 | 49 | [Ego](https://open.spotify.com/track/14ftM04cOvRswUMx8IKaY3) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx), [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Ego](https://open.spotify.com/album/1BRTLy5OxF1u5JvP8UrxxP) | 2:56 |
-| 50 | [DOSMILUNO](https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd) | [cata carpena](https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx) | [LOS VIEJOS CON GUITA](https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso) | 4:04 |
-| 51 | [Héroes Anónimos](https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B) | [Metrópoli](https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2) | [Viaje al Más Acá \(Remastered 2020\)](https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet) | 3:12 |
+| 50 | [Héroes Anónimos](https://open.spotify.com/track/5uuj0ZYfPi6cZJASUfax2B) | [Metrópoli](https://open.spotify.com/artist/03COuk5mSMWgxx8z9NlyE2) | [Viaje al Más Acá \(Remastered 2020\)](https://open.spotify.com/album/5ZKr5xm8fTRcD7dwKbytet) | 3:12 |
+| 51 | [DOSMILUNO](https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd) | [cata carpena](https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx) | [LOS VIEJOS CON GUITA](https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso) | 4:04 |
 | 52 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 |
 | 53 | [Aguardiente](https://open.spotify.com/track/34h4kkt4n6SVI5zsjYrFvy) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [EL MUNDO PEQUEÑO](https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi) | 4:25 |
 | 54 | [Change Your Mind](https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Change Your Mind](https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe) | 2:27 |
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 70 | [Unfuckable](https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:52 |
 | 71 | [Promesa](https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48) | [Maria Durante](https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx) | [Promesa](https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO) | 3:28 |
 | 72 | [Huir](https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Huir](https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s) | 4:16 |
-| 73 | [Cuando el sol está así](https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Cuando el sol está así](https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8) | 3:50 |
-| 74 | [Morirían](https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Hora de No Ver](https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR) | 3:11 |
-| 75 | [Estás Borracho](https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8) | [Venus](https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh) | [El Ataque de Zorrita](https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ) | 2:38 |
+| 73 | [Estás Borracho](https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8) | [Venus](https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh) | [El Ataque de Zorrita](https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ) | 2:38 |
+| 74 | [Cuando el sol está así](https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Cuando el sol está así](https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8) | 3:50 |
+| 75 | [Morirían](https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Hora de No Ver](https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR) | 3:11 |
 | 76 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 |
 | 77 | [Confusion](https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj) | [Actitud María Marta](https://open.spotify.com/artist/0GQzO6YWsPqvMLMa92Epea) | [Acorralar a la Bestia](https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe) | 5:31 |
 | 78 | [Ego](https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb) | [Daniela Milagros](https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj) | [Ego](https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1) | 3:10 |
@@ -90,11 +90,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 80 | [Atasco](https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Atasco](https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr) | 3:46 |
 | 81 | [Génesis](https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 4:26 |
 | 82 | [Mi Voz](https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Mi Voz](https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG) | 3:12 |
-| 83 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 |
-| 84 | [Vengas Conmigo](https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy) | [Dulce Fuerte Grave](https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz) | 3:44 |
+| 83 | [Vengas Conmigo](https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy) | [Dulce Fuerte Grave](https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz) | 3:44 |
+| 84 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 |
 | 85 | [Agitar](https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Agitar](https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ) | 2:07 |
 | 86 | [Para Olvidarte](https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Para Olvidarte](https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS) | 3:05 |
-| 87 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 |
+| 87 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 |
 | 88 | [BANCATE ESE DEFECTO \- Radio Edit](https://open.spotify.com/track/7eyUN8JSbeDzUB9w4eqEKh) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [BANCATE ESE DEFECTO \(Radio Edit\)](https://open.spotify.com/album/3S1bG3zai1ZaU7ZaiZ225e) | 4:22 |
 | 89 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 |
 | 90 | [Tiro de Gracia](https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Tiro de Gracia](https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU) | 3:42 |

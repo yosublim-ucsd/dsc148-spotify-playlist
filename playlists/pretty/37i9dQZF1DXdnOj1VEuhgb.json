@@ -1,57 +1,13 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Batuflex x Ali471\n",
-  "num_followers": 1380313,
+  "num_followers": 1380593,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsem0AAAAAAkV7aBHvQBp/lxRY/iYrgL",
+  "snapshot_id": "Zs3d/wAAAABga73bTS3UmPvmubJtxQiZ",
   "tracks": [
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Deliyoo",
-        "url": "https://open.spotify.com/album/71XO36BFl6oSFi7prjhyL3"
-      },
-      "artists": [
-        {
-          "name": "Arda Gezer",
-          "url": "https://open.spotify.com/artist/1fCfko2pBGowIzqjakqxF8"
-        },
-        {
-          "name": "\u015eehin\u015fah",
-          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
-        },
-        {
-          "name": "Patron",
-          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
-        }
-      ],
-      "duration_ms": 202608,
-      "name": "Deliyoo",
-      "url": "https://open.spotify.com/track/34zeF2M1eQT6mSr8iRLHqa"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "OF OF OF",
-        "url": "https://open.spotify.com/album/0WEq08VBCgEfPh3Hw6dlav"
-      },
-      "artists": [
-        {
-          "name": "ElMusto",
-          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
-        },
-        {
-          "name": "Organize",
-          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "OF OF OF",
-      "url": "https://open.spotify.com/track/1RI3YE0BqwN2Fd6Ej0gTqW"
-    },
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
@@ -75,22 +31,22 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Kan Kayb\u0131",
-        "url": "https://open.spotify.com/album/1FXF7bIW1G6xeBtywQDZCh"
+        "name": "OF OF OF",
+        "url": "https://open.spotify.com/album/0WEq08VBCgEfPh3Hw6dlav"
       },
       "artists": [
         {
-          "name": "Ahiyan",
-          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+          "name": "ElMusto",
+          "url": "https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl"
         },
         {
-          "name": "No.1",
-          "url": "https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y"
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
         }
       ],
-      "duration_ms": 199124,
-      "name": "Kan Kayb\u0131",
-      "url": "https://open.spotify.com/track/1m5pdgxphP7rhrpHMTRJHe"
+      "duration_ms": 144000,
+      "name": "OF OF OF",
+      "url": "https://open.spotify.com/track/1RI3YE0BqwN2Fd6Ej0gTqW"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -147,6 +103,30 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
+        "name": "Deliyoo",
+        "url": "https://open.spotify.com/album/71XO36BFl6oSFi7prjhyL3"
+      },
+      "artists": [
+        {
+          "name": "Arda Gezer",
+          "url": "https://open.spotify.com/artist/1fCfko2pBGowIzqjakqxF8"
+        },
+        {
+          "name": "\u015eehin\u015fah",
+          "url": "https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA"
+        },
+        {
+          "name": "Patron",
+          "url": "https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS"
+        }
+      ],
+      "duration_ms": 202608,
+      "name": "Deliyoo",
+      "url": "https://open.spotify.com/track/34zeF2M1eQT6mSr8iRLHqa"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
         "name": "CISTAK",
         "url": "https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 155689,
       "name": "D\u00fc\u015fmez Kalkmaz",
       "url": "https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
+        "name": "Kan Kayb\u0131",
+        "url": "https://open.spotify.com/album/1FXF7bIW1G6xeBtywQDZCh"
+      },
+      "artists": [
+        {
+          "name": "Ahiyan",
+          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+        },
+        {
+          "name": "No.1",
+          "url": "https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y"
+        }
+      ],
+      "duration_ms": 199124,
+      "name": "Kan Kayb\u0131",
+      "url": "https://open.spotify.com/track/1m5pdgxphP7rhrpHMTRJHe"
     },
     {
       "added_at": "2024-08-22 21:00:00",

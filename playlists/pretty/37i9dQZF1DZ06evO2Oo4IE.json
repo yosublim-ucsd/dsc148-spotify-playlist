@@ -1,12 +1,12 @@
 {
-  "description": "This Is Janis Joplin. Los temas esenciales, todos en una lista.",
-  "num_followers": 180637,
+  "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
+  "num_followers": 180642,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACgWUuVByJx1259M+cD8le8",
+  "snapshot_id": "ZsvFgAAAAADMzhyZTS7PK8HrwgIh5DXP",
   "tracks": [
     {
       "added_at": null,
@@ -887,18 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+        "name": "The Essential Janis Joplin",
+        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
       },
       "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 103880,
-      "name": "Applause & Talk, Pt.3 - Live",
-      "url": "https://open.spotify.com/track/1m84RF5HCIUQilJKyCCSop"
+      "duration_ms": 296640,
+      "name": "Farewell Song - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
+      "url": "https://open.spotify.com/track/6Xz7vJYqEjINFozPaJNDHk"
     }
   ],
   "unique_name": "This Is Janis Joplin",

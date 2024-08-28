@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Javiera Mena.",
-  "num_followers": 19060,
+  "num_followers": 19058,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Hechizao (Pyura Remix)",
-        "url": "https://open.spotify.com/album/3uEpl1UF9dQCItTO8eoVrl"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        },
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 206620,
-      "name": "Hechizao - Pyura Remix",
-      "url": "https://open.spotify.com/track/1CFQUCHVBjIBGBsPB0Ngg5"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "TODO SOBRE LA NADA",
         "url": "https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 212867,
       "name": "PARAISO",
       "url": "https://open.spotify.com/track/2An5jscGeFNAvpjRhfiL9A"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Hechizao (Pyura Remix)",
+        "url": "https://open.spotify.com/album/3uEpl1UF9dQCItTO8eoVrl"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 206620,
+      "name": "Hechizao - Pyura Remix",
+      "url": "https://open.spotify.com/track/1CFQUCHVBjIBGBsPB0Ngg5"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Matanza",
-        "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        },
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        }
-      ],
-      "duration_ms": 249148,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "Provoqu\u00e9",
         "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 218500,
       "name": "Provoqu\u00e9",
       "url": "https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Matanza",
+        "url": "https://open.spotify.com/album/2Z3FuttHLhctiaxUx0Nyi3"
+      },
+      "artists": [
+        {
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
+        },
+        {
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+        }
+      ],
+      "duration_ms": 249148,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/19yOR2e7WHQPtyoMwP4Ar4"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
+        "name": "He fakin loves me!",
+        "url": "https://open.spotify.com/album/2hQjdV56JcnFQmW6URFkDA"
+      },
+      "artists": [
+        {
+          "name": "Vera Frod",
+          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
+        }
+      ],
+      "duration_ms": 171139,
+      "name": "He fakin loves me!",
+      "url": "https://open.spotify.com/track/6b7gmH9nE2RjN0jjGt1rMr"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
         "name": "Butoh iA",
         "url": "https://open.spotify.com/album/2iirGJgI6LPselOdsVtSTv"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 143418,
       "name": "Butoh iA",
       "url": "https://open.spotify.com/track/7smS5jmBngHw6BkHuWHRKW"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "He fakin loves me!",
-        "url": "https://open.spotify.com/album/2hQjdV56JcnFQmW6URFkDA"
-      },
-      "artists": [
-        {
-          "name": "Vera Frod",
-          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
-        }
-      ],
-      "duration_ms": 171139,
-      "name": "He fakin loves me!",
-      "url": "https://open.spotify.com/track/6b7gmH9nE2RjN0jjGt1rMr"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "El Im\u00e1n (Remix)",
-        "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        },
-        {
-          "name": "Santiago Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "El Im\u00e1n - Remix",
-      "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "\u00a1Tierra a la Vista!",
         "url": "https://open.spotify.com/album/0OSJkds9VzdHHAZB3nI8ca"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 169000,
       "name": "Mapa - TLSCPS2023",
       "url": "https://open.spotify.com/track/01cQ2zQ2wQ3gpanSWJST4x"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "El Im\u00e1n (Remix)",
+        "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        },
+        {
+          "name": "Santiago Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "El Im\u00e1n - Remix",
+      "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Politoxic",
-        "url": "https://open.spotify.com/album/4zA2cKqs6GDQhvNVo6SgMY"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        },
-        {
-          "name": "Marcos French",
-          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
-        }
-      ],
-      "duration_ms": 197203,
-      "name": "Politoxic",
-      "url": "https://open.spotify.com/track/3XQAOtYo8XqqRg6M7UlauT"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "Nada que ver",
         "url": "https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 193971,
       "name": "Nada que ver",
       "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Politoxic",
+        "url": "https://open.spotify.com/album/4zA2cKqs6GDQhvNVo6SgMY"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        },
+        {
+          "name": "Marcos French",
+          "url": "https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc"
+        }
+      ],
+      "duration_ms": 197203,
+      "name": "Politoxic",
+      "url": "https://open.spotify.com/track/3XQAOtYo8XqqRg6M7UlauT"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
+        "name": "Vitamina",
+        "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
+      },
+      "artists": [
+        {
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Vitamina",
+      "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
         "name": "Fuera de Campo (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/5MvyTXQx5v4SUQ9A5BdPSz"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 296909,
       "name": "Revista de Gimnasia - Alejandro Paz Remix",
       "url": "https://open.spotify.com/track/5FR4gA58DZ7rzDb3LQVYyW"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "Vitamina",
-        "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
-      },
-      "artists": [
-        {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Vitamina",
-      "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Blue Planet",
-        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
-      },
-      "artists": [
-        {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
-        }
-      ],
-      "duration_ms": 153193,
-      "name": "Blue Planet",
-      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "Arde",
         "url": "https://open.spotify.com/album/5me5lcvtqBcly58BKl6LCX"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 254583,
       "name": "Carmes\u00ed",
       "url": "https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Blue Planet",
+        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
+      },
+      "artists": [
+        {
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+        }
+      ],
+      "duration_ms": 153193,
+      "name": "Blue Planet",
+      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Amor (Remix)",
-        "url": "https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd"
-      },
-      "artists": [
-        {
-          "name": "Kush Mama",
-          "url": "https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ"
-        }
-      ],
-      "duration_ms": 306500,
-      "name": "Amor - Remix",
-      "url": "https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "Debilidad",
         "url": "https://open.spotify.com/album/21pyXWvMYZ6OALRRsAt6IP"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 263546,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Amor (Remix)",
+        "url": "https://open.spotify.com/album/0gWxvPH2Ff45ZHyLPW14pd"
+      },
+      "artists": [
+        {
+          "name": "Kush Mama",
+          "url": "https://open.spotify.com/artist/7IaPQKeWAra6PB5Vjx5uvJ"
+        }
+      ],
+      "duration_ms": 306500,
+      "name": "Amor - Remix",
+      "url": "https://open.spotify.com/track/7aexh1SaZkQDwXoo0v1paF"
     },
     {
       "added_at": "2024-08-16 03:00:00",

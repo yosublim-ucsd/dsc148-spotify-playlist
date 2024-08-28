@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > The Latin soundtrack of the 50s! Cover: Pedro Infante
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,320 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,337 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 35 | [Pénjamo](https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:15 |
 | 36 | [Perfídia](https://open.spotify.com/track/5H7EJcOSNNWjMjdHIxtdG0) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canciones del Corazon](https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u) | 2:53 |
 | 37 | [Como Antes](https://open.spotify.com/track/3ND2X5ewlEMOnuzvsvi71w) | [Los 5 Latinos](https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA) | [Los 5 Latinos \(Singles Collection\)](https://open.spotify.com/album/1973kRaYyDe5rJeRAvQHQ6) | 1:56 |
-| 38 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
-| 39 | [Recordaré tu amor \(remastered\)](https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 3:14 |
+| 38 | [Recordaré tu amor \(remastered\)](https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 3:14 |
+| 39 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
 | 40 | [El agarrao \- Remastered](https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql) | [Benny Moré](https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P) | [Cienfuegos \(Remastered\)](https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc) | 2:41 |
 | 41 | [Somos \(Bolero\) \- Remastered](https://open.spotify.com/track/4vYLtJruIsptXIberxsgWM) | [Antonio Machín](https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG) | [Antonio Machin, Vol\. 3 \(1947\-1950 Remastered\)](https://open.spotify.com/album/6E45UvcXJk3sZNrisgRLho) | 3:07 |
 | 42 | [Las Chicas de la Cruz Roja \(Fox Fado\) \- Remastered](https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7) | [Ana Maria Parra](https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei) | [Ana Maria Parra, Vol\. 1 \(1958 \- 1961 Remastered\)](https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG) | 2:14 |

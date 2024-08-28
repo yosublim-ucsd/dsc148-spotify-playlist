@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,040 likes - 47 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,042 likes - 47 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 21 | [Maybe Memories](https://open.spotify.com/track/4I4uCtlWg6I7OyuGZE4wqn) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 2:55 |
 | 22 | [People Are Vomit](https://open.spotify.com/track/2FYcaOeXzUuCVrhbn4amXB) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:52 |
 | 23 | [Blood on My Hands](https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Artwork \(Deluxe Edition\)](https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p) | 3:17 |
-| 24 | [Dearly Departed \(feat\. robbietheused\)](https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Dearly Departed \(feat\. robbietheused\)](https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT) | 3:16 |
-| 25 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
+| 24 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
+| 25 | [Dearly Departed \(feat\. robbietheused\)](https://open.spotify.com/track/5j6F769jqaBlfBXSm5obT2) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [robbietheused](https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0) | [Dearly Departed \(feat\. robbietheused\)](https://open.spotify.com/album/7vkizSiGOH5kexkIRcfxwT) | 3:16 |
 | 26 | [Sisyphus](https://open.spotify.com/track/0oF3vyPF4KSwfc1tv8n3Hc) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb) | 2:59 |
 | 27 | [Listening](https://open.spotify.com/track/528rajP3OyhornDwrsQrt4) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 2:46 |
 | 28 | [Hospital](https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 2:56 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZCBBm.md) - [plain]
 | 46 | [Dopamine](https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 2:37 |
 | 47 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
 
-Snapshot ID: `Zsp0AAAAAABYpoXsIv+SHCuBANqYWfM4`
+Snapshot ID: `ZsvFgAAAAADqg1hCriuXsDp06dop6mIk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,101 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,123 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [qué le pasa conmigo?](https://open.spotify.com/track/0RD94y2DlYTzEePb4WuVbU) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:47 |
 | 50 | [Una Foto](https://open.spotify.com/track/4sl3IoHskl2Kbdy27gZ4yn) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6) | [Una Foto](https://open.spotify.com/album/68oJKya0ABvKQkx5Zx0KXi) | 2:02 |
 
-Snapshot ID: `Ll/q8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`

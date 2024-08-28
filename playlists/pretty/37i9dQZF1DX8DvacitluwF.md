@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href=https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=lju9s15lTYyoBzioK5ACXQ>Manana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,353 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,358 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 3 | [See What I See](https://open.spotify.com/track/4rHHlFa6WXLZo2XEDQbeZW) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5) | [Our Broken Hearts Mend](https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B) | 3:33 |
 | 4 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 |
 | 5 | [Tonight](https://open.spotify.com/track/3pmtkeRPl7UNK389EC8lvS) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Tonight](https://open.spotify.com/album/6orgHTkhJhUseTwtujjvmz) | 1:40 |
-| 6 | [Tonight](https://open.spotify.com/track/0RV4Vmyw8xgWH8wkdqMBRa) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [The Waiting Room](https://open.spotify.com/album/5dE0mvQOTu4FbHfZQs7zLj) | 3:16 |
+| 6 | [Tonight](https://open.spotify.com/track/0RV4Vmyw8xgWH8wkdqMBRa) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [The Waiting Room](https://open.spotify.com/album/5dE0mvQOTu4FbHfZQs7zLj) | 3:10 |
 | 7 | [sweeeet](https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [sweeeet](https://open.spotify.com/album/4KCcVKgRtQtU2QpfZ0fv3L) | 1:51 |
 | 8 | [My Terms](https://open.spotify.com/track/6Q1LfCohflkggCIpF5rO9S) | [Naye Ayla](https://open.spotify.com/artist/6KMjCrFmLJKQ2SYe2Hi9IW) | [My Terms](https://open.spotify.com/album/0sHRtny2YtgcRNPEJehPI6) | 2:06 |
 | 9 | [Bad Side](https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Bad Side](https://open.spotify.com/album/43hyX6KUGC3F2HD6XaCjgE) | 2:38 |

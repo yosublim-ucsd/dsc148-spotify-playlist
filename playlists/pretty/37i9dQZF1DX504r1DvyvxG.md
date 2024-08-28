@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,646,990 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,646,978 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 68 | [The Weight](https://open.spotify.com/track/2UgZeV435iztRTLrUeOrtk) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Best Of The Band](https://open.spotify.com/album/4RMbnuwtOMbN3INQcaJwUr) | 4:34 |
 | 69 | [It's All Over Now Baby Blue](https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Rich Kid Blues](https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk) | 3:49 |
 | 70 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
-| 71 | [Dublin Blues](https://open.spotify.com/track/4rXt1tYHZIavECuN32fk96) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Dublin Blues](https://open.spotify.com/album/5IzhouI88qt3gZgJ7WjEgp) | 4:19 |
-| 72 | [Souvenirs](https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Souvenirs](https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE) | 3:42 |
+| 71 | [Souvenirs](https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Souvenirs](https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE) | 3:42 |
+| 72 | [Dublin Blues](https://open.spotify.com/track/4rXt1tYHZIavECuN32fk96) | [Guy Clark](https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq) | [Dublin Blues](https://open.spotify.com/album/5IzhouI88qt3gZgJ7WjEgp) | 4:19 |
 | 73 | [Black Is the Colour](https://open.spotify.com/track/29tvuiMPkb9q56VRoLVQKD) | [Tia Blake](https://open.spotify.com/artist/6fkGY2RJyI8UxNjMlDo9k1) | [Folksongs & Ballads](https://open.spotify.com/album/2JQDn2wgm2nLVxdWE0GJJa) | 2:28 |
 | 74 | [Red Dirt Girl](https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Hickory Wind](https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX) | 4:05 |
 | 75 | [Alice's Restaurant Massacree](https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 18:36 |

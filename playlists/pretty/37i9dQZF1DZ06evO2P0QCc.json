@@ -1,12 +1,12 @@
 {
-  "description": "This Is Inspector. Los temas esenciales, todos en una lista.",
-  "num_followers": 111102,
+  "description": "This is Inspector. The essential tracks, all in one playlist.",
+  "num_followers": 111134,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABg1YGaPQSmwpMob8S3eXi0",
+  "snapshot_id": "ZsvFgAAAAACb7I3V8Y1ffuXV01lbt0zK",
   "tracks": [
     {
       "added_at": null,
@@ -390,31 +390,11 @@
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        },
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 224666,
-      "name": "Grita",
-      "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unidad, Cerveza y Ska",
-        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "Ska Voovee Boobie Baby",
-      "url": "https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe"
+      "duration_ms": 214933,
+      "name": "Serpientes Y Escaleras",
+      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
     },
     {
       "added_at": null,
@@ -439,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+        "name": "Unidad, Cerveza y Ska",
+        "url": "https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd"
       },
       "artists": [
         {
@@ -448,25 +428,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 276493,
-      "name": "Inspiracional",
-      "url": "https://open.spotify.com/track/1iPLqMA51oVMzaATZrcZZ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Serpientes Y Escaleras",
-      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
+      "duration_ms": 203866,
+      "name": "Ska Voovee Boobie Baby",
+      "url": "https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe"
     },
     {
       "added_at": null,
@@ -483,6 +447,42 @@
       "duration_ms": 213746,
       "name": "El Relato",
       "url": "https://open.spotify.com/track/7dLsthrW8ROlkLeOTglRsz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "Grita",
+      "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 276493,
+      "name": "Inspiracional",
+      "url": "https://open.spotify.com/track/1iPLqMA51oVMzaATZrcZZ1"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inspecci\u00f3n Retroac\u00fastica",
-        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 209793,
-      "name": "Volvamos a Ser Novios",
-      "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+        "name": "Inspecci\u00f3n Retroac\u00fastica",
+        "url": "https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Lo Que T\u00fa Me Das - Gracias",
-      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+      "duration_ms": 209793,
+      "name": "Volvamos a Ser Novios",
+      "url": "https://open.spotify.com/track/1TaxeNJAmzQ91dh9zF5701"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 172771,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 267333,
       "name": "Te Falt\u00f3 Coraz\u00f3n - Versi\u00f3n Bolero",
       "url": "https://open.spotify.com/track/77ugG1dWbDv980I5J0IEzY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 172771,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/23ZPovMSlcsbHq2aQWQMM2"
     },
     {
       "added_at": null,

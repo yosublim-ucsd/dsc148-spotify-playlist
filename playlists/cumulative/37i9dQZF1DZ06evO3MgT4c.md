@@ -2,7 +2,7 @@
 
 ### [This Is Migos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3MgT4c)
 
-> This is Migos\. The essential tracks, all in one playlist.
+> This Is Migos\. Los temas esenciales, todos en una lista.
 
 72 songs - 4 hr 43 min
 
@@ -38,13 +38,13 @@
 | [Hannah Montana](https://open.spotify.com/track/3SnLc0bQjQeE3HgGdNfb8u) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Young Rich N\*ggas](https://open.spotify.com/album/4YmTZjHk8SmTFTiVMXBN1A) | 3:32 | 2024-05-18 | 2024-07-07 |
 | [Having Our Way \(feat\. Drake\)](https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:38 | 2023-06-07 |  |
 | [Hot Summer](https://open.spotify.com/track/3fEpuoSr8ufvyRR7s2jB3U) | [DJ Durel](https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Hot Summer](https://open.spotify.com/album/6BEHK0e0rknUYbDUIFv4Sl) | 3:51 | 2023-07-16 | 2024-07-24 |
-| [How We Coming](https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 3:49 | 2023-06-07 |  |
+| [How We Coming](https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \- Deluxe](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 3:49 | 2023-06-07 |  |
 | [I Get the Bag \(feat\. Migos\)](https://open.spotify.com/track/1XRgIKC5TPwo7nWGyKqgG0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Mr\. Davis](https://open.spotify.com/album/2aTOwGU66ocsf8IQpOI0XZ) | 3:53 | 2023-06-07 |  |
 | [Is You Ready \- From "Mile 22"](https://open.spotify.com/track/6FwJj7uwhZ1vrBlDZvMLZk) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Is You Ready \(From "Mile 22"\)](https://open.spotify.com/album/0kcQVLgW7ugVdFapH14iiP) | 3:04 | 2023-06-07 |  |
 | [Kelly Price \(feat\. Travis Scott\)](https://open.spotify.com/track/5Q6DJEgNTiN9xcOQzKmw9F) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 6:03 | 2023-06-07 |  |
 | [Key to the Streets](https://open.spotify.com/track/0bHDsbWkPSJ01adXfObBzJ) | [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Trouble](https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC) | [Wish Me Well 2](https://open.spotify.com/album/49xRLtZLaXg5yJgGiXFXWR) | 4:41 | 2023-06-07 |  |
 | [Malibu \(feat\. Polo G\)](https://open.spotify.com/track/3v1zVVdzNVNt7vmI9VG2gq) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:08 | 2023-06-07 | 2024-07-23 |
-| [Menace](https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 2:24 | 2023-06-07 |  |
+| [Menace](https://open.spotify.com/track/6J8y4lu18GkXuNhGCuZqzS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \- Deluxe](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 2:24 | 2023-06-07 |  |
 | [Menace 2 \(Migos, Lil Yachty\)](https://open.spotify.com/track/4XRABck4iyZrh5yJ7nOWOi) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:24 | 2024-05-20 | 2024-07-24 |
 | [Modern Day](https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:01 | 2023-06-07 |  |
 | [MotorSport](https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture II](https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y) | 5:03 | 2023-06-07 |  |

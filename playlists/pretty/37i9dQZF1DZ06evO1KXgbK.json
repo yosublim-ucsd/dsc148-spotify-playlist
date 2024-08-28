@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 248163,
+  "num_followers": 248181,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACNL/DPHhQCO1qbWXnLI7OQ",
+  "snapshot_id": "ZsvFgAAAAABkPZHfw7Bk1MUUvG1sEMYM",
   "tracks": [
     {
       "added_at": null,
@@ -435,30 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Those Memories of You - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destinations and Fun Places",
         "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 256924,
       "name": "Take Me Home Country Roads",
       "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Those Memories of You - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
     },
     {
       "added_at": null,
@@ -535,6 +535,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Only Knows (with Dolly Parton)",
+        "url": "https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "God Only Knows (with Dolly Parton)",
+      "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Only Knows (with Dolly Parton)",
-        "url": "https://open.spotify.com/album/1gpKIhj9oqbjJIDMvZhAdF"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "God Only Knows (with Dolly Parton)",
-      "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dolly Dolly Dolly",
+        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Old Flames Can't Hold a Candle to You",
+      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 138093,
       "name": "Lovesick Blues (with Patsy Cline)",
       "url": "https://open.spotify.com/track/4VX5F5jHoVO8g9SiEFzBTb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolly Dolly Dolly",
-        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Old Flames Can't Hold a Candle to You",
-      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": null,
@@ -895,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "To All The Girls...",
+        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "From Here to the Moon and Back (feat. Dolly Parton)",
+      "url": "https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 153920,
       "name": "The Pain of Loving You - 2015 Remaster",
       "url": "https://open.spotify.com/track/3zQzQUYoDGIZOUM0BL84mM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To All The Girls...",
-        "url": "https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "From Here to the Moon and Back (feat. Dolly Parton)",
-      "url": "https://open.spotify.com/track/1SG91Ocs6KjP8DQlPmITgU"
     },
     {
       "added_at": null,

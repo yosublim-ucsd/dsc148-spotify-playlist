@@ -757,6 +757,28 @@
     },
     {
       "album": {
+        "name": "Body Ache",
+        "url": "https://open.spotify.com/album/5FCtijJEhO888UhXnnYkgp"
+      },
+      "artists": [
+        {
+          "name": "Elkka",
+          "url": "https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS"
+        },
+        {
+          "name": "Tom VR",
+          "url": "https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290558,
+      "name": "Body Ache",
+      "url": "https://open.spotify.com/track/50K3QO1dPbxCIbTglbBtjJ"
+    },
+    {
+      "album": {
         "name": "Body Mind Hell",
         "url": "https://open.spotify.com/album/18IjZBVEOQrzENrx7012bd"
       },
@@ -1426,7 +1448,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 374122,
       "name": "Del Oro",
       "url": "https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv"
@@ -2366,7 +2388,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 134942,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6M1vXz1vXshANbF1uxpQCG"
@@ -5282,6 +5304,24 @@
       "duration_ms": 277491,
       "name": "The Countdown",
       "url": "https://open.spotify.com/track/1sttvCeG8zDSqgZkHgm7Xz"
+    },
+    {
+      "album": {
+        "name": "The Kiss",
+        "url": "https://open.spotify.com/album/7z3Frq3oPasxt34BeVO0EZ"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271573,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/6jOg7Vcj5kzV8RML6YZAKF"
     },
     {
       "album": {

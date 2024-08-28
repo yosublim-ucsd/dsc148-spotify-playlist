@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: F\u00faria",
-  "num_followers": 131178,
+  "num_followers": 131164,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -55,34 +55,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Vamo Marolar",
-        "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        },
-        {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
-        }
-      ],
-      "duration_ms": 181512,
-      "name": "Vamo Marolar",
-      "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -115,6 +87,34 @@
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Vamo Marolar",
+        "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 181512,
+      "name": "Vamo Marolar",
+      "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -839,34 +839,18 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Darma",
-        "url": "https://open.spotify.com/album/5O0eyzHsfXfRQuHRV0X1tL"
+        "name": "Replay - Spotify Singles",
+        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
       },
       "artists": [
         {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Ribb",
-          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
         }
       ],
-      "duration_ms": 176633,
-      "name": "Nosso Momento",
-      "url": "https://open.spotify.com/track/0Veziue3ma20ib0JUzARrV"
+      "duration_ms": 150093,
+      "name": "Replay - Spotify Singles",
+      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -903,18 +887,34 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Replay - Spotify Singles",
-        "url": "https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h"
+        "name": "Darma",
+        "url": "https://open.spotify.com/album/5O0eyzHsfXfRQuHRV0X1tL"
       },
       "artists": [
         {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
         }
       ],
-      "duration_ms": 150093,
-      "name": "Replay - Spotify Singles",
-      "url": "https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z"
+      "duration_ms": 176633,
+      "name": "Nosso Momento",
+      "url": "https://open.spotify.com/track/0Veziue3ma20ib0JUzARrV"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1103,22 +1103,18 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Dialeto Delinquente",
-        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
+        "name": "Inicial",
+        "url": "https://open.spotify.com/album/0tCDzDSbcjlSOeLsgP5ski"
       },
       "artists": [
         {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
         }
       ],
-      "duration_ms": 140506,
-      "name": "Suco de Fruta",
-      "url": "https://open.spotify.com/track/47vNIixENMn2RxcNrGwOlo"
+      "duration_ms": 149009,
+      "name": "Inicial",
+      "url": "https://open.spotify.com/track/4oZP8H8n8YJ8WMxIAWEGdQ"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1147,18 +1143,22 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Inicial",
-        "url": "https://open.spotify.com/album/0tCDzDSbcjlSOeLsgP5ski"
+        "name": "Dialeto Delinquente",
+        "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
       },
       "artists": [
         {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
         }
       ],
-      "duration_ms": 149009,
-      "name": "Inicial",
-      "url": "https://open.spotify.com/track/4oZP8H8n8YJ8WMxIAWEGdQ"
+      "duration_ms": 140506,
+      "name": "Suco de Fruta",
+      "url": "https://open.spotify.com/track/47vNIixENMn2RxcNrGwOlo"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1239,6 +1239,46 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
+        "name": "Thanos",
+        "url": "https://open.spotify.com/album/7Al64HfSoM38DMI3qu0jy9"
+      },
+      "artists": [
+        {
+          "name": "A$HP",
+          "url": "https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9"
+        },
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        }
+      ],
+      "duration_ms": 135111,
+      "name": "Thanos",
+      "url": "https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Fora Da Panela (Mixtape)",
+        "url": "https://open.spotify.com/album/2LuDsaA1An3g5kS1U85d3V"
+      },
+      "artists": [
+        {
+          "name": "Delatorvi",
+          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
+        },
+        {
+          "name": "Overdone",
+          "url": "https://open.spotify.com/artist/2jocgFGNmUx42CYHGYvSEJ"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Belo Horizonte 30 Graus A Noite",
+      "url": "https://open.spotify.com/track/0JavOJghJE36Q51xIUfd5z"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
         "name": "Dialeto Delinquente",
         "url": "https://open.spotify.com/album/4LMHsX1M1GcOAiRPDYPnRB"
       },
@@ -1263,26 +1303,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Thanos",
-        "url": "https://open.spotify.com/album/7Al64HfSoM38DMI3qu0jy9"
-      },
-      "artists": [
-        {
-          "name": "A$HP",
-          "url": "https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9"
-        },
-        {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
-        }
-      ],
-      "duration_ms": 135111,
-      "name": "Thanos",
-      "url": "https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -1303,26 +1323,6 @@
       "duration_ms": 121540,
       "name": "Ambi\u00e7\u00f5es E V\u00edcios",
       "url": "https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Fora Da Panela (Mixtape)",
-        "url": "https://open.spotify.com/album/2LuDsaA1An3g5kS1U85d3V"
-      },
-      "artists": [
-        {
-          "name": "Delatorvi",
-          "url": "https://open.spotify.com/artist/0pgqFvc1hc1r35fbl1TFvu"
-        },
-        {
-          "name": "Overdone",
-          "url": "https://open.spotify.com/artist/2jocgFGNmUx42CYHGYvSEJ"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Belo Horizonte 30 Graus A Noite",
-      "url": "https://open.spotify.com/track/0JavOJghJE36Q51xIUfd5z"
     },
     {
       "added_at": "2024-08-23 03:01:00",

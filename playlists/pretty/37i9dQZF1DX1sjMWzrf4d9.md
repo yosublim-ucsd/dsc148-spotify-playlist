@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ">Ziwe Fumudoh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,600 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 | 30 | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Almost Famous](https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv) | 3:04 |
 | 31 | [Texts Go Green](https://open.spotify.com/track/4FIgHqXd4KkOwxrGeLDYM2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:08 |
 | 32 | [THIQUE](https://open.spotify.com/track/1LCm0lFnEsxR2oPqyHLGX9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:04 |
-| 33 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 |
-| 34 | [Freudian](https://open.spotify.com/track/4nESnAOALHmxg8UFCCtXhO) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 10:02 |
+| 33 | [Freudian](https://open.spotify.com/track/4nESnAOALHmxg8UFCCtXhO) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 10:02 |
+| 34 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 |
 | 35 | [Can I](https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:47 |
 | 36 | [Motivation](https://open.spotify.com/track/4Cv5dkUBqepa0siwGREihD) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Motivation](https://open.spotify.com/album/36BtNkS3gaPXlxSxzWcnLJ) | 3:51 |
 | 37 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 |

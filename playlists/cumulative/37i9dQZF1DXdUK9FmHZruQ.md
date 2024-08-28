@@ -4,7 +4,7 @@
 
 > Sit back, relax, and let these chill tunes calm you down.
 
-141 songs - 8 hr 12 min
+142 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Into the Streets](https://open.spotify.com/track/395Xtnc0kmT1vN4WZnXSbT) | [Echo Resort](https://open.spotify.com/artist/5DDzVl7PztpChpK9ZxTXZe) | [Into the streets](https://open.spotify.com/album/3w5fYHznomdsGTRy8AzDBq) | 4:50 | 2024-07-10 | 2024-08-19 |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2024-04-19 | 2024-05-14 |
 | [It's You](https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [YOU](https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa) | 3:32 | 2023-11-10 | 2024-04-19 |
-| [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2024-01-23 |  |
+| [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2024-01-23 | 2024-08-28 |
 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 | 2023-11-10 |  |
 | [Leave The Door Open](https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:02 | 2023-11-10 | 2024-04-19 |
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2024-04-19 | 2024-07-11 |
@@ -122,6 +122,7 @@
 | [surreal](https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [surreal](https://open.spotify.com/album/0J9uJlJ6Rc7st5XEYHnESY) | 4:00 | 2024-03-21 | 2024-04-19 |
 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 | 2023-11-12 | 2024-07-02 |
 | [TAKE ALL THE LOVE](https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb) | 3:26 | 2024-01-10 | 2024-04-19 |
+| [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-27 |  |
 | [Things You Said \(feat\. Abby Cates\)](https://open.spotify.com/track/2k8ZdI4C1ox7duEFJN7BgD) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 3:54 | 2024-03-21 | 2024-04-19 |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2023-11-10 | 2024-04-19 |
 | [Those Eyes](https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Based On A True Story...](https://open.spotify.com/album/6I5Pf71uQzQC0IcJOrh8Rz) | 3:40 | 2023-11-12 | 2024-04-19 |

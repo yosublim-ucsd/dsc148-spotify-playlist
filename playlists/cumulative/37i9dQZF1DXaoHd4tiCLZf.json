@@ -2099,6 +2099,28 @@
     },
     {
       "album": {
+        "name": "Date at the Disco",
+        "url": "https://open.spotify.com/album/0EOAQUNVccnCTrrGf9Mfk9"
+      },
+      "artists": [
+        {
+          "name": "Bellaire",
+          "url": "https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw"
+        },
+        {
+          "name": "Venessa Jackson",
+          "url": "https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233640,
+      "name": "Hot Summer",
+      "url": "https://open.spotify.com/track/2bY6P0FmkFkPcyFNXW0moX"
+    },
+    {
+      "album": {
         "name": "House Guy",
         "url": "https://open.spotify.com/album/7tS9vsoCFYjmTFn32ynTgd"
       },
@@ -3948,6 +3970,24 @@
       "duration_ms": 390638,
       "name": "Moon (And It Went Like)",
       "url": "https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/29oYnvoVejaCagzlhmwlCx"
+      },
+      "artists": [
+        {
+          "name": "Slowaves",
+          "url": "https://open.spotify.com/artist/0Sk8eIUDpSX1lXnmVzhska"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Moss's Ballroom Vogue",
+      "url": "https://open.spotify.com/track/5oTfHjZBOBYM9wWgjA2flx"
     },
     {
       "album": {

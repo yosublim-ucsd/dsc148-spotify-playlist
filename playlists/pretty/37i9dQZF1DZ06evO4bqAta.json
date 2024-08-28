@@ -1,12 +1,12 @@
 {
-  "description": "This is Bob Dylan. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 521620,
+  "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
+  "num_followers": 521687,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABCnHY3zFRAdwoIWT9uRTw9",
+  "snapshot_id": "ZsvFgAAAAABPeCbnkvoPcx8T1fnJVupd",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 271360,
-      "name": "Masters of War",
-      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 277106,
       "name": "Boots of Spanish Leather",
       "url": "https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Masters of War",
+      "url": "https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 
 ### [This Is Phil Wickham](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33TpHq)
 
-> This is Phil Wickham\. The essential tracks, all in one playlist.
+> This Is Phil Wickham\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,126 likes - 49 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,153 likes - 49 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 16 | [Your Love Awakens Me](https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 3:53 |
 | 17 | [The Jesus Way](https://open.spotify.com/track/5PVVQO4c7O3OjDhYXUBaoa) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:43 |
 | 18 | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu) | 8:26 |
-| 19 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 5:23 |
-| 20 | [It's Always Been You](https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:01 |
+| 19 | [It's Always Been You](https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:01 |
+| 20 | [SUNDAY IS COMING • HOMETOWN VERSION](https://open.spotify.com/track/1inZzpzA51IyzocVOJONsW) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 5:23 |
 | 21 | [Psalm 23](https://open.spotify.com/track/2ZUpGGamEJbx8DBxGMkzcl) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:34 |
 | 22 | [People Of Heaven](https://open.spotify.com/track/4q5b4EHkkv2Zb2dgHZjt0z) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [People Of Heaven](https://open.spotify.com/album/0WpqACb5Wk8d3ze16Sod1D) | 4:12 |
 | 23 | [Then Christ Came \(feat\. Phil Wickham\)](https://open.spotify.com/track/2lyhmdzDdJuXyKprsxCQ07) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Then Christ Came \(feat\. Phil Wickham\)](https://open.spotify.com/album/5kqEy21YLNAV9Oyy9x2gNJ) | 3:55 |
 | 24 | [HOMETOWN](https://open.spotify.com/track/4KfMNFyPTPyoh0r0cGSw1a) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I BELIEVE • HOMETOWN VERSION](https://open.spotify.com/album/74CEbXFjHsZ6Bh4ZkTJxRO) | 4:20 |
-| 25 | [Creator](https://open.spotify.com/track/49RAhI3UshYWW7RSh66XRu) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:16 |
-| 26 | [1,000 Names](https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 5:44 |
+| 25 | [1,000 Names](https://open.spotify.com/track/3R5BU2DhDoAo1vzI2poV6R) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 5:44 |
+| 26 | [Creator](https://open.spotify.com/track/49RAhI3UshYWW7RSh66XRu) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc) | 4:16 |
 | 27 | [Messiah / You're Beautiful](https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Cannons](https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC) | 4:53 |
 | 28 | [Till I Found You](https://open.spotify.com/track/5wrTjji1a7OkZfTo9TKesB) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:00 |
 | 29 | [At Your Name \(Yahweh, Yahweh\)](https://open.spotify.com/track/2oi9hdNzZ5SFSzg8oEPxoA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0) | 3:54 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33TpHq.md) - [plain]
 | 48 | [This Is the Day](https://open.spotify.com/track/3Y7OpOyaKc3uMdFSm1Q2zU) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Response](https://open.spotify.com/album/1dYRi3bMHjgeW8Ac6DRwN0) | 3:26 |
 | 49 | [Just Too Good](https://open.spotify.com/track/7e17qg5Y4xQm52wzfg04Kk) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Just Too Good](https://open.spotify.com/album/0l9DPBIbu5aB285anCmQJf) | 3:23 |
 
-Snapshot ID: `Zsp0AAAAAAAOt6eCC0q91yPRT3coghS6`
+Snapshot ID: `ZsvFgAAAAAB3Q97sdY6IAknfoz3JWJir`

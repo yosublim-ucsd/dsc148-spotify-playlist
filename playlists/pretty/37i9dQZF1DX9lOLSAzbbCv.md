@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 
 > Хіти українського репу\. На обкладинцi: KALUSH, Ann in Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,222 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,237 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 | 13 | [ЗАГЛОХ](https://open.spotify.com/track/4ASeRZheeHg7e2F9Bc0q7q) | [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [ЗАГЛОХ](https://open.spotify.com/album/6GffWAJfrbcaSY6cSi9Soa) | 2:53 |
 | 14 | [ЯТЛ](https://open.spotify.com/track/23jIy238EytkR7uSBhH5K1) | [ТНМК](https://open.spotify.com/artist/2sOErXYVMC4jCWVvBPI19l) | [ВАТРА black](https://open.spotify.com/album/4ub3dpb1hExtTxkwF78gUB) | 2:38 |
 | 15 | [Тато](https://open.spotify.com/track/0Ixh7OAq7WCX3VWZdHetra) | [alyona alyona](https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8) | [Тато](https://open.spotify.com/album/6dLaBMi2ODeyBCdPGUjRvr) | 3:02 |
-| 16 | [Бомбардувальник](https://open.spotify.com/track/0otQtOqcKSRBeVbvZ6nJtw) | [КИЇВСЬКІ КВАДРАТИ](https://open.spotify.com/artist/7GneDn3175aAsTfQajgMq6) | [КИЇВСЬКІ КВАДРАТИ](https://open.spotify.com/album/6Ld9zcNee3uXhl1EjiFkbi) | 2:42 |
+| 16 | [Бомбардувальник](https://open.spotify.com/track/0otQtOqcKSRBeVbvZ6nJtw) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE), [dim.slavyanin](https://open.spotify.com/artist/0AfLEABICJVRqs0NYXgKck) | [КИЇВСЬКІ КВАДРАТИ](https://open.spotify.com/album/6Ld9zcNee3uXhl1EjiFkbi) | 2:42 |
 | 17 | [Любов, як осінь](https://open.spotify.com/track/6tGMRSkR0nXPQc4SsIP2Uq) | [kavabanga Depo kolibri](https://open.spotify.com/artist/5qr3Q9yXnDkxF3RLs5ZPLn), [Agape](https://open.spotify.com/artist/1eoBefJrss6NPw15LCfPN7) | [Любов, як осінь](https://open.spotify.com/album/3EMob24jECMo4UwlCWmEzi) | 2:12 |
 | 18 | [Вириватись](https://open.spotify.com/track/6YVWaXlR2Fn9P6oM5B454z) | [Balsam](https://open.spotify.com/artist/2NzaO6O0ijqU2a0Cbt1cY3), [NICHKA](https://open.spotify.com/artist/4wePP7WrVuqGPqkXe2P3mJ) | [Вириватись](https://open.spotify.com/album/5KkueXcsi2b6ehh4wGuDgG) | 2:13 |
 | 19 | [Lost Cause](https://open.spotify.com/track/6NfDMEzKj5omozlckcvjcA) | [Watsebha](https://open.spotify.com/artist/4NKiKE60GYOcPCe02G9Ke4) | [Lost Cause](https://open.spotify.com/album/6TWLH4tJwj1pOEYk2enT4n) | 2:27 |

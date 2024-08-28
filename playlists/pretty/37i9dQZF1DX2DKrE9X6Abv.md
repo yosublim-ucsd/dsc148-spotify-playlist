@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 
 > this is your moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,696 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,809 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 64 | [Jigsaw](https://open.spotify.com/track/6bOd4UM7FaQOZXR2MBzSPi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:28 |
 | 65 | [Agnes](https://open.spotify.com/track/6prvUr8l3t7x5GY7heQb5w) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:31 |
 | 66 | [Anthems For A Seventeen Year\-Old Girl \- From "I Saw the TV Glow"](https://open.spotify.com/track/15kuqWifv5GzGq3A2P6EbC) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Anthems For A Seventeen Year\-Old Girl \(From "I Saw the TV Glow"\)](https://open.spotify.com/album/3vnboMJaGw6fLJ0B82OkvT) | 3:32 |
-| 67 | [Beautiful Boy](https://open.spotify.com/track/4YGpUNc3cScpjliOZojJ89) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:47 |
-| 68 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 |
+| 67 | [Bruises Off The Peach](https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:12 |
+| 68 | [Beautiful Boy](https://open.spotify.com/track/4YGpUNc3cScpjliOZojJ89) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:47 |
 | 69 | [Perth](https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:22 |
 | 70 | [Don’t get the deal](https://open.spotify.com/track/60aYO1uRqTkGltYtaMFPxy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 3:40 |
-| 71 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 |
-| 72 | [Do Not Wait](https://open.spotify.com/track/5y3QjURtPq4V186jTPMA8Y) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 6:30 |
+| 71 | [Do Not Wait](https://open.spotify.com/track/5y3QjURtPq4V186jTPMA8Y) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 6:30 |
+| 72 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 |
 | 73 | [warm glow](https://open.spotify.com/track/0WSPIU3Y3bNXsGeKnzSnt1) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [warm glow](https://open.spotify.com/album/4Haa4Xjv1O6cjPY2CwmbY8) | 5:58 |
 | 74 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
 | 75 | [Tired Boy](https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Tired Boy](https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW) | 4:30 |
@@ -87,18 +87,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DKrE9X6Abv.md) - [plain]
 | 77 | [Writer](https://open.spotify.com/track/50vKWUS6zLnd5cDhPSqwey) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 4:01 |
 | 78 | [Me](https://open.spotify.com/track/4GjRDgb77p27GQnbZpv1OJ) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:35 |
 | 79 | [My Blood](https://open.spotify.com/track/5IJg89vIvi2AWSc1lUVFAc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
-| 80 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
-| 81 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 80 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
+| 81 | [That’s Just The Way It Is, Babe](https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [That's Just The Way It Is, Babe](https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE) | 3:28 |
 | 82 | [Cutting Thru The Country](https://open.spotify.com/track/01g05Ii7fj7F8V1UlYFf1q) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 3:24 |
-| 83 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
-| 84 | [Be an Astronaut](https://open.spotify.com/track/6obgLZhy3w1r6zKhxKWU6F) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Zeros](https://open.spotify.com/album/4Q6Y35QnNj37hiXVs1Bbxn) | 4:35 |
+| 83 | [Be an Astronaut](https://open.spotify.com/track/6obgLZhy3w1r6zKhxKWU6F) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Zeros](https://open.spotify.com/album/4Q6Y35QnNj37hiXVs1Bbxn) | 4:35 |
+| 84 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
 | 85 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 |
 | 86 | [Skin Parade / Fade Into You \- Live At Narcissus](https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Live At Narcissus](https://open.spotify.com/album/5CV2tpSgGgDj7OhcLfRLM1) | 5:38 |
 | 87 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
 | 88 | [Outside](https://open.spotify.com/track/1ozbAvJ5hZmycQbh4GQGjI) | [Jordan Nash](https://open.spotify.com/artist/3FdBkTRuQog4cyBE1FRR7A) | [Outside](https://open.spotify.com/album/0baK4pePflG8hjaOPxiyiJ) | 2:36 |
 | 89 | [Lifetime of Wanting](https://open.spotify.com/track/5oaxDAJC1eXfdvAd9AKDKr) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lifetime of Wanting](https://open.spotify.com/album/6EU2hPRKlEiMNMn9Ck9xnS) | 3:23 |
-| 90 | [Never](https://open.spotify.com/track/0pG8CuxAbXtrlIhgr1bgPx) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:03 |
-| 91 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
+| 90 | [Feral Guest](https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B) | [Milo Korbenski](https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI) | [When You Gonna Tell 'Em the Truth, Aaron?](https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba) | 3:53 |
+| 91 | [Never](https://open.spotify.com/track/0pG8CuxAbXtrlIhgr1bgPx) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:03 |
 | 92 | [The Days](https://open.spotify.com/track/0QcDrehXMQ02rAu1gefefF) | [Patrick Wolf](https://open.spotify.com/artist/6s92YZUPkTK1HL1WIGrPKE) | [Lupercalia](https://open.spotify.com/album/1N62oiLUF4xRk0cZETrSkn) | 4:53 |
 | 93 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
 | 94 | [Burner](https://open.spotify.com/track/2arEFpdh3Wh1VqO3S2IiUz) | [Connie Campsie](https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs) | [Burner](https://open.spotify.com/album/6QEubYvTOj36YYpFRQpSAg) | 3:20 |

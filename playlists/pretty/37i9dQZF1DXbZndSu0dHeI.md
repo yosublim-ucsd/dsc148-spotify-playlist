@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Have the loveliest little day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,644 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,672 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 30 | [boys, bugs and men](https://open.spotify.com/track/6DE23VfUZNpmOnRhYuUMy6) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [boys, bugs and men](https://open.spotify.com/album/5lngAYTf5pP5BNXSRiRIvJ) | 3:06 |
 | 31 | [Meticulous](https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Love Hate Music Box](https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj) | 3:01 |
 | 32 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
-| 33 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
-| 34 | [honey](https://open.spotify.com/track/6pXe0HxGT1xufKGhZYqweC) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:14 |
+| 33 | [honey](https://open.spotify.com/track/6pXe0HxGT1xufKGhZYqweC) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:14 |
+| 34 | [Golden Hour](https://open.spotify.com/track/3RhPS4Xw1qCuLz4pVyoh88) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Golden Hour](https://open.spotify.com/album/00yzw4urkkOVgLnYQcYooB) | 3:21 |
 | 35 | [You \(Show Me Where My Days Went\)](https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [You \(Show Me Where My Days Went\)](https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs) | 2:47 |
 | 36 | [yeti](https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp), [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [yeti](https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy) | 4:12 |
 | 37 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
@@ -68,14 +68,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 58 | [Sink Into Me](https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Sink Into Me](https://open.spotify.com/album/4UP1JhTzosIULBPusObP3W) | 2:38 |
 | 59 | [So My Darling](https://open.spotify.com/track/1kEF6o2puIB1U9aYgqh4xc) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling](https://open.spotify.com/album/1U269hAxxYxkknYfpeCVku) | 4:29 |
 | 60 | [Mine Forever](https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Mine Forever](https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6) | 4:48 |
-| 61 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
-| 62 | [Brian Cox](https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Brian Cox](https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho) | 2:56 |
+| 61 | [Brian Cox](https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Brian Cox](https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho) | 2:56 |
+| 62 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 |
 | 63 | [Meet Cute](https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Meet Cute](https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp) | 2:46 |
 | 64 | [Heart Is A Drum](https://open.spotify.com/track/573nT62vtbezncIwCfxIm7) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 4:31 |
-| 65 | [More Like You](https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:40 |
-| 66 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 |
-| 67 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
-| 68 | [The Earth is a Very Small Dot](https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [The Earth is a Very Small Dot](https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG) | 3:56 |
+| 65 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 |
+| 66 | [More Like You](https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:40 |
+| 67 | [The Earth is a Very Small Dot](https://open.spotify.com/track/0WNKKSvQmWcdoI7MvYtcqh) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [The Earth is a Very Small Dot](https://open.spotify.com/album/7IkpXmbNKP6mZteubgagqG) | 3:56 |
+| 68 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
 | 69 | [Like Dylan in the Movies](https://open.spotify.com/track/7iqS4pS1eVQbsJGbJKVwQb) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [If You're Feeling Sinister](https://open.spotify.com/album/4usPTyIIgnAZ9eiItfEYSK) | 4:14 |
 | 70 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
 | 71 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 75 | [Be Your Boy](https://open.spotify.com/track/0mvbSAjTbLc6ExAaDh5vlM) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Wild](https://open.spotify.com/album/2tggKTosyVKKepsled2gaO) | 3:27 |
 | 76 | [How Beautiful Life Can Be \- Single Version](https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [How Beautiful Life Can Be](https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z) | 2:30 |
 | 77 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 |
-| 78 | [Nothing Arrived](https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [{Awayland}](https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95) | 3:43 |
-| 79 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 |
+| 78 | [The Brown Eyed Driver](https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS) | [Flora Rose](https://open.spotify.com/artist/7FA3u2tBhml3eXiOSbNwVL) | [Synthetic Flowers For A Romantic Comedy](https://open.spotify.com/album/2oGnqDKo3Z6gtTphnvAr0A) | 4:39 |
+| 79 | [Nothing Arrived](https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [{Awayland}](https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95) | 3:43 |
 | 80 | [Cartwheels](https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Cartwheels](https://open.spotify.com/album/08plypKSnTYVYtGUSSMxUN) | 2:04 |
 | 81 | [Backseat](https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [What's Dead and Gone](https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai) | 3:13 |
 | 82 | [Bloom](https://open.spotify.com/track/53Mq10qpih00CLPph20MVp) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Bloom](https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X) | 2:46 |

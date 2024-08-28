@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now!  Cover: ASIAN KUNG\-FU GENERATION
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,954 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,965 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 23 | [Beyond the Raindrops](https://open.spotify.com/track/3Bjr4ODvUR6mY2pa7sVYXX) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Beyond the Raindrops](https://open.spotify.com/album/5xgjr7r5vG6e6hYOgwkRvB) | 5:21 |
 | 24 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |
 | 25 | [Pure Green](https://open.spotify.com/track/5BTPjsqZlFKsvXaSaNEnTc) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [Pure Green](https://open.spotify.com/album/145Ga4i1lUhkXAFLBFBco1) | 4:02 |
-| 26 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
-| 27 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
+| 26 | [幾億光年](https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [幾億光年](https://open.spotify.com/album/6lVM8WvZY6lpBO9zrBRnE9) | 4:36 |
+| 27 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 |
 | 28 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 |
 | 29 | [SHAKE](https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SHAKE](https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe) | 3:59 |
 | 30 | [Towards the Sun](https://open.spotify.com/track/2zyuGfLT59ta5ToqqDsIXJ) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Towards the Sun](https://open.spotify.com/album/2z6Pyh43VBZQ9Gyy4T92oN) | 5:26 |
@@ -42,30 +42,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 32 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 |
 | 33 | [アポロドロス](https://open.spotify.com/track/41PdvmQ3BrbEoMReSDCDGP) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [アポロドロス](https://open.spotify.com/album/29u1POyrbh3Qm7KMR08zj6) | 4:44 |
 | 34 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 |
-| 35 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 |
-| 36 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:38 |
+| 35 | [君と羊と青](https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [絶体絶命](https://open.spotify.com/album/17cNTH9fRan9G3GgH3CFgm) | 2:38 |
+| 36 | [小さな恋のうた](https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:42 |
 | 37 | [I'm a mess](https://open.spotify.com/track/5m21ZR5lO6U0tp9KENxuCc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [X](https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e) | 4:11 |
 | 38 | [ともに](https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:27 |
 | 39 | [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 |
 | 40 | [第ゼロ感](https://open.spotify.com/track/6zjk7Qbwb9DZ4ykUUoqknh) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 4:46 |
 | 41 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 |
 | 42 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 |
-| 43 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 |
+| 43 | [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 |
 | 44 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
 | 45 | [drip](https://open.spotify.com/track/5vaYalAeQO34gcpAbuVn9Z) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [drip](https://open.spotify.com/album/754Slwtyd8j9mT3HgEb9Gy) | 3:17 |
 | 46 | [狂乱 Hey Kids!!](https://open.spotify.com/track/0ax0UBVE6S1Qh6ReyJbyXk) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/31hzHZDypaPz7M1AyIoMt9) | 4:10 |
 | 47 | [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 |
 | 48 | [Ｗ●ＲＫ](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [Ｗ●ＲＫ](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 |
-| 49 | [Sleep Walking Orchestra](https://open.spotify.com/track/0vMBqdJIkmflvFk728hKH7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Sleep Walking Orchestra](https://open.spotify.com/album/565KNcvUbOCDBIdCNFqiWl) | 3:55 |
+| 49 | [あなたに](https://open.spotify.com/track/1egQB7JmuDdaWdWtODlrja) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [MESSAGE](https://open.spotify.com/album/2an2zDcyPnHZgodDzgxZj2) | 3:15 |
 | 50 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 |
 | 51 | [01](https://open.spotify.com/track/7r6pHYnNYqxSZr8e40VF8T) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [01](https://open.spotify.com/album/7DkIDS9gWtm6PQs9P7TnBz) | 3:06 |
 | 52 | [ブラックボックス](https://open.spotify.com/track/12ZNHYLBtfcrNWUepsoOzR) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ブラックボックス](https://open.spotify.com/album/1TulMUgDxLY8Yy5gaauvMD) | 4:06 |
 | 53 | [ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero](https://open.spotify.com/track/4vLhi74fctCnK4OFbiiS6P) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [Bu\-ikikaesu](https://open.spotify.com/album/6dxTTn3tLurox31zSM0X1K) | 3:06 |
 | 54 | [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 |
 | 55 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 |
-| 56 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
+| 56 | [お先に失礼します。](https://open.spotify.com/track/51o21I12ZFahXaCviz95M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [来世は偉人！](https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi) | 3:10 |
 | 57 | [やってみよう](https://open.spotify.com/track/6ahKnsl2tuTCyaBwt45WAz) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 2:49 |
-| 58 | [お先に失礼します。](https://open.spotify.com/track/51o21I12ZFahXaCviz95M6) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [来世は偉人！](https://open.spotify.com/album/7zjt6aRii06qmD77RSBAYi) | 3:10 |
+| 58 | [突破口](https://open.spotify.com/track/2JNl3zf7dLaK3ceN12RTOW) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:13 |
 | 59 | [盆ギリ恋歌](https://open.spotify.com/track/2kxp3ZUOXssozAGMEXshLO) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [盆ギリ恋歌](https://open.spotify.com/album/7hgrQHyNvrIdJrviKQsheH) | 4:19 |
 | 60 | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \- TV edit](https://open.spotify.com/track/1lySGuhlcZUJxLA5W5Bo7k) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [HAWATARI NIOKU CENTI \[2\-hundred\-million\-centimeter\-long blades\] \(TV edit\)](https://open.spotify.com/album/22bkV1gcP9weQRmRktdCM4) | 1:29 |
 | 61 | [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 87 | [青いの。](https://open.spotify.com/track/2wksGIcdJ5C0XPZLeTnSMM) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FLOWERS](https://open.spotify.com/album/4CacH47pYRZPbFvTgXUibk) | 4:05 |
 | 88 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 |
 | 89 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 |
-| 90 | [悲劇のヒロイン](https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [悲劇のヒロイン](https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX) | 3:49 |
-| 91 | [月の椀](https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:10 |
+| 90 | [月の椀](https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:10 |
+| 91 | [悲劇のヒロイン](https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [悲劇のヒロイン](https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX) | 3:49 |
 | 92 | [六本木心中](https://open.spotify.com/track/4ZsnrlNGDzXnO5rJtcVvy8) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr), [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [六本木心中](https://open.spotify.com/album/7KhTYq7EOmAjvZburvqIha) | 5:01 |
 | 93 | [BLACK MEMORY](https://open.spotify.com/track/7qyOH3EMf0seof9SaowaAc) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Kisses and Kills](https://open.spotify.com/album/6HXkTu5VbNMZIfGmvWccjA) | 4:12 |
 | 94 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 99 | [ブラックホール](https://open.spotify.com/track/6lvdyqaocfdhmmN7yYs3fz) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [只者](https://open.spotify.com/album/01xhc1hZe4rw2wBsyAfEx4) | 4:02 |
 | 100 | [KANASHIBARI](https://open.spotify.com/track/4zJEGkmkmA4orRkMdzimRu) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/68Sl0rwtjcl6UdxKGjFy6X) | 4:57 |
 
-Snapshot ID: `Zqj/8AAAAADG0CvSKGsIUDhXLQvxssQG`
+Snapshot ID: `Zs3p8AAAAAB8pufuGtcZ0HloFltL8mMa`

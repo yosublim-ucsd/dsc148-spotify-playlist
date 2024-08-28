@@ -1,6 +1,6 @@
 {
   "description": "Las divas del pop latino de ayer y hoy. Foto: Alejandra Guzm\u00e1n",
-  "num_followers": 176988,
+  "num_followers": 177060,
   "original_name": "Mujeres del Pop Latino",
   "owner": {
     "name": "Spotify",
@@ -415,26 +415,6 @@
     {
       "added_at": "2024-06-12 20:20:23",
       "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
-    },
-    {
-      "added_at": "2024-06-12 20:20:23",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "added_at": "2024-06-12 20:20:23",
+      "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
     },
     {
       "added_at": "2024-06-12 20:20:23",
@@ -795,38 +795,6 @@
     {
       "added_at": "2024-06-12 20:20:23",
       "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "Suerte (Whenever, Wherever)",
-      "url": "https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My"
-    },
-    {
-      "added_at": "2024-06-12 20:20:23",
-      "album": {
-        "name": "La Trayectoria",
-        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Todos Me Miran",
-      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
-    },
-    {
-      "added_at": "2024-06-12 20:20:23",
-      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -867,6 +835,38 @@
     {
       "added_at": "2024-06-12 20:20:23",
       "album": {
+        "name": "La Trayectoria",
+        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Todos Me Miran",
+      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
+    },
+    {
+      "added_at": "2024-06-12 20:20:23",
+      "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "Suerte (Whenever, Wherever)",
+      "url": "https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My"
+    },
+    {
+      "added_at": "2024-06-12 20:20:23",
+      "album": {
         "name": "Tierna La Noche",
         "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
       },
@@ -879,26 +879,6 @@
       "duration_ms": 281520,
       "name": "Az\u00facar Amargo",
       "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
-    },
-    {
-      "added_at": "2024-06-12 20:20:23",
-      "album": {
-        "name": "Revelaci\u00f3n - EP",
-        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 186087,
-      "name": "Baila Conmigo (with Rauw Alejandro)",
-      "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
     },
     {
       "added_at": "2024-06-12 20:20:23",
@@ -919,6 +899,26 @@
       "duration_ms": 235424,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
+    },
+    {
+      "added_at": "2024-06-12 20:20:23",
+      "album": {
+        "name": "Revelaci\u00f3n - EP",
+        "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 186087,
+      "name": "Baila Conmigo (with Rauw Alejandro)",
+      "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
     }
   ],
   "unique_name": "Mujeres del Pop Latino",

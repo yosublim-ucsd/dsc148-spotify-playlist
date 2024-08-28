@@ -1,6 +1,6 @@
 {
   "description": "Porque el asado se prende con m\u00fasica.",
-  "num_followers": 488695,
+  "num_followers": 488745,
   "original_name": "Asadito",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Circo Beat",
-        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 222346,
-      "name": "Mariposa tecknicolor",
-      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Otro D\u00eda en el Planeta Tierra",
         "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 260371,
       "name": "Nunca quise",
       "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Circo Beat",
+        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 222346,
+      "name": "Mariposa tecknicolor",
+      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Narig\u00f3n del Siglo, Yo Te Dejo Perfumado en la Esquina para Siempre",
         "url": "https://open.spotify.com/album/4GkZExYLfegidZaO1BgpvU"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 212880,
       "name": "Spaghetti del Rock",
       "url": "https://open.spotify.com/track/6rg1MBZqggsQ5olFGTw0rr"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "El Le\u00f3n",
-        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
         }
       ],
-      "duration_ms": 237346,
-      "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+        "name": "El Le\u00f3n",
+        "url": "https://open.spotify.com/album/3ECynr5YW2UuIJFPOGve9H"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 273306,
-      "name": "Pronta Entrega",
-      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+      "duration_ms": 237346,
+      "name": "Manuel Santill\u00e1n, el Le\u00f3n (Versi\u00f3n Reggae) - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/41MfyUSxQoo1BgIsNj8eDS"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Para Mi para Vos",
-        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 261971,
-      "name": "Magia Blanca",
-      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Caminar\u00e1s Caminos",
         "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 248466,
       "name": "Decide T\u00fa",
       "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Para Mi para Vos",
+        "url": "https://open.spotify.com/album/6gbK6L3qcmnGfhEEUj1VVu"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 261971,
+      "name": "Magia Blanca",
+      "url": "https://open.spotify.com/track/4PfoTZ8nDhWEZNeDpLxy7G"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Vicentico 5",
-        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Creo Que Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "De Bichos Y Flores",
         "url": "https://open.spotify.com/album/0zDs3M8rUvhn1D6IFNJMgI"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 187066,
       "name": "El Viejo",
       "url": "https://open.spotify.com/track/7gKqjNMM4ikt7KFTRsgZgL"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Vicentico 5",
+        "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Creo Que Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/0EC4pUdeehtjl7Yh5GiV3u"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "La Luz Del Ritmo",
-        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
-      },
-      "artists": [
-        {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Padre Nuestro",
-      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 277011,
       "name": "Los Calientes",
       "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "La Luz Del Ritmo",
+        "url": "https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Padre Nuestro",
+      "url": "https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1407,22 +1407,18 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "QUEMAR\u00c1S",
-        "url": "https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo"
+        "name": "Nonpalidesenchufado",
+        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        },
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
         }
       ],
-      "duration_ms": 263130,
-      "name": "QUEMAR\u00c1S",
-      "url": "https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF"
+      "duration_ms": 314772,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Nonpalidesenchufado",
-        "url": "https://open.spotify.com/album/20yi48fX2JcQ9JnIlo29bV"
+        "name": "QUEMAR\u00c1S",
+        "url": "https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo"
       },
       "artists": [
         {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
         }
       ],
-      "duration_ms": 314772,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/2x9kIjm8AejYJCunY9yKOA"
+      "duration_ms": 263130,
+      "name": "QUEMAR\u00c1S",
+      "url": "https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Almafuerte",
-        "url": "https://open.spotify.com/album/2EC1fS6uKutEPexAfOgBEl"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "S\u00e9 Vos",
-      "url": "https://open.spotify.com/track/4MUhGA8YfsYDqD4NhTUtSf"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Hagan Correr la Voz",
         "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 202376,
       "name": "Venganza",
       "url": "https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Almafuerte",
+        "url": "https://open.spotify.com/album/2EC1fS6uKutEPexAfOgBEl"
+      },
+      "artists": [
+        {
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "S\u00e9 Vos",
+      "url": "https://open.spotify.com/track/4MUhGA8YfsYDqD4NhTUtSf"
     },
     {
       "added_at": "2024-07-19 03:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-19 03:00:00",
       "album": {
-        "name": "Voragine",
-        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Cae el Sol",
-      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
-    },
-    {
-      "added_at": "2024-07-19 03:00:00",
-      "album": {
         "name": "Devorador De Corazones",
         "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 228942,
       "name": "Oro de Abeja",
       "url": "https://open.spotify.com/track/2q3GgW71FqrEfFFtdWC3tJ"
+    },
+    {
+      "added_at": "2024-07-19 03:00:00",
+      "album": {
+        "name": "Voragine",
+        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Cae el Sol",
+      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
     },
     {
       "added_at": "2024-07-19 03:00:00",

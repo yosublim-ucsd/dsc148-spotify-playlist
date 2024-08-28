@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > så længe jeg er sexy 🧡
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,360 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,419 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 27 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 |
 | 28 | [Låt Mig Va](https://open.spotify.com/track/6Vbgg3C5Qo7olhjIIr1r4e) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Låt Mig Va](https://open.spotify.com/album/678gU1iWVNcgTstct030O3) | 2:00 |
 | 29 | [Sucker For Pain](https://open.spotify.com/track/7uAgfJh0XZWxHYHEf8Y3Ti) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Individ](https://open.spotify.com/album/40Isxx8PvaqZUvc18jqvId) | 3:08 |
-| 30 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
-| 31 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 |
+| 30 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 |
+| 31 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 |
 | 32 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 |
 | 33 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 |
 | 34 | [Tenke Sjæl](https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:40 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 47 | [Can't Tame Her](https://open.spotify.com/track/1G1kKHczSz6Xqv5dCmtkL4) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi) | 3:16 |
 | 48 | [Superhelt Steez](https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 3:02 |
 | 49 | [VENNELØS](https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [BRENTE BROER](https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0) | 1:54 |
-| 50 | [Danseproblem](https://open.spotify.com/track/4MyPCOodOr2arMPmDxHqBX) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Coucheron](https://open.spotify.com/artist/6ly2Z6h9dOerORbK1l2N8D) | [Danseproblem](https://open.spotify.com/album/5du6PDgOJPuXt6EwK8Y3HE) | 2:43 |
+| 50 | [players \(feat\. Ari Bajgora\)](https://open.spotify.com/track/5E76BN3Mzf66NPmiACqUi6) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [players \(feat\. Ari Bajgora\)](https://open.spotify.com/album/0LnOHuLU0X0GDrrUEJDfqs) | 2:31 |
 
 Snapshot ID: `Zse04AAAAADgiMTMNXtMtHJL9qT6i2Lr`

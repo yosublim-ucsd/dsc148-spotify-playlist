@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Gasellit ja Ellinoora.
 
-134 songs - 6 hr 30 min
+135 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Tirehtööri](https://open.spotify.com/track/3JaLpRa7UO4CdF8Q0TOJjn) | [Spekti](https://open.spotify.com/artist/05qPtpcSltJZLI9sj0qm3B) | [Tirehtööri](https://open.spotify.com/album/5D0Gba4iAUAEa2O9lx8sP6) | 2:43 | 2024-07-04 | 2024-08-23 |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-08-16 |
 | [Tuli mitä vaan](https://open.spotify.com/track/5O37M1e9u0BvcMOVedVbYx) | [Ida Paul & Kalle Lindroth](https://open.spotify.com/artist/1pbX4qbCZOyiRA0ih5jGfX), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0), [Kalle Lindroth](https://open.spotify.com/artist/49PPHx2WvBFfsk6RKE0lCi) | [Tuli mitä vaan](https://open.spotify.com/album/0pZfxk1Qim7Ul3HaF6RkJB) | 3:17 | 2024-07-04 | 2024-08-10 |
+| [Tunnista tuntiin](https://open.spotify.com/track/0jooO42vkt1zh74OsLXwfr) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Tunnista tuntiin](https://open.spotify.com/album/1NGxgCY0PueIm5lUSrTOQm) | 3:01 | 2024-08-27 |  |
 | [Tuonelan tuulet](https://open.spotify.com/track/3qPVlKbay9J0lLhJ05F1dE) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Tuonelan tuulet](https://open.spotify.com/album/1g0dAkEmeS4oKEQJQ8vLUC) | 2:55 | 2024-07-11 |  |
 | [Tuuks mukaan?](https://open.spotify.com/track/0ZRyotx5QQOb1PeIoi0lGP) | [Ville Veikka](https://open.spotify.com/artist/17I0wkPmYMfhZXSmWrWX4C) | [Tuuks mukaan?](https://open.spotify.com/album/26MOcz03KNxPMx9S00vz6w) | 3:04 | 2024-08-01 | 2024-08-23 |
 | [Työmyyrä](https://open.spotify.com/track/00uAMYwz6MZ0g2o4AeFTgw) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Työmyyrä](https://open.spotify.com/album/5keKt31j7rsVu02oLSbTrS) | 2:53 | 2024-07-04 | 2024-07-19 |

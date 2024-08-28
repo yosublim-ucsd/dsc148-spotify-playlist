@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,884 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,901 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 27 | [Søulмaтe \- Remix](https://open.spotify.com/track/6iw67Qocm9GfffN5vgdiSO) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Tsudio Studio](https://open.spotify.com/artist/1iMVMds476cuexLdHbKivE) | [Søulмaтe \(Remix\)](https://open.spotify.com/album/4QQ0DDdSKDh5D0vwdQbMjc) | 4:19 |
 | 28 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 |
 | 29 | [Love Tone](https://open.spotify.com/track/00yMIp0JCuJEbHvXoFvbiD) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Simultaneity](https://open.spotify.com/album/1yu1k84kwKuvitIhnyQCUf) | 2:24 |
-| 30 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 |
+| 30 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
 | 31 | [超Fresh](https://open.spotify.com/track/6Tsdxi0HkSImYREelPrBc8) | [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Noodle](https://open.spotify.com/album/0Ch7fs2VDUUfOUdy7PXBBS) | 2:52 |
-| 32 | [Dark Vacay](https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Dark Vacay](https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb) | 3:33 |
-| 33 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
-| 34 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
+| 32 | [Jungle](https://open.spotify.com/track/31B7wLv4yvtjDoTTmbnxeE) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jungle](https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d) | 3:18 |
+| 33 | [Dark Vacay](https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Dark Vacay](https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb) | 3:33 |
+| 34 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 |
 | 35 | [泡と文學](https://open.spotify.com/track/5bnFfYJoLdQjS44T1UVOK6) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT!](https://open.spotify.com/album/1VfpN0zgdLujwepllGpJVo) | 3:55 |
 | 36 | [this is what space feels like](https://open.spotify.com/track/6PetYmvjKZBjiUYlnlAcn1) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what space feels like](https://open.spotify.com/album/23Dast9Z49J73VBjh3JulP) | 3:03 |
 | 37 | [grandiose \- Japanese Version](https://open.spotify.com/track/3CcKmNXMX61R6ABNgyCBhP) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [grandiose \(Japanese Version\)](https://open.spotify.com/album/441LIDd0vhusODlyByR3zP) | 3:37 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 51 | [Militerian \(feat\. Naira Marley\)](https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:13 |
 | 52 | [Placebo Effect](https://open.spotify.com/track/6m3T4RHAMaSIKUDsxko43y) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Placebo Effect](https://open.spotify.com/album/3dFr6Li35Nik82qwIMrSYa) | 3:11 |
 | 53 | [Sidelines](https://open.spotify.com/track/4SKvKJaqkRl1bUZWEqTYzl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Sidelines](https://open.spotify.com/album/7tCdWRuurBiq82DvVDCGgF) | 4:24 |
-| 54 | [5ever](https://open.spotify.com/track/2nwh3hApzIyVa5XdBZOZnQ) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [5ever](https://open.spotify.com/album/6IqbOmIzpHrQo7pgIK4V08) | 3:18 |
-| 55 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 |
+| 54 | [Outside](https://open.spotify.com/track/4VY32hdU4byJ6cpEBAXRul) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Outside](https://open.spotify.com/album/2Wm8mlkUTt3yzDZ3qrPIe6) | 3:08 |
+| 55 | [5ever](https://open.spotify.com/track/2nwh3hApzIyVa5XdBZOZnQ) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [5ever](https://open.spotify.com/album/6IqbOmIzpHrQo7pgIK4V08) | 3:18 |
 | 56 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 |
 | 57 | [Notes From A Wrist](https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Notes From A Wrist](https://open.spotify.com/album/5pbNr4xCNBBRwPh7DPVSht) | 3:09 |
 | 58 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 |

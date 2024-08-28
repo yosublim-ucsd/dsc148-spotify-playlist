@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,918 likes - 96 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,938 likes - 96 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 22 | [Move \- Remastered 2002](https://open.spotify.com/track/1m6xA6Yvt2miUOJtLLlviD) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:25 |
 | 23 | [Camptown Races](https://open.spotify.com/track/1NkCYPvbK6YVCoGp3GGtQ8) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [The Very Best](https://open.spotify.com/album/14CJ7ivDy9dMuDdHHm19ES) | 1:57 |
 | 24 | [The Cape Verdean Blues \- Rudy Van Gelder Edition / 2003 Remastered](https://open.spotify.com/track/2Z7Z8BDwjZQeYuzwe3LdOp) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y), [J.J\. Johnson](https://open.spotify.com/artist/3hZ5sdhYTvgrmXIwtVwqmS) | [The Cape Verdean Blues](https://open.spotify.com/album/2jTvEM76ioutKODSdPllkr) | 4:59 |
-| 25 | [Star Eyes](https://open.spotify.com/track/03wsijXCWgrIjGaPHy3sTe) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Minor Move \(Expanded Edition\)](https://open.spotify.com/album/5g0JJixBHg3QsqxW9tVJjH) | 8:15 |
+| 25 | [Star Eyes](https://open.spotify.com/track/03wsijXCWgrIjGaPHy3sTe) | [Tina Brooks](https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX) | [Minor Move \- Expanded Edition](https://open.spotify.com/album/5g0JJixBHg3QsqxW9tVJjH) | 8:15 |
 | 26 | [Things Ain't What They Used To Be](https://open.spotify.com/track/7pzhoKl2D6oRVU6C7ZDqjR) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Tell It The Way It Is](https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi) | 4:43 |
 | 27 | [Edda](https://open.spotify.com/track/0UgG6ZQ46DjB6V55pWZLfw) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Rumproller](https://open.spotify.com/album/3dMhT1ZhEeYk9NwzPAzi3u) | 7:19 |
 | 28 | [Lion's Den \- Rudy Van Gelder Edition/2007 Remaster](https://open.spotify.com/track/5Q9XLLVex1yZ0Heo2SVhMI) | [Kenny Drew](https://open.spotify.com/artist/65uKPt40QH8dMBLuoJHPVY) | [Undercurrent \(Rudy Van Gelder Edition/2007 Remaster\)](https://open.spotify.com/album/3dLsZ0Gv8OjgUyES2imXIK) | 4:53 |

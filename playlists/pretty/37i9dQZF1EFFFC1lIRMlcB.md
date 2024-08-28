@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5lVAE3z1LZ69DXE3Hd6MpL">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244 likes - 44 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 243 likes - 44 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 37 | [Sempre Reinará](https://open.spotify.com/track/3pG8OriC04peRKpzIvQJVv) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Dada Yute](https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj) | [Coração Nyahbinghi: Lucas Kastrup & Amigos](https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW) | 4:05 |
 | 38 | [Canção Divina](https://open.spotify.com/track/2uvW9vWoPDh8XkeTqxx0Oi) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ras Kadhu](https://open.spotify.com/artist/1gpXc70CKYH7STndSWqmog), [Kuky](https://open.spotify.com/artist/4ZWAuhfRl5jD14rKToEoor) | [Coração Nyahbinghi: Lucas Kastrup & Amigos](https://open.spotify.com/album/6aB2Q30eHDHe56ui1MmVxW) | 4:49 |
 | 39 | [Canção do Sofredor](https://open.spotify.com/track/32Oof8GtfJQpn2PI8Y4sxM) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Gabriel Jah\-B And Friends](https://open.spotify.com/album/3EMmKWD1sINexO2NCYfcTX) | 3:00 |
-| 40 | [Violão da Rainha](https://open.spotify.com/track/7w9oTgr4s01YSHpgXJ0uJA) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Lucas Serra](https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL) | [Santo de Casa \(Trilha Sonora\)](https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC) | 2:07 |
-| 41 | [Salve São Benedito](https://open.spotify.com/track/7ivINTbIxp8XYoKdn3fkcc) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Sabá Tuk](https://open.spotify.com/artist/7D43g6cTKxRYi0XyB1hVWP), [Cacau Amaral](https://open.spotify.com/artist/1EaIuszbvSA8FHagJzeSPC) | [Santo de Casa \(Trilha Sonora\)](https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC) | 1:52 |
+| 40 | [Salve São Benedito](https://open.spotify.com/track/7ivINTbIxp8XYoKdn3fkcc) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Sabá Tuk](https://open.spotify.com/artist/7D43g6cTKxRYi0XyB1hVWP), [Cacau Amaral](https://open.spotify.com/artist/1EaIuszbvSA8FHagJzeSPC) | [Santo de Casa \(Trilha Sonora\)](https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC) | 1:52 |
+| 41 | [Violão da Rainha](https://open.spotify.com/track/7w9oTgr4s01YSHpgXJ0uJA) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Lucas Serra](https://open.spotify.com/artist/6JeOxmsnOi9kNw12QuUUYL) | [Santo de Casa \(Trilha Sonora\)](https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC) | 2:07 |
 | 42 | [Sonho de Luzia](https://open.spotify.com/track/3hHgIJsmwuQNxhvRuCe8QI) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Santo de Casa \(Trilha Sonora\)](https://open.spotify.com/album/7LATjbczxC3HbzhQV69bCC) | 3:07 |
 | 43 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 |
 | 44 | [Encontro Com Jah](https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP) | [Irmãos de Fé](https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu) | [Livremente](https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa) | 4:05 |
 
-Snapshot ID: `Abae/gAAAADiD+60dZOmjiKTfeGNNDfm`
+Snapshot ID: `AbakpAAAAABnTWKYEKbCn16wDE+50vVx`

@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 889940,
+  "num_followers": 890147,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACkxr57j1c8n4TN6B6tve7W",
+  "snapshot_id": "ZsvFgAAAAAAe5Gg5KRSMhnnVfzE6bocp",
   "tracks": [
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 278506,
-      "name": "100 Grandkids",
-      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
+      "duration_ms": 243034,
+      "name": "BDE Bonus",
+      "url": "https://open.spotify.com/track/4Pafh2Ndd9O4NgO53rqJxI"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 243034,
-      "name": "BDE Bonus",
-      "url": "https://open.spotify.com/track/4Pafh2Ndd9O4NgO53rqJxI"
+      "duration_ms": 278506,
+      "name": "100 Grandkids",
+      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
     },
     {
       "added_at": null,

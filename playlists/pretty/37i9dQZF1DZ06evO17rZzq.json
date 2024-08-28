@@ -1,12 +1,12 @@
 {
-  "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 3769,
+  "description": "This Is Kaliii. Los temas esenciales, todos en una lista.",
+  "num_followers": 3776,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACBMe0pYu813ZKV7+GvKzky",
+  "snapshot_id": "ZsvFgAAAAACWkl/YmUFvVN2FaE8WSb7w",
   "tracks": [
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UonU (feat. Yung Bleu)",
-        "url": "https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        }
-      ],
-      "duration_ms": 218205,
-      "name": "UonU (feat. Yung Bleu)",
-      "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Why They Mad Now",
         "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 213133,
       "name": "Ain't FWM (feat. Ken the Man)",
       "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UonU (feat. Yung Bleu)",
+        "url": "https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "duration_ms": 218205,
+      "name": "UonU (feat. Yung Bleu)",
+      "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 144983,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pull The Car Around (Remix)",
         "url": "https://open.spotify.com/album/0q1ZX67Sh55tWUYvno1IpS"
       },
@@ -671,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+        "name": "Not Yours (Remix)",
+        "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
       },
       "artists": [
+        {
+          "name": "Vae Vanilla",
+          "url": "https://open.spotify.com/artist/5C41pFQJ6ht276z97Wh6xb"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 144983,
-      "name": "Nasty Bitch",
-      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
+      "duration_ms": 130295,
+      "name": "Not Yours (Remix)",
+      "url": "https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn"
     },
     {
       "added_at": null,
@@ -715,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Yours (Remix)",
-        "url": "https://open.spotify.com/album/58Qs8SIVW4lM8t9ma66Aw0"
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
       "artists": [
-        {
-          "name": "Vae Vanilla",
-          "url": "https://open.spotify.com/artist/5C41pFQJ6ht276z97Wh6xb"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 130295,
-      "name": "Not Yours (Remix)",
-      "url": "https://open.spotify.com/track/3wMUF96HtzkjviWxFRQUVn"
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
     },
     {
       "added_at": null,
@@ -759,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+        "name": "Bad Little Thing (feat. Kaliii)",
+        "url": "https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ"
       },
       "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 153652,
-      "name": "Bad Bad Bad",
-      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+      "duration_ms": 143020,
+      "name": "Bad Little Thing (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it"
     },
     {
       "added_at": null,
@@ -795,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Little Thing (feat. Kaliii)",
-        "url": "https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ"
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
       "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
         {
           "name": "Kaliii",
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 143020,
-      "name": "Bad Little Thing (feat. Kaliii)",
-      "url": "https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it"
+      "duration_ms": 106285,
+      "name": "Big Body",
+      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
     },
     {
       "added_at": null,
@@ -831,22 +847,6 @@
       "duration_ms": 192592,
       "name": "ill nana (feat. Kali)",
       "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Why They Mad Now",
-        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 106285,
-      "name": "Big Body",
-      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX"
-      },
-      "artists": [
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 159755,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Why They Mad Now",
         "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 159755,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Do A Bitch (Club Mix)",
         "url": "https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3"
       },
@@ -927,30 +927,6 @@
       "duration_ms": 156096,
       "name": "Do A Bitch - Club Mix",
       "url": "https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sveti\u0161te Svinja",
-        "url": "https://open.spotify.com/album/5pxHJboXT8rSibEGH05R0m"
-      },
-      "artists": [
-        {
-          "name": "Jantar",
-          "url": "https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt"
-        },
-        {
-          "name": "Djubre",
-          "url": "https://open.spotify.com/artist/1gjTCYso5nszQJ7xk6HaJk"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 275565,
-      "name": "Dan \u017divih Mrtvaca",
-      "url": "https://open.spotify.com/track/3y7dFcGXcbvArKIrLdNsnO"
     }
   ],
   "unique_name": "This Is Kaliii",

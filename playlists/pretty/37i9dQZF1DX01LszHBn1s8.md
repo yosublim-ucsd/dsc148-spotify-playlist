@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i just wanna be part of your symphony
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,391 likes - 965 songs - 2 day 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,354 likes - 965 songs - 2 day 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -351,7 +351,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 341 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 |
 | 342 | [Where Have You Been](https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 4:02 |
 | 343 | [Human](https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:20 |
-| 344 | [Where's My Love \- Slowed](https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \(Slowed\)](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 4:49 |
+| 344 | [Where's My Love \- Slowed](https://open.spotify.com/track/7gCMZGYUvujTe4OF64uvN3) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love \- Slowed](https://open.spotify.com/album/7dwAeKkbpzA4ELMDiacfcR) | 4:49 |
 | 345 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 |
 | 346 | [Watch This \- ARIZONATEARS Pluggnb Remix](https://open.spotify.com/track/2ntMdOsTvndzY4vQzkSigb) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [ARIZONATEARS](https://open.spotify.com/artist/2xzyIzdjfeXX6FIQtlAAyw) | [Watch This \(ARIZONATEARS Pluggnb Remix\)](https://open.spotify.com/album/0h04WVpjhX7TDcUlr5ztzo) | 2:43 |
 | 347 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |

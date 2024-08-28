@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Daniela Spalla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,163 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,194 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 41 | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Reik](https://open.spotify.com/artist/7sa6E5h8yXMbK50kBDB91x) | [No Se Acaba Hasta Que Acabe](https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88) | 3:06 |
 | 42 | [Lovelove U](https://open.spotify.com/track/4ZPbxT1hVCdUBG4Tjmfs5B) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Lovelove U](https://open.spotify.com/album/7K4D7qSpRkKY2WqIAJo9Dv) | 2:55 |
 | 43 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 |
-| 44 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
-| 45 | [MALVAS](https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [MALVAS](https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2) | 3:03 |
-| 46 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 |
+| 44 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |
+| 45 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
+| 46 | [MALVAS](https://open.spotify.com/track/1MtxOSpyeHEQEUV2NtkK1H) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [MALVAS](https://open.spotify.com/album/6kUKwicaYia3sYbgQyEtb2) | 3:03 |
 | 47 | [Ley universal](https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Ley universal](https://open.spotify.com/album/0UoP5K4k5NrxoYmtG3z0XG) | 3:09 |
 | 48 | [Bobo](https://open.spotify.com/track/4kFK6SkNXA7bBQgTzvFSWz) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Bobo](https://open.spotify.com/album/2xeKzAeesJsiqhN9MfP21f) | 3:00 |
-| 49 | [LA FOTO](https://open.spotify.com/track/3M5cksDfuPEF68TZfPr76h) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [LA FOTO](https://open.spotify.com/album/7Hm5bpCKmGmuWwoIcQTCFb) | 2:26 |
-| 50 | [Mantra](https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 3:30 |
+| 49 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 |
+| 50 | [LA FOTO](https://open.spotify.com/track/3M5cksDfuPEF68TZfPr76h) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [LA FOTO](https://open.spotify.com/album/7Hm5bpCKmGmuWwoIcQTCFb) | 2:26 |
 
 Snapshot ID: `ZsglYAAAAACdaujGLJO2Zlx8a8u4Ct0R`

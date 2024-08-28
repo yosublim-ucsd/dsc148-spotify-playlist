@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,528 likes - 52 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,541 likes - 52 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,20 +23,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 13 | [Necesito Una Compañera](https://open.spotify.com/track/66W0CGvguqyyKN7P3O6vLg) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [Necesito Una Compañera](https://open.spotify.com/album/1OZ7ft4l7WygLuF8AUJ80A) | 4:02 |
 | 14 | [Daria Todo Por Ti](https://open.spotify.com/track/4mpGzQAET4KkqB3JrGtBIf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 3:04 |
 | 15 | [Como Te Olvido](https://open.spotify.com/track/2gmX1m68Py0uWJdWDNlHnC) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Vas](https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR) | 4:13 |
-| 16 | [Tu Cariñito](https://open.spotify.com/track/2RI4LPeI4Ke4MOdmnaDDnf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tu Cariñito](https://open.spotify.com/album/0PlRDjwGgq2MQhWNw8VQBP) | 2:20 |
-| 17 | [Tres Botes](https://open.spotify.com/track/2jnPxRwZw1GmFbQhPOAPGK) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:37 |
+| 16 | [Tres Botes](https://open.spotify.com/track/2jnPxRwZw1GmFbQhPOAPGK) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:37 |
+| 17 | [Tu Cariñito](https://open.spotify.com/track/2RI4LPeI4Ke4MOdmnaDDnf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tu Cariñito](https://open.spotify.com/album/0PlRDjwGgq2MQhWNw8VQBP) | 2:20 |
 | 18 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 | 19 | [Y Sigues Siendo Tu \- En Vivo](https://open.spotify.com/track/74pskWmh7XTcaxqaPdZHJq) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 3:16 |
 | 20 | [Te Soñé](https://open.spotify.com/track/7J9QZv972WMhZlxZBvswN8) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Te Soñé](https://open.spotify.com/album/1MxOELHpth8E33rUByRI37) | 3:55 |
-| 21 | [Lo Que Yo Sentia](https://open.spotify.com/track/5BIpx4Z3ubZDJU2vRJIRR4) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:37 |
-| 22 | [Queda Restringido](https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 4:07 |
+| 21 | [Queda Restringido](https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 4:07 |
+| 22 | [Lo Que Yo Sentia](https://open.spotify.com/track/5BIpx4Z3ubZDJU2vRJIRR4) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:37 |
 | 23 | [Siempre A Tu Lado \(En Vivo\)](https://open.spotify.com/track/4NXCEypmOHuVu5F0r9eUZE) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Dariel Party, Vol\. 1](https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3) | 3:12 |
-| 24 | [O Me Voy O Te Vas \(En Vivo\)](https://open.spotify.com/track/2Jz2lb2VQe3wsGE7Q5jGrP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [O Me Voy O Te Vas \(En Vivo\)](https://open.spotify.com/album/0nuXdDMOIDHxiddTlmBXGF) | 3:57 |
-| 25 | [Nuestro Adios](https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:17 |
-| 26 | [Diganle](https://open.spotify.com/track/0p4jQi8PPHpdtq43nrsNqs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Díganle](https://open.spotify.com/album/5koK3UlXNmcyqYkrBLeM5b) | 2:55 |
+| 24 | [Diganle](https://open.spotify.com/track/0p4jQi8PPHpdtq43nrsNqs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Díganle](https://open.spotify.com/album/5koK3UlXNmcyqYkrBLeM5b) | 2:55 |
+| 25 | [O Me Voy O Te Vas \(En Vivo\)](https://open.spotify.com/track/2Jz2lb2VQe3wsGE7Q5jGrP) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [O Me Voy O Te Vas \(En Vivo\)](https://open.spotify.com/album/0nuXdDMOIDHxiddTlmBXGF) | 3:57 |
+| 26 | [Nuestro Adios](https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:17 |
 | 27 | [Si Tu Quieres](https://open.spotify.com/track/2TbeBA72jmvoAXnBvnezKB) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:57 |
-| 28 | [Popurri Cumbias \- En Vivo](https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo Desde Los Mochis](https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W) | 5:03 |
-| 29 | [La Pura Verdad](https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:56 |
+| 28 | [La Pura Verdad](https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:56 |
+| 29 | [Popurri Cumbias \- En Vivo](https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo Desde Los Mochis](https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W) | 5:03 |
 | 30 | [Ya Duele Menos](https://open.spotify.com/track/6JeHDdT9XS85PUhpylH2eJ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 3:04 |
 | 31 | [La Hungara \- En Vivo](https://open.spotify.com/track/5dwb7j5AzP2w15YIEzEKQ8) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:21 |
 | 32 | [Dariel El Sabroso](https://open.spotify.com/track/3sZeAyxQOsVADzKDRnuvDb) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Dariel El Sabroso](https://open.spotify.com/album/198hT0bzo8KylJ1j20RS2T) | 3:22 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 51 | [Ex de Verdad \(En Vivo\)](https://open.spotify.com/track/0TrRJilzGqFBaTbJF4Eotc) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ex de Verdad \(En Vivo\)](https://open.spotify.com/album/4HtHsKcP1TPxA0rBvg2NQU) | 3:38 |
 | 52 | [Callando Bocas](https://open.spotify.com/track/6Vxa29uUkgRWmZEj8PyJnz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Carlitos Vazquez](https://open.spotify.com/artist/422pahsi4ueAte8FSyZ3FB) | [Callando Bocas](https://open.spotify.com/album/0S3nvq7AR2ioU0taCOrr7z) | 2:40 |
 
-Snapshot ID: `Zsp0AAAAAAD1vOfa/+XFUn8ljgPjJU0Q`
+Snapshot ID: `ZsvFgAAAAAB4+iLxk3fAuhaK0T3fsVYC`

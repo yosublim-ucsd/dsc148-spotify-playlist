@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-944 songs - 1 day 12 hr 40 min
+945 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,7 +619,7 @@
 | [Purple Hue](https://open.spotify.com/track/0LiN7h1mBp9kCbbCpZs3Ii) | [Dreams On Vinyl](https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw) | [Purple Hue](https://open.spotify.com/album/69448mTpDDiJT3ix1zziay) | 2:31 | 2023-09-08 |  |
 | [Purple love](https://open.spotify.com/track/62zRN7mgvNl61YSXGjGXk4) | [Discant Of Venus](https://open.spotify.com/artist/3GqXOi7G86eK1uMNOiuTTn) | [Sandman Express](https://open.spotify.com/album/2tg3PxwbIdpQW8OQq18yMw) | 1:52 | 2022-04-15 | 2024-08-15 |
 | [Pusher Street](https://open.spotify.com/track/2386ucGjI6rRj5OJTdP9To) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Soul Kitchen](https://open.spotify.com/album/1ipcVG3TDzv8owuTVMu4tE) | 1:31 | 2022-04-15 | 2022-06-10 |
-| [Pyramid Heat](https://open.spotify.com/track/7b09GgDHcFj9N2ZT1TEREZ) | [ZEBERIA](https://open.spotify.com/artist/57IZvDFDI399Ure7mSkg25) | [Beats & Pieces Vol.1](https://open.spotify.com/album/4OQ7snOtKPtpi699tgT7GL) | 2:25 | 2022-11-25 |  |
+| [Pyramid Heat](https://open.spotify.com/track/7b09GgDHcFj9N2ZT1TEREZ) | [ZEBERIA](https://open.spotify.com/artist/57IZvDFDI399Ure7mSkg25) | [Beats & Pieces Vol.1](https://open.spotify.com/album/4OQ7snOtKPtpi699tgT7GL) | 2:25 | 2022-11-25 | 2024-08-28 |
 | [quarantine blues](https://open.spotify.com/track/5OqQA1I96jy9HrawfMBV3a) | [willie johns](https://open.spotify.com/artist/3LFJ3lXQkAanKfb32WaZvm) | [quarantine blues](https://open.spotify.com/album/0KqGi4gaU2mBGqHDWWL3be) | 3:00 | 2022-04-15 | 2024-04-28 |
 | [Quiet Corner](https://open.spotify.com/track/697BOJNWcOWTMv8fPkrabW) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Quiet Corner](https://open.spotify.com/album/29GiHtsG2oENz8dEKsmiyt) | 2:10 | 2023-12-22 |  |
 | [Quiet Times](https://open.spotify.com/track/0lnaNbGICvWHQwQzE5jYO8) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Quiet Times](https://open.spotify.com/album/3Zf3qc9skmzkSI4heGer1R) | 1:42 | 2022-11-11 | 2022-12-14 |
@@ -845,6 +845,7 @@
 | [Time And Space](https://open.spotify.com/track/2LAqKH7Fep8GfNJGONTAag) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Time And Space](https://open.spotify.com/album/0g5vm8jQYvi7daN6YsSlUY) | 2:46 | 2022-11-11 | 2024-04-19 |
 | [Time And Space](https://open.spotify.com/track/697TBmclHJQlcG2Ewlu0ln) | [Summerfields](https://open.spotify.com/artist/2HuLMxBIMhZuG7QcmfM8b4) | [Time And Space](https://open.spotify.com/album/6nMxipAju9t9Rp6mLZ15n3) | 2:46 | 2022-10-28 | 2022-11-24 |
 | [Timeless](https://open.spotify.com/track/3Z2Joea9aRxpg4kXADmoMe) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [Timeless](https://open.spotify.com/album/40YBnTjCEaPksmkjQpNdmR) | 2:18 | 2022-04-15 | 2022-07-22 |
+| [To The Moon](https://open.spotify.com/track/68HvRKLpQNKsLCe0PwlvMH) | [wyn wyn](https://open.spotify.com/artist/6kwzDhgCKDRoXRmS4eO1QT) | [To The Moon](https://open.spotify.com/album/2NPDCbWyUgKCIVfwnx0C2e) | 2:20 | 2024-08-23 |  |
 | [Together](https://open.spotify.com/track/1RKGSoNYL21xmNSAzdQko6) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [All Together](https://open.spotify.com/album/05CQS6aZk4qQSZFLhktywB) | 2:21 | 2023-01-06 |  |
 | [Togetherness](https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV) | [Velvet Walls](https://open.spotify.com/artist/5dK4imkmeXhg5uC83F60p4) | [Togetherness](https://open.spotify.com/album/7dSngO4cCWijtF38dgNoZo) | 2:36 | 2022-04-15 | 2024-08-24 |
 | [Toi Story](https://open.spotify.com/track/05IHKkcyA2KJ26KazTPJCV) | [Blu Beats](https://open.spotify.com/artist/4RGM8nv60UrFGArNSyCZdY) | [Toi Story](https://open.spotify.com/album/13fmUIoJNaAzPzKaF8GcPz) | 4:00 | 2022-05-20 | 2022-09-17 |

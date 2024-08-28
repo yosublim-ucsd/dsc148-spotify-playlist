@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > Klingt nach Sonne + Meer, egal wo du bist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,650 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,686 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 2 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 |
 | 3 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 4 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
-| 5 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 |
-| 6 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
+| 5 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
+| 6 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 |
 | 7 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 |
 | 8 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 | 9 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 48 | [Bisschen wach](https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Am Ende des Tages](https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL) | 3:15 |
 | 49 | [Jessie \(i miss you\)](https://open.spotify.com/track/2BMtVVQPrhMR3bIoiFhwpQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Jessie \(i miss you\)](https://open.spotify.com/album/3EKtYw5CKxZD4B0lXizamQ) | 3:17 |
 | 50 | [she goes](https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [she goes](https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122) | 3:09 |
-| 51 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 |
-| 52 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
+| 51 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
+| 52 | [How?](https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [How?](https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY) | 3:02 |
 | 53 | [Weit weg](https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Weit weg](https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv) | 2:41 |
 | 54 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
 | 55 | [tonight](https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [tonight](https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ) | 2:44 |
-| 56 | [Endless Summer](https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Endless Summer](https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ) | 2:49 |
-| 57 | [That's Life](https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:43 |
+| 56 | [That's Life](https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw) | 3:43 |
+| 57 | [Endless Summer](https://open.spotify.com/track/2D3Yv3Iy8T5KX7En0d1rUy) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Endless Summer](https://open.spotify.com/album/2d0GHy5vzIgohDkHDXhUzJ) | 2:49 |
 | 58 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 |
 | 59 | [All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Prolog I](https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v) | 4:18 |
 | 60 | [Oceanside](https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Oceanside](https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV) | 2:47 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 77 | [Stand up and Dance](https://open.spotify.com/track/5F7mbwOcTUFUmyXOWMpShx) | [Sweetlemon](https://open.spotify.com/artist/2KmjVKSwAKI5DfEaQzx76W) | [Stand up and Dance](https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs) | 3:56 |
 | 78 | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/track/4IhsInWIIjUg9Q04eqgnGl) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Superbloodmoon \(feat\. d4vd\)](https://open.spotify.com/album/27Dh0ZuhW6QrVAdtw4MV0I) | 2:31 |
 | 79 | [April May July](https://open.spotify.com/track/3EgKkA6iQQuLPslOjBhCKy) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [April May July](https://open.spotify.com/album/3bMEZTYOu3CTfpKhAwMxOc) | 3:53 |
-| 80 | [heartache in july](https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [born in the teens](https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn) | 3:13 |
+| 80 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 |
 
 Snapshot ID: `ZshNVwAAAABEZMpkImkXOytUhdYRJ9+1`

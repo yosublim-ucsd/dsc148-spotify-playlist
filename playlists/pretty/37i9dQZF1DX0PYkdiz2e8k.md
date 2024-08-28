@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > lonely is the muse! Foto: Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,597 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,590 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 32 | [leave me for dead](https://open.spotify.com/track/3ItJaK3oSkvCE4QiLkaxbi) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [leave me for dead](https://open.spotify.com/album/7cTW6R0SHT2K64F07CY4vO) | 2:56 |
 | 33 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 |
 | 34 | [Ressaca Moral](https://open.spotify.com/track/5Ho70E7ZDyHqr3iCWM1X63) | [Refúgio](https://open.spotify.com/artist/1tnALlMyBbsShTBbAHWjLr) | [Velhos Hábitos](https://open.spotify.com/album/2IYAuvdKeMNCXInRr8TV4G) | 4:49 |
-| 35 | [SANCTUARY](https://open.spotify.com/track/0af0p0VLe82vqCVC8YFCMk) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [SANCTUARY](https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl) | 2:54 |
-| 36 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 |
+| 35 | [Children In The Dark](https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Children In The Dark](https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI) | 2:58 |
+| 36 | [SANCTUARY](https://open.spotify.com/track/0af0p0VLe82vqCVC8YFCMk) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [SANCTUARY](https://open.spotify.com/album/2puYP5GNAu26hWrgPXLfIl) | 2:54 |
 | 37 | [NO LIMITE](https://open.spotify.com/track/4V8v27ewPfMDvr47fqQqyd) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [NO LIMITE](https://open.spotify.com/album/4815uJ8tjdCR8ThqdzXHhh) | 2:56 |
 | 38 | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/track/2BtFhZlm9Sz5FAiYIjChUl) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Irish Goodbye \(feat\. Vic Fuentes of Pierce The Veil\)](https://open.spotify.com/album/523PqkfY2F5mtL1Rdg0g84) | 3:02 |
 | 39 | [everybody hates me](https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [everybody hates me](https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q) | 2:00 |

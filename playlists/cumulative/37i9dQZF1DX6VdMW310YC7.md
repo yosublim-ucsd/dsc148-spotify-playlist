@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,665 songs - 4 day 18 hr 11 min
+1,666 songs - 4 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Don't Run From My Love \- Francis Mercier Sunset Mix](https://open.spotify.com/track/3wIM9LhC1ppxW2k4V9vdyS) | [1WayTKT](https://open.spotify.com/artist/24ECtsocrQbVj10ENiM9xn), [Cossy](https://open.spotify.com/artist/7FUT4y3jXGBvbo8bNaoyYg), [Mark Borino](https://open.spotify.com/artist/3bI0TiF0GpCbG9oBZqbX6U), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf) | [Don't Run From My Love \(Francis Mercier Remix\)](https://open.spotify.com/album/0kqRNYVj4mQkrSs7iP3I27) | 3:29 | 2020-05-19 | 2020-07-03 |
 | [Don't Shoot Me Down \(feat\. Jae\-Mi\)](https://open.spotify.com/track/624inNx7F6tk3jmAsU0fEc) | [Anevo](https://open.spotify.com/artist/1FmrdSfTqWOzQoEoaS7MWb), [Jae\-Mi](https://open.spotify.com/artist/2WSnq9dHsoiPV5G90OuBxt) | [Don't Shoot Me Down \(feat\. Jae\-Mi\)](https://open.spotify.com/album/5HvhEOUu22e2MxYhGaVS0N) | 3:40 | 2020-05-18 | 2020-07-03 |
 | [Don't Wanna Leave](https://open.spotify.com/track/4T6eni3G9laFNvFmyMAynb) | [Arinity](https://open.spotify.com/artist/6CS3Y9pOBxpjxb1jAC8fhy), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [Don't Wanna Leave](https://open.spotify.com/album/7jlKfBppsAB1382hyfSQ1l) | 3:16 | 2023-01-06 | 2023-01-14 |
+| [Dont Let Go](https://open.spotify.com/track/2eglgMpfZEmWjq8fGNd3SF) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Dont Let Go](https://open.spotify.com/album/6q3wkxd0NSe2S34P1DplUV) | 3:24 | 2024-08-23 |  |
 | [Don’t Doubt ur Vibe](https://open.spotify.com/track/6GGODyP2LIdbxIfYxy5UbN) | [Elon “EDM” Musk](https://open.spotify.com/artist/2WUTOhBxG2HjyKYFJrcSPB) | [Don’t Doubt ur Vibe](https://open.spotify.com/album/3QgUIdbSghCUjdRArtfegJ) | 4:01 | 2020-05-18 | 2020-10-09 |
 | [Don’t Let Get You Down \- Edit](https://open.spotify.com/track/6o8muWtNPh3PoVWOr2wUVy) | [Wajatta](https://open.spotify.com/artist/0Yh5vHNrVsgQ9UEcj8Rqss) | [Don’t Let Get You Down](https://open.spotify.com/album/5fdjWkMSINkbzSfLkanFcz) | 3:48 | 2020-05-18 | 2021-03-10 |
 | [Don’t Make Me Wait](https://open.spotify.com/track/5kuOKkzZKK6PKNT4KKoHZU) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG), [Joker Jaxx](https://open.spotify.com/artist/0p4lf0URwp0RR3NuQ1sBrJ) | [Casa Mirage EP](https://open.spotify.com/album/34TytAkF3zsBfMVippDJSd) | 4:04 | 2020-05-18 | 2020-07-03 |
@@ -517,7 +518,7 @@
 | [Fondness](https://open.spotify.com/track/6imvrMl7lgBPWsl4P7gkdC) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Fondness](https://open.spotify.com/album/2wcnjCjXyIGM7huGhwNGfg) | 2:22 | 2020-03-16 | 2021-12-20 |
 | [Fooling Myself](https://open.spotify.com/track/46cuPz9v6oKpDlCrg4QaAw) | [Lakehouse](https://open.spotify.com/artist/3yF5PXUJ5XFfLIB0ByFLBK) | [Lakehouse](https://open.spotify.com/album/6cc1rvaVhvDMRnmG4GGog0) | 4:07 | 2020-03-16 | 2022-04-24 |
 | [For The Weak \(with Freddii\)](https://open.spotify.com/track/6IVOIIsAZzJzZVMzPvngMl) | [LILO](https://open.spotify.com/artist/0N4H4yivPGcRmkdqRrLeyA), [Freddii](https://open.spotify.com/artist/5FIydByYlH4IGhHWZP7E1m) | [For The Weak \(with Freddii\)](https://open.spotify.com/album/1KhCbHdbsF9XaYskU5HtM6) | 3:13 | 2021-12-17 | 2021-12-24 |
-| [Forever](https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Forever](https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2) | 4:13 | 2024-04-19 |  |
+| [Forever](https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Forever](https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2) | 4:13 | 2024-04-19 | 2024-08-28 |
 | [Forever \(feat\. Ben Stevenson\)](https://open.spotify.com/track/0f3VCprEO3u4j93FtHxTbj) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Ben Stevenson](https://open.spotify.com/artist/06ZVnBRVWngP7hMjnJsWRq) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 3:49 | 2020-05-18 | 2020-07-03 |
 | [Forever in My Mind](https://open.spotify.com/track/2xZ9aPo57bpZO1yAAnBI6s) | [Delta Vaults](https://open.spotify.com/artist/0PDSaYCvDaf0LGdTr7BANU) | [Forever in My Mind](https://open.spotify.com/album/292MhRLW28A7dFbQyYMLpP) | 2:37 | 2022-12-28 | 2023-01-06 |
 | [Forever Sun](https://open.spotify.com/track/7mCvVkAN54xuYfmQbk7Pdo) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Forever Sun](https://open.spotify.com/album/0P08zM3Kv5hmJeFWDgD2Hy) | 2:38 | 2022-07-01 | 2022-12-29 |

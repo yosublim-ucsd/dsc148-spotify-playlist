@@ -1,13 +1,45 @@
 {
   "description": "Nieuwe indie, rock en alternative. Cover: Glass Animals",
-  "num_followers": 55180,
+  "num_followers": 55183,
   "original_name": "New Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqwFYAAAAADt1kUrK/u+98VIfrkwr5xn",
+  "snapshot_id": "Zs5MYAAAAAB65r6GPxz/ZA1Vv5qzrHEV",
   "tracks": [
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "Rat King",
+        "url": "https://open.spotify.com/album/2RF7EDnkfi8wh4x11anQh1"
+      },
+      "artists": [
+        {
+          "name": "Komodo",
+          "url": "https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU"
+        }
+      ],
+      "duration_ms": 223374,
+      "name": "Rat King",
+      "url": "https://open.spotify.com/track/5n64a6hBS4fEcluUsYpjrP"
+    },
+    {
+      "added_at": "2024-08-27 22:00:00",
+      "album": {
+        "name": "Still Willing",
+        "url": "https://open.spotify.com/album/1xcnndeaNzEVp5DC97ka1o"
+      },
+      "artists": [
+        {
+          "name": "Personal Trainer",
+          "url": "https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc"
+        }
+      ],
+      "duration_ms": 177867,
+      "name": "I Can Be Your Personal Trainer",
+      "url": "https://open.spotify.com/track/5BUXRb2mj07Jhglst2dUpz"
+    },
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
@@ -25,6 +57,22 @@
       "url": "https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO"
     },
     {
+      "added_at": "2024-08-27 22:00:00",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 221450,
+      "name": "Starburster",
+      "url": "https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0"
+    },
+    {
       "added_at": "2024-08-01 22:00:00",
       "album": {
         "name": "Ride Away",
@@ -39,22 +87,6 @@
       "duration_ms": 313610,
       "name": "Ride Away",
       "url": "https://open.spotify.com/track/3LsMYyzxZhp1Fg6Ehc40nw"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "Rat King",
-        "url": "https://open.spotify.com/album/2RF7EDnkfi8wh4x11anQh1"
-      },
-      "artists": [
-        {
-          "name": "Komodo",
-          "url": "https://open.spotify.com/artist/4Gm7WZh4QB6KE9M69BvsVU"
-        }
-      ],
-      "duration_ms": 223374,
-      "name": "Rat King",
-      "url": "https://open.spotify.com/track/5n64a6hBS4fEcluUsYpjrP"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
     },
     {
+      "added_at": "2024-08-27 22:00:00",
+      "album": {
+        "name": "Sick Of The Blues",
+        "url": "https://open.spotify.com/album/300fGC25ykyxbLrazATeMP"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "duration_ms": 203769,
+      "name": "Sick Of The Blues",
+      "url": "https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz"
+    },
+    {
       "added_at": "2024-08-01 22:00:00",
       "album": {
         "name": "All In My Head",
@@ -119,6 +167,22 @@
       "duration_ms": 167996,
       "name": "Takes One To Know One",
       "url": "https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f"
+    },
+    {
+      "added_at": "2024-08-27 22:00:00",
+      "album": {
+        "name": "Anywhere but Here",
+        "url": "https://open.spotify.com/album/2gHdcrdUx7GwCavOrDnXTC"
+      },
+      "artists": [
+        {
+          "name": "Naive Set",
+          "url": "https://open.spotify.com/artist/1SPS81Jo8TCGUCiQIEfLYh"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Anywhere but Here",
+      "url": "https://open.spotify.com/track/26atzyt7k7kQhFojC9gB1k"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -183,6 +247,22 @@
       "duration_ms": 183761,
       "name": "X's",
       "url": "https://open.spotify.com/track/4ImeysCxPlYmM4LRFp7z9f"
+    },
+    {
+      "added_at": "2024-08-27 22:00:00",
+      "album": {
+        "name": "Cat 5 (Cyclone)",
+        "url": "https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8"
+      },
+      "artists": [
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "duration_ms": 222154,
+      "name": "Cat 5 (Cyclone)",
+      "url": "https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -1055,22 +1135,6 @@
       "duration_ms": 178984,
       "name": "Intangible",
       "url": "https://open.spotify.com/track/37AHx5plFCTjUyahG4pcgQ"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "GOLDY",
-        "url": "https://open.spotify.com/album/4CTzp3ZZUFjQopaCvbQ6Oe"
-      },
-      "artists": [
-        {
-          "name": "Eels",
-          "url": "https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl"
-        }
-      ],
-      "duration_ms": 248648,
-      "name": "Goldy",
-      "url": "https://open.spotify.com/track/1wZ5OdmhssZf89vdd1ipWR"
     }
   ],
   "unique_name": "New Alternative",

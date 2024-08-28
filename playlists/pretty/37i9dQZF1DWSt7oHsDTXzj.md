@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,435 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,429 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 41 | [Christmas Special](https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Christmas Special](https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl) | 3:08 |
 | 42 | [Home Alone, Too](https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Home Alone, Too](https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb) | 4:00 |
 | 43 | [Deck The Halls](https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Deck The Halls](https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX) | 2:04 |
-| 44 | [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 |
-| 45 | [December '04](https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [December '04](https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY) | 3:26 |
+| 44 | [December '04](https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [December '04](https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY) | 3:26 |
+| 45 | [Mama It's Christmas](https://open.spotify.com/track/5vUAVSmkkzwcCtXZXuCJ6J) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:56 |
 | 46 | [silver second](https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [thank you wisdom angel i love you](https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc) | 3:18 |
 | 47 | [Christmas Must Be Tonight](https://open.spotify.com/track/5HGeTJqFRlhY3VYC9phKw6) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [This Warm December, A Brushfire Holiday Vol\. 2](https://open.spotify.com/album/4dTpeR3SNPSp77CztAXT7T) | 3:47 |
 | 48 | [Andalucia](https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:32 |
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 51 | [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 |
 | 52 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX) | 2:08 |
 | 53 | [Last Christmas](https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Last Christmas](https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R) | 4:40 |
-| 54 | [Snowing In LA](https://open.spotify.com/track/3I6TZhBLFUVLWl1vM4I0t6) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Snowing In LA](https://open.spotify.com/album/0bAnJbVxDC5DMCSCyf4SOV) | 3:09 |
-| 55 | [baby jesus is nobody's baby now](https://open.spotify.com/track/2jIl85mZ8SfSh5INnOPXfv) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/54ech4ihgHD7emD0ucycog) | 3:35 |
+| 54 | [baby jesus is nobody's baby now](https://open.spotify.com/track/2jIl85mZ8SfSh5INnOPXfv) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/54ech4ihgHD7emD0ucycog) | 3:35 |
+| 55 | [Snowing In LA](https://open.spotify.com/track/3I6TZhBLFUVLWl1vM4I0t6) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Snowing In LA](https://open.spotify.com/album/0bAnJbVxDC5DMCSCyf4SOV) | 3:09 |
 | 56 | [White Christmas](https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [White Christmas](https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14) | 2:32 |
 | 57 | [Last Christmas](https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Last Christmas](https://open.spotify.com/album/3acMUF1baafzo6Zi61F1rS) | 2:41 |
 | 58 | [Tinsel Dresses](https://open.spotify.com/track/7lR2IX1qlDpfGZFmW6c4WZ) | [Charlie Bennett](https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG) | [Tinsel Dresses](https://open.spotify.com/album/4wuwHm3hBokarHxJSlYk12) | 2:04 |
 | 59 | [This Year For Christmas](https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [This Year For Christmas](https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo) | 1:52 |
 | 60 | [christmas day](https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [christmas day](https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K) | 2:41 |
-| 61 | [My Favourite Day](https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [My Favourite Day](https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh) | 3:35 |
-| 62 | [Silent Night](https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Christmas Songs Vol\. 1](https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5) | 4:44 |
+| 61 | [Silent Night](https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Christmas Songs Vol\. 1](https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5) | 4:44 |
+| 62 | [My Favourite Day](https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [My Favourite Day](https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh) | 3:35 |
 | 63 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 |
 | 64 | [Christmas In April](https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:31 |
 | 65 | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff) | 2:47 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 70 | [Christmas Alone](https://open.spotify.com/track/4hJFuXWtyhwqsSUK5jQwgN) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Christmas Alone](https://open.spotify.com/album/79hu3uFCBKDcWsHzGVYTim) | 3:35 |
 | 71 | [Christmas in Prison \(feat\. John Prine\)](https://open.spotify.com/track/4rTSdrqqsxbS3E6rU6tUQl) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Christmas in Prison \(feat\. John Prine\)](https://open.spotify.com/album/5nVgGDtBrNJyoPL3inGgk7) | 4:57 |
 | 72 | [Auld Lang Syne](https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Auld Lang Syne](https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu) | 3:12 |
-| 73 | [When I Get Home for Christmas](https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [When I Get Home for Christmas](https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD) | 4:16 |
-| 74 | [Auld Lang Syne](https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:32 |
+| 73 | [Auld Lang Syne](https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:32 |
+| 74 | [When I Get Home for Christmas](https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [When I Get Home for Christmas](https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD) | 4:16 |
 | 75 | [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 |
 
 Snapshot ID: `ZZW+XwAAAAD3AsqdpNghRASW1N9r1q4f`

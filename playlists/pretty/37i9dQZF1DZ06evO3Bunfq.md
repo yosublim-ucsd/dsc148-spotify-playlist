@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This Is Dharius\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,707 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,773 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 16 | [La Raja](https://open.spotify.com/track/5LmQNyyE25TIqwfbgdxPsX) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:45 |
 | 17 | [Me Voy a Poner Bien Loco](https://open.spotify.com/track/4xbNMe4G2amgUB6tntDw6c) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:23 |
 | 18 | [Liga Malandra 3](https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Sinful El Pecador](https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi) | [Liga Malandra 3](https://open.spotify.com/album/6dcUWslTmKR3ymSgSQ1nzy) | 6:11 |
-| 19 | [Hipocresía](https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 4:11 |
+| 19 | [Recia](https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Recia](https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p) | 3:57 |
 | 20 | [Serenata Rap](https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:27 |
-| 21 | [Recia](https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Recia](https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p) | 3:57 |
+| 21 | [Hipocresía](https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 4:11 |
 | 22 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 |
 | 23 | [Sin Escapatoria](https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Escapatoria](https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B) | 3:25 |
 | 24 | [Lírica Onírica](https://open.spotify.com/track/5mqq5G8HU0Ep1PUCE4dh31) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 49 | [Polvo Blanco](https://open.spotify.com/track/0pLOQYM1WMrlNtQedapWTM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 4:29 |
 | 50 | [WARZONE FREESTYLE](https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [WARZONE FREESTYLE](https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P) | 3:16 |
 
-Snapshot ID: `Zsp0AAAAAADW6Db3++V1VJb3MSAc1h0V`
+Snapshot ID: `ZsvFgAAAAAD4m0+Z1gyHu8j/1OcztMyv`

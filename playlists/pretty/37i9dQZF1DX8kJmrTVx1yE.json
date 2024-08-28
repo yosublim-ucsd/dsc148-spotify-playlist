@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que los temazos no paren.",
-  "num_followers": 131603,
+  "num_followers": 131612,
   "original_name": "Enganchados: Latinos",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 250693,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "VIVES",
         "url": "https://open.spotify.com/album/57giaIaMyAVCS7jMIaoIgK"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 194742,
       "name": "Robarte un Beso",
       "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 250693,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
+        "name": "Atado a Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
         "name": "Andas En Mi Cabeza",
         "url": "https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 247493,
       "name": "Andas En Mi Cabeza",
       "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
-        "name": "Atado a Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Donde Estan Los Ladrones",
-        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "BICHOTA",
         "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 178946,
       "name": "BICHOTA",
       "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Donde Estan Los Ladrones",
+        "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Vicentico",
-        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "CAIRO",
         "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+      },
+      "artists": [
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
       },
@@ -1259,6 +1259,22 @@
       "duration_ms": 302320,
       "name": "La Quiero A Morir",
       "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Tierna La Noche",
+        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        }
+      ],
+      "duration_ms": 281520,
+      "name": "Az\u00facar Amargo",
+      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1283,22 +1299,6 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
-        "name": "Tierna La Noche",
-        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
-      },
-      "artists": [
-        {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
-        }
-      ],
-      "duration_ms": 281520,
-      "name": "Az\u00facar Amargo",
-      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
     },
     {
       "added_at": "2024-06-12 22:54:20",

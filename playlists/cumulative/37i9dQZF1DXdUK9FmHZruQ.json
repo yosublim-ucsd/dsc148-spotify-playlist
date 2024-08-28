@@ -1318,7 +1318,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
@@ -2170,6 +2170,24 @@
       "duration_ms": 206181,
       "name": "TAKE ALL THE LOVE",
       "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
     },
     {
       "album": {

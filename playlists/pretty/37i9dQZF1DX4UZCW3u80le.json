@@ -1,6 +1,6 @@
 {
   "description": "Back when we had Kelly Clarkson, Usher, Lady Gaga and *NSYNC on repeat! Cover: Ashlee Simpson",
-  "num_followers": 125503,
+  "num_followers": 125792,
   "original_name": "2000s Pop",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "The Time Of Our Lives",
-        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "No More Drama",
         "url": "https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 265866,
       "name": "Family Affair",
       "url": "https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "The Time Of Our Lives",
+        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Party In The U.S.A.",
+      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
       },
       "artists": [
         {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 266840,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
+      "duration_ms": 216600,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1335,22 +1351,6 @@
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "The Best Damn Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "A New Day Has Come",
-        "url": "https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "I'm Alive",
-      "url": "https://open.spotify.com/track/2FTZeRHQ4gRPViPMpWL9uX"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 184400,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/6ucR4KfvsBFWCMVFDvyKKl"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "A New Day Has Come",
+        "url": "https://open.spotify.com/album/1YQ5V21NSxR9ZauQ3RUbfZ"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "I'm Alive",
+      "url": "https://open.spotify.com/track/2FTZeRHQ4gRPViPMpWL9uX"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
-        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 223000,
       "name": "Goodies (feat. Petey Pablo)",
       "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious George",
+        "url": "https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Kevin Lyttle (US Domestic Release)",
-        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
-      },
-      "artists": [
-        {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 229106,
       "name": "One Less Lonely Girl",
       "url": "https://open.spotify.com/track/69ghzc538EQSVon2Gm3wrr"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
+        "name": "Kevin Lyttle (US Domestic Release)",
+        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
+        "name": "Gossip In The Grain",
+        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+    },
+    {
+      "added_at": "2024-07-12 20:54:16",
+      "album": {
         "name": "The Dutchess",
         "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
       },
@@ -2211,22 +2227,6 @@
       "duration_ms": 292373,
       "name": "Fergalicious",
       "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
-    },
-    {
-      "added_at": "2024-07-12 20:54:16",
-      "album": {
-        "name": "Gossip In The Grain",
-        "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "You Are the Best Thing",
-      "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
     },
     {
       "added_at": "2024-07-12 20:54:16",
@@ -2551,18 +2551,22 @@
     {
       "added_at": "2024-07-12 20:54:16",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+        "name": "Jagged Little Thrill",
+        "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+      "duration_ms": 232573,
+      "name": "Where the Party At (feat. Nelly)",
+      "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
     }
   ],
   "unique_name": "2000s Pop",

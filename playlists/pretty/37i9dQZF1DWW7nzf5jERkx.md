@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 
 > me acuerdo del día que del dinero yo me enamoré 💸💰💸 con Eladio Carrion en la portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,560 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,602 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7nzf5jERkx.md) - [plain]
 | 31 | [PORFA](https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [FERXXO \- VOL 1: M.O.R](https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5) | 3:52 |
 | 32 | [Diosa](https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Easy Money Baby](https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ) | 3:34 |
 | 33 | [Riri](https://open.spotify.com/track/13FHy6nHjXHbzHj1dZFB1G) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [TRAP KITTY](https://open.spotify.com/album/6Pd4PYQpNXE7z3Scyfv0AV) | 2:14 |
-| 34 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 |
-| 35 | [Bella](https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7) | [Bella](https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe) | 3:17 |
+| 34 | [Bella](https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7) | [Bella](https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe) | 3:17 |
+| 35 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 |
 | 36 | [Cómo Le Digo](https://open.spotify.com/track/0K0soSt52EhMS9FohRObdK) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Cómo Le Digo](https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c) | 3:46 |
 | 37 | [Quizas](https://open.spotify.com/track/5Id5B3dxJZhPcV9GzgYZZe) | [Rich Music LTD](https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Academy](https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw) | 3:36 |
 | 38 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 |

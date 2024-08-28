@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 148186,
       "name": "mute",
       "url": "https://open.spotify.com/track/3jxxGBDq5ePJE91R909Yae"
@@ -3376,6 +3376,24 @@
       "duration_ms": 229953,
       "name": "Take Two",
       "url": "https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
       "album": {

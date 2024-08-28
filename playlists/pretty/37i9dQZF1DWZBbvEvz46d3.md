@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,656 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,672 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 41 | [Porady Na Zdrady \[Dreszcze\]](https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Porady Na Zdrady \[Dreszcze\]](https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82) | 3:30 |
 | 42 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
 | 43 | [Nie Kłami](https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:15 |
-| 44 | [Kocham cię jak irlandię](https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz) | [Kobranocka](https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF) | [Póki to nie zabronione \(The Best\)](https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V) | 4:54 |
-| 45 | [Kazdego dnia](https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5) | [Mesajah](https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC) | [Ludzie prosci](https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv) | 3:50 |
+| 44 | [Kazdego dnia](https://open.spotify.com/track/79zCUDHcdzl40CRmIeOLI5) | [Mesajah](https://open.spotify.com/artist/4y484bkOThTJopbKXdp3qC) | [Ludzie prosci](https://open.spotify.com/album/6chn887fKwWnMV4fYifmRv) | 3:50 |
+| 45 | [Kocham cię jak irlandię](https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz) | [Kobranocka](https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF) | [Póki to nie zabronione \(The Best\)](https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V) | 4:54 |
 | 46 | [Peron](https://open.spotify.com/track/77eqkdC6DXRUIT09syzW5d) | [Jamal](https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3) | [Milosc](https://open.spotify.com/album/6JMq8W8uo45Mpt3uMAoWcB) | 3:15 |
 | 47 | [Słucham Cię w radiu co tydzień](https://open.spotify.com/track/6h0UXt92WNnRthd0t1AVaq) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [Ania Karwan](https://open.spotify.com/album/3tXnKtoEc9lzcWOy5EnkZA) | 3:17 |
 | 48 | [Kiedyś do Ciebie wrócę](https://open.spotify.com/track/04QPWwQIxA8kLpcKM1ZWzL) | [Agnieszka Chylińska](https://open.spotify.com/artist/0CEw36eWG0dYKCXOX8eUoO) | [Never Ending Sorry](https://open.spotify.com/album/0bEC0mpfwhZPD89ZS87LVe) | 3:49 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 61 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 |
 | 62 | [Jedwab](https://open.spotify.com/track/5RDEUTUghR62DSvrjWvLNn) | [Róże Europy](https://open.spotify.com/artist/41sRkYTgCw2nfpLrdvii3l) | [Poganie! Kochaj i Obrażaj](https://open.spotify.com/album/1atDsr4BvHEJE5C2YE2I8L) | 6:09 |
 | 63 | [Dmuchawce, Latawce, Wiatr](https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3) | [Urszula](https://open.spotify.com/artist/6vIPbNGbwdrg7LSpz4V2QX) | [Wielki Odlot 2 \- Najlepsze 80\-te](https://open.spotify.com/album/47q9qzxUVT9p21WJPJicYI) | 5:26 |
-| 64 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
-| 65 | [Na Chwile](https://open.spotify.com/track/4alKgSl6ySuhyNnstJyUmt) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Z calych sil](https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj) | 3:49 |
+| 64 | [Na Chwile](https://open.spotify.com/track/4alKgSl6ySuhyNnstJyUmt) | [Grzegorz Hyży](https://open.spotify.com/artist/2JN7EU0IQBx2cWaHh23Mfm), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ) | [Z calych sil](https://open.spotify.com/album/1Z5Ny1o2bml9NXWuJTXafj) | 3:49 |
+| 65 | [Pomimo Burz](https://open.spotify.com/track/0Xu1HbWgsThPFbZpWs472M) | [Antek Smykiewicz](https://open.spotify.com/artist/6JMMItXorCRjzNQeGDd863) | [Nasz Film \(Deluxe Edition\)](https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T) | 3:22 |
 | 66 | [My](https://open.spotify.com/track/7JwyKyBWo65WaJA6zcYxjR) | [Myslovitz](https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5) | [Miłość w czasach popkultury](https://open.spotify.com/album/7A0cDRZUQt4GhpSrMSfUcQ) | 3:26 |
 | 67 | [Smak słów](https://open.spotify.com/track/41MO9m7z2mECLpwpX340NU) | [Goya](https://open.spotify.com/artist/3ppWDN3lGw7UOGY7z2EQLB) | [Smak Slów](https://open.spotify.com/album/1RIh9Iefgwd46J99dRnTez) | 3:59 |
 | 68 | [Jesteś lekiem na całe zło \- 1994](https://open.spotify.com/track/6hqftK2O6t2sI5AmwLhnLs) | [Krystyna Prońko](https://open.spotify.com/artist/4SCH2LpYYD5iKpc1xtDJ4Y) | [Osobista kolekcja 2](https://open.spotify.com/album/7g9OXZbrJyAkeYv7VWR9wh) | 4:40 |

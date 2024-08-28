@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Summer motion en good vibes\. Cover: Jonna Fraser
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,486 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,482 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

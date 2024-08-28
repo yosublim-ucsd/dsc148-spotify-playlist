@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,604 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,648 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 57 | [Get in the Groove, Boys!](https://open.spotify.com/track/1jfSLNJIqRorXFKzvTxoFS) | [Henning Pertiet](https://open.spotify.com/artist/0Cu4z8KkxgdY4WdKgowro5) | [Boogie Woogie](https://open.spotify.com/album/7JsuVCGGb73v2HIallMqQE) | 3:18 |
 | 58 | [Count Basie's Red Bank Cafe](https://open.spotify.com/track/3droR9YZujwRCuNeovj3Z2) | [Floyd Domino](https://open.spotify.com/artist/0uv4ZbFiycvipJyzZiMIA2) | [Hightower Boogie Woogie](https://open.spotify.com/album/3TrxI9Y1NCuoIF3YstHCm0) | 2:39 |
 | 59 | [Chicago Breakdown](https://open.spotify.com/track/5tpdMbPniXLbNNCnPCT3dG) | [Big Maceo](https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve) | [Big Maceo](https://open.spotify.com/album/050Om28lQNAArTUuKzIEzs) | 3:01 |
-| 60 | [Marie](https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Boogie Woogie 50](https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK) | 2:30 |
-| 61 | [Boyd's Boogie Woogie](https://open.spotify.com/track/0XP8phx0WyphdeX3V6NMHB) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2), [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ), [Speckled Red](https://open.spotify.com/artist/2TLqxQWKzeqnaovkTxI3TV), [Little Brother Montgomery](https://open.spotify.com/artist/1C7crJJ0HPOCCllrBaw6Rz), [Jack Dupree](https://open.spotify.com/artist/0Ay8TJXZ9sY3Z6rBWTZLBn) | [Barrelhouse, Blues & Boogie Woogie Vol\. II](https://open.spotify.com/album/2DehuHmdGcw5ne1lObIZAN) | 2:11 |
+| 60 | [Boyd's Boogie Woogie](https://open.spotify.com/track/0XP8phx0WyphdeX3V6NMHB) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2), [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ), [Speckled Red](https://open.spotify.com/artist/2TLqxQWKzeqnaovkTxI3TV), [Little Brother Montgomery](https://open.spotify.com/artist/1C7crJJ0HPOCCllrBaw6Rz), [Jack Dupree](https://open.spotify.com/artist/0Ay8TJXZ9sY3Z6rBWTZLBn) | [Barrelhouse, Blues & Boogie Woogie Vol\. II](https://open.spotify.com/album/2DehuHmdGcw5ne1lObIZAN) | 2:11 |
+| 61 | [Marie](https://open.spotify.com/track/3YXstjQAfgJxzsxF5lU4id) | [Otis Spann's South Side Piano](https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2) | [Boogie Woogie 50](https://open.spotify.com/album/7uuTnzhHkYreRgEyRYcpJK) | 2:30 |
 | 62 | [Chimes Blues](https://open.spotify.com/track/6mzWrjrDV4QXLiJkR4cOGh) | [Charles "Cow Cow" Davenport](https://open.spotify.com/artist/13qoBlyzXzgEW62d7AVGtd) | [Cow Cow Davenport Vol\. 1 \(1925\-1929\)](https://open.spotify.com/album/5akjiDx2OnmsHOdBn1Wlbs) | 3:19 |
 | 63 | [Detroit Rocks](https://open.spotify.com/track/4a2rIaT2d7HE3gBGkFlXJn) | [Montana Taylor](https://open.spotify.com/artist/0jpobPHlTpZ0Z8lFNNfCYM) | [Detroit Rocks](https://open.spotify.com/album/3o2o8lV33AvNkPIWI9IruH) | 3:25 |
 | 64 | [Piggly Wiggly Blues](https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5) | [James Crutchfield](https://open.spotify.com/artist/0sI1SWCDI7JGeEhEuLaOoc) | [St\. Louis Blues Piano Man](https://open.spotify.com/album/1tFDjvUI4XarpDcZQLZOoX) | 4:08 |

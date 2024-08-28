@@ -4,7 +4,7 @@
 
 > Ready to chic things up\. Listen to the music from Emily in Paris, streaming only on Netflix.
 
-329 songs - 19 hr 20 min
+331 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Hit Sale](https://open.spotify.com/track/3yndKI4zWEyC36BQYrdKBA) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C), [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [Hit Sale](https://open.spotify.com/album/1j4pZyBTGUSvp3e5loBgez) | 3:04 | 2022-05-20 | 2024-07-27 |
 | [Holy Lakes \(Dusk\)](https://open.spotify.com/track/2VK8MXWOGEJlOmSri24UXJ) | [NAYAD](https://open.spotify.com/artist/1ljZUgzfEnBpnaFLzwUnWt) | [Holy Lakes \(Dusk\)](https://open.spotify.com/album/5mgg4qS5gwPNruYseXTj5x) | 4:09 | 2022-05-20 | 2024-04-19 |
 | [Holy Lakes \(Dusk\)](https://open.spotify.com/track/6FXedT1pjklb2aVLgQtNH9) | [NAYAD](https://open.spotify.com/artist/1ljZUgzfEnBpnaFLzwUnWt) | [Holy Lakes \(Dusk\)](https://open.spotify.com/album/3fSSDKeh2BslaoxUuzOkSK) | 4:09 | 2022-05-20 | 2024-07-27 |
+| [Hot Summer](https://open.spotify.com/track/2bY6P0FmkFkPcyFNXW0moX) | [Bellaire](https://open.spotify.com/artist/6yeeXqk3RxV7l5DxmlXMnw), [Venessa Jackson](https://open.spotify.com/artist/6JDjuDf9o67pNcq97V6fhy) | [Date at the Disco](https://open.spotify.com/album/0EOAQUNVccnCTrrGf9Mfk9) | 3:53 | 2024-08-27 |  |
 | [House Guy](https://open.spotify.com/track/0eKEcKjXMOC35lUdQrJwov) | [Shayhan](https://open.spotify.com/artist/5bqTDHeDDzXWCdN4bKtVbz) | [House Guy](https://open.spotify.com/album/7tS9vsoCFYjmTFn32ynTgd) | 3:03 | 2022-12-21 | 2024-07-27 |
 | [Humains après tout](https://open.spotify.com/track/1SddnrGqOScznWZNnhWnv8) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Humains après tout](https://open.spotify.com/album/32C0qziCh9lCnOujTtF3gd) | 2:22 | 2022-12-21 | 2024-07-27 |
 | [I Don't Know How \- French 79 Remix](https://open.spotify.com/track/6L0xIwnRJhTvDmrAnG5yYB) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e) | [With Julia \(Bonus Edition\)](https://open.spotify.com/album/2FOEu9ES1TOk8zumzNfh2W) | 7:05 | 2024-08-15 |  |
@@ -217,6 +218,7 @@
 | [Mon Soleil \- Les Gordon Remix](https://open.spotify.com/track/0CsYWyD9HX7HSZF0OqYZIc) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn), [Les Gordon](https://open.spotify.com/artist/4UqXejsLj7uwZmzQ9vkmg8) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:16 | 2022-12-21 |  |
 | [Moon \(And It Went Like\)](https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 6:30 | 2022-05-20 | 2024-04-19 |
 | [Moon \(And It Went Like\)](https://open.spotify.com/track/24upABZ8A0sAepfu91sEYr) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/4iII9nfzjxOYQFp8PyV6HD) | 6:30 | 2022-05-20 | 2024-07-27 |
+| [Moss's Ballroom Vogue](https://open.spotify.com/track/5oTfHjZBOBYM9wWgjA2flx) | [Slowaves](https://open.spotify.com/artist/0Sk8eIUDpSX1lXnmVzhska) | [I](https://open.spotify.com/album/29oYnvoVejaCagzlhmwlCx) | 4:00 | 2024-08-27 |  |
 | [Ne joue pas avec mon coeur](https://open.spotify.com/track/450VdW2K38muCU0ujPmBq4) | [Les Terribles](https://open.spotify.com/artist/5VL5ESnmKVriUnxoNEGCCi) | [Ils sont formidables !](https://open.spotify.com/album/0f7ff7DE38WNctm0FXWjQ4) | 3:38 | 2024-08-15 |  |
 | [Never Get It Right \(Shura Remix\)](https://open.spotify.com/track/58SeDNMb4niHLPL6GqbVY0) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi), [Kinouste](https://open.spotify.com/artist/2un5TAKo9cznZJdamHazJr), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Never Get It Right \(Shura Remix\)](https://open.spotify.com/album/7sOsATCDwhe0xuborcuCeI) | 4:01 | 2022-12-21 | 2024-04-19 |
 | [Never Get It Right \- Shura Remix](https://open.spotify.com/track/6kOTygghOZ87u2beHNgjLf) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi), [Kinouste](https://open.spotify.com/artist/2un5TAKo9cznZJdamHazJr), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Never Get It Right \(Shura Remix\)](https://open.spotify.com/album/6NrMHY6PJWPBC1L1R3ydvS) | 4:01 | 2022-12-21 | 2024-07-27 |

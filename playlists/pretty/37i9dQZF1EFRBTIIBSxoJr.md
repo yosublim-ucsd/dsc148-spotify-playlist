@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563 likes - 121 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 564 likes - 121 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 84 | [Are You Ready](https://open.spotify.com/track/2t5Kn4vb94PCv7RdMI5MuL) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Anna Abreu](https://open.spotify.com/album/44a95yxs0qAlbgxBcPi3f3) | 3:11 |
 | 85 | [F.L.Y.](https://open.spotify.com/track/1vyHi5pAy6VXLCz6BmbDOo) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [F.L.Y.](https://open.spotify.com/album/18lu36GvagA0XOeaXScogj) | 2:24 |
 | 86 | [Trust Myself \(feat\. Gallant\)](https://open.spotify.com/track/4toChdeQFhnq2hngxaOKvm) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Trust Myself \(feat\. Gallant\)](https://open.spotify.com/album/1GVE8WmZmTLYLmawzSmeWv) | 3:37 |
-| 87 | [Over & Out](https://open.spotify.com/track/36ZNcCYaeDPevPPruIZ6xS) | [Newton Faulkner](https://open.spotify.com/artist/0pf1lcBxh6HiiHQAIzhTI5) | [Rebuilt By Humans](https://open.spotify.com/album/6A8INtDOXLCgJCyCePFfSm) | 3:19 |
-| 88 | [did you know](https://open.spotify.com/track/1RoXbREMm18VRMIlhepcmv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:09 |
+| 87 | [did you know](https://open.spotify.com/track/1RoXbREMm18VRMIlhepcmv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:09 |
+| 88 | [Over & Out](https://open.spotify.com/track/36ZNcCYaeDPevPPruIZ6xS) | [Newton Faulkner](https://open.spotify.com/artist/0pf1lcBxh6HiiHQAIzhTI5) | [Rebuilt By Humans](https://open.spotify.com/album/6A8INtDOXLCgJCyCePFfSm) | 3:19 |
 | 89 | [Ghosted \- Zac Samuel Remix](https://open.spotify.com/track/1DCSbC1KGolxOh2jBKhBUC) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Ghosted \(Remixes\)](https://open.spotify.com/album/2s0Zp40uEuirxptvvuKtLQ) | 3:27 |
 | 90 | [World Still Turns](https://open.spotify.com/track/0eqt82y3bYXdkXpMeYOKyK) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [bud, sweat & beers](https://open.spotify.com/album/4s90kMJuWDQNx2X6mHjm9Z) | 3:00 |
 | 91 | [Searching](https://open.spotify.com/track/18NWFWxhITcw2s6SNfbRlJ) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv) | [Searching](https://open.spotify.com/album/26tGOB7aNjpOYPBvYZwCe8) | 2:48 |
@@ -108,10 +108,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 98 | [Love Like That](https://open.spotify.com/track/2KeU7IKPz5OVDTBrWDIVnh) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Boombox Eternal](https://open.spotify.com/album/3vv5r0qQ7HUOq2bhBHAOos) | 4:32 |
 | 99 | [Horror Movie](https://open.spotify.com/track/2N5AAoeXTv2j2b6uRo04cO) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [PRINCE$$ ROSIE](https://open.spotify.com/artist/5xmmPJI0GyVKVFRL82Ei2L) | [HELLRAISERS, Part 2](https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb) | 1:57 |
 | 100 | [Runnin'](https://open.spotify.com/track/1ea2dRo2tSRhxMagoX7EWj) | [Nadine Coyle](https://open.spotify.com/artist/3fWTpVNnrGmdo0jMbsRsRf) | [Insatiable](https://open.spotify.com/album/0T3zANiTRRlO1J5rmGp3na) | 4:05 |
-| 101 | [Love Me Like I Do](https://open.spotify.com/track/4QNgPUoNFCvDhLhZa6oYA3) | [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI) | [Love Me Like I Do](https://open.spotify.com/album/7BfFYi1geUe3L0HEGlLs6S) | 3:01 |
-| 102 | [Nothing Without You](https://open.spotify.com/track/1KAvlqjLQJOnyk3lLQ51jd) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Nothing Without You](https://open.spotify.com/album/7BpHdk6Qvop3mio148WJrC) | 3:41 |
-| 103 | [Grow Old](https://open.spotify.com/track/7mCNqfvqoRHro7rshNW6g8) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 2:57 |
-| 104 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 |
+| 101 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 |
+| 102 | [Love Me Like I Do](https://open.spotify.com/track/4QNgPUoNFCvDhLhZa6oYA3) | [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI) | [Love Me Like I Do](https://open.spotify.com/album/7BfFYi1geUe3L0HEGlLs6S) | 3:01 |
+| 103 | [Nothing Without You](https://open.spotify.com/track/1KAvlqjLQJOnyk3lLQ51jd) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Nothing Without You](https://open.spotify.com/album/7BpHdk6Qvop3mio148WJrC) | 3:41 |
+| 104 | [Grow Old](https://open.spotify.com/track/7mCNqfvqoRHro7rshNW6g8) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 2:57 |
 | 105 | [All the Same \(From 'Toy Show the Musical'\)](https://open.spotify.com/track/7zyqMZjPkz9rnNxu6cS2wO) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [All the Same \(From 'Toy Show the Musical'\)](https://open.spotify.com/album/4SShmHUN5sm4DWWRFUvTnb) | 3:56 |
 | 106 | [Honest Man](https://open.spotify.com/track/6hvwdsJpK0YWAi6Zf8jyRf) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:46 |
 | 107 | [Fall Apart](https://open.spotify.com/track/6sKSKu0tgFbaE5m7uTJ5Kt) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Sexy As Hell \(Exclusive Version\)](https://open.spotify.com/album/0MPeOp95auH8fnxObuVSjc) | 3:07 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 120 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha\-Lee](https://open.spotify.com/artist/7ef107j57lGW8zlDLp78n6) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 121 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AbafAwAAAACERXPszoFGCU7zZzbQmSbo`
+Snapshot ID: `AbakowAAAAD9Z4FJvPEzq30FTjjPuH3g`

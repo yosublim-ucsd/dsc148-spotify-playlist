@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Protoje
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,230,666 likes - 110 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,230,779 likes - 110 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 19 | [Africa Unite](https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 2:55 |
 | 20 | [Grateful](https://open.spotify.com/track/0HnY57kY3IIkYQiiYtMQza) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Nectar of the Gods](https://open.spotify.com/album/7fTqjHVugWluTJ8Ih9sLeC) | 3:11 |
 | 21 | [Skankin' Sweet](https://open.spotify.com/track/5SQaQWvBDEAeug4EPyYEGE) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm) | 4:12 |
-| 22 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 |
-| 23 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
+| 22 | [Hills And Valleys](https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Inna Heights](https://open.spotify.com/album/37Pe85NIhAwMFKmG8MjRlE) | 4:33 |
+| 23 | [She's Royal](https://open.spotify.com/track/6dFOwtd9iBMERardJvsIxY) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c) | [Parables](https://open.spotify.com/album/4xliwWMj72GCy9Edq1v985) | 4:11 |
 | 24 | [Personal](https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Personal](https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf) | 2:42 |
 | 25 | [Legalize It](https://open.spotify.com/track/73lYI49LhfsscO33ohrGN0) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Legalize It \(Legacy Edition\)](https://open.spotify.com/album/4ESdQfdgBr9yaYraKU0Vle) | 4:39 |
 | 26 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 41 | [Wanted Dread and Alive \- 2002 Remaster](https://open.spotify.com/track/5jkxC8SIZJ4qqusxRPVS5s) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Wanted Dread and Alive](https://open.spotify.com/album/18s7KUeencxiAsv7ths3jK) | 4:28 |
 | 42 | [Chill Out](https://open.spotify.com/track/4bLXcbMmmM4aAuhALEfyD7) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Chill Out](https://open.spotify.com/album/4Lv1cH9BHvIpCzaP5LNusL) | 4:02 |
 | 43 | [The International Herb](https://open.spotify.com/track/0GGPUysb8GpCG76dQH63te) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Too Long In Slavery](https://open.spotify.com/album/0NZmEygtcOVC9ulZ9FxuvJ) | 3:20 |
-| 44 | [Egaux](https://open.spotify.com/track/2dS4meH8cow2zKTXLMeSXQ) | [Nuttea](https://open.spotify.com/artist/65LSKdbofg1NdWkaLSVXKc), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Egaux](https://open.spotify.com/album/4aGx8deIzw92Dib4AH5PrC) | 3:04 |
-| 45 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
+| 44 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure Busspipe](https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
+| 45 | [Egaux](https://open.spotify.com/track/2dS4meH8cow2zKTXLMeSXQ) | [Nuttea](https://open.spotify.com/artist/65LSKdbofg1NdWkaLSVXKc), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Egaux](https://open.spotify.com/album/4aGx8deIzw92Dib4AH5PrC) | 3:04 |
 | 46 | [A Thousand Times](https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [A Thousand Times](https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5) | 3:17 |
 | 47 | [Mountain Top](https://open.spotify.com/track/6hqpa3TiYUz8RYZZf1drrR) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Mountain Top](https://open.spotify.com/album/0KM7iPKWcc9rUeXV0mmdVg) | 2:20 |
 | 48 | [All Of Me](https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy) | [The Cure](https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU) | 4:39 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 62 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
 | 63 | [\(You Gotta Walk\) Don't Look Back \- 2002 Remaster](https://open.spotify.com/track/2vDUqLZsaEEYmREcRo9gnn) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Bush Doctor](https://open.spotify.com/album/0K9oJKr8cOfWfdT33y3L9b) | 5:20 |
 | 64 | [Ice Cream Love](https://open.spotify.com/track/16DTl4nJDz444OcvTlbxxD) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Fally Lover](https://open.spotify.com/album/1KazY0vkz1QEHqnoF6ocUj) | 3:23 |
-| 65 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
-| 66 | [Deeper](https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [Strictly The Best Vol\. 36](https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G) | 3:50 |
+| 65 | [Deeper](https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [Strictly The Best Vol\. 36](https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G) | 3:50 |
+| 66 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
 | 67 | [Natty Rebel \- Remaster 1990](https://open.spotify.com/track/5FgdPuK51WBYhuMhV0XIBg) | [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Natty Rebel \(Extra Version\)](https://open.spotify.com/album/6HTLFNdjeW75Am1fKMHGyZ) | 3:31 |
 | 68 | [Jamaica Jamaica](https://open.spotify.com/track/1IOKIOnUJnnjZSutpirvIl) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Jamaica Jamaica](https://open.spotify.com/album/2ozJZeROKc2G2S0dCZbWdD) | 3:31 |
 | 69 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |

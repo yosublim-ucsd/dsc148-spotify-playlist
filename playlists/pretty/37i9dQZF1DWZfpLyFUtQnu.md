@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,244 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,306 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 27 | [Toi mon amour](https://open.spotify.com/track/0joVOoFQB1l3nGceHwgxVI) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [L'Heure D'Eté](https://open.spotify.com/album/4KGuo3fzcCgvfvqvA2o5lh) | 3:34 |
 | 28 | [Diego libre dans sa tête \- Remasterisé en 2002](https://open.spotify.com/track/4ZgDTZjxNJxrpoaWYnaa3N) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4) | [Voyou \(Remasterisé en 2002\)](https://open.spotify.com/album/7AJeglSaPAvjLOrai3qVka) | 2:41 |
 | 29 | [Prendre un enfant](https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw) | [Yves Duteil](https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl) | [La tarentelle](https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu) | 4:18 |
-| 30 | [Et dans 150 ans](https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 2:33 |
-| 31 | [Evidemment \- Remasterisé en 2004](https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Babacar \(Remasterisé en 2004\)](https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0) | 3:26 |
+| 30 | [Evidemment \- Remasterisé en 2004](https://open.spotify.com/track/1kYi6X7VMmU3rCiE2aWjV1) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Babacar \(Remasterisé en 2004\)](https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0) | 3:26 |
+| 31 | [Et dans 150 ans](https://open.spotify.com/track/7vlLFUFZKochwQGnoRnWcM) | [Raphaël](https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM) | [caravane](https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6) | 2:33 |
 | 32 | [Beau \(feat\. Julien Doré\) \- Version acoustique](https://open.spotify.com/track/5reKvqw1x4bKPk7BcatWiU) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Beau \(feat\. Julien Doré\) \[Version acoustique\]](https://open.spotify.com/album/56nhvJWil0JYTO4v0MBEht) | 2:33 |
 | 33 | [La tendresse](https://open.spotify.com/track/0wpF0VHyw7rPouOx1e3o9w) | [Daniel Guichard](https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs) | [La Tendresse](https://open.spotify.com/album/1p17ZGCU9FpAs6Ko4TVdNd) | 2:17 |
 | 34 | [Aimer à perdre la raison](https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat chante Aragon, l'intégrale](https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA) | 2:21 |
 | 35 | [Sublime & Silence](https://open.spotify.com/track/5nOy1wbwjpGTXr3Bk5zI4T) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:56 |
-| 36 | [Sad & Slow \(avec Julien Doré\)](https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:21 |
-| 37 | [Allô maman bobo](https://open.spotify.com/track/6feRXBskplLVuNov74Rep3) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Jamais Content](https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw) | 3:31 |
+| 36 | [Allô maman bobo](https://open.spotify.com/track/6feRXBskplLVuNov74Rep3) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Jamais Content](https://open.spotify.com/album/7fj2NNii1Wlw8loDuYg9Yw) | 3:31 |
+| 37 | [Sad & Slow \(avec Julien Doré\)](https://open.spotify.com/track/3Pjr1PIVNldDaRtX0EsjFh) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Cœur](https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC) | 3:21 |
 | 38 | [Je ne veux qu'elle](https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Claire Keim](https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5) | [Marc Lavoine](https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI) | 3:58 |
 | 39 | [Sensualité](https://open.spotify.com/track/0C9i6dklnUoFcp1jsP03ud) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [The Songs \(Acoustic\)](https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ) | 3:51 |
 | 40 | [Secret](https://open.spotify.com/track/3g8XEpjHvbt2KfilEIh0Jj) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Secret](https://open.spotify.com/album/2uWPQsd3smibQTkgcjOUyw) | 3:10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,326 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,345 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 23 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
 | 24 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
 | 25 | [MiiYa](https://open.spotify.com/track/3gA42BhHhRnItB1Iiwck5I) | [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [MiiYa](https://open.spotify.com/album/6XU9fyoSPL0SbsMw32lDEf) | 4:17 |
-| 26 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 |
+| 26 | [Pidgin & English](https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:38 |
 | 27 | [Adaadaa](https://open.spotify.com/track/7d2i8FNVijZutESaJ4n4Ob) | [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Adaadaa](https://open.spotify.com/album/3wJRrLm71DWKt72qwQ8BQo) | 3:57 |
-| 28 | [Pidgin & English](https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:38 |
+| 28 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 |
 | 29 | [Last Last](https://open.spotify.com/track/4LPNkxES0zCGn6S2Y1vmJN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 2:52 |
 | 30 | [You Were Mine](https://open.spotify.com/track/3QpTafVsUG8UWFDHfJ18Q4) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp) | [Happy 2 Be Alive](https://open.spotify.com/album/3jXkhOEyaDn7grFbTJ9QQ1) | 3:01 |
 | 31 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |

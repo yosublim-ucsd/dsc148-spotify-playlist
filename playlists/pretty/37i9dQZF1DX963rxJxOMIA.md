@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX963rxJxOMIA.md) - [plain]
 
 > Fino y elegante, como Maisak y EL FERXXO
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,090 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,192 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

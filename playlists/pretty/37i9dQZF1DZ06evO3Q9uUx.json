@@ -1,12 +1,12 @@
 {
-  "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 14646,
+  "description": "This Is BIA. Los temas esenciales, todos en una lista.",
+  "num_followers": 14650,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABtdYOTUfflEUaujc3qgojL",
+  "snapshot_id": "ZsvFgAAAAADO99Fp3trhG5kDrjovnnl3",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Real World",
+        "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
+      },
+      "artists": [
+        {
+          "name": "RealestK",
+          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 132537,
+      "name": "It's You (feat. BIA)",
+      "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
         "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 189026,
       "name": "I'm Geekin (feat. NLE Choppa & BIA) - Remix",
       "url": "https://open.spotify.com/track/5TGkqW4UfYV1jQVLrhz4Yc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Real World",
-        "url": "https://open.spotify.com/album/1oOQ3NNONlroyPGbElifW3"
-      },
-      "artists": [
-        {
-          "name": "RealestK",
-          "url": "https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 132537,
-      "name": "It's You (feat. BIA)",
-      "url": "https://open.spotify.com/track/1JwxfXrNbw2tfh0X4ZzQtR"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The End of an Era",
+        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 170899,
+      "name": "Is That Right",
+      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bitch Duh feat. BIA (Remix)",
         "url": "https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 172235,
       "name": "Bitch Duh feat. BIA (Remix)",
       "url": "https://open.spotify.com/track/5CPF2Jw41O6f1DV0jQc6vp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The End of an Era",
-        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
-      },
-      "artists": [
-        {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 170899,
-      "name": "Is That Right",
-      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
     },
     {
       "added_at": null,

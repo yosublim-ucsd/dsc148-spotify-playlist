@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Carlos Vives, Chimbala & Carin Leon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,490 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,522 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

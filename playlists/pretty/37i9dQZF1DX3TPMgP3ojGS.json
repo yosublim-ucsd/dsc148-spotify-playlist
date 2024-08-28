@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 426413,
+  "num_followers": 426490,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Woods",
-          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
-        }
-      ],
-      "duration_ms": 163916,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Lisser",
         "url": "https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8"
       },
@@ -623,18 +607,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Diaphanous",
-        "url": "https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS"
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
       },
       "artists": [
         {
-          "name": "Arden Brooks",
-          "url": "https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m"
+          "name": "Rebecca Woods",
+          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
         }
       ],
-      "duration_ms": 173520,
-      "name": "Diaphanous",
-      "url": "https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E"
+      "duration_ms": 163916,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -667,6 +651,22 @@
       "duration_ms": 137749,
       "name": "To Bring Rest",
       "url": "https://open.spotify.com/track/6MTI6CKlLOZapPzdT4zJLH"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Diaphanous",
+        "url": "https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS"
+      },
+      "artists": [
+        {
+          "name": "Arden Brooks",
+          "url": "https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m"
+        }
+      ],
+      "duration_ms": 173520,
+      "name": "Diaphanous",
+      "url": "https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Pines and Cedars",
-        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
-      },
-      "artists": [
-        {
-          "name": "Maya Sarfatto",
-          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
-        }
-      ],
-      "duration_ms": 150898,
-      "name": "Pines and Cedars",
-      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Fiume",
         "url": "https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 140124,
       "name": "Fiume",
       "url": "https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Pines and Cedars",
+        "url": "https://open.spotify.com/album/6TwmI0pB1GkkKUfXUadzdA"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "duration_ms": 150898,
+      "name": "Pines and Cedars",
+      "url": "https://open.spotify.com/track/4EIbWNNAT3TqvzflNhGKyU"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Bona Fide",
-        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
-      },
-      "artists": [
-        {
-          "name": "Linn Hope",
-          "url": "https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D"
-        }
-      ],
-      "duration_ms": 157860,
-      "name": "Bona Fide",
-      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Peace flow",
         "url": "https://open.spotify.com/album/26L1oUjqDrhosLQuYdHAcm"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Saying Things",
-        "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
+        "name": "Bona Fide",
+        "url": "https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC"
       },
       "artists": [
         {
-          "name": "Emanuel Fremont",
-          "url": "https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc"
+          "name": "Linn Hope",
+          "url": "https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D"
         }
       ],
-      "duration_ms": 123500,
-      "name": "Saying Things",
-      "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
+      "duration_ms": 157860,
+      "name": "Bona Fide",
+      "url": "https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -939,6 +923,22 @@
       "duration_ms": 185750,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Saying Things",
+        "url": "https://open.spotify.com/album/4iKAhtxr1Vdm5l8eMhmgs9"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Fremont",
+          "url": "https://open.spotify.com/artist/0RYljGNR9lf53Pg1BrHNQc"
+        }
+      ],
+      "duration_ms": 123500,
+      "name": "Saying Things",
+      "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Window Seat",
-        "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
-      },
-      "artists": [
-        {
-          "name": "Dwight Rivera",
-          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
-        }
-      ],
-      "duration_ms": 145120,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Quiet Eyes",
         "url": "https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 141451,
       "name": "Quiet Eyes",
       "url": "https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Window Seat",
+        "url": "https://open.spotify.com/album/7qaaLpJ9QuQzAwbsZOd6PF"
+      },
+      "artists": [
+        {
+          "name": "Dwight Rivera",
+          "url": "https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl"
+        }
+      ],
+      "duration_ms": 145120,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/6GRjlkZ7MxKtRC4jsJzQxv"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n \u00dalfur",
-          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
-        }
-      ],
-      "duration_ms": 155704,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "When It\u00b4s Love",
         "url": "https://open.spotify.com/album/4PMQap6ziecCjsTx8y9zgz"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 162047,
       "name": "When It\u00b4s Love",
       "url": "https://open.spotify.com/track/4BLjftEzGWk5hqVdcWbRPM"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n \u00dalfur",
+          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
+        }
+      ],
+      "duration_ms": 155704,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Waitings",
-        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
-      },
-      "artists": [
-        {
-          "name": "Felix Tanguy",
-          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
-        }
-      ],
-      "duration_ms": 139411,
-      "name": "Waitings",
-      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Sound Of Mind",
         "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 122998,
       "name": "Sound Of Mind",
       "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Waitings",
+        "url": "https://open.spotify.com/album/5mEfoUQBKWpXiQXR3TZ5Jx"
+      },
+      "artists": [
+        {
+          "name": "Felix Tanguy",
+          "url": "https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW"
+        }
+      ],
+      "duration_ms": 139411,
+      "name": "Waitings",
+      "url": "https://open.spotify.com/track/597H3V2av5dnxNcIDa4Yrk"
     },
     {
       "added_at": "2024-07-10 03:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-10 03:01:00",
       "album": {
-        "name": "Kalmte",
-        "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
-      },
-      "artists": [
-        {
-          "name": "Barry Hudson-Taylor",
-          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
-        }
-      ],
-      "duration_ms": 141736,
-      "name": "Languor",
-      "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
-    },
-    {
-      "added_at": "2024-07-10 03:01:00",
-      "album": {
         "name": "Candles",
         "url": "https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 172399,
       "name": "Candles",
       "url": "https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf"
+    },
+    {
+      "added_at": "2024-07-10 03:01:00",
+      "album": {
+        "name": "Kalmte",
+        "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
+      },
+      "artists": [
+        {
+          "name": "Barry Hudson-Taylor",
+          "url": "https://open.spotify.com/artist/3MuhX7tuEdOUvsOGg7ui02"
+        }
+      ],
+      "duration_ms": 141736,
+      "name": "Languor",
+      "url": "https://open.spotify.com/track/4k8N1HD7vWq4Hg02QfnesO"
     },
     {
       "added_at": "2024-07-10 03:01:00",

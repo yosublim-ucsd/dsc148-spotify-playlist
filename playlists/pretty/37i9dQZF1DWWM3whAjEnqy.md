@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,530 likes - 85 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,523 likes - 85 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 5 | [Hoops](https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Hoops](https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1) | 2:38 |
 | 6 | [Sunbleached Girl](https://open.spotify.com/track/7xeJKKmWX8PT0N5jZccbVD) | [Shag Rock](https://open.spotify.com/artist/0SJxTOELZJa2Cf19TjNEfm) | [Barefoot](https://open.spotify.com/album/019HD6vbtg0G9wrqZXJCt8) | 2:57 |
 | 7 | [Chateau](https://open.spotify.com/track/1LIbTjMdFP15jIXGkcICSU) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/1D7wVgT1HGxwLGqSnLf0lg) | 4:33 |
-| 8 | [Knees](https://open.spotify.com/track/7fE9r2qOJmjgruk3TdW4MD) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:46 |
-| 9 | [Waking Up Easy](https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Waking Up Easy](https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx) | 3:56 |
+| 8 | [Waking Up Easy](https://open.spotify.com/track/1mupwOlwPPnX76edNnu2H1) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Waking Up Easy](https://open.spotify.com/album/34D40eqFx2RdCWi54tlKFx) | 3:56 |
+| 9 | [Knees](https://open.spotify.com/track/7fE9r2qOJmjgruk3TdW4MD) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:46 |
 | 10 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
 | 11 | [Mess Is Mine](https://open.spotify.com/track/4CbiUgCCnQ79EmieyzQE8x) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/0yXpiO0g9UJb5Qhx4zAs16) | 3:43 |
 | 12 | [nowhere fast](https://open.spotify.com/track/3wBxFk7joZ29YP1k7rZJwo) | [Neptune](https://open.spotify.com/artist/3WdDxnyyYJgYLxrLPXSVyz) | [nowhere fast](https://open.spotify.com/album/3WQNCqAA8GVtXw1R3mfQqD) | 2:24 |
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 33 | [Drift](https://open.spotify.com/track/2y14MWseQnWXApjJjNCPm8) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [GG](https://open.spotify.com/album/29zHxPajPzaDJ4CgMVWiHF) | 4:03 |
 | 34 | [True Lovers](https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Paint](https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz) | 4:19 |
 | 35 | [Lay It On Me](https://open.spotify.com/track/1wb9iylRnBbBBHGYAatao0) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:35 |
-| 36 | [Everything Is Easy](https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Everything Is Easy](https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r) | 3:17 |
-| 37 | [The Woods \(Acoustic\)](https://open.spotify.com/track/0T7OKMuhcMNClxEYQzVyyb) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/4EWd8fo9kyMQjB5LVkFwYI) | 3:59 |
+| 36 | [The Woods \(Acoustic\)](https://open.spotify.com/track/0T7OKMuhcMNClxEYQzVyyb) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [The Woods \(Acoustic\)](https://open.spotify.com/album/4EWd8fo9kyMQjB5LVkFwYI) | 3:59 |
+| 37 | [Everything Is Easy](https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Everything Is Easy](https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r) | 3:17 |
 | 38 | [On Our Own](https://open.spotify.com/track/5pLgio8GlWLCwaZkUTtboI) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [14 Steps To A Better You](https://open.spotify.com/album/537M91OtVxaFAgF4HYcQKY) | 3:36 |
 | 39 | [Grizzly Bear](https://open.spotify.com/track/2BPI9yfqVnlCUYnRYnBkdL) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Angus & Julia Stone \(Deluxe\)](https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04) | 4:08 |
 | 40 | [Hold Me](https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 3:07 |
-| 41 | [Tombstone](https://open.spotify.com/track/2kcfGjPU2sSZqGPETdGd6o) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Lonely Diamond](https://open.spotify.com/album/4MLLqbSPtYyA6zPxd1Qqrm) | 4:00 |
-| 42 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 |
-| 43 | [The Summer](https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Chimney's Afire](https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw) | 3:23 |
+| 41 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 |
+| 42 | [The Summer](https://open.spotify.com/track/2xN6Xkcx09kPPlNR7gPZRV) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Chimney's Afire](https://open.spotify.com/album/4PucMCxh5r2SNaAtZNcvzw) | 3:23 |
+| 43 | [Tombstone](https://open.spotify.com/track/2kcfGjPU2sSZqGPETdGd6o) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Lonely Diamond](https://open.spotify.com/album/4MLLqbSPtYyA6zPxd1Qqrm) | 4:00 |
 | 44 | [Feeding Line](https://open.spotify.com/track/5PRN8ql17R8rcKnHo6Ajlk) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Moonfire](https://open.spotify.com/album/3UsAObHERCrshH20RiicHG) | 4:28 |
 | 45 | [London Still](https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi) | [The Waifs](https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz) | [Up All Night](https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n) | 3:46 |
 | 46 | [Mystik](https://open.spotify.com/track/0NnVzBW6TJLaEzcyXjqRDH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mystik](https://open.spotify.com/album/00yAwDfu7JLRlhvHSchMzu) | 4:09 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 55 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 |
 | 56 | [Lonely](https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Lonely](https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu) | 3:31 |
 | 57 | [The Breach](https://open.spotify.com/track/1rSrMVQbnYWihopHxGXhOD) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/6qjhxh5olXQ1y7T4PV2qSw) | 4:13 |
-| 58 | [Betterman](https://open.spotify.com/track/1SwwSZY0ZLvNf14BADfpQT) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [Three](https://open.spotify.com/album/3xwZOyRWoTxdx2w3nKs7a2) | 8:19 |
-| 59 | [Window to the Sky](https://open.spotify.com/track/6jAyxL48SmPElMhu2dl0cg) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [Silence/Win](https://open.spotify.com/album/69ggXQi589p8Nv08KRPXwD) | 4:08 |
+| 58 | [Window to the Sky](https://open.spotify.com/track/6jAyxL48SmPElMhu2dl0cg) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [Silence/Win](https://open.spotify.com/album/69ggXQi589p8Nv08KRPXwD) | 4:08 |
+| 59 | [Betterman](https://open.spotify.com/track/1SwwSZY0ZLvNf14BADfpQT) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [Three](https://open.spotify.com/album/3xwZOyRWoTxdx2w3nKs7a2) | 8:19 |
 | 60 | [Lighthouse](https://open.spotify.com/track/54aDjRpdM3EQUEkFolmsAP) | [The Waifs](https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz) | [Up All Night](https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n) | 3:21 |
 | 61 | [Carry You](https://open.spotify.com/track/1X14uciXmjCEzFH0rfnBso) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 4:32 |
 | 62 | [Greed](https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Greed](https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm) | 3:41 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 66 | [Youngblood](https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Youngblood](https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm) | 3:52 |
 | 67 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 |
 | 68 | [I Get Up](https://open.spotify.com/track/3clLiFEchrm0ElggigjADF) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Half Mile Harvest \(Deluxe\)](https://open.spotify.com/album/0GzSn50tkYFrV1RqxHclwe) | 4:23 |
-| 69 | [Mended](https://open.spotify.com/track/0jzOBl9Qm6po1hXrgqIVCF) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Perennial](https://open.spotify.com/album/735RlBqveqycIrQgyld7JK) | 5:05 |
-| 70 | [Blood](https://open.spotify.com/track/5eeMft4YZx0Xdf9yJPNZJY) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [Recordings Of The Middle East](https://open.spotify.com/album/0s8tM3NW7sgDmP6B3Cn6I6) | 5:26 |
+| 69 | [Blood](https://open.spotify.com/track/5eeMft4YZx0Xdf9yJPNZJY) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [Recordings Of The Middle East](https://open.spotify.com/album/0s8tM3NW7sgDmP6B3Cn6I6) | 5:26 |
+| 70 | [Mended](https://open.spotify.com/track/0jzOBl9Qm6po1hXrgqIVCF) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Perennial](https://open.spotify.com/album/735RlBqveqycIrQgyld7JK) | 5:05 |
 | 71 | [Golden](https://open.spotify.com/track/6YKo8apCHPODSwnTiZTTV5) | [Kingswood](https://open.spotify.com/artist/4zOw0E0NA7B4lIYyc3XNt5) | [After Hours, Close To Dawn](https://open.spotify.com/album/3Ep9YB9ShW8DpbQNfI8hhG) | 3:22 |
 | 72 | [Maybe You Know](https://open.spotify.com/track/6R36WcAtweEhKGCJQtD5GY) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [My Own Pool of Light](https://open.spotify.com/album/4u59azivupUe4l6CDbwfxf) | 3:57 |
 | 73 | [Drift Away](https://open.spotify.com/track/2bx4jOMWpCbemnnRWfsMbx) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Vantage Point](https://open.spotify.com/album/3cVWxjvHrPozeQaiUfU9R4) | 2:59 |
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 78 | [Smile](https://open.spotify.com/track/4faiTk0Vx86PcE5TJ3sQnz) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Apple Crumble](https://open.spotify.com/album/2gTTDUCGpyBAnai2lJ1afr) | 3:23 |
 | 79 | [Keepsake](https://open.spotify.com/track/4OAcOb2uobXd9Zu1X9BnEE) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Keepsake](https://open.spotify.com/album/4NnnY09KEF7Gnw2rXIb0lU) | 3:46 |
 | 80 | [Leaps And Bounds](https://open.spotify.com/track/4XFpth43C6jzaA9fK1Jsmp) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq), [The Messengers](https://open.spotify.com/artist/6cBdXnLZZ80RDHOvNPVUcY) | [Gossip](https://open.spotify.com/album/3380X2DBGZPKpeZTPQrcsr) | 3:23 |
-| 81 | [God Forgot](https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [LO LA RU](https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E) | 3:32 |
-| 82 | [Middle Of The Hill](https://open.spotify.com/track/0MIoXOgLcUKRJEtb1rKh17) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Memories & Dust](https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE) | 2:27 |
+| 81 | [Middle Of The Hill](https://open.spotify.com/track/0MIoXOgLcUKRJEtb1rKh17) | [Josh Pyke](https://open.spotify.com/artist/4UzQ37Y0rzonVpsXpcNyFH) | [Memories & Dust](https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE) | 2:27 |
+| 82 | [God Forgot](https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [LO LA RU](https://open.spotify.com/album/7a6mqtb2gc5vM4RkfCVX7E) | 3:32 |
 | 83 | [Inappropriate Behaviour](https://open.spotify.com/track/0Ma58HrmhNi0UrOCnAXXBt) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Inappropriate Behaviour](https://open.spotify.com/album/5ba8H8cdgeBRItvryKyzoY) | 4:13 |
 | 84 | [Free](https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Blue Sky Blue](https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07) | 3:35 |
-| 85 | [Leave That](https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Give It Up](https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt) | 3:20 |
+| 85 | [Green Limousine](https://open.spotify.com/track/4lMG8ihd1XUJthjdUhc6hR) | [The Badloves](https://open.spotify.com/artist/64czVVta8TqMAqkZ0M0Avc) | [Get On Board](https://open.spotify.com/album/7wMveqZ5OKqz5cFxaJ8PHq) | 3:45 |
 
 Snapshot ID: `ZVQnQAAAAABAHE0n4/q1GdfMTEXkQ7Rn`

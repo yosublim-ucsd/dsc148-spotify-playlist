@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: El Plan De La Mariposa",
-  "num_followers": 136973,
+  "num_followers": 137084,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
+        "name": "La Partida",
+        "url": "https://open.spotify.com/album/2o6LMhakBENYkTspLtQHnR"
+      },
+      "artists": [
+        {
+          "name": "Parientes",
+          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
+        }
+      ],
+      "duration_ms": 207707,
+      "name": "La Partida",
+      "url": "https://open.spotify.com/track/4xtItebw9T2izlrySJSdjD"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
         "name": "Garc\u00eda, el M\u00e1s Grande",
         "url": "https://open.spotify.com/album/72r2s0nbZeSmPMK30eNrua"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 181159,
       "name": "Ahora 2",
       "url": "https://open.spotify.com/track/0qm1BbzsJEeBcnn58M0Qo1"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "La Partida",
-        "url": "https://open.spotify.com/album/2o6LMhakBENYkTspLtQHnR"
-      },
-      "artists": [
-        {
-          "name": "Parientes",
-          "url": "https://open.spotify.com/artist/76lUSSvc6Z83CLrIVB7YrE"
-        }
-      ],
-      "duration_ms": 207707,
-      "name": "La Partida",
-      "url": "https://open.spotify.com/track/4xtItebw9T2izlrySJSdjD"
     },
     {
       "added_at": "2024-08-16 03:00:00",

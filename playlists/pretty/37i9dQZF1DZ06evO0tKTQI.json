@@ -1,12 +1,12 @@
 {
-  "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 12075,
+  "description": "This Is Bratty. Los temas esenciales, todos en una lista.",
+  "num_followers": 12082,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAADv1O29ia4UbNFAvAgwKpsF",
+  "snapshot_id": "ZsvFgAAAAABct/tPRSI/sEkEjqoN+NoZ",
   "tracks": [
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 213306,
-      "name": "Delusi\u00f3n",
-      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
+      "duration_ms": 218546,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/4ZauniOK70YyV27WfhIBYK"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 218546,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/4ZauniOK70YyV27WfhIBYK"
+      "duration_ms": 213306,
+      "name": "Delusi\u00f3n",
+      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 212413,
-      "name": "Hazme Saber",
-      "url": "https://open.spotify.com/track/3U4F4pnwzhPFSItQnf5lIb"
+      "duration_ms": 83320,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 83320,
-      "name": "Interlude",
-      "url": "https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP"
+      "duration_ms": 212413,
+      "name": "Hazme Saber",
+      "url": "https://open.spotify.com/track/3U4F4pnwzhPFSItQnf5lIb"
     },
     {
       "added_at": null,

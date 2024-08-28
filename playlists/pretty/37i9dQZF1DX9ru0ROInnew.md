@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,683 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,749 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 41 | [En Que País](https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [En Que País](https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm) | 3:30 |
 | 42 | [YO LE LLEGO](https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:09 |
 | 43 | [Subiendo De Nivel \- Remix](https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Famouz Reloaded](https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT) | 4:09 |
-| 44 | [Balenciaga](https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Balenciaga](https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj) | 3:43 |
-| 45 | [Michael Myers](https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Michael Myers](https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ) | 4:11 |
+| 44 | [Michael Myers](https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Michael Myers](https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ) | 4:11 |
+| 45 | [Balenciaga](https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Balenciaga](https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj) | 3:43 |
 | 46 | [Original](https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Original](https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3) | 4:06 |
 | 47 | [Side Bitch](https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [L3tra](https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI) | 3:19 |
 | 48 | [No Ando Solo](https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Cambio de Clima](https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl) | 4:01 |

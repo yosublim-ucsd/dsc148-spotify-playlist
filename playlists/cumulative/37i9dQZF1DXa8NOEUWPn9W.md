@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Peggy Gou
 
-949 songs - 2 day 8 hr 18 min
+950 songs - 2 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 | 2022-01-28 | 2022-04-18 |
 | [Alright Alright](https://open.spotify.com/track/0rwcfDbRd4s6aKEsoiDCDg) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG) | [Alright Alright](https://open.spotify.com/album/5M54okM0EN1Q0KVAaMf0mS) | 5:32 | 2021-03-27\* | 2021-05-03 |
 | [Alter Ego](https://open.spotify.com/track/1H5aqJh1n2xJPTVc7D0aqR) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [For Club Play Only, Pt\. 7](https://open.spotify.com/album/6gtIyiWuthKdkFFz5Aoqhu) | 3:25 | 2021-06-03 | 2021-09-18 |
-| [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-07-26 |  |
+| [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ), [Dawn Patrol](https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 | 2024-07-26 |  |
 | [Amanhã](https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Amanhã](https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna) | 3:32 | 2022-03-04 | 2022-07-23 |
 | [Ando High](https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Ando High](https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH) | 2:45 | 2024-02-16 |  |
 | [Angel Dust](https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Angel Dust](https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr) | 4:03 | 2022-11-11 | 2022-12-18 |
@@ -502,7 +502,7 @@
 | [Lift Your Hands Up \(feat\. Ramona Renea\)](https://open.spotify.com/track/7Mz4VZiPFjf2AYkr4KNkJ5) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Lift Your Hands Up \(feat\. Ramona Renea\)](https://open.spotify.com/album/1h3MhM9o2wdZbrikUZ9ZMW) | 3:25 | 2021-06-27 | 2022-04-18 |
 | [Light Up My Life](https://open.spotify.com/track/1FE3Cf3SUdxJkFGrdYpqQT) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv) | [Light Up My Life](https://open.spotify.com/album/1H1c8oEoI9qsJV4nCNCkHW) | 2:24 | 2021-05-15 | 2022-08-24 |
 | [Lights Go Out](https://open.spotify.com/track/18KVIouF8klKE9HdqdpUxd) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Lights Go Out](https://open.spotify.com/album/2JhLwfCqWdJaRCJ9d6gVdh) | 3:46 | 2021-07-04 | 2023-06-03 |
-| [Lights Out](https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Lights Out](https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB) | 3:38 | 2024-05-10 |  |
+| [Lights Out](https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Lights Out](https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB) | 3:38 | 2024-05-10 | 2024-08-28 |
 | [Like My Way](https://open.spotify.com/track/4iELCZDu8BTCgP0MWNLQ9u) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [You've Got the Whole Night to Go](https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC) | 4:13 | 2021-03-27\* | 2021-06-03 |
 | [Like That](https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7) | [Seamus D](https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw) | [Like That](https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm) | 3:00 | 2022-01-14 | 2023-05-13 |
 | [Lips](https://open.spotify.com/track/7mDITtAAXvP15gk0AC8VAC) | [Bassani](https://open.spotify.com/artist/47g7XpOmuBClZV47fdNvux) | [Lips](https://open.spotify.com/album/1l4FMo7mSURWFXeEJodEC6) | 5:34 | 2021-03-27\* | 2021-07-10 |
@@ -668,6 +668,7 @@
 | [Pose](https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Salvation](https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e) | 3:11 | 2023-07-21 | 2023-12-03 |
 | [Power](https://open.spotify.com/track/6NpWqc7uYthjC5M7v7c1Gs) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC) | [Power](https://open.spotify.com/album/0ZGfflZX2H16q4Omg1kraL) | 3:18 | 2021-09-07 | 2022-11-13 |
 | [Power](https://open.spotify.com/track/67RVdzQV2voLJu77EZMQe4) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 4:18 | 2022-12-28 | 2023-01-06 |
+| [Promises](https://open.spotify.com/track/2u6XasNryHmfzy9DjXNO9D) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Promises](https://open.spotify.com/album/0ypGTa4ZhiEf0CeNx46APm) | 2:37 | 2024-08-23 |  |
 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 | 2022-12-28 | 2023-01-06 |
 | [Pulling Me Apart](https://open.spotify.com/track/0uPe4dWgfeSBtaJD1QvzTX) | [Andrew Meller](https://open.spotify.com/artist/0kDJVZD3Kwg7YbFXqDI1Gm) | [Pulling Me Apart](https://open.spotify.com/album/5znnpMCOPnCKdk9e0T2M4C) | 6:14 | 2021-08-28 | 2022-04-17 |
 | [Pump](https://open.spotify.com/track/37Jh3OXqliOxKjtl1aO49y) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Pump](https://open.spotify.com/album/6ikpD6RK27kfpo8CPCGUtI) | 3:45 | 2023-06-16 | 2024-02-24 |

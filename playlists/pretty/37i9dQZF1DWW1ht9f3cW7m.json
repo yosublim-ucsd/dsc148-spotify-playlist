@@ -1,6 +1,6 @@
 {
   "description": "the sweetest new indie pop, featuring Kai Bosch \ud83c\udf51",
-  "num_followers": 29318,
+  "num_followers": 29316,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -139,18 +139,22 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Deeply Still In Love",
-        "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
+        "name": "Cigarettes & Wine (feat. Holly Humberstone)",
+        "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
       },
       "artists": [
         {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 242544,
-      "name": "Deeply Still In Love",
-      "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
+      "duration_ms": 181666,
+      "name": "Cigarettes & Wine (feat. Holly Humberstone)",
+      "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -187,22 +191,18 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Cigarettes & Wine (feat. Holly Humberstone)",
-        "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
+        "name": "Deeply Still In Love",
+        "url": "https://open.spotify.com/album/6t5bMYp2CnqgBi6e5bJLKN"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 181666,
-      "name": "Cigarettes & Wine (feat. Holly Humberstone)",
-      "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
+      "duration_ms": 242544,
+      "name": "Deeply Still In Love",
+      "url": "https://open.spotify.com/track/2LNFFF6bEUIcHgXnQE8qVK"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Keep It Up",
-        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 156524,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
         "name": "Brian Cox",
         "url": "https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 176760,
       "name": "Brian Cox",
       "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 156524,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
+        "name": "Happy Customers",
+        "url": "https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 170340,
+      "name": "Happy Customers",
+      "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
         "name": "Hello Lonely",
         "url": "https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 182333,
       "name": "June Baby",
       "url": "https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
-        "name": "Happy Customers",
-        "url": "https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 170340,
-      "name": "Happy Customers",
-      "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Romanticism",
-        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 234234,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
         "name": "The Things We Say",
         "url": "https://open.spotify.com/album/6zyHjq1L4I8yvAStyIfXbZ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 198293,
       "name": "The Things We Say",
       "url": "https://open.spotify.com/track/4XtJalA8M3CVun9WKlKZ9Q"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 234234,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Split Lip",
-        "url": "https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9"
+        "name": "BIG BOYS CRY TOO",
+        "url": "https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo"
       },
       "artists": [
         {
-          "name": "Dolores Forever",
-          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+          "name": "Jo Hill",
+          "url": "https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8"
         }
       ],
-      "duration_ms": 189866,
-      "name": "Split Lip",
-      "url": "https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE"
+      "duration_ms": 205000,
+      "name": "BIG BOYS CRY TOO",
+      "url": "https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "BIG BOYS CRY TOO",
-        "url": "https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo"
+        "name": "Split Lip",
+        "url": "https://open.spotify.com/album/4kMYV9lnrcVFIMWmzOaDn9"
       },
       "artists": [
         {
-          "name": "Jo Hill",
-          "url": "https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8"
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
         }
       ],
-      "duration_ms": 205000,
-      "name": "BIG BOYS CRY TOO",
-      "url": "https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04"
+      "duration_ms": 189866,
+      "name": "Split Lip",
+      "url": "https://open.spotify.com/track/69Ghh9jP9OXebzBtEq6lsE"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -751,22 +751,6 @@
       "duration_ms": 192444,
       "name": "Boys",
       "url": "https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
-        "name": "Girls That Play",
-        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Girls That Play",
-      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -791,18 +775,18 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Palo Alto",
-        "url": "https://open.spotify.com/album/58V5LHqVQrYRLBURRer7aF"
+        "name": "Girls That Play",
+        "url": "https://open.spotify.com/album/1X71C3gwouR1BOm8WA2LFx"
       },
       "artists": [
         {
-          "name": "Eden Rain",
-          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
         }
       ],
-      "duration_ms": 226983,
-      "name": "Palo Alto",
-      "url": "https://open.spotify.com/track/6ZyQkNFk3TgqwtTVMHNp2k"
+      "duration_ms": 202302,
+      "name": "Girls That Play",
+      "url": "https://open.spotify.com/track/6LFKTSenkUPdjtoGk5VIN0"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -823,18 +807,18 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Million Dollar Baby",
-        "url": "https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C"
+        "name": "Palo Alto",
+        "url": "https://open.spotify.com/album/58V5LHqVQrYRLBURRer7aF"
       },
       "artists": [
         {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+          "name": "Eden Rain",
+          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
         }
       ],
-      "duration_ms": 201265,
-      "name": "Million Dollar Baby",
-      "url": "https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU"
+      "duration_ms": 226983,
+      "name": "Palo Alto",
+      "url": "https://open.spotify.com/track/6ZyQkNFk3TgqwtTVMHNp2k"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -851,6 +835,22 @@
       "duration_ms": 190272,
       "name": "Don't Miss It.",
       "url": "https://open.spotify.com/track/0RayQ84I4gGgPtb0PmZEeY"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
+        "name": "Million Dollar Baby",
+        "url": "https://open.spotify.com/album/1KMsICBCmERIbb4GAc5X7C"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "duration_ms": 201265,
+      "name": "Million Dollar Baby",
+      "url": "https://open.spotify.com/track/72B6qv2BQsyM4Mds3iiIyU"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
+        "name": "Different Directions",
+        "url": "https://open.spotify.com/album/7nPBvPzfMqTLP4bepqnjuc"
+      },
+      "artists": [
+        {
+          "name": "The Flints",
+          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
+        }
+      ],
+      "duration_ms": 195933,
+      "name": "Different Directions",
+      "url": "https://open.spotify.com/track/1bEvoQH3OpVMohkh0Aq9Uq"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 272764,
       "name": "Warm Body",
       "url": "https://open.spotify.com/track/4pIhmvniF8QKJBxE0oPQmp"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
-        "name": "Different Directions",
-        "url": "https://open.spotify.com/album/7nPBvPzfMqTLP4bepqnjuc"
-      },
-      "artists": [
-        {
-          "name": "The Flints",
-          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
-        }
-      ],
-      "duration_ms": 195933,
-      "name": "Different Directions",
-      "url": "https://open.spotify.com/track/1bEvoQH3OpVMohkh0Aq9Uq"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "everything still worries me",
-        "url": "https://open.spotify.com/album/5R21eLMhLssDHKCeQ8v4Fc"
-      },
-      "artists": [
-        {
-          "name": "Abbie Ozard",
-          "url": "https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "everything still worries me",
-      "url": "https://open.spotify.com/track/18A3W7O8jAAKiX0WjMGo8o"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
         "name": "How I Wish I Was Cool",
         "url": "https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 194741,
       "name": "Losing By A Landslide",
       "url": "https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
+        "name": "everything still worries me",
+        "url": "https://open.spotify.com/album/5R21eLMhLssDHKCeQ8v4Fc"
+      },
+      "artists": [
+        {
+          "name": "Abbie Ozard",
+          "url": "https://open.spotify.com/artist/03Xxe7sWXZW0NlayYQQHIn"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "everything still worries me",
+      "url": "https://open.spotify.com/track/18A3W7O8jAAKiX0WjMGo8o"
     },
     {
       "added_at": "2024-08-21 13:07:59",

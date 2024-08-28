@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música tradicional y deliciosa! 🍅🌶️🍲🎵👩‍🍳
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,109 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,124 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 38 | [Café Con Pan](https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 4:25 |
 | 39 | [Me Voy Pa'l Pueblo](https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt) | [Los Super Seven](https://open.spotify.com/artist/3G6aMsYTQkix5YQrtuj9hu) | [Canto](https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3) | 5:24 |
 | 40 | [A Su Merced](https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ) | [Liliana Felipe](https://open.spotify.com/artist/4SBHg3uVTZ3UNBDSh96tcV) | [Elotitos Tiernos](https://open.spotify.com/album/3CHxiCxnVaMvLNr94eXJbt) | 6:32 |
-| 41 | [Chicharrones](https://open.spotify.com/track/0wQ2xkadkllQgL1mVQ4rSE) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Guantanamera \- The Essential Album](https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU) | 4:30 |
-| 42 | [Batazo Batero](https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr) | [Los Propios Bateros](https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC) | [Batazo Batero](https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM) | 4:58 |
+| 41 | [Batazo Batero](https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr) | [Los Propios Bateros](https://open.spotify.com/artist/27lsT9bLRBVy2lNW7DwmeC) | [Batazo Batero](https://open.spotify.com/album/5ajMRxW6NnJUUl3tq0WzFM) | 4:58 |
+| 42 | [Chicharrones](https://open.spotify.com/track/0wQ2xkadkllQgL1mVQ4rSE) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Guantanamera \- The Essential Album](https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU) | 4:30 |
 | 43 | [Corazon](https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [This Time](https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9) | 4:05 |
 | 44 | [Arroz Con Frijoles](https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 4:01 |
 | 45 | [Luna Negra \- Live](https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [Live At The First Annual San Francisco Son Jarocho Festival](https://open.spotify.com/album/5OFT3JolZgTwmIRLTEXtDN) | 9:05 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 62 | [Cumbia Pa Modernos](https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB) | [Charanga Cakewalk](https://open.spotify.com/artist/6n57hcHUAiNVQ8CwSOz2SN) | [El Brown Recluse](https://open.spotify.com/album/1nZ9k3BHISZbbTy3uIMV7O) | 4:19 |
 | 63 | [Jacarandosa \- Remastered](https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Por siempre Los Panchos, Vol\. 1 \- Noche de ronda y otros éxitos \(Remastered\)](https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8) | 3:06 |
 | 64 | [Caramelos](https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH) | [Celia Cruz y La Sonora Matancera](https://open.spotify.com/artist/3WaTkjZxpbGDryRuQTtj1g) | [Los Originales Vol\. 3](https://open.spotify.com/album/39Xoa9wbneSzbysFRzkVmw) | 2:37 |
-| 65 | [Maria Cristina \- Remastered](https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl) | [Ñico Saquito](https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi) | [María Cristina \(Remastered\)](https://open.spotify.com/album/0DoO50j6mZVJ3W7vf1YRW3) | 2:38 |
-| 66 | [Mangos](https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Dedicated To Nelson](https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C) | 2:45 |
+| 65 | [Mangos](https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9) | [Rosemary Clooney](https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK) | [Dedicated To Nelson](https://open.spotify.com/album/3RUASfTxsMb16WXKKcue8C) | 2:45 |
+| 66 | [Maria Cristina \- Remastered](https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl) | [Ñico Saquito](https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi) | [María Cristina \(Remastered\)](https://open.spotify.com/album/0DoO50j6mZVJ3W7vf1YRW3) | 2:38 |
 | 67 | [Bossa Cubana](https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k) | [Los Zafiros](https://open.spotify.com/artist/20hjMyNIdXmSMFau9ZkmU6) | [15 Éxitos de los Zafiros](https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj) | 2:32 |
 | 68 | [Allo Mambo](https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx) | [Karl Zéro](https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M) | [Songs for Moonlight Swim and Otros Tipos de Ocupaciones](https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni) | 2:45 |
 | 69 | [María Cristina \- Remastered](https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Los 22 Grandes Éxitos de Pérez Prado \(Remastered\)](https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo) | 2:27 |

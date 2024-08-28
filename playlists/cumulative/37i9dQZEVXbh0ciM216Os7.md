@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,633 songs - 4 day 8 hr 11 min
+1,634 songs - 4 day 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1405,7 +1405,8 @@
 | [The Orange Cat's Special Time Outdoors](https://open.spotify.com/track/7dFv3bot0kaUgcfrogHMKi) | [Yo Gabba Gabba](https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Yo Gabba GabbaLand!](https://open.spotify.com/album/66LTCZb9PLOyW5usX4cCq4) | 1:36 | 2024-08-09 |  |
 | [the ordinary is ordinary because it ordinarily repeats](https://open.spotify.com/track/449OoXofxirwe5w2YqRrQM) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [the ordinary is ordinary because it ordinarily repeats](https://open.spotify.com/album/1sLaCmkko1by5rgaqo15fv) | 6:17 | 2023-02-10 | 2023-02-19 |
 | [The Precision Of Infinity](https://open.spotify.com/track/0deJe09XxL1usW0WCKiT5S) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA), [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Precision Of Infinity](https://open.spotify.com/album/2RD5ym22K355PAGIEUkH78) | 4:40 | 2024-01-19 | 2024-01-27 |
-| [The Punishment \(Lockdown\)](https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [The Punishment \(Lockdown\)](https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB) | 3:15 | 2024-08-02 |  |
+| [The Punishment \(Lockdown\)](https://open.spotify.com/track/38FrWOJ9XF02MBgHugoNPJ) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [The Punishment \(Lockdown\)](https://open.spotify.com/album/0j1wTQOQyMjpBXsA0loQFB) | 3:15 | 2024-08-02 | 2024-08-28 |
+| [The Punishment \(Lockdown\)](https://open.spotify.com/track/5in6IhZHVwfTyvsvjXJYUG) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [The Punishment \(Lockdown\)](https://open.spotify.com/album/6mAr4fsqyHYn5fzF26TOpl) | 3:15 | 2024-08-23 |  |
 | [The Real A \(WHTA\) \[feat\. Skooly\]](https://open.spotify.com/track/4Yp8G0ryuun0v1dRHtMNcH) | [Yung Booke](https://open.spotify.com/artist/5WN6nHqU0WhBKCcbJXkSej), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [The Real A \(WHTA\) \[feat\. Skooly\]](https://open.spotify.com/album/53Dw3Stif7Z9kGdDDBBJut) | 3:24 | 2023-03-17 | 2023-04-09 |
 | [The Rebels \(ALT\)](https://open.spotify.com/track/575RkvVvCqOYVqNviE5nLM) | [The Band of the Hawk](https://open.spotify.com/artist/7kvO0gXOUxmL9Ff2q2L3AU), [Inspectah Deck](https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO) | [There Is No Tomorrow](https://open.spotify.com/album/7iaWvTQc5VwQ2JYLgPQuST) | 1:59 | 2024-04-05 | 2024-04-07 |
 | [The Red Moon In Osaka](https://open.spotify.com/track/0q2wkUkaCy9tM9QzPVt97f) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Slant Face Killah](https://open.spotify.com/album/2If4aVsZl3y3bzPT4lcvPh) | 6:56 | 2024-06-07 | 2024-06-09 |

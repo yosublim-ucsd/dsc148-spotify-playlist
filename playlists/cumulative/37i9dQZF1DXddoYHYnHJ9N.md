@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: BSW, ByeAlex és a Slepp
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: Moriones
 
-63 songs - 3 hr 2 min
+64 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [PANNONIA](https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw), [Young Fly](https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [BAKPAKK](https://open.spotify.com/album/0rxSEyr7JxVRxuUMtZ5eRT) | 2:27 | 2024-08-13 |  |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-07-01 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 | 2024-08-14 |
-| [RÓLAD SZÓL](https://open.spotify.com/track/5doAzQzWfbAWMvh2eXxvdf) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [RÓLAD SZÓL](https://open.spotify.com/album/6cadt4eRkdA10HpjTJbcG3) | 2:39 | 2024-07-01 |  |
+| [PROSECCO](https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [NINCS HOLNAP](https://open.spotify.com/album/6AyiuFMhfiuveQuKEi49Dd) | 2:10 | 2024-08-27 |  |
+| [RÓLAD SZÓL](https://open.spotify.com/track/5doAzQzWfbAWMvh2eXxvdf) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [RÓLAD SZÓL](https://open.spotify.com/album/6cadt4eRkdA10HpjTJbcG3) | 2:39 | 2024-07-01 | 2024-08-28 |
 | [SE VELED SE NÉLKÜLED](https://open.spotify.com/track/2hIPLce6sektBjU3YsePqQ) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5), [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp) | [SE VELED SE NÉLKÜLED](https://open.spotify.com/album/6TgqXMKR7FmgeOaiWQJVOp) | 2:22 | 2024-07-01 |  |
 | [seholse](https://open.spotify.com/track/3NSBh6qLvHPHMVoj4ET5Rc) | [Filo](https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee), [Apu](https://open.spotify.com/artist/5KQXF7taFJ2PZntyJuiydN) | [seholse](https://open.spotify.com/album/4Tn7GiPLNrlrbadZRiZiKI) | 2:19 | 2024-07-01 |  |
 | [Smash!](https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK) | [ekhoe](https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM) | [Sose Alszok](https://open.spotify.com/album/4eloCXvAWlCJnXFS7VF1Wy) | 2:24 | 2024-07-01 | 2024-08-14 |

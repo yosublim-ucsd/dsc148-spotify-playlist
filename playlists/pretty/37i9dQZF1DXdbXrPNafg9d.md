@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Mk.gee
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,831 likes - 181 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,899 likes - 181 songs - 10 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

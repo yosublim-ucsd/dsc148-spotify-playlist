@@ -1,12 +1,12 @@
 {
-  "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
-  "num_followers": 120952,
+  "description": "This is Greeicy. Tutti i brani in un'unica playlist.",
+  "num_followers": 120985,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACtl1nQjSj3gtOF2mkItBdQ",
+  "snapshot_id": "ZsvFgAAAAAAwfYS3dQtpQhMPyRC0bZB9",
   "tracks": [
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 129106,
-      "name": "Tal vez",
-      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
+      "duration_ms": 154786,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 154786,
-      "name": "Que me quiera",
-      "url": "https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6"
+      "duration_ms": 129106,
+      "name": "Tal vez",
+      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
     },
     {
       "added_at": null,

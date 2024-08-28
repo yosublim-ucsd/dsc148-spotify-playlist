@@ -976,7 +976,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 191020,
       "name": "Choti Choti Mulakatein (Futurewave Season 1)",
       "url": "https://open.spotify.com/track/0cNMhSjiqXkIBFsewKY28y"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 152451,
       "name": "Dheere Dheere",
       "url": "https://open.spotify.com/track/1i1Ew3JJhufofKiGdmUUXa"
@@ -4788,7 +4788,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 180374,
       "name": "Suttebaaz Haseena",
       "url": "https://open.spotify.com/track/5FUGJeS2VGFPc8JAP1SUgs"
@@ -4850,7 +4850,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 204000,
       "name": "Tera Mera Viah",
       "url": "https://open.spotify.com/track/3TG0iwvXpzFbFck6d2Xlpw"
@@ -5516,7 +5516,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 251139,
       "name": "Tuu - From \"Auron Mein Kahan Dum Tha\"",
       "url": "https://open.spotify.com/track/2NMdR5LFOAO7HKWyXG9xgK"
@@ -5734,6 +5734,28 @@
       "duration_ms": 196043,
       "name": "Vaaste",
       "url": "https://open.spotify.com/track/0mJTAdmY8olbGQjopDYff3"
+    },
+    {
+      "album": {
+        "name": "Vekh Sohneyaa - From \"Call Me Bae\"",
+        "url": "https://open.spotify.com/album/23eaFv7tdDjiPmdv5nQKj1"
+      },
+      "artists": [
+        {
+          "name": "Charan",
+          "url": "https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65"
+        },
+        {
+          "name": "Bombay the Artist",
+          "url": "https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216465,
+      "name": "Vekh Sohneyaa (From \"Call Me Bae\")",
+      "url": "https://open.spotify.com/track/2RelZc0EwHPsVwrW6B6taZ"
     },
     {
       "album": {

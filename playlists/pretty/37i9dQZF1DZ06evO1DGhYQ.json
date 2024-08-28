@@ -1,12 +1,12 @@
 {
-  "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 7706,
+  "description": "This Is ALI. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 7711,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACNOiYHJNFZdtDFk1HFe5h5",
+  "snapshot_id": "ZsvFgAAAAAAiSruaXLr8eHJQbLvBLhiS",
   "tracks": [
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 277700,
-      "name": "LONELY LONELY",
-      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
+      "duration_ms": 189466,
+      "name": "Jungle Love",
+      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Side",
-        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Jungle Love",
-      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
+      "duration_ms": 277700,
+      "name": "LONELY LONELY",
+      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
     },
     {
       "added_at": null,

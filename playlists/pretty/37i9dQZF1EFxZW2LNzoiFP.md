@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 69 | [Drugs](https://open.spotify.com/track/7M6OVjQ0stYHLMciIYseHN) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [The Sky Is Bleeding](https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib) | 3:38 |
 | 70 | [woozy](https://open.spotify.com/track/2OJpoFLYK2ZZdxbZX7t7ul) | [Good Scott](https://open.spotify.com/artist/7hu7hjmIPOtU1S3D8zfBlw) | [fka kyko EP](https://open.spotify.com/album/08Uz0ACnlwb9o4cdy6ylyN) | 2:51 |
 | 71 | [Justify](https://open.spotify.com/track/43iP1mpb3RHifrt8sHGKi4) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:04 |
-| 72 | [Como Si](https://open.spotify.com/track/593prmaxSVWSGOx0UJwMcU) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:23 |
-| 73 | [More or Less](https://open.spotify.com/track/245wE0alBsD7324R2Xm7uh) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 3:20 |
+| 72 | [More or Less](https://open.spotify.com/track/245wE0alBsD7324R2Xm7uh) | [TENDER](https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm) | [Fear of Falling Asleep](https://open.spotify.com/album/7GoPa8H2OoqADzSwrFwyHy) | 3:20 |
+| 73 | [Como Si](https://open.spotify.com/track/593prmaxSVWSGOx0UJwMcU) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:23 |
 | 74 | [Tokyo](https://open.spotify.com/track/0sKPeFueWGKbLDxd6DkTzu) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Tokyo](https://open.spotify.com/album/53HIhnB6r9p1JUh6fTY4J5) | 4:13 |
 | 75 | [Roll The Credits](https://open.spotify.com/track/03WIi0grexVN7XZ8zXz3L0) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave \(Deluxe\)](https://open.spotify.com/album/3vn3IDQmq7rbQ9UZdCYrpK) | 4:13 |
 | 76 | [AM To PM](https://open.spotify.com/track/1RwQQnAsDCEXoK4C82rVcD) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [AM To PM](https://open.spotify.com/album/3GiH0Wp41i3UxeQwTTPQ1x) | 3:29 |
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 137 | [Vines](https://open.spotify.com/track/6HjzcRvJrPCPb9Sm4EhKwk) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Vines](https://open.spotify.com/album/7zjWTxQoonrrKIpls4TFaS) | 3:51 |
 | 138 | [Summer Sadness](https://open.spotify.com/track/4C75bptwmKumfNf655piPr) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:29 |
 | 139 | [The Heat](https://open.spotify.com/track/7sWG0VcHMYPmwSEIFCBkHe) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:11 |
-| 140 | [Purple Candy Glow](https://open.spotify.com/track/2lTsw84jqXpQs57N6bISs3) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:34 |
-| 141 | [Safe Space](https://open.spotify.com/track/1w0COwGOGeLdh00Ntiylvl) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:28 |
+| 140 | [Safe Space](https://open.spotify.com/track/1w0COwGOGeLdh00Ntiylvl) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:28 |
+| 141 | [Purple Candy Glow](https://open.spotify.com/track/2lTsw84jqXpQs57N6bISs3) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:34 |
 | 142 | [Demons](https://open.spotify.com/track/0dZ7VZnKG6QBxBEcVSEMou) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 1:44 |
 | 143 | [Take It Easy](https://open.spotify.com/track/7f5IZibzWCT9QFfWcuod1s) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [Take It Easy](https://open.spotify.com/album/6scYCCGcXvtyOqClQxK0BM) | 3:44 |
 | 144 | [Open House](https://open.spotify.com/track/1JDkCStrVPtg6Ni8Z1L3TR) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:52 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 216 | [Beachwood House](https://open.spotify.com/track/58YlAaGyATujqf7DYJW9XR) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [From the Rafters](https://open.spotify.com/album/0lAFM1Ylrf6KLSEWJO3vb3) | 3:20 |
 | 217 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `Abae/QAAAAB+azKCEpercsesyiyuj9Ws`
+Snapshot ID: `AbaknQAAAADP+hkWxeNRzbc+lDOe6+ls`

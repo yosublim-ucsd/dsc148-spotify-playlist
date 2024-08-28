@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Royal\n",
-  "num_followers": 58727,
+  "num_followers": 58751,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsbLMwAAAAATvmHiV00RloiVNNtlL1js",
+  "snapshot_id": "Zs2CzwAAAAARnJ32/4CZv3E0dU0jVwf0",
   "tracks": [
     {
       "added_at": "2024-08-14 12:15:59",
@@ -99,6 +99,46 @@
       "duration_ms": 232221,
       "name": "SteppaMaar (Kannada)",
       "url": "https://open.spotify.com/track/4P3xUiFpxD3T3niGugmLXT"
+    },
+    {
+      "added_at": "2024-08-27 07:37:09",
+      "album": {
+        "name": "Kali Agiru (From \"Kapati\")",
+        "url": "https://open.spotify.com/album/5EC3dhWKujG0yg7ViCcELY"
+      },
+      "artists": [
+        {
+          "name": "Arpith Gowda",
+          "url": "https://open.spotify.com/artist/1nawgXH7klbP2VoUR3Ybae"
+        },
+        {
+          "name": "Johan Shevanesh",
+          "url": "https://open.spotify.com/artist/6o8E6PZY8PvJP3zu0XkAIF"
+        }
+      ],
+      "duration_ms": 192719,
+      "name": "Kali Agiru (From \"Kapati\")",
+      "url": "https://open.spotify.com/track/2yt6XmbILJTQBAs6u8re1l"
+    },
+    {
+      "added_at": "2024-08-27 07:39:47",
+      "album": {
+        "name": "Sa Ri Ma Pa - From \"Surya's Saturday (Kannada)\"",
+        "url": "https://open.spotify.com/album/0htszhQOnH430Y49p4i9uR"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "P V N S Rohit",
+          "url": "https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ"
+        }
+      ],
+      "duration_ms": 278851,
+      "name": "Sa Ri Ma Pa (From \"Surya's Saturday (Kannada)\")",
+      "url": "https://open.spotify.com/track/6cerKLtZSXTIyW7tfbAjCP"
     },
     {
       "added_at": "2024-08-06 12:30:20",
@@ -1677,26 +1717,6 @@
       "url": "https://open.spotify.com/track/4VXd4eaSVlFGML8P4TrFEv"
     },
     {
-      "added_at": "2024-07-02 10:56:28",
-      "album": {
-        "name": "Garam Garam [From \"Surya's Saturday (Kannada)\"]",
-        "url": "https://open.spotify.com/album/5DsW3QzlUGGdOkQxUe8ZVC"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Sivam",
-          "url": "https://open.spotify.com/artist/52yAITEPYVr5ZEQL0KJyQX"
-        }
-      ],
-      "duration_ms": 252342,
-      "name": "Garam Garam (From \"Surya's Saturday (Kannada)\")",
-      "url": "https://open.spotify.com/track/1Amjs9p6U29wu2pvtiRgHh"
-    },
-    {
       "added_at": "2024-07-01 12:40:21",
       "album": {
         "name": "SteppaMaar (From \"Double ISMART \")(Kannada)",
@@ -1723,30 +1743,6 @@
       "duration_ms": 232221,
       "name": "SteppaMaar (From \"Double ISMART \")(Kannada)",
       "url": "https://open.spotify.com/track/3kLBHcjJIkbIq60qznve2v"
-    },
-    {
-      "added_at": "2024-06-28 08:44:31",
-      "album": {
-        "name": "Alla Subhanalla (From \"Kaagada\")",
-        "url": "https://open.spotify.com/album/4EDaITycwfPtBaqBoSZX6W"
-      },
-      "artists": [
-        {
-          "name": "S. Pradeep Varma",
-          "url": "https://open.spotify.com/artist/2uutftgiWJixzeOj5zS10G"
-        },
-        {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
-        },
-        {
-          "name": "Harsha Ranjani",
-          "url": "https://open.spotify.com/artist/3XX0zqJh3YRGqZdde6TmVS"
-        }
-      ],
-      "duration_ms": 188634,
-      "name": "Alla Subhanalla (From \"Kaagada\")",
-      "url": "https://open.spotify.com/track/1rRzMRutqcgIU9sVog1Gkz"
     },
     {
       "added_at": "2024-06-28 13:32:04",

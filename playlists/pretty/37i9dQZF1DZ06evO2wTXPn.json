@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 30793,
+  "num_followers": 30802,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAAGELwM7W8hWGNssdH9I/xJ",
+  "snapshot_id": "ZsvFgAAAAAC42EpfKxWThrQwfoRuTjVb",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Las Ganas",
-        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "Con Las Ganas",
-      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 189013,
       "name": "Encima De Mil",
       "url": "https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Las Ganas",
+        "url": "https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "Con Las Ganas",
+      "url": "https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB"
     },
     {
       "added_at": null,
@@ -431,30 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "la vida viene y va",
-        "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Marcos Menchaca",
-          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
-        }
-      ],
-      "duration_ms": 215872,
-      "name": "la vida viene y va",
-      "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Mill\u00f3n Como T\u00fa (Versi\u00f3n Ac\u00fastica)",
         "url": "https://open.spotify.com/album/6ry4Fp9pZ6hWf5opR2Vj74"
       },
@@ -475,6 +451,30 @@
       "duration_ms": 279933,
       "name": "Un Mill\u00f3n Como T\u00fa - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1oZ2hDOn8rJFQdFKQ9HXTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "la vida viene y va",
+        "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Marcos Menchaca",
+          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+        }
+      ],
+      "duration_ms": 215872,
+      "name": "la vida viene y va",
+      "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 148666,
-      "name": "Volver A Verte",
-      "url": "https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Su Amor (with KURT)",
         "url": "https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 221336,
       "name": "Por Su Amor (with KURT)",
       "url": "https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 148666,
+      "name": "Volver A Verte",
+      "url": "https://open.spotify.com/track/1yFBLCLb6XsAsX9sSmtauZ"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "No Lo Est\u00e1s Logrando",
-      "url": "https://open.spotify.com/track/6igvaOfudVPnEDmla4AQDR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jodido Sin Ti",
         "url": "https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 165106,
       "name": "Jodido Sin Ti",
       "url": "https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "No Lo Est\u00e1s Logrando",
+      "url": "https://open.spotify.com/track/6igvaOfudVPnEDmla4AQDR"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 158280,
-      "name": "911",
-      "url": "https://open.spotify.com/track/4DDqijaAJHApGIc2s9hxQW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Dealer",
         "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 204511,
       "name": "YA VA A VENIR",
       "url": "https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 158280,
+      "name": "911",
+      "url": "https://open.spotify.com/track/4DDqijaAJHApGIc2s9hxQW"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B\u00f3rrame",
-        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "B\u00f3rrame",
-      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se\u00f1al",
         "url": "https://open.spotify.com/album/3wJjZt16p9NP1Y9TXUmHOc"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 245600,
       "name": "Se\u00f1al",
       "url": "https://open.spotify.com/track/4kYMirYX6XMi850Ecp44Io"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B\u00f3rrame",
+        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "B\u00f3rrame",
+      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
     },
     {
       "added_at": null,

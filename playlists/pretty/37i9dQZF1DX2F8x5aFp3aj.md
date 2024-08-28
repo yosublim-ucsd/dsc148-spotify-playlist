@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. The Cure en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,010 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,165 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 3 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 4 | [Don't You Want Me](https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 3:56 |
 | 5 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
-| 6 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
-| 7 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 |
+| 6 | [Beds Are Burning \- Remastered](https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 4:15 |
+| 7 | [I'll Stand by You](https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Last of the Independents](https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf) | 4:00 |
 | 8 | [Just What I Needed](https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [The Cars](https://open.spotify.com/album/4tJPWT4r4FSKwy784Qs1Fq) | 3:45 |
 | 9 | [How Soon Is Now? \- 2011 Remaster](https://open.spotify.com/track/1YrnDTqvcnUKxAIeXyaEmU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 6:48 |
 | 10 | [Owner of a Lonely Heart](https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [90125 \(Deluxe Version\)](https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz) | 4:28 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 51 | [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/1BZMMt9H0TheQGWQy44KmO) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [All Four One \(Remastered 1999\)](https://open.spotify.com/album/1HRjCO61kfHWX3Atps1lQz) | 3:16 |
 | 52 | [Dear Prudence](https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \- Remastered And Expanded](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 3:48 |
 | 53 | [I Ran \(So Far Away\) \- Single Edit](https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 3:39 |
-| 54 | [Slave To Love](https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [More Than This \- The Best Of Bryan Ferry And Roxy Music](https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im) | 4:19 |
-| 55 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 |
+| 54 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 |
+| 55 | [Slave To Love](https://open.spotify.com/track/7imzBhHn7KD6ag3letxmSt) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [More Than This \- The Best Of Bryan Ferry And Roxy Music](https://open.spotify.com/album/7MCxE9Sx4zHSXL4xXHm4Im) | 4:19 |
 | 56 | [You're the Voice](https://open.spotify.com/track/74FxcLdSWEeRJKFC7Jqpj6) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Greatest Hits](https://open.spotify.com/album/1C5eSIfft6FjRE1XWu240M) | 5:02 |
 | 57 | [Sailing On The Seven Seas](https://open.spotify.com/track/30R6QDPKZCeepPj3hSmQvp) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Sugar Tax](https://open.spotify.com/album/1J8e1dLKVmZbsyxpGa9lGg) | 3:45 |
 | 58 | [This Is the Day](https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [London Town 1983\-1993](https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8) | 4:57 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2F8x5aFp3aj.md) - [plain]
 | 67 | [Leave It](https://open.spotify.com/track/3qSlbAE7VfK1AVyxfoHNJZ) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [90125 \(Deluxe Version\)](https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz) | 4:13 |
 | 68 | [Pearly\-Dewdrops' Drops \- 7" Version](https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [The Pink Opaque](https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3) | 4:10 |
 | 69 | [Planet Claire](https://open.spotify.com/track/5aC0QmgjYGG8QYgAg06nTk) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [The B\-52's](https://open.spotify.com/album/3eXETk1esvZPRluDCWH3GN) | 4:37 |
-| 70 | [Twist in My Sobriety](https://open.spotify.com/track/651In9fY9BregQWY0cF7l2) | [Tanita Tikaram](https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8) | [Ancient Heart](https://open.spotify.com/album/7E54UsiVFMQuIAG9t5UOL4) | 4:52 |
-| 71 | [Englishman In New York](https://open.spotify.com/track/5Uf0llmR4IIkyOzkgINbL5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB) | 4:26 |
+| 70 | [Englishman In New York](https://open.spotify.com/track/5Uf0llmR4IIkyOzkgINbL5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Very Best Of Sting And The Police](https://open.spotify.com/album/0psHZUD4dKFmxEfEmGRCLB) | 4:26 |
+| 71 | [Twist in My Sobriety](https://open.spotify.com/track/651In9fY9BregQWY0cF7l2) | [Tanita Tikaram](https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8) | [Ancient Heart](https://open.spotify.com/album/7E54UsiVFMQuIAG9t5UOL4) | 4:52 |
 | 72 | [Butterfly On A Wheel](https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Carved In Sand](https://open.spotify.com/album/62pkk3ia1TFY68cBrvfmqC) | 5:40 |
 | 73 | [When Tomorrow Comes](https://open.spotify.com/track/6UmFGunWzNoe7gSS3JW90v) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Greatest Hits](https://open.spotify.com/album/4C8ZTw8EremXeccyDjUQQC) | 4:15 |
 | 74 | [I Still Haven't Found What I'm Looking For \- Remastered 2007](https://open.spotify.com/track/72AO8u6lcjKp0CBeaPZT8I) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 4:37 |

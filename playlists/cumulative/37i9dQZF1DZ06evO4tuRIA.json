@@ -208,7 +208,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 168519,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/2kDspygoquCoFkJDEc7boN"
@@ -1138,6 +1138,28 @@
       "duration_ms": 191843,
       "name": "Pateando Latas",
       "url": "https://open.spotify.com/track/3yQXmNacfHANLuaK5qomxz"
+    },
+    {
+      "album": {
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Poncho Conos",
+      "url": "https://open.spotify.com/track/6L2ugDskedkgyiLYztaFj8"
     },
     {
       "album": {

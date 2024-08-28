@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 84 | [phones in heaven](https://open.spotify.com/track/7vGaC9ntTMniIqdBeu1h6m) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [hi, my name is insecure.](https://open.spotify.com/album/0eMtRVx589kCihum41ixGw) | 2:17 |
 | 85 | [100 Ways \- MK Remix](https://open.spotify.com/track/1NDFWFXR8Jctvpm6vxZRFJ) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [100 Ways \(MK Remix\)](https://open.spotify.com/album/5kHChDjJaFpPwedDPqkWJ6) | 3:51 |
 | 86 | [Astigmat](https://open.spotify.com/track/5oud72cHdYaWQMm9dSDfSt) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Astigmat](https://open.spotify.com/album/1laJjbZByltQYDI5Ebz2LC) | 3:03 |
-| 87 | [Too Bad](https://open.spotify.com/track/3EBTLya5cgk5YP2JI7i7gI) | [HEX](https://open.spotify.com/artist/2XfxJqzWxfNSBNIdmVeNLI) | [Too Bad](https://open.spotify.com/album/2QJPtGoiiZgNHjUx94Nz3p) | 3:11 |
-| 88 | [Not A Lot Left To Say](https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp), [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Not A Lot Left To Say](https://open.spotify.com/album/33gAqq0P3nggfOQoSK9YQJ) | 2:05 |
+| 87 | [Not A Lot Left To Say](https://open.spotify.com/track/5eNSMklKlKJGwyc8ucG2fv) | [needanamebro](https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp), [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Not A Lot Left To Say](https://open.spotify.com/album/33gAqq0P3nggfOQoSK9YQJ) | 2:05 |
+| 88 | [Too Bad](https://open.spotify.com/track/3EBTLya5cgk5YP2JI7i7gI) | [HEX](https://open.spotify.com/artist/2XfxJqzWxfNSBNIdmVeNLI) | [Too Bad](https://open.spotify.com/album/2QJPtGoiiZgNHjUx94Nz3p) | 3:11 |
 | 89 | [Katakulli](https://open.spotify.com/track/1KEnr4kN9ICCoBswwUfs3V) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb) | [Hoppa \(pt\. 2\)](https://open.spotify.com/album/5fokZDlNCQwtgXtsths7AC) | 2:12 |
 | 90 | [Radio](https://open.spotify.com/track/5vV9BdGnoBvfoCLThYfaSJ) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:28 |
 | 91 | [U Dnt Fk Me Up](https://open.spotify.com/track/6e4ixOLC0odrzT2UvDravh) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [U Dnt Fk Me Up](https://open.spotify.com/album/3sR01bZudXMyh627XLxn15) | 2:45 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 114 | [Beachgrass](https://open.spotify.com/track/0Hq9LR4QzB39RvrngZpzbA) | [HEAD BALLET](https://open.spotify.com/artist/1YWp4o7h26JLnz5strYI0E) | [Suddenly It's Making Sense](https://open.spotify.com/album/1qxtSUzztfc1zPouYoDDsI) | 2:39 |
 | 115 | [Machu Picchu](https://open.spotify.com/track/44Uo9mTbDfmpy2PTL3KuUD) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Machu Picchu](https://open.spotify.com/album/5q6YYFkNQzffl1IYxgoD47) | 2:48 |
 
-Snapshot ID: `AbaezAAAAACgsjmbALmrNMDJuP0KD8ZG`
+Snapshot ID: `AbakqAAAAAAGRjdRu6IF78RLymISBnyH`

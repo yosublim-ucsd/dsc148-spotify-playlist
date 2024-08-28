@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1970s. Cover: ABBA",
-  "num_followers": 5635429,
+  "num_followers": 5635697,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 214240,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 271240,
       "name": "I Was Made For Lovin' You",
       "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 214240,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -379,18 +379,18 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+        "name": "Stealers Wheel",
+        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
       },
       "artists": [
         {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
         }
       ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
+      "duration_ms": 208946,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -431,18 +431,18 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Stealers Wheel",
-        "url": "https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll"
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
       "artists": [
         {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
         }
       ],
-      "duration_ms": 208946,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT"
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
         "name": "Goodbye Yellow Brick Road - Remastered",
         "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Talking Heads '77 (Deluxe Version)",
         "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 261413,
       "name": "Psycho Killer - 2005 Remaster",
       "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 174826,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 174826,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 300400,
       "name": "Baba O'Riley",
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "\"Heroes\" (2017 Remaster)",
         "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "What You Won't Do for Love",
-        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
-      },
-      "artists": [
-        {
-          "name": "Bobby Caldwell",
-          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "What You Won't Do for Love",
-      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "London Calling (Remastered)",
         "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 200480,
       "name": "London Calling - Remastered",
       "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "What You Won't Do for Love",
+        "url": "https://open.spotify.com/album/4pBJRxtR5TQe8hfsUgZ1r2"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "duration_ms": 286493,
+      "name": "What You Won't Do for Love",
+      "url": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
+        "name": "City to City",
+        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 267773,
+      "name": "Right Down the Line",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "The Logical Song - Remastered 2010",
-      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
         "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "The Logical Song - Remastered 2010",
+      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Goats Head Soup - Remastered 2009",
-        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Angie - Remastered 2009",
-      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Foreigner (Expanded)",
         "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 203133,
       "name": "Cold as Ice",
       "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Goats Head Soup - Remastered 2009",
+        "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Angie - Remastered 2009",
+      "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
       "artists": [
         {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
         }
       ],
-      "duration_ms": 423840,
-      "name": "Layla",
-      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
+      "duration_ms": 196826,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Bellamy Brothers",
-        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
       },
       "artists": [
         {
-          "name": "The Bellamy Brothers",
-          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
         }
       ],
-      "duration_ms": 196826,
-      "name": "Let Your Love Flow",
-      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+      "duration_ms": 423840,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/2kkvB3RNRzwjFdGhaUA0tz"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Billy Ocean (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "Love Really Hurts Without You",
-      "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "L.A. Woman",
         "url": "https://open.spotify.com/album/7IKUTIc9UWuVngyGPtqNHS"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 434720,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Billy Ocean (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Love Really Hurts Without You",
+      "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
         "name": "Band On The Run (Standard)",
         "url": "https://open.spotify.com/album/257oomaawruFknt5wYCPDh"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 313026,
       "name": "Band On The Run - 2010 Remaster",
       "url": "https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 258834,
-      "name": "Lean on Me",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
     },
     {
       "added_at": "2024-05-25 02:25:59",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-05-25 02:25:59",
       "album": {
-        "name": "Hunky Dory (2015 Remaster)",
-        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Life on Mars? - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
-    },
-    {
-      "added_at": "2024-05-25 02:25:59",
-      "album": {
         "name": "Peter Gabriel 1: Car (Remastered)",
         "url": "https://open.spotify.com/album/0kDFjyfGFtiIMXlxJ120Ok"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 261560,
       "name": "Solsbury Hill",
       "url": "https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy"
+    },
+    {
+      "added_at": "2024-05-25 02:25:59",
+      "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Life on Mars? - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
     },
     {
       "added_at": "2024-05-25 02:25:59",

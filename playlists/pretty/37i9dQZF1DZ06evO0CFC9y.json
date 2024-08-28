@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 33842,
+  "num_followers": 33847,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAASYzIWB0OoBxzijxI0g80v",
+  "snapshot_id": "ZsvFgAAAAAAJ+prGu5M4pm0HPjR//Nog",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Very Proud of Ya",
-        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 108773,
-      "name": "File 13",
-      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
+      "duration_ms": 140579,
+      "name": "Begging For Trouble",
+      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 140579,
-      "name": "Begging For Trouble",
-      "url": "https://open.spotify.com/track/19elq0F6glRZAResdR1XTR"
+      "duration_ms": 108773,
+      "name": "File 13",
+      "url": "https://open.spotify.com/track/6Oy5crRGUAPCya3orxspx7"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFI (The Blood Album)",
-        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 169333,
-      "name": "Still A Stranger",
-      "url": "https://open.spotify.com/track/1HaO9YHxYtAtvNcyBidxqE"
+      "duration_ms": 128106,
+      "name": "The Checkered Demon",
+      "url": "https://open.spotify.com/track/2R4UzHDZoMLnvHIFEvPCTC"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+        "name": "AFI (The Blood Album)",
+        "url": "https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 128106,
-      "name": "The Checkered Demon",
-      "url": "https://open.spotify.com/track/2R4UzHDZoMLnvHIFEvPCTC"
+      "duration_ms": 169333,
+      "name": "Still A Stranger",
+      "url": "https://open.spotify.com/track/1HaO9YHxYtAtvNcyBidxqE"
     },
     {
       "added_at": null,

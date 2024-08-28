@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Wild Rivers",
-  "num_followers": 79557,
+  "num_followers": 79578,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Please Slow Down",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 163324,
+      "name": "Please Slow Down",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Long Way Home",
         "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 194869,
       "name": "You Could Start A Cult (with Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Please Slow Down",
-        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 163324,
-      "name": "Please Slow Down",
-      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Wishes",
-        "url": "https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1"
+        "name": "All For Something",
+        "url": "https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm"
       },
       "artists": [
         {
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 249138,
-      "name": "Wishes",
-      "url": "https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi"
+      "duration_ms": 241152,
+      "name": "Malleable",
+      "url": "https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH"
     },
     {
       "added_at": "2024-08-23 04:00:00",

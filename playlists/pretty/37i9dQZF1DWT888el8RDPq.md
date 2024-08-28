@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 
 > canzoni felici italiane e internazionali per un'estate presa bene
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,601 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,593 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 64 | [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 |
 | 65 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
 | 66 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 |
-| 67 | [Hundred Miles](https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ) | [YALL](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Hundred Miles](https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde) | 2:52 |
-| 68 | [Guasto D'Amore](https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Guasto D'Amore](https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7) | 3:20 |
+| 67 | [Guasto D'Amore](https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Guasto D'Amore](https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7) | 3:20 |
+| 68 | [Hundred Miles](https://open.spotify.com/track/38muRUB5vaK3pW0Iu4A0iZ) | [YALL](https://open.spotify.com/artist/0ZRBa9pTfhhCsJW95F1ugg), [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [Hundred Miles](https://open.spotify.com/album/7E9LC8e041XMFN7w25Ovde) | 2:52 |
 | 69 | [Don't Go Insane](https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Dear Insanity...](https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q) | 3:24 |
 | 70 | [Ridere](https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fuori dall'Hype Ringo Starr](https://open.spotify.com/album/56JsicBPrw88plclhKK74J) | 3:34 |
 | 71 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT888el8RDPq.md) - [plain]
 | 73 | [LLYLM](https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LLYLM](https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm) | 2:54 |
 | 74 | [Title](https://open.spotify.com/track/0k5hoseEJnCAbpRh38dNoI) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 2:54 |
 | 75 | [NUOVO RANGE \(con SFERA EBBASTA\)](https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [TAXI DRIVER](https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh) | 2:56 |
-| 76 | [50 Special](https://open.spotify.com/track/21Ay8mJRYQuOMZp7qyQXl6) | [Lùnapop](https://open.spotify.com/artist/4ZbsxiS90Pj1gLeDv3A9mN) | [...Squérez?](https://open.spotify.com/album/7sXufweikTP0DcDSBGwpoD) | 3:27 |
-| 77 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 |
+| 76 | [Sinner](https://open.spotify.com/track/5IXA8J6Xugs507nAzwSa5F) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 2:56 |
+| 77 | [50 Special](https://open.spotify.com/track/21Ay8mJRYQuOMZp7qyQXl6) | [Lùnapop](https://open.spotify.com/artist/4ZbsxiS90Pj1gLeDv3A9mN) | [...Squérez?](https://open.spotify.com/album/7sXufweikTP0DcDSBGwpoD) | 3:27 |
 | 78 | [Si, ah](https://open.spotify.com/track/4nS6mZBLYgtksYyXsuXgBw) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Regardez moi](https://open.spotify.com/album/2vdMQdtjraDA0paMwtEbVd) | 2:52 |
 | 79 | [Just A Cloud Away](https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Just A Cloud Away](https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY) | 2:56 |
 | 80 | [Fainted Love](https://open.spotify.com/track/52jyBtCB2MJT7U3DDo6Brj) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Found Heaven](https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5) | 2:50 |

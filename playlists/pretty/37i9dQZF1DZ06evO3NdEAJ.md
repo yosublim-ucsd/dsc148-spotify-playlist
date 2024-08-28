@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 
 ### [This Is La Fiera de Ojinaga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3NdEAJ)
 
-> This Is La Fiera de Ojinaga\. Los temas esenciales, todos en una lista.
+> This is La Fiera de Ojinaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,522 likes - 52 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,545 likes - 52 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 40 | [Olvidarte ¿Cómo?](https://open.spotify.com/track/6qoLoLaw4zC48XERFdTBgN) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Retro & Hits](https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj) | 3:27 |
 | 41 | [Quién Mejor Que Tú](https://open.spotify.com/track/3Rud1SXi9zzVZuCAFXWl3f) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Díselo Con Sax](https://open.spotify.com/album/6nAqAwEFAdgfmLsSpD9AIj) | 2:55 |
 | 42 | [Ya No Te Quiero Querer](https://open.spotify.com/track/28yEy7OAKeiAZ1m0td8N3H) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [7](https://open.spotify.com/album/5ZzQNKzCB7NdaWM2ldgex4) | 2:50 |
-| 43 | [¿Quieres Ser Mi Novia?](https://open.spotify.com/track/0BcObiU0t2NzG08rnj2aiI) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [¿Quieres Ser Mi Novia?](https://open.spotify.com/album/6h79FdKXv9I2qlTTbrq60I) | 2:39 |
-| 44 | [La Luna de Miel](https://open.spotify.com/track/2JQ4kacSA0S9bAkEzejRpH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Luna de Miel](https://open.spotify.com/album/3XFkmdFswCXR8jw6inTShg) | 2:42 |
+| 43 | [La Luna de Miel](https://open.spotify.com/track/2JQ4kacSA0S9bAkEzejRpH) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [La Luna de Miel](https://open.spotify.com/album/3XFkmdFswCXR8jw6inTShg) | 2:42 |
+| 44 | [¿Quieres Ser Mi Novia?](https://open.spotify.com/track/0BcObiU0t2NzG08rnj2aiI) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [¿Quieres Ser Mi Novia?](https://open.spotify.com/album/6h79FdKXv9I2qlTTbrq60I) | 2:39 |
 | 45 | [Qué Bonito Me Quieres](https://open.spotify.com/track/2HBov0hd0kPxzMVYMjchUD) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Qué Bonito Me Quieres](https://open.spotify.com/album/6zviFXbBpDM7SezgnN08I4) | 2:54 |
 | 46 | [Te Mereces](https://open.spotify.com/track/7MOsxXYlhSoQUSJhR09QGB) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas, Vol.2](https://open.spotify.com/album/1W2Atto04JwV3G32tP5rPO) | 2:38 |
 | 47 | [Besos Contados](https://open.spotify.com/track/310tDyxuIecgZJ9BsD9JZN) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Besos Contados](https://open.spotify.com/album/42Nd5nywb9uEVZ3JiXgCwu) | 3:20 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 51 | [¿De Qué Me Perdí?](https://open.spotify.com/track/1kbH8U4omcQFkgqRGfGiGs) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [¿De Qué Me Perdí?](https://open.spotify.com/album/2MJH3I5JcPmcFR9NyTfGiG) | 3:29 |
 | 52 | [Si Te Quedas Conmigo](https://open.spotify.com/track/1H7gizb9QcLJmgSdYTQyTT) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Si Te Quedas Conmigo](https://open.spotify.com/album/2cjosNmIhyNdX5ZVkpLRFP) | 2:16 |
 
-Snapshot ID: `Zsp0AAAAAABQVR9dYrsp+TBG9khzq/ys`
+Snapshot ID: `ZsvFgAAAAABYATm877Rz67vYWT6gfoew`

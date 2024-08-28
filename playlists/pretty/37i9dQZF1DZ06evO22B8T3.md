@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 ### [This Is Paulo Londra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO22B8T3)
 
-> This Is Paulo Londra\. Los temas esenciales, todos en una lista.
+> This Is Paulo Londra\. Les titres incontournables, réunis dans une seule et même playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,858 likes - 36 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,862 likes - 36 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 |
 | 2 | [Me Tiene Mal](https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Me Tiene Mal](https://open.spotify.com/album/5lVYwFSulUNmH38NtjdHYV) | 4:10 |
-| 3 | [Paracaídas](https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paracaídas](https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6) | 2:45 |
-| 4 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 |
+| 3 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 |
+| 4 | [Paracaídas](https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Paracaídas](https://open.spotify.com/album/2i1Um2d1FxY2f9Dd7vgEk6) | 2:45 |
 | 5 | [Nena Maldición \(feat\. Lenny Tavárez\)](https://open.spotify.com/track/77dMSg2VHi2wwXjXNrmcrZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:47 |
 | 6 | [Posdata:](https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Posdata:](https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk) | 2:49 |
 | 7 | [Cuando Te Besé](https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 4:16 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 35 | [Nothing On You \(feat\. Paulo Londra & Dave\)](https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [No.6 Collaborations Project](https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx) | 3:20 |
 | 36 | [Cansado](https://open.spotify.com/track/4IWSiikKGhA9cBmAL6r3iy) | [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cansado](https://open.spotify.com/album/2xx2vcIQ5RhMKhvGVphwDu) | 3:02 |
 
-Snapshot ID: `Zsp0AAAAAABS1DL+CR/VXT3T/APnswpn`
+Snapshot ID: `ZsvFgAAAAABDOK9VE+o40UMNtclFpwGW`

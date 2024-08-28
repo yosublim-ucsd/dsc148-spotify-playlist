@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: MENDEZ, Soarito
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,779 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,796 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 29 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 | 30 | [Brutos Diamantes](https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V) | [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Brutos Diamantes](https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan) | 2:56 |
 | 31 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
-| 32 | [Clima](https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Clima](https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf) | 2:56 |
+| 32 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 |
 | 33 | [Amar De Cor](https://open.spotify.com/track/7lpqxqXjVuOQz6LAJLsLFw) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Amar De Cor](https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu) | 2:45 |
-| 34 | [Ar](https://open.spotify.com/track/3BRAklqTTbHBBAPmLQFrsn) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Gota D'Espaço](https://open.spotify.com/album/5gBDraKQzQb4A7rEjzACEJ) | 3:56 |
+| 34 | [Clima](https://open.spotify.com/track/4WlMcUCtmXRHncPULo3wmK) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4) | [Clima](https://open.spotify.com/album/5C4aCWJtiISw7Cu6g6HVMf) | 2:56 |
 | 35 | [CorDaPele](https://open.spotify.com/track/36S2EbNuLymtUKDxaSEjQ9) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [CorDaPele](https://open.spotify.com/album/7o1xljJyw1AAnNTaFcexNA) | 2:58 |
 | 36 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 37 | [Barco](https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Barco](https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn) | 3:36 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 60 | [Agradeço](https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [ORDEM & PROGRESSO](https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1) | 3:29 |
 | 61 | [Convite](https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Par Perfeito](https://open.spotify.com/album/6TjeNnMWpVYxdNwxOndcLP) | 2:33 |
 | 62 | [Trovador](https://open.spotify.com/track/1f0ptSKxe9r5hDINkSxNxU) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Trovador](https://open.spotify.com/album/25ZAdeWrd6WAM8dpvWckPS) | 3:46 |
-| 63 | [Loko Loko](https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV) | [Priceless](https://open.spotify.com/album/7yYTfAq087THV6jKKbUSvf) | 3:29 |
-| 64 | [SINAIS](https://open.spotify.com/track/509CUFQtHu6p5PULNw6D5t) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [SINAIS](https://open.spotify.com/album/5loNhqIOFE1wsdKVF8Yd6K) | 3:26 |
+| 63 | [SINAIS](https://open.spotify.com/track/509CUFQtHu6p5PULNw6D5t) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Catarina Filipe](https://open.spotify.com/artist/4OhowqCgfvzq9Fc2qcSbc8), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [SINAIS](https://open.spotify.com/album/5loNhqIOFE1wsdKVF8Yd6K) | 3:26 |
+| 64 | [Loko Loko](https://open.spotify.com/track/5H3HOVGluYwAntdrrHJrc0) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV) | [Priceless](https://open.spotify.com/album/7yYTfAq087THV6jKKbUSvf) | 3:29 |
 | 65 | [Accelerate](https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Accelerate](https://open.spotify.com/album/5VAYpc1ZX3S3ZDfQguDqNm) | 2:59 |
 | 66 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
 | 67 | [Partimento](https://open.spotify.com/track/2YEA1CW7n1Aa60AU2Vp9gM) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Partimento](https://open.spotify.com/album/4BpbosuLKEhM0UTvKHcAF7) | 1:53 |

@@ -4129,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Ativando Sentimento 2.0",
+        "url": "https://open.spotify.com/album/2ass4W5wTlPS8GBp5C1L8w"
+      },
+      "artists": [
+        {
+          "name": "Christian Lins",
+          "url": "https://open.spotify.com/artist/12BeE8Kf5XftekKcUADdol"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135444,
+      "name": "Mordida e Carinho",
+      "url": "https://open.spotify.com/track/3HBxeoQfG3EjqVhCn9Njy5"
+    },
+    {
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL"
       },

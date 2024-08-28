@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5tAPqDBxLQywIHebYNHJQ1"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185440,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/4HOUhsdFkkqomvPgAmN0ip"
+    },
+    {
+      "album": {
         "name": "Alemagou",
         "url": "https://open.spotify.com/album/4PQGVbEWl3S7Os7Rhl6pk4"
       },
@@ -648,6 +666,10 @@
         {
           "name": "VXSION",
           "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        },
+        {
+          "name": "Dawn Patrol",
+          "url": "https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe"
         }
       ],
       "date_added": "2024-04-12",
@@ -3572,7 +3594,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 298168,
       "name": "Distant Memories",
       "url": "https://open.spotify.com/track/2N8ZFBdIBvoCkQCWbc09I8"
@@ -5678,7 +5700,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 206580,
       "name": "How It Feels (feat. Lauren L'aimant)",
       "url": "https://open.spotify.com/track/76UBVe7ZXMJj8rXwIfFUPZ"
@@ -7717,6 +7739,24 @@
     },
     {
       "album": {
+        "name": "Longlivedad",
+        "url": "https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215322,
+      "name": "Longlivedad",
+      "url": "https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC"
+    },
+    {
+      "album": {
         "name": "Looking At Your Pager (Solomun Remix)",
         "url": "https://open.spotify.com/album/7HhVsiE0RjoBhLvE3P1O6u"
       },
@@ -9736,6 +9776,28 @@
       "duration_ms": 343236,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/5p2QAe34bA2pXVD875jfBu"
+    },
+    {
+      "album": {
+        "name": "Nighttime Feeling (Weekend Love)",
+        "url": "https://open.spotify.com/album/3q61TPn9Xi9X055hoNHZ1E"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        },
+        {
+          "name": "Weston Loney",
+          "url": "https://open.spotify.com/artist/2anBrRkmgVsliBqN2S9sRt"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303859,
+      "name": "Nighttime Feeling (Weekend Love)",
+      "url": "https://open.spotify.com/track/5hn6Px9PrUng5RGZEVFVlb"
     },
     {
       "album": {
@@ -15422,7 +15484,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 214204,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8"

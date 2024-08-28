@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica que te har\u00e1 suspirar como en aquellos a\u00f1os dorados. Los Panchos en portada.",
-  "num_followers": 274765,
+  "num_followers": 274807,
   "original_name": "Tr\u00edos y Boleros Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Mi Primer Piano... Y Mis Primeras Canciones",
-        "url": "https://open.spotify.com/album/2JRYd3QxaIm8bzIpY8V6Ci"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 161653,
-      "name": "Solamente una Vez",
-      "url": "https://open.spotify.com/track/3KXT4z3ZtA8yasFoqltxzP"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Boleros Inolvidables",
         "url": "https://open.spotify.com/album/0eqoNVHsAHr6P28i4zo15i"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 190386,
       "name": "Pagina Blanca",
       "url": "https://open.spotify.com/track/4QDMOJChtxXm5yjNTOgtxO"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Mi Primer Piano... Y Mis Primeras Canciones",
+        "url": "https://open.spotify.com/album/2JRYd3QxaIm8bzIpY8V6Ci"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 161653,
+      "name": "Solamente una Vez",
+      "url": "https://open.spotify.com/track/3KXT4z3ZtA8yasFoqltxzP"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Antolog\u00eda... Emilio Tuero",
-        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
+        "name": "Serenatas",
+        "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
       },
       "artists": [
         {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+          "name": "Trio Hermanos Michel",
+          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
         }
       ],
-      "duration_ms": 175480,
-      "name": "Quinto patio",
-      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
+      "duration_ms": 160853,
+      "name": "Luna de octubre",
+      "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Serenatas",
-        "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
+        "name": "Antolog\u00eda... Emilio Tuero",
+        "url": "https://open.spotify.com/album/6sLf66A31WsT3zfrkxmw2g"
       },
       "artists": [
         {
-          "name": "Trio Hermanos Michel",
-          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
         }
       ],
-      "duration_ms": 160853,
-      "name": "Luna de octubre",
-      "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
+      "duration_ms": 175480,
+      "name": "Quinto patio",
+      "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Voy A Apagar La Luz",
+        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 143848,
+      "name": "Voy A Apagar La Luz",
+      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Boleros",
         "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 134113,
       "name": "Querida Amiga",
       "url": "https://open.spotify.com/track/4QOAWEwpQQLTh7lcjZPQ3k"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Voy A Apagar La Luz",
-        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 143848,
-      "name": "Voy A Apagar La Luz",
-      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1187,30 +1187,6 @@
       "duration_ms": 184153,
       "name": "Fatalidad",
       "url": "https://open.spotify.com/track/4jdT29SdUzR0RassdVuZDp"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 201021,
-      "name": "Luna Orgullosa",
-      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1287,6 +1263,30 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 201021,
+      "name": "Luna Orgullosa",
+      "url": "https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Vamos a la Cumbancha",
         "url": "https://open.spotify.com/album/2Zl8ew47kKbJ7Oqrs2oBMb"
       },
@@ -1335,34 +1335,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        },
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 191794,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "Perdoname",
         "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
       },
@@ -1375,6 +1347,30 @@
       "duration_ms": 144194,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 188894,
+      "name": "Mi Negra Linda",
+      "url": "https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1443,6 +1439,34 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        },
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 191794,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1460,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 188894,
-      "name": "Mi Negra Linda",
-      "url": "https://open.spotify.com/track/4M7UWuLSDGn1L1ICwE5jGS"
+      "duration_ms": 188963,
+      "name": "Esta Melodia",
+      "url": "https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1499,22 +1523,6 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "Antolog\u00eda. . .Hermanas Aguila",
-        "url": "https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi"
-      },
-      "artists": [
-        {
-          "name": "Hermanas Aguila",
-          "url": "https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv"
-        }
-      ],
-      "duration_ms": 210413,
-      "name": "Se\u00f1ora tentaci\u00f3n",
-      "url": "https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
         "name": "15 Boleros Inolvidables Con el Tr\u00edo las Sombras (Versiones Originales)",
         "url": "https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE"
       },
@@ -1547,18 +1555,18 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
-        "name": "50 Exitos del Fon\u00f3grafo y Sus Recuerdos",
-        "url": "https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs"
+        "name": "Antolog\u00eda. . .Hermanas Aguila",
+        "url": "https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi"
       },
       "artists": [
         {
-          "name": "Trio Vegabaje\u00f1o",
-          "url": "https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB"
+          "name": "Hermanas Aguila",
+          "url": "https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv"
         }
       ],
-      "duration_ms": 187466,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/5Q4qhAdlqwuQcvDXDHG6lo"
+      "duration_ms": 210413,
+      "name": "Se\u00f1ora tentaci\u00f3n",
+      "url": "https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1579,6 +1587,22 @@
     {
       "added_at": "2024-07-11 15:48:05",
       "album": {
+        "name": "50 Exitos del Fon\u00f3grafo y Sus Recuerdos",
+        "url": "https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs"
+      },
+      "artists": [
+        {
+          "name": "Trio Vegabaje\u00f1o",
+          "url": "https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB"
+        }
+      ],
+      "duration_ms": 187466,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/5Q4qhAdlqwuQcvDXDHG6lo"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
         "name": "15 Canciones Inolvidables Con el Tr\u00edo Caribe",
         "url": "https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS"
       },
@@ -1591,22 +1615,6 @@
       "duration_ms": 165800,
       "name": "Son De La Loma",
       "url": "https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Amar y Querer - Mariachi Bolero Cover",
-      "url": "https://open.spotify.com/track/6mSDnbcXp12MBipY1w1amz"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1628,9 +1636,25 @@
           "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
         }
       ],
-      "duration_ms": 188963,
-      "name": "Esta Melodia",
-      "url": "https://open.spotify.com/track/1GQ3Clp4Mvs7f0qt0hLotX"
+      "duration_ms": 171973,
+      "name": "Como Las Olas",
+      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
+    },
+    {
+      "added_at": "2024-07-11 15:48:05",
+      "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Amar y Querer - Mariachi Bolero Cover",
+      "url": "https://open.spotify.com/track/6mSDnbcXp12MBipY1w1amz"
     },
     {
       "added_at": "2024-07-11 15:48:05",
@@ -1679,22 +1703,6 @@
       "duration_ms": 172466,
       "name": "Ansiedad",
       "url": "https://open.spotify.com/track/1LRMRPhC8ZEniqe16Rzlkm"
-    },
-    {
-      "added_at": "2024-07-11 15:48:05",
-      "album": {
-        "name": "A La Orilla De Un Palmar",
-        "url": "https://open.spotify.com/album/4tGCXobAsI1du2f02NafgP"
-      },
-      "artists": [
-        {
-          "name": "Los Indianos",
-          "url": "https://open.spotify.com/artist/3U6c3u6spc6mNHcykQM0vI"
-        }
-      ],
-      "duration_ms": 158534,
-      "name": "En Nosotros",
-      "url": "https://open.spotify.com/track/3v6tJYI8YRNmA0j8HLixAE"
     }
   ],
   "unique_name": "Tr\u00edos y Boleros Rom\u00e1nticos",

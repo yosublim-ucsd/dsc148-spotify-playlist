@@ -1,6 +1,6 @@
 {
   "description": "De beste nye l\u00e5tene finner du her!",
-  "num_followers": 193377,
+  "num_followers": 193391,
   "original_name": "Hits Don't Lie",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,26 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 179586,
       "name": "LUNCH",
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "feelslikeimfallinginlove",
         "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 176027,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
       },
@@ -507,18 +507,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -603,6 +603,22 @@
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -627,22 +643,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "The Secret of Us",
         "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
       },
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 169041,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1091,26 +1091,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Fire - Official UEFA EURO 2024 Song",
-        "url": "https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ"
+        "name": "Death Wish Love (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 168928,
-      "name": "Fire - Official UEFA EURO 2024 Song",
-      "url": "https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny"
+      "duration_ms": 223955,
+      "name": "Death Wish Love (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1131,18 +1123,26 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Death Wish Love (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC"
+        "name": "Fire - Official UEFA EURO 2024 Song",
+        "url": "https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         }
       ],
-      "duration_ms": 223955,
-      "name": "Death Wish Love (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2"
+      "duration_ms": 168928,
+      "name": "Fire - Official UEFA EURO 2024 Song",
+      "url": "https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "Nobody (from Kaiju No. 8)",
-        "url": "https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "Nobody - from Kaiju No. 8",
-      "url": "https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip"
-    },
-    {
-      "added_at": "2024-08-22 22:00:00",
-      "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2024-08-22 22:00:00",
       "album": {
-        "name": "LOOM",
-        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+        "name": "Nobody (from Kaiju No. 8)",
+        "url": "https://open.spotify.com/album/3YmKf1haPAblZIrIPpuRTf"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 166706,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
+      "duration_ms": 153626,
+      "name": "Nobody - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/47N81NMkB488fuOwOC3Oip"
     },
     {
       "added_at": "2024-08-22 22:00:00",
@@ -1279,6 +1263,22 @@
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
+    },
+    {
+      "added_at": "2024-08-22 22:00:00",
+      "album": {
+        "name": "LOOM",
+        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6BOgN046AFobs2sZV7YlRy"
     },
     {
       "added_at": "2024-08-22 22:00:00",

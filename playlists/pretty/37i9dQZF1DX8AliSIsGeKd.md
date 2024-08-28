@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Philipp Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,243 likes - 90 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,424 likes - 90 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

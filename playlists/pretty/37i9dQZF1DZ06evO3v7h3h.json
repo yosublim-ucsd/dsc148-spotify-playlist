@@ -1,12 +1,12 @@
 {
-  "description": "This is Rashid. The essential tracks, all in one playlist.",
+  "description": "This Is Rashid. Los temas esenciales, todos en una lista.",
   "num_followers": 46290,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACt+cifxOHqztVxQwbIttJS",
+  "snapshot_id": "ZsvFgAAAAAB4+6bKRfcFo4G6r5dyu0bR",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 277472,
+      "name": "Se o Mundo Acabar",
+      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Milenar Arte De Meter O Louco",
         "url": "https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 213145,
       "name": "Segura Seu BO",
       "url": "https://open.spotify.com/track/7f7m3mnLnhmcKwBK4Aa0v6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Assim Seja",
-        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 277472,
-      "name": "Se o Mundo Acabar",
-      "url": "https://open.spotify.com/track/1JvW1HJ9IJqThvuuzWMgfB"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
       "duration_ms": 206643,
       "name": "Meu Sol",
       "url": "https://open.spotify.com/track/4zzXS96vHSXFwVTFfJoOHb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Fi\u00f3ti",
-          "url": "https://open.spotify.com/artist/2M89xAvGk4XHPq4C2tkISM"
-        }
-      ],
-      "duration_ms": 264666,
-      "name": "Bilhete",
-      "url": "https://open.spotify.com/track/13bwumEsyE9pgINu4whxaG"
     },
     {
       "added_at": null,
@@ -715,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Fi\u00f3ti",
+          "url": "https://open.spotify.com/artist/2M89xAvGk4XHPq4C2tkISM"
+        }
+      ],
+      "duration_ms": 264666,
+      "name": "Bilhete",
+      "url": "https://open.spotify.com/track/13bwumEsyE9pgINu4whxaG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinais Sessions - Morro Da Urca (Ao Vivo)",
         "url": "https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo"
       },
@@ -751,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Daniel Cohen",
+          "url": "https://open.spotify.com/artist/0vEWuXIn1tvEEVNTL0pgSP"
+        }
+      ],
+      "duration_ms": 261642,
+      "name": "Virando a Mesa",
+      "url": "https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Coragem da Luz",
         "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 211301,
       "name": "Ruaterapia (feat. Mano Brown & Max De Castro)",
       "url": "https://open.spotify.com/track/2ZGZ0fvF2TmYWWxsUmxcui"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Daniel Cohen",
-          "url": "https://open.spotify.com/artist/0vEWuXIn1tvEEVNTL0pgSP"
-        }
-      ],
-      "duration_ms": 261642,
-      "name": "Virando a Mesa",
-      "url": "https://open.spotify.com/track/2utZpgJA3ajxmGpJ8TOSUR"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 255274,
-      "name": "T\u00e3o Real",
-      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00eanesis",
         "url": "https://open.spotify.com/album/1D3YpkkKuOpDaGmYsgrhdB"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 240000,
       "name": "G\u00eanesis",
       "url": "https://open.spotify.com/track/4MDuV3NrviVuGv73ZjgPH4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 255274,
+      "name": "T\u00e3o Real",
+      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
     },
     {
       "added_at": null,
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 189098,
-      "name": "P\u00edlula Vermelha, P\u00edlula Azul (Incidental: Banditismo por uma Quest\u00e3o de Classe)",
-      "url": "https://open.spotify.com/track/6dax1ewiAtKBMI3JiLybwQ"
+      "duration_ms": 242384,
+      "name": "N\u00e3o Sabem de Nada",
+      "url": "https://open.spotify.com/track/0kOg2SOsNaHnrcPCC2diFf"
     },
     {
       "added_at": null,
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
         }
       ],
-      "duration_ms": 242384,
-      "name": "N\u00e3o Sabem de Nada",
-      "url": "https://open.spotify.com/track/0kOg2SOsNaHnrcPCC2diFf"
+      "duration_ms": 189098,
+      "name": "P\u00edlula Vermelha, P\u00edlula Azul (Incidental: Banditismo por uma Quest\u00e3o de Classe)",
+      "url": "https://open.spotify.com/track/6dax1ewiAtKBMI3JiLybwQ"
     },
     {
       "added_at": null,
@@ -1075,6 +1075,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rede Moinho de Mar\u00e7o 2",
+        "url": "https://open.spotify.com/album/3Km65A2qQ7GgTnFU1oLc5Y"
+      },
+      "artists": [
+        {
+          "name": "Rocha",
+          "url": "https://open.spotify.com/artist/3LM3WY4VyCmTIC8LwDqMWD"
+        },
+        {
+          "name": "D-Cazz",
+          "url": "https://open.spotify.com/artist/6CLa3TvsaThfZJH7WNsu97"
+        },
+        {
+          "name": "GOG",
+          "url": "https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 243703,
+      "name": "Rede Moinho de Mar\u00e7o 2",
+      "url": "https://open.spotify.com/track/27KohREm8VNgO7sDwaIT4y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Posf\u00e1cio",
         "url": "https://open.spotify.com/album/1c46EPnRi9wrhdUUIJTgxT"
       },
@@ -1095,50 +1123,6 @@
       "duration_ms": 262559,
       "name": "Recorda\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L\u00edngua dos Campe\u00f5es",
-        "url": "https://open.spotify.com/album/4gNx3oF9mLwt04CITND7ge"
-      },
-      "artists": [
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "Kamau",
-          "url": "https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        },
-        {
-          "name": "Holly Hood",
-          "url": "https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv"
-        },
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        },
-        {
-          "name": "Sir Scratch",
-          "url": "https://open.spotify.com/artist/5rvP5KtLM6n8xOUDqhmq4i"
-        }
-      ],
-      "duration_ms": 464853,
-      "name": "L\u00edngua dos Campe\u00f5es",
-      "url": "https://open.spotify.com/track/0Uq6l0gRWpsUzoDPklSPmp"
     }
   ],
   "unique_name": "This Is Rashid",

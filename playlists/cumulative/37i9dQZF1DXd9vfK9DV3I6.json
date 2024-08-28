@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Bora",
+        "url": "https://open.spotify.com/album/6pVj4l5un6ObmtEKn6bxqK"
+      },
+      "artists": [
+        {
+          "name": "Kerem Gell",
+          "url": "https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304918,
+      "name": "Bora",
+      "url": "https://open.spotify.com/track/0KtcZzw505bzrQGAjVqGuf"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/24kHYMHVm3cFlvNS1ru9Qv"
       },
@@ -5936,7 +5954,7 @@
       ],
       "date_added": "2020-10-18",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 293694,
       "name": "Yaman - Radio Edit",
       "url": "https://open.spotify.com/track/1JomuRkday0y29kjtxJQ0q"

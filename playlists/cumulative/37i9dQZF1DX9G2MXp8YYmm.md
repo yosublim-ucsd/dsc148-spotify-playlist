@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Ece Mumay
 
-120 songs - 6 hr 2 min
+122 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Bir Gün Ol Yerimde](https://open.spotify.com/track/4NYYwPTLIgoyPNG2iu3OrG) | [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bir Gün Ol Yerimde](https://open.spotify.com/album/2GnkPSkkWAE1tmdHwSLa0b) | 2:49 | 2024-06-27 |  |
 | [Bir Karanfil](https://open.spotify.com/track/0a56Y5XrlRQ0JYg6jse5QJ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Bir Karanfil](https://open.spotify.com/album/3Yb6RlZyEkrXfbYjsqFzPb) | 2:53 | 2024-06-27 |  |
 | [Bitter](https://open.spotify.com/track/1XTAyuB6BaFFeQbi0miaQw) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Bitter](https://open.spotify.com/album/00q9Jeszjw02VruYWAd5qB) | 2:12 | 2024-06-27 |  |
-| [Boşuna Nefes Tüketme](https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Boşuna Nefes Tüketme](https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5) | 2:42 | 2024-06-27 |  |
+| [Boşuna Nefes Tüketme](https://open.spotify.com/track/34gJ0zwqrGJwxSdhtsmT7s) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Boşuna Nefes Tüketme](https://open.spotify.com/album/1f3t5RQ1GGfDE2cWDsOcS5) | 2:42 | 2024-06-27 | 2024-08-28 |
 | [Bu Sana Son Bakışım](https://open.spotify.com/track/6rB0I00lYuWOYeW1ljBaoE) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Bu Sana Son Bakışım](https://open.spotify.com/album/3fjxiXNYYTTCScJGVqXsit) | 2:30 | 2024-06-27 | 2024-07-12 |
 | [Bundan Böyle \(From "3391 Kilometre"\)](https://open.spotify.com/track/6TCoqzZa9jZh4SlpCogpQM) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Bundan Böyle \(From "3391 Kilometre"\)](https://open.spotify.com/album/1Baxuz24nv6BM6Ndnvschw) | 2:43 | 2024-06-27 |  |
 | [Buram Buram](https://open.spotify.com/track/0WTby8MYJzT0osKRcdgFxY) | [Gökhan Türkmen](https://open.spotify.com/artist/4uGB0nZ5d1iCXS3sHR3pzm) | [Buram Buram](https://open.spotify.com/album/37zxh7uSMiLQS5beWmMo47) | 4:33 | 2024-06-27 | 2024-07-19 |
@@ -61,6 +61,7 @@
 | [Hayat Oyunu](https://open.spotify.com/track/7kKFuo8oXLGeaYr69bNDcE) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Hayat Oyunu](https://open.spotify.com/album/615p1fQHcVD9BiDyGYmpgJ) | 3:48 | 2024-06-27 |  |
 | [Haybeden](https://open.spotify.com/track/0FHOupsqeuju8lxk8Y0zRZ) | [Gökçe Kırgız Taner](https://open.spotify.com/artist/4ByD5ORLo9bbAzCJA8PnSd) | [Kendime](https://open.spotify.com/album/2DzutanSlouqXHHxHqQ1I0) | 3:24 | 2024-07-11 | 2024-07-24 |
 | [Herhalde](https://open.spotify.com/track/6NoU0H7vKasJE29Z4jDmYA) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Herhalde](https://open.spotify.com/album/7DefHeFSXtlUoYYYNsHNWO) | 4:32 | 2024-06-27 | 2024-08-26 |
+| [Hoşuna Gidiyo](https://open.spotify.com/track/29IrCyfdn18grnSQ3ynguE) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Hoşuna Gidiyo](https://open.spotify.com/album/78Dk6oqNWoSFBJpUfM4rtm) | 2:31 | 2024-08-22 |  |
 | [Hürrem](https://open.spotify.com/track/0mQxlAQVm5jVuExsofCiPM) | [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [Hürrem](https://open.spotify.com/album/4J5VzGkcJRoo1tGKbAL4PP) | 2:15 | 2024-07-11 |  |
 | [İmdadım](https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [İmdadım](https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd) | 2:09 | 2024-06-27 |  |
 | [İmkansız Bir Aşk Denir](https://open.spotify.com/track/7oWgtgmSgC9XCRcnj7NF0r) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [İmkansız Bir Aşk Denir](https://open.spotify.com/album/0ZpK4LGEPGWmhkhPsZrj5b) | 3:17 | 2024-06-27 | 2024-07-12 |
@@ -74,7 +75,7 @@
 | [KÖRKÜTÜK](https://open.spotify.com/track/6iostOh9TPow9esciyRHSE) | [Derya Bedavacı](https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8) | [KÖRKÜTÜK](https://open.spotify.com/album/5iO1DlqpjKLdGTgKfuKa7E) | 3:50 | 2024-07-18 |  |
 | [Lakin](https://open.spotify.com/track/7AjPgrmEzCBVkQWUiOncM3) | [Sufle](https://open.spotify.com/artist/1hWfWJvstJQPgjZ2vDFY0P) | [Lakin](https://open.spotify.com/album/7u52LKZ2sJ0LnYxMol4Sxi) | 2:41 | 2024-06-27 |  |
 | [Lan](https://open.spotify.com/track/1whKKdtCiFjN7MW7DrIRUH) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Lan](https://open.spotify.com/album/1LvnmkkATPS4wBrEPMec26) | 3:16 | 2024-06-27 |  |
-| [Meleğim](https://open.spotify.com/track/6qjpvoOyxCl2DoLalk1DBV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Meleğim](https://open.spotify.com/album/444lQ55RAdFaSf4CQLb0i7) | 2:45 | 2024-07-25 |  |
+| [Meleğim](https://open.spotify.com/track/6qjpvoOyxCl2DoLalk1DBV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Meleğim](https://open.spotify.com/album/444lQ55RAdFaSf4CQLb0i7) | 2:45 | 2024-07-25 | 2024-08-28 |
 | [MESELA](https://open.spotify.com/track/2K2jYYM9W8ndtP6PUxy2pc) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [MESELA](https://open.spotify.com/album/1BryKb39CgLCKiXkw7z5Iu) | 3:00 | 2024-06-27 |  |
 | [Nadide](https://open.spotify.com/track/5qhr709zn63OZeb4y73vEI) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Nadide](https://open.spotify.com/album/3j5e1mWKw37259eLdXPJYh) | 2:49 | 2024-07-04 | 2024-08-16 |
 | [Nanik](https://open.spotify.com/track/2czKxc4zNI4LWBAkOq2bg9) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38) | [Nanik](https://open.spotify.com/album/3YXOLFTeVUTprhtcq7VGyG) | 2:37 | 2024-07-11 | 2024-08-10 |
@@ -114,6 +115,7 @@
 | [Yat Kalk Dua Et](https://open.spotify.com/track/68fx1drvQDkcQvxHOwy7s7) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Yat Kalk Dua Et](https://open.spotify.com/album/2blu60oC8kIzEdsrGOxtrp) | 2:46 | 2024-06-27 | 2024-08-02 |
 | [Yatıya](https://open.spotify.com/track/51yVTZAAXjMuOCiBvN980F) | [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [Yatıya](https://open.spotify.com/album/2YjYHiGyyAxgX41SsmLEGl) | 3:19 | 2024-06-27 |  |
 | [Yazık](https://open.spotify.com/track/1GjtJVlRPkOReKbEGv8yqM) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Yazık](https://open.spotify.com/album/1188ZVfe2Bte1RZWKzZChy) | 3:37 | 2024-06-27 | 2024-07-27 |
+| [Yeri Var](https://open.spotify.com/track/6WTnCHQKG1fbuKbMKzgMW5) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Yeri Var](https://open.spotify.com/album/7kjGGFkcA7HlORL45H4s7H) | 2:33 | 2024-08-22 |  |
 | [Yo](https://open.spotify.com/track/5ikFGOKtCdl9YC2xJh9hho) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:45 | 2024-06-27 |  |
 | [Yoksun](https://open.spotify.com/track/0Rb3Zf4wemUX45NNoo5H0L) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo) | [Yoksun](https://open.spotify.com/album/5l3AhfIKrcdqJiYUMySwNb) | 2:16 | 2024-06-27 |  |
 | [YOLU AÇIN](https://open.spotify.com/track/71XvAcVBm3TSwBR9WVeorV) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [YOLU AÇIN](https://open.spotify.com/album/10jMsMR3uBjbcrfpIwlwPB) | 2:37 | 2024-07-11 | 2024-08-15 |

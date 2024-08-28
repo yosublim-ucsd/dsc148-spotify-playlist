@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 387655,
+  "num_followers": 387677,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -279,18 +279,18 @@
     {
       "added_at": "2024-08-21 01:27:42",
       "album": {
-        "name": "Love seeker",
-        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
+        "name": "\u82b1",
+        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
       },
       "artists": [
         {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
         }
       ],
-      "duration_ms": 174226,
-      "name": "Love seeker",
-      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
+      "duration_ms": 246699,
+      "name": "\u82b1",
+      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
     },
     {
       "added_at": "2024-08-21 01:27:42",
@@ -311,18 +311,18 @@
     {
       "added_at": "2024-08-21 01:27:42",
       "album": {
-        "name": "\u82b1",
-        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
+        "name": "Love seeker",
+        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
       },
       "artists": [
         {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
         }
       ],
-      "duration_ms": 246699,
-      "name": "\u82b1",
-      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
+      "duration_ms": 174226,
+      "name": "Love seeker",
+      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
     },
     {
       "added_at": "2024-08-21 01:27:42",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-21 01:27:42",
       "album": {
-        "name": "Hold The Girl",
-        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 236078,
-      "name": "This Hell",
-      "url": "https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4"
-    },
-    {
-      "added_at": "2024-08-21 01:27:42",
-      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/6mbs0OalGdSieWC0qFFNiw"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 222753,
       "name": "Love Sick",
       "url": "https://open.spotify.com/track/2Uh2eUnSX70O8uCkUIH9Zt"
+    },
+    {
+      "added_at": "2024-08-21 01:27:42",
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 236078,
+      "name": "This Hell",
+      "url": "https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4"
     },
     {
       "added_at": "2024-08-21 01:27:42",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-08-21 01:27:42",
       "album": {
-        "name": "GOLDENWEEK",
-        "url": "https://open.spotify.com/album/1S6e6usL4vviKyushy0N10"
-      },
-      "artists": [
-        {
-          "name": "MILLENNIUM PARADE",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        }
-      ],
-      "duration_ms": 200910,
-      "name": "GOLDENWEEK",
-      "url": "https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk"
-    },
-    {
-      "added_at": "2024-08-21 01:27:42",
-      "album": {
         "name": "Speed Tape",
         "url": "https://open.spotify.com/album/0pYpedPWmSW8BABYhG4QDD"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 185034,
       "name": "Wind Rise",
       "url": "https://open.spotify.com/track/7ft8cpFbv0E9SOUiUMcPuW"
+    },
+    {
+      "added_at": "2024-08-21 01:27:42",
+      "album": {
+        "name": "GOLDENWEEK",
+        "url": "https://open.spotify.com/album/1S6e6usL4vviKyushy0N10"
+      },
+      "artists": [
+        {
+          "name": "MILLENNIUM PARADE",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        }
+      ],
+      "duration_ms": 200910,
+      "name": "GOLDENWEEK",
+      "url": "https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk"
     },
     {
       "added_at": "2024-08-21 01:27:42",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2024-08-21 01:27:42",
       "album": {
-        "name": "Drink!",
-        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "Drink!",
-      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
-    },
-    {
-      "added_at": "2024-08-21 01:27:42",
-      "album": {
         "name": "A24",
         "url": "https://open.spotify.com/album/2syB6hxQPvHrkILVlCffzJ"
       },
@@ -1595,6 +1575,26 @@
     {
       "added_at": "2024-08-21 01:27:42",
       "album": {
+        "name": "Drink!",
+        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "Drink!",
+      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
+    },
+    {
+      "added_at": "2024-08-21 01:27:42",
+      "album": {
         "name": "\u751f\u547d\u4f53",
         "url": "https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr"
       },
@@ -1607,26 +1607,6 @@
       "duration_ms": 191666,
       "name": "\u751f\u547d\u4f53",
       "url": "https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W"
-    },
-    {
-      "added_at": "2024-08-21 01:27:42",
-      "album": {
-        "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
-        "url": "https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        },
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
-      "url": "https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3"
     },
     {
       "added_at": "2024-08-21 01:27:42",
@@ -1647,6 +1627,26 @@
       "duration_ms": 148000,
       "name": "sad girl",
       "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
+    },
+    {
+      "added_at": "2024-08-21 01:27:42",
+      "album": {
+        "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
+        "url": "https://open.spotify.com/album/7pu6N5N8vmayVPxNNVihJE"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        },
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
+      "url": "https://open.spotify.com/track/0UkBK5kfWWX69QzWx1DDx3"
     },
     {
       "added_at": "2024-08-21 01:27:42",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-08-21 01:27:42",
       "album": {
-        "name": "Dancers Friendly",
-        "url": "https://open.spotify.com/album/4j4y6E8RrEGjupLCZIZp21"
-      },
-      "artists": [
-        {
-          "name": "Lucky Kilimanjaro",
-          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
-        }
-      ],
-      "duration_ms": 183477,
-      "name": "\u304b\u3051\u304a\u3061",
-      "url": "https://open.spotify.com/track/5qLR640bt532VKbOJC1ssV"
-    },
-    {
-      "added_at": "2024-08-21 01:27:42",
-      "album": {
         "name": "LOA",
         "url": "https://open.spotify.com/album/6e3mISa6hpUWZFkmiv3Vdo"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 226476,
       "name": "LOA",
       "url": "https://open.spotify.com/track/7fFwkEjPSEapRqQRSOH8uL"
+    },
+    {
+      "added_at": "2024-08-21 01:27:42",
+      "album": {
+        "name": "Dancers Friendly",
+        "url": "https://open.spotify.com/album/4j4y6E8RrEGjupLCZIZp21"
+      },
+      "artists": [
+        {
+          "name": "Lucky Kilimanjaro",
+          "url": "https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV"
+        }
+      ],
+      "duration_ms": 183477,
+      "name": "\u304b\u3051\u304a\u3061",
+      "url": "https://open.spotify.com/track/5qLR640bt532VKbOJC1ssV"
     },
     {
       "added_at": "2024-08-21 01:27:42",

@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Buscabulla en portada.
 
-334 songs - 20 hr 6 min
+335 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Como Fuego](https://open.spotify.com/track/44E4aMwLp8EosJDp8WyQe4) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Como Fuego](https://open.spotify.com/album/2cob5a2IGcGDa0CuYS3jLi) | 3:04 | 2024-05-30 |  |
 | [Como Lo Pedí](https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Fuego](https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct) | 4:05 | 2021-10-05 | 2022-04-06 |
 | [Como Si Fuera Yo](https://open.spotify.com/track/53KqQmPI1BNgb1g7O2hPHV) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Como Si Fuera Yo](https://open.spotify.com/album/005n9T3G22CAiXUA1RF5Q8) | 3:16 | 2022-08-31 | 2023-04-01 |
+| [Conmigo](https://open.spotify.com/track/7rYXDaiy6mVyj9nRG8BS20) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Conmigo](https://open.spotify.com/album/22naNg5hX2AqKlwmKdwazV) | 3:35 | 2023-12-07 |  |
 | [Contenta](https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Contenta](https://open.spotify.com/album/2XHxduFZv2HYNcMwkRgqbQ) | 3:35 | 2022-07-25 | 2023-04-01 |
 | [Contra La Corriente](https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Contra La Corriente](https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c) | 4:23 | 2021-10-05 | 2024-06-01 |
 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 | 2021-10-05 | 2023-10-07 |
@@ -118,7 +119,7 @@
 | [Flores](https://open.spotify.com/track/01TNtLLUp9z4cA0JjlaKqM) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Los Santos y Pecadores](https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu) | 3:18 | 2023-10-19 | 2024-01-05 |
 | [Flores](https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Flores](https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4) | 3:18 | 2022-08-12 |  |
 | [Flores de Abril](https://open.spotify.com/track/0QrVadfaRJIApi1dRE1FZL) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Flores de Abril](https://open.spotify.com/album/0mIiqJar5L73vhvrklUzIV) | 4:17 | 2022-03-04 | 2022-05-28 |
-| [Fly](https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Fly](https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby) | 3:26 | 2024-02-02 |  |
+| [Fly](https://open.spotify.com/track/32sk0nAe4tnJxSjyGylWpj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Fly](https://open.spotify.com/album/4UBSEvuaR4v2zJkC0aroby) | 3:26 | 2024-02-02 | 2024-08-28 |
 | [Forever \- Tonga Conga Remix](https://open.spotify.com/track/5u4rVp6lsWZRgkVmHNPDV2) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Forever \(Tonga Conga Remix\)](https://open.spotify.com/album/1AuahjwurBIlkDXjJ2D95I) | 5:32 | 2024-04-30 |  |
 | [FR3N3S1](https://open.spotify.com/track/4gs4CAPYyhnxgLUIBqLCw7) | [Natalia Lozano](https://open.spotify.com/artist/1DYJKsD0vGFUZVYqs8YWHf) | [FR3N3S1](https://open.spotify.com/album/12ZwFC9rJoFpfIPyb2iuoF) | 3:22 | 2022-08-16 | 2023-04-01 |
 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 | 2022-08-16 | 2023-04-14 |

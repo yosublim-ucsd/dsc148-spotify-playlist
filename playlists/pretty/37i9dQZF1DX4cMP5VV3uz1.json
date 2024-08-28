@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 157597,
+  "num_followers": 157626,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -907,26 +907,6 @@
     {
       "added_at": "2024-08-22 19:34:10",
       "album": {
-        "name": "Races (feat. Blanco)",
-        "url": "https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj"
-      },
-      "artists": [
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        },
-        {
-          "name": "Blanco",
-          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
-        }
-      ],
-      "duration_ms": 140848,
-      "name": "Races (feat. Blanco)",
-      "url": "https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo"
-    },
-    {
-      "added_at": "2024-08-22 19:34:10",
-      "album": {
         "name": "Savage",
         "url": "https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 204000,
       "name": "Savage",
       "url": "https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e"
+    },
+    {
+      "added_at": "2024-08-22 19:34:10",
+      "album": {
+        "name": "Races (feat. Blanco)",
+        "url": "https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        }
+      ],
+      "duration_ms": 140848,
+      "name": "Races (feat. Blanco)",
+      "url": "https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo"
     },
     {
       "added_at": "2024-08-22 19:34:10",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-08-22 19:34:10",
       "album": {
-        "name": "Party Muscle",
-        "url": "https://open.spotify.com/album/6n7uN281y0GWsNRmhzAcQG"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 122069,
-      "name": "Party Muscle",
-      "url": "https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI"
-    },
-    {
-      "added_at": "2024-08-22 19:34:10",
-      "album": {
         "name": "CONTEXT",
         "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 137624,
       "name": "CONTEXT",
       "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
+    },
+    {
+      "added_at": "2024-08-22 19:34:10",
+      "album": {
+        "name": "Party Muscle",
+        "url": "https://open.spotify.com/album/6n7uN281y0GWsNRmhzAcQG"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 122069,
+      "name": "Party Muscle",
+      "url": "https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI"
     },
     {
       "added_at": "2024-08-22 19:34:10",

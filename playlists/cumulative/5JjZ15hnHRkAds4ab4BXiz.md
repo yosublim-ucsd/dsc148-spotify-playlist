@@ -4,7 +4,7 @@
 
 > 
 
-457 songs - 1 day 5 hr 18 min
+461 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Dream \(Bonus Track\)](https://open.spotify.com/track/1rZjND3XQhSDIrGi78aWmZ) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 1:49 | 2024-05-22 |  |
 | [Dress Up For You](https://open.spotify.com/track/6RQSNldulpDXbyvAANcaEy) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Cinema Sublimina](https://open.spotify.com/album/0ywqrwzSXOdWbICsAuICdt) | 3:43 | 2024-07-31 |  |
 | [Drive](https://open.spotify.com/track/0lrYqe4ICHQEEn0K4eQ7d9) | [Kolektivo](https://open.spotify.com/artist/49KPk2yG5dFFH0Tnmob13T) | [Drive](https://open.spotify.com/album/2C0TUEdw7XJyNGcbO9Y4wZ) | 2:04 | 2024-01-18 | 2024-06-11 |
+| [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2024-08-27 |  |
 | [E.T.C.](https://open.spotify.com/track/6wo2ttC1hViFjjBc9VMuTY) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 4:07 | 2024-07-07 |  |
 | [Echoes](https://open.spotify.com/track/6VqKN2BTlhpNFAFAMdXgHp) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/55TVi7WoeMxBOjqEGufOaf) | 3:06 | 2024-06-09 |  |
 | [ecstacy \(super slowed\)](https://open.spotify.com/track/4piafr7YSZHYgPvH4n4NeE) | [SUICIDAL\-IDOL](https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI) | [ecstacy \(super slowed\)](https://open.spotify.com/album/686pnMMAj8CBNLjwIIJR1a) | 2:16 | 2023-11-16 | 2024-01-24 |
@@ -224,6 +225,7 @@
 | [Lucidity](https://open.spotify.com/track/4EC81w5nKG5tZlkHyKT2vO) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:31 | 2024-04-05 |  |
 | [M.utually A.ssured D.estruction](https://open.spotify.com/track/3znlqkw0V8tdXDhsCQcjIo) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Tyranny](https://open.spotify.com/album/5LlMvH379KZHgRIL5BrTOg) | 2:32 | 2024-07-07 |  |
 | [Machu Picchu](https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:29 | 2024-05-04 |  |
+| [Manía Cardiaca](https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:08 | 2024-08-27 |  |
 | [Marching Theme](https://open.spotify.com/track/6WeVF4MsaNIH1aVhOKVtmF) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 2:58 | 2024-04-19 |  |
 | [Me and Michael](https://open.spotify.com/track/0t4z0WaQomQqPONghWn8c2) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:49 | 2024-06-10 |  |
 | [Me and the Farmer](https://open.spotify.com/track/3Vd7Mm3hJNff4r3Ocxe31Z) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The People Who Grinned Themselves to Death](https://open.spotify.com/album/0cgB5VDCRyma21stuugALG) | 2:54 | 2024-04-08 |  |
@@ -340,6 +342,7 @@
 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 | 2023-11-12 | 2024-06-21 |
 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 | 2024-05-29 |  |
 | [Someone Is Waiting](https://open.spotify.com/track/7kwOZJMxsQcBpC4j3kp24d) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 2:31 | 2024-04-19 |  |
+| [Somos Ajenos](https://open.spotify.com/track/1Z6NUe88dVXBDpWiWpSpie) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enjambre Y Los Huéspedes Del Orbe](https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP) | 3:24 | 2024-08-27 |  |
 | [Song Against Sex](https://open.spotify.com/track/0irxRes67DWbAdghQ9F6sC) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 3:40 | 2024-04-19 |  |
 | [Space Cadet](https://open.spotify.com/track/6DwRQI2K03MTNULcasnhUh) | [The Technicolors](https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo) | [Sweat](https://open.spotify.com/album/3UGEWESDelTk6ppL1SMYM2) | 4:48 | 2024-07-16 |  |
 | [Space Garden](https://open.spotify.com/track/0ydmFrXktLZghHLW6Axytj) | [Auntie Leo & The Backstabbers](https://open.spotify.com/artist/2MKRGonOGyamdXUfmbtzI2) | [Space Garden](https://open.spotify.com/album/0d5nbI8RcBORYooSI5f7Pw) | 4:56 | 2024-05-04 |  |
@@ -428,6 +431,7 @@
 | [Vida En El Espejo](https://open.spotify.com/track/2yThUakfNYwaToGaKJxKEK) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Imperfecto Extraño](https://open.spotify.com/album/1xWHQFcS9qDf0cXX6NXcPK) | 4:25 | 2024-08-26 |  |
 | [Violent](https://open.spotify.com/track/6WbzgXBdZZPV2Zfpy7rHsA) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Violent](https://open.spotify.com/album/07K4uMIK0Krz4p83DLULDd) | 2:41 | 2024-07-17 |  |
 | [Vision of Division](https://open.spotify.com/track/0Tvl6Dhee6vjz65sS3KKkK) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 4:19 | 2024-06-16 |  |
+| [Visita](https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2024-08-27 |  |
 | [Walking Habits](https://open.spotify.com/track/7Iz623tnrXFLlypmsPMVyb) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 3:16 | 2024-07-07 |  |
 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:47 | 2023-11-12 |  |
 | [We Hate It Here](https://open.spotify.com/track/5kvnZU3ZGxbpTrsUvSZOR0) | [Catapolt](https://open.spotify.com/artist/6BjkArmzqebYeK9wXc3w2L) | [We Hate It Here](https://open.spotify.com/album/3qkaODvvkjmL1IChkWMtWy) | 3:11 | 2024-07-31 |  |

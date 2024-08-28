@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Delacruz",
-  "num_followers": 290034,
+  "num_followers": 290058,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -67,7 +67,7 @@
     {
       "added_at": "2024-08-09 14:46:50",
       "album": {
-        "name": "Sorte (Ao Vivo / EP02)",
+        "name": "Sorte - Ao Vivo / EP02",
         "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
       },
       "artists": [
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-08-09 14:46:50",
       "album": {
+        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
+    },
+    {
+      "added_at": "2024-08-09 14:46:50",
+      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -819,26 +839,6 @@
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
-    },
-    {
-      "added_at": "2024-08-09 14:46:50",
-      "album": {
-        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
-      },
-      "artists": [
-        {
-          "name": "Rafael Mike",
-          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
-        },
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
       "added_at": "2024-08-09 14:46:50",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2024-08-09 14:46:50",
       "album": {
-        "name": "Risco de se Apaixonar",
-        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
-      },
-      "artists": [
-        {
-          "name": "Marcello Melo Jr.",
-          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
-        },
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Risco de se Apaixonar",
-      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
-    },
-    {
-      "added_at": "2024-08-09 14:46:50",
-      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1599,6 +1579,26 @@
     {
       "added_at": "2024-08-09 14:46:50",
       "album": {
+        "name": "Risco de se Apaixonar",
+        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
+      },
+      "artists": [
+        {
+          "name": "Marcello Melo Jr.",
+          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
+        },
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Risco de se Apaixonar",
+      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
+    },
+    {
+      "added_at": "2024-08-09 14:46:50",
+      "album": {
         "name": "N\u00f3s Dois",
         "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
       },
@@ -1611,6 +1611,26 @@
       "duration_ms": 147040,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
+    },
+    {
+      "added_at": "2024-08-09 14:46:50",
+      "album": {
+        "name": "Seu Z\u00e9",
+        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
+      },
+      "artists": [
+        {
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
+        },
+        {
+          "name": "IVYO",
+          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
+        }
+      ],
+      "duration_ms": 136430,
+      "name": "Seu Z\u00e9",
+      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
     },
     {
       "added_at": "2024-08-09 14:46:50",
@@ -1635,26 +1655,6 @@
       "duration_ms": 228349,
       "name": "Bora pra praia",
       "url": "https://open.spotify.com/track/4Mdr8VdHfOUb3LCeBPmq2m"
-    },
-    {
-      "added_at": "2024-08-09 14:46:50",
-      "album": {
-        "name": "Seu Z\u00e9",
-        "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
-      },
-      "artists": [
-        {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
-        },
-        {
-          "name": "IVYO",
-          "url": "https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa"
-        }
-      ],
-      "duration_ms": 136430,
-      "name": "Seu Z\u00e9",
-      "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
     },
     {
       "added_at": "2024-08-09 14:46:50",

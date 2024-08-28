@@ -2,7 +2,7 @@
 
 ### [This Is G Herbo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rtuJW)
 
-> This is G Herbo\. Todos os maiores hits em uma só playlist.
+> This is G Herbo\. The essential tracks, all in one playlist.
 
 123 songs - 6 hr 9 min
 

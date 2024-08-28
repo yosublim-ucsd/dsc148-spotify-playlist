@@ -1,13 +1,129 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 27 Aug 22:03 UTC.",
-  "num_followers": 83,
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 Aug 22:03 UTC.",
+  "num_followers": 84,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAKwOfczKi4ARLLaaW8cz4RKpuCqI1x",
+  "snapshot_id": "AAAKxoB4ymHxAHcHsqnODWMqCsM/6DO/",
   "tracks": [
+    {
+      "added_at": "2024-08-27 22:03:08",
+      "album": {
+        "name": "ALL EYES ON KIDS",
+        "url": "https://open.spotify.com/album/3tWufi9zYoFWsZKCzFvK0T"
+      },
+      "artists": [
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
+        }
+      ],
+      "duration_ms": 157376,
+      "name": "All eyes on kids",
+      "url": "https://open.spotify.com/track/6UAxAHMb6z2U7St2ylVSgm"
+    },
+    {
+      "added_at": "2024-08-27 16:03:27",
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/7GFk4CqSsmdLSXUqMt7qeo"
+      },
+      "artists": [
+        {
+          "name": "The Airborne Toxic Event",
+          "url": "https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z"
+        }
+      ],
+      "duration_ms": 195289,
+      "name": "Note To Self",
+      "url": "https://open.spotify.com/track/47SV283bRGDz95w4G9UErl"
+    },
+    {
+      "added_at": "2024-08-27 10:03:14",
+      "album": {
+        "name": "Savior Of None / Ashes Of All",
+        "url": "https://open.spotify.com/album/6q9hP08s2GGMeNferg4POA"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "Savior Of None / Ashes Of All",
+      "url": "https://open.spotify.com/track/4rkjQlKpCN4LO8oK6du9tR"
+    },
+    {
+      "added_at": "2024-08-27 10:03:14",
+      "album": {
+        "name": "100 bux",
+        "url": "https://open.spotify.com/album/732DkEJVj0w1phBu5KJerz"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 195093,
+      "name": "100 bux",
+      "url": "https://open.spotify.com/track/25zxKayL0KzDPwPMPuerAh"
+    },
+    {
+      "added_at": "2024-08-27 22:03:08",
+      "album": {
+        "name": "Old Life",
+        "url": "https://open.spotify.com/album/2NOsAyyRvKwWgWWHEPGc4N"
+      },
+      "artists": [
+        {
+          "name": "Mustafa",
+          "url": "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Old Life",
+      "url": "https://open.spotify.com/track/3Sw3JIOSE6E7InuGDZdaC0"
+    },
+    {
+      "added_at": "2024-08-27 22:03:08",
+      "album": {
+        "name": "808mafia",
+        "url": "https://open.spotify.com/album/3yTpZT6DEFeXcCN8FsKntd"
+      },
+      "artists": [
+        {
+          "name": "Mlody Korden",
+          "url": "https://open.spotify.com/artist/7pSrnhnLz5gKS5LZ9WvhlG"
+        },
+        {
+          "name": "Bia\u0142as",
+          "url": "https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE"
+        }
+      ],
+      "duration_ms": 177744,
+      "name": "808mafia",
+      "url": "https://open.spotify.com/track/7k5pY9KttW463wLTUosWKN"
+    },
+    {
+      "added_at": "2024-08-27 22:03:08",
+      "album": {
+        "name": "Untruth",
+        "url": "https://open.spotify.com/album/1y0OmHEMAbh1SuPEsqa5ok"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "duration_ms": 279250,
+      "name": "Untruth",
+      "url": "https://open.spotify.com/track/3BoYZLAdGWJNq4RRRkDsh7"
+    },
     {
       "added_at": "2024-08-26 22:03:05",
       "album": {
@@ -23,6 +139,42 @@
       "duration_ms": 268190,
       "name": "Not Linear",
       "url": "https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo"
+    },
+    {
+      "added_at": "2024-08-27 10:03:14",
+      "album": {
+        "name": "Blue Devils - Remix",
+        "url": "https://open.spotify.com/album/77ch85lOWjgikd9GhdcJfy"
+      },
+      "artists": [
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 148388,
+      "name": "Blue Devils (feat. DaBaby) - Remix",
+      "url": "https://open.spotify.com/track/6ebmbqXoEJxy3v94RuvqFj"
+    },
+    {
+      "added_at": "2024-08-27 10:03:14",
+      "album": {
+        "name": "NOWHERE",
+        "url": "https://open.spotify.com/album/0hDvvDtml8vWlyrTbVjpPw"
+      },
+      "artists": [
+        {
+          "name": "NOWADAYS",
+          "url": "https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Why Not?",
+      "url": "https://open.spotify.com/track/1wp4gFHcCTxn9vLddtFIiI"
     },
     {
       "added_at": "2024-08-26 10:03:28",
@@ -63,6 +215,22 @@
       "duration_ms": 268401,
       "name": "When He\u2019s Not There (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10"
+    },
+    {
+      "added_at": "2024-08-27 16:03:27",
+      "album": {
+        "name": "Free Bank",
+        "url": "https://open.spotify.com/album/2SaexL6qQjrnP7ErIgAk9u"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        }
+      ],
+      "duration_ms": 157569,
+      "name": "Free Bank",
+      "url": "https://open.spotify.com/track/5td5AC7QeQWvM3loFtfZQt"
     },
     {
       "added_at": "2024-08-26 10:03:28",
@@ -711,182 +879,6 @@
       "duration_ms": 164000,
       "name": "ON TOP",
       "url": "https://open.spotify.com/track/5KepvXFGbPWh8lg3UgYz8K"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "ICU FREESTYLE",
-        "url": "https://open.spotify.com/album/6XIgYOUGlrUZl0T0j2GNId"
-      },
-      "artists": [
-        {
-          "name": "Joey Trap",
-          "url": "https://open.spotify.com/artist/0qpRQJnULShIWFKhcW5pce"
-        }
-      ],
-      "duration_ms": 91533,
-      "name": "ICU FREESTYLE",
-      "url": "https://open.spotify.com/track/0EukcHRuiwUh95jkxhvf6Y"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "Feel Your Love (Rapture)",
-        "url": "https://open.spotify.com/album/4EoPxkx9NLL0BmgpLXOL11"
-      },
-      "artists": [
-        {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Ganesh Waghela",
-          "url": "https://open.spotify.com/artist/4Kac7OHMUGXTbh1nWNXuNw"
-        }
-      ],
-      "duration_ms": 190070,
-      "name": "Feel Your Love (Rapture)",
-      "url": "https://open.spotify.com/track/71KYvmtTDxWggYdmJP3tTV"
-    },
-    {
-      "added_at": "2024-08-23 10:03:24",
-      "album": {
-        "name": "BOOM BAP",
-        "url": "https://open.spotify.com/album/6kQ44jxgMNT1Rn8o1kuIB1"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 134522,
-      "name": "BOOM BAP",
-      "url": "https://open.spotify.com/track/2CpQjdYa6NunbPzGUteF4i"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "I'll Wait For You",
-        "url": "https://open.spotify.com/album/7KoKBGgqZFDmZ4LQdef74V"
-      },
-      "artists": [
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "I'll Wait For You",
-      "url": "https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "BARMAN",
-        "url": "https://open.spotify.com/album/1mByzAvZR3t9OIaqDtnpQ0"
-      },
-      "artists": [
-        {
-          "name": "OBLADAET",
-          "url": "https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "BARMAN",
-      "url": "https://open.spotify.com/track/2trw3sZEVbHxqzGX5mvgJI"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "Knocking At My Door",
-        "url": "https://open.spotify.com/album/2k7mLxuz7WHnmsiVrI2mmD"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 190433,
-      "name": "Knocking At My Door",
-      "url": "https://open.spotify.com/track/4goD7afmHrKjGNLmNh3MVE"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "\u624d\u4e8c\u5341\u4e09",
-        "url": "https://open.spotify.com/album/6uPqB8zj9kTr3McW4TiVrh"
-      },
-      "artists": [
-        {
-          "name": "Khalil Fong",
-          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
-        }
-      ],
-      "duration_ms": 224498,
-      "name": "\u624d\u4e8c\u5341\u4e09",
-      "url": "https://open.spotify.com/track/6n3qQHQbECGcP0n6vlw2kF"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "Tears on the dancefloor",
-        "url": "https://open.spotify.com/album/7eiXcxepPal5LmfLfX2hqj"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 173515,
-      "name": "Tears on the dancefloor",
-      "url": "https://open.spotify.com/track/0OXC7IGzv3OmxZBXhtC522"
-    },
-    {
-      "added_at": "2024-08-23 16:03:08",
-      "album": {
-        "name": "Overstimulated",
-        "url": "https://open.spotify.com/album/76JJZxF2G6UXDq2z8TUcrC"
-      },
-      "artists": [
-        {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
-        }
-      ],
-      "duration_ms": 188031,
-      "name": "Overstimulated",
-      "url": "https://open.spotify.com/track/1AhcxIxXrVw4GlOPOjgOvn"
-    },
-    {
-      "added_at": "2024-08-23 04:03:48",
-      "album": {
-        "name": "RABBITHOLE",
-        "url": "https://open.spotify.com/album/0OptWsRKyw5TsNeiEshGfr"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 141443,
-      "name": "RABBITHOLE",
-      "url": "https://open.spotify.com/track/5NVnK2Ct25u1enmwdWAdkR"
     }
   ],
   "unique_name": "New Singles Now",

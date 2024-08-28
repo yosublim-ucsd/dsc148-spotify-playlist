@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 470021,
+  "num_followers": 470045,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -979,22 +979,26 @@
     {
       "added_at": "2024-08-09 13:47:44",
       "album": {
-        "name": "Z\u00e9 do caro\u00e7o",
-        "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
+        "name": "It's Your Life",
+        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         },
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+          "name": "Isadora",
+          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
+        },
+        {
+          "name": "Marina Diniz",
+          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Z\u00e9 do caro\u00e7o",
-      "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
+      "duration_ms": 160909,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
     },
     {
       "added_at": "2024-08-09 13:47:44",
@@ -1019,26 +1023,22 @@
     {
       "added_at": "2024-08-09 13:47:44",
       "album": {
-        "name": "It's Your Life",
-        "url": "https://open.spotify.com/album/3m2oxIxHCXPpbf1aEhGq1A"
+        "name": "Z\u00e9 do caro\u00e7o",
+        "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
       },
       "artists": [
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Isadora",
-          "url": "https://open.spotify.com/artist/15mR9E7xTmVPmKeHcPByzD"
-        },
-        {
-          "name": "Marina Diniz",
-          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
         }
       ],
-      "duration_ms": 160909,
-      "name": "It's Your Life",
-      "url": "https://open.spotify.com/track/3dYKyv7l70pDq8tG6WRpev"
+      "duration_ms": 192000,
+      "name": "Z\u00e9 do caro\u00e7o",
+      "url": "https://open.spotify.com/track/0AKNWA4m7jhh4SdZxKMC0R"
     },
     {
       "added_at": "2024-08-09 13:47:44",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2024-08-09 13:47:44",
       "album": {
-        "name": "O Descobridor dos Sete Mares",
-        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
-      },
-      "artists": [
-        {
-          "name": "WhyNot Music",
-          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
-        },
-        {
-          "name": "Rodrigo S\u00e1",
-          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "O Descobridor dos Sete Mares",
-      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
-    },
-    {
-      "added_at": "2024-08-09 13:47:44",
-      "album": {
         "name": "When In Rome",
         "url": "https://open.spotify.com/album/3daubnhKaUTkjWO1DO310f"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 194767,
       "name": "When In Rome",
       "url": "https://open.spotify.com/track/1ysP0xeOMwpdaPvYbZtBN5"
+    },
+    {
+      "added_at": "2024-08-09 13:47:44",
+      "album": {
+        "name": "O Descobridor dos Sete Mares",
+        "url": "https://open.spotify.com/album/4DBbseTNsBbkEDe2mTW2cd"
+      },
+      "artists": [
+        {
+          "name": "WhyNot Music",
+          "url": "https://open.spotify.com/artist/6yrqe8zFWIjaEVaUd00n1m"
+        },
+        {
+          "name": "Rodrigo S\u00e1",
+          "url": "https://open.spotify.com/artist/1ttThBcIEeYfzDZ4rYT3Ho"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "O Descobridor dos Sete Mares",
+      "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"
     },
     {
       "added_at": "2024-08-09 13:47:44",

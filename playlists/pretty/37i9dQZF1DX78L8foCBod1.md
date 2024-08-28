@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,950 likes - 107 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,965 likes - 107 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

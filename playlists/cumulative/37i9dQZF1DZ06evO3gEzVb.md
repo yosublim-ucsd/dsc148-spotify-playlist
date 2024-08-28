@@ -4,7 +4,7 @@
 
 > This is Daddy Lumba\. The essential tracks, all in one playlist.
 
-64 songs - 6 hr 4 min
+65 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Makoma Ho Toffee](https://open.spotify.com/track/0UydnFZZwlYY4b3HxoExqr) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Obi Ate Meso Buo](https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7) | 6:19 | 2021-12-28 |  |
 | [Makra Mo](https://open.spotify.com/track/4CRorlG9nVyy94L4pyG8VA) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 6:27 | 2021-12-28 |  |
 | [Masede \- Se Wiase Nyinaa Beyi W'ama](https://open.spotify.com/track/3hrk3Y80NYWdxfWutylVBf) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr), [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP) | [Sika](https://open.spotify.com/album/4xTYoouxVe7kIm93SFu3SO) | 6:00 | 2021-12-28 | 2024-08-06 |
+| [Me Ma Afa Wotrim Mu](https://open.spotify.com/track/00zyVdxD2TI7BbVEjjtTNT) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Me Ma Afa Wotrim Ne](https://open.spotify.com/album/6uv4PopPaCIe0IMo1YyjMx) | 5:00 | 2024-08-28 |  |
 | [Meda Me Gya Mu](https://open.spotify.com/track/5eh38lehGYMMQQzuhkgL5I) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Ma To Odo Mu](https://open.spotify.com/album/04RTUc4ZjIWv5cim94K5C9) | 4:54 | 2021-12-28 | 2023-11-11 |
 | [Medo Wasem Bebree](https://open.spotify.com/track/6iwpdRMT9DhLNaX1Q16naB) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 6:33 | 2021-12-28 |  |
 | [Mensei Da \(Harry\)](https://open.spotify.com/track/73rn8UZBXBh4SYbeMxUMX1) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Play Boy](https://open.spotify.com/album/1yihy5cSOcS96ZMwGj5fDG) | 5:55 | 2021-12-28 |  |

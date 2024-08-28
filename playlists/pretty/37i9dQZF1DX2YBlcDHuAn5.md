@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,012 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,017 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 25 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
 | 26 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 |
 | 27 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 |
-| 28 | [Pink Shades](https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv) | 3:30 |
-| 29 | [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 |
+| 28 | [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 |
+| 29 | [Pink Shades](https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv) | 3:30 |
 | 30 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 |
 | 31 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 |
 | 32 | [DNA](https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [DNA](https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY) | 3:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,523 likes - 308 songs - 17 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,524 likes - 308 songs - 17 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 68 | [Valentino](https://open.spotify.com/track/4ejTiGZJNOkc3RM6RUITJi) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Palo Santo \(Deluxe\)](https://open.spotify.com/album/1OUGPngAngAxjliRlrAc6v) | 3:01 |
 | 69 | [Good Luck \(with Jax Jones & Galantis\)](https://open.spotify.com/track/2BfJX65Te5q84Pku7osGRH) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:55 |
 | 70 | [Between Us](https://open.spotify.com/track/1UxRk7ySL6EpSA0fuByeg0) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:55 |
-| 71 | [She](https://open.spotify.com/track/1z1ztKUrDr09ZSMDnN3QIG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:52 |
+| 71 | [She](https://open.spotify.com/track/1z1ztKUrDr09ZSMDnN3QIG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \- Deluxe](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:52 |
 | 72 | [Love Is Religion \(The Blessed Madonna Remix\) \[Mixed\]](https://open.spotify.com/track/3q4cfRBOyj4WqQYV9HrsUh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Club Future Nostalgia \(DJ Mix\)](https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C) | 3:29 |
 | 73 | [Radio](https://open.spotify.com/track/6zsFddikwwAfBr3USkYSDx) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Every Cloud \- Silver Linings](https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo) | 3:15 |
 | 74 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/4DiixEtYrBxxj6SSWcUvGZ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:15 |
@@ -157,8 +157,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 147 | [16 Again](https://open.spotify.com/track/3qrTracLJmTz2XaJDkSiEN) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [16 Again](https://open.spotify.com/album/7x7AQEl511oMbhjVkBc2Lq) | 3:15 |
 | 148 | [Impressionable](https://open.spotify.com/track/3QAgFsUgFfRNk8UFfB0f89) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 2 \- The 3rd Album](https://open.spotify.com/album/3xgFGYUOVxGp7pZywdf7AC) | 3:01 |
 | 149 | [Don't Know About You \(feat\. Becky Hill & JME\)](https://open.spotify.com/track/5fHAZKWoCWC5lzDqWw49e6) | [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Don't Know About You \(feat\. Becky Hill & JME\)](https://open.spotify.com/album/07qE5bujJguS4BK8Ah3l09) | 2:50 |
-| 150 | [Control Freak](https://open.spotify.com/track/0Vo7LGRniWktyOWYEf7xjX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:00 |
-| 151 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 |
+| 150 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 |
+| 151 | [Control Freak](https://open.spotify.com/track/0Vo7LGRniWktyOWYEf7xjX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 3:00 |
 | 152 | [EASY ON ME](https://open.spotify.com/track/5PvDkxIW9DoKLEJu0F1upY) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [LET’S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? \(DELUXE\)](https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq) | 3:22 |
 | 153 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
 | 154 | [Better Together](https://open.spotify.com/track/2PZiLjMVAAL3kO773EpWPT) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [Better Together](https://open.spotify.com/album/3hfuNgyB8as3DOvQclFNtT) | 3:37 |
@@ -272,8 +272,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 262 | [Enough](https://open.spotify.com/track/4gAOsYjYab3gcAjy6iXUSk) | [Freedo](https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Enough](https://open.spotify.com/album/6bZ48hDnMVSavEVMcH4qdm) | 2:29 |
 | 263 | [BLK MADONNA](https://open.spotify.com/track/4uF3wim4tyomeIiHQ8sGyU) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 1:48 |
 | 264 | [Love U Better](https://open.spotify.com/track/3N0PBpoAzHdomQy9wU15YS) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [There’s A Nightclub Inside My Head](https://open.spotify.com/album/6h6xFQ5SdScv1mkoWNzJnI) | 3:04 |
-| 265 | [Mood](https://open.spotify.com/track/1CM3iPAkh18R4hFtZic86O) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Mood](https://open.spotify.com/album/2SuTPaMTSmZzFKk2btXQuA) | 2:37 |
-| 266 | [BRB](https://open.spotify.com/track/5TVIzrtfPxbkvgQ75fwFV6) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [BRB](https://open.spotify.com/album/5ReIug3dDUmimDMm5PQoP4) | 3:01 |
+| 265 | [BRB](https://open.spotify.com/track/5TVIzrtfPxbkvgQ75fwFV6) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [BRB](https://open.spotify.com/album/5ReIug3dDUmimDMm5PQoP4) | 3:01 |
+| 266 | [Mood](https://open.spotify.com/track/1CM3iPAkh18R4hFtZic86O) | [KABBA](https://open.spotify.com/artist/6kdGT6IBqYORsRuUFrADg3) | [Mood](https://open.spotify.com/album/2SuTPaMTSmZzFKk2btXQuA) | 2:37 |
 | 267 | [Millionaire](https://open.spotify.com/track/1gHl5mKTGgTnPiEniYY7Pi) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Life In Plastic](https://open.spotify.com/album/6u5RnuC327BY3arCzImhm0) | 3:02 |
 | 268 | [Go\-go Girl](https://open.spotify.com/track/79g34ACMp6zEjt5Tu8TYbw) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Suburban Plaza](https://open.spotify.com/artist/3p4jVzrkk30nsU9vBu8wqm) | [Access Denied](https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv) | 3:02 |
 | 269 | [FOREVER ANYWAY](https://open.spotify.com/track/6t8IevRP0WqkrnvjVZM9FJ) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM) | [INNOCENT](https://open.spotify.com/album/1a5UWR2OuViy3GPj71nSDX) | 3:47 |
@@ -317,4 +317,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 307 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 308 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbafAgAAAADKbf32fY+GNDSxP72NFxbd`
+Snapshot ID: `AbakogAAAADN66Vfd/zzqFX9z9VUwLpz`

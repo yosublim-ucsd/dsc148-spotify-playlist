@@ -4,7 +4,7 @@
 
 > Don’t Sweat It!
 
-283 songs - 19 hr 17 min
+284 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [SLEEPS SOCIETY](https://open.spotify.com/track/5LteMwtmnx3IOCihvyO4v0) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY](https://open.spotify.com/album/3j3pfrxKxe3Y9D9wyxZmmi) | 3:21 | 2021-03-29 | 2022-07-29 |
 | [Smothered](https://open.spotify.com/track/2wdjEAsK64EUPmNIIH6MWt) | [Spineshank](https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4) | [Self\-Destructive Pattern](https://open.spotify.com/album/0rMyQJKxkqIOy9p5u4iV5w) | 3:10 | 2024-01-19 | 2024-07-16 |
 | [Snowblood](https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Snowblood](https://open.spotify.com/album/393HU6oEXQybzous3p0NC5) | 4:13 | 2021-03-29 | 2024-07-16 |
+| [Spike in My Veins](https://open.spotify.com/track/1wzZLs3oFoMcSbf1nEzhLm) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(Deluxe\)](https://open.spotify.com/album/6TA5d51wosfWuZXyOKWzpG) | 4:24 | 2024-07-15 |  |
 | [St\. Anger](https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM) | 7:21 | 2021-03-29 |  |
 | [St\. Anger](https://open.spotify.com/track/3fOc9x06lKJBhz435mInlH) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [St\. Anger](https://open.spotify.com/album/4ljK2LVKvEPd5xPgUJn0Bs) | 7:21 | 2021-03-29 | 2024-04-19 |
 | [Stars Are Falling](https://open.spotify.com/track/00V83hJEpRdcF4XJSyXT6O) | [Fifth Angel](https://open.spotify.com/artist/37ePD9eNIUXak0LWFGNq4U) | [The Third Secret](https://open.spotify.com/album/0yisPHQURx8IdypLHm3orS) | 4:13 | 2021-03-29 | 2022-07-29 |
@@ -252,7 +253,7 @@
 | [The Nexus](https://open.spotify.com/track/3cSJXlpx1lAP8vGAh8mEXB) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Nexus](https://open.spotify.com/album/6HURHOREgzRB1e00Uu99ki) | 3:16 | 2023-04-04 | 2024-04-19 |
 | [The Remedy](https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl) | 4:03 | 2021-03-29 | 2023-09-02 |
 | [The Remedy](https://open.spotify.com/track/69ow35I1jI6gYI45H1Bw7e) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Mortal Coil](https://open.spotify.com/album/5aaWL7zYiYR0421K3UTmX1) | 4:03 | 2021-03-29 | 2022-07-29 |
-| [The Shape of Water](https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [The Shape of Water](https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN) | 3:34 | 2024-01-19 |  |
+| [The Shape of Water](https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [The Shape of Water](https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN) | 3:34 | 2024-01-19 | 2024-08-28 |
 | [The Signal Fire](https://open.spotify.com/track/5kP32cKaf8ln4PSoY6sD13) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l), [Howard Jones](https://open.spotify.com/artist/4T0p8Zo2nJdSoCDTrV9jgW) | [Atonement](https://open.spotify.com/album/5k1IQPbz37ctTDrw4vbvtp) | 3:05 | 2021-03-29 | 2024-04-17 |
 | [The Signal Fire \(feat\. Howard Jones\)](https://open.spotify.com/track/2Fup9XFE9sXWu9Qft2Q7ZB) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l), [Howard Jones](https://open.spotify.com/artist/4T0p8Zo2nJdSoCDTrV9jgW) | [Atonement](https://open.spotify.com/album/6kkUp557e0o5k0dRBfohJZ) | 3:05 | 2021-03-29 |  |
 | [The Time Is Now](https://open.spotify.com/track/0vMpw8pTVb7egqdVaKwy6U) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [In Our Wake](https://open.spotify.com/album/1DXYDky3yWmlZyfknW5UT8) | 3:19 | 2023-04-04 | 2024-04-19 |

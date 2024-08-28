@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Charley Crockett
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,032 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,051 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 51 | [Lonely Cowboy \- Radio Edit](https://open.spotify.com/track/2KXeAarYaM997AvWtrlaZm) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Lonely Cowboy](https://open.spotify.com/album/4D6uVAiz0FYzdbn3nPdl1A) | 3:23 |
 | 52 | [Wolves](https://open.spotify.com/track/48WgsmbLBu9emLSodjG0O5) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [American Love Song](https://open.spotify.com/album/6MiafQveSkts5v397zarWq) | 4:32 |
 | 53 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
-| 54 | [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 |
+| 54 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
 | 55 | [Life Lessons](https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Life Lessons](https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv) | 3:15 |
-| 56 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
+| 56 | [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 |
 | 57 | [Underground](https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:56 |
 | 58 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 |
 | 59 | [Permanently Lonely \(From "Skincare"\)](https://open.spotify.com/track/3IjDDbc4BAlOFpHLrFuCiu) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Permanently Lonely \(From "Skincare"\)](https://open.spotify.com/album/2Y3oP24fYERudDG6m5risI) | 3:35 |
@@ -94,9 +94,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 84 | [Borrowed Time](https://open.spotify.com/track/0IVWcNAMBqFKMoFL1dpefN) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg) | [Borrowed Time](https://open.spotify.com/album/7E0FlADizNo6U4aALWAi7P) | 3:01 |
 | 85 | [The Returner](https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [The Returner](https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i) | 3:50 |
 | 86 | [Take It Right On](https://open.spotify.com/track/046SrYmDPNPmBPAwxXvJHF) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Take It Right On](https://open.spotify.com/album/6zPxKO6Lc8B5u51pztcAxH) | 2:31 |
-| 87 | [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 |
+| 87 | [Everywhere I Go](https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO) | 2:19 |
 | 88 | [Concrete And Barbed Wire](https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Concrete And Barbed Wire](https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z) | 3:13 |
-| 89 | [Everywhere I Go](https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO) | 2:19 |
+| 89 | [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 |
 | 90 | [Little Songs](https://open.spotify.com/track/1SvFlRSYQRAkhigT0yoo8k) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Little Songs](https://open.spotify.com/album/7aLyCKBgtyqjC1r8K8b8iT) | 2:25 |
 | 91 | [Into The Unknown](https://open.spotify.com/track/2CsTLX6go5L9CGnaoLmB2a) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [BOOTCUT](https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK) | 2:48 |
 | 92 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 95 | [Funny Black Lines](https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2) | [Kieran Campbell](https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK) | [Funny Black Lines](https://open.spotify.com/album/6JaQdJcEU4rzdq3NjWDo7N) | 2:58 |
 | 96 | [Honest Love](https://open.spotify.com/track/4dIAlqPSxi5DiIEjOhzNV1) | [Dom Louis](https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph) | [Honest Love](https://open.spotify.com/album/7at93U2OD7nuYVVWhwFFZV) | 3:54 |
 | 97 | [Abraham](https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Abraham](https://open.spotify.com/album/0TNECEpqFQ1xd62vJbLsdF) | 4:10 |
-| 98 | [Without You](https://open.spotify.com/track/7oCpK9tIb7AYWq1ZEINJwY) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Without You](https://open.spotify.com/album/4XOJb1TmbZGoEYccHZtImE) | 3:39 |
-| 99 | [Hey Moon \(A Campfire Song\)](https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC) | [Hey Moon \(A Campfire Song\)](https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj) | 4:50 |
+| 98 | [Hey Moon \(A Campfire Song\)](https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC) | [Hey Moon \(A Campfire Song\)](https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj) | 4:50 |
+| 99 | [Without You](https://open.spotify.com/track/7oCpK9tIb7AYWq1ZEINJwY) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Without You](https://open.spotify.com/album/4XOJb1TmbZGoEYccHZtImE) | 3:39 |
 | 100 | [Resurrection Day](https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Resurrection Day](https://open.spotify.com/album/2hYOs5pJ3WSG1DuKmsh3ZM) | 2:49 |
 
 Snapshot ID: `ZsgJQAAAAAAR+0W2hgnAumYiKnCdLChL`

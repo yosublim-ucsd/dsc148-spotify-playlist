@@ -1,12 +1,12 @@
 {
   "description": "Smooth indie jazz joints from around the globe. Cover: Thee Marloes",
-  "num_followers": 74302,
+  "num_followers": 74443,
   "original_name": "Rarities",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr9tygAAAAAx5u2kKgahGxHYWu6WllwD",
+  "snapshot_id": "Zs36/wAAAAD9XkQXrmZDpe8EOeOPhPxf",
   "tracks": [
     {
       "added_at": "2024-08-16 15:18:34",
@@ -129,6 +129,22 @@
       "url": "https://open.spotify.com/track/5ybA4h5miGkxaLgs7TVsGu"
     },
     {
+      "added_at": "2024-08-27 16:12:47",
+      "album": {
+        "name": "born with power",
+        "url": "https://open.spotify.com/album/0oeAHa0oWwBEVRS8oRYg6K"
+      },
+      "artists": [
+        {
+          "name": "duendita",
+          "url": "https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22"
+        }
+      ],
+      "duration_ms": 215825,
+      "name": "born with power",
+      "url": "https://open.spotify.com/track/5r4SYNrmYccS12HT9psaxc"
+    },
+    {
       "added_at": "2024-07-26 04:00:00",
       "album": {
         "name": "Outer Spaceways Incorporated - Kronos Quartet & Friends Meet Sun Ra",
@@ -173,6 +189,22 @@
       "url": "https://open.spotify.com/track/3yNBnPv3JbGxGvTiIhndvx"
     },
     {
+      "added_at": "2024-08-27 16:12:47",
+      "album": {
+        "name": "Someone Asked Me How I've Been",
+        "url": "https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Someone Asked Me How I've Been",
+      "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
+    },
+    {
       "added_at": "2024-06-19 17:02:14",
       "album": {
         "name": "something will happen",
@@ -187,22 +219,6 @@
       "duration_ms": 179864,
       "name": "something will happen",
       "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
-    },
-    {
-      "added_at": "2024-08-16 15:18:34",
-      "album": {
-        "name": "Romance ESL / The Heavy Loop",
-        "url": "https://open.spotify.com/album/4UtoGTX21JaNiGgFLLOFYB"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Romance ESL",
-      "url": "https://open.spotify.com/track/4E1iJ5IyJArrHi90JByHXV"
     },
     {
       "added_at": "2024-08-16 15:18:34",
@@ -291,6 +307,22 @@
       "duration_ms": 198500,
       "name": "joycelyn's dance",
       "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
+    },
+    {
+      "added_at": "2024-05-10 21:54:38",
+      "album": {
+        "name": "b i g f e e l i n g s",
+        "url": "https://open.spotify.com/album/2H6k8joKIeY5mLZVPyPVfu"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 264133,
+      "name": "b i g f e e l i n g s",
+      "url": "https://open.spotify.com/track/0Xfkeu82ju4uni0CH2z9XN"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -401,20 +433,20 @@
       "url": "https://open.spotify.com/track/3RNLKLJyNYLh9t6ojhxN7B"
     },
     {
-      "added_at": "2024-05-10 21:54:38",
+      "added_at": "2024-08-16 15:18:34",
       "album": {
-        "name": "b i g f e e l i n g s",
-        "url": "https://open.spotify.com/album/2H6k8joKIeY5mLZVPyPVfu"
+        "name": "Romance ESL / The Heavy Loop",
+        "url": "https://open.spotify.com/album/4UtoGTX21JaNiGgFLLOFYB"
       },
       "artists": [
         {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
         }
       ],
-      "duration_ms": 264133,
-      "name": "b i g f e e l i n g s",
-      "url": "https://open.spotify.com/track/0Xfkeu82ju4uni0CH2z9XN"
+      "duration_ms": 196000,
+      "name": "Romance ESL",
+      "url": "https://open.spotify.com/track/4E1iJ5IyJArrHi90JByHXV"
     },
     {
       "added_at": "2024-02-16 23:03:19",
@@ -1487,38 +1519,6 @@
       "duration_ms": 215800,
       "name": "Knocked Down",
       "url": "https://open.spotify.com/track/6eqB9nHqFg5lXl0R4KJOfn"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "Last Words",
-        "url": "https://open.spotify.com/album/11rsTNOr3mFKfGJ0JjtSJy"
-      },
-      "artists": [
-        {
-          "name": "NO ZU",
-          "url": "https://open.spotify.com/artist/0ASJYABL9IBmNhXFXDuV5P"
-        }
-      ],
-      "duration_ms": 309751,
-      "name": "Last Words",
-      "url": "https://open.spotify.com/track/3khWqd9n9x6U7UMDlXWxbm"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "Regular Groove",
-        "url": "https://open.spotify.com/album/49otrUutRG82UtwxkOifrl"
-      },
-      "artists": [
-        {
-          "name": "Move 78",
-          "url": "https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr"
-        }
-      ],
-      "duration_ms": 200187,
-      "name": "Regular Groove",
-      "url": "https://open.spotify.com/track/7IiJt2xY8hfkDQUFn5udUL"
     },
     {
       "added_at": "2024-01-12 00:22:54",

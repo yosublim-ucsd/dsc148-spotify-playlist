@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 ### [This Is Ryan Adams](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1nTCV2)
 
-> This is Ryan Adams\. The essential tracks, all in one playlist.
+> This is: Ryan Adams\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,501 likes - 53 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,502 likes - 53 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 27 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
 | 28 | [La Cienega Just Smiled](https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ) | 5:01 |
 | 29 | [All You Had To Do Was Stay](https://open.spotify.com/track/7Jw1V7CzU9xvVSEONbHOD3) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 3:30 |
-| 30 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Live from Saskatoon, SK\. 2023](https://open.spotify.com/track/5K7CW05pUejGciRqWwzGv7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Wanna Dance with Somebody \(Live from Saskatoon, SK\. 2023\)](https://open.spotify.com/album/5UsxUBtseunAP05fd2ASct) | 3:04 |
-| 31 | [This House Is Not For Sale](https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:53 |
+| 30 | [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS) | 3:00 |
+| 31 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Live from Saskatoon, SK\. 2023](https://open.spotify.com/track/5K7CW05pUejGciRqWwzGv7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Wanna Dance with Somebody \(Live from Saskatoon, SK\. 2023\)](https://open.spotify.com/album/5UsxUBtseunAP05fd2ASct) | 3:04 |
 | 32 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 |
 | 33 | [Bad Blood](https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:55 |
-| 34 | [Chin Up, Cheer Up](https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:58 |
-| 35 | [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS) | 3:00 |
+| 34 | [This House Is Not For Sale](https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:53 |
+| 35 | [Chin Up, Cheer Up](https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:58 |
 | 36 | [So Alive](https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Rock N Roll](https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX) | 3:58 |
 | 37 | [Wildest Dreams](https://open.spotify.com/track/6cX3XiNsgTUAqzdworhRUt) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/0MVK1j7wrUkBZ09ZuMURJA) | 5:21 |
 | 38 | [I See Monsters](https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:54 |
@@ -51,15 +51,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 41 | [Style](https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 2:44 |
 | 42 | [English Girls Approximately](https://open.spotify.com/track/4z7UVZQQbF2QNT0jlyBLFg) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:40 |
 | 43 | [Oh My God, Whatever, Etc.](https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:31 |
-| 44 | [Ace Of Spades \- Live from Bensalem, PA\. 2023](https://open.spotify.com/track/0pYvq9zYDTzs3KwfrWE4xf) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ace of Spades \(Live from Bensalem, PA\. 2023\)](https://open.spotify.com/album/16piJJjE2I3NZMRIKojnfq) | 4:23 |
-| 45 | [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 |
+| 44 | [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 |
+| 45 | [Ace Of Spades \- Live from Bensalem, PA\. 2023](https://open.spotify.com/track/0pYvq9zYDTzs3KwfrWE4xf) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ace of Spades \(Live from Bensalem, PA\. 2023\)](https://open.spotify.com/album/16piJJjE2I3NZMRIKojnfq) | 4:23 |
 | 46 | [Don't You \(Forget About Me\) \- Live from Glasgow](https://open.spotify.com/track/6h3BP0ajpt6uvb4vlUpu0g) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wasted Years \(Live from Glasgow, UK\. 2023\)](https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs) | 3:20 |
 | 47 | [I'm Sorry And I Love You](https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wednesdays](https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek) | 3:34 |
 | 48 | [How Much Light](https://open.spotify.com/track/3QAM7H3PK833IO3fT1kS7Q) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [I Do Not Feel Like Being Good](https://open.spotify.com/album/0h8KSpVRjZMGy3FiNGRvlD) | 3:15 |
 | 49 | [When Doves Cry \- Live from Minneapolis, MN\. 2022.](https://open.spotify.com/track/07DYpYvOfxSSx7Rwk4WZRm) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Runaway Train \(Live from Minneapolis, MN\. 2022.\)](https://open.spotify.com/album/6U26PW2LjoFnSS9VTehfRR) | 4:24 |
 | 50 | [Gimme Something Good](https://open.spotify.com/track/08aCW0RGOaR53En8g7e3HJ) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ryan Adams](https://open.spotify.com/album/5FV8d3DhSoArvwr0Qqgzq3) | 3:54 |
-| 51 | [Living On A Prayer \- Live from Red Bank, NJ\. 2023](https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Livin' On A Prayer \(Live from Red Bank, NJ\. 2023\)](https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL) | 3:53 |
-| 52 | [Sympathy For The Devil \- Live from Edmonton, AL\. 2023](https://open.spotify.com/track/28xIbZJQFMHdox98AfM8qq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sympathy For The Devil \(Live from Edmonton, AL\. 2023\)](https://open.spotify.com/album/1O2y8m2ZRDFezcHHMVlf1k) | 4:25 |
+| 51 | [Sympathy For The Devil \- Live from Edmonton, AL\. 2023](https://open.spotify.com/track/28xIbZJQFMHdox98AfM8qq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sympathy For The Devil \(Live from Edmonton, AL\. 2023\)](https://open.spotify.com/album/1O2y8m2ZRDFezcHHMVlf1k) | 4:25 |
+| 52 | [Living On A Prayer \- Live from Red Bank, NJ\. 2023](https://open.spotify.com/track/4aW0xJmtaL7dkQrO7VHhEI) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Livin' On A Prayer \(Live from Red Bank, NJ\. 2023\)](https://open.spotify.com/album/4zuRLz6Ot2IiSiRjErQ8qL) | 3:53 |
 | 53 | [Sin City \- Live from Bensalem, PA\. 2023](https://open.spotify.com/track/1Nr9I8LyjRZXp8suxqxerj) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sin City \(Live from Bensalem, PA\. 2023\)](https://open.spotify.com/album/2LxLQ0xti5oCPnKPTISnzj) | 3:31 |
 
-Snapshot ID: `Zsp0AAAAAABlwu/kFpPYub+Qt+GCYeNE`
+Snapshot ID: `ZsvFgAAAAADecezaNLup0Uf6vi3QjkOq`

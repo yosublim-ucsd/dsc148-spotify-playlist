@@ -1,12 +1,12 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 543444,
+  "num_followers": 543577,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAADAvCqX+YdVyoWvAU8ucpRS",
+  "snapshot_id": "ZsvFgAAAAAD2SRhgUfR7EVL52RS0abV8",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Catch",
-      "url": "https://open.spotify.com/track/2aJ6PwdTLJRhOMX7KIySvv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disintegration (Remastered)",
         "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 258346,
       "name": "Closedown - Remastered 2010",
       "url": "https://open.spotify.com/track/0WVwKob5LPld3ywrxcHJnE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 165066,
+      "name": "Catch",
+      "url": "https://open.spotify.com/track/2aJ6PwdTLJRhOMX7KIySvv"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss Me, Kiss Me, Kiss Me",
-        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 153040,
-      "name": "Perfect Girl",
-      "url": "https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Disintegration (Remastered)",
         "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
       },
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Top (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV"
+        "name": "Kiss Me, Kiss Me, Kiss Me",
+        "url": "https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 221826,
-      "name": "The Caterpillar",
-      "url": "https://open.spotify.com/track/6rH2JRSsG4PInKoUOcshrX"
+      "duration_ms": 153040,
+      "name": "Perfect Girl",
+      "url": "https://open.spotify.com/track/7lYkyTd5mViUaw5kCTRB1x"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pornography",
-        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
+        "name": "The Top (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 399866,
-      "name": "One Hundred Years",
-      "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"
+      "duration_ms": 221826,
+      "name": "The Caterpillar",
+      "url": "https://open.spotify.com/track/6rH2JRSsG4PInKoUOcshrX"
     },
     {
       "added_at": null,
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "4:13 Dream",
-        "url": "https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV"
+        "name": "Pornography",
+        "url": "https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm"
       },
       "artists": [
         {
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 376586,
-      "name": "Underneath The Stars",
-      "url": "https://open.spotify.com/track/0PKVjYlKw7z3IvKAoxrYTR"
+      "duration_ms": 399866,
+      "name": "One Hundred Years",
+      "url": "https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
       "duration_ms": 306186,
       "name": "Maybe Someday",
       "url": "https://open.spotify.com/track/6x2f8jgLWU8IrBSuNdvoWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4:13 Dream",
+        "url": "https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 376586,
+      "name": "Underneath The Stars",
+      "url": "https://open.spotify.com/track/0PKVjYlKw7z3IvKAoxrYTR"
     },
     {
       "added_at": null,

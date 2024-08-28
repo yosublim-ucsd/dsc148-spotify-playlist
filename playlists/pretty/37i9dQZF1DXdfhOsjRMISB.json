@@ -1,6 +1,6 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Miranda Lambert",
-  "num_followers": 368281,
+  "num_followers": 368355,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Lee Brice",
-        "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
-      },
-      "artists": [
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Rumor",
-      "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "NATE SMITH (DELUXE)",
         "url": "https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 189986,
       "name": "World on Fire",
       "url": "https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Lee Brice",
+        "url": "https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Rumor",
+      "url": "https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Thought You Should Know",
-        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 215571,
-      "name": "Thought You Should Know",
-      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "This Is the Heavy",
         "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 203680,
       "name": "We Got History",
       "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Thought You Should Know",
+        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 215571,
+      "name": "Thought You Should Know",
+      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Back Then Right Now",
-        "url": "https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 201485,
-      "name": "Back Then Right Now",
-      "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "One Too Many",
         "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
       },
@@ -1927,6 +1911,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Back Then Right Now",
+        "url": "https://open.spotify.com/album/3IQfOGGUJfBkWIgXzLaub9"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 201485,
+      "name": "Back Then Right Now",
+      "url": "https://open.spotify.com/track/0GdZqKPBrvkpo7mk2OyHtf"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "One Margarita",
         "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
       },
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 167534,
-      "name": "TRUCK BED",
-      "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
+      "duration_ms": 192840,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1979,18 +1979,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 192840,
-      "name": "Miss Me More",
-      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+      "duration_ms": 167534,
+      "name": "TRUCK BED",
+      "url": "https://open.spotify.com/track/103u49mLoJUge83B1CnLxI"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Family Ties",
-        "url": "https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "All Again",
-      "url": "https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Young Love & Saturday Nights",
         "url": "https://open.spotify.com/album/5fTud1jSzcTEwm7I0j4BTu"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 195357,
       "name": "Young Love & Saturday Nights",
       "url": "https://open.spotify.com/track/1MCUz8U559nGEN377EHHaY"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Family Ties",
+        "url": "https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "All Again",
+      "url": "https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Old Dirt Roads",
-        "url": "https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU"
-      },
-      "artists": [
-        {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
-        }
-      ],
-      "duration_ms": 227891,
-      "name": "Old Dirt Roads",
-      "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "She Likes It (feat. Jake Scott)",
         "url": "https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 163311,
       "name": "She Likes It (feat. Jake Scott)",
       "url": "https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Old Dirt Roads",
+        "url": "https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "duration_ms": 227891,
+      "name": "Old Dirt Roads",
+      "url": "https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "shot in the dark",
-        "url": "https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ"
-      },
-      "artists": [
-        {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
-        }
-      ],
-      "duration_ms": 182086,
-      "name": "your place",
-      "url": "https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Dark Horse",
         "url": "https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 224626,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "shot in the dark",
+        "url": "https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "duration_ms": 182086,
+      "name": "your place",
+      "url": "https://open.spotify.com/track/2z5t8IRRtt5vwkSzP9umJo"
     },
     {
       "added_at": "2024-08-23 04:00:00",

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-474 songs - 22 hr 33 min
+475 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [CHANGA CHANGA](https://open.spotify.com/track/07pZr5hCkdQUrIqHxlZqEc) | [Jot Dhindsa](https://open.spotify.com/artist/6pJP9TynvFU2wR1pDMtwth), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [THREE WAY](https://open.spotify.com/album/6mta4ktCakVsjVL7cVuJo3) | 2:15 | 2024-03-13 | 2024-03-20 |
 | [Characters](https://open.spotify.com/track/5b7BWs4nsatS4m72uaWRNi) | [Barinder Dhapai](https://open.spotify.com/artist/7unAVMZwYSIAChXVALfZ9B) | [Characters](https://open.spotify.com/album/5Reb4nVxEHFDAtMjDA1JP0) | 2:38 | 2023-10-06 | 2023-10-18 |
 | [Charcha](https://open.spotify.com/track/4vIbgvmbj6pFoLenVnzCdS) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Charcha](https://open.spotify.com/album/2fNbxr9xOHz6X7eh6MuXtj) | 2:28 | 2024-04-24 | 2024-08-13 |
+| [Chaudhar](https://open.spotify.com/track/5KBE9WQ9pUZXz3SLJZf0hk) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Labh Heera](https://open.spotify.com/artist/4ezwpwbRQF6wEWji17s3Bc), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Chaudhar](https://open.spotify.com/album/5oKWsH1gDsgD7c1jkYSKMt) | 4:12 | 2024-08-27 |  |
 | [Check It Out](https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Check It Out](https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV) | 3:15 | 2023-06-28 | 2024-04-19 |
 | [Chor Chor](https://open.spotify.com/track/1RTmalkNzCllQCG2IJi6nc) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Limitless](https://open.spotify.com/album/3pf6uLZdrxvd7W75J443Dw) | 2:55 | 2023-10-25 | 2023-11-07 |
 | [Chup Chup](https://open.spotify.com/track/1gwu4J4HIbbQrPUHHRc415) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Roop Bhullar](https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d) | [Keep It Gangsta](https://open.spotify.com/album/2yLZX2MHdXJK8nyFUmFGvW) | 2:35 | 2023-03-29 | 2023-05-06 |

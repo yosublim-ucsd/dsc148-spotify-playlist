@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 > This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,046 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,057 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 37 | [JJ Es La Clave](https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda Vol.2](https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS) | 2:33 |
 | 38 | [Peligro](https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Peligro](https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3) | 2:00 |
 | 39 | [Ya Lo Decidí](https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 3:45 |
-| 40 | [Como Una Pantera](https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b) | [Hermanos Siqueiros](https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Como Una Pantera](https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4) | 2:50 |
-| 41 | [La Fiesta Ya Empezo](https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:28 |
+| 40 | [La Fiesta Ya Empezo](https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:28 |
+| 41 | [Como Una Pantera](https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b) | [Hermanos Siqueiros](https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Como Una Pantera](https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4) | 2:50 |
 | 42 | [Alex Valencia](https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:18 |
 | 43 | [El Mejor Del Montón](https://open.spotify.com/track/0I18wPVPkFSPvJKSBoc5EA) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.3\)](https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM) | 2:27 |
 | 44 | [No Quiero Agarrar El Rollo](https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [No Quiero Agarrar El Rollo](https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi) | 2:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [Me Dicen Rana y Brinco](https://open.spotify.com/track/3VJHjovNyzkOw4CUdXOp6Y) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk), [Job Gallegos](https://open.spotify.com/artist/76lYBIbMnUBukvLlYZFGrH), [Cuadra Distante](https://open.spotify.com/artist/18YbbzNXbzfAYvguEzcQ5D) | [Me Dicen Rana y Brinco](https://open.spotify.com/album/3ecvio5Id4s2NCOHMWKFbf) | 3:08 |
 | 50 | [Diamantes De Esfera](https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Lo Prometido Es Deuda \(Vol.4\)](https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71) | 2:00 |
 
-Snapshot ID: `Zsp0AAAAAAB96di9Xiy0gowo7FIDOU6x`
+Snapshot ID: `ZsvFgAAAAAALkZtG5Nn38F9N/ikH65v3`

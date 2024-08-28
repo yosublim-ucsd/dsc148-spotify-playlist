@@ -1,12 +1,12 @@
 {
   "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 396543,
+  "num_followers": 396648,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABeuMulxnkpEkYMhpZXpleV",
+  "snapshot_id": "ZsvFgAAAAACStNQbTndmueWdfzRI1Ty5",
   "tracks": [
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 179506,
-      "name": "Takes Me Nowhere",
-      "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
+      "duration_ms": 222866,
+      "name": "Kristy, Are You Doing Okay?",
+      "url": "https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 222866,
-      "name": "Kristy, Are You Doing Okay?",
-      "url": "https://open.spotify.com/track/616cVydBdvTudiKpoWs0WY"
+      "duration_ms": 179506,
+      "name": "Takes Me Nowhere",
+      "url": "https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A"
     },
     {
       "added_at": null,

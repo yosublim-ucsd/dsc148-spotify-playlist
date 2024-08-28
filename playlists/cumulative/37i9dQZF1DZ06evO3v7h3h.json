@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-19",
-  "description": "This is Rashid. The essential tracks, all in one playlist.",
+  "description": "This Is Rashid. Los temas esenciales, todos en una lista.",
   "name": "This Is Rashid",
   "tracks": [
     {
@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 464853,
       "name": "L\u00edngua dos Campe\u00f5es",
       "url": "https://open.spotify.com/track/0Uq6l0gRWpsUzoDPklSPmp"
@@ -1470,6 +1470,36 @@
       "duration_ms": 262559,
       "name": "Recorda\u00e7\u00f5es",
       "url": "https://open.spotify.com/track/1alIVYE2bdhYwNalVu3htc"
+    },
+    {
+      "album": {
+        "name": "Rede Moinho de Mar\u00e7o 2",
+        "url": "https://open.spotify.com/album/3Km65A2qQ7GgTnFU1oLc5Y"
+      },
+      "artists": [
+        {
+          "name": "Rocha",
+          "url": "https://open.spotify.com/artist/3LM3WY4VyCmTIC8LwDqMWD"
+        },
+        {
+          "name": "D-Cazz",
+          "url": "https://open.spotify.com/artist/6CLa3TvsaThfZJH7WNsu97"
+        },
+        {
+          "name": "GOG",
+          "url": "https://open.spotify.com/artist/1JyFYHa051bTN8BH8nWa7e"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243703,
+      "name": "Rede Moinho de Mar\u00e7o 2",
+      "url": "https://open.spotify.com/track/27KohREm8VNgO7sDwaIT4y"
     },
     {
       "album": {

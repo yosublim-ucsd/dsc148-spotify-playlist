@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 266573,
       "name": "Me Tiraste Al Mar",
       "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
@@ -2258,7 +2258,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 286640,
       "name": "Mi Diosa Humana",
       "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 270602,
       "name": "Mi Primer Amor",
       "url": "https://open.spotify.com/track/0AUvqI8gBOxFN3ZxA3SScw"
@@ -2400,6 +2400,24 @@
       "duration_ms": 216400,
       "name": "Muere una Flor",
       "url": "https://open.spotify.com/track/0jnKOvTW1XTC6Na2VPJyXL"
+    },
+    {
+      "album": {
+        "name": "Rafael Orozco... Vive",
+        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "date_added": "2024-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216400,
+      "name": "Muere una Flor",
+      "url": "https://open.spotify.com/track/7d96WZyMsD9BqUBLOD9u3E"
     },
     {
       "album": {

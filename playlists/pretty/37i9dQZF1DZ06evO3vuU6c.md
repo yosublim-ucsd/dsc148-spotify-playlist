@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 ### [This Is Sia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3vuU6c)
 
-> This Is Sia\. Los temas esenciales, todos en una lista.
+> This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403,841 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,964 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 49 | [I Forgive You](https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [I Forgive You](https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E) | 4:19 |
 | 50 | [Fame Won’t Love You \(feat\. Paris Hilton\)](https://open.spotify.com/track/7h2FujO8auY7s0hD4SCtZ4) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Fame Won’t Love You \(feat\. Paris Hilton\)](https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb) | 3:19 |
 
-Snapshot ID: `Zsp0AAAAAABamovhDvAGuoOsLEuoanNa`
+Snapshot ID: `ZsvFgAAAAADcXoiF2Ql/vRG29hiGsxc8`

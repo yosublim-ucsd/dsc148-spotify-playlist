@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 131449,
+  "num_followers": 131454,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Encounter",
-        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Nous sommes",
-      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -867,6 +851,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Encounter",
+        "url": "https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Nous sommes",
+      "url": "https://open.spotify.com/track/28RDzdBt25o1sU2MFOTlRK"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Carrie",
         "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 242193,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "C'est Plus Comme Avant (Version Acoustique)",
-        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 166306,
-      "name": "C'est Plus Comme Avant - Version Acoustique",
-      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "C'est Plus Comme Avant (Version Acoustique)",
+        "url": "https://open.spotify.com/album/7c8jLJfowKojwRsdMk61AA"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 166306,
+      "name": "C'est Plus Comme Avant - Version Acoustique",
+      "url": "https://open.spotify.com/track/3cDKsbbkGsflwPfVLYg10X"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Les joailliers (piano, voix)",
         "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 197111,
       "name": "Les joailliers (piano, voix)",
       "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Valhalla Dancer",
-        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Valhalla Dancer",
-      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -979,6 +963,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Valhalla Dancer",
+        "url": "https://open.spotify.com/album/1CSxS2yfjWOIzwcjmvh5Da"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Valhalla Dancer",
+      "url": "https://open.spotify.com/track/0LcyG3C7FMaP5VzPY1sBJI"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Montr\u00e9al (Avec Louis-Jean Cormier)",
         "url": "https://open.spotify.com/album/5JscHrlWGficiFNu4ULZrM"
       },
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 191280,
+      "name": "Le vent se l\u00e8ve",
+      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1015,6 +1031,38 @@
       "duration_ms": 251186,
       "name": "M\u00eame les loups versent des larmes de joie",
       "url": "https://open.spotify.com/track/0CwmdepOxdzJuRwtRVbmVi"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Goodnight Summerland",
+        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 196150,
+      "name": "The Animals",
+      "url": "https://open.spotify.com/track/751PUtzjp2nrpSsp3sAvgL"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Kindergarten Heart",
+        "url": "https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC"
+      },
+      "artists": [
+        {
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+        }
+      ],
+      "duration_ms": 177843,
+      "name": "Kindergarten Heart",
+      "url": "https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1051,8 +1099,8 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "Ma chanson Natashquan",
+        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
       },
       "artists": [
         {
@@ -1060,41 +1108,9 @@
           "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 191280,
-      "name": "Le vent se l\u00e8ve",
-      "url": "https://open.spotify.com/track/3xXFfmiWrbSpOfOb4AnTPM"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 213107,
-      "name": "Swimmer",
-      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Elle danse",
-        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
-      },
-      "artists": [
-        {
-          "name": "Mimi O'Bonsawin",
-          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
-        }
-      ],
-      "duration_ms": 149015,
-      "name": "Elle danse",
-      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
+      "duration_ms": 198928,
+      "name": "Ma chanson Natashquan",
+      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+        "name": "Elle danse",
+        "url": "https://open.spotify.com/album/7MDpUmwtnw3ZWehFFkrgLy"
       },
       "artists": [
         {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+          "name": "Mimi O'Bonsawin",
+          "url": "https://open.spotify.com/artist/7EOjDIhW0ToF3ohvoEkYWt"
         }
       ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+      "duration_ms": 149015,
+      "name": "Elle danse",
+      "url": "https://open.spotify.com/track/0OmanxdBHQLM8eYzfexeCN"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1151,34 +1167,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Kindergarten Heart",
-        "url": "https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC"
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
       },
       "artists": [
         {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
         }
       ],
-      "duration_ms": 177843,
-      "name": "Kindergarten Heart",
-      "url": "https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Ma chanson Natashquan",
-        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 198928,
-      "name": "Ma chanson Natashquan",
-      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Swimmer",
+      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 179773,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Goodnight Summerland",
-        "url": "https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 196150,
-      "name": "The Animals",
-      "url": "https://open.spotify.com/track/751PUtzjp2nrpSsp3sAvgL"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
+        "name": "Sun and Time",
+        "url": "https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Shaina Hayes",
+          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
         }
       ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
+      "duration_ms": 250747,
+      "name": "Sun and Time",
+      "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Sun and Time",
-        "url": "https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx"
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
       },
       "artists": [
         {
-          "name": "Shaina Hayes",
-          "url": "https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 250747,
-      "name": "Sun and Time",
-      "url": "https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35"
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "nina",
-        "url": "https://open.spotify.com/album/6KKUqemfrnjhwUsLBf3Rpq"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 194253,
-      "name": "nina",
-      "url": "https://open.spotify.com/track/0SAvJkGvMj8IYe8Pfv99Tx"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Tatouage",
         "url": "https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 179950,
       "name": "Tatouage",
       "url": "https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "nina",
+        "url": "https://open.spotify.com/album/6KKUqemfrnjhwUsLBf3Rpq"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 194253,
+      "name": "nina",
+      "url": "https://open.spotify.com/track/0SAvJkGvMj8IYe8Pfv99Tx"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Trait d'union",
+        "url": "https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3"
+      },
+      "artists": [
+        {
+          "name": "Marilou",
+          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
+        }
+      ],
+      "duration_ms": 245250,
+      "name": "Trait d'union",
+      "url": "https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Dans la for\u00eat num\u00e9rique",
         "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
       },
@@ -1535,38 +1551,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Trait d'union",
-        "url": "https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3"
-      },
-      "artists": [
-        {
-          "name": "Marilou",
-          "url": "https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Trait d'union",
-      "url": "https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Strange Medicine",
-        "url": "https://open.spotify.com/album/5lQLi9nBKgQvdhjceYjR6D"
-      },
-      "artists": [
-        {
-          "name": "Kaia Kater",
-          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
-        }
-      ],
-      "duration_ms": 219910,
-      "name": "Maker Taker",
-      "url": "https://open.spotify.com/track/4Eg7gCb7YW3ASrcjNMrHTw"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Espoir",
         "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 208698,
       "name": "On br\u00fblera - Spotify Singles",
       "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Strange Medicine",
+        "url": "https://open.spotify.com/album/5lQLi9nBKgQvdhjceYjR6D"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        }
+      ],
+      "duration_ms": 219910,
+      "name": "Maker Taker",
+      "url": "https://open.spotify.com/track/4Eg7gCb7YW3ASrcjNMrHTw"
     },
     {
       "added_at": "2024-08-23 04:00:00",

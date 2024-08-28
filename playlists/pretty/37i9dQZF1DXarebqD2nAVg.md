@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,411 likes - 75 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,457 likes - 75 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [midnight escape](https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [midnight escape](https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G) | 3:00 |
 | 2 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 |
-| 3 | [kyoto dreams](https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP) | [WAIIFUU](https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY) | [kyoto dreams](https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT) | 2:24 |
-| 4 | [buffering](https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [buffering](https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L) | 2:05 |
-| 5 | [typewriter](https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [typewriter](https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa) | 2:03 |
-| 6 | [stars](https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [stars](https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47) | 2:12 |
+| 3 | [typewriter](https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [typewriter](https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa) | 2:03 |
+| 4 | [stars](https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [stars](https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47) | 2:12 |
+| 5 | [kyoto dreams](https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP) | [WAIIFUU](https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY) | [kyoto dreams](https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT) | 2:24 |
+| 6 | [buffering](https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [buffering](https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L) | 2:05 |
 | 7 | [Memories & Notes](https://open.spotify.com/track/0LJeA9BFfwRfsOTxzhWzCF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Memories & Notes](https://open.spotify.com/album/3EeK9doDTJjMcpLw7gDQbt) | 1:53 |
 | 8 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 |
-| 9 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 |
-| 10 | [Burnt Coffee](https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [Burnt Coffee](https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA) | 2:06 |
+| 9 | [Burnt Coffee](https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [Burnt Coffee](https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA) | 2:06 |
+| 10 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 |
 | 11 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 |
 | 12 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 |
 | 13 | [No Awake Zone](https://open.spotify.com/track/1CjQkzy5U9tfFioVFXBqvp) | [Pat Laine](https://open.spotify.com/artist/4ayEtUqC4VtbghdfnMjW9g) | [No Awake Zone](https://open.spotify.com/album/3Le5RTJqJ8uPcK3XEdOYC3) | 2:18 |
 | 14 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 |
-| 15 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 |
-| 16 | [Clouds](https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Clouds](https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N) | 2:44 |
-| 17 | [cabin in the woods](https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [cabin in the woods](https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6) | 2:02 |
-| 18 | [perspective](https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [perspective](https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk) | 1:57 |
+| 15 | [Clouds](https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Clouds](https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N) | 2:44 |
+| 16 | [cabin in the woods](https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [cabin in the woods](https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6) | 2:02 |
+| 17 | [perspective](https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [perspective](https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk) | 1:57 |
+| 18 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 |
 | 19 | [Breakfast In Bed](https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K) | [Springy Dustfield](https://open.spotify.com/artist/161rkKoqy3Q0aEBT1A3YPm) | [Breakfast In Bed](https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa) | 2:46 |
 | 20 | [trading places](https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [trading places](https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP) | 1:48 |
 | 21 | [dream surfer](https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt) | [loyCOY](https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7) | [dream surfer](https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97) | 2:24 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 58 | [soulful](https://open.spotify.com/track/5GMk3k1qsvegqMcmgBd0Qm) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [soulful](https://open.spotify.com/album/0gq26hCOMzSFqTkuSOzAED) | 2:23 |
 | 59 | [Rainy Days](https://open.spotify.com/track/1r9oOKrKaYExVI8w9naQSV) | [Screwaholic](https://open.spotify.com/artist/5eU7vrLU6MHqmoGKPSDAbb) | [Rainy Days](https://open.spotify.com/album/489BARvb76UOnK1OBIVQoY) | 1:58 |
 | 60 | [tranquility](https://open.spotify.com/track/6rl4T0vpbACeNmZs3kVwH6) | [lofi potato](https://open.spotify.com/artist/6Xb3mzhQf3hYzwgY5eiwtU) | [tranquility](https://open.spotify.com/album/4kSIZWRmsNizAuO110oBq6) | 2:36 |
-| 61 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |
+| 61 | [Bloom](https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:01 |
 | 62 | [Lie](https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 4:07 |
 | 63 | [Louie's Lullaby](https://open.spotify.com/track/5Y69oMuGeIxfP4tIcCv6EO) | [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Pause](https://open.spotify.com/album/64EqJeopKgcy7Ae1ZdPLnz) | 2:51 |
 | 64 | [Lost In The Wilderness](https://open.spotify.com/track/0igM1OQrEBkeaLn63WBjeS) | [Nova Night](https://open.spotify.com/artist/5BVLrCpEMxXA6r5woi5f53) | [Lost In The Wilderness](https://open.spotify.com/album/0W6keNnJ8Qg0C3WaN9YcVh) | 2:34 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 67 | [talk it out](https://open.spotify.com/track/1VDM0Wv8wqX4hLSdzudVey) | [Rob Smyles](https://open.spotify.com/artist/6KIclyZuF2o55kSUaiRe5P) | [Babymakers](https://open.spotify.com/album/3LOCIMlQsItb0QJN1poD29) | 3:31 |
 | 68 | [Sick of This](https://open.spotify.com/track/5JtkrEGCt433sr2wEGSVsR) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [When You Forgive](https://open.spotify.com/album/57V7Q54bacsS1tJYnHxmDT) | 3:53 |
 | 69 | [Stella's Story](https://open.spotify.com/track/2wdxmhbldL8GzplUFEWeqE) | [Dream Easy Collective](https://open.spotify.com/artist/2bRzONoPyFw0BNqra5Focz), [Kendall Miles](https://open.spotify.com/artist/4Z5eM7HLu4b0LAKrywoWR2) | [Palettes](https://open.spotify.com/album/4WsuSiZsFuddq0r6f8dMJl) | 1:32 |
-| 70 | [Bloom](https://open.spotify.com/track/7xqFOjNcp0NJFo9wGKGOpJ) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:01 |
+| 70 | [Distant](https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Distant](https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8) | 2:24 |
 | 71 | [We Are Safe Here.](https://open.spotify.com/track/0a2q5SUFudT2x9Ce56hGIL) | [fantompower](https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47) | [Summertime and the Living's Easier.](https://open.spotify.com/album/08scJWiEuLoGdLQWpIhW0z) | 2:11 |
 | 72 | [Blue \(feat\. Drwn.\)](https://open.spotify.com/track/4RIu43eVxjbWuUhNwTUxwb) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [Clockwork](https://open.spotify.com/album/67fCjPsA2tdDb7YcpMYynn) | 2:03 |
 | 73 | [Keep On Going](https://open.spotify.com/track/0W8GsPozYoonDEjOdLHnsC) | [SPEECHLESS](https://open.spotify.com/artist/0RUwm9ukhlW1oXDzXxj3C0) | [Keep On Going](https://open.spotify.com/album/51SCRafgNIjbYob0VCyhBn) | 2:40 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Rev. Gary Davis. Los temas esenciales, todos en una lista.",
-  "num_followers": 1858,
+  "description": "This is Rev. Gary Davis. The essential tracks, all in one playlist.",
+  "num_followers": 1859,
   "original_name": "This Is Rev. Gary Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAAzgQQZVGc9nP45sTjgdlpO",
+  "snapshot_id": "ZsvFgAAAAACCfKeVqK3Z4Rrjt7rZ+bfq",
   "tracks": [
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Twelve Gates To The City",
-      "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"
+      "duration_ms": 175760,
+      "name": "Goin' To Sit Down On The Banks Of The River",
+      "url": "https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Had My Way: Early Home Recordings",
-        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 286426,
-      "name": "If I Had My Way",
-      "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Guitar And Banjo Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 139573,
       "name": "Fast Fox Trot - Instrumental",
       "url": "https://open.spotify.com/track/0ho93e51U4YNu4ts1w6L2G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "If I Had My Way: Early Home Recordings",
+        "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 286426,
+      "name": "If I Had My Way",
+      "url": "https://open.spotify.com/track/3JGLuTmLufxb9q3pFfTAuR"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sun of Our Life",
-        "url": "https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "West Coast Blues (Blind Blake)",
-      "url": "https://open.spotify.com/track/43IBl2Kq835k1iknfUqbvU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say No To The Devil",
         "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
       },
@@ -463,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "At Home and Church, 1962 - 1967",
-        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
+        "name": "Pure Religion and Bad Company",
+        "url": "https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg"
       },
       "artists": [
         {
@@ -472,9 +456,25 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 43253,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/3DynlpWV4bRvn5uw4DYUp1"
+      "duration_ms": 212426,
+      "name": "Mountain Jack",
+      "url": "https://open.spotify.com/track/1L65pHJZuG3K4giGhhZmNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sun of Our Life",
+        "url": "https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 156266,
+      "name": "West Coast Blues (Blind Blake)",
+      "url": "https://open.spotify.com/track/43IBl2Kq835k1iknfUqbvU"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure Religion and Bad Company",
-        "url": "https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg"
+        "name": "At Home and Church, 1962 - 1967",
+        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
       },
       "artists": [
         {
@@ -520,41 +520,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 212426,
-      "name": "Mountain Jack",
-      "url": "https://open.spotify.com/track/1L65pHJZuG3K4giGhhZmNm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Early Recordings Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "I Saw The Light",
-      "url": "https://open.spotify.com/track/71NqbkntAkVQVQ1tWKRuFT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Have A Little Faith",
-        "url": "https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 274866,
-      "name": "I'll Fly Away",
-      "url": "https://open.spotify.com/track/5UIN6xZdZQ4S99OPeHc0Nn"
+      "duration_ms": 43253,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/3DynlpWV4bRvn5uw4DYUp1"
     },
     {
       "added_at": null,
@@ -575,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Complete Early Recordings Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "I Saw The Light",
+      "url": "https://open.spotify.com/track/71NqbkntAkVQVQ1tWKRuFT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Street Songs",
         "url": "https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR"
       },
@@ -591,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Early Recordings Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "The Great Change In Me",
-      "url": "https://open.spotify.com/track/20UOUpuO0wcF9ftS9JUJyz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Have A Little Faith",
         "url": "https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK"
       },
@@ -616,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 199160,
-      "name": "You Got To Move",
-      "url": "https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp"
+      "duration_ms": 274866,
+      "name": "I'll Fly Away",
+      "url": "https://open.spotify.com/track/5UIN6xZdZQ4S99OPeHc0Nn"
     },
     {
       "added_at": null,
@@ -639,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Complete Early Recordings Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "The Great Change In Me",
+      "url": "https://open.spotify.com/track/20UOUpuO0wcF9ftS9JUJyz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "American Street Songs",
         "url": "https://open.spotify.com/album/4RNBon2cf5qwJBIAQVTmRR"
       },
@@ -655,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "At Home and Church, 1962 - 1967",
-        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK"
       },
       "artists": [
         {
@@ -664,25 +648,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 180680,
-      "name": "Slippin' to My Gal Comes in Partner",
-      "url": "https://open.spotify.com/track/1cxin9oX9nHIpYeTp6pKhj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Say No To The Devil",
-        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Lost Boy In The Wilderness",
-      "url": "https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6"
+      "duration_ms": 199160,
+      "name": "You Got To Move",
+      "url": "https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp"
     },
     {
       "added_at": null,
@@ -719,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worried Blues",
-        "url": "https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz"
+        "name": "Say No To The Devil",
+        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
       },
       "artists": [
         {
@@ -728,15 +696,15 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 318866,
-      "name": "Sun Goin' Down",
-      "url": "https://open.spotify.com/track/72HlJqRtpQDwOt3H15UHyE"
+      "duration_ms": 299640,
+      "name": "Lost Boy In The Wilderness",
+      "url": "https://open.spotify.com/track/5jp93xHD4KDwc8XNytfCJ6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "See What the Lord Has Done for Me",
-        "url": "https://open.spotify.com/album/5uzA87eKTQ5p9pYbnptf8x"
+        "name": "At Home and Church, 1962 - 1967",
+        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
       },
       "artists": [
         {
@@ -744,9 +712,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 228786,
-      "name": "'Tis so Sweet to Trust in Jesus",
-      "url": "https://open.spotify.com/track/55KuxQi50LkB81WEnRfeXu"
+      "duration_ms": 180680,
+      "name": "Slippin' to My Gal Comes in Partner",
+      "url": "https://open.spotify.com/track/1cxin9oX9nHIpYeTp6pKhj"
     },
     {
       "added_at": null,
@@ -783,6 +751,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 219032,
+      "name": "Moon is Going Down",
+      "url": "https://open.spotify.com/track/3jjV3Ifz4zlqzm13cJCVov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Some People Play Guitar... Like A Lotta People Don't",
+        "url": "https://open.spotify.com/album/3lPkCcqFjhYxXJQmAtBdCh"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 154253,
+      "name": "Darktown Strutters Ball",
+      "url": "https://open.spotify.com/track/78HrAH7k0oIe0hBsOi1X4F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "If I Had My Way: Early Home Recordings",
         "url": "https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7"
       },
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demons & Angels - the Music of Rev. Gary Davis",
-        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+        "name": "At Home and Church, 1962 - 1967",
+        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 219032,
-      "name": "Moon is Going Down",
-      "url": "https://open.spotify.com/track/3jjV3Ifz4zlqzm13cJCVov"
+      "duration_ms": 429053,
+      "name": "Children of Zion",
+      "url": "https://open.spotify.com/track/0GNpSjVmmjbB0fXGndfqln"
     }
   ],
   "unique_name": "This Is Rev. Gary Davis",

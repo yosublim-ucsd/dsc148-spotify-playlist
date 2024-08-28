@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 
 > Découvrez la programmation du BISE Festival 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,797 likes - 48 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,798 likes - 48 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 2 | [Insomnies](https://open.spotify.com/track/6avDRa1wX7du0Mv25zaC7i) | [Colt](https://open.spotify.com/artist/6OAJ8w6gz3xjktqQvOd9xg) | [Mille vies](https://open.spotify.com/album/3M9iunelnMsof9NZtMDABN) | 3:01 |
 | 3 | [Differences Aside](https://open.spotify.com/track/1b43aREmKyr4IvSIAXEEPZ) | [Loverman](https://open.spotify.com/artist/1jAN8aazFq2Ugm6HTCzjky) | [Lovesongs](https://open.spotify.com/album/55Me24z7uZjij3Dv92WsDi) | 3:55 |
 | 4 | [No Coward \- Demo Version](https://open.spotify.com/track/0MkF22OOv45eKXAgjIvN7m) | [Augusta](https://open.spotify.com/artist/7yqaPPacsc3ANzPAfU7pTu) | [No Coward \(Demo Version\)](https://open.spotify.com/album/0fojk7a23aVielhlS9jGZr) | 3:27 |
-| 5 | [Diego Suarez](https://open.spotify.com/track/01B4uncwhANixLex6qoqq4) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [Diego Suarez](https://open.spotify.com/album/1iy2dIamS6sYkSghQi6EW6) | 3:34 |
-| 6 | [Quart d’heure](https://open.spotify.com/track/5J3XsSyvy7DCW9Ub0P13Ra) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha](https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73) | 3:08 |
+| 5 | [Quart d’heure](https://open.spotify.com/track/5J3XsSyvy7DCW9Ub0P13Ra) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha](https://open.spotify.com/album/1ZS8Y52PxhvfAj515Afl73) | 3:08 |
+| 6 | [Diego Suarez](https://open.spotify.com/track/01B4uncwhANixLex6qoqq4) | [Joanne Radao](https://open.spotify.com/artist/4zugZIfmlrWGtdvmmO1LNP) | [Diego Suarez](https://open.spotify.com/album/1iy2dIamS6sYkSghQi6EW6) | 3:34 |
 | 7 | [Rejoins moi](https://open.spotify.com/track/1ARdJJkOah64yR9mod4IGf) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Rejoins moi](https://open.spotify.com/album/2k37HZSmCNknYhYIlyotwm) | 3:47 |
 | 8 | [L'INVERSE](https://open.spotify.com/track/0IokbCkXBM9rgGELxBaqjD) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [L'INVERSE](https://open.spotify.com/album/4eIokVQzkny1mu8c5ZtNoJ) | 2:19 |
 | 9 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 |
@@ -44,17 +44,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGMlvB91dPK.md) - [plain]
 | 34 | [Otaké](https://open.spotify.com/track/3n6228HfZMeTX07O1XkZDc) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr) | [Otaké](https://open.spotify.com/album/4TvKEe8IhuQfjJ8OmDBY5X) | 6:33 |
 | 35 | [Noise](https://open.spotify.com/track/59NAmzWhHHAkjBEvDD3vL5) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [Nouveau Genre](https://open.spotify.com/album/3eVXioK104LwXkXlXfpZ9M) | 4:27 |
 | 36 | [ENFANT SUICIDE](https://open.spotify.com/track/3UP2QAMOp9nhYGrye1f8ST) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [ENFANT SUICIDE](https://open.spotify.com/album/1fiZFwHRvHhO5ks9GDGwnn) | 3:20 |
-| 37 | [POUR DE BON](https://open.spotify.com/track/2SeDCGCcWkQ0xNFEi0ThYl) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq), [Tonio 8cho](https://open.spotify.com/artist/4BbPpshNwDO8yZUOGuzqdX) | [POUR DE BON](https://open.spotify.com/album/2dQhHCICCWCVT61S5jHMIP) | 2:35 |
-| 38 | [Haunted House](https://open.spotify.com/track/2aJqXLVH09TG9v2bD860iY) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [and I can't breathe enough](https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j) | 3:24 |
+| 37 | [Haunted House](https://open.spotify.com/track/2aJqXLVH09TG9v2bD860iY) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [and I can't breathe enough](https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j) | 3:24 |
+| 38 | [POUR DE BON](https://open.spotify.com/track/2SeDCGCcWkQ0xNFEi0ThYl) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq), [Tonio 8cho](https://open.spotify.com/artist/4BbPpshNwDO8yZUOGuzqdX) | [POUR DE BON](https://open.spotify.com/album/2dQhHCICCWCVT61S5jHMIP) | 2:35 |
 | 39 | [ACID](https://open.spotify.com/track/552GDaca9nwW4RuN2CsZZt) | [Hyper Jacuzzi](https://open.spotify.com/artist/5RkOL12PMfc3CDRY6JElZ1) | [ACID](https://open.spotify.com/album/5DUBanco1qA9ksFdBVe5LZ) | 4:18 |
 | 40 | [Folie](https://open.spotify.com/track/0Ueh3QgfcnrlBipgoWjkDW) | [MIMOSA](https://open.spotify.com/artist/64XUJ8nVZaAZ8U42pvw7Rl) | [Folie](https://open.spotify.com/album/10zfAail7mEa7dOw45R7Mc) | 2:51 |
 | 41 | [Togbui Ha](https://open.spotify.com/track/23aIloj60zjAp3lYzlLHo6) | [Ago Gazo](https://open.spotify.com/artist/7gFYElz1vhVRme3RmFWu7x) | [Ago Gazo](https://open.spotify.com/album/0wF861wBTniyfhRFT37mrg) | 5:07 |
 | 42 | [Forever](https://open.spotify.com/track/1xY0IYX9buuQoBABdw2oB2) | [MALVINA](https://open.spotify.com/artist/6LvXqXnw5SEWHhXPz9be4n) | [Forever](https://open.spotify.com/album/7segRmevYXc3m4VAmw7grT) | 4:00 |
 | 43 | [Pardon](https://open.spotify.com/track/4LrqruvRJpaiLcgpOPPRnR) | [ÉNAÉ](https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM) | [528Hz](https://open.spotify.com/album/7i6HxReY7m9wHSOdh3au8V) | 3:08 |
-| 44 | [Lost](https://open.spotify.com/track/0c1Iaj3inW4dmaDbfAeibU) | [Jenys](https://open.spotify.com/artist/1J5hoLhYARvrdAp7WFCQVl) | [Lost](https://open.spotify.com/album/21MIvAGmRCnx8dibBxzpVE) | 3:32 |
-| 45 | [DURAG EN CACHEMIRE !](https://open.spotify.com/track/5EZxmrHRqa7MpymBOHVusR) | [Randy](https://open.spotify.com/artist/5UWdTY62eyzRFfCU7E4soX) | [FUCK IT WE BALL !](https://open.spotify.com/album/6ZrwNkIuHLbm5rFfCOPIg5) | 2:19 |
-| 46 | [Photoshop](https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX) | 2:24 |
-| 47 | [Can't Wait](https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [and I can't breathe enough](https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j) | 3:34 |
+| 44 | [Can't Wait](https://open.spotify.com/track/2VMYVC78nVxCy2Xw3orm4P) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [and I can't breathe enough](https://open.spotify.com/album/0iBUtzkE1HWBM0ESN3407j) | 3:34 |
+| 45 | [Lost](https://open.spotify.com/track/0c1Iaj3inW4dmaDbfAeibU) | [Jenys](https://open.spotify.com/artist/1J5hoLhYARvrdAp7WFCQVl) | [Lost](https://open.spotify.com/album/21MIvAGmRCnx8dibBxzpVE) | 3:32 |
+| 46 | [DURAG EN CACHEMIRE !](https://open.spotify.com/track/5EZxmrHRqa7MpymBOHVusR) | [Randy](https://open.spotify.com/artist/5UWdTY62eyzRFfCU7E4soX) | [FUCK IT WE BALL !](https://open.spotify.com/album/6ZrwNkIuHLbm5rFfCOPIg5) | 2:19 |
+| 47 | [Photoshop](https://open.spotify.com/track/26m1xQ0kBoSmO9PgdDFeJO) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Mocha Venti](https://open.spotify.com/album/0VJLc085rGD75EjFgylXeX) | 2:24 |
 | 48 | [PAPILLON PIMPÉ !](https://open.spotify.com/track/4ZfegXIG6zkJrCyNxMKjsw) | [Randy](https://open.spotify.com/artist/5UWdTY62eyzRFfCU7E4soX) | [FUCK IT WE BALL !](https://open.spotify.com/album/6ZrwNkIuHLbm5rFfCOPIg5) | 2:47 |
 
 Snapshot ID: `ZaVr9AAAAAAY9sV9gO4mzepKdrcTmOzy`

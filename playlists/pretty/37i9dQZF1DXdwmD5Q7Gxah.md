@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > ft Luna Li ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,151,642 likes - 123 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,151,643 likes - 123 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

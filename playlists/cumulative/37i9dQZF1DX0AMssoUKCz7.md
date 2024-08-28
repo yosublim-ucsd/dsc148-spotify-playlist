@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-722 songs - 1 day 12 hr 29 min
+723 songs - 1 day 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,6 +480,7 @@
 | [Over & Over](https://open.spotify.com/track/0t0BoLdXb5VO3WelCxQoty) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [Kuzi Cee](https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf) | [Over & Over](https://open.spotify.com/album/319XvNCwRnwIESaY251OlE) | 2:48 | 2023-07-14 |  |
 | [Over You](https://open.spotify.com/track/1ug22meh3YgHra1l314WLA) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Over You](https://open.spotify.com/album/7d6vUWoI2Ur24x8wUflGGw) | 2:21 | 2022-08-19 |  |
 | [Over You](https://open.spotify.com/track/4FNkE8eT1CJBmHcX2MT5ex) | [Refeci](https://open.spotify.com/artist/1NTljmDof9yJq0kaRsAucp), [Alex D'Rosso](https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA), [Aili](https://open.spotify.com/artist/0TVW1CjHIgfuFIUimSgPoj) | [Over You](https://open.spotify.com/album/3RbMFz4GlUUKABu9c398fN) | 2:26 | 2024-01-19 |  |
+| [Over You](https://open.spotify.com/track/5jAzncvTqIzzWgvqlCBx8t) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [Over You](https://open.spotify.com/album/3W49rkfcQPS9R1T3gUluHl) | 3:27 | 2024-08-16 |  |
 | [Own the Night](https://open.spotify.com/track/0DHUariIorcAgunTr0GTy2) | [Tropixx](https://open.spotify.com/artist/4ys2PrxCuTjrYcU4mxtOSF), [Marcella Precise](https://open.spotify.com/artist/0ZR1QT9DoVMVyD9w6RzJS0) | [Own the Night](https://open.spotify.com/album/7bHsGrx65iJ4TQOA8MZViy) | 3:30 | 2022-01-14 | 2022-07-19 |
 | [Oxas](https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL) | [Oxas](https://open.spotify.com/album/0u8v6tjFwtiVkbt0MwqfrN) | 5:01 | 2022-01-14 | 2022-09-24 |
 | [Pacific Coast](https://open.spotify.com/track/2NlmT21qfh9nohiaYkecRy) | [John Skyfield](https://open.spotify.com/artist/6G8Vv979uOK1e7ZBIX2rzp), [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [Pacific Coast](https://open.spotify.com/album/7LD54uSzY4Q6LfzSDQQezv) | 2:33 | 2022-01-14 | 2022-08-09 |
@@ -546,7 +547,7 @@
 | [Save Tonight](https://open.spotify.com/track/70PH29yzcK8ZQVseOZlAJG) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Sunrise To Sunset](https://open.spotify.com/album/3DXfe2cEsCdAjORfXw0NDK) | 2:45 | 2022-01-14 | 2022-07-29 |
 | [Say My Name](https://open.spotify.com/track/3UoBVAvz3TvsJCvNDxAJtB) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Yaelle Maessen](https://open.spotify.com/artist/4pREN5Prk1wTSfCveH49rk) | [Say My Name](https://open.spotify.com/album/5F30EhA6VJC1Wzfux39cvE) | 2:54 | 2022-12-09 |  |
 | [Seduction](https://open.spotify.com/track/23OzWEhGGgu7RSqzKhsGhE) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Seduction](https://open.spotify.com/album/716PfjuMoJzNMvydwPKTGV) | 3:05 | 2022-01-14 | 2023-05-13 |
-| [See You Again \(Feat\. ÆJ\)](https://open.spotify.com/track/08fs5CvDMxpUFCD8IVqC9J) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41) | [See You Again \(Feat\. ÆJ\)](https://open.spotify.com/album/7kZnlSPBb1NrSUvM6ckBif) | 2:38 | 2022-09-02 |  |
+| [See You Again \(Feat\. ÆJ\)](https://open.spotify.com/track/08fs5CvDMxpUFCD8IVqC9J) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Æj](https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41) | [See You Again \(Feat\. ÆJ\)](https://open.spotify.com/album/7kZnlSPBb1NrSUvM6ckBif) | 2:38 | 2022-09-02 | 2024-08-28 |
 | [Set The World \(On Fire\)](https://open.spotify.com/track/1UtjCEfOU9JaAMuGIhBPBx) | [Flatdisk](https://open.spotify.com/artist/1nwOAIlEn6W5ZtwLyDE9kv), [Bitter's Kiss](https://open.spotify.com/artist/2iYRrbF7KszvcbF4Zf4Tq2) | [Set The World \(On Fire\)](https://open.spotify.com/album/09qsaTWMHIShQH4CKkVdrd) | 2:59 | 2022-01-14 | 2022-06-04 |
 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 | 2022-01-14 | 2022-04-21 |
 | [Sex On Me \- Re\-Edit](https://open.spotify.com/track/6zwZ9blEaUCdhrprmyM1vg) | [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Sex On Me \(Re\-Edit\)](https://open.spotify.com/album/0vF5ZGN1zjK3exzACcAFDC) | 3:15 | 2022-01-14 | 2023-09-30 |

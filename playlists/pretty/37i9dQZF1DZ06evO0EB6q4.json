@@ -1,12 +1,12 @@
 {
-  "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 223066,
+  "description": "This Is Nanpa B\u00e1sico. Los temas esenciales, todos en una lista.",
+  "num_followers": 223168,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACaQqyVucvn7HFnWUOBaAGU",
+  "snapshot_id": "ZsvFgAAAAAC81dX2wHIiPCAjMVtyyh/7",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Es M\u00eda",
+        "url": "https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 188992,
+      "name": "No Es M\u00eda",
+      "url": "https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 220612,
       "name": "Lejos de Ti",
       "url": "https://open.spotify.com/track/7C9gziHjggJ28pDVYS5LxQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Es M\u00eda",
-        "url": "https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 188992,
-      "name": "No Es M\u00eda",
-      "url": "https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV"
     },
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "Camina Sola",
-      "url": "https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Verte Cerquita",
         "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 232721,
       "name": "Verte Cerquita",
       "url": "https://open.spotify.com/track/6eTCWWKBtnJI9Ui9OlLEyO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 213773,
+      "name": "Camina Sola",
+      "url": "https://open.spotify.com/track/0KtDnYAe59IGfIpPwtL82b"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HECHO M13RD4",
-        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 214545,
-      "name": "Te Hice Llorar",
-      "url": "https://open.spotify.com/track/0Y8ZSLP4tubnxQ0lTDgpe0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Fondo",
         "url": "https://open.spotify.com/album/7tm0MO5pYRfglAJn1xJXHr"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 219200,
       "name": "Desde el Fondo",
       "url": "https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 214545,
+      "name": "Te Hice Llorar",
+      "url": "https://open.spotify.com/track/0Y8ZSLP4tubnxQ0lTDgpe0"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seg\u00fan Nosotros",
-        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 173056,
-      "name": "Extra\u00f1andote",
-      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Bolero",
         "url": "https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 194495,
       "name": "Como Bolero",
       "url": "https://open.spotify.com/track/7pOBTfz9EOi9Yb64cOI6kv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seg\u00fan Nosotros",
+        "url": "https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 173056,
+      "name": "Extra\u00f1andote",
+      "url": "https://open.spotify.com/track/7ka9YAKcsF1hiIgRhQojID"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otro Paso a la Locura",
-        "url": "https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Prototipo",
-      "url": "https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Otro Paso a la Locura",
+        "url": "https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 228675,
+      "name": "Prototipo",
+      "url": "https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obra Negra",
         "url": "https://open.spotify.com/album/6HqIURdhRk251kGeywxhDK"
       },
@@ -923,6 +923,26 @@
       "duration_ms": 207767,
       "name": "Aprov\u00e9chame",
       "url": "https://open.spotify.com/track/0hCDMlpaTpyQQ5Ovgj0cq5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pelinegra",
+        "url": "https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 217739,
+      "name": "Pelinegra",
+      "url": "https://open.spotify.com/track/3Huo8FfIN5pph8cwHvgUiM"
     },
     {
       "added_at": null,
@@ -951,26 +971,6 @@
       "duration_ms": 241000,
       "name": "En Lo Malo Me Va Bien",
       "url": "https://open.spotify.com/track/6JP2x0Rvwq7LZ8goXDGAIL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pelinegra",
-        "url": "https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 217739,
-      "name": "Pelinegra",
-      "url": "https://open.spotify.com/track/3Huo8FfIN5pph8cwHvgUiM"
     },
     {
       "added_at": null,

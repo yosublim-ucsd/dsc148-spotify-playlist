@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125841,
+  "num_followers": 125847,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAS4yEoKWVt4nY+rdNxLuicAAn0QT8m",
+  "snapshot_id": "AAAS5cZXTM+SBPGd14FlrGVC5iZLdeiw",
   "tracks": [
+    {
+      "added_at": "2024-08-27 13:46:20",
+      "album": {
+        "name": "Aklana",
+        "url": "https://open.spotify.com/album/15LjTU9nmCPpMQbPMH8TDc"
+      },
+      "artists": [
+        {
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Aklana",
+      "url": "https://open.spotify.com/track/796NUAXeDAd9n8Ng1xJGus"
+    },
     {
       "added_at": "2024-08-26 14:51:07",
       "album": {
@@ -1147,22 +1163,6 @@
       "duration_ms": 188571,
       "name": "Moments",
       "url": "https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8"
-    },
-    {
-      "added_at": "2024-06-05 14:43:56",
-      "album": {
-        "name": "Immortal",
-        "url": "https://open.spotify.com/album/0cQTbXYfeLIMWI1m8PwG7D"
-      },
-      "artists": [
-        {
-          "name": "RZRKT",
-          "url": "https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Immortal",
-      "url": "https://open.spotify.com/track/6l66W0De6fDD0dTQ1Q7fip"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

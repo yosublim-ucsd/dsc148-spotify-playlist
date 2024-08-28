@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 
 > For those whose year was full of angst and anger \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,495 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,496 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 | 25 | [Silver Springs \- 2004 Remaster](https://open.spotify.com/track/2Y8BloifAHEn6GproQgPs7) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Deluxe Edition\)](https://open.spotify.com/album/3nuRoTy7gi52Z4C0negdw1) | 4:48 |
 | 26 | [Kiss With A Fist](https://open.spotify.com/track/0jv5OcbvTUHgO8FgHhya8b) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:03 |
 | 27 | [You Oughta Know](https://open.spotify.com/track/0Dw9z44gXhplDh5HCWZIxP) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill](https://open.spotify.com/album/09AwlP99cHfKVNKv4FC8VW) | 4:09 |
-| 28 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
-| 29 | [Something To Hide](https://open.spotify.com/track/1rjZicKSpIJ3WYffIK9Fuy) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 1:59 |
+| 28 | [Something To Hide](https://open.spotify.com/track/1rjZicKSpIJ3WYffIK9Fuy) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 1:59 |
+| 29 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
 | 30 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
 | 31 | [You Problem](https://open.spotify.com/track/4KQODLeXGCDfixEiUX6aDF) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [You Problem](https://open.spotify.com/album/11Bw22nnuAXof2MQL30MIu) | 3:01 |
 | 32 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 | 39 | [Venom](https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:35 |
 | 40 | [FREAK](https://open.spotify.com/track/6tiyQ2Bdy5IO3YDidg2ajt) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [READY TO EAT](https://open.spotify.com/album/75irRZ0tbSbDQS4IkCBKHy) | 2:29 |
 | 41 | [OVER YOUR DEAD BODY](https://open.spotify.com/track/33SO5use9IdF2g0lrcSj3l) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [A Call To The Void](https://open.spotify.com/album/3zhyT62LXkBpycohrjER5s) | 3:45 |
-| 42 | [I Used To Be Fun](https://open.spotify.com/track/3cn3g1pvplVckm1vWtDMVf) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 2:41 |
-| 43 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
+| 42 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
+| 43 | [I Used To Be Fun](https://open.spotify.com/track/3cn3g1pvplVckm1vWtDMVf) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Love You](https://open.spotify.com/album/4psyGw8pJ4Y4VQOQ8EN3qA) | 2:41 |
 | 44 | [tenTHIRTYseven](https://open.spotify.com/track/6aWDlKwTyV1BHuEWUSPzWR) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:48 |
 | 45 | [THAT SUCKS!](https://open.spotify.com/track/20Js2PFcXZKEdQdy7y97Jj) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 2:24 |
 | 46 | [Dead To Me](https://open.spotify.com/track/756sYvBPGREA5DVd9qUIUd) | [Hayes Warner](https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH) | [Dead To Me](https://open.spotify.com/album/6wjm5UATvraR2HRKwWoNWO) | 2:32 |

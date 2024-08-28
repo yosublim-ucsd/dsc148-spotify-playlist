@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 > This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,042 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,077 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 7 | [Veo en ti la luz](https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 3:37 |
 | 8 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 |
 | 9 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
-| 10 | [Know Me Too Well \(with Danna Paola\)](https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [New Hope Club](https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn) | 3:20 |
-| 11 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 |
-| 12 | [Vuelve, Vuelve](https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [20 Años Contigo](https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw) | 2:46 |
+| 10 | [Vuelve, Vuelve](https://open.spotify.com/track/7wNLoMwhGrGBsFozJrzUlg) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [20 Años Contigo](https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw) | 2:46 |
+| 11 | [Know Me Too Well \(with Danna Paola\)](https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [New Hope Club](https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn) | 3:20 |
+| 12 | [Amor Ordinario](https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:10 |
 | 13 | [Sodio](https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:06 |
 | 14 | [No Bailes Sola](https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola](https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd) | 3:00 |
 | 15 | [AMOR ÁCIDO](https://open.spotify.com/track/1WnzNGJICOdCu7NPeEOXk1) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 49 | [IDIOTA \(Real Magic\)](https://open.spotify.com/track/6oCieauXPhRe9kNLw1UF2F) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [IDIOTA \(Real Magic\)](https://open.spotify.com/album/5fuZD1Yv8ypB8ir1yJ9EGo) | 3:25 |
 | 50 | [Polo A Tierra](https://open.spotify.com/track/5lhrcKbHyhPjlxEzzL9HPm) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Trapical](https://open.spotify.com/artist/1akovilveREPmx1E535jJU) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:24 |
 
-Snapshot ID: `Zsp0AAAAAACouDYObRR1v0omOK5S7iOk`
+Snapshot ID: `ZsvFgAAAAAAyyzHWlI35U/T8PuDjYlLB`

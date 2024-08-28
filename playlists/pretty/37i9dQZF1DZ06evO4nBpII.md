@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 
 > This is Green Day\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,061,130 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,061,384 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 30 | [Holiday/Blvd\. of Broken Dreams \- Demo](https://open.spotify.com/track/1aPl4iPz2NN29R2y2RqLMh) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \- 20th Anniversary \- On Holiday](https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP) | 8:23 |
 | 31 | [Bobby Sox](https://open.spotify.com/track/7DXBItTPwL8OpsbXdj58Fl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:44 |
 | 32 | [Waiting](https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:12 |
-| 33 | [Nice Guys Finish Last](https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:48 |
-| 34 | [Stray Heart](https://open.spotify.com/track/2Q22sa3Y4lKXHHBBAxEhYY) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡DOS!](https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs) | 3:44 |
+| 33 | [Stray Heart](https://open.spotify.com/track/2Q22sa3Y4lKXHHBBAxEhYY) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡DOS!](https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs) | 3:44 |
+| 34 | [Nice Guys Finish Last](https://open.spotify.com/track/0EonrvTzzNScmk7QT4L3dw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:48 |
 | 35 | [Goodnight Adeline](https://open.spotify.com/track/5oi7EJnwhDhqs4FJ2ewry7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:56 |
 | 36 | [Bang Bang](https://open.spotify.com/track/278Ao6KQDxWGGszv24uvhI) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:25 |
-| 37 | [I Think We're Alone Now](https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [No Fun Mondays](https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL) | 2:14 |
-| 38 | [Macy's Day Parade](https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:33 |
+| 37 | [Macy's Day Parade](https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:33 |
+| 38 | [I Think We're Alone Now](https://open.spotify.com/track/4gZYdWV1sVNmYkkAr2rRgW) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [No Fun Mondays](https://open.spotify.com/album/6pjuzPdAkJPdNBiKzcloXL) | 2:14 |
 | 39 | [The Grouch](https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:12 |
 | 40 | [Favorite Son](https://open.spotify.com/track/2uX0j2bUQlgZbkQGPkBuWS) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot \- 20th Anniversary \- On Holiday](https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP) | 2:05 |
 | 41 | [¿Viva La Gloria? \(Little Girl\)](https://open.spotify.com/track/2mnk1GHN0XmznKiucY4ZW4) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4nBpII.md) - [plain]
 | 49 | [Last of the American Girls](https://open.spotify.com/track/5Rjm3VIMlxAEIEy5gU2bF7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 3:51 |
 | 50 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 |
 
-Snapshot ID: `Zsp0AAAAAAC8/GZud5dLPJXoAKTmXlo1`
+Snapshot ID: `ZsvFgAAAAABKAB/Wp/6JvaK5u100utfw`

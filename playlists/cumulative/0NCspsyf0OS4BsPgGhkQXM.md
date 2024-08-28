@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-1,091 songs - 2 day 8 hr 23 min
+1,092 songs - 2 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Hold On](https://open.spotify.com/track/2LV8jZnk49W7fKF5Q2gZTF) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO) | [Hold On](https://open.spotify.com/album/3XcugVPtbESr3O3ApSXZ63) | 3:49 | 2022-08-05 | 2022-09-07 |
 | [Hold On To You](https://open.spotify.com/track/6rv67tmDmzA2Ng9D80XP6g) | [Dead Rose](https://open.spotify.com/artist/3rNr1eW0hok7zumZYUqyCM) | [Hold On To You](https://open.spotify.com/album/5rw1HrHalrYynq2jORI6Hc) | 4:28 | 2023-06-15 | 2023-09-23 |
 | [Holdin' My Own \- Anki Remix](https://open.spotify.com/track/0WQ6qsZk8VaKjK2babb8PI) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj), [Anki](https://open.spotify.com/artist/6IDgN356to8svgrWLUAIoC) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:55 | 2022-07-29 | 2022-11-24 |
+| [Holding On](https://open.spotify.com/track/6BGZU873n3qSXXTKXBtlNR) | [Alexis B](https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec) | [Holding On](https://open.spotify.com/album/6Zk1V7559eJbW2GfJE2Y8p) | 2:58 | 2024-08-27 |  |
 | [Holding On \- Rome In Silver Remix](https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Holding On \(Rome In Silver Remix\)](https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M) | 3:00 | 2022-01-22 | 2022-09-15 |
 | [Holiday \(feat\. Ponette\)](https://open.spotify.com/track/7yBp97KVQqvzsHMTPpL8tz) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA), [Ponette](https://open.spotify.com/artist/1FJHPnmVpsqtad5lE89HwN) | [Holiday](https://open.spotify.com/album/7okjJhBfyej0TyzxbZRqXg) | 3:48 | 2022-08-19 | 2022-10-08 |
 | [Hollywood Hills](https://open.spotify.com/track/3x9RTdQNT1Ic1lDylGYQpJ) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Hollywood Hills](https://open.spotify.com/album/0pLgAY0KSRdXFWobd0xhmV) | 3:30 | 2022-07-15 | 2022-09-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Trap latino que alimenta tu espíritu\. Foto:   <a href="spotify:artist:0WZOmdnCln6FK6GM9e2tGm">Redimi2</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,926 likes - 45 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,929 likes - 45 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 24 | [01 FUEGO](https://open.spotify.com/track/0XVMNKaQZOpMfvBja8MGjM) | [Tomi Perfetti](https://open.spotify.com/artist/5uzIBotVPw3Zb6dG74Ua7Z), [Snail Lake](https://open.spotify.com/artist/4ykoG2iZk0tSbojpH88lSP) | [FUEGO](https://open.spotify.com/album/6yTEwg3yr25E5trXinHnIW) | 2:28 |
 | 25 | [Andamos Con Dios](https://open.spotify.com/track/222L9EIrHvCTHVF8lgPGfJ) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz), [El Philippe](https://open.spotify.com/artist/3COYG9FFfTZQEB5B58Ufi1) | [Andamos Con Dios](https://open.spotify.com/album/2MGM1KzwQ7XuRmqq6k2say) | 3:33 |
 | 26 | [Who Who](https://open.spotify.com/track/5chbw52W6N0FMq7hFsdQyU) | [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap), [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV) | [Who Who](https://open.spotify.com/album/5YwNXkTwhwBv1dZE5pbE11) | 3:03 |
-| 27 | [CIENTO 80](https://open.spotify.com/track/15YXFaKXnhlFro8XhYrQ7T) | [R.E.A.L](https://open.spotify.com/artist/2Q7QfdUIxSSnodTdVzm1Lv), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [CIENTO 80](https://open.spotify.com/album/3AmJ1iXv5wwojydn0P7qDg) | 2:41 |
+| 27 | [CIENTO 80](https://open.spotify.com/track/15YXFaKXnhlFro8XhYrQ7T) | [R.E.A.L](https://open.spotify.com/artist/2Q7QfdUIxSSnodTdVzm1Lv), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM) | [CIENTO 80](https://open.spotify.com/album/3AmJ1iXv5wwojydn0P7qDg) | 2:28 |
 | 28 | [Con los Pies en la Tierra](https://open.spotify.com/track/4Dvc0gecesLKt87qwwzlnp) | [Arias](https://open.spotify.com/artist/2GK6y5dmhaWM16VZxHiO15) | [Con los Pies en la Tierra](https://open.spotify.com/album/3FXT7HN09sGlJ2vrM6F0i3) | 2:20 |
 | 29 | [Caro](https://open.spotify.com/track/732gmm1KqVVvdJO82xKdPW) | [Ilish](https://open.spotify.com/artist/0k9MEyUMyo7Tx0F1C1cnCi), [DUViMEL](https://open.spotify.com/artist/0nr8vWafm3bpsbHi7qhltF) | [Imperfecto](https://open.spotify.com/album/1Oghz0hPVZDB3UFHLmPfAh) | 2:37 |
 | 30 | [Púrpura](https://open.spotify.com/track/6JZtuiHIIM2IxYZ7ao6w5e) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf), [Manuel Voz](https://open.spotify.com/artist/35aucLdMmhJxr2iUtqsP9d) | [Púrpura](https://open.spotify.com/album/7ngKFhbMn9HDULH8KHTWsN) | 3:39 |

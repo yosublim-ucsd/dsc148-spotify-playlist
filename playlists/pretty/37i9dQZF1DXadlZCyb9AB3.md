@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 
 > Defining songs of the riot grrrl era and the artists keeping its spirit alive
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,192 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,268 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,19 +52,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 42 | [Ha Ha Ha Armageddon](https://open.spotify.com/track/0brTq66ZftMGbr6OfKFUM9) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 3:16 |
 | 43 | [Fairytale in the Supermarket](https://open.spotify.com/track/5oXm58OdnsRPy2wyz3ES5u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:00 |
 | 44 | [Eating Toothpaste](https://open.spotify.com/track/3woDV8HAFSwgS8uTWrjYFI) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Ladies, Women and Girls](https://open.spotify.com/album/6kRFwx5Yj0sFOMeXgm8PbQ) | 2:26 |
-| 45 | [Mr\. Moneybag$](https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH) | [Emily's Sassy Lime](https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe) | [Desperate, Scared, but Social](https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq) | 1:51 |
-| 46 | [Handsome & Gretel](https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 1:50 |
+| 45 | [Handsome & Gretel](https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Fontanelle](https://open.spotify.com/album/3fbPYfpyJtow8IF3ho7o09) | 1:50 |
+| 46 | [Mr\. Moneybag$](https://open.spotify.com/track/72mCIwzPQ7sxfuINA3HjzH) | [Emily's Sassy Lime](https://open.spotify.com/artist/4AMBk6oS2Z1nhqEXIxIJxe) | [Desperate, Scared, but Social](https://open.spotify.com/album/0graDwkgKXdsKKGxyjXpcq) | 1:51 |
 | 47 | [A Living Human Girl](https://open.spotify.com/track/1K0F79D6b7XGDM667RpnsW) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Feel Your Feelings Fool!](https://open.spotify.com/album/3AWvlkLV6Wmys6G85zwz98) | 2:37 |
 | 48 | [Luxury Problem](https://open.spotify.com/track/7KB9Su9uFdJDgk5iKOmDhF) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 2:53 |
 | 49 | [Dress](https://open.spotify.com/track/3ajG91JkP3bAaLrDjywKNj) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Dry](https://open.spotify.com/album/08Plby1CLD0UNgChnPD8lo) | 3:18 |
-| 50 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
-| 51 | [Me & Her](https://open.spotify.com/track/6P4UiEsyyjHkgrdqfhXsa5) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [These Monsters Are Real](https://open.spotify.com/album/4G89Sw4wnfauYwhSAT0lke) | 2:44 |
+| 50 | [Me & Her](https://open.spotify.com/track/6P4UiEsyyjHkgrdqfhXsa5) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [These Monsters Are Real](https://open.spotify.com/album/4G89Sw4wnfauYwhSAT0lke) | 2:44 |
+| 51 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
 | 52 | [Make America Great Again](https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [xxx](https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC) | 3:15 |
 | 53 | [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 4:08 |
 | 54 | [No One's Little Girl](https://open.spotify.com/track/1jQ86hNKMD4c0w1F0RESYA) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:30 |
-| 55 | [What Kind of Monster Are You?](https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd) | [Slant 6](https://open.spotify.com/artist/2wJzS4RYv4vtk5uo13IlkY) | [Soda Pop \* Rip Off](https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ) | 2:03 |
+| 55 | [Too Many Creeps](https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Rhythm and Paranoia: The Best of Bush Tetras](https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79) | 4:03 |
 | 56 | [Just My Kind](https://open.spotify.com/track/2mc0Lq811WFLcfYgggz0fp) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [Run Fast](https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f) | 3:51 |
-| 57 | [Too Many Creeps](https://open.spotify.com/track/17yxzUcZSu3S9KyoGF0ckI) | [Bush Tetras](https://open.spotify.com/artist/2X2Q1fpEwW7WtZxXb4acYb) | [Rhythm and Paranoia: The Best of Bush Tetras](https://open.spotify.com/album/1N88J8RmLwvapgXTbuZe79) | 4:03 |
+| 57 | [What Kind of Monster Are You?](https://open.spotify.com/track/7AfEKgIdg2jYvarZwNJIXd) | [Slant 6](https://open.spotify.com/artist/2wJzS4RYv4vtk5uo13IlkY) | [Soda Pop \* Rip Off](https://open.spotify.com/album/5SQhXEf4MVjWG4Y5K78GxQ) | 2:03 |
 | 58 | [Racist, Sexist Boy \- Live at LA Public Library](https://open.spotify.com/track/6GeiA9XxITMHM3jk1hkNjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Racist, Sexist Boy \(Live at LA Public Library\)](https://open.spotify.com/album/7MFXmsdx6um8n72tdReH3C) | 2:05 |
 | 59 | [Where the Girls Are](https://open.spotify.com/track/3LAsmmdRNi6qoZDSclv2iD) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [That's Not What I Heard](https://open.spotify.com/album/1nemQafNn0dGHjXFylg8Kf) | 1:44 |
 | 60 | [Be Yr Mama](https://open.spotify.com/track/1KwBL4bOPurrC2ZqUEo4QY) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Sleater\-Kinney \(Remastered\)](https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM) | 2:52 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadlZCyb9AB3.md) - [plain]
 | 65 | [Girls Like Us](https://open.spotify.com/track/55iEQ6oFvMsQm2eLGl4OIC) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [Run Fast](https://open.spotify.com/album/0BSqUgcOoDsMtSro646c8f) | 3:19 |
 | 66 | [My Baby \(Axe Nice\)](https://open.spotify.com/track/1yGOXn0GWEcXTejNMHYoR4) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Mannequin Pussy](https://open.spotify.com/album/3JWT3gPoEcgonA0Y2JREmK) | 0:59 |
 | 67 | [Step Close Now](https://open.spotify.com/track/2MLvTgBG6p4VNgdA1edkQc) | [Dolly Mixture](https://open.spotify.com/artist/46mHImQWI9FD9f6QFH6whv) | [Demonstration Tapes](https://open.spotify.com/album/4Y1WtRvazalwwq6XwTR9SU) | 1:58 |
-| 68 | [Organs](https://open.spotify.com/track/369ZHVk9UlOxmRcjs6XeUr) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [xxx](https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC) | 4:39 |
-| 69 | [Seafood](https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 2:32 |
+| 68 | [Seafood](https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [babyface](https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS) | 2:32 |
+| 69 | [Organs](https://open.spotify.com/track/369ZHVk9UlOxmRcjs6XeUr) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [xxx](https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC) | 4:39 |
 | 70 | [Pillow Case Kisser](https://open.spotify.com/track/1uXSrZF3qd7ZLXURZw1BzP) | [Skinned Teen](https://open.spotify.com/artist/7os5CJbSzqsNlcVJd99aV1) | [Bazooka Smooth!](https://open.spotify.com/album/3J9UlDltpkop6xK3Ew8sBj) | 1:38 |
 | 71 | [Alabama Movies](https://open.spotify.com/track/0lHJ9bP1Ph6FMFCF1l97Wa) | [Skating Polly](https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9) | [Fuzz Steilacoom](https://open.spotify.com/album/3obbLp8QVZ6R0JhK252pfY) | 3:40 |
 | 72 | [The Clutch](https://open.spotify.com/track/5Xm5b2ORltrEHCgiqptGPb) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [The Clutch](https://open.spotify.com/album/3Ke3jZ4dYcOaa4jzyWAOtD) | 3:10 |

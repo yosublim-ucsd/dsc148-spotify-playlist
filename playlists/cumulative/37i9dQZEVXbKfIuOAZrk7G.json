@@ -2179,6 +2179,28 @@
     },
     {
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172597,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU"
+    },
+    {
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
       },
@@ -4255,6 +4277,24 @@
     },
     {
       "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171243,
+      "name": "BABY I'M BACK",
+      "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
+    },
+    {
+      "album": {
         "name": "BABY OTAKU",
         "url": "https://open.spotify.com/album/7HUH0lFoay2KzGEZqGp55G"
       },
@@ -4384,6 +4424,28 @@
       "duration_ms": 295471,
       "name": "BACK TO ME",
       "url": "https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b"
+    },
+    {
+      "album": {
+        "name": "BACKBONE",
+        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166448,
+      "name": "BACKBONE",
+      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
     },
     {
       "album": {
@@ -6816,7 +6878,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 145454,
       "name": "BLOW (WHITE GIRL IN TOWN) [feat. Kilo Ali]",
       "url": "https://open.spotify.com/track/52r4FYDc8x1DlWt6x2vuiT"
@@ -6838,6 +6900,24 @@
       "duration_ms": 343120,
       "name": "BLUE",
       "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
+    },
+    {
+      "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217846,
+      "name": "Blue Green Red",
+      "url": "https://open.spotify.com/track/1HBv0BqHfm6sMsAUg5H3Yo"
     },
     {
       "album": {
@@ -7104,6 +7184,28 @@
       "duration_ms": 154905,
       "name": "Boom (feat. JID)",
       "url": "https://open.spotify.com/track/0otr94JBA5RwgW844svYHn"
+    },
+    {
+      "album": {
+        "name": "Boost Up",
+        "url": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211899,
+      "name": "Boost Up",
+      "url": "https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr"
     },
     {
       "album": {
@@ -7968,7 +8070,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 200400,
       "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
@@ -9354,7 +9456,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 128575,
       "name": "Chihiro",
       "url": "https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C"
@@ -12407,6 +12509,24 @@
     },
     {
       "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
         "name": "Digital Silence",
         "url": "https://open.spotify.com/album/0s2Z94Uv7DpRBkIx8UZnmp"
       },
@@ -12498,7 +12618,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 173361,
       "name": "Dirty (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
@@ -16024,7 +16144,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 163155,
       "name": "FIELD TRIP",
       "url": "https://open.spotify.com/track/7vv89PswQvqGKCGJ1rw5on"
@@ -16557,6 +16677,36 @@
     },
     {
       "album": {
+        "name": "flex fm (freddit)",
+        "url": "https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246909,
+      "name": "flex fm (freddit)",
+      "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
+    },
+    {
+      "album": {
         "name": "Flights",
         "url": "https://open.spotify.com/album/1Fa22nkjCibBCB6PDNzojd"
       },
@@ -16753,6 +16903,28 @@
     },
     {
       "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
+    },
+    {
+      "album": {
         "name": "Fly Girl (feat. Missy Elliott)",
         "url": "https://open.spotify.com/album/0cfvGEzoMnxtDKCcugR6Tv"
       },
@@ -16790,6 +16962,24 @@
       "duration_ms": 152659,
       "name": "Fofo",
       "url": "https://open.spotify.com/track/7evuMZb19fe5dTtnNJnyio"
+    },
+    {
+      "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
       "album": {
@@ -19424,10 +19614,32 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
+    },
+    {
+      "album": {
+        "name": "Guess featuring Billie Eilish",
+        "url": "https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143330,
+      "name": "Guess featuring Billie Eilish",
+      "url": "https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK"
     },
     {
       "album": {
@@ -19530,7 +19742,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 164011,
       "name": "Guy For That (Feat. Luke Combs)",
       "url": "https://open.spotify.com/track/6StwwqB84sJeLr7tZDTxEX"
@@ -20042,7 +20254,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 161142,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
@@ -20776,7 +20988,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 181165,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/487JCvAXVblflZyDJn3fSp"
@@ -25199,6 +25411,32 @@
     },
     {
       "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "It's Up (feat. Young Thug & 21 Savage)",
+      "url": "https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz"
+    },
+    {
+      "album": {
         "name": "DO NOT DISTURB (DELUXE)",
         "url": "https://open.spotify.com/album/2rIbOVBLitHcUD2g9UCz1P"
       },
@@ -27990,7 +28228,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 249560,
       "name": "Lately",
       "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
@@ -28124,7 +28362,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 186906,
       "name": "Leave a Light On (Talk Away The Dark)",
       "url": "https://open.spotify.com/track/05N2CVEkUbEd0slHLapdER"
@@ -28654,7 +28892,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 204933,
       "name": "Liar",
       "url": "https://open.spotify.com/track/0BKLYnngsUyaEwWPOJjGxc"
@@ -28832,6 +29070,24 @@
       "duration_ms": 181040,
       "name": "LIGHTS ON NOBODY'S HOME",
       "url": "https://open.spotify.com/track/5aANEtfccAdMVeDnJzgcfn"
+    },
+    {
+      "album": {
+        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
+        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
+      },
+      "artists": [
+        {
+          "name": "I'll Take You There Choir",
+          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152893,
+      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
+      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
     },
     {
       "album": {
@@ -30164,7 +30420,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 173168,
       "name": "Love Potions",
       "url": "https://open.spotify.com/track/6ZK4VMxfEYLPqpSvX2l4iY"
@@ -30855,6 +31111,32 @@
     },
     {
       "album": {
+        "name": "DAYS BEFORE RODEO",
+        "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272772,
+      "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
+      "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
+    },
+    {
+      "album": {
         "name": "MAMIII",
         "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
       },
@@ -31356,7 +31638,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 255686,
       "name": "Maybe This Time - From \"Maybe This Time\"",
       "url": "https://open.spotify.com/track/1uwg7BqqCx60EUA24WPB6c"
@@ -41602,7 +41884,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 160291,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT"
@@ -47482,6 +47764,24 @@
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
+    },
+    {
+      "album": {
+        "name": "Supersonic",
+        "url": "https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174146,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v"
     },
     {
       "album": {
@@ -56334,6 +56634,24 @@
       "duration_ms": 212713,
       "name": "Why Am I Like This?",
       "url": "https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7"
+    },
+    {
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "album": {

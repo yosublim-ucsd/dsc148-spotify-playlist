@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,125 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,109 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 29 | [CUSSY](https://open.spotify.com/track/4Hoc1S0s6cZtni6ghIytDX) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Gambiarra Chic, Pt\. 1](https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz) | 3:00 |
 | 30 | [Aladim](https://open.spotify.com/track/1s1DSGM5SUKUvokcTSXQpB) | [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg), [Ella](https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA) | [Aladim](https://open.spotify.com/album/52Ixv92K027g2pRKJVeoCj) | 2:25 |
 | 31 | [MARÉ](https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARÉ](https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ) | 2:48 |
-| 32 | [Malícia](https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA Part\. I](https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr) | 3:08 |
-| 33 | [METE MARCHA S4TAN REMIX](https://open.spotify.com/track/3ETPDvoeCAopIpQeqbY08s) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [S4TAN](https://open.spotify.com/artist/0NGWlVN1aoxbq5wXeoHFvw) | [METE MARCHA S4TAN REMIX](https://open.spotify.com/album/5ID3gSdlsnVrxIh3oREKHx) | 3:01 |
+| 32 | [METE MARCHA S4TAN REMIX](https://open.spotify.com/track/3ETPDvoeCAopIpQeqbY08s) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [S4TAN](https://open.spotify.com/artist/0NGWlVN1aoxbq5wXeoHFvw) | [METE MARCHA S4TAN REMIX](https://open.spotify.com/album/5ID3gSdlsnVrxIh3oREKHx) | 3:01 |
+| 33 | [Malícia](https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [NOVA ERA Part\. I](https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr) | 3:08 |
 | 34 | [Garoto Invisível](https://open.spotify.com/track/3t6sIqeBwehmUfIF4lFtem) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Garoto Invisível](https://open.spotify.com/album/2GXWE2IjT2WUpxDM7DSZ8P) | 2:36 |
 | 35 | [Língua dos Anjos](https://open.spotify.com/track/0AgluK6lXqHzjgTLkXMjlg) | [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB) | [PORCELANA](https://open.spotify.com/album/4o1zqfzFJCsgIstBtZXlx3) | 2:14 |
 | 36 | [Depois Da Meia Noite](https://open.spotify.com/track/7wzORro0Gozq6FmEU3Tery) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Depois Da Meia Noite](https://open.spotify.com/album/0waLkA8iSto5omd7Q66XId) | 3:09 |

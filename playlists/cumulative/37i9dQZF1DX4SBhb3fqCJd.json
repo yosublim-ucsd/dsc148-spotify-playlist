@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where R&B lives. Cover: Victoria Mon\u00e9t",
+  "description": "Where R&B lives. Cover: Victoria Mon\u00e9t & USHER",
   "name": "RNB X",
   "tracks": [
     {
@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 150262,
       "name": "8",
       "url": "https://open.spotify.com/track/17fMdv2JY435A1naCGTtby"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 208600,
       "name": "Breathing (feat. Fabolous)",
       "url": "https://open.spotify.com/track/5C1hdPaaK43VDJ95Apfanq"
@@ -8187,6 +8187,28 @@
     },
     {
       "album": {
+        "name": "SOS (Sex on Sight) (feat. USHER)",
+        "url": "https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265057,
+      "name": "SOS (Sex on Sight) (feat. USHER)",
+      "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
+    },
+    {
+      "album": {
         "name": "LEGEND",
         "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
       },
@@ -9776,6 +9798,28 @@
       "duration_ms": 194360,
       "name": "What\u2019s Love (feat. NOVA WAV)",
       "url": "https://open.spotify.com/track/21yOrYYYOQ3RLjbBYcXzAV"
+    },
+    {
+      "album": {
+        "name": "When He\u2019s Not There (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/4wbY1m1O17LJx00KoN6oQN"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268401,
+      "name": "When He\u2019s Not There (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/79C5R15cOiFYUvWG4gDL10"
     },
     {
       "album": {

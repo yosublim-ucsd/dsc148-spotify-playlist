@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,562 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,569 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 41 | [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 |
 | 42 | [Можно я с тобой](https://open.spotify.com/track/0MRBhe9wjupFpmdKGh3Xhp) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/1P6jao46qEoaobNco6B0yl) | 2:12 |
 | 43 | [Шоколадка](https://open.spotify.com/track/0iLaVAFazlX7I9VdIBFulE) | [Минаева](https://open.spotify.com/artist/0zR4pGeKJictWoIOwPYbYZ) | [Шоколадка](https://open.spotify.com/album/3zF5GBYnMldcJq1eTYZYLd) | 2:48 |
-| 44 | [Chk Chk Boom](https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/1uLAcaywb5673rQ2lJ1UG7) | 2:28 |
+| 44 | [Chk Chk Boom](https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ATE](https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY) | 2:28 |
 | 45 | [November](https://open.spotify.com/track/4FSg7aHsASSaFgskTYPCor) | [Toxi$](https://open.spotify.com/artist/2hTmpvdwhpNZryOkwTisRW) | [Heartbreak](https://open.spotify.com/album/5fsk4Ue6YywjUPGLc9miuk) | 2:49 |
 | 46 | [Never Broke Again](https://open.spotify.com/track/21LIoC4ZxT3F8xq9gidNbX) | [xxxmanera](https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr) | [Never Broke Again](https://open.spotify.com/album/3fsKGXLjN1T0fdDzE2MfgI) | 1:48 |
 | 47 | [ТОЛПЫ КРИЧАТ](https://open.spotify.com/track/3mcw4dkjfzj5B4Ago9NSmN) | [uniqe](https://open.spotify.com/artist/0NhjeTa9uSqiD1wEG3gfII), [nkeeei](https://open.spotify.com/artist/0kD3TUffiD0sPxGwygzjg7), [ARTEM SHILOVETS](https://open.spotify.com/artist/3r1Md7Hk5iqtpyEoGo8032) | [ТОЛПЫ КРИЧАТ](https://open.spotify.com/album/3RcaQ8cYOVRS1PkjUZYtSI) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Slappy Tap](https://open.spotify.com/track/5q0lNR2QzHVatYdjXc9Ty9) | [Baby Melo](https://open.spotify.com/artist/72c2wcAnsUn4VlXiN1uDOs) | [Slappy Tap](https://open.spotify.com/album/2AlsoF1eExPmQhY5mic5n6) | 1:02 |
 | 50 | [далеко \(большой Бушизм\) \[prod\. by wex & heysubr\]](https://open.spotify.com/track/5n0HWIOT3UoScVThrRkH4k) | [BUSHIDO ZHO](https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R) | [далеко \(большой Бушизм\) \[prod\. by wex & heysubr\]](https://open.spotify.com/album/3KXxUj15lVB5qolvUReTWB) | 1:47 |
 
-Snapshot ID: `Ll/q8AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu`

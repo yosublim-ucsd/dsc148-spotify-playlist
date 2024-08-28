@@ -970,6 +970,10 @@
         {
           "name": "VXSION",
           "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        },
+        {
+          "name": "Dawn Patrol",
+          "url": "https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe"
         }
       ],
       "date_added": "2024-07-26",
@@ -10388,7 +10392,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 218437,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
@@ -13838,6 +13842,28 @@
       "duration_ms": 258456,
       "name": "Power",
       "url": "https://open.spotify.com/track/67RVdzQV2voLJu77EZMQe4"
+    },
+    {
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/0ypGTa4ZhiEf0CeNx46APm"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157689,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/2u6XasNryHmfzy9DjXNO9D"
     },
     {
       "album": {

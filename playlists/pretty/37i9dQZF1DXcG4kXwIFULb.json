@@ -1,6 +1,6 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 170179,
+  "num_followers": 170264,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
@@ -1531,6 +1531,38 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
+        "name": "Satta",
+        "url": "https://open.spotify.com/album/33EJ6lZ0aQ6uYFnac5F5Xq"
+      },
+      "artists": [
+        {
+          "name": "Boozoo Bajou",
+          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
+        }
+      ],
+      "duration_ms": 379360,
+      "name": "Night over Manaus",
+      "url": "https://open.spotify.com/track/5E80SdB1TAjgZqX5t6D3Fa"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
+        "name": "The Mirror Conspiracy",
+        "url": "https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn"
+      },
+      "artists": [
+        {
+          "name": "Thievery Corporation",
+          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
+        }
+      ],
+      "duration_ms": 290826,
+      "name": "Lebanese Blonde",
+      "url": "https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy"
+    },
+    {
+      "added_at": "2024-07-12 16:10:01",
+      "album": {
         "name": "London Funk Volume 1",
         "url": "https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa"
       },
@@ -1547,22 +1579,6 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The Richest Man In Babylon",
-        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
-      },
-      "artists": [
-        {
-          "name": "Thievery Corporation",
-          "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
-        }
-      ],
-      "duration_ms": 236960,
-      "name": "Until The Morning",
-      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
         "name": "Abstract Manifesto",
         "url": "https://open.spotify.com/album/5fQRlwuPBxtmq2pK9tR8y6"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 358213,
       "name": "No Competition",
       "url": "https://open.spotify.com/track/1sXmkVWZHCkj76FcHh3rIL"
-    },
-    {
-      "added_at": "2024-07-12 16:10:01",
-      "album": {
-        "name": "Satta",
-        "url": "https://open.spotify.com/album/33EJ6lZ0aQ6uYFnac5F5Xq"
-      },
-      "artists": [
-        {
-          "name": "Boozoo Bajou",
-          "url": "https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3"
-        }
-      ],
-      "duration_ms": 379360,
-      "name": "Night over Manaus",
-      "url": "https://open.spotify.com/track/5E80SdB1TAjgZqX5t6D3Fa"
     },
     {
       "added_at": "2024-07-12 16:10:01",
@@ -1659,8 +1659,8 @@
     {
       "added_at": "2024-07-12 16:10:01",
       "album": {
-        "name": "The Mirror Conspiracy",
-        "url": "https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn"
+        "name": "The Richest Man In Babylon",
+        "url": "https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA"
       },
       "artists": [
         {
@@ -1668,9 +1668,9 @@
           "url": "https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3"
         }
       ],
-      "duration_ms": 290826,
-      "name": "Lebanese Blonde",
-      "url": "https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy"
+      "duration_ms": 236960,
+      "name": "Until The Morning",
+      "url": "https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN"
     }
   ],
   "unique_name": "Chillout Classics",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,893 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,894 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 28 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 |
 | 29 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 |
 | 30 | [Hypnotize \- 2007 Remaster](https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 3:50 |
-| 31 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
-| 32 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
+| 31 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
+| 32 | [Ye](https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D) | 3:51 |
 | 33 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
 | 34 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
 | 35 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 |
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 55 | [What'd I Say, Pt\. 1 & 2](https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [What'd I Say](https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn) | 5:07 |
 | 56 | [Drinking in L.A.](https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x) | [Bran Van 3000](https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB) | [Glee](https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp) | 3:56 |
 | 57 | [Is This Love](https://open.spotify.com/track/4mPd1gJhgcYFRSJyoYAxE8) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya \- Deluxe Edition](https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv) | 3:51 |
-| 58 | [Teardrops](https://open.spotify.com/track/2eRmD96ncTEgQwJmXa6rrg) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [80s Soul \- International Version](https://open.spotify.com/album/6eQ7vSfXNxJWeLUFeqKt4A) | 3:48 |
-| 59 | [Express Yourself](https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself](https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5) | 3:53 |
+| 58 | [Express Yourself](https://open.spotify.com/track/4pW3aTX3kAmOaPJfc9UM12) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself](https://open.spotify.com/album/2aUItMxwVnUJg4btjcUxC5) | 3:53 |
+| 59 | [Teardrops](https://open.spotify.com/track/2eRmD96ncTEgQwJmXa6rrg) | [Womack & Womack](https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ) | [80s Soul \- International Version](https://open.spotify.com/album/6eQ7vSfXNxJWeLUFeqKt4A) | 3:48 |
 | 60 | [Here Comes the Hotstepper](https://open.spotify.com/track/1G88BbuMts7HC0nHGoHmhv) | [iNi Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:07 |
 | 61 | [Hold On](https://open.spotify.com/track/3zzZVLdBKRW8JH7GhFPyvu) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH) | 3:46 |
 | 62 | [Pure Shores](https://open.spotify.com/track/4mjLAbsWBCuqSOqMvaPkXd) | [All Saints](https://open.spotify.com/artist/5TDVKqW9uhqGjwwwKGuma4) | [Pure Shores](https://open.spotify.com/album/0q5pj4C8Fl8d3pzn2OH0ZV) | 4:28 |
-| 63 | [Wild World](https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ) | [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [John Gallen](https://open.spotify.com/artist/5aO4PS2vHHs4n14pMwmadH) | [Maxi](https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1) | 3:38 |
-| 64 | [Funky Kingston](https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 4:55 |
+| 63 | [Funky Kingston](https://open.spotify.com/track/26WPI2aksB9XdqmeLfca5z) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Funky Kingston](https://open.spotify.com/album/7a341nZsSfwyBsq1tMPETz) | 4:55 |
+| 64 | [Wild World](https://open.spotify.com/track/3vYrrMpsebx3OJ1H5E1lWQ) | [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [John Gallen](https://open.spotify.com/artist/5aO4PS2vHHs4n14pMwmadH) | [Maxi](https://open.spotify.com/album/2RjgoKYACTWEtfsealo5E1) | 3:38 |
 | 65 | [It Was A Good Day](https://open.spotify.com/track/2MuJbBWAVewREJmB8WdGJ3) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Essentials](https://open.spotify.com/album/1N4pAgoZjA2oGnh4bTk8oh) | 4:20 |
 | 66 | [Get Free](https://open.spotify.com/track/4p4hyqRFdoiw4EMbEsqBdA) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Amber of Dirty Projectors](https://open.spotify.com/artist/6ZNxsFRXMi2yGGgOtVZsrr) | [Free the Universe](https://open.spotify.com/album/1MGMwkEuzCHda8lE3GA4RR) | 4:49 |
 | 67 | [I Got The..\. \- 2006 Remaster](https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Remember My Song](https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV) | 6:35 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 
 ### [This Is City Girls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NPjOD)
 
-> This is City Girls\. Todos os maiores hits em uma só playlist.
+> This Is City Girls\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,995 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,994 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 18 | [Work For It](https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 1:46 |
 | 19 | [Rodeo](https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 2:57 |
 | 20 | [How To Pimp A N\*\*ga](https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:50 |
-| 21 | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0) | 2:52 |
-| 22 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
+| 21 | [BILLS PAID \(feat\. Latto & City Girls\)](https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:28 |
+| 22 | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Wiggle It \(feat\. City Girls\)](https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0) | 2:52 |
 | 23 | [Flewed Out](https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 3:10 |
 | 24 | [Take Yo Man](https://open.spotify.com/track/5aOpKCKguEnViGOKZxZern) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:56 |
 | 25 | [Face Down](https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Face Down](https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1) | 2:07 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1NPjOD.md) - [plain]
 | 39 | [That's My Bitch](https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [City On Lock](https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN) | 1:55 |
 | 40 | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M) | 2:49 |
 | 41 | [Period \(We Live\)](https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:34 |
-| 42 | [I Need A Thug](https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [I Need A Thug](https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl) | 1:57 |
-| 43 | [Yung and Bhad \(feat\. City Girls\)](https://open.spotify.com/track/4vHf3mf0iZgEmkdHyLTSE9) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:50 |
+| 42 | [Yung and Bhad \(feat\. City Girls\)](https://open.spotify.com/track/4vHf3mf0iZgEmkdHyLTSE9) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [15](https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12) | 2:50 |
+| 43 | [I Need A Thug](https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [I Need A Thug](https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl) | 1:57 |
 | 44 | [4 Da Moment \(feat\. City Girls\)](https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [43VA HEARTLESS](https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f) | 2:22 |
 | 45 | [Pastor \(Quavo, City Girls feat\. Megan Thee Stallion\)](https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 2:40 |
 | 46 | [Money Fight](https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Bad Boys For Life Soundtrack](https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj) | 2:38 |
 | 47 | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE) | [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Three Point Stance \(feat\. City Girls & Megan Thee Stallion\)](https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly) | 3:22 |
 | 48 | [Static \(feat\. Lil Durk\)](https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 2:47 |
-| 49 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
-| 50 | [Tighten Up](https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 1:59 |
+| 49 | [Tighten Up](https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 1:59 |
+| 50 | [Shisha](https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Shisha](https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl) | 2:54 |
 
-Snapshot ID: `Zsp0AAAAAAB6i0oqpqa23mlW2sG2yg43`
+Snapshot ID: `ZsvFgAAAAACpD1+ApZPfW1IxZ7uddpfY`

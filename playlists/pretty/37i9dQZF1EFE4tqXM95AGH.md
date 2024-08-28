@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,176 likes - 171 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177 likes - 171 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 83 | [The Other Side](https://open.spotify.com/track/1GbrJXEPkBb492q2t5mtRC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [The Other Side \(From "Sierra Burgess Is a Loser"\)](https://open.spotify.com/album/6PMDxho9YZstxzVxOLkVaY) | 2:59 |
 | 84 | [Science](https://open.spotify.com/track/4E5BoPxABSbi6Tkhaz2uzi) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Super Sunset](https://open.spotify.com/album/46tqZIHK7vudgW0NCYW4y9) | 3:55 |
 | 85 | [Man Up](https://open.spotify.com/track/1YKOm06nQc83UXXG4ubrjo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 2:48 |
-| 86 | [Got the Feeling](https://open.spotify.com/track/3Z3U4m3C7WUoRf0lctIzfx) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:37 |
-| 87 | [It Even Rains In LA](https://open.spotify.com/track/5bZncPtqBgaIEtaFaH60Sg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:35 |
+| 86 | [It Even Rains In LA](https://open.spotify.com/track/5bZncPtqBgaIEtaFaH60Sg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:35 |
+| 87 | [Got the Feeling](https://open.spotify.com/track/3Z3U4m3C7WUoRf0lctIzfx) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:37 |
 | 88 | [Lie for Love](https://open.spotify.com/track/6MrYbA2BABupgYu3eONu7G) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:05 |
 | 89 | [Take You Back](https://open.spotify.com/track/1NF9ux53nctr5Rjb3c8i7D) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:49 |
 | 90 | [I got it bad](https://open.spotify.com/track/40gsPLTRUl4VDevJNoNeNE) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:52 |
@@ -125,7 +125,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 115 | [Girls in Line for the Bathroom](https://open.spotify.com/track/4jcM7Z6rKqsjEWpSTVfjmm) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Tough Boy](https://open.spotify.com/album/6qSBgX2I6aDWvAUrKovMMa) | 2:27 |
 | 116 | [Latitude](https://open.spotify.com/track/6fjT2ujTDleTLCDWR5ja0f) | [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 4:05 |
 | 117 | [Happy](https://open.spotify.com/track/3A3dM4JttKpJdgCE17mfXh) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05), [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [BREATHE](https://open.spotify.com/album/4dNB3Gat1KKAIzIaFKNRM1) | 2:28 |
-| 118 | [Everybody Says They’re Fine](https://open.spotify.com/track/3u08t7MEgvueIBfUe7M3O4) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go \(Special Edition\)](https://open.spotify.com/album/08zkdPR1WBr2vGKhp575H4) | 2:31 |
+| 118 | [Everybody Says They’re Fine](https://open.spotify.com/track/3u08t7MEgvueIBfUe7M3O4) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go \- Special Edition](https://open.spotify.com/album/08zkdPR1WBr2vGKhp575H4) | 2:31 |
 | 119 | [The Hurtin' Kind](https://open.spotify.com/track/0WEnbKV0sLhYjiA9H7Bfqk) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:06 |
 | 120 | [Weekend](https://open.spotify.com/track/3APdNGA9kaoF1xB9URocBP) | [Adam Sample](https://open.spotify.com/artist/4ljG1jvAMItCY45vzI5k0G) | [Weekend](https://open.spotify.com/album/7xc55UnH6f3F1KM51YdVrH) | 3:13 |
 | 121 | [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 170 | [Open Always Wins](https://open.spotify.com/track/4vuudfaZC8lxouxxC9tLOz) | [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Kpop Piano \#75](https://open.spotify.com/album/6eajkqJn9Tva9SvTVmYfr2) | 2:22 |
 | 171 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `Abae/gAAAABP+RYXSgAJr5AVcWIdpNzS`
+Snapshot ID: `AbakngAAAAD4ZNvyZd9x0Nc/VAEuZt6A`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 958,135 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 958,085 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 33 | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/track/7rLegaz7zKB6EtDNzcslKE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy) | [Medley da Gaiola \- DENNIS Remix](https://open.spotify.com/album/4w2mFsi8WKeGFklMhyipnb) | 3:59 |
 | 34 | [TOMA](https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2) | [TOMA](https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3) | 2:09 |
 | 35 | [Troféu do Ano](https://open.spotify.com/track/4MdifWtRdG2iHCMSzbA7nA) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk), [Mc Nando Dk](https://open.spotify.com/artist/3lX6w0gmtgVeijiFxNz5O7), [DJ Cassula](https://open.spotify.com/artist/4jthJGVVXY7PUVXUvI56Ny) | [Troféu do Ano](https://open.spotify.com/album/3BQgCMCYcRf9t3V2nfBWgw) | 3:09 |
-| 36 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
+| 36 | [LARISSA](https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [LARISSA](https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy) | 2:05 |
 | 37 | [Deixa de Onda \(Porra Nenhuma\)](https://open.spotify.com/track/0DlHQxrVijRqVUfuS6PKaY) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Deixa de Onda \(Porra Nenhuma\)](https://open.spotify.com/album/1fjkJADMiiZWMDusZSMNix) | 3:04 |
-| 38 | [LARISSA](https://open.spotify.com/track/1wowgtxmcxyIDGkQ8S28gL) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [LARISSA](https://open.spotify.com/album/70sY3crXMsRLyKBhDhqcNy) | 2:05 |
+| 38 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
 | 39 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
 | 40 | [Agora Vai Sentar](https://open.spotify.com/track/0pDaqgIForVNO4jrtTxcWT) | [MC's Jhowzinho & Kadinho](https://open.spotify.com/artist/2Q4r4Epfaaho06ONTHx7OS) | [Agora Vai Sentar](https://open.spotify.com/album/39HSKuqaxE7NH3ZeJoKqdh) | 3:48 |
 | 41 | [Preta do Cabelo Cacheado](https://open.spotify.com/track/0Ve3XWcrsgy90xo0UL2syx) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Th CDM](https://open.spotify.com/artist/736JbivCkAkdLP9xOA3jLs), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ) | [Preta do Cabelo Cacheado](https://open.spotify.com/album/6l6ykuHvWq1rV65S5Y1wJh) | 2:41 |

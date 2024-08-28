@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Devara",
-  "num_followers": 137233,
+  "num_followers": 138629,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZshKfQAAAABmz6C3J4WwpgimvuSRiORf",
+  "snapshot_id": "Zs2VjAAAAADzGvSozgJtWUsEbJol4BA0",
   "tracks": [
     {
       "added_at": "2024-08-05 12:07:26",
@@ -31,6 +31,158 @@
       "duration_ms": 222063,
       "name": "Chuttamalle (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
+    },
+    {
+      "added_at": "2024-08-27 04:56:53",
+      "album": {
+        "name": "Mass",
+        "url": "https://open.spotify.com/album/6iBzzhJ3UzJTkR0tWgHyJu"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "Ravi Varma",
+          "url": "https://open.spotify.com/artist/0jKqfBfufNQqaZrLZR6LoH"
+        }
+      ],
+      "duration_ms": 249416,
+      "name": "Mass",
+      "url": "https://open.spotify.com/track/18AWYoDcUk4OZuc33H54yq"
+    },
+    {
+      "added_at": "2024-06-05 09:12:34",
+      "album": {
+        "name": "Sooseki (From \"Pushpa 2 The Rule\") [TELUGU]",
+        "url": "https://open.spotify.com/album/7gzl2DEz4LGnwM1qr5UIP5"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "duration_ms": 260177,
+      "name": "Sooseki (From \"Pushpa 2 The Rule\") [TELUGU]",
+      "url": "https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb"
+    },
+    {
+      "added_at": "2024-04-18 09:25:53",
+      "album": {
+        "name": "Om Bheem Bush",
+        "url": "https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr"
+      },
+      "artists": [
+        {
+          "name": "Sunny M.R.",
+          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 211670,
+      "name": "Anuvanuvuu",
+      "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
+    },
+    {
+      "added_at": "2023-12-11 04:38:53",
+      "album": {
+        "name": "ANIMAL (TELUGU)",
+        "url": "https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "duration_ms": 275439,
+      "name": "Ammayi",
+      "url": "https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0"
+    },
+    {
+      "added_at": "2024-08-13 12:02:34",
+      "album": {
+        "name": "Garam Garam (From \"Saripodhaa Sanivaaram\")",
+        "url": "https://open.spotify.com/album/4lkXZmx0fyol03xmpQcqV3"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        }
+      ],
+      "duration_ms": 250761,
+      "name": "Garam Garam (From \"Saripodhaa Sanivaaram\")",
+      "url": "https://open.spotify.com/track/0qdiNx11tQtjFCqbko9i2k"
+    },
+    {
+      "added_at": "2024-02-12 09:26:05",
+      "album": {
+        "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
+        "url": "https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "duration_ms": 156497,
+      "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
+      "url": "https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql"
+    },
+    {
+      "added_at": "2023-08-30 10:44:11",
+      "album": {
+        "name": "Agnyaathavaasi",
+        "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Gaali Vaaluga",
+      "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"
     },
     {
       "added_at": "2024-08-23 08:38:21",
@@ -75,26 +227,6 @@
       "duration_ms": 163354,
       "name": "Bhairava Anthem (From \"Kalki 2898 Ad\") (Telugu)",
       "url": "https://open.spotify.com/track/5kNydYWkUyXh4zVoy8QDmC"
-    },
-    {
-      "added_at": "2024-08-13 12:02:34",
-      "album": {
-        "name": "Garam Garam (From \"Saripodhaa Sanivaaram\")",
-        "url": "https://open.spotify.com/album/4lkXZmx0fyol03xmpQcqV3"
-      },
-      "artists": [
-        {
-          "name": "Jakes Bejoy",
-          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        }
-      ],
-      "duration_ms": 250761,
-      "name": "Garam Garam (From \"Saripodhaa Sanivaaram\")",
-      "url": "https://open.spotify.com/track/0qdiNx11tQtjFCqbko9i2k"
     },
     {
       "added_at": "2024-08-09 13:11:08",
@@ -217,30 +349,6 @@
       "url": "https://open.spotify.com/track/0ROW5t0PWyBS6k0UizBr6c"
     },
     {
-      "added_at": "2024-06-05 09:12:34",
-      "album": {
-        "name": "Sooseki (From \"Pushpa 2 The Rule\") [TELUGU]",
-        "url": "https://open.spotify.com/album/7gzl2DEz4LGnwM1qr5UIP5"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
-        }
-      ],
-      "duration_ms": 260177,
-      "name": "Sooseki (From \"Pushpa 2 The Rule\") [TELUGU]",
-      "url": "https://open.spotify.com/track/2gKNWPBrI2IRBl2RRUtoEb"
-    },
-    {
       "added_at": "2024-05-19 15:23:15",
       "album": {
         "name": "Fear Song (From \"Devara Part 1\") [Telugu]",
@@ -315,30 +423,6 @@
       "duration_ms": 252435,
       "name": "Souraa (From \"Bharateeyudu 2\")",
       "url": "https://open.spotify.com/track/6EQVXaIi22Ilmkt1Coi9gZ"
-    },
-    {
-      "added_at": "2024-04-18 09:25:53",
-      "album": {
-        "name": "Om Bheem Bush",
-        "url": "https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr"
-      },
-      "artists": [
-        {
-          "name": "Sunny M.R.",
-          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 211670,
-      "name": "Anuvanuvuu",
-      "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
     },
     {
       "added_at": "2023-12-30 10:49:01",
@@ -453,30 +537,6 @@
       "url": "https://open.spotify.com/track/4ZguAeEoNjipSbQFzfDsYI"
     },
     {
-      "added_at": "2023-12-11 04:38:53",
-      "album": {
-        "name": "ANIMAL (TELUGU)",
-        "url": "https://open.spotify.com/album/5t9GkWCQGb0ejyH3c8zF1P"
-      },
-      "artists": [
-        {
-          "name": "Raghav Chaitanya",
-          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
-        },
-        {
-          "name": "Anantha Sreeram",
-          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
-        },
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        }
-      ],
-      "duration_ms": 275439,
-      "name": "Ammayi",
-      "url": "https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0"
-    },
-    {
       "added_at": "2024-04-01 13:45:16",
       "album": {
         "name": "Tillu Square",
@@ -557,30 +617,6 @@
       "url": "https://open.spotify.com/track/0ljjmkJocnhXzP62JYNW8p"
     },
     {
-      "added_at": "2024-02-12 09:26:05",
-      "album": {
-        "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
-        "url": "https://open.spotify.com/album/3dzlHbXUELpZY6I6pCYnar"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Saraswati Putra Ramajogayya Sastry",
-          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
-        }
-      ],
-      "duration_ms": 156497,
-      "name": "Oh My Baby (From \"Guntur Kaaram\")(Telugu)",
-      "url": "https://open.spotify.com/track/0yR49HoYJsJ27ey9rrtKql"
-    },
-    {
       "added_at": "2023-09-25 09:44:04",
       "album": {
         "name": "Samayama (From \"Hi Nanna\")",
@@ -603,30 +639,6 @@
       "duration_ms": 204181,
       "name": "Samayama (From \"Hi Nanna\")",
       "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Naa Madhi (From \"Thiru\")",
-        "url": "https://open.spotify.com/album/0ceS6UwDJIFvogBfDdv7V3"
-      },
-      "artists": [
-        {
-          "name": "Dhanunjay Seepana",
-          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
-        },
-        {
-          "name": "Srinivasa Mouli",
-          "url": "https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi"
-        },
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Naa Madhi (From \"Thiru\")",
-      "url": "https://open.spotify.com/track/42JI4hVOPLwQ0J7WOfIieR"
     },
     {
       "added_at": "2023-08-30 10:44:11",
@@ -931,22 +943,6 @@
       "duration_ms": 298392,
       "name": "My Heart is Beating",
       "url": "https://open.spotify.com/track/3ppaMjhBDxRi2kTpawOSJn"
-    },
-    {
-      "added_at": "2023-08-30 10:44:11",
-      "album": {
-        "name": "Agnyaathavaasi",
-        "url": "https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Gaali Vaaluga",
-      "url": "https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C"
     },
     {
       "added_at": "2023-08-30 10:44:11",

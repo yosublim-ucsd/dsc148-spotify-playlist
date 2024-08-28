@@ -1,12 +1,12 @@
 {
-  "description": "This Is Christina Aguilera. Los temas esenciales, todos en una lista.",
-  "num_followers": 264889,
+  "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
+  "num_followers": 264928,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAA/6O9cFL/gwFMwMvigUmLJ",
+  "snapshot_id": "ZsvFgAAAAADXuYQ8aOElWMyGMPomcVc7",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Come on over Baby (All I Want Is You) - Radio Version",
-      "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
+      "duration_ms": 215800,
+      "name": "What a Girl Wants",
+      "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 215800,
-      "name": "What a Girl Wants",
-      "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
+      "duration_ms": 203333,
+      "name": "Come on over Baby (All I Want Is You) - Radio Version",
+      "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
     },
     {
       "added_at": null,
@@ -679,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "XNDA",
-          "url": "https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w"
         }
       ],
-      "duration_ms": 245293,
-      "name": "Pipe (feat. XNDA)",
-      "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
+      "duration_ms": 244933,
+      "name": "Por Siempre T\u00fa",
+      "url": "https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2"
     },
     {
       "added_at": null,
@@ -715,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "XNDA",
+          "url": "https://open.spotify.com/artist/0tIJlS9XsT8tByKMAEUp1w"
         }
       ],
-      "duration_ms": 244933,
-      "name": "Por Siempre T\u00fa",
-      "url": "https://open.spotify.com/track/6jSxXM35ohsLj636rJoFg2"
+      "duration_ms": 245293,
+      "name": "Pipe (feat. XNDA)",
+      "url": "https://open.spotify.com/track/3cFWrR4fqK8mmmoJSxLkts"
     },
     {
       "added_at": null,
@@ -743,6 +743,38 @@
       "duration_ms": 186493,
       "name": "Not Myself Tonight",
       "url": "https://open.spotify.com/track/29CFPJaBW3ZfVeCI8EDnQa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "Falsas Esperanzas",
+      "url": "https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/0XTThEPWNlMsIagcBFoV9A"
     },
     {
       "added_at": null,
@@ -767,38 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 184773,
-      "name": "Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/0XTThEPWNlMsIagcBFoV9A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "Falsas Esperanzas",
-      "url": "https://open.spotify.com/track/0Mrq76p3dcIF8vrzWQyMVG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bionic (Deluxe Version)",
         "url": "https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H"
       },
@@ -815,22 +815,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santo",
-        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 183414,
-      "name": "Santo",
-      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
+      "duration_ms": 223493,
+      "name": "Contigo en la Distancia",
+      "url": "https://open.spotify.com/track/3iNPY9AOdaklvkNAgmRHRk"
     },
     {
       "added_at": null,
@@ -851,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+        "name": "Santo",
+        "url": "https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 223493,
-      "name": "Contigo en la Distancia",
-      "url": "https://open.spotify.com/track/3iNPY9AOdaklvkNAgmRHRk"
+      "duration_ms": 183414,
+      "name": "Santo",
+      "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
     },
     {
       "added_at": null,

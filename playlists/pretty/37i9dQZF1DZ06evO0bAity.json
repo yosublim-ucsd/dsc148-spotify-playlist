@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABUASL3mK5bSeJGvBNbtch8",
+  "snapshot_id": "ZsvFgAAAAADDPFwB9cXfd7SwyR87JzHw",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pollyanna",
+        "url": "https://open.spotify.com/album/4kQSRFsF773glePY10mDpr"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 161461,
+      "name": "Pollyanna",
+      "url": "https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rock Star (triple j Like a Version)",
         "url": "https://open.spotify.com/album/0sxfvjciRWGiS1y9cNXbA6"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 211600,
       "name": "Reflective Skull",
       "url": "https://open.spotify.com/track/65Xbss8BBrwYSpcIQXSCTa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pollyanna",
-        "url": "https://open.spotify.com/album/4kQSRFsF773glePY10mDpr"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 161461,
-      "name": "Pollyanna",
-      "url": "https://open.spotify.com/track/78pnTwSXa6nZCjcdLE4Lbu"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bloody Lovely",
-        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 210958,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4"
       },
@@ -363,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bloody Lovely",
+        "url": "https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 210958,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "R.I.F.F",
         "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
       },
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 136933,
-      "name": "Shadow Walk",
-      "url": "https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc"
+      "duration_ms": 199133,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/6nX2HXWLt2I5AM6kHm64zI"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
       "duration_ms": 244000,
       "name": "Ocean Exploder",
       "url": "https://open.spotify.com/track/249tkfoGJ8fvMbRITqa7Wk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Positive Rising: Part 1",
-        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 212440,
-      "name": "Still No Change",
-      "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
     },
     {
       "added_at": null,
@@ -439,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Positive Rising: Part 1",
+        "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "duration_ms": 212440,
+      "name": "Still No Change",
+      "url": "https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "R.I.F.F",
         "url": "https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb"
       },
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 199133,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/6nX2HXWLt2I5AM6kHm64zI"
+      "duration_ms": 136933,
+      "name": "Shadow Walk",
+      "url": "https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc"
     },
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 66960,
-      "name": "Riff City",
-      "url": "https://open.spotify.com/track/4mB3AR9AMyP2jV8nZjIRV4"
+      "duration_ms": 141826,
+      "name": "Golden Retriever",
+      "url": "https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
         }
       ],
-      "duration_ms": 141826,
-      "name": "Golden Retriever",
-      "url": "https://open.spotify.com/track/1h0yzHM2tkKUG3sWwQgJGT"
+      "duration_ms": 66960,
+      "name": "Riff City",
+      "url": "https://open.spotify.com/track/4mB3AR9AMyP2jV8nZjIRV4"
     },
     {
       "added_at": null,

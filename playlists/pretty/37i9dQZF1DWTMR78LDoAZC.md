@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Towa Bird takes over, highlighting some of her favorite LGBTQIA+ indie/alternative/rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,187 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,395 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 36 | [Sweet Cis Teen](https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S) | 4:29 |
 | 37 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
 | 38 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
-| 39 | [The Blob](https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [The Blob](https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ) | 2:22 |
-| 40 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 |
-| 41 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 |
-| 42 | [Races](https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 2:13 |
+| 39 | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/track/07M8tCNuO9RZenyINtp2QB) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [Fuck Me \(I Didn’t Know How To Say\)](https://open.spotify.com/album/5X1CPvZLeIo8Gmw8gWssUW) | 3:06 |
+| 40 | [The Blob](https://open.spotify.com/track/0QKgoPaVYMUL4mFxX3SyWd) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [The Blob](https://open.spotify.com/album/0gAyeWtpqYOvJHH63QDbfQ) | 2:22 |
+| 41 | [Races](https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 2:13 |
+| 42 | [Boyfeel](https://open.spotify.com/track/6RCB34D4Z3LKpOuIUTdp13) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Boyfeel](https://open.spotify.com/album/2D58g8d3MD0UKNgch1IDKp) | 2:29 |
 | 43 | [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 |
 | 44 | [Maybe You're the Reason](https://open.spotify.com/track/22tD1L3AXFs1pYEygkQGAT) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good at Falling](https://open.spotify.com/album/7qcAgj6CoV0VeRLo6ILiF2) | 3:38 |
 | 45 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 53 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 |
 | 54 | [Here To Dance](https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Here To Dance](https://open.spotify.com/album/5x39VhgLcnKUQjekc0uZuC) | 2:05 |
 | 55 | [Say It Like You Mean It](https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:44 |
-| 56 | [To Be Yours](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 |
-| 57 | [Suburbia](https://open.spotify.com/track/5e6F64qyjBbXiPmktOax3t) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 3:35 |
+| 56 | [Suburbia](https://open.spotify.com/track/5e6F64qyjBbXiPmktOax3t) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 3:35 |
+| 57 | [To Be Yours](https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [To Be Yours](https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf) | 3:31 |
 | 58 | [6 8](https://open.spotify.com/track/1y9kfM2QNDQQ9plksXc44Y) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Bishouné: Alma del Huila](https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8) | 4:58 |
 | 59 | [Crying on the Subway](https://open.spotify.com/track/75IJJjmjryq1SGHWlcMj2K) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [How Many Times Have You Driven By](https://open.spotify.com/album/14oVfK6bX4Kqtgl3N0lOhh) | 2:44 |
 | 60 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 69 | [Freak Mode](https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Freak Mode](https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W) | 2:37 |
 | 70 | [Missing Out](https://open.spotify.com/track/5vvn5HATa05iKVql6oYULV) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Missing Out](https://open.spotify.com/album/1WteYNWIkmmgTfquwV0Mc4) | 3:59 |
 | 71 | [umbrellar](https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [umbrellar](https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn) | 2:35 |
-| 72 | [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 |
-| 73 | [Love You So Bad](https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 3:42 |
+| 72 | [Love You So Bad](https://open.spotify.com/track/3WeADp1NvwmsuzO30FpBQH) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 3:42 |
+| 73 | [Wild Heart](https://open.spotify.com/track/0pS21h64SdLRwXdG6s2NQC) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Wild Heart](https://open.spotify.com/album/0YHvPJPXebNHPw0vSRA0OI) | 2:57 |
 | 74 | [Smog](https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Smog](https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD) | 3:14 |
 | 75 | [Girls Make Me Wanna Die](https://open.spotify.com/track/0JVdbliSQkwLXsLpvNhFb1) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die \(No Rome Remix\)](https://open.spotify.com/album/6NHWnrF8FvVeo56ZqyKVaX) | 2:15 |
 

@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 196388,
       "name": "Adam",
       "url": "https://open.spotify.com/track/43BysYrQd4iCTJcm6yOp2Q"
@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "Big Container",
+        "url": "https://open.spotify.com/album/6n9PKuzQoj7nm06ufvlL3u"
+      },
+      "artists": [
+        {
+          "name": "Jem Cassar-Daley",
+          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192692,
+      "name": "Big Container",
+      "url": "https://open.spotify.com/track/503ywcs9xScpjglf40YNPZ"
+    },
+    {
+      "album": {
         "name": "Bigger",
         "url": "https://open.spotify.com/album/2XWZb3AvlLqdmfHAkA4W7p"
       },
@@ -972,7 +990,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 198071,
       "name": "Bigger",
       "url": "https://open.spotify.com/track/1CgwYZUys77dbuNWBXuT1c"
@@ -1138,6 +1156,42 @@
       "duration_ms": 196177,
       "name": "Body",
       "url": "https://open.spotify.com/track/1fl7OiMREgGebEZtqXi17j"
+    },
+    {
+      "album": {
+        "name": "Bothering Me",
+        "url": "https://open.spotify.com/album/3cUcV7rXEFJmxxzMia1DHZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Blasko",
+          "url": "https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262266,
+      "name": "Bothering Me",
+      "url": "https://open.spotify.com/track/74St96khEjAVTgMKDze3dr"
+    },
+    {
+      "album": {
+        "name": "Bottle Blonde",
+        "url": "https://open.spotify.com/album/6iV7cJxPKSyVwa1chM61FH"
+      },
+      "artists": [
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171338,
+      "name": "Bottle Blonde",
+      "url": "https://open.spotify.com/track/49k0czI5y5CFTB2P6tcxVS"
     },
     {
       "album": {
@@ -3768,7 +3822,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 181760,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/2S3wdZxAuixiNbXbknlIUN"
@@ -5166,7 +5220,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 222275,
       "name": "HYDRATE",
       "url": "https://open.spotify.com/track/25Y0hQj3J2ImLENYYMSSJm"
@@ -7403,6 +7457,24 @@
     },
     {
       "album": {
+        "name": "Zorb",
+        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148689,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
+    },
+    {
+      "album": {
         "name": "Meet U Again",
         "url": "https://open.spotify.com/album/3Wf8JA1DpgNWqFLJEItImP"
       },
@@ -8420,7 +8492,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 164451,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
@@ -10314,6 +10386,28 @@
       "duration_ms": 175069,
       "name": "Stay",
       "url": "https://open.spotify.com/track/3kZ0eKvVTT3Eb0Ebh1YdD4"
+    },
+    {
+      "album": {
+        "name": "NARA",
+        "url": "https://open.spotify.com/album/2NcmpiE2xQ91mZww28lpwT"
+      },
+      "artists": [
+        {
+          "name": "Emily Wurramara",
+          "url": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
+        },
+        {
+          "name": "Arringarri",
+          "url": "https://open.spotify.com/artist/1hhytzEX1fvHBNqB1JKfu1"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241917,
+      "name": "STFAFM",
+      "url": "https://open.spotify.com/track/3XsvX9Gzci0A35N08xe1wd"
     },
     {
       "album": {

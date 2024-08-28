@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: Lomiiel",
-  "num_followers": 529635,
+  "num_followers": 530087,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAAATXnHip14FVfHeLBIEXFWw",
+  "snapshot_id": "Zs3mzgAAAACU0CmCoqcVQpJFeb2VO2B1",
   "tracks": [
     {
       "added_at": "2024-08-23 04:00:00",
@@ -55,6 +55,26 @@
       "duration_ms": 135230,
       "name": "Tuwi Tuwi",
       "url": "https://open.spotify.com/track/4JfRDEkkMYiLp76wepG9Vw"
+    },
+    {
+      "added_at": "2024-08-27 14:46:38",
+      "album": {
+        "name": "Ni un Ki Ki",
+        "url": "https://open.spotify.com/album/1EqiiTULbIdDFSnTk8QWxS"
+      },
+      "artists": [
+        {
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "duration_ms": 105441,
+      "name": "Ni un Ki Ki",
+      "url": "https://open.spotify.com/track/3cLJM4we8Fk8akofS5Zek9"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -203,6 +223,30 @@
       "duration_ms": 118998,
       "name": "PIKY",
       "url": "https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n"
+    },
+    {
+      "added_at": "2024-08-27 14:46:38",
+      "album": {
+        "name": "Delincuente",
+        "url": "https://open.spotify.com/album/3QySYdsvCpB84Tvzkj24Ta"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 226490,
+      "name": "Delincuente",
+      "url": "https://open.spotify.com/track/2ROQe6QkIXODJRx0y8UjzV"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -707,22 +751,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Se Puede Repet\u00ed",
-        "url": "https://open.spotify.com/album/2A8MlLQtNfwcA9uHVEmG6q"
-      },
-      "artists": [
-        {
-          "name": "Mestizo Is Back",
-          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
-        }
-      ],
-      "duration_ms": 124870,
-      "name": "Se Puede Repet\u00ed",
-      "url": "https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Boy Boy",
         "url": "https://open.spotify.com/album/2D8kgOal3Dego8yDv60ZLX"
       },
@@ -983,30 +1011,6 @@
       "duration_ms": 263771,
       "name": "Rulay & Pica Pollo",
       "url": "https://open.spotify.com/track/0RocDM4foAy5mxEKuegGnu"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Se Comenta",
-        "url": "https://open.spotify.com/album/0AAlETTmKJAII1bFkJSlCQ"
-      },
-      "artists": [
-        {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        },
-        {
-          "name": "Ceky Viciny",
-          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
-        },
-        {
-          "name": "B One El Productor De Oro",
-          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
-        }
-      ],
-      "duration_ms": 179124,
-      "name": "Se Comenta",
-      "url": "https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D"
     }
   ],
   "unique_name": "Dembow Pegao",

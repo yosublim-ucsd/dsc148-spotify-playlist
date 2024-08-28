@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,481 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,507 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 88 | [No Está Funcionando](https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [No Está Funcionando](https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU) | 2:41 |
 | 89 | [Muy Tarde](https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H) | [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casa Lumbre](https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR) | 3:09 |
 | 90 | [Ando Free](https://open.spotify.com/track/4d3hhn6sEfrxEv11zGVJC7) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Doble Cara](https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf) | [Ando Free](https://open.spotify.com/album/0NoQPCukAasKcHUePQhFDv) | 2:04 |
-| 91 | [Dormir No He Podido](https://open.spotify.com/track/5sRv4AqGhldtlXHmCmM57h) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Dormir No He Podido](https://open.spotify.com/album/6pLIBusy2DZAWfm9c77F0M) | 2:57 |
-| 92 | [En Mi Mente 24/7](https://open.spotify.com/track/0PmEIPY3MNUMyYp2P74msY) | [Emanuel Garcia](https://open.spotify.com/artist/7qqYlhGMuHBRqjQ3ly1oHl) | [En Mi Mente 24/7](https://open.spotify.com/album/4TDAzblMqPwBtkEMbs3dCo) | 3:55 |
-| 93 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 |
-| 94 | [No Hay Nadie Mas](https://open.spotify.com/track/5trbQ35GE77zBtGZbwGeCp) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE), [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [No Hay Nadie Mas](https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu) | 3:43 |
+| 91 | [En Mi Mente 24/7](https://open.spotify.com/track/0PmEIPY3MNUMyYp2P74msY) | [Emanuel Garcia](https://open.spotify.com/artist/7qqYlhGMuHBRqjQ3ly1oHl) | [En Mi Mente 24/7](https://open.spotify.com/album/4TDAzblMqPwBtkEMbs3dCo) | 3:55 |
+| 92 | [Dormir No He Podido](https://open.spotify.com/track/5sRv4AqGhldtlXHmCmM57h) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Dormir No He Podido](https://open.spotify.com/album/6pLIBusy2DZAWfm9c77F0M) | 2:57 |
+| 93 | [No Hay Nadie Mas](https://open.spotify.com/track/5trbQ35GE77zBtGZbwGeCp) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE), [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [No Hay Nadie Mas](https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu) | 3:43 |
+| 94 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 |
 | 95 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 |
 | 96 | [LOKERON X AMOR](https://open.spotify.com/track/0OG0qjJ9gN85kWZtIzW5uS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:11 |
 | 97 | [Ella](https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 4:19 |

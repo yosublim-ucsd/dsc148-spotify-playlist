@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Leto au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,512,312 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,512,481 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 25 | [Ça mène à rien](https://open.spotify.com/track/7GLtEcaxxQpdK63YsiG51g) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Chambre 140 \(Part.1\)](https://open.spotify.com/album/0VRRwExn96kc3L9BfYIF6s) | 3:18 |
 | 26 | [Saison 2](https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:25 |
 | 27 | [Colisée \(feat\. SDM\)](https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Colisée \(feat\. SDM\)](https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE) | 2:48 |
-| 28 | [GARS DU ZOO](https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \(Phase 2\)](https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C) | 2:45 |
+| 28 | [GARS DU ZOO](https://open.spotify.com/track/2x4Tzd6KDGwiMraNGopTyf) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \- Phase 2](https://open.spotify.com/album/5snjlu5BRcHa6UFsrmF14C) | 2:45 |
 | 29 | [BOOM BOOM](https://open.spotify.com/track/70T34qUA8otqXwxraVSbry) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [Memory \(Extended Version\)](https://open.spotify.com/album/0TCb7xCgT5JFTl6LnCJZlY) | 1:54 |
 | 30 | [Périph](https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Périph](https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI) | 2:48 |
 | 31 | [Cannelloni](https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Cannelloni](https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO) | 3:18 |

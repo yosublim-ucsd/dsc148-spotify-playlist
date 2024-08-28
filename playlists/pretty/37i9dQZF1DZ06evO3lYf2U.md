@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 
 ### [This Is Central Cee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3lYf2U)
 
-> This is Central Cee\. The essential tracks, all in one playlist.
+> This Is Central Cee\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,640 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,828 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,17 +14,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 4 | [gen z luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [gen z luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
 | 5 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 |
 | 6 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
-| 7 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
-| 8 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 |
+| 7 | [LET GO](https://open.spotify.com/track/3zkyus0njMCL6phZmNNEeN) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [LET GO](https://open.spotify.com/album/1QYPAEk2Ksj3WPv3mvoDnL) | 2:54 |
+| 8 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
 | 9 | [H.Y.B\. \(feat\. Bas & Central Cee\)](https://open.spotify.com/track/5RMTsrJkrtumtiIZjy7dL6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:54 |
 | 10 | [Obsessed With You](https://open.spotify.com/track/4oxGI8yyghLuMV7ybRG3kg) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 1:48 |
 | 11 | [Commitment Issues](https://open.spotify.com/track/0UCKUJU94sx8XBQnaNsRkB) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:30 |
-| 12 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 |
-| 13 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
-| 14 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 |
+| 12 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 |
+| 13 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 |
+| 14 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
 | 15 | [Loading](https://open.spotify.com/track/4vzJrkfHbCGaodPA5RY5BV) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:53 |
-| 16 | [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 |
-| 17 | [Overseas](https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 3:42 |
+| 16 | [Overseas](https://open.spotify.com/track/337kcYVjYXdLBItCw9ry3b) | [D\-Block Europe](https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Home Alone 2](https://open.spotify.com/album/50ez0rCXWIf3s5cvcALStA) | 3:42 |
+| 17 | [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 |
 | 18 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 |
 | 19 | [Day in the Life](https://open.spotify.com/track/1o6x7iRcDQPEEg8YPgLeVA) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 3:08 |
 | 20 | [One Up](https://open.spotify.com/track/4FAQjmX7e7JJaFE363uj86) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One Up](https://open.spotify.com/album/51A9bnCs9oq6vjFZIDza97) | 2:40 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3lYf2U.md) - [plain]
 | 50 | [Don’t Like Drill \(feat\. Central Cee\)](https://open.spotify.com/track/6LIwF5yxLwnNfVohAwSWdC) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Respect The Come Up](https://open.spotify.com/album/1MLRMDDQlOdUPBUcpc7XmB) | 3:50 |
 | 51 | [Anthracite](https://open.spotify.com/track/5gPLFBWGzFwOa3uxioiaxk) | [ASHE 22](https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Anthracite](https://open.spotify.com/album/1XfQIpBAJPDqT2tWPfCIss) | 2:56 |
 
-Snapshot ID: `Zsp0AAAAAAAmi06BY0V4nm5k4YbL1kA3`
+Snapshot ID: `ZsvFgAAAAADvIJG75e1N3SsfD65OZVrF`

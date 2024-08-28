@@ -1,12 +1,12 @@
 {
-  "description": "This is Akon. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 303104,
+  "description": "This is Akon. The essential tracks, all in one playlist.",
+  "num_followers": 303178,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAADSbqQ6RITQdYK2G0pfxB3C",
+  "snapshot_id": "ZsvFgAAAAAAipw5EYvr+bqWTAReyk4dc",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Only One Flo (Part 1)",
+        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Who Dat Girl (feat. Akon)",
+      "url": "https://open.spotify.com/track/7z73ehYAn9O1XP9XlCqVtd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
         "url": "https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 241133,
       "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
       "url": "https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Only One Flo (Part 1)",
-        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 200880,
-      "name": "Who Dat Girl (feat. Akon)",
-      "url": "https://open.spotify.com/track/7z73ehYAn9O1XP9XlCqVtd"
     },
     {
       "added_at": null,
@@ -823,26 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ra-One",
-        "url": "https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy"
+        "name": "Last 2 Walk",
+        "url": "https://open.spotify.com/album/0msDLgGPTbHmgPwY4yYRkn"
       },
       "artists": [
         {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Shruti Pathak",
-          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
         }
       ],
-      "duration_ms": 306503,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/39bx4zZrPxTjw8VNuvjt6X"
+      "duration_ms": 176506,
+      "name": "That's Right (feat. Akon) - Explicit Album Version",
+      "url": "https://open.spotify.com/track/0cOSb7wzbpb9vjRkbYufWj"
     },
     {
       "added_at": null,
@@ -867,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last 2 Walk",
-        "url": "https://open.spotify.com/album/0msDLgGPTbHmgPwY4yYRkn"
-      },
-      "artists": [
-        {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "That's Right (feat. Akon) - Explicit Album Version",
-      "url": "https://open.spotify.com/track/0cOSb7wzbpb9vjRkbYufWj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 194346,
       "name": "Sexy Chick (feat. Akon)",
       "url": "https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ra-One",
+        "url": "https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shruti Pathak",
+          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        }
+      ],
+      "duration_ms": 306503,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/39bx4zZrPxTjw8VNuvjt6X"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 934228,
+  "num_followers": 934237,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
+        "name": "I'm Drunk (feat. AMY MIY\u00da)",
+        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "AMY MIY\u00da",
+          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
+        }
+      ],
+      "duration_ms": 150234,
+      "name": "I'm Drunk (feat. AMY MIY\u00da)",
+      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
+    },
+    {
+      "added_at": "2024-08-09 19:55:21",
+      "album": {
         "name": "Mind Awake, Body Asleep",
         "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 150447,
       "name": "Mind Awake, Body Asleep",
       "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
-    },
-    {
-      "added_at": "2024-08-09 19:55:21",
-      "album": {
-        "name": "I'm Drunk (feat. AMY MIY\u00da)",
-        "url": "https://open.spotify.com/album/0wuMHJgOAu6cCsJUyyMAta"
-      },
-      "artists": [
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        },
-        {
-          "name": "AMY MIY\u00da",
-          "url": "https://open.spotify.com/artist/5Cd6yDDRckU2zVyAzAMbLl"
-        }
-      ],
-      "duration_ms": 150234,
-      "name": "I'm Drunk (feat. AMY MIY\u00da)",
-      "url": "https://open.spotify.com/track/0WW8txqecanm76y5Je34nf"
     },
     {
       "added_at": "2024-08-09 19:55:21",
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
+    },
+    {
+      "added_at": "2024-08-09 19:55:21",
+      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/0oPhuMXsKIxAzc6mqartCz"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 166399,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/1v5IFYrqslFhjqqHpBebAg"
-    },
-    {
-      "added_at": "2024-08-09 19:55:21",
-      "album": {
-        "name": "I Wanna",
-        "url": "https://open.spotify.com/album/4hCKZABBaMgkZgDb7CizQR"
-      },
-      "artists": [
-        {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
-        },
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "I Wanna",
-      "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
     },
     {
       "added_at": "2024-08-09 19:55:21",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2024-08-09 19:55:21",
       "album": {
-        "name": "Apes",
-        "url": "https://open.spotify.com/album/6WLKZ5yo6Zio6uKxXhGXj8"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        },
-        {
-          "name": "MOR3L",
-          "url": "https://open.spotify.com/artist/2yQvf6Yx0YNX3AEB5rJ1sc"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "Apes",
-      "url": "https://open.spotify.com/track/7qIks2ZDbGiSZw4XNTKzWy"
-    },
-    {
-      "added_at": "2024-08-09 19:55:21",
-      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": "2024-08-09 19:55:21",
+      "album": {
+        "name": "Apes",
+        "url": "https://open.spotify.com/album/6WLKZ5yo6Zio6uKxXhGXj8"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        },
+        {
+          "name": "MOR3L",
+          "url": "https://open.spotify.com/artist/2yQvf6Yx0YNX3AEB5rJ1sc"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "Apes",
+      "url": "https://open.spotify.com/track/7qIks2ZDbGiSZw4XNTKzWy"
     },
     {
       "added_at": "2024-08-09 19:55:21",

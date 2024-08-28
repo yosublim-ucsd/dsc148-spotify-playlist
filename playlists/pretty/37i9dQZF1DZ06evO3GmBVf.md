@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 ### [This Is Lefty Sm](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmBVf)
 
-> This is Lefty Sm\. The essential tracks, all in one playlist.
+> This Is Lefty Sm\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,676 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,775 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 38 | [Todo x Nada](https://open.spotify.com/track/2VHgL82Mtbso1VoMikWkS7) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Todo x Nada](https://open.spotify.com/album/7CfBFVgvd2aEXHHYWbgiJe) | 6:14 |
 | 39 | [16 Toneladas](https://open.spotify.com/track/3992fLSRgc9uJmoeAjDP2Q) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Estilo Fino](https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh) | 3:06 |
 | 40 | [Quien Te Viera](https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Avion de Papel](https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9) | 3:14 |
-| 41 | [Ahora Es Diferente](https://open.spotify.com/track/6tST0LckVOXThIgappR0qk) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Ahora Es Diferente](https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6) | 4:39 |
-| 42 | [Abrázame](https://open.spotify.com/track/14DnBCbmd2ANhAfUDWL9LM) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 5:36 |
+| 41 | [Abrázame](https://open.spotify.com/track/14DnBCbmd2ANhAfUDWL9LM) | [Sauceda SM](https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Shit Masiva](https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78) | 5:36 |
+| 42 | [Ahora Es Diferente](https://open.spotify.com/track/6tST0LckVOXThIgappR0qk) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Ahora Es Diferente](https://open.spotify.com/album/6RLa16uDQO8vSQ3VN9RWo6) | 4:39 |
 | 43 | [En El Avión](https://open.spotify.com/track/42u9e0pWIPYcaPERtBSJda) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En El Avión](https://open.spotify.com/album/7kXMF180yIJXGqcj8GBEta) | 3:47 |
 | 44 | [Qué Agusticidad](https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Agusticidad](https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs) | 4:20 |
 | 45 | [Soledad](https://open.spotify.com/track/1OAtkMjjiZ46ZXYN0rrCGE) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Soledad](https://open.spotify.com/album/7qjCJhOgyBd9bVyksyDH1z) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [Soy Mercenario](https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:09 |
 | 50 | [Sirenas Lloran](https://open.spotify.com/track/5t2ct5VNHfUxIXXBmW7Xl9) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Sirenas Lloran](https://open.spotify.com/album/1rxvqLEQcxnTj1krmAFWC8) | 4:25 |
 
-Snapshot ID: `Zsp0AAAAAAAQ2LBnZ/czQUpIHND89ohQ`
+Snapshot ID: `ZsvFgAAAAACLag+e1qDifdcoH9T0z7YM`

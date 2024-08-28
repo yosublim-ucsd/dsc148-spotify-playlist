@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,768 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,797 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 45 | [RB3](https://open.spotify.com/track/6g80KZsDgDKUUinR5biFcC) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [RB3](https://open.spotify.com/album/7ICteuiidF1pKca1tyX0A8) | 3:59 |
 | 46 | [Melancholy](https://open.spotify.com/track/2UdnKEXAXkfXkiXsw3NChl) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Salvo](https://open.spotify.com/album/6eaMoDkwlG4YHPqAFaauMg) | 4:27 |
 | 47 | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Shaken To My Soul \(feat\. Ruti\)](https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L) | 3:31 |
-| 48 | [Nobody Knows](https://open.spotify.com/track/2Npm9RJ2U8hhKCQonDJESq) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [In My Head](https://open.spotify.com/album/0U2QxOH1RSNhTSFPeOd8yH) | 2:52 |
-| 49 | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u) | 3:15 |
-| 50 | [Swim](https://open.spotify.com/track/76jLlcqIuqBv3SXx5fcnfW) | [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [Swim](https://open.spotify.com/album/7tkmjD2hcGbjZvHhpQnLBI) | 4:03 |
+| 48 | [Curves](https://open.spotify.com/track/14gFoEG2vJmqM7LaYRJ49m) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Infinite Falling Ground Pt.2](https://open.spotify.com/album/1uCUD9nJxidOu4zhKBm3m3) | 3:17 |
+| 49 | [Nobody Knows](https://open.spotify.com/track/2Npm9RJ2U8hhKCQonDJESq) | [Eljé](https://open.spotify.com/artist/0xCxVPeq1nmkqrYIEcNodO), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [In My Head](https://open.spotify.com/album/0U2QxOH1RSNhTSFPeOd8yH) | 2:52 |
+| 50 | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/track/2eBDPaRvjNs0Ek4fuFzOZx) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [side by side \(feat\. Empress Of\) \[rebirth\]](https://open.spotify.com/album/6crVJqqqNJekqNgp4FNp7u) | 3:15 |
 
 Snapshot ID: `ZsfC8AAAAADumQQyiHZJJ95U5joCUy3K`

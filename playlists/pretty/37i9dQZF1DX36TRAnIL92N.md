@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,937 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,155 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 23 | [Pressure](https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [LEGZDINA](https://open.spotify.com/artist/16pj4sabH3akPo4s0IUx9N) | [Pressure](https://open.spotify.com/album/1RRaRpdxpCQzwhPPpK6bLq) | 4:19 |
 | 24 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |
 | 25 | [Hare Ram](https://open.spotify.com/track/3eUkFpfKGOxqdDjCrXIg0B) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Hare Ram](https://open.spotify.com/album/0BYqDSG5tSespM2PxIMXT4) | 3:19 |
-| 26 | [How You Move \- Edit](https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [How You Move](https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn) | 2:49 |
-| 27 | [Pulverturm \- ANNA Rework](https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Pulverturm \(ANNA Rework\)](https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE) | 3:56 |
+| 26 | [Pulverturm \- ANNA Rework](https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Pulverturm \(ANNA Rework\)](https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE) | 3:56 |
+| 27 | [How You Move \- Edit](https://open.spotify.com/track/1biKqdOsiIo2JekJ8UPX1x) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [How You Move](https://open.spotify.com/album/4niVd6YJlKn3EST1SUoOwn) | 2:49 |
 | 28 | [Luna](https://open.spotify.com/track/4KEsZFbFgEdaBfBjCijKnX) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [Sam WOLFE](https://open.spotify.com/artist/1Hu2YwTv9wmxC8sppVVUA4) | [Luna](https://open.spotify.com/album/4n2DzX9Ow9SA7L2dKVy4Mc) | 3:52 |
 | 29 | [Mirazh](https://open.spotify.com/track/2lIifZIxqYF0lOuBnqJ5qH) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [A.D.H.S.](https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl) | [Mirazh](https://open.spotify.com/album/1VYbRdW8QFMRuaLsmf0H1A) | 3:25 |
 | 30 | [Remedy](https://open.spotify.com/track/1j611ghQfHnBMnqSZCoxc8) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Remedy](https://open.spotify.com/album/0q5uRkPKHeKcNoco1IuZ8R) | 2:43 |

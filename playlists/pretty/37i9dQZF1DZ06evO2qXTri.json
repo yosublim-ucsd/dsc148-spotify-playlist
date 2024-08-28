@@ -1,12 +1,12 @@
 {
-  "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 30042,
+  "description": "This is Kirk Franklin. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 30058,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABGN4uOw6K01UxLqva+OQnX",
+  "snapshot_id": "ZsvFgAAAAADxlip0zvv1HVx5U4mzFyc5",
   "tracks": [
     {
       "added_at": null,
@@ -655,22 +655,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Epilogue.",
-        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
+        "name": "Father's Day",
+        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
       },
       "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 276629,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC"
+      "duration_ms": 272593,
+      "name": "Try Love",
+      "url": "https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h"
     },
     {
       "added_at": null,
@@ -707,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Father's Day",
-        "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
+        "name": "The Epilogue.",
+        "url": "https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg"
       },
       "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 272593,
-      "name": "Try Love",
-      "url": "https://open.spotify.com/track/7o22AXYfe3kGgj2xDnmc3h"
+      "duration_ms": 276629,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1Kci8csnCkMdszZhIhkCxC"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
-        "url": "https://open.spotify.com/album/0GZRbYYeZYmRKLZZPCMblg"
+        "name": "Boycott",
+        "url": "https://open.spotify.com/album/3MQ28EyvwEflLB5q93AAkf"
       },
       "artists": [
         {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
         },
         {
           "name": "Kirk Franklin",
           "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        },
-        {
-          "name": "John P. Kee",
-          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
         }
       ],
-      "duration_ms": 210373,
-      "name": "Hold on Me (feat. Kirk Franklin & John P. Kee)",
-      "url": "https://open.spotify.com/track/3MKu1rrJQAieDImUI34gls"
+      "duration_ms": 339733,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

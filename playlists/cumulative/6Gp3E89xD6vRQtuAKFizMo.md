@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-339 songs - 16 hr 19 min
+340 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Out Of Love](https://open.spotify.com/track/5jRIWngYH11xuX2HjQwacj) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [Out Of Love](https://open.spotify.com/album/2C61LqHVFz12uEJDRdBZUZ) | 2:34 | 2023-08-25 |  |
 | [Own The Night](https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Own The Night](https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3) | 3:00 | 2022-05-06 | 2023-01-21 |
 | [Pa Pa Pa \(feat\. MC Maromba\)](https://open.spotify.com/track/5FLAWwDuIq8bYZ80uWzgQ4) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Mc Maromba](https://open.spotify.com/artist/3o3p6fGYftm6nJpS6YJ11Q), [KAORU](https://open.spotify.com/artist/3eDtd9oQyjD2OuMNgVHOag) | [Pa Pa Pa \(feat\. MC Maromba\)](https://open.spotify.com/album/7epfRuG2KTrdbUrVUGyMhR) | 2:19 | 2024-05-31 |  |
+| [Paparazzi \(feat\. CERES\)](https://open.spotify.com/track/31ggAAisFrVT25iWx5TnRX) | [Madds](https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy), [Hektor Mass](https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Paparazzi \(feat\. CERES\)](https://open.spotify.com/album/3Mm4nJGwnaNbmfDZtOtGEQ) | 2:58 | 2024-08-27 |  |
 | [Papi Pistola](https://open.spotify.com/track/38AGL5sCrFYfbnvZF4DvcG) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [DISCOTEKEO](https://open.spotify.com/album/3M1mMhYdhu9vjPgv5JXQ27) | 2:26 | 2023-08-11 |  |
 | [Para Ti \(feat\. YAWNS\)](https://open.spotify.com/track/09Fth0vWobNAsmzCJo2Lve) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [YAWNS](https://open.spotify.com/artist/7v2lRIAhCsWVstXkyATQHD) | [Para Ti](https://open.spotify.com/album/48asWtGeUdrvyLjixjfmQy) | 2:48 | 2023-02-17 | 2023-04-09 |
 | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Kayla Rose](https://open.spotify.com/artist/36xsrPKnUIN1ZCSlO5Xnqk) | [Patience \(feat\. Kayla Rose\)](https://open.spotify.com/album/53ai1YrajGquql1qDvB6d7) | 3:40 | 2022-05-06 | 2022-09-20 |

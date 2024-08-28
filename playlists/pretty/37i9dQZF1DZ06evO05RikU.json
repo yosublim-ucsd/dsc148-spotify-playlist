@@ -1,12 +1,12 @@
 {
   "description": "This Is Sof\u00eda Reyes. Los temas esenciales, todos en una lista.",
-  "num_followers": 42171,
+  "num_followers": 42176,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAADntc+qZ8K82XdDDd0teYzj",
+  "snapshot_id": "ZsvFgAAAAAAWtXKE9Cx4mqnH+682Napc",
   "tracks": [
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muevelo Remix (feat. Maffio)",
-        "url": "https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Carlos \"Maffio\" Peralta",
-          "url": "https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Muevelo Remix (feat. Maffio)",
-      "url": "https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whoppa (feat. Sofia Reyes and Farina)",
         "url": "https://open.spotify.com/album/4mpHXNkpedPXUkpBgFzZOp"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 217315,
       "name": "Whoppa (feat. Sofia Reyes and Farina)",
       "url": "https://open.spotify.com/track/55BKv7jjl2JKL85vbBRnIS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muevelo Remix (feat. Maffio)",
+        "url": "https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Carlos \"Maffio\" Peralta",
+          "url": "https://open.spotify.com/artist/76cmSlt2vMxhF8xmDvnSTS"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Muevelo Remix (feat. Maffio)",
+      "url": "https://open.spotify.com/track/2VE3ZNK0FbAhYKLycJQzWO"
     },
     {
       "added_at": null,
@@ -875,22 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuevos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/2NS3D1YnaTEXWc9I5SnbSe"
+        "name": "Solo Yo",
+        "url": "https://open.spotify.com/album/6XSA5pD1TQwmQP1KP2Ke7Z"
       },
       "artists": [
         {
-          "name": "Carlos Zaur",
-          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
-        },
-        {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 194954,
-      "name": "Duele Tanto",
-      "url": "https://open.spotify.com/track/16lIZn8RqeQkM1NgICfq3p"
+      "duration_ms": 248000,
+      "name": "Solo Yo",
+      "url": "https://open.spotify.com/track/2k713E1Dl1RX05s4BQ39Rg"
     },
     {
       "added_at": null,
@@ -911,22 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solo Yo",
-        "url": "https://open.spotify.com/album/6XSA5pD1TQwmQP1KP2Ke7Z"
+        "name": "Nuevos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/2NS3D1YnaTEXWc9I5SnbSe"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Carlos Zaur",
+          "url": "https://open.spotify.com/artist/6BWQiJpeXCHep8xW0vAIOk"
         },
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Solo Yo",
-      "url": "https://open.spotify.com/track/2k713E1Dl1RX05s4BQ39Rg"
+      "duration_ms": 194954,
+      "name": "Duele Tanto",
+      "url": "https://open.spotify.com/track/16lIZn8RqeQkM1NgICfq3p"
     },
     {
       "added_at": null,
@@ -1031,30 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goofy, Pt. 2 (Remix)",
-        "url": "https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC"
-      },
-      "artists": [
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "MishCatt",
-          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 201061,
-      "name": "Goofy, Pt. 2 - Remix",
-      "url": "https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TICK TOCK",
         "url": "https://open.spotify.com/album/61vhLJ6tGWrE9XlmIedFmb"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 171082,
       "name": "TICK TOCK",
       "url": "https://open.spotify.com/track/6v9dLKmPBQYOAeoHuwu8wa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goofy, Pt. 2 (Remix)",
+        "url": "https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "MishCatt",
+          "url": "https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 201061,
+      "name": "Goofy, Pt. 2 - Remix",
+      "url": "https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n"
     },
     {
       "added_at": null,

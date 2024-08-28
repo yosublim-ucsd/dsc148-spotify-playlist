@@ -2,7 +2,7 @@
 
 ### [This Is Lourena](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1VkTcy)
 
-> This is Lourena\. Todos os maiores hits em uma só playlist.
+> This is Lourena\. The essential tracks, all in one playlist.
 
 65 songs - 4 hr 43 min
 

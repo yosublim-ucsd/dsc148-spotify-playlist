@@ -4,7 +4,7 @@
 
 > I really wish your real name is my last name 🤡
 
-210 songs - 12 hr 53 min
+212 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-03-24 | 2024-03-22 |
 | [Bunga Di Telinga](https://open.spotify.com/track/6Cix7Q879hgbquQhnoqoSY) | [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Angin Kencang](https://open.spotify.com/album/3YLxuvVaEjjWzk6ISlZPVf) | 4:14 | 2023-03-24 | 2023-05-15 |
 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 | 2023-12-06 |  |
-| [But Daddy I Love Him](https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:40 | 2024-04-25 |  |
+| [But Daddy I Love Him](https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:40 | 2024-04-25 | 2024-08-28 |
 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 | 2023-03-24 |  |
 | [Cincin](https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Lagipula Hidup Akan Berakhir](https://open.spotify.com/album/2kgo1jbmAmaANgE8EaIrKX) | 4:26 | 2023-07-18 |  |
 | [Cinta Sejati](https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 5:02 | 2023-05-03 | 2023-07-14 |
@@ -65,6 +65,7 @@
 | [Dewi](https://open.spotify.com/track/0KwyqLzxAf3mWNKE9bCrXQ) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Kerajaan Cinta](https://open.spotify.com/album/7sJLhkin3GwFFvmFNMRRTi) | 4:21 | 2024-06-19 |  |
 | [Di Ini Januari](https://open.spotify.com/track/1IXbE1zCoiWNdmR6ai3Knf) | [Pidi Baiq](https://open.spotify.com/artist/6QR072SvyOLDQYYlplI4Ll) | [Pidi Baiq](https://open.spotify.com/album/5nxA1hVmViJJFF0wyIP6j7) | 3:44 | 2024-01-24 | 2024-03-22 |
 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4JNdwEfqwFRiAeEISC8RU8) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You](https://open.spotify.com/album/0YF085Qdh4HgdhZ8zjWkpo) | 3:52 | 2023-03-24 | 2024-04-19 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-28 |  |
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2023-03-24 | 2023-05-04 |
 | [double take](https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:51 | 2023-03-24 | 2024-04-19 |
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2024-04-17 |  |
@@ -77,6 +78,7 @@
 | [favorite crime](https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:32 | 2023-03-24 | 2023-07-14 |
 | [Fictional](https://open.spotify.com/track/56xb5xXdUopdjiknbFmC4W) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [The In Between](https://open.spotify.com/album/21aE1LtpqO4s48QPnomkIk) | 3:43 | 2023-08-08 | 2023-12-11 |
 | [Fictional](https://open.spotify.com/track/6aHT59msgWO3ivOICNFmSS) | [Khloe Rose](https://open.spotify.com/artist/2R7bETtmp3iXexpYAzXrKm) | [Fictional](https://open.spotify.com/album/1Io07XUBdJzMINQnAWzSR5) | 3:43 | 2023-05-17 | 2023-08-23 |
+| [Focus](https://open.spotify.com/track/21E7YyXgmUR2BP6EsF5jd8) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:25 | 2024-08-28 |  |
 | [Foolish One \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4s8BIKx4Zh6ryAEz8RTlaU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 5:11 | 2023-08-08 |  |
 | [Four Summers](https://open.spotify.com/track/4uqeKoMtmbl1FTlRMdXKx5) | [Reality Club](https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw) | [Reality Club Presents…](https://open.spotify.com/album/3pFDtZ4T0kJuNFYQGfGvAK) | 2:32 | 2023-06-13 | 2023-12-07 |
 | [From The Start](https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [From The Start](https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe) | 2:49 | 2023-06-07 | 2023-07-14 |
@@ -178,7 +180,7 @@
 | [Somebody That I Used To Know](https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna) | 4:04 | 2023-05-03 | 2024-02-05 |
 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 | 2023-04-04 |  |
 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 | 2023-03-24 | 2023-12-11 |
-| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-27 |  |
+| [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-27 | 2024-08-28 |
 | [Strong](https://open.spotify.com/track/3cKM7UXBZmgjEgEBTkaIlU) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Midnight Memories \(Deluxe\)](https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu) | 3:04 | 2023-03-24 | 2024-05-07 |
 | [stuck on you](https://open.spotify.com/track/0Ebv4nwxtPcRNSTKq6xDXv) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [stuck on you](https://open.spotify.com/album/64FQC1Jn0rGTricYmZEc1Y) | 2:47 | 2023-03-24 | 2023-08-30 |
 | [Suck It and See](https://open.spotify.com/track/3UZfvX4ky5C4mblUIR0LE1) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2KhJyDQAtauN6plT5PkfnV) | 3:45 | 2023-03-24 | 2023-06-19 |

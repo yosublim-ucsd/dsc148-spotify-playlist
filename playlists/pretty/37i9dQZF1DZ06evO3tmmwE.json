@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAC7nIW+sMcBf1NaLSx4o5U8",
+  "snapshot_id": "ZsvFgAAAAADFyqAC947H92ubO4WUT8hS",
   "tracks": [
     {
       "added_at": null,
@@ -379,42 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hustle & Flow",
-        "url": "https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5"
-      },
-      "artists": [
-        {
-          "name": "Rozay",
-          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 144014,
-      "name": "Tonta (feat. Bo Bundy)",
-      "url": "https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Unico Desmadre De Mi Madre",
-        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 168277,
-      "name": "Suicidal Thoughts",
-      "url": "https://open.spotify.com/track/2K5zpAajpUKkfMnYCv7mUV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bien Horniado",
         "url": "https://open.spotify.com/album/4DVC0WC5r18Ewj54X9FX3R"
       },
@@ -435,6 +399,42 @@
       "duration_ms": 192186,
       "name": "Bien Horniado",
       "url": "https://open.spotify.com/track/6S2sOrNF7Ur33z5gznLeck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Unico Desmadre De Mi Madre",
+        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 168277,
+      "name": "Suicidal Thoughts",
+      "url": "https://open.spotify.com/track/2K5zpAajpUKkfMnYCv7mUV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hustle & Flow",
+        "url": "https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5"
+      },
+      "artists": [
+        {
+          "name": "Rozay",
+          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 144014,
+      "name": "Tonta (feat. Bo Bundy)",
+      "url": "https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x"
-      },
-      "artists": [
-        {
-          "name": "N.E Mafio",
-          "url": "https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 199414,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Lonestar (Side A)",
         "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 124879,
       "name": "Pa los Hombres",
       "url": "https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/15t2GcdpWSfe7sQrZ2VB3x"
+      },
+      "artists": [
+        {
+          "name": "N.E Mafio",
+          "url": "https://open.spotify.com/artist/3NqezxhkriLPuVhVDC1cMS"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 199414,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO"
     },
     {
       "added_at": null,
@@ -687,30 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Mi Gente",
-        "url": "https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Prolifek",
-          "url": "https://open.spotify.com/artist/702sOLRskZxAkEH1czvwQX"
-        },
-        {
-          "name": "Sam King",
-          "url": "https://open.spotify.com/artist/0VymO8inS4wKgGtfeQpT3r"
-        }
-      ],
-      "duration_ms": 261407,
-      "name": "Pa Mi Gente",
-      "url": "https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL RODEO",
         "url": "https://open.spotify.com/album/3L5vvWez1vD04YbEjRc2Hf"
       },
@@ -735,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuerno De Chivo",
+        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
+      },
+      "artists": [
+        {
+          "name": "Young Tapz",
+          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 155376,
+      "name": "Cuerno De Chivo",
+      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -755,22 +751,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuerno De Chivo",
-        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
+        "name": "Pa Mi Gente",
+        "url": "https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X"
       },
       "artists": [
         {
-          "name": "Young Tapz",
-          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
-        },
-        {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Prolifek",
+          "url": "https://open.spotify.com/artist/702sOLRskZxAkEH1czvwQX"
+        },
+        {
+          "name": "Sam King",
+          "url": "https://open.spotify.com/artist/0VymO8inS4wKgGtfeQpT3r"
         }
       ],
-      "duration_ms": 155376,
-      "name": "Cuerno De Chivo",
-      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
+      "duration_ms": 261407,
+      "name": "Pa Mi Gente",
+      "url": "https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD"
     },
     {
       "added_at": null,

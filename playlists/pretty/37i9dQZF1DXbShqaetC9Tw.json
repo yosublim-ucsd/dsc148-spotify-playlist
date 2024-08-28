@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 97952,
+  "num_followers": 97938,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-08-10 15:23:02",
       "album": {
+        "name": "WORDS",
+        "url": "https://open.spotify.com/album/5oGk1KUbLadVunvl2jaY6J"
+      },
+      "artists": [
+        {
+          "name": "blessed.",
+          "url": "https://open.spotify.com/artist/54Y80c5eEYbnlvCmIPKf6W"
+        }
+      ],
+      "duration_ms": 197837,
+      "name": "WORD",
+      "url": "https://open.spotify.com/track/6lvHTbbCotiic58AA421g1"
+    },
+    {
+      "added_at": "2024-08-10 15:23:02",
+      "album": {
         "name": "D-day",
         "url": "https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt"
       },
@@ -871,38 +887,18 @@
     {
       "added_at": "2024-08-10 15:23:02",
       "album": {
-        "name": "WORDS",
-        "url": "https://open.spotify.com/album/5oGk1KUbLadVunvl2jaY6J"
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
       "artists": [
         {
-          "name": "blessed.",
-          "url": "https://open.spotify.com/artist/54Y80c5eEYbnlvCmIPKf6W"
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
         }
       ],
-      "duration_ms": 197837,
-      "name": "WORD",
-      "url": "https://open.spotify.com/track/6lvHTbbCotiic58AA421g1"
-    },
-    {
-      "added_at": "2024-08-10 15:23:02",
-      "album": {
-        "name": "Hated you",
-        "url": "https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm"
-      },
-      "artists": [
-        {
-          "name": "entoy",
-          "url": "https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj"
-        },
-        {
-          "name": "suru",
-          "url": "https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe"
-        }
-      ],
-      "duration_ms": 209433,
-      "name": "Hated you",
-      "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"
+      "duration_ms": 164601,
+      "name": "Understand Me",
+      "url": "https://open.spotify.com/track/2XyO0c7PxtoDypkVj4sWMu"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

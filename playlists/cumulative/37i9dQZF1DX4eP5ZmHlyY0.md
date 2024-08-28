@@ -2,9 +2,9 @@
 
 ### [Boys Group Japan](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> 日本で活躍するボーイズグループを特集。cover: ONE OR EIGHT
+> 日本で活躍するボーイズグループを特集。cover: BE:FIRST
 
-314 songs - 18 hr 12 min
+315 songs - 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Backbeat](https://open.spotify.com/track/0ZXwytnweKjGxWNmKlR7PW) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [CRUISIN'／IMP.](https://open.spotify.com/album/7EBmNtFQglJOhcdZmB9rHT) | 3:20 | 2024-03-12 | 2024-04-24 |
 | [BANG OUT](https://open.spotify.com/track/1j3LL3k27QqSybTw31RSCk) | [RAG POUND](https://open.spotify.com/artist/6L0V9bXK9LPjR1dBtlWTdP) | [BANG OUT](https://open.spotify.com/album/22KdV7IgT63odz3k4ovT4X) | 3:36 | 2024-02-01 | 2024-02-07 |
 | [BANG!](https://open.spotify.com/track/5GhMwDsrBKBN56PgVXYCA6) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [BANG!](https://open.spotify.com/album/6FgXRc5VEzawOjf3EWWYqB) | 3:22 | 2024-04-02 | 2024-06-05 |
-| [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 | 2024-03-17 | 2024-08-26 |
+| [Be on Your side](https://open.spotify.com/track/5iQsAcv8MVj6VmgB8p5p5E) | [to HEROes](https://open.spotify.com/artist/4595ewOM0MqP7rWYdgBxvA) | [Be on Your side](https://open.spotify.com/album/586zV1h5mqSkQFCq93J8gF) | 3:39 | 2024-03-17 |  |
 | [Beat Loud](https://open.spotify.com/track/0WRnKTDzekbS2w3gSNEmBo) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Beat Loud](https://open.spotify.com/album/4sbCLv9RdWQjdEVoRltRZD) | 2:52 | 2024-05-07 | 2024-05-22 |
 | [Believe in You](https://open.spotify.com/track/3Hk8BKGT8dvK0ytIEtW58I) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Believe in You](https://open.spotify.com/album/2TF8O4dj2PjVi7ANQp5ACH) | 4:16 | 2024-07-09 |  |
 | [Black Out \(JO1 ver.\)](https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Black Out \(JO1 ver.\)](https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk) | 3:23 | 2023-12-12 | 2024-01-17 |
@@ -87,7 +87,7 @@
 | [Girlfriend](https://open.spotify.com/track/5gSD05Y9cZ9gazxgGuyfey) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [+Alpha（Special Edition）](https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx) | 3:18 | 2024-08-22 |  |
 | [Glorious](https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Glorious](https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa) | 4:41 | 2023-11-23 | 2024-06-13 |
 | [GOAT](https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO) | 2:37 | 2024-01-02 | 2024-03-13 |
-| [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 | 2024-03-12 |  |
+| [GOAT](https://open.spotify.com/track/074s54XQPsBttINKj02W9T) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GOAT](https://open.spotify.com/album/5XTwspNzdT9uowVAd6nBbg) | 2:38 | 2024-03-12 | 2024-08-28 |
 | [God Mode](https://open.spotify.com/track/02bRlgNPp9ctqByOhAMs9d) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [God Mode](https://open.spotify.com/album/3j6i1vKHTjehKad1kwqdJV) | 3:34 | 2024-01-31 | 2024-02-07 |
 | [GOOD DAY](https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [AND,](https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB) | 2:52 | 2024-07-09 |  |
 | [Good Luck](https://open.spotify.com/track/0u5f07aW3aQsRK0EdIPEXm) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Good Luck](https://open.spotify.com/album/0mk4PMcHThPUtvUojBbomB) | 3:02 | 2024-04-30 | 2024-06-12 |
@@ -144,7 +144,7 @@
 | [love you](https://open.spotify.com/track/1aDjxcXgU3B85P04KBttwL) | [North Sound Signal](https://open.spotify.com/artist/3jNomgceQXS8NawlT2aDcn) | [love you](https://open.spotify.com/album/1Lz2m18o2oaR5gIzU8Fe2H) | 3:10 | 2024-01-31 | 2024-02-07 |
 | [Lucky](https://open.spotify.com/track/4CnDbDsp8M84paAlyPpVpf) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Lucky](https://open.spotify.com/album/1iatPiu9HHlD4GYtyME56A) | 2:47 | 2024-07-30 |  |
 | [MAGIC](https://open.spotify.com/track/1R96JucxVDliRrcT3Crmf2) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [LEGIT](https://open.spotify.com/artist/4cm7BWLKtoWsEWfLgUwdme) | [MAGIC](https://open.spotify.com/album/73jVPC8AAifhcWItCxgk2X) | 2:53 | 2024-02-13 | 2024-02-21 |
-| [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 | 2023-11-23 |  |
+| [Mainstream](https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 3:27 | 2023-11-23 | 2024-08-28 |
 | [Major](https://open.spotify.com/track/0EzHIwggAVyiJNizm6UDHy) | [ENJIN](https://open.spotify.com/artist/1xO6BVi6M8m2Q2O1EE7oEC) | [Major](https://open.spotify.com/album/6wB9poeCgF8QKdymMJ5Phc) | 3:18 | 2024-06-04 | 2024-06-13 |
 | [Mania](https://open.spotify.com/track/672t5orA6YcHdTM5aGFjUG) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [Mania](https://open.spotify.com/album/5Fve3jeQNug5Y8EuWt78ot) | 3:19 | 2024-05-07 | 2024-05-29 |
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-23 |  |
@@ -216,6 +216,7 @@
 | [Show U Light](https://open.spotify.com/track/32JkY06bxiHieuinm8E7GB) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [ONE DAY](https://open.spotify.com/album/4kCizxhZvJic1cUOuXNXLY) | 3:32 | 2024-04-23 | 2024-05-22 |
 | [SIN](https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [SIN](https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28) | 3:44 | 2023-11-23 | 2024-02-16 |
 | [SLEEPLESS TOWN](https://open.spotify.com/track/1oLp5er6lRLDBBw6YxAgDm) | [OWV](https://open.spotify.com/artist/4CNu1NZPWMvgb46cmKepUG) | [BREMEN](https://open.spotify.com/album/23Pw0GhyG7e5ztxUdfnltQ) | 4:10 | 2024-02-06 | 2024-04-24 |
+| [Slogan](https://open.spotify.com/track/1xEm0K1U5Md7Zkne7gcy1z) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [2:BE](https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA) | 4:02 | 2024-08-27 |  |
 | [Smile Again](https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Smile Again](https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M) | 3:22 | 2023-11-30 | 2024-03-27 |
 | [Snowin'](https://open.spotify.com/track/6gsWfx1d3KtV4Y8ecsLVfx) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Snowin’](https://open.spotify.com/album/7AHmQEtHOwdKGFvcHC9PPM) | 3:25 | 2023-12-07 | 2024-05-01 |
 | [SOLDIER LOVE](https://open.spotify.com/track/2n69TX3YljuDvVo570pDXh) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [SOLDIER LOVE](https://open.spotify.com/album/4Lobcm9cyOgxultYK6KlrE) | 3:50 | 2023-12-19 | 2023-12-30 |
@@ -282,7 +283,7 @@
 | [アンスロポス](https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [アンスロポス](https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d) | 3:39 | 2024-01-23 | 2024-07-31 |
 | [エンドレス・ジャーニー](https://open.spotify.com/track/2xPPsSmJmU2ZmiWpVL1C08) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [エンドレス・ジャーニー](https://open.spotify.com/album/3aWeQ8wTjjsmeCsXP6stmR) | 2:55 | 2024-05-21 | 2024-07-31 |
 | [オオカミと彗星](https://open.spotify.com/track/1A2J7Pccy4Ur0lwP0HYJaJ) | [関ジャニ∞](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [オオカミと彗星](https://open.spotify.com/album/5yKELJirAKvjSwJR3uwysm) | 4:30 | 2024-01-02 | 2024-01-24 |
-| [オモイダマ jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/3RtcU6Ytb0vOoJ9SrsD8Le) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:58 | 2024-07-30 | 2024-08-21 |
+| [オモイダマ jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/3RtcU6Ytb0vOoJ9SrsD8Le) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 4:58 | 2024-07-30 |  |
 | [カカッテコーゼ](https://open.spotify.com/track/4NPPfmUsi86rgdRZNL5oWa) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [SUPER EIGHT](https://open.spotify.com/album/24rRGwyzAfk1fmhyvaKTzA) | 3:30 | 2024-07-30 | 2024-08-23 |
 | [ガーベラ](https://open.spotify.com/track/2YRmtXRIo66phllXOLOdlL) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [ガーベラ](https://open.spotify.com/album/0yvENWr39Af087Csjjqrdz) | 3:23 | 2024-02-20 | 2024-03-01 |
 | [ギリスト！](https://open.spotify.com/track/44uiC9r2lNtWHMx3yp5qDg) | [上田竜也](https://open.spotify.com/artist/4s1pQdzt4S8cLMXDD19qG0) | [ギリスト！](https://open.spotify.com/album/4nr0X5zAvguICJI22rvMXg) | 3:15 | 2024-02-13 | 2024-03-20 |
@@ -305,7 +306,7 @@
 | [初心LOVE（うぶらぶ）](https://open.spotify.com/track/6niUXDrcVDnwrXIz77gd0c) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [初心LOVE（うぶらぶ）](https://open.spotify.com/album/6Lv6W4CtTA5rmInHtrgimB) | 3:47 | 2024-08-13 | 2024-08-23 |
 | [君じゃなきゃだめなんだ](https://open.spotify.com/track/0Q7MGW8sEfNqwOkmHx7mXB) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [君じゃなきゃだめなんだ](https://open.spotify.com/album/0B0pNgGM1b0SmQp8pPCC7v) | 4:04 | 2024-06-04 | 2024-08-23 |
 | [君にカエル \(Maybe\)](https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [君にカエル \(Maybe\)](https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr) | 3:10 | 2024-04-30 | 2024-06-26 |
-| [君の隣で目覚めたい](https://open.spotify.com/track/3013b05l5UUrFdBfy0f04N) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [F.O.R\-変わりゆく時代の中で、輝く君と踊りたい。](https://open.spotify.com/album/1YdLFo1kUoXsEehVBYuMFq) | 4:24 | 2024-08-22 |  |
+| [君の隣で目覚めたい](https://open.spotify.com/track/3013b05l5UUrFdBfy0f04N) | [A.B.C\-Z](https://open.spotify.com/artist/4HXPfWNUCAFpjMoWyTWz5i) | [F.O.R\-変わりゆく時代の中で、輝く君と踊りたい。](https://open.spotify.com/album/1YdLFo1kUoXsEehVBYuMFq) | 4:24 | 2024-08-22 | 2024-08-28 |
 | [四葉のクローバー](https://open.spotify.com/track/7ouTzUXzdIUv0WJwcw6mEN) | [Natural Lag](https://open.spotify.com/artist/56imRTaCuJwSxQDveltEVU) | [4 leaves](https://open.spotify.com/album/5yJXsy71UayvFZ4nZi3Ohc) | 3:35 | 2024-05-28 | 2024-06-05 |
 | [奇想天外xxxxxxアイランド](https://open.spotify.com/track/5AmjgucViRdfSEo1QdY023) | [ピスパレ](https://open.spotify.com/artist/3vViwedrVd4yjLwJZkSjAM) | [奇想天外xxxxxxアイランド](https://open.spotify.com/album/5vqd07gK7bvKfa8UDdS47N) | 3:01 | 2024-06-12 | 2024-06-19 |
 | [存在証明](https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK) | 3:27 | 2023-11-23 | 2024-01-31 |

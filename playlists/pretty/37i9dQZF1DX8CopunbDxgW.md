@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Disco Lines & pluko
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,786 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,782 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FEEL IT](https://open.spotify.com/track/5C2KI4yrciy2qx9K3k6d3S) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [FEEL IT](https://open.spotify.com/album/0fQFNk6WSQnwx0LK0n9sGQ) | 2:03 |
-| 2 | [Vhs](https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Vhs](https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm) | 4:29 |
-| 3 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 |
-| 4 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
+| 1 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
+| 2 | [FEEL IT](https://open.spotify.com/track/5C2KI4yrciy2qx9K3k6d3S) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [FEEL IT](https://open.spotify.com/album/0fQFNk6WSQnwx0LK0n9sGQ) | 2:03 |
+| 3 | [Vhs](https://open.spotify.com/track/5DMCdNpx797b2P2CnpGgna) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Vhs](https://open.spotify.com/album/14pWWbSsZa90kidIfHK7Nm) | 4:29 |
+| 4 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 |
 | 5 | [LOVE MIGHT MAKE ME BETTER](https://open.spotify.com/track/4tMvRHWZEWWFWtL99IEzcx) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [LOVE MIGHT MAKE ME BETTER](https://open.spotify.com/album/71H9vgQ8l9mvltuvLREHQQ) | 3:27 |
 | 6 | [Type of Girl Pt\. 2](https://open.spotify.com/track/3PfCagzJEW85noY9XLykVs) | [Teilz](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Type of Girl](https://open.spotify.com/album/6wZffGiz4L7TSOCR3M27iQ) | 4:25 |
 | 7 | [Shuf \(Adore U\)](https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve 1](https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Workin’ On It](https://open.spotify.com/track/75hfAGu7iaC3hFSnyAwBUx) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Workin' On It](https://open.spotify.com/album/4KD7VxzKwT2hNNNyEuk9I8) | 3:35 |
 | 100 | [Young Folks](https://open.spotify.com/track/0XMWc0qrKeJnRzzyMj9Q7D) | [Dom Valentino](https://open.spotify.com/artist/1eWXBPrs5K5aZXTIWdIlPe), [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Young Folks](https://open.spotify.com/album/1Wr3TqDX4bDzWELjH0kTE5) | 4:09 |
 
-Snapshot ID: `ZsgJQAAAAADMU1UYJ6DaZcSV/p16Bis/`
+Snapshot ID: `Zs3grQAAAACHdzz0+0vgjlmEFpHKbQow`

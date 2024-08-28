@@ -4725,6 +4725,28 @@
     },
     {
       "album": {
+        "name": "Organic2",
+        "url": "https://open.spotify.com/album/4do2LvREDAeSafUqlFjNOn"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205106,
+      "name": "AURORA (feat. Crush)",
+      "url": "https://open.spotify.com/track/40tciWf8SD8zLL8lRsHNjx"
+    },
+    {
+      "album": {
         "name": "Auto Icon",
         "url": "https://open.spotify.com/album/1uBH0X8fr2fJzfDFwreYvV"
       },
@@ -6716,7 +6738,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 193886,
       "name": "Best Flex",
       "url": "https://open.spotify.com/track/2IZ7X8ZfQwsEUnKTNChaCv"
@@ -11444,7 +11466,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 182624,
       "name": "chasing the sunset",
       "url": "https://open.spotify.com/track/5VlwP0Okb4ontxDrbqLAMi"
@@ -11987,6 +12009,24 @@
     },
     {
       "album": {
+        "name": "Faded Lights",
+        "url": "https://open.spotify.com/album/6PT5QJEbIbeeC1XKU6DwrW"
+      },
+      "artists": [
+        {
+          "name": "GzLz",
+          "url": "https://open.spotify.com/artist/00vGsdNJGPZRIb1Nula5TT"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214173,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/7jtSqiLIKjsHqotWGSij32"
+    },
+    {
+      "album": {
         "name": "City Limits",
         "url": "https://open.spotify.com/album/7vSP9RLecsHRVajQq78uvj"
       },
@@ -12190,7 +12230,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 157001,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4OEnccrWAJMICjZB2krgk6"
@@ -24910,7 +24950,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 149862,
       "name": "GO(RILLA)",
       "url": "https://open.spotify.com/track/5DIjkwYU1lZEyrrGopKYuJ"
@@ -33976,7 +34016,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 145907,
       "name": "Keys to Your Truck",
       "url": "https://open.spotify.com/track/4aVw5UeLCtHc0pJ4oLZph2"
@@ -36554,7 +36594,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 176183,
       "name": "Like You",
       "url": "https://open.spotify.com/track/11duClBBY8VRSVdKRJurAn"
@@ -37354,6 +37394,24 @@
       "duration_ms": 263977,
       "name": "Long Before Our Time",
       "url": "https://open.spotify.com/track/58q0O9v3G0HnrTyf3J2w91"
+    },
+    {
+      "album": {
+        "name": "Faded Lights",
+        "url": "https://open.spotify.com/album/6PT5QJEbIbeeC1XKU6DwrW"
+      },
+      "artists": [
+        {
+          "name": "GzLz",
+          "url": "https://open.spotify.com/artist/00vGsdNJGPZRIb1Nula5TT"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217865,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/3lkXTNsllynrDiCC4mvvFR"
     },
     {
       "album": {
@@ -50982,7 +51040,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 235250,
       "name": "Rabbit's Got a Gun",
       "url": "https://open.spotify.com/track/3LGVTPOSRFWMA8v208kabx"
@@ -54995,6 +55053,24 @@
     },
     {
       "album": {
+        "name": "ETERNAL",
+        "url": "https://open.spotify.com/album/13M8K1l146FLdFoObJIVj9"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "Sexy In The Air",
+      "url": "https://open.spotify.com/track/3wluV5HGCW1Dq1CYsjIdLu"
+    },
+    {
+      "album": {
         "name": "Sexy Oasis",
         "url": "https://open.spotify.com/album/0i9V0VYcJgXtrKq47yVRxr"
       },
@@ -57868,7 +57944,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 286000,
       "name": "Spells Me Under",
       "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
@@ -60346,7 +60422,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 165357,
       "name": "Superficial",
       "url": "https://open.spotify.com/track/5kAuF9nGhcBmevYFTyhvrv"

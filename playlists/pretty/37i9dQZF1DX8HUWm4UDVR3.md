@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Zélie
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,244 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,262 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

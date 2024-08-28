@@ -1,6 +1,6 @@
 {
   "description": "When you're thinking of the one who gives you the butterflies. ",
-  "num_followers": 174429,
+  "num_followers": 174547,
   "original_name": "Crushing ",
   "owner": {
     "name": "Spotify",
@@ -319,26 +319,6 @@
     {
       "added_at": "2024-08-06 15:26:20",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "LOVE. FEAT. ZACARI.",
-      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
-    },
-    {
-      "added_at": "2024-08-06 15:26:20",
-      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 153312,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
+    },
+    {
+      "added_at": "2024-08-06 15:26:20",
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "LOVE. FEAT. ZACARI.",
+      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
     },
     {
       "added_at": "2024-08-06 15:26:20",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-08-06 15:26:20",
       "album": {
-        "name": "Dream Your Life Away - Special Edition",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2024-08-06 15:26:20",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 197436,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
+    },
+    {
+      "added_at": "2024-08-06 15:26:20",
+      "album": {
+        "name": "Dream Your Life Away - Special Edition",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-08-06 15:26:20",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-08-06 15:26:20",
       "album": {
+        "name": "GINGER",
+        "url": "https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "SUGAR",
+      "url": "https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA"
+    },
+    {
+      "added_at": "2024-08-06 15:26:20",
+      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 214400,
       "name": "Friday I'm in Love",
       "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2024-08-06 15:26:20",
-      "album": {
-        "name": "GINGER",
-        "url": "https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "SUGAR",
-      "url": "https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA"
     },
     {
       "added_at": "2024-08-06 15:26:20",

@@ -255,22 +255,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Wachito Rico",
-        "url": "https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 214146,
-      "name": "wachito rico",
-      "url": "https://open.spotify.com/track/0OYf62rdwDouKohtCALD55"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "You and Your Friends (Deluxe)",
         "url": "https://open.spotify.com/album/2vNreAH5ealo54gzwLwT6w"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 206733,
       "name": "Psychics in LA",
       "url": "https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Wachito Rico",
+        "url": "https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 214146,
+      "name": "wachito rico",
+      "url": "https://open.spotify.com/track/0OYf62rdwDouKohtCALD55"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Carrion Crawler / The Dream",
-        "url": "https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91"
-      },
-      "artists": [
-        {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
-        }
-      ],
-      "duration_ms": 412040,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "oh boi",
         "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 160333,
       "name": "oh boi",
       "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Carrion Crawler / The Dream",
+        "url": "https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91"
+      },
+      "artists": [
+        {
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+        }
+      ],
+      "duration_ms": 412040,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "En Tu Orilla",
         "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 205175,
       "name": "En Tu Orilla",
       "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Fading Like A Picture",
-        "url": "https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Fading Like A Picture",
-      "url": "https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Play It Strange",
         "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 192186,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Fading Like A Picture",
+        "url": "https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Fading Like A Picture",
+      "url": "https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Me Olvido / Te Sigo",
-        "url": "https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP"
+        "name": "Sand On The Beach",
+        "url": "https://open.spotify.com/album/3yzkkoOdyIq38nQ4dKTKPC"
       },
       "artists": [
         {
-          "name": "Da Pawn",
-          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
         }
       ],
-      "duration_ms": 218684,
-      "name": "Me Olvido / Te Sigo",
-      "url": "https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs"
+      "duration_ms": 136510,
+      "name": "Sand On The Beach",
+      "url": "https://open.spotify.com/track/1zj7pjd6vpa7e2nhXelc99"
     }
   ],
   "unique_name": "Diarios de Bicicleta",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u96e2\u5a5a\u4f1d\u8aac",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: First love is Never Returned",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 265263,
       "name": "247",
       "url": "https://open.spotify.com/track/5yHVEyrqkHfgRCBugctuji"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 152500,
       "name": "Beautiful Days",
       "url": "https://open.spotify.com/track/2eGVreND1HLkJbC6FDNnAn"
@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 214053,
       "name": "Black or White?",
       "url": "https://open.spotify.com/track/3zwQBA4eghhpOvY0afEOug"
@@ -4884,7 +4884,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 209642,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/44hRxKIpU1787XpbuNy38e"
@@ -6506,6 +6506,42 @@
       "duration_ms": 157777,
       "name": "HIDEOUT",
       "url": "https://open.spotify.com/track/5JbhaBfVDztQ9gvvDXns0r"
+    },
+    {
+      "album": {
+        "name": "High Flying",
+        "url": "https://open.spotify.com/album/46jJwqWD84Yl4RlWjRFYxm"
+      },
+      "artists": [
+        {
+          "name": "muggy",
+          "url": "https://open.spotify.com/artist/1u45bjenzoQUC0YsziuPsQ"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246968,
+      "name": "High Flying",
+      "url": "https://open.spotify.com/track/5Cl7xRJWzFLjyvEUJBIkgV"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV"
+      },
+      "artists": [
+        {
+          "name": "luvis",
+          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221943,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q"
     },
     {
       "album": {
@@ -8774,7 +8810,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 181833,
       "name": "Living Fool",
       "url": "https://open.spotify.com/track/0e1kW8RRrYyhyBmAaLzNaG"
@@ -11696,6 +11732,24 @@
       "duration_ms": 180300,
       "name": "Persona",
       "url": "https://open.spotify.com/track/4L00tvgurAGsSfW0fei2cZ"
+    },
+    {
+      "album": {
+        "name": "piece of cake",
+        "url": "https://open.spotify.com/album/5iwQX7PsnHrhycs05MtQXY"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "piece of cake",
+      "url": "https://open.spotify.com/track/3BNLrX2MnDDzbdmHYDiNIf"
     },
     {
       "album": {
@@ -19947,6 +20001,24 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30df\u30f3\u30b0\u30b9\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/0Vv6EHqhWtswuIHuHx6mzZ"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30b8\u30bf \u30ab\u30b3",
+          "url": "https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203986,
+      "name": "\u30ab\u30df\u30f3\u30b0\u30b9\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/5QZRzDHxGuFGOuY2QC44x1"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30ec\u30a4\u30c9\u30b9\u30b3\u30a6\u30d7",
         "url": "https://open.spotify.com/album/1cM6c96lnb3MLqUOHX5qyM"
       },
@@ -21333,6 +21405,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/0xxf2EXgWwxNo23JVqViq0"
+      },
+      "artists": [
+        {
+          "name": "halogen",
+          "url": "https://open.spotify.com/artist/624MS92C4EfblIUEPyJgTB"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122823,
+      "name": "\u30cf\u30a4\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/432ld2EKts1ydUlxdt3lEA"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30b0\u30eb\u30de",
         "url": "https://open.spotify.com/album/7oYh5Gx7GiyWF38YtfoUd4"
       },
@@ -22538,6 +22628,24 @@
       "duration_ms": 223053,
       "name": "\u30df\u30e9\u30fc\u30b8\u30e5",
       "url": "https://open.spotify.com/track/1Th7SUwzsekSITN4OcLfmc"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e9\u30fc\u30dc\u30fc\u30eb\u3068\u591c\u306e\u8e0a\u308a\u5b50",
+        "url": "https://open.spotify.com/album/4zPkdzEbclExGeuAKlEBvi"
+      },
+      "artists": [
+        {
+          "name": "Paris Tea Party",
+          "url": "https://open.spotify.com/artist/7ugqiN92YwfEURDqv2mfWs"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217950,
+      "name": "\u30df\u30e9\u30fc\u30dc\u30fc\u30eb\u3068\u591c\u306e\u8e0a\u308a\u5b50",
+      "url": "https://open.spotify.com/track/1FzQR0FqkJ6doSnkztVvwp"
     },
     {
       "album": {
@@ -23998,7 +24106,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 218200,
       "name": "\u541b\u304c\u601d\u3044\u51fa\u3057\u305f\u3089",
       "url": "https://open.spotify.com/track/2daV7kt818vpPzuzVlndxq"
@@ -24600,6 +24708,24 @@
       "duration_ms": 239600,
       "name": "\u591c\u660e\u3051\u306e\u541b\u3078",
       "url": "https://open.spotify.com/track/09bITqmWyV9rIKcT6VHAey"
+    },
+    {
+      "album": {
+        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207707,
+      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
     },
     {
       "album": {
@@ -29054,7 +29180,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 204550,
       "name": "\u9031\u520a\u5947\u629c",
       "url": "https://open.spotify.com/track/1tvfjRmrT1J0mR09kRnzxI"

@@ -2,7 +2,7 @@
 
 ### [Indie Dancefloor](https://open.spotify.com/playlist/37i9dQZF1DXadokOfeHaaj)
 
-> The best new indie dance music\. Cover: Killen
+> The best new indie dance music\. Cover: Killen.
 
 212 songs - 13 hr 38 min
 

@@ -2,9 +2,9 @@
 
 ### [This Is Five Finger Death Punch](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3dwoSs)
 
-> This Is Five Finger Death Punch\. Los temas esenciales, todos en una lista.
+> This is Five Finger Death Punch\. The essential tracks, all in one playlist.
 
-122 songs - 7 hr 38 min
+123 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [This Is The Way \(feat\. DMX\)](https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [AfterLife \(Deluxe\)](https://open.spotify.com/album/3nEUhPvFBnLSi30EZy931a) | 2:47 | 2024-04-07 |  |
 | [Times Like These](https://open.spotify.com/track/6bo13cPb5M0B6LhQEl0A3E) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:29 | 2022-09-09 |  |
 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 | 2022-07-09 | 2022-09-10 |
-| [Top Of The World](https://open.spotify.com/track/53yqxU2EKKzbuQZEUEVtxc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 2:42 | 2022-05-30 |  |
+| [Top of the World](https://open.spotify.com/track/3XMm6M9Ol6eQh6zKPixpfB) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None](https://open.spotify.com/album/1hMjINqA3UZ1ITb47wizsC) | 2:42 | 2024-08-28 |  |
+| [Top Of The World](https://open.spotify.com/track/53yqxU2EKKzbuQZEUEVtxc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 2:42 | 2022-05-30 | 2024-08-28 |
 | [Top of the World](https://open.spotify.com/track/60IMwt4QDGWwFHhWWbrbbD) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 2:42 | 2023-02-18 | 2023-06-07 |
 | [Trouble](https://open.spotify.com/track/6q05Nn2QU91KkGxY0m8vCk) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/440w9VaZP1M7FnfMdHapR3) | 3:12 | 2022-05-30 | 2022-08-21 |
 | [Under and Over It](https://open.spotify.com/track/0xKFHPdmWipLYPG3zlPpr4) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe Edition\)](https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM) | 3:38 | 2023-09-15 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume from across the world. Cover: Abida Parveen.",
-  "num_followers": 957070,
+  "num_followers": 957184,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "I'm The Drama",
-        "url": "https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 156255,
-      "name": "I'm The Drama",
-      "url": "https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "9ARI",
         "url": "https://open.spotify.com/album/5AlVNGNmZw1zh988FeOif6"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 172577,
       "name": "9ARI",
       "url": "https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "I'm The Drama",
+        "url": "https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 156255,
+      "name": "I'm The Drama",
+      "url": "https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Getting No Sleep",
-        "url": "https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Getting No Sleep",
-      "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Yebo",
         "url": "https://open.spotify.com/album/5gEOoIrRiVchscug7tbhb0"
       },
@@ -579,18 +563,34 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "the boy is mine (Remix)",
-        "url": "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt"
+        "name": "Getting No Sleep",
+        "url": "https://open.spotify.com/album/4wI1h1Ex8aczfMkPVfSRtB"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 173639,
-      "name": "the boy is mine",
-      "url": "https://open.spotify.com/track/4wZWAStC9iUk5VvtiYgwzV"
+      "duration_ms": 192000,
+      "name": "Getting No Sleep",
+      "url": "https://open.spotify.com/track/3YnhnUKeJlokCANd3R0fnA"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "ALV",
+        "url": "https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 217541,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "ALV",
-        "url": "https://open.spotify.com/album/79NYLb4A4a1OwBRbLAsyfk"
+        "name": "the boy is mine (Remix)",
+        "url": "https://open.spotify.com/album/3AICoyb5EH2OBmQJnaPDIt"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 217541,
-      "name": "ALV",
-      "url": "https://open.spotify.com/track/0czJDMboe5qf9NTHisp6kO"
+      "duration_ms": 173639,
+      "name": "the boy is mine",
+      "url": "https://open.spotify.com/track/4wZWAStC9iUk5VvtiYgwzV"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Finding You",
-        "url": "https://open.spotify.com/album/3SZoj251qJDnDf9heYFepJ"
-      },
-      "artists": [
-        {
-          "name": "Chi Pu",
-          "url": "https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi"
-        },
-        {
-          "name": "H\u1ee9a Kim Tuy\u1ec1n",
-          "url": "https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Finding You",
-      "url": "https://open.spotify.com/track/0g7d8Y9Y2BP8qFZDzngnSz"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh (feat. Ph\u00e1o)",
         "url": "https://open.spotify.com/album/4J0uxqk0Xl31lXtTqaERmk"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 222079,
       "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh (feat. Ph\u00e1o)",
       "url": "https://open.spotify.com/track/6QiOpd1Bx43oEd8s6IL6Lf"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Finding You",
+        "url": "https://open.spotify.com/album/3SZoj251qJDnDf9heYFepJ"
+      },
+      "artists": [
+        {
+          "name": "Chi Pu",
+          "url": "https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi"
+        },
+        {
+          "name": "H\u1ee9a Kim Tuy\u1ec1n",
+          "url": "https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Finding You",
+      "url": "https://open.spotify.com/track/0g7d8Y9Y2BP8qFZDzngnSz"
     },
     {
       "added_at": "2024-08-21 04:00:00",

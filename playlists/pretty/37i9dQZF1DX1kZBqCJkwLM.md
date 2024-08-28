@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: LISA & ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,500 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,499 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 76 | [GORGEOUS](https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek) | [BODUR](https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU) | [GORGEOUS](https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc) | 2:29 |
 | 77 | [Seoul](https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ) | [Sofia Kay](https://open.spotify.com/artist/3WM4raBaPOxPARlf256t5Q) | [Seoul](https://open.spotify.com/album/60v3Lr2b3Pq5tjTOTzJPpv) | 3:33 |
 | 78 | [Chatter](https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ) | [Jess Connelly](https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN) | [Chatter](https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u) | 2:53 |
-| 79 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
-| 80 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 |
+| 79 | [Oops! Ur Single Now](https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS) | [Rhea Raj](https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1) | [Oops! Ur Single Now](https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC) | 2:02 |
+| 80 | [Stomachache](https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Stomachache](https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP) | 3:04 |
 | 81 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 |
 | 82 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |
 | 83 | [MADAME](https://open.spotify.com/track/2QM5FStfpfbT7SKgVwY0D5) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl) | [MADAME](https://open.spotify.com/album/2CEbEMSPSd5dc764yqIyfO) | 3:03 |

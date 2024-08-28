@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyC5aOjDHG.md) - [plain]
 
 > Music & Episodes of “Sword Art Online” series! 音楽とPodcastで辿る「ソードアート・オンライン」の世界！\(C\)2017 川原 礫／ＫＡＤＯＫＡＷＡ　アスキー・メディアワークス／SAO\-A Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,586 likes - 86 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,615 likes - 86 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

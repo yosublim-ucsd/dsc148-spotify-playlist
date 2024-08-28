@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 
 > This is Eminem\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,818,573 likes - 47 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,819,276 likes - 47 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 5 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 |
 | 6 | [Love The Way You Lie](https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:23 |
 | 7 | [Smack That](https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Konvicted](https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq) | 3:32 |
-| 8 | [Trouble](https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 0:41 |
+| 8 | [Fuel](https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:33 |
 | 9 | [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 |
 | 10 | [Godzilla \(feat\. Juice WRLD\)](https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Music To Be Murdered By](https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6) | 3:30 |
 | 11 | [Lose Yourself](https://open.spotify.com/track/1v7L65Lzy0j0vdpRjJewt1) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Just Lose It](https://open.spotify.com/album/1rfORa9iYmocEsnnZGMVC4) | 5:22 |
-| 12 | [Fuel](https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:33 |
+| 12 | [Trouble](https://open.spotify.com/track/59151GHN7yr5g9B3bqlGdR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 0:41 |
 | 13 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 |
 | 14 | [Superman](https://open.spotify.com/track/4woTEX1wYOTGDqNXuavlRC) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dina Rae](https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 5:50 |
 | 15 | [Forgot About Dre](https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 3:42 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gTUOY.md) - [plain]
 | 46 | [Cinderella Man](https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:39 |
 | 47 | [Higher](https://open.spotify.com/track/3eMsgWDRq5dKl5SBTYGv2J) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Music To Be Murdered By \- Side B \(Deluxe Edition\)](https://open.spotify.com/album/3MKvhQoFSrR2PrxXXBHe9B) | 3:42 |
 
-Snapshot ID: `Zsp0AAAAAAB5EeY640Vk/E7mEoQ2K219`
+Snapshot ID: `ZsvFgAAAAACekUaxjkAUnPTTxrzei3Da`

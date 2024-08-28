@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1988903,
+  "num_followers": 1988882,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Touching The Sky",
-        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 187517,
-      "name": "Touching The Sky",
-      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "D\u00e9jenme Llorar",
         "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 228253,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Touching The Sky",
+        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 187517,
+      "name": "Touching The Sky",
+      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -347,26 +347,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Por el Resto de Tu Vida",
-        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 197476,
-      "name": "Por el Resto de Tu Vida",
-      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Amantes",
         "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
       },
@@ -383,6 +363,26 @@
       "duration_ms": 235424,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 241796,
+      "name": "Mar Adentro",
+      "url": "https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 231796,
       "name": "yo tuya, t\u00fa m\u00edo",
       "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Mar Adentro",
-        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 241796,
-      "name": "Mar Adentro",
-      "url": "https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS"
     },
     {
       "added_at": "2024-08-16 04:00:00",

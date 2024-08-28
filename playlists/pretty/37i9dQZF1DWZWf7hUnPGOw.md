@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,679 likes - 226 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,701 likes - 226 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feels Like Home On Christmas Day](https://open.spotify.com/track/6VlncaLfGeOmKfqrsulm5N) | [Andrew McDermid](https://open.spotify.com/artist/3sMpMrMYIhPB3LBHyEEnRD), [Natalie Ramsay](https://open.spotify.com/artist/7lAEMXlYfnfwG14oDqtozO) | [Feels Like Home On Christmas Day](https://open.spotify.com/album/2yCdqMV4y4dYx2tVsLUADb) | 2:15 |
 | 2 | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk) | 2:22 |
 | 3 | [What Christmas Means To Me](https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:28 |
-| 4 | [White Christmas](https://open.spotify.com/track/4j5ybw5yYBVKnyN9Ei0DF8) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:05 |
+| 4 | [White Christmas](https://open.spotify.com/track/4j5ybw5yYBVKnyN9Ei0DF8) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \- Deluxe](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 3:05 |
 | 5 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 3:26 |
 | 6 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/6ppdPveJCdq0YTSJzkGUAT) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/3O5KnCG0dWxULlXBd2WS1l) | 3:02 |
 | 7 | [Jingle Bells](https://open.spotify.com/track/0S53SaM17Z4nVLRnLoYr78) | [Sugar & The Hi Lows](https://open.spotify.com/artist/3ocspfRKSu50vCoUYexOpy) | [Snow Angel](https://open.spotify.com/album/3StV5cF5hyUlvJeIWmPlv6) | 3:43 |

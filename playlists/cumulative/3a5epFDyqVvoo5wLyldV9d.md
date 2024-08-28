@@ -4,7 +4,7 @@
 
 > 
 
-792 songs - 2 day 14 hr 20 min
+796 songs - 2 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Place Called Tarot \(Tarot Suite\)](https://open.spotify.com/track/6qunWG4X42q2LALYA9tdpp) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [Disco Recharge \(The Complete Expanded Collection\)](https://open.spotify.com/album/01AepugeEoimCqlJJl8eEW) | 15:41 | 2024-03-18 | 2024-05-01 |
 | [A Place Called Tarot \- Idjut Boys Re\-Edit](https://open.spotify.com/track/1MZvOLu9qjQDQMmoPeluHR) | [Tantra](https://open.spotify.com/artist/6urc5hhviGE72zYtdNgbN3) | [A Place Called Tarot & Hungry](https://open.spotify.com/album/3KOBvUfoOhfONzVKBZq2nD) | 10:55 | 2024-04-30 |  |
 | [A Rã](https://open.spotify.com/track/0wrx7YMUJXIcThebT8XDz5) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Quem É Quem](https://open.spotify.com/album/6GEO5pSp3ojwIm9vZqTtRd) | 2:31 | 2021-05-06 |  |
-| [A Time for Healing](https://open.spotify.com/track/3HZsUhzOr9gn24nJKHKEs8) | [The Kahil El'Zabar Quartet](https://open.spotify.com/artist/3JcDUAPSxt5xvyaXbU4Tdh) | [A Time for Healing](https://open.spotify.com/album/4SjSZfSNn7q2UyrzsfAJKj) | 13:09 | 2023-05-09 |  |
+| [A Time for Healing](https://open.spotify.com/track/3HZsUhzOr9gn24nJKHKEs8) | [The Kahil El'Zabar Quartet](https://open.spotify.com/artist/3JcDUAPSxt5xvyaXbU4Tdh), [Kahil El'Zabar](https://open.spotify.com/artist/2DObXDWCKLRvSisbmYjeyV) | [A Time for Healing](https://open.spotify.com/album/4SjSZfSNn7q2UyrzsfAJKj) | 13:09 | 2023-05-09 |  |
 | [A.E.I.O.U.](https://open.spotify.com/track/3SmPAYgr8V7avYYuoJ0AfE) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe), [Cotonete](https://open.spotify.com/artist/7vRJDtEvLW2MZ4ISs1Zddy) | [A.E.I.O.U.](https://open.spotify.com/album/0fI3qm2UDO6tL4fW5kVHoQ) | 6:30 | 2020-02-12 |  |
 | [A.I.E\. \- The L.L\. Club Mix](https://open.spotify.com/track/4ojWUlwqe20RDxfTunZSEH) | [La Compagnie Créole](https://open.spotify.com/artist/4GFqys2YA5hdCl4P2pdX3h), [Larry Levan](https://open.spotify.com/artist/7wxPD9vDsKD5OuHCeWgXRm) | [A.I.E\. \(Larry Levan Remixes\)](https://open.spotify.com/album/5DDnG0c9KJqwF4VePStSGZ) | 7:18 | 2021-03-09 |  |
 | [Aaj Shanibar](https://open.spotify.com/track/6EEpz2tuKJ2nBSi8LR1Jv3) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/5SpuuingwHA4Dgp6lfxrla) | 7:59 | 2020-04-12 |  |
@@ -396,6 +396,7 @@
 | [Maimouna Cherie](https://open.spotify.com/track/6KYQEFOlw5T3LSCDgsvX4O) | [Vincent Ahehehinnou](https://open.spotify.com/artist/1EYbriX2mbaKMLdc5T77uj) | [Best Woman \(Analog Africa Dance Edition No\. 5\)](https://open.spotify.com/album/3y8lKrtACN6hXQjvEQIEWP) | 8:38 | 2023-01-23 |  |
 | [Main Akeli Raat Jawan](https://open.spotify.com/track/4rGvQIhbqN5XMBPg9Ncllb) | [Ajit Singh](https://open.spotify.com/artist/1tmWfgiOMGLjKQS6XGkIyx), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Purana Mandir \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JGCo7abJV74z7rmy8MTv7) | 5:27 | 2022-09-20 |  |
 | [Mais Que Nada](https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [Foursider](https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0) | 2:39 | 2021-05-27 |  |
+| [Makiyaj](https://open.spotify.com/track/64zkMDZGsUBsqBaogoSRDS) | [Jules\-Henry Malaki](https://open.spotify.com/artist/70lZoqm8bQmomgLlPH9nAB) | [Makiyaj](https://open.spotify.com/album/2UFo1SSLCCCWmpfbyCULNp) | 4:29 | 2024-08-27 |  |
 | [Makom Ma Bobe](https://open.spotify.com/track/2lxVuMHkR7pdgW7PRJuWc0) | [Jeannette Ndiaye](https://open.spotify.com/artist/2trDKGvhEsWjDTHlELK7Mw) | [Makom Ma Bobe](https://open.spotify.com/album/1Nr08g59RjVPV73XqJkZPy) | 4:27 | 2021-06-01 |  |
 | [Mal Mi Goa](https://open.spotify.com/track/0377nNcsymeUDxEaUsOemm) | [Gordon Koang](https://open.spotify.com/artist/4LsJGFIGPI5c0sOeKFtjQ1) | [Unity](https://open.spotify.com/album/66kjRjllHcoW1aXmC5yMgQ) | 7:50 | 2021-02-26 |  |
 | [Mam Pe'ela Su'ure](https://open.spotify.com/track/6UONPrPGoFlTMm74cjBQkx) | [Florence Adooni](https://open.spotify.com/artist/4804FMh4N7pndfmQsS904u) | [Mam Pe'ela Su'ure](https://open.spotify.com/album/4aD1N49PqHfqVd7gCK7008) | 3:49 | 2021-06-16 |  |
@@ -616,11 +617,13 @@
 | [Sasà](https://open.spotify.com/track/4uvahxJ5WfmfPf4bmEjgHc) | [Oro](https://open.spotify.com/artist/1hY5l4zl5QFXfIJU9XHtaL) | [Napoli Segreta](https://open.spotify.com/album/7wG7cketLF1ZzMAPWa2fcl) | 3:42 | 2020-02-24 |  |
 | [Satan in Love](https://open.spotify.com/track/1KHd59vO76FGzZRGfIcCM9) | [La Bellini](https://open.spotify.com/artist/5V0lyYjjzDpHAJGmS7ZSmB) | [Leo Mas Presents Mediterraneo](https://open.spotify.com/album/76IfmQ5z8bxLXTBQwcDUcp) | 3:37 | 2021-05-25 |  |
 | [Saudade](https://open.spotify.com/track/0JCHY20eQD4FvXmoTPwCXz) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Little Electric Chicken Heart](https://open.spotify.com/album/1oHUngg3flG4Zda1Ukp8vP) | 3:40 | 2021-02-10 |  |
+| [SAY GOODBYE](https://open.spotify.com/track/439YMLXTadwJM1AunVQf1V) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/0bBj6hYg0NLPJtiQlKXNRd) | 3:26 | 2024-08-27 |  |
 | [Se Me Va](https://open.spotify.com/track/26jLuaTakHg0Lzfo4NL3rs) | [Bambino](https://open.spotify.com/artist/3PIzAy2auylzlXGDGiG2tm) | [Canciones De Amor Prohibido](https://open.spotify.com/album/53dalfjHJdJZnmWbJbSHXk) | 4:02 | 2022-04-11 |  |
 | [Se você for a salvador](https://open.spotify.com/track/4SC06muayGtoMEpQjRFUs0) | [Brylho](https://open.spotify.com/artist/7nf2NtawdimyqcLZkCrvHb) | [Brylho](https://open.spotify.com/album/20CZdrYcOB20e4gt16OpNY) | 3:45 | 2023-09-18 |  |
 | [Selamat Pengantin Baru](https://open.spotify.com/track/2en2WoEKCBRU5rkdichy0O) | [Anita Sarawak](https://open.spotify.com/artist/2ln834trHAKtKG529Sz7fw) | [Siri Bintang Pujaan](https://open.spotify.com/album/3zCrF9raqCA1bf8VT4bOlU) | 3:37 | 2023-02-19 |  |
 | [Sema Lopi](https://open.spotify.com/track/4zoPDTvNzWdewgbFmAcB5l) | [Bulimundo](https://open.spotify.com/artist/0I9kkFlYCGjGfHREcAqvTR) | [Bulimundo](https://open.spotify.com/album/5ntqPhVHi0b6Ncg4Zh5yd8) | 7:52 | 2023-02-23 |  |
 | [Senden Başka](https://open.spotify.com/track/2TOC6PUfa1b4j0NBxDCxWD) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Mantra Moderne](https://open.spotify.com/album/2Uo2xIUyu2VRo43IKxrokH) | 4:20 | 2020-11-02 |  |
+| [September Rain \- 2020 Remaster](https://open.spotify.com/track/6A9YFkei6zWfPSxWxlBecY) | [Makoto Matsushita](https://open.spotify.com/artist/5qm3bAgsYq5aBOymqkM4gG) | [COLLECTION](https://open.spotify.com/album/2jlyowwrLvyN28JGsu4or2) | 4:31 | 2024-08-27 |  |
 | [Sesso Matto: Sesso Matto](https://open.spotify.com/track/3DbKJFLngSVyT5Nu1OqK9X) | [Armando Trovajoli](https://open.spotify.com/artist/5PHOUKyz1tjA3vaDPIIVE0) | [Armando Trovaioli Film Music](https://open.spotify.com/album/4ov7KDnqJyZfQLrMQu2syR) | 3:24 | 2020-09-13 |  |
 | [Sev Kardeşim \- Hayat Bayram Olsa](https://open.spotify.com/track/6PewFUaj9gpazhxh5xv2qO) | [Senay](https://open.spotify.com/artist/6SJ2tZ0byPSxEBEb2tbQQN) | [Honki Ponki](https://open.spotify.com/album/7FUd2BMPEr7dHB2sgOMmu5) | 7:09 | 2020-04-13 |  |
 | [Sevda Çiçeği](https://open.spotify.com/track/4vmztiqUDwZGYHogu7RJ5e) | [Fikret Kızılok](https://open.spotify.com/artist/6RXvZtTyld421VPmJtLqkL) | [Zaman Zaman](https://open.spotify.com/album/4cMwQJZAYmmK6LXB4flKvL) | 4:25 | 2019-08-26 |  |
@@ -678,6 +681,7 @@
 | [Te Quiero \- Extended Mix](https://open.spotify.com/track/6NvYScCfPBtzja1z3FGRT9) | [KSM](https://open.spotify.com/artist/56i6O5HWdcpEYczHu18YDC), [Seydinah](https://open.spotify.com/artist/53Wv96pfZjVIPkMdUKn5eO) | [Te Quiero](https://open.spotify.com/album/24ESwWhazLt7HdRVs7WrD4) | 5:33 | 2022-01-24 |  |
 | [TECHNOVA](https://open.spotify.com/track/2quj0lAmQxytVLVR1LYQYV) | [TOWA TEI](https://open.spotify.com/artist/5FLbE1s9bnHwJhmngtVXpD) | [FUTURE LISTENING!](https://open.spotify.com/album/1ZU1pQUGSWMxmrMxWYbZXp) | 5:41 | 2021-01-19 |  |
 | [Tema di Barbara](https://open.spotify.com/track/3pz7qpUHb2aPhBhOHtWVy6) | [Alberto Baldan Bembo](https://open.spotify.com/artist/13MlmKnz81PZqZgMfCdVRR) | [L'amica di mia madre \(Colonna sonora originale del film\)](https://open.spotify.com/album/3wMMEeUpFG4YqilF56KCHw) | 2:36 | 2022-12-28 |  |
+| [Tes idées](https://open.spotify.com/track/2oR6toJpUt1WpIKPPAioNI) | [Jules\-Henry Malaki](https://open.spotify.com/artist/70lZoqm8bQmomgLlPH9nAB) | [Makiyaj](https://open.spotify.com/album/6bGDkhhkbgk7BNJQ70f9oq) | 3:35 | 2024-08-27 |  |
 | [Tet Chajé](https://open.spotify.com/track/6tpxV3D3WKEdcIwyFy4kEV) | [Kajou](https://open.spotify.com/artist/7JmwiNjyR7b7EnkXXE7RAS) | [Tet Chajé](https://open.spotify.com/album/4SmqWQNUHPw1IUQd0EC0ZT) | 6:10 | 2024-08-09 |  |
 | [Tez Alegn Yetintu](https://open.spotify.com/track/2c0nkmyzTaD0dT7pLOAwbJ) | [Admas](https://open.spotify.com/artist/6nX6QalHWzPMf7sBnaWNNU) | [Sons of Ethiopia](https://open.spotify.com/album/0YutPaipVH9qoIwMdI81QW) | 7:52 | 2022-12-19 |  |
 | [Tezeta \(Nostalgia\)](https://open.spotify.com/track/414J8tKHbtF16XOiHGBEso) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Ethiopiques, Vol\. 4: Ethio Jazz 1969\-1974](https://open.spotify.com/album/5VKvVk4gaPAJyXjof8NnzX) | 6:16 | 2021-10-30 |  |

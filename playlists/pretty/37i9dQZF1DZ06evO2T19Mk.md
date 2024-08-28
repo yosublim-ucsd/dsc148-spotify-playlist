@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 
 > This is Fall Out Boy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,009 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,050 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 | 36 | [7 Minutes In Heaven \(Atavan Halen\)](https://open.spotify.com/track/2erNwv0Yti7uirpIU8wbvv) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:02 |
 | 37 | [Stay Frosty Royal Milk Tea](https://open.spotify.com/track/0hfByzDRgR10HDLqm89lA9) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 2:51 |
 | 38 | [So Much \(For\) Stardust](https://open.spotify.com/track/2svOhUXIy2932LBNEFdNcq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 4:51 |
-| 39 | [Beat It](https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:49 |
-| 40 | [Headfirst Slide Into Cooperstown On A Bad Bet](https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:54 |
+| 39 | [Headfirst Slide Into Cooperstown On A Bad Bet](https://open.spotify.com/track/5qiG5FhrnE7dl0ZxhKc3My) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Folie à Deux](https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD) | 3:54 |
+| 40 | [Beat It](https://open.spotify.com/track/4OMsAnt8JSBctSJQIMNAy1) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Believers Never Die \- Greatest Hits](https://open.spotify.com/album/2FkdqW19xrKlDfeZjWf4Gt) | 3:49 |
 | 41 | [Church](https://open.spotify.com/track/0OUQhRKgGSb0PPrLUuEQka) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:31 |
 | 42 | [Where Did The Party Go](https://open.spotify.com/track/3Q7jFW6nxqhwbUctqqthSa) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 4:03 |
 | 43 | [Chicago Is So Two Years Ago](https://open.spotify.com/track/3P8zrkBArAfdjFJxPtZRUO) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2T19Mk.md) - [plain]
 | 49 | [Wilson \(Expensive Mistakes\)](https://open.spotify.com/track/2W6kVW3UZ3hwr4qbfCDp6B) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:36 |
 | 50 | [Pavlove \- Demo](https://open.spotify.com/track/73kIi1OijvzVIWP4OhBm7D) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Pavlove \(Demo\)](https://open.spotify.com/album/1iYntUmv88nNeE4zw5xgMY) | 3:33 |
 
-Snapshot ID: `Zsp0AAAAAADvUoV2noQ2DjkQvOI79XDg`
+Snapshot ID: `ZsvFgAAAAABGetb9gGeRxZyGN/xM1lTf`

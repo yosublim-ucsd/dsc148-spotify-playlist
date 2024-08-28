@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 339174,
+  "num_followers": 339226,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Cut Deep \u2013 Stripped",
+        "url": "https://open.spotify.com/album/342ARypReHD498VmAtcIx9"
+      },
+      "artists": [
+        {
+          "name": "Matt Maeson",
+          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+        }
+      ],
+      "duration_ms": 189720,
+      "name": "Cut Deep \u2013 Stripped",
+      "url": "https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
         "url": "https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 247243,
       "name": "You Oughta Know (feat. Duomo & Kroma Strings)",
       "url": "https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Cut Deep \u2013 Stripped",
-        "url": "https://open.spotify.com/album/342ARypReHD498VmAtcIx9"
-      },
-      "artists": [
-        {
-          "name": "Matt Maeson",
-          "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "Cut Deep \u2013 Stripped",
-      "url": "https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "If I Die Tomorrow",
-        "url": "https://open.spotify.com/album/1c5GxvnVBWZQsTEODrZqpQ"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 179541,
-      "name": "If I Die Tomorrow",
-      "url": "https://open.spotify.com/track/0VKpmchcyKYQ1ZalAKnfhT"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Feels Like Falling in Love (Alternate Version)",
         "url": "https://open.spotify.com/album/5mFDzpbFYmeiHKEEumKXyt"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 238796,
       "name": "Feels Like Falling in Love - Alternate Version",
       "url": "https://open.spotify.com/track/0pzeklIkrqOfc1eeleQ3px"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "If I Die Tomorrow",
+        "url": "https://open.spotify.com/album/1c5GxvnVBWZQsTEODrZqpQ"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 179541,
+      "name": "If I Die Tomorrow",
+      "url": "https://open.spotify.com/track/0VKpmchcyKYQ1ZalAKnfhT"
     },
     {
       "added_at": "2024-07-05 19:40:49",

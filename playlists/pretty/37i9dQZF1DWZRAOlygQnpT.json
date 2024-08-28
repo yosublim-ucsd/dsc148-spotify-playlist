@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar! Los Locos del Ritmo en portada.",
-  "num_followers": 92441,
+  "num_followers": 92486,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Fiebre del Rock and Roll",
-        "url": "https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l"
+        "name": "Buen Rock Esta Noche",
+        "url": "https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz"
       },
       "artists": [
         {
-          "name": "Mayte Gaos",
-          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+          "name": "Los Blue Caps",
+          "url": "https://open.spotify.com/artist/6rC7ojIyJ2a1zVcZevThcv"
         }
       ],
-      "duration_ms": 173760,
-      "name": "Vete Con Ella (Chappel of Love)",
-      "url": "https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ"
+      "duration_ms": 150013,
+      "name": "Vuelve Primavera",
+      "url": "https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -459,18 +459,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Buen Rock Esta Noche",
-        "url": "https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz"
+        "name": "La Fiebre del Rock and Roll",
+        "url": "https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l"
       },
       "artists": [
         {
-          "name": "Los Blue Caps",
-          "url": "https://open.spotify.com/artist/6rC7ojIyJ2a1zVcZevThcv"
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
         }
       ],
-      "duration_ms": 150013,
-      "name": "Vuelve Primavera",
-      "url": "https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27"
+      "duration_ms": 173760,
+      "name": "Vete Con Ella (Chappel of Love)",
+      "url": "https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -975,22 +975,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Serie de Colecci\u00f3n 18 Aut\u00e9nticos \u00c9xitos Hit\u00b4s de Grupos, Vol. 2",
-        "url": "https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB"
-      },
-      "artists": [
-        {
-          "name": "Las Ventanas",
-          "url": "https://open.spotify.com/artist/44cgJrhaBld32Xou7xno1x"
-        }
-      ],
-      "duration_ms": 160106,
-      "name": "Chuby Chuby - Chewy Chewy",
-      "url": "https://open.spotify.com/track/578D97y2BlyUHv3f5wHYHp"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 95386,
       "name": "Pitagoras [Album Version]",
       "url": "https://open.spotify.com/track/21oMNwfJjjdv6Zgsfk6sEN"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Serie de Colecci\u00f3n 18 Aut\u00e9nticos \u00c9xitos Hit\u00b4s de Grupos, Vol. 2",
+        "url": "https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB"
+      },
+      "artists": [
+        {
+          "name": "Las Ventanas",
+          "url": "https://open.spotify.com/artist/44cgJrhaBld32Xou7xno1x"
+        }
+      ],
+      "duration_ms": 160106,
+      "name": "Chuby Chuby - Chewy Chewy",
+      "url": "https://open.spotify.com/track/578D97y2BlyUHv3f5wHYHp"
     },
     {
       "added_at": "2020-04-17 21:51:59",

@@ -4,7 +4,7 @@
 
 > She's your favorite artist's favorite artist for real 💗
 
-1,718 songs - 3 day 17 hr 58 min
+1,719 songs - 3 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1315,6 +1315,7 @@
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 | 2023-06-02 |
 | [Sleep Well](https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 2:55 | 2023-04-14 | 2023-06-17 |
 | [Slim Pickins](https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:32 | 2024-08-23 |  |
+| [Slip Away](https://open.spotify.com/track/5fzCeWuSAtgA9gmoQl3E8e) | [Johnny Valentine](https://open.spotify.com/artist/2Gl2a6WfXvDy8TTsHPFOaI) | [Slip Away](https://open.spotify.com/album/6MRM0YSnjasP0id43HP6wn) | 3:11 | 2024-08-27 |  |
 | [Slow Dance \(feat\. Sofia Carson\)](https://open.spotify.com/track/3d2bsbugow8JiNvuaRupFH) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:08 | 2024-07-19 | 2024-08-17 |
 | [Slow It Down](https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Slow It Down](https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ) | 2:41 | 2024-03-22 |  |
 | [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 | 2024-03-08 | 2024-05-04 |

@@ -1,6 +1,6 @@
 {
   "description": "Hit dance per l'estate 2024 \ud83c\udf49",
-  "num_followers": 107844,
+  "num_followers": 107860,
   "original_name": "Estate Dance",
   "owner": {
     "name": "Spotify",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
+        "name": "Shut Up And Dance",
+        "url": "https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G"
+      },
+      "artists": [
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 177268,
+      "name": "Shut Up And Dance",
+      "url": "https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
         "name": "Madan (King)",
         "url": "https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 178593,
       "name": "Easy On My Heart",
       "url": "https://open.spotify.com/track/6f08saOLZyQr0ulFKUzFeL"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
-        "name": "Shut Up And Dance",
-        "url": "https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G"
-      },
-      "artists": [
-        {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
-        }
-      ],
-      "duration_ms": 177268,
-      "name": "Shut Up And Dance",
-      "url": "https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD"
     },
     {
       "added_at": "2024-08-02 00:01:00",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2024-08-02 00:01:00",
       "album": {
-        "name": "Stop This Flame (Celeste x MK)",
-        "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        },
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "Stop This Flame - Celeste x MK",
-      "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
-    },
-    {
-      "added_at": "2024-08-02 00:01:00",
-      "album": {
         "name": "How You Samba",
         "url": "https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 151680,
       "name": "How You Samba",
       "url": "https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1"
+    },
+    {
+      "added_at": "2024-08-02 00:01:00",
+      "album": {
+        "name": "Stop This Flame (Celeste x MK)",
+        "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "Stop This Flame - Celeste x MK",
+      "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
     },
     {
       "added_at": "2024-08-02 00:01:00",

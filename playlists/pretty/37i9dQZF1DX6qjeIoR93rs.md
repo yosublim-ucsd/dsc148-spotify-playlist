@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 
 > The sweet sounds of Palestine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,426 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,453 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qjeIoR93rs.md) - [plain]
 | 49 | [The Night Has Fallen Down](https://open.spotify.com/track/4K4QRaxWC7MBuzRzRgNj3U) | [Rim Banna](https://open.spotify.com/artist/3SODNDWMaRom0EVBbS1bqO) | [Seasons of Violet \- Lovesongs from Palestine](https://open.spotify.com/album/2EU211lSUnCFszTWpUvU2Y) | 5:06 |
 | 50 | [Sobo El Gahwa](https://open.spotify.com/track/2huCtJ3Sql6a4P74wbzogy) | [Zenobia](https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X), [Faten Shafeq Kabaha](https://open.spotify.com/artist/7uDoPvAaYD2RUrr35aH1bK) | [Sobo El Gahwa](https://open.spotify.com/album/7ylO1Fv0pXSm89nnuQyuhX) | 4:20 |
 | 51 | [فلسطين](https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI) | [Nass El Ghiwane](https://open.spotify.com/artist/040hze5aLmq4IDXPDQfUDL) | [Le meilleur, vol.1](https://open.spotify.com/album/7s3nuAyok865QigeowkopM) | 6:23 |
-| 52 | [Laween](https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Laween](https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs) | 3:28 |
-| 53 | [القضية فلسطينية](https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [القضية فلسطينية](https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa) | 2:49 |
+| 52 | [القضية فلسطينية](https://open.spotify.com/track/7KaT8J7igAsn5Xof9ccu7q) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [القضية فلسطينية](https://open.spotify.com/album/5ZFL6eq3fsGCa5268jMNYa) | 2:49 |
+| 53 | [Laween](https://open.spotify.com/track/7uMEZ3LZnkxH65k3VLbmqR) | [Sama Shoufani](https://open.spotify.com/artist/4DYG4ZxARarxXYmym4NuEr) | [Laween](https://open.spotify.com/album/3BGj2P0sL4c3IZH18qOMUs) | 3:28 |
 | 54 | [Mo Light](https://open.spotify.com/track/4ELE971aOY79OV4263w8h3) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge) | [Mo Light](https://open.spotify.com/album/25uNBZF9zpP2QxDpZNrn1E) | 4:45 |
 | 55 | [Yalah Yalah Ramallah](https://open.spotify.com/track/0hMAja0ctsCGFn0Nps83Z4) | [Fermin Muguruza](https://open.spotify.com/artist/3fJaSjkcJrLV5JYot02ckk) | [Checkpoint Rock: Canciones Desde Palestina](https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8) | 4:52 |
 | 56 | [Room](https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7) | [Fadi Ammous](https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi) | [Room](https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX) | 2:37 |

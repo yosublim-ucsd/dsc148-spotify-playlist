@@ -672,7 +672,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 63716,
       "name": "Baby 500",
       "url": "https://open.spotify.com/track/0J6TGK3rC6VXRBefGo6OuD"
@@ -1710,6 +1710,24 @@
       "duration_ms": 165000,
       "name": "ejawa",
       "url": "https://open.spotify.com/track/6s8ZrFf8RYn1R4q2vcyckp"
+    },
+    {
+      "album": {
+        "name": "Elle Hodaru",
+        "url": "https://open.spotify.com/album/5VQ8AboHL2qQBYx7KrvxET"
+      },
+      "artists": [
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Elle Hodaru",
+      "url": "https://open.spotify.com/track/1aR6HAkxlQT2O2dBuJVNBW"
     },
     {
       "album": {

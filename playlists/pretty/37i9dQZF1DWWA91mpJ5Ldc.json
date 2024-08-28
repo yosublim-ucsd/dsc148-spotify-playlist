@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 128043,
+  "num_followers": 128056,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "S\u00f3 Porque Eu Sou Mulher",
-        "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 163535,
-      "name": "S\u00f3 Porque Eu Sou Mulher",
-      "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
         "name": "Fragma",
         "url": "https://open.spotify.com/album/5Vwvi7lEBw808vJfDsGEkd"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 283181,
       "name": "Talism\u00e3",
       "url": "https://open.spotify.com/track/3M1H3xYAf9D1sXiZ6aUQQZ"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
+        "name": "S\u00f3 Porque Eu Sou Mulher",
+        "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 163535,
+      "name": "S\u00f3 Porque Eu Sou Mulher",
+      "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "Estragar a Amizade",
+        "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
+      },
+      "artists": [
+        {
+          "name": "Isa Buzzi",
+          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
+        },
+        {
+          "name": "Gamboa",
+          "url": "https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL"
+        }
+      ],
+      "duration_ms": 201937,
+      "name": "Estragar a Amizade",
+      "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Desastre Solar",
         "url": "https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 342160,
       "name": "Dias de Janeiro",
       "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "Estragar a Amizade",
-        "url": "https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG"
-      },
-      "artists": [
-        {
-          "name": "Isa Buzzi",
-          "url": "https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP"
-        },
-        {
-          "name": "Gamboa",
-          "url": "https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL"
-        }
-      ],
-      "duration_ms": 201937,
-      "name": "Estragar a Amizade",
-      "url": "https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Num Mundo de Paz",
-        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
       "artists": [
         {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 342514,
-      "name": "Num Mundo de Paz",
-      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
+      "duration_ms": 242130,
+      "name": "Caju",
+      "url": "https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi"
     },
     {
       "added_at": "2024-08-23 03:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
+        "name": "Num Mundo de Paz",
+        "url": "https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
         }
       ],
-      "duration_ms": 242130,
-      "name": "Caju",
-      "url": "https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi"
+      "duration_ms": 342514,
+      "name": "Num Mundo de Paz",
+      "url": "https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP"
     },
     {
       "added_at": "2024-08-23 03:00:00",

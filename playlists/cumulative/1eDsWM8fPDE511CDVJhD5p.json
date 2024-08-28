@@ -199,6 +199,42 @@
     },
     {
       "album": {
+        "name": "Awake (Decade Mix)",
+        "url": "https://open.spotify.com/album/1YaTEjxrgSLdZw1vpHYYEs"
+      },
+      "artists": [
+        {
+          "name": "MIJIPIN",
+          "url": "https://open.spotify.com/artist/5OmfLbUOtonT9rilhxHBWT"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285937,
+      "name": "Awake (Decade Mix)",
+      "url": "https://open.spotify.com/track/6ONkIwMcnp0kHQZqe8aWLe"
+    },
+    {
+      "album": {
+        "name": "Baby Steps",
+        "url": "https://open.spotify.com/album/3Qz09EnwQk9QFK0CWVVXfr"
+      },
+      "artists": [
+        {
+          "name": "Amamori P",
+          "url": "https://open.spotify.com/artist/1tlY9pasYap8HnzVQrCe1B"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265648,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/1y92j2UHo03rPmZFiif8mx"
+    },
+    {
+      "album": {
         "name": "\u30dd\u30f3\u30b3\u30c4\u30bb\u30ab\u30a4",
         "url": "https://open.spotify.com/album/29NUFBpjtofJoaei3woQ98"
       },
@@ -441,6 +477,28 @@
     },
     {
       "album": {
+        "name": "Dream of you",
+        "url": "https://open.spotify.com/album/1bQo8PsnIfilOtUJEVvRDL"
+      },
+      "artists": [
+        {
+          "name": "\u3081\u308d\u304f\u308b",
+          "url": "https://open.spotify.com/artist/7ylTFjdr6lbBsuQdHWQwtc"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144827,
+      "name": "Dream of you (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0rhAI7GANYjIZbKKLzFFDD"
+    },
+    {
+      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/1TNfp2LsvswwACxzVV3FUf"
       },
@@ -532,7 +590,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 338888,
       "name": "Energy_Vampire",
       "url": "https://open.spotify.com/track/5qjibqsaVebgOyvbXFroOu"
@@ -1416,7 +1474,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 218153,
       "name": "SPIKE U (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6vdTupCh83GuJQQb5j08Eh"
@@ -1470,7 +1528,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 269000,
       "name": "Story Rider",
       "url": "https://open.spotify.com/track/1hLmIbQqaBh4yjTBZkkGGI"
@@ -1590,7 +1648,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 152071,
       "name": "SwingyLadySatisfaction (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/67J7B2vxNiT5XiMfxJhru9"
@@ -1798,7 +1856,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 182366,
       "name": "\u304f\u308b\u3063\u3061\u307e\u3063\u305f\u3042\u305f\u307e\u306b\u308f -\u5316 Remix- (feat. \u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/3Ao7mpypJQYHD3fpfkFElv"
@@ -2123,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "\u30b5\u30a4\u30ec\u30f3\u30c8\u30ac\u30fc\u30eb\u306e\u8ff7\u8d70",
+        "url": "https://open.spotify.com/album/5haIyt6vEuMwLNbfATLFJs"
+      },
+      "artists": [
+        {
+          "name": "CielP",
+          "url": "https://open.spotify.com/artist/3RoTy575y9jJA8dI7kX2KL"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391500,
+      "name": "\u30b5\u30a4\u30ec\u30f3\u30c8\u30ac\u30fc\u30eb\u306e\u8ff7\u8d70",
+      "url": "https://open.spotify.com/track/3bdvkmUJrvDd8qsIBTmUA5"
+    },
+    {
+      "album": {
         "name": "CHAPTER #1",
         "url": "https://open.spotify.com/album/45vdAv1Oxc1gpM91Iq14f5"
       },
@@ -2350,7 +2426,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 167659,
       "name": "\u30c7\u30f3\u30b8\u30e3\u30e9\u30b9 \u30e9\u30f4\u30db\u30ea\u30c3\u30af",
       "url": "https://open.spotify.com/track/1rfpHlN5gACg9QgIfUsSCb"

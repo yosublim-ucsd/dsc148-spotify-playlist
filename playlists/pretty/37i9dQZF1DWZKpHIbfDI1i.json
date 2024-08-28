@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Kim Loaiza y Codiciado en portada.",
-  "num_followers": 694340,
+  "num_followers": 694565,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
+        "name": "Volando Bajito",
+        "url": "https://open.spotify.com/album/0zpniveKCf8Wogi6fGcyK3"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Volando Bajito",
+      "url": "https://open.spotify.com/track/2EuafaVeBUcNUOHT8cGLhX"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 197114,
       "name": "Alucin",
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "Volando Bajito",
-        "url": "https://open.spotify.com/album/0zpniveKCf8Wogi6fGcyK3"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Volando Bajito",
-      "url": "https://open.spotify.com/track/2EuafaVeBUcNUOHT8cGLhX"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
+        "name": "Traka",
+        "url": "https://open.spotify.com/album/0ptyTJDlh8CYs21xHvg1LE"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        }
+      ],
+      "duration_ms": 139322,
+      "name": "Traka",
+      "url": "https://open.spotify.com/track/1FXTLPcQGGv5OE5Me9mxdG"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
         "name": "Ya Te Super\u00e9",
         "url": "https://open.spotify.com/album/3Pz78G6FR1995V69CXTcZq"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 226476,
       "name": "Ya Te Super\u00e9",
       "url": "https://open.spotify.com/track/268nYrqkJyAd5HiAnXmUOF"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "Traka",
-        "url": "https://open.spotify.com/album/0ptyTJDlh8CYs21xHvg1LE"
-      },
-      "artists": [
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        }
-      ],
-      "duration_ms": 139322,
-      "name": "Traka",
-      "url": "https://open.spotify.com/track/1FXTLPcQGGv5OE5Me9mxdG"
     },
     {
       "added_at": "2024-08-16 06:00:00",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-08-16 06:00:00",
       "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Tarde o temprano",
+      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
+    },
+    {
+      "added_at": "2024-08-16 06:00:00",
+      "album": {
         "name": "DOMPERI",
         "url": "https://open.spotify.com/album/1M8UQoknR4Pp2PybeNErLM"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 142372,
       "name": "DELTAS",
       "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
-    },
-    {
-      "added_at": "2024-08-16 06:00:00",
-      "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Tarde o temprano",
-      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
     },
     {
       "added_at": "2024-08-16 06:00:00",

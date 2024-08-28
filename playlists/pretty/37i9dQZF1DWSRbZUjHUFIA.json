@@ -1,6 +1,6 @@
 {
   "description": "Keep your workout 100 with these Hip Hop motivators.",
-  "num_followers": 92324,
+  "num_followers": 92352,
   "original_name": "Work It: Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-08-23 05:20:13",
       "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 190288,
+      "name": "Stir Fry",
+      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
+    },
+    {
+      "added_at": "2024-08-23 05:20:13",
+      "album": {
         "name": "Dark Sky Paradise",
         "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 284386,
       "name": "I Don't Fuck With You",
       "url": "https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA"
-    },
-    {
-      "added_at": "2024-08-23 05:20:13",
-      "album": {
-        "name": "Culture II",
-        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 190288,
-      "name": "Stir Fry",
-      "url": "https://open.spotify.com/track/2UVbBKQOdFAekPTRsnkzcf"
     },
     {
       "added_at": "2024-08-23 05:20:13",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-08-23 05:20:13",
       "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+        "name": "The Largest",
+        "url": "https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 171067,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa"
+      "duration_ms": 132266,
+      "name": "The Largest",
+      "url": "https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz"
     },
     {
       "added_at": "2024-08-23 05:20:13",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-08-23 05:20:13",
       "album": {
-        "name": "The Largest",
-        "url": "https://open.spotify.com/album/1pJj4lszz7C87NmizpZ144"
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
       },
       "artists": [
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 132266,
-      "name": "The Largest",
-      "url": "https://open.spotify.com/track/1F5Qp0SJS0QUfqIoQggrLz"
+      "duration_ms": 171067,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0A1hoCfMLkiAgvhWkkucJa"
     },
     {
       "added_at": "2024-08-23 05:20:13",

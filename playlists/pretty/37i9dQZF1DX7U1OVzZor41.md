@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 
 > 在KTV里，这些都是必点必唱的华语K歌。你准备好了吗？
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,945 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,952 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 | 12 | [不為誰而作的歌](https://open.spotify.com/track/0VqSdtXseb9khdZrnYVyM1) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | ["和自己對話" 實驗專輯](https://open.spotify.com/album/2BllRBDJwm9kthtOoYTzNK) | 4:25 |
 | 13 | [你，好不好？ \- TVBS連續劇【遺憾拼圖】片尾曲](https://open.spotify.com/track/2gug6MRv4xQFYi9LA3PJCS) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [愛，教會我們的事](https://open.spotify.com/album/4qDKkkL98yqdv85xqYfyUc) | 4:47 |
 | 14 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 |
-| 15 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 |
+| 15 | [年少有為](https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [耳朵](https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy) | 4:39 |
 | 16 | [小情歌](https://open.spotify.com/track/4FhJ7YSRxATHnaRg4nGs6t) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [小宇宙](https://open.spotify.com/album/2yhTPiBJRuRjofOIEDLJGw) | 4:33 |
-| 17 | [年少有為](https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [耳朵](https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy) | 4:39 |
-| 18 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
+| 17 | [我懷念的](https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [逆光](https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw) | 4:49 |
+| 18 | [嘉宾](https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN) | [张远](https://open.spotify.com/artist/3PutidTQajzWO1gTetJReW) | [嘉宾](https://open.spotify.com/album/1orkuJNHCx51s1B0lWh3Ta) | 5:33 |
 | 19 | [光年之外 \(電影 《Passengers》 中國區主題曲\)](https://open.spotify.com/track/1bkvGbgK4HU8B7Ue4k7O7I) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [光年之外 \(電影 《Passengers》 中國區主題曲\)](https://open.spotify.com/album/4eQDYF5DRwKtOCidoSe9HP) | 3:55 |
 | 20 | [愛我還是他](https://open.spotify.com/track/13bw75oRjvxMv9VGIeM32i) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [太平盛世](https://open.spotify.com/album/1XnDRFsNxG12nZPRXNcPkU) | 4:52 |
 | 21 | [十年](https://open.spotify.com/track/25pWemriUQVrZ3yIiS2IBf) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [黑·白·灰](https://open.spotify.com/album/0zMV4uDNTSQAiphN3cVzQ0) | 3:25 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7U1OVzZor41.md) - [plain]
 | 44 | [以後別做朋友](https://open.spotify.com/track/7zyYmIdjqqiX6kLryb7QBx) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [學著愛](https://open.spotify.com/album/1JEzXcEYuEFKKmo4mfMgC7) | 4:20 |
 | 45 | [不將就 \(電影"何以笙簫默"片尾曲\)](https://open.spotify.com/track/5DH8nF7aWoXXg5Sm3gjCWD) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [有理想](https://open.spotify.com/album/3ykTa8oJzxd7n6vplb3VTl) | 5:12 |
 | 46 | [天后](https://open.spotify.com/track/4D0KlK4Fl8lotvsoys1bYQ) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [再愛一遍‧天后陳勢安](https://open.spotify.com/album/7EYP32Kr9V27MBMdmBkUo0) | 4:49 |
-| 47 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 |
+| 47 | [小幸運](https://open.spotify.com/track/1ZeVIrCWzEmsJexkrgvjFv) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [小幸運](https://open.spotify.com/album/6PqQY9oiU7zXQEuWUYBZs5) | 4:25 |
 | 48 | [給我一個理由忘記](https://open.spotify.com/track/2DcmVSLAg0ZzfOQxDshZHY) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [寂寞不痛](https://open.spotify.com/album/5ncMRfP3V96fdb61yB0WKR) | 4:45 |
-| 49 | [小幸運](https://open.spotify.com/track/1ZeVIrCWzEmsJexkrgvjFv) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [小幸運](https://open.spotify.com/album/6PqQY9oiU7zXQEuWUYBZs5) | 4:25 |
+| 49 | [擱淺](https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc) | 3:58 |
 | 50 | [沒那麽簡單](https://open.spotify.com/track/4xZIMRwaaBx7CZMmM6KLuh) | [黃小琥](https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz) | [簡單不簡單](https://open.spotify.com/album/1L5TJ2XkW8pXgSwHYMZsJJ) | 5:10 |
 
 Snapshot ID: `ZrBloQAAAAA00VS208H5OLVnf6NEKOFW`

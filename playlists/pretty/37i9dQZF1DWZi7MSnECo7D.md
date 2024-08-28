@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Transmissor
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,018 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,972 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Arppa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,750 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,749 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rakastan sun exää](https://open.spotify.com/track/6EScyxvlujQM7fP5GDS4va) | [Litku Klemetti](https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR) | [Rakastan sun exää](https://open.spotify.com/album/0BTIqyT0VarcPwggEDv8rV) | 3:12 |
-| 2 | [Joutomaa](https://open.spotify.com/track/4pHwjqKOz8Qv7f6ogUJwIk) | [Samuli Myrsky](https://open.spotify.com/artist/0RlAoFsaFLLU02Wx8nIa6n) | [Joutomaa](https://open.spotify.com/album/764ryunQhKuJD0m0nz1LC9) | 4:12 |
-| 3 | [Början på ingenting](https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Början på ingenting](https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD) | 3:30 |
-| 4 | [Waterfall](https://open.spotify.com/track/6BCKy6advV0E1jyQBpxmCr) | [Indigo Dream](https://open.spotify.com/artist/3nxQ0z5TpFCavqaRB1lJka) | [Indigo Dream](https://open.spotify.com/album/48QgPT41BnnvBP36igX0GA) | 4:08 |
-| 5 | [Vi Är Finnjävlar](https://open.spotify.com/track/3vHsF9d0jiek3xzT1YNAQp) | [Drug Store Raid](https://open.spotify.com/artist/53dLQQZFdX3WuK7RjFB5UP) | [Vi Är Finnjävlar](https://open.spotify.com/album/6AVbeae6SoZ7qJ072N7Ctx) | 2:23 |
-| 6 | [Eläintarha](https://open.spotify.com/track/0G199ChzAAnTEGfOLMIh2Q) | [Rosita Luu](https://open.spotify.com/artist/36Vdx8JtR9dT3MSbYX4apg) | [Eläintarha](https://open.spotify.com/album/6Q5nJkJRGtaLBmWrChlUOn) | 4:02 |
-| 7 | [Sorrow and Pain \(feat\. Jay Nemor\)](https://open.spotify.com/track/1hGT16i5yL9g6L27dp9PJb) | [Pekka Laine](https://open.spotify.com/artist/2qS0rXD8DBXVA3OJS3xQkF), [Jay Nemor](https://open.spotify.com/artist/4LnRutGXgJkLGZGHBoZwTC) | [Sorrow and Pain \(feat\. Jay Nemor\)](https://open.spotify.com/album/34dgsLprfkrrEgbx94OEHi) | 3:07 |
-| 8 | [Healing](https://open.spotify.com/track/6gn2qQXhGFAFp2xgwIMZb3) | [feelswithcaps](https://open.spotify.com/artist/4Lz6VUtJikzbN19bHDVdyN) | [Healing](https://open.spotify.com/album/2BWNTOnyegW8FxlCDRplZH) | 3:04 |
-| 9 | [Within, Against \- Spiritual Material Edit](https://open.spotify.com/track/0i88ACZZoXstYnMwBZYHUo) | [Giant Robot](https://open.spotify.com/artist/4uN8Fwvt71q7wDLeWmWtR9) | [Within, Against](https://open.spotify.com/album/1ZrPp2Riaiw9o7dugrqn6u) | 3:25 |
-| 10 | [Valheita ja totuutta](https://open.spotify.com/track/7BfjIU5r4vme4Urppia6Bf) | [Eva Louhivuori](https://open.spotify.com/artist/7DX4xa1cd1vBFt2kipYgfq) | [Valheita ja totuutta](https://open.spotify.com/album/1rFOEwuzuo6rvJjr43O7go) | 3:44 |
-| 11 | [Mikä vie sen pois](https://open.spotify.com/track/2jl4IKtQQ1ZVanINjRBhTZ) | [1980 AD](https://open.spotify.com/artist/44QSjd5tXrAGwQtif9W6c7) | [Mikä vie sen pois](https://open.spotify.com/album/4akDh22kROEtpni0C8WI7f) | 3:55 |
-| 12 | [High](https://open.spotify.com/track/20INpNM0LYwKHd0ghtqOQD) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [Music About Feelings](https://open.spotify.com/album/3uiP4c1oPgsj7o3le60FUk) | 3:32 |
-| 13 | [Lost In The Dark](https://open.spotify.com/track/63hTGiELUmNseEn3rVWLLi) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Lost In The Dark](https://open.spotify.com/album/1xCG1fQzBBG833J5JS3NnG) | 3:48 |
-| 14 | [Hän on kalastaja](https://open.spotify.com/track/1fRflLjXAzXmksQ3NIXKVi) | [Joose Keskitalo](https://open.spotify.com/artist/5NVT5vzzlz2slm2gAoA5je), [The Mystic Revelation of Teppo Repo](https://open.spotify.com/artist/0dZa3VK8cBMlUQ8PsozrsR) | [Hän on kalastaja](https://open.spotify.com/album/1UjoSVjjVbTfmaSSdfIeb2) | 3:55 |
+| 1 | [Hän on kalastaja](https://open.spotify.com/track/1fRflLjXAzXmksQ3NIXKVi) | [Joose Keskitalo](https://open.spotify.com/artist/5NVT5vzzlz2slm2gAoA5je), [The Mystic Revelation of Teppo Repo](https://open.spotify.com/artist/0dZa3VK8cBMlUQ8PsozrsR) | [Hän on kalastaja](https://open.spotify.com/album/1UjoSVjjVbTfmaSSdfIeb2) | 3:55 |
+| 2 | [Rakastan sun exää](https://open.spotify.com/track/6EScyxvlujQM7fP5GDS4va) | [Litku Klemetti](https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR) | [Rakastan sun exää](https://open.spotify.com/album/0BTIqyT0VarcPwggEDv8rV) | 3:12 |
+| 3 | [Joutomaa](https://open.spotify.com/track/4pHwjqKOz8Qv7f6ogUJwIk) | [Samuli Myrsky](https://open.spotify.com/artist/0RlAoFsaFLLU02Wx8nIa6n) | [Joutomaa](https://open.spotify.com/album/764ryunQhKuJD0m0nz1LC9) | 4:12 |
+| 4 | [Sorrow and Pain \(feat\. Jay Nemor\)](https://open.spotify.com/track/1hGT16i5yL9g6L27dp9PJb) | [Pekka Laine](https://open.spotify.com/artist/2qS0rXD8DBXVA3OJS3xQkF), [Jay Nemor](https://open.spotify.com/artist/4LnRutGXgJkLGZGHBoZwTC) | [Sorrow and Pain \(feat\. Jay Nemor\)](https://open.spotify.com/album/34dgsLprfkrrEgbx94OEHi) | 3:07 |
+| 5 | [Valheita ja totuutta](https://open.spotify.com/track/7BfjIU5r4vme4Urppia6Bf) | [Eva Louhivuori](https://open.spotify.com/artist/7DX4xa1cd1vBFt2kipYgfq) | [Valheita ja totuutta](https://open.spotify.com/album/1rFOEwuzuo6rvJjr43O7go) | 3:44 |
+| 6 | [Början på ingenting](https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Början på ingenting](https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD) | 3:30 |
+| 7 | [Waterfall](https://open.spotify.com/track/6BCKy6advV0E1jyQBpxmCr) | [Indigo Dream](https://open.spotify.com/artist/3nxQ0z5TpFCavqaRB1lJka) | [Indigo Dream](https://open.spotify.com/album/48QgPT41BnnvBP36igX0GA) | 4:08 |
+| 8 | [Vi Är Finnjävlar](https://open.spotify.com/track/3vHsF9d0jiek3xzT1YNAQp) | [Drug Store Raid](https://open.spotify.com/artist/53dLQQZFdX3WuK7RjFB5UP) | [Vi Är Finnjävlar](https://open.spotify.com/album/6AVbeae6SoZ7qJ072N7Ctx) | 2:23 |
+| 9 | [Eläintarha](https://open.spotify.com/track/0G199ChzAAnTEGfOLMIh2Q) | [Rosita Luu](https://open.spotify.com/artist/36Vdx8JtR9dT3MSbYX4apg) | [Eläintarha](https://open.spotify.com/album/6Q5nJkJRGtaLBmWrChlUOn) | 4:02 |
+| 10 | [Healing](https://open.spotify.com/track/6gn2qQXhGFAFp2xgwIMZb3) | [feelswithcaps](https://open.spotify.com/artist/4Lz6VUtJikzbN19bHDVdyN) | [Healing](https://open.spotify.com/album/2BWNTOnyegW8FxlCDRplZH) | 3:04 |
+| 11 | [Within, Against \- Spiritual Material Edit](https://open.spotify.com/track/0i88ACZZoXstYnMwBZYHUo) | [Giant Robot](https://open.spotify.com/artist/4uN8Fwvt71q7wDLeWmWtR9) | [Within, Against](https://open.spotify.com/album/1ZrPp2Riaiw9o7dugrqn6u) | 3:25 |
+| 12 | [Mikä vie sen pois](https://open.spotify.com/track/2jl4IKtQQ1ZVanINjRBhTZ) | [1980 AD](https://open.spotify.com/artist/44QSjd5tXrAGwQtif9W6c7) | [Mikä vie sen pois](https://open.spotify.com/album/4akDh22kROEtpni0C8WI7f) | 3:55 |
+| 13 | [High](https://open.spotify.com/track/20INpNM0LYwKHd0ghtqOQD) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [Music About Feelings](https://open.spotify.com/album/3uiP4c1oPgsj7o3le60FUk) | 3:32 |
+| 14 | [Lost In The Dark](https://open.spotify.com/track/63hTGiELUmNseEn3rVWLLi) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Lost In The Dark](https://open.spotify.com/album/1xCG1fQzBBG833J5JS3NnG) | 3:48 |
 | 15 | [Kerran Turussa](https://open.spotify.com/track/55J56tUUVe1FdkvrNvOeq5) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Kerran Turussa](https://open.spotify.com/album/0BSchK1CVuXvxGr7wN3vaV) | 2:42 |
 | 16 | [Pekka lupaa poutaa](https://open.spotify.com/track/2O3kSzcWheLqVFDYwaPRPa) | [Noora Kataja Trio](https://open.spotify.com/artist/0O1oj2v3UakziCllxJt7He) | [Pekka lupaa poutaa](https://open.spotify.com/album/6gTGBgfJGQwc1gbwwJOpcE) | 3:47 |
 | 17 | [Friedrichshain](https://open.spotify.com/track/6shjzWDbxwUuQzmhQAQJQQ) | [NEØV](https://open.spotify.com/artist/6TgS8LDntw71vz2Wf7TJ8h) | [Soft Atlas](https://open.spotify.com/album/4Krjmqw6gmzUQzhE5m1Duc) | 4:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Mun on mentävä](https://open.spotify.com/track/0htkFb4BG0gQRm8blP4vw8) | [Eereka](https://open.spotify.com/artist/6uBzTiBgwni9R55z7nZDlW) | [Mun on mentävä](https://open.spotify.com/album/2RFmg0SWrHRbknuzgqOMtB) | 3:36 |
 | 80 | [Aurelia](https://open.spotify.com/track/4o3t4IVF0w8LEQjSSMPVub) | [Pavlovin Kissa](https://open.spotify.com/artist/5PAllz0VJd0A7F5Fw5HIZz) | [Aurelia](https://open.spotify.com/album/0SHCKP5zfGn67QqAbNn5qJ) | 5:12 |
 
-Snapshot ID: `ZsenDAAAAACGYzzSL+q88FxHvmtZ/VWM`
+Snapshot ID: `Zs4GTgAAAAB2dLOMdsHCj2OIH3mW5ph2`

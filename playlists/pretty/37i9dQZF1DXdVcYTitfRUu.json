@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 10293,
+  "num_followers": 10302,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-08-10 15:40:27",
       "album": {
-        "name": "Closer Than This",
-        "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 223302,
-      "name": "Closer Than This",
-      "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
-    },
-    {
-      "added_at": "2024-08-10 15:40:27",
-      "album": {
         "name": "Lovely Runner, Pt. 1 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0yaxMWGvOI7jSirSsKQj37"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 233031,
       "name": "Sudden Shower",
       "url": "https://open.spotify.com/track/1OhIn0L6iofnk5bjalWfHq"
+    },
+    {
+      "added_at": "2024-08-10 15:40:27",
+      "album": {
+        "name": "Closer Than This",
+        "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 223302,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
     },
     {
       "added_at": "2024-08-10 15:40:27",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-08-10 15:40:27",
       "album": {
-        "name": "All The Way",
-        "url": "https://open.spotify.com/album/1s3QsCUiHLP0kbKUulGUMc"
-      },
-      "artists": [
-        {
-          "name": "K.Will",
-          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
-        }
-      ],
-      "duration_ms": 189386,
-      "name": "No Sad Song For My Broken Heart",
-      "url": "https://open.spotify.com/track/68jFZoDvQrM4QUwZuC6oLa"
-    },
-    {
-      "added_at": "2024-08-10 15:40:27",
-      "album": {
         "name": "Alchemy of Souls, Pt. 1 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5suBD7aDfNiIkbUvYaHtfR"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 213946,
       "name": "Scars leave beautiful trace",
       "url": "https://open.spotify.com/track/1y6dEjheBdnopNo0xDXJ9P"
+    },
+    {
+      "added_at": "2024-08-10 15:40:27",
+      "album": {
+        "name": "All The Way",
+        "url": "https://open.spotify.com/album/1s3QsCUiHLP0kbKUulGUMc"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 189386,
+      "name": "No Sad Song For My Broken Heart",
+      "url": "https://open.spotify.com/track/68jFZoDvQrM4QUwZuC6oLa"
     },
     {
       "added_at": "2024-08-10 15:40:27",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-08-10 15:40:27",
       "album": {
+        "name": "Circle - The 1st Album",
+        "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "O (Circle)",
+      "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
+    },
+    {
+      "added_at": "2024-08-10 15:40:27",
+      "album": {
         "name": "Love Sick",
         "url": "https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2024-08-10 15:40:27",
       "album": {
-        "name": "Circle - The 1st Album",
-        "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
+        "name": "Flower in the Desert",
+        "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
       },
       "artists": [
         {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
         }
       ],
-      "duration_ms": 197226,
-      "name": "O (Circle)",
-      "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
+      "duration_ms": 259133,
+      "name": "Flower in the Desert - Kor Version",
+      "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
     },
     {
       "added_at": "2024-08-10 15:40:27",
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2024-08-10 15:40:27",
       "album": {
-        "name": "Flower in the Desert",
-        "url": "https://open.spotify.com/album/5MJEKw6CnDkmjDBl4LwVnM"
+        "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
+        "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
       },
       "artists": [
         {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw"
+          "name": "Choi Yu Ree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
         }
       ],
-      "duration_ms": 259133,
-      "name": "Flower in the Desert - Kor Version",
-      "url": "https://open.spotify.com/track/7M3POeMOBCs6pwtDkVhBTi"
+      "duration_ms": 256026,
+      "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
+      "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
     },
     {
       "added_at": "2024-08-10 15:40:27",
@@ -1263,22 +1279,6 @@
       "duration_ms": 257026,
       "name": "Heart",
       "url": "https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt"
-    },
-    {
-      "added_at": "2024-08-10 15:40:27",
-      "album": {
-        "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
-        "url": "https://open.spotify.com/album/3xWFhctuIPjLu4KCsEeBhg"
-      },
-      "artists": [
-        {
-          "name": "Choi Yu Ree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "\uc798 \uc9c0\ub0b4\uc790, \uc6b0\ub9ac",
-      "url": "https://open.spotify.com/track/20s4CVeJ9VgW2jdNLKr1EL"
     },
     {
       "added_at": "2024-08-10 15:40:27",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-08-10 15:40:27",
       "album": {
-        "name": "Only you",
-        "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
-      },
-      "artists": [
-        {
-          "name": "Tophyun",
-          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
-        }
-      ],
-      "duration_ms": 190640,
-      "name": "Only you",
-      "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
-    },
-    {
-      "added_at": "2024-08-10 15:40:27",
-      "album": {
         "name": "IN the mood",
         "url": "https://open.spotify.com/album/1EABDeQeCq83PJMBYBSXet"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-08-10 15:40:27",
       "album": {
-        "name": "Because I Don't Love You",
-        "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
+        "name": "Only you",
+        "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
       },
       "artists": [
         {
-          "name": "Onestar",
-          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
         }
       ],
-      "duration_ms": 223826,
-      "name": "Because I Don't Love You",
-      "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
+      "duration_ms": 190640,
+      "name": "Only you",
+      "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
     },
     {
       "added_at": "2024-08-10 15:40:27",
@@ -1363,6 +1347,22 @@
       "duration_ms": 222305,
       "name": "Shining on Your Night",
       "url": "https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6"
+    },
+    {
+      "added_at": "2024-08-10 15:40:27",
+      "album": {
+        "name": "Because I Don't Love You",
+        "url": "https://open.spotify.com/album/7LX3cJhfSEBEX8zhw1LrKU"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "Because I Don't Love You",
+      "url": "https://open.spotify.com/track/5mdl3TlXrImNPrIo3aO70q"
     }
   ],
   "unique_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",

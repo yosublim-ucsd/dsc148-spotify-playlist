@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,938 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,979 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 32 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 |
 | 33 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
 | 34 | [These Days](https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [These Days](https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL) | 2:52 |
-| 35 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 |
-| 36 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
+| 35 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
+| 36 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 |
 | 37 | [Steady](https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos: Deluxe Edition](https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD) | 3:23 |
 | 38 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
 | 39 | [Folake](https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Bodija / Folake](https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF) | 2:35 |

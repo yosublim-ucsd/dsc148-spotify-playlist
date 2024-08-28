@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > John Otto, take 'em to the Matthews Bridge!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,917,414 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,917,716 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 23 | [Bawitdaba](https://open.spotify.com/track/0f37VQs969vZUL4gVfHRV9) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Devil Without a Cause](https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm) | 4:25 |
 | 24 | [Nookie](https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 4:49 |
 | 25 | [Got the Life](https://open.spotify.com/track/6nJPHXRpKYv2yqtalEjKy5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 3:45 |
-| 26 | [Between Angels And Insects](https://open.spotify.com/track/24z528iI9kZu5LbkLainjI) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:54 |
+| 26 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
 | 27 | [7 Words](https://open.spotify.com/track/6DoXuH326aAYEN8CnlLmhP) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 3:43 |
 | 28 | [Papercut](https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:04 |
-| 29 | [Push It](https://open.spotify.com/track/6O7pihLJgeqxUnG7u9oYL2) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Wisconsin Death Trip](https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5) | 2:34 |
+| 29 | [Between Angels And Insects](https://open.spotify.com/track/24z528iI9kZu5LbkLainjI) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:54 |
 | 30 | [Left Behind](https://open.spotify.com/track/4l3Vmsw0KO8HJqFtnbqaqu) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 4:01 |
 | 31 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 |
 | 32 | [Blind](https://open.spotify.com/track/1pr9TZGOXeJUggIal1Wq3R) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 4:18 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 35 | [Die MF Die](https://open.spotify.com/track/5bU4KX47KqtDKKaLM4QCzh) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Life](https://open.spotify.com/album/7lRvSWMUCTIjkvZQLy4yBx) | 3:06 |
 | 36 | [Dig](https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 2:42 |
 | 37 | [Somewhere I Belong](https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora \(Bonus Edition\)](https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD) | 3:33 |
-| 38 | [Open Your Eyes](https://open.spotify.com/track/5oxpT46KeiEuckYnChgFFT) | [Guano Apes](https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E) | [Proud Like a God](https://open.spotify.com/album/1N5L209IqXQ6cqV2HFJU4G) | 3:07 |
-| 39 | [The Only](https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:51 |
+| 38 | [The Only](https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Shadow Zone](https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3) | 2:51 |
+| 39 | [Open Your Eyes](https://open.spotify.com/track/5oxpT46KeiEuckYnChgFFT) | [Guano Apes](https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E) | [Proud Like a God](https://open.spotify.com/album/1N5L209IqXQ6cqV2HFJU4G) | 3:07 |
 | 40 | [Y'all Want a Single](https://open.spotify.com/track/2WSWm0zlL3CJRACHS5KXbB) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3487OYBtnRl82qA6tfyWco) | 3:17 |
 | 41 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 |
 | 42 | [Back to School \(Mini Maggit\)](https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 3:57 |
@@ -67,26 +67,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 57 | [Black](https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Sevendust \(Definitive Edition\)](https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3) | 4:08 |
 | 58 | [Bodies](https://open.spotify.com/track/1cqWEQ6TRfYr3SBNh7Ni2w) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner \- Unlucky 13th Anniversary Deluxe Edition](https://open.spotify.com/album/74n5sNia8GcWvAeJ1z40Tb) | 3:22 |
 | 59 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
-| 60 | [Death Blooms](https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 4:51 |
-| 61 | [Vitamin](https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:13 |
+| 60 | [Vitamin](https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:13 |
+| 61 | [Death Blooms](https://open.spotify.com/track/3Y4rNagSf2IukhcOTWYJuV) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 4:51 |
 | 62 | [Alive \- 2006 Remaster](https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Greatest Hits \(The Atlantic Years\)](https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU) | 3:23 |
 | 63 | [The Way You Like It](https://open.spotify.com/track/6adhpSbrhat9S0WEVjf4HP) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 3:39 |
 | 64 | [Stitches](https://open.spotify.com/track/5Y76U25W2UAZF9AwfrFAoJ) | [Orgy](https://open.spotify.com/artist/4uYwLU7k03RCQSRXGtQGg0) | [Candyass](https://open.spotify.com/album/5iprjaDXa5reRKpCL6L99A) | 3:18 |
 | 65 | [New Disease](https://open.spotify.com/track/5xqi4X6J5PHwndSJc7YLYH) | [Spineshank](https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4) | [The Height of Callousness](https://open.spotify.com/album/5EdPM4V1kWFrFPniEvS5LL) | 3:14 |
-| 66 | [A Certain Shade of Green](https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:11 |
-| 67 | [Sway](https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd) | 3:35 |
-| 68 | [Loose](https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p) | [Primer 55](https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY) | [Introduction To Mayhem](https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76) | 3:02 |
-| 69 | [Stoopid](https://open.spotify.com/track/3lvMZTPh9snQKo4OiP13CU) | [Snot](https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8) | [Get Some](https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda) | 3:52 |
+| 66 | [Sway](https://open.spotify.com/track/19bAcl8m0DEUzteLSBDnzH) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Coal Chamber](https://open.spotify.com/album/7FsGGAksuLOCvI2ivXh4Jd) | 3:35 |
+| 67 | [Loose](https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p) | [Primer 55](https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY) | [Introduction To Mayhem](https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76) | 3:02 |
+| 68 | [Stoopid](https://open.spotify.com/track/3lvMZTPh9snQKo4OiP13CU) | [Snot](https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8) | [Get Some](https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda) | 3:52 |
+| 69 | [A Certain Shade of Green](https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:11 |
 | 70 | [Rot](https://open.spotify.com/track/78SOBkauu6CnXV2OtpDrHK) | [Dry Kill Logic](https://open.spotify.com/artist/01JN808vH1vhH7O7IsyRgX) | [The Darker Side of Nonsense](https://open.spotify.com/album/2MwTe2PM8IAZy84vfYtpEz) | 4:32 |
 | 71 | [Sugar](https://open.spotify.com/track/1Ym3JWJG8HFJU2NbXavZ6a) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/4T0mAffZnPKUW2QTcSX5zG) | 2:33 |
 | 72 | [Giving In](https://open.spotify.com/track/1OGFtaUgHAQjtSk7mhDwr9) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [Adema](https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh) | 4:34 |
-| 73 | [New Skin](https://open.spotify.com/track/2peJ2zSVyENaSIvA6k3c6M) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:51 |
-| 74 | [Bleed](https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Soulfly](https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc) | 4:06 |
-| 75 | [South Texas Deathride](https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD) | [The Union Underground](https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb) | [...An Education In Rebellion](https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76) | 3:24 |
-| 76 | [From This Day](https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:56 |
-| 77 | [Denial](https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Best Of \(Chapter One 1997\-2004\)](https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe) | 4:18 |
-| 78 | [Price to Play](https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [14 Shades of Grey](https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR) | 3:35 |
-| 79 | [Pitiful](https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Silence](https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl) | 3:12 |
+| 73 | [Bleed](https://open.spotify.com/track/5dOA0yswTUbMiiPCTQfnsx) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Soulfly](https://open.spotify.com/album/5cAwcJxr5mVnuA7TLAYPTc) | 4:06 |
+| 74 | [South Texas Deathride](https://open.spotify.com/track/4DenxoUslmyLJB5vzurCBD) | [The Union Underground](https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb) | [...An Education In Rebellion](https://open.spotify.com/album/5owwvzRpYAdnhc2Xe8aq76) | 3:24 |
+| 75 | [From This Day](https://open.spotify.com/track/2GQxHKJLYTDVQ5mtNhHD37) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 3:56 |
+| 76 | [Denial](https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Best Of \(Chapter One 1997\-2004\)](https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe) | 4:18 |
+| 77 | [Price to Play](https://open.spotify.com/track/6WV1sNIE0gG9cIdQ27vuvI) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [14 Shades of Grey](https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR) | 3:35 |
+| 78 | [Pitiful](https://open.spotify.com/track/1TTOAw90zzNWKnUgzzcvZW) | [Blindside](https://open.spotify.com/artist/0Uj2hge2fxypJ7f4ik6lpr) | [Silence](https://open.spotify.com/album/5QVIcWwkQXJ6vwbQDikZrl) | 3:12 |
+| 79 | [New Skin](https://open.spotify.com/track/2peJ2zSVyENaSIvA6k3c6M) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:51 |
 | 80 | [Drowning](https://open.spotify.com/track/6UI5070fXjclDkp1obCmFm) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [Drowning](https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ) | 3:18 |
 
 Snapshot ID: `ZqPQGwAAAAAZW0DlUkjtXzfW/PBcB7lj`

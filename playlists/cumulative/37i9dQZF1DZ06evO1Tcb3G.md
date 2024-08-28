@@ -2,7 +2,7 @@
 
 ### [This Is Mumford & Sons](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Tcb3G)
 
-> This is Mumford & Sons\. Todos os maiores hits em uma só playlist.
+> This Is Mumford & Sons\. Los temas esenciales, todos en una lista.
 
 77 songs - 5 hr 19 min
 

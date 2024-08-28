@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,056 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,152 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 45 | [Que se joda el viento](https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 5:05 |
 | 46 | [Necesito Respirar](https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:29 |
 | 47 | [El Limite](https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu) | [La Frontera](https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3) | [La Rosa De Los Vientos](https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT) | 4:35 |
-| 48 | [El Día Que Tú Te Marches](https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [El Día Que Tú Te Marches](https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC) | 3:28 |
-| 49 | [Diablo](https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Diablo](https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7) | 2:44 |
+| 48 | [Diablo](https://open.spotify.com/track/511ZMyXhrPlJvQSYtBWDy3) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [Diablo](https://open.spotify.com/album/3r78Qu7OFZre4Otl5eVvz7) | 2:44 |
+| 49 | [El Día Que Tú Te Marches](https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai) | [El Día Que Tú Te Marches](https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC) | 3:28 |
 | 50 | [Veneno en la Piel](https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Veneno En La Piel](https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O) | 3:42 |
 | 51 | [La rueca](https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [28.000 puñaladas](https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR) | 3:54 |
 | 52 | [Ester Expósito](https://open.spotify.com/track/4GKjSwmowWO082NGn11wNj) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW) | [Ester Expósito](https://open.spotify.com/album/0iVOSSLoiNqlqnaMAqe4Co) | 3:33 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 68 | [Lo difícil](https://open.spotify.com/track/78Tr4OatbnIyx9cwGp5vp1) | [Arco](https://open.spotify.com/artist/3HdW1zs4IHQSFa3gebmlGY) | [Uno](https://open.spotify.com/album/2Qjd3FONI5uY8A8BW5XcDl) | 3:08 |
 | 69 | [Todo Tiene Su Fin](https://open.spotify.com/track/3a6PKtYVIowjsac9DAja3T) | [Medina Azahara](https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl) | [Sin Tiempo](https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn) | 4:56 |
 | 70 | [Brujería](https://open.spotify.com/track/24gWATPwYxTmiONnUPxWE6) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Brujería](https://open.spotify.com/album/604LGUysYpwc6RakYXcwj0) | 2:53 |
-| 71 | [Del Tiempo Perdido](https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Destrozares, Canciones para el Final de los Tiempos](https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS) | 7:09 |
-| 72 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
+| 71 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
+| 72 | [Del Tiempo Perdido](https://open.spotify.com/track/6SJHY69ciIGbp8JspeEbki) | [Robe](https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK) | [Destrozares, Canciones para el Final de los Tiempos](https://open.spotify.com/album/0XAsAUaEDTl6wlOAMhqfDS) | 7:09 |
 | 73 | [Palabras Para Julia](https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE) | [Los Suaves](https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL) | [Vispera De Todos Los Santos](https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY) | 4:54 |
 | 74 | [El imperio contraataca](https://open.spotify.com/track/0EzVGEyUB9HAXT1cQHwhqf) | [LOS NIKIS](https://open.spotify.com/artist/6arRVLZ3vn5AXkuvp9JxbS) | [Marines A Pleno Sol](https://open.spotify.com/album/2Gl1kSSy7uO04VggpET539) | 3:12 |
 | 75 | [Devuélveme a mi chica](https://open.spotify.com/track/6aPj6iq1cYfvTbvyYLyQGv) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [Devuélveme a mi chica](https://open.spotify.com/album/3xNMZpxORpL6Hn1V7YNDKT) | 3:13 |

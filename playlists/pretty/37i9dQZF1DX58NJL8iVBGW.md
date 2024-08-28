@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,385 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,515 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 35 | [Chairkickers](https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:18 |
 | 36 | [Nothing But The Water \(I\)](https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U) | [Grace Potter & The Nocturnals](https://open.spotify.com/artist/23OknxGcY1i5xX1TRPilMj) | [Nothing But The Water](https://open.spotify.com/album/30b3ZKCE7CxRNumi4XojDD) | 2:44 |
 | 37 | [Thin Line](https://open.spotify.com/track/1jgr7hrjegI0n8fEcY06vy) | [honeyhoney](https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM) | [Billy Jack](https://open.spotify.com/album/30WtXdVFAmiTnuVn5WheWf) | 4:45 |
-| 38 | [Lost Boys](https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W) | [Paper Bird](https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn) | [When the River Took Flight](https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB) | 3:06 |
-| 39 | [The Beast](https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [The Dark](https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v) | 3:00 |
+| 38 | [The Beast](https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [The Dark](https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v) | 3:00 |
+| 39 | [Lost Boys](https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W) | [Paper Bird](https://open.spotify.com/artist/3KPP9ZbN4Yu5mEQj2UWRqn) | [When the River Took Flight](https://open.spotify.com/album/7fqJfRir9VjcMbwEwt32vB) | 3:06 |
 | 40 | [Shake off Your Flesh](https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI) | [The Huntress and Holder of Hands](https://open.spotify.com/artist/4xRbSPkcf7k6csMSV6vwAX) | [Avalon](https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg) | 5:31 |
 | 41 | [Another Manʼs Grave](https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Another Manʼs Grave](https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E) | 3:08 |
 | 42 | [Down by the River](https://open.spotify.com/track/1JDDXUhFhwqu6mjZzQH6Yn) | [The Dirty River Boys](https://open.spotify.com/artist/5G3roNfDuGmWf5cL3L3z2b) | [The Dirty River Boys](https://open.spotify.com/album/4GOCBKcBGGzQSnGW8fwdY5) | 3:34 |

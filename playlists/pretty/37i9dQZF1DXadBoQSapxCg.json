@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 312695,
+  "num_followers": 312701,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2024-07-12 23:58:49",
       "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
-    },
-    {
-      "added_at": "2024-07-12 23:58:49",
-      "album": {
         "name": "Grupo bom",
         "url": "https://open.spotify.com/album/18d9vGhP809nhvWbrTLOeD"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 180669,
       "name": "Grupo bom",
       "url": "https://open.spotify.com/track/7jlGVKeRzOz7fGk6pSiPlb"
+    },
+    {
+      "added_at": "2024-07-12 23:58:49",
+      "album": {
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
     },
     {
       "added_at": "2024-07-12 23:58:49",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-12 23:58:49",
       "album": {
-        "name": "VEM",
-        "url": "https://open.spotify.com/album/5oWDd8ox89yqzqTHTD2NN3"
-      },
-      "artists": [
-        {
-          "name": "Davi Bandeira",
-          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "VEM",
-      "url": "https://open.spotify.com/track/3oQwrk9FszQAZRLJKReF5G"
-    },
-    {
-      "added_at": "2024-07-12 23:58:49",
-      "album": {
         "name": "VemK",
         "url": "https://open.spotify.com/album/60XOOFfjxGj3k09wS5rF3N"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 185099,
       "name": "Meia Noite",
       "url": "https://open.spotify.com/track/2ZkY7Gt9jWppQRrhDsWmf8"
+    },
+    {
+      "added_at": "2024-07-12 23:58:49",
+      "album": {
+        "name": "VEM",
+        "url": "https://open.spotify.com/album/5oWDd8ox89yqzqTHTD2NN3"
+      },
+      "artists": [
+        {
+          "name": "Davi Bandeira",
+          "url": "https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "VEM",
+      "url": "https://open.spotify.com/track/3oQwrk9FszQAZRLJKReF5G"
     },
     {
       "added_at": "2024-07-12 23:58:49",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-12 23:58:49",
       "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ"
-      },
-      "artists": [
-        {
-          "name": "Bruna Griphao",
-          "url": "https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo"
-        }
-      ],
-      "duration_ms": 140596,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl"
-    },
-    {
-      "added_at": "2024-07-12 23:58:49",
-      "album": {
         "name": "12 Horas",
         "url": "https://open.spotify.com/album/5VgIC6o6AQjqxIeLgkEod5"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 157056,
       "name": "12 Horas",
       "url": "https://open.spotify.com/track/0sL06GkUHIOiSpzPnOPHFy"
+    },
+    {
+      "added_at": "2024-07-12 23:58:49",
+      "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/3Bv66xBV6gxCjKFGl32aOJ"
+      },
+      "artists": [
+        {
+          "name": "Bruna Griphao",
+          "url": "https://open.spotify.com/artist/3zBh63FeLXKl7X4M7Axqjo"
+        }
+      ],
+      "duration_ms": 140596,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4Diwn4chKkEFT1c7XifxSl"
     },
     {
       "added_at": "2024-07-12 23:58:49",

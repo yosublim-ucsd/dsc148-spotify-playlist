@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 109895,
+  "num_followers": 109892,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-23 15:53:58",
       "album": {
-        "name": "Asereje (Airplane Mode)",
-        "url": "https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf"
-      },
-      "artists": [
-        {
-          "name": "BLANKA",
-          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
-        }
-      ],
-      "duration_ms": 159537,
-      "name": "Asereje (Airplane Mode)",
-      "url": "https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa"
-    },
-    {
-      "added_at": "2024-08-23 15:53:58",
-      "album": {
         "name": "Sour",
         "url": "https://open.spotify.com/album/0lRYoRu4ju9sHMvBFK7D8c"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 183586,
       "name": "Beautiful Reason",
       "url": "https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX"
+    },
+    {
+      "added_at": "2024-08-23 15:53:58",
+      "album": {
+        "name": "Asereje (Airplane Mode)",
+        "url": "https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf"
+      },
+      "artists": [
+        {
+          "name": "BLANKA",
+          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
+        }
+      ],
+      "duration_ms": 159537,
+      "name": "Asereje (Airplane Mode)",
+      "url": "https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa"
     },
     {
       "added_at": "2024-08-23 15:53:58",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,085 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,091 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 32 | [Winter Wonderland](https://open.spotify.com/track/5rIyyxoU1LzraNmFu5FpdR) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Merry Christmas](https://open.spotify.com/album/1KEjtvYamAHainJr186Hhz) | 2:39 |
 | 33 | [Rockin’ Around The Christmas Tree](https://open.spotify.com/track/1hecBi6qXM8bjTPnJjr205) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Brett Young & Friends Sing The Christmas Classics](https://open.spotify.com/album/0qWmDshW80OTUuipP3Wvla) | 2:12 |
 | 34 | [Please Come Home for Christmas](https://open.spotify.com/track/2ktUQEb33l3zNzHQxkg6TN) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Please Come Home for Christmas](https://open.spotify.com/album/1SpOC91nQ7fG5gXJIY9RoI) | 2:58 |
-| 35 | [Favorite Time Of Year](https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift \(Special Edition\)](https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr) | 3:17 |
+| 35 | [Favorite Time Of Year](https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Gift \- Special Edition](https://open.spotify.com/album/7m0f2Km7Zlc7quAIvCYPMr) | 3:17 |
 | 36 | [What Christmas Means to Me](https://open.spotify.com/track/2WBfmxOXnDxcm7sZOE5dSE) | [Adam Hambrick](https://open.spotify.com/artist/5KGZH5Opah1A66dZ2TuWAX) | [What Christmas Means to Me](https://open.spotify.com/album/1wqKDHvJ8JkfRcCETLPw4c) | 2:36 |
 | 37 | [Sleigh Ride](https://open.spotify.com/track/1Q4rFC7FrwJCsFDjmrP0Ti) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow \(Deluxe Edition\)](https://open.spotify.com/album/1MRT2V3JLYB6fL2TLJy2Rd) | 3:02 |
 | 38 | [O Holy Night](https://open.spotify.com/track/35L5f32OEgIu5yLVfJHFtJ) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [O Holy Night](https://open.spotify.com/album/007MiUATIZAETzwP71vjxQ) | 5:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,219 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,271 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 13 | [Born Under A Bad Sign](https://open.spotify.com/track/2dkdv8XcCNZZiHUIB1nxB0) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 4:56 |
 | 14 | [Man Stealer Blues](https://open.spotify.com/track/6Ad9JbwY1HGjbNhVYddNbk) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 3:02 |
 | 15 | [Muleskinner Blues](https://open.spotify.com/track/27Be6a8BHTjUS736RAnGgP) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Sings Ballads & Blues](https://open.spotify.com/album/4bA8oUUo9xbCzmBOsU8YwK) | 2:51 |
-| 16 | [I Want To Know](https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb) | [Sugar Pie DeSanto](https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc) | [In The Basement: The Chess Recordings](https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy) | 3:00 |
-| 17 | [If You See My Rooster \(Please Run Him Home\)](https://open.spotify.com/track/7eNHeLu7yJB5HN9Srvrocv) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Hoodoo Lady \(1933\-1937\)](https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn) | 3:15 |
+| 16 | [If You See My Rooster \(Please Run Him Home\)](https://open.spotify.com/track/7eNHeLu7yJB5HN9Srvrocv) | [Memphis Minnie](https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC) | [Hoodoo Lady \(1933\-1937\)](https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn) | 3:15 |
+| 17 | [I Want To Know](https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb) | [Sugar Pie DeSanto](https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc) | [In The Basement: The Chess Recordings](https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy) | 3:00 |
 | 18 | [Shout Sister Shout](https://open.spotify.com/track/5xG8vGHFyx87f7nj2CiyFd) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Lucky Millinder & His Orchestra](https://open.spotify.com/artist/4N5y4tbCKW3bCMEVofkVZR) | [Complete Sister Rosetta Tharpe, Vol\. 1: 1938\-1943](https://open.spotify.com/album/43nR6hI6wRPRFMyMBuV3fq) | 2:44 |
 | 19 | [Summertime](https://open.spotify.com/track/5HH7KwGKmtfpnkdgdRiapw) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:53 |
 | 20 | [My Daddy Rocks Me](https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Trixie Smith Vol\. 2 1925\-1929](https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI) | 2:54 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 29 | [Early One Mornin’ Blues \- Live](https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Early One Mornin’ Blues \(Live\)](https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz) | 4:14 |
 | 30 | [It's Tight Like That](https://open.spotify.com/track/5qBpfZS59XfbTnLtFDl3t4) | [Clara Smith](https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH) | [I Ain't a Gamblin' Woman, I Got Such\-A Rowdy Ways](https://open.spotify.com/album/4kXm3wdVpJoxedVAknvV6D) | 3:15 |
 | 31 | [Doctor Blues](https://open.spotify.com/track/2kPvNhSNpdw8wyMd3KM1qE) | [Alberta Adams](https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw) | [Detroit Is My Home](https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk) | 4:28 |
-| 32 | [Rock the Bop](https://open.spotify.com/track/3EhF0bDSHc4pwyjLEnHpBq) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Hot Boppin Girls Vol\. 1](https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx) | 2:10 |
-| 33 | [Billie's Blues \- Take 1](https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:37 |
+| 32 | [Billie's Blues \- Take 1](https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:37 |
+| 33 | [Rock the Bop](https://open.spotify.com/track/3EhF0bDSHc4pwyjLEnHpBq) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Hot Boppin Girls Vol\. 1](https://open.spotify.com/album/6xeAubcR03QNp2ix1iEcfx) | 2:10 |
 | 34 | [Keep A Song In Your Soul](https://open.spotify.com/track/0cS0A1fUEUd1EW3FcF8AEI) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Crazy Blues: The Best Of Mamie Smith](https://open.spotify.com/album/6os2Mv58OYnQClPf7B9E1s) | 2:48 |
 | 35 | [B.D\. Woman's Blues](https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 2:57 |
 | 36 | [A Little Bird Told Me](https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j) | [Blue Lu Barker](https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ) | [Capitol Records From The Vaults: "Vine Street Divas"](https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw) | 2:14 |

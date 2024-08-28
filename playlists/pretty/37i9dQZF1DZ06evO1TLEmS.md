@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,328 likes - 48 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,325 likes - 48 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 21 | [Trouble Found Me](https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:14 |
 | 22 | [Broken Harvest](https://open.spotify.com/track/4RgMyZb1frf45zF2BSjMD4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Broken Harvest](https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme) | 4:47 |
 | 23 | [Life According To Raechel \- Spotify Single](https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:35 |
-| 24 | [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 |
+| 24 | [In From Japan](https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 4:22 |
 | 25 | [L.A\. \(Looking Alive\)](https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:48 |
 | 26 | [Modern Man \(feat\. Madison Cunningham\)](https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Modern Man](https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2) | 3:04 |
 | 27 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 |
-| 28 | [In From Japan](https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 4:22 |
+| 28 | [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 |
 | 29 | [Something To Believe In](https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:57 |
 | 30 | [Forever Young](https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Ups & Downs](https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD) | 3:22 |
 | 31 | [Braver \(feat\. Madison Cunningham\)](https://open.spotify.com/track/5v7u7TkiuIhS9iD7zS3B96) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [WELL WELL](https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc) | 2:30 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1TLEmS.md) - [plain]
 | 47 | [To Another Land](https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 3:21 |
 | 48 | [Louisiana 1927 \(feat\. Madison Cunningham\)](https://open.spotify.com/track/08v0Un342hJHIgtsLcBbER) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Live To Tape: Volume II](https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU) | 3:15 |
 
-Snapshot ID: `Zsp0AAAAAAC1LfVYvoY/C/SYMrOwfDCV`
+Snapshot ID: `ZsvFgAAAAACArSATif7A0ZeObF3dWY4Z`

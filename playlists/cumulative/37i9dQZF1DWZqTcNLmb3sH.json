@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 188634,
       "name": "Alla Subhanalla (From \"Kaagada\")",
       "url": "https://open.spotify.com/track/1rRzMRutqcgIU9sVog1Gkz"
@@ -9384,7 +9384,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 252342,
       "name": "Garam Garam (From \"Surya's Saturday (Kannada)\")",
       "url": "https://open.spotify.com/track/1Amjs9p6U29wu2pvtiRgHh"
@@ -13886,6 +13886,28 @@
       "duration_ms": 236307,
       "name": "Kaledu Hogiruve - From \"Richie\"",
       "url": "https://open.spotify.com/track/61nkw7C3ZWfFgoU7KN5jUP"
+    },
+    {
+      "album": {
+        "name": "Kali Agiru (From \"Kapati\")",
+        "url": "https://open.spotify.com/album/5EC3dhWKujG0yg7ViCcELY"
+      },
+      "artists": [
+        {
+          "name": "Arpith Gowda",
+          "url": "https://open.spotify.com/artist/1nawgXH7klbP2VoUR3Ybae"
+        },
+        {
+          "name": "Johan Shevanesh",
+          "url": "https://open.spotify.com/artist/6o8E6PZY8PvJP3zu0XkAIF"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192719,
+      "name": "Kali Agiru (From \"Kapati\")",
+      "url": "https://open.spotify.com/track/2yt6XmbILJTQBAs6u8re1l"
     },
     {
       "album": {
@@ -25832,6 +25854,28 @@
       "duration_ms": 279512,
       "name": "Rushivanadalondu (From \"Shaakuntalam\") [Kannada]",
       "url": "https://open.spotify.com/track/1bkcJX5rrPFixIJtvemhWb"
+    },
+    {
+      "album": {
+        "name": "Sa Ri Ma Pa - From \"Surya's Saturday (Kannada)\"",
+        "url": "https://open.spotify.com/album/0htszhQOnH430Y49p4i9uR"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "P V N S Rohit",
+          "url": "https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278851,
+      "name": "Sa Ri Ma Pa (From \"Surya's Saturday (Kannada)\")",
+      "url": "https://open.spotify.com/track/6cerKLtZSXTIyW7tfbAjCP"
     },
     {
       "album": {

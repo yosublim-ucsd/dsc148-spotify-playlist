@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 
 > The biggest songs in Latin America in 2014\. Cover: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,048 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,103 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 8 | [Fanatica Sensual](https://open.spotify.com/track/1DrDfpOx4P4LMxFhtOmeyD) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love and Sex](https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8) | 4:00 |
 | 9 | [Cancioncitas de Amor](https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:57 |
 | 10 | [Bailando \- Spanish Version](https://open.spotify.com/track/5M830cD7MNeiiwIGHzH9TV) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [SEX AND LOVE \- Deluxe Edition](https://open.spotify.com/album/3egRoultzC0Q1RtbDjFXLP) | 4:03 |
-| 11 | [Perdón, Perdón \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:46 |
-| 12 | [La promesa](https://open.spotify.com/track/2GJyBJWPmnM7pK961cB6iV) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Un alumno más](https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo) | 3:53 |
+| 11 | [La promesa](https://open.spotify.com/track/2GJyBJWPmnM7pK961cB6iV) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Un alumno más](https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo) | 3:53 |
+| 12 | [Perdón, Perdón \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:46 |
 | 13 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 |
 | 14 | [Odio \(feat\. Drake\)](https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:45 |
 | 15 | [Humanos a Marte](https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [En Todo Estaré \(Deluxe Edition\)](https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2) | 3:45 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fj7irQDPtH.md) - [plain]
 | 34 | [Hilito](https://open.spotify.com/track/6CKlQHQIxhWtq7MnEJ6QCz) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:54 |
 | 35 | [Lejos de Aquí](https://open.spotify.com/track/7fzErW0dRVRaTWjNLPFwUn) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Farruko Presents Los Menores](https://open.spotify.com/album/4ic94lYuJ37YBXfgsMDUWf) | 3:41 |
 | 36 | [Pierdo la Cabeza](https://open.spotify.com/track/53LxOQIcSZe71SF9IS0Z7b) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Pierdo la Cabeza](https://open.spotify.com/album/112XtnaLZmod0pVVaYJWwG) | 3:42 |
-| 37 | [Quédate Con Ella](https://open.spotify.com/track/0BTBoi7AeMBrMP6cwOLNR0) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Creo en Mi](https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1) | 3:49 |
-| 38 | [Una Noche Más](https://open.spotify.com/track/4HLGAcqh05iAqsCCs8ayrq) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [The Beginning](https://open.spotify.com/album/1sBA4WniS6cBvvSDAsCgrV) | 3:36 |
+| 37 | [Una Noche Más](https://open.spotify.com/track/4HLGAcqh05iAqsCCs8ayrq) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [The Beginning](https://open.spotify.com/album/1sBA4WniS6cBvvSDAsCgrV) | 3:36 |
+| 38 | [Quédate Con Ella](https://open.spotify.com/track/0BTBoi7AeMBrMP6cwOLNR0) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Creo en Mi](https://open.spotify.com/album/1xNMuh0Swat8gcuKh09rs1) | 3:49 |
 | 39 | [Recuérdame](https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 4:47 |
 | 40 | [Loco](https://open.spotify.com/track/1kRBzwYo4IHhSUJkJbdvfH) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [El Vuelo del Pez](https://open.spotify.com/album/0SqnwTypGiqyepYqmtXjPD) | 3:31 |
 | 41 | [El Aguante](https://open.spotify.com/track/7AIVTgrRcdUW8QBsqNQ33z) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [MultiViral](https://open.spotify.com/album/1gDqOyL8NmU2LQPtFutRng) | 4:48 |

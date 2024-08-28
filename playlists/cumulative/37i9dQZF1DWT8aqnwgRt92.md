@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,508 songs - 3 day 22 hr 16 min
+1,510 songs - 3 day 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,7 +430,7 @@
 | [LEveL](https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [LEveL](https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL) | 3:00 | 2024-01-06 | 2024-04-27 |
 | [LIBRA](https://open.spotify.com/track/01SpaDXSl7LUiXLCml51tB) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [LIBRA](https://open.spotify.com/album/6mF9tspSuLa7FKsMQnHwmp) | 3:37 | 2024-05-14 | 2024-06-13 |
 | [LIES GOES ON \- TVsize](https://open.spotify.com/track/5UB5NtHsXFA4DK7gqOsIra) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [LIES GOES ON \(TVsize\)](https://open.spotify.com/album/3hwjiYR55oCUeQZRmw0OG7) | 1:29 | 2023-07-11 | 2023-10-04 |
-| [Light song](https://open.spotify.com/track/4KXZ4MJKT0RYGhijfQ08Jw) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [urara](https://open.spotify.com/artist/2IcHTv2r6NWEc3eq5DEjhs) | [劇場アニメ ルックバック オリジナルサウンドトラック](https://open.spotify.com/album/3fPBJ0HC62DBciQuUYoXAz) | 4:09 | 2024-06-28 |  |
+| [Light song](https://open.spotify.com/track/4KXZ4MJKT0RYGhijfQ08Jw) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [urara](https://open.spotify.com/artist/2IcHTv2r6NWEc3eq5DEjhs) | [劇場アニメ ルックバック オリジナルサウンドトラック](https://open.spotify.com/album/3fPBJ0HC62DBciQuUYoXAz) | 4:09 | 2024-06-28 | 2024-08-28 |
 | [Lilac Melody](https://open.spotify.com/track/527mtmddRtbAguiGUhOgrh) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Lilac Melody](https://open.spotify.com/album/1q1pLsLvofX0HDjn21HWbm) | 4:23 | 2023-10-10 | 2023-10-18 |
 | [Limitless](https://open.spotify.com/track/3nOhOCmYzbMtLENk6nlCfk) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Limitless](https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT) | 3:24 | 2023-03-21 | 2023-04-12 |
 | [Line of sight](https://open.spotify.com/track/2jTB1mOZvop7h4YddpJndw) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/0jhtODRQmtW7lvT9Ika34U) | 3:33 | 2023-03-14 | 2023-05-31 |
@@ -439,6 +439,7 @@
 | [LOOP](https://open.spotify.com/track/5opqsO15RfIvQKcZ92rMGm) | [NACHERRY](https://open.spotify.com/artist/2eTqjdLK1BCOgC7aYJgq6Y) | [LOOP](https://open.spotify.com/album/74vQ7YtYms8JNfeLPJDjxW) | 3:32 | 2024-07-09 | 2024-07-31 |
 | [Loud Hailer](https://open.spotify.com/track/11GJvyy9G8hz6AyeCbmS2o) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Loud Hailer](https://open.spotify.com/album/3wXyNa8fg2M7El6ZO59hhM) | 3:48 | 2023-01-26 | 2023-03-08 |
 | [Loud Hailer](https://open.spotify.com/track/7AhQukb7kW2rbAKPKBc7tC) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Loud Hailer](https://open.spotify.com/album/4JFBN5yf2FzlVqXs076oC6) | 3:48 | 2023-01-05 | 2023-01-28 |
+| [LOVE & JUSTICE](https://open.spotify.com/track/5g8RurzBblZMTsM69wnyCv) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o), [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [LOVE & JUSTICE/超人](https://open.spotify.com/album/4ebTHusKua4S15NXgAVbFX) | 4:27 | 2024-08-27 |  |
 | [Love Birds](https://open.spotify.com/track/2TDtrTlftOMY2GlU8aMtMb) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ), [琴音](https://open.spotify.com/artist/0vmDmyY6q6ALXjlONSf7kO) | [\[Kin no Kuni Mizu no Kuni\] Original Sound Track](https://open.spotify.com/album/5BWOI876SLfTD2yz4Nom0u) | 2:33 | 2023-01-24 | 2023-04-12 |
 | [Love Birds](https://open.spotify.com/track/2nORh3ReQzKn8Pg51JaaN5) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ), [琴音](https://open.spotify.com/artist/0vmDmyY6q6ALXjlONSf7kO) | [Love Birds](https://open.spotify.com/album/4aHwdSC9EOrqJ6OzW7fkbP) | 2:33 | 2023-01-24 | 2023-01-26 |
 | [LOVE CRAZY](https://open.spotify.com/track/4RjxJlyjU6cMrv4dJH5XtP) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [LOVE CRAZY](https://open.spotify.com/album/59K14Vh4mIaPjRHsCuP9B8) | 4:04 | 2023-01-05 | 2023-04-09 |
@@ -474,6 +475,7 @@
 | [Masquerade](https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Masquerade](https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG) | 3:57 | 2022-07-19 | 2022-09-21 |
 | [Masquerade Parade](https://open.spotify.com/track/5WXr7EX614ZvEPgsAIBScz) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Masquerade Parade](https://open.spotify.com/album/7v57E9Kbu6Di4AXnCBkqm5) | 3:54 | 2023-07-11 | 2023-08-02 |
 | [Mayonakano Love](https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Mayonakano Love](https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65) | 3:23 | 2022-09-20 | 2022-10-28 |
+| [Meant to be](https://open.spotify.com/track/7AY2Z88px0W0rSVj2bcaer) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [TOGENASHI](https://open.spotify.com/album/7I0nZ1uqE3Qydi7gyyd187) | 3:29 | 2024-08-27 |  |
 | [Megane\-Go\-Round](https://open.spotify.com/track/662l75p75lTA2Ah9Et4cMw) | [マサヨシがめがねを忘れた\(小村くんと三重さんとオーイシマサヨシ\)](https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS) | [The Girl I Like Forgot Her Glasses Ending Theme "Megane\-Go\-Round"](https://open.spotify.com/album/12wi1uiKFu9CTxVJ8axs6m) | 3:35 | 2023-08-01 | 2023-10-04 |
 | [Megane\-Go\-Round \(TV Size ver.\)](https://open.spotify.com/track/2ujULpZIqhy51LfAlScicJ) | [マサヨシがめがねを忘れた\(小村くんと三重さんとオーイシマサヨシ\)](https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS) | [Megane\-Go\-Round "TV Size ver."](https://open.spotify.com/album/1Li5RK1m4HTSlZffbbzk66) | 1:29 | 2023-07-11 | 2023-08-02 |
 | [Melissa \- From CrosSing](https://open.spotify.com/track/3cPP2NYhfUYLibpFqqQB8x) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Melissa \- From CrosSing](https://open.spotify.com/album/5nCxbhDwEp0YiHEDV6COPe) | 4:17 | 2023-03-14 | 2023-04-09 |
@@ -1145,7 +1147,7 @@
 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 | 2024-07-05 |  |
 | [ホワイトノイズ](https://open.spotify.com/track/2wgYCc1xORV5CI8psWTroo) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ホワイトノイズ](https://open.spotify.com/album/4BH5aTcmhoVUYOCCfdySmG) | 4:14 | 2023-01-10 | 2023-01-12 |
 | [ホントのじぶん \- from CrosSing](https://open.spotify.com/track/1Kol2WMwC98IYXKdtNW92c) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [ホントのじぶん \- from CrosSing](https://open.spotify.com/album/7KnCDZeUptrgniN9CUGzpu) | 4:03 | 2023-06-27 | 2023-06-29 |
-| [マイクロレボリューション](https://open.spotify.com/track/21DU0BAhKB8EDrpiKjZUni) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [マイクロレボリューション](https://open.spotify.com/album/1ERoZdUQh6aXrzAwnZNWpK) | 3:55 | 2024-07-05 |  |
+| [マイクロレボリューション](https://open.spotify.com/track/21DU0BAhKB8EDrpiKjZUni) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [マイクロレボリューション](https://open.spotify.com/album/1ERoZdUQh6aXrzAwnZNWpK) | 3:55 | 2024-07-05 | 2024-08-28 |
 | [マスカレードパレード](https://open.spotify.com/track/11yqHR8bPt3tiHNX3oYh9F) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [マスカレードパレード](https://open.spotify.com/album/50VAoWVqSXcE2vGpJaSlbW) | 3:54 | 2023-07-11 | 2023-07-13 |
 | [マロウブルー](https://open.spotify.com/track/0qyQE3IUfeD38NkY2g6A6j) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [マロウブルー](https://open.spotify.com/album/2XP6i6ExSxqUxhIGGg3puP) | 3:32 | 2022-05-28 | 2022-06-08 |
 | [ミックスナッツ](https://open.spotify.com/track/60ReNXcPcsVFd7nUuQw5HZ) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [ミックスナッツ](https://open.spotify.com/album/3O9SqecmKFv2ZafPKwahtz) | 3:33 | 2022-05-28 | 2022-07-13 |

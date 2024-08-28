@@ -4,14 +4,14 @@
 
 > Enjoy fantastic gameplay with k\-pop music! \(Cover: VALORANT\)
 
-228 songs - 11 hr 53 min
+229 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0X1=LOVESONG \(I Know I Love You\) feat\. Seori](https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:22 | 2022-11-24 |  |
 | [2 Baddies](https://open.spotify.com/track/1WKLxJpDqkQ9x1qEDNutoX) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:50 | 2022-11-24 | 2023-03-22 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-10-22 |  |
-| [3D \(Justin Timberlake Remix\)](https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA) | 2:40 | 2024-01-31 |  |
+| [3D \(Justin Timberlake Remix\)](https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA) | 2:40 | 2024-01-31 | 2024-08-28 |
 | [\_WORLD](https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album Repackage 'SECTOR 17'](https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750) | 2:58 | 2022-11-24 |  |
 | [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-14 |  |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-11-24 |  |
@@ -229,6 +229,7 @@
 | [VISION](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Follow us\]](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) | 3:09 | 2022-11-24 | 2022-12-03 |
 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 | 2022-11-24 | 2023-08-26 |
 | [Way Back Home](https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Take](https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO) | 3:34 | 2022-11-24 |  |
+| [We Go Up](https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [We Go Up](https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj) | 3:03 | 2024-07-25 |  |
 | [What is Love](https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Summer Nights](https://open.spotify.com/album/2GKTroaa4ysyhEdvzpvUoM) | 3:28 | 2022-11-24 | 2024-04-19 |
 | [Who](https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 2:50 | 2024-07-25 |  |
 | [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 | 2024-01-31 | 2024-07-27 |

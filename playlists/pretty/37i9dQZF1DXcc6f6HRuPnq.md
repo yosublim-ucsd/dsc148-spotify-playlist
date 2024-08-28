@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,525 likes - 80 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,580 likes - 80 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 10 | [Lenny](https://open.spotify.com/track/1MIDCw2NTW3Dtn9c6ohSC8) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:57 |
 | 11 | [Love That Burns](https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Blues For Greeny](https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU) | 6:29 |
 | 12 | [Blues Prisoner](https://open.spotify.com/track/45i73H5FvrR0jbwvG8mVSS) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Tommy Castro Presents A Bluesman Came To Town](https://open.spotify.com/album/5GDDpef4syUsjIiZ03Byj8) | 5:16 |
-| 13 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
-| 14 | [Rememberin' Stevie](https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 6:58 |
+| 13 | [Rememberin' Stevie](https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 6:58 |
+| 14 | [How Long Blues](https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 5:17 |
 | 15 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 |
 | 16 | [You're Still My Woman](https://open.spotify.com/track/3DbVBS8JojEGfuLOZRGgWX) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 6:04 |
 | 17 | [She Puts Me In The Mood](https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Big Fun](https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV) | 3:34 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 34 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
 | 35 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
 | 36 | [That Evening Train \- Remastered 2022](https://open.spotify.com/track/59gxXjmfLDjSgNuauNmIVl) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 3:06 |
-| 37 | [Gee Baby Ain't I Good To You](https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Gee Baby Ain't I Good To You](https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk) | 3:51 |
+| 37 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
 | 38 | [Night Shift Blues](https://open.spotify.com/track/037n7AwN2sVP4EFtpY6eMo) | [Kai Strauss](https://open.spotify.com/artist/4rxJh3ATE3suDdQXBziz2E) | [Night Shift](https://open.spotify.com/album/0Z6lLiESF2XyG5EBJbI3OE) | 7:31 |
-| 39 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
+| 39 | [Gee Baby Ain't I Good To You](https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Gee Baby Ain't I Good To You](https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk) | 3:51 |
 | 40 | [Blues for Lonnie Johnson](https://open.spotify.com/track/7g1PbjHp6Ezwqt9ygfqR3J) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Pure](https://open.spotify.com/album/4L3dfISPZOJx5O24Y6Qxr1) | 4:53 |
 | 41 | [Lights Are On, But Nobody's Home](https://open.spotify.com/track/3TeB242C2SSbghipVFGWzH) | [Matt Schofield](https://open.spotify.com/artist/2X84rq2QtQimpEoY6Ms7JE) | [Siftin' Thru Ashes](https://open.spotify.com/album/1EEuv8ktFyYOAvg4KdMWF3) | 6:36 |
 | 42 | [Bad Spell \- Acoustic](https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell \(Acoustic\)](https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX) | 3:14 |

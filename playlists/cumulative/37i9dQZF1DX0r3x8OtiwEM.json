@@ -420,6 +420,10 @@
         {
           "name": "VXSION",
           "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        },
+        {
+          "name": "Dawn Patrol",
+          "url": "https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe"
         }
       ],
       "date_added": "2024-07-19",
@@ -3206,6 +3210,28 @@
       "duration_ms": 134400,
       "name": "Echo",
       "url": "https://open.spotify.com/track/32fmwlkq7srmOAb5N0vdyj"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0CxOcrXyfElV904Ytq8yCj"
+      },
+      "artists": [
+        {
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        },
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295283,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/064zQysCLTlbcdrngwbI6i"
     },
     {
       "album": {
@@ -9112,7 +9138,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 258536,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"

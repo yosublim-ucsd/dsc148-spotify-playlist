@@ -4,7 +4,7 @@
 
 > ¡Nuestros amados 90 los recordamos así! Café Tacvba en portada.
 
-130 songs - 9 hr 4 min
+131 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Comprendes, Mendes?](https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:35 | 2021-09-07 | 2024-04-19 |
 | [Con los Ojos Cerrados](https://open.spotify.com/track/6DIt34Pm9LXZUfs4ap67fJ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Me Siento Tan Sola](https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR) | 3:30 | 2021-09-07 |  |
 | [Corazón partío](https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Más](https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI) | 5:43 | 2021-09-07 |  |
-| [Cuéntame al Oido](https://open.spotify.com/track/75QcWSFMIh8wkbGHdVQoju) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Dile al Sol](https://open.spotify.com/album/3V1AlvZVdeN9TrWEMSAjlF) | 3:11 | 2021-09-07 |  |
+| [Cuéntame al Oido](https://open.spotify.com/track/75QcWSFMIh8wkbGHdVQoju) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Dile al Sol](https://open.spotify.com/album/3V1AlvZVdeN9TrWEMSAjlF) | 3:11 | 2021-09-07 | 2024-08-28 |
 | [De Música Ligera \- Remasterizado 2007](https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:32 | 2021-09-07 |  |
 | [Dejaría Todo](https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Atado a Tu Amor](https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i) | 4:44 | 2021-09-07 |  |
 | [Depende](https://open.spotify.com/track/6aaPUBUFw9KEW1p1inVQv9) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:25 | 2021-09-07 |  |
@@ -122,6 +122,7 @@
 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 | 2021-09-07 |  |
 | [Si Tú Te Vas](https://open.spotify.com/track/7A1V7IEbwn2nuFGreV8DNv) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/18FB0rct42g5hNr14l70GK) | 4:04 | 2021-09-07 | 2024-04-19 |
 | [Siempre a Mí](https://open.spotify.com/track/0VAy57PsKHpPev6wgDI06V) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:12 | 2021-09-07 | 2023-12-25 |
+| [Solo Se Vive una Vez](https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Monica Naranjo](https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz) | 4:13 | 2021-09-07 |  |
 | [Son de Amores](https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44) | [Andy & Lucas](https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L) | [Andy Y Lucas](https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm) | 3:51 | 2021-09-07 |  |
 | [Suave](https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:49 | 2021-09-07 |  |
 | [TBC](https://open.spotify.com/track/6HJpRs15t69hbKxIhlWwgC) | [Ragazzi](https://open.spotify.com/artist/1GtZbseNStljOLGycLUbpA) | [La Más Completa Colección](https://open.spotify.com/album/6r62ZeOqHlT866I41gDQbA) | 4:01 | 2021-09-07 | 2024-04-20 |

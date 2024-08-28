@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,248 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,263 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 10 | [Tipo Cursi](https://open.spotify.com/track/2SAB7seKQm5GmOT0WU959i) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Todos a Bordo](https://open.spotify.com/album/7vS1i82hTHwZNMyjLB0hVa) | 3:05 |
 | 11 | [te quiero tanto](https://open.spotify.com/track/04aBuWoZeHYJeDDTWYSgso) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:25 |
 | 12 | [Viejitos](https://open.spotify.com/track/2Zcpghuzu8wX8C9KVbnkun) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Viejitos](https://open.spotify.com/album/7DZ4iMQMjZ1aQORiKD56Xv) | 3:45 |
-| 13 | [Call Me](https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [1 OF 1](https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I) | 2:50 |
+| 13 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 |
 | 14 | [Videocall \(feat\. Billy Miamor\)](https://open.spotify.com/track/7vXGund4Dd89TqBEpW15r1) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Billy Miamor](https://open.spotify.com/artist/7czHRVSxOdTR4PERcUcHPL) | [Videocall \(feat\. Billy Miamor\)](https://open.spotify.com/album/3tfkLTxrBSXNkI2ICrDA1I) | 2:48 |
-| 15 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 |
+| 15 | [Call Me](https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [1 OF 1](https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I) | 2:50 |
 | 16 | [TRAUMADOS](https://open.spotify.com/track/5HiqWYk05KTv8bRxTjXtNV) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E), [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [TRAUMADOS](https://open.spotify.com/album/0r8YRk6T4vdpRE8StwonTV) | 3:35 |
 | 17 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 |
 | 18 | [Hasta Morir](https://open.spotify.com/track/7CK7oTOmccQz7VJZ4Ajcqv) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Secretos](https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD) | 2:48 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 20 | [Junto A Mi \(Acústico\)](https://open.spotify.com/track/4ikv5erAaVObaPRd6zDrIt) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Junto A Mi](https://open.spotify.com/album/4hehFutvL9k78A5CgckCur) | 3:23 |
 | 21 | [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 |
 | 22 | [Mi Casita](https://open.spotify.com/track/7DwZmTFwaW6IExAyeGDKQ3) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Mi Casita](https://open.spotify.com/album/6OlLFigu7as8Cee3dKyfpz) | 2:39 |
-| 23 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
-| 24 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
+| 23 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
+| 24 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
 | 25 | [FLORES](https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [FLORES](https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw) | 2:40 |
 | 26 | [Continental](https://open.spotify.com/track/4ZawkW77BlnpIRMfy2Ur0I) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Continental](https://open.spotify.com/album/7sruuQX41NKTVl5kAzp5ME) | 3:24 |
 | 27 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs) | 3:23 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 68 | [TQM](https://open.spotify.com/track/0fEnop5LLsiuKZXyl8ZU48) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Recuerdos de un amor](https://open.spotify.com/album/2lx1EgWOAJDBeX67kIArlP) | 3:30 |
 | 69 | [Alguien Como Tú](https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Alguien Como Tú](https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL) | 3:57 |
 | 70 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
-| 71 | [Quiero Verte Hoy](https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Quiero Verte Hoy](https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ) | 3:35 |
+| 71 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 |
 | 72 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
-| 73 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 |
+| 73 | [Quiero Verte Hoy](https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Quiero Verte Hoy](https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ) | 3:35 |
 | 74 | [Automático](https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [Automático](https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI) | 3:06 |
 | 75 | [Café Helado](https://open.spotify.com/track/2ccYWOxUJX6mA5Lxg6Sxk9) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Café Helado](https://open.spotify.com/album/4i3R4de1ZcFsCfjkW5LL9Q) | 3:12 |
 

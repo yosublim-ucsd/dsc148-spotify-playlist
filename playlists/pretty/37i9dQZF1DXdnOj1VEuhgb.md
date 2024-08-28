@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Batuflex x Ali471
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,380,313 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,380,593 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Deliyoo](https://open.spotify.com/track/34zeF2M1eQT6mSr8iRLHqa) | [Arda Gezer](https://open.spotify.com/artist/1fCfko2pBGowIzqjakqxF8), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA), [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Deliyoo](https://open.spotify.com/album/71XO36BFl6oSFi7prjhyL3) | 3:22 |
+| 1 | [I WANNA DANCE](https://open.spotify.com/track/2norl4Q0EjACN5kIshyP7k) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ) | [I WANNA DANCE](https://open.spotify.com/album/3wnbZnVv0zchJ5fGOVn21d) | 1:50 |
 | 2 | [OF OF OF](https://open.spotify.com/track/1RI3YE0BqwN2Fd6Ej0gTqW) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [OF OF OF](https://open.spotify.com/album/0WEq08VBCgEfPh3Hw6dlav) | 2:24 |
-| 3 | [I WANNA DANCE](https://open.spotify.com/track/2norl4Q0EjACN5kIshyP7k) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Ali471](https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ) | [I WANNA DANCE](https://open.spotify.com/album/3wnbZnVv0zchJ5fGOVn21d) | 1:50 |
-| 4 | [Kan Kaybı](https://open.spotify.com/track/1m5pdgxphP7rhrpHMTRJHe) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Kan Kaybı](https://open.spotify.com/album/1FXF7bIW1G6xeBtywQDZCh) | 3:19 |
-| 5 | [Yetmedi](https://open.spotify.com/track/5TxqI3DLEbMVJkyVgentxd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [Yetmedi](https://open.spotify.com/album/3V0ymncsPOu1uK4ufGV2zt) | 1:55 |
-| 6 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 |
-| 7 | [HAYIRLI CUMALAR](https://open.spotify.com/track/6QPgWBQwUuR6gStACo9LQS) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [HAYIRLI CUMALAR](https://open.spotify.com/album/2h5SUxoUB6SmzOVF5bFAHk) | 1:54 |
-| 8 | [CISTAK](https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [CISTAK](https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb) | 2:16 |
-| 9 | [Düğün Dernek](https://open.spotify.com/track/6dQJfND64RJy6xJQMsc3ij) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Düğün Dernek](https://open.spotify.com/album/6TFX8uJkgHnoZ37GNoFoEg) | 2:01 |
-| 10 | [Düşmez Kalkmaz](https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Düşmez Kalkmaz](https://open.spotify.com/album/5QQa2jAT5hnyjO4bxBYyer) | 2:35 |
+| 3 | [Yetmedi](https://open.spotify.com/track/5TxqI3DLEbMVJkyVgentxd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [Yetmedi](https://open.spotify.com/album/3V0ymncsPOu1uK4ufGV2zt) | 1:55 |
+| 4 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 |
+| 5 | [HAYIRLI CUMALAR](https://open.spotify.com/track/6QPgWBQwUuR6gStACo9LQS) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [HAYIRLI CUMALAR](https://open.spotify.com/album/2h5SUxoUB6SmzOVF5bFAHk) | 1:54 |
+| 6 | [Deliyoo](https://open.spotify.com/track/34zeF2M1eQT6mSr8iRLHqa) | [Arda Gezer](https://open.spotify.com/artist/1fCfko2pBGowIzqjakqxF8), [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA), [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Deliyoo](https://open.spotify.com/album/71XO36BFl6oSFi7prjhyL3) | 3:22 |
+| 7 | [CISTAK](https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [CISTAK](https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb) | 2:16 |
+| 8 | [Düğün Dernek](https://open.spotify.com/track/6dQJfND64RJy6xJQMsc3ij) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Düğün Dernek](https://open.spotify.com/album/6TFX8uJkgHnoZ37GNoFoEg) | 2:01 |
+| 9 | [Düşmez Kalkmaz](https://open.spotify.com/track/57w7FOfLpXZ9GWlAooYrSK) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT) | [Düşmez Kalkmaz](https://open.spotify.com/album/5QQa2jAT5hnyjO4bxBYyer) | 2:35 |
+| 10 | [Kan Kaybı](https://open.spotify.com/track/1m5pdgxphP7rhrpHMTRJHe) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Kan Kaybı](https://open.spotify.com/album/1FXF7bIW1G6xeBtywQDZCh) | 3:19 |
 | 11 | [ESC\*BAR](https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [ESC\*BAR](https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI) | 2:16 |
 | 12 | [Yıldızlar](https://open.spotify.com/track/4fz5kUfUIaJ1L2alP3sgY8) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Yıldızlar](https://open.spotify.com/album/6uHgiAGhiUZQsXfATbr6vC) | 2:58 |
 | 13 | [La La La](https://open.spotify.com/track/3blRKhNNedjdZFR0b9Wtxw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [La La La](https://open.spotify.com/album/3v5bQhGBimvJJrvmhb2mR8) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/track/2Id54XtcFLHSe0JNfHR45k) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [YAPTIRICAZ TIRNAKLARINI](https://open.spotify.com/album/2ZFXkkMjgyGVVWC7UaBZpk) | 2:21 |
 | 50 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 
-Snapshot ID: `Zsem0AAAAAAkV7aBHvQBp/lxRY/iYrgL`
+Snapshot ID: `Zs3d/wAAAABga73bTS3UmPvmubJtxQiZ`

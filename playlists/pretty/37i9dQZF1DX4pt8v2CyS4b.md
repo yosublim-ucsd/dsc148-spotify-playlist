@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 
 > Listen to music from and inspired by Queens, now streaming now on Disney+ and Hulu\. Photo Credit: Oscar Dewhurst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,034 likes - 66 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,037 likes - 66 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [National Geographic Theme \- Symphony of Our World Version](https://open.spotify.com/track/0rkCcqzA16kq7AaCM2fth4) | [Anže Rozman](https://open.spotify.com/artist/6e35AnLj77a8zEL36syCjn) | [National Geographic Theme](https://open.spotify.com/album/3INMMOrvQxw8nokGvSciPu) | 2:32 |
-| 2 | [Jericho](https://open.spotify.com/track/1Ewzyz01XudRxKi2m1htWG) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Genius: MLK/X \(Songs from the Original Series\)](https://open.spotify.com/album/3uojxT5JSSytA12Heyk6i0) | 2:34 |
+| 2 | [Jericho](https://open.spotify.com/track/1Ewzyz01XudRxKi2m1htWG) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Genius: MLK/X \- Songs from the Original Series](https://open.spotify.com/album/3uojxT5JSSytA12Heyk6i0) | 2:34 |
 | 3 | [Umi \- From "Queens"](https://open.spotify.com/track/6Qsh0kfqsNKbqlRtuCnpXs) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm) | [Umi \(From "Queens"\)](https://open.spotify.com/album/4ClRhS3OmyrXhah3oJIkdu) | 2:29 |
 | 4 | [Take Pictures \- From "National Geographic: Pictures of the Year"](https://open.spotify.com/track/2h5mYpCbGdtUxqFM9UEwzC) | [Ella Joy Meir](https://open.spotify.com/artist/5Hj1mPglZe5DoUmdGBwsnZ) | [Take Pictures \(From "National Geographic: Pictures of the Year"\)](https://open.spotify.com/album/171T2mabdPGk7mQNCjuL0u) | 1:00 |
 | 5 | [Flamingos: Finding the Perfect Lake](https://open.spotify.com/track/1ZgpuRulxbldoxlF9wRpNg) | [Jake Monaco](https://open.spotify.com/artist/0iJIcOGAPd2UFYRoJhx5FP) | [Incredible Animal Journeys \(Original Series Soundtrack\)](https://open.spotify.com/album/37196HVFnjbl6e9fsl0n5z) | 3:06 |

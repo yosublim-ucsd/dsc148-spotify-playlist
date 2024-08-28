@@ -1,759 +1,15 @@
 {
   "description": "<a href=\"spotify:artist:3UlAQex8nw3vquHcmY8fpb\">Sinego's</a> favorite tracks. Updated regularly. Curated by Sinego. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
-  "num_followers": 30828,
+  "num_followers": 30837,
   "original_name": "Sinego's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zo7XPwAAAAB5CrDI8E0z/Mzh8IjurYuo",
+  "snapshot_id": "Zs5B2gAAAAA3tHYidGaPa1/888ODhSIa",
   "tracks": [
     {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Desconocidos",
-        "url": "https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Argia",
-          "url": "https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4"
-        }
-      ],
-      "duration_ms": 322501,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Wild Thought (St. Lucia Remix)",
-        "url": "https://open.spotify.com/album/33IDpQT5c1sg6fOwS70ZjA"
-      },
-      "artists": [
-        {
-          "name": "Dark Bardo",
-          "url": "https://open.spotify.com/artist/1oOypiwxVDJP85TZrdwpYn"
-        },
-        {
-          "name": "Shungudzo",
-          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
-        },
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Wild Thought - St. Lucia Remix",
-      "url": "https://open.spotify.com/track/4AuGifOLdUxAzJFsE93TEp"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "De Anda (Bonus Track)",
-        "url": "https://open.spotify.com/album/3ib0JUHDDEyfrdD2tUygfL"
-      },
-      "artists": [
-        {
-          "name": "Chez Tropics",
-          "url": "https://open.spotify.com/artist/1ipLoOAM6e3zqbqUeDPpbs"
-        }
-      ],
-      "duration_ms": 288813,
-      "name": "De Anda - Bonus Track",
-      "url": "https://open.spotify.com/track/7sjk5iceNdb0w5ev1H42VM"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/5rcxn1PA0GEGlap783wGWs"
-      },
-      "artists": [
-        {
-          "name": "Latin House Masters",
-          "url": "https://open.spotify.com/artist/3zxZbfj0kdoDl0Khmc6vNU"
-        },
-        {
-          "name": "Dgroove",
-          "url": "https://open.spotify.com/artist/7k3ndECnQ0bZooFXmJsGQx"
-        },
-        {
-          "name": "Santy G",
-          "url": "https://open.spotify.com/artist/3VF5MnkW9JCUVuJeRA4U73"
-        }
-      ],
-      "duration_ms": 181271,
-      "name": "I Want You - Radio Edit",
-      "url": "https://open.spotify.com/track/6JaJExtAhhuBUQ9hA17Lpi"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Take it 2 Da House",
-        "url": "https://open.spotify.com/album/6oMxeFHZVfFwdpaZ1J90Ow"
-      },
-      "artists": [
-        {
-          "name": "Afriqua",
-          "url": "https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp"
-        }
-      ],
-      "duration_ms": 284597,
-      "name": "Take it 2 Da House",
-      "url": "https://open.spotify.com/track/4m8a4bknEX1aqJpx0gtqsR"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 263680,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/3q6g7n4HdhXqUoDNtZfqyv"
-      },
-      "artists": [
-        {
-          "name": "M.E.M.O.",
-          "url": "https://open.spotify.com/artist/6BEwwGiWuXadRmIfQU9NSt"
-        }
-      ],
-      "duration_ms": 210440,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/5ORpO8cp3xWPfAwvICnFe0"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Baye Baye EP",
-        "url": "https://open.spotify.com/album/5VODxMQVPM2nEkTVsJUx7e"
-      },
-      "artists": [
-        {
-          "name": "Atmos Blaq",
-          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
-        },
-        {
-          "name": "Papany",
-          "url": "https://open.spotify.com/artist/2feALlzBXg5NciFhlm61Cd"
-        }
-      ],
-      "duration_ms": 355998,
-      "name": "Hekele",
-      "url": "https://open.spotify.com/track/0JUbChPjAB5xmUcKJ0Yhni"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Beats & Culture (BNC004)",
-        "url": "https://open.spotify.com/album/73V73BkhSteIKDX25qEgGH"
-      },
-      "artists": [
-        {
-          "name": "Prisma",
-          "url": "https://open.spotify.com/artist/29hY8nWTDqkPqK947tjznd"
-        },
-        {
-          "name": "Martin Boder",
-          "url": "https://open.spotify.com/artist/6vHIcNnpRho3aGWWHNzBGw"
-        },
-        {
-          "name": "Maria Barone",
-          "url": "https://open.spotify.com/artist/6OFJC2spJlsWAXGS4lhmJs"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Turbina De Amor",
-      "url": "https://open.spotify.com/track/4UY0w7Q0btgFOXmkF30KTj"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Boa Noite",
-        "url": "https://open.spotify.com/album/2bxlAdHsTpyuo1eWjMMuMc"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Tonina",
-          "url": "https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Boa Noite",
-      "url": "https://open.spotify.com/track/6BCizRXYVjlVsTHWporI29"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Slod",
-        "url": "https://open.spotify.com/album/5XxI2tmBNfwJxgRzLmFJbO"
-      },
-      "artists": [
-        {
-          "name": "Moon Rocket",
-          "url": "https://open.spotify.com/artist/1kSsrlTgiil1smkT4Brc6P"
-        }
-      ],
-      "duration_ms": 185147,
-      "name": "Slod",
-      "url": "https://open.spotify.com/track/5CdcO96WiIiy0SPY2QOXRG"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Panko Day",
-        "url": "https://open.spotify.com/album/3BrzOkjlLJbbUxthR88Gak"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9bastien L\u00e9ger",
-          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
-        },
-        {
-          "name": "Roy Rosenfeld",
-          "url": "https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk"
-        }
-      ],
-      "duration_ms": 187438,
-      "name": "Panko Day",
-      "url": "https://open.spotify.com/track/7uTnU6npz09UgqCYA29bnK"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Amour azur",
-        "url": "https://open.spotify.com/album/38PEraOFteUZeAkn4Qg8w3"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Fever",
-          "url": "https://open.spotify.com/artist/3j2UtVAHwuHZywdk4zU0vX"
-        },
-        {
-          "name": "Christoh",
-          "url": "https://open.spotify.com/artist/7MxstLzysTndAiPsCVpAJ4"
-        },
-        {
-          "name": "Molitor",
-          "url": "https://open.spotify.com/artist/2KnFIqnQp7nbKAnPnsQcKo"
-        }
-      ],
-      "duration_ms": 171306,
-      "name": "Amour azur",
-      "url": "https://open.spotify.com/track/4FVYZk4i1LnM7Ddarlkcsa"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Strange",
-        "url": "https://open.spotify.com/album/3w1NNBOqOIIqGT7GPw1lzm"
-      },
-      "artists": [
-        {
-          "name": "Leo Hellden",
-          "url": "https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL"
-        },
-        {
-          "name": "Rocket Mike",
-          "url": "https://open.spotify.com/artist/18ssEKS9fXX1nbMg7mAzaU"
-        }
-      ],
-      "duration_ms": 169279,
-      "name": "Strange",
-      "url": "https://open.spotify.com/track/7KizU3C57WJHOO0w5MD6Jp"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Mar\u00eda Locom\u00eda",
-        "url": "https://open.spotify.com/album/6Xg1OXABtFAYnDgRlpkrRz"
-      },
-      "artists": [
-        {
-          "name": "Supercontinent",
-          "url": "https://open.spotify.com/artist/26GsONwK3BOMVT84NAoHNz"
-        }
-      ],
-      "duration_ms": 322934,
-      "name": "El Rancho",
-      "url": "https://open.spotify.com/track/3Pv6Rv3lif29jiQB5us11b"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/0iP36TG3GD4bVof1S2ZJuB"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 194758,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2LTDoJXKif735jmUZwafPH"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Guitara",
-        "url": "https://open.spotify.com/album/58zMBuGc3riLmTBiLaDUsN"
-      },
-      "artists": [
-        {
-          "name": "AfroDee",
-          "url": "https://open.spotify.com/artist/3GNHbVRS4mInesvqUHOYtQ"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Guitara",
-      "url": "https://open.spotify.com/track/4cbo7MWM2qQBTzELgkfTyX"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Call",
-        "url": "https://open.spotify.com/album/6V6U0GS31lOt5tOTWHdXR0"
-      },
-      "artists": [
-        {
-          "name": "Peter Cruseder",
-          "url": "https://open.spotify.com/artist/7a9TU99tAb8Puv7P7nhBt8"
-        }
-      ],
-      "duration_ms": 167619,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/176RtftrVF9t57IDsv45nE"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Togetha",
-        "url": "https://open.spotify.com/album/4ev5J2EuMBbZT5iyn4YKpO"
-      },
-      "artists": [
-        {
-          "name": "Michael Ritter",
-          "url": "https://open.spotify.com/artist/7a3Sh2mjo0aTV6nOH5JZVq"
-        }
-      ],
-      "duration_ms": 349850,
-      "name": "Togetha",
-      "url": "https://open.spotify.com/track/6WG7oKgwft5KdqBdQ4CViq"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "After All This Time, Always",
-        "url": "https://open.spotify.com/album/0r3MYyNxvTY3EsGifAA3pi"
-      },
-      "artists": [
-        {
-          "name": "Blimp",
-          "url": "https://open.spotify.com/artist/3cMgbjmQ7G6UjuJ7nS0yzx"
-        }
-      ],
-      "duration_ms": 200821,
-      "name": "After All This Time, Always",
-      "url": "https://open.spotify.com/track/2u4vwjzIJRgv9SLoItoaxN"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Canci\u00f3n Ecol\u00f3gica EP",
-        "url": "https://open.spotify.com/album/377Esnectuw6NqciYvw7ov"
-      },
-      "artists": [
-        {
-          "name": "Los Amigos Invisibles",
-          "url": "https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN"
-        },
-        {
-          "name": "Dan Solo",
-          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
-        }
-      ],
-      "duration_ms": 215964,
-      "name": "Eh Eh Oh Oh (Dan Solo Remix Instrumental)",
-      "url": "https://open.spotify.com/track/5Ph9NMcFxuF3MORhWbl215"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Dj friendly",
-        "url": "https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o"
-      },
-      "artists": [
-        {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        },
-        {
-          "name": "Vazl\u00e1",
-          "url": "https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV"
-        }
-      ],
-      "duration_ms": 234900,
-      "name": "V\u00e1monos - Vazl\u00e1 Remix",
-      "url": "https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Tulum",
-        "url": "https://open.spotify.com/album/72dwWYQZRFRAuIE0TdCHcP"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Tulum",
-      "url": "https://open.spotify.com/track/4UZindmHKTn1YdqixOUYGM"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Days Of The Week (VXSION Remix)",
-        "url": "https://open.spotify.com/album/6X0YTwo1XVxs5YvQb01m8l"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "Enumclaw",
-          "url": "https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb"
-        },
-        {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
-        }
-      ],
-      "duration_ms": 252905,
-      "name": "Days Of The Week (VXSION Remix)",
-      "url": "https://open.spotify.com/track/5qRVp51aJCJBYSni90LQqd"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Italy Lounge Caf\u00e8",
-        "url": "https://open.spotify.com/album/7blXYIop6bv2c3x5YB6Tce"
-      },
-      "artists": [
-        {
-          "name": "Alidiana Silverkin",
-          "url": "https://open.spotify.com/artist/19PdahZWgYm3FYFLTIFHUA"
-        }
-      ],
-      "duration_ms": 189973,
-      "name": "El Divisorio - Radio Edit",
-      "url": "https://open.spotify.com/track/0RmiIXsRDzmubkekY8z8H0"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "I Love You More Than Myself",
-        "url": "https://open.spotify.com/album/6Q3vt3kJvZaGLm8PfezkFQ"
-      },
-      "artists": [
-        {
-          "name": "Agoria",
-          "url": "https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP"
-        },
-        {
-          "name": "Rome Fortune",
-          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
-        },
-        {
-          "name": "Lannka",
-          "url": "https://open.spotify.com/artist/4uJmyKMSQLJhB0gN5CAmSG"
-        }
-      ],
-      "duration_ms": 430608,
-      "name": "I Love You More Than Myself - Lannka Remix",
-      "url": "https://open.spotify.com/track/09eUMwKsrAadkq96GM04BH"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Alterego",
-        "url": "https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Benjam\u00edn Carri\u00f3n",
-      "url": "https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Remedios",
-        "url": "https://open.spotify.com/album/4NKNRBIF64TMYCh3pjpZgQ"
-      },
-      "artists": [
-        {
-          "name": "Pizeta",
-          "url": "https://open.spotify.com/artist/6eU8OJ3ZbHoMGFmDcSyE75"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Remedios - Radio Edit",
-      "url": "https://open.spotify.com/track/7kjg968TRnMo8133PxwGEd"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Gager",
-        "url": "https://open.spotify.com/album/1J3MEi4KLC9UB227dO3l1y"
-      },
-      "artists": [
-        {
-          "name": "Dandara",
-          "url": "https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4"
-        },
-        {
-          "name": "Anissa Damali",
-          "url": "https://open.spotify.com/artist/2f2hnF8xUwrKCFODnhCfns"
-        },
-        {
-          "name": "III",
-          "url": "https://open.spotify.com/artist/1PIdgDl8Y7v2CilSXqSqs2"
-        }
-      ],
-      "duration_ms": 190458,
-      "name": "Quiero - Radio Edit",
-      "url": "https://open.spotify.com/track/60MvW5eHV1a7iyQk3Ne2le"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Wild Child",
-        "url": "https://open.spotify.com/album/6zTlmvoAvxIPvT1WtkKI8m"
-      },
-      "artists": [
-        {
-          "name": "Archil & Leon",
-          "url": "https://open.spotify.com/artist/76ptaW1lOTbARlWqFoNJVI"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/1peAdzDTjiouIBWJYwELwM"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "lagos to manchester (Deluxe edition)",
-        "url": "https://open.spotify.com/album/6m59Qwe870q40Bfga5eN0w"
-      },
-      "artists": [
-        {
-          "name": "sway johnson",
-          "url": "https://open.spotify.com/artist/5ephYUeIkkNCW2Zs2IYlWV"
-        },
-        {
-          "name": "Myroe",
-          "url": "https://open.spotify.com/artist/30Eb3MWQ1NuT6u3K4UEfVr"
-        }
-      ],
-      "duration_ms": 80712,
-      "name": "omoge - Radio Edit",
-      "url": "https://open.spotify.com/track/3ctzSKGGSgsUVGCL42dcq4"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "All Is Full Of Joy",
-        "url": "https://open.spotify.com/album/2om2FOICPGMYfSVsWOG8co"
-      },
-      "artists": [
-        {
-          "name": "Juan Soto",
-          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
-        }
-      ],
-      "duration_ms": 311527,
-      "name": "All Is Full Of Joy",
-      "url": "https://open.spotify.com/track/7dkTSu3pBRY9W9U6aUgzHN"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "The Veil",
-        "url": "https://open.spotify.com/album/3q0jrW1dv7O5qSjrIr9mMS"
-      },
-      "artists": [
-        {
-          "name": "AWEN",
-          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
-        },
-        {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        }
-      ],
-      "duration_ms": 251671,
-      "name": "The Veil",
-      "url": "https://open.spotify.com/track/4sXNEwBs1f7scjkmwy5J0u"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Labios",
-        "url": "https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 164508,
-      "name": "Labios",
-      "url": "https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Ethnic Journeys 002 (DJ Mix)",
-        "url": "https://open.spotify.com/album/6t6cI5VYfdJSkVbo08Y59L"
-      },
-      "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        }
-      ],
-      "duration_ms": 223446,
-      "name": "Amor - Mixed",
-      "url": "https://open.spotify.com/track/5f9gJ4CoL1oWkY2qisixqV"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Be Free",
-        "url": "https://open.spotify.com/album/5agOw5yVzsb3sj5v56XMVB"
-      },
-      "artists": [
-        {
-          "name": "Ariano Kina",
-          "url": "https://open.spotify.com/artist/5mxLbOdAn4ZQtaCdgOUOI9"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Love With You",
-      "url": "https://open.spotify.com/track/51Kka4sj4iQWx3sMJLqQm8"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Atirou (Original Mix)",
-        "url": "https://open.spotify.com/album/24Z8EYAsuhcpFBKpYGy7ge"
-      },
-      "artists": [
-        {
-          "name": "Oussema Saffar",
-          "url": "https://open.spotify.com/artist/3qpKCjA1j1z4kvjKDfjqCy"
-        }
-      ],
-      "duration_ms": 179495,
-      "name": "Atirou - Original Mix",
-      "url": "https://open.spotify.com/track/7cI1kdr4wyJdxN9lLZxwOx"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Moon Work One",
-        "url": "https://open.spotify.com/album/6fKFPiNeVb1g6YCy4pdShP"
-      },
-      "artists": [
-        {
-          "name": "Moon Rocket",
-          "url": "https://open.spotify.com/artist/1kSsrlTgiil1smkT4Brc6P"
-        }
-      ],
-      "duration_ms": 394146,
-      "name": "Moon Work One - Midnight Mix",
-      "url": "https://open.spotify.com/track/7GDD86ZCh7rH4Hboucap6d"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "Latin House (Original Mixes)",
-        "url": "https://open.spotify.com/album/3ybCmOxJMEGnhSAP18bARm"
-      },
-      "artists": [
-        {
-          "name": "Latin House Masters",
-          "url": "https://open.spotify.com/artist/3zxZbfj0kdoDl0Khmc6vNU"
-        },
-        {
-          "name": "Dgroove",
-          "url": "https://open.spotify.com/artist/7k3ndECnQ0bZooFXmJsGQx"
-        },
-        {
-          "name": "Santy G",
-          "url": "https://open.spotify.com/artist/3VF5MnkW9JCUVuJeRA4U73"
-        }
-      ],
-      "duration_ms": 213813,
-      "name": "I Want You - Original Mix",
-      "url": "https://open.spotify.com/track/4PeqUdnMtdZTf2Mcfu30Ij"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "La La Tune",
-        "url": "https://open.spotify.com/album/2L7tsx9kIWyPJ1ok4gkk1N"
-      },
-      "artists": [
-        {
-          "name": "Sam Ruffillo",
-          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
-        },
-        {
-          "name": "Kapote",
-          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
-        }
-      ],
-      "duration_ms": 273296,
-      "name": "La La Tune",
-      "url": "https://open.spotify.com/track/6Rm7tXHh6pxquIYNyN5yqy"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
+      "added_at": "2024-08-27 21:15:06",
       "album": {
         "name": "El Ritmo (La Noche) (Xinobi Remix)",
         "url": "https://open.spotify.com/album/4UtfPOsiK9TZ9pVtoJGhXG"
@@ -777,39 +33,23 @@
       "url": "https://open.spotify.com/track/5G8ucMkM4wsJzuvZLszfqx"
     },
     {
-      "added_at": "2024-07-10 18:47:27",
+      "added_at": "2024-08-27 21:15:06",
       "album": {
-        "name": "One More Time EP",
-        "url": "https://open.spotify.com/album/6T0SeSGtnj4vJ6pXaPtRx3"
+        "name": "UNRELEASED x ADE",
+        "url": "https://open.spotify.com/album/27GLsMZqMBSZiGANuOR2h9"
       },
       "artists": [
         {
-          "name": "Linkage",
-          "url": "https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R"
+          "name": "Ankho\u00ef",
+          "url": "https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4"
         }
       ],
-      "duration_ms": 177479,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/2o3YwKib6hDRosbOFxoilU"
+      "duration_ms": 368429,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/3uSSEJShIOgk2h0apyvbSR"
     },
     {
-      "added_at": "2024-07-10 18:47:27",
-      "album": {
-        "name": "El Jefe",
-        "url": "https://open.spotify.com/album/4Ho7sjdTMXmAUbYnvlgPUl"
-      },
-      "artists": [
-        {
-          "name": "Zuni",
-          "url": "https://open.spotify.com/artist/1Gz3WNNCvhio5ulTY6pYkl"
-        }
-      ],
-      "duration_ms": 175081,
-      "name": "El Jefe",
-      "url": "https://open.spotify.com/track/6kJhHky6m9VtOX2DOjSvpL"
-    },
-    {
-      "added_at": "2024-07-10 18:47:27",
+      "added_at": "2024-08-27 21:15:06",
       "album": {
         "name": "Est\u00e1s a sentir",
         "url": "https://open.spotify.com/album/4Pa3sKzkmCWw9OhmIXHpgn"
@@ -825,7 +65,275 @@
       "url": "https://open.spotify.com/track/7wSY1DA9LbGPtw6RvZKJWo"
     },
     {
-      "added_at": "2024-07-10 18:47:27",
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "The Escape",
+        "url": "https://open.spotify.com/album/0a7CeMDcl5Ib5TBQNscKyl"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Huedo",
+          "url": "https://open.spotify.com/artist/37iMdAMg7dglUoAH68e8pG"
+        },
+        {
+          "name": "WALTHER",
+          "url": "https://open.spotify.com/artist/4ubJTb2psOOKpUmglNcrFN"
+        },
+        {
+          "name": "OliO",
+          "url": "https://open.spotify.com/artist/2v6bV7Uez5MobbfVPaDwCN"
+        },
+        {
+          "name": "Kasper Tranberg",
+          "url": "https://open.spotify.com/artist/5asffRDuhmMbyKKC4nxXlt"
+        },
+        {
+          "name": "Iyami Aje",
+          "url": "https://open.spotify.com/artist/7MniOyMlk09RhC86pwwh7h"
+        },
+        {
+          "name": "Wille",
+          "url": "https://open.spotify.com/artist/0SW9ZXMDTsWHKwfdGTerJm"
+        }
+      ],
+      "duration_ms": 369000,
+      "name": "Ayiworo",
+      "url": "https://open.spotify.com/track/7j7xAVPdinmgCWG3QtjJm7"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Desconocidos",
+        "url": "https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Argia",
+          "url": "https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4"
+        }
+      ],
+      "duration_ms": 322501,
+      "name": "Desconocidos",
+      "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7H9Zk7eP2W1C3XFhRIOsPC"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 353497,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1CptCgwaWniIYlqeM6SXmS"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "OBG",
+        "url": "https://open.spotify.com/album/4aghuCPwRba0iBmzslJm9C"
+      },
+      "artists": [
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "\u00c9LL\u00c0H",
+          "url": "https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt"
+        }
+      ],
+      "duration_ms": 193195,
+      "name": "NAF\u00c9",
+      "url": "https://open.spotify.com/track/76btbxN0UYtOuCHt2ODhT4"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Jukurpa",
+        "url": "https://open.spotify.com/album/4N9AfBFNczUeuRvaJvhQZS"
+      },
+      "artists": [
+        {
+          "name": "Deer Jade",
+          "url": "https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv"
+        }
+      ],
+      "duration_ms": 178998,
+      "name": "Jukurpa",
+      "url": "https://open.spotify.com/track/2QoNSCfgounwEieEn1OUyE"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Si Te Portas Bonito",
+        "url": "https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 117539,
+      "name": "Si Te Portas Bonito - Edit",
+      "url": "https://open.spotify.com/track/5s6RZxzKf37QOJfjzSD9L9"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Kusafiri",
+        "url": "https://open.spotify.com/album/63u89zU1q1f8KQgZREiHe5"
+      },
+      "artists": [
+        {
+          "name": "PGMG",
+          "url": "https://open.spotify.com/artist/7J6oztT6ybCyt9EaF9W4Li"
+        }
+      ],
+      "duration_ms": 211043,
+      "name": "Kusafiri",
+      "url": "https://open.spotify.com/track/6ZEHU0s6YljpzXZkoELiJC"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Call",
+        "url": "https://open.spotify.com/album/6V6U0GS31lOt5tOTWHdXR0"
+      },
+      "artists": [
+        {
+          "name": "Peter Cruseder",
+          "url": "https://open.spotify.com/artist/7a9TU99tAb8Puv7P7nhBt8"
+        }
+      ],
+      "duration_ms": 167619,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/176RtftrVF9t57IDsv45nE"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Remedios",
+        "url": "https://open.spotify.com/album/4NKNRBIF64TMYCh3pjpZgQ"
+      },
+      "artists": [
+        {
+          "name": "Pizeta",
+          "url": "https://open.spotify.com/artist/6eU8OJ3ZbHoMGFmDcSyE75"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Remedios - Radio Edit",
+      "url": "https://open.spotify.com/track/7kjg968TRnMo8133PxwGEd"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Alterego (Deluxe)",
+        "url": "https://open.spotify.com/album/2bGwjvXBX8jytRMwXgRKin"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        }
+      ],
+      "duration_ms": 222600,
+      "name": "Sol (YoSoyMatt Remix)",
+      "url": "https://open.spotify.com/track/56o0dcdZbt7GxwGI8iIXRV"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Libertad",
+        "url": "https://open.spotify.com/album/7Ds2iIYUhP3RqMxBQ9fGx9"
+      },
+      "artists": [
+        {
+          "name": "Alastair Lane",
+          "url": "https://open.spotify.com/artist/6TlnZfBVbxeu6ss2jcPDJo"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Libertad",
+      "url": "https://open.spotify.com/track/3jqBsgfhzYYyl1kwj571f5"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "De Anda (Bonus Track)",
+        "url": "https://open.spotify.com/album/3ib0JUHDDEyfrdD2tUygfL"
+      },
+      "artists": [
+        {
+          "name": "Chez Tropics",
+          "url": "https://open.spotify.com/artist/1ipLoOAM6e3zqbqUeDPpbs"
+        }
+      ],
+      "duration_ms": 288813,
+      "name": "De Anda - Bonus Track",
+      "url": "https://open.spotify.com/track/7sjk5iceNdb0w5ev1H42VM"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "You Don't See Me",
+        "url": "https://open.spotify.com/album/4jzBMXKBypqS2fySyk22qN"
+      },
+      "artists": [
+        {
+          "name": "Laolu",
+          "url": "https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG"
+        },
+        {
+          "name": "Nomvula SA",
+          "url": "https://open.spotify.com/artist/6DPIZZxzcwWmBiTMmVYbyY"
+        }
+      ],
+      "duration_ms": 280044,
+      "name": "You Don\u2019t See Me",
+      "url": "https://open.spotify.com/track/7eRf7FEjMtf9MxNIRHhsco"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Bombo",
+        "url": "https://open.spotify.com/album/2EkwK1AcNvWmpU6ZUqF52h"
+      },
+      "artists": [
+        {
+          "name": "La Santa Music",
+          "url": "https://open.spotify.com/artist/4CGXFRuE498C4QKcjxiprx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bunyi",
+      "url": "https://open.spotify.com/track/6Tz8Bd1mXPuh0s7Kcl04HT"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
       "album": {
         "name": "N\u00f3s E Ponto",
         "url": "https://open.spotify.com/album/74RF2QrC7AUgxyHrieg2MV"
@@ -849,7 +357,511 @@
       "url": "https://open.spotify.com/track/0fXIkywhF3clI1Tm0LMdMc"
     },
     {
-      "added_at": "2024-07-10 18:47:27",
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/0iP36TG3GD4bVof1S2ZJuB"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 194758,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2LTDoJXKif735jmUZwafPH"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Panko Day",
+        "url": "https://open.spotify.com/album/3BrzOkjlLJbbUxthR88Gak"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien L\u00e9ger",
+          "url": "https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp"
+        },
+        {
+          "name": "Roy Rosenfeld",
+          "url": "https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk"
+        }
+      ],
+      "duration_ms": 187438,
+      "name": "Panko Day",
+      "url": "https://open.spotify.com/track/7uTnU6npz09UgqCYA29bnK"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Italy Lounge Caf\u00e8",
+        "url": "https://open.spotify.com/album/7blXYIop6bv2c3x5YB6Tce"
+      },
+      "artists": [
+        {
+          "name": "Alidiana Silverkin",
+          "url": "https://open.spotify.com/artist/19PdahZWgYm3FYFLTIFHUA"
+        }
+      ],
+      "duration_ms": 189973,
+      "name": "El Divisorio - Radio Edit",
+      "url": "https://open.spotify.com/track/0RmiIXsRDzmubkekY8z8H0"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Wild Thought (St. Lucia Remix)",
+        "url": "https://open.spotify.com/album/33IDpQT5c1sg6fOwS70ZjA"
+      },
+      "artists": [
+        {
+          "name": "Dark Bardo",
+          "url": "https://open.spotify.com/artist/1oOypiwxVDJP85TZrdwpYn"
+        },
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        },
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Wild Thought - St. Lucia Remix",
+      "url": "https://open.spotify.com/track/4AuGifOLdUxAzJFsE93TEp"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/5rcxn1PA0GEGlap783wGWs"
+      },
+      "artists": [
+        {
+          "name": "Latin House Masters",
+          "url": "https://open.spotify.com/artist/3zxZbfj0kdoDl0Khmc6vNU"
+        },
+        {
+          "name": "Dgroove",
+          "url": "https://open.spotify.com/artist/7k3ndECnQ0bZooFXmJsGQx"
+        },
+        {
+          "name": "Santy G",
+          "url": "https://open.spotify.com/artist/3VF5MnkW9JCUVuJeRA4U73"
+        }
+      ],
+      "duration_ms": 181271,
+      "name": "I Want You - Radio Edit",
+      "url": "https://open.spotify.com/track/6JaJExtAhhuBUQ9hA17Lpi"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Take it 2 Da House",
+        "url": "https://open.spotify.com/album/6oMxeFHZVfFwdpaZ1J90Ow"
+      },
+      "artists": [
+        {
+          "name": "Afriqua",
+          "url": "https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp"
+        }
+      ],
+      "duration_ms": 284597,
+      "name": "Take it 2 Da House",
+      "url": "https://open.spotify.com/track/4m8a4bknEX1aqJpx0gtqsR"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/3q6g7n4HdhXqUoDNtZfqyv"
+      },
+      "artists": [
+        {
+          "name": "M.E.M.O.",
+          "url": "https://open.spotify.com/artist/6BEwwGiWuXadRmIfQU9NSt"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/5ORpO8cp3xWPfAwvICnFe0"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Boa Noite",
+        "url": "https://open.spotify.com/album/2bxlAdHsTpyuo1eWjMMuMc"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Tonina",
+          "url": "https://open.spotify.com/artist/5CNjEQS5vkm6B9BGEDqJ7b"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Boa Noite",
+      "url": "https://open.spotify.com/track/6BCizRXYVjlVsTHWporI29"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Slod",
+        "url": "https://open.spotify.com/album/5XxI2tmBNfwJxgRzLmFJbO"
+      },
+      "artists": [
+        {
+          "name": "Moon Rocket",
+          "url": "https://open.spotify.com/artist/1kSsrlTgiil1smkT4Brc6P"
+        }
+      ],
+      "duration_ms": 185147,
+      "name": "Slod",
+      "url": "https://open.spotify.com/track/5CdcO96WiIiy0SPY2QOXRG"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Guitara",
+        "url": "https://open.spotify.com/album/58zMBuGc3riLmTBiLaDUsN"
+      },
+      "artists": [
+        {
+          "name": "AfroDee",
+          "url": "https://open.spotify.com/artist/3GNHbVRS4mInesvqUHOYtQ"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Guitara",
+      "url": "https://open.spotify.com/track/4cbo7MWM2qQBTzELgkfTyX"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Tulum",
+        "url": "https://open.spotify.com/album/72dwWYQZRFRAuIE0TdCHcP"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/4UZindmHKTn1YdqixOUYGM"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Alterego",
+        "url": "https://open.spotify.com/album/4JypWzN41tSUvnRIzWt4f2"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Benjam\u00edn Carri\u00f3n",
+      "url": "https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Gager",
+        "url": "https://open.spotify.com/album/1J3MEi4KLC9UB227dO3l1y"
+      },
+      "artists": [
+        {
+          "name": "Dandara",
+          "url": "https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4"
+        },
+        {
+          "name": "Anissa Damali",
+          "url": "https://open.spotify.com/artist/2f2hnF8xUwrKCFODnhCfns"
+        },
+        {
+          "name": "III",
+          "url": "https://open.spotify.com/artist/1PIdgDl8Y7v2CilSXqSqs2"
+        }
+      ],
+      "duration_ms": 190458,
+      "name": "Quiero - Radio Edit",
+      "url": "https://open.spotify.com/track/60MvW5eHV1a7iyQk3Ne2le"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Wild Child",
+        "url": "https://open.spotify.com/album/6zTlmvoAvxIPvT1WtkKI8m"
+      },
+      "artists": [
+        {
+          "name": "Archil & Leon",
+          "url": "https://open.spotify.com/artist/76ptaW1lOTbARlWqFoNJVI"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/1peAdzDTjiouIBWJYwELwM"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "lagos to manchester (Deluxe edition)",
+        "url": "https://open.spotify.com/album/6m59Qwe870q40Bfga5eN0w"
+      },
+      "artists": [
+        {
+          "name": "sway johnson",
+          "url": "https://open.spotify.com/artist/5ephYUeIkkNCW2Zs2IYlWV"
+        },
+        {
+          "name": "Myroe",
+          "url": "https://open.spotify.com/artist/30Eb3MWQ1NuT6u3K4UEfVr"
+        }
+      ],
+      "duration_ms": 80712,
+      "name": "omoge - Radio Edit",
+      "url": "https://open.spotify.com/track/3ctzSKGGSgsUVGCL42dcq4"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "All Is Full Of Joy",
+        "url": "https://open.spotify.com/album/2om2FOICPGMYfSVsWOG8co"
+      },
+      "artists": [
+        {
+          "name": "Juan Soto",
+          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
+        }
+      ],
+      "duration_ms": 311527,
+      "name": "All Is Full Of Joy",
+      "url": "https://open.spotify.com/track/7dkTSu3pBRY9W9U6aUgzHN"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "The Veil",
+        "url": "https://open.spotify.com/album/3q0jrW1dv7O5qSjrIr9mMS"
+      },
+      "artists": [
+        {
+          "name": "AWEN",
+          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
+        },
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        }
+      ],
+      "duration_ms": 251671,
+      "name": "The Veil",
+      "url": "https://open.spotify.com/track/4sXNEwBs1f7scjkmwy5J0u"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Labios",
+        "url": "https://open.spotify.com/album/2S2MaTTdjv5GlMKN53Eyab"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 164508,
+      "name": "Labios",
+      "url": "https://open.spotify.com/track/4yJFZnusyvXhCtjFs1yv2I"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Ethnic Journeys 002 (DJ Mix)",
+        "url": "https://open.spotify.com/album/6t6cI5VYfdJSkVbo08Y59L"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        }
+      ],
+      "duration_ms": 223446,
+      "name": "Amor - Mixed",
+      "url": "https://open.spotify.com/track/5f9gJ4CoL1oWkY2qisixqV"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Blomst",
+        "url": "https://open.spotify.com/album/1DUXiOusufER3z7lGvtcnP"
+      },
+      "artists": [
+        {
+          "name": "Meera (NO)",
+          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+        }
+      ],
+      "duration_ms": 553648,
+      "name": "Blomst",
+      "url": "https://open.spotify.com/track/5Iss7JRvqDjMzQqZhYKujr"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/5agOw5yVzsb3sj5v56XMVB"
+      },
+      "artists": [
+        {
+          "name": "Ariano Kina",
+          "url": "https://open.spotify.com/artist/5mxLbOdAn4ZQtaCdgOUOI9"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Love With You",
+      "url": "https://open.spotify.com/track/51Kka4sj4iQWx3sMJLqQm8"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Atirou (Original Mix)",
+        "url": "https://open.spotify.com/album/24Z8EYAsuhcpFBKpYGy7ge"
+      },
+      "artists": [
+        {
+          "name": "Oussema Saffar",
+          "url": "https://open.spotify.com/artist/3qpKCjA1j1z4kvjKDfjqCy"
+        }
+      ],
+      "duration_ms": 179495,
+      "name": "Atirou - Original Mix",
+      "url": "https://open.spotify.com/track/7cI1kdr4wyJdxN9lLZxwOx"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Latin House (Original Mixes)",
+        "url": "https://open.spotify.com/album/3ybCmOxJMEGnhSAP18bARm"
+      },
+      "artists": [
+        {
+          "name": "Latin House Masters",
+          "url": "https://open.spotify.com/artist/3zxZbfj0kdoDl0Khmc6vNU"
+        },
+        {
+          "name": "Dgroove",
+          "url": "https://open.spotify.com/artist/7k3ndECnQ0bZooFXmJsGQx"
+        },
+        {
+          "name": "Santy G",
+          "url": "https://open.spotify.com/artist/3VF5MnkW9JCUVuJeRA4U73"
+        }
+      ],
+      "duration_ms": 213813,
+      "name": "I Want You - Original Mix",
+      "url": "https://open.spotify.com/track/4PeqUdnMtdZTf2Mcfu30Ij"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Don't Forget to Go Home",
+        "url": "https://open.spotify.com/album/2r4IP2Q4kCdeNv9MUVnx12"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        },
+        {
+          "name": "Billy Cobham",
+          "url": "https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Don't Forget to Go Home",
+      "url": "https://open.spotify.com/track/0aFubFTLMonMPD0kWV6mLc"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "La La Tune",
+        "url": "https://open.spotify.com/album/2L7tsx9kIWyPJ1ok4gkk1N"
+      },
+      "artists": [
+        {
+          "name": "Sam Ruffillo",
+          "url": "https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy"
+        },
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        }
+      ],
+      "duration_ms": 273296,
+      "name": "La La Tune",
+      "url": "https://open.spotify.com/track/6Rm7tXHh6pxquIYNyN5yqy"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "One More Time EP",
+        "url": "https://open.spotify.com/album/6T0SeSGtnj4vJ6pXaPtRx3"
+      },
+      "artists": [
+        {
+          "name": "Linkage",
+          "url": "https://open.spotify.com/artist/1ZvYE8yQ4j8dBKWNA9JW7R"
+        }
+      ],
+      "duration_ms": 177479,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/2o3YwKib6hDRosbOFxoilU"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "El Jefe",
+        "url": "https://open.spotify.com/album/4Ho7sjdTMXmAUbYnvlgPUl"
+      },
+      "artists": [
+        {
+          "name": "Zuni",
+          "url": "https://open.spotify.com/artist/1Gz3WNNCvhio5ulTY6pYkl"
+        }
+      ],
+      "duration_ms": 175081,
+      "name": "El Jefe",
+      "url": "https://open.spotify.com/track/6kJhHky6m9VtOX2DOjSvpL"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
       "album": {
         "name": "This Gypsy Guy",
         "url": "https://open.spotify.com/album/0CRCAQ6DKPH5xqCRDIzIKo"
@@ -865,7 +877,7 @@
       "url": "https://open.spotify.com/track/34RWSNhiUTfx5BzxyRQG0x"
     },
     {
-      "added_at": "2024-07-10 18:47:27",
+      "added_at": "2024-08-27 21:15:06",
       "album": {
         "name": "MUY FINITO",
         "url": "https://open.spotify.com/album/5PDJxIcBMtjti0J23ayqlj"
@@ -881,32 +893,36 @@
       "url": "https://open.spotify.com/track/4xHkNofcMKGYJ8gzQLBzAW"
     },
     {
-      "added_at": "2024-07-10 18:47:27",
+      "added_at": "2024-08-27 21:15:06",
       "album": {
-        "name": "Tropicana (El B\u00faho Remix)",
-        "url": "https://open.spotify.com/album/0Qs1Z46KHT4z7Vqz6jHGOx"
+        "name": "Femme Tech",
+        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Cucu Diamantes",
-          "url": "https://open.spotify.com/artist/22GbdVx7qK79foK0sRWxTz"
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
         }
       ],
-      "duration_ms": 326043,
-      "name": "Tropicana (El B\u00faho Remix)",
-      "url": "https://open.spotify.com/track/5BVkfQPqbm6HnxdvHUcMyf"
+      "duration_ms": 377225,
+      "name": "Psilocybin",
+      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
+    },
+    {
+      "added_at": "2024-08-27 21:15:06",
+      "album": {
+        "name": "Deeper Feelings EP",
+        "url": "https://open.spotify.com/album/6BRrbrzkM4igreHoesdlHr"
+      },
+      "artists": [
+        {
+          "name": "Fiona Kraft",
+          "url": "https://open.spotify.com/artist/6Gbq71ILuMLRVn0jwC6Glt"
+        }
+      ],
+      "duration_ms": 442622,
+      "name": "Deeper Feelings",
+      "url": "https://open.spotify.com/track/1gOq7cUABzUJa4Bo17vR6r"
     }
   ],
   "unique_name": "Sinego's track IDs",

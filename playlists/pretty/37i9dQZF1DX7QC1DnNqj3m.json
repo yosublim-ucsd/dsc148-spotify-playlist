@@ -1,6 +1,6 @@
 {
   "description": "Bask in the sound of soul, old and new.",
-  "num_followers": 527594,
+  "num_followers": 527591,
   "original_name": "Sweet Soul Sunday",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-02-28 01:49:28",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
-    },
-    {
-      "added_at": "2024-02-28 01:49:28",
-      "album": {
         "name": "Skin",
         "url": "https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/5goqVeMYUQecvpcjNxpadU"
+    },
+    {
+      "added_at": "2024-02-28 01:49:28",
+      "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2024-02-28 01:49:28",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-02-28 01:49:28",
       "album": {
-        "name": "Fool Me Once",
-        "url": "https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 201202,
-      "name": "On God!",
-      "url": "https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30"
-    },
-    {
-      "added_at": "2024-02-28 01:49:28",
-      "album": {
         "name": "Start My Day",
         "url": "https://open.spotify.com/album/2RWRzcJMnE9iVcnilSp6gs"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 195082,
       "name": "Start My Day",
       "url": "https://open.spotify.com/track/2UvXKCd5cMV3vEKyKcSxCs"
+    },
+    {
+      "added_at": "2024-02-28 01:49:28",
+      "album": {
+        "name": "Fool Me Once",
+        "url": "https://open.spotify.com/album/15moNc4Pg5E1qXrXHM2WNl"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 201202,
+      "name": "On God!",
+      "url": "https://open.spotify.com/track/3AcH92WhF4cBsbUvoDgu30"
     },
     {
       "added_at": "2024-02-28 01:49:28",

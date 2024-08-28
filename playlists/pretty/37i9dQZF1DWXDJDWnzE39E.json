@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Voice of Baceprot ",
-  "num_followers": 688675,
+  "num_followers": 688770,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 243783,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
         "name": "Seize the Power",
         "url": "https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 139728,
       "name": "Clique",
       "url": "https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/5MMpn220uT7mgXdfzrKtnS"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 243783,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Why Am I Like This? / Ipecac",
-        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 138973,
-      "name": "Ipecac",
-      "url": "https://open.spotify.com/track/3dxhtEvuwDo8sCCECSmo49"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/238QCuqkflGRVqbJJ2rL9R"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 212310,
       "name": "Paralyzed (feat. Attack Attack!)",
       "url": "https://open.spotify.com/track/2og0nXCxECL4AfuYMwh2ga"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Why Am I Like This? / Ipecac",
+        "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 138973,
+      "name": "Ipecac",
+      "url": "https://open.spotify.com/track/3dxhtEvuwDo8sCCECSmo49"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Friends In Low Places",
-        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Friends In Low Places",
-      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Egregore",
         "url": "https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 126274,
       "name": "Cry (feat. Grimes)",
       "url": "https://open.spotify.com/track/0w1Wd17IygSVDMOZtKm4hi"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Friends In Low Places",
+        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Friends In Low Places",
+      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
-      },
-      "artists": [
-        {
-          "name": "Stitched Up Heart",
-          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
-        }
-      ],
-      "duration_ms": 189773,
-      "name": "My Demon",
-      "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Cure 4 Psycho",
         "url": "https://open.spotify.com/album/5mPNhLXoyn98tShWrYJfKV"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 157749,
       "name": "Cure 4 Psycho",
       "url": "https://open.spotify.com/track/7JlUiuCXUDK5blSa8Gb9Ob"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
+      },
+      "artists": [
+        {
+          "name": "Stitched Up Heart",
+          "url": "https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt"
+        }
+      ],
+      "duration_ms": 189773,
+      "name": "My Demon",
+      "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
+        "name": "I Hope You Choke",
+        "url": "https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6"
+      },
+      "artists": [
+        {
+          "name": "Harper",
+          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
+        }
+      ],
+      "duration_ms": 207660,
+      "name": "I Hope You Choke",
+      "url": "https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
         "name": "Smash The Control Machine",
         "url": "https://open.spotify.com/album/4VeNh83UPws5QEfyfZSUZU"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "I Hope You Choke",
-        "url": "https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6"
+        "name": "Bottom of a Bottle",
+        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
       },
       "artists": [
         {
-          "name": "Harper",
-          "url": "https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3"
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
         }
       ],
-      "duration_ms": 207660,
-      "name": "I Hope You Choke",
-      "url": "https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB"
+      "duration_ms": 199672,
+      "name": "Bottom of a Bottle",
+      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1195,22 +1211,6 @@
       "duration_ms": 243960,
       "name": "R.E.D.",
       "url": "https://open.spotify.com/track/1i02PIDgVFoDNcTVZv4Ccd"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
-        "name": "Bottom of a Bottle",
-        "url": "https://open.spotify.com/album/4wDzDgS3DzXNoFnwVy1yD3"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        }
-      ],
-      "duration_ms": 199672,
-      "name": "Bottom of a Bottle",
-      "url": "https://open.spotify.com/track/3NmE7kZ70BVawiIw5h438U"
     },
     {
       "added_at": "2024-07-19 14:26:43",

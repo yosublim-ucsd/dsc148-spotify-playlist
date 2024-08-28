@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den største kogende danske rap lige nu / <a href="spotify:artist:4a88Q5HOh8FSXQ1gPcQu2U">Kimbo</a> 🔗 <a href="spotify:artist:2dfY7zXIP61MKHtD175hFp">Noah Carter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,787 likes - 83 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,794 likes - 83 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

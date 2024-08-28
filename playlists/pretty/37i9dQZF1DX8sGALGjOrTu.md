@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,564 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,653 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 49 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
 | 50 | [Boiled Frogs](https://open.spotify.com/track/344tr5lxfDxXdcvz67kvlO) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:57 |
 | 51 | [Holding On](https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [Scary Kids Scaring Kids](https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar) | 4:21 |
-| 52 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
+| 52 | [Guys Like You Make Us Look Bad](https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 3:55 |
 | 53 | [Ambrosia](https://open.spotify.com/track/0CsngWR4MiYHiDbBebVxql) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [On Frail Wings Of Vanity And Wax](https://open.spotify.com/album/137oCE2bto6cK6EKMzhCGa) | 3:05 |
-| 54 | [Guys Like You Make Us Look Bad](https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 3:55 |
+| 54 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
 | 55 | [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 |
-| 56 | [Ready To Fall](https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:47 |
-| 57 | [Changing](https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:46 |
+| 56 | [Changing](https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [In Search of Solid Ground](https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn) | 3:46 |
+| 57 | [Ready To Fall](https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP) | 3:47 |
 | 58 | [Rookie](https://open.spotify.com/track/3f0VeXFWFrDjt9BFmRPIej) | [Boysetsfire](https://open.spotify.com/artist/6kw9NLPmn9FdQq0gAIx0Bj) | [After The Eulogy](https://open.spotify.com/album/3p9Mqd8RUupzqYSRgCAjPX) | 4:13 |
 | 59 | [Juneau](https://open.spotify.com/track/1Ps1p8EztpQmxwRas27Il9) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed And Deep In Conversation](https://open.spotify.com/album/5RoKtuFghXVMHrtOf0CBKN) | 3:36 |
 | 60 | [Capricorn \(A Brand New Name\)](https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 3:53 |

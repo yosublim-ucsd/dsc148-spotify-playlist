@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,128 songs - 4 day 17 hr 16 min
+2,129 songs - 4 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,7 +724,8 @@
 | [Joku jonka tunsin](https://open.spotify.com/track/1241eeAveOKQYMW94FMNrx) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [\#ULTRA](https://open.spotify.com/album/1A588xJ5eLYTYa1emn00iG) | 2:59 | 2024-06-08 | 2024-06-16 |
 | [Joku jota oisin voinut rakastaa](https://open.spotify.com/track/0Gq3kMXV32MgtKGYp0xmFK) | [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [True Crime](https://open.spotify.com/album/1vBXMk1BcLIdFd2LrWGJQM) | 3:35 | 2021-08-29 | 2021-09-12 |
 | [Joku muu \- boi95 Remix](https://open.spotify.com/track/0UpJKWq0Of1qjyjW8v9yb9) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV), [boi95](https://open.spotify.com/artist/0JS5L4qzcTlBgE26Xsk2SN) | [Joku muu \(Remix\)](https://open.spotify.com/album/1ykEh7OaHRsB2XJmPUsnH0) | 3:08 | 2023-11-25 | 2023-12-31 |
-| [Joku raja](https://open.spotify.com/track/7meQV8OcOf9ZWYpK01JOqk) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2) | [Leskiäidin Tyttäret](https://open.spotify.com/album/7l1F0i4LbAJue0fFcg9m0x) | 4:55 | 2024-08-25 |  |
+| [Joku raja](https://open.spotify.com/track/6fz0TsXHzc9TQUDqnavSTT) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2) | [Leskiäidin Tyttäret](https://open.spotify.com/album/3Dg34pXyk5kxqPwRsAr6mE) | 4:55 | 2024-08-27 |  |
+| [Joku raja](https://open.spotify.com/track/7meQV8OcOf9ZWYpK01JOqk) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2) | [Leskiäidin Tyttäret](https://open.spotify.com/album/7l1F0i4LbAJue0fFcg9m0x) | 4:55 | 2024-08-25 | 2024-08-28 |
 | [Jolene \(Vain elämää kausi 14\)](https://open.spotify.com/track/4KEFAyyRyGuoHNUZGQiuZA) | [Ellinoora](https://open.spotify.com/artist/3c9CUpHeB5BCQOHp8uiPzY) | [Jolene \(Vain elämää kausi 14\)](https://open.spotify.com/album/5ECoVo35ip0qhFXD72sxPZ) | 3:00 | 2023-10-15 | 2023-10-19 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-04 |
 | [Joo joo](https://open.spotify.com/track/1VScZBWYSs6lzVnxJgh4SE) | [Paperi T](https://open.spotify.com/artist/3rOOythoKLiiyXJYh3XIMu) | [Joo joo](https://open.spotify.com/album/7EKhY6oUZaGrydLwiRXzjj) | 3:08 | 2023-05-06 | 2023-05-08 |
@@ -1434,7 +1435,7 @@
 | [Platinaa](https://open.spotify.com/track/36Ps5MbGPuyuGCm0fcN7Xj) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Platinaa](https://open.spotify.com/album/1ocYLGurBOaDNnl4uYT7Ih) | 2:15 | 2024-04-20 | 2024-04-22 |
 | [PLAYA](https://open.spotify.com/track/1vQoEeHAKr8OIGIMFY2yAj) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [PLAYA](https://open.spotify.com/album/1vqUrqyy1RaxxSDPWBohrs) | 2:08 | 2022-10-09 | 2022-11-06 |
 | [PLAYA](https://open.spotify.com/track/2cSDpq1IHBTpfPvv2ulQY4) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Kertoimia Vastaan](https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4) | 2:08 | 2023-09-02 | 2023-09-04 |
-| [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-10 | 2024-08-11 |
+| [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-10 |  |
 | [Pläänit Uusiks](https://open.spotify.com/track/4wXtXv62Z0AEzf890e49fD) | [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Pläänit Uusiks](https://open.spotify.com/album/1C8nNM3vcKZUeIcgJmTclj) | 2:07 | 2021-05-23 | 2021-05-24 |
 | [Pohjola](https://open.spotify.com/track/6GKmagBJCgk7TvK1Qo9kza) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Olli Halonen](https://open.spotify.com/album/40cRTPQbLaeRKN9xFK6066) | 2:55 | 2024-06-22 | 2024-06-25 |
 | [Pohjola](https://open.spotify.com/track/6YFcvJlcgQceRfJrVpmJa0) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Pohjola](https://open.spotify.com/album/03WPFkiChY7RCBG2OpCSlo) | 2:55 | 2021-09-04 | 2023-04-23 |
@@ -1540,7 +1541,7 @@
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-09-11 |
 | [Ruoska](https://open.spotify.com/track/163IL5lEbcKrOZAKSiW9sM) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [Ruoska](https://open.spotify.com/album/0GPUBiZOD5dye1rqx2aAry) | 3:17 | 2024-02-10 | 2024-07-16 |
 | [Ruotsinlaiva](https://open.spotify.com/track/1TJZBnGcTwM89FoOBxuM87) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Ruotsinlaiva](https://open.spotify.com/album/0YOIUxCU79NvRXaLvzF4yE) | 3:30 | 2023-11-11 | 2023-11-26 |
-| [Rusketusraidat](https://open.spotify.com/track/1CWByPTazwEnqfeC9FfdxA) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2) | [Kuulkaas Enot!](https://open.spotify.com/album/0td98OkILwPLsqzC95k642) | 3:07 | 2024-08-25 |  |
+| [Rusketusraidat](https://open.spotify.com/track/1CWByPTazwEnqfeC9FfdxA) | [PMMP](https://open.spotify.com/artist/6LUnsRyqOZdHGTZqMlWVV2) | [Kuulkaas Enot!](https://open.spotify.com/album/0td98OkILwPLsqzC95k642) | 3:07 | 2024-08-25 | 2024-08-28 |
 | [RUSSIAN WOMAN](https://open.spotify.com/track/6Dz383ZHSKzWh5ZTL7aRra) | [Manizha](https://open.spotify.com/artist/1Y53ZUhXBydAzILo4Qa0s1) | [RUSSIAN WOMAN](https://open.spotify.com/album/6e5G83EOP9tEfklabpOhRp) | 2:56 | 2021-05-25 | 2021-05-29 |
 | [Räjäytä mun mieli \(Vain elämää kausi 12\)](https://open.spotify.com/track/3OwOUcP1ApbnGbkPBmlQDX) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG) | [Räjäytä mun mieli \(Vain elämää kausi 12\)](https://open.spotify.com/album/2H3T3riJCjpM07ldS5RJus) | 3:34 | 2021-10-11 | 2021-10-14 |
 | [Saanko mä luvan](https://open.spotify.com/track/5zFAUq1NZuI6uPaTPCm8Yf) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Saanko mä luvan](https://open.spotify.com/album/6KcpOL8g1andfwBer4Iwgf) | 2:59 | 2024-08-03 | 2024-08-25 |

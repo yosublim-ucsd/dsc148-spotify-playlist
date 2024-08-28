@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,147,809 likes - 75 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,398 likes - 75 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 68 | [Lost It All](https://open.spotify.com/track/2ByeohqpWsZdXQlZ1mOTtA) | [Fabvl](https://open.spotify.com/artist/48bqPGhLPTuS8gKg3UTtf9) | [Lost It All](https://open.spotify.com/album/70Qd3rxxqLRnEQQusrFuQC) | 4:02 |
 | 69 | [Dalai Lama](https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc) | [Shotgun Willy](https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w) | [Dalai Lama](https://open.spotify.com/album/78gNxj2hj39is15hwP82IC) | 2:15 |
 | 70 | [lucky7!](https://open.spotify.com/track/4tkbMkT6vDOq0GzuSQyF6d) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Pozle](https://open.spotify.com/artist/5ZP65l78WPZimUs9LVvMW0) | [lucky7!](https://open.spotify.com/album/2xoLgTp6uqufmawhjRFcWJ) | 1:28 |
-| 71 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
-| 72 | [MAMBO](https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MAMBO](https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7) | 2:07 |
+| 71 | [MAMBO](https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MAMBO](https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7) | 2:07 |
+| 72 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
 | 73 | [from up on silent hill](https://open.spotify.com/track/4R5dpG4U9rgHDGSQRL4XeR) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Witchouse 40k](https://open.spotify.com/artist/7chdPv6Kx0frN0lKfppD2J) | [from up on silent hill](https://open.spotify.com/album/3B00Yjkqx81gqsV79wYqzZ) | 2:30 |
 | 74 | [Nikes](https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf), [kid toni](https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy) | [Nikes](https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn) | 2:19 |
-| 75 | [Ryoshi](https://open.spotify.com/track/2kYkyfurLv3YbKinwdg2Le) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [Ryoshi](https://open.spotify.com/album/2nWSRjwiqY9IJi1QXbF5I7) | 1:27 |
+| 75 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 |
 
 Snapshot ID: `ZmiwjgAAAABanMQtDLcTAPbvyMO4Ifxe`

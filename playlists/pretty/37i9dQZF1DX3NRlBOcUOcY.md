@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,450 likes - 130 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,449 likes - 130 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 56 | [Me Arriesgo Contigo](https://open.spotify.com/track/0O4ZJKR2QDLGrBZYuIgdtI) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Me Arriesgo Contigo](https://open.spotify.com/album/2XaPovSW5BcxOnwRq6wdET) | 2:45 |
 | 57 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 |
 | 58 | [Rewind](https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Rewind](https://open.spotify.com/album/73EtqjVJRVpMMMCNSQ3C3P) | 2:21 |
-| 59 | [Gracias](https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Gracias](https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S) | 2:12 |
-| 60 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
+| 59 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
+| 60 | [Gracias](https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Gracias](https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S) | 2:12 |
 | 61 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 |
 | 62 | [BONITA](https://open.spotify.com/track/6pLYGP1FGsfhUFb3s9X1mz) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [BONITA](https://open.spotify.com/album/1ufDxUWa07eVx4iakS8DVO) | 2:49 |
 | 63 | [plan](https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [ser humano](https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx) | 3:19 |
@@ -85,11 +85,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 75 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 |
 | 76 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
 | 77 | [DESQUITE](https://open.spotify.com/track/7cE3UA7lv4e11ke0Cti5QV) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:22 |
-| 78 | [LOVEO](https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LOVEO](https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr) | 2:53 |
-| 79 | [Felices Perdidos](https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:29 |
-| 80 | [Traductor](https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Traductor](https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl) | 3:42 |
-| 81 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 |
-| 82 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
+| 78 | [Felices Perdidos](https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [777](https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M) | 3:29 |
+| 79 | [Traductor](https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Traductor](https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl) | 3:42 |
+| 80 | [LOVEO](https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LOVEO](https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr) | 2:53 |
+| 81 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
+| 82 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 |
 | 83 | [curita](https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [curita](https://open.spotify.com/album/5f4MobWELNT92mglh3yITJ) | 2:25 |
 | 84 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 |
 | 85 | [La Botella](https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [FINAL \(Vol.2\)](https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx) | 3:06 |
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 125 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 |
 | 126 | [Verona](https://open.spotify.com/track/64tuMkafK35OSgXmLYi1Ph) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Sobrenatural](https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41) | 3:42 |
 | 127 | [Anoche](https://open.spotify.com/track/5cVzHV40StU3nmMBMKR4n6) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Anoche](https://open.spotify.com/album/4f5F0rs3ENsaJP3QGcVaQb) | 3:16 |
-| 128 | [Moncler](https://open.spotify.com/track/3be4DwYd4TsAyVycOG6rkY) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Moncler](https://open.spotify.com/album/4z3TFbaDeiu8otwSY5aYCK) | 2:34 |
-| 129 | [Llórale a tu madre](https://open.spotify.com/track/2EEu4bViqpDJnd161fKA5t) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Llórale a tu madre](https://open.spotify.com/album/3npXfJD4U0DnOWADS9l11f) | 3:27 |
-| 130 | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML) | 3:15 |
+| 128 | [Llórale a tu madre](https://open.spotify.com/track/2EEu4bViqpDJnd161fKA5t) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Llórale a tu madre](https://open.spotify.com/album/3npXfJD4U0DnOWADS9l11f) | 3:27 |
+| 129 | [Moncler](https://open.spotify.com/track/3be4DwYd4TsAyVycOG6rkY) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Camin](https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY) | [Moncler](https://open.spotify.com/album/4z3TFbaDeiu8otwSY5aYCK) | 2:34 |
+| 130 | [La Tarea](https://open.spotify.com/track/3NiwbZe39hFvUCdBjuOEPr) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [La Tarea](https://open.spotify.com/album/31A5oihohOkYIos5lWB0pp) | 3:41 |
 
 Snapshot ID: `ZqPLLwAAAAAQEXMSTMPbrKw0hylUGWyu`

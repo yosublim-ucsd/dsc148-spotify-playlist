@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30b9\u30ab\u30fc\u30c8 Skirt",
+  "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: luvis",
   "name": "Edge!",
   "tracks": [
     {
@@ -7505,6 +7505,24 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5d9cAMhQ094u3wzKY3iraV"
+      },
+      "artists": [
+        {
+          "name": "luvis",
+          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221943,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1xgqWAixmkbPMmW3jypi5Q"
+    },
+    {
+      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/0LRbsy0bndIFllIVDosuQM"
       },
@@ -10208,6 +10226,24 @@
       "duration_ms": 213435,
       "name": "Light(n)ing",
       "url": "https://open.spotify.com/track/6KBkIxXzV6cv3ANyq4KFBS"
+    },
+    {
+      "album": {
+        "name": "Lightness",
+        "url": "https://open.spotify.com/album/6rWOZy3GaGe9MgChrheoeo"
+      },
+      "artists": [
+        {
+          "name": "petalhead",
+          "url": "https://open.spotify.com/artist/7qmQptfWpKjLSxu8EpvFPW"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249372,
+      "name": "Lightness",
+      "url": "https://open.spotify.com/track/0jsxoCR3pBf06LGyqaj7iH"
     },
     {
       "album": {
@@ -13776,6 +13812,24 @@
       "duration_ms": 322886,
       "name": "outside of the house",
       "url": "https://open.spotify.com/track/2EIovS4PXDlQkhPzrQICE2"
+    },
+    {
+      "album": {
+        "name": "over me",
+        "url": "https://open.spotify.com/album/2UNKv168uOS4wdmBvQ2Uhl"
+      },
+      "artists": [
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229593,
+      "name": "over me",
+      "url": "https://open.spotify.com/track/47uwvJLIlYwGIWVjsDFazR"
     },
     {
       "album": {
@@ -17702,7 +17756,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 235931,
       "name": "Strangers In The Night",
       "url": "https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr"
@@ -24038,7 +24092,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 118133,
       "name": "\u3082\u3046\u3051\u3082\u3093",
       "url": "https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn"
@@ -24338,6 +24392,24 @@
       "duration_ms": 180250,
       "name": "\u30a2\u30a4\u30ea\u30fc",
       "url": "https://open.spotify.com/track/1clGfxmWSbrPkIILbRul63"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30b9\u30c6\u30ed\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/7I6A4TQ9WYCMaZaSeeY2qZ"
+      },
+      "artists": [
+        {
+          "name": "pepetterz",
+          "url": "https://open.spotify.com/artist/4yWeAGNBfnMevGLed3KN17"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "\u30a2\u30b9\u30c6\u30ed\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/2fOxIDOlP0VDatvvaRUOGz"
     },
     {
       "album": {
@@ -28199,6 +28271,28 @@
     },
     {
       "album": {
+        "name": "\u5287\u60c5",
+        "url": "https://open.spotify.com/album/4hGjzGQASbMgJZkL1Mk1ly"
+      },
+      "artists": [
+        {
+          "name": "Qujila Yoluno Machi",
+          "url": "https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq"
+        },
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234830,
+      "name": "\u5287\u60c5",
+      "url": "https://open.spotify.com/track/0fCjIIB8HbVsxI1G5Fi3qo"
+    },
+    {
+      "album": {
         "name": "\u53cd\u6642\u4ee3\u30b2\u30fc\u30e0",
         "url": "https://open.spotify.com/album/2rmyOj27rXl2mpZenIKSeM"
       },
@@ -28564,7 +28658,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 219866,
       "name": "\u5730\u4e0b\u9244\u306e\u63fa\u308c\u308b\u30ea\u30ba\u30e0\u3067",
       "url": "https://open.spotify.com/track/3yFvHFqIWNFhJNcQw3C3Lx"
@@ -32056,7 +32150,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 342027,
       "name": "\u76f8\u5e2d\u5c4b\u306b\u884c\u304d\u305f\u3044",
       "url": "https://open.spotify.com/track/4xRqwgsH6TQWaiAmrj2O3P"
@@ -32702,7 +32796,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 262216,
       "name": "\u8594\u8587\u3068\u91ce\u7363",
       "url": "https://open.spotify.com/track/0d1rZSiBO9Rg4mcI2ZyjKR"

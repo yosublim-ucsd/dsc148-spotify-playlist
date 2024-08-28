@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 ### [This Is Emicida](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1g3boY)
 
-> This is Emicida\. Todos os maiores hits em uma só playlist.
+> This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,738 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,743 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 15 | [País do Futebol](https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD) | [MC Guime](https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [País do Futebol](https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009) | 2:29 |
 | 16 | [Principia \(feat\. Fabiana Cozza, Pastor Henrique Vieira & Pastoras do Rosário\)](https://open.spotify.com/track/1wTuMYmA3AJC7zKg6cuu19) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Pastor Henrique Vieira](https://open.spotify.com/artist/34Bz0hL5bQMYbaYzn4ZmCZ), [Pastoras do Rosário](https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 5:55 |
 | 17 | [Madagascar](https://open.spotify.com/track/0FAisOr5R8iaelTo9j6nQ4) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Sobre Crianças, Quadris, Pesadelos e Lições de Casa...](https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE) | 3:52 |
-| 18 | [Deixa acontecer](https://open.spotify.com/track/0pkXLmHhKRO11n5TtyFq4S) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Um Gosto de Sol](https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V) | 3:14 |
-| 19 | [A Cada Vento \(feat\. Rael\) \- Ao Vivo](https://open.spotify.com/track/5PfR5Cm2WcxZMCEej8Muo8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 5:12 |
+| 18 | [A Cada Vento \(feat\. Rael\) \- Ao Vivo](https://open.spotify.com/track/5PfR5Cm2WcxZMCEej8Muo8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 5:12 |
+| 19 | [Deixa acontecer](https://open.spotify.com/track/0pkXLmHhKRO11n5TtyFq4S) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Um Gosto de Sol](https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V) | 3:14 |
 | 20 | [Paisagem](https://open.spotify.com/track/5mvd9zBoRstEcAJC2VwEOi) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [AmarElo](https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h) | 3:09 |
 | 21 | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy) | 3:29 |
 | 22 | [A Cada Vento \- Live](https://open.spotify.com/track/2e1FJPgVRQZFT53QKUR7BD) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [CÉU](https://open.spotify.com/track/0akv6Ln3jqofVAQYFiuVnS) | [Boombeat](https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Saffi](https://open.spotify.com/artist/7B2LE0Bhy4FxYlJnOuVO1k) | [CÉU](https://open.spotify.com/album/0A6lVVuyDD64paAhWTx9Ec) | 4:26 |
 | 50 | [Antes Que a Bala Perdida Me Ache](https://open.spotify.com/track/39VxVw1CRvQrtQLTErDiEV) | [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Felipe Artioli](https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w), [NAVE](https://open.spotify.com/artist/3nCDhz6532rbB6v01BL5Zo), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Dai a Cesar o Que É de Cesar](https://open.spotify.com/album/43KSg1Gi3ZV3NBsUAnH2jH) | 3:36 |
 
-Snapshot ID: `Zsp0AAAAAAAteb+N3wnX5qZORlVQdTKM`
+Snapshot ID: `ZsvFgAAAAAABCRuMX5E+eTzR/Ljohs5D`

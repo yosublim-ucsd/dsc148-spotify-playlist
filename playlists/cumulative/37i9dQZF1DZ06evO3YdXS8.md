@@ -2,7 +2,7 @@
 
 ### [This Is Selena](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YdXS8)
 
-> This Is Selena\. Los temas esenciales, todos en una lista.
+> This is Selena\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 86 songs - 5 hr 17 min
 

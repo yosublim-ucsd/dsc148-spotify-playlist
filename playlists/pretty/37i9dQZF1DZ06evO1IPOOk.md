@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 
 > This is Kendrick Lamar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,557,806 likes - 51 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,558,235 likes - 51 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 | 18 | [King Kunta](https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 3:54 |
 | 19 | [Die Hard](https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:59 |
 | 20 | [LOYALTY\. FEAT\. RIHANNA.](https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:47 |
-| 21 | [Bad Blood \(feat\. Kendrick Lamar\) \(Taylor's Version\)](https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [1989 \(Taylor's Version\) \[Deluxe\]](https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0) | 3:19 |
-| 22 | [Stay Ready \(What A Life\)](https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 6:22 |
+| 21 | [Stay Ready \(What A Life\)](https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 6:22 |
+| 22 | [Bad Blood \(feat\. Kendrick Lamar\) \(Taylor's Version\)](https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [1989 \(Taylor's Version\) \[Deluxe\]](https://open.spotify.com/album/1o59UpKw81iHR0HPiSkJR0) | 3:19 |
 | 23 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 |
 | 24 | [Don't Wanna Know \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/5o3GnrcFtvkdf3zFznuSbA) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh) | 3:34 |
 | 25 | [A.D.H.D](https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 3:35 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1IPOOk.md) - [plain]
 | 50 | [Wow Freestyle \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/0gV5B7zmJkS1aaH9APokrH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 2:55 |
 | 51 | [Rigamortus](https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 2:48 |
 
-Snapshot ID: `Zsp0AAAAAABAtldq+RD9H9ycXmWvIShZ`
+Snapshot ID: `ZsvFgAAAAAC3Ic6qBOIN4wQGs8YtDZ+y`

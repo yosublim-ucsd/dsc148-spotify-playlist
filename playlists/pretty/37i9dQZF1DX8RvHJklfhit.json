@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 185836,
+  "num_followers": 185940,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 205569,
+      "name": "Hablar de Ti",
+      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 219720,
       "name": "Te Alejas M\u00e1s De M\u00ed",
       "url": "https://open.spotify.com/track/62xokumU0wMqOSsBuefhmB"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 205569,
-      "name": "Hablar de Ti",
-      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "I Don't Mind",
-        "url": "https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9"
-      },
-      "artists": [
-        {
-          "name": "RARRI BLANCO",
-          "url": "https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U"
-        }
-      ],
-      "duration_ms": 216844,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 213186,
       "name": "Colors",
       "url": "https://open.spotify.com/track/4S86HrFNj1b7vL0oY4QGao"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "I Don't Mind",
+        "url": "https://open.spotify.com/album/7JsJXXMqaP7uDhSCs63sd9"
+      },
+      "artists": [
+        {
+          "name": "RARRI BLANCO",
+          "url": "https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U"
+        }
+      ],
+      "duration_ms": 216844,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/3P1TNAPSbEcNWCUpBiRiaj"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "Missed Connection",
+      "url": "https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/31tdxu6hFbpN99N7QxoJRf"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 236503,
       "name": "Drive - Edit",
       "url": "https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Unbothered",
-        "url": "https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 124954,
-      "name": "Unbothered",
-      "url": "https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W"
     }
   ],
   "unique_name": "Latin Indie Classics",

@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-297 songs - 21 hr 48 min
+298 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Bladi B3ida](https://open.spotify.com/track/2h519R5O4HhdPjboqsOond) | [Momo Ryuk](https://open.spotify.com/artist/3s9FZ3OTtrvWzS98OlzecE), [Khalid Elhamri](https://open.spotify.com/artist/0HP4N5HHfnJAoUlBjKewtu), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Bladi B3ida](https://open.spotify.com/album/4B1cXT0JtC0f0e0sbODGow) | 5:19 | 2024-04-26 |  |
 | [Bliss](https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Bliss](https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm) | 3:33 | 2020-10-18\* |  |
 | [Bodvár](https://open.spotify.com/track/2QOXBvxgsF8tqS35uOkT4h) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I) | [Bodvár](https://open.spotify.com/album/198aTBufTgIU0Dj47MJtUu) | 2:46 | 2023-06-29 |  |
+| [Bora](https://open.spotify.com/track/0KtcZzw505bzrQGAjVqGuf) | [Kerem Gell](https://open.spotify.com/artist/2xLxdnNSnIi1Wle7okLjpi) | [Bora](https://open.spotify.com/album/6pVj4l5un6ObmtEKn6bxqK) | 5:04 | 2024-08-23 |  |
 | [Breathe](https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM) | [Parah Dice](https://open.spotify.com/artist/4QBEmbwSxLlo6RIGlFyn1o), [Brianna](https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ) | [Breathe](https://open.spotify.com/album/24kHYMHVm3cFlvNS1ru9Qv) | 2:49 | 2020-11-06 | 2023-04-12 |
 | [Cairo's Scent](https://open.spotify.com/track/6qd4ckl2MEeBgrhotAvxga) | [Suray](https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn), [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks) | [Cairo's Scent](https://open.spotify.com/album/1PNCLHV2FhaDjvjcyqqyv0) | 3:26 | 2024-07-04 |  |
 | [CASABLANCA](https://open.spotify.com/track/1G9sovv3F7P9nG2UBB8JaD) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [CASABLANCA](https://open.spotify.com/album/3OSxO7VBhOKJbHR1Vi1F7q) | 2:13 | 2023-11-08 |  |
@@ -290,7 +291,7 @@
 | [Will You Stay \- Rivo Remix](https://open.spotify.com/track/5fktYPyklwA6zScbpyti0X) | [Melih Aydogan](https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM), [Georgia Alexandra](https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz), [Rivo](https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY) | [Will You Stay \(Rivo Remix\)](https://open.spotify.com/album/386Pl8HoGXswgsMrvCEqOh) | 2:46 | 2021-04-19 | 2022-07-29 |
 | [Ya Ghayeb](https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt) | [DJ Maximus](https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE), [Bob Zoabi](https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW) | [Ya Ghayeb](https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F) | 3:37 | 2020-10-18\* |  |
 | [Ya Rayeh](https://open.spotify.com/track/3PU7mVJbqsEsowKgEPdqNW) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Latif El Idrissi](https://open.spotify.com/artist/3jBG8lkqZiBWL2GDMsE2rD) | [Ya Rayeh](https://open.spotify.com/album/3rxXVZ7hyrgUlzlT64C5QM) | 5:30 | 2023-04-11 | 2024-07-09 |
-| [Yaman \- Radio Edit](https://open.spotify.com/track/1JomuRkday0y29kjtxJQ0q) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [Dj Nil](https://open.spotify.com/artist/6qD8aNIxyqa7SXCJNLDi47), [Zara](https://open.spotify.com/artist/4wMiYZnNDSQGBGLlBT4cAb) | [Yaman](https://open.spotify.com/album/5xWy7VAU1D1e6RJandRATO) | 4:53 | 2020-10-18\* |  |
+| [Yaman \- Radio Edit](https://open.spotify.com/track/1JomuRkday0y29kjtxJQ0q) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [Dj Nil](https://open.spotify.com/artist/6qD8aNIxyqa7SXCJNLDi47), [Zara](https://open.spotify.com/artist/4wMiYZnNDSQGBGLlBT4cAb) | [Yaman](https://open.spotify.com/album/5xWy7VAU1D1e6RJandRATO) | 4:53 | 2020-10-18\* | 2024-08-28 |
 | [Yasameen](https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Douae El Rhiouane](https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki) | [Yasameen](https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h) | 5:44 | 2020-10-18\* |  |
 | [Yorgunum Kaptan](https://open.spotify.com/track/4jSLy6yaQLomhIpcpxCryu) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4), [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Yorgunum Kaptan](https://open.spotify.com/album/0orjdc2Bx5usV46bsmD3ut) | 4:28 | 2022-10-27 | 2022-12-05 |
 | [You Know](https://open.spotify.com/track/0zsXASMXwtoioPle5zqVom) | [Onuray Bal](https://open.spotify.com/artist/0dJUQORvGmT346KQhlmCBa), [Kartal Ufuk Olkan](https://open.spotify.com/artist/0O0Ov3wcy4X9v5nr0qxmAi) | [You Know](https://open.spotify.com/album/0gISNnmjRhkH4lZPa4poUY) | 3:08 | 2021-08-06 | 2022-09-13 |

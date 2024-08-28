@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Blind Earth Delta",
+        "url": "https://open.spotify.com/album/2TwoHsg2vdtL4MKLdGtBuE"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Blind Earth B Delta (92-96hz)",
+      "url": "https://open.spotify.com/track/1agrJXyeUrIWB1hRg5P9uk"
+    },
+    {
+      "album": {
         "name": "Blooming Moon (Delta 110 Hz - 108 Hz)",
         "url": "https://open.spotify.com/album/16WXSqjcO6uFWW1oINlYX2"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 175263,
       "name": "Deep Sleep Binaural Delta 82.9Hz - 84.2Hz",
       "url": "https://open.spotify.com/track/4D8H4TKOrslVnSSOxkkkC3"
@@ -1031,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Delta Peace 92-94 Hz",
+        "url": "https://open.spotify.com/album/20rNhBgKWjvf1C29pGi6SA"
+      },
+      "artists": [
+        {
+          "name": "Thomas Pineda",
+          "url": "https://open.spotify.com/artist/7neSzatwxDSpZoOgYhluQa"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Delta Peace 92-94 Hz",
+      "url": "https://open.spotify.com/track/7iDtoFVVML0UhHXAuROb2h"
+    },
+    {
+      "album": {
         "name": "Delta Revive 92 Hz - 93 Hz",
         "url": "https://open.spotify.com/album/39AXFW1UN2uw6EUKXmXdAd"
       },
@@ -1082,6 +1118,24 @@
       "duration_ms": 154285,
       "name": "Delta seventeen",
       "url": "https://open.spotify.com/track/1dEwBndA1qUaH8C7M3Rb4y"
+    },
+    {
+      "album": {
+        "name": "Delta Ship 3 Hz",
+        "url": "https://open.spotify.com/album/5MySsxkq5ducRNFV7BplzU"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141355,
+      "name": "Delta Ship 3 Hz",
+      "url": "https://open.spotify.com/track/13o66xAkRp8IoPcPhPXtYt"
     },
     {
       "album": {
@@ -1724,7 +1778,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 150697,
       "name": "Dream Wave Delta",
       "url": "https://open.spotify.com/track/6EHkpGkXUvSk1nSd2XlfnR"
@@ -1893,6 +1947,24 @@
     },
     {
       "album": {
+        "name": "Knoxville Rain",
+        "url": "https://open.spotify.com/album/5XR87XXlBHgnLB6SJRVljT"
+      },
+      "artists": [
+        {
+          "name": "places we go",
+          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Knoxville Rain E Delta Sinus 80-84hz",
+      "url": "https://open.spotify.com/track/5bknO2Ufk8FPQxNymqeprO"
+    },
+    {
+      "album": {
         "name": "Alpha Focus",
         "url": "https://open.spotify.com/album/72Vc8gmpKCcMDwDTc3H6zp"
       },
@@ -1922,7 +1994,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 154919,
       "name": "London Fog Delta 68-72hz",
       "url": "https://open.spotify.com/track/0q2g2kTuHrc4FvfUi4bhIF"
@@ -2336,7 +2408,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 230398,
       "name": "Subconscious Waves (Delta Drone 1Hz)",
       "url": "https://open.spotify.com/track/0VWMb7msvFr9KZAJGcR9rd"

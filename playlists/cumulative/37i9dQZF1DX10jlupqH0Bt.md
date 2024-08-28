@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-85 songs - 4 hr 1 min
+86 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [852 Hz \- Transformative Journey](https://open.spotify.com/track/4rA1djqnUZtTGJx13sk8zU) | [A Deeper Sense](https://open.spotify.com/artist/34C1icJqIMVraGaiyybDSW) | [852 Hz \- Transformative Journey](https://open.spotify.com/album/2Up9pvT4MDk26onhvtmUhl) | 2:05 | 2023-11-30 |  |
 | [852 Hz \- Why The Rush](https://open.spotify.com/track/5EsormHGhJGBBB01hEhcIL) | [Dora Waller](https://open.spotify.com/artist/36gygmeIKRKTfOHo5pf6E4) | [Why The Rush \(Solfeggio Frequencies\)](https://open.spotify.com/album/2lfMgal1aJw6QngoiMEBQH) | 2:17 | 2023-08-07 |  |
 | [852 Hz Breath Activation](https://open.spotify.com/track/1RPRIsnAg04j1ioC0eRUEp) | [Magnapinna](https://open.spotify.com/artist/6P7OXLySYL37liPzAalPf4) | [852 Hz Breath Activation](https://open.spotify.com/album/44qz6aN5PyUkZ7NZpwj9p5) | 3:23 | 2023-11-30 |  |
-| [852 Hz Connection](https://open.spotify.com/track/4RZR4xxsaXFBoU7YiTm2jW) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [852 Hz Connection](https://open.spotify.com/album/4uBLjnJhircfcvGJPh3aUv) | 2:33 | 2023-08-07 |  |
+| [852 Hz Connection](https://open.spotify.com/track/4RZR4xxsaXFBoU7YiTm2jW) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [852 Hz Connection](https://open.spotify.com/album/4uBLjnJhircfcvGJPh3aUv) | 2:33 | 2023-08-07 | 2024-08-28 |
 | [852 Hz Emerald Waters](https://open.spotify.com/track/1LBvyl2RLLFW1KJh8aO2tp) | [Elivvia](https://open.spotify.com/artist/6UaDpZsdXyWYAyBHVZIqtA) | [852 Hz Emerald Waters](https://open.spotify.com/album/5W2X97uXnN8Bv8dxSLU1MH) | 2:32 | 2023-11-30 |  |
 | [852 Hz Heavenly Beckoning](https://open.spotify.com/track/3jO6989M6RubLcR0fF2n5d) | [Anthropological](https://open.spotify.com/artist/37OoTGz80W4Gd58QeXBmrh) | [852 Hz Heavenly Beckoning](https://open.spotify.com/album/09fWO5L2iHYcwxjm5hiCaj) | 3:23 | 2024-05-11 |  |
 | [852 Hz Holistic Mind](https://open.spotify.com/track/6EFYsOp3cX4vfmvjYZWNfo) | [Akriva](https://open.spotify.com/artist/4IlIaqWBSmATuP4rFYA6jR) | [852 Hz Holistic Mind](https://open.spotify.com/album/1lY1bhKI9bbBm3ZsZCTpwS) | 2:38 | 2023-11-30 |  |
@@ -38,6 +38,7 @@
 | [852 Hz Soothe Anxiety](https://open.spotify.com/track/1l3mTHxVzws34jKfWmXH0M) | [Asajj Sadie](https://open.spotify.com/artist/7dBSSjPi5Web6Ifwg1uiSd) | [852 Hz Soothe Anxiety](https://open.spotify.com/album/5pfGTMLg9ot9u4HlUyiniK) | 2:29 | 2023-03-10 |  |
 | [852 Hz Spiritual Order](https://open.spotify.com/track/5WVra5Ra0EBm5cbEfDT7Cr) | [Particle Guidance](https://open.spotify.com/artist/2Ol6nr2IZ1Jqs1scycbjLZ) | [Harmonic Intonation](https://open.spotify.com/album/4L17rtwyeMNeQJDnoxwgET) | 3:42 | 2023-03-10 |  |
 | [852 Hz The Sacred Call](https://open.spotify.com/track/0fmO230foTgdidV10QKOUf) | [Tottori](https://open.spotify.com/artist/2cxaVq3RTbmSCpIv1jBvSp) | [852 Hz The Sacred Call](https://open.spotify.com/album/0QvNA80NWGvPAXMFeZHswv) | 2:13 | 2024-04-07 |  |
+| [852 Hz Transcendent Traveler](https://open.spotify.com/track/2S0ZOGLofhySHpJG9eCMao) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [852 Hz Transcendent Traveler](https://open.spotify.com/album/2oUWVJSfPOOzUwIubGHETZ) | 2:23 | 2024-08-27 |  |
 | [852hz Awaken your Intuition](https://open.spotify.com/track/0alIWUlJRDiiyOmq1y4uB1) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frequencies Vol\. 2](https://open.spotify.com/album/0Ozqfn85aP165ozxRnPadd) | 4:50 | 2023-11-30 |  |
 | [852hz Return to Spiritual Order](https://open.spotify.com/track/2v07Tr7WeqbNTW2r037GEJ) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 3:08 | 2023-11-30 |  |
 | [Ajna](https://open.spotify.com/track/4h4F7TC8bXOzxU34kMMhXL) | [Klangschalenmeditation](https://open.spotify.com/artist/6XUAMk67lcJtkJ6M9ikGF6) | [Chakrameditation](https://open.spotify.com/album/3lnoWrwdm2ynZoG6ESDO46) | 1:48 | 2023-03-10 | 2024-03-14 |
@@ -83,7 +84,7 @@
 | [Suraksha 852 Hz](https://open.spotify.com/track/53GhLGiFZRBWrfHboXNzL2) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Cambios et Suraksha](https://open.spotify.com/album/7cWPfg2i00U55wuhi3qAK8) | 3:19 | 2023-03-10 |  |
 | [Talisman](https://open.spotify.com/track/7nbNCSPIvcyjQNcCTwD6aX) | [David Ripperton](https://open.spotify.com/artist/0wpChJY0eLNSdeIep3DCyy) | [Antimatter](https://open.spotify.com/album/0RiEwT4ksUqdHRisAoi47P) | 3:07 | 2023-03-10 |  |
 | [The Higher Realm at 852 Hz](https://open.spotify.com/track/1KI4eGRbYl6b798jlsgnUf) | [machine ii](https://open.spotify.com/artist/7CHSbRQykU4I2Tv5ebez6r) | [The Higher Realm at 852 Hz](https://open.spotify.com/album/2XLwHC58TRaFGdddsGindI) | 2:18 | 2024-05-11 |  |
-| [The transmission 852hz](https://open.spotify.com/track/6DTGA0e8tq0UzkXcwVIfmq) | [Deep Allure](https://open.spotify.com/artist/7BSP7jTW5vRe9uUiRBcZFU) | [The transmission 852hz](https://open.spotify.com/album/4IF2qx2BUp5vODHVshJtdB) | 2:55 | 2023-03-10 |  |
+| [The transmission 852hz](https://open.spotify.com/track/6DTGA0e8tq0UzkXcwVIfmq) | [Deep Allure](https://open.spotify.com/artist/7BSP7jTW5vRe9uUiRBcZFU) | [The transmission 852hz](https://open.spotify.com/album/4IF2qx2BUp5vODHVshJtdB) | 2:55 | 2023-03-10 | 2024-08-28 |
 | [Third Eye Chakra \(Ajna\) 3 Octaves A](https://open.spotify.com/track/6MeyKMH7MM0mHSjRJ12vRp) | [Yeshi Namdak](https://open.spotify.com/artist/1Q024x44ggYq9bvRsaRPri) | [7 Chakra Meditation with Tibetan Bowls](https://open.spotify.com/album/2c8pxiKmUpGVvIjEWChg9X) | 2:50 | 2023-03-10 | 2023-08-08 |
 | [Third Eye Chakra Singing Bowl](https://open.spotify.com/track/55s8n5TnnDr1WAKbhaB7OA) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Singing Bowls of Purity](https://open.spotify.com/album/08PG1DXpZq2hgu4UTmMmPm) | 3:44 | 2023-03-10 | 2023-12-01 |
 | [Third Eye Solfeggio 852 Hz](https://open.spotify.com/track/18hHTArSk4RIo1nzm3cfBb) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Solfeggio Nonagon](https://open.spotify.com/album/5agkzJIkbY3lzyonAKBwn0) | 2:52 | 2023-11-30 |  |

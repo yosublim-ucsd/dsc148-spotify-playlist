@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,441 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,486 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 24 | [Al Final](https://open.spotify.com/track/0KxTwdcV3cdi7KKpkHCPqp) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 3:07 |
 | 25 | [Ahora estoy Solo](https://open.spotify.com/track/106QvHrS9LCAnwb8Sz8hqw) | [Los Hitters](https://open.spotify.com/artist/3Cqn20hCMJisWINCRSOkZT) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 2:09 |
 | 26 | [Sospecha](https://open.spotify.com/track/0siRDrhbWLCoCdJt0Cv0dq) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Los Originales](https://open.spotify.com/album/5UnYv67PEkeTWnlkBL1s5a) | 2:29 |
-| 27 | [Vete Con Ella \(Chappel of Love\)](https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [La Fiebre del Rock and Roll](https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l) | 2:53 |
+| 27 | [Vuelve Primavera](https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27) | [Los Blue Caps](https://open.spotify.com/artist/6rC7ojIyJ2a1zVcZevThcv) | [Buen Rock Esta Noche](https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz) | 2:30 |
 | 28 | [Yo No Soy Rebelde](https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 1:20 |
-| 29 | [Vuelve Primavera](https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27) | [Los Blue Caps](https://open.spotify.com/artist/6rC7ojIyJ2a1zVcZevThcv) | [Buen Rock Esta Noche](https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz) | 2:30 |
+| 29 | [Vete Con Ella \(Chappel of Love\)](https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [La Fiebre del Rock and Roll](https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l) | 2:53 |
 | 30 | [Payasito \(Ponchinello\)](https://open.spotify.com/track/0bfNMCcujmZHi03rkpFmAL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:36 |
 | 31 | [Y Es Por Ti](https://open.spotify.com/track/26aQy7fgeQuhJm619Z8lgq) | [Los Reno](https://open.spotify.com/artist/2gmmO8dk7iXgNYuB24FKQo) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:11 |
 | 32 | [La Llorona Loca](https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB) | [Los Gliders](https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI) | [Éxitos Del Rock](https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D) | 2:18 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 58 | [Venus](https://open.spotify.com/track/5ALgEAPt5pQrtF4GtEykLc) | [Las Moskas](https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY) | [Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol\. 2](https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB) | 3:05 |
 | 59 | [Hanky Panky](https://open.spotify.com/track/3q57sljRO7snXYIsgaBgJT) | [Los Jockers](https://open.spotify.com/artist/1tHxyQ3P1Oo7T7YFKfRaKK) | [Rock, Puro Rock](https://open.spotify.com/album/2uZRx3gfHsgndRHm8Ks7RE) | 2:52 |
 | 60 | [Hotel de los Corazones Rotos \(Heartbreak Hotel\)](https://open.spotify.com/track/5J5L4cvXlWhoeVjeNs9F7t) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Tu Amor y Mi Cariño](https://open.spotify.com/album/5XxXFX4mWfYlw8E2L5i8M1) | 1:36 |
-| 61 | [Chuby Chuby \- Chewy Chewy](https://open.spotify.com/track/578D97y2BlyUHv3f5wHYHp) | [Las Ventanas](https://open.spotify.com/artist/44cgJrhaBld32Xou7xno1x) | [Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol\. 2](https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB) | 2:40 |
-| 62 | [Pitagoras \[Album Version\]](https://open.spotify.com/track/21oMNwfJjjdv6Zgsfk6sEN) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 1:35 |
+| 61 | [Pitagoras \[Album Version\]](https://open.spotify.com/track/21oMNwfJjjdv6Zgsfk6sEN) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 1:35 |
+| 62 | [Chuby Chuby \- Chewy Chewy](https://open.spotify.com/track/578D97y2BlyUHv3f5wHYHp) | [Las Ventanas](https://open.spotify.com/artist/44cgJrhaBld32Xou7xno1x) | [Serie de Colección 18 Auténticos Éxitos Hit´s de Grupos, Vol\. 2](https://open.spotify.com/album/3eXRb8zVCNGSWx3OHodqXB) | 2:40 |
 | 63 | [Juego De Amor](https://open.spotify.com/track/2GaAmsIrZOKEPnt4w1YfIe) | [Los Rockin' Devils](https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:19 |
 | 64 | [Dulces a Mi Amor](https://open.spotify.com/track/3s6xa3WDlEZ3QdPuyhftSh) | [Los Jokers](https://open.spotify.com/artist/2LklOiSHWX50yM3NVYF26Q) | [RCA 100 Anos De Musica \- Segunda Parte \(Exitos Inolvidables Del Rock & Roll En Español\)](https://open.spotify.com/album/2e5up6v7vHRX4lFW2N43OK) | 2:30 |
 | 65 | [La Batalla De Jericó](https://open.spotify.com/track/6cHCv08cDeeZWaETJInX4Y) | [Black Jeans](https://open.spotify.com/artist/5VC9QlLIQLWM2ppXD9OZd0) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:06 |

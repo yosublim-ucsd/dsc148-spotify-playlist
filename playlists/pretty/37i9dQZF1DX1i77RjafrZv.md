@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,617 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,622 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,17 +64,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 54 | [Parce que c'est toi](https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Toujours moi](https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg) | 4:05 |
 | 55 | [Belle \(with Patrick Fiori & Garou\)](https://open.spotify.com/track/0a8sR4JpMM4mcFNItKOjRg) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM), [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq), [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Notre Dame de Paris \- Studio](https://open.spotify.com/album/07jQJEWYAPlISmakXFSmzs) | 4:37 |
 | 56 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
-| 57 | [Aimer à perdre la raison](https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat chante Aragon, l'intégrale](https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA) | 2:21 |
-| 58 | [Dès que j'te vois](https://open.spotify.com/track/1MqT9xK56smYYOaHPqIQM8) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 3:23 |
+| 57 | [Dès que j'te vois](https://open.spotify.com/track/1MqT9xK56smYYOaHPqIQM8) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 3:23 |
+| 58 | [Aimer à perdre la raison](https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat chante Aragon, l'intégrale](https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA) | 2:21 |
 | 59 | [Laisse moi t'aimer](https://open.spotify.com/track/3xPNasHy69FFGxyxYApJPS) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:23 |
 | 60 | [Les amoureux des bancs publics](https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Georges Brassens interprète ses dernières compositions N°2](https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0) | 3:00 |
 | 61 | [La chanson des vieux amants](https://open.spotify.com/track/2nn7R5ESQhN5MhWcrHFjLi) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 4:27 |
 | 62 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
 | 63 | [Les feuilles mortes](https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [Chante Prevert](https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT) | 3:21 |
-| 64 | [Aimer est plus fort que d'être aimé](https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Sauver l'amour \(Remastered\)](https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh) | 4:05 |
-| 65 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
-| 66 | [Tombé](https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [PYRAMIDE](https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0) | 3:53 |
-| 67 | [Que serais\-je sans toi](https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La montagne 1964](https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg) | 3:03 |
+| 64 | [Que serais\-je sans toi](https://open.spotify.com/track/2GnJ1XGXv7emJvtuOrM7lQ) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [La montagne 1964](https://open.spotify.com/album/6uZiAcFO8d758nOs687gfg) | 3:03 |
+| 65 | [Aimer est plus fort que d'être aimé](https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Sauver l'amour \(Remastered\)](https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh) | 4:05 |
+| 66 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 |
+| 67 | [Tombé](https://open.spotify.com/track/3EiDyqPIjDDo6F8RS5Lj4t) | [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [PYRAMIDE](https://open.spotify.com/album/7lh4MGKwIo343kS0gcjcB0) | 3:53 |
 | 68 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
 | 69 | [Aimer \- Roméo & Juliette, Les enfants de Vérone](https://open.spotify.com/track/12x3erRdPdMLrCY4vPMLq1) | [Damien Sargue](https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO), [Joy Esther](https://open.spotify.com/artist/5yIbkMHQyrQ5eNWaFtlXpX) | [Roméo Et Juliette, Les enfants de Vérone](https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46) | 2:51 |
 | 70 | [Que reste\-t\-il de nos amours ?](https://open.spotify.com/track/3WfBrLPAbt7G60r1n7BZ6L) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Disque D'or](https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L) | 3:12 |

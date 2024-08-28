@@ -4,7 +4,7 @@
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: GEMINI
 
-101 songs - 6 hr 36 min
+102 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/track/6VlPCdEkEMkD7OcbCg8qC6) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/album/3XviYeEx5FuG7m6LodIFgU) | 3:41 | 2024-05-30 | 2024-07-19 |
 | [ความรู้สึกของตัวฉัน](https://open.spotify.com/track/13fTUwOsAtNtZtxAcBOtWy) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [ความรู้สึกของตัวฉัน](https://open.spotify.com/album/7fEgczgGKUhPrL0see7eiH) | 4:13 | 2024-01-26 |  |
 | [คิดคิด \(Let me know\)](https://open.spotify.com/track/6C66xbNCg6Zv19tisXJnUC) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [คิดคิด \(Let me know\)](https://open.spotify.com/album/0Vaea3qMOaclumAYzoHBCF) | 3:45 | 2024-08-15 |  |
+| [ง้อ \(ALRIGHT\)](https://open.spotify.com/track/7ykcQ6Jx9Q6JbLGAazWuKS) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ง้อ \(ALRIGHT\) \- Single](https://open.spotify.com/album/6IsszUhBvsoqnBIQeDwE3w) | 3:05 | 2024-08-27 |  |
 | [จดจำ](https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ \- Single](https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR) | 5:34 | 2024-01-26 |  |
 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2024-01-26 | 2024-02-01 |
 | [จากตรงนี้ที่\(เคย\)สวยงาม \[La La Bye\]](https://open.spotify.com/track/0D9lpJts3mXxe0fvovYUFv) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [I’M GOING TO KEEP RUNNING AWAY](https://open.spotify.com/album/1EBJeRNnDr755VZGAtDTaM) | 4:48 | 2024-05-30 |  |
@@ -101,7 +102,7 @@
 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 | 2024-05-06 |  |
 | [แลกอะไรก็ได้](https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [แลกอะไรก็ได้](https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw) | 3:37 | 2024-05-30 |  |
 | [แอบเก็บความในใจไว้ภายในแว่นเรย์แบนสีดำ](https://open.spotify.com/track/6sowsQcSP7ThATfccaEk1S) | [TaitosmitH](https://open.spotify.com/artist/0CR1aLS3JQTlekHgHTga60) | [แอบเก็บความในใจไว้ภายในแว่นเรย์แบนสีดำ \- Single](https://open.spotify.com/album/59g2gOFybbppLJRcsRec7C) | 5:32 | 2024-04-11 | 2024-05-17 |
-| [โลกที่แบกไว้](https://open.spotify.com/track/1BAIaOr39e7FsxRYjbPiyz) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [โลกที่แบกไว้](https://open.spotify.com/album/7Kd7MwlHvyBxiwAFaqhTqJ) | 4:40 | 2024-03-27 |  |
+| [โลกที่แบกไว้](https://open.spotify.com/track/1BAIaOr39e7FsxRYjbPiyz) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [โลกที่แบกไว้](https://open.spotify.com/album/7Kd7MwlHvyBxiwAFaqhTqJ) | 4:40 | 2024-03-27 | 2024-08-28 |
 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 | 2024-03-10 | 2024-06-01 |
 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 | 2024-04-11 |  |
 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2024-01-26 | 2024-07-13 |

@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-791 songs - 1 day 19 hr 6 min
+792 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [a little love for myself](https://open.spotify.com/track/6GoTkMsiBcsrpWjII05gZS) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [a little love for myself](https://open.spotify.com/album/1x8VAK3gdCGOrSY1tNCKUN) | 3:29 | 2024-02-17 |  |
 | [Abeg \(feat\. Amindi\)](https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Stairway To Heaven](https://open.spotify.com/album/2gllP0wR0siE0NYM9U5Tjb) | 3:23 | 2021-12-15 | 2022-04-08 |
 | [Addiction](https://open.spotify.com/track/12sXX3cUzBCpwjIzqBYIw1) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Alt Therapy Session 1: Disillusion](https://open.spotify.com/album/6s055xE2xDpP378xhu8zSu) | 2:55 | 2021-12-15 | 2022-07-29 |
-| [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 | 2023-09-08 |  |
+| [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 | 2023-09-08 | 2024-08-28 |
 | [After the Tone with Lossapardo](https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t) | [Crayon](https://open.spotify.com/artist/1byiL1WtteUjvqT6GhlEfh), [Lossapardo](https://open.spotify.com/artist/6amhIkFAweDp9aQ8FKQ606) | [After the Tone with Lossapardo](https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm) | 2:33 | 2021-12-15 | 2022-04-21 |
 | [Again](https://open.spotify.com/track/5BsMtgFr6LEL8FqPOaN2oj) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Again](https://open.spotify.com/album/1cVgkUbzpEwQVcQJvWgYnI) | 2:15 | 2023-03-04 | 2023-08-26 |
 | [Ain't Sad About It](https://open.spotify.com/track/5kaJZ4avY5KwWsjTK8W0wZ) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Ain't Sad About It](https://open.spotify.com/album/2dnnm4CV2NZoFyrA1eQEgq) | 3:43 | 2024-07-26 |  |
@@ -507,6 +507,7 @@
 | [On One](https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [On One](https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16) | 3:25 | 2021-12-15 | 2022-06-11 |
 | [On the Run](https://open.spotify.com/track/0RPyKB5QejeLvdh1N7RJIN) | [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [On the Run](https://open.spotify.com/album/17L5JLhFSSaLuhYg10u8U8) | 3:51 | 2023-03-31 | 2024-04-08 |
 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 | 2024-03-15 | 2024-08-13 |
+| [One Time](https://open.spotify.com/track/1Wvx69Bc0NZH7oQolv1SRq) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [One Time](https://open.spotify.com/album/5hCV59sj35BdVSaPiFCfpK) | 2:31 | 2024-08-23 |  |
 | [only u](https://open.spotify.com/track/0jatnHT0N0LSpbE1obPLB9) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [only u](https://open.spotify.com/album/2U7bhZNHzxwpRJQ9de7LmZ) | 2:26 | 2023-05-05 | 2023-09-09 |
 | [Only You](https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Sheet Music](https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG) | 3:08 | 2023-03-03 | 2024-02-01 |
 | [Ooowee \(feat\. Elijah Dax\)](https://open.spotify.com/track/4XkyUlAe8KLpV5bpvyyIBx) | [Junia\-T](https://open.spotify.com/artist/0OnVUhC12ynNpOuQsRgXLl), [Elijah Dax](https://open.spotify.com/artist/6Hwr3bDEGLweTOT3jeFhtD) | [Studio Monk](https://open.spotify.com/album/2TX2WnQmumRHMhiK22XfVO) | 4:13 | 2021-12-15 | 2022-08-14 |

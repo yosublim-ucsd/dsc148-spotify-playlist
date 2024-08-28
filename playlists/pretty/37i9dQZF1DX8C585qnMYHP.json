@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Misha Panfilov on cover. Artwork by Thami Nabil",
-  "num_followers": 169958,
+  "num_followers": 170031,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "when i was young",
-        "url": "https://open.spotify.com/album/5qDpb3ivP6yXEzUuLeMbiL"
-      },
-      "artists": [
-        {
-          "name": "statika",
-          "url": "https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83"
-        }
-      ],
-      "duration_ms": 100800,
-      "name": "when i was young",
-      "url": "https://open.spotify.com/track/4gBMMrM5KJxayvkzCsqdWm"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Continuum 1",
@@ -71,6 +55,22 @@
       "duration_ms": 433750,
       "name": "Continuum 1",
       "url": "https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "when i was young",
+        "url": "https://open.spotify.com/album/5qDpb3ivP6yXEzUuLeMbiL"
+      },
+      "artists": [
+        {
+          "name": "statika",
+          "url": "https://open.spotify.com/artist/3KPFNV6o4yLNlhNGPBGz83"
+        }
+      ],
+      "duration_ms": 100800,
+      "name": "when i was young",
+      "url": "https://open.spotify.com/track/4gBMMrM5KJxayvkzCsqdWm"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -91,22 +91,6 @@
       "duration_ms": 137076,
       "name": "Mexico Edit",
       "url": "https://open.spotify.com/track/69N1tB1ajMGnxOOiEW9rwr"
-    },
-    {
-      "added_at": "2024-04-03 15:21:45",
-      "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 123953,
-      "name": "Yip, Yip, Yip",
-      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -131,6 +115,22 @@
       "duration_ms": 131660,
       "name": "Do Something!",
       "url": "https://open.spotify.com/track/3qIfexWcDZUuSYQNogshMa"
+    },
+    {
+      "added_at": "2024-04-03 15:21:45",
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 123953,
+      "name": "Yip, Yip, Yip",
+      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -213,58 +213,6 @@
       "url": "https://open.spotify.com/track/5O0NtSxrPa8nNCMrPqyxrQ"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Meta",
-        "url": "https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc"
-      },
-      "artists": [
-        {
-          "name": "Nikolaienko",
-          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
-        },
-        {
-          "name": "Mykola Lebed",
-          "url": "https://open.spotify.com/artist/73OfnS2YlWCMKgwtWPlBMA"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Meta V",
-      "url": "https://open.spotify.com/track/1hO2aMpprNNIcLjvVx18es"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 280500,
-      "name": "Maracuja Lounge",
-      "url": "https://open.spotify.com/track/5155fLceNWyzwO0Q67dkln"
-    },
-    {
       "added_at": "2024-08-16 15:22:57",
       "album": {
         "name": "K.O.",
@@ -287,6 +235,58 @@
       "duration_ms": 191145,
       "name": "K.O.",
       "url": "https://open.spotify.com/track/4LbdywjC7BKbYwPV0WAVfH"
+    },
+    {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Meta",
+        "url": "https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc"
+      },
+      "artists": [
+        {
+          "name": "Nikolaienko",
+          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
+        },
+        {
+          "name": "Mykola Lebed",
+          "url": "https://open.spotify.com/artist/73OfnS2YlWCMKgwtWPlBMA"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Meta V",
+      "url": "https://open.spotify.com/track/1hO2aMpprNNIcLjvVx18es"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 280500,
+      "name": "Maracuja Lounge",
+      "url": "https://open.spotify.com/track/5155fLceNWyzwO0Q67dkln"
+    },
+    {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -323,22 +323,18 @@
     {
       "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "Hailu Remixes",
-        "url": "https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ"
+        "name": "Forest Drone",
+        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
       },
       "artists": [
         {
           "name": "COLA REN",
           "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        },
-        {
-          "name": "K-Lone",
-          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
         }
       ],
-      "duration_ms": 334000,
-      "name": "Riot on the Hush - K-LONE Remix",
-      "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
+      "duration_ms": 287976,
+      "name": "Forest Drone",
+      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -453,22 +449,6 @@
       "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Hooked Paw",
-        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 363483,
-      "name": "Sky Hooks",
-      "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "Are You There God? It\u2019s Me, @",
@@ -483,6 +463,22 @@
       "duration_ms": 211320,
       "name": "Webcrawler",
       "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
+    },
+    {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Hooked Paw",
+        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 363483,
+      "name": "Sky Hooks",
+      "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -511,34 +507,22 @@
     {
       "added_at": "2024-06-19 06:00:00",
       "album": {
-        "name": "Forest Drone",
-        "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
+        "name": "Hailu Remixes",
+        "url": "https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ"
       },
       "artists": [
         {
           "name": "COLA REN",
           "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        }
-      ],
-      "duration_ms": 287976,
-      "name": "Forest Drone",
-      "url": "https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2"
-    },
-    {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Departed",
-        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
-      },
-      "artists": [
+        },
         {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
         }
       ],
-      "duration_ms": 134367,
-      "name": "Departed",
-      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
+      "duration_ms": 334000,
+      "name": "Riot on the Hush - K-LONE Remix",
+      "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -555,6 +539,54 @@
       "duration_ms": 199285,
       "name": "ANIMAL SEEKING",
       "url": "https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Fuse",
+        "url": "https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw"
+      },
+      "artists": [
+        {
+          "name": "Cranes",
+          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Fuse",
+      "url": "https://open.spotify.com/track/3gyjlDVwsH3ghberyPGJZQ"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Camburi",
+        "url": "https://open.spotify.com/album/5eW1UG1aQwLdLR22nM9iPC"
+      },
+      "artists": [
+        {
+          "name": "Pandit Pam Pam",
+          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
+        }
+      ],
+      "duration_ms": 132916,
+      "name": "Verlaine",
+      "url": "https://open.spotify.com/track/7Bu5gRBLy1JjPdbvAfa5w6"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Departed",
+        "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 134367,
+      "name": "Departed",
+      "url": "https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -577,36 +609,20 @@
       "url": "https://open.spotify.com/track/7Bc6osTposJWE6bsej6fcv"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
+      "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "Camburi",
-        "url": "https://open.spotify.com/album/5eW1UG1aQwLdLR22nM9iPC"
+        "name": "Bakteria",
+        "url": "https://open.spotify.com/album/0zZF7ZXBRWpdR9BzOZiThu"
       },
       "artists": [
         {
-          "name": "Pandit Pam Pam",
-          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
+          "name": "B\u0142oto",
+          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
         }
       ],
-      "duration_ms": 132916,
-      "name": "Verlaine",
-      "url": "https://open.spotify.com/track/7Bu5gRBLy1JjPdbvAfa5w6"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Fuse",
-        "url": "https://open.spotify.com/album/3xNaY8J0j7efWpaNFWNfUw"
-      },
-      "artists": [
-        {
-          "name": "Cranes",
-          "url": "https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Fuse",
-      "url": "https://open.spotify.com/track/3gyjlDVwsH3ghberyPGJZQ"
+      "duration_ms": 224258,
+      "name": "Bakteria",
+      "url": "https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -625,20 +641,20 @@
       "url": "https://open.spotify.com/track/2hB0WBIk6FFqqqbW6lyw15"
     },
     {
-      "added_at": "2024-07-03 04:00:00",
+      "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Bakteria",
-        "url": "https://open.spotify.com/album/0zZF7ZXBRWpdR9BzOZiThu"
+        "name": "Bird",
+        "url": "https://open.spotify.com/album/72dw1Ozom9l6V7t76FBYAI"
       },
       "artists": [
         {
-          "name": "B\u0142oto",
-          "url": "https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv"
+          "name": "Hey Lu",
+          "url": "https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE"
         }
       ],
-      "duration_ms": 224258,
-      "name": "Bakteria",
-      "url": "https://open.spotify.com/track/3pkX30Tv1IlMvRG5554cbH"
+      "duration_ms": 178496,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX"
     },
     {
       "added_at": "2024-07-03 04:00:00",
@@ -655,22 +671,6 @@
       "duration_ms": 284747,
       "name": "The Big Man Upstairs",
       "url": "https://open.spotify.com/track/17ruNpoGR6GRkATyxy388E"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Inaudible",
-        "url": "https://open.spotify.com/album/6xr0qixgwTRXgMUfun7ww5"
-      },
-      "artists": [
-        {
-          "name": "Thom LaFond",
-          "url": "https://open.spotify.com/artist/2NVtDeFBzHMUFQlzDswS8a"
-        }
-      ],
-      "duration_ms": 314142,
-      "name": "Inaudible",
-      "url": "https://open.spotify.com/track/00p5muWKVAVbUz9Wp4dZKt"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -705,24 +705,20 @@
       "url": "https://open.spotify.com/track/7jtphW7OYhjzpSvSqnKJdB"
     },
     {
-      "added_at": "2024-07-03 04:00:00",
+      "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/3nWmaS83M7EMOU6AmvfSfl"
+        "name": "Inaudible",
+        "url": "https://open.spotify.com/album/6xr0qixgwTRXgMUfun7ww5"
       },
       "artists": [
         {
-          "name": "dylanwesch",
-          "url": "https://open.spotify.com/artist/4cJkh0ixPviJyRB2mStQDC"
-        },
-        {
-          "name": "Vines",
-          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
+          "name": "Thom LaFond",
+          "url": "https://open.spotify.com/artist/2NVtDeFBzHMUFQlzDswS8a"
         }
       ],
-      "duration_ms": 228680,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/3hIMV2XkL0ugoYYcKxOgUE"
+      "duration_ms": 314142,
+      "name": "Inaudible",
+      "url": "https://open.spotify.com/track/00p5muWKVAVbUz9Wp4dZKt"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -745,20 +741,44 @@
       "url": "https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
+      "added_at": "2024-07-03 04:00:00",
       "album": {
-        "name": "Bird",
-        "url": "https://open.spotify.com/album/72dw1Ozom9l6V7t76FBYAI"
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/3nWmaS83M7EMOU6AmvfSfl"
       },
       "artists": [
         {
-          "name": "Hey Lu",
-          "url": "https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE"
+          "name": "dylanwesch",
+          "url": "https://open.spotify.com/artist/4cJkh0ixPviJyRB2mStQDC"
+        },
+        {
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
         }
       ],
-      "duration_ms": 178496,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX"
+      "duration_ms": 228680,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/3hIMV2XkL0ugoYYcKxOgUE"
+    },
+    {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
+        "name": "Car Alarm, Turn Signal",
+        "url": "https://open.spotify.com/album/5CaNDqcdbSedlvPcCbZ67Z"
+      },
+      "artists": [
+        {
+          "name": "Lia Kohl",
+          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
+        },
+        {
+          "name": "Ka Baird",
+          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
+        }
+      ],
+      "duration_ms": 287030,
+      "name": "Car Alarm, Turn Signal",
+      "url": "https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -795,26 +815,6 @@
     {
       "added_at": "2024-08-07 03:33:24",
       "album": {
-        "name": "Car Alarm, Turn Signal",
-        "url": "https://open.spotify.com/album/5CaNDqcdbSedlvPcCbZ67Z"
-      },
-      "artists": [
-        {
-          "name": "Lia Kohl",
-          "url": "https://open.spotify.com/artist/2rEgtrYH7OM54i96WMze8s"
-        },
-        {
-          "name": "Ka Baird",
-          "url": "https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6"
-        }
-      ],
-      "duration_ms": 287030,
-      "name": "Car Alarm, Turn Signal",
-      "url": "https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD"
-    },
-    {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
         "name": "Heat Ray: The Archimedes Project",
         "url": "https://open.spotify.com/album/26jUvZEETVKfAZQe7XwygQ"
       },
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc"
     },
     {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
-        "name": "Stems of Water",
-        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
-      },
-      "artists": [
-        {
-          "name": "Isik Kural",
-          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Stems of Water",
-      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "the key",
@@ -867,6 +851,22 @@
       "duration_ms": 177592,
       "name": "the key",
       "url": "https://open.spotify.com/track/77RiM667a2Vx3s0wYo9oE4"
+    },
+    {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
+        "name": "Stems of Water",
+        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
+      },
+      "artists": [
+        {
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Stems of Water",
+      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/0pTUnJy3AqAKHtYXc2fMWv"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Nightshade",
-        "url": "https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU"
-      },
-      "artists": [
-        {
-          "name": "Cavolo Nero",
-          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Voulez Vous",
-      "url": "https://open.spotify.com/track/4g2eE7ImWc6Yv9lwYdj3Ij"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Princ\u20acss",
@@ -991,6 +975,22 @@
       "duration_ms": 173515,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Nightshade",
+        "url": "https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU"
+      },
+      "artists": [
+        {
+          "name": "Cavolo Nero",
+          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Voulez Vous",
+      "url": "https://open.spotify.com/track/4g2eE7ImWc6Yv9lwYdj3Ij"
     },
     {
       "added_at": "2024-05-08 03:43:46",
@@ -1041,6 +1041,54 @@
       "url": "https://open.spotify.com/track/4rWmroQk2m8xBtNxpDVSXv"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Pillars",
+        "url": "https://open.spotify.com/album/1rUgzGPf4njtmLhKWbJ53v"
+      },
+      "artists": [
+        {
+          "name": "Sorza",
+          "url": "https://open.spotify.com/artist/0uzZejtu06gZYMtDUoSt9D"
+        }
+      ],
+      "duration_ms": 234312,
+      "name": "I'm here",
+      "url": "https://open.spotify.com/track/7jgKM7kkr5V1vD000hAelA"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "betrayal",
+        "url": "https://open.spotify.com/album/1k1GUjYRdKj2osd7SMtz8h"
+      },
+      "artists": [
+        {
+          "name": "zphr",
+          "url": "https://open.spotify.com/artist/6i676Pz8v1UZpALxNkz73N"
+        }
+      ],
+      "duration_ms": 224831,
+      "name": "betrayal",
+      "url": "https://open.spotify.com/track/4rVQH8kUO7o8Zacw0hMVbi"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Truest",
+        "url": "https://open.spotify.com/album/1wANarMlS8xKdwUxm4WwrI"
+      },
+      "artists": [
+        {
+          "name": "Anysia Kym",
+          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Hesitations\u2026 (Intro)",
+      "url": "https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac"
+    },
+    {
       "added_at": "2024-08-07 03:33:24",
       "album": {
         "name": "Unbound",
@@ -1073,22 +1121,6 @@
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Truest",
-        "url": "https://open.spotify.com/album/1wANarMlS8xKdwUxm4WwrI"
-      },
-      "artists": [
-        {
-          "name": "Anysia Kym",
-          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Hesitations\u2026 (Intro)",
-      "url": "https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac"
-    },
-    {
       "added_at": "2024-06-19 06:00:00",
       "album": {
         "name": "Snake EP",
@@ -1107,18 +1139,18 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Pillars",
-        "url": "https://open.spotify.com/album/1rUgzGPf4njtmLhKWbJ53v"
+        "name": "Near Marineland",
+        "url": "https://open.spotify.com/album/0e874Z59PIEjJNQadE3pvu"
       },
       "artists": [
         {
-          "name": "Sorza",
-          "url": "https://open.spotify.com/artist/0uzZejtu06gZYMtDUoSt9D"
+          "name": "Crash Course In Science",
+          "url": "https://open.spotify.com/artist/7mifyf6uQQKKffciTy7sOK"
         }
       ],
-      "duration_ms": 234312,
-      "name": "I'm here",
-      "url": "https://open.spotify.com/track/7jgKM7kkr5V1vD000hAelA"
+      "duration_ms": 210000,
+      "name": "Jump Over Barrels",
+      "url": "https://open.spotify.com/track/1KFEWFokv2egtzT3vzc7ct"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1139,34 +1171,18 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "betrayal",
-        "url": "https://open.spotify.com/album/1k1GUjYRdKj2osd7SMtz8h"
+        "name": "Northern Classic",
+        "url": "https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr"
       },
       "artists": [
         {
-          "name": "zphr",
-          "url": "https://open.spotify.com/artist/6i676Pz8v1UZpALxNkz73N"
+          "name": "Donna Regina",
+          "url": "https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h"
         }
       ],
-      "duration_ms": 224831,
-      "name": "betrayal",
-      "url": "https://open.spotify.com/track/4rVQH8kUO7o8Zacw0hMVbi"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Near Marineland",
-        "url": "https://open.spotify.com/album/0e874Z59PIEjJNQadE3pvu"
-      },
-      "artists": [
-        {
-          "name": "Crash Course In Science",
-          "url": "https://open.spotify.com/artist/7mifyf6uQQKKffciTy7sOK"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Jump Over Barrels",
-      "url": "https://open.spotify.com/track/1KFEWFokv2egtzT3vzc7ct"
+      "duration_ms": 336786,
+      "name": "Drifting Around",
+      "url": "https://open.spotify.com/track/1qcL2aoIbuIKsBiR3nXHe0"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -1201,20 +1217,24 @@
       "url": "https://open.spotify.com/track/4FZvU6IrDEk1BIt0ziDbES"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
+      "added_at": "2024-08-14 14:21:25",
       "album": {
-        "name": "Northern Classic",
-        "url": "https://open.spotify.com/album/49w9XEYsCNsmcRU0mM6Edr"
+        "name": "Nostalgia Por Mesoz\u00f3ica",
+        "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
       },
       "artists": [
         {
-          "name": "Donna Regina",
-          "url": "https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h"
+          "name": "Nikolaienko",
+          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
+        },
+        {
+          "name": "Arthur Mine",
+          "url": "https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie"
         }
       ],
-      "duration_ms": 336786,
-      "name": "Drifting Around",
-      "url": "https://open.spotify.com/track/1qcL2aoIbuIKsBiR3nXHe0"
+      "duration_ms": 169214,
+      "name": "Muzak For Mesozoic Showreel",
+      "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1247,26 +1267,6 @@
       "duration_ms": 281374,
       "name": "And There Is Us",
       "url": "https://open.spotify.com/track/3EWIfsVaZAx5tT0IO7qAAu"
-    },
-    {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Nostalgia Por Mesoz\u00f3ica",
-        "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
-      },
-      "artists": [
-        {
-          "name": "Nikolaienko",
-          "url": "https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig"
-        },
-        {
-          "name": "Arthur Mine",
-          "url": "https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie"
-        }
-      ],
-      "duration_ms": 169214,
-      "name": "Muzak For Mesozoic Showreel",
-      "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1369,6 +1369,22 @@
       "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Misterio Lounge 3000",
+        "url": "https://open.spotify.com/album/58pzHI7Hc7nhIJA9vfraww"
+      },
+      "artists": [
+        {
+          "name": "Tia Rosa",
+          "url": "https://open.spotify.com/artist/220h1bpQcfo1fVqmTwvgpS"
+        }
+      ],
+      "duration_ms": 223098,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb"
+    },
+    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "PISO (Originals)",
@@ -1427,22 +1443,6 @@
       "duration_ms": 196800,
       "name": "DON'T! DON'T!! DON'T!!! (feat. YEEET)",
       "url": "https://open.spotify.com/track/3LlORu6FXlZUflmYujCFIk"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Misterio Lounge 3000",
-        "url": "https://open.spotify.com/album/58pzHI7Hc7nhIJA9vfraww"
-      },
-      "artists": [
-        {
-          "name": "Tia Rosa",
-          "url": "https://open.spotify.com/artist/220h1bpQcfo1fVqmTwvgpS"
-        }
-      ],
-      "duration_ms": 223098,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Fire Escape",
-        "url": "https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj"
-      },
-      "artists": [
-        {
-          "name": "Alena Spanger",
-          "url": "https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Ines",
-      "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Bearings: Soundtracks for the Bardos",
         "url": "https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 240868,
       "name": "Gate VIII",
       "url": "https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Fire Escape",
+        "url": "https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj"
+      },
+      "artists": [
+        {
+          "name": "Alena Spanger",
+          "url": "https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Ines",
+      "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "5GTOUR",
-        "url": "https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM"
-      },
-      "artists": [
-        {
-          "name": "John T. Gast",
-          "url": "https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv"
-        }
-      ],
-      "duration_ms": 222580,
-      "name": "Manc TK 2",
-      "url": "https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Airdrop 04 (Squeeze Yer Lemon)",
         "url": "https://open.spotify.com/album/5WSxEXdCW5QSYIphB2nNMf"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 258906,
       "name": "Airdrop 04 (Squeeze Yer Lemon)",
       "url": "https://open.spotify.com/track/3QloqA8jZIy0pQ2kZF88Be"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "5GTOUR",
+        "url": "https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM"
+      },
+      "artists": [
+        {
+          "name": "John T. Gast",
+          "url": "https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv"
+        }
+      ],
+      "duration_ms": 222580,
+      "name": "Manc TK 2",
+      "url": "https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb"
     },
     {
       "added_at": "2024-08-21 04:00:00",

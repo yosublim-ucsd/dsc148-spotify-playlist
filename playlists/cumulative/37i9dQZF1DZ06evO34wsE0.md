@@ -4,7 +4,7 @@
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 4 min
+71 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [No One Needs To Know](https://open.spotify.com/track/4vbW5aT9UQGRqEScStQPPy) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 3:03 | 2024-03-09 |  |
 | [Not Just A Girl](https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Not Just A Girl \(The Highlights\)](https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS) | 3:11 | 2024-03-17 |  |
 | [On Three](https://open.spotify.com/track/7qAXZbesT1QwNJa5YYUjR5) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me \(Royal Edition Extended Version\)](https://open.spotify.com/album/2pymQjoyFaQuoGL1oOZeD9) | 2:40 | 2024-03-09 | 2024-06-24 |
-| [Party For Two \- Country Version With Intro](https://open.spotify.com/track/55kykeNfV69sx779NZrJ7s) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Party For Two](https://open.spotify.com/album/6bkLKyiAoJZ9clOYQs5PSo) | 3:32 | 2024-03-09 |  |
+| [Party For Two \- Country Version With Intro](https://open.spotify.com/track/2jGUPNSCOkqiX6yRnAoO8w) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Shania: The Queen Of Country Pop](https://open.spotify.com/album/0Lyu4QtTnVUC7vVycP5l4J) | 3:32 | 2024-08-28 |  |
+| [Party For Two \- Country Version With Intro](https://open.spotify.com/track/55kykeNfV69sx779NZrJ7s) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Party For Two](https://open.spotify.com/album/6bkLKyiAoJZ9clOYQs5PSo) | 3:32 | 2024-03-09 | 2024-08-28 |
 | [Pretty Liar](https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:39 | 2024-03-09 |  |
 | [Queen Of Me](https://open.spotify.com/track/5HONmel0YqVDMLTtcyWLhX) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:58 | 2024-03-09 | 2024-07-27 |
 | [Rock This Country!](https://open.spotify.com/track/00K3iFsXALgjg5ECPLR1hs) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 4:22 | 2024-03-09 |  |

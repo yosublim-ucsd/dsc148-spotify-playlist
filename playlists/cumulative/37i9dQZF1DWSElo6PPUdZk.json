@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 171195,
       "name": "Dil Te",
       "url": "https://open.spotify.com/track/2UPFPN46lpcpZCSCrPVjad"
@@ -536,6 +536,24 @@
       "duration_ms": 134193,
       "name": "Ik Geda",
       "url": "https://open.spotify.com/track/5kJVxhYjXnMaY41pzxAGSw"
+    },
+    {
+      "album": {
+        "name": "Intezaar",
+        "url": "https://open.spotify.com/album/7zjPljtqKa0utnZ1LimzTY"
+      },
+      "artists": [
+        {
+          "name": "Subhi",
+          "url": "https://open.spotify.com/artist/2n4qix48iT07tbyBdxAjM2"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192989,
+      "name": "Intezaar",
+      "url": "https://open.spotify.com/track/2kMKwLbuwIHCDB4dmR8yCL"
     },
     {
       "album": {
@@ -832,7 +850,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 161490,
       "name": "La La La",
       "url": "https://open.spotify.com/track/6dMm31vV30QYSLwpcTPznv"
@@ -1540,6 +1558,36 @@
       "duration_ms": 143414,
       "name": "Taur",
       "url": "https://open.spotify.com/track/7wk74Tjsm5TrWfiL2FMIWZ"
+    },
+    {
+      "album": {
+        "name": "Purani Dilli",
+        "url": "https://open.spotify.com/album/7goQjofv7pPE9YGBIsBlOa"
+      },
+      "artists": [
+        {
+          "name": "Masaba",
+          "url": "https://open.spotify.com/artist/5wqQrS5pyg3kv4FRI6I45P"
+        },
+        {
+          "name": "Akshay & IP",
+          "url": "https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/4GAZsJ8Hsbw5TmeHPP2HLY"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220625,
+      "name": "Tera Haq",
+      "url": "https://open.spotify.com/track/66OGvgobRKRtyysSDTTU7j"
     },
     {
       "album": {

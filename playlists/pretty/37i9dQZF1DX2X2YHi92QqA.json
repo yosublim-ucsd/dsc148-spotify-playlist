@@ -1,6 +1,6 @@
 {
   "description": "\u0427\u0430\u0441 \u043f\u0435\u0440\u0435\u043f\u043e\u0447\u0438\u0442\u0438 \ud83c\udf3b\ud83e\uddd8\ud83c\udf32",
-  "num_followers": 31042,
+  "num_followers": 31094,
   "original_name": "\u041b\u0456\u0442\u043d\u0456\u0439 \u0440\u0435\u043b\u0430\u043a\u0441",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "flowers on my eyes",
-        "url": "https://open.spotify.com/album/033Z9ruvrTmWyEOLd4Iewt"
-      },
-      "artists": [
-        {
-          "name": "ANNABELLE",
-          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
-        }
-      ],
-      "duration_ms": 148173,
-      "name": "flowers on my eyes",
-      "url": "https://open.spotify.com/track/1hdrpaZSva33dtcASJW4yg"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "\u041b\u0456\u0442\u0435\u043f\u043b\u043e",
         "url": "https://open.spotify.com/album/1mgFYpASAWkMjxQPU0N9r0"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 177468,
       "name": "\u041b\u0435\u0441\u044f",
       "url": "https://open.spotify.com/track/6YVPwRSKMr6SnOBtbdJa1m"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "flowers on my eyes",
+        "url": "https://open.spotify.com/album/033Z9ruvrTmWyEOLd4Iewt"
+      },
+      "artists": [
+        {
+          "name": "ANNABELLE",
+          "url": "https://open.spotify.com/artist/6ge7MfOUbSmEvDxOaHeKOm"
+        }
+      ],
+      "duration_ms": 148173,
+      "name": "flowers on my eyes",
+      "url": "https://open.spotify.com/track/1hdrpaZSva33dtcASJW4yg"
     },
     {
       "added_at": "2024-07-12 16:07:22",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-12 16:07:22",
       "album": {
-        "name": "\u041b\u0456\u0442\u043e\u043c",
-        "url": "https://open.spotify.com/album/1MC5YNrcI3dLWh9aFEmmpy"
-      },
-      "artists": [
-        {
-          "name": "\u0413\u0435\u043b\u044f \u0417\u043e\u0437\u0443\u043b\u044f",
-          "url": "https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B"
-        }
-      ],
-      "duration_ms": 133384,
-      "name": "\u041b\u0456\u0442\u043e\u043c",
-      "url": "https://open.spotify.com/track/00JNUr987Adbk9Y8Toukd7"
-    },
-    {
-      "added_at": "2024-07-12 16:07:22",
-      "album": {
         "name": "\u0412\u0456\u0440 \u043c\u0435\u043d\u0456",
         "url": "https://open.spotify.com/album/23yQRx1Jd5gPYuixowWL6C"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 238672,
       "name": "\u0421\u043e\u043d\u044f\u0447\u043d\u0430",
       "url": "https://open.spotify.com/track/5DyqWpCHHVfB6BO3Uucdxg"
+    },
+    {
+      "added_at": "2024-07-12 16:07:22",
+      "album": {
+        "name": "\u041b\u0456\u0442\u043e\u043c",
+        "url": "https://open.spotify.com/album/1MC5YNrcI3dLWh9aFEmmpy"
+      },
+      "artists": [
+        {
+          "name": "\u0413\u0435\u043b\u044f \u0417\u043e\u0437\u0443\u043b\u044f",
+          "url": "https://open.spotify.com/artist/5NR8eODM4CQ2X6rBuGpZ2B"
+        }
+      ],
+      "duration_ms": 133384,
+      "name": "\u041b\u0456\u0442\u043e\u043c",
+      "url": "https://open.spotify.com/track/00JNUr987Adbk9Y8Toukd7"
     },
     {
       "added_at": "2024-07-12 16:07:22",

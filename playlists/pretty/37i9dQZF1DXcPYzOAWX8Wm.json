@@ -1,6 +1,6 @@
 {
   "description": "A look back at tracks from over the past four years. A mixtape of music made for the Class of 2023.",
-  "num_followers": 137320,
+  "num_followers": 137311,
   "original_name": "CLASS OF 2023 mixtape",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Godzilla (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Godzilla (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -999,26 +999,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Head & Heart (feat. MNEK)",
-        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "MNEK",
-          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
-        }
-      ],
-      "duration_ms": 166028,
-      "name": "Head & Heart (feat. MNEK)",
-      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Yonaguni",
-        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 206710,
-      "name": "Yonaguni",
-      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
         "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Yonaguni",
+        "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 206710,
+      "name": "Yonaguni",
+      "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "WAP (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 187541,
-      "name": "WAP (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -1343,6 +1323,26 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 187541,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "evermore",
-        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "willow",
-      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -1391,6 +1375,22 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "willow",
+      "url": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "True 2 Myself",
+        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "F.N",
+      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 146826,
       "name": "Phone Numbers",
       "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "True 2 Myself",
-        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "F.N",
-      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2127,6 +2127,26 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 191710,
+      "name": "All For Us",
+      "url": "https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
       },
@@ -2159,26 +2179,6 @@
       "duration_ms": 123890,
       "name": "Just Wanna Rock",
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 191710,
-      "name": "All For Us",
-      "url": "https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
         "name": "Savage Love (Laxed - Siren Beat)",
         "url": "https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw"
       },
@@ -2279,22 +2295,6 @@
       "duration_ms": 171374,
       "name": "Savage Love (Laxed - Siren Beat)",
       "url": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2023-05-05 20:25:55",
@@ -2631,22 +2631,6 @@
     {
       "added_at": "2023-05-05 20:25:55",
       "album": {
-        "name": "Numb Little Bug",
-        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 169237,
-      "name": "Numb Little Bug",
-      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
-    },
-    {
-      "added_at": "2023-05-05 20:25:55",
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -2667,6 +2651,22 @@
       "duration_ms": 136266,
       "name": "pushin P (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
+    },
+    {
+      "added_at": "2023-05-05 20:25:55",
+      "album": {
+        "name": "Numb Little Bug",
+        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 169237,
+      "name": "Numb Little Bug",
+      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
     }
   ],
   "unique_name": "CLASS OF 2023 mixtape",

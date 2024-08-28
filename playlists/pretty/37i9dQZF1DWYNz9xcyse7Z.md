@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,278 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,418 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 27 | [Eres Alta Y Delgadita](https://open.spotify.com/track/2PlKMLi8sdNqwwpWVMzt4l) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Mirandote En Las Estrellas](https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0) | 3:37 |
 | 28 | [Paz En Este Amor](https://open.spotify.com/track/1Xbm5nIzaassAYgdAxYhs0) | [Los Sierreños](https://open.spotify.com/artist/5MXWcBs0RGTVN1bz9N7g3A) | [Puros Trancazos](https://open.spotify.com/album/08dcA7ua0W4qrkIUTuZ5VU) | 3:20 |
 | 29 | [Flor Hermosa](https://open.spotify.com/track/3UTj5afltxN4pVei3W29QF) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm), [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z) | [Aqui En El Rancho](https://open.spotify.com/album/3Vc8Qcv33FPblUCq9ZcHBg) | 3:10 |
-| 30 | [Se Me Mamo El Becerro](https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 2](https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt) | 3:58 |
+| 30 | [Con Cartitas Y Whatsapp](https://open.spotify.com/track/2mPzoT5ElSrwAR03lROXW6) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:34 |
 | 31 | [El Águila Real \(Nave 727\)](https://open.spotify.com/track/4PoXStxn4GkJUBykmK7WXK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Águila Real](https://open.spotify.com/album/4Rt8x3lAOEwPN1XxUSWejx) | 3:13 |
 | 32 | [Por No Perderte Te Perdi](https://open.spotify.com/track/2ztISQmyTEG5YFb6z3VX3O) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:32 |
 | 33 | [El Amor No Se Vende](https://open.spotify.com/track/6kryfJVx06nofw6Z3bVUjx) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Por Las Calles Enlodadas](https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD) | 2:28 |
 | 34 | [Estrellas Y Diamantes](https://open.spotify.com/track/4W74SThE9ZGTQVxLmbdf8X) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ['10 Exitazos "A Cada Instante"](https://open.spotify.com/album/2JZUUEzkGbWFmeNCMdkKQC) | 2:04 |
-| 35 | [Con Cartitas Y Whatsapp](https://open.spotify.com/track/2mPzoT5ElSrwAR03lROXW6) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:34 |
+| 35 | [Se Me Mamo El Becerro](https://open.spotify.com/track/3iLJ53jfHQjiF81Uq9DhLX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra y Yo Vol\. 2](https://open.spotify.com/album/6jAhWbo63ozfQy9GGsbcNt) | 3:58 |
 | 36 | [La Que Se Fue](https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:59 |
 | 37 | [Medias Negras](https://open.spotify.com/track/4THPXBPEMxUpu2cqzqhJYP) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Aferrado](https://open.spotify.com/album/5cnO4MJMGDjRQ24TYmI6eH) | 2:49 |
 | 38 | [Cuando Calienta El Sol](https://open.spotify.com/track/3NRmDinC525gVHBjpqLGps) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Mirandote En Las Estrellas](https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0) | 3:25 |

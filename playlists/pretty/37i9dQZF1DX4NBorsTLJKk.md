@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 
 > 天空灰灰的、到處溼淋淋的，我們聽歌就好，先不要去感覺那些事。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,726 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,733 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 7 | [雨一直下](https://open.spotify.com/track/2qR3vdtESGlvPuiKj7BtM7) | [Phil Chang](https://open.spotify.com/artist/7g65zUBhUAbiu4pAcoyWRd) | [男人的好　新歌精選影音全記錄](https://open.spotify.com/album/08UGnjCvD6dW7WpR0blLGs) | 4:50 |
 | 8 | [聽見下雨的聲音\(電影主題曲\)](https://open.spotify.com/track/2OOK2CFsrYsFHR4roIHett) | [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [聽見下雨的聲音](https://open.spotify.com/album/2zsHqT7FqywxoRvAvD3v0t) | 4:42 |
 | 9 | [下雨了](https://open.spotify.com/track/2WbV5lenncUu7VhZThGbjR) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [初學者](https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ) | 5:05 |
-| 10 | [兩人雨天](https://open.spotify.com/track/3Y7mPzWHKsEKZNdqe4wjtu) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [一萬小時](https://open.spotify.com/album/571Mh6oowokeW1RIfqCmaz) | 4:46 |
-| 11 | [偶陣雨](https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [愛久見人心](https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F) | 4:26 |
+| 10 | [偶陣雨](https://open.spotify.com/track/7CGqTLkREqWW3ipRFbUvbB) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [愛久見人心](https://open.spotify.com/album/3nGoGGL3rO8nrrghIo3I0F) | 4:26 |
+| 11 | [兩人雨天](https://open.spotify.com/track/3Y7mPzWHKsEKZNdqe4wjtu) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [一萬小時](https://open.spotify.com/album/571Mh6oowokeW1RIfqCmaz) | 4:46 |
 | 12 | [藍雨](https://open.spotify.com/track/6xJggWssdiq6VaFK13MXYB) | [Jacky Cheung](https://open.spotify.com/artist/1Hu58yHg2CXNfDhlPd7Tdd) | [真愛 新曲 + 真正精選](https://open.spotify.com/album/2yt1DMuGmxNqy1D5uuwmwW) | 4:16 |
 | 13 | [茉莉雨](https://open.spotify.com/track/46PzflyM0fehl0AtZutikH) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [新地球](https://open.spotify.com/album/4kXABOKrhJ2jKUNYGRQPr8) | 4:16 |
 | 14 | [雨不停。流 \- 電視劇《無神之地不下雨》片尾曲](https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [雨不停。流 \(電視劇《無神之地不下雨》片尾曲\)](https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU) | 4:25 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NBorsTLJKk.md) - [plain]
 | 56 | [等雨](https://open.spotify.com/track/6ZFbVCOCfticaZjBQ0dLDA) | [Hu Xia](https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR) | [拾](https://open.spotify.com/album/5AgltDdpS6cBwYNsctFypI) | 4:09 |
 | 57 | [雨與你](https://open.spotify.com/track/01BQfSbNd3LflgSiPXizkO) | [陳建年](https://open.spotify.com/artist/1UAZlkup3OPkbEYiH8tlbi) | [海洋音樂創作專輯](https://open.spotify.com/album/3lgDIJPRUSsSgim5cBZ5mE) | 6:09 |
 | 58 | [雨](https://open.spotify.com/track/0m7uxvAiW5XPivDT577V48) | [Sunnee楊芸晴](https://open.spotify.com/artist/07Qt0KlMf6vpPVXuY5Qrhj) | [天气:晴](https://open.spotify.com/album/3HSN2zhQC6AZ3P9KPGbCK5) | 3:58 |
-| 59 | [聽見下雨的聲音](https://open.spotify.com/track/22NAGVzy0ctgT9E2mYMRTC) | [玩聲樂團](https://open.spotify.com/artist/75OXQk14pr8AhmV159yq85) | [VOX 2](https://open.spotify.com/album/47zpJDU5Djszna4nNVhq83) | 4:11 |
-| 60 | [怎麼又是下雨天](https://open.spotify.com/track/4ytwN2vT5kMdki4LmmHpKS) | [Ken Deng 肯鄧](https://open.spotify.com/artist/67WEyeIvKyJEX30EzqrXoC), [NaiXin](https://open.spotify.com/artist/77FgzteLtghErXTnE6l1PS) | [Montagne D'amour 愛情山](https://open.spotify.com/album/6GqTOdNqk78tx5LJo3v5Tg) | 4:04 |
+| 59 | [怎麼又是下雨天](https://open.spotify.com/track/4ytwN2vT5kMdki4LmmHpKS) | [Ken Deng 肯鄧](https://open.spotify.com/artist/67WEyeIvKyJEX30EzqrXoC), [NaiXin](https://open.spotify.com/artist/77FgzteLtghErXTnE6l1PS) | [Montagne D'amour 愛情山](https://open.spotify.com/album/6GqTOdNqk78tx5LJo3v5Tg) | 4:04 |
+| 60 | [聽見下雨的聲音](https://open.spotify.com/track/22NAGVzy0ctgT9E2mYMRTC) | [玩聲樂團](https://open.spotify.com/artist/75OXQk14pr8AhmV159yq85) | [VOX 2](https://open.spotify.com/album/47zpJDU5Djszna4nNVhq83) | 4:11 |
 | 61 | [下雨天](https://open.spotify.com/track/4OoJ6yYi1h01D0LWXT8dQr) | [Moon Chew](https://open.spotify.com/artist/6aNXXIGCTxVP98Mp1lafGq) | [下雨天](https://open.spotify.com/album/65cvYcrZQA6nWGphMBlYYI) | 4:25 |
 | 62 | [雨天](https://open.spotify.com/track/7lpua9fF4OOuYoQity6uRA) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [淳.佳\. \(新歌+精選\)](https://open.spotify.com/album/6EAVkUzyCZmAxu1jETZLAt) | 4:57 |
 | 63 | [雨](https://open.spotify.com/track/6LagCTmPN43dbbTvfiGwLz) | [脫拉庫](https://open.spotify.com/artist/0pt4nJkyLo7QGErUoqSREx) | [歡迎脫拉庫](https://open.spotify.com/album/6DxtTS5klLqGAl68AzouEk) | 4:18 |

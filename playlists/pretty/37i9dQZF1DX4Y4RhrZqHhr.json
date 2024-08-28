@@ -1,6 +1,6 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 873720,
+  "num_followers": 874179,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-14 15:19:20",
       "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2024-08-14 15:19:20",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-08-14 15:19:20",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
-      },
-      "artists": [
-        {
-          "name": "Axwell /\\ Ingrosso",
-          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "More Than You Know",
-      "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
         "name": "The Trinity",
         "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 218573,
       "name": "Temperature",
       "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ"
+      },
+      "artists": [
+        {
+          "name": "Axwell /\\ Ingrosso",
+          "url": "https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "More Than You Know",
+      "url": "https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP"
     },
     {
       "added_at": "2024-08-14 15:19:20",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-08-14 15:19:20",
       "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
         "name": "Rasputin",
         "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 186209,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2024-08-14 15:19:20",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2024-08-14 15:19:20",
       "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Milaa",
+          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -1619,26 +1639,6 @@
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Milaa",
-          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
-        }
-      ],
-      "duration_ms": 214214,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
     },
     {
       "added_at": "2024-08-14 15:19:20",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2024-08-14 15:19:20",
       "album": {
-        "name": "TAKE IT OFF",
-        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 194604,
-      "name": "TAKE IT OFF",
-      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
-    },
-    {
-      "added_at": "2024-08-14 15:19:20",
-      "album": {
         "name": "She Said (Big Jet Plane)",
         "url": "https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc"
       },
@@ -1723,6 +1703,26 @@
       "duration_ms": 173750,
       "name": "She Said (Big Jet Plane)",
       "url": "https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE"
+    },
+    {
+      "added_at": "2024-08-14 15:19:20",
+      "album": {
+        "name": "TAKE IT OFF",
+        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "TAKE IT OFF",
+      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
     },
     {
       "added_at": "2024-08-14 15:19:20",

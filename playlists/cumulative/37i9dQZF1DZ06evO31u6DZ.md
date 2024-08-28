@@ -4,7 +4,7 @@
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-103 songs - 5 hr 48 min
+104 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Handguns and Second Chances](https://open.spotify.com/track/2HdtxF6IO9zvFTyuoe44kX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 2:21 | 2022-10-25 |  |
 | [Hell is in Your Head](https://open.spotify.com/track/06f39OJsLh2MCDFGFBZyY9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:03 | 2022-10-25 |  |
 | [Holy Mountain](https://open.spotify.com/track/3LvK2Plt07xaxLS2DaE1S9) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 3:49 | 2023-03-07 | 2023-12-14 |
-| [Holy Mountain](https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:49 | 2023-12-13 |  |
+| [Holy Mountain](https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:49 | 2023-12-13 | 2024-08-28 |
 | [I Am Error](https://open.spotify.com/track/6dedec4UcACJV9MlQwydqK) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:52 | 2022-10-25 | 2024-07-17 |
 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/373GdfW6KshUwMjxk4JtKp) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [I'm Sorry I'm Leaving](https://open.spotify.com/album/7K1AZt6c0aXqLiS7S4qCYi) | 3:12 | 2022-10-25 | 2022-11-15 |
 | [I'm Sorry I'm Leaving](https://open.spotify.com/track/3Jfeb0s8slLKVt9GQop2jL) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:12 | 2022-11-14 |  |
@@ -69,6 +69,7 @@
 | [Mi Amor](https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:29 | 2023-12-13 |  |
 | [Mi Amor](https://open.spotify.com/track/7jqNINX4kZhSQOKmYvLkxZ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/3z6xGsObjZFEdnUgZaU2MP) | 3:29 | 2022-10-25 | 2023-12-14 |
 | [Miles to Go](https://open.spotify.com/track/4a7Atfhoc5GUiHLY228vd1) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:11 | 2024-07-20 | 2024-07-21 |
+| [Negative Space](https://open.spotify.com/track/4PPK137xAYDvZuHLbZ3XKh) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5) | 1:21 | 2024-08-28 |  |
 | [Negative Space](https://open.spotify.com/track/54GtzmielGnNaqkpmfCp4o) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching](https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B) | 1:21 | 2023-03-25 | 2023-05-10 |
 | [New Jersey Makes, The World Takes](https://open.spotify.com/track/25PtrOA0qzM9IUtkGuEAn3) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 2:59 | 2022-10-25 |  |
 | [New Year's Eve](https://open.spotify.com/track/3eZYL9YvI8aGYWDfO8Km7V) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:14 | 2023-12-13 |  |

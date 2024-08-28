@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 ### [This Is Björk](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg)
 
-> This is Björk\. The essential tracks, all in one playlist.
+> This Is Björk\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,512 likes - 39 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,542 likes - 39 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 33 | [Stonemilker](https://open.spotify.com/track/17DNqXJCKp5ku17UUvzFj9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/3OEeigyzeq8B1KexshYRwC) | 6:49 |
 | 34 | [I’ve Seen It All](https://open.spotify.com/track/47GoneztCss0TMaTQfl4Sv) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Selma Songs](https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S) | 5:29 |
 | 35 | [Crystalline \- Omar Souleyman Remix](https://open.spotify.com/track/1Vi97HM3mDyEQuUoHw4KxS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Bastards](https://open.spotify.com/album/3KOU8rmLKgULTogBAz1px4) | 6:39 |
-| 36 | [Ovule](https://open.spotify.com/track/4mX0h2W7mxcIBh6anDsZMq) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 3:38 |
-| 37 | [Batabid](https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ) | 2:26 |
+| 36 | [Batabid](https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ) | 2:26 |
+| 37 | [Ovule](https://open.spotify.com/track/4mX0h2W7mxcIBh6anDsZMq) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 3:38 |
 | 38 | [Triumph Of A Heart](https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 4:04 |
 | 39 | [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 |
 
-Snapshot ID: `Zsp0AAAAAABhu57MY/2ZGJSt7lyU40G+`
+Snapshot ID: `ZsvFgAAAAAAU13qek/QymBJ/QhSjHn94`

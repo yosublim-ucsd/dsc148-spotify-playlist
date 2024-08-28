@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Isadora Pompeo
 
-288 songs - 1 day 4 hr 16 min
+289 songs - 1 day 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Memórias do Coração \- Ao Vivo](https://open.spotify.com/track/6B1a0TxKkb0YBbs3pIUxWi) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Asaph Borba](https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm), [Isaque Valadão Bessa](https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9) | [Memórias do Coração \- Vol 1 \(Ao Vivo\)](https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS) | 5:54 | 2023-09-01 | 2023-09-16 |
 | [Merecedor da Glória \(Ao Vivo\)](https://open.spotify.com/track/6KrMGcI7P8lZIGMlqYeJC9) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Merecedor da Glória \(Ao Vivo\)](https://open.spotify.com/album/685P0MAJpj5RjRDpAGSstK) | 6:18 | 2024-08-16 |  |
 | [Meu Abrigo \- Ao Vivo](https://open.spotify.com/track/4KDyhuFpO8CYyoz8TsHc7S) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM) | [Meu Abrigo \(Ao Vivo\)](https://open.spotify.com/album/6ZycqdebG7YEeX2LiVZEuW) | 4:59 | 2022-09-09 | 2023-02-25 |
-| [Meu Filho, Descansa](https://open.spotify.com/track/7Gsc3mp3uZqjCWK6N0EvJv) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Meu Filho, Descansa](https://open.spotify.com/album/025sVZFpzszdBpyDespCnZ) | 4:03 | 2023-12-22 |  |
+| [Meu Filho, Descansa](https://open.spotify.com/track/7Gsc3mp3uZqjCWK6N0EvJv) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Meu Filho, Descansa](https://open.spotify.com/album/025sVZFpzszdBpyDespCnZ) | 4:03 | 2023-12-22 | 2024-08-28 |
 | [Meu Jesus \- Ao Vivo](https://open.spotify.com/track/0sGPH4r42PqFYKvkST5TVP) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Jesus \(Ao Vivo\)](https://open.spotify.com/album/7fxJm9aiReibkvS3HlMARu) | 8:40 | 2023-02-24 |  |
 | [Meu Maior Desejo](https://open.spotify.com/track/057L1j7QOaDPCJg6q4tNfc) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [Meu Maior Desejo](https://open.spotify.com/album/05uKIYNNY5PBsn6pOqVqCN) | 4:16 | 2023-06-16 | 2023-08-19 |
 | [Meu Pai Governa](https://open.spotify.com/track/1HyP1gEk4yLdtxkwOf8Li5) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Meu Pai Governa](https://open.spotify.com/album/44Kj6i5tPowBzt2QJ8ZMce) | 7:32 | 2023-04-15 | 2023-04-29 |
@@ -294,6 +294,7 @@
 | [És Fiel \- Ao Vivo](https://open.spotify.com/track/4m0Nt1EV6rAKTkWCylIzO9) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade e Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/5j0f8bR03wez6tjrHpiKUN) | 7:58 | 2023-11-24 | 2024-04-20 |
 | [És o Amor \- Ao Vivo](https://open.spotify.com/track/1GCcCDFgvbWkvoV0p63GzE) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [És o Amor \(Ao Vivo\)](https://open.spotify.com/album/6XwMG5ccStny3gdS1jepER) | 6:43 | 2023-02-03 |  |
 | [Êxodo \- Ao Vivo](https://open.spotify.com/track/0uVGf6AmdNCIrvNBkQM7Qa) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Êxodo \(Ao Vivo\)](https://open.spotify.com/album/3MY0dKYirZvEnZXwiUpS0G) | 4:05 | 2023-06-02 | 2023-06-24 |
+| [Único \- Acústico](https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Único \- Acústico](https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb) | 8:26 | 2024-08-27 |  |
 | [Único \- Ao vivo](https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn), [Marco Telles](https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ) | [Único \(Ao Vivo\)](https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT) | 7:36 | 2023-09-01 |  |
 | [Único \- Live](https://open.spotify.com/track/00E2KxBwL0B3idGMJcRoEh) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Único \(Live\)](https://open.spotify.com/album/1lOiNzzfdghtwLHhr2Jikh) | 6:59 | 2023-04-15 |  |
 

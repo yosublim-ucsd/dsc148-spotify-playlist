@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-11",
+      "date_removed": null,
       "duration_ms": 182969,
       "name": "AUNQUE NO DIGAS NADA",
       "url": "https://open.spotify.com/track/5ppADN6WbBHCglJPN6oqII"
@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 223255,
       "name": "Bla, Bla, Bla",
       "url": "https://open.spotify.com/track/7LObVUWVLHGG3iSrVUarmu"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 199811,
       "name": "Como Yo Sufr\u00ed",
       "url": "https://open.spotify.com/track/3Zr7uoiVfw5HVjsdAI4R9t"
@@ -3279,6 +3279,24 @@
     },
     {
       "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
         "name": "Dime Si Tu",
         "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
       },
@@ -3302,6 +3320,28 @@
       "duration_ms": 196823,
       "name": "Dime Si Tu",
       "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
+    },
+    {
+      "album": {
+        "name": "Rayo",
+        "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "Doblexx\u00f3",
+      "url": "https://open.spotify.com/track/2llFXBrftm6YJzBj3tpk0s"
     },
     {
       "album": {
@@ -3604,6 +3644,24 @@
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
+    },
+    {
+      "album": {
+        "name": "El Traje del PSG",
+        "url": "https://open.spotify.com/album/7si1GXgwYOKGt9y4F0VK90"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Da Rosa",
+          "url": "https://open.spotify.com/artist/1aKohXKamlQBtSQz2LwGax"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163666,
+      "name": "El Traje del PSG",
+      "url": "https://open.spotify.com/track/0aKBAAr9c9blu9ArZ3TGiT"
     },
     {
       "album": {
@@ -4640,7 +4698,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 180922,
       "name": "Harpy Hare",
       "url": "https://open.spotify.com/track/35I2E525yJpUQ5ZJgfxizT"
@@ -5154,7 +5212,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -5585,6 +5643,24 @@
     },
     {
       "album": {
+        "name": "La Foto",
+        "url": "https://open.spotify.com/album/06I6NgN45EyL1hy4QtI3pU"
+      },
+      "artists": [
+        {
+          "name": "Luis Vega",
+          "url": "https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193461,
+      "name": "La Foto",
+      "url": "https://open.spotify.com/track/1BSijYfeMpjKCzfROYNKh7"
+    },
+    {
+      "album": {
         "name": "La Gallina turuleca PHONK brazilian Original",
         "url": "https://open.spotify.com/album/2TNz0K4KZtN1pnBZLd9wXN"
       },
@@ -5952,6 +6028,24 @@
       "duration_ms": 163290,
       "name": "LET THE WORLD BURN",
       "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
+    },
+    {
+      "album": {
+        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
+        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
+      },
+      "artists": [
+        {
+          "name": "I'll Take You There Choir",
+          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152893,
+      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
+      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
     },
     {
       "album": {
@@ -6821,6 +6915,28 @@
     },
     {
       "album": {
+        "name": "Maradona (Tatara)",
+        "url": "https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150485,
+      "name": "Maradona (Tatara)",
+      "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
+    },
+    {
+      "album": {
         "name": "Maravilhosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0BRhouUT8lNTWrto5NPNSa"
       },
@@ -6978,7 +7094,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 234077,
       "name": "Mejores Jordans",
       "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
@@ -7582,7 +7698,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 54308,
       "name": "MONTAGEM VOZES PROFUNDAS - TikTok Version",
       "url": "https://open.spotify.com/track/6gXzRzLtdNSbsJVg72J3AA"
@@ -7892,7 +8008,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 149073,
       "name": "NEL",
       "url": "https://open.spotify.com/track/5AH31dDNgxCMGDdxubNNn4"
@@ -8394,7 +8510,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 144000,
       "name": "O Melhor no Que Faz 3.0 [Slowed]",
       "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
@@ -8580,7 +8696,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
@@ -10600,7 +10716,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-15",
+      "date_removed": null,
       "duration_ms": 153500,
       "name": "Solida",
       "url": "https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5"
@@ -10658,6 +10774,32 @@
       "duration_ms": 199825,
       "name": "SOLO POR VOS",
       "url": "https://open.spotify.com/track/0qhynIDQPUYENhtIQ3TUyE"
+    },
+    {
+      "album": {
+        "name": "Soltera - W Sound 01",
+        "url": "https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142022,
+      "name": "Soltera - W Sound 01",
+      "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
     },
     {
       "album": {
@@ -11130,7 +11272,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 157593,
       "name": "S\u00f3lida",
       "url": "https://open.spotify.com/track/7eTTWunsR2Z1z5plDYKk6C"
@@ -11160,6 +11302,24 @@
       "duration_ms": 156716,
       "name": "Tacata (Remix)",
       "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
+    },
+    {
+      "album": {
+        "name": "Tal Vez Fui Yo",
+        "url": "https://open.spotify.com/album/69jwXCQWJp72tQCYlSkiNs"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150365,
+      "name": "Tal Vez Fui Yo",
+      "url": "https://open.spotify.com/track/587pEvJ7iJhNtcCf5YKEgE"
     },
     {
       "album": {
@@ -12114,7 +12274,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 154800,
       "name": "UN SIGLO SIN TI",
       "url": "https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU"
@@ -13402,7 +13562,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 169951,
       "name": "You Will Never Know It",
       "url": "https://open.spotify.com/track/0fzo0SZtYoefz7umzp835T"

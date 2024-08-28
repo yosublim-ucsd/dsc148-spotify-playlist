@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 667291,
+  "num_followers": 667378,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACmDQf6yc1SFG9vuwF3acfU",
+  "snapshot_id": "ZsvFgAAAAAC+RelKzPQkM4NJdHmexrsF",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 280973,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 223773,
       "name": "Me Against the Music (feat. Madonna) - LP Version / Video Mix",
       "url": "https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 280973,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 273533,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VULGAR (with Madonna)",
         "url": "https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 155258,
       "name": "VULGAR (with Madonna)",
       "url": "https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 273533,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe"
     },
     {
       "added_at": null,

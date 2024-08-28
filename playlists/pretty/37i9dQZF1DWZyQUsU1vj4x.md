@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 
 > Indie folk ventures into the cinematic West.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,896 likes - 111 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,930 likes - 111 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyQUsU1vj4x.md) - [plain]
 | 14 | [Twenty Twenty](https://open.spotify.com/track/3PwNuvZHqvkflzOQkDyBuA) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Twenty Twenty](https://open.spotify.com/album/5XrD1Ct0t5ZLOdduhNAyWW) | 5:03 |
 | 15 | [Coyote Caller](https://open.spotify.com/track/0VfLSNN4WlqpAdWcgrhpgG) | [Joshua James](https://open.spotify.com/artist/0YLUOdFiedWIWBttlDAQeO) | [My Spirit Sister](https://open.spotify.com/album/2TY8oKeXjRCclEn61Wva8s) | 3:27 |
 | 16 | [Haven \(from Life Is Strange\)](https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Haven \(from Life Is Strange\)](https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE) | 2:52 |
-| 17 | [Tragic Magic \- Dream Version](https://open.spotify.com/track/6qF62tssDqn4EZ3FnBAa9q) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Tragic Magic \(Dream Version\)](https://open.spotify.com/album/4iJYb3HLJXRsmJHCLFq6Xt) | 3:03 |
+| 17 | [Tragic Magic \- Dream Version](https://open.spotify.com/track/6qF62tssDqn4EZ3FnBAa9q) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Tragic Magic \- Dream Version](https://open.spotify.com/album/4iJYb3HLJXRsmJHCLFq6Xt) | 3:03 |
 | 18 | [Creature](https://open.spotify.com/track/5z1PL9HAYWIBjp35Ao41Fi) | [Izabel Crane](https://open.spotify.com/artist/5eqfvY3QZzKfZ15ixN8ZqF) | [Spring Fed River / Creature](https://open.spotify.com/album/5lPUk9UG2cVWqrOoxbAkO5) | 4:07 |
 | 19 | [To Feel Alive](https://open.spotify.com/track/0It79bgHAwcMh4BstYKUyw) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [To Feel Alive](https://open.spotify.com/album/0pdUiITxv1TR0NFnO2ngCB) | 4:34 |
 | 20 | [Light That Match](https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf) | [Down Like Silver](https://open.spotify.com/artist/5u96pPXm3JmksPRgYDiVps) | [Light That Match](https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx) | 3:02 |

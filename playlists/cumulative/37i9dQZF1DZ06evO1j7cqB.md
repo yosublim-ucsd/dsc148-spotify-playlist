@@ -2,13 +2,13 @@
 
 ### [This Is Bear McCreary](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1j7cqB)
 
-> This is Bear McCreary\. Todos os maiores hits em uma só playlist.
+> This is Bear McCreary\. The essential tracks, all in one playlist.
 
 97 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Giant's Prayer](https://open.spotify.com/track/51FHUASLdd5DpdFi2BAG61) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 1:59 | 2024-08-10 | 2024-08-27 |
+| [A Giant's Prayer](https://open.spotify.com/track/51FHUASLdd5DpdFi2BAG61) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 1:59 | 2024-08-10 |  |
 | [A Nation of Thieves](https://open.spotify.com/track/7AVTt9u2sWa3q1YXRLqyxx) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 3:22 | 2024-07-27 | 2024-08-02 |
 | [A Plea to the Rocks](https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Nomvete](https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Four: The Great Wave \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno) | 3:47 | 2022-12-01 |  |
 | [A Son's Path](https://open.spotify.com/track/0bLjwGh7rtnDZrwbmF31ge) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 3:30 | 2022-12-01 |  |
@@ -79,7 +79,7 @@
 | [Tha Mi Sgith'n Fhogar Seo' \(feat\. Griogair Labhruidh\)](https://open.spotify.com/track/43B3H05TIJSGHeIN5Kqarz) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Griogair](https://open.spotify.com/artist/0a7CuqmpmugDCpDgIRoqwK) | [Outlander: Season 7 \(Highlights from the Original Television Soundtrack\)](https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn) | 3:23 | 2023-09-15 | 2024-08-20 |
 | [The Black Rose](https://open.spotify.com/track/65bVC6KYo6AEzSBIuah9BE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Brown](https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 3:26 | 2022-12-30 |  |
 | [The Day Will Come](https://open.spotify.com/track/4tjeF7cfcy4q5vN1Yu7IAo) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Walking Dead \(Original Television Soundtrack\)](https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D) | 2:57 | 2023-03-24 |  |
-| [The Dragon](https://open.spotify.com/track/3y6ok4gZSvQkDLlu89CwlO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:43 | 2023-08-30 |  |
+| [The Dragon](https://open.spotify.com/track/3y6ok4gZSvQkDLlu89CwlO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:43 | 2023-08-30 | 2024-08-28 |
 | [The Echo and the River](https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Brown](https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 2:21 | 2022-12-28 |  |
 | [The End of Tomorrow](https://open.spotify.com/track/29aapjfnEERwyaAVuxWQ96) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Brendan McCreary](https://open.spotify.com/artist/7gfnIXQlp4f6VRiTbhksAD) | [The End of Tomorrow](https://open.spotify.com/album/5OUmTuhqQCnnp0P2uUWBro) | 10:49 | 2024-04-26 | 2024-05-21 |
 | [The Fields of Asphodel](https://open.spotify.com/track/0h0goXVEhCV4Dlbfxq10fX) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sparks & Shadows](https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ) | [Percy Jackson and the Olympians \(Original Series Soundtrack\)](https://open.spotify.com/album/3QgBafkEM8gwLgayprkVY8) | 2:21 | 2024-02-05 | 2024-03-01 |

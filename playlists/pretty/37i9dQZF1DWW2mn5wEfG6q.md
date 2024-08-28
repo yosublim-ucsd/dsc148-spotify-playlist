@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 
 > 2013 highlights from the home of indie music\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,604 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,638 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,14 +84,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2mn5wEfG6q.md) - [plain]
 | 74 | [One Minute More](https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu), [Sebu Simonian](https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ) | [In A Tidal Wave Of Mystery \- Deluxe Edition](https://open.spotify.com/album/3WrufJir7I61NkvkDwxero) | 3:22 |
 | 75 | [If I Could Change Your Mind](https://open.spotify.com/track/38tpcZDofjtDNunMm5w1EU) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 3:50 |
 | 76 | [Atomic Man](https://open.spotify.com/track/43QhrhgRrH9NWy6eoUro4X) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:47 |
-| 77 | [Avant Gardener](https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej) | 5:12 |
-| 78 | [Late Night](https://open.spotify.com/track/2m32wOGkiV8ltxXvwwVeao) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 5:27 |
-| 79 | [Cardiac Arrest](https://open.spotify.com/track/0VUKyt3fMjws3me8rZJDua) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/45Q2zfxADpUcev6U5MS8KA) | 3:02 |
+| 77 | [Late Night](https://open.spotify.com/track/2m32wOGkiV8ltxXvwwVeao) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Holy Fire](https://open.spotify.com/album/6SBkXTPlJ3oEaFwRm5o2lD) | 5:27 |
+| 78 | [Cardiac Arrest](https://open.spotify.com/track/0VUKyt3fMjws3me8rZJDua) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Language & Perspective](https://open.spotify.com/album/45Q2zfxADpUcev6U5MS8KA) | 3:02 |
+| 79 | [Avant Gardener](https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [The Double EP: A Sea of Split Peas](https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej) | 5:12 |
 | 80 | [Falling](https://open.spotify.com/track/1vSEwZtoQA0sJxkOgF7MtG) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone \(Deluxe Edition\)](https://open.spotify.com/album/7CzrzGbCwqT8Y43tvIUPBX) | 4:17 |
 | 81 | [So High](https://open.spotify.com/track/6UUOkhXDWTqVYjzqNJ1F0x) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [So High](https://open.spotify.com/album/4o4SfH08cmiHk2aRlTcPqj) | 3:07 |
 | 82 | [DNA](https://open.spotify.com/track/3WISqO5EtteMYlfpmJhqHg) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Ice On The Dune](https://open.spotify.com/album/4phgwA30YOM1BAhJEm96Al) | 3:53 |
-| 83 | [XOXO](https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 4:51 |
-| 84 | [If So](https://open.spotify.com/track/5yUXyXZSG80niT5hkh7ucf) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:00 |
+| 83 | [If So](https://open.spotify.com/track/5yUXyXZSG80niT5hkh7ucf) | [Atlas Genius](https://open.spotify.com/artist/42vg2T0Xg9yPaAgogJzoQH) | [When It Was Now](https://open.spotify.com/album/3yhETmhJwSVSLGDyTJgnqo) | 3:00 |
+| 84 | [XOXO](https://open.spotify.com/track/1YzIe5I0UNPgPRPxYpe92f) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [MoM & DaD](https://open.spotify.com/album/1J2rHvvYb6ChhdUXTYkRWJ) | 4:51 |
 | 85 | [We Exist](https://open.spotify.com/track/66gQu4ZIHmDhB8H4wkwm5f) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Reflektor](https://open.spotify.com/album/2brwuyGZ2lLqWnBX6U4MQT) | 5:44 |
 | 86 | [Take It Or Leave It](https://open.spotify.com/track/4cAyxZSDlcVS6CYaeBYrIJ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76) | 3:27 |
 | 87 | [Dancing Anymore](https://open.spotify.com/track/3Xd0819paqFQB4LBA8XVb0) | [IS TROPICAL](https://open.spotify.com/artist/148ujrGRexnhpqhRiw0rDi) | [I'm Leaving](https://open.spotify.com/album/5Fjrapit4FBhLL0E1q6z3Z) | 5:18 |

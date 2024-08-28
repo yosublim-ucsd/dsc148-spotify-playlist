@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,836,810 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,836,995 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 8 | [Shout](https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:33 |
 | 9 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/135ArLV1euyyeegU9D8HVR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 2:59 |
 | 10 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
-| 11 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
+| 11 | [Talking In Your Sleep \(2023 Remaster\)](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat \(2023 Remaster\)](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:56 |
 | 12 | [Just Like Heaven](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 |
 | 13 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
-| 14 | [Talking In Your Sleep \(2023 Remaster\)](https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1) | [The Romantics](https://open.spotify.com/artist/3daM7asS0gCFvyLemNx2EE) | [In Heat \(2023 Remaster\)](https://open.spotify.com/album/0LMfbsue7HETT4P8Mqxbvg) | 3:56 |
+| 14 | [Sea, Swallow Me](https://open.spotify.com/track/7vPHiwgCOAjSBRjAirbMvS) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Moon and the Melodies](https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo) | 3:09 |
 | 15 | [Golden Brown](https://open.spotify.com/track/2AX5E86cn9n2dgioZEjirI) | [The Stranglers](https://open.spotify.com/artist/0RUEHcBiENFEqxgicqS2ig) | [La Folie](https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx) | 3:26 |
 | 16 | [Enola Gay \- Remastered 2003](https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Organisation](https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8) | 3:33 |
 | 17 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 50 | [Whip It](https://open.spotify.com/track/6QG0wcgoCsa9pqFyTg0rRO) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Oh No It's Devo / Freedom Of Choice](https://open.spotify.com/album/7xlatGl8WN5yAth6PJu3E1) | 2:38 |
 | 51 | [Sign 'O' the Times](https://open.spotify.com/track/4Yenz5JZZOUiZSeyKY8bDz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 5:02 |
 | 52 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
-| 53 | [This Is the Day](https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [London Town 1983\-1993](https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8) | 4:57 |
+| 53 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 |
 | 54 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 |
-| 55 | [Dear God \- Remastered 2001](https://open.spotify.com/track/6nFdjV1Ko66O111x74K2kn) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [Skylarking](https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW) | 3:39 |
+| 55 | [This Is the Day](https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [London Town 1983\-1993](https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8) | 4:57 |
 | 56 | [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 |
 | 57 | [All Cried Out](https://open.spotify.com/track/74BiRtgDe2YPETdTCcsXoG) | [Alison Moyet](https://open.spotify.com/artist/0s0rOb0gT2S9N0SDcjtPC4) | [Singles](https://open.spotify.com/album/42EwWcKbmvteTymCFdUpt5) | 3:41 |
 | 58 | [The Cutter](https://open.spotify.com/track/617ahruubznvqzv7Nas3QX) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Porcupine \(Expanded; 2004 Remaster\)](https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC) | 3:52 |

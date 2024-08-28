@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 
 > Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations\. CAN on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,208 likes - 100 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,217 likes - 100 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,17 +43,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 33 | [Morgengruß](https://open.spotify.com/track/0GNWAR5YioLyQSZMXMjBX4) | [Popol Vuh](https://open.spotify.com/artist/5zeiqAaIiDrjiDch33A2lT) | [Einsjäger & Siebenjäger](https://open.spotify.com/album/4IGLNxalsV3nE6cVYwAoQW) | 2:57 |
 | 34 | [Caramel](https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8) | [Zuckerzeit](https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb) | 3:09 |
 | 35 | [Lookin Up \- Instrumental Version](https://open.spotify.com/track/6GFhFmcObGLbUS4EfRtLQw) | [Manic Vila](https://open.spotify.com/artist/6l8cL9AYxzM9OqJlLLeVrd) | [33641 \(Instrumental Version\)](https://open.spotify.com/album/6gRt01llWuDsh96iVOFA6W) | 1:12 |
-| 36 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
+| 36 | [Tunnel](https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 5:46 |
 | 37 | [Schmetterling \- Remastered](https://open.spotify.com/track/5WigBbIrg3nXsIZJguJLSh) | [BröselMaschine](https://open.spotify.com/artist/66WWDNTUZwM3i6jy4ihRFB) | [Bröselmaschine](https://open.spotify.com/album/3cjo0HW2NqCWWXswrPhKqX) | 9:35 |
-| 38 | [Tunnel](https://open.spotify.com/track/2UDfFY1kuDF9h0rw1PhohE) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 5:46 |
+| 38 | [77 Slightly Delayed](https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:50 |
 | 39 | [Orient Express](https://open.spotify.com/track/3FaWrdCqGL6pINPHsxkYca) | [Embryo](https://open.spotify.com/artist/71TXox3zeu8QPFAiv07Qf4) | [Krautrock](https://open.spotify.com/album/6DZaSFDFIqHFym2tkuCCGS) | 9:46 |
 | 40 | [Autobahn \- 2009 Remaster](https://open.spotify.com/track/44HjyYf1lYuO7oXRusudHN) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [Autobahn \(2009 Remaster\)](https://open.spotify.com/album/5ysfe4Bmv9xLNaPDrXFMBr) | 22:47 |
 | 41 | [Gamma Ray](https://open.spotify.com/track/0iVUzpjSPczQoNPuwtEOkL) | [Birth Control](https://open.spotify.com/artist/69wYvVWNm68Vrndzw0GZgR) | [Hoodoo Man](https://open.spotify.com/album/5UWOg8eQtTz0G6CBViwQi9) | 9:46 |
 | 42 | [キュー](https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [BGM](https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4) | 4:32 |
 | 43 | [First Communication](https://open.spotify.com/track/5CevbpxOgTUNsPuJUTl6RZ) | [Agitation Free](https://open.spotify.com/artist/1fvjrL59qNJVJKNQB8RUg3) | [2Nd](https://open.spotify.com/album/154vxWniqBPvABso6BPRgH) | 8:10 |
-| 44 | [No Spell](https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:26 |
+| 44 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX), [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 |
 | 45 | [Fairy\-Tales](https://open.spotify.com/track/4GEt639CwLmF0Mh42Ws1G3) | [Kin Ping Meh](https://open.spotify.com/artist/6bER9oi8c542Ei6OjEQWTL) | [Kin Ping Meh](https://open.spotify.com/album/3TrwZE9ZSkeANm4mRSPWhZ) | 9:49 |
-| 46 | [Drop Out](https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh) | [White Hills](https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX), [Gnod](https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO) | [Gnod Drop Out With White Hills II](https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN) | 11:01 |
+| 46 | [No Spell](https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 4:26 |
 | 47 | [Geisha](https://open.spotify.com/track/73trN65gnLaNoq3roYpBBx) | [Missus Beastly](https://open.spotify.com/artist/5e1sdfpA3pJtObau0T3bQY) | [Soul Jazz Records Presents DEUTSCHE ELEKTRONISCHE MUSIK 3: Experimental German Rock and Electronic Music 1971\-81](https://open.spotify.com/album/1ucJmCPMOHVNttvmlLJdGs) | 5:27 |
 | 48 | [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
 | 49 | [Spargelspiegel](https://open.spotify.com/track/02bagVPVBpq8SImmbRmEyI) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [Future Sounds Of Kraut, Vol\. 2 \- compiled by Fred und Luna](https://open.spotify.com/album/7wDksYEO61GFZj7zX4rS5G) | 4:43 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT9KDEHFNVYD.md) - [plain]
 | 83 | [Nieve Afuera](https://open.spotify.com/track/2uODWJ6wW0PKoJVVfcY2XQ) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt) | [Nieve Afuera](https://open.spotify.com/album/3McBi4ulUbSELV3e3S3JQo) | 4:37 |
 | 84 | [Tonband Laufspur](https://open.spotify.com/track/2lHk5LW04d246aunZYEPcr) | [Kosmischer Läufer](https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B) | [The Secret Cosmic Music of the East German Olympic Program 1972\-83, Vol\. 1](https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ) | 6:32 |
 | 85 | [I've Seen a U.F.O.](https://open.spotify.com/track/0RrXnG23LmlJNiYDFBy4Jq) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [With Dim Light](https://open.spotify.com/album/3wwekcTBtkPsUWqlCks95B) | 8:36 |
-| 86 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 |
-| 87 | [Otto](https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Radar, Vol\. 1](https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z) | 5:00 |
+| 86 | [Otto](https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK) | [Sei Still](https://open.spotify.com/artist/2ifm8buuA5vEmxaSgAlt74) | [Radar, Vol\. 1](https://open.spotify.com/album/6G1hvboRkS2czOgqUZqh9z) | 5:00 |
+| 87 | [Tamagnocchi](https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:33 |
 | 88 | [Silver Cloud](https://open.spotify.com/track/5dviL3v73PIFxsAgWTfgSY) | [La Düsseldorf](https://open.spotify.com/artist/3GLAEAmt9FYRZWv8HUYha0) | [La Düsseldorf](https://open.spotify.com/album/4GYlqAkTsHoY55fEq03EPZ) | 8:02 |
 | 89 | [Ausland](https://open.spotify.com/track/6T42JJsew8dVP9s87D8mA1) | [Camera](https://open.spotify.com/artist/09HZcXk3Gqd4JPm4YJKGgs) | [Radiate!](https://open.spotify.com/album/3rTpM9FRmueqSahefRtbkN) | 5:52 |
 | 90 | [Himmelblau](https://open.spotify.com/track/71aOELCUIi0KInYTVphzkK) | [Riechmann](https://open.spotify.com/artist/26LyRQGD6jgBi5XkM9xseP) | [Wunderbar](https://open.spotify.com/album/5s1iLDM8e0aaeVjAuyNo8X) | 8:40 |

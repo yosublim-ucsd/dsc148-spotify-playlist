@@ -2771,6 +2771,24 @@
     },
     {
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190534,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV"
+    },
+    {
+      "album": {
         "name": "Dylan Scott (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o"
       },

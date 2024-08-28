@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: Gabriela",
-  "num_followers": 434871,
+  "num_followers": 434886,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-21 13:56:19",
       "album": {
-        "name": "Guaec\u00e1",
-        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
-      },
-      "artists": [
-        {
-          "name": "LUAU",
-          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
-        }
-      ],
-      "duration_ms": 156240,
-      "name": "Guaec\u00e1",
-      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
-    },
-    {
-      "added_at": "2024-08-21 13:56:19",
-      "album": {
         "name": "PERDURAR",
         "url": "https://open.spotify.com/album/6HmSIFZzmRW7c8DYMJQ5BG"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 147179,
       "name": "A Gente Gosta Assim",
       "url": "https://open.spotify.com/track/1t3btOs8sA3X4u7FivAHhi"
+    },
+    {
+      "added_at": "2024-08-21 13:56:19",
+      "album": {
+        "name": "Guaec\u00e1",
+        "url": "https://open.spotify.com/album/795nahxSioRqoCX5vZKFP0"
+      },
+      "artists": [
+        {
+          "name": "LUAU",
+          "url": "https://open.spotify.com/artist/6ERRp63qsgvVWdu1xKftZg"
+        }
+      ],
+      "duration_ms": 156240,
+      "name": "Guaec\u00e1",
+      "url": "https://open.spotify.com/track/6NH6AuMUHppJ1DmNQpHRcw"
     },
     {
       "added_at": "2024-08-21 13:56:19",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-08-21 13:56:19",
       "album": {
-        "name": "o futuro j\u00e1 est\u00e1 acontecendo",
-        "url": "https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj"
-      },
-      "artists": [
-        {
-          "name": "A Banda Mais Bonita da Cidade",
-          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
-        }
-      ],
-      "duration_ms": 290502,
-      "name": "Teu Ch\u00e1",
-      "url": "https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH"
-    },
-    {
-      "added_at": "2024-08-21 13:56:19",
-      "album": {
         "name": "me ama",
         "url": "https://open.spotify.com/album/6pAbxvyXSCEhwVcGOFlFHj"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 226461,
       "name": "me ama",
       "url": "https://open.spotify.com/track/7abIkTM6Q5cC9uBKIyZ8hE"
+    },
+    {
+      "added_at": "2024-08-21 13:56:19",
+      "album": {
+        "name": "o futuro j\u00e1 est\u00e1 acontecendo",
+        "url": "https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj"
+      },
+      "artists": [
+        {
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+        }
+      ],
+      "duration_ms": 290502,
+      "name": "Teu Ch\u00e1",
+      "url": "https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH"
     },
     {
       "added_at": "2024-08-21 13:56:19",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-08-21 13:56:19",
       "album": {
-        "name": "dos p\u00e9s a cabe\u00e7a",
-        "url": "https://open.spotify.com/album/3hRZ5gR2hn6EifOnilmllU"
-      },
-      "artists": [
-        {
-          "name": "Georgia Castro",
-          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
-        }
-      ],
-      "duration_ms": 202286,
-      "name": "dos p\u00e9s a cabe\u00e7a",
-      "url": "https://open.spotify.com/track/5IWFZ5Od7wArGGxGo1kVAa"
-    },
-    {
-      "added_at": "2024-08-21 13:56:19",
-      "album": {
         "name": "Tenta",
         "url": "https://open.spotify.com/album/1pset4Mihdi5MPfWjJ0O1Y"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 197560,
       "name": "Tenta",
       "url": "https://open.spotify.com/track/2yUYVT5UCEHFiowzNFF3WE"
+    },
+    {
+      "added_at": "2024-08-21 13:56:19",
+      "album": {
+        "name": "dos p\u00e9s a cabe\u00e7a",
+        "url": "https://open.spotify.com/album/3hRZ5gR2hn6EifOnilmllU"
+      },
+      "artists": [
+        {
+          "name": "Georgia Castro",
+          "url": "https://open.spotify.com/artist/4GmmLOQ77hMmworAzCj2xJ"
+        }
+      ],
+      "duration_ms": 202286,
+      "name": "dos p\u00e9s a cabe\u00e7a",
+      "url": "https://open.spotify.com/track/5IWFZ5Od7wArGGxGo1kVAa"
     },
     {
       "added_at": "2024-08-21 13:56:19",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-08-21 13:56:19",
       "album": {
+        "name": "Entre o Nada e o Infinito",
+        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "acende essa ponta",
+      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+    },
+    {
+      "added_at": "2024-08-21 13:56:19",
+      "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2024-08-21 13:56:19",
       "album": {
-        "name": "Entre o Nada e o Infinito",
-        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
+        "name": "Sol de S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
       },
       "artists": [
         {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+          "name": "Jay Horsth",
+          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
         }
       ],
-      "duration_ms": 175080,
-      "name": "acende essa ponta",
-      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+      "duration_ms": 174000,
+      "name": "Sol de S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
     },
     {
       "added_at": "2024-08-21 13:56:19",
@@ -1139,22 +1155,6 @@
       "duration_ms": 158170,
       "name": "Vem C\u00e1, Me Beija",
       "url": "https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI"
-    },
-    {
-      "added_at": "2024-08-21 13:56:19",
-      "album": {
-        "name": "Sol de S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
-      },
-      "artists": [
-        {
-          "name": "Jay Horsth",
-          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Sol de S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
     },
     {
       "added_at": "2024-08-21 13:56:19",

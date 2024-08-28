@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Seven Lions, Subtronics, and Skylar Grey",
-  "num_followers": 977209,
+  "num_followers": 977230,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1701,26 +1701,6 @@
       "url": "https://open.spotify.com/track/4sG2mY9YIrqC6zJByChKSN"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "IMY",
-        "url": "https://open.spotify.com/album/3pXGgFbJZ0buvxaMQgdAjv"
-      },
-      "artists": [
-        {
-          "name": "ATLiens",
-          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
-        },
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        }
-      ],
-      "duration_ms": 180367,
-      "name": "IMY",
-      "url": "https://open.spotify.com/track/5auqanphtvVmBRMwyiu1a5"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "F.Y.U.",
@@ -1759,6 +1739,26 @@
       "duration_ms": 181655,
       "name": "Floot Loops",
       "url": "https://open.spotify.com/track/74geScZgtEMlGbS264lrjD"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "IMY",
+        "url": "https://open.spotify.com/album/3pXGgFbJZ0buvxaMQgdAjv"
+      },
+      "artists": [
+        {
+          "name": "ATLiens",
+          "url": "https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g"
+        },
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        }
+      ],
+      "duration_ms": 180367,
+      "name": "IMY",
+      "url": "https://open.spotify.com/track/5auqanphtvVmBRMwyiu1a5"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1873,6 +1873,22 @@
       "url": "https://open.spotify.com/track/3lFIlyk6D1G2lzREqKAJu4"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Get Wompy",
+        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Get Wompy",
+      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
+    },
+    {
       "added_at": "2024-06-14 04:00:00",
       "album": {
         "name": "TAKA (Taiki Nulight Remix)",
@@ -1899,22 +1915,6 @@
       "duration_ms": 209445,
       "name": "TAKA - Taiki Nulight Remix",
       "url": "https://open.spotify.com/track/0tdHittlEah9GOXVRx3CHu"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Get Wompy",
-        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Get Wompy",
-      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -2049,30 +2049,6 @@
       "url": "https://open.spotify.com/track/3ZtfHJwLo5cww3sRc5IqrW"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Like That (Tape B Remix)",
-        "url": "https://open.spotify.com/album/6SAzbWShu217QKogZudlhp"
-      },
-      "artists": [
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        },
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        },
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Like That - Tape B Remix",
-      "url": "https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe"
-    },
-    {
       "added_at": "2024-08-16 16:11:29",
       "album": {
         "name": "Aint No Thang",
@@ -2095,6 +2071,30 @@
       "duration_ms": 173333,
       "name": "Aint No Thang",
       "url": "https://open.spotify.com/track/2Dcv2l9LuvSHiptPLvnKlL"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Like That (Tape B Remix)",
+        "url": "https://open.spotify.com/album/6SAzbWShu217QKogZudlhp"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Like That - Tape B Remix",
+      "url": "https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe"
     },
     {
       "added_at": "2024-05-10 04:00:00",

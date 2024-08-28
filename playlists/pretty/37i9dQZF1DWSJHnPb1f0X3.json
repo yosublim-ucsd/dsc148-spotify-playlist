@@ -1,6 +1,6 @@
 {
   "description": "Upbeat dance pop to keep your heart pumping.",
-  "num_followers": 4132591,
+  "num_followers": 4132825,
   "original_name": "Cardio",
   "owner": {
     "name": "Spotify",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
-    },
-    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Cry Baby",
@@ -827,6 +811,22 @@
       "duration_ms": 157086,
       "name": "Cry Baby",
       "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Man In Finance (with David Guetta)",
         "url": "https://open.spotify.com/album/1ifW7NwlodIApyFTgoEtyS"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1151,42 +1151,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Deep In Your Love",
         "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
       },
@@ -1207,6 +1171,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Whistle (feat. Calum Scott)",
         "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 181957,
       "name": "Whistle (feat. Calum Scott)",
       "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1263,26 +1263,6 @@
       "duration_ms": 185365,
       "name": "Another Love - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1355,6 +1335,50 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 171747,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
@@ -1395,30 +1419,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "All By Myself",
-        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 171747,
-      "name": "All By Myself",
-      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/4JMnG7K7XcaDlqOHS106i7"
       },
@@ -1439,46 +1439,6 @@
       "duration_ms": 178935,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/1vQWFjEC34DHNXrRTFjDxe"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Hot Honey",
-        "url": "https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "Hot Honey",
-      "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
-        "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 160650,
-      "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
-      "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1507,6 +1467,26 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+        "url": "https://open.spotify.com/album/3VI38DDpgfFMVPrUi69V5B"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 160650,
+      "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
+      "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "DNA (Loving You) [feat. Hannah Boleyn]",
         "url": "https://open.spotify.com/album/6chhPL4qq4x8IEkvEDTL3R"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 164919,
       "name": "DNA (Loving You) [feat. Hannah Boleyn]",
       "url": "https://open.spotify.com/track/6ibDVMcMUNqZ5eXT9sD4Vy"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Hot Honey",
+        "url": "https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "Hot Honey",
+      "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
-        }
-      ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Back To You",
         "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 157252,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+        }
+      ],
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2077,6 +2077,26 @@
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
     },
     {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Edge of Saturday Night",
+        "url": "https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 206796,
+      "name": "Edge of Saturday Night",
+      "url": "https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Tell It To My Heart",
@@ -2095,26 +2115,6 @@
       "duration_ms": 165524,
       "name": "Tell It To My Heart",
       "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Only Human (Deluxe)",
-        "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 222889,
-      "name": "Dancing On My Own - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us"
     }
   ],
   "unique_name": "Cardio",

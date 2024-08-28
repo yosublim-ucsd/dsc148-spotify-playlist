@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser original, vocês já sabem\. Foto: Phl Notunrboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,092 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,130 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

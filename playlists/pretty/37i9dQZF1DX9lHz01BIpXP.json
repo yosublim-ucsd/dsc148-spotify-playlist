@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL?si=iyC2KRK9QsGx8201H4S1mg\">Mr Heinz</a> & <a href=\"https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA?si=CYBfHUgYSWGODqMPjRiGGQ\">Jack Parow</a>",
-  "num_followers": 1720,
+  "num_followers": 1721,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -501,20 +501,24 @@
       "url": "https://open.spotify.com/track/4bBjjBekKBVWGT2gJAggt9"
     },
     {
-      "added_at": "2024-02-22 22:00:00",
+      "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Dinge",
-        "url": "https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB"
+        "name": "Sundphazamisa",
+        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
       },
       "artists": [
         {
-          "name": "C.M.T",
-          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+          "name": "Umlungu The Rapper",
+          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
+        },
+        {
+          "name": "Big Xhosa",
+          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
         }
       ],
-      "duration_ms": 132478,
-      "name": "Dinge",
-      "url": "https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh"
+      "duration_ms": 192296,
+      "name": "Sundphazamisa",
+      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -553,24 +557,20 @@
       "url": "https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b"
     },
     {
-      "added_at": "2024-02-15 22:00:00",
+      "added_at": "2024-02-22 22:00:00",
       "album": {
-        "name": "Sundphazamisa",
-        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
+        "name": "Dinge",
+        "url": "https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB"
       },
       "artists": [
         {
-          "name": "Umlungu The Rapper",
-          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
-        },
-        {
-          "name": "Big Xhosa",
-          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
         }
       ],
-      "duration_ms": 192296,
-      "name": "Sundphazamisa",
-      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
+      "duration_ms": 132478,
+      "name": "Dinge",
+      "url": "https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh"
     },
     {
       "added_at": "2024-08-09 04:56:18",
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv"
     },
     {
-      "added_at": "2024-04-05 04:23:02",
-      "album": {
-        "name": "Laaste Hond",
-        "url": "https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK"
-      },
-      "artists": [
-        {
-          "name": "C.M.T",
-          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Laaste Hond",
-      "url": "https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR"
-    },
-    {
       "added_at": "2024-06-13 22:00:00",
       "album": {
         "name": "Denero",
@@ -755,6 +739,22 @@
       "duration_ms": 186409,
       "name": "Hou Vas",
       "url": "https://open.spotify.com/track/2hoT3UMzDU3FeeRDnL0lOD"
+    },
+    {
+      "added_at": "2024-04-05 04:23:02",
+      "album": {
+        "name": "Laaste Hond",
+        "url": "https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK"
+      },
+      "artists": [
+        {
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Laaste Hond",
+      "url": "https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -811,18 +811,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Hopeless",
-        "url": "https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD"
+        "name": "Ek Sal Nie Lieg Nie",
+        "url": "https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ"
       },
       "artists": [
         {
-          "name": "Marky Futurekid",
-          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "M.Jay",
+          "url": "https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl"
         }
       ],
-      "duration_ms": 183550,
-      "name": "Hopeless",
-      "url": "https://open.spotify.com/track/4pmnGONjm31Llig19zwpde"
+      "duration_ms": 151196,
+      "name": "Ek Sal Nie Lieg Nie",
+      "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -843,18 +847,18 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/6IKLbddOqFbBZQ6VQGwcDk"
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD"
       },
       "artists": [
         {
-          "name": "Cream Machine",
-          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
+          "name": "Marky Futurekid",
+          "url": "https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr"
         }
       ],
-      "duration_ms": 209655,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/527mz0huuO9JxDvSPitqzl"
+      "duration_ms": 183550,
+      "name": "Hopeless",
+      "url": "https://open.spotify.com/track/4pmnGONjm31Llig19zwpde"
     },
     {
       "added_at": "2024-02-29 22:00:00",
@@ -885,6 +889,22 @@
       "url": "https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z"
     },
     {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/6IKLbddOqFbBZQ6VQGwcDk"
+      },
+      "artists": [
+        {
+          "name": "Cream Machine",
+          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/527mz0huuO9JxDvSPitqzl"
+    },
+    {
       "added_at": "2024-02-29 22:00:00",
       "album": {
         "name": "Nou Wat Nou",
@@ -903,26 +923,6 @@
       "duration_ms": 222809,
       "name": "Nou Wat Nou",
       "url": "https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Ek Sal Nie Lieg Nie",
-        "url": "https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ"
-      },
-      "artists": [
-        {
-          "name": "KYLEO FROM THE WEST",
-          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
-        },
-        {
-          "name": "M.Jay",
-          "url": "https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl"
-        }
-      ],
-      "duration_ms": 151196,
-      "name": "Ek Sal Nie Lieg Nie",
-      "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
     },
     {
       "added_at": "2024-05-23 22:00:00",

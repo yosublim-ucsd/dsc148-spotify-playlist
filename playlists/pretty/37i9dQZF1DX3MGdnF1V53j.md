@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > L'Algérino & Soolking on the cover of Habibi Gang Gang!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,584 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,625 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 37 | [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 |
 | 38 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 |
 | 39 | [Ya Habibi](https://open.spotify.com/track/3TZoDoLspZbHMhI1NhKUVO) | [Kida](https://open.spotify.com/artist/0rtILhtW5MNyUqkZzKDd3J), [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [Ya Habibi](https://open.spotify.com/album/3pTpbCY8ubsEkzACkIUItA) | 2:53 |
-| 40 | [Salam](https://open.spotify.com/track/0gR65ex17IbBdAvVMg74LS) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Salam](https://open.spotify.com/album/0T0nzA4p3Ma3CK8WUBCPWM) | 2:27 |
-| 41 | [Namek](https://open.spotify.com/track/27axiMYaZu77nF45ogoTTy) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Namek](https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7) | 3:06 |
+| 40 | [Namek](https://open.spotify.com/track/27axiMYaZu77nF45ogoTTy) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Namek](https://open.spotify.com/album/1VCr5EN02r1K83Mi8vwRO7) | 3:06 |
+| 41 | [Salam](https://open.spotify.com/track/0gR65ex17IbBdAvVMg74LS) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Salam](https://open.spotify.com/album/0T0nzA4p3Ma3CK8WUBCPWM) | 2:27 |
 | 42 | [El 7ob Sa3b](https://open.spotify.com/track/4MN8tKKz1Sld1OhJPemc5G) | [Masri](https://open.spotify.com/artist/39HzY56JWtwfoUXlSOwrRA), [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [El 7ob Sa3b](https://open.spotify.com/album/2G28Q9Sn9WWgPFuCd5fWU8) | 2:22 |
 | 43 | [Baila](https://open.spotify.com/track/3t52Hs4LPHYt1OeUSliFpP) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 2:25 |
 | 44 | [Dis khamsa](https://open.spotify.com/track/0TzSI4yCx5iQTfQnHEvdNU) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Dis khamsa](https://open.spotify.com/album/0QCA66WMc7imENYl58yo6x) | 3:25 |

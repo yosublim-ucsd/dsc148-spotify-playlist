@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-688 songs - 1 day 14 hr 40 min
+689 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Black Coffee](https://open.spotify.com/track/4ZeIo1UFQoroC5kYXXxpwq) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Talk You Down](https://open.spotify.com/album/5dVlE2fykYq1VbfMV4WYeR) | 3:47 | 2020-10-13\* | 2020-11-18 |
 | [Black Eye](https://open.spotify.com/track/28GReZcMRd0N2Ns1bJ3HzR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Black Eye](https://open.spotify.com/album/5va7T2m57yj457ywVCRo93) | 4:32 | 2023-10-13 | 2024-01-27 |
 | [Black Hole](https://open.spotify.com/track/1N8S0zxZFT4OBdvtK2iS4Q) | [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Black Hole](https://open.spotify.com/album/4LuctFz5ZmuGWKhIetADRr) | 3:43 | 2020-10-13\* | 2021-11-09 |
+| [Blazing](https://open.spotify.com/track/6HenhbQgTiRmpF3Ha7UKAz) | [Morgan Saint](https://open.spotify.com/artist/21SbAgLQ2SteuYiKXTBDns) | [Blazing](https://open.spotify.com/album/4p9944B6u6mcLY5E5z6Usp) | 3:14 | 2024-08-27 |  |
 | [Blitz](https://open.spotify.com/track/3YpRE5024OrZ0lgk5zrxeZ) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Better Days](https://open.spotify.com/album/2RCjADfHIGgOAxrTtBoEpt) | 3:28 | 2022-06-03 | 2022-07-03 |
 | [Blonde](https://open.spotify.com/track/74zAyvz7pMqYeRIHBOHuLn) | [Lxandra](https://open.spotify.com/artist/6kveFlWW2CZY1bfiX51UnW) | [Blonde](https://open.spotify.com/album/0XlZo1mxN0Kpw8ZJOmsqD9) | 3:14 | 2023-09-23 | 2024-01-13 |
 | [Bloodshot](https://open.spotify.com/track/6njoUYmj7kjQVYTG22K33r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Bloodshot / Waste](https://open.spotify.com/album/2GkFw24RAab0MJNexdE43z) | 2:59 | 2020-10-13\* | 2020-11-18 |
@@ -531,7 +532,7 @@
 | [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-16 | 2022-12-01 |
 | [Set You Free](https://open.spotify.com/track/2qKdc7t4aM7yPFvZLosJE3) | [Kyla La Grange](https://open.spotify.com/artist/6KcmUwBzfwLaYxdfIboqcp) | [Set You Free](https://open.spotify.com/album/0xpPzS9df3eHXt75Cv0jJU) | 3:21 | 2021-09-25 | 2022-01-29 |
 | [Shelly](https://open.spotify.com/track/1zLP6doW59YcKrcjyP94uq) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 2:51 | 2022-09-23 | 2022-10-08 |
-| [Shiny New Thing](https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:38 | 2024-05-24 |  |
+| [Shiny New Thing](https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:38 | 2024-05-24 | 2024-08-28 |
 | [Shot Shot Cherry](https://open.spotify.com/track/1gib2zY48RjxVCXcpKuwPW) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/7cQHL2l6ObMycLqdhifclg) | 2:32 | 2022-10-28 | 2023-01-14 |
 | [Shut Up And Dance](https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Shut Up And Dance](https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G) | 2:57 | 2024-05-24 |  |
 | [Sirens](https://open.spotify.com/track/5EcN4hZ85eZ45MTS1oRyHY) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sirens](https://open.spotify.com/album/3gTvVImhfT0nAA3YYdpX9L) | 3:58 | 2022-03-31 | 2022-07-29 |
@@ -651,7 +652,7 @@
 | [Violet Chemistry](https://open.spotify.com/track/00Ga884hbpVvCNyeQdle1U) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 4:06 | 2023-03-10 | 2023-09-28 |
 | [Violet Chemistry](https://open.spotify.com/track/4C2Y3Y2x2PbOqwdNBuLjP3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 4:06 | 2023-09-23 | 2023-10-07 |
 | [Voices \(feat\. Kylie Minogue\)](https://open.spotify.com/track/4dZ6T0on5EctKPKjgcOzrY) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Last Man Dancing](https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2) | 4:26 | 2023-06-02 | 2023-06-24 |
-| [Von dutch featuring addison rae and a\. g\. cook](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Von dutch featuring addison rae and a\. g\. cook](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 | 2024-03-22 |  |
+| [Von dutch a\. g\. cook remix featuring addison rae](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Von dutch a\. g\. cook remix featuring addison rae](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 | 2024-03-22 |  |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2021-11-06 | 2021-12-18 |
 | [Want Me Back](https://open.spotify.com/track/62ThvHsujqV9sMr1V7yAJr) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Want Me Back](https://open.spotify.com/album/1Wjga5d8cmSnBaHwBodxVv) | 3:54 | 2020-10-13\* | 2021-02-19 |
 | [Warm on a Cold Night](https://open.spotify.com/track/5pJPgy2jGvvNUNfHPvG3Zp) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:21 | 2021-06-19 | 2022-01-08 |

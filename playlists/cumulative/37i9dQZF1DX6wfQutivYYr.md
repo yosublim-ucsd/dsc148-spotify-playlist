@@ -4,7 +4,7 @@
 
 > Rhove sulla cover della più grande playlist in Italia! 🏆
 
-68 songs - 3 hr 24 min
+69 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [30ºC](https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [30ºC](https://open.spotify.com/album/66o9NYg61y0te154pzWWth) | 2:22 | 2024-06-28 |  |
 | [ABC \(feat\. Tony Boy & thasup\)](https://open.spotify.com/track/3TI7sMXWt5lu89VGCa7q1k) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 3:16 | 2024-06-28 | 2024-07-12 |
 | [ADDO STAJE \- Ride it RMX](https://open.spotify.com/track/6UKPNShrYDQE32SBkrjfTj) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1) | [ADDO STAJE \(Ride it RMX\)](https://open.spotify.com/album/0AgNkyLhcAdShRsMt1gtVZ) | 2:41 | 2024-06-28 |  |
-| [Adrenalina \(feat\. BLANCO, Marracash\)](https://open.spotify.com/track/5jbvKJAsPdwfRocC4GD0tv) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Adrenalina \(feat\. BLANCO, Marracash\)](https://open.spotify.com/album/6aWHd2y7YNkH8GgKAZUkGC) | 2:46 | 2024-06-28 |  |
+| [Adrenalina \(feat\. BLANCO, Marracash\)](https://open.spotify.com/track/5jbvKJAsPdwfRocC4GD0tv) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Adrenalina \(feat\. BLANCO, Marracash\)](https://open.spotify.com/album/6aWHd2y7YNkH8GgKAZUkGC) | 2:46 | 2024-06-28 | 2024-08-28 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-18 |  |
 | [ALTROVE](https://open.spotify.com/track/5mTuGUq93D6eAOeJApPi8J) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [ALTROVE](https://open.spotify.com/album/7wFYcHirgNsa5mSV0yK72r) | 3:25 | 2024-06-28 |  |
 | [Alé \(feat\. Capo Plaza\)](https://open.spotify.com/track/1i0oabK4KhsbIJr029XStL) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 3:20 | 2024-06-28 |  |
@@ -43,6 +43,7 @@
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-07-18 |  |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-06-28 |  |
 | [I LOVE IT \(feat\. Artie 5ive\)](https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 3:11 | 2024-07-04 |  |
+| [Il Tempo Cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il Tempo Cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 | 2024-08-27 |  |
 | [iN uNa buBbLe](https://open.spotify.com/track/0EimIRiiRd76tqlo9LPLUJ) | [yungest Moonstar](https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [sFaCioLaTe miXTaPe](https://open.spotify.com/album/7qj8awQvM423Uvc0VpxtXq) | 3:16 | 2024-08-01 |  |
 | [IO T’O GIUR’ \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [DIO LO SA](https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7) | 3:20 | 2024-06-28 | 2024-07-05 |
 | [KARMA](https://open.spotify.com/track/3Tk7eEuh7bMDIAdYfSG3tb) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [KARMA](https://open.spotify.com/album/0NciSOteTA2J2Wp8v4jrJl) | 3:21 | 2024-07-11 |  |

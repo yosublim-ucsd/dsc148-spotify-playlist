@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 
 > This is Madonna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,291 likes - 54 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,378 likes - 54 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 23 | [Jump](https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 3:58 |
 | 24 | [Borderline](https://open.spotify.com/track/4FMNpPI7mkhdeFCCk6fZiE) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:58 |
 | 25 | [Levitating \(feat\. Madonna and Missy Elliott\) \[The Blessed Madonna Remix\]](https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Levitating \(feat\. Madonna and Missy Elliott\) \[The Blessed Madonna Remix\]](https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic) | 4:10 |
-| 26 | [Don't Tell Me](https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:40 |
-| 27 | [Me Against the Music \(feat\. Madonna\) \- LP Version / Video Mix](https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 |
+| 26 | [Me Against the Music \(feat\. Madonna\) \- LP Version / Video Mix](https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:43 |
+| 27 | [Don't Tell Me](https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:40 |
 | 28 | [Open Your Heart](https://open.spotify.com/track/3kme5Qos8h04yrKxsgur79) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:49 |
 | 29 | [Nothing Really Matters](https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 4:27 |
-| 30 | [American Pie](https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:33 |
-| 31 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 |
+| 30 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 |
+| 31 | [American Pie](https://open.spotify.com/track/3afv9TL8ixr4T9VbiKnrwe) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu) | 4:33 |
 | 32 | [Express Yourself](https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:59 |
 | 33 | [Secret](https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Bedtime Stories](https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB) | 5:04 |
 | 34 | [Give It 2 Me](https://open.spotify.com/track/59qPP8coY8EWIQ9nQDThui) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Hard Candy](https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu) | 4:47 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3OV3gs.md) - [plain]
 | 53 | [Faz Gostoso \(feat\. Anitta\)](https://open.spotify.com/track/2SC14LGDbRWRlyLg9Wupa0) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Madame X \(Deluxe\)](https://open.spotify.com/album/1G2YEQPXaOj1JZwa3ZiGe8) | 4:05 |
 | 54 | [Die Another Day](https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [American Life](https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW) | 4:39 |
 
-Snapshot ID: `Zsp0AAAAAACmDQf6yc1SFG9vuwF3acfU`
+Snapshot ID: `ZsvFgAAAAAC+RelKzPQkM4NJdHmexrsF`

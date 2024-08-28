@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-382 songs - 20 hr 49 min
+383 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Arere](https://open.spotify.com/track/5e7ESBZeOLQCbqtvWaS7Y2) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Arere](https://open.spotify.com/album/6s8OIlhZixQ2D9IsZUBrRm) | 3:58 | 2023-10-06 | 2024-02-17 |
 | [Avarisu \- SKODA Deccan Beats](https://open.spotify.com/track/3XBolYD5LpZ0ayiuRJPt1a) | [Neehar Kiran Dabade](https://open.spotify.com/artist/7HoTwBEDd1pZucJ0ntVVlQ), [Sunil Nakod](https://open.spotify.com/artist/5b6rKTAj1FD4aaerrJ8nay), [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Avarisu \(SKODA Deccan Beats\)](https://open.spotify.com/album/1tHo4gHFxWE1ZjxCqXhhrd) | 3:42 | 2022-09-27 | 2023-06-21 |
 | [Baare Banake](https://open.spotify.com/track/77YIyUafNBzKHEY8Mn5OAT) | [Sunitha Ananthaswamy](https://open.spotify.com/artist/08gkxhUNRG3oLI20fDL0ON), [Kalashree Dr.Jayashree Aravind](https://open.spotify.com/artist/597E5ncWmDZhEkPzePD5tJ), [Anitha Ananthaswamy](https://open.spotify.com/artist/45DEqOuTvLi5bEXHFwTyEv) | [Baare Banake](https://open.spotify.com/album/1PcxPwTbGTjdaBPcsfEYNJ) | 7:18 | 2023-07-25 | 2024-02-01 |
-| [Baby 500](https://open.spotify.com/track/0J6TGK3rC6VXRBefGo6OuD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Baby 500](https://open.spotify.com/album/1eDjrpKdv75XHcLGG7zqwx) | 1:03 | 2024-04-01 |  |
+| [Baby 500](https://open.spotify.com/track/0J6TGK3rC6VXRBefGo6OuD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Baby 500](https://open.spotify.com/album/1eDjrpKdv75XHcLGG7zqwx) | 1:03 | 2024-04-01 | 2024-08-28 |
 | [Baby Girl](https://open.spotify.com/track/0opL1zxD6848uM3p2FTE3r) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP) | [Baby Girl](https://open.spotify.com/album/0VXE7EcubunGAzkMQVTAQy) | 3:17 | 2023-03-13 | 2023-06-13 |
 | [Baby I Love You](https://open.spotify.com/track/0HD2WGprYrNVKsbfN4Uba9) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Baby I Love You](https://open.spotify.com/album/0EYeMwaKPXJKYpQ9Pnf0uc) | 4:32 | 2023-12-07 | 2024-05-21 |
 | [Bad](https://open.spotify.com/track/2eQtJWV3pQac41v6L6PQo2) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Bad](https://open.spotify.com/album/2x1naxHI21CUc4UhacSO88) | 2:51 | 2023-11-28 | 2024-04-30 |
@@ -90,6 +90,7 @@
 | [E Sanje](https://open.spotify.com/track/4sWgM5L4JddTcTa4LP210V) | [Pramodh Acharya](https://open.spotify.com/artist/0wxKIZSaPnlZMc2jlsnIyI), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [E Sanje](https://open.spotify.com/album/07avNTtRS5qqrtUOXGxvL5) | 3:32 | 2023-03-13 | 2023-09-30 |
 | [Ee Pattanakke Yenagide](https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Ee Pattanakke Yenagide](https://open.spotify.com/album/4wC300ITmXGQzsV6RKzwvJ) | 2:58 | 2023-11-28 |  |
 | [ejawa](https://open.spotify.com/track/6s8ZrFf8RYn1R4q2vcyckp) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09), [Vishakh](https://open.spotify.com/artist/42KrPpRSeWS2hUW1WdRzpV), [Chaithra M](https://open.spotify.com/artist/0tlgDYGfWVP7w47t4XWX4y) | [ejawa](https://open.spotify.com/album/27ZsRLlqfWtcll9P6AI0KO) | 2:45 | 2024-06-24 |  |
+| [Elle Hodaru](https://open.spotify.com/track/1aR6HAkxlQT2O2dBuJVNBW) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Elle Hodaru](https://open.spotify.com/album/5VQ8AboHL2qQBYx7KrvxET) | 2:45 | 2024-08-27 |  |
 | [Elli Elli Neenu](https://open.spotify.com/track/5sYeOq4bmI7olod4cNMw8C) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Elli Elli Neenu](https://open.spotify.com/album/25Hbr6OBZbPcoq64hgXadr) | 4:43 | 2023-07-04 | 2023-07-14 |
 | [En Anthira](https://open.spotify.com/track/4ri4RGGpeNd7ZlbPVHEtX8) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [En Anthira](https://open.spotify.com/album/2Zl9D0MjkLy20kAjAlP6EW) | 2:55 | 2024-05-13 |  |
 | [Enagide Nanna Hrudaya](https://open.spotify.com/track/4KEF69Otx6MOJOy6QYKQDz) | [Achal Ubaradka](https://open.spotify.com/artist/1XWwYrtVLePDjckQP7lzgS), [Sharath KN](https://open.spotify.com/artist/6SCsU98zCY9emzu4d8bkgb), [Shwetha Guru](https://open.spotify.com/artist/6BindSVkyS6WqY85pGrqb1) | [Enagide Nanna Hrudaya](https://open.spotify.com/album/4L6aaV98588xc3nFT3IUaK) | 5:54 | 2023-12-22 | 2024-06-12 |

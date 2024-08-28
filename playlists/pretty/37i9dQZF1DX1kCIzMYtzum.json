@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc97 with Swedish House Mafia ",
-  "num_followers": 258768,
+  "num_followers": 258886,
   "original_name": "EDM 2024",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1015,22 +1015,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "I Like It (with Nate Smith)",
-        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 152349,
-      "name": "I Like It (with Nate Smith)",
-      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/3yOBi1aoViuYXqZmiEqqSM"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 143117,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/2XJSKm7Ie15xQnoP1bY0Fp"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -2063,30 +2063,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Where You Are (Zedd Remix)",
-        "url": "https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        },
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 184649,
-      "name": "Where You Are - Zedd Remix",
-      "url": "https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "If Only I (feat. Bebe Rexha)",
         "url": "https://open.spotify.com/album/0kd0OCzyoqrr0c9n66xjgi"
       },
@@ -2107,6 +2083,30 @@
       "duration_ms": 142756,
       "name": "If Only I (feat. Bebe Rexha)",
       "url": "https://open.spotify.com/track/5oOgt1g5fB45ZkHZjjB9Qy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Where You Are (Zedd Remix)",
+        "url": "https://open.spotify.com/album/2QQVFNpjeX32mDhDi3Ad1B"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 184649,
+      "name": "Where You Are - Zedd Remix",
+      "url": "https://open.spotify.com/track/6hI3PnULFXwkOQSHLHNfOO"
     },
     {
       "added_at": "2024-08-23 04:00:00",

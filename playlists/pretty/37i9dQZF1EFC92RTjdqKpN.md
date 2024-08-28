@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,018 likes - 181 songs - 9 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019 likes - 181 songs - 9 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,15 +51,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 41 | [Good Time \(feat\. Pitbull\)](https://open.spotify.com/track/3423M2NvBCY9yvmrsGqQpA) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Party Never Ends](https://open.spotify.com/album/07hKp30OfkSekfN5IsmShA) | 3:23 |
 | 42 | [Never Comin Down](https://open.spotify.com/track/1QJvq84l7YcVCyIkGA602c) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Graffiti U](https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z) | 3:34 |
 | 43 | [Side Effects](https://open.spotify.com/track/776xH04Us0YBTdspg6C1cP) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Side Effects](https://open.spotify.com/album/3G8C4K6QdaeYeGmzUdp4gw) | 3:08 |
-| 44 | [Your Love](https://open.spotify.com/track/6tADmhq8hYElyxJKRmFY1y) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:27 |
-| 45 | [Impossible](https://open.spotify.com/track/1JTmrZwZhaP1yYJtuzfvJ9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 3:02 |
+| 44 | [Impossible](https://open.spotify.com/track/1JTmrZwZhaP1yYJtuzfvJ9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 3:02 |
+| 45 | [Your Love](https://open.spotify.com/track/6tADmhq8hYElyxJKRmFY1y) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:27 |
 | 46 | [Them Girls Be Like](https://open.spotify.com/track/5L5zJyglhpR0iHKoMLNaBJ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 2:42 |
 | 47 | [Good Things Fall Apart vs\. Sad Songs \(With Said The Sky feat\. Annika Wells\)](https://open.spotify.com/track/2DqhE7xzpGNsKYbptqblJg) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [ASCEND \(Tour Edits\)](https://open.spotify.com/album/6KICcLGlQnS7908qVzbhP6) | 6:06 |
 | 48 | [I Lied](https://open.spotify.com/track/7EvIMAbhkHXcV8rHbOyNzh) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:23 |
 | 49 | [Kissing Strangers](https://open.spotify.com/track/5brMixqQiQN4D60xmvrSts) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:08 |
 | 50 | [World For Two](https://open.spotify.com/track/4K7uhx9RpAQayZwKIxwGRh) | [King Calaway](https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE) | [Rivers](https://open.spotify.com/album/22ZVcZ2qJSbcQR5VCugOPk) | 3:05 |
-| 51 | [Remember](https://open.spotify.com/track/2uAX7DbFp5GWCkE1bpkUn4) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:09 |
-| 52 | [Brought The Heat Back](https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:56 |
+| 51 | [Brought The Heat Back](https://open.spotify.com/track/3ivdlmTbUSv5JN9W8Tk9V1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD](https://open.spotify.com/album/05I8FltCMnGa3kE38mpOkL) | 2:56 |
+| 52 | [Remember](https://open.spotify.com/track/2uAX7DbFp5GWCkE1bpkUn4) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:09 |
 | 53 | [Gasoline \(feat\. Laura White\)](https://open.spotify.com/track/1Env1Ldwa5Ob2QMtBTTVZG) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 3:29 |
 | 54 | [Mona Lisa](https://open.spotify.com/track/7Gq4tfeuWPjr6WQiB7aBXz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 2:18 |
 | 55 | [In The Morning](https://open.spotify.com/track/5Tb0IjmjKKNa81rCXjqBiG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [In The Morning](https://open.spotify.com/album/5ZbJqA9d9JtOVwVb5nZYkU) | 2:47 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 180 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 181 | [Tonight](https://open.spotify.com/track/16LDHU7Ir8BAEQs9j61qDE) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/02x1wspowX3eX0DBV63jjF) | 3:53 |
 
-Snapshot ID: `AbaezAAAAADb2TlYcquiD4NDqZTcc9OR`
+Snapshot ID: `AbakbAAAAABQ0/vvyJNtLqL1k2BTmRVq`

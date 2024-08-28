@@ -1,6 +1,6 @@
 {
   "description": "\u7dba\u9e97\u4e8b\u306f\u805e\u304d\u305f\u304f\u306a\u3044\u3002\u672c\u97f3\u3067\u3064\u3065\u3089\u308c\u305f\u5504\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 19961,
+  "num_followers": 19970,
   "original_name": "\u305b\u304d\u3089\u3089",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-08-09 05:08:15",
       "album": {
+        "name": "\u611b\u3068U",
+        "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "duration_ms": 202535,
+      "name": "\u611b\u3068U",
+      "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
+    },
+    {
+      "added_at": "2024-08-09 05:08:15",
+      "album": {
         "name": "\u30a4\u30de",
         "url": "https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 227662,
       "name": "\u30b9\u30bf\u30fc\u30de\u30a4\u30f3",
       "url": "https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy"
-    },
-    {
-      "added_at": "2024-08-09 05:08:15",
-      "album": {
-        "name": "\u304b\u308f\u3044\u304f\u3057\u306a\u304c\u3089\u5f85\u3063\u3066\u308b\u306d",
-        "url": "https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J"
-      },
-      "artists": [
-        {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
-        }
-      ],
-      "duration_ms": 201520,
-      "name": "\u2661\u4eba\u751f\u2661",
-      "url": "https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m"
     },
     {
       "added_at": "2024-08-09 05:08:15",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-08-09 05:08:15",
       "album": {
-        "name": "\u611b\u3068U",
-        "url": "https://open.spotify.com/album/3eSijTuKdOiOTjOWaK3Wpl"
+        "name": "\u304b\u308f\u3044\u304f\u3057\u306a\u304c\u3089\u5f85\u3063\u3066\u308b\u306d",
+        "url": "https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J"
       },
       "artists": [
         {
-          "name": "Mega Shinnosuke",
-          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
         }
       ],
-      "duration_ms": 202535,
-      "name": "\u611b\u3068U",
-      "url": "https://open.spotify.com/track/5fMsvYISKdM1pSSog4zfFJ"
+      "duration_ms": 201520,
+      "name": "\u2661\u4eba\u751f\u2661",
+      "url": "https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m"
     },
     {
       "added_at": "2024-08-09 05:08:15",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-08-09 05:08:15",
       "album": {
-        "name": "\u6b63\u89e3",
-        "url": "https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "\u6b63\u89e3",
-      "url": "https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF"
-    },
-    {
-      "added_at": "2024-08-09 05:08:15",
-      "album": {
         "name": "HEART BEAT",
         "url": "https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 335465,
       "name": "HEART BEAT",
       "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
+    },
+    {
+      "added_at": "2024-08-09 05:08:15",
+      "album": {
+        "name": "\u6b63\u89e3",
+        "url": "https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "\u6b63\u89e3",
+      "url": "https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF"
     },
     {
       "added_at": "2024-08-09 05:08:15",

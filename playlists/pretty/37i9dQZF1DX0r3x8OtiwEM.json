@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 955254,
+  "num_followers": 955368,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -130,6 +130,10 @@
         {
           "name": "VXSION",
           "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        },
+        {
+          "name": "Dawn Patrol",
+          "url": "https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe"
         }
       ],
       "duration_ms": 338210,
@@ -663,22 +667,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 415748,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Timelapse",
         "url": "https://open.spotify.com/album/0nAbT1dKYuAMJrME1nmfKy"
       },
@@ -695,6 +683,22 @@
       "duration_ms": 478080,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/7KaXmqRS3KHFZtYLDSuCnL"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 415748,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/6mzicuQ4PqOguqmixiQXV4"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1159,18 +1163,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0CxOcrXyfElV904Ytq8yCj"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Einmusik",
+          "url": "https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1"
+        },
+        {
+          "name": "Jordan Arts",
+          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
         }
       ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+      "duration_ms": 295283,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/064zQysCLTlbcdrngwbI6i"
     }
   ],
   "unique_name": "Lowkey Tech",

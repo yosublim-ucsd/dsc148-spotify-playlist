@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 ### [This Is LUDMILLA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO26GFPO)
 
-> This is LUDMILLA\. Todos os maiores hits em uma só playlist.
+> This Is LUDMILLA\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,819 likes - 43 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,862 likes - 42 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 39 | [Um Pôr do Sol Na Praia](https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Um Pôr do Sol Na Praia](https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO) | 3:08 |
 | 40 | [Eu estive Aqui \- Ao Vivo](https://open.spotify.com/track/07lEHXZYuhl0KpmXOYvwpc) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:40 |
 | 41 | [Não vá me enganar \- Ao Vivo](https://open.spotify.com/track/6Q3JFwQ0EoAO7gosrWI3na) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 3:07 |
-| 42 | [CAFÉ DA MANHÃ ;P](https://open.spotify.com/track/0sPtV4stCHkFJB6GpoaZ1f) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:01 |
-| 43 | [Me Arrepender \- Ao Vivo](https://open.spotify.com/track/46WAJyMF8mNDcn9CcsTcmT) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:20 |
+| 42 | [Me Arrepender \- Ao Vivo](https://open.spotify.com/track/46WAJyMF8mNDcn9CcsTcmT) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:20 |
 
-Snapshot ID: `Zsp0AAAAAACKkITyJHnESRhO0mNGtfGN`
+Snapshot ID: `ZsvFgAAAAACgfLg8G6uocBlxQLVa0YfN`

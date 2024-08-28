@@ -4,7 +4,7 @@
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-73 songs - 3 hr 51 min
+74 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Donde Andaban](https://open.spotify.com/track/6etICDD8QLM1kkMsVZFPDk) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Donde Andaban](https://open.spotify.com/album/0mYlxRmqPIDzVQF2dFQ1GG) | 3:39 | 2024-01-29 |  |
 | [El Capitan](https://open.spotify.com/track/5dxoI7r19Bwb6U57iTnpxk) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Corazon Tumbado](https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc) | 3:12 | 2024-01-29 |  |
 | [EL KARMA](https://open.spotify.com/track/3bG4hVhR7fUF3Cn38nOEsf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [EL KARMA](https://open.spotify.com/album/7xiQoNQkpoMzZJuvdrewcf) | 2:51 | 2024-01-29 | 2024-08-27 |
+| [EL KARMA](https://open.spotify.com/track/3qMR5oiGKLfZZeVJmOiUKx) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [EL KARMA](https://open.spotify.com/album/2Zyfh2tswaGFIieQopi557) | 2:51 | 2024-08-28 |  |
 | [Elevando Rango](https://open.spotify.com/track/52DOAxLyM09nzSJlq0x1iy) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 2:56 | 2024-01-29 |  |
 | [En El Laboratorio](https://open.spotify.com/track/4jHs2TkRNjEDsymVCzDuxQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [En El Laboratorio](https://open.spotify.com/album/1c5GRF8iWRduHOwOMqyLUc) | 3:05 | 2024-01-29 | 2024-06-09 |
 | [Es Dificil Ser Un Santo](https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Es Dificil Ser Un Santo](https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h) | 3:05 | 2024-01-29 |  |
@@ -69,7 +70,7 @@
 | [Por Si Acaso](https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Por Si Acaso](https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP) | 3:18 | 2024-01-29 |  |
 | [Presumido](https://open.spotify.com/track/3AyCusgEyuvfXfGlcsJ68l) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Los Archivos](https://open.spotify.com/album/4jE5oGRkiVBQJKJQuAY3q4) | 3:38 | 2024-08-14 |  |
 | [Reyes Magos](https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [JOP](https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba) | [Reyes Magos](https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF) | 2:08 | 2024-01-29 |  |
-| [Ric Flair](https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 2:49 | 2024-01-29 |  |
+| [Ric Flair](https://open.spotify.com/track/1gXU6XIRIJ83Y3C7dZfTBm) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 2:49 | 2024-01-29 | 2024-08-28 |
 | [Se Termino](https://open.spotify.com/track/3w68dXKuXUxFocUinFfSeV) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Se Termino](https://open.spotify.com/album/3g09ETqHuYJxpBygHY7cZw) | 3:39 | 2024-03-18 | 2024-04-16 |
 | [Siempre Activo](https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 4:26 | 2024-02-18 |  |
 | [Siempre Activo \- En Vivo](https://open.spotify.com/track/6mdGBWH1EZxW3cN2yj737v) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 4:07 | 2024-06-15 |  |

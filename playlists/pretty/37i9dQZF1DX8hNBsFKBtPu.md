@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop 💚 Shawn Mendes på coveret
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,855 likes - 118 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,852 likes - 118 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 22 | [Hun](https://open.spotify.com/track/6ZC9iIWBCy4VtBhoY1YTuR) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Nye Tider](https://open.spotify.com/album/5pJ0ffWRRHKdlYZPB18S9U) | 3:14 |
 | 23 | [Call Me A Dreamer](https://open.spotify.com/track/40REbNWViDmfb9b3DxbfpQ) | [Beinir](https://open.spotify.com/artist/0SA6vUUcuORGdt3ZjjJzjf) | [Call Me A Dreamer](https://open.spotify.com/album/2VfsX7bUKuRSuArqNTXQd9) | 2:34 |
 | 24 | [Man kan græde oceaner](https://open.spotify.com/track/7sf7eJY2kzvdkra6XqvdLw) | [Freja Kirk](https://open.spotify.com/artist/6RkUXqTZlgi1qagWreJRgG) | [Man kan græde oceaner](https://open.spotify.com/album/41XR2YsKMSDunNrGaiOs9Y) | 2:30 |
-| 25 | [HONEY I'M HOME](https://open.spotify.com/track/4dztGCRXZC4hE5By2E2MqD) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [HONEY I'M HOME](https://open.spotify.com/album/78GULFSix9Ukfypf8XMXQk) | 2:53 |
+| 25 | [HONEY IM HOME](https://open.spotify.com/track/4dztGCRXZC4hE5By2E2MqD) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [HONEY IM HOME](https://open.spotify.com/album/78GULFSix9Ukfypf8XMXQk) | 2:53 |
 | 26 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 |
 | 27 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 |
 | 28 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 |

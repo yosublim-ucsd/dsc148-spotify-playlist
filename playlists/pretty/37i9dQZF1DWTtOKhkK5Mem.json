@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 766538,
+  "num_followers": 766657,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Soul Provider",
         "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 255666,
       "name": "How Am I Supposed to Live Without You",
       "url": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Paid Vacation",
-        "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Now And Forever",
-      "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Breach",
         "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Paid Vacation",
+        "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Now And Forever",
+      "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -567,6 +567,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Time, Love & Tenderness",
+        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -651,22 +667,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Time, Love & Tenderness",
-        "url": "https://open.spotify.com/album/3tu5RTLzk7J2Oe30hspuPm"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/3ascnOSOR5MX901ylGuhcl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Say You Won't Let Go",
         "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 125440,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The One Thing",
+        "url": "https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX"
+      },
+      "artists": [
+        {
+          "name": "Michael Bolton",
+          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
+        }
+      ],
+      "duration_ms": 304866,
+      "name": "Said I Loved You...But I Lied",
+      "url": "https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -775,22 +791,6 @@
       "duration_ms": 209493,
       "name": "You're Beautiful",
       "url": "https://open.spotify.com/track/5pbajJXEPdcoXQPXoAVR1t"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "The One Thing",
-        "url": "https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX"
-      },
-      "artists": [
-        {
-          "name": "Michael Bolton",
-          "url": "https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn"
-        }
-      ],
-      "duration_ms": 304866,
-      "name": "Said I Loved You...But I Lied",
-      "url": "https://open.spotify.com/track/2nfMrwg3aRhSAv4HX7IzJL"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Classics (Vol.4)",
-        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
+        "name": "The Best of Luther Vandross The Best of Love",
+        "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
       },
       "artists": [
         {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
         }
       ],
-      "duration_ms": 162973,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
+      "duration_ms": 323000,
+      "name": "Here and Now",
+      "url": "https://open.spotify.com/track/042pmCix7CPth3l3X28jl1"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Best of Luther Vandross The Best of Love",
-        "url": "https://open.spotify.com/album/5rrSO0mgkVmZF1qjPn0TKD"
+        "name": "Classics (Vol.4)",
+        "url": "https://open.spotify.com/album/1vq5rtsUNR2tu5eJeG3uq8"
       },
       "artists": [
         {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
         }
       ],
-      "duration_ms": 323000,
-      "name": "Here and Now",
-      "url": "https://open.spotify.com/track/042pmCix7CPth3l3X28jl1"
+      "duration_ms": 162973,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/5Yo8iKcDFk5aJ2Pntaz8UH"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Big Picture",
-        "url": "https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 308840,
-      "name": "Something About The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/4l4mSq8IKgCMz0q9KFZ7tK"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Tuesdays",
         "url": "https://open.spotify.com/album/3DIMaIqQvaGXaYJMFT9LbD"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 216989,
       "name": "Tuesdays",
       "url": "https://open.spotify.com/track/7r5cRFkwHuPy7HlzvuovLD"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Big Picture",
+        "url": "https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 308840,
+      "name": "Something About The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/4l4mSq8IKgCMz0q9KFZ7tK"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Nothing Really Matters",
-        "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
-      },
-      "artists": [
-        {
-          "name": "Mr. Probz",
-          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
-        }
-      ],
-      "duration_ms": 222041,
-      "name": "Nothing Really Matters",
-      "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Rhino Hi-Five: All-4-One",
         "url": "https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 259853,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/3V0PeMg2mhbYRtk9bioAwF"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Nothing Really Matters",
+        "url": "https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU"
+      },
+      "artists": [
+        {
+          "name": "Mr. Probz",
+          "url": "https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT"
+        }
+      ],
+      "duration_ms": 222041,
+      "name": "Nothing Really Matters",
+      "url": "https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2375,6 +2375,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/7nSAyfhwuPt4vcQ7jeWJCF"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 273999,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/0hSAR39xfxXXs2LmwjTWUI"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "You Are The Reason",
         "url": "https://open.spotify.com/album/7rfp8crDRCG0ACHe2Ghu9U"
       },
@@ -2403,22 +2419,6 @@
       "duration_ms": 366640,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "In The Lonely Hour (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7p7RFI5jtwYDknwhnQgmlp"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 172723,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/7IHOIqZUUInxjVkko181PB"
     }
   ],
   "unique_name": "In the Arms of a Woman",

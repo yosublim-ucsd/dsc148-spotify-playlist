@@ -1,12 +1,12 @@
 {
-  "description": "This is Brandi Carlile. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 111587,
+  "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
+  "num_followers": 111611,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAADrLFmUaMGQ3ZSHy6wB81ng",
+  "snapshot_id": "ZsvFgAAAAADx3+nW4Lj537Ot/SrjTtz8",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onward (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 213732,
-      "name": "Carried Me With You",
-      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 211674,
       "name": "The Eye",
       "url": "https://open.spotify.com/track/0Plf9mewMoYkwEvncCjfxS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onward (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 213732,
+      "name": "Carried Me With You",
+      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
     },
     {
       "added_at": null,
@@ -563,26 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cayamo Sessions At Sea",
-        "url": "https://open.spotify.com/album/0yqCt53npFro8Zj47FXO0o"
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
       "artists": [
         {
-          "name": "Buddy Miller",
-          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
         },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
         }
       ],
-      "duration_ms": 287346,
-      "name": "Angel From Montgomery",
-      "url": "https://open.spotify.com/track/5cXqZHyuESB0haAwRm2SLV"
+      "duration_ms": 224893,
+      "name": "How (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
     },
     {
       "added_at": null,
@@ -619,22 +615,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+        "name": "Cayamo Sessions At Sea",
+        "url": "https://open.spotify.com/album/0yqCt53npFro8Zj47FXO0o"
       },
       "artists": [
         {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+          "name": "Buddy Miller",
+          "url": "https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp"
         },
         {
           "name": "Brandi Carlile",
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
         }
       ],
-      "duration_ms": 224893,
-      "name": "How (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
+      "duration_ms": 287346,
+      "name": "Angel From Montgomery",
+      "url": "https://open.spotify.com/track/5cXqZHyuESB0haAwRm2SLV"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Firewatcher's Daughter",
+        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 206268,
+      "name": "The Things I Regret",
+      "url": "https://open.spotify.com/track/2zbVdL6Htw7heJDjbBBEcs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Story",
         "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 305173,
       "name": "Nothing Compares 2 U (Live) (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/10CjBqsuPK534Xq7uIjuQ9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Firewatcher's Daughter",
-        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 206268,
-      "name": "The Things I Regret",
-      "url": "https://open.spotify.com/track/2zbVdL6Htw7heJDjbBBEcs"
     },
     {
       "added_at": null,

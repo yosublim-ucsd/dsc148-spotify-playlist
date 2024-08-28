@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xRgSChkAID.md) - [plain]
 
 > queer ego fueled, curated by Zaya Wade\. Any and all necessary vibes for a complete trans girl summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,413 likes - 40 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,465 likes - 40 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xRgSChkAID.md) - [plain]
 | 6 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 7 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
 | 8 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
-| 9 | [Tummy Hurts \(feat\. Coco Jones\) \- Remix](https://open.spotify.com/track/3WLW76a7K7krnGyF9s4lIk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Snow Angel \(Deluxe\)](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:47 |
+| 9 | [Tummy Hurts \(feat\. Coco Jones\) \- Remix](https://open.spotify.com/track/3WLW76a7K7krnGyF9s4lIk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Snow Angel \- Deluxe](https://open.spotify.com/album/7pPV0OFuytqNj7ar82Hizf) | 2:47 |
 | 10 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 |
 | 11 | [Man Down](https://open.spotify.com/track/454h9zAIuTe1eJyw9iTnj4) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) | 4:26 |
 | 12 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 |

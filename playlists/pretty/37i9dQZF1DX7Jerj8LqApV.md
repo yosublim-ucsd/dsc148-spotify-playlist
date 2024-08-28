@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,738,347 likes - 40 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,738,505 likes - 40 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 4 | [sining \(feat\. Jay R\)](https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [sining \(feat\. Jay R\)](https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m) | 3:20 |
 | 5 | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/track/6zvWIAJtrJutkPdQUCMwHf) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT), [ZOYA](https://open.spotify.com/artist/2XZdgmh8MbWzuc40zrFf0J) | [kapoy \(feat\. ZOYA\)](https://open.spotify.com/album/48E4msn8F7pNljqrcdfC4X) | 4:13 |
 | 6 | [Cherry On Top](https://open.spotify.com/track/6EpoDm2IoOkTfcPkNwhf07) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Cherry On Top](https://open.spotify.com/album/3ZIjUhwlei1sT2yetvypvJ) | 2:55 |
-| 7 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 |
-| 8 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 |
+| 7 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 |
+| 8 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 |
 | 9 | [Ikot](https://open.spotify.com/track/55eWkBMyr3bAHVVE1SLmDE) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Ikot](https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv) | 4:10 |
 | 10 | [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 |
 | 11 | [Ikaw Lang](https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Ikaw Lang](https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx) | 4:23 |

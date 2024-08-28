@@ -2,7 +2,7 @@
 
 ### [This Is Nicki Minaj](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0684jS)
 
-> This is Nicki Minaj\. Todos os maiores hits em uma só playlist.
+> This is Nicki Minaj\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 69 songs - 4 hr 6 min
 

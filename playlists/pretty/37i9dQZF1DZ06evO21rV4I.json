@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 129455,
+  "num_followers": 129511,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAC3fny8LAh04P5eazMH0848",
+  "snapshot_id": "ZsvFgAAAAADOTVv7wP57jBzMpsMLNDq6",
   "tracks": [
     {
       "added_at": null,
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gets Late Here",
-        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 162912,
-      "name": "Work Me Out (with Wizkid)",
-      "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Energy (Stay Far Away)",
         "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 199521,
       "name": "Energy (Stay Far Away)",
       "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Gets Late Here",
+        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 162912,
+      "name": "Work Me Out (with Wizkid)",
+      "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
         "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Since '97",
         "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
@@ -443,26 +443,6 @@
       "duration_ms": 227328,
       "name": "Many Ways (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sounds From The Other Side",
-        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Come Closer (feat. Drake)",
-      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
     },
     {
       "added_at": null,
@@ -487,6 +467,26 @@
       "duration_ms": 230240,
       "name": "Borrowed Love (feat. Swae Lee & WizKid)",
       "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Come Closer (feat. Drake)",
+      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
     },
     {
       "added_at": null,
@@ -603,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
+      },
+      "artists": [
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 183745,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
         "url": "https://open.spotify.com/album/5pJAx43ygdhq0uKb0MABEo"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 255608,
       "name": "Soco (feat. Wizkid, Ceeza Milli, Spotless & Terri)",
       "url": "https://open.spotify.com/track/1KpBtWSI9dlv0RjtzvF1BD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
-      },
-      "artists": [
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 183745,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
     },
     {
       "added_at": null,
@@ -871,18 +871,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+        "name": "SoundMan Vol. 1",
+        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
       "artists": [
         {
+          "name": "StarBoy",
+          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
+        },
+        {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/048xdKwKT0Kx6SyYKIzXbr"
         }
       ],
-      "duration_ms": 181360,
-      "name": "Anoti",
-      "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
+      "duration_ms": 185123,
+      "name": "Ease Your Mind (feat. Wizkid & Kel-P)",
+      "url": "https://open.spotify.com/track/7LbgrMEa9n3FwEc2sEOGnn"
     },
     {
       "added_at": null,
@@ -911,26 +919,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoundMan Vol. 1",
-        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
       "artists": [
         {
-          "name": "StarBoy",
-          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
-        },
-        {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "London",
-          "url": "https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW"
         }
       ],
-      "duration_ms": 178775,
-      "name": "Electric (feat. Wizkid & London)",
-      "url": "https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p"
+      "duration_ms": 181360,
+      "name": "Anoti",
+      "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
     },
     {
       "added_at": null,
@@ -951,6 +951,30 @@
       "duration_ms": 168626,
       "name": "Slow Motion (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1OdxQvBNOgCDE3SyqoEDha"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoundMan Vol. 1",
+        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
+      },
+      "artists": [
+        {
+          "name": "StarBoy",
+          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "London",
+          "url": "https://open.spotify.com/artist/48XO5sXDsZ0NgyVmGT5qxW"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Electric (feat. Wizkid & London)",
+      "url": "https://open.spotify.com/track/2g59YEtG3OZq3lp4eDj97p"
     },
     {
       "added_at": null,
@@ -999,30 +1023,6 @@
       "duration_ms": 228706,
       "name": "My Love (feat. Major Lazer, WizKid, Dua Lipa)",
       "url": "https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SoundMan Vol. 1",
-        "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
-      },
-      "artists": [
-        {
-          "name": "StarBoy",
-          "url": "https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Kel-P",
-          "url": "https://open.spotify.com/artist/048xdKwKT0Kx6SyYKIzXbr"
-        }
-      ],
-      "duration_ms": 185123,
-      "name": "Ease Your Mind (feat. Wizkid & Kel-P)",
-      "url": "https://open.spotify.com/track/7LbgrMEa9n3FwEc2sEOGnn"
     },
     {
       "added_at": null,

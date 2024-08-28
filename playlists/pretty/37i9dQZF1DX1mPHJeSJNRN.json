@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 16832,
+  "num_followers": 16835,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
+        "name": "In a Deeper Sense",
+        "url": "https://open.spotify.com/album/7HUtFnt2Tl5PJGhybMBAt1"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "duration_ms": 288877,
+      "name": "Spring Is in the Air",
+      "url": "https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
         "name": "A Beautiful Friendship",
         "url": "https://open.spotify.com/album/7MgfP4PI0iNLk1epeHFDOZ"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 258239,
       "name": "A Beautiful Friendship",
       "url": "https://open.spotify.com/track/5Qjl7NUBECtejR5VCfGMgK"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
-        "name": "In a Deeper Sense",
-        "url": "https://open.spotify.com/album/7HUtFnt2Tl5PJGhybMBAt1"
-      },
-      "artists": [
-        {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
-        }
-      ],
-      "duration_ms": 288877,
-      "name": "Spring Is in the Air",
-      "url": "https://open.spotify.com/track/0c6PEeFIX4PQ20yyjwW1SE"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
+        "name": "Moon Beams",
+        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 304466,
+      "name": "Very Early",
+      "url": "https://open.spotify.com/track/58gg22rFN1xRC2MqKkzDNq"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
         "name": "In Love Again",
         "url": "https://open.spotify.com/album/4mvkItBFlkQ2BUxi4kPaKl"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 177586,
       "name": "My Heart Stood Still",
       "url": "https://open.spotify.com/track/5q91yKtiubyJEFaaEvDJCD"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
-        "name": "Moon Beams",
-        "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 304466,
-      "name": "Very Early",
-      "url": "https://open.spotify.com/track/58gg22rFN1xRC2MqKkzDNq"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "A Lot of Livin' to Do",
-        "url": "https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk"
-      },
-      "artists": [
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
-        }
-      ],
-      "duration_ms": 225520,
-      "name": "Won't You Be My Neighbor",
-      "url": "https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "A Lot of Livin' to Do",
+        "url": "https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk"
+      },
+      "artists": [
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "Won't You Be My Neighbor",
+      "url": "https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
+        "name": "Let's Sail Away",
+        "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
+      },
+      "artists": [
+        {
+          "name": "Jeff Rupert",
+          "url": "https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh"
+        },
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 283826,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
         "name": "Live at Unity",
         "url": "https://open.spotify.com/album/0YlTrukNtRdVQUkRrOFKas"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 364626,
       "name": "Only Love Can Break Your Heart - Live",
       "url": "https://open.spotify.com/track/7zIRI8IyfDzlSxAzKy2E4m"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
-        "name": "Let's Sail Away",
-        "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
-      },
-      "artists": [
-        {
-          "name": "Jeff Rupert",
-          "url": "https://open.spotify.com/artist/3eWJmHOgjTdo3ZsS25iRMh"
-        },
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 283826,
-      "name": "Pennies from Heaven",
-      "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "A Ballad for Alice",
-        "url": "https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 178728,
-      "name": "A Ballad for Alice",
-      "url": "https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "From Here I See",
         "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 248666,
       "name": "Who's Lily?",
       "url": "https://open.spotify.com/track/44ZlML36cTMW7U2MhW5AFU"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "A Ballad for Alice",
+        "url": "https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 178728,
+      "name": "A Ballad for Alice",
+      "url": "https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD"
     },
     {
       "added_at": "2024-06-13 12:59:10",

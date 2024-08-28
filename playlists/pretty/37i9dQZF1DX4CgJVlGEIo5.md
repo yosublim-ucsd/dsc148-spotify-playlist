@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,931 likes - 82 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,035 likes - 82 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,11 +80,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 70 | [Migration of Souls](https://open.spotify.com/track/2GmGy1eJTvPACm3ekX0hxD) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI) | [Migration Stories](https://open.spotify.com/album/6wkWIyipqrQI4xLLxv6IGy) | 3:28 |
 | 71 | [Me & You](https://open.spotify.com/track/1esIV2S5HilbhErjBf8Drn) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 2:23 |
 | 72 | [Maybe I Should Go \(feat\. Jay Nash, Tony Lucca & Matt Duke\)](https://open.spotify.com/track/59sMueQV9xmGFYbhsm9tS3) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif), [Jay Nash](https://open.spotify.com/artist/0c4o7xzZw62JwRpACfEV6P), [Tony Lucca](https://open.spotify.com/artist/25JN9vPFGeYAhoaYyVGuwC), [Matt Duke](https://open.spotify.com/artist/1mGfXwS6yIvwZOPLQ8sdEL) | [Beggars & Ballers \(feat\. Jay Nash, Tony Lucca & Matt Duke\)](https://open.spotify.com/album/48j9hWlUBaUGBDvL9mUt34) | 3:17 |
-| 73 | [Breakin' Ground](https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Breakin' Ground](https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl) | 3:04 |
-| 74 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 |
-| 75 | [Feels Like Lightning](https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Gathering](https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi) | 3:02 |
-| 76 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 |
-| 77 | [Plain Letters \- Reimagined](https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Plain Letters \(Reimagined\)](https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O) | 4:33 |
+| 73 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 |
+| 74 | [Feels Like Lightning](https://open.spotify.com/track/5TGbpdNpZzI4oK95QWWdyh) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Gathering](https://open.spotify.com/album/6HHnPXXmJBzlsQE4ieQxYi) | 3:02 |
+| 75 | [Breakin' Ground](https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Breakin' Ground](https://open.spotify.com/album/55tT9zsQepZmarLKDYFTcl) | 3:04 |
+| 76 | [Plain Letters \- Reimagined](https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Plain Letters \(Reimagined\)](https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O) | 4:33 |
+| 77 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 |
 | 78 | [Low \(Acoustic\)](https://open.spotify.com/track/22wL5mqVkDtXd6OMT6ojgX) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Low](https://open.spotify.com/album/32iKyO3jcmkBhyo5oI3sK0) | 3:26 |
 | 79 | [Famous](https://open.spotify.com/track/3tE7QWHK8fCsSBMtSUQK1B) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Famous](https://open.spotify.com/album/66jxEpRg72cH9574G9L49e) | 3:42 |
 | 80 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 |

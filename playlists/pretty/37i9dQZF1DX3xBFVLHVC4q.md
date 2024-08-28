@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" /Aqoursの「みんなで叶える物語」を彩ってきた名曲の数々がここに。▶︎「Love Live！」<a href="spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF">Here</a> ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,866 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,870 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 33 | [Misty Frosty Love](https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq) | [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:56 |
 | 34 | [Waku\-Waku\-Week!](https://open.spotify.com/track/3hdl3kBMjapC8UF5mt3lRY) | [Yoshiko Tsushima \(CV: Aika Kobayashi\)](https://open.spotify.com/artist/4e6MC71bwNfP6rnStiWyVY), [国木田花丸 \(CV.高槻かなこ\)](https://open.spotify.com/artist/13zuD1JY2mY2kwG3dOS8an), [黒澤ルビィ \(CV.降幡 愛\)](https://open.spotify.com/artist/3eMNL0H3RQlfNX3dadmmAO) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:16 |
 | 35 | [PURE PHRASE](https://open.spotify.com/track/2oZ6e3TmmuFU0p2QowptUo) | [桜内梨子 \(CV.逢田梨香子\) from Aqours](https://open.spotify.com/artist/5vOwRlEKe8Sq03ayfreW5r) | [LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album 〜Pianoforte Monologue〜](https://open.spotify.com/album/2xY1q5fW6R5ERqthaBptkb) | 5:10 |
-| 36 | [Daydream Warrior](https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:35 |
+| 36 | [MY舞☆TONIGHT](https://open.spotify.com/track/0ldfDof0ijqXrfmbJmUpvo) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [MY舞☆TONIGHT/MIRACLE WAVE](https://open.spotify.com/album/3jSoK36oKfUXX7jvacGe2Z) | 4:25 |
 | 37 | [Shadow gate to love](https://open.spotify.com/track/102b9XE1FmD4seoZrOBWoj) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 4:05 |
 | 38 | [近未来ハッピーエンド](https://open.spotify.com/track/09hTxG0bQXAulhD92ambAW) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [近未来ハッピーエンド](https://open.spotify.com/album/55Mz7WkM8ILMs57h5jAemf) | 5:10 |
 | 39 | [ときめき分類学](https://open.spotify.com/track/5JvsOjJvozyfkeyGJo3y5x) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [トリコリコPLEASE!!](https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3) | 4:51 |

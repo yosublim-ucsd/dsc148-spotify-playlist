@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Billie Eilish ja Charli xcx.
 
-184 songs - 9 hr 11 min
+185 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Mowgli](https://open.spotify.com/track/44i0pQGFw0hq3YzBYvYZaC) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Mowgli](https://open.spotify.com/album/017Q2cv3auxsQmWWQj2mlO) | 2:16 | 2024-07-26 | 2024-08-10 |
 | [My Fault \(feat\. Noah Cyrus\)](https://open.spotify.com/track/3T3sbHYwPvhTCfEeUtvbMF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:56 | 2024-07-02 | 2024-07-05 |
 | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8) | 3:01 | 2024-07-11 |  |
+| [Neliapila](https://open.spotify.com/track/4CuNx6T9rJWbwZ4KyEHYmr) | [LAVAREDO](https://open.spotify.com/artist/216ONfeqa8BHCqowYhDgWD) | [Neliapila](https://open.spotify.com/album/3rTVnlLuXWS1f9yYNukwio) | 2:33 | 2024-08-27 |  |
 | [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-07-02 | 2024-07-05 |
 | [Norjalaista puuta](https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Norjalaista puuta](https://open.spotify.com/album/36yFPOq7YIsFpIodxohXzu) | 2:45 | 2024-07-02 | 2024-07-12 |
 | [Nuori & Tyhmä](https://open.spotify.com/track/1a9QQJfeRg2SRFNxWaEVS0) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Nuori & Tyhmä](https://open.spotify.com/album/205mzTBW3InU9xcFNksa9r) | 2:32 | 2024-08-15 |  |

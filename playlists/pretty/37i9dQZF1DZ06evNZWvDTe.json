@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 11177,
+  "num_followers": 11180,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABWyVMwJZyZOSbE/eEjoq8+",
+  "snapshot_id": "ZsvFgAAAAAA49mwpfE8inZ0nH+60HmJb",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 100362,
-      "name": "CONFETTI",
-      "url": "https://open.spotify.com/track/6h4RT6Vwb9bo8agXsFVqlW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rapperholic",
         "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
@@ -699,22 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epistles of Mama",
-        "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
       "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 207150,
-      "name": "Odo Bi",
-      "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
+      "duration_ms": 100362,
+      "name": "CONFETTI",
+      "url": "https://open.spotify.com/track/6h4RT6Vwb9bo8agXsFVqlW"
     },
     {
       "added_at": null,
@@ -739,22 +719,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
+        "name": "Epistles of Mama",
+        "url": "https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr"
       },
       "artists": [
         {
-          "name": "Jay Bahd",
-          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         },
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
+      "duration_ms": 207150,
+      "name": "Odo Bi",
+      "url": "https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary",
+        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "duration_ms": 287261,
+      "name": "Always on My Mind (feat. Obrafour)",
+      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
     },
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1"
+      },
+      "artists": [
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 210133,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Championship",
         "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 273256,
       "name": "X",
       "url": "https://open.spotify.com/track/5ixH9djj6liGfZB4scbjRF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary",
-        "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Obrafour",
-          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
-        }
-      ],
-      "duration_ms": 287261,
-      "name": "Always on My Mind (feat. Obrafour)",
-      "url": "https://open.spotify.com/track/55vXTF5Pv3UoyaixvbBkQp"
     },
     {
       "added_at": null,
@@ -927,6 +927,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "JAMZ",
+        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Labadi (feat. King Promise)",
+      "url": "https://open.spotify.com/track/4hlm377PiUfxf6kZ1lINWQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vawulence (Remix)",
         "url": "https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 174315,
       "name": "Vawulence (Remix)",
       "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JAMZ",
-        "url": "https://open.spotify.com/album/4N96XJi7wu1B0ACzCgPLLc"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Labadi (feat. King Promise)",
-      "url": "https://open.spotify.com/track/4hlm377PiUfxf6kZ1lINWQ"
     },
     {
       "added_at": null,

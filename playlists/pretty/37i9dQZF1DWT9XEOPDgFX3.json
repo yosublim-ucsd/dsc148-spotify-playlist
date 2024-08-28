@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Ruby Waters",
-  "num_followers": 100027,
+  "num_followers": 100044,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Ants From Up There",
+        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        }
+      ],
+      "duration_ms": 553213,
+      "name": "Snow Globes",
+      "url": "https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4cpxNFudYhCQbFw8810O1U"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Ants From Up There",
-        "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
-      },
-      "artists": [
-        {
-          "name": "Black Country, New Road",
-          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
-        }
-      ],
-      "duration_ms": 553213,
-      "name": "Snow Globes",
-      "url": "https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "The Ballad of Betty and Barney Hill",
-        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 196755,
-      "name": "The Ballad of Betty and Barney Hill",
-      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Jockeys of Love",
         "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "The Ballad of Betty and Barney Hill",
+        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 196755,
+      "name": "The Ballad of Betty and Barney Hill",
+      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Hovvdy",
-        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "unposted letters",
         "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 210281,
       "name": "Planet Song",
       "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Hovvdy",
+        "url": "https://open.spotify.com/album/1jEwzUBvIlVPeOfqR3Ghr0"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "one hand on the steering wheel the other sewing a garden",
+        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "duration_ms": 261173,
+      "name": "damn",
+      "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "from here on out",
         "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 275560,
       "name": "Winona",
       "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "one hand on the steering wheel the other sewing a garden",
-        "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
-      },
-      "artists": [
-        {
-          "name": "Ada Lea",
-          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
-        }
-      ],
-      "duration_ms": 261173,
-      "name": "damn",
-      "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "HEADSPLIT (Deluxe)",
-        "url": "https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc"
-      },
-      "artists": [
-        {
-          "name": "Maggie Lindemann",
-          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
-        }
-      ],
-      "duration_ms": 153145,
-      "name": "if it\u2019s not with you",
-      "url": "https://open.spotify.com/track/08BM7fviigjEgzMr8ab1F4"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "I'm In Love",
         "url": "https://open.spotify.com/album/2LxN7gXANSe2A8kZUIPZI7"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 202869,
       "name": "I'm In Love",
       "url": "https://open.spotify.com/track/5kGCnXbeNgKak05lfRFrll"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "HEADSPLIT (Deluxe)",
+        "url": "https://open.spotify.com/album/2nsAfCxX4wdq13Iipr3mSc"
+      },
+      "artists": [
+        {
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "duration_ms": 153145,
+      "name": "if it\u2019s not with you",
+      "url": "https://open.spotify.com/track/08BM7fviigjEgzMr8ab1F4"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Come June",
-        "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
-      },
-      "artists": [
-        {
-          "name": "Mitch Rowland",
-          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
-        }
-      ],
-      "duration_ms": 216964,
-      "name": "Come June",
-      "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Ultrapure",
         "url": "https://open.spotify.com/album/1KLpFZbmz9I4irFMe9sht9"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 177546,
       "name": "Sink;Swim",
       "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Come June",
+        "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rowland",
+          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
+        }
+      ],
+      "duration_ms": 216964,
+      "name": "Come June",
+      "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Shove",
-        "url": "https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb"
-      },
-      "artists": [
-        {
-          "name": "Mali Velasquez",
-          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
-        }
-      ],
-      "duration_ms": 159852,
-      "name": "Shove",
-      "url": "https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Naked and Swimming",
         "url": "https://open.spotify.com/album/7dieZIMr6DED0H3xzfBxJ2"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 179226,
       "name": "Naked and Swimming",
       "url": "https://open.spotify.com/track/7C1dpmbEhX8cYizMeq9stl"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Shove",
+        "url": "https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb"
+      },
+      "artists": [
+        {
+          "name": "Mali Velasquez",
+          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+        }
+      ],
+      "duration_ms": 159852,
+      "name": "Shove",
+      "url": "https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
-        "name": "Milk Town / Mr. Carter",
-        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 77032,
-      "name": "Milk Town / Mr. Carter",
-      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
         "name": "Kansas",
         "url": "https://open.spotify.com/album/6Pjx7eyaHx64bGn2LUr9Dx"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 211734,
       "name": "Kansas",
       "url": "https://open.spotify.com/track/0x0OjST3CNulTlhzLybBc9"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
       "added_at": "2024-06-07 04:00:00",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2024-06-07 04:00:00",
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD"
+      },
+      "artists": [
+        {
+          "name": "Farmer's Son",
+          "url": "https://open.spotify.com/artist/4NI6mNXHm6QG2NcYRinMXV"
+        }
+      ],
+      "duration_ms": 182720,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/32irCtqVudXga5frCUDFVH"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
         "name": "bc i love you",
         "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 205175,
       "name": "silver girl",
       "url": "https://open.spotify.com/track/5uQ1aDnrTDrpTVXytOe1TK"
-    },
-    {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5oMHWQZ31tndGutlULgWWD"
-      },
-      "artists": [
-        {
-          "name": "Farmer's Son",
-          "url": "https://open.spotify.com/artist/4NI6mNXHm6QG2NcYRinMXV"
-        }
-      ],
-      "duration_ms": 182720,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/32irCtqVudXga5frCUDFVH"
     },
     {
       "added_at": "2024-06-07 04:00:00",

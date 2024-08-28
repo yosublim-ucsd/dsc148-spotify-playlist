@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,838 likes - 50 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,840 likes - 50 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 32 | [Tono](https://open.spotify.com/track/6i3SKf6JxZoByA6anVcIhC) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 5:30 |
 | 33 | [Katolon](https://open.spotify.com/track/4L5rI5vn2xtBXvEtb3EfdU) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 6:58 |
 | 34 | [Samigna](https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 7:09 |
-| 35 | [Folon](https://open.spotify.com/track/0YPHxhTtceIbXF5ioGEwGO) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 4:27 |
+| 35 | [Nyanyama](https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 6:18 |
 | 36 | [Cono](https://open.spotify.com/track/3HMQXE2tma5gy9LOcgf0QR) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/0f9D2ul5epWCta3847KfNR) | 6:01 |
 | 37 | [Ana Na Ming](https://open.spotify.com/track/5ieZTFPrAD1BHBTF0amnyF) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 6:17 |
 | 38 | [Ekolo D'Amour](https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 3:55 |
-| 39 | [Nyanyama](https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 6:18 |
+| 39 | [Folon](https://open.spotify.com/track/0YPHxhTtceIbXF5ioGEwGO) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 4:27 |
 | 40 | [Souvent](https://open.spotify.com/track/3wlOX0L9jxeWLphs0giYOI) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou \(20th Anniversary Edition\)](https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7) | 3:16 |
 | 41 | [Waraya](https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 6:05 |
 | 42 | [Papa](https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 6:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 49 | [Djembe](https://open.spotify.com/track/30102u9oWhTedLkAY26isZ) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [The Mansa Of Mali ..\. A Retrospective](https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a) | 5:02 |
 | 50 | [Djigui](https://open.spotify.com/track/5OU6dx84BEw8OATPgC9kVm) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Kemo Kouyaté](https://open.spotify.com/artist/1rJGYz9Kvl5gsyoQHyGZTR) | [Mandekalou \- Les voix mandingues](https://open.spotify.com/album/32wkMhaWqwSRcjk79AoTwZ) | 8:08 |
 
-Snapshot ID: `Zsp0AAAAAADSxPOmbA3Hr1dRlolTE+3O`
+Snapshot ID: `ZsvFgAAAAACKHTJyo1dWJV8OBtEABQal`

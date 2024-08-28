@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVtp02hITpN.md) - [plain]
 
 > The biggest pop tracks right now\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 908,460 likes - 81 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 908,423 likes - 81 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

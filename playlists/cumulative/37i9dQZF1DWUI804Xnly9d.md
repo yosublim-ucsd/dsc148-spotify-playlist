@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-390 songs - 22 hr 6 min
+391 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bairiya](https://open.spotify.com/track/1OrjhoNFXThtmwPdm8lc7h) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw) | [Love19](https://open.spotify.com/album/3uovRrWC0V8zckaZAbPoSK) | 3:22 | 2023-10-10 | 2024-01-09 |
 | [Baithe Baithe \(From "T\-Series Listed"\)](https://open.spotify.com/track/70oyK852uX6zmyCfu3bdIj) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Baithe Baithe \(From "T\-Series Listed"\)](https://open.spotify.com/album/6u7VqWwhENXdzqg0cue6Rp) | 2:29 | 2023-05-17 |  |
 | [Banja Beimaan](https://open.spotify.com/track/4F6hIftaEtiZqX7O9qohUo) | [Siddharth Agarwal](https://open.spotify.com/artist/0khYzwgAKUdtcnxx3ETNRs) | [Banja Beimaan](https://open.spotify.com/album/5iiyu8Old8pPtzM0HULCVE) | 4:32 | 2023-05-17 | 2023-06-21 |
+| [Barf](https://open.spotify.com/track/4RjsIBmaoenrJ3SX4k5b9i) | [Ana Rehman](https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH), [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1) | [Barf](https://open.spotify.com/album/4RTmstfIDxfHpKjnEjbscI) | 3:12 | 2024-08-27 |  |
 | [Barsa Hai](https://open.spotify.com/track/0dWakILE5r3Zt3M0mCDSDP) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4) | [Barsa Hai](https://open.spotify.com/album/1ZUkEiW26xpKQsfHzy8Fwf) | 3:17 | 2024-08-10 |  |
 | [Barsaat Aa Gayi \- Acoustic](https://open.spotify.com/track/3u2TfgGswNKiTuBMB8cIXe) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Hina Khan](https://open.spotify.com/artist/4xKss8ZlA5A4abTQpqynah) | [Barsaat Aa Gayi \(Acoustic\)](https://open.spotify.com/album/1nOjUyG49pdq4P20pv7Nam) | 3:36 | 2023-09-21 | 2023-11-06 |
 | [Baton Baton Mein \(From "Love\-All"\)](https://open.spotify.com/track/6fnVga9swfvgQ6r8NcRQoj) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Saurabh Vaibhav](https://open.spotify.com/artist/2f8BvXBGosWesY17nmZAGl) | [Baton Baton Mein \(From "Love\-All"\)](https://open.spotify.com/album/4hxaVoj9O1DZ3bsvicYH0s) | 3:49 | 2023-08-04 | 2023-09-02 |
@@ -322,7 +323,7 @@
 | [Tabeer](https://open.spotify.com/track/3JFEpoKGheoQ5EOrNJ1nJn) | [F Kaze](https://open.spotify.com/artist/3LzW4ntDuBhWgewwqs7jL7), [Venoz](https://open.spotify.com/artist/6Iz3kCYTtL1cfBdwMo8gIm), [Mark Bhatia](https://open.spotify.com/artist/5EwNqXdDHTI6Z9qcW4V676) | [Tabeer](https://open.spotify.com/album/1EuCJuNXvzBsXdO1zgkVIw) | 3:54 | 2024-02-05 | 2024-03-13 |
 | [Tanhai](https://open.spotify.com/track/0sfw4y1AaYpbL2jkbi1fAu) | [Kiran](https://open.spotify.com/artist/1IUUdmeNEJ6YLrtWGdsOiJ), [Nivi](https://open.spotify.com/artist/1cmdu2iwKdME9GO1FJ7GYI), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Khufiya](https://open.spotify.com/album/36F82HSVzS1II5X6rJtMfF) | 4:51 | 2023-09-26 | 2023-09-27 |
 | [Tanhai](https://open.spotify.com/track/6saOfBsCPh4D4gb2dk226w) | [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB), [Kiran + Nivi](https://open.spotify.com/artist/6MB38cbBCtoUoLWf8U22Ub) | [Khufiya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BzqTX2mEkqEsxPw19KY9b) | 4:51 | 2023-09-26 | 2023-11-25 |
-| [Tasveer](https://open.spotify.com/track/1yXjnMoQ0efLuS9ITfLIJ1) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Tasveer](https://open.spotify.com/album/3cs4twaHMoreHZ2ci9DkmQ) | 3:14 | 2024-04-24 |  |
+| [Tasveer](https://open.spotify.com/track/1yXjnMoQ0efLuS9ITfLIJ1) | [Pulkit Jain](https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U) | [Tasveer](https://open.spotify.com/album/3cs4twaHMoreHZ2ci9DkmQ) | 3:14 | 2024-04-24 | 2024-08-28 |
 | [Tauba Tauba \- Reply Version](https://open.spotify.com/track/6QuvG0gL7S0XlTVvjGLly1) | [Pragati Nagpal](https://open.spotify.com/artist/5LUjJOXtKNWa7AmUOJbWgH), [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx) | [Tauba Tauba \- Reply Version](https://open.spotify.com/album/68fer3E93D3XdzbHFdq3af) | 1:47 | 2024-07-22 | 2024-08-15 |
 | [Tera Aasra](https://open.spotify.com/track/2bt46Wc1gdlwLq4WA34Lwf) | [Xeede](https://open.spotify.com/artist/4vctQONvB4a2PdcySenCRu), [F Kaze](https://open.spotify.com/artist/3LzW4ntDuBhWgewwqs7jL7) | [Tera Aasra](https://open.spotify.com/album/0FVTyISjP50lQI9nLKLgG9) | 3:00 | 2023-07-12 | 2023-09-23 |
 | [Tera Hi Intezaar Hai](https://open.spotify.com/track/3CUOhQONkaHfyEbJ9o6eFY) | [Rrajeev Sharma](https://open.spotify.com/artist/64zDyqa34wJUmIUr5iXKLv), [Harshit Shrivastava](https://open.spotify.com/artist/5eYHTsRSjK7Kqo7KDxEtSA) | [Tera Hi Intezaar Hai](https://open.spotify.com/album/7xju3kOHcr5VUiH2Au4FaA) | 3:06 | 2023-11-17 | 2023-12-02 |

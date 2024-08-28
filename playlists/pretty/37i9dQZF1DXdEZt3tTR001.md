@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,199 likes - 80 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,299 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 69 | [Sun/Son](https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sun/Son](https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24) | 2:56 |
 | 70 | [Can U Handle It?](https://open.spotify.com/track/6gRGMnzrsAY5Fl2byZf2jd) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 4:39 |
 | 71 | [Dangerously In Love](https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 5:06 |
-| 72 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 |
+| 72 | [Fortune Eyes](https://open.spotify.com/track/283RgDyFjmpN7vVKOEVoqC) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Fortune Eyes](https://open.spotify.com/album/1dJrWZOEKfcObcWLSpMTzr) | 2:22 |
 | 73 | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Bridge Over Troubled Water \(feat\. John Legend & Tori Kelly\)](https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5) | 5:52 |
-| 74 | [Fortune Eyes](https://open.spotify.com/track/283RgDyFjmpN7vVKOEVoqC) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Fortune Eyes](https://open.spotify.com/album/1dJrWZOEKfcObcWLSpMTzr) | 2:22 |
+| 74 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 |
 | 75 | [By Your Side \(Neptunes Remix\) \- Remastered](https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:59 |
 | 76 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 |
 | 77 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
 | 78 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 |
 | 79 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 |
-| 80 | [PiLOT \(feat\. Snoop Dogg, Busta Rhymes, Anderson .Paak\)](https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 3:22 |
+| 80 | [Simply Beautiful](https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Simply Beautiful](https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc) | 4:18 |
 
 Snapshot ID: `Zsew3QAAAACY4gi299yhqpa610URCdkF`

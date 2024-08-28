@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-802 songs - 1 day 21 hr 55 min
+803 songs - 1 day 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [After Midnight](https://open.spotify.com/track/5NSr0xa9Qf4J8xKzDnC0uq) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [After Midnight](https://open.spotify.com/album/4KAFS6Pax2U2GCVNQ7UN9p) | 2:58 | 2022-01-20 | 2022-03-30 |
 | [AGONIZE](https://open.spotify.com/track/6vuF3LYipww2DRhRJ9s7CH) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Extra Terra](https://open.spotify.com/artist/4wjUOQuVVl9qzSdSX1E1yU) | [AGONIZE](https://open.spotify.com/album/19M2LqtlyvIT3VUnCD8rpx) | 3:43 | 2022-02-10 | 2022-04-21 |
 | [Airborne](https://open.spotify.com/track/5drPG7Jfd99IQuXA0yN5C9) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Airborne](https://open.spotify.com/album/0kjuzNLxD4KV0nJNaNN5iI) | 3:32 | 2022-01-07 | 2022-03-16 |
+| [Aklana](https://open.spotify.com/track/796NUAXeDAd9n8Ng1xJGus) | [Sound Quelle](https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18) | [Aklana](https://open.spotify.com/album/15LjTU9nmCPpMQbPMH8TDc) | 3:24 | 2024-08-27 |  |
 | [Alibi](https://open.spotify.com/track/654LHKBikT7p3xoI6ByrBh) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Alibi](https://open.spotify.com/album/5PPBZar51GDZjE6xCRmPRH) | 3:32 | 2024-03-07 | 2024-06-01 |
 | [Alive](https://open.spotify.com/track/4SMXofCR3LMXfslJkYiGPi) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [SKUM](https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z) | [Alive](https://open.spotify.com/album/6CuR1PACokH09J3x3tZzJF) | 2:49 | 2023-04-27 | 2023-07-22 |
 | [All About You](https://open.spotify.com/track/0Lc22wJyPHTKF8mEoOOGzT) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [All About You](https://open.spotify.com/album/0UPEviguYBkCVLWVTwXx2y) | 2:45 | 2023-10-19 | 2024-02-02 |
@@ -345,7 +346,7 @@
 | [Ignite](https://open.spotify.com/track/4rV0XtqahATaPf29s1rpAd) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Ignite](https://open.spotify.com/album/2GiGo3FNrLxqTO2q6Jh4GD) | 2:53 | 2024-08-09 |  |
 | [Ignite](https://open.spotify.com/track/1emuD0fT5F0ZnZLcoscLQO) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Haus of Panda](https://open.spotify.com/artist/1sJbXvN5tJwsn9JQuM8fTo), [MYLK](https://open.spotify.com/artist/4o66UJPzUonUgENhbqpHRX) | [Ignite](https://open.spotify.com/album/6fZiqn8LoZ4N4ZBYiKKmOR) | 3:16 | 2023-08-29 | 2023-12-14 |
 | [Ignore Them](https://open.spotify.com/track/0an42ZDRxMJXkBh49eNvQt) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Ignore Them](https://open.spotify.com/album/2vkuMHMpu5W1Rwzlwggnnl) | 3:08 | 2022-01-13 | 2022-03-22 |
-| [Immortal](https://open.spotify.com/track/6l66W0De6fDD0dTQ1Q7fip) | [RZRKT](https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC) | [Immortal](https://open.spotify.com/album/0cQTbXYfeLIMWI1m8PwG7D) | 3:40 | 2024-06-05 |  |
+| [Immortal](https://open.spotify.com/track/6l66W0De6fDD0dTQ1Q7fip) | [RZRKT](https://open.spotify.com/artist/28H813zcseKDMDftpws5ZC) | [Immortal](https://open.spotify.com/album/0cQTbXYfeLIMWI1m8PwG7D) | 3:40 | 2024-06-05 | 2024-08-28 |
 | [In Loving Memories](https://open.spotify.com/track/4hiAtbzjq2BbNVqGbtYUGZ) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [In Loving Memories](https://open.spotify.com/album/6jC9yhwvI9oJshOKfVXdeR) | 3:03 | 2023-05-08 | 2023-08-02 |
 | [In My Feelings](https://open.spotify.com/track/0pgwo0KZuqBCwHqpAw7zC4) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 4:31 | 2022-10-29 | 2023-01-14 |
 | [In My Hands](https://open.spotify.com/track/6XELCbavuCxyoiZXeBCcEV) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [In My Hands](https://open.spotify.com/album/3U0Zx1JGLJF84QohhxArK6) | 4:14 | 2022-04-13 | 2022-06-23 |

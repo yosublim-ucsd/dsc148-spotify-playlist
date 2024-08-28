@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Bayaan.
 
-1,597 songs - 3 day 15 hr 9 min
+1,599 songs - 3 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Aposto](https://open.spotify.com/track/3KA9IQQuAumlMXg0GxWdKg) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Aposto](https://open.spotify.com/album/1hHnzj2rQ4boFeXBLROIXO) | 2:31 | 2022-03-24 | 2022-04-15 |
 | [Apprends\-moi](https://open.spotify.com/track/5zH8U9YG6BrWzUh8NHAJZf) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Posthume](https://open.spotify.com/album/58UDOo7F1hbra3WoCuGznu) | 2:57 | 2024-05-31 |  |
 | [April](https://open.spotify.com/track/7kKHtsQg0WF7u5KxxupNJk) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [April](https://open.spotify.com/album/672CJ3djWeBl22WRpfmhUr) | 3:04 | 2022-04-07 | 2022-08-02 |
+| [Are You Gonna Find It](https://open.spotify.com/track/40JMY9lsbHd3UXIsrALDDQ) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Are You Gonna Find It](https://open.spotify.com/album/6zwboIYLz6IaKYCrfom8lR) | 4:53 | 2024-08-23 |  |
 | [Are You Looking Up](https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:46 | 2024-05-03 |  |
 | [ASAP](https://open.spotify.com/track/6FZlSfQrD9aoB4SSnoAzWk) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Shakespopi](https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4) | 2:40 | 2024-04-19 |  |
 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 | 2022-02-10 | 2022-03-14 |
@@ -631,6 +632,7 @@
 | [Il primo bacio](https://open.spotify.com/track/3sVvrJKdQaAtwb1fa3l0k2) | [CARA](https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf) | [Il primo bacio](https://open.spotify.com/album/2UDIENylKUApKJKnXOn3SG) | 3:00 | 2022-02-10 | 2022-02-25 |
 | [Il Tempo Cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il Tempo Cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 | 2024-08-23 |  |
 | [Ilegal](https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ), [ALOT](https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV) | [Ilegal](https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd) | 2:31 | 2022-03-24 | 2022-08-02 |
+| [im just burnt...](https://open.spotify.com/track/04TFFzN49UNIjEl7odaTvr) | [Wilke](https://open.spotify.com/artist/6IQTljXmg9iliuQo3g0WFQ), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [im just burnt...](https://open.spotify.com/album/4P5VrFSd9fLeUdw49qnkfg) | 3:39 | 2024-08-23 |  |
 | [imagining things](https://open.spotify.com/track/3CtDq8xLDsGCoflRPh3EDc) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [Antes](https://open.spotify.com/album/4IM58QyeajXORQpQQzn0tk) | 2:47 | 2024-02-09 | 2024-04-08 |
 | [IMMA LIAR](https://open.spotify.com/track/49IX3KVi9QmelCBp9iIUIc) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [IMMA LIAR](https://open.spotify.com/album/4kinMZv8wlwWMXHZrV049m) | 2:51 | 2023-10-11 | 2024-01-27 |
 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 | 2022-03-24 | 2022-04-17 |
@@ -1214,7 +1216,7 @@
 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 | 2024-07-26 |  |
 | [summer crush](https://open.spotify.com/track/0GUxRbOBtelFeczRQkxV8H) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [summer crush](https://open.spotify.com/album/3n3lD5n17i22aNgorZgeLM) | 2:56 | 2024-08-16 |  |
 | [Summer Night](https://open.spotify.com/track/7k7wieI5FG61ZARVV5OT7z) | [Xuân Nghi](https://open.spotify.com/artist/09TbfG9329V26zqpb7IQT5) | [Summer Night](https://open.spotify.com/album/5Cskl93giLfcuwEJzKlvFw) | 2:51 | 2022-02-10 | 2022-08-02 |
-| [Summer Night Rock](https://open.spotify.com/track/4kH5ecTAKSjyK3hKBKpZiP) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [Summer Night Rock](https://open.spotify.com/album/667ABOBs4DiQmG5FHMRhZu) | 2:32 | 2024-08-16 |  |
+| [Summer Night Rock](https://open.spotify.com/track/4kH5ecTAKSjyK3hKBKpZiP) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [Summer Night Rock](https://open.spotify.com/album/667ABOBs4DiQmG5FHMRhZu) | 2:32 | 2024-08-16 | 2024-08-28 |
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-12-07 | 2024-04-19 |
 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-05-08 | 2024-01-13 |
 | [Sweat](https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Sweat](https://open.spotify.com/album/5vBlJU3wNcLv9Pobuzk988) | 2:00 | 2024-05-31 | 2024-08-27 |
@@ -1410,7 +1412,7 @@
 | [X El Barrio](https://open.spotify.com/track/5C23TshL3Y78V8clTfctlO) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [X El Barrio](https://open.spotify.com/album/473EMNLmnFCEoKl11qzABM) | 3:22 | 2022-03-24 | 2022-04-21 |
 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 | 2022-03-24 | 2022-09-16 |
 | [Ya Hayati](https://open.spotify.com/track/6JyHqySGJlaDv5RdLMZ9nA) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Ya Hayati](https://open.spotify.com/album/0ZfkgUy4g9y5E4pekNGyNE) | 3:29 | 2024-06-28 | 2024-08-25 |
-| [YABANCI](https://open.spotify.com/track/3tkaoklFrXHAlWvdoWhUbY) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [YABANCI](https://open.spotify.com/album/0YBe2Fk1Q0V7JnmqzzTrnb) | 2:27 | 2024-06-14 |  |
+| [YABANCI](https://open.spotify.com/track/3tkaoklFrXHAlWvdoWhUbY) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [YABANCI](https://open.spotify.com/album/0YBe2Fk1Q0V7JnmqzzTrnb) | 2:27 | 2024-06-14 | 2024-08-28 |
 | [YACHT CLUB](https://open.spotify.com/track/6akyMw7cDDCVGqrAwHA6b2) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [YACHT CLUB](https://open.spotify.com/album/0iwAIB5fDKkgUTpgBrDr7t) | 2:57 | 2024-06-07 |  |
 | [Yakap](https://open.spotify.com/track/4cO62W6CErGU4vrDWF1Ruj) | [Alex Bruce](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX) | [Yakap](https://open.spotify.com/album/1nBiqfztbH4xqVgPI01HWg) | 3:20 | 2022-02-03 | 2022-12-15 |
 | [Yalnızlık Bana Kalan](https://open.spotify.com/track/1MLVv52wh7QmiW0mQEKKuV) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Büyüklere Ninniler](https://open.spotify.com/album/2zviwzygpyVqqab20KQC5T) | 3:17 | 2024-02-26 | 2024-05-04 |

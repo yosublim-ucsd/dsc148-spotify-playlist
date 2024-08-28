@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 167608,
       "name": "Jonde",
       "url": "https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX"
@@ -1948,6 +1948,28 @@
       "duration_ms": 211200,
       "name": "L'Autofilteur",
       "url": "https://open.spotify.com/track/4woeoi4CZ8tcsWDImypP5n"
+    },
+    {
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/1F064LtPXfOAstcUhdylwz"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Myr\u00edad",
+          "url": "https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/2wPiI06tTvnHyeV2Hn370J"
     },
     {
       "album": {

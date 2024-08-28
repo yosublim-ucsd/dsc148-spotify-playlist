@@ -1,6 +1,6 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Toser One, Almanegra en portada.",
-  "num_followers": 132839,
+  "num_followers": 132878,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 238447,
+      "name": "RUBICON",
+      "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
         "name": "El Gavil\u00e1n",
         "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 175295,
       "name": "El Gavil\u00e1n",
       "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 238447,
-      "name": "RUBICON",
-      "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -247,6 +247,26 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "GAVIL\u00c1N II",
+      "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 112087,
       "name": "El Gordo Trae El Mando",
       "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "GAVIL\u00c1N II",
-      "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -343,6 +343,26 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
+        "name": "PRC",
+        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 184066,
+      "name": "PRC",
+      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -371,22 +391,6 @@
       "duration_ms": 154760,
       "name": "Brillo",
       "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "Seguimos Laborando",
-        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
-      },
-      "artists": [
-        {
-          "name": "Grupo 360",
-          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Seguimos Laborando",
-      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -427,26 +431,6 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "PRC",
-        "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 184066,
-      "name": "PRC",
-      "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 172056,
       "name": "Mi Terre CLN",
       "url": "https://open.spotify.com/track/0MHFbqdlWzAkgO8p7pkfMb"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "Seguimos Laborando",
+        "url": "https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN"
+      },
+      "artists": [
+        {
+          "name": "Grupo 360",
+          "url": "https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Seguimos Laborando",
+      "url": "https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "El Toro Encartado - Spotify Singles",
-        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 164245,
-      "name": "El Toro Encartado - Spotify Singles",
-      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -519,22 +519,6 @@
       "duration_ms": 225152,
       "name": "Como Jordan",
       "url": "https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -563,6 +547,22 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
+        "name": "El Toro Encartado - Spotify Singles",
+        "url": "https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "El Toro Encartado - Spotify Singles",
+      "url": "https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
         "name": "Amiri",
         "url": "https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI"
       },
@@ -575,6 +575,42 @@
       "duration_ms": 211904,
       "name": "Amiri",
       "url": "https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "Ch y la Pizza",
+        "url": "https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 136913,
+      "name": "Ch y la Pizza",
+      "url": "https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "Andamos Mejor",
+        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 137183,
+      "name": "Andamos Mejor",
+      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -603,26 +639,6 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        }
-      ],
-      "duration_ms": 150974,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
         "name": "En El Radio Un Cochinero",
         "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
@@ -635,26 +651,6 @@
       "duration_ms": 223431,
       "name": "En El Radio Un Cochinero",
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "Ch y la Pizza",
-        "url": "https://open.spotify.com/album/6VaUzblJhXxcLimTzdImEa"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 136913,
-      "name": "Ch y la Pizza",
-      "url": "https://open.spotify.com/track/1ySH55O0zbQBR77q8wQEyn"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -683,34 +679,18 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Andamos Mejor",
-        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 137183,
-      "name": "Andamos Mejor",
-      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "Los Ultimos Son Los Primeros",
-        "url": "https://open.spotify.com/album/12AfYR9rwjDAXWsZQvaXof"
-      },
-      "artists": [
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
-        }
-      ],
-      "duration_ms": 227370,
-      "name": "Los Ultimos Son Los Primeros",
-      "url": "https://open.spotify.com/track/2mWdFicDI0oYBCic5506My"
+      "duration_ms": 176324,
+      "name": "JESUS",
+      "url": "https://open.spotify.com/track/6OwjpJLqayrcTuzBvxoGMd"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -739,18 +719,38 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/2BvDucJawFOjYW93odCdow"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
         }
       ],
-      "duration_ms": 176324,
-      "name": "JESUS",
-      "url": "https://open.spotify.com/track/6OwjpJLqayrcTuzBvxoGMd"
+      "duration_ms": 150974,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/3YgWZ3CTC5ohdF9EdZjuMT"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "Los Ultimos Son Los Primeros",
+        "url": "https://open.spotify.com/album/12AfYR9rwjDAXWsZQvaXof"
+      },
+      "artists": [
+        {
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+        }
+      ],
+      "duration_ms": 227370,
+      "name": "Los Ultimos Son Los Primeros",
+      "url": "https://open.spotify.com/track/2mWdFicDI0oYBCic5506My"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -767,22 +767,6 @@
       "duration_ms": 143661,
       "name": "Como Pancho Villa",
       "url": "https://open.spotify.com/track/2jZlmAzzsdaVZQk9GmJOmb"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "Pacas De Billetes",
-        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 188074,
-      "name": "Pacas De Billetes",
-      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -847,6 +831,26 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
+        "name": "Ojos Tumbados",
+        "url": "https://open.spotify.com/album/7rxhqZe4tBOackaMInfpjU"
+      },
+      "artists": [
+        {
+          "name": "Alto Linaje",
+          "url": "https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 218980,
+      "name": "Ojos Tumbados",
+      "url": "https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
         "name": "Cuidando El Territorio",
         "url": "https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb"
       },
@@ -891,22 +895,18 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Ojos Tumbados",
-        "url": "https://open.spotify.com/album/7rxhqZe4tBOackaMInfpjU"
+        "name": "Pacas De Billetes",
+        "url": "https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG"
       },
       "artists": [
         {
-          "name": "Alto Linaje",
-          "url": "https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 218980,
-      "name": "Ojos Tumbados",
-      "url": "https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS"
+      "duration_ms": 188074,
+      "name": "Pacas De Billetes",
+      "url": "https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-08-23 06:00:00",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+        "name": "Moda",
+        "url": "https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 183594,
-      "name": "El Ruddy",
-      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
+      "duration_ms": 175804,
+      "name": "Moda",
+      "url": "https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1011,22 +1011,6 @@
       "duration_ms": 161571,
       "name": "Gorra L.A.",
       "url": "https://open.spotify.com/track/08OOZHubFNdgVZ3N714zjG"
-    },
-    {
-      "added_at": "2024-08-23 06:00:00",
-      "album": {
-        "name": "Moda",
-        "url": "https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 175804,
-      "name": "Moda",
-      "url": "https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf"
     },
     {
       "added_at": "2024-08-23 06:00:00",
@@ -1051,6 +1035,22 @@
       "duration_ms": 172248,
       "name": "Tiempos de Guerra",
       "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
+    },
+    {
+      "added_at": "2024-08-23 06:00:00",
+      "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 183594,
+      "name": "El Ruddy",
+      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
     },
     {
       "added_at": "2024-08-23 06:00:00",

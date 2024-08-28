@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Soundtrack your life with our ever evolving 'Moments' playlist that updates for all major holidays and events! Listen now to all your Halloween faves.
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 110,055 likes - 81 songs - 4 hr 14 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 110,051 likes - 81 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 80 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 |
 | 81 | [Pumpkin Boogie](https://open.spotify.com/track/29JOpVk7x7nnUoAmN8s54w) | [DJ Lagoa](https://open.spotify.com/artist/4YFewOTyrU36fR7k3LkIY4) | [Pumpkin Boogie](https://open.spotify.com/album/3JlgSYqgQ2mJCx0FMc4Ycg) | 1:50 |
 
-Snapshot ID: `AAATepmQYiYFogul7LPIhxLneweG9aEL`
+Snapshot ID: `AAATfeGY0TqwXIr41H7DP2xnmQs2GEpe`

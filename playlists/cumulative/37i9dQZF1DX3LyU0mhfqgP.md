@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Listen to the hottest songs from LGBTQIA+ artists\. Cover: BATHSHEBA
+> Listen to the hottest songs from LGBTQIA+ artists\. Cover: Keelan Mak
 
-1,297 songs - 2 day 21 hr 54 min
+1,298 songs - 2 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1169,7 +1169,8 @@
 | [True Blue](https://open.spotify.com/track/48Qes8IUekSZpcNDQgYzUX) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:56 | 2023-11-29 | 2024-01-11 |
 | [True Colors](https://open.spotify.com/track/2EjCLEpEzUkt6yh3uM3Qt6) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I), [Flower.far](https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr), [MET](https://open.spotify.com/artist/4QzScFRs2N6EdhJfX74b1O) | [True Colors](https://open.spotify.com/album/2R72ja4Moh2PmLuEx1xb3F) | 3:09 | 2024-07-09 | 2024-08-21 |
 | [Try](https://open.spotify.com/track/7uuomiEzgF5w4TPJDUvAEQ) | [Benét](https://open.spotify.com/artist/05YfgfbZtY7XRjc7So1DGB) | [Try](https://open.spotify.com/album/1rvh7AKmoPg6RMMT9gDO5z) | 3:23 | 2023-03-31 | 2023-04-14 |
-| [Tudo](https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Tudo](https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz) | 3:36 | 2024-08-13 |  |
+| [TUDO](https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 3:34 | 2024-08-27 |  |
+| [Tudo](https://open.spotify.com/track/23xwUnHLFrF4pan9eIrQj2) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Tudo](https://open.spotify.com/album/23vPvfHVul6OYqecsEu2Xz) | 3:36 | 2024-08-13 | 2024-08-28 |
 | [Tudo Ou Nada](https://open.spotify.com/track/4kFYhqh5xOBNNhKoy6uDCp) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 4:08 | 2023-05-09 | 2023-06-02 |
 | [Tulips](https://open.spotify.com/track/2mBbN7mMoWJXduE6T9xuZB) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Tulips](https://open.spotify.com/album/6EXK2krpifmLZZhJVlEgbv) | 3:18 | 2024-03-12 | 2024-05-07 |
 | [Turn Up the Love](https://open.spotify.com/track/6y8zl9Cb5YXAKlgdIKAEWF) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Turn Up the Love](https://open.spotify.com/album/4SrRqoPeBlp8DuLk5iHKSl) | 3:38 | 2023-06-01 | 2023-07-12 |

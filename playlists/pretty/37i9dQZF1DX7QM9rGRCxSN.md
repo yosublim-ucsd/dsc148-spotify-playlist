@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Petit Amie en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,944 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,956 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 34 | [Los Días Que No Estás](https://open.spotify.com/track/6wj9l4v47KaIGN2OBfKtpI) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD), [Paula Trama](https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u) | [Ubicación en Tiempo Real](https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp) | 4:15 |
 | 35 | [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 |
 | 36 | [Hasta Que el Tiempo No Nos Separe](https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cielos Desconocidos](https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt) | 5:28 |
-| 37 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
-| 38 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 |
+| 37 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 |
+| 38 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
 | 39 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
 | 40 | [Figura de Cristal](https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS) | [Estrella del Sol](https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0) | [Figura de Cristal](https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH) | 3:00 |
 | 41 | [What’s holding you?](https://open.spotify.com/track/2dv9U9fWdxk7wKLi2gPpSW) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Chambers](https://open.spotify.com/album/0m1gWnu2DZOnk0lIqSbyBh) | 4:58 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 43 | [Ansiedad](https://open.spotify.com/track/57hPi0hmEHQNMhzpyp9E8P) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [Ausencia](https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG) | 1:40 |
 | 44 | [casa de espejos](https://open.spotify.com/track/5S9LIPJ2RCaowPdxDIByRp) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [casa de espejos](https://open.spotify.com/album/5mURp5KUNgHFfOLcQ42brK) | 2:21 |
 | 45 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
-| 46 | [Estrella Fugaz](https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Estrella Fugaz](https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D) | 4:22 |
+| 46 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
 | 47 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
 | 48 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
 | 49 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 |
-| 50 | [Otra Vez](https://open.spotify.com/track/0vA1RgkV2GqrwpkSiINgKR) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Otra Vez](https://open.spotify.com/album/3lnvmhXZWbfxH45nw7MvMp) | 6:26 |
+| 50 | [Estrella Fugaz](https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa) | [Señor Kino](https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG) | [Estrella Fugaz](https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D) | 4:22 |
 
 Snapshot ID: `ZsfkRgAAAABZDkBKbbW2lWApjDEQff0H`

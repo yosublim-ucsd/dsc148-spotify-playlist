@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 40038,
+  "num_followers": 40071,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Presumed Innocent",
-        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
-      },
-      "artists": [
-        {
-          "name": "Marcia Ball",
-          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "Louella",
-      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "Rock Me Daddy, Vol. 1",
         "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 154840,
       "name": "Boogie In \"G\"",
       "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "Presumed Innocent",
+        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
+      },
+      "artists": [
+        {
+          "name": "Marcia Ball",
+          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "Louella",
+      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
+        "name": "X-Temporaneous Boogie",
+        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
+      },
+      "artists": [
+        {
+          "name": "Camille Howard",
+          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+        }
+      ],
+      "duration_ms": 139133,
+      "name": "Fluff Boogie",
+      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
         "name": "Blues On The Prowl",
         "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 217720,
       "name": "Booker's Boogie",
       "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
-        "name": "The Chess Story 1947-1956",
-        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
-      },
-      "artists": [
-        {
-          "name": "Little Johnny Jones",
-          "url": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
-        }
-      ],
-      "duration_ms": 175640,
-      "name": "Big Town Playboy",
-      "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "X-Temporaneous Boogie",
-        "url": "https://open.spotify.com/album/7gKcCISq4MdFPIcslAvznp"
+        "name": "The Chess Story 1947-1956",
+        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
       },
       "artists": [
         {
-          "name": "Camille Howard",
-          "url": "https://open.spotify.com/artist/0QFOmSTku0zPMVoawXFCXX"
+          "name": "Little Johnny Jones",
+          "url": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
         }
       ],
-      "duration_ms": 139133,
-      "name": "Fluff Boogie",
-      "url": "https://open.spotify.com/track/53JbbJdZKRifKvPhVAOVG9"
+      "duration_ms": 175640,
+      "name": "Big Town Playboy",
+      "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
     },
     {
       "added_at": "2024-05-30 16:22:42",

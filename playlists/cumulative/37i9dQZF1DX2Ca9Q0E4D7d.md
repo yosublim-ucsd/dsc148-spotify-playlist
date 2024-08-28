@@ -4,7 +4,7 @@
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-88 songs - 4 hr 35 min
+90 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Bells Of Change Delta B Sinus 108\-1112hz](https://open.spotify.com/track/2AFdAp6PnYcJdiEknVrMp7) | [Misted Minds](https://open.spotify.com/artist/0OKqDI3WyLeYdZA5xd6hdU) | [Bells Of Change Delta B Sinus 108\-1112hz](https://open.spotify.com/album/7raltftxJk9fINtP88U8KT) | 2:39 | 2024-01-24 | 2024-03-09 |
 | [Beta Air 16 Hz](https://open.spotify.com/track/6nEcvyEGYkXNRhIjkVl1vT) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Air](https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj) | 2:54 | 2022-09-06 | 2023-10-06 |
 | [Beta Ambience 92 + 96 hz](https://open.spotify.com/track/6s1OXyadYotrzBDzTjfyjY) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Binaural Beta Waves](https://open.spotify.com/album/2V2HmzfobUf8xqE7yPPcQ3) | 3:16 | 2023-03-16 |  |
-| [Beta Atmos](https://open.spotify.com/track/6o5yj52orwKaBw66O4t311) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 2:24 | 2022-09-06 |  |
+| [Beta Atmos](https://open.spotify.com/track/6o5yj52orwKaBw66O4t311) | [DreamDeeper](https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL) | [Textures](https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk) | 2:24 | 2022-09-06 | 2024-08-28 |
 | [Beta Brainwave State](https://open.spotify.com/track/7zDu2bXHrl9ZMbTTBuvdyl) | [Noise Shapers](https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY) | [BINAURAL BEATS AND BRAIN WAVES](https://open.spotify.com/album/3a7X3L16okHpF6c21jM3yH) | 3:40 | 2022-09-06 | 2023-01-25 |
 | [Beta Drift 22 Hz](https://open.spotify.com/track/2XbdiWmGMsofgPwC7fo5Lx) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Drift](https://open.spotify.com/album/7s28ywx1Jtag67oWdFS4Gw) | 2:54 | 2022-11-23 | 2023-10-06 |
 | [Beta Equinox 18 Hz](https://open.spotify.com/track/2MRpSUhmDSTorFsNY9mXAr) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Binaural Equinox](https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o) | 3:06 | 2022-12-09 | 2024-02-14 |
@@ -70,12 +70,14 @@
 | [Cognitive Thinking \(Beta 15 Hz\)](https://open.spotify.com/track/0LG2f3X2SiFZxr1cK2POJC) | [Binaural Warrior](https://open.spotify.com/artist/74eeG2QIYgBimAxFL2vGL5) | [Binaural Warrior](https://open.spotify.com/album/1bHFsNgWMyPJRNx8OsfcYL) | 3:12 | 2022-09-06 |  |
 | [Crystalimbic \(Beta Waves\)](https://open.spotify.com/track/4YIUdBVmNnowkHiXLivf2c) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [Crystalimbic](https://open.spotify.com/album/79S0cgTQtXbwY4IC2REGFI) | 3:17 | 2022-09-06 |  |
 | [Dayspring Beta Sinus 72 Hz \- 92 Hz](https://open.spotify.com/track/4HmxH7v8bsEr22gy6xL33n) | [Aerial Lakes](https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt) | [Deep Focus Beta](https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm) | 3:00 | 2022-11-23 | 2023-10-06 |
-| [Decompress \(Beta 118 Hz \- 132 Hz\)](https://open.spotify.com/track/3fCxL73pqo8SRRB9a1JvlF) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Decompress & Realign \(Binaural Beta\)](https://open.spotify.com/album/33GGErLxSTSu4kMxN5A1qD) | 3:12 | 2022-11-23 |  |
+| [Decompress \(Beta 118 Hz \- 132 Hz\)](https://open.spotify.com/track/3fCxL73pqo8SRRB9a1JvlF) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Decompress & Realign \(Binaural Beta\)](https://open.spotify.com/album/33GGErLxSTSu4kMxN5A1qD) | 3:12 | 2022-11-23 | 2024-08-28 |
 | [Deepstate Beta](https://open.spotify.com/track/5JQjeTD8twwbKEAuhtdZsM) | [Autonomic Sensations](https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ) | [Trillion](https://open.spotify.com/album/3BaMhE7o0DPZDcogIVoCB9) | 3:10 | 2022-09-06 |  |
 | [Dream Focus Beta Waves \(146\-160 Hz\)](https://open.spotify.com/track/47EcLhPvEOhBMXPZfYrW5H) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Dream Focus Beta Waves](https://open.spotify.com/album/6vf4eKCWwo8IgwbZ12bx0G) | 3:05 | 2022-09-06 |  |
 | [Enlightment \- 963Hz](https://open.spotify.com/track/2nY7UgFmtpqeeQcB9vc6TD) | [Mzarta Brokin](https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf) | [Enlightment \- 963Hz](https://open.spotify.com/album/2Ms7ggeaMmwqjmC0sgS6gM) | 2:48 | 2024-02-14 | 2024-03-09 |
 | [Enyrma 396Hz](https://open.spotify.com/track/1orxcdtIK5ejnttDYCbHmw) | [Balanced Resonances](https://open.spotify.com/artist/1NaTgQgoB7SBLTiso71iKn) | [Enyrma 396Hz](https://open.spotify.com/album/4tFBZdSmxsOHEa4kxMEley) | 2:59 | 2024-02-14 | 2024-03-09 |
+| [Falling In Reverse Beta \(94\-123hz\)](https://open.spotify.com/track/3d6H12ch1MGJr5AiIHpQCb) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Falling In Reverse Beta](https://open.spotify.com/album/14YM7tbOJdyvq0NE05ny87) | 2:40 | 2024-08-27 |  |
 | [Focused Attension \- Beta Sinus 150\-158 Hz](https://open.spotify.com/track/0C8s08h2AlIraAJMQKd6TL) | [Beatwaves](https://open.spotify.com/artist/5fEs2L5wUZDsFQ01NzZPzP) | [Focused Attension \- Beta Sinus 150\-158 Hz](https://open.spotify.com/album/6PSy4drFaRYL0UyBA9i3t9) | 3:06 | 2023-04-06 |  |
+| [Highway to Beta 200Hz \- 230Hz](https://open.spotify.com/track/7mHB1qn2vxK3F2rEjI6pRs) | [Leo Lind](https://open.spotify.com/artist/5msHhK18amqcRvl1iznOWr) | [Highway to Beta 200Hz \- 230Hz](https://open.spotify.com/album/5dcWi2kfONurAxDPTkB72V) | 2:24 | 2024-08-27 |  |
 | [Lost In Translation Beta \(64\-74hz\)](https://open.spotify.com/track/3Jl5YrehEmurX8z4tfbbuy) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Lost In Translation Beta](https://open.spotify.com/album/3EPAePiqH5B7VYUVBiHtCH) | 3:00 | 2024-07-12 |  |
 | [Memory \(98.7Hz \- 117.6Hz\)](https://open.spotify.com/track/2C1ltQaRUjQC10ST5JkhGZ) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Beta Focus](https://open.spotify.com/album/0hYfcRanSfzxLG0o7dsVdd) | 3:52 | 2022-09-06 | 2023-10-06 |
 | [Porch Thoughts E Theta \(80\-84hz\)](https://open.spotify.com/track/11KGooXHkq7YhFrDsPtza7) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Settle Down Theta](https://open.spotify.com/album/0zMekCx6Gww7LJAv0A80VD) | 2:45 | 2024-01-24 | 2024-03-09 |
@@ -91,10 +93,10 @@
 | [Tartys \- Beta Sinus Focus Flow](https://open.spotify.com/track/5rDXovOMkiDjVobbFH2iYx) | [Lavendea](https://open.spotify.com/artist/65C8AHZg2NmgDjfkQFs3bF) | [Tartys \- Beta Sinus Focus Flow](https://open.spotify.com/album/4xjqSRTGYHmte6r1XMjGgz) | 2:39 | 2023-02-24 |  |
 | [Thoughtless Patterns Ab Beta \(77\-102hz\)](https://open.spotify.com/track/7MyYhyila8ncZVTHEd030h) | [Waves Of Sine](https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt) | [Silver Silk Beta](https://open.spotify.com/album/17GFBvbCDzwuotH1jBs9Yb) | 2:10 | 2023-09-27 |  |
 | [Time Travelling \(Beta Waves\)](https://open.spotify.com/track/5smQD23QwbJST01uYJdMAM) | [Higher Dreams](https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc) | [Reaching For The Stars](https://open.spotify.com/album/0CJNJFCAwOG2ifjOYsJth6) | 3:12 | 2022-09-06 |  |
-| [Total Focus \(Beta Sinus\)](https://open.spotify.com/track/55jSrZSZf4ooJxPwgFR2Hs) | [Mind Medicine](https://open.spotify.com/artist/0nTfjHvGK38IUQ0Mx1BmF5) | [Mind Medicine](https://open.spotify.com/album/0nEnQBAZdghQsCNZbKNm2B) | 3:33 | 2022-09-06 |  |
+| [Total Focus \(Beta Sinus\)](https://open.spotify.com/track/55jSrZSZf4ooJxPwgFR2Hs) | [Mind Medicine](https://open.spotify.com/artist/0nTfjHvGK38IUQ0Mx1BmF5) | [Mind Medicine](https://open.spotify.com/album/0nEnQBAZdghQsCNZbKNm2B) | 3:33 | 2022-09-06 | 2024-08-28 |
 | [Treetop Sway \(Delta Binaural\)](https://open.spotify.com/track/0YaHVqzBDVho8dAiEikwng) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Treetop Sway \(Delta Binaural\)](https://open.spotify.com/album/0xy0CgF7AgZTRPovatgZ55) | 3:31 | 2024-02-14 | 2024-03-09 |
 | [Wonder Falls \(Beta 100 Hz \- 117 Hz\)](https://open.spotify.com/track/6ggscQCVEcqKy92nXLlswe) | [Binaural Boy](https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z) | [Wonder Falls & Appreciation \(Binaural Beta\)](https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS) | 4:26 | 2023-01-13 | 2024-02-14 |
 | [Yoga: Beta Sinus 100 Hz](https://open.spotify.com/track/2fkZSejqcDkdc2rWi8vARt) | [Merpell](https://open.spotify.com/artist/4VY6NUpEqaG1ouNyNgR2VN) | [Yoga: Beta Sinus 100 Hz](https://open.spotify.com/album/4MJvd53JhkCRT9g8IS54Q2) | 2:04 | 2022-09-06 |  |
-| [Zone in Beta 73.1 Hz \- 89.6 Hz](https://open.spotify.com/track/1q0glRZ97xYFh3Vu43hb9y) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Zone in Beta 73.1 Hz \- 89.6 Hz](https://open.spotify.com/album/0nR9BiFll648hqwDkT0WVt) | 2:57 | 2022-12-09 |  |
+| [Zone in Beta 73.1 Hz \- 89.6 Hz](https://open.spotify.com/track/1q0glRZ97xYFh3Vu43hb9y) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Zone in Beta 73.1 Hz \- 89.6 Hz](https://open.spotify.com/album/0nR9BiFll648hqwDkT0WVt) | 2:57 | 2022-12-09 | 2024-08-28 |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

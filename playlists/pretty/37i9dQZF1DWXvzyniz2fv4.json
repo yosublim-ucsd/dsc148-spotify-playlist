@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158303,
+  "num_followers": 158304,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-08-09 19:04:27",
       "album": {
+        "name": "Certo pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
+      },
+      "artists": [
+        {
+          "name": "MTK",
+          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
+        }
+      ],
+      "duration_ms": 211549,
+      "name": "Certo pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
+    },
+    {
+      "added_at": "2024-08-09 19:04:27",
+      "album": {
         "name": "Ato 3: TODAMANH\u00c3",
         "url": "https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 168448,
       "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
       "url": "https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP"
-    },
-    {
-      "added_at": "2024-08-09 19:04:27",
-      "album": {
-        "name": "Certo pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
-      },
-      "artists": [
-        {
-          "name": "MTK",
-          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
-        }
-      ],
-      "duration_ms": 211549,
-      "name": "Certo pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
     },
     {
       "added_at": "2024-08-09 19:04:27",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2024-08-09 19:04:27",
       "album": {
+        "name": "Girl From Ipanema",
+        "url": "https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "NSFS",
+          "url": "https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY"
+        }
+      ],
+      "duration_ms": 209770,
+      "name": "Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4"
+    },
+    {
+      "added_at": "2024-08-09 19:04:27",
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 126857,
       "name": "Minha Mina \u00e9 Braba",
       "url": "https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU"
-    },
-    {
-      "added_at": "2024-08-09 19:04:27",
-      "album": {
-        "name": "Girl From Ipanema",
-        "url": "https://open.spotify.com/album/5KmgelwwyTOIP93hJwqt7T"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "NSFS",
-          "url": "https://open.spotify.com/artist/3w7GpmivBfWVh5CTrp0irY"
-        }
-      ],
-      "duration_ms": 209770,
-      "name": "Girl From Ipanema",
-      "url": "https://open.spotify.com/track/7ysU8N5QdUZNFzkuQhDpV4"
     },
     {
       "added_at": "2024-08-09 19:04:27",
@@ -1387,18 +1387,22 @@
     {
       "added_at": "2024-08-09 19:04:27",
       "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+        "name": "Tudo Come\u00e7ou",
+        "url": "https://open.spotify.com/album/3ZYVUaDhyt9BvqTdmq4Cwi"
       },
       "artists": [
         {
-          "name": "Ka\u00ea",
-          "url": "https://open.spotify.com/artist/4H5GlbUSm2crOdhfxerDxY"
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        },
+        {
+          "name": "Diego Thug",
+          "url": "https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw"
         }
       ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+      "duration_ms": 145953,
+      "name": "Tudo Come\u00e7ou",
+      "url": "https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1"
     }
   ],
   "unique_name": "Resenha na Praia",

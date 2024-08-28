@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 
 > Najlepsi i najlepiej rockujący na polskiej scenie\. Cover: Komety
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,149 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,150 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x0y4AP3Q3A.md) - [plain]
 | 5 | [Słyszę o czym myślisz](https://open.spotify.com/track/2afjgIqER9xWHdaYe7LHIx) | [Kuba Kubiak](https://open.spotify.com/artist/0EqatuteZMZ8uIBDlRrv6m), [Laine](https://open.spotify.com/artist/22Q7MwXqF4rzQmcSNUKu2Y) | [Słyszę o czym myślisz](https://open.spotify.com/album/1ZNQ9MGy2dvTihZhaPEFiU) | 3:20 |
 | 6 | [Ghost](https://open.spotify.com/track/0BbEsjSNHv1atFwtoJKyac) | [Teo](https://open.spotify.com/artist/75KRhZ6OWTAF6alZRfM90S) | [Ghost](https://open.spotify.com/album/7gDTNqXkiAdNP89KFFgrh5) | 3:07 |
 | 7 | [NMZC](https://open.spotify.com/track/0cWcEFI0D2oQoIVcGomT9g) | [Max Bravura](https://open.spotify.com/artist/5msKa7kkaySPp9bQ9PZyJO) | [dżingle z życia EP](https://open.spotify.com/album/4NtWnDhyamDToCZohS4C08) | 2:14 |
-| 8 | [Płomyk](https://open.spotify.com/track/4s2ZXzrVeuj8WwbMEaOtdu) | [KOLORY](https://open.spotify.com/artist/1P95gCESH2kyAAUOl1GWsd), [Sebastian Dawid Szuła](https://open.spotify.com/artist/4aNXwtmY7MT6mo6DhaqfWL), [Igor Dawid Talarczyk](https://open.spotify.com/artist/0DmZuehQBqxeLDfxyOVwaj), [Olaf Rykała](https://open.spotify.com/artist/1rDdAKAi712H8I0NHn4Kge) | [Płomyk](https://open.spotify.com/album/54utpxuZYwNtmIs4d4IXiN) | 3:21 |
+| 8 | [Płomyk](https://open.spotify.com/track/4s2ZXzrVeuj8WwbMEaOtdu) | [KOLORY](https://open.spotify.com/artist/1P95gCESH2kyAAUOl1GWsd) | [Płomyk](https://open.spotify.com/album/54utpxuZYwNtmIs4d4IXiN) | 3:21 |
 | 9 | [Ballada o cyckach \- Live](https://open.spotify.com/track/4iM4dazIGdlAfdDHGz7Kl8) | [Wojtek Szumański](https://open.spotify.com/artist/6CoX6j5AX2rK7bRawkDqEI) | [Live Pol’and’Rock 2023](https://open.spotify.com/album/0D5YGostAbgOlNDhWahOLF) | 5:19 |
 | 10 | [Kobieta](https://open.spotify.com/track/0ncUrQpNzExnuD6WZGHnCX) | [Duch Delta](https://open.spotify.com/artist/1ps4bi18daKREoJdGJgMUJ) | [Kobieta](https://open.spotify.com/album/6WX3EULivJqJVGRQ05y0XH) | 3:46 |
 | 11 | [Na Księżyc \- MTV Unplugged \- Live](https://open.spotify.com/track/0hiiSZXvqGp2RCtZC9ZL5l) | [Wojciech Waglewski](https://open.spotify.com/artist/7JD5zcxm7BuEHC7fUiyVSN), [Waglewski Fisz Emade](https://open.spotify.com/artist/1iVtqED0cwyZXzrWZPih4H) | [Na Księżyc \- MTV Unplugged \(Live\)](https://open.spotify.com/album/44sVY5o8XE4QoRfqPtAXIn) | 6:28 |

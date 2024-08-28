@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,447 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,452 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -589,7 +589,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 579 | [Nana](https://open.spotify.com/track/0aGSZzwgXxDBk0Zinmr31t) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 3:18 |
 | 580 | [Soft Summer](https://open.spotify.com/track/0UZHJAXbcO0ujqJ48tuOmW) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Ten Days Of Blue](https://open.spotify.com/album/6Fq0lGFFhZ01BfsBWKGolA) | 6:51 |
 | 581 | [Hates Me \- Jacques Greene Remix](https://open.spotify.com/track/0QdbS9B2RzhZguWemGB17d) | [OTHERLiiNE](https://open.spotify.com/artist/5UaAbLKpBsJ9gh7FthqfW5), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Hates Me \(Jacques Greene Remix\)](https://open.spotify.com/album/45ZjA2dp1GoOkrXvNkF0mC) | 6:07 |
-| 582 | [Eternal Light](https://open.spotify.com/track/3zim7gcKo3aTE4RG5y5ovY) | [Microwave Prince](https://open.spotify.com/artist/6hKSfdiJqWBEGWlD15uqR7) | [A Captive In The Land Of The Iron Bubbles](https://open.spotify.com/album/7gUuPXThm3crqgW1JSfHtU) | 10:55 |
+| 582 | [Eternal Light](https://open.spotify.com/track/3zim7gcKo3aTE4RG5y5ovY) | [Microwave Prince](https://open.spotify.com/artist/6hKSfdiJqWBEGWlD15uqR7) | [A Captive in the Land of the Iron Bubbles](https://open.spotify.com/album/7gUuPXThm3crqgW1JSfHtU) | 10:55 |
 | 583 | [youreyesimmaculate](https://open.spotify.com/track/6EeMxJCipJMu2ceNJdNw1D) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/22DG3nc75VmXwsRRuazJcQ) | 4:19 |
 | 584 | [Bliss on Top of Bliss](https://open.spotify.com/track/2BedkL8wqPwWjGihRLo1J8) | [Savile](https://open.spotify.com/artist/3Ng5Oqy2gLv762k1Vi53Qu) | [Bliss](https://open.spotify.com/album/4ytRWGktgRUnTEm68cj9uJ) | 5:33 |
 | 585 | [Tom Tom Club](https://open.spotify.com/track/6GOwUtdXF3h3H9MtiXxReR) | [Martyn Bootyspoon](https://open.spotify.com/artist/5uFRAVs4qRpxTU4Upl2SJC) | [No\. 1 Crush](https://open.spotify.com/album/0qGAvkLENwiYYr87YsOIMx) | 5:04 |

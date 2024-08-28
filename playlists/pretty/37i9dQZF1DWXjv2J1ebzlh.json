@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 113827,
+  "num_followers": 113867,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -635,38 +635,6 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
-        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 139360,
-      "name": "Figa De Guin\u00e9",
-      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
-        "name": "African Electronic Music 1975 - 1982",
-        "url": "https://open.spotify.com/album/0tfoSJVUJaLlua6IEJZJjz"
-      },
-      "artists": [
-        {
-          "name": "Francis Bebey",
-          "url": "https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr"
-        }
-      ],
-      "duration_ms": 233080,
-      "name": "Fleur Tropical",
-      "url": "https://open.spotify.com/track/4vmsZZiNGG9SnXPQXPgl1f"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
         "name": "For\u00e7a Bruta",
         "url": "https://open.spotify.com/album/12G0eYu3u8ZwdstT1flUXw"
       },
@@ -687,6 +655,38 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
+        "name": "African Electronic Music 1975 - 1982",
+        "url": "https://open.spotify.com/album/0tfoSJVUJaLlua6IEJZJjz"
+      },
+      "artists": [
+        {
+          "name": "Francis Bebey",
+          "url": "https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr"
+        }
+      ],
+      "duration_ms": 233080,
+      "name": "Fleur Tropical",
+      "url": "https://open.spotify.com/track/4vmsZZiNGG9SnXPQXPgl1f"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
+        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 139360,
+      "name": "Figa De Guin\u00e9",
+      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
         "name": "Black And Blue (Remastered 2009)",
         "url": "https://open.spotify.com/album/2jtHqgzKfoF8uVvEosb6Jl"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 234200,
       "name": "Cherry Oh Baby - Remastered",
       "url": "https://open.spotify.com/track/53PIJiUe4MeUitcD4QyiTu"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
-        "name": "Pata Pata",
-        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 180174,
-      "name": "Pata Pata - Stereo Version",
-      "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -735,22 +719,34 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Crime Pays",
-        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+        "name": "Pata Pata",
+        "url": "https://open.spotify.com/album/4xPYddRQPYB5jbTB3e7tL5"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
-      "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
+      "duration_ms": 180174,
+      "name": "Pata Pata - Stereo Version",
+      "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "The Budos Band",
+        "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
+      },
+      "artists": [
+        {
+          "name": "The Budos Band",
+          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "T.I.B.W.F.",
+      "url": "https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -771,18 +767,22 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "The Budos Band",
-        "url": "https://open.spotify.com/album/7Gu0cy8nMC6Uk10PsdAHXd"
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
       "artists": [
         {
-          "name": "The Budos Band",
-          "url": "https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz"
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 160600,
-      "name": "T.I.B.W.F.",
-      "url": "https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu"
+      "duration_ms": 211400,
+      "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
+      "url": "https://open.spotify.com/track/4rPtnAmfvHkVSCO2KKkiC1"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
-        "url": "https://open.spotify.com/album/5WSHxP5AtfzdVdZrLC8LjP"
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
       },
       "artists": [
         {
-          "name": "Steve Monite",
-          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 381040,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3d7lH2ppf2aIELQXY4nagn"
+      "duration_ms": 278471,
+      "name": "Black Sand",
+      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
     }
   ],
   "unique_name": "Bon Voyage",

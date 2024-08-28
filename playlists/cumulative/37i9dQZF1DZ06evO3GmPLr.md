@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3GmPLr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3GmPLr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3GmPLr)
 
-### [This Is Little Simz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmPLr)
+### [این Little Simz است](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmPLr)
 
-> This Is Little Simz\. Los temas esenciales, todos en una lista.
+> This Is Little Simz\. قطعه‌های برتر همگی در یک فهرست پخش.
 
 80 songs - 4 hr 33 min
 

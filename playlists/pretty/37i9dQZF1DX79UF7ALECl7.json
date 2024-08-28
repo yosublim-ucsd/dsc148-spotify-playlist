@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121820,
+  "num_followers": 121817,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Travellers",
+        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
+      },
+      "artists": [
+        {
+          "name": "Ran the Man",
+          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
+        }
+      ],
+      "duration_ms": 215743,
+      "name": "Suburban Sunrise",
+      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "When the Sun Goes Down",
         "url": "https://open.spotify.com/album/2cWBcF4eIjTTJGBaAb7xXr"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 124113,
       "name": "When the Sun Goes Down",
       "url": "https://open.spotify.com/track/1OEbaiPMlMDCPMM4ReCIIH"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Travellers",
-        "url": "https://open.spotify.com/album/52gMQAcOxIRVUKsVRBxyHe"
-      },
-      "artists": [
-        {
-          "name": "Ran the Man",
-          "url": "https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu"
-        }
-      ],
-      "duration_ms": 215743,
-      "name": "Suburban Sunrise",
-      "url": "https://open.spotify.com/track/3kIyVa8Rnp80iREwvmdTip"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -627,22 +627,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Electric Visions",
-        "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
       },
       "artists": [
         {
-          "name": "End of Time",
-          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
-        },
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 369346,
-      "name": "Electric Visions",
-      "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -667,18 +663,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+        "name": "Electric Visions",
+        "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "End of Time",
+          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
+        },
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
         }
       ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
+      "duration_ms": 369346,
+      "name": "Electric Visions",
+      "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Forms / Objects",
-        "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
-      },
-      "artists": [
-        {
-          "name": "End of Time",
-          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
-        },
-        {
-          "name": "Trippin Jaguar",
-          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
-        }
-      ],
-      "duration_ms": 386508,
-      "name": "Objects",
-      "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "I Don't Know Why",
         "url": "https://open.spotify.com/album/1WVku8sU13cLn43jQUl1yg"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Forms / Objects",
+        "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
+      },
+      "artists": [
+        {
+          "name": "End of Time",
+          "url": "https://open.spotify.com/artist/6dNTNj0L3lC10XwVX6xu4C"
+        },
+        {
+          "name": "Trippin Jaguar",
+          "url": "https://open.spotify.com/artist/6Fxw93ezsZRlLdYWxyHqO0"
+        }
+      ],
+      "duration_ms": 386508,
+      "name": "Objects",
+      "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "You Just Danced",
         "url": "https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV"
       },
@@ -835,6 +835,26 @@
       "duration_ms": 452611,
       "name": "You Just Danced",
       "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -867,42 +887,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Killer Machine",
-        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
-      },
-      "artists": [
-        {
-          "name": "Adani & Wolf",
-          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
-        }
-      ],
-      "duration_ms": 233316,
-      "name": "Killer Machine",
-      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Infinity (The Remixes)",
         "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
       },
@@ -923,6 +907,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "Killer Machine",
+        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
+      },
+      "artists": [
+        {
+          "name": "Adani & Wolf",
+          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
+        }
+      ],
+      "duration_ms": 233316,
+      "name": "Killer Machine",
+      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Ritmo Freak",
         "url": "https://open.spotify.com/album/4rtwVUHOGc0T2jgXwe7b1R"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 297838,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/5tNVWBaMSqFXPT6K4AtaKx"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
+      },
+      "artists": [
+        {
+          "name": "Baka G",
+          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
+        }
+      ],
+      "duration_ms": 345534,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -967,22 +983,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
-      },
-      "artists": [
-        {
-          "name": "Baka G",
-          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
-        }
-      ],
-      "duration_ms": 345534,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
       },
@@ -995,6 +995,30 @@
       "duration_ms": 182407,
       "name": "Falling",
       "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Hachi",
+        "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
+      },
+      "artists": [
+        {
+          "name": "Stym",
+          "url": "https://open.spotify.com/artist/3m7hKfjvjNkvrLIDwKsHio"
+        },
+        {
+          "name": "Terizo",
+          "url": "https://open.spotify.com/artist/3MFa1VXEKktIURugbn9i1H"
+        },
+        {
+          "name": "Casual Chill",
+          "url": "https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Hachi",
+      "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1027,30 +1051,6 @@
       "duration_ms": 158181,
       "name": "Para Mi",
       "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Hachi",
-        "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
-      },
-      "artists": [
-        {
-          "name": "Stym",
-          "url": "https://open.spotify.com/artist/3m7hKfjvjNkvrLIDwKsHio"
-        },
-        {
-          "name": "Terizo",
-          "url": "https://open.spotify.com/artist/3MFa1VXEKktIURugbn9i1H"
-        },
-        {
-          "name": "Casual Chill",
-          "url": "https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Hachi",
-      "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "At The Horizon",
-        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
-      },
-      "artists": [
-        {
-          "name": "Marc Hartman",
-          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
-        }
-      ],
-      "duration_ms": 294995,
-      "name": "At The Horizon",
-      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
         "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
         "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
       },
@@ -1243,38 +1227,18 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
-        "name": "The Universe Is Magic",
-        "url": "https://open.spotify.com/album/4wP6VlBoVqWkb6ZIM5Xv6K"
+        "name": "At The Horizon",
+        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
       },
       "artists": [
         {
-          "name": "Han Litz",
-          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
-        },
-        {
-          "name": "Kid Sublime",
-          "url": "https://open.spotify.com/artist/18zi2twij4DU0Z3nm4tVUX"
+          "name": "Marc Hartman",
+          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
         }
       ],
-      "duration_ms": 330379,
-      "name": "Love Is The Key",
-      "url": "https://open.spotify.com/track/0I5PC3HmM8CP0LmnPyF94B"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "Late Night Obsession",
-        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 166798,
-      "name": "Slow Goods",
-      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+      "duration_ms": 294995,
+      "name": "At The Horizon",
+      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1295,6 +1259,42 @@
       "duration_ms": 483808,
       "name": "Fading Memories",
       "url": "https://open.spotify.com/track/2gCzNuIjZQnKj9lMqHjk7X"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "Late Night Obsession",
+        "url": "https://open.spotify.com/album/30Wa2MaR7XuSsd4g79tNE4"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 166798,
+      "name": "Slow Goods",
+      "url": "https://open.spotify.com/track/66D24YMI6FMRRGHO8QoBhO"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
+        "name": "The Universe Is Magic",
+        "url": "https://open.spotify.com/album/4wP6VlBoVqWkb6ZIM5Xv6K"
+      },
+      "artists": [
+        {
+          "name": "Han Litz",
+          "url": "https://open.spotify.com/artist/3ZzeSKjRBWSlduzTB3AFOD"
+        },
+        {
+          "name": "Kid Sublime",
+          "url": "https://open.spotify.com/artist/18zi2twij4DU0Z3nm4tVUX"
+        }
+      ],
+      "duration_ms": 330379,
+      "name": "Love Is The Key",
+      "url": "https://open.spotify.com/track/0I5PC3HmM8CP0LmnPyF94B"
     },
     {
       "added_at": "2024-06-03 13:14:44",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-06-03 13:14:44",
       "album": {
+        "name": "I Lost My Way",
+        "url": "https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk"
+      },
+      "artists": [
+        {
+          "name": "ALIGN",
+          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
+        }
+      ],
+      "duration_ms": 197727,
+      "name": "I Lost My Way",
+      "url": "https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE"
+    },
+    {
+      "added_at": "2024-06-03 13:14:44",
+      "album": {
         "name": "Twilight",
         "url": "https://open.spotify.com/album/0xA3Pyif2qZdMymcAMUXAI"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 175711,
       "name": "Twilight",
       "url": "https://open.spotify.com/track/3KJD5sOIQGruWKiixUjZsA"
-    },
-    {
-      "added_at": "2024-06-03 13:14:44",
-      "album": {
-        "name": "I Lost My Way",
-        "url": "https://open.spotify.com/album/3HKVECKkmZYaAhcDvmXAIk"
-      },
-      "artists": [
-        {
-          "name": "ALIGN",
-          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
-        }
-      ],
-      "duration_ms": 197727,
-      "name": "I Lost My Way",
-      "url": "https://open.spotify.com/track/1GsTcXBRzRkthbY1rgJdbE"
     },
     {
       "added_at": "2024-06-03 13:14:44",

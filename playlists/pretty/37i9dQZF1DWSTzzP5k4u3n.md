@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,816 likes - 71 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,815 likes - 71 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lanka palaa](https://open.spotify.com/track/5NaxtBnIffTak7GXo86VAM) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pelkkää Patee](https://open.spotify.com/album/04bPAbRKqEKWuKxtkevKY4) | 3:01 |
 | 2 | [Aurinkomäki](https://open.spotify.com/track/7IEaEIzhKacGDNBMbmGH0M) | [Aino & Hajonneet](https://open.spotify.com/artist/1sRsNqY5RY8NvNtM0E8Aa6) | [Aurinkomäki](https://open.spotify.com/album/4GO7fFLjd6nloXjZqtgmxP) | 3:09 |
-| 3 | [Me olemme muisto vain](https://open.spotify.com/track/1T95Py9WIxGYrsnWStP8kK) | [Keba](https://open.spotify.com/artist/08o2XyGQXNOnPvN5r0o4VZ) | [Me olemme muisto vain / Kotikaupunki](https://open.spotify.com/album/451b2yTJF0KNP7CuI5NMii) | 3:35 |
-| 4 | [Nouse kyytiin](https://open.spotify.com/track/0zeycjLOtQNcinmx7uH5jg) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Nouse kyytiin](https://open.spotify.com/album/1tTRRFjAtEcpPM0ngmn1JW) | 3:57 |
-| 5 | [Periaatteessa onnellinen](https://open.spotify.com/track/1Ph4WJUA4KRC9MJxbikvat) | [The Stonewalls](https://open.spotify.com/artist/3Lb8xb895mxv1PW4ATbIJc), [Lauri Ketonen](https://open.spotify.com/artist/0COKPylAjot2zwI9ABkrd0) | [Periaatteessa onnellinen](https://open.spotify.com/album/0qatNBp4KY5SMzilMrnMvS) | 3:56 |
-| 6 | [VMP](https://open.spotify.com/track/7wJtQbk3jiwzMmMYzmNahI) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [VMP](https://open.spotify.com/album/4KYBQzyfGj65Q73OylcCY5) | 2:42 |
+| 3 | [VMP](https://open.spotify.com/track/7wJtQbk3jiwzMmMYzmNahI) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [VMP](https://open.spotify.com/album/4KYBQzyfGj65Q73OylcCY5) | 2:42 |
+| 4 | [Me olemme muisto vain](https://open.spotify.com/track/1T95Py9WIxGYrsnWStP8kK) | [Keba](https://open.spotify.com/artist/08o2XyGQXNOnPvN5r0o4VZ) | [Me olemme muisto vain / Kotikaupunki](https://open.spotify.com/album/451b2yTJF0KNP7CuI5NMii) | 3:35 |
+| 5 | [Nouse kyytiin](https://open.spotify.com/track/0zeycjLOtQNcinmx7uH5jg) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Nouse kyytiin](https://open.spotify.com/album/1tTRRFjAtEcpPM0ngmn1JW) | 3:57 |
+| 6 | [Periaatteessa onnellinen](https://open.spotify.com/track/1Ph4WJUA4KRC9MJxbikvat) | [The Stonewalls](https://open.spotify.com/artist/3Lb8xb895mxv1PW4ATbIJc), [Lauri Ketonen](https://open.spotify.com/artist/0COKPylAjot2zwI9ABkrd0) | [Periaatteessa onnellinen](https://open.spotify.com/album/0qatNBp4KY5SMzilMrnMvS) | 3:56 |
 | 7 | [Elät Vaan](https://open.spotify.com/track/2tQk2A6XDXKlhxw5cT2jYe) | [Remix](https://open.spotify.com/artist/60rrONrFQipKsTXYazdmQO), [Karoliina Kallio](https://open.spotify.com/artist/0PMSbS727MWOXbiEcSjSLm) | [Elät Vaan](https://open.spotify.com/album/4zTGHW1H5IxyUSYGcRmj6W) | 3:40 |
 | 8 | [Tänään lupaan \- Radio Edit](https://open.spotify.com/track/0hdo3lCErWLwfTxmidKVg3) | [HARMAA PARDON?](https://open.spotify.com/artist/0EM7NoIp4BnV10Meb3DDcX) | [Tänään lupaan \(Radio Edit\)](https://open.spotify.com/album/02EdBP7yEBYEctENjIWSkg) | 3:07 |
 | 9 | [Suden hetki](https://open.spotify.com/track/0md54pF8ITOO95RaM9r9Oa) | [Karuma](https://open.spotify.com/artist/2EMjAmldY7Kn9ekRpwYx4j) | [Joki](https://open.spotify.com/album/007OXgtpDcAHd9g8pqUzv3) | 4:38 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 70 | [Sut luotiin lumoamaan](https://open.spotify.com/track/5kjwaozp3A3l5TXx8eoLbJ) | [Baikal](https://open.spotify.com/artist/6J6vHr5MrBjKaVixJq3iva) | [Sut luotiin lumoamaan](https://open.spotify.com/album/5j7QkVGfjNZHCpQzDf9iES) | 4:05 |
 | 71 | [Verivala](https://open.spotify.com/track/63wjcCy16aXLDK9G1t7lNP) | [kytät](https://open.spotify.com/artist/49jF8kdHtxnwhnQa5wiknv) | [Verivala](https://open.spotify.com/album/4CwyveLUU9sPzTWxdix0XS) | 2:37 |
 
-Snapshot ID: `ZsenDAAAAADd4KeChpRlnHmpR0j+8det`
+Snapshot ID: `Zs4GJQAAAADPClx09jYOG61GdxX0KX7+`

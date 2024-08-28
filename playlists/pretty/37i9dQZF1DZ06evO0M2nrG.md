@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 
 ### [This Is Mike Bahía](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0M2nrG)
 
-> This is Mike Bahía\. The essential tracks, all in one playlist.
+> This Is Mike Bahía\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,425 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,428 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 20 | [La Lá](https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:17 |
 | 21 | [Contigo Hasta El Final](https://open.spotify.com/track/34Iw1vdwNttY3t9pbFA8iQ) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo Hasta El Final](https://open.spotify.com/album/4XfWnAyKndaUkwOPahhjbn) | 2:48 |
 | 22 | [El Egoísmo](https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:50 |
-| 23 | [Quiéreme](https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quiéreme](https://open.spotify.com/album/680aKPMc7XA59sKyJ8mTCv) | 3:02 |
+| 23 | [Le Hace Falta Un Beso \(feat\. Mike Bahía\) \- Versión Reggaeton](https://open.spotify.com/track/2jec7cCgz0dWzLwJd9jWh2) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Le Hace Falta Un Beso \(feat\. Mike Bahía\) \[Versión Reggaeton\]](https://open.spotify.com/album/5jdcm1AstweMXm4HoTuVl8) | 3:24 |
 | 24 | [Quédate Aquí](https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:03 |
-| 25 | [Le Hace Falta Un Beso \(feat\. Mike Bahía\) \- Versión Reggaeton](https://open.spotify.com/track/2jec7cCgz0dWzLwJd9jWh2) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Le Hace Falta Un Beso \(feat\. Mike Bahía\) \[Versión Reggaeton\]](https://open.spotify.com/album/5jdcm1AstweMXm4HoTuVl8) | 3:24 |
+| 25 | [Quiéreme](https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quiéreme](https://open.spotify.com/album/680aKPMc7XA59sKyJ8mTCv) | 3:02 |
 | 26 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |
 | 27 | [Navegando](https://open.spotify.com/track/7n0vJaSOM87pMqIIQWxoIh) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 2:59 |
 | 28 | [Sufrimos De Lo Mismo](https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:41 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 34 | [Tu Enemiga](https://open.spotify.com/track/3NxJKoYi9WMBuZdk4UdJuK) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu Enemiga](https://open.spotify.com/album/0uAiQ6Ul6cmEZp0py1AQpD) | 3:26 |
 | 35 | [A Dónde Te Me Fuiste](https://open.spotify.com/track/0eElJzEQiuwRGsSJMsCupi) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:12 |
 | 36 | [Déjame](https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Déjame](https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF) | 3:09 |
-| 37 | [Magdalena](https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Magdalena](https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn) | 3:18 |
-| 38 | [Te Besaré \- Salsa Remix](https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [13](https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP) | 3:46 |
+| 37 | [Te Besaré \- Salsa Remix](https://open.spotify.com/track/0aJ0mqQoHrKUHoI9AeMbcU) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [13](https://open.spotify.com/album/3wFIQ5xMqZSg4pAWVw1rkP) | 3:46 |
+| 38 | [Magdalena](https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Magdalena](https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn) | 3:18 |
 | 39 | [Nadie Más](https://open.spotify.com/track/1mFlI30aPMUoHOquItn3ku) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:41 |
 | 40 | [Darte Amor](https://open.spotify.com/track/5sYE0C4VPBmEB1SYGAswh7) | [Jordy Jill](https://open.spotify.com/artist/10IxurTiAiRppIUcayF5iV), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Darte Amor](https://open.spotify.com/album/7H167tMzZ3uBzn5ZAweO7W) | 3:09 |
 | 41 | [Pan y mantequilla \(feat\. Mike Bahía\)](https://open.spotify.com/track/19lKEvyLuIQzHlsXVXJSK3) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Pan y mantequilla \(feat\. Mike Bahía\)](https://open.spotify.com/album/55TklthdUXnsj5YtXKV1Od) | 3:21 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 50 | [Por Vos](https://open.spotify.com/track/5RPl7zAToaiW6s9JjMlG6W) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Por Vos](https://open.spotify.com/album/1iggmUN30hhkmwqyWw7rmP) | 2:45 |
 | 51 | [Sola \(feat\. Stanley Jackson\)](https://open.spotify.com/track/2fFEvoOii2fviIeAbfBj4t) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Stanley Jackson](https://open.spotify.com/artist/3uoKSVmuDDItBqC4OceRgJ) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 2:50 |
 
-Snapshot ID: `Zsp0AAAAAACEXYQyhYg4nCR60Ax5+Ixd`
+Snapshot ID: `ZsvFgAAAAACYknaaLMb0jIg/OQf2msby`

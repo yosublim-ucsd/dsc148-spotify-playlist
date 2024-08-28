@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > 2 y 3 de noviembre en el Parque Bicentenario 🤠 Consigue tus boletos y más info <a href="https://subelealamexcla.byspotify.com/"> AQUÍ</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,550 likes - 71 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,459 likes - 71 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

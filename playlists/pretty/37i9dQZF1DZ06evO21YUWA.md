@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 ### [This Is Harold Budd](https://open.spotify.com/playlist/37i9dQZF1DZ06evO21YUWA)
 
-> This is Harold Budd\. Todos os maiores hits em uma só playlist.
+> This is Harold Budd\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,214 likes - 48 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,217 likes - 48 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 47 | [Spoken Roses](https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 6:20 |
 | 48 | [The Belles of Saint Andrew](https://open.spotify.com/track/7AtA5R9G0HAkleSk9Z0kiU) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 3:42 |
 
-Snapshot ID: `Zsp0AAAAAADzW95KsfoycML7IHSaiVOn`
+Snapshot ID: `ZsvFgAAAAAALwKP5/T0Ap7brRBgjSb17`

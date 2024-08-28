@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2580485,
+  "num_followers": 2580636,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -427,30 +427,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "places to be",
         "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Miracle (with Ellie Goulding)",
-        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 186496,
-      "name": "Miracle (with Ellie Goulding)",
-      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 152349,
       "name": "I Like It (with Nate Smith)",
       "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Miracle (with Ellie Goulding)",
+        "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 186496,
+      "name": "Miracle (with Ellie Goulding)",
+      "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "In My Bones",
-        "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 156126,
-      "name": "In My Bones",
-      "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "girl$",
         "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
       },
@@ -851,22 +831,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "10:35",
-        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         },
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+      "duration_ms": 156126,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -895,6 +875,26 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "10:35",
+        "url": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "10:35",
+      "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Tarantella",
         "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 145553,
       "name": "Tarantella",
       "url": "https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Drifting",
+        "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
-      },
-      "artists": [
-        {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "Last Night (Anyma x Layton Giordani Remix)",
         "url": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa"
       },
@@ -1451,42 +1435,18 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
         }
       ],
-      "duration_ms": 234330,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Baddy On The Floor",
-        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1515,6 +1475,26 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Esta Vida",
         "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 209135,
       "name": "Esta Vida",
       "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 234330,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Throw Some Ass",
-        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 182423,
-      "name": "Throw Some Ass",
-      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
+        "name": "Throw Some Ass",
+        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 182423,
+      "name": "Throw Some Ass",
+      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
         "name": "Don't Stop (The Music)",
         "url": "https://open.spotify.com/album/4vF5KckGOBr5srPsCy2SCN"
       },
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-08-09 04:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 203211,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
-    },
-    {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
         "name": "stayinit",
         "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 274925,
       "name": "stayinit",
       "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
+    },
+    {
+      "added_at": "2024-08-09 04:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 203211,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
     },
     {
       "added_at": "2024-08-09 04:00:00",

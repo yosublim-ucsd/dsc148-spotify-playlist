@@ -1,6 +1,6 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 78995,
+  "num_followers": 79023,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-02 17:33:39",
       "album": {
-        "name": "Pick Up (Even Shorter Version)",
-        "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Pick Up - Even Shorter Version",
-      "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
-    },
-    {
-      "added_at": "2024-08-02 17:33:39",
-      "album": {
         "name": "Set Me Free (Extended Mix)",
         "url": "https://open.spotify.com/album/4GpTMREyTrBVlYfKX8AYln"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 210000,
       "name": "Set Me Free - Extended Mix",
       "url": "https://open.spotify.com/track/0JSZOH5PH1oLrOB4E1rzbp"
+    },
+    {
+      "added_at": "2024-08-02 17:33:39",
+      "album": {
+        "name": "Pick Up (Even Shorter Version)",
+        "url": "https://open.spotify.com/album/0LQLGYPbXQzihonqLEN6XO"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Pick Up - Even Shorter Version",
+      "url": "https://open.spotify.com/track/7H9sqtNVPp6eoxnJRMUmm4"
     },
     {
       "added_at": "2024-08-02 17:33:39",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-08-02 17:33:39",
       "album": {
+        "name": "Family Portrait",
+        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
+      },
+      "artists": [
+        {
+          "name": "Ross from Friends",
+          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
+        }
+      ],
+      "duration_ms": 306118,
+      "name": "Thank God I'm A Lizard",
+      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
+    },
+    {
+      "added_at": "2024-08-02 17:33:39",
+      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 156480,
       "name": "Strut",
       "url": "https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL"
-    },
-    {
-      "added_at": "2024-08-02 17:33:39",
-      "album": {
-        "name": "Family Portrait",
-        "url": "https://open.spotify.com/album/24eRSwYbneTDkehVHM2MVf"
-      },
-      "artists": [
-        {
-          "name": "Ross from Friends",
-          "url": "https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF"
-        }
-      ],
-      "duration_ms": 306118,
-      "name": "Thank God I'm A Lizard",
-      "url": "https://open.spotify.com/track/2nm6Vs67PYPj7EfFoE2L49"
     },
     {
       "added_at": "2024-08-02 17:33:39",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-08-02 17:33:39",
       "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
-      },
-      "artists": [
-        {
-          "name": "Redlight",
-          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
-        }
-      ],
-      "duration_ms": 176372,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
-    },
-    {
-      "added_at": "2024-08-02 17:33:39",
-      "album": {
         "name": "Back Seat (Tseba Remix)",
         "url": "https://open.spotify.com/album/7mpjZlmA0AAYRfBL1aoatW"
       },
@@ -1343,6 +1327,38 @@
       "duration_ms": 240191,
       "name": "Back Seat - Tseba Remix",
       "url": "https://open.spotify.com/track/6c4mLN6NaKa0Js76rCIfTr"
+    },
+    {
+      "added_at": "2024-08-02 17:33:39",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/6fi7akHFrEm2vm4DYlvY4E"
+      },
+      "artists": [
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "duration_ms": 176372,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5e3EF3niG5U2ycCFc0seOL"
+    },
+    {
+      "added_at": "2024-08-02 17:33:39",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
+      },
+      "artists": [
+        {
+          "name": "KITTENS",
+          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2024-08-02 17:33:39",
@@ -1375,22 +1391,6 @@
       "duration_ms": 200000,
       "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
       "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
-    },
-    {
-      "added_at": "2024-08-02 17:33:39",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0fMlGSOlXFyQxg150u5DQZ"
-      },
-      "artists": [
-        {
-          "name": "KITTENS",
-          "url": "https://open.spotify.com/artist/1TjmRAj3JWRf7feuDKMrXM"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/2sHioVLAzKoqxuqJv51L7i"
     },
     {
       "added_at": "2024-08-02 17:33:39",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-08-02 17:33:39",
       "album": {
-        "name": "HYPNOTIZE EP",
-        "url": "https://open.spotify.com/album/3uyE80PrNEyO6LVRu9e6Ud"
-      },
-      "artists": [
-        {
-          "name": "Psycho Boys Club",
-          "url": "https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "YSL",
-      "url": "https://open.spotify.com/track/32qENt36EnFCKOEGzLjRBY"
-    },
-    {
-      "added_at": "2024-08-02 17:33:39",
-      "album": {
         "name": "Shhh",
         "url": "https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 238222,
       "name": "Shhh",
       "url": "https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY"
+    },
+    {
+      "added_at": "2024-08-02 17:33:39",
+      "album": {
+        "name": "HYPNOTIZE EP",
+        "url": "https://open.spotify.com/album/3uyE80PrNEyO6LVRu9e6Ud"
+      },
+      "artists": [
+        {
+          "name": "Psycho Boys Club",
+          "url": "https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "YSL",
+      "url": "https://open.spotify.com/track/32qENt36EnFCKOEGzLjRBY"
     },
     {
       "added_at": "2024-08-02 17:33:39",

@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 326927,
+  "num_followers": 327010,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,6 @@
     {
       "added_at": "2024-08-23 14:31:03",
       "album": {
-        "name": "Confesi\u00f3n (From \"A Cielo Abierto\" Soundtrack)",
-        "url": "https://open.spotify.com/album/4Ao1IzLNfYnh9so8pC8jQ1"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Einaudi",
-          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
-        }
-      ],
-      "duration_ms": 94586,
-      "name": "Confesi\u00f3n - From \"A Cielo Abierto\" Soundtrack",
-      "url": "https://open.spotify.com/track/04NpG3JzX18W94sxDMAt7L"
-    },
-    {
-      "added_at": "2024-08-23 14:31:03",
-      "album": {
         "name": "Awadis: \u00c9tude No. 8: Through the Window",
         "url": "https://open.spotify.com/album/1HEcDNLYMGhK0sXGbOFIOx"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 340040,
       "name": "\u00c9tude No. 8: Through the Window",
       "url": "https://open.spotify.com/track/35ciMkUbqwKEDrsF6ttZzo"
+    },
+    {
+      "added_at": "2024-08-23 14:31:03",
+      "album": {
+        "name": "Confesi\u00f3n (From \"A Cielo Abierto\" Soundtrack)",
+        "url": "https://open.spotify.com/album/4Ao1IzLNfYnh9so8pC8jQ1"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "duration_ms": 94586,
+      "name": "Confesi\u00f3n - From \"A Cielo Abierto\" Soundtrack",
+      "url": "https://open.spotify.com/track/04NpG3JzX18W94sxDMAt7L"
     },
     {
       "added_at": "2024-08-23 14:31:03",
@@ -407,8 +407,8 @@
     {
       "added_at": "2024-08-23 14:31:03",
       "album": {
-        "name": "Bach, J.S. / Purcell / Handel: Stokowski Transcriptions",
-        "url": "https://open.spotify.com/album/7yTPt5MG7Rh9mST50YtQDQ"
+        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
       },
       "artists": [
         {
@@ -416,21 +416,13 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Leopold Stokowski",
-          "url": "https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx"
-        },
-        {
-          "name": "Bournemouth Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
-        },
-        {
-          "name": "Jos\u00e9 Serebrier",
-          "url": "https://open.spotify.com/artist/1C3E8y3WbXJJYWs9Ex11et"
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
         }
       ],
-      "duration_ms": 227013,
-      "name": "Messiah, HWV 56, Part I: Pastoral Symphony, \"Pifa\" (arr. L. Stokowski)",
-      "url": "https://open.spotify.com/track/2WuYYACpbXgn41VaPN3IYs"
+      "duration_ms": 268000,
+      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
+      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
     },
     {
       "added_at": "2024-08-23 14:31:03",
@@ -555,42 +547,6 @@
     {
       "added_at": "2024-08-23 14:31:03",
       "album": {
-        "name": "Solon Islandus (Complete Works)",
-        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 162374,
-      "name": "Faded Leaves Fall",
-      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
-    },
-    {
-      "added_at": "2024-08-23 14:31:03",
-      "album": {
-        "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-        "url": "https://open.spotify.com/album/2w6cYUhoQ1uZ26JMVz7Vdj"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Rinaldo, HWV 7: Lascia ch'io pianga (Arr. for Piano)",
-      "url": "https://open.spotify.com/track/3mYWVZeUiEHei3XwIsaxfI"
-    },
-    {
-      "added_at": "2024-08-23 14:31:03",
-      "album": {
         "name": "Lavender Fields",
         "url": "https://open.spotify.com/album/3DOzVCAU7Swvl0LLGpTgLc"
       },
@@ -603,6 +559,50 @@
       "duration_ms": 216920,
       "name": "Lavender Fields",
       "url": "https://open.spotify.com/track/3Xp9Yhba253xNhVHnyQrmN"
+    },
+    {
+      "added_at": "2024-08-23 14:31:03",
+      "album": {
+        "name": "Bach, J.S. / Purcell / Handel: Stokowski Transcriptions",
+        "url": "https://open.spotify.com/album/7yTPt5MG7Rh9mST50YtQDQ"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Leopold Stokowski",
+          "url": "https://open.spotify.com/artist/52sDxFX9DvIxUupTy8f1yx"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Jos\u00e9 Serebrier",
+          "url": "https://open.spotify.com/artist/1C3E8y3WbXJJYWs9Ex11et"
+        }
+      ],
+      "duration_ms": 227013,
+      "name": "Messiah, HWV 56, Part I: Pastoral Symphony, \"Pifa\" (arr. L. Stokowski)",
+      "url": "https://open.spotify.com/track/2WuYYACpbXgn41VaPN3IYs"
+    },
+    {
+      "added_at": "2024-08-23 14:31:03",
+      "album": {
+        "name": "Solon Islandus (Complete Works)",
+        "url": "https://open.spotify.com/album/6tfhwuXTsrLYu7BAB4MG65"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 162374,
+      "name": "Faded Leaves Fall",
+      "url": "https://open.spotify.com/track/6c8BkPhzkqPOb2wUZbBXSa"
     },
     {
       "added_at": "2024-08-23 14:31:03",
@@ -623,6 +623,22 @@
       "duration_ms": 111178,
       "name": "Children's Song No. 1 (Arr. for guitar by Forbes Henderson)",
       "url": "https://open.spotify.com/track/6rpfMfLTgzfw7VzebK5Q9u"
+    },
+    {
+      "added_at": "2024-08-23 14:31:03",
+      "album": {
+        "name": "180\u00b0",
+        "url": "https://open.spotify.com/album/4hFVZKTMTQHEDrG1bzlEJs"
+      },
+      "artists": [
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "duration_ms": 223793,
+      "name": "VIRGO \u201cThe Perfectionist\u201d",
+      "url": "https://open.spotify.com/track/0AnQvSyfdR5D9XdDQgDWCG"
     },
     {
       "added_at": "2024-08-23 14:31:03",
@@ -687,6 +703,26 @@
     {
       "added_at": "2024-08-23 14:31:03",
       "album": {
+        "name": "Faur\u00e9: Music for Piano",
+        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Christine Croshaw",
+          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
+        }
+      ],
+      "duration_ms": 120493,
+      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
+      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
+    },
+    {
+      "added_at": "2024-08-23 14:31:03",
+      "album": {
         "name": "Harpa Sessions",
         "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
       },
@@ -719,26 +755,6 @@
       "duration_ms": 252920,
       "name": "Movement 5 - Pt. 2 - Instrumental",
       "url": "https://open.spotify.com/track/5TglMMqjxSaHE9j4iIoJZt"
-    },
-    {
-      "added_at": "2024-08-23 14:31:03",
-      "album": {
-        "name": "Faur\u00e9: Music for Piano",
-        "url": "https://open.spotify.com/album/4Bq9f1vu4WaYfBD2cfTMAm"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Christine Croshaw",
-          "url": "https://open.spotify.com/artist/1ymHnk986duca17oMSDzwb"
-        }
-      ],
-      "duration_ms": 120493,
-      "name": "8 Pi\u00e8ces br\u00e8ves, Op. 84: No. 5, Improvisation in C-Sharp Minor",
-      "url": "https://open.spotify.com/track/4hVgzGnQ6TtV3vqPgb4LhY"
     },
     {
       "added_at": "2024-08-23 14:31:03",
@@ -879,22 +895,6 @@
     {
       "added_at": "2024-08-23 14:31:03",
       "album": {
-        "name": "180\u00b0",
-        "url": "https://open.spotify.com/album/4hFVZKTMTQHEDrG1bzlEJs"
-      },
-      "artists": [
-        {
-          "name": "Tony Ann",
-          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
-        }
-      ],
-      "duration_ms": 223793,
-      "name": "VIRGO \u201cThe Perfectionist\u201d",
-      "url": "https://open.spotify.com/track/0AnQvSyfdR5D9XdDQgDWCG"
-    },
-    {
-      "added_at": "2024-08-23 14:31:03",
-      "album": {
         "name": "Make-believe",
         "url": "https://open.spotify.com/album/0Qju6M9CEHVwZ0Wc0kJkul"
       },
@@ -931,6 +931,26 @@
       "duration_ms": 223213,
       "name": "3 Romances, Op. 94: No. 2, Einfach, innig - Musical Moments",
       "url": "https://open.spotify.com/track/6cjmhZ4qsLBcHk8i4yqie3"
+    },
+    {
+      "added_at": "2024-08-23 14:31:03",
+      "album": {
+        "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
+        "url": "https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Vestard Shimkus",
+          "url": "https://open.spotify.com/artist/4golKT6I9CV71gu6hHC4Dl"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
+      "url": "https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC"
     },
     {
       "added_at": "2024-08-23 14:31:03",
@@ -987,22 +1007,22 @@
     {
       "added_at": "2024-08-23 14:31:03",
       "album": {
-        "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
-        "url": "https://open.spotify.com/album/0f1utxCEh4RRCXVPQYfhXG"
+        "name": "Try",
+        "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
       },
       "artists": [
         {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+          "name": "Keaton Henson",
+          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
         },
         {
-          "name": "Vestard Shimkus",
-          "url": "https://open.spotify.com/artist/4golKT6I9CV71gu6hHC4Dl"
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
         }
       ],
-      "duration_ms": 210026,
-      "name": "Mad Rush: Part D (Bar 232 - Bar 273)",
-      "url": "https://open.spotify.com/track/6QAGeFtnxxXGN8sig88JEC"
+      "duration_ms": 242333,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
     },
     {
       "added_at": "2024-08-23 14:31:03",
@@ -1047,26 +1067,6 @@
     {
       "added_at": "2024-08-23 14:31:03",
       "album": {
-        "name": "Try",
-        "url": "https://open.spotify.com/album/0ytwNH8AtDNq8FaCcOUyEJ"
-      },
-      "artists": [
-        {
-          "name": "Keaton Henson",
-          "url": "https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160"
-        },
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 242333,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/1fQzbxJs5jLKcBD1jVyGj4"
-    },
-    {
-      "added_at": "2024-08-23 14:31:03",
-      "album": {
         "name": "Bach: Inventions & Sinfonias",
         "url": "https://open.spotify.com/album/1O53QRsMlkSId0cbp1mXCr"
       },
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-08-23 14:31:03",
       "album": {
-        "name": "Works for Solo Piano",
-        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 122986,
-      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
-      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
-    },
-    {
-      "added_at": "2024-08-23 14:31:03",
-      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 98320,
       "name": "Molino: Duo No. 3, Op. 16: I. Andantino",
       "url": "https://open.spotify.com/track/15ZcZqeTTpIy7RDs8P8DuH"
+    },
+    {
+      "added_at": "2024-08-23 14:31:03",
+      "album": {
+        "name": "Works for Solo Piano",
+        "url": "https://open.spotify.com/album/1NnzVZCo7LnKi2wAbgF9rK"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 122986,
+      "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6, Heft II: No. 14, Zart und singend",
+      "url": "https://open.spotify.com/track/3rzwGepRS2pjTwvhBvMmiz"
     },
     {
       "added_at": "2024-08-23 14:31:03",
@@ -1599,26 +1599,22 @@
     {
       "added_at": "2024-08-23 14:31:03",
       "album": {
-        "name": "Telemann Collection",
-        "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
       "artists": [
         {
-          "name": "Georg Philipp Telemann",
-          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Collegium Instrumentale Brugense",
-          "url": "https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu"
-        },
-        {
-          "name": "Marc Peire",
-          "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
         }
       ],
-      "duration_ms": 65080,
-      "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
-      "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2024-08-23 14:31:03",
@@ -1663,22 +1659,26 @@
     {
       "added_at": "2024-08-23 14:31:03",
       "album": {
-        "name": "Mendelssohn: Piano Works",
-        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
+        "name": "Telemann Collection",
+        "url": "https://open.spotify.com/album/0l9iRC7EpQREfuVLmn0UH1"
       },
       "artists": [
         {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+          "name": "Georg Philipp Telemann",
+          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
         },
         {
-          "name": "Doomin Kim",
-          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
+          "name": "Collegium Instrumentale Brugense",
+          "url": "https://open.spotify.com/artist/58WgXgh03rjIO1BkByxMgu"
+        },
+        {
+          "name": "Marc Peire",
+          "url": "https://open.spotify.com/artist/1W2a3r99zPaSl50jkBxhgz"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
-      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
+      "duration_ms": 65080,
+      "name": "Ouverture-Suite in D Minor, TWV 55:d2: II. Rondeau",
+      "url": "https://open.spotify.com/track/5i640tjpGNKyvSaYP3eEwC"
     },
     {
       "added_at": "2024-08-23 14:31:03",

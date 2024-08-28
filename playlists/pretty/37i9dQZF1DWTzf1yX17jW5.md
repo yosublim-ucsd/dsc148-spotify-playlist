@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 
 > Our editor’s picks for best Jersey Club songs of the year\. Cover: kanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,046 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,052 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTzf1yX17jW5.md) - [plain]
 | 42 | [Keine Love](https://open.spotify.com/track/7Cq4aSoLlWno9IIrZ5sSCn) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm) | [Keine Love](https://open.spotify.com/album/0v7Ru7ydMZIokRaZROteHw) | 2:38 |
 | 43 | [Jersey](https://open.spotify.com/track/0bzAIaIHmILyOOiP0nQGMj) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Jersey](https://open.spotify.com/album/38S4qMNg1di0obDNZaq8Ma) | 2:51 |
 | 44 | [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 |
-| 45 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 |
-| 46 | [make it jump](https://open.spotify.com/track/7f9uMdhxVDMYpxFN7OMBJm) | [mortyaweiro](https://open.spotify.com/artist/5vim2G9JGVoyUGPc7jIqVj) | [make it jump](https://open.spotify.com/album/7mVsrV1r8J1pisrklmHTK6) | 3:04 |
+| 45 | [make it jump](https://open.spotify.com/track/7f9uMdhxVDMYpxFN7OMBJm) | [mortyaweiro](https://open.spotify.com/artist/5vim2G9JGVoyUGPc7jIqVj) | [make it jump](https://open.spotify.com/album/7mVsrV1r8J1pisrklmHTK6) | 3:04 |
+| 46 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/5AmuyYZBlIbC9PuFM9hmso) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/6MhWcjVKMVa7QbIELyjaUe) | 3:19 |
 | 47 | [bla bla bla](https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [bla bla bla](https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF) | 2:25 |
 | 48 | [Millions \- Jumbo Sounds Mix](https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Millions \(Jumbo Sounds Mix\)](https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ) | 2:38 |
 | 49 | [Who You Touch Pt\. 2 \(feat\. Trippie Redd\)](https://open.spotify.com/track/3rdzGfp94hIX5nksvAjFoD) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Defiant Presents: Jiggy In Jersey](https://open.spotify.com/album/7lEj90UqCHkiZzLnOOQV2v) | 2:18 |

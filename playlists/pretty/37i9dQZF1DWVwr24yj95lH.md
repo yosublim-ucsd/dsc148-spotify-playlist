@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Creed
 
-[Spotify](https://open.spotify.com/user/spotify) - 622,717 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 622,721 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 40 | [Meant to Live](https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 3:21 |
 | 41 | [What If](https://open.spotify.com/track/22bX2FwXSvG49G0bPWm5nc) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Human Clay](https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46) | 5:18 |
 | 42 | [Bound For The Floor](https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY) | [Local H](https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8) | [As Good As Dead](https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl) | 3:42 |
-| 43 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 |
-| 44 | [Comedown \- Remastered](https://open.spotify.com/track/7KgVUnGCMEXBwY2EeqGlaI) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/2EVR73AnIDeYLxVDJIqObQ) | 5:26 |
+| 43 | [Comedown \- Remastered](https://open.spotify.com/track/7KgVUnGCMEXBwY2EeqGlaI) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/2EVR73AnIDeYLxVDJIqObQ) | 5:26 |
+| 44 | [Trippin' on a Hole in a Paper Heart](https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Tiny Music...Songs from the Vatican Gift Shop](https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe) | 2:55 |
 | 45 | [Poor Aileen](https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:27 |
 | 46 | [Doesn't Remind Me](https://open.spotify.com/track/0o995gJCGebaza0LWybToU) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU) | 4:15 |
 | 47 | [Psycho](https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Famous](https://open.spotify.com/album/64gmkAgWQqEGJtvAaGm2La) | 3:30 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 62 | [Lightning Crashes](https://open.spotify.com/track/5vVmnv4EN3X2VBa5Fo3UFM) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/3XbMeJ9zrtH806HuHWkZF2) | 5:25 |
 | 63 | [Israel's Son](https://open.spotify.com/track/4gAV3sMEZn4lrfKPGARCqA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Frogstomp \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC) | 5:18 |
 | 64 | [In Loving Memory](https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 5:40 |
-| 65 | [Shimmer](https://open.spotify.com/track/6WdoToI0z5f4A4kbZ3SXoa) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Sunburn](https://open.spotify.com/album/4Gwwl4Om12HKjYgYs3mIj2) | 3:34 |
-| 66 | [For You](https://open.spotify.com/track/3gAZuCwnlRkAjcnP1Q4yzu) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 3:26 |
+| 65 | [For You](https://open.spotify.com/track/3gAZuCwnlRkAjcnP1Q4yzu) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Break the Cycle](https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE) | 3:26 |
+| 66 | [Shimmer](https://open.spotify.com/track/6WdoToI0z5f4A4kbZ3SXoa) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Sunburn](https://open.spotify.com/album/4Gwwl4Om12HKjYgYs3mIj2) | 3:34 |
 | 67 | [Shelf In The Room](https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:43 |
 | 68 | [That Song](https://open.spotify.com/track/2hiMLnZ2iItT3WIMxY3hAB) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:04 |
 | 69 | [Heroin](https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 4:41 |
-| 70 | [Why I'm Here](https://open.spotify.com/track/0hgOGzUYKKQbQcWDoJpM6H) | [Oleander](https://open.spotify.com/artist/7038Bglq6YmpBu6wPvQJiz) | [February Son](https://open.spotify.com/album/3DxLga8esIW4kag2FGPWMI) | 3:58 |
+| 70 | [Wasteland](https://open.spotify.com/track/0nTiC2fGkM4q8bGlBKGrGx) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [The Autumn Effect](https://open.spotify.com/album/44IoacfwUkvviGnihTUv1X) | 3:49 |
 
 Snapshot ID: `ZoQ0wAAAAAB7ebwFDHX+Q3s5xoIHuoPB`

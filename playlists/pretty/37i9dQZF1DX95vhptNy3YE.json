@@ -59,30 +59,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Sorriso no Rosto",
-        "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sorriso no Rosto",
-      "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Sempre na Simplicidade",
         "url": "https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow"
       },
@@ -111,6 +87,30 @@
       "duration_ms": 300000,
       "name": "Sempre na Simplicidade",
       "url": "https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Sorriso no Rosto",
+        "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sorriso no Rosto",
+      "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -199,38 +199,6 @@
       "duration_ms": 145812,
       "name": "CONFISS\u00d5ES PT2",
       "url": "https://open.spotify.com/track/0Q1ySdDoHDiotYn4nbMXNm"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Filha do Deputado",
-        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        }
-      ],
-      "duration_ms": 371852,
-      "name": "Filha do Deputado",
-      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -367,6 +335,38 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
+        "name": "Filha do Deputado",
+        "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        }
+      ],
+      "duration_ms": 371852,
+      "name": "Filha do Deputado",
+      "url": "https://open.spotify.com/track/5Qqpplbu8ROd71c0brQxyy"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -495,6 +495,34 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
+        "name": "Qual \u00e9 seu desejo?",
+        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "C\u00fapula",
+          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+        }
+      ],
+      "duration_ms": 153429,
+      "name": "Qual \u00e9 seu desejo?",
+      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
         "name": "Avisa L\u00e1, Pt. 4",
         "url": "https://open.spotify.com/album/2Iwr0LA6hxZO7iEaH6J67j"
       },
@@ -527,26 +555,6 @@
       "duration_ms": 445000,
       "name": "Avisa L\u00e1, Pt. 4",
       "url": "https://open.spotify.com/track/0h7m2GwOZFptFrg7e7tiTn"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Promessas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5rNrVJUHUAQi0NRibNMllj"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 204938,
-      "name": "Promessas - Ao Vivo",
-      "url": "https://open.spotify.com/track/5eMQVA6iz94w9D4VvRCrEy"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -607,30 +615,22 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Qual \u00e9 seu desejo?",
-        "url": "https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs"
+        "name": "Promessas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5rNrVJUHUAQi0NRibNMllj"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
         },
         {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "C\u00fapula",
-          "url": "https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F"
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 153429,
-      "name": "Qual \u00e9 seu desejo?",
-      "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
+      "duration_ms": 204938,
+      "name": "Promessas - Ao Vivo",
+      "url": "https://open.spotify.com/track/5eMQVA6iz94w9D4VvRCrEy"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "FETICHE",
         "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 193188,
       "name": "pausa da sua tristeza",
       "url": "https://open.spotify.com/track/3z1ay3o5wECIOIYIp7eM5H"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Open Bar do Caju, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3EbL5V33iZPrrTsoFpPVjZ"
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
       "artists": [
         {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
         }
       ],
-      "duration_ms": 281598,
-      "name": "Amor de Fim de Noite / Morena da Cor do Pecado - Ao Vivo",
-      "url": "https://open.spotify.com/track/4WBuYFw26LcnSuScYQiVNH"
+      "duration_ms": 298871,
+      "name": "FEBRE",
+      "url": "https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -923,18 +923,34 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "CAJU",
-        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+        "name": "Open Bar do Caju, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3EbL5V33iZPrrTsoFpPVjZ"
       },
       "artists": [
         {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
         }
       ],
-      "duration_ms": 298871,
-      "name": "FEBRE",
-      "url": "https://open.spotify.com/track/1xwvLAIPpG8qQJyWRLi4F3"
+      "duration_ms": 281598,
+      "name": "Amor de Fim de Noite / Morena da Cor do Pecado - Ao Vivo",
+      "url": "https://open.spotify.com/track/4WBuYFw26LcnSuScYQiVNH"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Vou Querer De Novo - Ao Vivo",
+        "url": "https://open.spotify.com/album/0qACzUgUhUifdxuQMkdBPx"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 180964,
+      "name": "Vou Querer De Novo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -971,22 +987,6 @@
       "duration_ms": 174556,
       "name": "Invis\u00edvel pt.2",
       "url": "https://open.spotify.com/track/2PsrJc45N7xbFo2ZrL4bHD"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
-        "name": "Vou Querer De Novo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qACzUgUhUifdxuQMkdBPx"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 180964,
-      "name": "Vou Querer De Novo - Ao Vivo",
-      "url": "https://open.spotify.com/track/3FuANNd94eZA4iR9jNxj7F"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Sorte (Ao Vivo / EP02)",
-        "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "duration_ms": 182694,
-      "name": "Febre - Ao Vivo",
-      "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Sigo Frio",
         "url": "https://open.spotify.com/album/2UnskzWZDBBdi01HzIqJjW"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 208000,
       "name": "Parece Caro",
       "url": "https://open.spotify.com/track/0uJNFBUlT6T6XqFRqDUZ7D"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Sorte - Ao Vivo / EP02",
+        "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "duration_ms": 182694,
+      "name": "Febre - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
     },
     {
       "added_at": "2024-08-23 03:01:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Sorte (Ao Vivo / EP01)",
-        "url": "https://open.spotify.com/album/5KNpDTmQLlebpsHsGQ90pK"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182999,
-      "name": "Vai Valer A Pena - Ao Vivo",
-      "url": "https://open.spotify.com/track/6kHf0Ax9bvwziqZgo948dP"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Faz Completo, Chefe",
         "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 206769,
       "name": "Modo Gal\u00e1tico",
       "url": "https://open.spotify.com/track/4TjLgUP7cfLTsDt4mRDsOh"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Sorte (Ao Vivo / EP01)",
+        "url": "https://open.spotify.com/album/5KNpDTmQLlebpsHsGQ90pK"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182999,
+      "name": "Vai Valer A Pena - Ao Vivo",
+      "url": "https://open.spotify.com/track/6kHf0Ax9bvwziqZgo948dP"
     },
     {
       "added_at": "2024-08-23 03:01:00",

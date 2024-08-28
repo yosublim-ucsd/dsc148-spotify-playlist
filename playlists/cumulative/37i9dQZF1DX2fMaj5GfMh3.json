@@ -2669,6 +2669,24 @@
     },
     {
       "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
         "name": "Do It Like That",
         "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
       },
@@ -2976,6 +2994,28 @@
       "duration_ms": 187040,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2irLZwJgLkQZRdXnUoILhq"
+    },
+    {
+      "album": {
+        "name": "Edge of Saturday Night",
+        "url": "https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206796,
+      "name": "Edge of Saturday Night",
+      "url": "https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV"
     },
     {
       "album": {
@@ -3540,7 +3580,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 195500,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/6ZqFEJmQokxWJ2dwzJZ3RR"
@@ -4886,7 +4926,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 196752,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
@@ -5056,7 +5096,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 150746,
       "name": "HOT UPTOWN (feat. Drake)",
       "url": "https://open.spotify.com/track/4sFnOjqO3s7Iphbg2MPKDd"
@@ -7055,6 +7095,24 @@
     },
     {
       "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/7DuKNQz69kS8P2GBQQ7gL1"
+      },
+      "artists": [
+        {
+          "name": "The Starlings",
+          "url": "https://open.spotify.com/artist/1eWulCragj6PpUGCgMt6M8"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170546,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/2oYDhF2P0YjEL53Nv5rdlg"
+    },
+    {
+      "album": {
         "name": "make a move",
         "url": "https://open.spotify.com/album/6Mffoe2CzcWEwkZ1BdzQS5"
       },
@@ -7734,6 +7792,24 @@
       "duration_ms": 225789,
       "name": "Never Gonna Not Dance Again",
       "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
+    },
+    {
+      "album": {
+        "name": "Never Know",
+        "url": "https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Never Know",
+      "url": "https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1"
     },
     {
       "album": {
@@ -8778,7 +8854,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -8854,6 +8930,24 @@
       "duration_ms": 146234,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC"
+    },
+    {
+      "album": {
+        "name": "Pretty Slowly",
+        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261420,
+      "name": "Pretty Slowly",
+      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
     },
     {
       "album": {
@@ -9138,7 +9232,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 224524,
       "name": "Running Straight To You",
       "url": "https://open.spotify.com/track/5IvjnaCpuvgOZ8aBmnk3AK"
@@ -11438,7 +11532,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 136744,
       "name": "Want Me To Be",
       "url": "https://open.spotify.com/track/1AjvNW8RlrZlAkjTq1WCke"
@@ -11770,6 +11864,24 @@
       "duration_ms": 148898,
       "name": "Whoops",
       "url": "https://open.spotify.com/track/6mETs8Pi6Fnkijklne7yHk"
+    },
+    {
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x"
     },
     {
       "album": {

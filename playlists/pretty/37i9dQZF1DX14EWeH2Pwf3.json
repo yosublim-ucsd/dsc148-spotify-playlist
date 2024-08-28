@@ -1,13 +1,29 @@
 {
   "description": "Papa V sulla cover della playlist urban pi\u00f9 grande in Italia \ud83d\udd25",
-  "num_followers": 962827,
+  "num_followers": 962946,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZshTQgAAAABu/Gae6NEQc3OnnDNpwj7Y",
+  "snapshot_id": "Zs2RmQAAAAD/g7YRk1mphoGWdOGlF2eJ",
   "tracks": [
+    {
+      "added_at": "2024-08-23 09:15:46",
+      "album": {
+        "name": "Il Tempo Cura",
+        "url": "https://open.spotify.com/album/16t4humL85l0QvihcPSYRN"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 152904,
+      "name": "Il Tempo Cura",
+      "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
+    },
     {
       "added_at": "2024-08-23 09:15:46",
       "album": {
@@ -20,13 +36,37 @@
           "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         },
         {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 144210,
-      "name": "TT LE GIRLZ (feat. Niky Savage)",
-      "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
+      "duration_ms": 191999,
+      "name": "I LOVE IT (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
+    },
+    {
+      "added_at": "2024-08-23 09:15:46",
+      "album": {
+        "name": "Apparecchiato (feat. Nerissima Serpe)",
+        "url": "https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "duration_ms": 158624,
+      "name": "Apparecchiato (feat. Nerissima Serpe)",
+      "url": "https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz"
     },
     {
       "added_at": "2024-08-23 09:15:46",
@@ -59,46 +99,22 @@
     {
       "added_at": "2024-08-23 09:15:46",
       "album": {
-        "name": "Apparecchiato (feat. Nerissima Serpe)",
-        "url": "https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv"
+        "name": "MILANO TESTAROSSA (feat. Gu\u00e8)",
+        "url": "https://open.spotify.com/album/74vaTiWmSxllb0p5J1UyMB"
       },
       "artists": [
-        {
-          "name": "Papa V",
-          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
-        },
-        {
-          "name": "Nerissima Serpe",
-          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
-        },
-        {
-          "name": "Fritu",
-          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
-        }
-      ],
-      "duration_ms": 158624,
-      "name": "Apparecchiato (feat. Nerissima Serpe)",
-      "url": "https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz"
-    },
-    {
-      "added_at": "2024-08-23 09:15:46",
-      "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
         {
           "name": "Artie 5ive",
           "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         }
       ],
-      "duration_ms": 191999,
-      "name": "I LOVE IT (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
+      "duration_ms": 198145,
+      "name": "MILANO TESTAROSSA (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/5zVQoMHyELfcHYviXDao3I"
     },
     {
       "added_at": "2024-08-23 09:15:46",
@@ -123,22 +139,22 @@
     {
       "added_at": "2024-08-23 09:15:46",
       "album": {
-        "name": "MILANO TESTAROSSA (feat. Gu\u00e8)",
-        "url": "https://open.spotify.com/album/74vaTiWmSxllb0p5J1UyMB"
+        "name": "BBE (feat. Lazza)",
+        "url": "https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3"
       },
       "artists": [
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         },
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
         }
       ],
-      "duration_ms": 198145,
-      "name": "MILANO TESTAROSSA (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/5zVQoMHyELfcHYviXDao3I"
+      "duration_ms": 198750,
+      "name": "BBE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70"
     },
     {
       "added_at": "2024-08-23 09:15:46",
@@ -183,8 +199,8 @@
     {
       "added_at": "2024-08-23 09:15:46",
       "album": {
-        "name": "BBE (feat. Lazza)",
-        "url": "https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3"
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
       "artists": [
         {
@@ -192,13 +208,13 @@
           "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         },
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
         }
       ],
-      "duration_ms": 198750,
-      "name": "BBE (feat. Lazza)",
-      "url": "https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70"
+      "duration_ms": 144210,
+      "name": "TT LE GIRLZ (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
     },
     {
       "added_at": "2024-08-23 09:15:46",
@@ -299,22 +315,6 @@
       "duration_ms": 196363,
       "name": "iN uNa buBbLe",
       "url": "https://open.spotify.com/track/0EimIRiiRd76tqlo9LPLUJ"
-    },
-    {
-      "added_at": "2024-08-23 09:15:46",
-      "album": {
-        "name": "Il Tempo Cura",
-        "url": "https://open.spotify.com/album/16t4humL85l0QvihcPSYRN"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 152904,
-      "name": "Il Tempo Cura",
-      "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
     },
     {
       "added_at": "2024-08-23 09:15:46",

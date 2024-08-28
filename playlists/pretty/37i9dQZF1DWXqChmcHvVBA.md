@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: La Joaqui & elaggume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,404 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,566 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

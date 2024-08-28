@@ -1,6 +1,6 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 703405,
+  "num_followers": 703473,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,6 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "ESTRELLA",
-        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 211879,
-      "name": "REINA",
-      "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 208236,
       "name": "3 Am",
       "url": "https://open.spotify.com/track/1F205Nl2feOSYSztLNOJAL"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 211879,
+      "name": "REINA",
+      "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
     },
     {
       "added_at": "2024-07-09 14:16:39",
@@ -555,6 +555,42 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
+        "name": "Fantasias",
+        "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 199711,
+      "name": "Fantasias",
+      "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
+        "name": "Para Mi Ex",
+        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 187191,
+      "name": "Extasy",
+      "url": "https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -595,42 +631,6 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "Para Mi Ex",
-        "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 187191,
-      "name": "Extasy",
-      "url": "https://open.spotify.com/track/4hnwfhQbZKaNpC1q9zgB4A"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
-        "name": "Fantasias",
-        "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 199711,
-      "name": "Fantasias",
-      "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -667,38 +667,6 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
-        "name": "Toda (Remix)",
-        "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 367680,
-      "name": "Toda (Remix)",
-      "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
     },
     {
       "added_at": "2024-07-09 14:16:39",
@@ -751,6 +719,38 @@
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
+        "name": "Toda (Remix)",
+        "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 367680,
+      "name": "Toda (Remix)",
+      "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
     },
     {
       "added_at": "2024-07-09 14:16:39",
@@ -955,8 +955,8 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
+        "name": "Happy Birthday Flakko",
+        "url": "https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 142576,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
+      "duration_ms": 180000,
+      "name": "SIN MIRAR LAS SE\u00d1ALES",
+      "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
     },
     {
       "added_at": "2024-07-09 14:16:39",
@@ -1087,8 +1087,8 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "Happy Birthday Flakko",
-        "url": "https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4"
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
       },
       "artists": [
         {
@@ -1096,9 +1096,9 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 180000,
-      "name": "SIN MIRAR LAS SE\u00d1ALES",
-      "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
+      "duration_ms": 142576,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
     },
     {
       "added_at": "2024-07-09 14:16:39",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "+Linda",
-        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 161748,
-      "name": "+Linda",
-      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 150853,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
+        "name": "+Linda",
+        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 161748,
+      "name": "+Linda",
+      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
     },
     {
       "added_at": "2024-07-09 14:16:39",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
         "name": "Bellaquita (Remix)",
         "url": "https://open.spotify.com/album/5dXeJdc2hib8JB3Vqon2zB"
       },
@@ -1847,26 +1867,6 @@
       "duration_ms": 304733,
       "name": "Bellaquita - Remix",
       "url": "https://open.spotify.com/track/1Xnn1TPyr5h0hpRAT4B4EA"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
     },
     {
       "added_at": "2024-07-09 14:16:39",

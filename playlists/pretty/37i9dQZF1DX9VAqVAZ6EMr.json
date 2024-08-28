@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do pop dos \u00faltimos tempos est\u00e3o reunidos nesta playlist! Foto: Mariah Carey",
-  "num_followers": 364820,
+  "num_followers": 364949,
   "original_name": "Hinos Pop",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,26 @@
     {
       "added_at": "2024-05-30 21:24:17",
       "album": {
+        "name": "Making Mirrors",
+        "url": "https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye"
+      },
+      "artists": [
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "duration_ms": 244884,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7"
+    },
+    {
+      "added_at": "2024-05-30 21:24:17",
+      "album": {
         "name": "PRISM",
         "url": "https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk"
       },
@@ -683,22 +703,6 @@
       "duration_ms": 215672,
       "name": "Dark Horse",
       "url": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6"
-    },
-    {
-      "added_at": "2024-05-30 21:24:17",
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 342680,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
     },
     {
       "added_at": "2024-05-30 21:24:17",
@@ -723,22 +727,18 @@
     {
       "added_at": "2024-05-30 21:24:17",
       "album": {
-        "name": "Making Mirrors",
-        "url": "https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye"
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
       "artists": [
         {
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        },
-        {
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 244884,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7"
+      "duration_ms": 342680,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
     },
     {
       "added_at": "2024-05-30 21:24:17",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-05-30 21:24:17",
       "album": {
-        "name": "Confident",
-        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 214739,
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
-    },
-    {
-      "added_at": "2024-05-30 21:24:17",
-      "album": {
         "name": "Camino Palmero",
         "url": "https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 208600,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz"
+    },
+    {
+      "added_at": "2024-05-30 21:24:17",
+      "album": {
+        "name": "Confident",
+        "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 214739,
+      "name": "Cool for the Summer",
+      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
     },
     {
       "added_at": "2024-05-30 21:24:17",
@@ -1707,7 +1707,7 @@
     {
       "added_at": "2024-05-30 21:24:17",
       "album": {
-        "name": "Dua Lipa (Complete Edition)",
+        "name": "Dua Lipa - Complete Edition",
         "url": "https://open.spotify.com/album/4ZGMPQcvFLMF7SKO01yaZg"
       },
       "artists": [

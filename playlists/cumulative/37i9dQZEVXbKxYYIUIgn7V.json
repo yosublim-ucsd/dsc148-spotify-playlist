@@ -472,7 +472,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 161655,
       "name": "Alibi (with Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 183500,
       "name": "ausm s\u00f6bn hoiz",
       "url": "https://open.spotify.com/track/02v1PTQpKRESRIIHwPx1rX"
@@ -1086,10 +1086,32 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 131428,
       "name": "Baby, You're the One (Whole Again)",
       "url": "https://open.spotify.com/track/4J9oreH8X23uV8dhjo9uwq"
+    },
+    {
+      "album": {
+        "name": "BACKBONE",
+        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166448,
+      "name": "BACKBONE",
+      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
     },
     {
       "album": {
@@ -1854,7 +1876,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 145599,
       "name": "Black Friday (pretty like the sun)",
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
@@ -3391,6 +3413,24 @@
     },
     {
       "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
         "name": "DISTANZ / SEH NICHT KLAR",
         "url": "https://open.spotify.com/album/2OkuVZbkTxxSFQfyyMi1hP"
       },
@@ -3602,7 +3642,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 190782,
       "name": "Double Life - From \"Despicable Me 4\"",
       "url": "https://open.spotify.com/track/07oO1U722crtVcavi6frX6"
@@ -4483,6 +4523,54 @@
     },
     {
       "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "album": {
+        "name": "flex fm (freddit)",
+        "url": "https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246909,
+      "name": "flex fm (freddit)",
+      "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
+    },
+    {
+      "album": {
         "name": "Fliegen",
         "url": "https://open.spotify.com/album/77jPtwk3jec1c4rRZJQ5Nh"
       },
@@ -4498,6 +4586,28 @@
       "duration_ms": 134652,
       "name": "Fliegen",
       "url": "https://open.spotify.com/track/5Vc2ffnAw1GOmxoCDYicJ6"
+    },
+    {
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/1AnhQmNUPz24OM6YpG9WZX"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
     },
     {
       "album": {
@@ -5172,6 +5282,24 @@
       "duration_ms": 132096,
       "name": "Give Me Everything - Stripped Down",
       "url": "https://open.spotify.com/track/1o9JJeBKlVxQ9O4j5Qd4Vh"
+    },
+    {
+      "album": {
+        "name": "Glad You Came",
+        "url": "https://open.spotify.com/album/119UjppgUWQYc0rpf69Fed"
+      },
+      "artists": [
+        {
+          "name": "REWI",
+          "url": "https://open.spotify.com/artist/7x87BsHaLPpRp3LSYKhVBc"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159562,
+      "name": "Glad You Came",
+      "url": "https://open.spotify.com/track/6pjX3hFRk7kZw88TANNQSb"
     },
     {
       "album": {
@@ -6485,6 +6613,24 @@
     },
     {
       "album": {
+        "name": "ICH GEH MIT MIR",
+        "url": "https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb"
+      },
+      "artists": [
+        {
+          "name": "LORI",
+          "url": "https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187155,
+      "name": "ICH GEH MIT MIR",
+      "url": "https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk"
+    },
+    {
+      "album": {
         "name": "Ich liebe dich f\u00fcr immer",
         "url": "https://open.spotify.com/album/10ny8Yjm54qqJVXui9lR3R"
       },
@@ -7156,6 +7302,46 @@
       "duration_ms": 130660,
       "name": "JUNGE BALLER",
       "url": "https://open.spotify.com/track/29vCE5UzdE8dzcJWbG2CsK"
+    },
+    {
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137222,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ"
+    },
+    {
+      "album": {
+        "name": "Kabul Olan Tek Duams\u0131n",
+        "url": "https://open.spotify.com/album/711zVBGg9kjmtHfcHZIZZE"
+      },
+      "artists": [
+        {
+          "name": "Shawty",
+          "url": "https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210137,
+      "name": "Kabul Olan Tek Duams\u0131n",
+      "url": "https://open.spotify.com/track/36oBlwSPNtA48TLYqk4SNp"
     },
     {
       "album": {
@@ -7932,7 +8118,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 193091,
       "name": "LET'S GO",
       "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
@@ -8056,7 +8242,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 220673,
       "name": "Liebe teilen",
       "url": "https://open.spotify.com/track/7bjgHa1cCjMMU9FQw13iti"
@@ -8206,6 +8392,24 @@
       "duration_ms": 218169,
       "name": "Like A Prayer (From \"Deadpool & Wolverine Trailer\")",
       "url": "https://open.spotify.com/track/3TxsVS9zyHvlymql2upaXM"
+    },
+    {
+      "album": {
+        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
+        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
+      },
+      "artists": [
+        {
+          "name": "I'll Take You There Choir",
+          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152893,
+      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
+      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
     },
     {
       "album": {
@@ -9340,7 +9544,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 195349,
       "name": "Missili",
       "url": "https://open.spotify.com/track/5dcyltc1ataieXIeTqhH3t"
@@ -9514,7 +9718,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 144359,
       "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
       "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
@@ -10464,6 +10668,24 @@
       "duration_ms": 90305,
       "name": "Out For Love",
       "url": "https://open.spotify.com/track/3CAgZdCErAPdUBwFmaRyGA"
+    },
+    {
+      "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/15DqWPxOLxClMpeKXhDGSP"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167847,
+      "name": "Out Of The Dark",
+      "url": "https://open.spotify.com/track/5tJVkABJRZkTq7Dqjv6xiz"
     },
     {
       "album": {
@@ -11448,7 +11670,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 144894,
       "name": "Rasenschach",
       "url": "https://open.spotify.com/track/7jFcvN0U0ZZIXgfyEDYkcj"
@@ -15182,7 +15404,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 215172,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"

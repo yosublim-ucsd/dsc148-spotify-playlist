@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 11252,
+  "num_followers": 11264,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -547,18 +547,22 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Pa' que lo bailen (Radio Edit)",
-        "url": "https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb"
+        "name": "Quiromancia",
+        "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
       "artists": [
         {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        },
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
         }
       ],
-      "duration_ms": 194770,
-      "name": "Pa' que lo bailen - Radio Edit",
-      "url": "https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan"
+      "duration_ms": 256847,
+      "name": "Quiromancia (feat. Vic Mirallas)",
+      "url": "https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -603,22 +607,18 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Quiromancia",
-        "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
+        "name": "Pa' que lo bailen (Radio Edit)",
+        "url": "https://open.spotify.com/album/03fm8JsTotdsT6e9uSxRWb"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        },
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
         }
       ],
-      "duration_ms": 256847,
-      "name": "Quiromancia (feat. Vic Mirallas)",
-      "url": "https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a"
+      "duration_ms": 194770,
+      "name": "Pa' que lo bailen - Radio Edit",
+      "url": "https://open.spotify.com/track/26YLgHcyLMngLQXC8D8uan"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Supernatural Love",
-        "url": "https://open.spotify.com/album/0m1LXn0YdEzzKfXN3Hvtsl"
-      },
-      "artists": [
-        {
-          "name": "Sidestepper",
-          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Fuego Que Te Llama",
-      "url": "https://open.spotify.com/track/31fZqDxIEk8qDa4Fi0BISL"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "S\u00ed",
         "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 158428,
       "name": "S\u00ed",
       "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Supernatural Love",
+        "url": "https://open.spotify.com/album/0m1LXn0YdEzzKfXN3Hvtsl"
+      },
+      "artists": [
+        {
+          "name": "Sidestepper",
+          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Fuego Que Te Llama",
+      "url": "https://open.spotify.com/track/31fZqDxIEk8qDa4Fi0BISL"
     },
     {
       "added_at": "2024-08-09 04:23:31",

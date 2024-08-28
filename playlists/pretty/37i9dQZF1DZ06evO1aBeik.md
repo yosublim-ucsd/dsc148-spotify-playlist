@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 
 ### [This Is Post Malone](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1aBeik)
 
-> This is Post Malone\. The essential tracks, all in one playlist.
+> This Is Post Malone\. Sus mejores éxitos, todos en una playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,714,043 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,714,377 likes - 49 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 48 | [Jackie Chan](https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dzeko](https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Jackie Chan](https://open.spotify.com/album/0vRcQquqBlFvnezWldWfmt) | 3:35 |
 | 49 | [Something Real](https://open.spotify.com/track/444vevlQjTnKioLLncteGv) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 3:25 |
 
-Snapshot ID: `Zsp0AAAAAADINS86OTl7gwHXtL/kDbzm`
+Snapshot ID: `ZsvFgAAAAAAVVDNhh24tguQ+58jUAET5`

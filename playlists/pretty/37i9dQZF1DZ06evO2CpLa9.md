@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 ### [This Is Santa Fe Klan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CpLa9)
 
-> This is Santa Fe Klan\. The essential tracks, all in one playlist.
+> This Is Santa Fe Klan\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,213 likes - 53 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,286 likes - 53 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 11 | [Todo Va Estar Bien](https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF) | 4:27 |
 | 12 | [Tu Y Yo](https://open.spotify.com/track/5PsPtFfCkmkROnhEW9piqR) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tu Y Yo](https://open.spotify.com/album/2cgLHk1dyzjE2lQYTuYY8E) | 2:41 |
 | 13 | [NO SON KLLE](https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NO SON KLLE](https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y) | 3:43 |
-| 14 | [Cuidando El Territorio](https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb) | 3:06 |
-| 15 | [Yo Seguiré](https://open.spotify.com/track/07VIbpia09fYA7Z9GpY4c6) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Yo Seguiré](https://open.spotify.com/album/5NwFvLJWl7Ehwe8R4BFgJN) | 3:52 |
-| 16 | [Grandes Ligas](https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Grandes Ligas](https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT) | 4:00 |
+| 14 | [Yo Seguiré](https://open.spotify.com/track/07VIbpia09fYA7Z9GpY4c6) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Yo Seguiré](https://open.spotify.com/album/5NwFvLJWl7Ehwe8R4BFgJN) | 3:52 |
+| 15 | [Grandes Ligas](https://open.spotify.com/track/06IceO7e9isF3nX3y7dOTe) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [B\-Real](https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd) | [Grandes Ligas](https://open.spotify.com/album/1O9xj7nP0nQ0DQXUY4phFT) | 4:00 |
+| 16 | [Cuidando El Territorio](https://open.spotify.com/track/64ImcY4fJhY243wr20SR3e) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Cuidando El Territorio](https://open.spotify.com/album/6kPeskyrkdkWT3xFYx9kvb) | 3:06 |
 | 17 | [Mi Decepción](https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 4:52 |
 | 18 | [Desde Cero \(feat\. Santa Fe Klan\)](https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:13 |
 | 19 | [Prohibida](https://open.spotify.com/track/5UewY28SGGLjJkNPtcV2Mt) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Zornoza](https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu) | [Prohibida](https://open.spotify.com/album/55RTps2ryHXF5w4lVwzcuk) | 4:26 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 52 | [Diente Por Diente](https://open.spotify.com/track/40KRjKXp92bnyOvNjDcYuS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Diente Por Diente](https://open.spotify.com/album/0zAMOPf1pBCNUNjrlMfUMu) | 2:18 |
 | 53 | [Luna Azul](https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Luna Azul](https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP) | 3:08 |
 
-Snapshot ID: `Zsp0AAAAAAAZywq4KH28JlFBXcOli0H3`
+Snapshot ID: `ZsvFgAAAAAB2CZ7ZCf9BZK6YZ+pOAJI4`

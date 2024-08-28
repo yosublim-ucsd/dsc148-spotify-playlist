@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 44505,
+  "num_followers": 44508,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,26 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
+        "name": "Buddy And Sweets",
+        "url": "https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich",
+          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
+        },
+        {
+          "name": "Harry \"Sweets\" Edison",
+          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
         "name": "Sonny Side Up",
         "url": "https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 340960,
       "name": "On The Sunny Side Of The Street",
       "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Buddy And Sweets",
-        "url": "https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc"
-      },
-      "artists": [
-        {
-          "name": "Buddy Rich",
-          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
-        },
-        {
-          "name": "Harry \"Sweets\" Edison",
-          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "Nice Work If You Can Get It",
-      "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
     },
     {
       "added_at": "2019-10-04 16:01:14",
@@ -947,6 +947,26 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
+        "name": "Pleasures Of The Night",
+        "url": "https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP"
+      },
+      "artists": [
+        {
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+        },
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 439866,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
         "name": "Samba Para Dos",
         "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 300306,
       "name": "Tulle",
       "url": "https://open.spotify.com/track/3eHNOR1GiVYtyuPNr07FOg"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
-        "name": "Pleasures Of The Night",
-        "url": "https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP"
-      },
-      "artists": [
-        {
-          "name": "Will Downing",
-          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
-        },
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 439866,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV"
     },
     {
       "added_at": "2019-10-04 16:01:14",

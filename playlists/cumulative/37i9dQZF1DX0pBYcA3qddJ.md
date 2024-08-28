@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-701 songs - 1 day 23 hr 26 min
+702 songs - 1 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,11 +590,12 @@
 | [Widmung, S\. 566 \(After R\. Schumann\)](https://open.spotify.com/track/6Lh6zaxc4P4grGdma3cAT0) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Passage](https://open.spotify.com/album/3daO9WSjhyVWc0ZzexB4Ml) | 3:52 | 2023-06-13 | 2023-07-28 |
 | [Willie Crotty](https://open.spotify.com/track/6sbqaVExoAv3W98haxS9ot) | [John Francis Flynn](https://open.spotify.com/artist/6Fk7AKTOKr4iB3Xth93KHX) | [Willie Crotty](https://open.spotify.com/album/6XMhgT5cNXxRpqnJ2iPMwT) | 6:47 | 2023-10-17 | 2023-11-22 |
 | [Winter Is Coming](https://open.spotify.com/track/3n0kVYA1CUSsNYkeaNasGT) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Clockless Room](https://open.spotify.com/album/1ooe9o8Eq4Ix2Cq3l2FcG1) | 2:21 | 2023-11-21 |  |
+| [Württemberg Sonatas / Sonata No\. 4 in B\-Flat Major, H\. 32: II\. Andante](https://open.spotify.com/track/2gNUPv9Lbvd0adulPy47tS) | [Carl Philipp Emanuel Bach](https://open.spotify.com/artist/3meioy7GWDwpwmjv2LPyAb), [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Carl Philipp Emanuel Bach](https://open.spotify.com/album/3vKrhXuvRfjXs8iLZRbJ9j) | 3:00 | 2024-05-30 |  |
 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 | 2022-10-20 | 2022-11-16 |
 | [your sonnet](https://open.spotify.com/track/6JUN0WSBlhvi5tIDyY4ccA) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Still Life](https://open.spotify.com/album/2ps87Twd3Ol4npWF0gQBGn) | 4:22 | 2023-02-28 | 2023-09-06 |
 | [Útdautt lag](https://open.spotify.com/track/4c2ZfeVn6yfmRGG0Iox06s) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [Útdautt lag](https://open.spotify.com/album/0oR164CmvsVSVENz3p5GK5) | 3:40 | 2024-01-30 |  |
 | [δ](https://open.spotify.com/track/5H6WX29XQMNE4oZVooEGeH) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 0:36 | 2023-11-28 |  |
-| [ЯOЯЯIM](https://open.spotify.com/track/6HarCUDU9WTswYLNRgRdJH) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 1:34 | 2023-11-28 |  |
+| [ЯOЯЯIM](https://open.spotify.com/track/6HarCUDU9WTswYLNRgRdJH) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 1:34 | 2023-11-28 | 2024-08-28 |
 | [《女の愛と生涯》 No\. 1\. 彼に出会ってから](https://open.spotify.com/track/2KLSxJ4TjIO0Srg6m7egCN) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [隠岐彩夏](https://open.spotify.com/artist/5p7bRfstS9PGcmXOed8WFz) | [愛しの夜](https://open.spotify.com/album/38j0UdqkoIElC0lahOe3HU) | 2:27 | 2023-02-07 | 2023-03-01 |
 | [「甘き死よ、来たれ」ハ短調 BWV478 \(バウアー編\)](https://open.spotify.com/track/3D5p7JaRDVjBTF11oWd1Pl) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [實川風](https://open.spotify.com/artist/1ETofCnGJ1L738yJaGEKeR) | [實川風バッハ](https://open.spotify.com/album/0UQl1AYMQ90qtsy7JPmDZA) | 3:58 | 2023-03-14 | 2023-08-02 |
 | [あこがれ](https://open.spotify.com/track/3Q4836EU8FkGpjR5WbkE67) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [あこがれ](https://open.spotify.com/album/4DTZkr6ieYJUi9gzDXpHiB) | 3:59 | 2023-12-12 | 2024-01-11 |

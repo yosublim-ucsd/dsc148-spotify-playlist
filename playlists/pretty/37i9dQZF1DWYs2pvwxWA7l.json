@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover: Oxlade and Fally Ipupa",
-  "num_followers": 580210,
+  "num_followers": 580244,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -467,26 +467,6 @@
     {
       "added_at": "2024-08-25 16:30:01",
       "album": {
-        "name": "I love you",
-        "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
-      },
-      "artists": [
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 237866,
-      "name": "I love you",
-      "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
-    },
-    {
-      "added_at": "2024-08-25 16:30:01",
-      "album": {
         "name": "Yimmy Yimmy",
         "url": "https://open.spotify.com/album/4c7DjheRUBNo8aiN6Z6iWC"
       },
@@ -515,22 +495,22 @@
     {
       "added_at": "2024-08-25 16:30:01",
       "album": {
-        "name": "BENIN BOYS",
-        "url": "https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT"
+        "name": "I love you",
+        "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         },
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 169879,
-      "name": "BENIN BOYS",
-      "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
+      "duration_ms": 237866,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
     },
     {
       "added_at": "2024-08-25 16:30:01",
@@ -551,6 +531,26 @@
       "duration_ms": 170721,
       "name": "Wahala (feat. Olamide)",
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
+    },
+    {
+      "added_at": "2024-08-25 16:30:01",
+      "album": {
+        "name": "BENIN BOYS",
+        "url": "https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 169879,
+      "name": "BENIN BOYS",
+      "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
     },
     {
       "added_at": "2024-08-25 16:30:01",
@@ -647,22 +647,18 @@
     {
       "added_at": "2024-08-25 16:30:01",
       "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+        "name": "Avana (Deluxe)",
+        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 160885,
-      "name": "Ilashe",
-      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
+      "duration_ms": 182222,
+      "name": "Asylum",
+      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
     },
     {
       "added_at": "2024-08-25 16:30:01",
@@ -683,18 +679,22 @@
     {
       "added_at": "2024-08-25 16:30:01",
       "album": {
-        "name": "Avana (Deluxe)",
-        "url": "https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV"
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
       "artists": [
         {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 182222,
-      "name": "Asylum",
-      "url": "https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk"
+      "duration_ms": 160885,
+      "name": "Ilashe",
+      "url": "https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf"
     },
     {
       "added_at": "2024-08-25 16:30:01",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-08-25 16:30:01",
       "album": {
-        "name": "ONOME",
-        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "ONOME",
-      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
-    },
-    {
-      "added_at": "2024-08-25 16:30:01",
-      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7J4t3w6xXFqoJHmVLyPvnB"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 152307,
       "name": "Okay",
       "url": "https://open.spotify.com/track/3Czzw1naZtpz9cFxKtpRne"
+    },
+    {
+      "added_at": "2024-08-25 16:30:01",
+      "album": {
+        "name": "ONOME",
+        "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "ONOME",
+      "url": "https://open.spotify.com/track/7gafxJvox7DDFs3R1dByQH"
     },
     {
       "added_at": "2024-08-25 16:30:01",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-08-25 16:30:01",
       "album": {
-        "name": "Fire on Me",
-        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 134187,
-      "name": "Fire on Me",
-      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
-    },
-    {
-      "added_at": "2024-08-25 16:30:01",
-      "album": {
         "name": "Isibuko (Deluxe)",
         "url": "https://open.spotify.com/album/1lGqLdcBs9Ga0xKD8Cvb6U"
       },
@@ -1291,6 +1275,22 @@
     {
       "added_at": "2024-08-25 16:30:01",
       "album": {
+        "name": "Fire on Me",
+        "url": "https://open.spotify.com/album/3cuQSfweyhIUnQIHdb3KcT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 134187,
+      "name": "Fire on Me",
+      "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
+    },
+    {
+      "added_at": "2024-08-25 16:30:01",
+      "album": {
         "name": "Rent Free",
         "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
       },
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-08-25 16:30:01",
       "album": {
-        "name": "Commas",
-        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157200,
-      "name": "Commas",
-      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
-    },
-    {
-      "added_at": "2024-08-25 16:30:01",
-      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 196426,
       "name": "Forever",
       "url": "https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP"
+    },
+    {
+      "added_at": "2024-08-25 16:30:01",
+      "album": {
+        "name": "Commas",
+        "url": "https://open.spotify.com/album/5UX3Gr5uFrtvRvIScps1gA"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157200,
+      "name": "Commas",
+      "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
     }
   ],
   "unique_name": "Afropop",

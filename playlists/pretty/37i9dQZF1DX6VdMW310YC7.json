@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3895794,
+  "num_followers": 3895814,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,18 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Places",
-        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+        "name": "Shallow Water",
+        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
       },
       "artists": [
         {
           "name": "Elderbrook",
           "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
         }
       ],
-      "duration_ms": 211278,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
+      "duration_ms": 202893,
+      "name": "Shallow Water",
+      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -423,38 +419,6 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Not Giving You Up",
-        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        }
-      ],
-      "duration_ms": 172939,
-      "name": "Not Giving You Up",
-      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
-        "name": "Shallow Water",
-        "url": "https://open.spotify.com/album/4cMVEtKn0ikqpYrHpHq89w"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "Shallow Water",
-      "url": "https://open.spotify.com/track/74gSgOTNzmotJKcyKRpjom"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
       },
@@ -467,6 +431,42 @@
       "duration_ms": 177206,
       "name": "Alone",
       "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "Places",
+        "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        }
+      ],
+      "duration_ms": 211278,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Running In A Dream",
-        "url": "https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        },
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 292156,
-      "name": "Next Life",
-      "url": "https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
         "name": "Stay Still",
         "url": "https://open.spotify.com/album/1Liw9JDxORvLa5ZQnWJbdX"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 273170,
       "name": "Stay Still",
       "url": "https://open.spotify.com/track/1tM2jivvLKpF5TNtwKKyEB"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "Running In A Dream",
+        "url": "https://open.spotify.com/album/4NL9MNHuAFnIZlbVlmoK6E"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        },
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 292156,
+      "name": "Next Life",
+      "url": "https://open.spotify.com/track/0i5P9W2tN89iBojs7KQ0PD"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "golden",
-        "url": "https://open.spotify.com/album/26O1qrgmmjV9ecV6WQv8nm"
-      },
-      "artists": [
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        },
-        {
-          "name": "Bertie Scott",
-          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
-        }
-      ],
-      "duration_ms": 302486,
-      "name": "golden",
-      "url": "https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
         "name": "snowfall",
         "url": "https://open.spotify.com/album/77vLEdWiuJQt9oyPG84csK"
       },
@@ -1151,6 +1127,46 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
+        "name": "golden",
+        "url": "https://open.spotify.com/album/26O1qrgmmjV9ecV6WQv8nm"
+      },
+      "artists": [
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "duration_ms": 302486,
+      "name": "golden",
+      "url": "https://open.spotify.com/track/4KU5AzSPe8vc0kf2vJZOyf"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/2HDH1rLDAMMQlIuxpfbt4F"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        }
+      ],
+      "duration_ms": 202997,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -1175,26 +1191,6 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "LMK",
-        "url": "https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 233532,
-      "name": "LMK",
-      "url": "https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/6686LB7eTGiHwFtOU0IkSC"
       },
@@ -1215,22 +1211,22 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Fresh Air",
-        "url": "https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu"
+        "name": "LMK",
+        "url": "https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6"
       },
       "artists": [
         {
-          "name": "Iaco",
-          "url": "https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg"
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
         },
         {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
         }
       ],
-      "duration_ms": 136615,
-      "name": "Fresh Air",
-      "url": "https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns"
+      "duration_ms": 233532,
+      "name": "LMK",
+      "url": "https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1259,38 +1255,6 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "It's Ok It's Alright",
-        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "It's Ok It's Alright",
-      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/2HDH1rLDAMMQlIuxpfbt4F"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        }
-      ],
-      "duration_ms": 202997,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/1wrR8jLtLyqnzhJQmpWOKu"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
         "name": "Lost In The Melody",
         "url": "https://open.spotify.com/album/3c94wnBH81Zrj5M1KHzwYj"
       },
@@ -1311,6 +1275,42 @@
       "duration_ms": 182444,
       "name": "Lost In The Melody",
       "url": "https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "Fresh Air",
+        "url": "https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu"
+      },
+      "artists": [
+        {
+          "name": "Iaco",
+          "url": "https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg"
+        },
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Fresh Air",
+      "url": "https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "It's Ok It's Alright",
+        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "It's Ok It's Alright",
+      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Brighter (Emmit's Version)",
-        "url": "https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        },
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Brighter - Emmit's Version",
-      "url": "https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
         "name": "Gleams",
         "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
       },
@@ -1427,6 +1407,26 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
+        "name": "Brighter (Emmit's Version)",
+        "url": "https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        },
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Brighter - Emmit's Version",
+      "url": "https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
         "name": "every-little-part",
         "url": "https://open.spotify.com/album/5KHdOhmUfsSVgbCX8fy3ij"
       },
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
+        "name": "Dark In This Room",
+        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Dark In This Room",
+      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
         "name": "Something Right",
         "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 175040,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
-        "name": "Dark In This Room",
-        "url": "https://open.spotify.com/album/0wrMY5uUsBFVvfnXLLeA6z"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Dark In This Room",
-      "url": "https://open.spotify.com/track/5F99affpmfcqtaVu1hO5dw"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1523,6 +1523,42 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/5D2GjMDraXQrdHtSflss9h"
+      },
+      "artists": [
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        },
+        {
+          "name": "Adlin",
+          "url": "https://open.spotify.com/artist/2CajdJ3ifpA7VEWcfNuUwT"
+        }
+      ],
+      "duration_ms": 172622,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "Trying To See U",
+        "url": "https://open.spotify.com/album/245bKseQZcRwdtFbyUtNlO"
+      },
+      "artists": [
+        {
+          "name": "Luca",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "Trying To See U",
+      "url": "https://open.spotify.com/track/585wU2R0TPuS2cgDWTrP7L"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
       },
@@ -1535,26 +1571,6 @@
       "duration_ms": 215000,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
-        "name": "Double Reflections",
-        "url": "https://open.spotify.com/album/4a4ko7jDduX8nERKBP9o28"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Double Reflections",
-      "url": "https://open.spotify.com/track/0EgZtK84Zp5R5vdFvxiVUn"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1583,6 +1599,26 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
+        "name": "Double Reflections",
+        "url": "https://open.spotify.com/album/4a4ko7jDduX8nERKBP9o28"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 256500,
+      "name": "Double Reflections",
+      "url": "https://open.spotify.com/track/0EgZtK84Zp5R5vdFvxiVUn"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
         "name": "Devices / Green",
         "url": "https://open.spotify.com/album/3KxNq8zMtKQkZlZqnsW3xm"
       },
@@ -1595,26 +1631,6 @@
       "duration_ms": 310560,
       "name": "Devices",
       "url": "https://open.spotify.com/track/3aTLs7K3otOLePj92JM8Be"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/5D2GjMDraXQrdHtSflss9h"
-      },
-      "artists": [
-        {
-          "name": "ERIICE",
-          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
-        },
-        {
-          "name": "Adlin",
-          "url": "https://open.spotify.com/artist/2CajdJ3ifpA7VEWcfNuUwT"
-        }
-      ],
-      "duration_ms": 172622,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1671,6 +1687,22 @@
       "duration_ms": 206017,
       "name": "LIFELINE",
       "url": "https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh"
+    },
+    {
+      "added_at": "2024-08-23 14:28:11",
+      "album": {
+        "name": "Dont Let Go",
+        "url": "https://open.spotify.com/album/6q3wkxd0NSe2S34P1DplUV"
+      },
+      "artists": [
+        {
+          "name": "Rich Vom Dorf",
+          "url": "https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Dont Let Go",
+      "url": "https://open.spotify.com/track/2eglgMpfZEmWjq8fGNd3SF"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1811,18 +1843,22 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "Trying To See U",
-        "url": "https://open.spotify.com/album/245bKseQZcRwdtFbyUtNlO"
+        "name": "I Just Needed This",
+        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
       "artists": [
         {
-          "name": "Luca",
-          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        },
+        {
+          "name": "Keepa",
+          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
         }
       ],
-      "duration_ms": 181550,
-      "name": "Trying To See U",
-      "url": "https://open.spotify.com/track/585wU2R0TPuS2cgDWTrP7L"
+      "duration_ms": 244000,
+      "name": "I Just Needed This",
+      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
     },
     {
       "added_at": "2024-08-23 14:28:11",
@@ -1847,26 +1883,6 @@
     {
       "added_at": "2024-08-23 14:28:11",
       "album": {
-        "name": "I Just Needed This",
-        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        },
-        {
-          "name": "Keepa",
-          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "I Just Needed This",
-      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/4r9XBMNtbal1h1OxWM1aL2"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 190476,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3kYkAdc6W2L63k2gay5y9T"
-    },
-    {
-      "added_at": "2024-08-23 14:28:11",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7mqqTxnLpwQsJPrb6nohC2"
-      },
-      "artists": [
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        }
-      ],
-      "duration_ms": 253548,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/1SZY0ap716x9Aj6qQPlx0p"
     },
     {
       "added_at": "2024-08-23 14:28:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,342 likes - 165 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,343 likes - 165 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 80 | [Nobody Else](https://open.spotify.com/track/2iK6RzhARWY8A6YlYPYksZ) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [DNA](https://open.spotify.com/album/02FX4aLHDNacfV4bMnO9Kv) | 3:38 |
 | 81 | [Someone Singing Along](https://open.spotify.com/track/4R3f6mYEfSZHrgt3BOWtks) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 3:33 |
 | 82 | [Using \(with Emily Warren\) \- MEDUZA Remix](https://open.spotify.com/track/7c6tga0CoT6IHhHt16EcBd) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Using \(MEDUZA Remix\)](https://open.spotify.com/album/27nYr7tyo7mcRG2KjD34z1) | 2:46 |
-| 83 | [Fear Of Being Alone](https://open.spotify.com/track/3QGk8QfPKlpCCcdOUGRpMA) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:51 |
-| 84 | [Throw Some Ass](https://open.spotify.com/track/1JAMLixBWH6ICNlWjQbFNI) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:02 |
+| 83 | [Throw Some Ass](https://open.spotify.com/track/1JAMLixBWH6ICNlWjQbFNI) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:02 |
+| 84 | [Fear Of Being Alone](https://open.spotify.com/track/3QGk8QfPKlpCCcdOUGRpMA) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:51 |
 | 85 | [Veneno](https://open.spotify.com/track/7eUalfb6XYFlpM8LvHmsJD) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mari Merenda](https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ), [Sophia Ardessore](https://open.spotify.com/artist/5XWPfS0p9Ow7IfTrlQhxhw) | [Veneno](https://open.spotify.com/album/2EQauiLBwWg9SCzJ07bEHj) | 2:23 |
 | 86 | [Sober](https://open.spotify.com/track/1eptVxF0sjqV3XWm2Yutcc) | [Niykee Heaton](https://open.spotify.com/artist/63bCkf4n15jiKjHhLV7kSZ) | [Bad Intentions](https://open.spotify.com/album/4F1ozgQLd1ouFs63Tndy6Q) | 3:47 |
 | 87 | [Gold](https://open.spotify.com/track/6u51lb1jfWMN3Q2ZYrMbcG) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Madness \(Deluxe Edition\)](https://open.spotify.com/album/5gJN6hs310GViezelywxdu) | 3:32 |
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 94 | [Photographs \(with Rag'n'Bone Man\)](https://open.spotify.com/track/1zKlT4kCuHmIj10cr0ZryI) | [Professor Green](https://open.spotify.com/artist/0oJM3iJjMdzgsd4z5VHQvw), [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Photographs \(with Rag'n'Bone Man\)](https://open.spotify.com/album/0onXv14PecMSAeMZKtjgAP) | 3:32 |
 | 95 | [Put The Gun Down](https://open.spotify.com/track/17zWJmzIhnp7h3TSr2qA4K) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC) | [The Shadow Side](https://open.spotify.com/album/4DwLXVB5zeO75k8HlTFhB6) | 3:45 |
 | 96 | [I Don’t Wanna Know](https://open.spotify.com/track/5kNtYmydoA9Dd959vVlKBJ) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Astrid S](https://open.spotify.com/album/5iK2afnsB8wwv9WULCE9e7) | 2:56 |
-| 97 | [Silence](https://open.spotify.com/track/5xRXGn1oGliR7DdL6GSyUA) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 2:36 |
+| 97 | [Silence](https://open.spotify.com/track/5xRXGn1oGliR7DdL6GSyUA) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \- Extended](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 2:36 |
 | 98 | [Easy To Miss](https://open.spotify.com/track/0wmHqFVoBT0vjDSilB6R2M) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody's Born With A Broken Heart](https://open.spotify.com/album/34AFxONmJ08r2blbMQCNXj) | 2:49 |
 | 99 | [Something To Hold On To](https://open.spotify.com/track/4dUDznt8BZxEK4CMLF1pqB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:38 |
 | 100 | [Hurt By You](https://open.spotify.com/track/2p0lczXtvV9R5J9aFwjevJ) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:07 |
@@ -164,9 +164,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 154 | [Bad Idea](https://open.spotify.com/track/5tu7LVow9lV2PwY7SeYEzl) | [Theia](https://open.spotify.com/artist/29ADVF7I6YQyY2SGUlzCcB) | [Not Your Princess](https://open.spotify.com/album/20jvxD6WnHc2BmNZFBjgau) | 2:47 |
 | 155 | [Home By Now \- Acoustic](https://open.spotify.com/track/3zlTQomszReVaRPogHzymz) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [First & Foremost](https://open.spotify.com/album/3MgPBfKTcXs9wLLRqr78JG) | 3:38 |
 | 156 | [Vicio \- Ft\. Mala Rodríguez](https://open.spotify.com/track/0w1jdJh9PcYgT6xBFFnSQI) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Miss Misogyny](https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di) | 3:28 |
-| 157 | [Not Ready To Dance](https://open.spotify.com/track/0TxxhMgiNpgfuNjSVMiTCB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:01 |
-| 158 | [For All the Times I Fell on My Face](https://open.spotify.com/track/49mFYi8xN7QCz7D7bRRvnW) | [Damien Styles](https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL) | [For All the Times I Fell on My Face](https://open.spotify.com/album/2UMiOMR9wZU1MHzc15jhLO) | 2:50 |
-| 159 | [Bread](https://open.spotify.com/track/7uEbRqAcg5EX3Y8k1rH1Jp) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:08 |
+| 157 | [Bread](https://open.spotify.com/track/7uEbRqAcg5EX3Y8k1rH1Jp) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:08 |
+| 158 | [Not Ready To Dance](https://open.spotify.com/track/0TxxhMgiNpgfuNjSVMiTCB) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:01 |
+| 159 | [For All the Times I Fell on My Face](https://open.spotify.com/track/49mFYi8xN7QCz7D7bRRvnW) | [Damien Styles](https://open.spotify.com/artist/2WkZEXhzMMa2osE1yKu7SL) | [For All the Times I Fell on My Face](https://open.spotify.com/album/2UMiOMR9wZU1MHzc15jhLO) | 2:50 |
 | 160 | [Say It](https://open.spotify.com/track/6jsVeEF5uzNEeXQbXQnLvj) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 2:44 |
 | 161 | [As Long As I'm Alive](https://open.spotify.com/track/3J67uowpSOKMWVHkkC10Wd) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 2:52 |
 | 162 | [Painkiller](https://open.spotify.com/track/4YKXUBBXrkRqDYSS5ZAEK9) | [Ava Lily](https://open.spotify.com/artist/4sMp46Lpcrxb9EP6UO6ton) | [Painkiller](https://open.spotify.com/album/09gqHZzuslR5JUQ1CzXC4s) | 3:13 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 164 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 165 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbafAgAAAAA7/kR1lLbLW6rIWNn6T7lk`
+Snapshot ID: `AbakogAAAAC+o4u73Wl/SjTmkrHFhj7A`

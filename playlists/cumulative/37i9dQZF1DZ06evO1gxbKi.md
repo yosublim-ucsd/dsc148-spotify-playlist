@@ -2,7 +2,7 @@
 
 ### [This Is Sister Rosetta Tharpe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gxbKi)
 
-> This Is Sister Rosetta Tharpe\. Los temas esenciales, todos en una lista.
+> This is Sister Rosetta Tharpe\. The essential tracks, all in one playlist.
 
 125 songs - 6 hr 15 min
 
@@ -131,7 +131,7 @@
 | [What's the News?](https://open.spotify.com/track/4rBaRFWeni17WZ3Oisv12t) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Presenting Sister Rosetta Tharpe](https://open.spotify.com/album/5lti5m4J6SvKRyW9r4f1Sm) | 2:55 | 2023-02-14 | 2023-06-21 |
 | [What's the News?](https://open.spotify.com/track/0WPhN1OYQ9fDIRdjjqwIup) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Bring Back Those Happy Days](https://open.spotify.com/album/7FunazLrYxpr4cuyP8oL11) | 2:55 | 2022-05-29 | 2022-11-16 |
 | [When I Take My Vacation In Heaven](https://open.spotify.com/track/0LSWwfEcpIbHiQLZrcJ1HW) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7), [Marie Knight](https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS) | [The Decca Singles, Vol\. 3](https://open.spotify.com/album/4RrvoXYcDS4fd9E98jsJ7T) | 3:12 | 2022-05-25 |  |
-| [When They Ring The Golden Bell](https://open.spotify.com/track/32csDpGNVJu6lEP77Bg5FJ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:29 | 2024-05-19 |  |
+| [When They Ring The Golden Bell](https://open.spotify.com/track/32csDpGNVJu6lEP77Bg5FJ) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Gospel Train](https://open.spotify.com/album/3TdM8fxuOgqJoEA8tS84Px) | 2:29 | 2024-05-19 | 2024-08-28 |
 | [You Better Run](https://open.spotify.com/track/5YVfjZAqughYMjIXz1ZlVN) | [Marie Knight](https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS), [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Sister Acts on the Gospel Train](https://open.spotify.com/album/5KZuIp30jJWnj02Awl5ynm) | 1:59 | 2022-12-19 | 2022-12-27 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

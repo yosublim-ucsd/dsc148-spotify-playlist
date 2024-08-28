@@ -1,12 +1,12 @@
 {
   "description": "This Is Danny Ocean. Los temas esenciales, todos en una lista.",
-  "num_followers": 256804,
+  "num_followers": 256897,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACUzx4Ookv1HYK48CyaU1D2",
+  "snapshot_id": "ZsvFgAAAAACBq49QE/6+bcjiewKYizwC",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CARACAS EN EL 2000",
-        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+        "name": "Amapolas (Remix)",
+        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
         }
       ],
-      "duration_ms": 227784,
-      "name": "CARACAS EN EL 2000",
-      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+      "duration_ms": 267338,
+      "name": "Amapolas - Remix",
+      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
     },
     {
       "added_at": null,
@@ -263,22 +259,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amapolas (Remix)",
-        "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
+        "name": "CARACAS EN EL 2000",
+        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
       },
       "artists": [
         {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
         }
       ],
-      "duration_ms": 267338,
-      "name": "Amapolas - Remix",
-      "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
+      "duration_ms": 227784,
+      "name": "CARACAS EN EL 2000",
+      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
     },
     {
       "added_at": null,

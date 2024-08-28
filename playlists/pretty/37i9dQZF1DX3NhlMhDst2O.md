@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Porque el romance nunca pasará de moda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,144 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,284 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 47 | [Yo Se Que Te Acordaras](https://open.spotify.com/track/2X6e9lJJJMccGEAefCj85t) | [Los Brios](https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N) | [Serie Doble: Los Brios y Los Angeles De Chile](https://open.spotify.com/album/1zCU3S1HxqxOwOC5sj8Hj6) | 3:27 |
 | 48 | [Quien](https://open.spotify.com/track/3gcDZpRcPnRgmP3EguPv6K) | [Los Strwck](https://open.spotify.com/artist/6ZzvGogdwGvqkTeDX1RDKL) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:01 |
 | 49 | [Olvidarte Nunca \- 2003 Digital Remaster](https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8) | [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Antologia 40 Clásicos Remasterizados](https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt) | 3:00 |
-| 50 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 |
-| 51 | [Espejismo](https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck) | [Juanello](https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6) | [Juanello](https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj) | 3:06 |
+| 50 | [Espejismo](https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck) | [Juanello](https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6) | [Juanello](https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj) | 3:06 |
+| 51 | [El Pecador](https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Éxitos: Baladas](https://open.spotify.com/album/16koZGZZYztvCEShPLndCv) | 3:20 |
 | 52 | [Hoy Te Confieso](https://open.spotify.com/track/7GiV85w7yQWnroTKotqlHV) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Una Carta](https://open.spotify.com/album/6QHRR9x2a8NVxVlM2RNl7T) | 3:48 |
 | 53 | [Cuando Tu Cariño](https://open.spotify.com/track/1eVAsvppzlVxt1BK3JbCLJ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Recordando Monterrey](https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF) | 2:45 |
 | 54 | [Ya se va](https://open.spotify.com/track/2YHivNAfXw6rE6hdFcdCsJ) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [25 Exitos](https://open.spotify.com/album/3vhcKso4jXKeXF5TfJDNwo) | 2:51 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 71 | [Nunca digas](https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:48 |
 | 72 | [Cuatro Lagrimas](https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr) | [Los Polifaceticos](https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK) | [Coleccion Suprema Plus\- Los Polifaceticos](https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i) | 3:07 |
 | 73 | [Ella...Ella Ya Me Olvidó, Yo la Recuerdo Ahora](https://open.spotify.com/track/5xTgIHN7yEmuOjsC1toYJq) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Baladas De Amor](https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h) | 3:42 |
-| 74 | [Por qué?](https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:03 |
-| 75 | [Tú Eres](https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx) | [Generacion 2000](https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:20 |
+| 74 | [Tú Eres](https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx) | [Generacion 2000](https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:20 |
+| 75 | [Por qué?](https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:03 |
 | 76 | [Tu Con El](https://open.spotify.com/track/0QwRB5Q6nxAN0AsLavgFOa) | [Los Iracundos](https://open.spotify.com/artist/0xpMy6DeMBWX8zTURxB4h5) | [Homenaje](https://open.spotify.com/album/4zTKmaPE1ExcLpq9L5FGYd) | 4:19 |
 | 77 | [Pecado Mortal](https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5) | [Los Barbaros](https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:26 |
 | 78 | [Anny](https://open.spotify.com/track/0OBQLc9oXzswaPg4gobM5h) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Baladas De Amor](https://open.spotify.com/album/3UAIOag0j4RpnVWBJzmw0h) | 3:27 |
-| 79 | [Como Te Extraño](https://open.spotify.com/track/4cr9cfUYbIwuhqzhF9dpIZ) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Mano A Mano Volumen 2](https://open.spotify.com/album/711RytcGqUZWMK90seBzdV) | 2:49 |
+| 79 | [Por Que Nos Dijimos Adios](https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Mano A Mano Volumen 1](https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK) | 3:10 |
 | 80 | [Soy Yo](https://open.spotify.com/track/3tDPWlPtHeJ9j58DiBR42M) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | ["Gold"](https://open.spotify.com/album/6GtV0uQMWKRIP6l2UeHJo0) | 3:33 |
 | 81 | [Déjenme llorar](https://open.spotify.com/track/1F1ZP4NEEL7ikqwqBftdIJ) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Peerless 80 Aniversario \- 24 Inolvidables](https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh) | 2:38 |
 | 82 | [Nacimos para Amarnos](https://open.spotify.com/track/5vDE5gNeKaoBfVnjqFgcfc) | [Los Tukas](https://open.spotify.com/artist/1iXBLpnqdQ2EkMeGuoVPYC) | [Tesoros De Coleccion \- Los Tukas](https://open.spotify.com/album/3MzFCw73hDZ4DGuViknMQK) | 2:34 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 85 | [Mi loca pasión](https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:43 |
 | 86 | [El](https://open.spotify.com/track/7FbqWTsHBvwEr2mAP7zWvo) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [15 Grandes Exitos](https://open.spotify.com/album/0fXMAlqWJNI1mwkeXYwHsR) | 3:15 |
 | 87 | [Tu inolvidable sonrisa](https://open.spotify.com/track/1dHSeRTyFtGbVnJEdaK2NJ) | [Los Freddy's](https://open.spotify.com/artist/6Pg8M1zA3uDn0h5IOFc3pe) | [Peerless 80 Aniversario \- 24 Inolvidables](https://open.spotify.com/album/0Cnpcp3SN5a70u53QF8HHh) | 2:48 |
-| 88 | [Por Que Nos Dijimos Adios](https://open.spotify.com/track/3jn1p2vkh7osxeeoibErbO) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Mano A Mano Volumen 1](https://open.spotify.com/album/6ACFs5lO3JnuSTDIMVzpcK) | 3:10 |
+| 88 | [Como Te Extraño](https://open.spotify.com/track/4cr9cfUYbIwuhqzhF9dpIZ) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Mano A Mano Volumen 2](https://open.spotify.com/album/711RytcGqUZWMK90seBzdV) | 2:49 |
 | 89 | [Acaríciame](https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5) | [Maria Conchita Alonso](https://open.spotify.com/artist/6FUfgoFZ2v5kI19aG209J9) | [Lo Mejor De Maria Conchita Alonso](https://open.spotify.com/album/3jG74yZBWZx6bfyDCYk81x) | 4:18 |
 | 90 | [Con Cartitas](https://open.spotify.com/track/1YQInx1RDDFO22FwbWcjey) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Una Sola Caida Y Las Abandonadas](https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv) | 3:22 |
 | 91 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 |

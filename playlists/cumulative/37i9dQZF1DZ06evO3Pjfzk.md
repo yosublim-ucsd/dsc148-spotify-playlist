@@ -4,7 +4,7 @@
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 34 min
+80 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Call A Cowboy](https://open.spotify.com/track/5KPDO23ZYI5BRlnlNoWKyg) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:47 | 2024-08-25 |  |
 | [Caught on Fire](https://open.spotify.com/track/4MzYrhAYNFWr5PsOlp193B) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:06 | 2023-09-15 | 2024-08-25 |
 | [Comin' To Your City \- ESPN College Gameday](https://open.spotify.com/track/39DjHTMaFuDAMdXtq09fNN) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Comin' To Your City \(ESPN College Gameday\)](https://open.spotify.com/album/0youbMUrUsYtJdNe6v9UdW) | 1:43 | 2023-09-15 | 2024-08-25 |
+| [Counting Chickens](https://open.spotify.com/track/3E53sAWFVi6yuhnfFhnHc9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:34 | 2024-08-28 |  |
 | [Country's Cool Again](https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Country's Cool Again](https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92) | 3:38 | 2024-02-17 |  |
 | [Devil Don’t Go There](https://open.spotify.com/track/14Tb6lAFBbE5HJUCyL0Ei3) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:30 | 2024-08-26 |  |
 | [Dirty Looks](https://open.spotify.com/track/45EwtYrnqJH3AH2bFpEOC6) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:14 | 2023-12-13 |  |
@@ -34,7 +35,7 @@
 | [Hold My Halo](https://open.spotify.com/track/29O197ONSFNzq063eb0869) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:26 | 2023-12-13 |  |
 | [I Make Myself](https://open.spotify.com/track/4lY4XM0j4EwIwm4cFoQyNs) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 4:34 | 2023-09-15 | 2024-08-25 |
 | [International Harvester](https://open.spotify.com/track/1IFHSmd00HhsINmxvjXtLW) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:09 | 2023-11-10 | 2024-08-26 |
-| [Keep Up With Jones](https://open.spotify.com/track/0EkhflOs3xn0pPnn9fGawo) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:47 | 2024-08-25 |  |
+| [Keep Up With Jones](https://open.spotify.com/track/0EkhflOs3xn0pPnn9fGawo) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:47 | 2024-08-25 | 2024-08-28 |
 | [Let Me Be Your Jesus](https://open.spotify.com/track/1S4gixTGy0wyXv4AB0xmva) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:55 | 2023-09-15 | 2024-08-25 |
 | [Microphone](https://open.spotify.com/track/6cueuTpOgXVUWd5dPkNGU8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:54 | 2023-09-15 |  |
 | [Middle Finger \- Spotify Singles](https://open.spotify.com/track/0aioEeNyDjBwl7yb0xH0Rg) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 2:36 | 2023-12-13 |  |
@@ -66,7 +67,7 @@
 | [Things A Man Oughta Know](https://open.spotify.com/track/3S0sk6DSTgesXsUSAEHNr5) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:23 | 2023-12-13 |  |
 | [Things a Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 | 2023-09-15 | 2023-12-14 |
 | [Tougher](https://open.spotify.com/track/0lJhjZ46DHqNbRjBILfnox) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 3:39 | 2023-09-15 |  |
-| [Two Sides of Bad](https://open.spotify.com/track/4LyY1jvrnKnIWl3uv94qd1) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 2:50 | 2023-09-15 |  |
+| [Two Sides of Bad](https://open.spotify.com/track/4LyY1jvrnKnIWl3uv94qd1) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Tougher](https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo) | 2:50 | 2023-09-15 | 2024-08-28 |
 | [Two Story House](https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ) | 3:19 | 2023-09-15 | 2023-12-14 |
 | [Two Story House](https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj) | 3:19 | 2023-12-13 |  |
 | [wait in the truck](https://open.spotify.com/track/6fDlK6P4s3BVMls9EmfCWI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [the mockingbird & THE CROW](https://open.spotify.com/album/0bn9eJMUQzbqZjI4ZAvRF5) | 4:37 | 2024-07-21 |  |

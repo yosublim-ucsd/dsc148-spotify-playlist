@@ -6,31 +6,23 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACe4mqypyN35JgV4DgBlkgh",
+  "snapshot_id": "AAAAAAAAAABrMMljr0px+7Vwrik0uB25",
   "tracks": [
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Lady Wingshot (with The Gone With The Wind Orchestra) - from Archives Vol. III",
-        "url": "https://open.spotify.com/album/4T9Hx9CdgEVILVYmGGs2bM"
+        "name": "Itachi Uchiha",
+        "url": "https://open.spotify.com/album/2hkAWkvL6wlprimlT0Aa5V"
       },
       "artists": [
         {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "Nicolette Larson",
-          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
-        },
-        {
-          "name": "The Gone With The Wind Orchestra",
-          "url": "https://open.spotify.com/artist/6w36lwZT5VBmDAM5ONL1si"
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
         }
       ],
-      "duration_ms": 199040,
-      "name": "Lady Wingshot (with The Gone With The Wind Orchestra)",
-      "url": "https://open.spotify.com/track/2XS0zBGcSz95v3lACOFNUZ"
+      "duration_ms": 167800,
+      "name": "Itachi Uchiha",
+      "url": "https://open.spotify.com/track/5sGcH2dBRuvJ233ghSBYUr"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -59,18 +51,66 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Itachi Uchiha",
-        "url": "https://open.spotify.com/album/2hkAWkvL6wlprimlT0Aa5V"
+        "name": "Run To You - SUMD4ZE Edit",
+        "url": "https://open.spotify.com/album/5j3MWUbMQI5jRgIgx6r7g4"
       },
       "artists": [
         {
-          "name": "The Covers Duo",
-          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+          "name": "SUMD4ZE",
+          "url": "https://open.spotify.com/artist/6T3rJwEHvw1o5JCGouZtec"
+        },
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        },
+        {
+          "name": "LMC",
+          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
         }
       ],
-      "duration_ms": 167800,
-      "name": "Itachi Uchiha",
-      "url": "https://open.spotify.com/track/5sGcH2dBRuvJ233ghSBYUr"
+      "duration_ms": 151295,
+      "name": "Run To You - SUMD4ZE Edit",
+      "url": "https://open.spotify.com/track/7GdqjqLKrf4yWO2EoDtU2T"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Lady Wingshot (with The Gone With The Wind Orchestra) - from Archives Vol. III",
+        "url": "https://open.spotify.com/album/4T9Hx9CdgEVILVYmGGs2bM"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Nicolette Larson",
+          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
+        },
+        {
+          "name": "The Gone With The Wind Orchestra",
+          "url": "https://open.spotify.com/artist/6w36lwZT5VBmDAM5ONL1si"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Lady Wingshot (with The Gone With The Wind Orchestra)",
+      "url": "https://open.spotify.com/track/2XS0zBGcSz95v3lACOFNUZ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Ambiente de spa",
+        "url": "https://open.spotify.com/album/1qjJiJulwERbuFAxpxZgSy"
+      },
+      "artists": [
+        {
+          "name": "Monjes Tibetanos",
+          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
+        }
+      ],
+      "duration_ms": 98920,
+      "name": "Elation Rock",
+      "url": "https://open.spotify.com/track/5RwyzE2NF9mq2FW65nTj3N"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -167,46 +207,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Healing Atmospheric",
-        "url": "https://open.spotify.com/album/5vd2JAmWluuoWGTdGcol7W"
-      },
-      "artists": [
-        {
-          "name": "Monjes Tibetanos",
-          "url": "https://open.spotify.com/artist/4Y5t1XCXXpViFckIHadvW6"
-        }
-      ],
-      "duration_ms": 114123,
-      "name": "Devotion Esoteric",
-      "url": "https://open.spotify.com/track/0Hsmc2Sy1FL16vKUwJF3M1"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Run To You - SUMD4ZE Edit",
-        "url": "https://open.spotify.com/album/5j3MWUbMQI5jRgIgx6r7g4"
-      },
-      "artists": [
-        {
-          "name": "SUMD4ZE",
-          "url": "https://open.spotify.com/artist/6T3rJwEHvw1o5JCGouZtec"
-        },
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        },
-        {
-          "name": "LMC",
-          "url": "https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP"
-        }
-      ],
-      "duration_ms": 151295,
-      "name": "Run To You - SUMD4ZE Edit",
-      "url": "https://open.spotify.com/track/7GdqjqLKrf4yWO2EoDtU2T"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Endtime Signals",
         "url": "https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI"
       },
@@ -219,22 +219,6 @@
       "duration_ms": 208640,
       "name": "Wayward Eyes",
       "url": "https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Human Clay - Deluxe Edition",
-        "url": "https://open.spotify.com/album/0COtuvphKnKh3lYWJEheML"
-      },
-      "artists": [
-        {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
-        }
-      ],
-      "duration_ms": 222490,
-      "name": "With Arms Wide Open - Single Version / Remastered 2024",
-      "url": "https://open.spotify.com/track/4jxhl6bhajNa92S9363ETG"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -271,38 +255,18 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Yes - Mind Games Meditation Mix",
-        "url": "https://open.spotify.com/album/6aRKumCaAorGCDtliAuQ14"
+        "name": "Human Clay - Deluxe Edition",
+        "url": "https://open.spotify.com/album/0COtuvphKnKh3lYWJEheML"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Creed",
+          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
         }
       ],
-      "duration_ms": 363189,
-      "name": "Yes - Mind Games Meditation Mix",
-      "url": "https://open.spotify.com/track/4V3GpjOf7OqVUOzS62ffmy"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "It's All Over Now, Baby Blue [Live at The Forum, Inglewood, CA - February 14, 1974 (Afternoon)]",
-        "url": "https://open.spotify.com/album/3eF5Dyc5aAvyFqgdfgQbXk"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 266853,
-      "name": "It's All Over Now, Baby Blue - Live at The Forum, Inglewood, CA - February 14, 1974 (Afternoon)",
-      "url": "https://open.spotify.com/track/3q6WUhqjjcHCos0sW83Gn3"
+      "duration_ms": 222490,
+      "name": "With Arms Wide Open - Single Version / Remastered 2024",
+      "url": "https://open.spotify.com/track/4jxhl6bhajNa92S9363ETG"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -335,6 +299,42 @@
       "duration_ms": 195560,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/5D7QfKHK1w7jkman29CNnr"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Yes - Mind Games Meditation Mix",
+        "url": "https://open.spotify.com/album/6aRKumCaAorGCDtliAuQ14"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 363189,
+      "name": "Yes - Mind Games Meditation Mix",
+      "url": "https://open.spotify.com/track/4V3GpjOf7OqVUOzS62ffmy"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "It's All Over Now, Baby Blue [Live at The Forum, Inglewood, CA - February 14, 1974 (Afternoon)]",
+        "url": "https://open.spotify.com/album/3eF5Dyc5aAvyFqgdfgQbXk"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 266853,
+      "name": "It's All Over Now, Baby Blue - Live at The Forum, Inglewood, CA - February 14, 1974 (Afternoon)",
+      "url": "https://open.spotify.com/track/3q6WUhqjjcHCos0sW83Gn3"
     },
     {
       "added_at": "2024-08-23 04:00:00",

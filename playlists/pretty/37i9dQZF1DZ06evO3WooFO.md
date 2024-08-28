@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 
 ### [This Is blink\-182](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WooFO)
 
-> This Is blink\-182\. Los temas esenciales, todos en una lista.
+> This is blink\-182\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 587,087 likes - 51 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 587,232 likes - 51 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,34 +30,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 20 | [Anthem Part Two](https://open.spotify.com/track/24CRDgNOgA72JLL7PHFjgB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 3:47 |
 | 21 | [She's Out Of Her Mind](https://open.spotify.com/track/4vQ6z9ZL5mdcQLmbZBvXrl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 2:42 |
 | 22 | [Going Away To College](https://open.spotify.com/track/4TofVhKSYwFXRtbYo5M3h4) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:59 |
-| 23 | [EDGING](https://open.spotify.com/track/6TcIJj5tKwaYXZI5Egx8U8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:29 |
+| 23 | [NO FUN](https://open.spotify.com/track/5haGD3r11V8w01jstbF7UU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ALL IN MY HEAD / NO FUN](https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T) | 3:02 |
 | 24 | [Online Songs](https://open.spotify.com/track/2DcxTfOm8y2UgeP81qdidR) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Take Off Your Pants And Jacket](https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey) | 2:25 |
-| 25 | [NO FUN](https://open.spotify.com/track/5haGD3r11V8w01jstbF7UU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ALL IN MY HEAD / NO FUN](https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T) | 3:02 |
+| 25 | [EDGING](https://open.spotify.com/track/6TcIJj5tKwaYXZI5Egx8U8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:29 |
 | 26 | [Obvious](https://open.spotify.com/track/1KcmugpUozu6Llj3p5Qboa) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:43 |
-| 27 | [MORE THAN YOU KNOW](https://open.spotify.com/track/6is198totXPWEoY2ulZ4A5) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 3:37 |
-| 28 | [Not Now](https://open.spotify.com/track/28yCMEplHbodvR19Aipah8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 4:23 |
-| 29 | [Darkside](https://open.spotify.com/track/39n1y2JqVOPIdfUeLqzgfl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:00 |
+| 27 | [Not Now](https://open.spotify.com/track/28yCMEplHbodvR19Aipah8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 4:23 |
+| 28 | [Darkside](https://open.spotify.com/track/39n1y2JqVOPIdfUeLqzgfl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:00 |
+| 29 | [MORE THAN YOU KNOW](https://open.spotify.com/track/6is198totXPWEoY2ulZ4A5) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 3:37 |
 | 30 | [Down](https://open.spotify.com/track/4nXKO951m6TdWQQbH1KJH3) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:03 |
-| 31 | [FELL IN LOVE](https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:18 |
-| 32 | [M+M's](https://open.spotify.com/track/6A82LV89Dc6eMJI4ocqwUS) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 2:39 |
-| 33 | [I Really Wish I Hated You](https://open.spotify.com/track/6KWcq5p0wsz97N3eoRUSH6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:11 |
+| 31 | [M+M's](https://open.spotify.com/track/6A82LV89Dc6eMJI4ocqwUS) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 2:39 |
+| 32 | [I Really Wish I Hated You](https://open.spotify.com/track/6KWcq5p0wsz97N3eoRUSH6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:11 |
+| 33 | [FELL IN LOVE](https://open.spotify.com/track/3wIaPhVmXG6lcIPfm7D0fm) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 2:18 |
 | 34 | [Brohemian Rhapsody](https://open.spotify.com/track/6ml7RDzHmKKT4MQJt69tjq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 0:30 |
-| 35 | [CUT ME OFF](https://open.spotify.com/track/2Zs1T1OXwcm6XgrIRvAfwH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 2:06 |
-| 36 | [Violence](https://open.spotify.com/track/6oRvk7PJW3PDKFZkEvJNkq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:39 |
-| 37 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 |
-| 38 | [Pretty Little Girl](https://open.spotify.com/track/6rJKRar5Jf3Ec2FIhiog7Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 4:20 |
+| 35 | [Violence](https://open.spotify.com/track/6oRvk7PJW3PDKFZkEvJNkq) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 3:39 |
+| 36 | [Pretty Little Girl](https://open.spotify.com/track/6rJKRar5Jf3Ec2FIhiog7Y) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 4:20 |
+| 37 | [CUT ME OFF](https://open.spotify.com/track/2Zs1T1OXwcm6XgrIRvAfwH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 2:06 |
+| 38 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 |
 | 39 | [After Midnight](https://open.spotify.com/track/29bWDkf8qtCmsvDWOW55CJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:26 |
-| 40 | [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 |
-| 41 | [Cynical](https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 1:55 |
-| 42 | [Dogs Eating Dogs](https://open.spotify.com/track/5uqOdeWBd2gFKUAJPoy1q6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:30 |
+| 40 | [When I Was Young](https://open.spotify.com/track/1bI5cazRwt66vksBjV6RmH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:29 |
+| 41 | [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 |
+| 42 | [Cynical](https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 1:55 |
 | 43 | [Up All Night](https://open.spotify.com/track/0sqQ9N6hY0ieocwrgxgJ9F) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:19 |
-| 44 | [Happy Days](https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 |
-| 45 | [Home Is Such a Lonely Place](https://open.spotify.com/track/6OSb3O57uj7GCavzdjcXHg) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 3:21 |
-| 46 | [When I Was Young](https://open.spotify.com/track/1bI5cazRwt66vksBjV6RmH) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:29 |
+| 44 | [Dogs Eating Dogs](https://open.spotify.com/track/5uqOdeWBd2gFKUAJPoy1q6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:30 |
+| 45 | [Happy Days](https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 |
+| 46 | [Home Is Such a Lonely Place](https://open.spotify.com/track/6OSb3O57uj7GCavzdjcXHg) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 3:21 |
 | 47 | [Wishing Well](https://open.spotify.com/track/0y3fPWWin7NL5aED2FjvXP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 3:20 |
 | 48 | [Another Girl Another Planet](https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 2:41 |
 | 49 | [The First Time](https://open.spotify.com/track/4VwvwlbNZavsDkRdIKFGBi) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:26 |
 | 50 | [Ghost On The Dance Floor](https://open.spotify.com/track/2qg7jm9wp4HM6CMcZxVYOC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe\)](https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv) | 4:17 |
 | 51 | [Pin the Grenade](https://open.spotify.com/track/330cmrgtnIj4NtPTYdDOZv) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 |
 
-Snapshot ID: `Zsp0AAAAAAC9I4RlhchrBx0PI94pLp3G`
+Snapshot ID: `ZsvFgAAAAACgjQqdkTXniopoQH15M5bL`

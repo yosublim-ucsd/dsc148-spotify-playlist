@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Rose Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,315 likes - 106 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,388 likes - 106 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

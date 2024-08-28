@@ -2,7 +2,7 @@
 
 ### [This Is Panic! At The Disco](https://open.spotify.com/playlist/37i9dQZF1DZ06evO18A72E)
 
-> This is Panic! At The Disco\. The essential tracks, all in one playlist.
+> This Is Panic! At The Disco\. Los temas esenciales, todos en una lista.
 
 67 songs - 3 hr 49 min
 
@@ -40,7 +40,7 @@
 | [King of the Clouds](https://open.spotify.com/track/50Hv5NZIM0puIUoBttjpfb) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 2:40 | 2023-12-13 |  |
 | [LA Devotee](https://open.spotify.com/track/2fmCA13dwQQOGBIbIOWRiJ) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:16 | 2023-12-13 |  |
 | [Let's Kill Tonight](https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:33 | 2023-12-13 |  |
-| [Local God](https://open.spotify.com/track/2RQ0D9N823H0WT1vSy74RM) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:00 | 2023-12-13 |  |
+| [Local God](https://open.spotify.com/track/2RQ0D9N823H0WT1vSy74RM) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Viva Las Vengeance](https://open.spotify.com/album/25DhBz5cckEAFcivcSzSTo) | 3:00 | 2023-12-13 | 2024-08-28 |
 | [London Beckoned Songs About Money Written by Machines](https://open.spotify.com/track/0N90pptABhFyr1axONlIEB) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:23 | 2024-07-21 | 2024-07-22 |
 | [Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off](https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:20 | 2023-12-13 |  |
 | [ME! \(feat\. Brendon Urie of Panic! At The Disco\)](https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Brendon Urie](https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ), [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 3:13 | 2023-12-13 |  |

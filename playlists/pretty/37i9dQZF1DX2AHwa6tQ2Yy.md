@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,405 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,414 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 23 | [Raye](https://open.spotify.com/track/1HCscV7IBGyxnaPh2jShMP) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Make It Happen \(Deluxe Edition\)](https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT) | 4:29 |
 | 24 | [I Chose Good](https://open.spotify.com/track/6BhOOqBMnWpcEENBhey0Ag) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [I Chose Good](https://open.spotify.com/album/2cHvZG9abdOj4fqv67jyWS) | 2:43 |
 | 25 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 |
-| 26 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 |
-| 27 | [Finding Peace](https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:03 |
+| 26 | [Finding Peace](https://open.spotify.com/track/61OqwQ7gNNg5hdoN0yhGBG) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:03 |
+| 27 | [Free \(feat\. Tom Misch\)](https://open.spotify.com/track/01wXY7C3ywHBMKmj3f31EB) | [Joel Culpepper](https://open.spotify.com/artist/2PEsLlEk8HIw0NFPSENdQs), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Free \(feat\. Tom Misch\)](https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg) | 3:54 |
 | 28 | [Express](https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX) | [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [Express](https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo) | 2:36 |
 | 29 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
 | 30 | [You Never Visit Me \- Single Version](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 65 | [SEE YOU TRY...](https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Yasmina Sadiki](https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh), [TAWANDA](https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [SEE YOU TRY...](https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV) | 3:00 |
 | 66 | [Reelin'](https://open.spotify.com/track/0TGjVuX7qOk9rAjPnKi1p3) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/1m0MWlkHpgpoZ7FuILeQWw) | 3:28 |
 | 67 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
-| 68 | [catch the night](https://open.spotify.com/track/1m9yB7P1Ba9cuBEMXPHg3n) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [catch the night](https://open.spotify.com/album/5l2k8k5EZeC1qcRKz0wzIs) | 2:55 |
-| 69 | [Unapologetically](https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ) | [Sharin Attamimi](https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX) | [Unapologetically](https://open.spotify.com/album/1yxfuHYFqvjeTnBTk2RmwU) | 3:00 |
-| 70 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
+| 68 | [Rollin Dice](https://open.spotify.com/track/7Jc4S1B2UdEupO5xJdEQAc) | [GC OConnor](https://open.spotify.com/artist/25ra0El5kIfD8vrJVTtTf2) | [Soul Lament](https://open.spotify.com/album/1mIhoA0E2M4ELYWX49XzPM) | 4:31 |
+| 69 | [catch the night](https://open.spotify.com/track/1m9yB7P1Ba9cuBEMXPHg3n) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [catch the night](https://open.spotify.com/album/5l2k8k5EZeC1qcRKz0wzIs) | 2:55 |
+| 70 | [Unapologetically](https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ) | [Sharin Attamimi](https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX) | [Unapologetically](https://open.spotify.com/album/1yxfuHYFqvjeTnBTk2RmwU) | 3:00 |
 
 Snapshot ID: `Zp9nagAAAADNxc3aJMUPGJOwhoocjnqg`

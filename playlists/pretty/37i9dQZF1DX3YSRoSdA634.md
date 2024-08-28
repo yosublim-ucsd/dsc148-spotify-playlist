@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Having a bad day? We know how it feels!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,028,377 likes - 200 songs - 12 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,028,228 likes - 200 songs - 12 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 13 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
 | 14 | [Ivy](https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 |
 | 15 | [If I Ain't Got You](https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 3:48 |
-| 16 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
-| 17 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 |
+| 16 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 |
+| 17 | [Photograph](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:18 |
 | 18 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 |
 | 19 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 |
 | 20 | [when the party's over](https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:16 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 31 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 | 32 | [I Fall Apart](https://open.spotify.com/track/75ZvA4QfFiZvzhj2xkaWAh) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Stoney \- Deluxe](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:43 |
 | 33 | [Maniac](https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:05 |
-| 34 | [Hold Me While You Wait](https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:25 |
+| 34 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
 | 35 | [illicit affairs](https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:10 |
-| 36 | [Solo](https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Solo](https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8) | 3:19 |
+| 36 | [Hold Me While You Wait](https://open.spotify.com/track/60iSKGrGazRzICtMjADNSM) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:25 |
 | 37 | [Can I Be Him](https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:06 |
 | 38 | [Dancing With Your Ghost](https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Dancing With Your Ghost](https://open.spotify.com/album/3I677CWVoiOsbMxOQzjShB) | 3:17 |
 | 39 | [Happier](https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:27 |
@@ -181,8 +181,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 171 | [Oh My God](https://open.spotify.com/track/2MDw2DwUDTAhexLMREWsYW) | [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [OFF](https://open.spotify.com/album/5jqT8822eTIpJJcW70jaLf) | 2:39 |
 | 172 | [Say Something](https://open.spotify.com/track/78TKtlSLWK8pZAKKW3MyQL) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Say Something](https://open.spotify.com/album/0cHs4eStEKsSiDNxzu9ut5) | 3:49 |
 | 173 | [I'll Be Good](https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Habits of My Heart](https://open.spotify.com/album/7c4oC2FhDzwu7XU7XRB4lZ) | 4:08 |
-| 174 | [The Fault in Our Stars](https://open.spotify.com/track/6LteLVcW0oWLjuW6nePyWb) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [The Fault in Our Stars](https://open.spotify.com/album/75K7Ki7WchpgjTHHR4hDmo) | 3:07 |
-| 175 | [Say You Love Me](https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Tough Love](https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP) | 4:17 |
+| 174 | [Say You Love Me](https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Tough Love](https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP) | 4:17 |
+| 175 | [The Fault in Our Stars](https://open.spotify.com/track/6LteLVcW0oWLjuW6nePyWb) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [The Fault in Our Stars](https://open.spotify.com/album/75K7Ki7WchpgjTHHR4hDmo) | 3:07 |
 | 176 | [Already Gone](https://open.spotify.com/track/7fkXzzIVo98CgjOkpd9H0V) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Already Gone](https://open.spotify.com/album/5uicIhSFTrEr6hXoS2q7V2) | 4:00 |
 | 177 | [Everybody Hurts \- MTV Unplugged Live Version](https://open.spotify.com/track/3HHTF12zYLGtLsZbBaLMhk) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [The Corrs Unplugged](https://open.spotify.com/album/68QpU7XGT0RIX4NNkPLXzx) | 5:49 |
 | 178 | [Body Dysmorphia.](https://open.spotify.com/track/7FYTCG4IXEtar8f2zmd3jk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:33 |
@@ -204,9 +204,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 194 | [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 |
 | 195 | [Give Me Something](https://open.spotify.com/track/1au9q3wiWxIwXTazIjHdfF) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 2:38 |
 | 196 | [Wild Hearts Can't Be Broken](https://open.spotify.com/track/3nA9tHmsw5UGMtSIMz4mt7) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Beautiful Trauma](https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz) | 3:21 |
-| 197 | [forgive and forget](https://open.spotify.com/track/2KWOQiWBJDDedeDeHRsF87) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [forgive and forget](https://open.spotify.com/album/7iZcU7LHYUbgHleJKhlEkD) | 2:54 |
-| 198 | [When It's Cold I'd Like to Die](https://open.spotify.com/track/50I6fV2otuiDmigTtN6WMY) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Everything Is Wrong](https://open.spotify.com/album/4JgnH6sdkW0fv3jU4ZgcT0) | 4:14 |
-| 199 | [Fly Away With Me](https://open.spotify.com/track/05u81UgU27g8uL5twJ7ABz) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Fly Away With Me](https://open.spotify.com/album/0zyfjcblb35vFRjZ3KKXMR) | 3:31 |
+| 197 | [When It's Cold I'd Like to Die](https://open.spotify.com/track/50I6fV2otuiDmigTtN6WMY) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Everything Is Wrong](https://open.spotify.com/album/4JgnH6sdkW0fv3jU4ZgcT0) | 4:14 |
+| 198 | [Fly Away With Me](https://open.spotify.com/track/05u81UgU27g8uL5twJ7ABz) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Fly Away With Me](https://open.spotify.com/album/0zyfjcblb35vFRjZ3KKXMR) | 3:31 |
+| 199 | [forgive and forget](https://open.spotify.com/track/2KWOQiWBJDDedeDeHRsF87) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [forgive and forget](https://open.spotify.com/album/7iZcU7LHYUbgHleJKhlEkD) | 2:54 |
 | 200 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 |
 
 Snapshot ID: `Zk3QMAAAAADxo047rqDVkmjAVTBrfvm5`

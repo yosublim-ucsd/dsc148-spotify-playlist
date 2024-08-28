@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 
 > This is Edgardo Nuñez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,901 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,932 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO096Rby.md) - [plain]
 | 44 | [No Es por Ella](https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [No Es por Ella](https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew) | 2:50 |
 | 45 | [Micaela / La María](https://open.spotify.com/track/58UuKulvF6CYIoFXxh9joZ) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Bailemos Bebe](https://open.spotify.com/album/2JTp06hzInwvdlYyXSWIFe) | 4:53 |
 | 46 | [Golpe De Suerte](https://open.spotify.com/track/3fLlygEeJBcDW1kPxCAIVp) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0eCsjknge1ObzP28Hp3hWG) | 2:48 |
-| 47 | [Andamos Enclicados \- En Vivo](https://open.spotify.com/track/59ksBWeHtI83wbsiP0W2sd) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 2:06 |
-| 48 | [El Kiri](https://open.spotify.com/track/427ITfPk80CFHqpD43ROcd) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 2:42 |
+| 47 | [El Kiri](https://open.spotify.com/track/427ITfPk80CFHqpD43ROcd) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/3tijWyYjzpb7qp5xlvweH5) | 2:42 |
+| 48 | [Andamos Enclicados \- En Vivo](https://open.spotify.com/track/59ksBWeHtI83wbsiP0W2sd) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.3 \(En Vivo\)](https://open.spotify.com/album/1BqEmjAfzAAtKWULjOW0z8) | 2:06 |
 | 49 | [Ya No Llores BB](https://open.spotify.com/track/1I6OiM28AvbZseo0OjiFZj) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ya No Llores BB](https://open.spotify.com/album/6GRr0rPHIw6W8NoB1xLjHr) | 2:38 |
 | 50 | [Pensaron Que No Podia](https://open.spotify.com/track/6h0ktE1gQcIaNZEfSYL4Hm) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [No Ando Solo](https://open.spotify.com/album/04B0jWoQI5vd3hFqFrKa7e) | 2:36 |
 
-Snapshot ID: `Zsp0AAAAAACDWhHZfXoUd/lKZYCfw9iC`
+Snapshot ID: `ZsvFgAAAAABcLKatQsacUW1PaTQ4+IT9`

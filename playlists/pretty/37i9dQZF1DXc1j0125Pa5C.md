@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thais Macedo, Amanda Amado, Mannda Lym
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,407 likes - 75 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,496 likes - 75 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 32 | [Climatizar / Ensaboado \- Ao Vivo](https://open.spotify.com/track/5C4ZMkIL8yWa0eGpwUbbBq) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Ferrugem 10 Anos, Vol\. 2 \- Replay \(Ao Vivo\)](https://open.spotify.com/album/1hazFJ5EVb8clifhIUnV9D) | 3:51 |
 | 33 | [Curto Circuito / Ponto Fraco / Amor De Manhã \- Ao Vivo](https://open.spotify.com/track/7dJp2ddguIzoNFAE2QWBUL) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Curto Circuito / Ponto Fraco / Amor De Manhã \(Ao Vivo\)](https://open.spotify.com/album/2pYHP2oOcMOaMm9suX34l6) | 4:53 |
 | 34 | [É Na Madrugada / Amor Bipolar / A Casa Caiu \- Ao Vivo](https://open.spotify.com/track/1r7Ik46RmpvfQAfBu40No6) | [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Guerêguerê, Bloco 6 \(Ao Vivo\)](https://open.spotify.com/album/5ABomsOe78kUOdG1ZJHt7V) | 4:27 |
-| 35 | [Cigana / Marrom Bombom / Nascente \- Ao Vivo](https://open.spotify.com/track/7iyBS123RcIf7oi5P0miYR) | [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0), [Marcelinho Freitas](https://open.spotify.com/artist/6LIIAx0yKVB9wQ9y5IGils) | [Nostalgia \(Ao Vivo / Vol\. 2\)](https://open.spotify.com/album/3EJMWHZsUwQK8CKoClzkBA) | 4:47 |
+| 35 | [Cigana / Marrom Bombom / Nascente \- Ao Vivo](https://open.spotify.com/track/7iyBS123RcIf7oi5P0miYR) | [Grupo Envolvência](https://open.spotify.com/artist/5cNstjDy5P6A3iFpevNIM0), [Marcelinho Freitas](https://open.spotify.com/artist/6LIIAx0yKVB9wQ9y5IGils) | [Nostalgia \- Ao Vivo / Vol\. 2](https://open.spotify.com/album/3EJMWHZsUwQK8CKoClzkBA) | 4:47 |
 | 36 | [Fé / Pertinho de Mim / Volta de Vez pra Mim \- Ao Vivo](https://open.spotify.com/track/25HZJtoINVHM90KBMYoclw) | [Delcio Luiz](https://open.spotify.com/artist/6HAIIkjqIjLqsJvuUfmX4a), [Renato da Rocinha](https://open.spotify.com/artist/2bRmiOcLOpBKxnMRZ9Nqiv) | [Fé / Pertinho de Mim / Volta de Vez pra Mim \(Ao Vivo\)](https://open.spotify.com/album/5iZTjePjtuuyizJC4pTLt1) | 7:30 |
 | 37 | [Só Depois / Bateu Levou / Tanta Coisa Pra Falar \- Ao Vivo](https://open.spotify.com/track/3XlwJPCzGNTHFgeXW0wJJt) | [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1) | [Minha Fé \(Em Canoas\)](https://open.spotify.com/album/00xMvqwwg2jXoowa9riyYi) | 5:09 |
 | 38 | [Pra Não Doer/ Até Que Enfim \- Ao Vivo](https://open.spotify.com/track/0vGf573D2sQNTckYeny32R) | [Lucas Morato](https://open.spotify.com/artist/4ab6n3r4PdQroLqLsnV2JZ) | [Quem Eu Sou \(EP3\)](https://open.spotify.com/album/5u83yAQFUXfSDh89hZivXh) | 4:35 |

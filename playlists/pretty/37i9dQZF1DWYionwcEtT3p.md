@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYionwcEtT3p.md) - [plain]
 
 > Hip hop hits, version dancefloor !
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,817 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,813 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYionwcEtT3p.md) - [plain]
 | 44 | [Beautiful](https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Paid Tha Cost To Be Da Bo$$](https://open.spotify.com/album/7F9hfZKh6WLOKME4LwCPZI) | 4:58 |
 | 45 | [Ridin'](https://open.spotify.com/track/3kZoay4ANo86ehb6s4RwS9) | [Chamillionaire](https://open.spotify.com/artist/6vdMPayKk8YJxxeNP5oMCb), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR) | [The Sound of Revenge](https://open.spotify.com/album/31dzB4ULKZfOH71tuaBiR8) | 5:03 |
 | 46 | [Teach Me How to Dougie](https://open.spotify.com/track/61LtVmmkGr8P9I2tSPvdpf) | [Cali Swag District](https://open.spotify.com/artist/1EeArivTpzLNCqubV95255) | [The Kickback](https://open.spotify.com/album/7jEhJ72S8vHQOmQTgIATww) | 3:57 |
-| 47 | [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 |
-| 48 | [Jump](https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX) | [Kris Kross](https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf) | [Totally Krossed Out](https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka) | 3:15 |
+| 47 | [Jump](https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX) | [Kris Kross](https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf) | [Totally Krossed Out](https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka) | 3:15 |
+| 48 | [KEHLANI](https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz) | 2:02 |
 | 49 | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \- Remix](https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [WHATS POPPIN \(feat\. DaBaby, Tory Lanez & Lil Wayne\) \[Remix\]](https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22) | 3:47 |
 | 50 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4) | 2:35 |
 

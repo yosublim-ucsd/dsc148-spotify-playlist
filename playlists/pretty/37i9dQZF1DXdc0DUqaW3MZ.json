@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 348273,
+  "num_followers": 348369,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
+        "name": "OUR LOVE (80'S)",
+        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "duration_ms": 179323,
+      "name": "OUR LOVE (80'S)",
+      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -779,42 +795,6 @@
       "duration_ms": 251546,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "OUR LOVE (80'S)",
-        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
-      },
-      "artists": [
-        {
-          "name": "YOURS",
-          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
-        }
-      ],
-      "duration_ms": 179323,
-      "name": "OUR LOVE (80'S)",
-      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
-        "name": "Shaken To My Soul (feat. Ruti)",
-        "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
-        }
-      ],
-      "duration_ms": 211208,
-      "name": "Shaken To My Soul (feat. Ruti)",
-      "url": "https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -843,22 +823,22 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Ego Slide",
-        "url": "https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk"
+        "name": "Shaken To My Soul (feat. Ruti)",
+        "url": "https://open.spotify.com/album/1fTzvmo6yNAAvvHxt77t4L"
       },
       "artists": [
         {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
         },
         {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
         }
       ],
-      "duration_ms": 218181,
-      "name": "Ego Slide",
-      "url": "https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn"
+      "duration_ms": 211208,
+      "name": "Shaken To My Soul (feat. Ruti)",
+      "url": "https://open.spotify.com/track/4R6zTX10cS2t8CLIhDkolC"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -875,6 +855,26 @@
       "duration_ms": 165333,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Ego Slide",
+        "url": "https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Ego Slide",
+      "url": "https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Ma Jo Lo",
-        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
-      },
-      "artists": [
-        {
-          "name": "Midas the Jagaban",
-          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Ma Jo Lo",
-      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "Skin to Skin",
         "url": "https://open.spotify.com/album/4YFMHIW20lUPz9RYHJ0PSS"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 225454,
       "name": "Skin to Skin",
       "url": "https://open.spotify.com/track/4disXZYw2a6id6NkFMNd57"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Ma Jo Lo",
+        "url": "https://open.spotify.com/album/6dHnQB6ZDqgGe8PWtu7adk"
+      },
+      "artists": [
+        {
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Ma Jo Lo",
+      "url": "https://open.spotify.com/track/761bu7T8dZY8GPQEaEmf87"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "MY LOVER'S MIND",
-        "url": "https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is"
-      },
-      "artists": [
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 203200,
-      "name": "MY LOVER'S MIND",
-      "url": "https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "Can't Afford Me",
         "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 218424,
       "name": "Can't Afford Me",
       "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "MY LOVER'S MIND",
+        "url": "https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is"
+      },
+      "artists": [
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "MY LOVER'S MIND",
+      "url": "https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq"
     },
     {
       "added_at": "2024-07-26 09:47:49",
@@ -1335,30 +1335,6 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "levels (IZCO & Reek0 Remix)",
-        "url": "https://open.spotify.com/album/71glGUTwlOhN2pXdXiMcNY"
-      },
-      "artists": [
-        {
-          "name": "oreglo",
-          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
-        },
-        {
-          "name": "IZCO",
-          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
-        },
-        {
-          "name": "Reek0",
-          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "levels (IZCO & Reek0 Remix)",
-      "url": "https://open.spotify.com/track/4FHTC7bgTM19liQwhZDUt3"
-    },
-    {
-      "added_at": "2024-07-26 09:47:49",
-      "album": {
         "name": "Holier (JD. REID Remix feat. Shygirl)",
         "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
       },
@@ -1383,18 +1359,46 @@
     {
       "added_at": "2024-07-26 09:47:49",
       "album": {
-        "name": "Empty Talk",
-        "url": "https://open.spotify.com/album/6oH6M6ytYHAVqcFUKcLGeh"
+        "name": "levels (IZCO & Reek0 Remix)",
+        "url": "https://open.spotify.com/album/71glGUTwlOhN2pXdXiMcNY"
       },
       "artists": [
         {
-          "name": "Memblem",
-          "url": "https://open.spotify.com/artist/4oXVlZhnXyku2WkQjziDVI"
+          "name": "oreglo",
+          "url": "https://open.spotify.com/artist/52ZhJRTVz14RYXJY9CTmkt"
+        },
+        {
+          "name": "IZCO",
+          "url": "https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1"
+        },
+        {
+          "name": "Reek0",
+          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
         }
       ],
-      "duration_ms": 179478,
-      "name": "Empty Talk",
-      "url": "https://open.spotify.com/track/2fsiKw94jWgfoPnCSlL082"
+      "duration_ms": 225840,
+      "name": "levels (IZCO & Reek0 Remix)",
+      "url": "https://open.spotify.com/track/4FHTC7bgTM19liQwhZDUt3"
+    },
+    {
+      "added_at": "2024-07-26 09:47:49",
+      "album": {
+        "name": "Monochrome",
+        "url": "https://open.spotify.com/album/2K6dix8Cx3UBanEylzyiM1"
+      },
+      "artists": [
+        {
+          "name": "oh caroline",
+          "url": "https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW"
+        },
+        {
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        }
+      ],
+      "duration_ms": 179809,
+      "name": "Much",
+      "url": "https://open.spotify.com/track/3wwK9BmSigIs5UMCVHI0HU"
     }
   ],
   "unique_name": "Soultronic",

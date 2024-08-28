@@ -2,9 +2,9 @@
 
 ### [Women's Voice](https://open.spotify.com/playlist/37i9dQZF1DWTD6tHjIApT3)
 
-> 日本の女性アーティストの歌を特集。cover: aiko
+> 日本の女性アーティストの歌を特集。cover: Aimer
 
-2,629 songs - 7 day 0 hr 39 min
+2,631 songs - 7 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,7 @@
 | [Getting Stronger, but so blue](https://open.spotify.com/track/0eojcffysQBv5qUnwBxJwH) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Falling into your eyes Record](https://open.spotify.com/album/5KLZZ5X7b8eM8OXXUBYfgz) | 3:19 | 2022-08-18 | 2022-09-30 |
 | [Ghost Town](https://open.spotify.com/track/1k5xhBfbd6o7XqRSwH2tGA) | [moeki](https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM) | [Ghost Town](https://open.spotify.com/album/18A0WFTgmL7WJarMn6j4sr) | 2:54 | 2024-07-04 | 2024-07-17 |
 | [Ginger](https://open.spotify.com/track/6GrdwAWFl91NXRxOZCgeRE) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:22 | 2023-09-28 | 2023-10-04 |
-| [Ginger](https://open.spotify.com/track/7bsa6yPlYiLMvgWo89IKKc) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 3:22 | 2024-04-30 | 2024-08-21 |
+| [Ginger](https://open.spotify.com/track/7bsa6yPlYiLMvgWo89IKKc) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [TWO MOON](https://open.spotify.com/album/70LhIB7qVx1UiggKkH2XGa) | 3:22 | 2024-04-30 |  |
 | [Ginger](https://open.spotify.com/track/28pvMnRZKNiqz6xgBBMkr2) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Ginger](https://open.spotify.com/album/54OkOlGIXztDx8OzcRiPh4) | 3:22 | 2022-11-29 | 2023-09-30 |
 | [Ginger](https://open.spotify.com/track/5kuaoj580FY2PFNes0kqC3) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Ginger](https://open.spotify.com/album/0msyMtUaewaEQKPlKjK5cU) | 3:22 | 2022-05-29 | 2022-07-29 |
 | [Gips](https://open.spotify.com/track/0sHJqALJte0dgyJyblz46D) | [Hiroko Sebu](https://open.spotify.com/artist/1kV0nJ6ND2GEbzShQMhewv) | [The World Where You Are 1](https://open.spotify.com/album/41nlPakLyZvpX5GfkwHAbU) | 6:41 | 2022-11-08 | 2022-11-16 |
@@ -642,6 +642,7 @@
 | [Itsu Aetara](https://open.spotify.com/track/7C2Tc4aJRphK6qUSWbnLyg) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Itsu Aetara](https://open.spotify.com/album/2ObLoP9QlsMdbU1O0KssLI) | 4:05 | 2023-04-11 | 2023-05-03 |
 | [ITSUWA](https://open.spotify.com/track/0cnPHNUlW4gszgvVDRLjR8) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX), [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Flash Back](https://open.spotify.com/album/2eI02EhwOSl2b3sHdHCCBL) | 3:22 | 2023-02-09 | 2023-02-15 |
 | [Itterasshai](https://open.spotify.com/track/6hfkQdov7M8th5y7hjVcwB) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Itterasshai](https://open.spotify.com/album/29zQboLwKEpVNb7s2yktqd) | 3:55 | 2023-11-07 | 2024-01-27 |
+| [it’s okay](https://open.spotify.com/track/4CvQEMeuNttVJuoALqN30U) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [it’s okay](https://open.spotify.com/album/6I7sRd2M125ktiuoisAhai) | 2:26 | 2024-08-27 |  |
 | [Ivy Ivy Ivy](https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Ivy Ivy Ivy](https://open.spotify.com/album/4zonvfa0E3bJJ52tSvsqLI) | 4:52 | 2022-11-15 | 2022-12-07 |
 | [I’ll be there](https://open.spotify.com/track/78fssmI5gxg6rNSs50WVHH) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [I’ll be there / スピン](https://open.spotify.com/album/41DbSnh6MJp7cbQaHUwNnG) | 5:03 | 2022-05-29 | 2022-07-29 |
 | [I’m Calling You](https://open.spotify.com/track/3QTPkJsom8XAg3dx8mqphk) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [Fumika Sato](https://open.spotify.com/artist/3NB6x7M0zgFnVKCKsXFR3P) | [I’m Calling You](https://open.spotify.com/album/1CUxI6Evew86aQyvJWA7dL) | 3:43 | 2022-09-27 | 2022-09-29 |
@@ -1157,7 +1158,7 @@
 | [Sixteen, Fifteen](https://open.spotify.com/track/6engsrggcvwuuuvXOYh6Fw) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Sixteen, Fifteen](https://open.spotify.com/album/3eFaRHP5BiBrp1HfaE6Hf9) | 3:40 | 2023-01-24 | 2023-02-08 |
 | [Skeleton Wedding](https://open.spotify.com/track/1UZvI3HkqAwWTiyuhM0WoW) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/1jHtKLztk72l4W2e0dSltd) | 3:37 | 2023-05-02 | 2023-05-04 |
 | [Skeleton Wedding](https://open.spotify.com/track/6MA06mHqROlTYnwXi6v4TN) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/4s7RVl8tdJLaY2lHCxJENq) | 3:37 | 2023-05-02 | 2023-05-10 |
-| [skirt](https://open.spotify.com/track/1CbMXhAVAaR1LyUMrZ49h8) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [skirt](https://open.spotify.com/album/0Jiz6XnUfQWiz06PrtuOVa) | 4:15 | 2024-08-20 |  |
+| [skirt](https://open.spotify.com/track/1CbMXhAVAaR1LyUMrZ49h8) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [skirt](https://open.spotify.com/album/0Jiz6XnUfQWiz06PrtuOVa) | 4:15 | 2024-08-20 | 2024-08-28 |
 | [Sky Above](https://open.spotify.com/track/7zvRjuHEi3BieC9oiiKH6z) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [Sky Above](https://open.spotify.com/album/6efBHJjlBzF3rOiOkUqTbA) | 3:43 | 2024-03-26 | 2024-04-10 |
 | [Slay the day!](https://open.spotify.com/track/3cMFOhhAWmE3VCB44ZE3xL) | [Beverly](https://open.spotify.com/artist/5AJRsYTgSVuUTT2SbhLLxu) | [Slay the day!](https://open.spotify.com/album/0hT3xd7HB2BCwLnOnPW6UV) | 3:25 | 2022-06-02 | 2022-07-22 |
 | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/track/11erW7pKvrR399ymf1eZwl) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [SLEEP PARTY \(feat\. mindfreakkk\)](https://open.spotify.com/album/5EryJwl6ZmreizbfgEUgqC) | 4:02 | 2022-05-29 | 2022-07-19 |
@@ -1187,7 +1188,7 @@
 | [Space Orphans](https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo) | 4:35 | 2023-05-23 | 2023-07-19 |
 | [Spark](https://open.spotify.com/track/1pO3Nm1ybqXXEXvWHLTIg3) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Spark](https://open.spotify.com/album/2lm4DxOkkRU5oIKz85u4rj) | 2:45 | 2023-02-16 | 2023-02-22 |
 | [Sparkle](https://open.spotify.com/track/1sbMOKGzOfH82AHgCQPNib) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [Sparkle](https://open.spotify.com/album/7D5HZy7UAEmYBj1gXCuAS6) | 2:55 | 2022-05-31 | 2022-07-29 |
-| [Special Girl](https://open.spotify.com/track/3zWgy6snFZzjOOsyRsISRZ) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Special Girl](https://open.spotify.com/album/1gnWOH3j50tocVe1PFDB83) | 2:50 | 2024-08-13 |  |
+| [Special Girl](https://open.spotify.com/track/3zWgy6snFZzjOOsyRsISRZ) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Special Girl](https://open.spotify.com/album/1gnWOH3j50tocVe1PFDB83) | 2:50 | 2024-08-13 | 2024-08-28 |
 | [Speechless \(feat\. 福原みほ\)](https://open.spotify.com/track/1gqziOJa2muzilyW88W1Gb) | [UNI\-Qreatives](https://open.spotify.com/artist/5i5sDbeYvK6eliuUwYgk11), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [Speechless \(feat\. 福原みほ\)](https://open.spotify.com/album/2cHg3Vkw38yFBfMO7jNfIH) | 2:58 | 2024-02-22 | 2024-03-06 |
 | [Spinning World](https://open.spotify.com/track/396RicrQNol7GhMCIfC6Cv) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [Spinning World](https://open.spotify.com/album/3nxqM96vJyyjF8DMfYJBaQ) | 4:00 | 2022-07-14 | 2022-10-21 |
 | [Splendid Silent Sun](https://open.spotify.com/track/5G3bOHGiDmNijrpafLBDMh) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Splendid Silent Sun](https://open.spotify.com/album/3KOMMTYKtp0qvof3Op7tcm) | 3:59 | 2023-04-04 | 2023-04-12 |
@@ -1473,6 +1474,7 @@
 | [wonderland](https://open.spotify.com/track/2ZprfZxepqebe1iIuyFK37) | [yukaDD](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe) | [wonderland](https://open.spotify.com/album/1utyCLbWwQ4hW21s5Wbhsk) | 2:48 | 2024-05-21 | 2024-05-29 |
 | [WORLD DANCE](https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORLD DANCE](https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1) | 3:41 | 2023-08-15 | 2023-10-13 |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-30 | 2023-07-05 |
+| [Wren](https://open.spotify.com/track/4251HZQieHxgvAH6D7v8U5) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/268Fp4sOfh7kFOmChBsT4f) | 3:07 | 2024-08-27 |  |
 | [WRONG](https://open.spotify.com/track/2aMTlOrWdKFu125tVvys96) | [yukaDD](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe) | [WRONG](https://open.spotify.com/album/0YgFREk3UW1z7KPXe6NL8T) | 2:55 | 2023-04-25 | 2023-05-03 |
 | [Xmas gift](https://open.spotify.com/track/1JknVlV7qsUqEGNQTIsgd9) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [Xmas gift](https://open.spotify.com/album/2yWzViKc64KqiHzsrWXDtt) | 2:48 | 2023-12-05 | 2023-12-20 |
 | [Xmas with U](https://open.spotify.com/track/4eUnlLhTvXCdOiycD9sBTL) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [Xmas with U](https://open.spotify.com/album/4vmHPYzDA4xACTxpakn6NN) | 3:23 | 2022-12-06 | 2023-01-13 |
@@ -2254,7 +2256,7 @@
 | [想い出がいっぱい /with 鳥山雄司&神保彰](https://open.spotify.com/track/509VcK9oxIx6h3W8x9FEhv) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV), [Yuji Toriyama](https://open.spotify.com/artist/183gGYMMBJVdNRVAxHzxn7), [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [想い出がいっぱい / with 鳥山雄司&神保彰](https://open.spotify.com/album/0ETH08HOGjkFcVXSfoSvgr) | 4:11 | 2024-07-09 | 2024-07-17 |
 | [想うということ](https://open.spotify.com/track/6xrr46UKL7xgNpFAdP39PB) | [Asagaya Romantics](https://open.spotify.com/artist/2h0iLKaNExZIpQsp4jpf8x) | [想うということ](https://open.spotify.com/album/0gGycLeZb40DxSr1dohdiH) | 3:18 | 2024-01-09 | 2024-01-17 |
 | [愛 need your love](https://open.spotify.com/track/7BBaJjWYEfEGFuUyM9zCyB) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [愛 need your love](https://open.spotify.com/album/7aNVI1dGbfpGZUQV0zkPRa) | 3:46 | 2023-11-28 | 2023-11-30 |
-| [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2024-04-30 |  |
+| [愛が灯る](https://open.spotify.com/track/1928Lw8TiJYbS0QrLnfWRR) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [愛が灯る](https://open.spotify.com/album/7x7aD8dOcULUeoJT5CNcPr) | 3:19 | 2024-04-30 | 2024-08-28 |
 | [愛さ生まり島](https://open.spotify.com/track/30ZrfAG2MkVujIE6xAdoy9) | [Rimi Natsukawa](https://open.spotify.com/artist/2AAMBmrNdim79LRSv1kKFn) | [会いたい \~かなさんどぉ\~](https://open.spotify.com/album/3u6FMj8KMrGbyV4ArlkPSd) | 4:37 | 2022-06-21 | 2022-06-29 |
 | [愛でほっぺ丼](https://open.spotify.com/track/3DmZS7Ua6MGW213lObJPoo) | [眉村ちあき](https://open.spotify.com/artist/4DjusI9WuKLk3cmsJGtl8T) | [愛でほっぺ丼](https://open.spotify.com/album/6z8cwZTM2VfMZcmHNMBZls) | 4:00 | 2022-06-02 | 2022-07-16 |
 | [愛のありか](https://open.spotify.com/track/3Y6GGcbWHOqtALVTBjfc2g) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [愛のありか](https://open.spotify.com/album/6eYWjB0vaCmxpwrdHjsGhR) | 4:38 | 2024-05-28 | 2024-06-05 |

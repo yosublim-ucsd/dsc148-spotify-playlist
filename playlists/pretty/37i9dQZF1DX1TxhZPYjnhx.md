@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Lady Gaga, Bruno Mars
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,783 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,787 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

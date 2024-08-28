@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "All the songs with more than 1 BILLION streams on Spotify. Cover: Bruno Mars",
+  "description": "All the songs with more than 1 BILLION streams on Spotify. Cover: Billie Eilish",
   "name": "BILLIONS CLUB",
   "tracks": [
     {
@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125093,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "album": {
         "name": "Goodbye & Good Riddance",
         "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
       },
@@ -454,6 +472,24 @@
       "duration_ms": 210200,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
+    },
+    {
+      "album": {
+        "name": "Black Star Elephant",
+        "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
+      },
+      "artists": [
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245866,
+      "name": "Am I Wrong",
+      "url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"
     },
     {
       "album": {
@@ -8903,6 +8939,24 @@
     },
     {
       "album": {
+        "name": "Night Visions (Deluxe)",
+        "url": "https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "On Top Of The World",
+      "url": "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"
+    },
+    {
+      "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
       },
@@ -14247,6 +14301,24 @@
     },
     {
       "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -14688,6 +14760,24 @@
       "duration_ms": 214480,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "album": {
+        "name": "Cole World: The Sideline Story",
+        "url": "https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235320,
+      "name": "Work Out",
+      "url": "https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO"
     },
     {
       "album": {

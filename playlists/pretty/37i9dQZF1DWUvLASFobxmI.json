@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. La Fiera de Ojinaga en portada.",
-  "num_followers": 485098,
+  "num_followers": 485141,
   "original_name": "Norte\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,26 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "Las Mujeres Ya No Lloran",
-        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+        "name": "\u00c1lbum JGL",
+        "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         },
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 168896,
-      "name": "(Entre Par\u00e9ntesis)",
-      "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
+      "duration_ms": 170435,
+      "name": "\u00c1lbum JGL",
+      "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -351,26 +355,22 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "\u00c1lbum JGL",
-        "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
       "artists": [
         {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 170435,
-      "name": "\u00c1lbum JGL",
-      "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
+      "duration_ms": 168896,
+      "name": "(Entre Par\u00e9ntesis)",
+      "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
+        "name": "Como En Los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 245250,
+      "name": "Como En Los Viejos Tiempos",
+      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
+    },
+    {
+      "added_at": "2024-08-24 23:19:12",
+      "album": {
         "name": "Flore$",
         "url": "https://open.spotify.com/album/1BjftBli83SYZBcvDEuSQH"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 126300,
       "name": "Flore$",
       "url": "https://open.spotify.com/track/7guazDVh85SvvfXjj4xKj0"
-    },
-    {
-      "added_at": "2024-08-24 23:19:12",
-      "album": {
-        "name": "Como En Los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 245250,
-      "name": "Como En Los Viejos Tiempos",
-      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 183594,
-      "name": "El Ruddy",
-      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
-    },
-    {
-      "added_at": "2024-08-24 23:19:12",
-      "album": {
         "name": "M.L.P",
         "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
       },
@@ -991,6 +975,22 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 183594,
+      "name": "El Ruddy",
+      "url": "https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA"
+    },
+    {
+      "added_at": "2024-08-24 23:19:12",
+      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 212563,
-      "name": "Pudiste Pero No Quisiste",
-      "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
-    },
-    {
-      "added_at": "2024-08-24 23:19:12",
-      "album": {
         "name": "Simbolo Sexual",
         "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 180208,
       "name": "S\u00edmbolo Sexual",
       "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+    },
+    {
+      "added_at": "2024-08-24 23:19:12",
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 212563,
+      "name": "Pudiste Pero No Quisiste",
+      "url": "https://open.spotify.com/track/4GW1xy7yINUnuEQHaETaVC"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
-    },
-    {
-      "added_at": "2024-08-24 23:19:12",
-      "album": {
         "name": "Mejores Tiempos",
         "url": "https://open.spotify.com/album/2TY5w3eKXpLvtHni5Ny9lM"
       },
@@ -1099,6 +1083,38 @@
       "duration_ms": 159602,
       "name": "Mejores Tiempos",
       "url": "https://open.spotify.com/track/2OQZNkUIdhyc10ysnM12bG"
+    },
+    {
+      "added_at": "2024-08-24 23:19:12",
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 133261,
+      "name": "GPI",
+      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
+    },
+    {
+      "added_at": "2024-08-24 23:19:12",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -1147,38 +1163,6 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 133261,
-      "name": "GPI",
-      "url": "https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc"
-    },
-    {
-      "added_at": "2024-08-24 23:19:12",
-      "album": {
-        "name": "La Receta",
-        "url": "https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 136416,
-      "name": "La Receta",
-      "url": "https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc"
-    },
-    {
-      "added_at": "2024-08-24 23:19:12",
-      "album": {
         "name": "Tu Forma De Ser",
         "url": "https://open.spotify.com/album/0GtF6udeFeF6wpWobXCQFQ"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "El De Las Mieles",
-        "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
+        "name": "La Receta",
+        "url": "https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 205141,
-      "name": "El De Las Mieles",
-      "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
+      "duration_ms": 136416,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -1303,6 +1287,22 @@
       "duration_ms": 163359,
       "name": "Fuga Del Jefe",
       "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
+    },
+    {
+      "added_at": "2024-08-24 23:19:12",
+      "album": {
+        "name": "El De Las Mieles",
+        "url": "https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "El De Las Mieles",
+      "url": "https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -1431,22 +1431,18 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "No Quiero Perderte",
-        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
+        "name": "Ciega X \u00c9l",
+        "url": "https://open.spotify.com/album/5uwrSMVvMNqK8dJi7iX0fC"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 159530,
-      "name": "No Quiero Perderte",
-      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
+      "duration_ms": 235775,
+      "name": "Ciega X \u00c9l",
+      "url": "https://open.spotify.com/track/1peVaihQpEOjNGWtQecRVI"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -1483,18 +1479,22 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "Ciega X \u00c9l",
-        "url": "https://open.spotify.com/album/5uwrSMVvMNqK8dJi7iX0fC"
+        "name": "No Quiero Perderte",
+        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
       },
       "artists": [
         {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
         }
       ],
-      "duration_ms": 235775,
-      "name": "Ciega X \u00c9l",
-      "url": "https://open.spotify.com/track/1peVaihQpEOjNGWtQecRVI"
+      "duration_ms": 159530,
+      "name": "No Quiero Perderte",
+      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "Sobran Motivos",
-        "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        },
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 185338,
-      "name": "Sobran Motivos",
-      "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
-    },
-    {
-      "added_at": "2024-08-24 23:19:12",
-      "album": {
         "name": "Cosas Claras, Cosas Buenas (En Vivo)",
         "url": "https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 192130,
       "name": "Cosas Claras, Cosas Buenas (En Vivo)",
       "url": "https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36"
+    },
+    {
+      "added_at": "2024-08-24 23:19:12",
+      "album": {
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 185338,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
+        "name": "Pa' Que No Me Cuenten",
+        "url": "https://open.spotify.com/album/0yC9dBx4svcbIQETeU7ssa"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 127728,
+      "name": "Pa' Que No Me Cuenten",
+      "url": "https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu"
+    },
+    {
+      "added_at": "2024-08-24 23:19:12",
+      "album": {
         "name": "Mientras Que Te Olvido",
         "url": "https://open.spotify.com/album/2sLXTaLKmqIt5YB9WBz1aO"
       },
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "Pa' Que No Me Cuenten",
-        "url": "https://open.spotify.com/album/0yC9dBx4svcbIQETeU7ssa"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 127728,
-      "name": "Pa' Que No Me Cuenten",
-      "url": "https://open.spotify.com/track/1YOyzaN2bRmqPlZcWDLPTu"
-    },
-    {
-      "added_at": "2024-08-24 23:19:12",
-      "album": {
         "name": "Qu\u00e9date Conmigo Esta Noche",
         "url": "https://open.spotify.com/album/3B5Wz224y9RsbOZ7uCmedi"
       },
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
-        "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Rienda Real",
-          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
-        }
-      ],
-      "duration_ms": 172018,
-      "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
-      "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
-    },
-    {
-      "added_at": "2024-08-24 23:19:12",
-      "album": {
         "name": "Saxy II",
         "url": "https://open.spotify.com/album/0fW1Nh3zlVWvrMFWFWo8yP"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 167693,
       "name": "Cuando Me Sonr\u00edes",
       "url": "https://open.spotify.com/track/3oQD7mv2HbG5eMqUb3jITv"
+    },
+    {
+      "added_at": "2024-08-24 23:19:12",
+      "album": {
+        "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
+        "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "duration_ms": 172018,
+      "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
+      "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "1000 Likes",
-        "url": "https://open.spotify.com/album/6S8g23XxOQLajHmbBVQdsg"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "1000 Likes",
-      "url": "https://open.spotify.com/track/6ruJHKRxWqc60fBkMIDt8W"
-    },
-    {
-      "added_at": "2024-08-24 23:19:12",
-      "album": {
         "name": "Loco Tu Forma De Ser",
         "url": "https://open.spotify.com/album/5Vz8UHFy3jmKyt5CHI2RYG"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 194226,
       "name": "Loco Tu Forma De Ser",
       "url": "https://open.spotify.com/track/30vGAyncjru9ifVcFQGAy0"
+    },
+    {
+      "added_at": "2024-08-24 23:19:12",
+      "album": {
+        "name": "1000 Likes",
+        "url": "https://open.spotify.com/album/6S8g23XxOQLajHmbBVQdsg"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "1000 Likes",
+      "url": "https://open.spotify.com/track/6ruJHKRxWqc60fBkMIDt8W"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "El Ranchero",
-        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 235728,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
-    },
-    {
-      "added_at": "2024-08-24 23:19:12",
-      "album": {
         "name": "En Autom\u00e1tico",
         "url": "https://open.spotify.com/album/1ZQqsASquT4yZ6mXzWs3af"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 150812,
       "name": "En Autom\u00e1tico",
       "url": "https://open.spotify.com/track/3kGeAU2fVqf72NCoAJdxbT"
+    },
+    {
+      "added_at": "2024-08-24 23:19:12",
+      "album": {
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 235728,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
     },
     {
       "added_at": "2024-08-24 23:19:12",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "Homenaje A Ramon Vega",
-        "url": "https://open.spotify.com/album/4z3NVlGsa8vVXKtPYlOX56"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 197695,
-      "name": "Adolescente y Bonita",
-      "url": "https://open.spotify.com/track/1bEmliSa9glFleX7rzgzSk"
-    },
-    {
-      "added_at": "2024-08-24 23:19:12",
-      "album": {
         "name": "Carmes\u00ed",
         "url": "https://open.spotify.com/album/5EGFJjVrdiNkxoEivdFMXn"
       },
@@ -2195,22 +2179,34 @@
     {
       "added_at": "2024-08-24 23:19:12",
       "album": {
-        "name": "Te Ves Tan Bien",
-        "url": "https://open.spotify.com/album/16iG0rwdDy5fETPFjiDzth"
+        "name": "Homenaje A Ramon Vega",
+        "url": "https://open.spotify.com/album/4z3NVlGsa8vVXKtPYlOX56"
       },
       "artists": [
         {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        },
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
         }
       ],
-      "duration_ms": 173975,
-      "name": "Te Ves Tan Bien",
-      "url": "https://open.spotify.com/track/2jQSAAik7RO3EGv0YeJtXV"
+      "duration_ms": 197695,
+      "name": "Adolescente y Bonita",
+      "url": "https://open.spotify.com/track/1bEmliSa9glFleX7rzgzSk"
+    },
+    {
+      "added_at": "2024-08-24 23:19:12",
+      "album": {
+        "name": "Me Gustas \"Curiosa\"",
+        "url": "https://open.spotify.com/album/2acDzIkcpUDz0EECtj8mKq"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "duration_ms": 243463,
+      "name": "Me Gustas \"Curiosa\"",
+      "url": "https://open.spotify.com/track/3EOvNgTt2ZDM6CPHrnHyeo"
     }
   ],
   "unique_name": "Norte\u00f1o 2024",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is RENEE. Los temas esenciales, todos en una lista.",
-  "num_followers": 7603,
+  "description": "This is RENEE. The essential tracks, all in one playlist.",
+  "num_followers": 7606,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAD+CBypTXI7znsmJMqHsuM2",
+  "snapshot_id": "ZsvFgAAAAADu36fYKwOMmtbkumyOsl2B",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 177426,
-      "name": "Demasiado",
-      "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
+      "duration_ms": 190053,
+      "name": "Casual (YTQDV)",
+      "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/741haSJmAHRq0wVVN2NdpV"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 190053,
-      "name": "Casual (YTQDV)",
-      "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
+      "duration_ms": 177426,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/7w3MgTb99l7GvLJOBFTfB7"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecto",
-        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152050,
-      "name": "Perfecto",
-      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockea Bien Duro",
         "url": "https://open.spotify.com/album/34vemP8xTFy8VhTvwCDcLN"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 224533,
       "name": "A\u00fan Hay Algo",
       "url": "https://open.spotify.com/track/42q8MaOL25k3ZTz3Wa8xU2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfecto",
+        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152050,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
     },
     {
       "added_at": null,

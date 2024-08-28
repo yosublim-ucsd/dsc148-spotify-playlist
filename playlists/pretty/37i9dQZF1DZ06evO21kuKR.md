@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 
 ### [This Is Moneybagg Yo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO21kuKR)
 
-> This is Moneybagg Yo\. The essential tracks, all in one playlist.
+> This Is Moneybagg Yo\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,031 likes - 51 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,042 likes - 51 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21kuKR.md) - [plain]
 | 50 | [Feel The Same Way \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5nh5iMaYliOmgrhohSNOtJ) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hunger Games 3](https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za) | 3:32 |
 | 51 | [Acquittal](https://open.spotify.com/track/0kXi5NJQUhnFeTBTHsN8Jk) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Fed Baby’s](https://open.spotify.com/album/4RUq0kdGLKc5ROEv8I0lRY) | 3:10 |
 
-Snapshot ID: `Zsp0AAAAAADhxmlxDjnEnv5VWyuzUTYX`
+Snapshot ID: `ZsvFgAAAAABss0OzyHls5Iryu2yCQHYN`

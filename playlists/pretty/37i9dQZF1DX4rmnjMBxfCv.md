@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: Adam Port, Stryv
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,945 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,988 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 | 23 | [Ahebak](https://open.spotify.com/track/4GLX8N95KtElLmZTp79os3) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Joya](https://open.spotify.com/artist/1eR8UBKIijXBZhfnQMTq8r) | [Ahebak](https://open.spotify.com/album/1pInYMdKG9Nnt1QOluCcpG) | 5:22 |
 | 24 | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/track/6q9NkHUStU2RddAreEpomo) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ribale Wehbe](https://open.spotify.com/artist/0aDFtp48TNejF5G7hqM4J9) | [Andalusian \(feat\. Ribale Wehbe\)](https://open.spotify.com/album/5ysZd6Tg1QMm90mLUSCCjK) | 4:21 |
 | 25 | [Legion](https://open.spotify.com/track/3sYEZWuW8WcX8zojJchUEc) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Imad](https://open.spotify.com/artist/4skzy1qEMyM3FqC3b6EjRU), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Love Therapy \(Deluxe\)](https://open.spotify.com/album/4ZGDnQrN4T6TU4KT03tnF4) | 3:40 |
-| 26 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 |
+| 26 | [Amana](https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [VXSION](https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ), [Dawn Patrol](https://open.spotify.com/artist/6VjtBiQq4XbNxEKmAoAnDe) | [Amana](https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN) | 5:38 |
 | 27 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 28 | [stayinit](https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [stayinit](https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF) | 4:34 |
 | 29 | [1001 Nuits \- Radio Edit](https://open.spotify.com/track/74JKZeV9CIFMFu7xKtasi4) | [GROSSOMODDO](https://open.spotify.com/artist/541P8kParJeyWFaxfsEHdt) | [1001 Nuits \(Extended Mix\)](https://open.spotify.com/album/71DuLGOJwXTcvUzgndjClw) | 4:28 |

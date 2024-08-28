@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 ### [This Is Vangelis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Pv5ZK)
 
-> This Is Vangelis\. Los temas esenciales, todos en una lista.
+> This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,096 likes - 46 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,099 likes - 46 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 41 | [La mort du loup \- Remastered](https://open.spotify.com/track/1lkTNrICmRTEPVq8lGN093) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 3:05 |
 | 42 | [Titans](https://open.spotify.com/track/0VXRPy0D20PsuV35XIiJ1j) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Alexander \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0) | 3:59 |
 | 43 | [Eric's Theme](https://open.spotify.com/track/6OIWkL8SS7hoLtEBgHCgAT) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \- The Play](https://open.spotify.com/album/0lftnQqSdzjAgddNQqd57j) | 4:06 |
-| 44 | [Main Theme \- From "Chariots of Fire"](https://open.spotify.com/track/7pROUkMe7OJAQ9iGZqcik7) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Peaceful Piano Moods](https://open.spotify.com/album/58offraDl2HW0WWh4WCzUZ) | 5:31 |
-| 45 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
+| 44 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
+| 45 | [Main Theme \- From "Chariots of Fire"](https://open.spotify.com/track/7pROUkMe7OJAQ9iGZqcik7) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Peaceful Piano Moods](https://open.spotify.com/album/58offraDl2HW0WWh4WCzUZ) | 5:31 |
 | 46 | [My Dear Life](https://open.spotify.com/track/52Wvl8ZDJKrmLYpnr9aT4C) | [Mariangela Celeste](https://open.spotify.com/artist/2zuG4hA1xyS484HTQWx9Ih), [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Mariangela](https://open.spotify.com/album/6ax0VRKI8Maf6OyNIKUX4J) | 3:41 |
 
-Snapshot ID: `Zsp0AAAAAACgJj2zhnwg8Ou/b0Yqo3rz`
+Snapshot ID: `ZsvFgAAAAACMXLfxqIXdHA7yt9iy/ch1`

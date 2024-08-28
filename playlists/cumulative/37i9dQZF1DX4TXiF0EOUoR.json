@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Agua de T\u00e9",
+        "url": "https://open.spotify.com/album/2l9bArfA1xUx8VlN168tvQ"
+      },
+      "artists": [
+        {
+          "name": "Banda La Movida",
+          "url": "https://open.spotify.com/artist/4gD8odSwAK19NPcpUiFDf0"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170520,
+      "name": "Agua de T\u00e9",
+      "url": "https://open.spotify.com/track/5HqEVtaLpA8bLnlmX0y8AC"
+    },
+    {
+      "album": {
         "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
         "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
       },
@@ -185,6 +203,42 @@
     },
     {
       "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182920,
+      "name": "Arriba Pichataro",
+      "url": "https://open.spotify.com/track/4qgZRDRozAvoTiDtvj0qJe"
+    },
+    {
+      "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158146,
+      "name": "Arriba Tonichi",
+      "url": "https://open.spotify.com/track/7qcJmo4GYSfTVKaZaAkNRO"
+    },
+    {
+      "album": {
         "name": "Cahuates, Pistaches",
         "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
       },
@@ -279,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213951,
+      "name": "Corazon De Texas",
+      "url": "https://open.spotify.com/track/2QOpqX6wuf0wZhJto3jWKY"
+    },
+    {
+      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
       },
@@ -290,7 +362,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 219480,
       "name": "C\u00f3mo Me Duele",
       "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
@@ -344,7 +416,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 154853,
       "name": "El Alacr\u00e1n",
       "url": "https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r"
@@ -398,7 +470,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 171826,
       "name": "El Bigote",
       "url": "https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9"
@@ -416,10 +488,28 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 179346,
       "name": "El Cadete",
       "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
+    },
+    {
+      "album": {
+        "name": "Borracho 16 Exitos",
+        "url": "https://open.spotify.com/album/0HiCVaa9wM6QTTHM3D6vMB"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Escamilla",
+          "url": "https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "El Capiro",
+      "url": "https://open.spotify.com/track/42d9ExiLvYE8RLaPkVQimd"
     },
     {
       "album": {
@@ -452,7 +542,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 166876,
       "name": "El Chavo del Ocho (The Elephant Never Forgets)",
       "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
@@ -506,7 +596,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 188696,
       "name": "El Guapo",
       "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
@@ -740,7 +830,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 177930,
       "name": "El Novillo Despuntado",
       "url": "https://open.spotify.com/track/0GIzpXOlN76DoUWnK2F3bR"
@@ -762,6 +852,24 @@
       "duration_ms": 277796,
       "name": "El Novillo Despuntado / Toro Pinto",
       "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
+    },
+    {
+      "album": {
+        "name": "\u00a1\u00a1la Explosiva!!, Vol. 2",
+        "url": "https://open.spotify.com/album/4OT17ivovFVhVOlQTRk12w"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "El Ocotito",
+      "url": "https://open.spotify.com/track/5WxWzOGkYFKhXHK7d2yyP1"
     },
     {
       "album": {
@@ -816,6 +924,42 @@
       "duration_ms": 167787,
       "name": "El Olotito - En Vivo",
       "url": "https://open.spotify.com/track/3LL8k9l7vtZ7fWNakS3vwJ"
+    },
+    {
+      "album": {
+        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
+        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+      },
+      "artists": [
+        {
+          "name": "Banda Laser",
+          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147880,
+      "name": "El Palomito - Son",
+      "url": "https://open.spotify.com/track/0z7t1dVYkRoiXTX62TFZ7D"
+    },
+    {
+      "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136213,
+      "name": "El Pistolero - En Vivo",
+      "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
     },
     {
       "album": {
@@ -1025,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Puras De Viento En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179063,
+      "name": "El Son De La Rabia - En Vivo",
+      "url": "https://open.spotify.com/track/1vJCOsDg9LZRIZImi0oBb6"
+    },
+    {
+      "album": {
         "name": "Puras Pa'levantar la Polvadera",
         "url": "https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F"
       },
@@ -1115,6 +1277,24 @@
     },
     {
       "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/2YPhK6xUjkzscg4IfsLoFN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Tecateando",
+          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252107,
+      "name": "El Son Del Veneno",
+      "url": "https://open.spotify.com/track/4cqHYRCRyS4e1KHgLgxQmH"
+    },
+    {
+      "album": {
         "name": "Bailando Ando",
         "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
       },
@@ -1184,7 +1364,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 216163,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/1iMcb6dkCoKbLIp9akziVk"
@@ -1310,7 +1490,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 119807,
       "name": "El Toro De Once (En Vivo)",
       "url": "https://open.spotify.com/track/1rKFrKfgTnpmcCQvFZ4xQJ"
@@ -1328,7 +1508,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 119807,
       "name": "El Toro De Once - En Vivo",
       "url": "https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ"
@@ -1454,7 +1634,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 157222,
       "name": "El Viejo Joven",
       "url": "https://open.spotify.com/track/4xbqcILQTNqzfHZaxq8Kny"
@@ -1490,10 +1670,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 157222,
       "name": "El Viejo Joven",
       "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
+    },
+    {
+      "album": {
+        "name": "La Estrella de Los Bailes",
+        "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167466,
+      "name": "Eva Maria",
+      "url": "https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz"
     },
     {
       "album": {
@@ -1508,7 +1706,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 167544,
       "name": "Eva Mar\u00eda",
       "url": "https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S"
@@ -1569,6 +1767,24 @@
     },
     {
       "album": {
+        "name": "Fiesta de Enero",
+        "url": "https://open.spotify.com/album/14wBf39CUmkvJqXvR8OKPg"
+      },
+      "artists": [
+        {
+          "name": "La Unica Flor De Chirimoyo",
+          "url": "https://open.spotify.com/artist/7H68WnqkPEXWadoCUkXKD9"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145397,
+      "name": "Fiesta de Enero",
+      "url": "https://open.spotify.com/track/5KhK6Wjsr7GBeLKrPlWune"
+    },
+    {
+      "album": {
         "name": "Los \u00danicos del Huapango Michoacano",
         "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
       },
@@ -1598,7 +1814,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 224722,
       "name": "Flor de Pi\u00f1a",
       "url": "https://open.spotify.com/track/4Gi4t7VTmsarbId2oEYZkj"
@@ -1616,7 +1832,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 224722,
       "name": "Flor de Pi\u00f1a",
       "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
@@ -1634,10 +1850,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-08",
+      "date_removed": null,
       "duration_ms": 288072,
       "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
       "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
+    },
+    {
+      "album": {
+        "name": "Hotel California",
+        "url": "https://open.spotify.com/album/2FkkCHgXFHCvsdCycIsMx7"
+      },
+      "artists": [
+        {
+          "name": "Banda Tecatera",
+          "url": "https://open.spotify.com/artist/4P6SoA5YgfGMyzQt7rhjKo"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263333,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/1eSP4YsWGo1kaKSTBTXyL1"
     },
     {
       "album": {
@@ -1742,7 +1976,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 210910,
       "name": "Jinetes en el Cielo",
       "url": "https://open.spotify.com/track/4SBMb814lP3UT0yG2ycJZa"
@@ -1876,6 +2110,64 @@
       "duration_ms": 210152,
       "name": "La Bola (Pelotero a la Bola)",
       "url": "https://open.spotify.com/track/6i6LOorHwaFqnM7cJNlqFH"
+    },
+    {
+      "album": {
+        "name": "Las Mamirriquis",
+        "url": "https://open.spotify.com/album/3Q6ytU0NXA47Ba4HEhaE6I"
+      },
+      "artists": [
+        {
+          "name": "Banda Trancazo",
+          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
+        },
+        {
+          "name": "Arturo Camarillo",
+          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164087,
+      "name": "La Burra Orejona",
+      "url": "https://open.spotify.com/track/4g9S6u0oMzIsRrHvubAyXt"
+    },
+    {
+      "album": {
+        "name": "Jalados Con La Banda Punto Medio \"Puras De Viento\"",
+        "url": "https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO"
+      },
+      "artists": [
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131328,
+      "name": "La Chiclanera",
+      "url": "https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI"
+    },
+    {
+      "album": {
+        "name": "Puras De Viento En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175934,
+      "name": "La Conga Roja - En Vivo",
+      "url": "https://open.spotify.com/track/4KdUaKzkre2iDLqR8N6W3I"
     },
     {
       "album": {
@@ -2293,6 +2585,42 @@
     },
     {
       "album": {
+        "name": "\u00a1\u00a1La Explosiva!!",
+        "url": "https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense Acero de Pablo Molina Jr.",
+          "url": "https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217280,
+      "name": "La Yaquesita",
+      "url": "https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj"
+    },
+    {
+      "album": {
+        "name": "De Michoac\u00e1n al Guamuchil (Los Mejores Sones de Jaripeo)",
+        "url": "https://open.spotify.com/album/5L4DglvthWqL4C95K4xhzQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128224,
+      "name": "Las Calandrias",
+      "url": "https://open.spotify.com/track/7hrnVefqSjCAcTpS02KiG3"
+    },
+    {
+      "album": {
         "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
         "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
       },
@@ -2524,10 +2852,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 148375,
       "name": "Lucesita",
       "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
+    },
+    {
+      "album": {
+        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
+        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+      },
+      "artists": [
+        {
+          "name": "Banda Laser",
+          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Male Chabelita",
+      "url": "https://open.spotify.com/track/3UFZ7Mfgi91WrhvDSFibxR"
     },
     {
       "album": {
@@ -2578,10 +2924,28 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 441000,
       "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
       "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
+    },
+    {
+      "album": {
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186266,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/6MTPBQhyDwyDkYkiRbC5CJ"
     },
     {
       "album": {
@@ -2732,7 +3096,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-20",
+      "date_removed": null,
       "duration_ms": 217894,
       "name": "Mujer Alegre",
       "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
@@ -2768,7 +3132,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 241382,
       "name": "No Bailes De Caballito",
       "url": "https://open.spotify.com/track/1yOLrH7nF0R7MWDuuva6va"
@@ -2883,6 +3247,28 @@
     },
     {
       "album": {
+        "name": "La Trayectoria! (De Arturo Camarillo)",
+        "url": "https://open.spotify.com/album/5mcVVKulTCGOStTTJ6Pgir"
+      },
+      "artists": [
+        {
+          "name": "Banda Trancazo",
+          "url": "https://open.spotify.com/artist/6RS70ocGGNzPKiJVhgf3m9"
+        },
+        {
+          "name": "Arturo Camarillo",
+          "url": "https://open.spotify.com/artist/3p0GWiyIY3AOcBWvXXVQ4h"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164466,
+      "name": "Oye Traicionera",
+      "url": "https://open.spotify.com/track/38PM1JFTCqvHHFbc230ud1"
+    },
+    {
+      "album": {
         "name": "En Vivo Desde El Rancho",
         "url": "https://open.spotify.com/album/4zgtbXo3phFaCdBnGQ4x8N"
       },
@@ -2898,6 +3284,24 @@
       "duration_ms": 196736,
       "name": "Pelea De Gallos - En Vivo",
       "url": "https://open.spotify.com/track/0Ytws5SI0vLt2uPWvkgsj0"
+    },
+    {
+      "album": {
+        "name": "Comandos de Michoac\u00e1n",
+        "url": "https://open.spotify.com/album/6fV1noTc4bEO1CfW8wkoFA"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de la Banda",
+          "url": "https://open.spotify.com/artist/1eDU6zze1IhtqUGcLu026H"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Peque\u00f1a De Ojos Brujos",
+      "url": "https://open.spotify.com/track/11tKgwnryAHa6om6OjIZhX"
     },
     {
       "album": {
@@ -2948,7 +3352,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 199307,
       "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
       "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
@@ -3002,7 +3406,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-13",
+      "date_removed": null,
       "duration_ms": 199706,
       "name": "Popurri Michoacano ... El Son Del P\u00e1lomino / El Son Del Gallito / El Zapatazo / Cara De Pingo",
       "url": "https://open.spotify.com/track/7mwhO5vDMaFn9kuRSdamQU"
@@ -3060,6 +3464,24 @@
       "duration_ms": 260160,
       "name": "Popurr\u00ed Cumbias: La Yaquecita / La Cumbia Bonita / El Aparatito",
       "url": "https://open.spotify.com/track/4Y9RNuHmJXcQhnPFt3DVcM"
+    },
+    {
+      "album": {
+        "name": "Male Chabelita (M\u00fasica Purepecha, Abaje\u00f1os, Sones, Pir\u00e9kuas)",
+        "url": "https://open.spotify.com/album/2tbKTrnyshXBM5MXbGYqfr"
+      },
+      "artists": [
+        {
+          "name": "Banda Laser",
+          "url": "https://open.spotify.com/artist/4zJu5sFluXkd36RFmo8LN4"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165906,
+      "name": "Popurr\u00ed de Sones / Huapango de Moncayo / Tavo Rivera / Guadalajara / Juan Colorado",
+      "url": "https://open.spotify.com/track/3JQ7VHzXjdr99GP0bQ47s5"
     },
     {
       "album": {
@@ -3172,7 +3594,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs"
@@ -3190,7 +3612,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 180106,
       "name": "Prov\u00f3came",
       "url": "https://open.spotify.com/track/7EhjgNLMiTYCh6ClCy3RIT"
@@ -3305,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "15 Aniversario",
+        "url": "https://open.spotify.com/album/5nIe1Rb2LZHb0knEt8fHLJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Tecateando",
+          "url": "https://open.spotify.com/artist/2uWjEIYCwEoNTL37llzsfe"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242207,
+      "name": "Sones Tecateando",
+      "url": "https://open.spotify.com/track/0UrHzYYNOXu4i6SQxPjyLh"
+    },
+    {
+      "album": {
         "name": "Me Gustan Las Viejas Buenas",
         "url": "https://open.spotify.com/album/70xlTaBOwwuHqnJ2aqiiLD"
       },
@@ -3377,6 +3817,60 @@
     },
     {
       "album": {
+        "name": "En Vivo Desde Las Oficinas De Servando ZL",
+        "url": "https://open.spotify.com/album/4YZ39lOnq2saNrZ8l1l8t6"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206355,
+      "name": "Tecateando - En Vivo",
+      "url": "https://open.spotify.com/track/63vp1Be4yhGYSErbKBa5AG"
+    },
+    {
+      "album": {
+        "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
+        "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense de Acero",
+          "url": "https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "Toro Viejo",
+      "url": "https://open.spotify.com/track/3UIy1QHz6iVA4rbUisudzG"
+    },
+    {
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150293,
+      "name": "Tumbando Ca\u00f1a (El Alacr\u00e1n)",
+      "url": "https://open.spotify.com/track/3U047sYv0nyixJuVA9JNOv"
+    },
+    {
+      "album": {
         "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
         "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
@@ -3392,6 +3886,24 @@
       "duration_ms": 153893,
       "name": "Tumbando Ca\u00f1a (El Alacr\u00e1n)",
       "url": "https://open.spotify.com/track/1nYctdlrpFVSId9yEkxYQi"
+    },
+    {
+      "album": {
+        "name": "Nuestra Historia Musical (Volumen 1)",
+        "url": "https://open.spotify.com/album/1k9LWM4YJYsRLUK3okmr8r"
+      },
+      "artists": [
+        {
+          "name": "Banda Ola Azul de Zirahuen",
+          "url": "https://open.spotify.com/artist/5GwsVzB4N0FIiILYzLuszR"
+        }
+      ],
+      "date_added": "2024-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193053,
+      "name": "Un Angel No Debe Llorar",
+      "url": "https://open.spotify.com/track/55owFYkdLsQ0W9BORZ3C84"
     },
     {
       "album": {

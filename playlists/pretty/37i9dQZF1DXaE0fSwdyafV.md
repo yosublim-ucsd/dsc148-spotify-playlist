@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 
 > It's the witching hours\. Cover: Paris Paloma
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,540 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,533 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaE0fSwdyafV.md) - [plain]
 | 51 | [I Put a Spell On You](https://open.spotify.com/track/3sLhMSePzxSrmxluIqeoAZ) | [Screamin' Jay Hawkins](https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z) | [At Home with Screamin' Jay Hawkins](https://open.spotify.com/album/2lKtE0pl4RtMD2bUwKzdcz) | 2:24 |
 | 52 | [Levitation](https://open.spotify.com/track/7EWDXdu3BzLLCuAGrAx4RT) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:54 |
 | 53 | [Wading In Waist\-High Water](https://open.spotify.com/track/1u8PeiYinEIxqWGXcxSgrI) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 2:15 |
-| 54 | [She Dances](https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:43 |
-| 55 | [Midnight](https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn) | [Toby Sebastian](https://open.spotify.com/artist/2E2qYypdcZVQTeZKesefNP), [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Midnight](https://open.spotify.com/album/3DerzT4an3hcrvlPLV3Bpd) | 4:45 |
+| 54 | [Midnight](https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn) | [Toby Sebastian](https://open.spotify.com/artist/2E2qYypdcZVQTeZKesefNP), [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Midnight](https://open.spotify.com/album/3DerzT4an3hcrvlPLV3Bpd) | 4:45 |
+| 55 | [She Dances](https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:43 |
 | 56 | [Witch's Rune](https://open.spotify.com/track/05SBYEaOoRBtrAAveD4Lph) | [S\. J\. Tucker](https://open.spotify.com/artist/2kfFvaclobAe56G43yOAbS) | [Blessings](https://open.spotify.com/album/2DsCVzaFJ8N5VXZwkOsk5e) | 4:23 |
 | 57 | [Practical Magic](https://open.spotify.com/track/356poNyArJ68eErTR07Xqq) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Practical Magic \(Music From The Motion Picture\)](https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw) | 3:57 |
 | 58 | [Lavender Moon](https://open.spotify.com/track/3WqYzk6Z6rwb7GPrxTZdYA) | [Haroula Rose](https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG) | [These Open Roads](https://open.spotify.com/album/52LjU6ZDq3LnLnSgT0nc6k) | 2:09 |

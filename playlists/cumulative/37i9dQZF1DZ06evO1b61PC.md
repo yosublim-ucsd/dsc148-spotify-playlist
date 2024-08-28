@@ -4,7 +4,7 @@
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-50 songs - 3 hr 2 min
+51 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/track/3w74Pz5BG5OUq4clvB3iJ2) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/album/6OtXCPzbIwmPPTLUDc9n7B) | 3:06 | 2024-01-29 |  |
 | [The World Is Ours](https://open.spotify.com/track/0YDSEyBzPsuQzkuc9Bu8iR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/16CCJo59jCko0476mRMmQu) | 3:42 | 2024-01-29 | 2024-08-24 |
 | [The World Is Ours](https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:42 | 2024-08-24 |  |
+| [This Song Reminds Me Of You](https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 | 2024-08-28 |  |
 | [This Song Reminds Me Of You](https://open.spotify.com/track/2gmhlNXdqrbqmlpps8qTsc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/3RUimnrKcKNrCXkBkjPhBG) | 3:54 | 2024-01-29 | 2024-08-21 |
 | [This Song Reminds Me Of You \- Piano Version by David Park](https://open.spotify.com/track/0go48v79b8XuDxcC06sY5H) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 2:06 | 2024-08-21 | 2024-08-22 |
 | [This Space In My Heart Is for You](https://open.spotify.com/track/4gw3U6M0xzvFAdIpFWrQjO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/16CCJo59jCko0476mRMmQu) | 1:35 | 2024-01-29 | 2024-08-21 |

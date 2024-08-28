@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,173 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,184 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 22 | [Talk My Shit \(feat\. Amaarae & Flo Milli\)](https://open.spotify.com/track/09imUl1oyaB2R86qBgEhCN) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 3:45 |
 | 23 | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [We Uh Shoot \(feat\. Lil Durk\)](https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh) | 2:33 |
 | 24 | [Style Rare \(with Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(with Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 |
-| 25 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 |
-| 26 | [ATM](https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [ATM](https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS) | 2:17 |
+| 25 | [ATM](https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [ATM](https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS) | 2:17 |
+| 26 | [Survivor’s Remorse](https://open.spotify.com/track/4Xg53MegsZ6MRIbZ2kE6Eh) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Survivor’s Remorse](https://open.spotify.com/album/1vLOjsLCZT2mO1hqYS940W) | 2:36 |
 | 27 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 |
 | 28 | [Trojan Horse](https://open.spotify.com/track/2HALQBSAvpw1oCzL5QsrT2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 4:08 |
 | 29 | [WOTOWOTO SEASONING \(feat\. Black Sherif\)](https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [EZIOKWU \(UNCUT\)](https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW) | 2:51 |

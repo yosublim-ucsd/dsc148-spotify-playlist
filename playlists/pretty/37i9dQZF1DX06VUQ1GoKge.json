@@ -1,6 +1,6 @@
 {
   "description": "Don\u2019t Sweat It!",
-  "num_followers": 555561,
+  "num_followers": 555536,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
+        "name": "T\u016b",
+        "url": "https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M"
+      },
+      "artists": [
+        {
+          "name": "Alien Weaponry",
+          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
+        }
+      ],
+      "duration_ms": 395500,
+      "name": "Kai Tangata",
+      "url": "https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
         "name": "Atonement",
         "url": "https://open.spotify.com/album/6kkUp557e0o5k0dRBfohJZ"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 185066,
       "name": "The Signal Fire (feat. Howard Jones)",
       "url": "https://open.spotify.com/track/2Fup9XFE9sXWu9Qft2Q7ZB"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
-        "name": "T\u016b",
-        "url": "https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M"
-      },
-      "artists": [
-        {
-          "name": "Alien Weaponry",
-          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
-        }
-      ],
-      "duration_ms": 395500,
-      "name": "Kai Tangata",
-      "url": "https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "Would you be my therapy?",
-        "url": "https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk"
-      },
-      "artists": [
-        {
-          "name": "TSS",
-          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
-        }
-      ],
-      "duration_ms": 159771,
-      "name": "Would you be my therapy?",
-      "url": "https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP"
-    },
-    {
-      "added_at": "2024-07-15 13:16:22",
-      "album": {
         "name": "The Poison",
         "url": "https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 185879,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/0oD7vsrHsBHiUMIBEa5EmK"
+    },
+    {
+      "added_at": "2024-07-15 13:16:22",
+      "album": {
+        "name": "Would you be my therapy?",
+        "url": "https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk"
+      },
+      "artists": [
+        {
+          "name": "TSS",
+          "url": "https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT"
+        }
+      ],
+      "duration_ms": 159771,
+      "name": "Would you be my therapy?",
+      "url": "https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP"
     },
     {
       "added_at": "2024-07-15 13:16:22",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2024-07-15 13:16:22",
       "album": {
-        "name": "The Shape of Water",
-        "url": "https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN"
+        "name": "The Paradigm Shift (Deluxe)",
+        "url": "https://open.spotify.com/album/6TA5d51wosfWuZXyOKWzpG"
       },
       "artists": [
         {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        },
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         }
       ],
-      "duration_ms": 214666,
-      "name": "The Shape of Water",
-      "url": "https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5"
+      "duration_ms": 264862,
+      "name": "Spike in My Veins",
+      "url": "https://open.spotify.com/track/1wzZLs3oFoMcSbf1nEzhLm"
     },
     {
       "added_at": "2024-07-15 13:16:22",

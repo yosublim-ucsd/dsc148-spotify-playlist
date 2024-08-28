@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 
 ### [This Is Majo Aguilar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4drHIS)
 
-> This Is Majo Aguilar\. Los temas esenciales, todos en una lista.
+> This is Majo Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,085 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,106 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 23 | [Me Vale](https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vale](https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj) | 3:01 |
 | 24 | [Para No Verte Más](https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 3:12 |
 | 25 | [Gaviota Traidora](https://open.spotify.com/track/4oimJ9AgVLAgZ00qTbCPan) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mi Herencia, Mi Sangre](https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH) | 2:52 |
-| 26 | [Déjame Vivir](https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Déjame Vivir](https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK) | 3:29 |
-| 27 | [Tik Tik Tik](https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Tik Tik Tik](https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0) | 3:11 |
+| 26 | [Tik Tik Tik](https://open.spotify.com/track/6Seb15Io8eCdPKwfY5Klyd) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Tik Tik Tik](https://open.spotify.com/album/52YZyzwbqzIMPuxlfXpBP0) | 3:11 |
+| 27 | [Déjame Vivir](https://open.spotify.com/track/5Sc3hAINcW0WmiOyhQuK2g) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Déjame Vivir](https://open.spotify.com/album/4yG38ivZD1u0BAaPBvv5bK) | 3:29 |
 | 28 | [¿Por Qué Dejaste Que Te Amara?](https://open.spotify.com/track/17H9sXEby5J8WKibYU1GNz) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Cuando Te Enamores](https://open.spotify.com/album/1a14TBSWfnPbsB4zDNXu2f) | 3:44 |
 | 29 | [Cómo Te Olvido](https://open.spotify.com/track/1CIFAglkWiVnQlF4BVYt5h) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 4:17 |
-| 30 | [Hasta Que Regreses](https://open.spotify.com/track/113DePdXtrX328UFntdtyP) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Hasta Que Regreses](https://open.spotify.com/album/1OxCRM4wBdZ6XASmHhP6jw) | 3:05 |
-| 31 | [Si Una Vez \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 2:38 |
+| 30 | [Si Una Vez \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/02eDT52J9sMICWNGgVdVen) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 2:38 |
+| 31 | [Hasta Que Regreses](https://open.spotify.com/track/113DePdXtrX328UFntdtyP) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP), [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Hasta Que Regreses](https://open.spotify.com/album/1OxCRM4wBdZ6XASmHhP6jw) | 3:05 |
 | 32 | [Tómbola](https://open.spotify.com/track/02PKYlcYtRo1uz67X9UQZC) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Tómbola](https://open.spotify.com/album/7eAtiCTXIBBiofTOAu5e2g) | 2:45 |
 | 33 | [Busca Un Confidente](https://open.spotify.com/track/1CQ9fJeERTkZsX00Hgv9d7) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Una Buena Ranchera](https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo) | 3:12 |
-| 34 | [Como Tu Mujer](https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:23 |
-| 35 | [Échame A Mí La Culpa \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 3:19 |
+| 34 | [Échame A Mí La Culpa \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/2FR0aP9ppAiu2LYH122ZFa) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 3:19 |
+| 35 | [Como Tu Mujer](https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [México Mi Amor](https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg) | 3:23 |
 | 36 | [Te Mentiría](https://open.spotify.com/track/5SmRbNjy5vS5na3WKr49TF) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 2:49 |
 | 37 | [Cielo Rojo](https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Cielo Rojo](https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G) | 4:18 |
 | 38 | [Amigos](https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amigos](https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV) | 2:48 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 41 | [En Toda La Chapa](https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [En Toda La Chapa](https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL) | 2:57 |
 | 42 | [Culpable O No \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/0wDhUumgBeHJx2yWpbMZRw) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 2:24 |
 | 43 | [Pude](https://open.spotify.com/track/7rdiGNueHhOSiJMHOEM7LT) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:06 |
-| 44 | [Se Solicita](https://open.spotify.com/track/2uVlMbVtRgeHBaCCn1LhXb) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Solicita](https://open.spotify.com/album/24Y0xsPo84ooFzYeZKLoWR) | 3:04 |
-| 45 | [De Lo Que Te Perdiste](https://open.spotify.com/track/3byTwf4E9XF2pe5wQbHhmq) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:00 |
+| 44 | [De Lo Que Te Perdiste](https://open.spotify.com/track/3byTwf4E9XF2pe5wQbHhmq) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:00 |
+| 45 | [Se Solicita](https://open.spotify.com/track/2uVlMbVtRgeHBaCCn1LhXb) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Solicita](https://open.spotify.com/album/24Y0xsPo84ooFzYeZKLoWR) | 3:04 |
 | 46 | [Si Nos Dejan \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/156kSaEIxWoI5vZcqvnTxS) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 2:31 |
 | 47 | [Como Tú](https://open.spotify.com/track/5qOQu5mjGoOd1vu7UHfbvD) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón \(Deluxe\)](https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg) | 2:42 |
 | 48 | [Me Vas A Llorar](https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Me Vas A Llorar](https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U) | 3:11 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4drHIS.md) - [plain]
 | 50 | [Mis Noches Sin Ti](https://open.spotify.com/track/1Q1pPLnJqsWHSIu4H5rOHI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:24 |
 | 51 | [Acá Entre Nos \- En Vivo Desde Pa’l Norte](https://open.spotify.com/track/6Bb9shiyxV9Oy7ppVpNZAw) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Pa'l Norte \(En Vivo Desde Pa’l Norte\)](https://open.spotify.com/album/0iZIWj3Tkg2Ja7d45qPm0g) | 3:43 |
 
-Snapshot ID: `Zsp0AAAAAAAAjq+0+hEsKv3XjM4ULGEO`
+Snapshot ID: `ZsvFgAAAAACiZ3ObIhGzfIuFsUxrFDr/`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,241 likes - 85 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,287 likes - 85 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 32 | [Que Sorte](https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [Gente](https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z) | 3:16 |
 | 33 | [Fiz Esse Som Pra Você \- Acústica](https://open.spotify.com/track/0vJbHJ7RP01MIAmKhLCXg7) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Fiz Esse Som Pra Você](https://open.spotify.com/album/3toYATEN96msGnJ34emqb5) | 3:29 |
 | 34 | [O amor te dá](https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO) | [O amor te dá](https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW) | 4:07 |
-| 35 | [Maior Que Nós](https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Maior Que Nós](https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51) | 2:52 |
-| 36 | [Bem Me Queira](https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Bem Me Queira](https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ) | 2:25 |
+| 35 | [Bem Me Queira](https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW), [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Bem Me Queira](https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ) | 2:25 |
+| 36 | [Maior Que Nós](https://open.spotify.com/track/3oiTGo0oNxtT1kQvZHMyCe) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Maior Que Nós](https://open.spotify.com/album/1mRbqQtEQ4NvHOgPK9MA51) | 2:52 |
 | 37 | [Louca \- Ao Vivo](https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Sem Filtro \(Ao Vivo em Noronha\)](https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg) | 3:04 |
 | 38 | [Nós Dois Aqui](https://open.spotify.com/track/3vt4GCCBVD9jIULux6DyRV) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Nós Dois Aqui](https://open.spotify.com/album/4DddAUiTd1aqnc99kF2g3q) | 4:01 |
 | 39 | [Juntin](https://open.spotify.com/track/1sOoISLSEm5oyDkTfdxiph) | [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Juntin](https://open.spotify.com/album/4wN9p2830m4vGoUrlZCV9L) | 2:59 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 45 | [Te Amar É Fácil](https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Te Amar É Fácil](https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa) | 2:38 |
 | 46 | [Andar Leve](https://open.spotify.com/track/5ZSGfppfIgP8aatrNTe4Lo) | [TNS](https://open.spotify.com/artist/0AjgF3N3x4PUJnZzVYEnXg), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Andar Leve](https://open.spotify.com/album/6YyWW3XWH2YaEHdbmAfe2P) | 2:45 |
 | 47 | [Rara](https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5) | [Bruno Chelles](https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d), [Santino](https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa) | [Rara](https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn) | 3:17 |
-| 48 | [Carnaval a Dois](https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Carnaval a Dois](https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw) | 3:05 |
-| 49 | [Flor de Aruanda \- Infusão](https://open.spotify.com/track/3P8ZgPBITvYwQb3vwhxABO) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Capim\-Cidreira \(Infusão\)](https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5) | 3:33 |
+| 48 | [Flor de Aruanda \- Infusão](https://open.spotify.com/track/3P8ZgPBITvYwQb3vwhxABO) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Capim\-Cidreira \(Infusão\)](https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5) | 3:33 |
+| 49 | [Carnaval a Dois](https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Carnaval a Dois](https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw) | 3:05 |
 | 50 | [Te Levar \- Acústico](https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [Te Levar \(Acústico\)](https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ) | 2:53 |
 | 51 | [Se Não Fosse por Ontem](https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Se Não Fosse por Ontem](https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq) | 3:28 |
 | 52 | [borboletas](https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf) | [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [borboletas](https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi) | 2:55 |

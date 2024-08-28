@@ -1,6 +1,6 @@
 {
   "description": "The songs we've been partying to in 2023. Cover:  #SpotifyWrapped",
-  "num_followers": 61856,
+  "num_followers": 61855,
   "original_name": "Top Party Hits of 2023",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
         "name": "Watch This (ARIZONATEARS Pluggnb Remix)",
         "url": "https://open.spotify.com/album/3VvPLpCZR5viLBFTbzm6E1"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 131013,
+      "name": "Boy's a liar Pt. 2",
+      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
       "added_at": "2023-11-29 12:15:00",

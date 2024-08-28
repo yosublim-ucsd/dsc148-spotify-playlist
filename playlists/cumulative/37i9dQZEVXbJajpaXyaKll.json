@@ -607,6 +607,32 @@
     },
     {
       "album": {
+        "name": "GOTTI A",
+        "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165054,
+      "name": "Alegr\u00eda",
+      "url": "https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb"
+    },
+    {
+      "album": {
         "name": "ALGO DENTRO DE MI",
         "url": "https://open.spotify.com/album/4521RW6Yo4YGV3IgMUEcRE"
       },
@@ -1576,7 +1602,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 245625,
       "name": "BOLOLO HAHA",
       "url": "https://open.spotify.com/track/41gW3bE0kOTH5ibqa74C0S"
@@ -2336,7 +2362,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/09keT5ocFhEd5W5HidiUNq"
@@ -2354,7 +2380,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
@@ -2876,7 +2902,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 181488,
       "name": "Cuentale (Guaracha)",
       "url": "https://open.spotify.com/track/4BlNATALL3ZiHGSKY1QrqV"
@@ -3086,6 +3112,24 @@
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
+    },
+    {
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
       "album": {
@@ -3452,6 +3496,24 @@
       "duration_ms": 271400,
       "name": "El Tesoro",
       "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
+    },
+    {
+      "album": {
+        "name": "El Traje del PSG",
+        "url": "https://open.spotify.com/album/7si1GXgwYOKGt9y4F0VK90"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Da Rosa",
+          "url": "https://open.spotify.com/artist/1aKohXKamlQBtSQz2LwGax"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163666,
+      "name": "El Traje del PSG",
+      "url": "https://open.spotify.com/track/0aKBAAr9c9blu9ArZ3TGiT"
     },
     {
       "album": {
@@ -4729,6 +4791,24 @@
     },
     {
       "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168926,
+      "name": "Haegeum",
+      "url": "https://open.spotify.com/track/4bjN59DRXFRxBE1g5ne6B1"
+    },
+    {
+      "album": {
         "name": "Harpy Hare",
         "url": "https://open.spotify.com/album/73CN9zX4PxZ5kejWqPTCOz"
       },
@@ -4762,7 +4842,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 188887,
       "name": "Hasta Aqu\u00ed Llegu\u00e9",
       "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
@@ -4802,7 +4882,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 105836,
       "name": "HAY LUPITA",
       "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
@@ -5278,7 +5358,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -6043,6 +6123,24 @@
     },
     {
       "album": {
+        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
+        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
+      },
+      "artists": [
+        {
+          "name": "I'll Take You There Choir",
+          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152893,
+      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
+      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -6789,6 +6887,28 @@
     },
     {
       "album": {
+        "name": "Maradona (Tatara)",
+        "url": "https://open.spotify.com/album/7k2xukz06wN3vKdaRHprPW"
+      },
+      "artists": [
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150485,
+      "name": "Maradona (Tatara)",
+      "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
+    },
+    {
+      "album": {
         "name": "Al Gran Pueblo Argentino Salud",
         "url": "https://open.spotify.com/album/5fgPIiakOWH45TfTARPIY5"
       },
@@ -6986,7 +7106,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 154961,
       "name": "MENTE EN BLANCO",
       "url": "https://open.spotify.com/track/50OckWpSCDhxhaxMeGxjlN"
@@ -7387,6 +7507,24 @@
     },
     {
       "album": {
+        "name": "Mix Cumbias VV1 (Mil Preguntas, Doctorado, Mientes)",
+        "url": "https://open.spotify.com/album/4s7377pYdVHMPYU9QqjkY3"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285126,
+      "name": "Mix Cumbias VV1 (Mil Preguntas, Doctorado, Mientes)",
+      "url": "https://open.spotify.com/track/5Ml3L4YK3g0SjQLo21JWG0"
+    },
+    {
+      "album": {
         "name": "MONTAGEM DIAMANTE ROSA",
         "url": "https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1"
       },
@@ -7454,7 +7592,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 144359,
       "name": "MONTAGEM VOZES PROFUNDAS - Ultra Slowed",
       "url": "https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN"
@@ -7668,7 +7806,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 198295,
       "name": "Municiones Guaracha - Aleteo Remix",
       "url": "https://open.spotify.com/track/3uUGkrRyPuyW7KyJwNDyqb"
@@ -7894,7 +8032,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 320200,
       "name": "Nasty (Official Remix) [feat. Farruko, Messiah & Almighty]",
       "url": "https://open.spotify.com/track/4dHclKrthlMHUPOWfRb9vp"
@@ -9044,7 +9182,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -9944,7 +10082,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 69360,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
@@ -10480,6 +10618,32 @@
       "duration_ms": 156341,
       "name": "Solo Piensa En Papi",
       "url": "https://open.spotify.com/track/4WT6DqvKHYzgXG3MMfIcx9"
+    },
+    {
+      "album": {
+        "name": "Soltera - W Sound 01",
+        "url": "https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142022,
+      "name": "Soltera - W Sound 01",
+      "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
     },
     {
       "album": {
@@ -12438,7 +12602,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 107971,
       "name": "WHINE IN BRAZIL FUNK",
       "url": "https://open.spotify.com/track/1Xvs6IKi0O1PWYzzIwxR2Q"

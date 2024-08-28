@@ -8677,6 +8677,24 @@
     },
     {
       "album": {
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/6Zk1V7559eJbW2GfJE2Y8p"
+      },
+      "artists": [
+        {
+          "name": "Alexis B",
+          "url": "https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/6BGZU873n3qSXXTKXBtlNR"
+    },
+    {
+      "album": {
         "name": "Holding On (Rome In Silver Remix)",
         "url": "https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Chi Xê
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,374 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,386 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

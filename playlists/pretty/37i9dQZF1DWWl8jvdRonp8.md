@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,260 likes - 125 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,389 likes - 125 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 57 | [Sin Él](https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Por Eso...Gracias](https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a) | 3:30 |
 | 58 | [Que Vuelva](https://open.spotify.com/track/3p80qaEZZnZ96CkhQ7V1dD) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:46 |
 | 59 | [Invéntame](https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:25 |
-| 60 | [Como fui a enamorarme de ti](https://open.spotify.com/track/6ZtlLTjNCmFK8rO14BL1vh) | [Banda Llano Verde](https://open.spotify.com/artist/4NqXy0nQDsW6dHrS4KSG54) | [Como fui a enamorarme de ti](https://open.spotify.com/album/5gTPhW1jEwW02Ngtc0yhLx) | 3:54 |
-| 61 | [Presiento Que Voy a Llorar \- Con Banda](https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:04 |
-| 62 | [Mi Fantasía](https://open.spotify.com/track/2fH7AMRWzhUuWoUgheULIw) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:16 |
-| 63 | [Nada Es Igual](https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:06 |
+| 60 | [Presiento Que Voy a Llorar \- Con Banda](https://open.spotify.com/track/3d7dxnoJSRxwEFOeT9MwLk) | [Dinamicos Jrs](https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ) | [Para Dejarte de Querer](https://open.spotify.com/album/25xSXTuq8aM9UwcX8XBAsy) | 3:04 |
+| 61 | [Mi Fantasía](https://open.spotify.com/track/2fH7AMRWzhUuWoUgheULIw) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:16 |
+| 62 | [Nada Es Igual](https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:06 |
+| 63 | [Como fui a enamorarme de ti](https://open.spotify.com/track/6ZtlLTjNCmFK8rO14BL1vh) | [Banda Llano Verde](https://open.spotify.com/artist/4NqXy0nQDsW6dHrS4KSG54) | [Como fui a enamorarme de ti](https://open.spotify.com/album/5gTPhW1jEwW02Ngtc0yhLx) | 3:54 |
 | 64 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/3QzZrgJWdkOZrGPZU3Qgpu) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:48 |
 | 65 | [Sigue Sin Mi](https://open.spotify.com/track/0SrxRhhNIhyTx0wLTl4zCt) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:16 |
 | 66 | [Si Te Pudiera Mentir](https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:09 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 71 | [Y Ahora Te Vas](https://open.spotify.com/track/7ddotqHpNB4DEEyqyqADGv) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 4:18 |
 | 72 | [A Donde Vayas \(En Vivo\)](https://open.spotify.com/track/2O8jEh0CMGuMRnB4zmfY2y) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Barra Abierta a los Dolidos..\. \(En Vivo\)](https://open.spotify.com/album/31Dhjy2qlvaPwURQfQQ1Mc) | 3:56 |
 | 73 | [Para Que No Te Vayas](https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:16 |
-| 74 | [Ya No Te Vayas](https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:41 |
-| 75 | [Y Ahora Te Vas](https://open.spotify.com/track/3YQSe3Xg8sqy8wjFQc87kI) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 3:35 |
+| 74 | [Y Ahora Te Vas](https://open.spotify.com/track/3YQSe3Xg8sqy8wjFQc87kI) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 3:35 |
+| 75 | [Ya No Te Vayas](https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:41 |
 | 76 | [Más Que Tu Amigo](https://open.spotify.com/track/1ZdXOEAEcOt3gwB71vYCie) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:30 |
 | 77 | [El Peor De Mis Fracasos](https://open.spotify.com/track/4EK2Jj9U45MPsUekGKv1zV) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Con Sierreño Mis Canciones Favoritas](https://open.spotify.com/album/3JfDDBD3ZA2UOik3IcsxJH) | 3:11 |
 | 78 | [O Me Voy O Te Vas](https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:51 |

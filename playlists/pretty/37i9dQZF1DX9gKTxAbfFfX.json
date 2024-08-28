@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 748200,
+  "num_followers": 748518,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "added_at": "2024-08-19 08:51:16",
+      "album": {
         "name": "SAKURA",
         "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 253962,
       "name": "BADGYAL",
       "url": "https://open.spotify.com/track/3ng8tfwvzR4BBwa9yaMms6"
-    },
-    {
-      "added_at": "2024-08-19 08:51:16",
-      "album": {
-        "name": "UWAIE",
-        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "UWAIE",
-      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
       "added_at": "2024-08-19 08:51:16",
@@ -531,6 +531,26 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
+        "name": "El Merengue",
+        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 189668,
+      "name": "El Merengue",
+      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
+    },
+    {
+      "added_at": "2024-08-19 08:51:16",
+      "album": {
         "name": "Cuando Te Vi | CROSSOVER #5",
         "url": "https://open.spotify.com/album/5B3AaoOK8o22cYkdoBOVFI"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 218400,
       "name": "Cuando Te Vi | CROSSOVER #5",
       "url": "https://open.spotify.com/track/5OwAhFlvFZ4ZdGDfroYgAm"
-    },
-    {
-      "added_at": "2024-08-19 08:51:16",
-      "album": {
-        "name": "El Merengue",
-        "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 189668,
-      "name": "El Merengue",
-      "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
     },
     {
       "added_at": "2024-08-19 08:51:16",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2024-08-19 08:51:16",
+      "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
@@ -735,18 +751,22 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+        "name": "Visual\u00edzate",
+        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+      "duration_ms": 203160,
+      "name": "La Gozadera (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
     },
     {
       "added_at": "2024-08-19 08:51:16",
@@ -783,22 +803,18 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
-        "name": "Visual\u00edzate",
-        "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 203160,
-      "name": "La Gozadera (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2024-08-19 08:51:16",
@@ -819,22 +835,6 @@
       "duration_ms": 210788,
       "name": "Guay",
       "url": "https://open.spotify.com/track/1S3SAFqLBWk3HaR5UyXp43"
-    },
-    {
-      "added_at": "2024-08-19 08:51:16",
-      "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2024-08-19 08:51:16",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-08-19 08:51:16",
       "album": {
-        "name": "La Vida Entera",
-        "url": "https://open.spotify.com/album/0w3NZl1UA3Kr8DzTfa1E2R"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 177423,
-      "name": "La Vida Entera",
-      "url": "https://open.spotify.com/track/1zgb3QCX8jo4IGRg56tjvj"
-    },
-    {
-      "added_at": "2024-08-19 08:51:16",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 214506,
       "name": "Del Mar",
       "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2024-08-19 08:51:16",
+      "album": {
+        "name": "La Vida Entera",
+        "url": "https://open.spotify.com/album/0w3NZl1UA3Kr8DzTfa1E2R"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 177423,
+      "name": "La Vida Entera",
+      "url": "https://open.spotify.com/track/1zgb3QCX8jo4IGRg56tjvj"
     },
     {
       "added_at": "2024-08-19 08:51:16",

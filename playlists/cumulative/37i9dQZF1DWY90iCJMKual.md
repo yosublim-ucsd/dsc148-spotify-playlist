@@ -4,7 +4,7 @@
 
 > 🇵🇭 vibin' 🥶 🔥 Cover: DEMI
 
-279 songs - 15 hr 44 min
+280 songs - 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Infinity](https://open.spotify.com/track/0RpPFZ6DkjdCHEUzvfJyo0) | [Quest](https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Infinity](https://open.spotify.com/album/6tgIge8laKuwvRXCvmdbka) | 4:32 | 2022-10-12 | 2023-07-29 |
 | [introduction](https://open.spotify.com/track/3QlNUfIiaeqGnfyZeD36qk) | [Sean Andrae](https://open.spotify.com/artist/3wcoOSFXygwGD05qWTTFcj) | [introduction](https://open.spotify.com/album/1M5vPyHJdTe1BHyssIoTHH) | 3:06 | 2024-02-06 | 2024-05-09 |
 | [It's You](https://open.spotify.com/track/3ZP8wV15wdpidIbAR7X4Ft) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [It's You](https://open.spotify.com/album/69P3eeSa6ZHsjlpMhVqsNo) | 2:27 | 2023-07-28 | 2023-10-28 |
+| [julie pakipot](https://open.spotify.com/track/0mAzGN40qLHmKL5uMKV8Ht) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [bahay namin maliit lamang](https://open.spotify.com/album/5MgFxCKMfta2fQequyHHrt) | 2:15 | 2024-08-27 |  |
 | [Kahit Saglit](https://open.spotify.com/track/2xdQcpEQa9TgINvnoV1OwM) | [SV Squad](https://open.spotify.com/artist/3ahPeyV1LjlV6yLElntHXP), [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [SV3](https://open.spotify.com/artist/5xt5G0G86DWjAoVW3zmY54), [MSTRYOVERSE](https://open.spotify.com/artist/5UrbDafjmKdIIZirS8zM3I) | [Kahit Saglit](https://open.spotify.com/album/3CJM4TUV7T6a6XMxq5ohsm) | 3:10 | 2023-04-06 | 2023-11-18 |
 | [Kailangan](https://open.spotify.com/track/6T4S0dtryTeI5TOqhTYWHP) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Kailangan](https://open.spotify.com/album/6x8VAVkEo2VlH4ATAFhKgl) | 3:01 | 2023-07-18 |  |
 | [Kailangan ko ng…](https://open.spotify.com/track/3adl1iFtTa7KU31A7s1DtR) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [Kailangan ko ng…](https://open.spotify.com/album/4vSgXSM5OqxanzpJQqhFET) | 3:45 | 2022-10-12 | 2023-07-29 |

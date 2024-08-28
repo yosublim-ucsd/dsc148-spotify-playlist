@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,042 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,045 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Apesar De Você](https://open.spotify.com/track/2GAFZG9Z7UGS1iMm4Idrnr) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [MPB4](https://open.spotify.com/artist/3SKTkAUNa3oUa2rkd8DAyM), [Quarteto Em Cy](https://open.spotify.com/artist/177N2fB1WvNBCQ4epjMQ3O) | [Chico Buarque](https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR) | 3:55 |
 | 2 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Amor Festa Devoção Ao Vivo](https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38) | 5:00 |
-| 3 | [Mal Acostumada \- Ao Vivo](https://open.spotify.com/track/7vjXPjtvm9IjoPKGVyfg10) | [Ara Ketu](https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog) | [Ao Vivo](https://open.spotify.com/album/5pRG4SxFRIp5QZPczn1Ngx) | 4:23 |
-| 4 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
+| 3 | [A Menina Dança](https://open.spotify.com/track/3pSTUZbp7J5jg2JHChTf21) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:52 |
+| 4 | [Mal Acostumada \- Ao Vivo](https://open.spotify.com/track/7vjXPjtvm9IjoPKGVyfg10) | [Ara Ketu](https://open.spotify.com/artist/6NqIUh0cpaygBWUUAjBaog) | [Ao Vivo](https://open.spotify.com/album/5pRG4SxFRIp5QZPczn1Ngx) | 4:23 |
 | 5 | [Toda Menina Baiana](https://open.spotify.com/track/0ENvhTTww1MVOulrzuxSmu) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Realce](https://open.spotify.com/album/7dBoyhnlxf1DvmWxtgQPLr) | 3:46 |
 | 6 | [Vou Festejar](https://open.spotify.com/track/54JLlb23AnzXErLRSNVIUn) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [De Pé No Chão](https://open.spotify.com/album/2QxzAhXKjoUuiVO2sqMjP6) | 3:09 |
 | 7 | [Tropicana \(Morena Tropicana\)](https://open.spotify.com/track/54BLy0zSiBUOINjOwMC3M2) | [Alceu Valença](https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG) | [20 Grandes Sucessos De Alceu Valença](https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9) | 3:51 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 33 | [Xangô](https://open.spotify.com/track/19K67ARK51RFvi3CDdB69g) | [Emerson Dias](https://open.spotify.com/artist/6X4xWRzBiyR5w1WnsetCsz), [Acadêmicos Do Salgueiro](https://open.spotify.com/artist/1o6Ib1rhaC0r4YoVKayJWz) | [Sambas De Enredo Das Escolas De Samba 2019](https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr) | 5:31 |
 | 34 | [História Para Ninar Gente Grande](https://open.spotify.com/track/5ofP0ayCr1BAMVxvsmyx7x) | [Marquinho Art'Samba](https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh), [Estação Primeira de Mangueira](https://open.spotify.com/artist/57gFx4InXjpZonDknnllp0) | [Sambas De Enredo Das Escolas De Samba 2019](https://open.spotify.com/album/66TEWcDCI9C2gO3HG89OCr) | 4:31 |
 | 35 | [Nossa Gente \(Avisa Lá\)](https://open.spotify.com/track/1QluL2jd49QDy4TTKusBav) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música Do Olodum \- 20 Anos](https://open.spotify.com/album/0EBLPCgXWUYtb5F4ApxTdd) | 3:03 |
-| 36 | [Diga Que Valeu \- Ao Vivo](https://open.spotify.com/track/6hJkTyrjoHdndSHprRDnH0) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:16 |
-| 37 | [Alo Paixao](https://open.spotify.com/track/0TLMrzswR4kG8ApYQsnGMy) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Pra Abalar](https://open.spotify.com/album/40olpdt7taxMHjbkx0s8Qm) | 4:02 |
+| 36 | [Alo Paixao](https://open.spotify.com/track/0TLMrzswR4kG8ApYQsnGMy) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Pra Abalar](https://open.spotify.com/album/40olpdt7taxMHjbkx0s8Qm) | 4:02 |
+| 37 | [Diga Que Valeu \- Ao Vivo](https://open.spotify.com/track/6hJkTyrjoHdndSHprRDnH0) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Bloco do Silva \(Ao Vivo\)](https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI) | 3:16 |
 | 38 | [Masculino E Feminino](https://open.spotify.com/track/5umkCnxriYdRwXYJm8e7FB) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Maxximum \- Pepeu Gomes E Baby Consuelo](https://open.spotify.com/album/4NdY1uTJ4sru9FbWXMIIIl) | 3:44 |
 | 39 | [A Vida É Festa](https://open.spotify.com/track/6VOD2jucQ4ojsKWN8AOzr4) | [Banda Beijo](https://open.spotify.com/artist/6scgR2PrQGb4TU4MTCQdVK) | [Aconteceu](https://open.spotify.com/album/5sMLKAXXcMzEGUUBF9aOmZ) | 3:52 |
 | 40 | [Zé Do Caroço](https://open.spotify.com/track/0zVtuNNT7kTeRhuq9DE1fb) | [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Raizes Do Samba](https://open.spotify.com/album/0VWK9vBkLWyAG0XlFQKPwF) | 3:26 |

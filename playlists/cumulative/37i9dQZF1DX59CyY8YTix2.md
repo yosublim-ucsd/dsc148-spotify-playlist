@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: 礼賛 \(Raisan\)
 
-1,703 songs - 4 day 9 hr 55 min
+1,705 songs - 4 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -977,6 +977,7 @@
 | [わっしょいダンシング](https://open.spotify.com/track/1h8qlRg7T9dEbXetMeWCYe) | [Uchudan](https://open.spotify.com/artist/1WHpW3NlTIdo7P4we5jFKC) | [わっしょいダンシング](https://open.spotify.com/album/4aAtNzomwKb4ntk63z3jnv) | 2:42 | 2023-10-31 | 2023-11-02 |
 | [アイボリー](https://open.spotify.com/track/4GMaIw82hDFLPIuqxsLv3A) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [アイボリー](https://open.spotify.com/album/7mBvVv2ZUmNzKp9q1jdTlb) | 4:22 | 2022-06-02 | 2022-06-04 |
 | [アイラブ](https://open.spotify.com/track/5x6cGmgNWIWyTqTPlF14EF) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [アイラブ](https://open.spotify.com/album/4WghwGoJvLYFqIjlbsu4mF) | 4:10 | 2023-03-23 | 2023-05-05 |
+| [アウト](https://open.spotify.com/track/0YMfHLifgez6XrLKrUfo1k) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [アウト](https://open.spotify.com/album/3oMZR2UaMhxcZcdwLW27ly) | 3:19 | 2024-08-27 |  |
 | [アオイハル](https://open.spotify.com/track/66ydmKAjLJwzo9smBmqHzN) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [アオイハル](https://open.spotify.com/album/2O8vfiV6slbOX3Wiywfgsj) | 3:53 | 2024-04-30 | 2024-05-22 |
 | [アクアリウム](https://open.spotify.com/track/0tU3Q2nmXeRthdgMSa8W0U) | [tricot](https://open.spotify.com/artist/5IKKS7LhpdlmMwqIagqf3f) | [アクアリウム](https://open.spotify.com/album/7yMYTapNfaKx4qmbR7QteL) | 3:41 | 2022-10-04 | 2022-12-24 |
 | [アドレナリン](https://open.spotify.com/track/2q0sbFHXhbna1RiXFjI5DQ) | [きのぽっぽ](https://open.spotify.com/artist/7wELjvjV3KJdFtxYlZ5bhf) | [アドレナリン](https://open.spotify.com/album/1MZjaXorONwU05tMmEMpKH) | 2:42 | 2024-05-21 | 2024-06-12 |
@@ -1215,7 +1216,7 @@
 | [ミルクコーヒー](https://open.spotify.com/track/6q2azHJI820CeEB4bAANIP) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [ミルクコーヒー](https://open.spotify.com/album/5rxI6eWrdgodXZbix1Z7Ad) | 4:12 | 2022-06-02 | 2022-07-11 |
 | [ムゲンライセ](https://open.spotify.com/track/6LGQzoAsFX3lVqdoFk9sa6) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [ムゲンライセ](https://open.spotify.com/album/3UAY8qw0iGV52Jk2b1QvAG) | 3:41 | 2022-12-29 | 2023-01-11 |
 | [ムーンドライバー](https://open.spotify.com/track/2t4eYtF4gFF9UcFvDN41Pm) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ムーンドライバー](https://open.spotify.com/album/7da23Lp8vILfquBe5gw1af) | 4:11 | 2022-07-19 | 2022-07-27 |
-| [ムーンライトリバース](https://open.spotify.com/track/7GCcj2cdw2Vf2t4E9GaqCp) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ムーンライトリバース](https://open.spotify.com/album/4Nch95brVfWe5qqDkJmLQ4) | 4:10 | 2024-08-06 |  |
+| [ムーンライトリバース](https://open.spotify.com/track/7GCcj2cdw2Vf2t4E9GaqCp) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ムーンライトリバース](https://open.spotify.com/album/4Nch95brVfWe5qqDkJmLQ4) | 4:10 | 2024-08-06 | 2024-08-28 |
 | [ムーヴ](https://open.spotify.com/track/2ZZOFbq0vCAYSJKnZ6u5ld) | [青い](https://open.spotify.com/artist/7KFqxwEis6G5L0yAYqYrXe) | [ムーヴ](https://open.spotify.com/album/5I6fiujXDmKXJLvU8wBpJy) | 3:24 | 2022-09-27 | 2022-11-02 |
 | [メイ](https://open.spotify.com/track/02gB1gWn7Gbs9oySId5Jso) | [SOM4LI](https://open.spotify.com/artist/7DT4fNnvRM3afyDfwm3hof) | [メイ](https://open.spotify.com/album/51gJqL941ZUIQhrH6OZJ3u) | 2:53 | 2022-08-17 | 2022-08-24 |
 | [メイデン](https://open.spotify.com/track/5n4hfQXhSc1nXYoKTAS2xb) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [僕だけの愛](https://open.spotify.com/album/1rUF9QA4jMdL55gIgL0vxZ) | 2:55 | 2024-02-22 | 2024-04-24 |
@@ -1335,7 +1336,7 @@
 | [南無三](https://open.spotify.com/track/0EOut5YkIhbRd66GJtjrPQ) | [ミシェルメルモ](https://open.spotify.com/artist/2xFlXkuJ58t21HfApcZhH6) | [Meta\-Märchen](https://open.spotify.com/album/5y4VJGmVr4u9KUiiD1f2vH) | 3:43 | 2022-09-13 | 2022-09-21 |
 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 | 2022-05-31 | 2022-07-29 |
 | [又三郎](https://open.spotify.com/track/3WtIXrla0ovC9MOIY78Vr8) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [又三郎](https://open.spotify.com/album/4AwuTLeiuyjx93I05ZBS82) | 3:47 | 2022-06-23 | 2022-12-14 |
-| [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 | 2022-07-19 |  |
+| [双葉](https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [双葉](https://open.spotify.com/album/2iFDmdWIklUksYTCnbiuFw) | 4:37 | 2022-07-19 | 2024-08-28 |
 | [可愛いユナちゃん](https://open.spotify.com/track/51Wglv2PINrDBmgjFBZAet) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [可愛いユナちゃん](https://open.spotify.com/album/2Tq9r4PxlmsRHur9umG7Aw) | 3:59 | 2023-11-21 | 2024-07-31 |
 | [君が好き](https://open.spotify.com/track/5ayV49fExKlGllY8oyebHI) | [Easycome](https://open.spotify.com/artist/6sXjklgdrq2fcMVZ9gh6do) | [君が好き](https://open.spotify.com/album/1ilZXqYgWvF23c13eWO39D) | 3:37 | 2022-06-23 | 2022-07-03 |
 | [君が思い出したら](https://open.spotify.com/track/2daV7kt818vpPzuzVlndxq) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [君が思い出したら](https://open.spotify.com/album/39KG47MwdsDLXuj8T0Uuzf) | 3:38 | 2024-06-25 | 2024-07-10 |
@@ -1580,6 +1581,7 @@
 | [知らんけど](https://open.spotify.com/track/4RmQudx1XKp4l1IkwQcRpk) | [mihoro\*](https://open.spotify.com/artist/6klHctW8dryXG9b5RrCLmV) | [知らんけど](https://open.spotify.com/album/0HyPt0GRzwr6VvPdcTCY8v) | 3:56 | 2022-06-02 | 2022-06-07 |
 | [知らんぺったんゴリラ](https://open.spotify.com/track/5x6qXYhjiEyLQzwKEQIAlJ) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [知らんぺったんゴリラ](https://open.spotify.com/album/3578skEb0Nqt2WkKallFy1) | 2:15 | 2022-06-27 | 2022-06-29 |
 | [短編小説](https://open.spotify.com/track/0POqNxQicVUy2vLw66iRl9) | [CARAMEL CANDiD](https://open.spotify.com/artist/4nDSmohFDEuowSQQjTAStH) | [短編小説](https://open.spotify.com/album/5aHLMgXq2qk9JwOZtJpgAS) | 4:03 | 2024-01-23 | 2024-01-25 |
+| [社会の窓](https://open.spotify.com/track/6lUBiOrB0ilG4wQ0y86oOf) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [社会の窓](https://open.spotify.com/album/7F5svuiFOfQk9nbukmemfV) | 2:46 | 2024-08-27 |  |
 | [祝日天国](https://open.spotify.com/track/6zTD1K9pkrFg4UN7reegf1) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [祝日天国](https://open.spotify.com/album/5n0s8subG1xzl9SDxBT58D) | 4:01 | 2022-11-08 | 2022-12-14 |
 | [神様](https://open.spotify.com/track/7pTzcynk2FjT23kYssUHdw) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [THE ZOMBIE](https://open.spotify.com/album/0Dw5E1BFl1yRCs7U36x5XN) | 3:52 | 2022-06-14 | 2022-07-19 |
 | [神様](https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [神様](https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc) | 3:27 | 2024-05-14 | 2024-07-10 |

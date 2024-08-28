@@ -2,7 +2,7 @@
 
 ### [This Is Kane Brown](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YpyzC)
 
-> This is Kane Brown\. The essential tracks, all in one playlist.
+> This is Kane Brown\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 89 songs - 4 hr 49 min
 

@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-176 songs - 8 hr 38 min
+177 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [egirl wanna do bdsm.nsfw](https://open.spotify.com/track/23H7hqMiuNHrPU8AR9JNoy) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [XNI](https://open.spotify.com/artist/3ibuYNQ2Oxu7lWcNf6Ww7c), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [egirl wanna do bdsm.nsfw](https://open.spotify.com/album/4Pt415qukXaaPjSmxWtFgr) | 2:36 | 2022-11-19 | 2024-07-12 |
 | [Fast Pass](https://open.spotify.com/track/39wnOZkUJODG6ZxGqHkXoT) | [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI) | [Fast Pass](https://open.spotify.com/album/1d0Zd9cEVBugHOAuJQYNu9) | 2:58 | 2024-07-12 | 2024-08-21 |
 | [FEEL THE RAIN](https://open.spotify.com/track/5S4qnop8G4JOMquKu8Hdd5) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/0WIVj9OTSnoe28qTwAjgyN) | 3:27 | 2022-11-19 | 2023-06-17 |
-| [FEEL THE RAIN](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 | 2024-02-27 |  |
+| [FEEL THE RAIN](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 | 2024-02-27 | 2024-08-28 |
 | [FFNM](https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF) | [Bank.Somsaart](https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT) | [Who ride wit us](https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8) | 2:44 | 2022-11-19 |  |
 | [FLY](https://open.spotify.com/track/0cvYy3Ei7KTanZ1572x6Sw) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [BLAISE](https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb), [S TILL I DIE](https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW) | [FLY](https://open.spotify.com/album/3AwrmY3wR3Ob9HbAchBYyu) | 3:00 | 2024-02-27 | 2024-07-13 |
 | [FLY](https://open.spotify.com/track/6BkXrlhT0eJYc6ingXKM0P) | [OVER KILL](https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3), [BLAISE](https://open.spotify.com/artist/3qNQdzi0cdAEz9p64r41Xb), [S TILL I DIE](https://open.spotify.com/artist/1ICd95tL6iZcEKFEQpuWaW) | [FLY](https://open.spotify.com/album/0jVGbk26C3NaEdLRO7SIyA) | 3:00 | 2024-02-06 | 2024-04-19 |
@@ -184,5 +184,6 @@
 | [ヤバいな](https://open.spotify.com/track/1acXpvOjQiCDgEkPLPFupe) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [ヤバいな](https://open.spotify.com/album/4vOk4ViilWFM1MUCO94oU8) | 2:29 | 2024-05-01 |  |
 | [借り物 GOLD Tesla](https://open.spotify.com/track/516qLLDr8BVG6nMw48bvPy) | [SHO](https://open.spotify.com/artist/5LB9PUYILc91y1BHtqJL4d) | [借り物 GOLD Tesla](https://open.spotify.com/album/2IFNXdoTkrm7Ca1lvDnq5K) | 2:44 | 2024-02-27 | 2024-04-24 |
 | [力をくれ](https://open.spotify.com/track/35FFFojzUUlFAwKIXCPvNi) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [力をくれ](https://open.spotify.com/album/7qu1zz3XI91cCz99mhHg33) | 3:16 | 2024-07-17 |  |
+| [右に回すKey](https://open.spotify.com/track/3J5QUv57nXeHPvS7bF7NTb) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C) | [右に回すKey](https://open.spotify.com/album/0pgbsmwK3HeO6cWK0zaHlg) | 1:40 | 2024-08-21 |  |
 
 \*This playlist was first scraped on 2022-11-25. Prior content cannot be recovered.

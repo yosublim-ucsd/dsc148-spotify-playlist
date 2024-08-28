@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Listen to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:4gzyIFii6fWdCiLsP0bocC">The Gray Havens</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,042 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,069 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

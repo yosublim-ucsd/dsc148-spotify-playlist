@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 
 > El sonido siniestro de los noventa\. Foto: Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,972 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,093 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 42 | [Tonight, Tonight \- Remastered 2012](https://open.spotify.com/track/4iCGSi1RonREsPtfEKYj5b) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:14 |
 | 43 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
 | 44 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 |
-| 45 | [Bone Machine \- 2007 Remaster](https://open.spotify.com/track/7ERZgMLgpVhrp2D6JYy02t) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:03 |
-| 46 | [Who Was In My Room Last Night?](https://open.spotify.com/track/6DVNQXL9LRzKq8zjyFEuTC) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Independent Worm Saloon](https://open.spotify.com/album/74xinIrhpnjl3XdynXAUOo) | 4:09 |
+| 45 | [Who Was In My Room Last Night?](https://open.spotify.com/track/6DVNQXL9LRzKq8zjyFEuTC) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Independent Worm Saloon](https://open.spotify.com/album/74xinIrhpnjl3XdynXAUOo) | 4:09 |
+| 46 | [Bone Machine \- 2007 Remaster](https://open.spotify.com/track/7ERZgMLgpVhrp2D6JYy02t) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa \(2007 Remaster\)](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:03 |
 | 47 | [The Perfect Drug](https://open.spotify.com/track/14tKBoKXxGakkoEmYuFfor) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Lost Highway](https://open.spotify.com/album/77PY9VYriArqduEpkD2Ues) | 5:15 |
 | 48 | [Black Sunshine](https://open.spotify.com/track/0D7aPFnFa9qIVFpOJ1ZBTG) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 4:49 |
 | 49 | [Disarm \- 2011 Remaster](https://open.spotify.com/track/7A8caPxvrT8ZgLvQPPUCcj) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 3:16 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWLHV8zWnb0a.md) - [plain]
 | 70 | [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 |
 | 71 | [A Strange Kind of Love \- Version One](https://open.spotify.com/track/1zPAojZywAA8wCIScNMGK6) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Deep](https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa) | 3:48 |
 | 72 | [Lovesong \- Remastered](https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 3:28 |
-| 73 | [Corpse Pose](https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe) | [Unwound](https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0) | [Repetition](https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn) | 3:05 |
-| 74 | [Metal Heart](https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:02 |
+| 73 | [Metal Heart](https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Moon Pix](https://open.spotify.com/album/6AoSTHrd6oEaeUYBEGdLTb) | 4:02 |
+| 74 | [Corpse Pose](https://open.spotify.com/track/1kDZq29NLE2RRZ9mp8LxVe) | [Unwound](https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0) | [Repetition](https://open.spotify.com/album/30GshgppFRvO0G5RNbleZn) | 3:05 |
 | 75 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
 
 Snapshot ID: `ZpHCugAAAAAHBT85w2kbFs+GkFiYlrvd`

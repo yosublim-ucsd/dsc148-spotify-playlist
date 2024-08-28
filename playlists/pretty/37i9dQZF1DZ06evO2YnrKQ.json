@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACwkQfq60YCkQcyWT6zS9XV",
+  "snapshot_id": "ZsvFgAAAAADgDj+bv+pVkFXpQTqXNoxV",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
-        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 200763,
-      "name": "Accept Crime - Live",
-      "url": "https://open.spotify.com/track/7JTQuGvm5y837W5j9cfLK6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Complicit",
         "url": "https://open.spotify.com/album/0FLQLADNmE3rJUKZk9vIqn"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 238418,
       "name": "Complicit",
       "url": "https://open.spotify.com/track/2dJaFIQVtnoHmwkwuq8tUw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crisis (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 255293,
+      "name": "Thrones",
+      "url": "https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crisis (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/2nNVfMFWChevVdrt8HYuuT"
+        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
+        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 255293,
-      "name": "Thrones",
-      "url": "https://open.spotify.com/track/5K7prEZuUXRJFJoecoOmuk"
+      "duration_ms": 200763,
+      "name": "Accept Crime - Live",
+      "url": "https://open.spotify.com/track/7JTQuGvm5y837W5j9cfLK6"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
-        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 376906,
-      "name": "Dogs Blood - Live",
-      "url": "https://open.spotify.com/track/1k6EbFWkBkB6nqGuO6RApc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aussie Tour 7inch",
         "url": "https://open.spotify.com/album/63StEaSHnTVqtGy6dwBqnB"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 280600,
       "name": "The Dead Heart",
       "url": "https://open.spotify.com/track/1LRUSV7dc7sfeLKQx0szKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(LIVE) - Born & Raised 2022, St Catharines ON",
+        "url": "https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 376906,
+      "name": "Dogs Blood - Live",
+      "url": "https://open.spotify.com/track/1k6EbFWkBkB6nqGuO6RApc"
     }
   ],
   "unique_name": "This Is Alexisonfire",

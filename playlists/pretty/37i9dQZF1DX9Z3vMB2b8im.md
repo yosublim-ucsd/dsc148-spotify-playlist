@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,292,720 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,292,782 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 13 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 |
 | 14 | [In The Light](https://open.spotify.com/track/0DkZi0It78PGI6Nn7toKwR) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [American Romance](https://open.spotify.com/album/5YXocog13Ei8qItXxiQxsX) | 3:15 |
 | 15 | [The View Between Villages](https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:35 |
-| 16 | [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 |
-| 17 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
+| 16 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
+| 17 | [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 |
 | 18 | [Crying Over U](https://open.spotify.com/track/0P6Q6GTosgQk3iSexNGHJS) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Country](https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7) | 3:54 |
 | 19 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
 | 20 | [Movie Star](https://open.spotify.com/track/6aRmjhWmg9pAioffjegxtp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 1:32 |
@@ -73,14 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 63 | [My Space Is Overgrown](https://open.spotify.com/track/0rQXWkK5iqhKlUZaROzm4I) | [Aayushi](https://open.spotify.com/artist/1r2kTJ27zuaEoXasQT5NDd) | [My Space Is Overgrown](https://open.spotify.com/album/4ghpXfXSE8K7Fcb96Hgm4p) | 3:53 |
 | 64 | [Homesick](https://open.spotify.com/track/7d0kDcSMb4gITAYL5Os52M) | [Dwara](https://open.spotify.com/artist/1tXP3SuS8FuVbJDejcrcmG), [Khotton](https://open.spotify.com/artist/3nJV4WKGZ6rh9LqpdwCOnS) | [Homesick](https://open.spotify.com/album/5SfwE6ByYqjZLv2SwWLgFf) | 3:53 |
 | 65 | [Songs in the Kitchen](https://open.spotify.com/track/190G1tt4vK1kMexFTuA1ob) | [Seánie Bermingham](https://open.spotify.com/artist/11SKACGCH6dgAW0RxQPMxK) | [Songs in the Kitchen](https://open.spotify.com/album/7lajSVr58lAZI6I15HNGNZ) | 3:10 |
-| 66 | [Half of Mine](https://open.spotify.com/track/0jk9fGjCcebNf4TfrJBMl0) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Tarian](https://open.spotify.com/artist/7h5vyR4LxVT0UZLBMcT59P) | [Half of Mine](https://open.spotify.com/album/5vn826N8Fxt4E0DKvEnwX6) | 2:58 |
-| 67 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 |
+| 66 | [Gin & Tonics](https://open.spotify.com/track/2yyDkQwTDkrf9B6t53dgb6) | [George David](https://open.spotify.com/artist/1NXtGiEomSRw1p2sxpIzft) | [Gin & Tonics](https://open.spotify.com/album/4mwPWJ52L7ZZ06QNoQxrza) | 2:31 |
+| 67 | [Half of Mine](https://open.spotify.com/track/0jk9fGjCcebNf4TfrJBMl0) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Tarian](https://open.spotify.com/artist/7h5vyR4LxVT0UZLBMcT59P) | [Half of Mine](https://open.spotify.com/album/5vn826N8Fxt4E0DKvEnwX6) | 2:58 |
 | 68 | [New Song](https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [New Song](https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY) | 4:36 |
 | 69 | [Forever For Now](https://open.spotify.com/track/36wyK4BQLsL2wy3gWCgz4F) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Joshua](https://open.spotify.com/album/07POYRnUQ5sXuJEAy1x8hQ) | 4:13 |
 | 70 | [Like I Used To](https://open.spotify.com/track/4EWvA59SKYHIOdMpfv6JNP) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Like I Used To](https://open.spotify.com/album/5TZg7JUKQEvzxj0G6NdIXe) | 2:40 |
 | 71 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
-| 72 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 |
-| 73 | [Fair Weather Lover](https://open.spotify.com/track/4KjvtegojYGdeVqCy8rk0Z) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Fair Weather Lover](https://open.spotify.com/album/3CbKO4e8b3iMwAUH1SJVZM) | 4:04 |
+| 72 | [Fair Weather Lover](https://open.spotify.com/track/4KjvtegojYGdeVqCy8rk0Z) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Fair Weather Lover](https://open.spotify.com/album/3CbKO4e8b3iMwAUH1SJVZM) | 4:04 |
+| 73 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 |
 | 74 | [Future History](https://open.spotify.com/track/2S1K6UlJ0hSOGcG8gCgt9m) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Future History](https://open.spotify.com/album/1fk0AaDbZMUX4z4PQNwkfr) | 4:05 |
 | 75 | [185](https://open.spotify.com/track/0LbUR36wATKwIhSJ4lW53s) | [Sylvan Weekends](https://open.spotify.com/artist/3y2Dvykabi8ukmsWAmWor2) | [Outliers](https://open.spotify.com/album/5mxAAP0M6dTKMJP2iucZcM) | 3:24 |
 | 76 | [The World Turns](https://open.spotify.com/track/2QDe9NxlEQRlYE9rqja2Gj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The World Turns](https://open.spotify.com/album/6pU7eZ9plEaMsCEjF3Y2kQ) | 4:21 |

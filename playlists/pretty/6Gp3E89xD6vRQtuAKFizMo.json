@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44232,
+  "num_followers": 44230,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZnFT9kJLf+s+Z9Lk7Bm/q0gP3cXP0",
+  "snapshot_id": "AAAZnW73Uh7qBD2BMIiHqOASrptcSxr6",
   "tracks": [
+    {
+      "added_at": "2024-08-27 16:27:22",
+      "album": {
+        "name": "Paparazzi (feat. CERES)",
+        "url": "https://open.spotify.com/album/3Mm4nJGwnaNbmfDZtOtGEQ"
+      },
+      "artists": [
+        {
+          "name": "Madds",
+          "url": "https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy"
+        },
+        {
+          "name": "Hektor Mass",
+          "url": "https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "duration_ms": 178125,
+      "name": "Paparazzi (feat. CERES)",
+      "url": "https://open.spotify.com/track/31ggAAisFrVT25iWx5TnRX"
+    },
     {
       "added_at": "2024-08-23 16:54:14",
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 2882,
+  "num_followers": 2918,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -107,26 +107,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Culpables",
-        "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Culpables",
-      "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Canela",
         "url": "https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 204629,
       "name": "Canela",
       "url": "https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Culpables",
+        "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -439,22 +439,18 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "GPS (feat. French Montana)",
-        "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 216306,
-      "name": "GPS (feat. French Montana)",
-      "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
+      "duration_ms": 243957,
+      "name": "Las Jordan",
+      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -475,18 +471,22 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "LLNM2",
-        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+        "name": "GPS (feat. French Montana)",
+        "url": "https://open.spotify.com/album/391Aef4X78Ta4Y7XpRJw6q"
       },
       "artists": [
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         }
       ],
-      "duration_ms": 243957,
-      "name": "Las Jordan",
-      "url": "https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig"
+      "duration_ms": 216306,
+      "name": "GPS (feat. French Montana)",
+      "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1731,6 +1731,26 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
+        "name": "Adicto",
+        "url": "https://open.spotify.com/album/3hsVpi0akF0YplUrrwIId2"
+      },
+      "artists": [
+        {
+          "name": "Zizzy",
+          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
+        },
+        {
+          "name": "Adrian Be",
+          "url": "https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Adicto",
+      "url": "https://open.spotify.com/track/44bbiqusWRVrq2SUasYvQe"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
         "name": "No Lo Se",
         "url": "https://open.spotify.com/album/60CojhteCCRDrHyEggr75i"
       },
@@ -1751,26 +1771,6 @@
       "duration_ms": 224556,
       "name": "No Lo Se",
       "url": "https://open.spotify.com/track/2AzgvH7QJkq4nXBLQeLhuD"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
-        "name": "Adicto",
-        "url": "https://open.spotify.com/album/3hsVpi0akF0YplUrrwIId2"
-      },
-      "artists": [
-        {
-          "name": "Zizzy",
-          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
-        },
-        {
-          "name": "Adrian Be",
-          "url": "https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Adicto",
-      "url": "https://open.spotify.com/track/44bbiqusWRVrq2SUasYvQe"
     },
     {
       "added_at": "2024-07-26 04:59:00",

@@ -1,12 +1,12 @@
 {
-  "description": "pop woke up and chose chaos. cover: GAYLE",
-  "num_followers": 83985,
+  "description": "pop woke up and chose chaos. cover: LISA, ROSAL\u00cdA",
+  "num_followers": 83978,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zp8qwAAAAAAGs6XXZ4gOH/9GqpUEvrKS",
+  "snapshot_id": "Zs15cAAAAAAWk0ArE1lh4SBoUUy2sCYK",
   "tracks": [
     {
       "added_at": "2024-07-23 04:00:00",
@@ -181,20 +181,24 @@
       "url": "https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o"
     },
     {
-      "added_at": "2024-07-15 02:15:37",
+      "added_at": "2024-08-27 07:00:00",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
       },
       "artists": [
         {
           "name": "LISA",
           "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -311,18 +315,18 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 138800,
-      "name": "Yuck",
-      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -339,6 +343,38 @@
       "duration_ms": 177582,
       "name": "i hope ur miserable until ur dead",
       "url": "https://open.spotify.com/track/4ka1FkKAMde6dQAFFMXKac"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 138800,
+      "name": "Yuck",
+      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
+    },
+    {
+      "added_at": "2024-08-27 07:00:00",
+      "album": {
+        "name": "I Hope It Hurts",
+        "url": "https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 249003,
+      "name": "I Hope It Hurts",
+      "url": "https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -375,6 +411,22 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
+        "name": "die first",
+        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 177108,
+      "name": "die first",
+      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
         "name": "Dolls",
         "url": "https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe"
       },
@@ -403,22 +455,6 @@
       "duration_ms": 149053,
       "name": "Not Another Rockstar",
       "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "die first",
-        "url": "https://open.spotify.com/album/56raLTkxER12w8xejGTpSG"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 177108,
-      "name": "die first",
-      "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -553,6 +589,22 @@
       "url": "https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2"
     },
     {
+      "added_at": "2024-08-27 07:00:00",
+      "album": {
+        "name": "biting my tongue",
+        "url": "https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "duration_ms": 180816,
+      "name": "the me i was",
+      "url": "https://open.spotify.com/track/5CPsaOIdRdBROb4dvIfKfM"
+    },
+    {
       "added_at": "2024-07-15 02:15:37",
       "album": {
         "name": "YES MOM",
@@ -601,6 +653,22 @@
       "url": "https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ"
     },
     {
+      "added_at": "2024-08-27 07:00:00",
+      "album": {
+        "name": "Tears on the dancefloor",
+        "url": "https://open.spotify.com/album/7eiXcxepPal5LmfLfX2hqj"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 173515,
+      "name": "Tears on the dancefloor",
+      "url": "https://open.spotify.com/track/0OXC7IGzv3OmxZBXhtC522"
+    },
+    {
       "added_at": "2024-07-15 02:15:37",
       "album": {
         "name": "Aston",
@@ -615,6 +683,38 @@
       "duration_ms": 218660,
       "name": "Middle Fingers",
       "url": "https://open.spotify.com/track/0zMjJjBTngvWZqZ9AAUOpF"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
+        "name": "Panic Attacks in Paradise / Maggots",
+        "url": "https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 184885,
+      "name": "Panic Attacks in Paradise",
+      "url": "https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX"
+    },
+    {
+      "added_at": "2024-08-27 07:00:00",
+      "album": {
+        "name": "Late to the Party",
+        "url": "https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt"
+      },
+      "artists": [
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Late to the Party",
+      "url": "https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -655,18 +755,18 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
-        "name": "Panic Attacks in Paradise / Maggots",
-        "url": "https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH"
+        "name": "dramatic",
+        "url": "https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9"
       },
       "artists": [
         {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
         }
       ],
-      "duration_ms": 184885,
-      "name": "Panic Attacks in Paradise",
-      "url": "https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX"
+      "duration_ms": 150200,
+      "name": "dramatic",
+      "url": "https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -683,22 +783,6 @@
       "duration_ms": 182676,
       "name": "counting crimes",
       "url": "https://open.spotify.com/track/3EsFsEIcsdf4r5Y9UuW0yC"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "dramatic",
-        "url": "https://open.spotify.com/album/2uIYbXxbgDyGpndqhhHQS9"
-      },
-      "artists": [
-        {
-          "name": "Cat & Calmell",
-          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
-        }
-      ],
-      "duration_ms": 150200,
-      "name": "dramatic",
-      "url": "https://open.spotify.com/track/5uBlr2RNpuu3n7ROgiQa7w"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -773,20 +857,20 @@
       "url": "https://open.spotify.com/track/50wqN28Ca3fJGddi95GaSc"
     },
     {
-      "added_at": "2024-07-15 02:15:37",
+      "added_at": "2024-08-27 07:00:00",
       "album": {
-        "name": "My Mother Wants Me Dead",
-        "url": "https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK"
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/2pkpcOD7miiipAVKr5OyqP"
       },
       "artists": [
         {
-          "name": "carolesdaughter",
-          "url": "https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB"
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 105351,
-      "name": "My Mother Wants Me Dead",
-      "url": "https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx"
+      "duration_ms": 163866,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/4V1P86yQsSLuixD5K8wCbU"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -839,22 +923,6 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
-        "name": "pretty poison",
-        "url": "https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 164994,
-      "name": "keep me afraid",
-      "url": "https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
         "name": "internet baby",
         "url": "https://open.spotify.com/album/1Ai0NAOW6lgh5iUBzO7Vlc"
       },
@@ -867,6 +935,22 @@
       "duration_ms": 157070,
       "name": "internet baby",
       "url": "https://open.spotify.com/track/0NRjLNZq8PXjoIDW21wT4N"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
+        "name": "pretty poison",
+        "url": "https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 164994,
+      "name": "keep me afraid",
+      "url": "https://open.spotify.com/track/1M3DeTf5xVoEPNL8FF5vsi"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -919,22 +1003,6 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
-        "name": "off saint dominique EP",
-        "url": "https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD"
-      },
-      "artists": [
-        {
-          "name": "renforshort",
-          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
-        }
-      ],
-      "duration_ms": 152469,
-      "name": "wannabe",
-      "url": "https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
         "name": "please put me in a medically induced coma",
         "url": "https://open.spotify.com/album/2pPYJUCaxJTApLpglmBpaL"
       },
@@ -951,6 +1019,22 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
+        "name": "off saint dominique EP",
+        "url": "https://open.spotify.com/album/5BxlFXGHkjDUMCRAGpVyHD"
+      },
+      "artists": [
+        {
+          "name": "renforshort",
+          "url": "https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D"
+        }
+      ],
+      "duration_ms": 152469,
+      "name": "wannabe",
+      "url": "https://open.spotify.com/track/5PXdLJJWQJTOpfHdPkMsOw"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
         "name": "ugly",
         "url": "https://open.spotify.com/album/0ZRgqGpF70vz7TZzwJyPa4"
       },
@@ -963,6 +1047,22 @@
       "duration_ms": 180626,
       "name": "ugly",
       "url": "https://open.spotify.com/track/6BzSgXgzHxqPbGEb7aKAXb"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
+        "name": "u turn me on (but u give me depression)",
+        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 147535,
+      "name": "u turn me on (but u give me depression)",
+      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -1033,22 +1133,6 @@
       "url": "https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2"
     },
     {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "u turn me on (but u give me depression)",
-        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "u turn me on (but u give me depression)",
-      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
-    },
-    {
       "added_at": "2024-07-23 04:00:00",
       "album": {
         "name": "Not ur fkn fan",
@@ -1083,6 +1167,22 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
+        "name": "Children In The Dark",
+        "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "duration_ms": 178842,
+      "name": "Children In The Dark",
+      "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
         "name": "If I Can\u2019t Have Love, I Want Power (Extended)",
         "url": "https://open.spotify.com/album/1p2rkkve941Ic11dfzfrJD"
       },
@@ -1095,6 +1195,22 @@
       "duration_ms": 247680,
       "name": "People disappear here",
       "url": "https://open.spotify.com/track/76gkzHEZKCrHwXqv4JsE1o"
+    },
+    {
+      "added_at": "2024-08-27 07:00:00",
+      "album": {
+        "name": "RABBITHOLE",
+        "url": "https://open.spotify.com/album/3zxAXVIsNoLPv727sWSqKg"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 141443,
+      "name": "RABBITHOLE",
+      "url": "https://open.spotify.com/track/6l5sqTPOD2UdzEb2RlwtSI"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -1131,8 +1247,8 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
-        "name": "Children In The Dark",
-        "url": "https://open.spotify.com/album/1JTKZkNMSUvvZy4hGsXJKI"
+        "name": "VOLUME II",
+        "url": "https://open.spotify.com/album/2OFJ3B3DyRkIr1zWNnGtBu"
       },
       "artists": [
         {
@@ -1140,25 +1256,9 @@
           "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
         }
       ],
-      "duration_ms": 178842,
-      "name": "Children In The Dark",
-      "url": "https://open.spotify.com/track/1ZN3EnL4tP2Zkh8DovRgS6"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU"
-      },
-      "artists": [
-        {
-          "name": "Cat & Calmell",
-          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
-        }
-      ],
-      "duration_ms": 189628,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj"
+      "duration_ms": 206306,
+      "name": "DEMONS",
+      "url": "https://open.spotify.com/track/3s61rrQ8uFytBdiuIklCUc"
     },
     {
       "added_at": "2024-07-15 02:15:37",
@@ -1195,6 +1295,22 @@
     {
       "added_at": "2024-07-15 02:15:37",
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU"
+      },
+      "artists": [
+        {
+          "name": "Cat & Calmell",
+          "url": "https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR"
+        }
+      ],
+      "duration_ms": 189628,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj"
+    },
+    {
+      "added_at": "2024-07-15 02:15:37",
+      "album": {
         "name": "The Idea Of You",
         "url": "https://open.spotify.com/album/1fkTVFIHUNw9uMtGFRCxzd"
       },
@@ -1207,122 +1323,6 @@
       "duration_ms": 178256,
       "name": "The Idea Of You",
       "url": "https://open.spotify.com/track/4CBJcZklxDHIaXBoS58sq4"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "IDC",
-        "url": "https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs"
-      },
-      "artists": [
-        {
-          "name": "daine",
-          "url": "https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "IDC",
-      "url": "https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "Billion Dollar Bitch",
-        "url": "https://open.spotify.com/album/5MiVQWINwHLDiOGTb20f0a"
-      },
-      "artists": [
-        {
-          "name": "Mia Rodriguez",
-          "url": "https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 188442,
-      "name": "Billion Dollar Bitch",
-      "url": "https://open.spotify.com/track/1NXsoL5kWo6j41SP1NUpLF"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "Heartbreak",
-        "url": "https://open.spotify.com/album/1I6INBRN8GU7VecaGJeaLk"
-      },
-      "artists": [
-        {
-          "name": "BROODS",
-          "url": "https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS"
-        }
-      ],
-      "duration_ms": 186642,
-      "name": "Heartbreak",
-      "url": "https://open.spotify.com/track/1ERMgnNgM2oWcmG2ZVuLx5"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "now (in space)",
-        "url": "https://open.spotify.com/album/727hwSHo15Q0JVFFGh9IBk"
-      },
-      "artists": [
-        {
-          "name": "Montaigne",
-          "url": "https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b"
-        }
-      ],
-      "duration_ms": 206853,
-      "name": "now (in space)",
-      "url": "https://open.spotify.com/track/5KihAQxIO270T9EQbWgPLk"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "VOLUME II",
-        "url": "https://open.spotify.com/album/2OFJ3B3DyRkIr1zWNnGtBu"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "DEMONS",
-      "url": "https://open.spotify.com/track/3s61rrQ8uFytBdiuIklCUc"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "Mood Swing",
-        "url": "https://open.spotify.com/album/4nIkHzobq4rsN55Hpy7bHM"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab"
-        }
-      ],
-      "duration_ms": 187312,
-      "name": "Mood Swing",
-      "url": "https://open.spotify.com/track/0C4yubVphjxkU2s8mdgnWu"
-    },
-    {
-      "added_at": "2024-07-15 02:15:37",
-      "album": {
-        "name": "Nightmare on Elmfield Road",
-        "url": "https://open.spotify.com/album/4ILNpQy73p5vqpyV9pcLUK"
-      },
-      "artists": [
-        {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
-        }
-      ],
-      "duration_ms": 197653,
-      "name": "Screws",
-      "url": "https://open.spotify.com/track/1iSo49GT9u0ar6xLFeNN4T"
     }
   ],
   "unique_name": "POP EDGE",

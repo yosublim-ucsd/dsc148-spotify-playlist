@@ -1,12 +1,12 @@
 {
-  "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 95100,
+  "description": "This Is NAV. Los temas esenciales, todos en una lista.",
+  "num_followers": 95101,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABdFovAc/fypJ+mNZJLZfp4",
+  "snapshot_id": "ZsvFgAAAAACHxsbOE8zpUhbvqby+Sl2M",
   "tracks": [
     {
       "added_at": null,
@@ -395,34 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip Harder",
-        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 187464,
-      "name": "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
-      "url": "https://open.spotify.com/track/6PoKfDY78ih5OveWirggRX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect Timing",
         "url": "https://open.spotify.com/album/6VFETcEfjilkAng073KLt9"
       },
@@ -447,6 +419,34 @@
       "duration_ms": 265373,
       "name": "Minute",
       "url": "https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 187464,
+      "name": "Off White VLONE (Lil Baby & Gunna feat. Lil Durk & NAV)",
+      "url": "https://open.spotify.com/track/6PoKfDY78ih5OveWirggRX"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emergency Tsunami",
+        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 155086,
+      "name": "Vetement Socks",
+      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 188117,
       "name": "Codeine (feat. Gunna)",
       "url": "https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emergency Tsunami",
-        "url": "https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 155086,
-      "name": "Vetement Socks",
-      "url": "https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs"
     },
     {
       "added_at": null,

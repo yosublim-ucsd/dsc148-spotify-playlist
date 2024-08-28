@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 
 > Warm and cozy Christmas Jazz to your hot cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,757 likes - 108 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,753 likes - 108 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYU33S4rAJZv.md) - [plain]
 | 29 | [That's What I Want For Christmas \- Remastered 1992](https://open.spotify.com/track/0jgVkOMLMRZTgx06ddo4DQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Ultimate Jazz Christmas](https://open.spotify.com/album/2zn5A07eHENpWATjtscdRL) | 2:17 |
 | 30 | [I'll Be Home For Christmas](https://open.spotify.com/track/5Gu9fOL58Zg9VaOoiO3jHx) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 2:49 |
 | 31 | [Misteltoe](https://open.spotify.com/track/6SJKiadklwqj969ihsTL06) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Misteltoe](https://open.spotify.com/album/6oVj4hoU09YwTQDLmo1e7K) | 2:22 |
-| 32 | [O Holy Night](https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \(Deluxe\)](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 2:18 |
+| 32 | [O Holy Night](https://open.spotify.com/track/7tiWsq60y3wqRVaD4057a5) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas \- Deluxe](https://open.spotify.com/album/1QGL60gbmLX8f4mWFP0xBw) | 2:18 |
 | 33 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 |
 | 34 | [Seasons](https://open.spotify.com/track/6M4wVZ5uXhKU9PvSpfuNEM) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z), [Jonathan Michel](https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [Seasons](https://open.spotify.com/album/481ygPSZj9JRa09EFXbOBh) | 2:46 |
 | 35 | [Hark the Herald Angels Sing](https://open.spotify.com/track/27oIno72elQiNPLU8ZSLo2) | [Candy Cane Trio](https://open.spotify.com/artist/4NliOpNLEQq2p7q5P19hN2) | [Christmas Cocktails: A Jazz Lounge Holiday Collection](https://open.spotify.com/album/3bGiF08NkrpfTKrKXJPU3n) | 2:02 |

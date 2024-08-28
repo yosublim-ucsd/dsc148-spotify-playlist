@@ -2774,7 +2774,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 243244,
       "name": "Meu Filho, Descansa",
       "url": "https://open.spotify.com/track/7Gsc3mp3uZqjCWK6N0EvJv"
@@ -5810,6 +5810,28 @@
       "duration_ms": 245818,
       "name": "\u00caxodo - Ao Vivo",
       "url": "https://open.spotify.com/track/0uVGf6AmdNCIrvNBkQM7Qa"
+    },
+    {
+      "album": {
+        "name": "\u00danico - Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0U4MNi9Hwj1BIThUf571cb"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506122,
+      "name": "\u00danico - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4RInpfmS5zuJ8xKjrfwOaI"
     },
     {
       "album": {

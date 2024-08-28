@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,114 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,291 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 17 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
 | 18 | [Brown Skin](https://open.spotify.com/track/1m2c9ZjrXRGRvvPhVOUXrV) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:39 |
 | 19 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/1ObD1mQ91u4yBK46EYNCgl) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/album/5BY7i9MB7Ykwf7hMt1npU1) | 3:29 |
-| 20 | [No Money](https://open.spotify.com/track/7iKjwcwtWKvPItHxmPYQi6) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Romain Virgo](https://open.spotify.com/album/67tTLoSUvrnjq9wanpwt50) | 3:30 |
-| 21 | [Lowe Mi](https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Lowe Mi](https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3) | 3:54 |
+| 20 | [Deeper](https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [Strictly The Best Vol\. 36](https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G) | 3:50 |
+| 21 | [No Money](https://open.spotify.com/track/7iKjwcwtWKvPItHxmPYQi6) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Romain Virgo](https://open.spotify.com/album/67tTLoSUvrnjq9wanpwt50) | 3:30 |
 | 22 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
-| 23 | [Deeper](https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [Strictly The Best Vol\. 36](https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G) | 3:50 |
+| 23 | [Lowe Mi](https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Lowe Mi](https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3) | 3:54 |
 | 24 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 |
 | 25 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
 | 26 | [Cool Down](https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Cool Down](https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93) | 4:02 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 34 | [Use Me](https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Use Me](https://open.spotify.com/album/592Zbs7JSgwspo1O7BU1K1) | 3:12 |
 | 35 | [Buried Alive](https://open.spotify.com/track/0TihbhZf0uXlEcxDj4Fzpi) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:52 |
 | 36 | [Same So](https://open.spotify.com/track/54Dt888vzNrG90F51f1kSW) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Same So](https://open.spotify.com/album/2TRIUatF5kFierYyXW8zUq) | 3:28 |
-| 37 | [Currency Called Time](https://open.spotify.com/track/6SDAQpax26v24Q1p7JApWL) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Currency Called Time](https://open.spotify.com/album/5pCiaqaJQiTzbSRSP2rd2s) | 3:41 |
-| 38 | [Amsterdam](https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Amsterdam](https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0) | 3:58 |
+| 37 | [Amsterdam](https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Amsterdam](https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0) | 3:58 |
+| 38 | [Currency Called Time](https://open.spotify.com/track/6SDAQpax26v24Q1p7JApWL) | [Jah Lil](https://open.spotify.com/artist/5XjXxI4GloTdy1DpZHMFww) | [Currency Called Time](https://open.spotify.com/album/5pCiaqaJQiTzbSRSP2rd2s) | 3:41 |
 | 39 | [Made To Fall In Love](https://open.spotify.com/track/2JKv3r2AUmWjrDFO3unlpq) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
 | 40 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 |
 | 41 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |

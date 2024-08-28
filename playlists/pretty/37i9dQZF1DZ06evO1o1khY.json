@@ -1,12 +1,12 @@
 {
   "description": "This Is GloRilla. Los temas esenciales, todos en una lista.",
-  "num_followers": 19824,
+  "num_followers": 19872,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAADFcCptXjDW1tDlcJpprhEJ",
+  "snapshot_id": "ZsvFgAAAAAApbuziils5B0C7YBHe0KVM",
   "tracks": [
     {
       "added_at": null,
@@ -399,46 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop It (GloRilla, Mike WiLL Made-It)",
-        "url": "https://open.spotify.com/album/3fAQgitvHde56qGPrq0rMj"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Pop It (GloRilla, Mike WiLL Made-It)",
-      "url": "https://open.spotify.com/track/3VkbedA7YHCAraNe872O5B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 126315,
-      "name": "Opp Shit",
-      "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mama (with Skilla Baby feat. GloRilla) (Remix)",
         "url": "https://open.spotify.com/album/7LK4ohmEO3Arm7oXyd1eVk"
       },
@@ -459,6 +419,46 @@
       "duration_ms": 179666,
       "name": "Mama (with Skilla Baby feat. GloRilla) (Remix)",
       "url": "https://open.spotify.com/track/62Vzyj4Nyy7DeBF2q21dYG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 126315,
+      "name": "Opp Shit",
+      "url": "https://open.spotify.com/track/2lynIxLBNW2SrBeDOVpxyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pop It (GloRilla, Mike WiLL Made-It)",
+        "url": "https://open.spotify.com/album/3fAQgitvHde56qGPrq0rMj"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Pop It (GloRilla, Mike WiLL Made-It)",
+      "url": "https://open.spotify.com/track/3VkbedA7YHCAraNe872O5B"
     },
     {
       "added_at": null,
@@ -575,6 +575,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Show Dat Work (feat. GloRilla & Rob49)",
+        "url": "https://open.spotify.com/album/3h6UsC0h6zJXxNITr2OFqV"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "duration_ms": 222313,
+      "name": "Show Dat Work (feat. GloRilla & Rob49)",
+      "url": "https://open.spotify.com/track/3sQinkjMM30VKi3xMdHtA9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Foxes Only",
         "url": "https://open.spotify.com/album/46hdTAtdzJ0ejF2JanBnYr"
       },
@@ -591,6 +615,22 @@
       "duration_ms": 143992,
       "name": "Embarrassing (feat. GloRilla)",
       "url": "https://open.spotify.com/track/52V0wk4bz20iMjmHGy2i0V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 170711,
+      "name": "Out Loud Thinking",
+      "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
     },
     {
       "added_at": null,
@@ -615,22 +655,6 @@
       "duration_ms": 188157,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 170711,
-      "name": "Out Loud Thinking",
-      "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
     },
     {
       "added_at": null,
@@ -691,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 169465,
+      "name": "Unh Unh",
+      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gangsta Art 2",
         "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
       },
@@ -711,46 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 169465,
-      "name": "Unh Unh",
-      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Show Dat Work (feat. GloRilla & Rob49)",
-        "url": "https://open.spotify.com/album/3h6UsC0h6zJXxNITr2OFqV"
-      },
-      "artists": [
-        {
-          "name": "Finesse2tymes",
-          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        }
-      ],
-      "duration_ms": 222313,
-      "name": "Show Dat Work (feat. GloRilla & Rob49)",
-      "url": "https://open.spotify.com/track/3sQinkjMM30VKi3xMdHtA9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
       },
@@ -767,30 +767,6 @@
       "duration_ms": 155193,
       "name": "Outside",
       "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gangsta Art 2",
-        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 211006,
-      "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
-      "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
     },
     {
       "added_at": null,
@@ -835,22 +811,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "FCK GIRL SZN",
-        "url": "https://open.spotify.com/album/190BmxsocJbQBw3yNdluVN"
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
       },
       "artists": [
         {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
           "name": "GloRilla",
           "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
         }
       ],
-      "duration_ms": 135280,
-      "name": "Can\u2019t Get \u2018Em",
-      "url": "https://open.spotify.com/track/6DXOKzHb12X2Cg6xN8M2Z9"
+      "duration_ms": 211006,
+      "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
+      "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
     },
     {
       "added_at": null,
@@ -875,6 +855,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/190BmxsocJbQBw3yNdluVN"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 135280,
+      "name": "Can\u2019t Get \u2018Em",
+      "url": "https://open.spotify.com/track/6DXOKzHb12X2Cg6xN8M2Z9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Loving U 2 Hard",
         "url": "https://open.spotify.com/album/1mhv3iYPEraW7U5tqPofri"
       },
@@ -891,6 +891,26 @@
       "duration_ms": 205271,
       "name": "Loving U 2 Hard",
       "url": "https://open.spotify.com/track/6kEsXIEMmDsFzpSjCSriSf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bestfrenn (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 138972,
+      "name": "Bestfrenn (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf"
     },
     {
       "added_at": null,
@@ -915,26 +935,6 @@
       "duration_ms": 215060,
       "name": "Better Thangs (with Summer Walker & GloRilla) - Remix",
       "url": "https://open.spotify.com/track/0xUZ8H6dtWmXRTyqgRkkTO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bestfrenn (feat. GloRilla)",
-        "url": "https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m"
-      },
-      "artists": [
-        {
-          "name": "Gloss Up",
-          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 138972,
-      "name": "Bestfrenn (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf"
     },
     {
       "added_at": null,

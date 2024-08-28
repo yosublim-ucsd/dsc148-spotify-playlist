@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 ac\u00e1. Conoce a la Generaci\u00f3n 2024 de RADAR M\u00e9xico. CHOCA en portada.",
-  "num_followers": 85287,
+  "num_followers": 85311,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "Prueba De Fuego",
+        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "duration_ms": 231855,
+      "name": "Prueba De Fuego",
+      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "Ya No Estoy Dolido",
         "url": "https://open.spotify.com/album/2nngUrtFjoEjByLvyaHS9g"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 179600,
       "name": "Ya No Estoy Dolido",
       "url": "https://open.spotify.com/track/2DRGyAlo0ht15FGLTQPCCt"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Prueba De Fuego",
-        "url": "https://open.spotify.com/album/5dCsAdOnWwZpo4jj8iS3yx"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Espinoza",
-          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
-        }
-      ],
-      "duration_ms": 231855,
-      "name": "Prueba De Fuego",
-      "url": "https://open.spotify.com/track/2woyQPIhYiJgQVsfpF8KsR"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -311,6 +311,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "El Guty",
+        "url": "https://open.spotify.com/album/5mWGWS3lPdkfMziyh29Hgb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mente Maestra",
+          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
+        }
+      ],
+      "duration_ms": 163582,
+      "name": "El Guty",
+      "url": "https://open.spotify.com/track/2efRIKsDPxJ7OG4h5PlHEF"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "Solitario (En Vivo)",
         "url": "https://open.spotify.com/album/0D3idmPk07CksmgrVaEiKi"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 208966,
       "name": "Solitario - En Vivo",
       "url": "https://open.spotify.com/track/20obamXOznVCGTRUL4ZX6q"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "El Guty",
-        "url": "https://open.spotify.com/album/5mWGWS3lPdkfMziyh29Hgb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mente Maestra",
-          "url": "https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2"
-        }
-      ],
-      "duration_ms": 163582,
-      "name": "El Guty",
-      "url": "https://open.spotify.com/track/2efRIKsDPxJ7OG4h5PlHEF"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "Moda",
+        "url": "https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 175804,
+      "name": "Moda",
+      "url": "https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "M.L.P",
         "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Moda",
-        "url": "https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 175804,
-      "name": "Moda",
-      "url": "https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Aprendimos A Jugar",
-        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        }
-      ],
-      "duration_ms": 152789,
-      "name": "Pensando",
-      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "Y As\u00ed Suena el 3030",
         "url": "https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 179610,
       "name": "El Jami",
       "url": "https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Aprendimos A Jugar",
+        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        }
+      ],
+      "duration_ms": 152789,
+      "name": "Pensando",
+      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "El Traje Naranja",
-        "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
+        "name": "Peda Con Cupido",
+        "url": "https://open.spotify.com/album/6OkJy8eT1jXkn5vAgdlOoc"
       },
       "artists": [
         {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+          "name": "Alta Elegancia",
+          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
         }
       ],
-      "duration_ms": 177960,
-      "name": "De Ladrillo a Ladrillo",
-      "url": "https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH"
+      "duration_ms": 150533,
+      "name": "Peda Con Cupido",
+      "url": "https://open.spotify.com/track/20IUekuGgFB9axiqb3k3Ss"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Peda Con Cupido",
-        "url": "https://open.spotify.com/album/6OkJy8eT1jXkn5vAgdlOoc"
+        "name": "El Traje Naranja",
+        "url": "https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD"
       },
       "artists": [
         {
-          "name": "Alta Elegancia",
-          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 150533,
-      "name": "Peda Con Cupido",
-      "url": "https://open.spotify.com/track/20IUekuGgFB9axiqb3k3Ss"
+      "duration_ms": 177960,
+      "name": "De Ladrillo a Ladrillo",
+      "url": "https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH"
     },
     {
       "added_at": "2024-07-26 14:56:01",

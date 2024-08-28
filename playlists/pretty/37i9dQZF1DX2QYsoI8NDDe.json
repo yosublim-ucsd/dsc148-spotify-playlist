@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Victoria La Mala",
-  "num_followers": 488383,
+  "num_followers": 488394,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
+        "name": "Camila Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Aqu\u00ed Lo Siento",
+      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+    },
+    {
+      "added_at": "2024-06-28 20:10:54",
+      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
-    },
-    {
-      "added_at": "2024-06-28 20:10:54",
-      "album": {
-        "name": "Camila Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Aqu\u00ed Lo Siento",
-      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
     },
     {
       "added_at": "2024-06-28 20:10:54",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
-        "name": "Me Vas A Llorar",
-        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Me Vas A Llorar",
-      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
-    },
-    {
-      "added_at": "2024-06-28 20:10:54",
-      "album": {
         "name": "Fumar Beber",
         "url": "https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
+        "name": "Me Vas A Llorar",
+        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Me Vas A Llorar",
+      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
+    },
+    {
+      "added_at": "2024-06-28 20:10:54",
+      "album": {
         "name": "Un D\u00eda Llegar\u00e1 La Muerte",
         "url": "https://open.spotify.com/album/4ZFRDoeqaVXCFuP65keIWG"
       },
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-06-28 20:10:54",
       "album": {
-        "name": "Triste Recuerdo",
-        "url": "https://open.spotify.com/album/6NRL5UEPjzBejfG7cqYMM9"
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap"
       },
       "artists": [
         {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 203573,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/7KZpel8KJawwalqTlTI5Lv"
+      "duration_ms": 173320,
+      "name": "Hazme Un Paro",
+      "url": "https://open.spotify.com/track/3YX4gmPBHsT2LytlWMHuAC"
     }
   ],
   "unique_name": "Las Chacalosas",

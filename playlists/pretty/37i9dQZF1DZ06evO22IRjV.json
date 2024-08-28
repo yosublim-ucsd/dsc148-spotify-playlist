@@ -1,12 +1,12 @@
 {
-  "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 29621,
+  "description": "This is FLOW\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 29623,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAD8A6YnzUMzWoxeRCM3wF7k",
+  "snapshot_id": "ZsvFgAAAAAAUjyG9baKivBhIeOag2eE6",
   "tracks": [
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "26 a Go Go !!!",
-        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "GLORY DAYS",
-      "url": "https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DICE",
         "url": "https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "26 a Go Go !!!",
+        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "GLORY DAYS",
+      "url": "https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u70c8\u706b",
         "url": "https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 250440,
       "name": "\u70c8\u706b",
       "url": "https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30e2\u30e1\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "\u30e2\u30e1\u30f3\u30c8",
-      "url": "https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU"
     },
     {
       "added_at": null,
@@ -595,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
-        "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
+        "name": "\u30e2\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
       },
       "artists": [
         {
@@ -604,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
         }
       ],
-      "duration_ms": 245693,
-      "name": "\u30e1\u30ed\u30b9",
-      "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
+      "duration_ms": 238906,
+      "name": "\u30e2\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
       "duration_ms": 91786,
       "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
       "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
+        "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 245693,
+      "name": "\u30e1\u30ed\u30b9",
+      "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MICROCOSM",
-        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "CALLING",
-      "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FLOW THE BEST \u301cSingle Collection\u301c",
         "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 256160,
       "name": "\u6d41\u661f",
       "url": "https://open.spotify.com/track/1eTKBnh7Kczg3hggOcnf6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MICROCOSM",
+        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "CALLING",
+      "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Coast",
-        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CLOSER",
         "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Golden Coast",
+        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
         "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
       },
@@ -787,26 +787,6 @@
       "duration_ms": 242173,
       "name": "\u9065\u304b\u5f7c\u65b9",
       "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New World",
-        "url": "https://open.spotify.com/album/0AXTw7cuAXPoXaRpYD912o"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        },
-        {
-          "name": "GRANRODEO",
-          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/383mIRKWUO2x1B0xOGyTGC"
     },
     {
       "added_at": null,
@@ -839,6 +819,26 @@
       "duration_ms": 222693,
       "name": "United Sparrows",
       "url": "https://open.spotify.com/track/5wyos90sic0mFUD6SXHAVx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/0AXTw7cuAXPoXaRpYD912o"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/383mIRKWUO2x1B0xOGyTGC"
     },
     {
       "added_at": null,

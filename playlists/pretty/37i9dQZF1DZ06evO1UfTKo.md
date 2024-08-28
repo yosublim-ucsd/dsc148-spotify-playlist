@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 
 ### [This Is Los Tigres Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UfTKo)
 
-> This is Los Tigres Del Norte\. The essential tracks, all in one playlist.
+> This Is Los Tigres Del Norte\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,714 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,829 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UfTKo.md) - [plain]
 | 49 | [El Rengo Del Gallo Giro](https://open.spotify.com/track/7vUdpsAP66ZPZxuJJbVzVo) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia Musical 20 Corridos Inolvidables](https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT) | 3:05 |
 | 50 | [Aquí Mando Yo](https://open.spotify.com/track/3Kv0GCIjO52qkUj1K9PqZW) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Aquí Mando Yo](https://open.spotify.com/album/0UT6sSqUR1QMQ7a1vt9ROP) | 3:37 |
 
-Snapshot ID: `Zsp0AAAAAAA7u5ANeUspxhEFjnOr5D12`
+Snapshot ID: `ZsvFgAAAAAAJq6mG8WnOMJd1sC2p4jDU`

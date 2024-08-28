@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ll/q8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LmE8cAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "Every Single Time",
         "url": "https://open.spotify.com/album/1gwNl7ngGZeNb1TEJog5eg"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1Y6JqAA9wRlgVMLpDnASah"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "\u597d\u5f97\u592a\u904e\u4efd",
         "url": "https://open.spotify.com/album/7ArKSf70Be8fzHxDxBHAim"
@@ -41,23 +41,7 @@
       "url": "https://open.spotify.com/track/1jQE96DjtfpWGjSqK6Gfnr"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
-      "album": {
-        "name": "\u5ca9\u5dc9",
-        "url": "https://open.spotify.com/album/3TCBQ5KfzuoHIZxV3Xk2eh"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 224513,
-      "name": "\u5ca9\u5dc9",
-      "url": "https://open.spotify.com/track/4ja627NyIBCz7wO2dYr83g"
-    },
-    {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "Hey Hey OK!",
         "url": "https://open.spotify.com/album/3oLxZGJGt6R9K7GI1fuW6m"
@@ -73,10 +57,10 @@
       "url": "https://open.spotify.com/track/4pJWCkQnPeXfDyqouuBJ77"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
-        "name": "\u9ed1\u6708",
-        "url": "https://open.spotify.com/album/19zosC2FOPsQlNKqmOmP8X"
+        "name": "\u5ca9\u5dc9",
+        "url": "https://open.spotify.com/album/3TCBQ5KfzuoHIZxV3Xk2eh"
       },
       "artists": [
         {
@@ -84,12 +68,12 @@
           "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
         }
       ],
-      "duration_ms": 205826,
-      "name": "\u9ed1\u6708",
-      "url": "https://open.spotify.com/track/60DcGRqdHMk9H3sat9bcHW"
+      "duration_ms": 224513,
+      "name": "\u5ca9\u5dc9",
+      "url": "https://open.spotify.com/track/4ja627NyIBCz7wO2dYr83g"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -105,7 +89,23 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
+      "album": {
+        "name": "\u9ed1\u6708",
+        "url": "https://open.spotify.com/album/19zosC2FOPsQlNKqmOmP8X"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 205826,
+      "name": "\u9ed1\u6708",
+      "url": "https://open.spotify.com/track/60DcGRqdHMk9H3sat9bcHW"
+    },
+    {
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/2xJTRjTHMPl7OkPplpvvjN"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/2CwGJLH5jTBlVQhMfjCc6e"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "\u6df1\u95a8",
         "url": "https://open.spotify.com/album/2KCTK4HgfH3dOaWiA7tTB9"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/6apc6NX2mDQ59mortxddQQ"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "\u6fe4",
         "url": "https://open.spotify.com/album/2fwUdeULjPXQyCvKdUbIoI"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/1xRMtDxiU8xxAlaDscHIoT"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "\u6df1\u95a8 feat. Kelly Chen \u9673\u6167\u7433",
         "url": "https://open.spotify.com/album/3OSRx8acDQauCZ3ef1SbBo"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/10YtrR4JpndrvuI2vohpUM"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "MY LIFE",
         "url": "https://open.spotify.com/album/7Cvi0ScXPo1eLJTkxdJlA9"
@@ -209,23 +209,7 @@
       "url": "https://open.spotify.com/track/5GNtunR5AJb8bVoovm8vnz"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
-    },
-    {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "\u5c0f\u5fc3\u78b0\u982d",
         "url": "https://open.spotify.com/album/1s43unuwwZCMAwFb6Yppwg"
@@ -241,7 +225,7 @@
       "url": "https://open.spotify.com/track/4UVccKUI1aiZ17lecEfbNu"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -257,27 +241,23 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 183550,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -293,7 +273,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "\u4ee5\u5b64\u7368\u547d\u540d",
         "url": "https://open.spotify.com/album/6YuX0KTUbL6SWPx4ammv6X"
@@ -309,7 +289,7 @@
       "url": "https://open.spotify.com/track/2gQoBhLuUmJqelyTrZfkKD"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
@@ -325,23 +305,7 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
-      "album": {
-        "name": "FRI(END)S",
-        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 148082,
-      "name": "FRI(END)S",
-      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
-    },
-    {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -357,23 +321,7 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
-      "album": {
-        "name": "Inner l Child",
-        "url": "https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds"
-      },
-      "artists": [
-        {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "\u9ed1\u73bb\u7483",
-      "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
-    },
-    {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "Let go",
         "url": "https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO"
@@ -389,23 +337,23 @@
       "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
-        "name": "\u7dca\u6025\u806f\u7d61\u4eba",
-        "url": "https://open.spotify.com/album/1jSjHcc494JZrMD6keZ0UU"
+        "name": "Inner l Child",
+        "url": "https://open.spotify.com/album/1acqgOtA58NJJsMi7315ds"
       },
       "artists": [
         {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
         }
       ],
-      "duration_ms": 222668,
-      "name": "\u7dca\u6025\u806f\u7d61\u4eba",
-      "url": "https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG"
+      "duration_ms": 219385,
+      "name": "\u9ed1\u73bb\u7483",
+      "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "\u6f38\u6f38\u6211\u5011",
         "url": "https://open.spotify.com/album/1urrWCvkMQkFgKCrUFRUx9"
@@ -425,39 +373,39 @@
       "url": "https://open.spotify.com/track/4CMTigUypmopzPdO3a8h0D"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
-        "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
-        "url": "https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6"
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
       },
       "artists": [
         {
-          "name": "Kiri T",
-          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 232839,
-      "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
-      "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
-        "name": "Thank You Postman",
-        "url": "https://open.spotify.com/album/167G8Hb89AttSYPeFhTuqP"
+        "name": "\u7dca\u6025\u806f\u7d61\u4eba",
+        "url": "https://open.spotify.com/album/1jSjHcc494JZrMD6keZ0UU"
       },
       "artists": [
         {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
         }
       ],
-      "duration_ms": 179133,
-      "name": "Thank You Postman",
-      "url": "https://open.spotify.com/track/4o3KjIcDPZ2ReW2b94htYD"
+      "duration_ms": 222668,
+      "name": "\u7dca\u6025\u806f\u7d61\u4eba",
+      "url": "https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
@@ -477,39 +425,75 @@
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+      "duration_ms": 183550,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
-        "name": "\u624d\u4e8c\u5341\u4e09",
-        "url": "https://open.spotify.com/album/6uPqB8zj9kTr3McW4TiVrh"
+        "name": "Thank You Postman",
+        "url": "https://open.spotify.com/album/167G8Hb89AttSYPeFhTuqP"
       },
       "artists": [
         {
-          "name": "Khalil Fong",
-          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
         }
       ],
-      "duration_ms": 224498,
-      "name": "\u624d\u4e8c\u5341\u4e09",
-      "url": "https://open.spotify.com/track/6n3qQHQbECGcP0n6vlw2kF"
+      "duration_ms": 179133,
+      "name": "Thank You Postman",
+      "url": "https://open.spotify.com/track/4o3KjIcDPZ2ReW2b94htYD"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
+      "album": {
+        "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
+        "url": "https://open.spotify.com/album/4ExqABTnuhxEXKYr0MI8L6"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "duration_ms": 232839,
+      "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
+      "url": "https://open.spotify.com/track/2oOemghuOplk25PORF4s39"
+    },
+    {
+      "added_at": "2024-08-27 09:16:29",
+      "album": {
+        "name": "TO WHOM IT MAY CONCERN",
+        "url": "https://open.spotify.com/album/3eTjNOLjVqpNBzxVTlrIkF"
+      },
+      "artists": [
+        {
+          "name": "Yan Ting",
+          "url": "https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q"
+        }
+      ],
+      "duration_ms": 217644,
+      "name": "\u4e09\u751f\u6709\u5e78",
+      "url": "https://open.spotify.com/track/7sKrSZ1EDBtSkCIHs6MGKh"
+    },
+    {
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
@@ -525,7 +509,23 @@
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
+      "album": {
+        "name": "SUPER REAL ME",
+        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 160688,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+    },
+    {
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "\u8ab0\u80fd\u907f\u958b\u6200\u611b\u9019\u4e8b\u60c5",
         "url": "https://open.spotify.com/album/60AGWPJFsCEY6pfPCs9B0n"
@@ -545,71 +545,39 @@
       "url": "https://open.spotify.com/track/0tKTDRnl8qagYtRuHQ1sBY"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
-        "name": "TO WHOM IT MAY CONCERN",
-        "url": "https://open.spotify.com/album/3eTjNOLjVqpNBzxVTlrIkF"
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
       "artists": [
         {
-          "name": "Yan Ting",
-          "url": "https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 217644,
-      "name": "\u4e09\u751f\u6709\u5e78",
-      "url": "https://open.spotify.com/track/7sKrSZ1EDBtSkCIHs6MGKh"
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
-        "name": "SUPER REAL ME",
-        "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
+        "name": "\u624d\u4e8c\u5341\u4e09",
+        "url": "https://open.spotify.com/album/6uPqB8zj9kTr3McW4TiVrh"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "Khalil Fong",
+          "url": "https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd"
         }
       ],
-      "duration_ms": 160688,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
+      "duration_ms": 224498,
+      "name": "\u624d\u4e8c\u5341\u4e09",
+      "url": "https://open.spotify.com/track/6n3qQHQbECGcP0n6vlw2kF"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
-      "album": {
-        "name": "ON",
-        "url": "https://open.spotify.com/album/3s4zwwsOeM9KkNIglv5HLj"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 200027,
-      "name": "ON",
-      "url": "https://open.spotify.com/track/2Yccw4AWlnf8BMcD4rnlFc"
-    },
-    {
-      "added_at": "2024-08-26 09:04:55",
-      "album": {
-        "name": "Lost at first sight",
-        "url": "https://open.spotify.com/album/3PuUcAi2et3wlpngZRntA5"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 244006,
-      "name": "Lost at first sight",
-      "url": "https://open.spotify.com/track/4tejvhLkdvPYn4p90jk5QS"
-    },
-    {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -625,7 +593,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "\u62dc\u8a17",
         "url": "https://open.spotify.com/album/3gVFE0wdEnrwgD4fZi6lWu"
@@ -641,7 +609,39 @@
       "url": "https://open.spotify.com/track/1wNJcZPwOanXp5YLU8ivC9"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
+      "album": {
+        "name": "Lost at first sight",
+        "url": "https://open.spotify.com/album/3PuUcAi2et3wlpngZRntA5"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 244006,
+      "name": "Lost at first sight",
+      "url": "https://open.spotify.com/track/4tejvhLkdvPYn4p90jk5QS"
+    },
+    {
+      "added_at": "2024-08-27 09:16:29",
+      "album": {
+        "name": "ON",
+        "url": "https://open.spotify.com/album/3s4zwwsOeM9KkNIglv5HLj"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 200027,
+      "name": "ON",
+      "url": "https://open.spotify.com/track/2Yccw4AWlnf8BMcD4rnlFc"
+    },
+    {
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "TREBLE",
         "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
@@ -661,7 +661,7 @@
       "url": "https://open.spotify.com/track/2T8ppyUVF1TJT1Mjd7nmWK"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "This is MC",
         "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
@@ -677,23 +677,7 @@
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
-      "album": {
-        "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
-        "url": "https://open.spotify.com/album/7vgzAkU2PYTSsVKX71LqtH"
-      },
-      "artists": [
-        {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
-        }
-      ],
-      "duration_ms": 235251,
-      "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
-      "url": "https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH"
-    },
-    {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "Armageddon - The 1st Album",
         "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
@@ -709,23 +693,23 @@
       "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B"
+        "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
+        "url": "https://open.spotify.com/album/7vgzAkU2PYTSsVKX71LqtH"
       },
       "artists": [
         {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 212734,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
+      "duration_ms": 235251,
+      "name": "\u8d81\u4f60\u65c5\u884c\u6642\u642c\u8d70",
+      "url": "https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "Dear My Friend,",
         "url": "https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3"
@@ -741,39 +725,7 @@
       "url": "https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
-      "album": {
-        "name": "\u6d6a\u6f2b\u6bba\u6b7b\u5de8\u87f9\u5ea7",
-        "url": "https://open.spotify.com/album/7yMSjlEGWD3lU3ayZbZbVw"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 244488,
-      "name": "\u6d6a\u6f2b\u6bba\u6b7b\u5de8\u87f9\u5ea7",
-      "url": "https://open.spotify.com/track/2fOpn6RdCJzcYl32PZCMM3"
-    },
-    {
-      "added_at": "2024-08-26 09:04:55",
-      "album": {
-        "name": "MONEY",
-        "url": "https://open.spotify.com/album/2orrREvtatwHRERaqcrMg8"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 202538,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/4bzylGLMAjkb8AYCcsu96R"
-    },
-    {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "TREBLE",
         "url": "https://open.spotify.com/album/21ZCD2XHS74GxHvDxaXLJK"
@@ -789,39 +741,71 @@
       "url": "https://open.spotify.com/track/4sguC2oBIqfn8WmMmReOYb"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
-        "name": "\u518d\u898b \u5be7\u975c\u6d77",
-        "url": "https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV"
+        "name": "\u6d6a\u6f2b\u6bba\u6b7b\u5de8\u87f9\u5ea7",
+        "url": "https://open.spotify.com/album/7yMSjlEGWD3lU3ayZbZbVw"
       },
       "artists": [
         {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
         }
       ],
-      "duration_ms": 250677,
-      "name": "\u518d\u898b \u5be7\u975c\u6d77",
-      "url": "https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3"
+      "duration_ms": 244488,
+      "name": "\u6d6a\u6f2b\u6bba\u6b7b\u5de8\u87f9\u5ea7",
+      "url": "https://open.spotify.com/track/2fOpn6RdCJzcYl32PZCMM3"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+        "name": "FOREVER",
+        "url": "https://open.spotify.com/album/0OY9cZ5lO1htGmLYC4eX4B"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 178880,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/0Md02V4hwKO5Vu5B7GD8tQ"
     },
     {
-      "added_at": "2024-08-26 09:04:55",
+      "added_at": "2024-08-27 09:16:29",
+      "album": {
+        "name": "MONEY",
+        "url": "https://open.spotify.com/album/2orrREvtatwHRERaqcrMg8"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 202538,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/4bzylGLMAjkb8AYCcsu96R"
+    },
+    {
+      "added_at": "2024-08-27 09:16:29",
+      "album": {
+        "name": "The Astronaut",
+        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
+      },
+      "artists": [
+        {
+          "name": "JIN",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 282463,
+      "name": "The Astronaut",
+      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+    },
+    {
+      "added_at": "2024-08-27 09:16:29",
       "album": {
         "name": "\u6709\u4e9b\u8a71\u8981\u7528\u82f1\u6587\u8aaa",
         "url": "https://open.spotify.com/album/6yNOO8WVRxbhJgsmEJAVpo"
@@ -835,6 +819,22 @@
       "duration_ms": 190264,
       "name": "\u6709\u4e9b\u8a71\u8981\u7528\u82f1\u6587\u8aaa",
       "url": "https://open.spotify.com/track/2fSJhxoCQj6oMYpkM8Iun4"
+    },
+    {
+      "added_at": "2024-08-27 09:16:29",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
     }
   ],
   "unique_name": "Top 50 - Hong Kong",

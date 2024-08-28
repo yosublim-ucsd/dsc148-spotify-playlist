@@ -1,6 +1,6 @@
 {
   "description": "We hear you.",
-  "num_followers": 1193998,
+  "num_followers": 1194015,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
     },
     {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "you missed the best part",
-        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
-      },
-      "artists": [
-        {
-          "name": "Cottonwood Firing Squad",
-          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
-        }
-      ],
-      "duration_ms": 124743,
-      "name": "hospital beach",
-      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
-    },
-    {
       "added_at": "2024-01-09 23:35:49",
       "album": {
         "name": "Fall out of Line",
@@ -183,6 +167,22 @@
       "duration_ms": 200059,
       "name": "I Wouldn't Mind",
       "url": "https://open.spotify.com/track/1XcFa5d1qoWdCIICnXlggj"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "you missed the best part",
+        "url": "https://open.spotify.com/album/1KX0aY23DP7aWsvCXxuEPx"
+      },
+      "artists": [
+        {
+          "name": "Cottonwood Firing Squad",
+          "url": "https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE"
+        }
+      ],
+      "duration_ms": 124743,
+      "name": "hospital beach",
+      "url": "https://open.spotify.com/track/7t7QJFQLHJWCiHBswHnbzZ"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "When the City Sleeps",
         "url": "https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 216514,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "are you sleeping alone again?",
+        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
+      },
+      "artists": [
+        {
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "are you sleeping alone again?",
+      "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "Things I Wanted To Tell You",
         "url": "https://open.spotify.com/album/1VqpvCyJdviWmwcm54I6c0"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 139354,
       "name": "Feel Again (Feat. Au/Ra)",
       "url": "https://open.spotify.com/track/1fgC2MHbJnPgvDfdTpC62c"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "are you sleeping alone again?",
-        "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "are you sleeping alone again?",
-      "url": "https://open.spotify.com/track/6abYlQGJf3JvvvZHfBryo4"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU"
-      },
-      "artists": [
-        {
-          "name": "Landon Conrath",
-          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
-        }
-      ],
-      "duration_ms": 136686,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "I even told my mom about u",
         "url": "https://open.spotify.com/album/7keewWiui2hsR0iOXOQaQQ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 120032,
       "name": "I even told my mom about u",
       "url": "https://open.spotify.com/track/6Uxex5NWDRtA8hQKDpRn8H"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/5H1Am1NOFLH6n9xHIaFUJU"
+      },
+      "artists": [
+        {
+          "name": "Landon Conrath",
+          "url": "https://open.spotify.com/artist/2PJ06l59DomDd440az768u"
+        }
+      ],
+      "duration_ms": 136686,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/1Mn12q06NlGF3EdDkugUAi"
     },
     {
       "added_at": "2024-03-07 21:03:22",
@@ -1433,38 +1433,6 @@
       "url": "https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX"
     },
     {
-      "added_at": "2024-05-10 21:58:08",
-      "album": {
-        "name": "Rendezvous",
-        "url": "https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 192521,
-      "name": "Rendezvous",
-      "url": "https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "THE GIRL WILL BE OKAY",
-        "url": "https://open.spotify.com/album/5Iv87ZOJiSAfvxYyarcdts"
-      },
-      "artists": [
-        {
-          "name": "RC AVENUE",
-          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
-        }
-      ],
-      "duration_ms": 96125,
-      "name": "THE GIRL WILL BE OKAY",
-      "url": "https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx"
-    },
-    {
       "added_at": "2023-09-29 20:20:52",
       "album": {
         "name": "Maybe the Problem Is Me",
@@ -1479,6 +1447,22 @@
       "duration_ms": 133090,
       "name": "Maybe the Problem Is Me",
       "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
+    },
+    {
+      "added_at": "2024-05-10 21:58:08",
+      "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/3u1BKRicdzzbIqzU6aQhZl"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 192521,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/25CaLVmZ8eV04GnQgB9HGW"
     },
     {
       "added_at": "2024-03-07 21:03:22",
@@ -1515,6 +1499,22 @@
       "duration_ms": 148884,
       "name": "\"I am the light of the world\"",
       "url": "https://open.spotify.com/track/3d0ODmvpdEnRHwGAaF7w2J"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "THE GIRL WILL BE OKAY",
+        "url": "https://open.spotify.com/album/5Iv87ZOJiSAfvxYyarcdts"
+      },
+      "artists": [
+        {
+          "name": "RC AVENUE",
+          "url": "https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w"
+        }
+      ],
+      "duration_ms": 96125,
+      "name": "THE GIRL WILL BE OKAY",
+      "url": "https://open.spotify.com/track/0QbzrbAp8Mfu1cdmFRbgBx"
     },
     {
       "added_at": "2023-09-29 20:20:52",

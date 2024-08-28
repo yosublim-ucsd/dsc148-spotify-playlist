@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,561 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,536 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 65 | [Executioner's Tax \(Swing of the Axe\)](https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Nightmare Logic](https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70) | 3:45 |
 | 66 | [Sing to the Grave](https://open.spotify.com/track/5SnK7pnWLXNiEbs3z1ISBG) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Suffer in Heaven](https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x) | 2:39 |
 | 67 | [As Above, So Below](https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Mother](https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F) | 4:09 |
-| 68 | [The Signal Fire \(feat\. Howard Jones\)](https://open.spotify.com/track/2Fup9XFE9sXWu9Qft2Q7ZB) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l), [Howard Jones](https://open.spotify.com/artist/4T0p8Zo2nJdSoCDTrV9jgW) | [Atonement](https://open.spotify.com/album/6kkUp557e0o5k0dRBfohJZ) | 3:05 |
-| 69 | [Kai Tangata](https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Tū](https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M) | 6:35 |
+| 68 | [Kai Tangata](https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Tū](https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M) | 6:35 |
+| 69 | [The Signal Fire \(feat\. Howard Jones\)](https://open.spotify.com/track/2Fup9XFE9sXWu9Qft2Q7ZB) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l), [Howard Jones](https://open.spotify.com/artist/4T0p8Zo2nJdSoCDTrV9jgW) | [Atonement](https://open.spotify.com/album/6kkUp557e0o5k0dRBfohJZ) | 3:05 |
 | 70 | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lzzy Hale](https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY) | [Talk To Me \(feat\. Lzzy Hale\)](https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T) | 3:28 |
 | 71 | [Amaranth](https://open.spotify.com/track/1sXdW94CrEIrYdbfON4Sxt) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 3:51 |
 | 72 | [Painless](https://open.spotify.com/track/4IkCvLPQfBEclen1NuIDIL) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 3:59 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 80 | [Night of the Witch](https://open.spotify.com/track/3orHIz1YV1bmUHsi2fze48) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 6:32 |
 | 81 | [system\_failure](https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:18 |
 | 82 | [Biggest & the Best](https://open.spotify.com/track/51XrhhPlt1smLatJgcBrUb) | [Clawfinger](https://open.spotify.com/artist/1xE3snzm12GBK259IqEFlY) | [Clawfinger](https://open.spotify.com/album/2UcbjA0yIRk3OR5H7GKnGf) | 3:51 |
-| 83 | [Would you be my therapy?](https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Would you be my therapy?](https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk) | 2:39 |
-| 84 | [Hit The Floor](https://open.spotify.com/track/0UYJv76bj5U3QRghS8wL9e) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 3:30 |
-| 85 | [Nobody](https://open.spotify.com/track/0oD7vsrHsBHiUMIBEa5EmK) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Disobedient](https://open.spotify.com/album/3KVkVGtuxWa6CqoJYujC6H) | 3:05 |
+| 83 | [Hit The Floor](https://open.spotify.com/track/0UYJv76bj5U3QRghS8wL9e) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 3:30 |
+| 84 | [Nobody](https://open.spotify.com/track/0oD7vsrHsBHiUMIBEa5EmK) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Disobedient](https://open.spotify.com/album/3KVkVGtuxWa6CqoJYujC6H) | 3:05 |
+| 85 | [Would you be my therapy?](https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Would you be my therapy?](https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk) | 2:39 |
 | 86 | [There Is Nothing Left](https://open.spotify.com/track/74PAKCnEsM6W8AvKVzwtRg) | [All Shall Perish](https://open.spotify.com/artist/7GkGdNLPzWw4e6ctwKvI2x) | [This Is Where It Ends](https://open.spotify.com/album/5LzFoXgsUsRpeQ3xitLiJl) | 3:22 |
 | 87 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
 | 88 | [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 96 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 |
 | 97 | [Death Diviner](https://open.spotify.com/track/4zx54sa1AiERlvrFyLMXtJ) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Death Diviner](https://open.spotify.com/album/2vMRAb3qY0ilWVSfLeBEDH) | 5:05 |
 | 98 | [Keep It In The Family](https://open.spotify.com/track/6S3oeZ5RKR8Tl9DTPAjGLt) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Persistence Of Time \(30th Anniversary Remaster\)](https://open.spotify.com/album/4WZ1C5yYQ5mekCAw7zDPWA) | 7:08 |
-| 99 | [The Shape of Water](https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [The Shape of Water](https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN) | 3:34 |
+| 99 | [Spike in My Veins](https://open.spotify.com/track/1wzZLs3oFoMcSbf1nEzhLm) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(Deluxe\)](https://open.spotify.com/album/6TA5d51wosfWuZXyOKWzpG) | 4:24 |
 | 100 | [Another World](https://open.spotify.com/track/5hsq03E3do2gWhyOVV2Api) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Another World](https://open.spotify.com/album/4tyLNMywFElpCHVQUZVWVa) | 4:24 |
 
 Snapshot ID: `ZpUhJgAAAACuL02SkA8UQH0S8n7o8eOx`

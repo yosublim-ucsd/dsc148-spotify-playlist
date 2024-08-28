@@ -4909,6 +4909,32 @@
     },
     {
       "album": {
+        "name": "Paparazzi (feat. CERES)",
+        "url": "https://open.spotify.com/album/3Mm4nJGwnaNbmfDZtOtGEQ"
+      },
+      "artists": [
+        {
+          "name": "Madds",
+          "url": "https://open.spotify.com/artist/0Bdyam7rtOjqj4m1PfpeUy"
+        },
+        {
+          "name": "Hektor Mass",
+          "url": "https://open.spotify.com/artist/1EdB8PPdSPE4QEbWNb22Ce"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "Paparazzi (feat. CERES)",
+      "url": "https://open.spotify.com/track/31ggAAisFrVT25iWx5TnRX"
+    },
+    {
+      "album": {
         "name": "DISCOTEKEO",
         "url": "https://open.spotify.com/album/3M1mMhYdhu9vjPgv5JXQ27"
       },

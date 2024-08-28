@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,466 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,479 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 2 | [Unintelligible Whispers Pt.1](https://open.spotify.com/track/7d4fH9j6urESBf2WsbkmKt) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Unintelligible Whispers](https://open.spotify.com/album/4yPrMv0lwW7Yl6XfExu0pz) | 2:35 |
 | 3 | [Sleep Clinic Part 2](https://open.spotify.com/track/7fa12AeziG3ON4z80k5eFo) | [Karuna Satori ASMR](https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5) | [Karuna's Sleep Clinic](https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W) | 3:52 |
 | 4 | [Reassuring Whispers 2 Asmr](https://open.spotify.com/track/3Cid1Ne9qWeFJiU2Z6bhIx) | [DianaDewAsmr](https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu) | [July Tingly Studio Sounds Special](https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz) | 5:07 |
-| 5 | [Whispers and Thrifty Tingles Pt.1](https://open.spotify.com/track/3Wbm2ioAtPkjMj3N46M5ez) | [Prim ASMR](https://open.spotify.com/artist/6OhEbrAJdkKbJ8cjfNCi1X) | [Whispers and Thrifty Tingles](https://open.spotify.com/album/0We5bmEJsOLZoj4UGVUTcd) | 4:11 |
-| 6 | [Brain Melting Sleep Treatment Pt.1](https://open.spotify.com/track/0EqQ9Z5oY0kP2Di8lqzOKa) | [Tingting ASMR](https://open.spotify.com/artist/3v11hexW8sJ3Jfs9ft4xWw) | [Brain Melting Sleep Treatment](https://open.spotify.com/album/6bSao7wQTkf1e3lENdSo7w) | 6:29 |
+| 5 | [Brain Melting Sleep Treatment Pt.1](https://open.spotify.com/track/0EqQ9Z5oY0kP2Di8lqzOKa) | [Tingting ASMR](https://open.spotify.com/artist/3v11hexW8sJ3Jfs9ft4xWw) | [Brain Melting Sleep Treatment](https://open.spotify.com/album/6bSao7wQTkf1e3lENdSo7w) | 6:29 |
+| 6 | [Whispers and Thrifty Tingles Pt.1](https://open.spotify.com/track/3Wbm2ioAtPkjMj3N46M5ez) | [Prim ASMR](https://open.spotify.com/artist/6OhEbrAJdkKbJ8cjfNCi1X) | [Whispers and Thrifty Tingles](https://open.spotify.com/album/0We5bmEJsOLZoj4UGVUTcd) | 4:11 |
 | 7 | [Unintelligble Sleep Whisper Sayy Wayy](https://open.spotify.com/track/6chyCwZ2KhBUqjTUfw0ZHS) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Whispers \(Binaural\)](https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6) | 2:56 |
 | 8 | [Showering You In Compliments Pt.2](https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL) | [ASMR Darling](https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7) | [Showering You In Compliments](https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh) | 3:31 |
 | 9 | [Intense Relaxation Pt.2](https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Intense Relaxation](https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8) | 7:27 |

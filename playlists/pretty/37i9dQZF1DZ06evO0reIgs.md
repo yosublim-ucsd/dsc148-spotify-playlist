@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,495 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,494 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Insônia](https://open.spotify.com/track/2k6GseLRHaO4UcUBlTMORl) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:26 |
 | 50 | [No Cais](https://open.spotify.com/track/2iFG2rANNj7cbebbhKqAv3) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:28 |
 
-Snapshot ID: `Zsp0AAAAAAB7BHT6FbsZPeJCeym30hDe`
+Snapshot ID: `ZsvFgAAAAADYyYlqPKH4w+5cYcJ3Ukpz`

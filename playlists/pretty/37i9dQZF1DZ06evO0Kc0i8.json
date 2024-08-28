@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 725994,
+  "num_followers": 726388,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAB+6vZaVCRFdk0559GeCyV9",
+  "snapshot_id": "ZsvFgAAAAACluFj5ZP11OOtV0OV2tzqF",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Efecto",
-        "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "El Efecto",
-      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Efecto",
+        "url": "https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "El Efecto",
+      "url": "https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj"
     },
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Espectacular",
-        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
-      },
-      "artists": [
-        {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 185739,
-      "name": "Espectacular",
-      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 227628,
       "name": "Party",
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Espectacular",
+        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Espectacular",
+      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
     },
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Mujeres Ya No Lloran",
-        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 172503,
-      "name": "Cohete",
-      "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Toda (Remix)",
         "url": "https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 367680,
       "name": "Toda (Remix)",
       "url": "https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172503,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
     },
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trap Cake, Vol. 1",
+        "url": "https://open.spotify.com/album/37rUi63O4koMFvrSC1EMam"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 250838,
+      "name": "Al Mismo Tiempo",
+      "url": "https://open.spotify.com/track/7CF4dWivLZf3Hdg0FKL9Eb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Color Esperanza 2020",
         "url": "https://open.spotify.com/album/6EZE5e3vBZZkSsnyn1g1gb"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 217546,
       "name": "Color Esperanza 2020",
       "url": "https://open.spotify.com/track/3eSJmGWqoBRx5wbFCtvPtz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trap Cake, Vol. 1",
-        "url": "https://open.spotify.com/album/37rUi63O4koMFvrSC1EMam"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 250838,
-      "name": "Al Mismo Tiempo",
-      "url": "https://open.spotify.com/track/7CF4dWivLZf3Hdg0FKL9Eb"
     },
     {
       "added_at": null,

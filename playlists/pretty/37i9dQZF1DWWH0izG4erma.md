@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Mitchell Tenpenny and Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,737 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,788 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 70 | [Shadows](https://open.spotify.com/track/48L0aN6ucksmwCMc6rojoX) | [Ryan Jesse](https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl) | [Shadows](https://open.spotify.com/album/3LPB4Q86iHeVqZAOL5l7zq) | 3:14 |
 | 71 | [Whiskey Lullaby](https://open.spotify.com/track/5dRwdw0BLvGmNQ2TqBhOdc) | [Drew Jacobs](https://open.spotify.com/artist/4sTH4GWWUdEvvkiVgn03D0), [Caitlynne Curtis](https://open.spotify.com/artist/5m984rwcMVTObo3jCSzDCf) | [Whiskey Lullaby](https://open.spotify.com/album/01jScvVAy4QKHwy8zbrwuM) | 4:29 |
 | 72 | [Had It For A While](https://open.spotify.com/track/2iRIwezcfYxCyl2SqMt9RN) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Had It For A While](https://open.spotify.com/album/6nxaqnlVueBm7rOF6S6B8e) | 2:31 |
-| 73 | [Might As Well Be Me](https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Nobody's Nobody](https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg) | 2:49 |
-| 74 | [Dirt Road When I Die](https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dirt Road When I Die \- EP](https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM) | 2:54 |
+| 73 | [Dirt Road When I Die](https://open.spotify.com/track/4s6FIcKkm95fsxCJEXZfBk) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Dirt Road When I Die \- EP](https://open.spotify.com/album/1pCDzPe1mHuVikUpLzXsCM) | 2:54 |
+| 74 | [Might As Well Be Me](https://open.spotify.com/track/1N9eCzPHV1UW56ebwPPfG3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Nobody's Nobody](https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg) | 2:49 |
 | 75 | [LOSER](https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [LOSER](https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq) | 3:14 |
 | 76 | [The Better Me](https://open.spotify.com/track/07EVpY24NcxUIAeluojBLz) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Better Me](https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm) | 3:15 |
 | 77 | [Locomotive](https://open.spotify.com/track/6x1mY23VCOpjiBMD4RIiD0) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:13 |
@@ -93,11 +93,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 83 | [Lips Of An Angel](https://open.spotify.com/track/6CmzMi95AEhOLIFKOF98ln) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ), [Austin John Winkler](https://open.spotify.com/artist/7qxZtX9UNGo338GpLJsSjP) | [Lips Of An Angel](https://open.spotify.com/album/4XjC54w13spoXJeJpFrYLv) | 4:09 |
 | 84 | [Midnight Dancer](https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf) | [Aaron McBee](https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA) | [If I Know You](https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr) | 2:43 |
 | 85 | [Candle In The Dark](https://open.spotify.com/track/5NFZ0EDMwedt9fKXlDPNYm) | [Them Dirty Roses](https://open.spotify.com/artist/6n9Ciz68f2aZF98RAdshe6) | [Candle In The Dark](https://open.spotify.com/album/3usMJx3KAQC39y4tAmKcRU) | 4:29 |
-| 86 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
-| 87 | [Black Powder Soul](https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 3:36 |
+| 86 | [Black Powder Soul](https://open.spotify.com/track/0KbCBafoO4ShzNvkcY2cJe) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Black Powder Soul](https://open.spotify.com/album/7FQI1x1uimqWaAtLw1qZvy) | 3:36 |
+| 87 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
 | 88 | [Made For This](https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Made For This](https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T) | 3:43 |
-| 89 | [Everybody's Friend](https://open.spotify.com/track/4CjH87e1np3OkwlYQdGOmv) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Everybody's Friend](https://open.spotify.com/album/3sHPQGWO16wBCtaS2zZYOk) | 2:53 |
-| 90 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
+| 89 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
+| 90 | [Everybody's Friend](https://open.spotify.com/track/4CjH87e1np3OkwlYQdGOmv) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Everybody's Friend](https://open.spotify.com/album/3sHPQGWO16wBCtaS2zZYOk) | 2:53 |
 | 91 | [Rock Bottom](https://open.spotify.com/track/0nwwcVkIvLXNPwgWro38Cd) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Rock Bottom](https://open.spotify.com/album/43IDZXdU9lmnblSuAm1PXb) | 3:22 |
 | 92 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 |
 | 93 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 97 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 98 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
 | 99 | [Ain't My Day](https://open.spotify.com/track/6xscb3IfPqwanr2IoG5c8d) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc), [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Ain't My Day](https://open.spotify.com/album/1aJj0KP16u9ksUixsCAJ61) | 3:21 |
-| 100 | [The Wolf](https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [The Wolf](https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR) | 5:37 |
+| 100 | [By Now](https://open.spotify.com/track/5O3YFgx7m0geCKzzo7PjA0) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [By Now](https://open.spotify.com/album/3JwPrJgE6Ev6zJdsIYXCD4) | 3:20 |
 
 Snapshot ID: `ZsgJQAAAAAAiQkFZYGagMSoCSgS1rDBo`

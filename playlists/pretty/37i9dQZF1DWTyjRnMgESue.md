@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Wild Rivers
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,557 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,578 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 39 | [Skin](https://open.spotify.com/track/4uqfL7UKwWPF1bpZok6zGs) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Skin](https://open.spotify.com/album/7wrLNCRVTujZouG9qSUrry) | 3:44 |
 | 40 | [Just Like North](https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Just Like North](https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld) | 3:04 |
 | 41 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 |
-| 42 | [Long Way Home](https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Long Way Home](https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN) | 4:01 |
-| 43 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
-| 44 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 |
-| 45 | [Please Slow Down](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 |
+| 42 | [Please Slow Down](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 |
+| 43 | [Long Way Home](https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Long Way Home](https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN) | 4:01 |
+| 44 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
+| 45 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 |
 | 46 | [End Of The World](https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 3:54 |
 | 47 | [Lose You Now](https://open.spotify.com/track/4WurkARkUZaKRXiPjYioHe) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Lose You Now](https://open.spotify.com/album/1s2RfYJTmgabctpG6GJBOG) | 3:18 |
 | 48 | [I Figured We'd Go Dancin'](https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Fighting For](https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1) | 4:45 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 67 | [little me](https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [little me](https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm) | 3:00 |
 | 68 | [4 foot 2](https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [4 foot 2](https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz) | 2:34 |
 | 69 | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Little Blue \(feat\. Brandi Carlile\)](https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa) | 4:25 |
-| 70 | [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 |
+| 70 | [Malleable](https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:01 |
 | 71 | [Riding Around In The Dark](https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Riding Around In The Dark](https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj) | 3:26 |
 | 72 | [Hawkmoon](https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Past Is Still Alive](https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy) | 3:42 |
 | 73 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 ### [This Is Edith Márquez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4eQ4e5)
 
-> This is Edith Márquez\. The essential tracks, all in one playlist.
+> This Is Edith Márquez\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,894 likes - 51 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,907 likes - 51 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 50 | [Ya que voy a estar sin ti](https://open.spotify.com/track/4iEqwsKkCYq2UGo0qCiG0P) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Frente a ti](https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk) | 3:59 |
 | 51 | [Palabras Tristes](https://open.spotify.com/track/1FktCE7NbKvj85XmGIp6Cb) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:36 |
 
-Snapshot ID: `Zsp0AAAAAABBgo1Pn8mdX5Q4FJ1M/IaY`
+Snapshot ID: `ZsvFgAAAAAAD/NBRwkbsl6CqF+CVvtR6`

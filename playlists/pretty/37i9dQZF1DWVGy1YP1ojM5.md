@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,432,350 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,432,220 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 94 | [Get Me](https://open.spotify.com/track/6zGPytJiZmFuyVq7RTNO9G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Get Me](https://open.spotify.com/album/0GzsdiiItPCABfhuFIKiZi) | 3:05 |
 | 95 | [Bop](https://open.spotify.com/track/0V0aCHGKkF4DYLUN9qVKKj) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:42 |
 | 96 | [Don’t Make Me Wait](https://open.spotify.com/track/31UPS6TZYhhNFnTlie5gpB) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:52 |
-| 97 | [Grip Tight](https://open.spotify.com/track/79oMfwG1PoLKOXmFkvKI4Z) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 3:59 |
-| 98 | [Sex Room](https://open.spotify.com/track/6GFR0u6aaNM6qnUQR91WT5) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [1320](https://open.spotify.com/album/3C442Onkmd4SFO1JCvaDji) | 3:22 |
+| 97 | [Sex Room](https://open.spotify.com/track/6GFR0u6aaNM6qnUQR91WT5) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9) | [1320](https://open.spotify.com/album/3C442Onkmd4SFO1JCvaDji) | 3:22 |
+| 98 | [Grip Tight](https://open.spotify.com/track/79oMfwG1PoLKOXmFkvKI4Z) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Winter's Diary 5](https://open.spotify.com/album/3qpgECxsMr2Iond5cWsH2h) | 3:59 |
 | 99 | [All For You](https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [All For You](https://open.spotify.com/album/37dpSVOfI1x0CIiDzlIc6i) | 3:03 |
 | 100 | [Splash \(feat\. Jhené Aiko & Ty Dolla $ign\)](https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 3:54 |
 

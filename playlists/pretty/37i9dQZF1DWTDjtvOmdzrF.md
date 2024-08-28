@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,065 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,129 likes - 75 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 36 | [Membasuh](https://open.spotify.com/track/3CBxVM0zGj41BQtE6m7gwb) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12), [Rara Sekar](https://open.spotify.com/artist/6mJII5SJlWEYnf7DY4Uywl) | [Menari Dengan Bayangan](https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn) | 6:13 |
 | 37 | [Zona Nyaman \(From "Filosofi Kopi 2: Ben & Jody"\)](https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj) | [Ego & Fungsi Otak](https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz) | 4:03 |
 | 38 | [Apa Mungkin \- Demo Version](https://open.spotify.com/track/5RveogdH4YRFlW2kdGT0vA) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin \(Demo Version\)](https://open.spotify.com/album/6tR9LzZ03VCSXMjhrzl1Jf) | 2:11 |
-| 39 | [Bercinta Lewat Kata \- From "Jatuh Cinta Seperti di Film\-Film"](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(From "Jatuh Cinta Seperti di Film\-Film"\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 |
-| 40 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
+| 39 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
+| 40 | [Bercinta Lewat Kata \- From "Jatuh Cinta Seperti di Film\-Film"](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(From "Jatuh Cinta Seperti di Film\-Film"\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 |
 | 41 | [Resah](https://open.spotify.com/track/1k5vv2ood14aa5uBYWBlWh) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 4:00 |
 | 42 | [Rayuan Perempuan Gila](https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rayuan Perempuan Gila](https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO) | 5:20 |
 | 43 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 |

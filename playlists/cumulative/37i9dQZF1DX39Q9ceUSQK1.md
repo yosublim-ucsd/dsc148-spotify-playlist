@@ -4,7 +4,7 @@
 
 > Nieuwe indie, rock en alternative\. Cover: Glass Animals
 
-95 songs - 5 hr 17 min
+100 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,9 +16,11 @@
 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 | 2024-07-26 |  |
 | [All Kinds Of People](https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All Kinds Of People](https://open.spotify.com/album/1qrfKDFYVsll4mThf6pxqJ) | 2:47 | 2024-07-04 | 2024-08-02 |
 | [Anyone, Anything](https://open.spotify.com/track/3sKOFIxANNUQvScMAuZrjz) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Anyone, Anything](https://open.spotify.com/album/2le1dcsSTG2r8wSh3vsHhB) | 2:29 | 2024-08-01 |  |
+| [Anywhere but Here](https://open.spotify.com/track/26atzyt7k7kQhFojC9gB1k) | [Naive Set](https://open.spotify.com/artist/1SPS81Jo8TCGUCiQIEfLYh) | [Anywhere but Here](https://open.spotify.com/album/2gHdcrdUx7GwCavOrDnXTC) | 3:13 | 2024-08-27 |  |
 | [BADMAN](https://open.spotify.com/track/1pCyTcaqP56AiGqMSwdN12) | [RAT BOY](https://open.spotify.com/artist/2PmIyxmEFsNfQJjEifPDZC) | [BADMAN](https://open.spotify.com/album/2PAbdMKsxkev1Xt8E2xmLt) | 2:48 | 2024-07-26 |  |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-06-24 |  |
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-06-24 | 2024-07-27 |
+| [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-27 |  |
 | [Claim To Fame](https://open.spotify.com/track/3tYsuxhfToTsjW9JkVTV2M) | [Ramkot](https://open.spotify.com/artist/6F93CFXfe0VbChYnV0EXi7) | [Claim To Fame](https://open.spotify.com/album/0aGdrW2ldqPgXanjk3jBsx) | 2:30 | 2024-07-26 |  |
 | [Comic Trip](https://open.spotify.com/track/7uwsDqA4W8tRmG2lp7Sm7g) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Comic Trip](https://open.spotify.com/album/0u0ksyxsBdZxwNr35iKDJi) | 3:32 | 2024-06-24 |  |
 | [Daisies](https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Daisies](https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn) | 3:02 | 2024-07-09 |  |
@@ -35,8 +37,9 @@
 | [Feed You To My Dog](https://open.spotify.com/track/6tQnoOU4mMgx5mMiDFXJlR) | [GUNMOLL](https://open.spotify.com/artist/58JjVQf1svduEYcR9y3jba) | [Feed You To My Dog](https://open.spotify.com/album/5AvylfOCnLhdTzNzXXU4UU) | 3:16 | 2024-07-11 |  |
 | [Flea](https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Flea](https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN) | 3:46 | 2024-06-24 | 2024-08-02 |
 | [Fun Fact](https://open.spotify.com/track/1f5EdRf2pijijsSEeJBaKg) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Fun Fact](https://open.spotify.com/album/5EAS9bSHTwrTlizIJIVUqO) | 2:31 | 2024-06-24 | 2024-07-27 |
-| [Goldy](https://open.spotify.com/track/1wZ5OdmhssZf89vdd1ipWR) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [GOLDY](https://open.spotify.com/album/4CTzp3ZZUFjQopaCvbQ6Oe) | 4:08 | 2024-06-24 |  |
+| [Goldy](https://open.spotify.com/track/1wZ5OdmhssZf89vdd1ipWR) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [GOLDY](https://open.spotify.com/album/4CTzp3ZZUFjQopaCvbQ6Oe) | 4:08 | 2024-06-24 | 2024-08-28 |
 | [High In Low Places](https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [High In Low Places](https://open.spotify.com/album/3LGeTs25E1Emefp9Johfq9) | 3:10 | 2024-06-24 |  |
+| [I Can Be Your Personal Trainer](https://open.spotify.com/track/5BUXRb2mj07Jhglst2dUpz) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Still Willing](https://open.spotify.com/album/1xcnndeaNzEVp5DC97ka1o) | 2:57 | 2024-08-27 |  |
 | [If I'm Gonna Go Anywhere](https://open.spotify.com/track/3qjg1oppLqsVNoSkuPDb31) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [IF I'M GONNA GO ANYWHERE](https://open.spotify.com/album/0fWYCV4XA1FLYFOCGopl5L) | 4:23 | 2024-06-24 |  |
 | [Intangible](https://open.spotify.com/track/37AHx5plFCTjUyahG4pcgQ) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Intangible](https://open.spotify.com/album/1LhBLbebW10ttVVizB1lmp) | 2:58 | 2024-06-24 |  |
 | [Into You](https://open.spotify.com/track/6mIE4SuwCMmWfUPEkeonEE) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [Into You](https://open.spotify.com/album/4tvMqUAzqNckVfYZ2bGkOZ) | 4:44 | 2024-06-24 |  |
@@ -80,7 +83,9 @@
 | [She Likes Me](https://open.spotify.com/track/1PRTvqpZHSxsTIRQMgoFNo) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [She Likes Me](https://open.spotify.com/album/2YnT8eUlDz0lAYxmuoxu3h) | 3:47 | 2024-06-24 | 2024-07-05 |
 | [Shoot](https://open.spotify.com/track/1QFerkEWR1GAqmppYqIxpN) | [Equal Idiots](https://open.spotify.com/artist/4nljEo4gnUFgczxjNt5KOR) | [Shoot](https://open.spotify.com/album/5TUatnY0Q5BF7de6pvFkuZ) | 2:07 | 2024-07-09 |  |
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-07-26 |  |
+| [Sick Of The Blues](https://open.spotify.com/track/3Jek6guUoQ5qxuie0Y10rz) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Sick Of The Blues](https://open.spotify.com/album/300fGC25ykyxbLrazATeMP) | 3:23 | 2024-08-27 |  |
 | [Society's Fixation Seeker](https://open.spotify.com/track/5qQwPmOwM1yIHadiimVqjW) | [LIGHTSPEED](https://open.spotify.com/artist/6AKqwXVRN32svEj6t8gD3Q) | [Society's Fixation Seeker](https://open.spotify.com/album/0RuIqeRNLcpZJ2JtfZsPeo) | 3:06 | 2024-07-26 |  |
+| [Starburster](https://open.spotify.com/track/09ttHg3ZNVgDlYBZa1ZBw0) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance](https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5) | 3:41 | 2024-08-27 |  |
 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-06-24 | 2024-07-12 |
 | [Stray](https://open.spotify.com/track/2wb55krslcGE17P1BHeqH1) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Stray](https://open.spotify.com/album/3CCIKTCVsvEzgrU8L7sCj8) | 3:33 | 2024-06-24 | 2024-07-10 |
 | [Supersad](https://open.spotify.com/track/1RsfrWBRyXb36JUhSulKlF) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Supersad](https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA) | 2:50 | 2024-06-24 |  |

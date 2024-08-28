@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 
 ### [This Is Murda Beatz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO26qb6H)
 
-> This Is Murda Beatz\. Los temas esenciales, todos en una lista.
+> This is Murda Beatz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,120 likes - 36 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,119 likes - 36 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 35 | [Pockets](https://open.spotify.com/track/2ARm0lyL6i8zoHtNvOuGQs) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Bless Yo Trap](https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f) | 3:13 |
 | 36 | [Outside](https://open.spotify.com/track/5ZuP7gjwZlBcGsxcSOtpfa) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Outside](https://open.spotify.com/album/4hoY7EvJ5DFDNGlN2eG2MN) | 2:16 |
 
-Snapshot ID: `Zsp0AAAAAAAmf7Z659E0wxJIzM/uGhpx`
+Snapshot ID: `ZsvFgAAAAADTyDXo9UNgEQKY5swY7ANu`

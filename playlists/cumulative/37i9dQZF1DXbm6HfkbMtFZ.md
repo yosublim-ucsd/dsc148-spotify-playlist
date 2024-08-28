@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-582 songs - 1 day 10 hr 55 min
+583 songs - 1 day 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [Officer of Love](https://open.spotify.com/track/0g7exrz3J7Ew9Et3NKOopv) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/32KEzI5ktqL3XmYP81n8mk) | 3:59 | 2023-12-21 | 2024-04-19 |
 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 | 2021-12-16 | 2024-02-14 |
 | [Oh Boredom \(Schmaltz City, USA\)](https://open.spotify.com/track/79084mepy4vAEG416uZxO7) | [Star Parks](https://open.spotify.com/artist/0yRum3Q7Dqnt8kl4MdO7TH) | [The New Sounds of Late Capitalism](https://open.spotify.com/album/1FvsGwOIqTWvoXHo5wleVE) | 3:42 | 2021-12-30 | 2022-07-29 |
-| [Oh Honey](https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy) | [Neighbor Lady](https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6) | [Maybe Later](https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm) | 3:30 | 2024-08-14 |  |
+| [Oh Honey](https://open.spotify.com/track/4eDePvo9VfLNLmp8RcSAoy) | [Neighbor Lady](https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6) | [Maybe Later](https://open.spotify.com/album/7yocoFhxAHU4mvE0anaPFm) | 3:30 | 2024-08-14 | 2024-08-28 |
 | [Oh, Loretta!](https://open.spotify.com/track/4HqxTpbXpLO1jgKJppk8Gl) | [Sex on Toast](https://open.spotify.com/artist/7w6CFgYRRBheH4QOpa7xzI) | [Oh, Loretta!](https://open.spotify.com/album/53svbquW0UhEwPQ5TBUTbP) | 4:29 | 2022-03-30 | 2022-07-13 |
 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 | 2021-12-16 | 2022-07-29 |
 | [On + Off](https://open.spotify.com/track/2kvwSbG26eHKUJdvH7DiR2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:41 | 2022-12-28 |  |
@@ -422,6 +422,7 @@
 | [Running Away](https://open.spotify.com/track/0wpjR48SjbwsHxd7CeaRse) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Game Winner \- EP \(Deluxe Edition\)](https://open.spotify.com/album/3YgyDtXFVN2AVMPZE1GfFV) | 4:31 | 2021-12-16 | 2022-07-29 |
 | [Running Away](https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Running Away](https://open.spotify.com/album/6cV7QYmHkPFCJaoRCQscpE) | 3:15 | 2023-09-19 |  |
 | [Runway Gurl \- Original Mix](https://open.spotify.com/track/4qEt7wJkdViaMNi2EP0SDk) | [Chuggin Edits](https://open.spotify.com/artist/765A5emJkUUu04hkQaN3Op) | [Get a Room](https://open.spotify.com/album/5GpVL1Hn8CFb2vhhLCQacJ) | 5:34 | 2021-12-16 | 2022-07-29 |
+| [Sad Dream](https://open.spotify.com/track/6k8jlEH1WssLwzXHfZGq3j) | [EchoWave](https://open.spotify.com/artist/6cRSP0k82PWTiEmLPqwrTI) | [Sad Dream](https://open.spotify.com/album/2HIWjaGWNOazjOiF7cpUrr) | 3:40 | 2024-08-14 |  |
 | [Safe](https://open.spotify.com/track/4ofgRDtuYb7hfBgZLSAw4X) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Safe](https://open.spotify.com/album/3Y8WcmnrpBlWPFlN3zeFU0) | 3:05 | 2021-12-16 | 2022-07-29 |
 | [Safe](https://open.spotify.com/track/3oXo5b276GoNWN3DODNIU1) | [Bay Ledges](https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc) | [Safe](https://open.spotify.com/album/1kATrLjraOyo3ZSLIVSxUe) | 3:05 | 2022-07-26 | 2022-10-04 |
 | [Satisfy Me](https://open.spotify.com/track/0OsGdYAv9kY6BxLlMg9622) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Delilah](https://open.spotify.com/album/2iOEBkiMCteCJExhYgVpXZ) | 2:35 | 2022-03-30 | 2022-09-21 |

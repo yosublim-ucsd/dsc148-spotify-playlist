@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 464493,
+  "num_followers": 464552,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 162930,
-      "name": "Ska en la Playa",
-      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Que me quemen tus ojos",
         "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
@@ -1123,6 +1107,26 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        },
+        {
+          "name": "Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf"
+        }
+      ],
+      "duration_ms": 328680,
+      "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
+      "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1147,22 +1151,18 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
       },
       "artists": [
         {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        },
-        {
-          "name": "Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf"
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
         }
       ],
-      "duration_ms": 328680,
-      "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
-      "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
+      "duration_ms": 162930,
+      "name": "Ska en la Playa",
+      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/58HuvUk6husnKyigR8iOFY"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 122858,
-      "name": "Extinci\u00f3n",
-      "url": "https://open.spotify.com/track/18iAPBZinu7ZHeFhxNcxWn"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
         "name": "Este Ritmo",
         "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/58HuvUk6husnKyigR8iOFY"
+      },
+      "artists": [
+        {
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
+        }
+      ],
+      "duration_ms": 122858,
+      "name": "Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/18iAPBZinu7ZHeFhxNcxWn"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "Baile Infinito",
         "url": "https://open.spotify.com/album/1zpggciAeGOsTlKKaSJxMR"
       },
@@ -1563,22 +1563,6 @@
       "duration_ms": 332695,
       "name": "Amor Sin Odio",
       "url": "https://open.spotify.com/track/2bk0AuqjYp7giuIOuD6G2W"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/51OjtDRZ1zVVy8UwMv3KvL"
-      },
-      "artists": [
-        {
-          "name": "La Tremenda Korte",
-          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
-        }
-      ],
-      "duration_ms": 195083,
-      "name": "Mezcal",
-      "url": "https://open.spotify.com/track/3zvVb54141fDaRFq2wzHbJ"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
         "name": "Todo Alg\u00fan D\u00eda Termina",
         "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
       },
@@ -1659,18 +1659,34 @@
     {
       "added_at": "2024-08-09 06:00:00",
       "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/51OjtDRZ1zVVy8UwMv3KvL"
       },
       "artists": [
         {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+          "name": "La Tremenda Korte",
+          "url": "https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt"
         }
       ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+      "duration_ms": 195083,
+      "name": "Mezcal",
+      "url": "https://open.spotify.com/track/3zvVb54141fDaRFq2wzHbJ"
+    },
+    {
+      "added_at": "2024-08-09 06:00:00",
+      "album": {
+        "name": "Tengo Miedo",
+        "url": "https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
     },
     {
       "added_at": "2024-08-09 06:00:00",
@@ -1691,22 +1707,6 @@
       "duration_ms": 267865,
       "name": "Amor por el Ska",
       "url": "https://open.spotify.com/track/1gIabnh7fMtyMRKsRTsy1p"
-    },
-    {
-      "added_at": "2024-08-09 06:00:00",
-      "album": {
-        "name": "Tengo Miedo",
-        "url": "https://open.spotify.com/album/4ygDNvIHzZH7Ga0iuAJqa9"
-      },
-      "artists": [
-        {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
     },
     {
       "added_at": "2024-08-09 06:00:00",

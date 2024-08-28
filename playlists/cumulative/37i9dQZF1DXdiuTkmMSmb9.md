@@ -4,7 +4,7 @@
 
 > Afro diaspora cuts from around the globe\. Cover: Omah Lay
 
-538 songs - 1 day 3 hr 38 min
+539 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-16 | 2023-07-14 |
 | [Holla](https://open.spotify.com/track/2ARamJKit1oRH4ZfAkf3eD) | [Osayo](https://open.spotify.com/artist/7mwr4uuaASWSKyCiWpHeM3), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Holla](https://open.spotify.com/album/2Hk8cgwWnyz8E4Ziw2MH8C) | 3:14 | 2022-09-08 | 2023-04-21 |
 | [Holy Ghost](https://open.spotify.com/track/0zVk3uuV9UhxAt48F3OL12) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Holy Ghost](https://open.spotify.com/album/5y1s96lknw32i5O1OObkhg) | 3:06 | 2023-12-07 |  |
+| [Honest](https://open.spotify.com/track/1n1aw8hKfkmWGDuVCjdczw) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Honest](https://open.spotify.com/album/5jRTxxQ5h7FnkXOBrXrSB2) | 2:41 | 2024-08-23 |  |
 | [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 | 2023-04-13 | 2023-07-14 |
 | [I Don't Care \(feat\. Bella Shmurda & Vector\)](https://open.spotify.com/track/7B1yc3t9hnNj9Uq2LBnAz4) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Bella Shmurda](https://open.spotify.com/artist/4OBeWqpDm9s3hfaoVAj1Ni), [Vector](https://open.spotify.com/artist/0VIRUXHBdO0Uo2U6MbVOmn) | [Better Days](https://open.spotify.com/album/6XhHnQhsT8EayndVj36qvf) | 2:52 | 2024-03-21 | 2024-07-19 |
 | [I Got U \(feat\. Niska\)](https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [I Got U \(feat\. Niska\)](https://open.spotify.com/album/0Iq4aDgUWAe4uz4zdpA6JR) | 3:22 | 2023-11-16 | 2024-06-21 |

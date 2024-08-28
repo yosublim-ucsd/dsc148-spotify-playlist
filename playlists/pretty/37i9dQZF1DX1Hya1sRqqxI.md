@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 
 > The biggest party hits of the 1970s\. Cover: The Jacksons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,225 likes - 150 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,616 likes - 150 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 63 | [Tragedy](https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 5:03 |
 | 64 | [Saturday Night’s Alright \(For Fighting\) \- Remastered 2014](https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \- Remastered](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 4:55 |
 | 65 | [ABC](https://open.spotify.com/track/6D8kc7RO0rqBLSo2YPflJ5) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [ABC](https://open.spotify.com/album/2tukc7pH4qTuXcfaHjLIBc) | 2:54 |
-| 66 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
-| 67 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
+| 66 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
+| 67 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
 | 68 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
 | 69 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
 | 70 | [I Wish](https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:12 |
@@ -141,8 +141,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Hya1sRqqxI.md) - [plain]
 | 131 | [Hot Love \- A Side](https://open.spotify.com/track/4R5qHNB2gdxBM2LDNaJZeO) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:55 |
 | 132 | [Loves Me Like a Rock](https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:33 |
 | 133 | [I'm Your Boogie Man](https://open.spotify.com/track/6mjlbRIgMTf2nqY0kq1rOJ) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band, Pt\. 3..\. and More](https://open.spotify.com/album/1nxHfb1EerQyKdT1aLSXf6) | 4:02 |
-| 134 | [Don't Leave Me This Way](https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx) | 3:37 |
-| 135 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [McFadden & Whitehead](https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs) | 7:00 |
+| 134 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/4Ymk3pqpkGx19gyxxUj5LK) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [McFadden & Whitehead](https://open.spotify.com/album/49y7YFLvKz54gVZZzHbAzs) | 7:00 |
+| 135 | [Don't Leave Me This Way](https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx) | 3:37 |
 | 136 | [That Lady, Pts\. 1 & 2](https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 5:34 |
 | 137 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 |
 | 138 | [Vehicle](https://open.spotify.com/track/6hnyQ0YpiO35rutiLLHLmr) | [The Ides Of March](https://open.spotify.com/artist/1Csjn2SQV7R9szDhhR7Aji) | [Vehicle](https://open.spotify.com/album/23mdYErK9fS7hxWuFBGUob) | 2:58 |

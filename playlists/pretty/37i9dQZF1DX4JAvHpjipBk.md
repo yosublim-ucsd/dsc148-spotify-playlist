@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Sabrina Carpenter, Myke Towers, Lainey Wilson, Coldplay and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,213,060 likes - 99 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,213,262 likes - 99 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

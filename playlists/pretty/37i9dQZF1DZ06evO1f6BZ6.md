@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,692 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,709 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 15 | [I'm Just Talkin' About Tonight](https://open.spotify.com/track/6nN58NDV8VnjvtBmR00qq4) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 2:46 |
 | 16 | [Whiskey Girl](https://open.spotify.com/track/2CaxgnHBHuiOYIGIyvMbCl) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:59 |
 | 17 | [Don't Let the Old Man In](https://open.spotify.com/track/4DLSN6f2Cp5eWIa5Vfn9kj) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Don't Let the Old Man In](https://open.spotify.com/album/1lsOkbVF2Wk8U1IrF3FWLa) | 2:52 |
-| 18 | [Dream Walkin'](https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 3:57 |
-| 19 | [He Ain't Worth Missing](https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:04 |
+| 18 | [He Ain't Worth Missing](https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:04 |
+| 19 | [Dream Walkin'](https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Dream Walkin'](https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR) | 3:57 |
 | 20 | [American Soldier](https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:23 |
 | 21 | [You Shouldn't Kiss Me Like This](https://open.spotify.com/track/5taqvRgn1DdZ117p2DhPXQ) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 3:43 |
 | 22 | [God Love Her](https://open.spotify.com/track/2VwBhM5L7wGE4lLavyJy0L) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [That Don't Make Me a Bad Guy](https://open.spotify.com/album/2wkmIPd9my2KpsBgZZer7e) | 3:36 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 39 | [If I Was Jesus](https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:44 |
 | 40 | [She Only Gets That Way With Me](https://open.spotify.com/track/2Pmm5RJjlcepUIIEmJhvuw) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 2:30 |
 | 41 | [Getcha Some](https://open.spotify.com/track/33ap5PegY9fqcutvyUBdAF) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:17 |
-| 42 | [Oklahoma Breakdown](https://open.spotify.com/track/7J1w5qpIoFFE6YA9BJC5sk) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Peso in My Pocket](https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ) | 3:31 |
-| 43 | [Copenhagen](https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Rodeo Rock And Roll Collection](https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY) | 2:43 |
+| 42 | [Copenhagen](https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9) | [Chris LeDoux](https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Rodeo Rock And Roll Collection](https://open.spotify.com/album/3ERoc1tfA50OkwdoJYblTY) | 2:43 |
+| 43 | [Oklahoma Breakdown](https://open.spotify.com/track/7J1w5qpIoFFE6YA9BJC5sk) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Peso in My Pocket](https://open.spotify.com/album/18AunqcqOhcZYZewF5uQFQ) | 3:31 |
 | 44 | [I Like Girls That Drink Beer](https://open.spotify.com/track/1BrCXPoH8NrQpa4qRhpn2x) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Hope on the Rocks](https://open.spotify.com/album/4DKhGKCMefhclaMA1R7QNs) | 2:47 |
 | 45 | [Drinks After Work](https://open.spotify.com/track/3Q74BN3z8lQIkiBC80zd07) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Drinks After Work](https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH) | 3:32 |
 | 46 | [She's A Hottie \- Single Version](https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 49 | [Shut up and Hold On](https://open.spotify.com/track/4LbyaKFseyaiyCCvbF1j2z) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Drinks After Work](https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH) | 2:55 |
 | 50 | [A Little Too Late](https://open.spotify.com/track/5djhyxT7ZIzM1rP2XE2ygb) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 4:08 |
 
-Snapshot ID: `Zsp0AAAAAAAcyg/y0XfSRTat7XzD+BFT`
+Snapshot ID: `ZsvFgAAAAADqA7qq9pAgGU3VMYf4zpkr`

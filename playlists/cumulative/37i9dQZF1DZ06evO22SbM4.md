@@ -2,7 +2,7 @@
 
 ### [This Is Bailey Zimmerman](https://open.spotify.com/playlist/37i9dQZF1DZ06evO22SbM4)
 
-> This is Bailey Zimmerman\. The essential tracks, all in one playlist.
+> This Is Bailey Zimmerman\. Los temas esenciales, todos en una lista.
 
 25 songs - 1 hr 19 min
 

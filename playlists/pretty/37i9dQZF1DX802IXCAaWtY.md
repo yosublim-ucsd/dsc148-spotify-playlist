@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,599 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,895 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 16 | [Saturday Night \- Radio Mix](https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9) | [Whigfield](https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq) | [Saturday Night Single](https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud) | 4:07 |
 | 17 | [Push The Feeling On \- Mk Dub Revisited Edit](https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag) | [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Push The Feeling On](https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL) | 4:03 |
 | 18 | [Where Do You Go](https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:32 |
-| 19 | [The Riddle](https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:45 |
-| 20 | [2 Times \- Original](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times \(Full Package\)](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 |
+| 19 | [2 Times \- Original](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times \(Full Package\)](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 |
+| 20 | [The Riddle](https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:45 |
 | 21 | [Dreams \(Will Come Alive\)](https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Dreams](https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG) | 4:24 |
 | 22 | [9Pm \(Till I Come\)](https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Movin' Melodies](https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk) | 3:13 |
 | 23 | [Think About the Way](https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:20 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 33 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 |
 | 34 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
 | 35 | [Hardcore Vibes](https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r) | [Dune](https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR) | 3:33 |
-| 36 | [Sandstorm \- Radio Edit](https://open.spotify.com/track/2kWB9IV8EHDOU9EjgxWFrF) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Sandstorm](https://open.spotify.com/album/0SHWgw0LPDs37Go6oPdaqp) | 3:46 |
-| 37 | [Omen III \- Single Edit](https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1) | [Magic Affair](https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg) | [Omen \- The Story Continues](https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb) | 3:57 |
+| 36 | [Omen III \- Single Edit](https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1) | [Magic Affair](https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg) | [Omen \- The Story Continues](https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb) | 3:57 |
+| 37 | [Sandstorm \- Radio Edit](https://open.spotify.com/track/2kWB9IV8EHDOU9EjgxWFrF) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Sandstorm](https://open.spotify.com/album/0SHWgw0LPDs37Go6oPdaqp) | 3:46 |
 | 38 | [Never Alone](https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx) | [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Dreams](https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG) | 5:51 |
 | 39 | [Stay \- Original Single Edit](https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [La Trec](https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv) | [Stay](https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU) | 3:32 |
 | 40 | [Sweet Dreams](https://open.spotify.com/track/1M3Im6Xjl0QUKbP9VAXxVf) | [La Bouche](https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie) | [Best Of La Bouche feat\. Melanie Thornton \(feat\. Melanie Thornton\)](https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN) | 3:24 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 64 | [In The Middle Of The Night](https://open.spotify.com/track/0EYSAcArOvu8Pfqo347B2Y) | [Magic Affair](https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg) | [Omen \- The Story Continues](https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb) | 6:22 |
 | 65 | [Trust Me](https://open.spotify.com/track/1iUdrNKh0GaFuyHgVVDwfi) | [Pandora](https://open.spotify.com/artist/3X8tqA34H3odz1gCCHxrzc) | [One Of A Kind](https://open.spotify.com/album/3y7BEC8JPOLH7ZMkuVDjvM) | 3:26 |
 | 66 | [Drill Instructor \- Short Mix](https://open.spotify.com/track/4ypMF4LbWGUbnamCqJc5RO) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf) | [The Mission](https://open.spotify.com/album/6Szz8TwnGxRpFwu1s4v5OB) | 4:14 |
-| 67 | [The Promise Man](https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 4:05 |
-| 68 | [I'm Gonna Get You \- Original Flavour Mix](https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Energique](https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W) | 5:19 |
-| 69 | [Move On Baby](https://open.spotify.com/track/1PavRrF6Ydo0HSePmMt5tL) | [Cappella](https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg) | [U got 2 know album](https://open.spotify.com/album/5xA73n1xmSkC6S44muzOFJ) | 4:51 |
+| 67 | [I'm Gonna Get You \- Original Flavour Mix](https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Energique](https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W) | 5:19 |
+| 68 | [Move On Baby](https://open.spotify.com/track/1PavRrF6Ydo0HSePmMt5tL) | [Cappella](https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg) | [U got 2 know album](https://open.spotify.com/album/5xA73n1xmSkC6S44muzOFJ) | 4:51 |
+| 69 | [The Promise Man](https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 4:05 |
 | 70 | [Don't Stop Movin'](https://open.spotify.com/track/2P3cEaLNB0qczz4BDB7Mxc) | [Livin' Joy](https://open.spotify.com/artist/3PUzVXdNnsJGPDTIU7xvqu) | [Don’t Stop Movin’](https://open.spotify.com/album/78Iw3pQjjmhlZ9JqJsFl71) | 5:19 |
 
 Snapshot ID: `ZpV+jQAAAABE2o2NC0Zx/hcC9s1S3sIc`

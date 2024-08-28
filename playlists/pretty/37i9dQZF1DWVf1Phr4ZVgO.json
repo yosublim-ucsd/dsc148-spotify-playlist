@@ -1,6 +1,6 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1102016,
+  "num_followers": 1102280,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
@@ -99,8 +99,8 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
       },
       "artists": [
         {
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 279626,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
+      "duration_ms": 269800,
+      "name": "Always on My Mind",
+      "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -243,8 +243,8 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
         }
       ],
-      "duration_ms": 269800,
-      "name": "Always on My Mind",
-      "url": "https://open.spotify.com/track/4zKbPdCC2o8726tHh5sEJw"
+      "duration_ms": 279626,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/4YGlRLe6TeBRiXFByBqldf"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Hooray For Love",
-        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
-      },
-      "artists": [
-        {
-          "name": "Curtis Stigers",
-          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "Notting Hill",
         "url": "https://open.spotify.com/album/6PcgVPzMx4kr63zEgPb505"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 186466,
       "name": "She",
       "url": "https://open.spotify.com/track/64TGtWC8WLzVt7PamUo9EO"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Hooray For Love",
+        "url": "https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c"
+      },
+      "artists": [
+        {
+          "name": "Curtis Stigers",
+          "url": "https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu"
+        }
+      ],
+      "duration_ms": 259573,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV"
     },
     {
       "added_at": "2024-06-03 14:41:08",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-06-03 14:41:08",
       "album": {
-        "name": "Platinum Collection",
-        "url": "https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT"
-      },
-      "artists": [
-        {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
-        },
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 175866,
-      "name": "Qu'est-ce que tu crois ?",
-      "url": "https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1"
-    },
-    {
-      "added_at": "2024-06-03 14:41:08",
-      "album": {
         "name": "Taking A Chance On Love",
         "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
+    },
+    {
+      "added_at": "2024-06-03 14:41:08",
+      "album": {
+        "name": "Platinum Collection",
+        "url": "https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        },
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Qu'est-ce que tu crois ?",
+      "url": "https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1"
     },
     {
       "added_at": "2024-06-03 14:41:08",

@@ -1865,6 +1865,32 @@
     },
     {
       "album": {
+        "name": "Chaudhar",
+        "url": "https://open.spotify.com/album/5oKWsH1gDsgD7c1jkYSKMt"
+      },
+      "artists": [
+        {
+          "name": "R Nait",
+          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+        },
+        {
+          "name": "Labh Heera",
+          "url": "https://open.spotify.com/artist/4ezwpwbRQF6wEWji17s3Bc"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252029,
+      "name": "Chaudhar",
+      "url": "https://open.spotify.com/track/5KBE9WQ9pUZXz3SLJZf0hk"
+    },
+    {
+      "album": {
         "name": "Check It Out",
         "url": "https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV"
       },

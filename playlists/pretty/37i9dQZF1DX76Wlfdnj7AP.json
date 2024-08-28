@@ -1,6 +1,6 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 10711700,
+  "num_followers": 10712000,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-23 21:52:33",
       "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2024-08-23 21:52:33",
-      "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": "2024-08-23 21:52:33",
+      "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "added_at": "2024-08-23 21:52:33",
@@ -711,18 +711,22 @@
     {
       "added_at": "2024-08-23 21:52:33",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+        "name": "BACKBONE",
+        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
         }
       ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+      "duration_ms": 166448,
+      "name": "BACKBONE",
+      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
     },
     {
       "added_at": "2024-08-23 21:52:33",
@@ -751,22 +755,18 @@
     {
       "added_at": "2024-08-23 21:52:33",
       "album": {
-        "name": "BACKBONE",
-        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
       "artists": [
         {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 166448,
-      "name": "BACKBONE",
-      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2024-08-23 21:52:33",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-08-23 21:52:33",
       "album": {
-        "name": "Tell Ur Girlfriend",
-        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 124444,
-      "name": "Tell Ur Girlfriend",
-      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
-    },
-    {
-      "added_at": "2024-08-23 21:52:33",
-      "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 151475,
       "name": "Belly Dancer",
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
+    },
+    {
+      "added_at": "2024-08-23 21:52:33",
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
       "added_at": "2024-08-23 21:52:33",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-08-23 21:52:33",
       "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
-    },
-    {
-      "added_at": "2024-08-23 21:52:33",
-      "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 238253,
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
+    },
+    {
+      "added_at": "2024-08-23 21:52:33",
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
       "added_at": "2024-08-23 21:52:33",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-08-23 21:52:33",
       "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 135746,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB"
+    },
+    {
+      "added_at": "2024-08-23 21:52:33",
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
-    },
-    {
-      "added_at": "2024-08-23 21:52:33",
-      "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 135746,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/57BGVV6wcyhbn3hsjlqEZB"
     },
     {
       "added_at": "2024-08-23 21:52:33",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2024-08-23 21:52:33",
       "album": {
+        "name": "SUPERMODEL",
+        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
+    },
+    {
+      "added_at": "2024-08-23 21:52:33",
+      "album": {
         "name": "Sweetest Pie",
         "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 201334,
       "name": "Sweetest Pie",
       "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
-    },
-    {
-      "added_at": "2024-08-23 21:52:33",
-      "album": {
-        "name": "SUPERMODEL",
-        "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
     },
     {
       "added_at": "2024-08-23 21:52:33",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2024-08-23 21:52:33",
       "album": {
-        "name": "HISS",
-        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
-    },
-    {
-      "added_at": "2024-08-23 21:52:33",
-      "album": {
         "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
+    },
+    {
+      "added_at": "2024-08-23 21:52:33",
+      "album": {
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
       "added_at": "2024-08-23 21:52:33",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2024-08-23 21:52:33",
       "album": {
-        "name": "Throw Some Ass",
-        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 182423,
-      "name": "Throw Some Ass",
-      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
-    },
-    {
-      "added_at": "2024-08-23 21:52:33",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 144000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
+    },
+    {
+      "added_at": "2024-08-23 21:52:33",
+      "album": {
+        "name": "Throw Some Ass",
+        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 182423,
+      "name": "Throw Some Ass",
+      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
     },
     {
       "added_at": "2024-08-23 21:52:33",
@@ -2607,18 +2607,18 @@
     {
       "added_at": "2024-08-23 21:52:33",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
+      "duration_ms": 168224,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ"
     },
     {
       "added_at": "2024-08-23 21:52:33",
@@ -2647,18 +2647,18 @@
     {
       "added_at": "2024-08-23 21:52:33",
       "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/213G7PRCQ5lTQEBMx7qqbW"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 168224,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ"
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
     },
     {
       "added_at": "2024-08-23 21:52:33",
@@ -2835,6 +2835,30 @@
     {
       "added_at": "2024-08-23 21:52:33",
       "album": {
+        "name": "Murderman (feat. LAZER DIM 700 & VonOff1700)",
+        "url": "https://open.spotify.com/album/4B1LLdiQmOjJl1EjnjTZke"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        },
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "duration_ms": 166274,
+      "name": "Murderman (feat. LAZER DIM 700 & VonOff1700)",
+      "url": "https://open.spotify.com/track/6xUjsKn8CsjmEKR6iwv4Mt"
+    },
+    {
+      "added_at": "2024-08-23 21:52:33",
+      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
         "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
       },
@@ -2879,30 +2903,6 @@
       "duration_ms": 144000,
       "name": "JUMPIN",
       "url": "https://open.spotify.com/track/61FwUf89hKEIsjUDtIPRoH"
-    },
-    {
-      "added_at": "2024-08-23 21:52:33",
-      "album": {
-        "name": "Murderman (feat. LAZER DIM 700 & VonOff1700)",
-        "url": "https://open.spotify.com/album/4B1LLdiQmOjJl1EjnjTZke"
-      },
-      "artists": [
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "LAZER DIM 700",
-          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
-        },
-        {
-          "name": "VonOff1700",
-          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
-        }
-      ],
-      "duration_ms": 166274,
-      "name": "Murderman (feat. LAZER DIM 700 & VonOff1700)",
-      "url": "https://open.spotify.com/track/6xUjsKn8CsjmEKR6iwv4Mt"
     },
     {
       "added_at": "2024-08-23 21:52:33",

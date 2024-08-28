@@ -2,9 +2,9 @@
 
 ### [This Is Gunna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iznkj)
 
-> This is Gunna\. The essential tracks, all in one playlist.
+> This Is Gunna\. Los temas esenciales, todos en una lista.
 
-75 songs - 3 hr 37 min
+76 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 | 2023-11-10 |  |
 | [Rackz got më \(feat\. Gunna\)](https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 3:01 | 2023-11-10 | 2024-08-08 |
 | [Ready \(feat\. Gunna\)](https://open.spotify.com/track/4F6yN5FsFW10Ucx7cLCzBh) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 3:33 | 2023-11-10 |  |
+| [Receipts \(feat\. Gunna\)](https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Receipts \(feat\. Gunna\)](https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd) | 3:54 | 2024-08-28 |  |
 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 | 2023-11-10 | 2024-07-23 |
 | [rodeo dr](https://open.spotify.com/track/2rjv9fXzpZDbB6lEeIoB3l) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:56 | 2023-11-10 | 2024-08-02 |
 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 | 2023-11-10 |  |
@@ -64,7 +65,7 @@
 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 | 2023-11-10 |  |
 | [south to west](https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:02 | 2023-11-10 |  |
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2023-11-10 |  |
-| [Start Wit Me \(feat\. Gunna\)](https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:38 | 2023-11-10 |  |
+| [Start Wit Me \(feat\. Gunna\)](https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:38 | 2023-11-10 | 2024-08-28 |
 | [Stuck In A Dream \(feat\. Gunna\)](https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Certified Hitmaker](https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp) | 2:03 | 2023-11-10 |  |
 | [Style Rare \(with Gunna\)](https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Style Rare \(with Gunna\)](https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0) | 3:28 | 2024-06-30 |  |
 | [THIS YEAR \(Blessings\) \- Remix](https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\) \[Remix\]](https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U) | 2:40 | 2023-11-10 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Guatemala.
 
-842 songs - 1 day 23 hr 3 min
+843 songs - 1 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [BIENVENIDA AL PARAÍSO](https://open.spotify.com/track/6v3fbkLKRH6jsa6dho9ocx) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 1:43 | 2022-11-05 | 2022-11-07 |
 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 | 2022-10-24 | 2023-04-14 |
 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2023-09-09 | 2024-01-19 |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-08-27 |  |
 | [Blank Space \(Taylor's Version\)](https://open.spotify.com/track/45wMBGri1PORPjM9PwFfrS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:51 | 2023-10-28 | 2023-10-30 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2021-03-27\* | 2021-05-16 |
 | [BOMBÓN](https://open.spotify.com/track/4OAPnWJ3J5w4c4IBLh2chn) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:02 | 2022-03-26 | 2022-03-28 |
@@ -417,7 +418,7 @@
 | [Life Goes On](https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Ugly is Beautiful: Shorter, Thicker & Uglier \(Deluxe\)](https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob) | 2:41 | 2021-08-25 | 2021-11-14 |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-26 | 2023-12-25 |
 | [Like Crazy \(English Version\)](https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-03-25 | 2023-04-10 |
-| [LINDA](https://open.spotify.com/track/7qXptgpZGo8AFPhJCBVLFE) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 3:44 | 2024-08-25 |  |
+| [LINDA](https://open.spotify.com/track/7qXptgpZGo8AFPhJCBVLFE) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 3:44 | 2024-08-25 | 2024-08-28 |
 | [Lisa](https://open.spotify.com/track/44FzVABpR2cciquTqADA0D) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Lisa](https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt) | 2:39 | 2023-03-14 | 2023-03-18 |
 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2022-02-19 | 2022-02-21 |
 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 | 2024-08-05 | 2024-08-25 |
@@ -657,8 +658,8 @@
 | [Rosa Pastel](https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Gran Disco Mini Precio \- Dulce Beat](https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir) | 3:05 | 2023-07-21 | 2024-07-05 |
 | [Rosa Pastel](https://open.spotify.com/track/4LreWoO3cpgiIfrRwbOUSF) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Rosa Pastel](https://open.spotify.com/album/1PFKd6UNr0AHTNpfPbcd7v) | 3:24 | 2023-05-01 | 2023-05-19 |
 | [ROSA PASTEL](https://open.spotify.com/track/59vyx2m4EpPk7tk2PzV075) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 3:24 | 2023-06-24 | 2023-06-30 |
-| [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 | 2024-05-31 |  |
-| [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 | 2024-08-10 | 2024-08-27 |
+| [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 | 2024-05-31 | 2024-08-28 |
+| [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 | 2024-08-10 |  |
 | [RUBICON](https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:58 | 2023-07-03 | 2023-08-30 |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-03-26 | 2022-04-26 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-06-13 |

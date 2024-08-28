@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTjLfR5thd2p.md) - [plain]
 
 > A cool breeze, a clear sky, and calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,367 likes - 285 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,424 likes - 285 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

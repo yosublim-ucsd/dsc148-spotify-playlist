@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,913 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,001 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 66 | [A Violent Reaction](https://open.spotify.com/track/00YeAWckFwAyrvzvHlYMOk) | [American Head Charge](https://open.spotify.com/artist/6Ig4qybKXgMN2FLSM7GKau) | [The War Of Art](https://open.spotify.com/album/5dBhZn63iuwNTQ9JnDktsl) | 4:12 |
 | 67 | [Ich weiß es nicht](https://open.spotify.com/track/3U3DKA3ou2kJdurTeXDVTz) | [Lindemann](https://open.spotify.com/artist/65A714FqhSPjoFZeffQbTv) | [Ich weiß es nicht](https://open.spotify.com/album/49fvgWYikvKVaNF5z0swh6) | 4:49 |
 | 68 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/2pCEaJskwTTp7omAyUKvR0) | [Revolting Cocks](https://open.spotify.com/artist/7vCJSBATlld5vDKTH87tpG) | [Linger Ficken' Good...And Other Barnyard Oddities](https://open.spotify.com/album/4tK8thYb8QtoE73oH4UzJC) | 5:37 |
-| 69 | [Suffering You](https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH) | [16Volt](https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim) | [FullBlackHabit](https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9) | 3:07 |
-| 70 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
+| 69 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
+| 70 | [Suffering You](https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH) | [16Volt](https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim) | [FullBlackHabit](https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9) | 3:07 |
 | 71 | [I Am Nothing](https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Chasing Ghosts](https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E) | 4:03 |
 | 72 | [Deadened](https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD) | [Front Line Assembly](https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F) | [Echogenetic](https://open.spotify.com/album/0f45KbfktTH1dpYgApp979) | 5:48 |
 | 73 | [D4TM](https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y) | [Oddko](https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81) | [Digital Gods](https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc) | 3:26 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 92 | [Suck](https://open.spotify.com/track/6pBabkxMdp7dXLgJXnsFGp) | [Pigface](https://open.spotify.com/artist/64mGp5QFpsekCRHe6RqDYz) | [The Best Of Pigface](https://open.spotify.com/album/1xPDQlenantNKawfHa3cyw) | 3:40 |
 | 93 | [Post Self](https://open.spotify.com/track/3NDXaUSkdIu36ORI7TpB7J) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [Post Self](https://open.spotify.com/album/4yLRI4kaOy4LhSPZ2sCVbE) | 4:28 |
 | 94 | [Come Back to Life](https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Come Back to Life](https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx) | 3:28 |
-| 95 | [Dr\. Online](https://open.spotify.com/track/5hUXk4avvJ7a1vjbsS0Kiq) | [Zeromancer](https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx) | [Eurotrash](https://open.spotify.com/album/3OCfNb8ssPOm4G2jNBxsnW) | 3:18 |
-| 96 | [Tech Noir](https://open.spotify.com/track/3pBs4Bc6lz2gib5v7k8H77) | [ssSHhh](https://open.spotify.com/artist/6nqlK6RhS69jFzctPiOWxi), [Krista](https://open.spotify.com/artist/56AziF7rLP07PPGgUTzcxH) | [Tech Noir](https://open.spotify.com/album/2tWjnYbjtjL4U0QzsK935L) | 4:22 |
+| 95 | [Tech Noir](https://open.spotify.com/track/3pBs4Bc6lz2gib5v7k8H77) | [ssSHhh](https://open.spotify.com/artist/6nqlK6RhS69jFzctPiOWxi), [Krista](https://open.spotify.com/artist/56AziF7rLP07PPGgUTzcxH) | [Tech Noir](https://open.spotify.com/album/2tWjnYbjtjL4U0QzsK935L) | 4:22 |
+| 96 | [Dr\. Online](https://open.spotify.com/track/5hUXk4avvJ7a1vjbsS0Kiq) | [Zeromancer](https://open.spotify.com/artist/0tQn2q1TIEenLgodtb8Nhx) | [Eurotrash](https://open.spotify.com/album/3OCfNb8ssPOm4G2jNBxsnW) | 3:18 |
 | 97 | [PRESIDENT X](https://open.spotify.com/track/3YlXqeGh10AADlm9tt7bbK) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PRESIDENT X](https://open.spotify.com/album/2nEO7xItffDVSNZo4XOIJU) | 3:40 |
 | 98 | [Incubus](https://open.spotify.com/track/5C5RpCYrAcY5bXXWnlR8mS) | [Munro](https://open.spotify.com/artist/5WEOm6rOYJjrhgqxQoqTZg) | [Incubus](https://open.spotify.com/album/2xhkEviaadlM8bqz2jCdL5) | 5:34 |
 | 99 | [Face Down](https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Face Down](https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6) | 3:39 |

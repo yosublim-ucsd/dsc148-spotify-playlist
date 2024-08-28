@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 
 ### [This Is imase](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RWBWx)
 
-> This is imase\. The essential tracks, all in one playlist.
+> This is imase。アーティストの代表曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,766 likes - 26 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,776 likes - 26 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RWBWx.md) - [plain]
 | 25 | [ピリオド](https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ピリオド](https://open.spotify.com/album/1JFVYi8DTfg8huBRXNTRsP) | 3:34 |
 | 26 | [Pale Rain](https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF) | [imase with PUNPEE & Toby Fox](https://open.spotify.com/artist/0yiiGLiANIkpsBL3gvtqcC), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [Pale Rain](https://open.spotify.com/album/1LtevBef4ZzFe4wYMpRHBm) | 3:41 |
 
-Snapshot ID: `Zsp0AAAAAAC36vbi29Ui4El6W5hXgsJR`
+Snapshot ID: `ZsvFgAAAAAC1preLWz7Eu828TWRuXFyG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,147 likes - 230 songs - 13 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148 likes - 230 songs - 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 26 | [Temporary Love](https://open.spotify.com/track/614GWtz7F9A61E9OPZqNkU) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 3:38 |
 | 27 | [Something Sweet](https://open.spotify.com/track/3PlM3biKS6ZUIHojCJmElE) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Something Sweet](https://open.spotify.com/album/2oIUFdMdCZB6KSxcByEbDT) | 3:15 |
 | 28 | [Ease My Mind](https://open.spotify.com/track/3AM6AoxPgPyXKCiCjKe1BM) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:36 |
-| 29 | [Feel](https://open.spotify.com/track/0mesc5M3rg18gSQQELwwKu) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \[Extended\]](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 3:02 |
+| 29 | [Feel](https://open.spotify.com/track/0mesc5M3rg18gSQQELwwKu) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [THE S\(EX\) TAPES \- Extended](https://open.spotify.com/album/6hhMIHEN6xFMs8Ylj5Bvkj) | 3:02 |
 | 30 | [Perfect](https://open.spotify.com/track/7zRObPOHA0tWMYTAxLudmA) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:53 |
 | 31 | [Truth or Dare](https://open.spotify.com/track/5cyjpbzo1hv5HecXZCmRZD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Little Daylight](https://open.spotify.com/artist/63aFY9yQyFDJtGkInMUris) | [Trouble](https://open.spotify.com/album/6XT2WI977FCKvwdfFXerkh) | 2:30 |
 | 32 | [Victorious](https://open.spotify.com/track/7q3dr26d1GjDvqSdtVaaMA) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Metamorph](https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8) | 3:16 |
@@ -173,8 +173,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 163 | [Magic](https://open.spotify.com/track/0OinzPSjK2fSJwjRsAlJMn) | [Mark Owen](https://open.spotify.com/artist/1NCH3NhzIufLfHz32GLAzM) | [Land of Dreams](https://open.spotify.com/album/1M9ejv6LWxnhdioucmyaAn) | 3:40 |
 | 164 | [people like you](https://open.spotify.com/track/28bqKJ8P2akWe6Q1hf3x37) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:32 |
 | 165 | [Utopia](https://open.spotify.com/track/41zk1nBv8kt0Sj9nZYosBN) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 3: the band\-aid](https://open.spotify.com/album/4DFytu8dXeGdPVdCDvKLWd) | 3:17 |
-| 166 | [Taken](https://open.spotify.com/track/6GyAI9p6xUZ3b3JUDjoaqd) | [Lily Elise](https://open.spotify.com/artist/0vXCJClmVVEuhh3o28O56r) | [Taken](https://open.spotify.com/album/7J0gNnx4AEarVNCYbFmHXl) | 3:25 |
-| 167 | [Kills Me To Be Kind](https://open.spotify.com/track/5iup3v0ACOZxhjmEa1Uc1z) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 4:40 |
+| 166 | [Kills Me To Be Kind](https://open.spotify.com/track/5iup3v0ACOZxhjmEa1Uc1z) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 4:40 |
+| 167 | [Taken](https://open.spotify.com/track/6GyAI9p6xUZ3b3JUDjoaqd) | [Lily Elise](https://open.spotify.com/artist/0vXCJClmVVEuhh3o28O56r) | [Taken](https://open.spotify.com/album/7J0gNnx4AEarVNCYbFmHXl) | 3:25 |
 | 168 | [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 |
 | 169 | [fever](https://open.spotify.com/track/3HjOcLYE63CNxrV9xnjB3V) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:30 |
 | 170 | [Waiting For You](https://open.spotify.com/track/5Ifce5KgdKucElJ6uZO7id) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/54cPFFV6YaShr1ptMhfU1Z) | 3:29 |
@@ -193,10 +193,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 183 | [Part of Me](https://open.spotify.com/track/5MeJdfZ0TTyTHR9TkKawTU) | [PHASES](https://open.spotify.com/artist/29oC50T8bu88migNloxhgT) | [For Life](https://open.spotify.com/album/3sZRAH3tWQUpABforap1oV) | 3:41 |
 | 184 | [Friends](https://open.spotify.com/track/3nY9b9eUYtu9gftZAuqiro) | [Antigoni](https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW) | [Friends](https://open.spotify.com/album/1u5T8uIGTvUmgVe2OrGZJ8) | 3:14 |
 | 185 | [roses in the rain](https://open.spotify.com/track/2MStHylyE3Vk4vMHVfmNtt) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 2:35 |
-| 186 | [Changes](https://open.spotify.com/track/6fJejvq4yOgPKhGmlfjE9T) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Eureka \(Deluxe\)](https://open.spotify.com/album/546Xvhb9UlOFACTErVGvu1) | 3:21 |
-| 187 | [Balsam Fir](https://open.spotify.com/track/231kALAtIK7ztIR1nDibsM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:54 |
-| 188 | [Romantic](https://open.spotify.com/track/3sr4RsgNNoNMTx6L7J4qNo) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [That Really Long Night](https://open.spotify.com/album/472PYfaPfE7wVMajuRX4V1) | 4:04 |
-| 189 | [Different Kinds Of Love](https://open.spotify.com/track/26gSCV21Oa7OPDW70R0a5h) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [11 Past The Hour](https://open.spotify.com/album/2kw9020TKoe8O2hKliVWZu) | 3:01 |
+| 186 | [Balsam Fir](https://open.spotify.com/track/231kALAtIK7ztIR1nDibsM) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:54 |
+| 187 | [Changes](https://open.spotify.com/track/6fJejvq4yOgPKhGmlfjE9T) | [Leslie Clio](https://open.spotify.com/artist/2Z8ZYYqedbWaOlSsBRVlmQ) | [Eureka \(Deluxe\)](https://open.spotify.com/album/546Xvhb9UlOFACTErVGvu1) | 3:21 |
+| 188 | [Different Kinds Of Love](https://open.spotify.com/track/26gSCV21Oa7OPDW70R0a5h) | [Imelda May](https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH) | [11 Past The Hour](https://open.spotify.com/album/2kw9020TKoe8O2hKliVWZu) | 3:01 |
+| 189 | [Romantic](https://open.spotify.com/track/3sr4RsgNNoNMTx6L7J4qNo) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [That Really Long Night](https://open.spotify.com/album/472PYfaPfE7wVMajuRX4V1) | 4:04 |
 | 190 | [Trigger](https://open.spotify.com/track/7CY0vzv0DNBawyD5tYhK4e) | [Maluca Mala](https://open.spotify.com/artist/5mCtokdEP8IHkj5Zr01hQC) | [Trigger](https://open.spotify.com/album/0QHJMfV0dFYz5rukvZI3aP) | 3:11 |
 | 191 | [Higher](https://open.spotify.com/track/7D0I8fOtcm8AWaemRWLre4) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 3:23 |
 | 192 | [Nightmare](https://open.spotify.com/track/79JXZAooztEbWrUGU0FELt) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/2msBvZC5EUxnYRpQ5UfE8i) | 3:35 |
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 196 | [Desert Man \- Piano Version](https://open.spotify.com/track/5PbH4oB3MK6khwE9tBcrJf) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Desert Man \(Piano Version\)](https://open.spotify.com/album/4HTYKRgFXPblODKK54U9Qv) | 3:28 |
 | 197 | [Hit It Again](https://open.spotify.com/track/40aA9N1KJVaQigqU4tp8VF) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:56 |
 | 198 | [Her](https://open.spotify.com/track/08XDn9mSp6fEqdtyEjZxvo) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [That Really Long Night](https://open.spotify.com/album/472PYfaPfE7wVMajuRX4V1) | 3:33 |
-| 199 | [Big Machine](https://open.spotify.com/track/75TJ9jx0geVtyjfHx8b6mO) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 3:57 |
-| 200 | [Change](https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Change](https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83) | 3:32 |
+| 199 | [Change](https://open.spotify.com/track/2LP4LllG0k6nSvAtbe60Xr) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Change](https://open.spotify.com/album/4fqQu9B3x8EwknltlbXv83) | 3:32 |
+| 200 | [Big Machine](https://open.spotify.com/track/75TJ9jx0geVtyjfHx8b6mO) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 3:57 |
 | 201 | [Walking On The Stars](https://open.spotify.com/track/1tzZb7tlJq0K1PjgoZWobX) | [Max Frost](https://open.spotify.com/artist/7r8xR0LmnaAM623MmRDn1V) | [Flying Machines](https://open.spotify.com/album/1OsnCpUBHZO95dN9vOefuz) | 4:01 |
 | 202 | [Bleeding Out](https://open.spotify.com/track/5YEcZucNrMAdo5AI9FNFoG) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 3:41 |
 | 203 | [Nothing Without You](https://open.spotify.com/track/1KAvlqjLQJOnyk3lLQ51jd) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Nothing Without You](https://open.spotify.com/album/7BpHdk6Qvop3mio148WJrC) | 3:41 |
@@ -227,8 +227,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 217 | [I Wanna Kiss Bob Dylan](https://open.spotify.com/track/56sRGvgLZVOYl254vvUYh9) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4) | [I Wanna Kiss Bob Dylan](https://open.spotify.com/album/64VqDV6JgXbdslGF52UuAl) | 3:46 |
 | 218 | [Day Away](https://open.spotify.com/track/2DlpdindONWSi4IyTSm8v3) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Season 5: First Listen \(from Radio Disney "N.B.T." Next BIG Thing\)](https://open.spotify.com/album/4Kh4CnNIwdxeBbfJFPcECV) | 3:53 |
 | 219 | [We Will Meet Again](https://open.spotify.com/track/7g3WGi37Rjad7OH0IWUgcK) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [We Will Meet Again](https://open.spotify.com/album/4qQQaJi1Jl0kt3gF3dZBa6) | 4:17 |
-| 220 | [Keep My Cool](https://open.spotify.com/track/5eZ2BfwVP7RjWjH0aPWK1V) | [Axel Muñiz](https://open.spotify.com/artist/2TwjyKRJpvRn4SpsniXJka) | [Keep My Cool \(¿Qué Me Haces Tú?\)](https://open.spotify.com/album/1Coed6bYzj6TPoQGB28OQw) | 3:20 |
-| 221 | [Last First Kiss](https://open.spotify.com/track/2BkTfuyjLkLn9uA45nRu5H) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Forever](https://open.spotify.com/album/3XZSdDA1pUrZaDpK1QSjgq) | 3:14 |
+| 220 | [Last First Kiss](https://open.spotify.com/track/2BkTfuyjLkLn9uA45nRu5H) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh) | [Forever](https://open.spotify.com/album/3XZSdDA1pUrZaDpK1QSjgq) | 3:14 |
+| 221 | [Keep My Cool](https://open.spotify.com/track/5eZ2BfwVP7RjWjH0aPWK1V) | [Axel Muñiz](https://open.spotify.com/artist/2TwjyKRJpvRn4SpsniXJka) | [Keep My Cool \(¿Qué Me Haces Tú?\)](https://open.spotify.com/album/1Coed6bYzj6TPoQGB28OQw) | 3:20 |
 | 222 | [Perfect Magnitude](https://open.spotify.com/track/34h3eIajAp6WsJPQzYkF58) | [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fantasy & Facts](https://open.spotify.com/album/6HtKBTMCxQKy9jPnuVd6vl) | 4:31 |
 | 223 | [Invention](https://open.spotify.com/track/1HS1531ZSGB77lUFEn74BY) | [Brandon](https://open.spotify.com/artist/3mMlNCX0juOKPTTkSsiOie), [Savannah](https://open.spotify.com/artist/1NmrIlbg3XEPGnsKyQ0pDB) | [Adolescent Summer \- EP](https://open.spotify.com/album/4KIPIQ1jyctI8bfRUPiLZF) | 3:53 |
 | 224 | [More](https://open.spotify.com/track/35kWsOZfYrSwxkNlKxs6gO) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [More](https://open.spotify.com/album/3sL80wIlotSWKeEpaCvdpK) | 2:41 |
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 229 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 230 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `AbafAwAAAAC+FPs/xaKhxzyKJFVuG2Hj`
+Snapshot ID: `AbakowAAAAAia3zkAWZMcpqHO4qssHEN`

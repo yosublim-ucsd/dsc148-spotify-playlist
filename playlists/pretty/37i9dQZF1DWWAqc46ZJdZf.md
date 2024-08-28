@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > New era songs of empowerment and pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,360 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,416 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 14 | [LAND OF THE FREE](https://open.spotify.com/track/6xz04ypw5JsqiyityCASG1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/6swV0WUnPygRIMgEKn6Ige) | 4:43 |
 | 15 | [Dedication \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6fIjnWrv46njJHLDAY2JdC) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 4:05 |
 | 16 | [Let Go](https://open.spotify.com/track/1O2wgYfOdpcoWnZbdbrpMh) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Let Go](https://open.spotify.com/album/335MHHwHmVBMmaluUJdysT) | 4:51 |
-| 17 | [Jericho](https://open.spotify.com/track/1Ewzyz01XudRxKi2m1htWG) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Genius: MLK/X \(Songs from the Original Series\)](https://open.spotify.com/album/3uojxT5JSSytA12Heyk6i0) | 2:34 |
+| 17 | [Jericho](https://open.spotify.com/track/1Ewzyz01XudRxKi2m1htWG) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Genius: MLK/X \- Songs from the Original Series](https://open.spotify.com/album/3uojxT5JSSytA12Heyk6i0) | 2:34 |
 | 18 | [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 |
 | 19 | [Bridgeland Road](https://open.spotify.com/track/6gqlCXvtjFcBb87thnBt0D) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Michaela Coel](https://open.spotify.com/artist/0nVdOXyYCXDv8UNIkAprmw) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 5:20 |
 | 20 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 |

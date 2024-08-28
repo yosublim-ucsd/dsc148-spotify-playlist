@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 1861070,
+  "num_followers": 1861865,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
     },
     {
+      "added_at": "2024-08-12 15:52:22",
+      "album": {
+        "name": "I.",
+        "url": "https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 286293,
+      "name": "Nothing's Gonna Hurt You Baby",
+      "url": "https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Soaked",
@@ -943,22 +959,6 @@
       "duration_ms": 179449,
       "name": "Soaked",
       "url": "https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Euphoria (Original Score from the HBO Series)",
-        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 153294,
-      "name": "Still Don't Know My Name",
-      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -997,20 +997,20 @@
       "url": "https://open.spotify.com/track/3J8EOeKLTLXORtWPpOU5bE"
     },
     {
-      "added_at": "2024-08-12 15:52:22",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "I.",
-        "url": "https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk"
+        "name": "Euphoria (Original Score from the HBO Series)",
+        "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
       },
       "artists": [
         {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 286293,
-      "name": "Nothing's Gonna Hurt You Baby",
-      "url": "https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2"
+      "duration_ms": 153294,
+      "name": "Still Don't Know My Name",
+      "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
     },
     {
       "added_at": "2024-08-02 04:00:00",

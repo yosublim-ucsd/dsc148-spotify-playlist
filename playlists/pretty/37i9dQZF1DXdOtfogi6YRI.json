@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Mi\u0119tha",
-  "num_followers": 17633,
+  "num_followers": 17631,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-08-23 15:17:46",
       "album": {
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/5IeQWmtzXL1OvsKZG0CaNC"
+      },
+      "artists": [
+        {
+          "name": "TEKTONIKA",
+          "url": "https://open.spotify.com/artist/0ePUUegXZuu4ntBQuiml65"
+        },
+        {
+          "name": "HAZE1",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/7fUBI4fyEXpFzsqzM8jg4D"
+    },
+    {
+      "added_at": "2024-08-23 15:17:46",
+      "album": {
         "name": "Bezcenne S\u0142owa (DJ BRK x Moo Latte Version)",
         "url": "https://open.spotify.com/album/2Py8PzlFuuz7442rAfUzCE"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 209918,
       "name": "Bezcenne S\u0142owa (DJ BRK x Moo Latte Version)",
       "url": "https://open.spotify.com/track/5yRsHDOM4XWRyCrNBHxWl5"
-    },
-    {
-      "added_at": "2024-08-23 15:17:46",
-      "album": {
-        "name": "Offshore",
-        "url": "https://open.spotify.com/album/5IeQWmtzXL1OvsKZG0CaNC"
-      },
-      "artists": [
-        {
-          "name": "TEKTONIKA",
-          "url": "https://open.spotify.com/artist/0ePUUegXZuu4ntBQuiml65"
-        },
-        {
-          "name": "HAZE1",
-          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/7fUBI4fyEXpFzsqzM8jg4D"
     },
     {
       "added_at": "2024-08-23 15:17:46",
@@ -951,26 +951,18 @@
     {
       "added_at": "2024-08-23 15:17:46",
       "album": {
-        "name": "Z\u0142ota Rybka EP",
-        "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
+        "name": "PIEK\u0141O DLA DJ\u00d3W",
+        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
       },
       "artists": [
         {
-          "name": "3BRAT",
-          "url": "https://open.spotify.com/artist/6skCqmC5tK5nvmIc5ASGXi"
-        },
-        {
-          "name": "Bruno",
-          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
-        },
-        {
-          "name": "HAZE1",
-          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
+          "name": "VBS",
+          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
         }
       ],
-      "duration_ms": 132413,
-      "name": "Balaclava",
-      "url": "https://open.spotify.com/track/42FMks4EjTV154kTr9DTei"
+      "duration_ms": 129520,
+      "name": "PIEK\u0141O DLA DJ\u00d3W",
+      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
     },
     {
       "added_at": "2024-08-23 15:17:46",
@@ -1003,34 +995,42 @@
     {
       "added_at": "2024-08-23 15:17:46",
       "album": {
-        "name": "PIEK\u0141O DLA DJ\u00d3W",
-        "url": "https://open.spotify.com/album/126knzUZMhEKx6OMvPy2qP"
+        "name": "Z\u0142ota Rybka EP",
+        "url": "https://open.spotify.com/album/667FJaMuwVVGUjaDSiDEJp"
       },
       "artists": [
         {
-          "name": "VBS",
-          "url": "https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ"
+          "name": "3BRAT",
+          "url": "https://open.spotify.com/artist/6skCqmC5tK5nvmIc5ASGXi"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo"
+        },
+        {
+          "name": "HAZE1",
+          "url": "https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk"
         }
       ],
-      "duration_ms": 129520,
-      "name": "PIEK\u0141O DLA DJ\u00d3W",
-      "url": "https://open.spotify.com/track/6KIFackyhwdmyYwM4JsdT9"
+      "duration_ms": 132413,
+      "name": "Balaclava",
+      "url": "https://open.spotify.com/track/42FMks4EjTV154kTr9DTei"
     },
     {
       "added_at": "2024-08-23 15:17:46",
       "album": {
-        "name": "Pozdrawiam S\u0105siad\u00f3w",
-        "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
+        "name": "3w1",
+        "url": "https://open.spotify.com/album/3H398ralQidCL7fWpv2Ojk"
       },
       "artists": [
         {
-          "name": "Helucze",
-          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
+          "name": "Mi\u0119tha",
+          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
         }
       ],
-      "duration_ms": 205969,
-      "name": "Pozdrawiam S\u0105siad\u00f3w",
-      "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
+      "duration_ms": 126315,
+      "name": "3w1",
+      "url": "https://open.spotify.com/track/3jv3p8GJm9JElvTVVejj2B"
     },
     {
       "added_at": "2024-08-23 15:17:46",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-08-23 15:17:46",
       "album": {
-        "name": "3w1",
-        "url": "https://open.spotify.com/album/3H398ralQidCL7fWpv2Ojk"
+        "name": "Pozdrawiam S\u0105siad\u00f3w",
+        "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
       },
       "artists": [
         {
-          "name": "Mi\u0119tha",
-          "url": "https://open.spotify.com/artist/7FXTirgSWxaPY9k4mrYChs"
+          "name": "Helucze",
+          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
         }
       ],
-      "duration_ms": 126315,
-      "name": "3w1",
-      "url": "https://open.spotify.com/track/3jv3p8GJm9JElvTVVejj2B"
+      "duration_ms": 205969,
+      "name": "Pozdrawiam S\u0105siad\u00f3w",
+      "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
     },
     {
       "added_at": "2024-08-23 15:17:46",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-08-23 15:17:46",
       "album": {
+        "name": "Off My Mind",
+        "url": "https://open.spotify.com/album/1EbapENzyUNSIEpAlbS54p"
+      },
+      "artists": [
+        {
+          "name": "Pat",
+          "url": "https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL"
+        }
+      ],
+      "duration_ms": 173342,
+      "name": "Off My Mind",
+      "url": "https://open.spotify.com/track/1CahJRBO4FJBH902lTpXul"
+    },
+    {
+      "added_at": "2024-08-23 15:17:46",
+      "album": {
         "name": "FALA MIXTAPE vol. 3",
         "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
       },
@@ -1203,38 +1219,6 @@
     {
       "added_at": "2024-08-23 15:17:46",
       "album": {
-        "name": "Off My Mind",
-        "url": "https://open.spotify.com/album/1EbapENzyUNSIEpAlbS54p"
-      },
-      "artists": [
-        {
-          "name": "Pat",
-          "url": "https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL"
-        }
-      ],
-      "duration_ms": 173342,
-      "name": "Off My Mind",
-      "url": "https://open.spotify.com/track/1CahJRBO4FJBH902lTpXul"
-    },
-    {
-      "added_at": "2024-08-23 15:17:46",
-      "album": {
-        "name": "Za P\u00f3\u017ano",
-        "url": "https://open.spotify.com/album/03fvJbSmTP50UfuE1HpAnF"
-      },
-      "artists": [
-        {
-          "name": "Helucze",
-          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Za P\u00f3\u017ano",
-      "url": "https://open.spotify.com/track/2wNamQpGSnCRR4Pg67F98J"
-    },
-    {
-      "added_at": "2024-08-23 15:17:46",
-      "album": {
         "name": "TRZECIA SZYNA",
         "url": "https://open.spotify.com/album/2GM2fKnuq4JfoNpO2mGF6M"
       },
@@ -1263,6 +1247,38 @@
       "duration_ms": 141124,
       "name": "SOKI",
       "url": "https://open.spotify.com/track/34LrHnJnCDFiAs7X8QOF43"
+    },
+    {
+      "added_at": "2024-08-23 15:17:46",
+      "album": {
+        "name": "Alladyn",
+        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 164694,
+      "name": "Alladyn",
+      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
+    },
+    {
+      "added_at": "2024-08-23 15:17:46",
+      "album": {
+        "name": "Za P\u00f3\u017ano",
+        "url": "https://open.spotify.com/album/03fvJbSmTP50UfuE1HpAnF"
+      },
+      "artists": [
+        {
+          "name": "Helucze",
+          "url": "https://open.spotify.com/artist/0XhA1CcJoU4epYBf7HLbHr"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Za P\u00f3\u017ano",
+      "url": "https://open.spotify.com/track/2wNamQpGSnCRR4Pg67F98J"
     },
     {
       "added_at": "2024-08-23 15:17:46",
@@ -1299,6 +1315,26 @@
     {
       "added_at": "2024-08-23 15:17:46",
       "album": {
+        "name": "Mi\u0142o\u015b\u0107 w czasach",
+        "url": "https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "Szczyl",
+          "url": "https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm"
+        }
+      ],
+      "duration_ms": 154545,
+      "name": "Zawsze chcia\u0142em by\u0107",
+      "url": "https://open.spotify.com/track/4VE7vpf3rmowPHUwHo0Efx"
+    },
+    {
+      "added_at": "2024-08-23 15:17:46",
+      "album": {
         "name": "KOCYK",
         "url": "https://open.spotify.com/album/6otKunCaKoVcwp8kwzQD0t"
       },
@@ -1319,42 +1355,6 @@
       "duration_ms": 261293,
       "name": "KOCYK",
       "url": "https://open.spotify.com/track/14F0eGV9bXZYwSPuyKTTlP"
-    },
-    {
-      "added_at": "2024-08-23 15:17:46",
-      "album": {
-        "name": "Alladyn",
-        "url": "https://open.spotify.com/album/4o2lg5XMiNIB9MPuPxgdUZ"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 164694,
-      "name": "Alladyn",
-      "url": "https://open.spotify.com/track/0hhZUb3t5nFMwDuOdN2yQs"
-    },
-    {
-      "added_at": "2024-08-23 15:17:46",
-      "album": {
-        "name": "Mi\u0142o\u015b\u0107 w czasach",
-        "url": "https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU"
-      },
-      "artists": [
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        },
-        {
-          "name": "Szczyl",
-          "url": "https://open.spotify.com/artist/2L5NIiBRiidSecXHHTB1Hm"
-        }
-      ],
-      "duration_ms": 154545,
-      "name": "Zawsze chcia\u0142em by\u0107",
-      "url": "https://open.spotify.com/track/4VE7vpf3rmowPHUwHo0Efx"
     },
     {
       "added_at": "2024-08-23 15:17:46",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-08-23 15:17:46",
       "album": {
-        "name": "Sogo",
-        "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
-      },
-      "artists": [
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 150638,
-      "name": "Sogo",
-      "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
-    },
-    {
-      "added_at": "2024-08-23 15:17:46",
-      "album": {
         "name": "ba\u0142agan",
         "url": "https://open.spotify.com/album/5d2da7KMu5mEyrHWz8ODlJ"
       },
@@ -1459,26 +1443,18 @@
     {
       "added_at": "2024-08-23 15:17:46",
       "album": {
-        "name": "\u017bEBY NIE SK\u0141AMA\u0106",
-        "url": "https://open.spotify.com/album/5qBbw8xfHUFwqaTXHRpv0Y"
+        "name": "Sogo",
+        "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
       },
       "artists": [
         {
-          "name": "\u0141ona",
-          "url": "https://open.spotify.com/artist/6YpCzWpIXRTdLlpPgDcMJZ"
-        },
-        {
-          "name": "Andrzej Konieczny",
-          "url": "https://open.spotify.com/artist/6XrenSnE2iTrpfUxsXM5bK"
-        },
-        {
-          "name": "Kacper Krupa",
-          "url": "https://open.spotify.com/artist/17JCC85voZ1MBLTWU9UbJz"
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
         }
       ],
-      "duration_ms": 197906,
-      "name": "\u017bEBY NIE SK\u0141AMA\u0106",
-      "url": "https://open.spotify.com/track/7c52xLKDQYj4AW8upVpkjP"
+      "duration_ms": 150638,
+      "name": "Sogo",
+      "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
     },
     {
       "added_at": "2024-08-23 15:17:46",
@@ -1523,6 +1499,30 @@
       "duration_ms": 178285,
       "name": "Poczet Kr\u00f3l\u00f3w",
       "url": "https://open.spotify.com/track/3nxZGp8f3y3JQD4wr91qF1"
+    },
+    {
+      "added_at": "2024-08-23 15:17:46",
+      "album": {
+        "name": "\u017bEBY NIE SK\u0141AMA\u0106",
+        "url": "https://open.spotify.com/album/5qBbw8xfHUFwqaTXHRpv0Y"
+      },
+      "artists": [
+        {
+          "name": "\u0141ona",
+          "url": "https://open.spotify.com/artist/6YpCzWpIXRTdLlpPgDcMJZ"
+        },
+        {
+          "name": "Andrzej Konieczny",
+          "url": "https://open.spotify.com/artist/6XrenSnE2iTrpfUxsXM5bK"
+        },
+        {
+          "name": "Kacper Krupa",
+          "url": "https://open.spotify.com/artist/17JCC85voZ1MBLTWU9UbJz"
+        }
+      ],
+      "duration_ms": 197906,
+      "name": "\u017bEBY NIE SK\u0141AMA\u0106",
+      "url": "https://open.spotify.com/track/7c52xLKDQYj4AW8upVpkjP"
     },
     {
       "added_at": "2024-08-23 15:17:46",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-08-23 15:17:46",
       "album": {
-        "name": "Z\u0142oty Ksi\u0105\u017c\u0119 (piosenka do ksi\u0105\u017cki \u201eHellPunk\u201d)",
-        "url": "https://open.spotify.com/album/4eC0RhinrhV5v3HY1KRpzD"
-      },
-      "artists": [
-        {
-          "name": "Na Wp\u00f3\u0142 \u015alepy Cz\u0142owiek",
-          "url": "https://open.spotify.com/artist/6S5EjH95MgsQ48nGxbM4aV"
-        }
-      ],
-      "duration_ms": 143214,
-      "name": "Z\u0142oty Ksi\u0105\u017c\u0119 (piosenka do ksi\u0105\u017cki \u201eHellPunk\u201d)",
-      "url": "https://open.spotify.com/track/4K6cd75AfK9jfbXGYC2URY"
-    },
-    {
-      "added_at": "2024-08-23 15:17:46",
-      "album": {
         "name": "\u015blepa kuchnia.",
         "url": "https://open.spotify.com/album/2QNTmzl5fGcljZDfG8Dt7V"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 271445,
       "name": "KLARA",
       "url": "https://open.spotify.com/track/7yO5F8PJ5DeBektF5ByLl1"
+    },
+    {
+      "added_at": "2024-08-23 15:17:46",
+      "album": {
+        "name": "Z\u0142oty Ksi\u0105\u017c\u0119 (piosenka do ksi\u0105\u017cki \u201eHellPunk\u201d)",
+        "url": "https://open.spotify.com/album/4eC0RhinrhV5v3HY1KRpzD"
+      },
+      "artists": [
+        {
+          "name": "Na Wp\u00f3\u0142 \u015alepy Cz\u0142owiek",
+          "url": "https://open.spotify.com/artist/6S5EjH95MgsQ48nGxbM4aV"
+        }
+      ],
+      "duration_ms": 143214,
+      "name": "Z\u0142oty Ksi\u0105\u017c\u0119 (piosenka do ksi\u0105\u017cki \u201eHellPunk\u201d)",
+      "url": "https://open.spotify.com/track/4K6cd75AfK9jfbXGYC2URY"
     },
     {
       "added_at": "2024-08-23 15:17:46",

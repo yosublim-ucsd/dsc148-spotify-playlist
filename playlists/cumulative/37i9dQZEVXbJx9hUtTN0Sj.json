@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 254142,
       "name": "All You Children",
       "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 153129,
       "name": "ALLES DIK",
       "url": "https://open.spotify.com/track/1jja8HFPUJNLKQ55Qd2B2X"
@@ -961,6 +961,28 @@
     },
     {
       "album": {
+        "name": "BACKBONE",
+        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166448,
+      "name": "BACKBONE",
+      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
+    },
+    {
+      "album": {
         "name": "Bad Feeling (Oompa Loompa)",
         "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
       },
@@ -1048,7 +1070,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 201951,
       "name": "Bah Ouais - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr"
@@ -1696,7 +1718,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 248571,
       "name": "Bombalaya - Blooom Remix",
       "url": "https://open.spotify.com/track/5utINKwnXh1drV2vI9cnze"
@@ -3055,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
         "name": "Dingue de toi (Nabi-Nabilla)",
         "url": "https://open.spotify.com/album/0h6hmSwESIeAz3cL5V7lmW"
       },
@@ -3632,7 +3672,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 132922,
       "name": "Ela Joga na Hora",
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
@@ -4281,6 +4321,36 @@
     },
     {
       "album": {
+        "name": "flex fm (freddit)",
+        "url": "https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246909,
+      "name": "flex fm (freddit)",
+      "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
@@ -4478,7 +4548,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 167314,
       "name": "Fun in the Sun",
       "url": "https://open.spotify.com/track/3H0u4i0rnjVYnaYlT6hIw1"
@@ -5390,6 +5460,24 @@
       "duration_ms": 133717,
       "name": "Hell\u2019s Greatest Dad",
       "url": "https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5"
+    },
+    {
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163412,
+      "name": "Here's The Thing",
+      "url": "https://open.spotify.com/track/4J4pysp2EFNhYibI8tIg0D"
     },
     {
       "album": {
@@ -6795,6 +6883,28 @@
     },
     {
       "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee"
+      },
+      "artists": [
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137222,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak"
       },
@@ -7594,6 +7704,24 @@
       "duration_ms": 158822,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r"
+    },
+    {
+      "album": {
+        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
+        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
+      },
+      "artists": [
+        {
+          "name": "I'll Take You There Choir",
+          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152893,
+      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
+      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
     },
     {
       "album": {
@@ -8436,6 +8564,28 @@
       "duration_ms": 173866,
       "name": "Mezelf Verlies - Uit Milo",
       "url": "https://open.spotify.com/track/3yg5ODm1kZsDpmDPTSfVmf"
+    },
+    {
+      "album": {
+        "name": "Middelvinger",
+        "url": "https://open.spotify.com/album/7HaemgeoWlIyMK26Feapko"
+      },
+      "artists": [
+        {
+          "name": "Romeijn",
+          "url": "https://open.spotify.com/artist/1dUocViVH0TuntyDehVn6B"
+        },
+        {
+          "name": "Milolaathetlukken",
+          "url": "https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110514,
+      "name": "Middelvinger",
+      "url": "https://open.spotify.com/track/5n0yG4LEdKkIFnEMHbILId"
     },
     {
       "album": {
@@ -14116,7 +14266,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 215172,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"

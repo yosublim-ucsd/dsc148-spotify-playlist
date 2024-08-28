@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Magdalena Bay
 
-1,939 songs - 4 day 6 hr 25 min
+1,940 songs - 4 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [DUI](https://open.spotify.com/track/585BK4XWLggY2wCeO6dG1U) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [DUI](https://open.spotify.com/album/0s9urnWu1OkCcYEDpV03ig) | 2:58 | 2021-03-01 | 2021-05-26 |
 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 | 2021-08-27 | 2022-01-21 |
 | [Dumb Girl](https://open.spotify.com/track/1ncVpMTDUXN0kaJWncRg7t) | [LAYNE](https://open.spotify.com/artist/1fipysDjXSW7GaohKbEgbV) | [Dumb Girl](https://open.spotify.com/album/4Pv5X3rCv3ymnyIgKKwzmo) | 3:01 | 2021-05-13 | 2021-10-16 |
-| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-05 |  |
+| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2024-04-05 | 2024-08-28 |
 | [Ease](https://open.spotify.com/track/1Bdi806EPJLWxzIlu0vPu2) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Ease](https://open.spotify.com/album/6p9GPyaPUEagITrXkAcDkm) | 2:17 | 2023-08-04 | 2024-03-02 |
 | [ease your mind](https://open.spotify.com/track/4VA9yqBTQjjAZL4fQhlK9M) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [ease your mind](https://open.spotify.com/album/4wYxQMGyGCQn4L9i9MjxCR) | 2:52 | 2020-10-20 | 2020-10-21 |
 | [Easier To Lie](https://open.spotify.com/track/2oTYHOVAq3HcHvwb3a9L1j) | [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Easier To Lie](https://open.spotify.com/album/7fJTu9UzXo6UqAeZw8NIHP) | 2:38 | 2021-01-25 | 2021-10-09 |
@@ -1172,6 +1172,7 @@
 | [Must Be Nice!](https://open.spotify.com/track/3RsD9RTDXfrbBxPQm5tc3s) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Must Be Nice!](https://open.spotify.com/album/6rlUudzkXWR2O5u3BCQFE1) | 3:11 | 2022-07-01 | 2022-07-19 |
 | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram\]](https://open.spotify.com/track/6qomQtETB8ovqxCJzwJS74) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi), [Sarah Barthel](https://open.spotify.com/artist/7AVY1bJuRTZrbYW3soi1Js), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram\]](https://open.spotify.com/album/1CsySBcBQluO4aoT5uuTx5) | 3:34 | 2020-10-13\* | 2021-03-30 |
 | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram\] \- Icarus Better Daze Mix](https://open.spotify.com/track/6cb6DR6i07ZA0I0B1qnpQi) | [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Must Stop \(Falling in Love\) \[feat\. Sarah Barthel of Phantogram \[Icarus Better Daze Mix\]](https://open.spotify.com/album/5KGWv4VGrZkJYDYkEHhllt) | 4:26 | 2020-11-20 | 2021-01-15 |
+| [My Body's My Buddy](https://open.spotify.com/track/1Ra2A7WtslDs3V6bEwpVkO) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [My Body's My Buddy](https://open.spotify.com/album/1IumCl0HdwL0UcDVkGdY2u) | 3:28 | 2024-08-27 |  |
 | [My Boy](https://open.spotify.com/track/1etxSghMDCTphS2HCYYagu) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [My Boy](https://open.spotify.com/album/2X7wrqEzYtdT4g34MNgKEX) | 2:55 | 2022-03-18 | 2022-04-15 |
 | [My Day Off](https://open.spotify.com/track/6GUv3PAHoR1IVoonUmiSFi) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [BUG](https://open.spotify.com/album/6pKthF8DGDBBhypcxAPGDo) | 3:02 | 2024-05-03 | 2024-05-18 |
 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 | 2024-04-12 |  |

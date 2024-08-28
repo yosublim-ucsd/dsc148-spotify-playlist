@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: lostbeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,271 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,279 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

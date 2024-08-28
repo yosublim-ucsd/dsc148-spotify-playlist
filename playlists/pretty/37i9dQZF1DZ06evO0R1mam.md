@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 
 > This is Tye Tribbett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,827 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,831 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 12 | [Work It Out \- Live](https://open.spotify.com/track/20RhzGhht4BJ7WfqftWjm9) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 5:21 |
 | 13 | [Everything Part I, Part II / Bow Before the King \- Live](https://open.spotify.com/track/3RGTo92TDaI3t6HKLTD4pQ) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 4:22 |
 | 14 | [He Turned It \- Live](https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 9:24 |
-| 15 | [Immanuel](https://open.spotify.com/track/2BZInqmToHHHVG8aydvAoj) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 4:43 |
+| 15 | [Be Alright](https://open.spotify.com/track/1lgy6Rg78ekOXUXP3V2BIk) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:12 |
 | 16 | [My Worship \- Live](https://open.spotify.com/track/7sJL7FQgWu325rO1ByxZTy) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 1:40 |
 | 17 | [I Want It All Back \- Live](https://open.spotify.com/track/6JgbktlskIRt68HBmkfCgr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Victory Live](https://open.spotify.com/album/14AByKbhJJzkvoY8f5qZuG) | 5:28 |
 | 18 | [African Medley \- Live](https://open.spotify.com/track/4OpPtI0wirTyNdX1ZO1pJs) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Mumen Ngenge](https://open.spotify.com/artist/2hwdd67UqAm97Lc4tMb1BX) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 9:39 |
-| 19 | [Be Alright](https://open.spotify.com/track/1lgy6Rg78ekOXUXP3V2BIk) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 3:12 |
+| 19 | [Immanuel](https://open.spotify.com/track/2BZInqmToHHHVG8aydvAoj) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New](https://open.spotify.com/album/45lswZgaYAADtSPrUy1EM6) | 4:43 |
 | 20 | [Same God \- Live](https://open.spotify.com/track/6NnPmAmtAebq0E5H5Uf0vo) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [All Things New \(Live In Orlando\)](https://open.spotify.com/album/4oCeWb8lHFZyOmJbYNxyzV) | 3:19 |
 | 21 | [You Are Good \- Live](https://open.spotify.com/track/2AfxHwD4EII0RKJmSo7Z2C) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 5:02 |
 | 22 | [Chasing Me Down \(feat\. Tye Tribbett\)](https://open.spotify.com/track/5x0LXV0sijGPCcsewl2v6S) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 6:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0R1mam.md) - [plain]
 | 49 | [Baptize](https://open.spotify.com/track/30pzROQaEOgr7meYwlTc3K) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [As I Am](https://open.spotify.com/album/1M0VIXPymzW0uscfSIRHUr) | 2:10 |
 | 50 | [Give Thanks \- Live](https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 6:32 |
 
-Snapshot ID: `Zsp0AAAAAABoSBGwLAlAv8Ow768CffEk`
+Snapshot ID: `ZsvFgAAAAADIESAd8/jgq/Y4UF8ZrLNk`

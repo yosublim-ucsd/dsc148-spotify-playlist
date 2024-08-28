@@ -17627,6 +17627,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30a6\u30c8",
+        "url": "https://open.spotify.com/album/3oMZR2UaMhxcZcdwLW27ly"
+      },
+      "artists": [
+        {
+          "name": "POLKADOT STINGRAY",
+          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "\u30a2\u30a6\u30c8",
+      "url": "https://open.spotify.com/track/0YMfHLifgez6XrLKrUfo1k"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30aa\u30a4\u30cf\u30eb",
         "url": "https://open.spotify.com/album/2O8vfiV6slbOX3Wiywfgsj"
       },
@@ -21934,7 +21952,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 250053,
       "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30ea\u30d0\u30fc\u30b9",
       "url": "https://open.spotify.com/track/7GCcj2cdw2Vf2t4E9GaqCp"
@@ -24110,7 +24128,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 277223,
       "name": "\u53cc\u8449",
       "url": "https://open.spotify.com/track/0IAX0LbVY440WWJyOyuLw7"
@@ -28534,6 +28552,24 @@
       "duration_ms": 243915,
       "name": "\u77ed\u7de8\u5c0f\u8aac",
       "url": "https://open.spotify.com/track/0POqNxQicVUy2vLw66iRl9"
+    },
+    {
+      "album": {
+        "name": "\u793e\u4f1a\u306e\u7a93",
+        "url": "https://open.spotify.com/album/7F5svuiFOfQk9nbukmemfV"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166538,
+      "name": "\u793e\u4f1a\u306e\u7a93",
+      "url": "https://open.spotify.com/track/6lUBiOrB0ilG4wQ0y86oOf"
     },
     {
       "album": {

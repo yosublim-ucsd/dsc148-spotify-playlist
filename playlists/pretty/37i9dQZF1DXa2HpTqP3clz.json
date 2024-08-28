@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Dan Tyminski",
-  "num_followers": 163238,
+  "num_followers": 163267,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Congratulations and Condolences",
+        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 215884,
+      "name": "Congratulations and Condolences",
+      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "On Banjo",
         "url": "https://open.spotify.com/album/7CqjRvc9ipzOlZ1D7ksG6M"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 220533,
       "name": "Foggy Morning Breaking",
       "url": "https://open.spotify.com/track/0vrCNvbeSYHqMCPw4wX5zu"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Congratulations and Condolences",
-        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 215884,
-      "name": "Congratulations and Condolences",
-      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Saint Anthony",
-        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
-      },
-      "artists": [
-        {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
-        }
-      ],
-      "duration_ms": 163149,
-      "name": "Saint Anthony",
-      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "For Your Love",
         "url": "https://open.spotify.com/album/7f87fTG2FiTo8SnNp4V7n3"
       },
@@ -767,22 +751,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
-        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
-      },
-      "artists": [
-        {
-          "name": "The Earls Of Leicester",
-          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "Salty Dog Blues - Live",
-      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Heading East to West Virginia",
         "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
       },
@@ -795,6 +763,38 @@
       "duration_ms": 156536,
       "name": "Heading East to West Virginia",
       "url": "https://open.spotify.com/track/1UXOHhE9f2YG46Vj4p3xgr"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Saint Anthony",
+        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Live At The CMA Theater In The Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/2mzSAxDSMwyWtrH1MisKT5"
+      },
+      "artists": [
+        {
+          "name": "The Earls Of Leicester",
+          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "Salty Dog Blues - Live",
+      "url": "https://open.spotify.com/track/34HGrU0mKfR4dEJW0kydUh"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1027,38 +1027,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Small Towns",
-        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
-      },
-      "artists": [
-        {
-          "name": "Stillhouse Junkies",
-          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Colorado Bound",
-      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Something Higher",
-        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
-      },
-      "artists": [
-        {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "Winter's Gone",
-      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Living In A Song",
         "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
       },
@@ -1079,6 +1047,38 @@
       "duration_ms": 236213,
       "name": "Living In A Song",
       "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Something Higher",
+        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+      },
+      "artists": [
+        {
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "Winter's Gone",
+      "url": "https://open.spotify.com/track/0uiQQlDpytEw0HXD1Xp0Bp"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Small Towns",
+        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
+      },
+      "artists": [
+        {
+          "name": "Stillhouse Junkies",
+          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Colorado Bound",
+      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1247,46 +1247,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Lovin' Of The Game",
-        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        },
-        {
-          "name": "Jeff White",
-          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Sunny Days (Are Comin' Once Again)",
-      "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "White Line Fever",
         "url": "https://open.spotify.com/album/5h6xmbk0GucwMFn6M6irAL"
       },
@@ -1323,6 +1283,46 @@
       "duration_ms": 201051,
       "name": "White Line Fever",
       "url": "https://open.spotify.com/track/5m9cwQGKeurtZ5P9CqFo1o"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Lovin' Of The Game",
+        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        },
+        {
+          "name": "Jeff White",
+          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Sunny Days (Are Comin' Once Again)",
+      "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Hillside",
-        "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 190764,
-      "name": "Hillside",
-      "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "This Valley",
         "url": "https://open.spotify.com/album/6plNZDHsm8CBOcAACUBGNo"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+        "name": "Hillside",
+        "url": "https://open.spotify.com/album/5R0g1YKXUSmAFeJItSrFw9"
       },
       "artists": [
         {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+      "duration_ms": 190764,
+      "name": "Hillside",
+      "url": "https://open.spotify.com/track/2PwYgS3wfBVsHAAfhAiAOx"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1535,22 +1519,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Blackgrass: From West Virginia to 125th St",
-        "url": "https://open.spotify.com/album/2jRiWQAiXSH3JycfGriq8x"
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
       },
       "artists": [
         {
-          "name": "Swamp Dogg",
-          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
-        },
-        {
-          "name": "Vernon Reid",
-          "url": "https://open.spotify.com/artist/1nCiDbYWnN9G4VQ4LxeyxD"
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
         }
       ],
-      "duration_ms": 205660,
-      "name": "Rise Up (feat. Vernon Reid)",
-      "url": "https://open.spotify.com/track/6NOs4tmAEkX32O6unSrlpB"
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1575,6 +1555,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
+      },
+      "artists": [
+        {
+          "name": "Chatham Rabbits",
+          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Kentucky Bluegrassed",
         "url": "https://open.spotify.com/album/6nIhCw3o4crWsf0Uih8h8D"
       },
@@ -1591,6 +1587,26 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Blackgrass: From West Virginia to 125th St",
+        "url": "https://open.spotify.com/album/2jRiWQAiXSH3JycfGriq8x"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        },
+        {
+          "name": "Vernon Reid",
+          "url": "https://open.spotify.com/artist/1nCiDbYWnN9G4VQ4LxeyxD"
+        }
+      ],
+      "duration_ms": 205660,
+      "name": "Rise Up (feat. Vernon Reid)",
+      "url": "https://open.spotify.com/track/6NOs4tmAEkX32O6unSrlpB"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Slow Lane",
         "url": "https://open.spotify.com/album/7HkunE8lcrwmcgGkaRL8Tl"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 260717,
       "name": "Slow Lane",
       "url": "https://open.spotify.com/track/1aPOnucEH1cxH2nZBKp0tJ"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/6pSyrdAE7P3nzf03ox29j3"
-      },
-      "artists": [
-        {
-          "name": "Chatham Rabbits",
-          "url": "https://open.spotify.com/artist/3yf23aN9drtTEXSYsxd4od"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/2yWj6P3Ldax9Xj8Em2VMC7"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Blues Are Close at Hand",
-        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
-      },
-      "artists": [
-        {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
-        }
-      ],
-      "duration_ms": 159427,
-      "name": "Blues Are Close at Hand",
-      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "As the Crow Flies",
         "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 206373,
       "name": "The Banker",
       "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Blues Are Close at Hand",
+        "url": "https://open.spotify.com/album/2ZfEgw1Jsfhw34G7cwtmkM"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 159427,
+      "name": "Blues Are Close at Hand",
+      "url": "https://open.spotify.com/track/16KCAFsjJn79OA3sh9iedu"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "When It All Falls Apart",
-        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Comatose",
-          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
-        }
-      ],
-      "duration_ms": 189086,
-      "name": "When It All Falls Apart",
-      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Trip Around the Sun",
         "url": "https://open.spotify.com/album/2jAtYiIh9gHlBr1ZmwMWJb"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 260163,
       "name": "Trip Around The Sun",
       "url": "https://open.spotify.com/track/47tqsLKc4dfIcaeQ8W8V1f"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "When It All Falls Apart",
+        "url": "https://open.spotify.com/album/27RyKE0w6y8BEcoJTdGEUa"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Comatose",
+          "url": "https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD"
+        }
+      ],
+      "duration_ms": 189086,
+      "name": "When It All Falls Apart",
+      "url": "https://open.spotify.com/track/5TNZQdvoU9VixFZzKA7P8j"
     }
   ],
   "unique_name": "Grass Roots",

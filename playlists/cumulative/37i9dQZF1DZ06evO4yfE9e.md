@@ -2,7 +2,7 @@
 
 ### [This Is bludnymph](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4yfE9e)
 
-> This is bludnymph\. The essential tracks, all in one playlist.
+> This is bludnymph แทร็กที่ไม่ควรพลาด ทั้งหมดในเพลย์ลิสต์เดียว
 
 26 songs - 1 hr 6 min
 

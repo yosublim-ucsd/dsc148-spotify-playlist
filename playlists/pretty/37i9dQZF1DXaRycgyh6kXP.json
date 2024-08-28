@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 230109,
+  "num_followers": 230252,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -635,38 +635,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 262827,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Light Shines Through",
-        "url": "https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k"
-      },
-      "artists": [
-        {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
-        }
-      ],
-      "duration_ms": 258084,
-      "name": "I Let Go",
-      "url": "https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Bee and PuppyCat (Soundtrack from the Netflix Series) Vol. 2",
         "url": "https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb"
       },
@@ -687,6 +655,38 @@
       "duration_ms": 151548,
       "name": "Storm / Mom",
       "url": "https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Light Shines Through",
+        "url": "https://open.spotify.com/album/7D6BPGgisnADWkKYz80O3k"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "duration_ms": 258084,
+      "name": "I Let Go",
+      "url": "https://open.spotify.com/track/7oIIT0Oty6aPdKavO8QNDt"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 262827,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -919,22 +919,18 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Karma & Desire",
-        "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
       },
       "artists": [
         {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
         }
       ],
-      "duration_ms": 250383,
-      "name": "Walking Flames",
-      "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
+      "duration_ms": 266640,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -955,18 +951,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+        "name": "Karma & Desire",
+        "url": "https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1"
       },
       "artists": [
         {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 266640,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/3QPwOGIY2s6Ky6zh5UX0NT"
+      "duration_ms": 250383,
+      "name": "Walking Flames",
+      "url": "https://open.spotify.com/track/45AwkbYypZWEGFuwQcMiOm"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Pop Ambient 2021",
+        "url": "https://open.spotify.com/album/07YiA79O4x3dIVWAB5zhhJ"
+      },
+      "artists": [
+        {
+          "name": "Blank Gloss",
+          "url": "https://open.spotify.com/artist/3ygskHdzS2MNz3ZsQfbkfB"
+        }
+      ],
+      "duration_ms": 271115,
+      "name": "Of A Vessel",
+      "url": "https://open.spotify.com/track/6H9EIZ81SWrwRTxwLcMgNz"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "keepsakeFM",
         "url": "https://open.spotify.com/album/2i1cIbR3OSxc6Mwx1UDgyH"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 136320,
       "name": "locket",
       "url": "https://open.spotify.com/track/1jXxhzjFxH8hN1xmcnYhjs"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Pop Ambient 2021",
-        "url": "https://open.spotify.com/album/07YiA79O4x3dIVWAB5zhhJ"
-      },
-      "artists": [
-        {
-          "name": "Blank Gloss",
-          "url": "https://open.spotify.com/artist/3ygskHdzS2MNz3ZsQfbkfB"
-        }
-      ],
-      "duration_ms": 271115,
-      "name": "Of A Vessel",
-      "url": "https://open.spotify.com/track/6H9EIZ81SWrwRTxwLcMgNz"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
+        "name": "Sabresonic",
+        "url": "https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA"
+      },
+      "artists": [
+        {
+          "name": "The Sabres Of Paradise",
+          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Smokebelch II - Beatless Mix",
+      "url": "https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-08-16 04:00:00",
       "album": {
-        "name": "Bad Vibes",
-        "url": "https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn"
-      },
-      "artists": [
-        {
-          "name": "Shlohmo",
-          "url": "https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725"
-        }
-      ],
-      "duration_ms": 302210,
-      "name": "Places",
-      "url": "https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 197933,
       "name": "Curls",
       "url": "https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Bad Vibes",
+        "url": "https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn"
+      },
+      "artists": [
+        {
+          "name": "Shlohmo",
+          "url": "https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725"
+        }
+      ],
+      "duration_ms": 302210,
+      "name": "Places",
+      "url": "https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -1663,22 +1679,6 @@
       "duration_ms": 243946,
       "name": "You and I",
       "url": "https://open.spotify.com/track/47PdEZPuwJ1wOBCVexAm5O"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Sabresonic",
-        "url": "https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA"
-      },
-      "artists": [
-        {
-          "name": "The Sabres Of Paradise",
-          "url": "https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Smokebelch II - Beatless Mix",
-      "url": "https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ"
     },
     {
       "added_at": "2024-08-16 04:00:00",

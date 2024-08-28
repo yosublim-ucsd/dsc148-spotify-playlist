@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > sultry and seductive feminine energy 🔪 cover: Marilyn Monroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,180,286 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,206 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 65 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 |
 | 66 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \- Deluxe Edition](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 |
 | 67 | [she calls me daddy](https://open.spotify.com/track/4nBsvvjN134KFVcvFMLWwK) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [she calls me daddy](https://open.spotify.com/album/2fKXo7qmQYw5u0DOeKhQoU) | 3:03 |
-| 68 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 3:19 |
-| 69 | [...baby one more time](https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [...baby one more time](https://open.spotify.com/album/65oQssKlo7DCgaD3HVtiVX) | 2:05 |
+| 68 | [...baby one more time](https://open.spotify.com/track/1Zqs6A90va6FUxQ7KJAckG) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [...baby one more time](https://open.spotify.com/album/65oQssKlo7DCgaD3HVtiVX) | 2:05 |
+| 69 | [Babooshka \- 2018 Remaster](https://open.spotify.com/track/4DkKgGqqfx8C79RFo8ZuTl) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH) | 3:19 |
 | 70 | [Fuck Me Pumps](https://open.spotify.com/track/3ku4ScVEkZvurrcjmMrOAL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/664z6KAZKVhAY36vBCLmiN) | 3:20 |
 
 Snapshot ID: `ZohwKwAAAADtvvF/4zT7JOTnvKgkxqts`

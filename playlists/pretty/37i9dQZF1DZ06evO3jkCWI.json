@@ -1,12 +1,12 @@
 {
   "description": "This Is Los Invasores De Nuevo Le\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 168514,
+  "num_followers": 168573,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAAA8FDcEkUKlkb21pEB4Zt8",
+  "snapshot_id": "ZsvFgAAAAADHzWH0pAo/kH3WpJJm4UPQ",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Tal De Que Me Olvides",
-        "url": "https://open.spotify.com/album/7ytPVFfcyxDrMraTGv9w8R"
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 185360,
-      "name": "Ya No Te Amo",
-      "url": "https://open.spotify.com/track/7H4tgQ4ldZ1PmWL88b6nuI"
+      "duration_ms": 191813,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Laurita Garza",
-        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
+        "name": "Con Tal De Que Me Olvides",
+        "url": "https://open.spotify.com/album/7ytPVFfcyxDrMraTGv9w8R"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 191813,
-      "name": "Laurita Garza",
-      "url": "https://open.spotify.com/track/7a5msYrIHJ1bx7pTLKVbZ9"
+      "duration_ms": 185360,
+      "name": "Ya No Te Amo",
+      "url": "https://open.spotify.com/track/7H4tgQ4ldZ1PmWL88b6nuI"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Rancheras",
-        "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 151333,
-      "name": "Mi Flor De Naranjo",
-      "url": "https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 168160,
       "name": "Vete Con El",
       "url": "https://open.spotify.com/track/6UV3lfi399R9Gp9RvWCBbE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Rancheras",
+        "url": "https://open.spotify.com/album/0Sj2tO0uGkHE7EVasrPeIC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "Mi Flor De Naranjo",
+      "url": "https://open.spotify.com/track/7ddmuD2oPlMXJHzgUQMnOf"
     },
     {
       "added_at": null,

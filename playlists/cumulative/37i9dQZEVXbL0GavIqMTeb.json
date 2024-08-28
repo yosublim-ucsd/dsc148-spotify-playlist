@@ -910,7 +910,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 278644,
       "name": "ADIVINO",
       "url": "https://open.spotify.com/track/0eeX8L0DWvGth1F6xVkvv7"
@@ -6762,7 +6762,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-14",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -17765,6 +17765,28 @@
     },
     {
       "album": {
+        "name": "SE ME OLVIDA",
+        "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225373,
+      "name": "SE ME OLVIDA",
+      "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+    },
+    {
+      "album": {
         "name": "Se Menea",
         "url": "https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5"
       },
@@ -18876,7 +18898,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 199062,
       "name": "SOLO DIME",
       "url": "https://open.spotify.com/track/76NtZCaYVQHxEkB6mrm1DQ"

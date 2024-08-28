@@ -1,6 +1,6 @@
 {
   "description": "\u0e04\u0e49\u0e19\u0e2b\u0e32\u0e04\u0e27\u0e32\u0e21\u0e25\u0e31\u0e1a\u0e02\u0e2d\u0e07 PiXXiE \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49! \u0e1f\u0e31\u0e07\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e02\u0e2d\u0e07\u0e20\u0e39\u0e15\u0e34\u0e08\u0e34\u0e4b\u0e27 \u0e41\u0e25\u0e30\u0e2b\u0e32\u0e27\u0e48\u0e32\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e2b\u0e19\u0e02\u0e2d\u0e07 PiXXiE \u0e17\u0e35\u0e48\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e25\u0e31\u0e1a\u0e0b\u0e48\u0e2d\u0e19\u0e2d\u0e22\u0e39\u0e48!! \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e1f\u0e31\u0e07\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e40\u0e25\u0e34\u0e1f\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48",
-  "num_followers": 108670,
+  "num_followers": 108796,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-08-23 04:19:03",
       "album": {
-        "name": "Luxury",
-        "url": "https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk"
-      },
-      "artists": [
-        {
-          "name": "D Gerrard",
-          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
-        }
-      ],
-      "duration_ms": 246923,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
-    },
-    {
-      "added_at": "2024-08-23 04:19:03",
-      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/3WoDtnsZRzPRFbNlbkfFC1"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 247360,
       "name": "\u0e25\u0e39\u0e01\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/0GbWc31BXewOO7ZYRR9RVn"
+    },
+    {
+      "added_at": "2024-08-23 04:19:03",
+      "album": {
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/0T8k6o8VFOi8Ve5ey2h6Yk"
+      },
+      "artists": [
+        {
+          "name": "D Gerrard",
+          "url": "https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg"
+        }
+      ],
+      "duration_ms": 246923,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/1EOWBTE1GPKcxz3wlR08tW"
     },
     {
       "added_at": "2024-08-23 04:19:03",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-08-23 04:19:03",
       "album": {
-        "name": "\u0e19\u0e34\u0e42\u0e04\u0e15\u0e34\u0e19 - Single",
-        "url": "https://open.spotify.com/album/5e0anFANpCnBAv5pEAVc34"
-      },
-      "artists": [
-        {
-          "name": "Mirrr",
-          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
-        }
-      ],
-      "duration_ms": 216969,
-      "name": "\u0e19\u0e34\u0e42\u0e04\u0e15\u0e34\u0e19",
-      "url": "https://open.spotify.com/track/6R9YzJHkfYoN6PianPhTdB"
-    },
-    {
-      "added_at": "2024-08-23 04:19:03",
-      "album": {
         "name": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
         "url": "https://open.spotify.com/album/4FYcFwKKQhx95m6lUaDXfd"
       },
@@ -315,22 +299,34 @@
     {
       "added_at": "2024-08-23 04:19:03",
       "album": {
-        "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
-        "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
+        "name": "\u0e19\u0e34\u0e42\u0e04\u0e15\u0e34\u0e19 - Single",
+        "url": "https://open.spotify.com/album/5e0anFANpCnBAv5pEAVc34"
       },
       "artists": [
         {
-          "name": "F.HERO",
-          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
-        },
-        {
-          "name": "Txrbo",
-          "url": "https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg"
+          "name": "Mirrr",
+          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
         }
       ],
-      "duration_ms": 264000,
-      "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 - Defendant Of Love",
-      "url": "https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD"
+      "duration_ms": 216969,
+      "name": "\u0e19\u0e34\u0e42\u0e04\u0e15\u0e34\u0e19",
+      "url": "https://open.spotify.com/track/6R9YzJHkfYoN6PianPhTdB"
+    },
+    {
+      "added_at": "2024-08-23 04:19:03",
+      "album": {
+        "name": "Onlyfan",
+        "url": "https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi"
+      },
+      "artists": [
+        {
+          "name": "The Parkinson",
+          "url": "https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Onlyfan",
+      "url": "https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ"
     },
     {
       "added_at": "2024-08-23 04:19:03",
@@ -351,18 +347,22 @@
     {
       "added_at": "2024-08-23 04:19:03",
       "album": {
-        "name": "Onlyfan",
-        "url": "https://open.spotify.com/album/50SYtRSfmgAulnJCvzsYZi"
+        "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
+        "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
       },
       "artists": [
         {
-          "name": "The Parkinson",
-          "url": "https://open.spotify.com/artist/25vaRIUlu5PahDqAWeYdxR"
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "Txrbo",
+          "url": "https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Onlyfan",
-      "url": "https://open.spotify.com/track/79qhHPvit6BeOVu2wNnLgJ"
+      "duration_ms": 264000,
+      "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 - Defendant Of Love",
+      "url": "https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD"
     },
     {
       "added_at": "2024-08-23 04:19:03",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-08-23 04:19:03",
       "album": {
-        "name": "Sunkissed",
-        "url": "https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL"
-      },
-      "artists": [
-        {
-          "name": "Urworld",
-          "url": "https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN"
-        }
-      ],
-      "duration_ms": 242154,
-      "name": "Sunkissed",
-      "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
-    },
-    {
-      "added_at": "2024-08-23 04:19:03",
-      "album": {
         "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 200000,
       "name": "\u0e40\u0e40\u0e1f\u0e19\u0e1c\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5"
+    },
+    {
+      "added_at": "2024-08-23 04:19:03",
+      "album": {
+        "name": "Sunkissed",
+        "url": "https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL"
+      },
+      "artists": [
+        {
+          "name": "Urworld",
+          "url": "https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN"
+        }
+      ],
+      "duration_ms": 242154,
+      "name": "Sunkissed",
+      "url": "https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n"
     },
     {
       "added_at": "2024-08-23 04:19:03",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-08-23 04:19:03",
       "album": {
+        "name": "Nude",
+        "url": "https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2"
+      },
+      "artists": [
+        {
+          "name": "JETSET'ER",
+          "url": "https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "\u0e08\u0e39\u0e1a",
+      "url": "https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx"
+    },
+    {
+      "added_at": "2024-08-23 04:19:03",
+      "album": {
         "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
         "url": "https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 198787,
       "name": "\u0e15\u0e01\u0e2b\u0e25\u0e38\u0e21\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e1a\u0e17\u0e35\u0e48\u0e25\u0e49\u0e32\u0e19",
       "url": "https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ"
-    },
-    {
-      "added_at": "2024-08-23 04:19:03",
-      "album": {
-        "name": "Nude",
-        "url": "https://open.spotify.com/album/4lwg110NMdGOw234MhEWH2"
-      },
-      "artists": [
-        {
-          "name": "JETSET'ER",
-          "url": "https://open.spotify.com/artist/6thrjKf05P1bBsrsjYSuMw"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "\u0e08\u0e39\u0e1a",
-      "url": "https://open.spotify.com/track/111VL3GT8ZaPhgNgnxzrOx"
     },
     {
       "added_at": "2024-08-23 04:19:03",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-08-23 04:19:03",
       "album": {
-        "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
-        "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
-      },
-      "artists": [
-        {
-          "name": "4EVE",
-          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
-        }
-      ],
-      "duration_ms": 183238,
-      "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
-      "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
-    },
-    {
-      "added_at": "2024-08-23 04:19:03",
-      "album": {
         "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
         "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 240450,
       "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
       "url": "https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9"
+    },
+    {
+      "added_at": "2024-08-23 04:19:03",
+      "album": {
+        "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
+        "url": "https://open.spotify.com/album/6B21RxfWjt5eiNo9QchBIv"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "duration_ms": 183238,
+      "name": "\u0e02\u0e49\u0e2d\u0e22\u0e01\u0e40\u0e27\u0e49\u0e19 (Exceptional)",
+      "url": "https://open.spotify.com/track/0T7uw5pfozE3gvom4ALE8D"
     },
     {
       "added_at": "2024-08-23 04:19:03",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-08-23 04:19:03",
       "album": {
-        "name": "nerd eye view",
-        "url": "https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN"
-      },
-      "artists": [
-        {
-          "name": "fellow fellow",
-          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
-        }
-      ],
-      "duration_ms": 207480,
-      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
-      "url": "https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ"
-    },
-    {
-      "added_at": "2024-08-23 04:19:03",
-      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/4n7uzGGK7Hm79baUqwEGa9"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 168750,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/57bdxWnWc3uhzHXQ8Qf5Lq"
+    },
+    {
+      "added_at": "2024-08-23 04:19:03",
+      "album": {
+        "name": "nerd eye view",
+        "url": "https://open.spotify.com/album/1vWVjcoEXf7pzgIhz6s1uN"
+      },
+      "artists": [
+        {
+          "name": "fellow fellow",
+          "url": "https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG"
+        }
+      ],
+      "duration_ms": 207480,
+      "name": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e48\u0e27\u0e19\u0e1a\u0e38\u0e04\u0e04\u0e25",
+      "url": "https://open.spotify.com/track/38bi9KcJSe3ydXFgxstrqQ"
     },
     {
       "added_at": "2024-08-23 04:19:03",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2024-08-23 04:19:03",
       "album": {
-        "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
-        "url": "https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum"
-      },
-      "artists": [
-        {
-          "name": "Morvasu",
-          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
-        },
-        {
-          "name": "Violette Wautier",
-          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
-        }
-      ],
-      "duration_ms": 175151,
-      "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
-      "url": "https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs"
-    },
-    {
-      "added_at": "2024-08-23 04:19:03",
-      "album": {
         "name": "All You Need is Love 3",
         "url": "https://open.spotify.com/album/5mv8MrHfjarF9xeT1DHSpD"
       },
@@ -1495,6 +1475,26 @@
       "duration_ms": 280779,
       "name": "\u0e01\u0e30\u0e17\u0e31\u0e19\u0e2b\u0e31\u0e19",
       "url": "https://open.spotify.com/track/71rZCPjOAU8WBlXYPHNgRu"
+    },
+    {
+      "added_at": "2024-08-23 04:19:03",
+      "album": {
+        "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
+        "url": "https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum"
+      },
+      "artists": [
+        {
+          "name": "Morvasu",
+          "url": "https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8"
+        },
+        {
+          "name": "Violette Wautier",
+          "url": "https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu"
+        }
+      ],
+      "duration_ms": 175151,
+      "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
+      "url": "https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs"
     },
     {
       "added_at": "2024-08-23 04:19:03",

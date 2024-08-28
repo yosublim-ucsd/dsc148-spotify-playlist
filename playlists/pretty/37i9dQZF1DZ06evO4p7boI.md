@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 ### [This Is NAV](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4p7boI)
 
-> This is NAV\. The essential tracks, all in one playlist.
+> This Is NAV\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,100 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,101 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 16 | [Tap \(feat\. Meek Mill\)](https://open.spotify.com/track/5rU6kDNXZLXIinFezpbWbO) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 2:28 |
 | 17 | [Don't Need Friends \(feat\. Lil Baby\)](https://open.spotify.com/track/4x3mum2YGHtIBrgUKiNt4F) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 3:04 |
 | 18 | [Run It Up \(feat\. Pop Smoke\)](https://open.spotify.com/track/6LUE5WlMgrpLouGxzJAUVv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:59 |
-| 19 | [Off White VLONE \(Lil Baby & Gunna feat\. Lil Durk & NAV\)](https://open.spotify.com/track/6PoKfDY78ih5OveWirggRX) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:07 |
-| 20 | [Minute](https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 4:25 |
+| 19 | [Minute](https://open.spotify.com/track/3JWh19WsndEFg0UFRFeTiU) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 4:25 |
+| 20 | [Off White VLONE \(Lil Baby & Gunna feat\. Lil Durk & NAV\)](https://open.spotify.com/track/6PoKfDY78ih5OveWirggRX) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:07 |
 | 21 | [Baller](https://open.spotify.com/track/7GkZ2cx7i74zu1piQy3i6T) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Baller](https://open.spotify.com/album/1QKQ5VaVGwH8zsqTqGU8Zs) | 2:30 |
 | 22 | [Wolves \(with NAV\)](https://open.spotify.com/track/1dnsojUNfvhiztcITLzruj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Meet The Woo 2 \(Deluxe\)](https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU) | 3:14 |
 | 23 | [Young Wheezy \(with Gunna\)](https://open.spotify.com/track/0bMyxvtbPa7HFemLjzw0xX) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:31 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 37 | [Foreign \(feat\. Nav\)](https://open.spotify.com/track/3CTOc6QGsoaxwaPJYFxNsG) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:13 |
 | 38 | [Habits](https://open.spotify.com/track/3KkWGDCb6byHjNYjxBihGK) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Bad Habits \(Deluxe\)](https://open.spotify.com/album/31lHUoHC3P6BRFzKYLyRJO) | 3:24 |
 | 39 | [Lonely](https://open.spotify.com/track/11HOTp4KdeOwmn7Ew0GSIs) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:35 |
-| 40 | [Codeine \(feat\. Gunna\)](https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 3:08 |
-| 41 | [Vetement Socks](https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:35 |
+| 40 | [Vetement Socks](https://open.spotify.com/track/4SHKs8ugjoATC3MgVym7Gs) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:35 |
+| 41 | [Codeine \(feat\. Gunna\)](https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 3:08 |
 | 42 | [Bali](https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 3:05 |
 | 43 | [Good For It](https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 2:39 |
 | 44 | [Fell In Love \(2016\)](https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fell In Love \(2016\)](https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ) | 2:57 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 51 | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK) | 4:02 |
 | 52 | [Interstellar \(with Lil Uzi Vert\)](https://open.spotify.com/track/5HRXn4V1qL4CFNizMsFrTy) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 2:44 |
 
-Snapshot ID: `Zsp0AAAAAABdFovAc/fypJ+mNZJLZfp4`
+Snapshot ID: `ZsvFgAAAAACHxsbOE8zpUhbvqby+Sl2M`

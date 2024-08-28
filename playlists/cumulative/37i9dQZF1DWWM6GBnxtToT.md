@@ -4,7 +4,7 @@
 
 > These songs will put a smile on your face.
 
-182 songs - 10 hr 21 min
+183 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-07-20 | 2024-04-19 |
 | [Dancing in the City \(Radio Edit\)](https://open.spotify.com/track/12pXH0mid48V0vN0ykfBG5) | [Siamese Elephants](https://open.spotify.com/artist/7bgOhFs7p8ZGBMIIORey80) | [Dancing in the City \(Radio Edit\)](https://open.spotify.com/album/4y2vjGF1u3hhPdyLHiL70o) | 3:21 | 2023-07-20 | 2024-04-19 |
 | [Dice](https://open.spotify.com/track/1PYXkGTAy509qlSFvwkjTe) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:01 | 2023-07-20 | 2024-04-19 |
+| [Disco](https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Disco](https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3) | 2:32 | 2024-08-27 |  |
 | [Divine](https://open.spotify.com/track/06eMGYbD8sbYmxaQ11KWNM) | [Good Wilson](https://open.spotify.com/artist/72tmD7IO0OwXgkswzuURye) | [Divine](https://open.spotify.com/album/3TRXJ67MWVvbi1kVXm7ICe) | 3:23 | 2024-03-28 |  |
 | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/track/5MEPCTNY7KfpM2FRCkvlQT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Diving \(feat\. Holly Humberstone\)](https://open.spotify.com/album/0P4hsKdP3Er6nIVtJOeV25) | 3:35 | 2023-08-24 | 2023-10-23 |
 | [Diving \- feat\. Holly Humberstone](https://open.spotify.com/track/786ApDDgJHMbvYaJCA4psT) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:35 | 2023-10-19 | 2024-04-19 |
@@ -61,7 +62,7 @@
 | [Feel It All](https://open.spotify.com/track/26SdeD5OY1YzFsDQCNnCIp) | [Kita Menari](https://open.spotify.com/artist/1noOoapXyyCG1nYTH436qw) | [Feel It All](https://open.spotify.com/album/7p4YxLifRcs95dxZo8aVXd) | 4:07 | 2024-03-28 |  |
 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 | 2023-07-20 |  |
 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 | 2023-07-20 | 2024-04-19 |
-| [Geometric](https://open.spotify.com/track/0IRAtFcPIqysHbfNAfArgK) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Geometric](https://open.spotify.com/album/5ARMVAvzgckxtlo09wDi17) | 3:17 | 2024-03-28 |  |
+| [Geometric](https://open.spotify.com/track/0IRAtFcPIqysHbfNAfArgK) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Geometric](https://open.spotify.com/album/5ARMVAvzgckxtlo09wDi17) | 3:17 | 2024-03-28 | 2024-08-28 |
 | [Get High](https://open.spotify.com/track/2ZrCz6tDHMvzJSrJGVO3zT) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Get High](https://open.spotify.com/album/4NqTaiWEVCaEK4AXrPCgyn) | 3:42 | 2023-07-20 | 2023-11-18 |
 | [Get High](https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Hotel Surrender](https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq) | 3:42 | 2023-10-19 | 2024-04-19 |
 | [Get Up!](https://open.spotify.com/track/0weXGUBLk52zIbgMbP043L) | [BILBAO](https://open.spotify.com/artist/6MJ5mobLenB7bCPKPIRoRH) | [Get Up!](https://open.spotify.com/album/2maaNCLEe1kl88Fe0Mq9Ao) | 3:15 | 2023-07-20 |  |

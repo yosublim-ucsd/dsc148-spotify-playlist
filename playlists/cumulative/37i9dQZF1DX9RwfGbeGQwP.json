@@ -5906,7 +5906,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 122086,
       "name": "Done",
       "url": "https://open.spotify.com/track/3JCn3l4GLF6rVXK0Hl04rQ"
@@ -18823,6 +18823,24 @@
     },
     {
       "album": {
+        "name": "pyramids",
+        "url": "https://open.spotify.com/album/451J4BD9m0VD98OAViQ1tx"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121208,
+      "name": "pyramids",
+      "url": "https://open.spotify.com/track/313eJh505wri03xuiBpvWc"
+    },
+    {
+      "album": {
         "name": "queue",
         "url": "https://open.spotify.com/album/3iQMbmMhC355C1L6d18uoo"
       },
@@ -19728,7 +19746,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 125405,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/3dJ801yspWQmm7masHWCrR"
@@ -20032,7 +20050,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 148800,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6TwQwNXuUqMoGma4iyDkNW"
@@ -24779,6 +24797,24 @@
     },
     {
       "album": {
+        "name": "Tori Sora",
+        "url": "https://open.spotify.com/album/7se4vecX0emIjHLEtTrXTS"
+      },
+      "artists": [
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104138,
+      "name": "Tori Sora",
+      "url": "https://open.spotify.com/track/0rYwFhOavcJENrgIkC0xkQ"
+    },
+    {
+      "album": {
         "name": "Torn Up",
         "url": "https://open.spotify.com/album/4NRkDV5DvDNEBMmn7iGhz5"
       },
@@ -24790,7 +24826,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 124312,
       "name": "Torn Up",
       "url": "https://open.spotify.com/track/0lMnr3c3K2aXlpPmM4cs4Y"

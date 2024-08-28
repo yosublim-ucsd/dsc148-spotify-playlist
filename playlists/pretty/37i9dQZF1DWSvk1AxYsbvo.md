@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,914 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,916 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 27 | [You don't have to say anything \(I already know\)](https://open.spotify.com/track/1uJbJ78IbBgmntxPk5bptX) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [You don't have to say anything \(I already know\)](https://open.spotify.com/album/6EloN2Ba66hvq5yLrueBrC) | 4:25 |
 | 28 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
 | 29 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 |
-| 30 | [Cat, work for me](https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo) | [Homemade recording](https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi) | [Cat, work for me](https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH) | 3:02 |
-| 31 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
+| 30 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
+| 31 | [Cat, work for me](https://open.spotify.com/track/2NXf2ErFCHX3Gta6TvBcmo) | [Homemade recording](https://open.spotify.com/artist/18FWmGuOPqQ4xTp4dpLaGi) | [Cat, work for me](https://open.spotify.com/album/2yvD6zmNrO9uV4QcDE1tyH) | 3:02 |
 | 32 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 |
 | 33 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 |
 | 34 | [When It’s Cold](https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [When It's Cold](https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey) | 3:03 |
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 37 | [비밀 얘기를 하고 싶어](https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.18](https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD) | 3:00 |
 | 38 | [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 |
 | 39 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |
-| 40 | [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 |
-| 41 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 |
+| 40 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 |
+| 41 | [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 |
 | 42 | [Back Then \(feat\. soo\)](https://open.spotify.com/track/0YQNPNVr02rmCMInKfwRIf) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [soo](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [Back Then \(feat\. soo\)](https://open.spotify.com/album/1ett62oFx82r1y54ZgA4Xy) | 3:04 |
-| 43 | [내일이 되면](https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [내일이 되면](https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz) | 3:40 |
-| 44 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
-| 45 | [I’ll just smile](https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 2:30 |
+| 43 | [I’ll just smile](https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 2:30 |
+| 44 | [내일이 되면](https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [내일이 되면](https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz) | 3:40 |
+| 45 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
 | 46 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(O'PENing\) \(Original Soundtrack\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
 | 47 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 |
 | 48 | [Losing Myself](https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX) | [Gogang](https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU) | [Losing Myself](https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH) | 2:56 |

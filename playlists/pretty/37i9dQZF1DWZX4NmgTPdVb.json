@@ -1,6 +1,6 @@
 {
   "description": "The songs of the 1970s that will make you dance all summer long!",
-  "num_followers": 256625,
+  "num_followers": 256965,
   "original_name": "Summer Hits of the 70s",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Changes In Latitudes, Changes In Attitudes",
-        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Margaritaville",
-      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Electric Warrior",
         "url": "https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 262613,
       "name": "Get It On",
       "url": "https://open.spotify.com/track/0LoQuiekvzqx7n8flgEKzF"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Changes In Latitudes, Changes In Attitudes",
+        "url": "https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Margaritaville",
+      "url": "https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 178560,
       "name": "I Feel the Earth Move",
       "url": "https://open.spotify.com/track/1BWsOxeMx83OrKGCV4gxly"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY"
     },
     {
       "added_at": "2024-03-22 15:16:12",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-03-22 15:16:12",
       "album": {
-        "name": "The Essential Daryl Hall & John Oates",
-        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
-    },
-    {
-      "added_at": "2024-03-22 15:16:12",
-      "album": {
         "name": "How Can You Mend A Broken Heart",
         "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 212800,
       "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/0qemIQjSxcKyf42VPfZnfa"
+    },
+    {
+      "added_at": "2024-03-22 15:16:12",
+      "album": {
+        "name": "The Essential Daryl Hall & John Oates",
+        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
     }
   ],
   "unique_name": "Summer Hits of the 70s",

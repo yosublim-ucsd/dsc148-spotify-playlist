@@ -4,7 +4,7 @@
 
 > Music from “Girls Band Cry” / アニメ『<a href="https://girls\-band\-cry.com/">ガールズバンドクライ</a>』を彩る数々の楽曲達がここに。怒りも喜びも哀しさも全部ぶちこめ。  ©東映アニメーション
 
-43 songs - 1 hr 53 min
+45 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,10 +45,12 @@
 | [理想的パラドクスとは](https://open.spotify.com/track/5TNgYaeJdFjrR9BfsEmwDY) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [理想的パラドクスとは](https://open.spotify.com/album/44MHX9OKTB297w51I0TfXM) | 3:49 | 2024-04-12 |  |
 | [空の箱 \- 井芹仁菜、河原木桃香](https://open.spotify.com/track/7EdVl2gW1Vg6koQ23AFPnU) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空の箱 \(井芹仁菜、河原木桃香\)](https://open.spotify.com/album/3Afh6DsCXR4ZPZ2O2ITEml) | 3:04 | 2024-04-12 |  |
 | [空白とカタルシス](https://open.spotify.com/track/4z8FBzJ2vYi390cYmMD7Yf) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [空白とカタルシス](https://open.spotify.com/album/3igNo52F3h0N9TKxGmQCwW) | 3:10 | 2024-06-14 |  |
+| [蝶に結いた赤い糸](https://open.spotify.com/track/2FIuKRBk8ypEKUnrstY34j) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 3:29 | 2024-08-27 |  |
 | [視界の隅 朽ちる音 \- 新川崎（仮）](https://open.spotify.com/track/6MbAKUA4XvXmh4ngCHyqV9) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [視界の隅 朽ちる音 \(新川崎（仮）\)](https://open.spotify.com/album/3Ftd6zTVGVTIeIzsh3SUqs) | 3:08 | 2024-05-03 |  |
 | [誰にもなれない私だから](https://open.spotify.com/track/3qUhSNwka3dPwf2Q667y7K) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [誰にもなれない私だから](https://open.spotify.com/album/36v0bfC1o6qrt4YDoZb03s) | 3:09 | 2024-04-12 |  |
 | [運命に賭けたい論理](https://open.spotify.com/track/5HXSZoSZuivD65nPk7POH0) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命に賭けたい論理](https://open.spotify.com/album/2O18JMMWL9S389Sw5tXiyn) | 3:15 | 2024-04-12 |  |
 | [運命の華](https://open.spotify.com/track/6ug9mmLsL6cK8w6AMINUwm) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命の華](https://open.spotify.com/album/716hRknVasU08ypKekcsr0) | 3:15 | 2024-06-28 |  |
+| [闇に溶けてく](https://open.spotify.com/track/7MulwnmYzazj40HaMgI9aP) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [棘ナシ](https://open.spotify.com/album/1UXJbRMzjtwyw4HKIASREU) | 2:41 | 2024-08-27 |  |
 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 | 2024-04-12 |  |
 | [黎明を穿つ](https://open.spotify.com/track/7A6Ase9m9II2njZuHLOFq5) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [黎明を穿つ](https://open.spotify.com/album/7Ds0BL9lcPgWVqfZJloAIo) | 3:09 | 2024-04-12 |  |
 

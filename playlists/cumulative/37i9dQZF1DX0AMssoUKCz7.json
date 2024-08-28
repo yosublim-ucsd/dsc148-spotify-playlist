@@ -10225,6 +10225,24 @@
     },
     {
       "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/3W49rkfcQPS9R1T3gUluHl"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Maria",
+          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
+        }
+      ],
+      "date_added": "2024-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207731,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/5jAzncvTqIzzWgvqlCBx8t"
+    },
+    {
+      "album": {
         "name": "Own the Night",
         "url": "https://open.spotify.com/album/7bHsGrx65iJ4TQOA8MZViy"
       },
@@ -11660,7 +11678,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 158888,
       "name": "See You Again (Feat. \u00c6J)",
       "url": "https://open.spotify.com/track/08fs5CvDMxpUFCD8IVqC9J"

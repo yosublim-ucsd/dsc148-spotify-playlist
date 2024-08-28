@@ -3104,7 +3104,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
@@ -4659,6 +4659,24 @@
     },
     {
       "album": {
+        "name": "Phenomena II",
+        "url": "https://open.spotify.com/album/3f9kyaXtbKIFuSh85ZBHQo"
+      },
+      "artists": [
+        {
+          "name": "Within The Ruins",
+          "url": "https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "Demon Killer",
+      "url": "https://open.spotify.com/track/491Y81WE8NvyqRdHGMODPu"
+    },
+    {
+      "album": {
         "name": "Demon King",
         "url": "https://open.spotify.com/album/7c6Zz9bVK2vwt7vhMPQgSC"
       },
@@ -5436,7 +5454,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 208645,
       "name": "Dreamlike",
       "url": "https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov"
@@ -17680,6 +17698,28 @@
       "duration_ms": 187629,
       "name": "Wake The Dead",
       "url": "https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3"
+    },
+    {
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/0kQCM0BNxFbSxPs0EFtwvN"
+      },
+      "artists": [
+        {
+          "name": "ONI",
+          "url": "https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB"
+        },
+        {
+          "name": "lil aaron",
+          "url": "https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC"
+        }
+      ],
+      "date_added": "2024-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209631,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/1TK3lggm7HZ00nQp01uUTu"
     },
     {
       "album": {

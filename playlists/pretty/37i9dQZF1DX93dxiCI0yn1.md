@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 
 > 新たな“ラップスタア“を発掘する人気オーディション番組「RAPSTAR 2024」歴代出場者、審査員の楽曲を特集。 Cover: Kohjiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,896 likes - 96 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,910 likes - 96 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 22 | [正夢](https://open.spotify.com/track/75oFQY95GilHqIMQYAWItl) | [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj) | [正夢](https://open.spotify.com/album/5KM1cPxjzMu9WRP4skATa7) | 2:45 |
 | 23 | [RESTART](https://open.spotify.com/track/0WkjXtIf3pz0otHWNLeMls) | [sheidA](https://open.spotify.com/artist/4cCmlLDD6JcIEM4RaDIxaZ) | [RESTART](https://open.spotify.com/album/5MJYnY5zIZ3ScFz8exR6iE) | 2:31 |
 | 24 | [3AM](https://open.spotify.com/track/4pSMXP0mu6Iz4kinXGlg4p) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [3AM](https://open.spotify.com/album/5E9g6BROT2ZpMHIxsOSzcF) | 2:39 |
-| 25 | [garasunokutsu](https://open.spotify.com/track/0Pa7cmFwsIQldJYHshWLRj) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [DREAM HORIZON](https://open.spotify.com/album/5xQGl6jalMEKuQefCWiCR8) | 2:47 |
+| 25 | [紙飛行機](https://open.spotify.com/track/2g97SOmQ7iROuInsxbWER5) | [Seeker4L](https://open.spotify.com/artist/0rzFpmPCcB3HseaSeGBHZE), [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [紙飛行機](https://open.spotify.com/album/5KKkz5t9xk89niLsxF9enW) | 2:29 |
 | 26 | [MITEMINA](https://open.spotify.com/track/3TNfPpEZWNllf7Amb8xX4Z) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [ShowyVICTOR](https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA), [ShowyRENZO](https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4) | [MITEMINA](https://open.spotify.com/album/42KpKZkzEWVp0zSEVJxok8) | 3:32 |
 | 27 | [ERiCA \(feat\. HEZRON & SANTAWORLDVIEW\)](https://open.spotify.com/track/7A3Ok5htvCPMnrwx4jeenO) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Hezron](https://open.spotify.com/artist/1f9ZbrwYAXYyFCf3PGDWfq), [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [LiFE](https://open.spotify.com/album/31u6IEytVZAg4vMJDDRg8Q) | 1:36 |
 | 28 | [右に回すKey](https://open.spotify.com/track/3J5QUv57nXeHPvS7bF7NTb) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C) | [右に回すKey](https://open.spotify.com/album/0pgbsmwK3HeO6cWK0zaHlg) | 1:40 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93dxiCI0yn1.md) - [plain]
 | 95 | [BARBERSHOP](https://open.spotify.com/track/0noBbvegr73emJDSgnpJSc) | [Daia](https://open.spotify.com/artist/1hXnVDbddicc8RayfMIimk) | [Mind Of Legend](https://open.spotify.com/album/3dfBnpNT8ym7ZbaVwb187O) | 3:07 |
 | 96 | [I DO](https://open.spotify.com/track/7nqQA4DNomQlHyI6Rtmh4i) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R), [Only U](https://open.spotify.com/artist/4rFuiqSv9uhr8JcBSof72C) | [I'M THE ONE](https://open.spotify.com/album/3aU7EApdoG34SXjWuE2OZr) | 2:36 |
 
-Snapshot ID: `ZsvA8wAAAABBKZgl//lI38ttT3bAv5r3`
+Snapshot ID: `Zs5oUAAAAAAnu87CXFEeQsZwc5DYpDbb`

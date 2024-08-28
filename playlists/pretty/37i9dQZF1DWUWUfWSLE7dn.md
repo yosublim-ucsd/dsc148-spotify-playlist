@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,687 likes - 60 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,907 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 37 | [Nerevar Rising \- From "The Elder Scrolls III: Morrowind"](https://open.spotify.com/track/1nX8a8tlmhQXz4koqOYf8Z) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v), [Czech National Symphony Orchestra](https://open.spotify.com/artist/4QwB1zntRnSrgqcqqnDwAX), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Nerevar Rising \(From "The Elder Scrolls III: Morrowind"\)](https://open.spotify.com/album/0tgWVVP5Ylcn0yiJ257p9Q) | 1:31 |
 | 38 | [Once Upon A Time / Storybook Love](https://open.spotify.com/track/0usDbYIMx50UYcwuXdpmSj) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [The Princess Bride](https://open.spotify.com/album/12YO4v0sWRSBPoh0mFISST) | 3:59 |
 | 39 | [Coming Home](https://open.spotify.com/track/45jrXtFx8ERLW66AF4r53F) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [The Elder Scrolls Blades: Original Game Soundtrack](https://open.spotify.com/album/6zBhT9ZcGURdtZjA0q1JlG) | 3:14 |
-| 40 | [Hometown Hero](https://open.spotify.com/track/0LMCBbY32nJJlGTQLc8MgV) | [William Ross](https://open.spotify.com/artist/2cmxX7dd4i6kexfulvdpZg) | [My Dog Skip \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Jed2zOJ0h2XudOaMHt5vP) | 1:59 |
+| 40 | [Hometown Hero](https://open.spotify.com/track/0LMCBbY32nJJlGTQLc8MgV) | [William Ross](https://open.spotify.com/artist/2cmxX7dd4i6kexfulvdpZg) | [My Dog Skip \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4Jed2zOJ0h2XudOaMHt5vP) | 1:59 |
 | 41 | [Eshkeri: Tristan & Yvaine](https://open.spotify.com/track/6olGW6PnE8otoEXPo59VQq) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4), [Andy Brown](https://open.spotify.com/artist/6u83LnSsShAAixAassk1pB) | [Stardust \- Music From The Motion Picture](https://open.spotify.com/album/1NF8tCRVwrkWkGjLXO8nsa) | 2:05 |
 | 42 | [Feast Of Starlight \- From "The Hobbit \- The Desolation Of Smaug"](https://open.spotify.com/track/0OmFvEb5a3iJPwW2h0tTO0) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit \- The Desolation Of Smaug \(Original Motion Picture Soundtrack / Special Edition\)](https://open.spotify.com/album/2nsRpsb5aeOhNEWV1MoiHB) | 2:48 |
 | 43 | [Dumbledore's Farewell](https://open.spotify.com/track/0bmb8jg6ljmt8qBmIsMNvL) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter and the Half\-Blood Prince \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xXblCIb5G6ji70efT7THx) | 2:22 |

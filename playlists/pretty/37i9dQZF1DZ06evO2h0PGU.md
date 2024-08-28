@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 
 > This is Yeah Yeah Yeahs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,750 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,763 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 23 | [Way Out](https://open.spotify.com/track/6tmlwJjSw8QLZnBjwZ4Mej) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 2:51 |
 | 24 | [Black Tongue](https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:59 |
 | 25 | [Different Today](https://open.spotify.com/track/1NI4ZiPR8hcROfDz1Dz3WH) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:27 |
-| 26 | [Modern Romance](https://open.spotify.com/track/3C6b3tB0YpGNyLKcVplrtV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell](https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI) | 3:11 |
-| 27 | [Runaway](https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 5:13 |
+| 26 | [Runaway](https://open.spotify.com/track/3L8hWvsXThAM7PMuxjrpK1) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 5:13 |
+| 27 | [Modern Romance](https://open.spotify.com/track/3C6b3tB0YpGNyLKcVplrtV) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell](https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI) | 3:11 |
 | 28 | [Under The Earth](https://open.spotify.com/track/4NVRAFB9Xkpluo3Iq5GeEO) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:18 |
 | 29 | [Down Boy](https://open.spotify.com/track/60dhkkPtuzMGOdYgLJIpQD) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 3:53 |
-| 30 | [Cold Light](https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell](https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI) | 2:15 |
-| 31 | [Skeletons](https://open.spotify.com/track/4vMyguvxYgpVfn6m9obaEY) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 5:02 |
+| 30 | [Skeletons](https://open.spotify.com/track/4vMyguvxYgpVfn6m9obaEY) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/0EZNeEs8bgLH2QoqouxCcm) | 5:02 |
+| 31 | [Cold Light](https://open.spotify.com/track/7at9CaHEFTsV3J5KXSYzSc) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell](https://open.spotify.com/album/0EabZMx74C2wyXhvMMO1eI) | 2:15 |
 | 32 | [Slave](https://open.spotify.com/track/3KDNP1qeCGZRlExpJUPlzi) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Mosquito \(Deluxe\)](https://open.spotify.com/album/1LQZp37z82iTVxillq6K59) | 4:06 |
 | 33 | [Kiss, Kiss](https://open.spotify.com/track/1mhPIy7YFRXlWTqH2aLdVr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Is Is EP](https://open.spotify.com/album/3I6TpzauRC5WzlNbrrdfqo) | 2:43 |
 | 34 | [Dull Life](https://open.spotify.com/track/1pvlznzPWn4XiPzQzrrdIU) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 4:08 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2h0PGU.md) - [plain]
 | 50 | [Rockers To Swallow](https://open.spotify.com/track/4MFhnFd5IlotC8L4E4ZifJ) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [IS IS](https://open.spotify.com/album/6wt9UTlj4kyhYyyLlWDDSi) | 3:11 |
 | 51 | [Mystery Girl](https://open.spotify.com/track/3pvfyKJWQYRe8jCCgsD3BI) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Yeah Yeah Yeahs](https://open.spotify.com/album/17rd4SKYEpyWUndWXOuWb9) | 2:57 |
 
-Snapshot ID: `Zsp0AAAAAACzCDLrVq1e/KXSnBvA4LYJ`
+Snapshot ID: `ZsvFgAAAAACev2RpkPeYWOE0FqcbAorw`

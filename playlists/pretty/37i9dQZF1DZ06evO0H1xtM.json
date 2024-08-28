@@ -1,12 +1,12 @@
 {
-  "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 299555,
+  "description": "This Is Grupo Marca Registrada. Los temas esenciales, todos en una lista.",
+  "num_followers": 299813,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAChb6V1gJOIouzW9UBSk02f",
+  "snapshot_id": "ZsvFgAAAAABw+O6GVLaMaWBuhRVVq6Tz",
   "tracks": [
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solo Me Dejaste",
+        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Solo Me Dejaste",
+      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anda Bien el Nene",
         "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 177023,
       "name": "Anda Bien el Nene",
       "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solo Me Dejaste",
-        "url": "https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Solo Me Dejaste",
-      "url": "https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk"
     },
     {
       "added_at": null,
@@ -395,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corleone",
+        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 144932,
+      "name": "Pobre No",
+      "url": "https://open.spotify.com/track/1P2j2F7AjZxUl0Uo102539"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BLING BLING",
         "url": "https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 163057,
       "name": "BLING BLING",
       "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corleone",
-        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 144932,
-      "name": "Pobre No",
-      "url": "https://open.spotify.com/track/1P2j2F7AjZxUl0Uo102539"
     },
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Haces Tan Bien",
+        "url": "https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 168576,
+      "name": "Me Haces Tan Bien",
+      "url": "https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bandida",
         "url": "https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 179080,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Haces Tan Bien",
-        "url": "https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 168576,
-      "name": "Me Haces Tan Bien",
-      "url": "https://open.spotify.com/track/5mJ3ce2hMDnpGSuELoKUoL"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Haciendo Magia",
+        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167893,
+      "name": "As\u00ed Nac\u00ed",
+      "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ya Va Haber Algo",
         "url": "https://open.spotify.com/album/388986wIgntQUo8UookHGS"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 138064,
       "name": "Ya Va Haber Algo",
       "url": "https://open.spotify.com/track/4GrBjsSTRqeKEl4m56YhJ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Haciendo Magia",
-        "url": "https://open.spotify.com/album/0SJxiltxmAxmLb3R4A1PU5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 167893,
-      "name": "As\u00ed Nac\u00ed",
-      "url": "https://open.spotify.com/track/30yaDgoJbR3wujuclohMaq"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mismo De La Vida Ruina",
+        "url": "https://open.spotify.com/album/1RCqTwnQDquifOW1cbLxzE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 199296,
+      "name": "Zutano",
+      "url": "https://open.spotify.com/track/1KDAP13YogPGAxOZOwsNuU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 198145,
       "name": "El 2",
       "url": "https://open.spotify.com/track/41kC1zrv2t2Tb683qkSUQz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mismo De La Vida Ruina",
-        "url": "https://open.spotify.com/album/1RCqTwnQDquifOW1cbLxzE"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 199296,
-      "name": "Zutano",
-      "url": "https://open.spotify.com/track/1KDAP13YogPGAxOZOwsNuU"
     },
     {
       "added_at": null,

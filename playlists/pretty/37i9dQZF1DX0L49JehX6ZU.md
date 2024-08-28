@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,129 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,136 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 30 | [Piya Basanti](https://open.spotify.com/track/4ZffnUdAzNy5HvcO3rphIP) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Piya Basanti](https://open.spotify.com/album/54p1S3dlFHWke6HDdhyVj2) | 4:36 |
 | 31 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 |
 | 32 | [Dil Beparvah \- The Dewarists, Season 5](https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Dhruv Bhola](https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x), [Nikhil Vasudevan](https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ) | [Dil Beparvah \(The Dewarists, Season 5\)](https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru) | 4:10 |
-| 33 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 |
-| 34 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 |
+| 33 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 |
+| 34 | [Khayaal](https://open.spotify.com/track/7fY8qVujvm5lZBrt5Y1sIJ) | [Arijit Anand](https://open.spotify.com/artist/4SCDbi4KztQTP0HoOuCNjK), [Ankita Barwad](https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO) | [Khayaal](https://open.spotify.com/album/0T74gRslxMbXuKxPicbV65) | 2:29 |
 | 35 | [5 am](https://open.spotify.com/track/2Wn4C2J3naPghLX3pDSJra) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [5 am](https://open.spotify.com/album/4imUPyjxCSeNdAUs6ZjQcR) | 2:27 |
 | 36 | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/track/4SlCYFaUQ8GRuwdpgniaGF) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/album/5EyIytU4jYrTCuf8Xy49M3) | 3:18 |
 | 37 | [Tune Kaha](https://open.spotify.com/track/1gWtHDe403RuyZqhvSRcv8) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Tune Kaha](https://open.spotify.com/album/1sXF26ED1bQT76rFEvPwaP) | 3:36 |

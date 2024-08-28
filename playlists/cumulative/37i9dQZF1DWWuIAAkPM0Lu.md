@@ -2,7 +2,7 @@
 
 ### [New Music Friday Denmark](https://open.spotify.com/playlist/37i9dQZF1DWWuIAAkPM0Lu)
 
-> <a href="spotify:artist:3zDRCqOhJXJfS2YWOEwGMC">Christopher</a>: It could have been us 🥲 kender følelsen ❤️‍🩹
+> <a href="spotify:artist:3zDRCqOhJXJfS2YWOEwGMC">Christopher</a>: It could have been us 🥲
 
 1,746 songs - 3 day 17 hr 18 min
 
@@ -740,7 +740,7 @@
 | [Homecoming](https://open.spotify.com/track/0DnkzOeTkiLAjsV2eNHwop) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Homecoming](https://open.spotify.com/album/73wC0ne2a1wSaN4DHe27eR) | 2:40 | 2024-08-16 | 2024-08-23 |
 | [Honey](https://open.spotify.com/track/1XbSXeRIX2dgAzywK32Z1F) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Honey](https://open.spotify.com/album/2p5RALR1fjMQSoaK2s5NPp) | 3:09 | 2024-05-16 | 2024-05-24 |
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF) | 3:47 | 2024-05-02 | 2024-05-10 |
-| [HONEY I'M HOME](https://open.spotify.com/track/4dztGCRXZC4hE5By2E2MqD) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [HONEY I'M HOME](https://open.spotify.com/album/78GULFSix9Ukfypf8XMXQk) | 2:53 | 2024-08-22 |  |
+| [HONEY IM HOME](https://open.spotify.com/track/4dztGCRXZC4hE5By2E2MqD) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [HONEY IM HOME](https://open.spotify.com/album/78GULFSix9Ukfypf8XMXQk) | 2:53 | 2024-08-22 |  |
 | [Honey Min](https://open.spotify.com/track/1YV1IN6G833OWD8pIstZg9) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Honey Min](https://open.spotify.com/album/0FsFPa6qkuagV0OfmJFO8u) | 3:07 | 2024-06-06 | 2024-06-14 |
 | [Honeypot](https://open.spotify.com/track/5toaAXAOsjHs3aK2d6nJqW) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Most Wanted](https://open.spotify.com/album/2DZrZqI45PpoQ4bzQoj2Vf) | 2:30 | 2024-04-26 | 2024-05-03 |
 | [Hooked On A Feeling \- Spotify Singles](https://open.spotify.com/track/7t8vTwXLc7EZqTo9t88LTH) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Hooked On A Feeling \- Spotify Singles](https://open.spotify.com/album/4jlPlNZFyZa1bCFRp2N7fn) | 2:14 | 2024-05-23 | 2024-06-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > puros morrxs haciendo música chida\. Petite Amie en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,298 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,287 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 2 | [Enloquecer](https://open.spotify.com/track/54pdJE2Ykv5eYGfL6ZHTky) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Enloquecer](https://open.spotify.com/album/2mt1Ixqw5Pkk5RwgkIh7Wg) | 2:12 |
 | 3 | [te escribí un CD](https://open.spotify.com/track/5qxW361HKmKx59EUQcIyyI) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [te escribí un CD](https://open.spotify.com/album/5zSUvMtrFTLKqWb55z3SIF) | 3:09 |
 | 4 | [Como un chicle en un papel](https://open.spotify.com/track/7io6ikQGeIY4FacR6XJyfg) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Como un chicle en un papel](https://open.spotify.com/album/558M8FPIBbTz31aetIgRQl) | 3:21 |
-| 5 | [Un Desastre Que Te Encanta](https://open.spotify.com/track/0xTNSKybxlNJ53Jv6R3IXr) | [Marchi](https://open.spotify.com/artist/7CRrMfdafxOwlRt2lX8XZG) | [Un Desastre Que Te Encanta](https://open.spotify.com/album/1dgITywuFZgqfNji4OcxtE) | 2:17 |
+| 5 | [Un Desastre Que Te Encanta:\)](https://open.spotify.com/track/0xTNSKybxlNJ53Jv6R3IXr) | [Marchi](https://open.spotify.com/artist/7CRrMfdafxOwlRt2lX8XZG) | [Un Desastre Que Te Encanta:\)](https://open.spotify.com/album/1dgITywuFZgqfNji4OcxtE) | 2:17 |
 | 6 | [Complicado](https://open.spotify.com/track/3gYFpnIwIbOC4aRkVkimEj) | [Sofía Carmona](https://open.spotify.com/artist/0A8EVlCdERoogCYcfTWsuc) | [Complicado](https://open.spotify.com/album/3O1AbfIJieTkLxxXblVco0) | 2:58 |
 | 7 | [How’s That Working Out](https://open.spotify.com/track/6rKYbosg95SJuFsD4AEF3m) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [How’s That Working Out](https://open.spotify.com/album/09K7fBw1fMJKy0bEhnUbOm) | 3:00 |
 | 8 | [Tú me quieres más](https://open.spotify.com/track/6BByot90SC8fvj9mU5xSKY) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Tú me quieres más](https://open.spotify.com/album/44taB2vnpXNc6XHigGxWSW) | 3:22 |

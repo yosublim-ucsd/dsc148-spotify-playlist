@@ -4,7 +4,7 @@
 
 > The best hardstyle remixes of songs you know!
 
-205 songs - 10 hr 14 min
+206 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Can Can](https://open.spotify.com/track/64wJfQnusvGvwcV8Hize2a) | [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF) | [Can Can](https://open.spotify.com/album/1cBFq5sBvonDTN0lo5zGDi) | 2:08 | 2023-09-15 | 2024-04-11 |
 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 | 2022-12-16 |  |
 | [Can't Get You Outta My Head](https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Can't Get You Outta My Head](https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ) | 2:36 | 2024-04-10 | 2024-05-17 |
+| [Chase the Sun](https://open.spotify.com/track/6x47NvetOu5Dw7RwYe3DB1) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [Chase the Sun](https://open.spotify.com/album/27Ulfmzit6ZMuVB9rpWuFY) | 3:13 | 2024-07-26 |  |
 | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS) | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6) | 2:15 | 2023-01-26 | 2023-04-12 |
 | [Children](https://open.spotify.com/track/3toZLVE2wYiH7SJkv3QObm) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Stormerz](https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Children](https://open.spotify.com/album/6gPqh8lsH8TR4IPxmwffCq) | 2:42 | 2023-06-15 | 2023-06-30 |
 | [Come With Me](https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Come With Me](https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT) | 2:41 | 2022-12-05 |  |
@@ -163,7 +164,7 @@
 | [Push Up \- Hardstyle Remix](https://open.spotify.com/track/76K2GPOdbmj2bGCnFYj2xe) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [Push Up \(Hardstyle Remix\)](https://open.spotify.com/album/0vf6Uxo4jasSRkUfVUs8dm) | 2:31 | 2023-05-31 | 2024-02-09 |
 | [Rainbow In The Sky](https://open.spotify.com/track/0clMW4mz5QaPXURDwkmKJA) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Ingrid Simons](https://open.spotify.com/artist/5nMlO8ar6S3oqX1ncLombX) | [Rainbow In The Sky](https://open.spotify.com/album/53SIt0wrmoBP4wCBGciGQ7) | 2:44 | 2022-12-05 | 2023-02-10 |
 | [Rave Mozart](https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Rave Mozart](https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8) | 2:06 | 2024-05-16 |  |
-| [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 | 2022-12-05 |  |
+| [Rhythm Of The Night](https://open.spotify.com/track/73Ql5vsFSuj7NfzTv3L0Td) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Rhythm Of The Night](https://open.spotify.com/album/7MHiccnSuOR4ofCDOrFfTE) | 3:10 | 2022-12-05 | 2024-08-28 |
 | [Ride With Me \(feat\. Kid Ink\) \- Brennan Heart Remix](https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [Ride With Me \(feat\. Kid Ink\) \[Brennan Heart Remix\]](https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE) | 3:50 | 2022-12-05 |  |
 | [Rude Boy](https://open.spotify.com/track/43O2EOt85fbhIADEt7ybP8) | [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb), [Rich Fayden](https://open.spotify.com/artist/3ar8JGsr43jlNDacAnqt34) | [Rude Boy](https://open.spotify.com/album/1D69rMXTjw3X7XlRFY34of) | 2:30 | 2023-09-28 | 2023-11-18 |
 | [Running up That Hill](https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [Running up That Hill](https://open.spotify.com/album/3fXQstkVbMjTGkRPnfawhS) | 3:43 | 2022-12-05 | 2023-07-14 |

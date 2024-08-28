@@ -3156,7 +3156,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 181724,
       "name": "B\u00e9same Lento",
       "url": "https://open.spotify.com/track/6sEZJVx8h7LkM88lqGHEyC"
@@ -4714,7 +4714,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 188411,
       "name": "DE LUNES A LUNES",
       "url": "https://open.spotify.com/track/49Zc3sEJHADPoVDM4jNKgs"
@@ -5448,7 +5448,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 176720,
       "name": "Doblexx\u00f3",
       "url": "https://open.spotify.com/track/2llFXBrftm6YJzBj3tpk0s"
@@ -6124,7 +6124,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/5KbBVSj6AJZ5662fO8EYFh"
@@ -10244,7 +10244,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-18",
+      "date_removed": null,
       "duration_ms": 202173,
       "name": "LA INOCENTE",
       "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
@@ -20170,6 +20170,24 @@
       "duration_ms": 237894,
       "name": "Tarot",
       "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
       "album": {

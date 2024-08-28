@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-450 songs - 1 day 3 hr 42 min
+451 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Adrian, Ali and Gregory](https://open.spotify.com/track/1nATM2if0c7XcpkpFYeMsq) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Adrian, Ali and Gregory](https://open.spotify.com/album/4DU5AJbx04Q04DCcrn6NpS) | 2:23 | 2022-02-17 | 2022-07-29 |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2023-03-20 |  |
 | [All I See In You](https://open.spotify.com/track/5CFZEWl1VQpFDda3PYitiP) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [All I See In You](https://open.spotify.com/album/2ggzixrXLK0VQOCNtWntdM) | 3:55 | 2023-08-25 |  |
+| [All in Good Time](https://open.spotify.com/track/1vd8Xpnrgq8jZSJr0lJy2O) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [All in Good Time](https://open.spotify.com/album/0ZEifMVwUtKF5Xx5rv5Otc) | 3:48 | 2024-08-20 |  |
 | [All My Tomorrows](https://open.spotify.com/track/4WnBYBYzYhS2I838VTxhaN) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [All My Tomorrows](https://open.spotify.com/album/5kICb2TJOeFRTCvJsI1ldJ) | 3:21 | 2023-03-20 |  |
 | [All The Sunsets](https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [All The Sunsets](https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE) | 3:40 | 2024-03-08 |  |
 | [All We Know](https://open.spotify.com/track/43P9ATR9KbSpDlqsp2sGKW) | [Chelsea Carmichael](https://open.spotify.com/artist/6vbGW1gdI14163OQECQs5d) | [The River Doesn’t Like Strangers](https://open.spotify.com/album/0rMRVTA8NJBbQAa4FcFgpV) | 7:25 | 2022-02-17 | 2022-04-23 |
@@ -46,7 +47,7 @@
 | [Black Monday](https://open.spotify.com/track/0qgEAknJSYD0WhkIxaSU4X) | [Hamilton Jones Trio](https://open.spotify.com/artist/3kivgh7JqxadGYAYo99XeL) | [Black Monday](https://open.spotify.com/album/6bCbsMYCQVJg1AIqZoA9dY) | 3:25 | 2023-03-20 | 2024-08-25 |
 | [Black Tea](https://open.spotify.com/track/0gylr1Mi75MBEijrP2r20A) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Black Tea](https://open.spotify.com/album/3tcY2wCBIhAAi7ft7Qmr1M) | 2:39 | 2022-06-02 | 2022-09-29 |
 | [Blame It On My Youth](https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [Blame It On My Youth](https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE) | 3:13 | 2023-04-20 |  |
-| [Blue Midnight](https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Blue Midnight](https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp) | 3:09 | 2023-05-04 |  |
+| [Blue Midnight](https://open.spotify.com/track/77b7vqhEpGFSiCoeWnExeZ) | [James Leeluck](https://open.spotify.com/artist/4ny5CQ4SQz5jW9YKbXJ3sZ) | [Blue Midnight](https://open.spotify.com/album/7MRGlwATlHi5bLlAE15AAp) | 3:09 | 2023-05-04 | 2024-08-28 |
 | [Blue Room](https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Blue Room](https://open.spotify.com/album/6YHgKIBib4hbBwUqJ8pOT7) | 2:38 | 2023-03-20 |  |
 | [Blue to Red](https://open.spotify.com/track/4wfkTVPHCmDCQGlsE6PL9T) | [Chip Wickham](https://open.spotify.com/artist/62MkXCxcZ345tVUHsD9NK0) | [Blue to Red](https://open.spotify.com/album/5Cd7BhlVvsUr8dFPkLQ1JC) | 7:22 | 2022-04-22 | 2022-06-23 |
 | [Bobbi](https://open.spotify.com/track/4fcQOD3jgADwsZ2UCMsB2B) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [Bobbi](https://open.spotify.com/album/3zYm6hkuRqlpEkUyjamMuG) | 2:32 | 2023-03-20 | 2024-03-01 |

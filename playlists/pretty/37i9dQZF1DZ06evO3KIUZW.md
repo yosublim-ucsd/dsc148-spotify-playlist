@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KIUZW.md) - [plain]
 
 ### [This Is Iron Maiden](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KIUZW)
 
-> This is Iron Maiden\. Todos os maiores hits em uma só playlist.
+> This is Iron Maiden\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,673 likes - 50 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,768 likes - 50 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KIUZW.md) - [plain]
 | 49 | [Judas Be My Guide \- 2015 Remaster](https://open.spotify.com/track/3JzdNBmwnV4trRNaXEx23Y) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO) | 3:08 |
 | 50 | [Transylvania \- 2015 Remaster](https://open.spotify.com/track/43QZUbTYnsU7ypUKxOyTRz) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 Remaster\)](https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi) | 4:04 |
 
-Snapshot ID: `Zsp0AAAAAACklQrO/shhOzO3ih34Bomu`
+Snapshot ID: `ZsvFgAAAAADg7CpEfGmsSRoSRHeYWGvD`

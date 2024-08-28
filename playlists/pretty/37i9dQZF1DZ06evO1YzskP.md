@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 ### [This Is La Receta](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YzskP)
 
-> This is La Receta\. The essential tracks, all in one playlist.
+> This Is La Receta\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,913 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,051 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 10 | [Se Les Pelo El Ranchero](https://open.spotify.com/track/4PnvnDk0Cg2SFRglbTv8jn) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Asombrerados](https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9) | 2:14 |
 | 11 | [Ojitos Lindos](https://open.spotify.com/track/6fON6XAgh3MWT1QBw4katd) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:36 |
 | 12 | [Ciega X Él](https://open.spotify.com/track/1peVaihQpEOjNGWtQecRVI) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ciega X Él](https://open.spotify.com/album/5uwrSMVvMNqK8dJi7iX0fC) | 3:55 |
-| 13 | [Prometiste](https://open.spotify.com/track/6vLQ2TCjXMzWT7jr3OZbZa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 3:29 |
-| 14 | [Mi Gata Fav](https://open.spotify.com/track/6YbSgcWfz8MSzXL2ezZDkN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:31 |
+| 13 | [Mi Gata Fav](https://open.spotify.com/track/6YbSgcWfz8MSzXL2ezZDkN) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Pa Mis Compas Y Rolitas Pa Mi Ex](https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU) | 2:31 |
+| 14 | [Prometiste](https://open.spotify.com/track/6vLQ2TCjXMzWT7jr3OZbZa) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El Sombrero De Lado](https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw) | 3:29 |
 | 15 | [La Invitación](https://open.spotify.com/track/3J4oi4vGsPrgTjk6PSqY7B) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Corridos Aesthetic](https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp) | 3:13 |
 | 16 | [Blindajes Peña \(En Vivo\)](https://open.spotify.com/track/6SmiLHeSXnURc3R5dc2CYp) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Grupo H\-100](https://open.spotify.com/artist/6w971ABEzbDRQVUfcbYrl9), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 4:05 |
 | 17 | [Tiempos De Guerra](https://open.spotify.com/track/4H8FjCpqI9EXaau6T5yILG) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:45 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 44 | [El Sera Y El Chavo](https://open.spotify.com/track/63I3KP3FbfAztF5R8Kw5Td) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [El Sera Y El Chavo](https://open.spotify.com/album/6U6shLWotKyQwwvmIFiH8F) | 2:50 |
 | 45 | [Los Ninis](https://open.spotify.com/track/0DUUXFwVBoM5oOx8MdJDia) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:26 |
 | 46 | [Orson Iván](https://open.spotify.com/track/3o64JodEf12s50KqFTickz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Orson Iván](https://open.spotify.com/album/6bWPt5uVi4IbLXzEZcIUQE) | 2:50 |
-| 47 | [Fotos Hot](https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Fotos Hot](https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1) | 2:57 |
-| 48 | [Bien Firme el Sombrero](https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bien Firme el Sombrero](https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4) | 2:20 |
+| 47 | [Bien Firme el Sombrero](https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bien Firme el Sombrero](https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4) | 2:20 |
+| 48 | [Fotos Hot](https://open.spotify.com/track/1vnDr3JmeBIYPOCCntE76H) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Fotos Hot](https://open.spotify.com/album/4zD9ojAyJyG2On7waxHdn1) | 2:57 |
 | 49 | [Los Placeres De Archivaldo](https://open.spotify.com/track/27l55K6adgEeUssURt0FnS) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Pizza Está En El Horno](https://open.spotify.com/album/0Z4tBWwE3Xyz36sdtRaPgG) | 2:34 |
 | 50 | [El JP \(En Vivo\)](https://open.spotify.com/track/2cJpo5bZUYlHF6pWNfkyOV) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [El JP \(En Vivo\)](https://open.spotify.com/album/1BTAMCG3jmqI8eCZuc9wFl) | 3:22 |
 
-Snapshot ID: `Zsp0AAAAAAA37Auv+OwIplE9IlIkCTsu`
+Snapshot ID: `ZsvFgAAAAAAITn5wtMPP9C11RIfmde2Z`

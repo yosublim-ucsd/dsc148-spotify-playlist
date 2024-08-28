@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 ### [New Music Friday Denmark](https://open.spotify.com/playlist/37i9dQZF1DWWuIAAkPM0Lu)
 
-> <a href="spotify:artist:3zDRCqOhJXJfS2YWOEwGMC">Christopher</a>: It could have been us 🥲 kender følelsen ❤️‍🩹
+> <a href="spotify:artist:3zDRCqOhJXJfS2YWOEwGMC">Christopher</a>: It could have been us 🥲
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,067 likes - 93 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,062 likes - 93 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 9 | [Wait For You](https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Wait For You](https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ) | 3:21 |
 | 10 | [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 |
 | 11 | [Low](https://open.spotify.com/track/1jQ80ABd7f6tp1NfPhBwh9) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Low](https://open.spotify.com/album/4siMMN1LrtK7JKGP3qi3Ke) | 3:06 |
-| 12 | [HONEY I'M HOME](https://open.spotify.com/track/4dztGCRXZC4hE5By2E2MqD) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [HONEY I'M HOME](https://open.spotify.com/album/78GULFSix9Ukfypf8XMXQk) | 2:53 |
+| 12 | [HONEY IM HOME](https://open.spotify.com/track/4dztGCRXZC4hE5By2E2MqD) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [HONEY IM HOME](https://open.spotify.com/album/78GULFSix9Ukfypf8XMXQk) | 2:53 |
 | 13 | [Shuf \(Adore U\)](https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve 1](https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo) | 3:46 |
 | 14 | [Cookie](https://open.spotify.com/track/4gstZtZtXLXv0Uo8FzFpGV) | [Kenton Slash Demon](https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU) | [Cookie / Janni](https://open.spotify.com/album/0bx32q9kylq1PiLkCHbsQq) | 3:26 |
 | 15 | [Woof \(feat\. Kah\-Lo\)](https://open.spotify.com/track/7gnIOfQ05nYyHRFD7EqIbZ) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [BREAD](https://open.spotify.com/album/4diOe5MxsDKBVZbqKaoaex) | 3:12 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 92 | [Magpie](https://open.spotify.com/track/2ghZbiC9CbdmrHkH5nIquF) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ) | 4:01 |
 | 93 | [poison](https://open.spotify.com/track/708OIcF8K7xaT8Pj7XqSml) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [poison](https://open.spotify.com/album/1obOKGKtYzlDjO4hyO6LHn) | 2:05 |
 
-Snapshot ID: `ZshnUwAAAACj6fs1Q+lHLyCamuTNE5VB`
+Snapshot ID: `Zs2HeQAAAACxhkMm6P7Rgr3QAuomIfE3`

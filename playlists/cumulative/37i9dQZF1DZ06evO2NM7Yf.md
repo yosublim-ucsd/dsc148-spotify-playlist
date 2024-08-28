@@ -2,7 +2,7 @@
 
 ### [This Is Meg Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NM7Yf)
 
-> This is Meg Smith\. The essential tracks, all in one playlist.
+> This is Meg Smith แทร็กที่ไม่ควรพลาด ทั้งหมดในเพลย์ลิสต์เดียว
 
 25 songs - 1 hr 14 min
 
@@ -21,7 +21,7 @@
 | [emotional affair](https://open.spotify.com/track/1GA7ELy6dZsaLBLK8a3POB) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional affair](https://open.spotify.com/album/42WRrsYZ5qC5LWjGNmGJiS) | 3:01 | 2024-06-01 | 2024-06-02 |
 | [emotional affair](https://open.spotify.com/track/7IILWCwr8Tgw6lXxjXriT2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional affair](https://open.spotify.com/album/2OE6A20vXzzFh66WJ23Xmu) | 3:01 | 2024-06-16 |  |
 | [Emotional Punching Bag](https://open.spotify.com/track/00mXO5pZSGrXQKyqkaI56b) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional punching bag](https://open.spotify.com/album/2h8fMB5OeSth65ZiJl4ixZ) | 2:56 | 2024-01-10 |  |
-| [Fuck Friday](https://open.spotify.com/track/2Pp6DTAzahkBjtQZvuunre) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Fuck Friday](https://open.spotify.com/album/6kHPQWYCCp1iky3B2w4snD) | 3:08 | 2024-01-10 |  |
+| [Fuck Friday](https://open.spotify.com/track/2Pp6DTAzahkBjtQZvuunre) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [Fuck Friday](https://open.spotify.com/album/6kHPQWYCCp1iky3B2w4snD) | 3:08 | 2024-01-10 | 2024-08-28 |
 | [guitar center](https://open.spotify.com/track/049lFlV3BgUKZU2Itc5rCT) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [guitar center](https://open.spotify.com/album/1efqw25N4FvdLgJ2mduAz0) | 3:07 | 2024-01-10 |  |
 | [HRDCR](https://open.spotify.com/track/1b3Hr77vQzUoQrzFgoWuk3) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg), [Oliver Price](https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg), [Thomas Greenwood](https://open.spotify.com/artist/37R7NctpiA3U42vHdUUUTr) | [Pop Drama](https://open.spotify.com/album/4UDhDZ2hi0urYcEV0h9Sb5) | 3:40 | 2024-01-10 |  |
 | [jesus christ in a mini skirt](https://open.spotify.com/track/16wWEwPTnnBwCFmwSx3bwd) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [jesus christ in a mini skirt](https://open.spotify.com/album/5ft44XKk2lkY2JX95a7drT) | 3:00 | 2024-01-11 |  |

@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-223 songs - 15 hr 6 min
+224 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Kunnolam anenikishtam](https://open.spotify.com/track/3Q41RloLb0lCjh52gLIKeZ) | [Prem Krishnan](https://open.spotify.com/artist/6iFo1ZetMJsCWzE25uoEOJ) | [Kunnolam anenikishtam](https://open.spotify.com/album/4RuQccxjGRPk54B0KZ06EC) | 3:45 | 2023-07-18 | 2023-07-28 |
 | [Lathiri Poothiri](https://open.spotify.com/track/2hGsJ2HbSJo2Bu9UEHmCqL) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Lathiri Poothiri](https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz) | 2:14 | 2022-09-06 | 2023-07-28 |
 | [Life Is Adipoli](https://open.spotify.com/track/1RmS3bsRhBJ6WdCb35AxYO) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Sajan CR](https://open.spotify.com/artist/7BLGlfpsC12N56HAhcI6ni), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Life Is Adipoli](https://open.spotify.com/album/19NF3iqqpzCUwkSfKXTK6y) | 4:02 | 2024-06-28 |  |
+| [LOVESICK](https://open.spotify.com/track/2FJd24vjgpvd3C0WK4ZwAA) | [Dev](https://open.spotify.com/artist/6QRkI9RqfSzE0VAjqAvB2T) | [KALEIDOSCOPE](https://open.spotify.com/album/4BDnFfBd0mqYdWcpyIBYZQ) | 5:13 | 2024-08-27 |  |
 | [Luna](https://open.spotify.com/track/7yz02qAkI0vcw5Q9o0ISQw) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Luna](https://open.spotify.com/album/4gnIiBgaCnrA6bLfID5QuR) | 4:11 | 2023-07-13 | 2023-07-28 |
 | [Maanju Poyi](https://open.spotify.com/track/0FziXBnfNclTU9uPFVU0q7) | [Entercone](https://open.spotify.com/artist/31IIGfZnnpIWzVph2zKGkG) | [Maanju Poyi](https://open.spotify.com/album/1wLrzYfialQYyTw6vAxFu6) | 4:33 | 2023-08-23 | 2024-02-19 |
 | [Maarane Thedum](https://open.spotify.com/track/6lILC3jFNhreDnjdq4xwZs) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Abhijith Damodaran](https://open.spotify.com/artist/7vaIaEZztAE7N3F7BSINZd) | [Maarane Thedum](https://open.spotify.com/album/5oya1Gh8pERbBLf9BYG5l7) | 2:54 | 2023-06-22 | 2023-07-28 |
@@ -190,11 +191,11 @@
 | [Subrahmanyena Rakshitoham \(Onwards & Upwards\)](https://open.spotify.com/track/1bH7lEh2I1JD0oCWdT9sRc) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Subrahmanyena Rakshitoham \(Onwards & Upwards\) \- Single](https://open.spotify.com/album/3sKsgiGBtVVPQE3VsfgRPG) | 7:05 | 2023-10-06 | 2024-03-09 |
 | [Subrahmanyena Rakshitoham \(Onwards & Upwards\)](https://open.spotify.com/track/7JNYHEL3kmsjC0pet07dZl) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [Subrahmanyena Rakshitoham \(Onwards & Upwards\) \- Single](https://open.spotify.com/album/2M1qEeEmU1W7YDctJqJiw8) | 7:05 | 2022-12-22 | 2023-12-16 |
 | [Sunday Morning](https://open.spotify.com/track/1TVyR9DMy3TWx5pR2aish4) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/18rt3txit31UqKoC7rI6D9) | 2:32 | 2022-10-17 | 2023-07-28 |
-| [Sundown](https://open.spotify.com/track/1IhTE7V9oA76Vz8gcHBhZG) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN) | [Sundown](https://open.spotify.com/album/0zqm6Hg7w9cRVJhgxfHOCY) | 4:42 | 2023-09-22 |  |
+| [Sundown](https://open.spotify.com/track/1IhTE7V9oA76Vz8gcHBhZG) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN) | [Sundown](https://open.spotify.com/album/0zqm6Hg7w9cRVJhgxfHOCY) | 4:42 | 2023-09-22 | 2024-08-28 |
 | [Swapname](https://open.spotify.com/track/0diGuDISOvsXWs9v5aWv00) | [Emil Mohammed](https://open.spotify.com/artist/7F4yMSf7dsRVAPnkkoR8Wx), [Raazi](https://open.spotify.com/artist/0VKALXldkVaRzYcx7SkKHi) | [Swapname](https://open.spotify.com/album/3mvzVMfX6EmUKMe39Xm1QO) | 3:46 | 2024-05-07 |  |
 | [Swasamay](https://open.spotify.com/track/2T5iv3yppmAVwU9RduQOHe) | [Goutham Vincent](https://open.spotify.com/artist/44AI6q02YIJMvtzmgFetaV), [Sony Mohan](https://open.spotify.com/artist/65NpKvImlpRJpitOScm5GJ), [Ridhu Krishna](https://open.spotify.com/artist/0VAXoBqMrGpLbF1PC3rNbD) | [Swasamay](https://open.spotify.com/album/2gsKpKlh3cT5zXGeA1yLG6) | 2:37 | 2024-02-05 | 2024-02-15 |
 | [Swayam](https://open.spotify.com/track/3iCpruRKrLLcTKdCOMr9yp) | [Ananthu Gopi](https://open.spotify.com/artist/5SaT26rmsIGokgh2ZpxNnd) | [Swayam](https://open.spotify.com/album/0r8LXn3TVf4SqohQUbARZa) | 2:52 | 2024-07-05 |  |
-| [Thaalam \- Version 1](https://open.spotify.com/track/0Y2Z5RLw2MPLVC3mQj9EK9) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaalam](https://open.spotify.com/album/67CJFdWcTVKeSybZlnMf9k) | 6:00 | 2022-06-23 |  |
+| [Thaalam \- Version 1](https://open.spotify.com/track/0Y2Z5RLw2MPLVC3mQj9EK9) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaalam](https://open.spotify.com/album/67CJFdWcTVKeSybZlnMf9k) | 6:00 | 2022-06-23 | 2024-08-28 |
 | [Thaaraattu \- Live](https://open.spotify.com/track/2fe5loAluoPJsHT1nCpgDc) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Thaaraattu \(Live\)](https://open.spotify.com/album/5kqLzeSaEAv5Shc5wAnvud) | 3:02 | 2023-07-27 |  |
 | [Thaaram](https://open.spotify.com/track/3QqOii384lMY23m4Ydh4Rb) | [Nevin Thomas](https://open.spotify.com/artist/29t7mv5S6lSSOlVhPAFP2y), [Shemitha Balan](https://open.spotify.com/artist/0mMfj4RosvfkM2v36QnSeu) | [Thaaram](https://open.spotify.com/album/3Tz4czE10QKNPgyEVBFEl3) | 3:27 | 2024-07-15 |  |
 | [Thanne](https://open.spotify.com/track/2OSvxPgxpojMhe6MjdrulH) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Thanne](https://open.spotify.com/album/1mzBxd4WxPHFXRlbsIBIZR) | 2:48 | 2024-08-16 |  |

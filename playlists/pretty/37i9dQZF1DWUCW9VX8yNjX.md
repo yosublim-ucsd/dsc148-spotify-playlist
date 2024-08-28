@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 
 > Mejor seguimos cantando, como cantaba el abuelo\. ¡Garganta pa' que te quiero, si no pa' cantarle al pueblo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,591 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,585 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUCW9VX8yNjX.md) - [plain]
 | 89 | [Prenda del Alma](https://open.spotify.com/track/70r0u0KuBKSkn3ahnNVbcw) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Muriendo de Amor](https://open.spotify.com/album/5Jf4pcpIxqZLzcSkXbr6q3) | 3:43 |
 | 90 | [Tú Solo Tú](https://open.spotify.com/track/6rPMLKgRvCFKc5o1nYCtvu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Le Canta a los Grandes Compositores de México](https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM) | 3:17 |
 | 91 | [Tienes Que Entender \- Live](https://open.spotify.com/track/5AB3Q224aReRDYLIYVJss1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras \- Deluxe](https://open.spotify.com/album/6Fi4hf29Zw8AaGTWc0IBhD) | 3:37 |
-| 92 | [Puras Mentiras](https://open.spotify.com/track/529nofAnYNOdE4EYazFT3x) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 2:55 |
-| 93 | [Al Mayor de Los Fernández \(with Alejandro Fernández & Vicente Fernández Hijo\)](https://open.spotify.com/track/0P1JUSl6Avzm2MESR86FAd) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Vicente Fernández Jr.](https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH) | [Se me hizo tarde la Vida](https://open.spotify.com/album/5izem5EQRzF5MUeGV6ECtQ) | 3:56 |
+| 92 | [Al Mayor de Los Fernández \(with Alejandro Fernández & Vicente Fernández Hijo\)](https://open.spotify.com/track/0P1JUSl6Avzm2MESR86FAd) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Vicente Fernández Jr.](https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH) | [Se me hizo tarde la Vida](https://open.spotify.com/album/5izem5EQRzF5MUeGV6ECtQ) | 3:56 |
+| 93 | [Puras Mentiras](https://open.spotify.com/track/529nofAnYNOdE4EYazFT3x) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 2:55 |
 | 94 | [El Privilegio de Amar](https://open.spotify.com/track/05lhZ4XA7TVvRvgK7MSQKp) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [El Privilegio de Amar](https://open.spotify.com/album/6uAUmc8sBlagwyjSYAM58I) | 3:35 |
 | 95 | [No Lo Beses \- Mariachi](https://open.spotify.com/track/5qMyOiRIQ9wXjiSYbBzm1Y) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Lo Beses \(Mariachi\)](https://open.spotify.com/album/1zhooanNpd9nzQkeICd2Vw) | 3:23 |
 | 96 | [Como Queriendo y No](https://open.spotify.com/track/2wYa8fKaw4oBkBtjdFEvRE) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Sigue la Dinastía](https://open.spotify.com/album/56aw5dJng1qL9HUPeMj0B3) | 3:12 |

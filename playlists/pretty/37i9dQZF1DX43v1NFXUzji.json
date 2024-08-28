@@ -1,6 +1,6 @@
 {
   "description": "Latin music bangers for your gaming session! Milo J on cover",
-  "num_followers": 608128,
+  "num_followers": 608144,
   "original_name": "Latin Gaming",
   "owner": {
     "name": "Spotify",
@@ -1471,22 +1471,26 @@
     {
       "added_at": "2024-08-14 08:22:17",
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+        "name": "7 L\u00e1grimas (Remix)",
+        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "Soge Culebra",
+          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "GARABATTO",
+          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
         }
       ],
-      "duration_ms": 193463,
-      "name": "Tormenta (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
+      "duration_ms": 202894,
+      "name": "7 L\u00e1grimas - Remix",
+      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
     },
     {
       "added_at": "2024-08-14 08:22:17",
@@ -1511,26 +1515,22 @@
     {
       "added_at": "2024-08-14 08:22:17",
       "album": {
-        "name": "7 L\u00e1grimas (Remix)",
-        "url": "https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl"
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
       "artists": [
         {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "GARABATTO",
-          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 202894,
-      "name": "7 L\u00e1grimas - Remix",
-      "url": "https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn"
+      "duration_ms": 193463,
+      "name": "Tormenta (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL"
     },
     {
       "added_at": "2024-08-14 08:22:17",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2024-08-14 08:22:17",
       "album": {
+        "name": "Carretera",
+        "url": "https://open.spotify.com/album/55rjt544eDAkDYSU6keHCa"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Carretera",
+      "url": "https://open.spotify.com/track/542UGSa3CDAitFbjCGmHqg"
+    },
+    {
+      "added_at": "2024-08-14 08:22:17",
+      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 170322,
       "name": "LA \u00daLTIMA",
       "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
-    },
-    {
-      "added_at": "2024-08-14 08:22:17",
-      "album": {
-        "name": "Carretera",
-        "url": "https://open.spotify.com/album/55rjt544eDAkDYSU6keHCa"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Carretera",
-      "url": "https://open.spotify.com/track/542UGSa3CDAitFbjCGmHqg"
     },
     {
       "added_at": "2024-08-14 08:22:17",
@@ -1863,6 +1863,30 @@
     {
       "added_at": "2024-08-14 08:22:17",
       "album": {
+        "name": "LACONE",
+        "url": "https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 260952,
+      "name": "LACONE",
+      "url": "https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J"
+    },
+    {
+      "added_at": "2024-08-14 08:22:17",
+      "album": {
         "name": "Push",
         "url": "https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8"
       },
@@ -1891,30 +1915,6 @@
       "duration_ms": 185244,
       "name": "Push",
       "url": "https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe"
-    },
-    {
-      "added_at": "2024-08-14 08:22:17",
-      "album": {
-        "name": "LACONE",
-        "url": "https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 260952,
-      "name": "LACONE",
-      "url": "https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J"
     },
     {
       "added_at": "2024-08-14 08:22:17",
@@ -2063,26 +2063,6 @@
     {
       "added_at": "2024-08-14 08:22:17",
       "album": {
-        "name": "Kemba Walker",
-        "url": "https://open.spotify.com/album/0vHmXJNuSKs3Tbgt811AMe"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 152960,
-      "name": "Kemba Walker",
-      "url": "https://open.spotify.com/track/38kLHBjtWJaPXcyFhwRVtI"
-    },
-    {
-      "added_at": "2024-08-14 08:22:17",
-      "album": {
         "name": "Whiskey y Coco",
         "url": "https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP"
       },
@@ -2099,6 +2079,26 @@
       "duration_ms": 186477,
       "name": "Whiskey y Coco",
       "url": "https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK"
+    },
+    {
+      "added_at": "2024-08-14 08:22:17",
+      "album": {
+        "name": "Kemba Walker",
+        "url": "https://open.spotify.com/album/0vHmXJNuSKs3Tbgt811AMe"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 152960,
+      "name": "Kemba Walker",
+      "url": "https://open.spotify.com/track/38kLHBjtWJaPXcyFhwRVtI"
     },
     {
       "added_at": "2024-08-14 08:22:17",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2024-08-14 08:22:17",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
-    },
-    {
-      "added_at": "2024-08-14 08:22:17",
-      "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
       },
@@ -2303,6 +2287,22 @@
       "duration_ms": 176590,
       "name": "VAMPIROS",
       "url": "https://open.spotify.com/track/3Eax1yebRxj6LSYpxE9Yd3"
+    },
+    {
+      "added_at": "2024-08-14 08:22:17",
+      "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
     },
     {
       "added_at": "2024-08-14 08:22:17",
@@ -2559,6 +2559,26 @@
     {
       "added_at": "2024-08-14 08:22:17",
       "album": {
+        "name": "Mi Nena Remix",
+        "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Mi Nena Remix",
+      "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
+    },
+    {
+      "added_at": "2024-08-14 08:22:17",
+      "album": {
         "name": "Bandido (Remix)",
         "url": "https://open.spotify.com/album/2rPtgNYHmXlZpKds0vIE56"
       },
@@ -2583,22 +2603,18 @@
     {
       "added_at": "2024-08-14 08:22:17",
       "album": {
-        "name": "Mi Nena Remix",
-        "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M"
       },
       "artists": [
         {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Mi Nena Remix",
-      "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
+      "duration_ms": 145970,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p"
     },
     {
       "added_at": "2024-08-14 08:22:17",
@@ -2615,22 +2631,6 @@
       "duration_ms": 120000,
       "name": "VITALICIO",
       "url": "https://open.spotify.com/track/3XDms8gGxWCMmwpSDzwGPy"
-    },
-    {
-      "added_at": "2024-08-14 08:22:17",
-      "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 145970,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p"
     },
     {
       "added_at": "2024-08-14 08:22:17",
@@ -2923,42 +2923,6 @@
     {
       "added_at": "2024-08-14 08:22:17",
       "album": {
-        "name": "Trapicheo: EL DON",
-        "url": "https://open.spotify.com/album/5IgfITgolOnYBRJevWS2GO"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        }
-      ],
-      "duration_ms": 200548,
-      "name": "FUERA DE LA ORBITA",
-      "url": "https://open.spotify.com/track/4FFq4Rgv2fmKdgh0ur92qJ"
-    },
-    {
-      "added_at": "2024-08-14 08:22:17",
-      "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "VOODOO",
-      "url": "https://open.spotify.com/track/2SRiJNA3yILEMOPbETtL6M"
-    },
-    {
-      "added_at": "2024-08-14 08:22:17",
-      "album": {
         "name": "Cloniao",
         "url": "https://open.spotify.com/album/3LJewxppDnhU0Iqm6EERR6"
       },
@@ -2979,6 +2943,42 @@
       "duration_ms": 193837,
       "name": "Cloniao",
       "url": "https://open.spotify.com/track/4SThCZl3NDMjRiuS57P6EN"
+    },
+    {
+      "added_at": "2024-08-14 08:22:17",
+      "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 166560,
+      "name": "VOODOO",
+      "url": "https://open.spotify.com/track/2SRiJNA3yILEMOPbETtL6M"
+    },
+    {
+      "added_at": "2024-08-14 08:22:17",
+      "album": {
+        "name": "Trapicheo: EL DON",
+        "url": "https://open.spotify.com/album/5IgfITgolOnYBRJevWS2GO"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "duration_ms": 200548,
+      "name": "FUERA DE LA ORBITA",
+      "url": "https://open.spotify.com/track/4FFq4Rgv2fmKdgh0ur92qJ"
     },
     {
       "added_at": "2024-08-14 08:22:17",

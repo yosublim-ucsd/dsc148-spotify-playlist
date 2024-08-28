@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom of pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,692 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,690 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 16 | [The Hype](https://open.spotify.com/track/7KC8vYxJYGVugTqZRhrC5y) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [The Hype](https://open.spotify.com/album/7wl14HB2GYgR6ptsVuLq8z) | 3:34 |
 | 17 | [Pretty Boy](https://open.spotify.com/track/557jdZsn0FAltJXgenminf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Pretty Boy](https://open.spotify.com/album/4gEi05Cy4bNjoa3Dme7tH5) | 3:51 |
 | 18 | [Everytime We Touch](https://open.spotify.com/track/69tyRQYLN4gy9sR2xr4FQA) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Everytime We Touch](https://open.spotify.com/album/5mPA3SoZTILtVck7uCX4wy) | 2:21 |
-| 19 | [Happy Tears](https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Happy Tears](https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf) | 2:56 |
-| 20 | [Hungover \(Head In A Can\)](https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Hungover \(Head In A Can\)](https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB) | 3:44 |
+| 19 | [Hungover \(Head In A Can\)](https://open.spotify.com/track/6cOisxrHjB34qn81ZOfwhQ) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Hungover \(Head In A Can\)](https://open.spotify.com/album/5QwgmdXMl8OHc4S7CwzWRB) | 3:44 |
+| 20 | [Happy Tears](https://open.spotify.com/track/3Th68P4JXLLk4931WwMXOC) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Happy Tears](https://open.spotify.com/album/2sYco8v6FzZk4EHjZ0xWTf) | 2:56 |
 | 21 | [Saturn](https://open.spotify.com/track/6u0uG9YwC68HNdQbdYX6mb) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Saturn](https://open.spotify.com/album/19tE6Ya7rfg5fNSuNYnAuP) | 3:25 |
 | 22 | [Fight Like A Girl](https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fight Like A Girl](https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e) | 3:32 |
 | 23 | [Where Did You Go](https://open.spotify.com/track/1tPzSRXNZbPKQbVh3yv7rs) | [Kiana](https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g) | [Where Did You Go](https://open.spotify.com/album/2KYxGcstPy9m2aE19Y3lzD) | 2:51 |
@@ -71,21 +71,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 61 | [Sweet Night](https://open.spotify.com/track/7tyrBwLtspTksCyt8SDaXe) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Sweet Night](https://open.spotify.com/album/6QLBGQ4KS63WbtUbeNive8) | 3:58 |
 | 62 | [Lemonade](https://open.spotify.com/track/6mXCbiHcFrosLRz2Lnypsx) | [Kiana](https://open.spotify.com/artist/1USLNG14rIBh2Sj662P22g) | [Lemonade](https://open.spotify.com/album/6IP8zOjAoDYlWN8DeynRWL) | 3:03 |
 | 63 | [Bloody Mind](https://open.spotify.com/track/2nJFBUSQgTeLekXCkBzmDn) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Bloody Mind](https://open.spotify.com/album/3Oo7uuwStA88miudT3MInp) | 4:19 |
-| 64 | [Effort](https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Effort](https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl) | 2:31 |
-| 65 | [SMOKE](https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SMOKE](https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6) | 3:24 |
+| 64 | [maserati](https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [maserati](https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5) | 1:32 |
+| 65 | [Psycho](https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU) | [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Psycho](https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp) | 2:42 |
 | 66 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 |
-| 67 | [maserati](https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [maserati](https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5) | 1:32 |
-| 68 | [Psycho](https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU) | [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Psycho](https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp) | 2:42 |
+| 67 | [Effort](https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Effort](https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl) | 2:31 |
+| 68 | [SMOKE](https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SMOKE](https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6) | 3:24 |
 | 69 | [Roses N Guns](https://open.spotify.com/track/3AKrDsF5ndU05s455qAs5Y) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Roses N Guns](https://open.spotify.com/album/62ECLLY1SK5EGvZ90GeIGx) | 4:41 |
 | 70 | [I Do](https://open.spotify.com/track/6nuMBxZE3hpqJWejq96n4p) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [I Do](https://open.spotify.com/album/3TZWso2mrFcd6TiNnVT1Y1) | 4:07 |
-| 71 | [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 |
-| 72 | [Attack of the Ghost Riders](https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Attack of the Ghost Riders](https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY) | 2:44 |
-| 73 | [WEIGHTLESS](https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [WEIGHTLESS](https://open.spotify.com/album/1MnKLg1XKMlUyApNXUNds9) | 2:53 |
+| 71 | [Attack of the Ghost Riders](https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [The Raveonettes](https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8) | [Attack of the Ghost Riders](https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY) | 2:44 |
+| 72 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 |
+| 73 | [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 |
 | 74 | [Fall In Love](https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Fall In Love](https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET) | 2:23 |
-| 75 | [Coming Home](https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [Coming Home](https://open.spotify.com/album/57YwnLtf7BosgnrpqycowZ) | 3:28 |
-| 76 | [Down, down, down](https://open.spotify.com/track/2o7Yym63nfCcOaFv592Ujp) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Down, down, down](https://open.spotify.com/album/6qSvXRmoheeoc9Cfw2qUGr) | 3:30 |
-| 77 | [Let's Get It](https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Let's Get It](https://open.spotify.com/album/4Zt6JAobDaBHR2hxGauHpp) | 1:52 |
-| 78 | [The Greatest Story Never Told](https://open.spotify.com/track/12Xt7wAOrGoYCXLwjnOC3K) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [The Greatest Story Never Told](https://open.spotify.com/album/7jdM7oMdH9dQVklWF8JrFH) | 2:47 |
+| 75 | [Down, down, down](https://open.spotify.com/track/2o7Yym63nfCcOaFv592Ujp) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Down, down, down](https://open.spotify.com/album/6qSvXRmoheeoc9Cfw2qUGr) | 3:30 |
+| 76 | [Let's Get It](https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Let's Get It](https://open.spotify.com/album/4Zt6JAobDaBHR2hxGauHpp) | 1:52 |
+| 77 | [The Greatest Story Never Told](https://open.spotify.com/track/12Xt7wAOrGoYCXLwjnOC3K) | [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [The Greatest Story Never Told](https://open.spotify.com/album/7jdM7oMdH9dQVklWF8JrFH) | 2:47 |
+| 78 | [WEIGHTLESS](https://open.spotify.com/track/6U4BhYoFspk242X3dicNcj) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [WEIGHTLESS](https://open.spotify.com/album/1MnKLg1XKMlUyApNXUNds9) | 2:53 |
 | 79 | [Ego](https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Ego](https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf) | 2:52 |
 | 80 | [Again and Again](https://open.spotify.com/track/0AzidKkUPGyBypvcwuKp0x) | [Ella Tiritiello](https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp) | [Again and Again](https://open.spotify.com/album/47JRk1CbVTPi04WNz7uU9Z) | 2:54 |
 

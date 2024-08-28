@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,282 songs - 2 day 23 hr 49 min
+1,283 songs - 2 day 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,7 +472,7 @@
 | [Hasta Aquí Llegué](https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Hasta Aquí Llegué](https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5) | 3:08 | 2024-07-23 |  |
 | [Hate You](https://open.spotify.com/track/5ONOlTiqymhzwcFjqcIT6E) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:34 | 2023-11-04 | 2023-11-06 |
 | [Hawái](https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [PAPI JUANCHO](https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv) | 3:19 | 2021-03-27\* | 2021-09-17 |
-| [HAY LUPITA](https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR) | 1:45 | 2024-07-17 |  |
+| [HAY LUPITA](https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR) | 1:45 | 2024-07-17 | 2024-08-28 |
 | [Hay Lupita](https://open.spotify.com/track/5LHfb6tTLSBmM9oCnVWoPW) | [Megan Koffe](https://open.spotify.com/artist/0fNivAGcaZiBhOdNgsprar) | [Hay Lupita](https://open.spotify.com/album/7x1AOJoliyxZfhL7n6wdfQ) | 1:48 | 2024-06-24 | 2024-06-26 |
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2021-04-07 | 2021-04-18 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-02-10 | 2022-02-13 |
@@ -982,8 +982,8 @@
 | [RoCKSTAR 2.0](https://open.spotify.com/track/3XsYMEJutxpTiNXXRvodQH) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 2:53 | 2023-06-24 | 2023-07-02 |
 | [RoCKSTAR 2.0](https://open.spotify.com/track/4xUtTQuVT6UBF76SPsgOsr) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [RoCKSTAR 2.0](https://open.spotify.com/album/0iBp9wWy4m2MqwOQlponWD) | 2:53 | 2023-06-23 | 2023-06-25 |
 | [Rolls\-Royce](https://open.spotify.com/track/0MvBwodAYMxyL4VHqFI1QM) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Rolls\-Royce](https://open.spotify.com/album/4oqhWvUVK4EunS0ALx8svu) | 3:25 | 2023-06-10 | 2023-06-20 |
-| [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 | 2024-05-31 |  |
-| [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 | 2024-04-05 | 2024-08-27 |
+| [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 | 2024-05-31 | 2024-08-28 |
+| [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 | 2024-04-05 |  |
 | [RUIDOS](https://open.spotify.com/track/3DjqqfYx2k2iyyiGITXNy0) | [Izon](https://open.spotify.com/artist/5EKfj6iIfvLeRbI4zLTU9q) | [RUIDOS](https://open.spotify.com/album/2PMrvYtOzVTcDDNVTiJPn3) | 2:34 | 2023-11-23 | 2023-11-25 |
 | [RUMBATÓN](https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 4:08 | 2022-03-26 | 2022-04-03 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-06-20 |
@@ -1093,6 +1093,7 @@
 | [Talismán](https://open.spotify.com/track/2ELUxG0k6Gr6dr5IF1StWY) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Qué Prefieres?](https://open.spotify.com/album/5EswK2NXREOYyhrPk8lXb1) | 2:48 | 2022-09-24 | 2022-09-26 |
 | [Tanta Droga](https://open.spotify.com/track/39wiPEmqQ4J3vS16j6X9Ki) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 4:08 | 2024-01-20 | 2024-01-26 |
 | [Tarot](https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:57 | 2022-05-07 | 2023-02-15 |
+| [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-08-27 |  |
 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4G3PTss3mU33Tau7t4KbwE) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:42 | 2021-03-27\* | 2021-04-17 |
 | [Te Acuerdas](https://open.spotify.com/track/1ETPrordns62g0uNKJmTre) | [Armez](https://open.spotify.com/artist/5SETXxt4h3XsZONZRoodOz) | [Te Acuerdas](https://open.spotify.com/album/2PGYv66qvNvkj9bHwJPzfg) | 3:14 | 2023-10-12 | 2023-10-25 |
 | [Te Acuerdas](https://open.spotify.com/track/2gzOFnP4J0AytvaPd86Rhm) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Te Acuerdas](https://open.spotify.com/album/7fFVkxqYbtA4xO4BSFs8vt) | 3:47 | 2021-03-27\* | 2021-03-31 |

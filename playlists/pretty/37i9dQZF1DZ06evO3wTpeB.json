@@ -1,12 +1,12 @@
 {
   "description": "This Is Ali Aka Mind. Los temas esenciales, todos en una lista.",
-  "num_followers": 4147,
+  "num_followers": 4146,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAB33c+UcJB2LsleIl54UkZI",
+  "snapshot_id": "ZsvFgAAAAAAEpJNevBHyrZYyCtm0VLfh",
   "tracks": [
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manjit",
-        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 169194,
-      "name": "Recreo",
-      "url": "https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Emancipaci\u00f3n",
         "url": "https://open.spotify.com/album/3IggidKSJedptBQMM88Tz5"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 170527,
       "name": "Otra Pa' Mi Cuenta",
       "url": "https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manjit",
+        "url": "https://open.spotify.com/album/5kWtTiaGy7fsc8SRzP5Grr"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 169194,
+      "name": "Recreo",
+      "url": "https://open.spotify.com/track/0vzTHnDY9h03jTosxJbE8V"
     },
     {
       "added_at": null,
@@ -956,13 +956,17 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+          "name": "Gambeta",
+          "url": "https://open.spotify.com/artist/0NondYskkFto74mrICHYR4"
+        },
+        {
+          "name": "Piel Roja",
+          "url": "https://open.spotify.com/artist/5kq2StjCFhee4kp48In3Mq"
         }
       ],
-      "duration_ms": 183809,
-      "name": "Hijos de los D\u00edas",
-      "url": "https://open.spotify.com/track/0v5vPs9sPH5v3XSzEj8sjD"
+      "duration_ms": 224071,
+      "name": "Colombianos World Wide",
+      "url": "https://open.spotify.com/track/1XsUDsrPz0IQnAykCjMrSJ"
     },
     {
       "added_at": null,
@@ -1056,17 +1060,13 @@
           "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         },
         {
-          "name": "Gambeta",
-          "url": "https://open.spotify.com/artist/0NondYskkFto74mrICHYR4"
-        },
-        {
-          "name": "Piel Roja",
-          "url": "https://open.spotify.com/artist/5kq2StjCFhee4kp48In3Mq"
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
         }
       ],
-      "duration_ms": 224071,
-      "name": "Colombianos World Wide",
-      "url": "https://open.spotify.com/track/1XsUDsrPz0IQnAykCjMrSJ"
+      "duration_ms": 183809,
+      "name": "Hijos de los D\u00edas",
+      "url": "https://open.spotify.com/track/0v5vPs9sPH5v3XSzEj8sjD"
     },
     {
       "added_at": null,

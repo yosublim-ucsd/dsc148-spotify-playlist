@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 943,068 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 943,060 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 12 | [Propaganda \- Ao Vivo](https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(Ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:21 |
 | 13 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
 | 14 | [Cobaia](https://open.spotify.com/track/1xyVMQx51Kab6eLVtE6twx) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Lauana Prado](https://open.spotify.com/album/1CqADkcK8HJY1ss4i3cJqU) | 3:39 |
-| 15 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
-| 16 | [Na Conta Da Loucura \- Ao Vivo](https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:45 |
+| 15 | [Na Conta Da Loucura \- Ao Vivo](https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:45 |
+| 16 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
 | 17 | [Amigo Taxista](https://open.spotify.com/track/6LEFk0KHRfahO5pOMJlbdV) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Um Novo Sonho \- Deluxe](https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy) | 3:17 |
 | 18 | [MORENA](https://open.spotify.com/track/4PQdrXMDHDPl1RczrrlADd) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [MORENA](https://open.spotify.com/album/4nGg3WC1UXnrDdlF1E2urv) | 3:13 |
 | 19 | [Paredes \- Ao Vivo](https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:04 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 43 | [Deixa a Gente Quieto \- Ao Vivo](https://open.spotify.com/track/4PNi30UilK0CZi2z9wegMQ) | [João Bosco & Vinicius](https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Céu de São Paulo \(Ao Vivo\)](https://open.spotify.com/album/1BMtH8B8G43xHue4aOaabp) | 2:56 |
 | 44 | [Pulei na Piscina \- Ao Vivo](https://open.spotify.com/track/1uA7fD01YlQr1Rm0oyNB4H) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Pulei na Piscina \(Ao Vivo\)](https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8) | 3:01 |
 | 45 | [Lembranças de Amor \- Ao Vivo](https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8) | [Victor & Leo](https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr) | [Victor & Leo Ao Vivo Em Uberlândia](https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC) | 3:31 |
-| 46 | [Moça do Espelho \- Acústico](https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Zé Neto & Cristiano \- Acústico](https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN) | 2:32 |
-| 47 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
+| 46 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
+| 47 | [Moça do Espelho \- Acústico](https://open.spotify.com/track/2nMLXtXdcp2BkwPoZzse3C) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Zé Neto & Cristiano \- Acústico](https://open.spotify.com/album/6uthdLP8MEYrgIVCcyAANN) | 2:32 |
 | 48 | [Tô Com Moral No Céu! \- Ao Vivo](https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Intensamente Hoje!](https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh) | 2:50 |
 | 49 | [Saudade Nível Hard](https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Saudade Nível Hard](https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye) | 3:01 |
 | 50 | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/track/3056x1XkmICnQmji68rrft) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Desejando Eu \(Ao Vivo\)](https://open.spotify.com/album/0aE84qddWXI20A2XliO6CP) | 2:40 |

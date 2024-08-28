@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAABBBY3g/a+iaXuOUeo7F0P2",
+  "snapshot_id": "ZsvFgAAAAADqQIvcZZ3joK6bJ0ICYf/h",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Griselda (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
+        "name": "Monsieur Spade (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 66540,
-      "name": "LA MADRINA",
-      "url": "https://open.spotify.com/track/0urS2dyuVbSh4f4yv0uFrc"
+      "duration_ms": 138226,
+      "name": "Clues",
+      "url": "https://open.spotify.com/track/3H3l6kMGyCKZu2Aq89yO6o"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monsieur Spade (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 138226,
-      "name": "Clues",
-      "url": "https://open.spotify.com/track/3H3l6kMGyCKZu2Aq89yO6o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Griselda (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
       },
@@ -388,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 161454,
-      "name": "PANESSO",
-      "url": "https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX"
+      "duration_ms": 66540,
+      "name": "LA MADRINA",
+      "url": "https://open.spotify.com/track/0urS2dyuVbSh4f4yv0uFrc"
     },
     {
       "added_at": null,
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 317262,
-      "name": "MEDELL\u00cdN",
-      "url": "https://open.spotify.com/track/7fD4tAH2amFOsxoQO4q3Kf"
+      "duration_ms": 161454,
+      "name": "PANESSO",
+      "url": "https://open.spotify.com/track/4VpDRt7W4kA4voalShZnaX"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

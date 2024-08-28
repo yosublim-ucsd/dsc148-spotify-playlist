@@ -1,12 +1,12 @@
 {
   "description": "This Is Carlos Y Jose. Los temas esenciales, todos en una lista.",
-  "num_followers": 32900,
+  "num_followers": 32907,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAAAi0RKSZtiGoB9lteVXlQ5n",
+  "snapshot_id": "ZsvFgAAAAACmT7XQeeaqWn3YuEulpWKo",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 206184,
-      "name": "Paloma Piquito de Oro",
-      "url": "https://open.spotify.com/track/27Y6fG0wY2H2sxggDp1Mgq"
+      "duration_ms": 171626,
+      "name": "La Yerbabuena",
+      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 171626,
-      "name": "La Yerbabuena",
-      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
+      "duration_ms": 206184,
+      "name": "Paloma Piquito de Oro",
+      "url": "https://open.spotify.com/track/27Y6fG0wY2H2sxggDp1Mgq"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 \u00c9xitos De (Vol. 2)",
+        "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 194293,
+      "name": "La Cosecha",
+      "url": "https://open.spotify.com/track/1E1jCVbLh580fnsy6f9qO2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tesoros Musicales",
         "url": "https://open.spotify.com/album/4IxKA1cMz3SCYZiWlFrOZz"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 163786,
       "name": "El Pasito Vaquero",
       "url": "https://open.spotify.com/track/0laXs1RoWZ5GgnQ1fok7Hs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 \u00c9xitos De (Vol. 2)",
-        "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 194293,
-      "name": "La Cosecha",
-      "url": "https://open.spotify.com/track/1E1jCVbLh580fnsy6f9qO2"
     },
     {
       "added_at": null,

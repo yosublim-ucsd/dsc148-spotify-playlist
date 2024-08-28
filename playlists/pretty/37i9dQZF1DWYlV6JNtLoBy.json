@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 5768,
+  "num_followers": 5769,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-01-19 00:01:00",
       "album": {
-        "name": "A Thousand Times",
-        "url": "https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        }
-      ],
-      "duration_ms": 219879,
-      "name": "A Thousand Times",
-      "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
         "name": "Jesus Music",
         "url": "https://open.spotify.com/album/5KC7lsKPZZs9d85B7kEGba"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 212093,
       "name": "Made For Heaven",
       "url": "https://open.spotify.com/track/3Wwcd5hYKCLpocRJfZVdbQ"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "A Thousand Times",
+        "url": "https://open.spotify.com/album/6lYqMjNaEjClreJ71eWDHr"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 219879,
+      "name": "A Thousand Times",
+      "url": "https://open.spotify.com/track/7EcOG0mQeO0gzyKkHByONE"
     },
     {
       "added_at": "2024-01-19 00:01:00",

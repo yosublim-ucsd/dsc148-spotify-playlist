@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 208733,
+  "num_followers": 208769,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 302576,
-      "name": "Mal Ejemplo",
-      "url": "https://open.spotify.com/track/5ACoDyUWazcetrFnCL4aXZ"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "100% Mayo",
         "url": "https://open.spotify.com/album/6uB76hLNZkRHJ7YSkHmRKV"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 214655,
       "name": "100% Mayo",
       "url": "https://open.spotify.com/track/66xebj3Jw2Y6qzuvxnE6QD"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 302576,
+      "name": "Mal Ejemplo",
+      "url": "https://open.spotify.com/track/5ACoDyUWazcetrFnCL4aXZ"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "El LP",
-        "url": "https://open.spotify.com/album/03znBeyglN3fms5BClz1mv"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 219002,
-      "name": "El LP",
-      "url": "https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ"
-    },
-    {
-      "added_at": "2024-07-19 06:00:00",
-      "album": {
         "name": "Barrio (with Lefty Sm)",
         "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 144414,
       "name": "Barrio (with Lefty Sm)",
       "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
+    },
+    {
+      "added_at": "2024-07-19 06:00:00",
+      "album": {
+        "name": "El LP",
+        "url": "https://open.spotify.com/album/03znBeyglN3fms5BClz1mv"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 219002,
+      "name": "El LP",
+      "url": "https://open.spotify.com/track/6gCfghaTVO97n6OxkFvGhQ"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -2067,18 +2067,22 @@
     {
       "added_at": "2024-07-19 06:00:00",
       "album": {
-        "name": "El de Villa Union",
-        "url": "https://open.spotify.com/album/59SneEeDWmX2aIhjgzTHvf"
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
       },
       "artists": [
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 159338,
-      "name": "El de Villa Union",
-      "url": "https://open.spotify.com/track/79vGxsaA35ZVEZmO9vYfCn"
+      "duration_ms": 202754,
+      "name": "NOS TORCIERON",
+      "url": "https://open.spotify.com/track/6zfSZmIlUIYTQQaygXQ3Dm"
     }
   ],
   "unique_name": "Gaming Belic\u00f3n",

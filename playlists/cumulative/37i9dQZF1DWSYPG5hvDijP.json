@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-08-28",
       "duration_ms": 171754,
       "name": "Chaka Dolia",
       "url": "https://open.spotify.com/track/4Wteb3sGV0kOdOhWnl6Bch"
@@ -2174,6 +2174,24 @@
       "duration_ms": 208615,
       "name": "Diamond Cuban",
       "url": "https://open.spotify.com/track/23DBeqyrFvncQFf9jiuklR"
+    },
+    {
+      "album": {
+        "name": "Dil Ki Baat",
+        "url": "https://open.spotify.com/album/38cbU2QyvQH46BFqvetgWt"
+      },
+      "artists": [
+        {
+          "name": "MC INSANE",
+          "url": "https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq"
+        }
+      ],
+      "date_added": "2024-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195197,
+      "name": "Dil Ki Baat",
+      "url": "https://open.spotify.com/track/0iHqwLyfGiCWBi9518VVgm"
     },
     {
       "album": {

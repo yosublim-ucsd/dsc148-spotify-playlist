@@ -1,12 +1,12 @@
 {
-  "description": "This is Megan Thee Stallion. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 282296,
+  "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
+  "num_followers": 282370,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsp0AAAAAACJiX3mQHKj1pF9U/1rZJNY",
+  "snapshot_id": "ZsvFgAAAAACBbop9wgnAbs2w+QoFeg/+",
   "tracks": [
     {
       "added_at": null,
@@ -234,11 +234,15 @@
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
         }
       ],
-      "duration_ms": 154732,
-      "name": "BOA",
-      "url": "https://open.spotify.com/track/0FPCqTZoiZpEs324IJFFpQ"
+      "duration_ms": 206461,
+      "name": "B.A.S. (feat. Kyle Richh)",
+      "url": "https://open.spotify.com/track/3pR7ZToCrzeNkfEf6n2rVR"
     },
     {
       "added_at": null,
@@ -298,15 +302,11 @@
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Kyle Richh",
-          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
         }
       ],
-      "duration_ms": 206461,
-      "name": "B.A.S. (feat. Kyle Richh)",
-      "url": "https://open.spotify.com/track/3pR7ZToCrzeNkfEf6n2rVR"
+      "duration_ms": 154732,
+      "name": "BOA",
+      "url": "https://open.spotify.com/track/0FPCqTZoiZpEs324IJFFpQ"
     },
     {
       "added_at": null,

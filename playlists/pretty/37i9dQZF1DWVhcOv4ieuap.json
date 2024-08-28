@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1025241,
+  "num_followers": 1025248,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Touching The Sky",
-        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 187517,
-      "name": "Touching The Sky",
-      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "GARC\u00cdA",
         "url": "https://open.spotify.com/album/1nwWnsVZSWIpMebokmGwdo"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 162721,
       "name": "Garc\u00eda",
       "url": "https://open.spotify.com/track/03Rj7wKcBWBT444nqDRVHa"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Touching The Sky",
+        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 187517,
+      "name": "Touching The Sky",
+      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "Las Mujeres Ya No Lloran",
         "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 172503,
       "name": "Cohete",
       "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Fr\u00eda",
-        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Yotuel",
-          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
-        }
-      ],
-      "duration_ms": 176606,
-      "name": "Fr\u00eda",
-      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Formentera",
         "url": "https://open.spotify.com/album/1xWOSgEAm6gO2A6zdlrPqH"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 207333,
       "name": "Formentera",
       "url": "https://open.spotify.com/track/3nfICwo20uiFdEGzgNUSrG"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Fr\u00eda",
+        "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        }
+      ],
+      "duration_ms": 176606,
+      "name": "Fr\u00eda",
+      "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Mejor Que Ayer",
         "url": "https://open.spotify.com/album/4Ed4DOX5GgpRHxLYPltqAf"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 186666,
       "name": "Mejor Que Ayer",
       "url": "https://open.spotify.com/track/3fvOt4vIE0JMO8GtMlrKip"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "LOVEO",
-        "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 173868,
-      "name": "LOVEO",
-      "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Pink Aura",
         "url": "https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 193355,
       "name": "F* OFF",
       "url": "https://open.spotify.com/track/4c46OwwVzZ2TpWCfvxCrUC"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "LOVEO",
+        "url": "https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 173868,
+      "name": "LOVEO",
+      "url": "https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "AGUA",
-        "url": "https://open.spotify.com/album/2daYTVco0NxVypNAiVnlbt"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL & Paco Amoroso",
-          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 140957,
-      "name": "AGUA",
-      "url": "https://open.spotify.com/track/04eJJNfLPEC8bvTnJeyxGO"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
         "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 187920,
       "name": "CARBON VRMOR",
       "url": "https://open.spotify.com/track/5pQed9UAd4DqG6cWUQegGm"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/2daYTVco0NxVypNAiVnlbt"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL & Paco Amoroso",
+          "url": "https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 140957,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/04eJJNfLPEC8bvTnJeyxGO"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "El Viaje",
-        "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 170320,
-      "name": "Medell\u00edn",
-      "url": "https://open.spotify.com/track/7zUUMR5cHF4WIPl7jXORlV"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "Diosa",
         "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
       },
@@ -1823,22 +1807,34 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Gran D\u00eda",
-        "url": "https://open.spotify.com/album/7zDXEU4nyXHA193wcfXjfZ"
+        "name": "El Viaje",
+        "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         }
       ],
-      "duration_ms": 193840,
-      "name": "Gran D\u00eda",
-      "url": "https://open.spotify.com/track/31zvQazbahCmdyPanbUWse"
+      "duration_ms": 170320,
+      "name": "Medell\u00edn",
+      "url": "https://open.spotify.com/track/7zUUMR5cHF4WIPl7jXORlV"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
+        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "RANGOS",
+      "url": "https://open.spotify.com/track/0Zvjkpcw5XJQtdnqFatffM"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

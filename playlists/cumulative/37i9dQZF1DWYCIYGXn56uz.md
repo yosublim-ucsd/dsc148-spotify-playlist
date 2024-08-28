@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Ludwig
 
-486 songs - 22 hr 30 min
+487 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [GIORNATA DI MERDA](https://open.spotify.com/track/3ZSIiyETN5pxzicLQLROvd) | [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u), [Giuze](https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B) | [GIORNATA DI MERDA](https://open.spotify.com/album/1EOmLJZ06IsRymHUr03qfv) | 2:32 | 2023-05-04 | 2023-05-16 |
 | [Giorni sbagliati \(Lividi\)](https://open.spotify.com/track/4ROdpHWguTl6K0gsBj5340) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giorni sbagliati \(Lividi\)](https://open.spotify.com/album/4b1fwv3O2lpC7fJcudIRDV) | 2:44 | 2023-06-15 | 2023-07-07 |
 | [Giovane e triste](https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giovane e triste](https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1) | 3:06 | 2023-03-23 | 2023-06-16 |
-| [Giugno](https://open.spotify.com/track/0DZynk5siVmgLCPVDMytf0) | [Hal Quartièr](https://open.spotify.com/artist/5eSrt3y7HWtkmuAFGeMbBj) | [Giugno](https://open.spotify.com/album/4k0QU4YrOmHl1kfBqfD3wH) | 2:53 | 2024-07-04 |  |
+| [Giugno](https://open.spotify.com/track/0DZynk5siVmgLCPVDMytf0) | [Hal Quartièr](https://open.spotify.com/artist/5eSrt3y7HWtkmuAFGeMbBj) | [Giugno](https://open.spotify.com/album/4k0QU4YrOmHl1kfBqfD3wH) | 2:53 | 2024-07-04 | 2024-08-28 |
 | [giusti nei momenti sbagliati](https://open.spotify.com/track/5JRfYMzHxPVikYYOWEBKUn) | [venerdì](https://open.spotify.com/artist/0v9674wp1zmIxhlfpjBXfo) | [giusti nei momenti sbagliati](https://open.spotify.com/album/6JFpUqpSF1TP2xDJfovFXq) | 1:59 | 2024-02-22 | 2024-03-15 |
 | [GLI ZOMBIE DELLA NOTTE](https://open.spotify.com/track/0zwovJ1ZxCaIkAGil34QiD) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [GLI ZOMBIE DELLA NOTTE](https://open.spotify.com/album/2dGMqjy8gH7i4jRDSm3izs) | 3:08 | 2024-06-20 |  |
 | [Gocce di Limone](https://open.spotify.com/track/65CCHElK6emN1k1o2KpEwM) | [Alex Wyse](https://open.spotify.com/artist/4ZRTfGCmMJ305FMDCiD1cZ) | [Gocce di Limone](https://open.spotify.com/album/24gE8Qn8jzKvjvKoymmt99) | 2:37 | 2024-06-20 | 2024-08-23 |
@@ -205,6 +205,7 @@
 | [IL MIO MIGLIOR NEMICO](https://open.spotify.com/track/727b2Tqk054VaqdizPo2in) | [Benji](https://open.spotify.com/artist/1TUO8DpCpHhmB4gYdLqLOF) | [IL MIO MIGLIOR NEMICO](https://open.spotify.com/album/0BEUay4OiO1kmxSfhqREQQ) | 2:32 | 2023-10-26 | 2023-11-10 |
 | [il mio miglior nemico](https://open.spotify.com/track/65oHYt1kcURRA9sSGwB5mt) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [il mio miglior nemico](https://open.spotify.com/album/6NdAEcBSIq2p6QMGisSCCZ) | 2:28 | 2024-05-16 | 2024-06-28 |
 | [il problema ero io](https://open.spotify.com/track/1IW2xjoKjXIRsWHAY6y2S8) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [il problema ero io](https://open.spotify.com/album/0ACp7I86LSwsRr4NCOMp16) | 2:30 | 2024-02-29 | 2024-03-15 |
+| [Il Tempo Cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il Tempo Cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 | 2024-08-27 |  |
 | [IL TUO NOME](https://open.spotify.com/track/06EPMnqTKs55qGoprXYAxz) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE) | [IL TUO NOME](https://open.spotify.com/album/3v32S5CU0rvzERYQYJppyD) | 2:54 | 2024-03-07 | 2024-04-19 |
 | [INCOLMABILE](https://open.spotify.com/track/76Sybu8V1i5sp7Ew4pp4l8) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [INCOLMABILE](https://open.spotify.com/album/2SywZjY7wHMeGZRQmGC6VG) | 3:10 | 2023-11-30 | 2023-12-16 |
 | [Innamorato](https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:36 | 2023-04-13 | 2024-07-12 |
